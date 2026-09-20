@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_368",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    648.3,
+    45.8,
+    709.3,
+    60.8
+   ],
+   "ocr": "Klenk et al."
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    392.8,
+    300.0,
+    580.0,
+    315.3
+   ],
+   "ocr": "micrograph of B. tusciae strain T2T"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    109.1,
+    300.4,
+    389.4,
+    345.9
+   ],
+   "ocr": "Figure 2. Scanning electron Table 2. Genome sequencing project information"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    120.3,
+    346.9,
+    649.0,
+    600.8
+   ],
+   "ocr": "MIGS ID Property Term\nMIGS-31 Finishing quality Finished\nTwo genomic libraries: Sanger 8 kb pMCL200 and\nMIGS-28 Libraries used\n454 standard library\nMIGS-29 Sequencing platforms ABI3730, 454 GS FLX\nMIGS-31.2 Sequencing coverage 5.5 × Sanger; 25.2 × pyrosequence\nMIGS-30 Assemblers Newbler version 2.0.0-PreRelease-07/15/2008, phrap\nMIGS-32 Gene calling method Prodigal 1.4, GenePRIMP\nGenbank ID CP002017\nGenbank Date of Release April 5, 2010\nGOLD ID Gc01268\nNCBI project ID 31345\nDatabase: IMG-GEBA 646564511\nMIGS-13 Source material identifier DSM 2912\nProject relevance Tree of Life, GEBA",
+   "table_id": "PMC3236038_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    63.6,
+    624.5,
+    363.9,
+    954.6
+   ],
+   "ocr": "Genome sequencing and assembly The genome was sequenced using a combination of Sanger and 454 sequencing platforms. All gen- eral aspects of library construction and sequenc- ing can be found at the JGI website [38]. Pyrose- quencing reads were assembled using the Newb- ler assembler (Roche). Large Newbler contigs were broken into 3,650 overlapping fragments of 1,000 bp and entered into assembly as pseudo- reads. The sequences were assigned quality scores based on Newbler consensus q-scores with mod- ifications to account for overlap redundancy and adjust inflated q-scores. A hybrid 454/Sanger as- sembly was made using the phrap assembler [39]. Possible mis-assemblies were corrected with Dup- finisher and gaps between contigs were closed by editing in Consed, by custom primer walks from sub-clones or PCR products [40]. A total of 549 Sanger finishing reads were needed to close gaps, http://standardsingenomics.org"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    409.1,
+    642.7,
+    709.3,
+    954.6
+   ],
+   "ocr": "to resolve repetitive regions, and to raise the qual- ity of the finished sequence. The error rate of the completed genome sequence is less than 1 in 100,000. Together, the combination of the Sanger and 454 sequencing platforms provided 30.7 × coverage of the genome. The final assembly con- tains 18,870 Sanger reads and 413,112 pyrose- quencing reads. Genome annotation Genes were identified using Prodigal [41] as part of the Oak Ridge National Laboratory genome an- notation pipeline, followed by a round of manual curation using the JGI GenePRIMP pipeline [42]. The predicted CDSs were translated and used to search the National Center for Biotechnology In- formation (NCBI) non-redundant database, Uni- 125"
+  }
+ }
+}

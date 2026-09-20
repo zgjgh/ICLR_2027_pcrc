@@ -1,0 +1,95 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_070",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    81,
+    580,
+    124
+   ],
+   "ocr": "The management of acute conditions often necessitates the evaluation of therapeutic interventions to establish their efficacy. One such intervention, sodium bicarbonate therapy, has been extensively studied in the context of various acute metabolic derangements."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    112,
+    580,
+    170
+   ],
+   "ocr": "As highlighted in the accompanying table, there are specific acute conditions in which sodium bicarbonate therapy does not yield improved clinical outcomes, particularly in the management of diabetic ketoacidosis (DKA). The data delineates various approaches to treatment, including the analysis of time-dependent metrics and the statistical significance of outcomes represented by β (SE) and P values."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    210.0,
+    580.0,
+    333.0
+   ],
+   "ocr": "Acute conditions in which sodium bicarbonate therapy does not improve outcomes\nDiabetic ketoacidosis\nLactic acidosis\nSeptic shock\nCardiac arrest\nIntraoperative metabolic acidosis",
+   "table_id": "img_077747_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    355,
+    580,
+    383
+   ],
+   "ocr": "For instance, in the crude approach to DKA management, a β coefficient of 0.131 (0.030) with a P value of <0.001 suggests a strong correlation between the intervention and its ineffectiveness in improving patient outcomes."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    371,
+    580,
+    398
+   ],
+   "ocr": "Additionally, the identification of duplicate records underscores the importance of data integrity in clinical research."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    434.0,
+    580.0,
+    540.0
+   ],
+   "ocr": "Approach Time (s) Duplicate records found\nPLAIN 4.1 727\nAPPROX 92 819\nDENIAL 3.2 727\nAPPROX + DENIAL 32 819",
+   "table_id": "img_077747_t1"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    560.0,
+    580.0,
+    590.0
+   ],
+   "ocr": "Collectively, these findings emphasize the necessity for clinicians to critically evaluate the appropriateness of sodium bicarbonate therapy in treating specific acute conditions, thereby enhancing patient care practices."
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    624.0,
+    580.0,
+    747.0
+   ],
+   "ocr": "MiRNA-146a levels* HO-1 concentrations (ng/ml)* HOMA-beta*\nβ (SE) P β (SE) P\nCrude 0.131 (0.030) <0.001 -0.153 (0.062) 0.015\nAdjusted, model 1† 0.135 (0.029) <0.001 -0.152 (0.059) 0.011\nAdjusted, model 2† 0.123 (0.029) <0.001 -0.149 (0.060) 0.014\nAdjusted, model 3† 0.119 (0.029) <0.001 -0.137 (0.059) 0.023",
+   "table_id": "img_077747_t2"
+  }
+ }
+}

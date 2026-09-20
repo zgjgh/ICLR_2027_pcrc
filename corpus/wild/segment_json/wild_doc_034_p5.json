@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_034",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The analysis of the tables reveals significant data across varied parameters. In Table 1, under the header \"Artifact Reduction Method,\" the \"Reader Assignment of Seizure-Onset Laterality\" and the \"Percentage of reader assignments in concordance with SOZ laterality defined by other clinical criteria\" are detailed, with values for AR1 showing Right at 59.3 (28.5-84.2) (n=1), Unknown at 66.8 (38.1-86.9) (n=3), and Left at 91.9 (77.0-97.5) (n=4); AR2 presents Right at 61.8 (31.3-85.1) (n=1), Unknown at 71.4 (42.8-89.3) (n=3), and Left at 95.9 (85.7-98.9) (n=4)."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    186
+   ],
+   "ocr": "In Table 2, the \"Stores\" category showcases estimates and p-values across two models: Model 1 (with summer peak) and Model 2 (with ARIMA-specified seasonality), where the Baseline level is 3105.1 (192.6) with a p-value of <0.0001 for both models; the Policy shows −353.60 (413.00) with a p-value of 0.39 in Model 1 and −663.10 (439.50) with a p-value of 0.13 in Model 2; the Summer peak estimate is 533.70 (205.50) with a p-value of 0.01 in Model 1, while Model 2 has no estimate provided."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    204.0,
+    580.0,
+    360.0
+   ],
+   "ocr": "ArtifactReductionMethod Reader Assignmentof Seizure-OnsetLaterality Percentage of reader assignmentsin concordance with SOZlaterality defined by other clinicalcriteria.\nAR1 Right 59.3 (28.5-84.2) (n=1)\nUnknown 66.8 (38.1-86.9) (n=3)\nLeft 91.9 (77.0-97.5) (n=4)\nAR2 Right 61.8 (31.3-85.1) (n=1)\nUnknown 71.4 (42.8-89.3) (n=3)\nLeft 95.9 (85.7-98.9) (n=4)",
+   "table_id": "img_037975_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    375.0,
+    580.0,
+    502.0
+   ],
+   "ocr": "Stores Model 1 (with summer peak) Model 2 (with ARIMA-specified seasonality)\nEstimate (SE) p-value Estimate (SE) p-value\nAll stores\nBaseline level 3105.1 (192.6) <0.0001 3105.1 (192.6) <0.0001\nPolicy −353.60 (413.00) 0.39 −663.10 (439.50) 0.13\nSummer peak 533.70 (205.50) 0.01",
+   "table_id": "img_037975_t1"
+  }
+ }
+}

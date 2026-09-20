@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_477",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    251.8,
+    53.4
+   ],
+   "ocr": "Tormey et al. BMC Genomics (2015) 16:754"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 14"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.1,
+    926.2
+   ],
+   "ocr": "by 100-400my, this temporal separation means that we have to use more conservative portions of the genes in- volved in order to obtain a clear signal of protein diver- gence. Nonetheless, if conservative segments are randomly distributed among clock genes, average divergence of TTFL or PTM genes provides a composite estimate of those two functional components of the W. smithii circadian clock. Fourth, we assume that TTFL and PTM genes identified in Drosophila serve analogous functions in the other insect taxa we consider. The number and function of circadian clock genes is better documented in Drosophila, which has set the historical landmarks for comparison with other in- sects and mammals [12, 14, 21, 22, 61–63] When looked for, the TTFL genes that are rhythmically expressed in Drosophila are also found to be rhythmically expressed in Danaus [18] and Nasonia [16] as well as mosquitoes [58– 60, 64, 65] (including tim in W. smithii [66]). Functionally, RNAi targeted against Cry2 [16–19], tim [64, 67–69], per [70–72], Clk [73, 74], cyc [75, 76] all disrupted circadian rhythmicity in non-Drosophila insects ranging from other Diptera to apterygote Thysanura. At least Cry2 and TTFL orthologs of tim, per, Clk, and cyc in Drosophila are in- volved in circadian clock function across a variety of insects. Methods Collection, maintenance, and experimental treatment of Wyeomyia smithii Wyeomyia smithii were collected in spring, 2010, as overwintering larvae from Maine (46 °N, 68 °W, 270 m elevation; population KC of earlier studies from this lab). Populations were maintained at the University of Ore- gon under standard rearing conditions and run through two generations to minimize maternal and field effects [53]. In the F2 laboratory generation, larvae were reared on short days (L:D = 8:16) at 23 °C to induce larval dia- pause in the third instar. After the initiation of diapause, a group of larvae continued on short days while another group was directly transferred to long days (L:D = 18:6) in order to initiate development, both at 23 °C. RNA isolation and cDNA library construction, transcriptome sequencing and assembly RNA was extracted from 12 samples of 30 individuals each. The 12 samples represented diapausing larvae on short days (L:D = 8:16), diapausing larvae exposed to 10 diapause-terminating long days (L:D = 18:6), pupae on long days and adults on long days. Each stage of devel- opment was sampled at three times of day (Table 1). All samples were prepared in 500uL TRIzol (Ambion Life Technologies, 5791 Van Allen Way, Carlsbad, California 92008) according to manufacturer’s protocol. RNA was resuspended in 20uL DEPC-treated water and stored at"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    111.4,
+    670.7,
+    138.3
+   ],
+   "ocr": "Table 1 Equimolar sources of cDNA to generate the W. smithii transcriptome"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    141.7,
+    678.6,
+    365.1
+   ],
+   "ocr": "Sample Stage Daylengtha Hours after lights-on\n1 larvae Short 5\n2 larvae Short 13\n3 larvae Short 21\n4 larvae Long 5\n5 larvae Long 13\n6 larvae Long 21\n7 pupae Long 5\n8 pupae Long 13\n9 pupae Long 21\n10 adult Long 5\n11 adult Long 13\n12 adult Long 21",
+   "table_id": "PMC4594641_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    370.1,
+    678.7,
+    926.2
+   ],
+   "ocr": "aShort: L:D = 8:16; long: L:D = 18:6 -70 °C until shipment on dry ice to the Center for Gen- omics and Bioinformatics at Indiana University. The overall quality of RNA samples was evaluated in terms of purity and integrity of RNA by means of a NanoDrop ND-1000 UV–VIS spectrometer (Thermo Fisher Scientific, 81 Wyman St, Waltham, MA 02451), Bioanalyzer (Agilent Technologies, 5301 Stevens Creek Blvd., Santa Clara, CA 95051) and agarose gel electro- phoresis. RNA sample quality was verified regarding high RNA concentration, absorbance ratios A260/A280 in the range 2.0 - 2.2, and A260/A230 above 1.8. Samples with lower absorbance ratio were ethanol-precipitated in order to improve the quality. Equivalent amounts of RNA mass per test condition were pooled together, with a total of 10 μg RNA from all samples of W. smithii. Normalized 454-sequencing libraries were constructed from an equal- molar pool of RNA obtained from the unique exposure samples described above using the procedures optimized for Roche/454 Titanium sequencing modified from Meyer et al. [77]. After the final purification step, the library was stored at −20 °C until sequencing. This library was se- quenced using one full-plate sequencing run in a 454 Roche GS FLX pyrosequencing instrument with Titanium chemistry (454 Life Sciences Corporation, 15 Commercial St., Branford, CT 06405), following manufacturer’s proto- col and methods previously described [78]. After 454 se- quencing, the generated sequence reads were cleaned using ESTclean [79] and assembled using Newbler v.2.5.3 (454 Life Sciences Corporation, 15 Commercial St., Branford, CT 06405) in de novo mode and default parameters. Transcriptome annotation Transcriptome annotation was performed through the ISGA transcriptome analysis pipeline [80]. First, sequence"
+  }
+ }
+}

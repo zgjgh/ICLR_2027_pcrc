@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_017",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    306.9,
+    65.8
+   ],
+   "ocr": "Nguyen et al. Algorithms for Molecular Biology 2012, 7:3 http://www.almob.org/content/7/1/3"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 13"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    327.4,
+    137.7
+   ],
+   "ocr": "Table 3 Missing branch rates for 500-taxon model conditions"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    111.0,
+    631.9,
+    137.7
+   ],
+   "ocr": "Table 5 False positive rates for 500-taxon model conditions"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    366.1,
+    361.5
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) 22.1 18.8 14.7 11.1 16.4\n(1.0) (0.6) (0.7) (0.4) (0.5)\nMRP(TNT) 29.4 18.4 14.1 11.2 17.7\n(1.7) (0.9) (0.6) (0.4) (0.8)\nMRL(RAxML) 15.9 14.0 12.9 11.2 13.4\n(0.6) (0.5) (0.5) (0.4) (0.3)\nSCM 22.3 21.6 20.6 18.6 20.7\n(0.6) (0.5) (0.6) (0.6) (0.3)\nSuperFine+MRP 15.2 14.0 12.5 11.1 13.1\n(PAUP*) (0.5) (0.4) (0.4) (0.4) (0.3)\nSuperFine+MRP 15.0 13.9 12.4 11.2 13.0\n(TNT) (0.6) (0.4) (0.4) (0.4) (0.3)\nSuperFine+MRL 15.4 14.2 13.1 11.3 13.4\n(RAxML) (0.5) (0.4) (0.4) (0.4) (0.3)",
+   "table_id": "PMC3308190_table_2"
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    142.7,
+    678.6,
+    350.2
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) 22.1 18.8 14.7 11.1 16.4\n(1.0) (0.6) (0.7) (0.4) (0.5)\nMRP(TNT) 29.4 18.4 14.1 11.2 17.7\n(1.7) (0.9) (0.6) (0.4) (0.8)\nMRL(RAxML) 15.9 14.0 12.9 11.2 13.4\n(0.6) (0.5) (0.5) (0.4) (0.3)\nSCM 6.3(0.5) 5.9(0.4) 4.7(0.3) 4.0(0.3) 5.2(0.2)\nSuperFine+MRP 13.9 12.6 11.5 11.1 12.2\n(PAUP*) (0.5) (0.4) (0.4) (0.4) (0.2)\nSuperFine+MRP(TNT) 13.8 12.5 11.4 11.2 12.1\n(0.6) (0.4) (0.4) (0.4) (0.2)\nSuperFine+MRL 14.2 12.8 12.1 11.3 12.5\n(RAxML) (0.5) (0.4) (0.4) (0.4) (0.2)",
+   "table_id": "PMC3308190_table_4"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    357.2,
+    678.7,
+    920.7
+   ],
+   "ocr": "We present the average false positive rates (reported as %) on the 500-taxon datasets. False positive rate is calculated as total number of FP edges in the estimated tree divided by the total number of internal edges in the internal tree. Each simulated dataset has 15 clade-based source trees and 1 scaffold tree. The scaffold density is the percentage of the full taxon set that is present in the scaffold tree. The standard error is shown in parenthesis. n = 24 for the 20% scaffold density, and n = 30 for the remaining scaffold densities. n = 114 for the average. The lowest false positive rate for each scaffold density is shown in bold. Finally, we discuss the SCM tree. We note that the missing branch rates (Tables 2 and 3) were quite high, and that the false positive rates (Tables 4 and 5) were quite low (although not equal to zero). The high false negative rate means that the SCM tree is not a good point estimate of the true tree, an observation also established in [24]. On the other hand, its low false posi- tive rate means that most of its edges are likely to be true of the true tree, and makes it a good constraint tree (which is how it is used within SuperFine). Which methods give good MRL and MRP scores? With respect to MRL scores, not surprisingly, MRL (RAxML) gave the best MRL scores (Tables 6 and 7). The next best methods were SuperFine+MRP(TNT) and SuperFine+MRP(PAUP*). MRP(PAUP*) typically gave the least accurate MRL scores. With respect to MRP scores (Tables 8 and 9), we find that SuperFine+MRP(TNT) and SuperFine+MRP (PAUP*) had nearly identical performance and the best scores of all methods for scaffold densities of 20% and 50%. For denser scaffolds, MRP(TNT), SuperFine+MRP (TNT), and SuperFine+MRP(PAUP*) had the best scores. At 100% scaffold density, MRP(PAUP*) also pro- duced the best scores. Thus, although MRP(PAUP*) and MRP(TNT) directly try to optimize MRP scores, Super- Fine+MRP(PAUP*) and SuperFine+MRP(TNT) gave better MRP scores, and hence were more effective heur- istics for MRP, especially for sparse scaffolds. These results together suggest that the best MRP heuristics are SuperFine+MRP(PAUP*) and SuperFine"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    368.6,
+    366.2,
+    607.5
+   ],
+   "ocr": "We present average missing branch rates (reported as %) on the 500-taxon datasets. Missing branch rate is calculated as total number of FN edges in the model tree divided by the total number of internal edges in the model tree. Each simulated dataset has 15 clade-based source trees and 1 scaffold tree. The scaffold density is the percentage of the full taxon set that is present in the scaffold tree. The standard error is shown in parenthesis. n = 24 for the 20% scaffold density, and n = 30 for the remaining scaffold densities. n = 114 for the average. The lowest missing branch rate for each scaffold density is shown in bold. positive and missing branch rates were nearly identical for the MRP and MRL trees, indicating that these trees were fully resolved. By contrast, the SuperFine trees were not always fully resolved, and hence had lower false positive rates than their missing branch rates. Table 4 False positive rates for 1000-taxon model conditions"
+  },
+  "p2_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    612.4,
+    366.1,
+    819.9
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) 20.7 17.7 16.1 11.7 16.2\n(1.1) (0.8) (0.8) (0.9) (0.7)\nMRP(TNT) 27.9 19.1 14.9 11.7 17.6\n(1.6) (1.3) (1.1) (0.8) (1.1)\nMRL(RAxML) 15.7 14.1 13.8 11.9 13.7\n(0.7) (0.6) (1.0) (0.8) (0.5)\nSCM 5.9(0.5) 5.4(0.4) 4.9(0.6) 4.4(0.6) 5.1(0.3)\nSuperFine+MRP 14.4 13.2 12.7 11.6 12.8\n(PAUP*) (0.6) (0.6) (0.8) (0.8) (0.4)\nSuperFine+MRP(TNT) 14.4 13.0 12.6 11.8 12.8\n(0.7) (0.6) (0.8) (0.8) (0.4)\nSuperFine+MRL 14.8 13.5 12.9 11.9 13.1\n(RAxML) (0.7) (0.5) (0.8) (0.8) (0.4)",
+   "table_id": "PMC3308190_table_3"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    827.0,
+    363.3,
+    922.2
+   ],
+   "ocr": "We show average false positive rates (reported as %) on the 1000-taxon datasets. False positive rate is calculated as total number of FP edges in the estimated tree divided by the total number of internal edges in the internal tree. Each simulated dataset has 25 clade-based source trees and 1 scaffold tree. The scaffold density is the percentage of the full taxon set that is present in the scaffold tree. The standard error is shown in parenthesis. n = 7 for the 20% scaffold density, n = 9 for the 50% scaffold density, and n = 10 for the remaining scaffold densities. n = 36 for the average. The lowest false positive rate for each scaffold density is shown in bold."
+  }
+ }
+}

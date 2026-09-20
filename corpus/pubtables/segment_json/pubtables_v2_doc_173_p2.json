@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_173",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    447.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Novel and Stress Relevant EST Derived SSR Markers in Peanut"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.5,
+    723.9,
+    165.9
+   ],
+   "ocr": "Data analysis The size range of the amplified fragments for each microsatellite was estimated by using 50 bp DNA ladder (Fermentas, USA). Number of alleles and polymorphism information content (PIC) value for each polymorphic EST-SSR markers were determined using PowerMarker ver-"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    567.8,
+    160.8,
+    645.2,
+    207.9
+   ],
+   "ocr": "P P i:P"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    169.1,
+    726.7,
+    185.4
+   ],
+   "ocr": "sion 3.25 [56] The PIC was calculated as formula PIC Pi j>i2Pi 2Pj 2; where"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    527.4,
+    170.2,
+    609.8,
+    192.1
+   ],
+   "ocr": "¼ � �"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    170.5,
+    727.4,
+    696.3
+   ],
+   "ocr": "1 Pi and Pj are the frequencies of the ith and jth alleles, respectively [57]. Results and Discussion Sequence data assembly by TGICL program Redundancy of SSR markers developed from different research groups along with the use of non-uniform marker names have resulted in duplicate genotyping of peanut germplasm and inefficient use of resources for peanut genomics [58]. Thus, development of non-redundant novel set of markers which excludes publically available SSR markers could assist in enhancing such efforts towards generation of genomic resources. In this context, an attempt has been made to develop non-redundant markers from ESTs database available from the public data- bases. Analysis of all publicly available Arachis hypogaea ESTs (178490 numbers) indicated a huge variation in length of sequences which ranged from 37 to 2038 bp with an average of 571 bp. Non-redundant sequence assembly. In order to find novel non-redundant EST-SSR markers, all the publically available SSR primer sequences [20,21,24,26,27,29,34,35,37,58–60] were subjected to sequence similarity search with available EST sequences and 23,696 (13.28%) very similar sequences were excluded from further analysis. This step contributed to the identi- fication of novel SSR markers not yet reported in the peanut. Prior to EST assembling, remain- ing sequences were subjected to pre-processing viz., removal of vector contamination, low- complexity sequences of less than 100 bp and poly A/T sequences. Pre-processing reduced the overall noise in EST data and thus improved the efficacy of subsequent analysis [61]. The sequences downloaded from NCBI displayed huge variation in its length with an aver- age length of 571 bp, which indicated considerable amount of long transcripts. Assembling the ESTs constitutes an important step to provide non-redundant and high-quality sequences for the development of SSRs [61]. The long as well as high quality transcripts, totaling 138628 were assembled using TGICL software (Table 2). The TGICL software is quite efficient in han- dling long reads or transcripts [50] and there have been several reports of using TGICL for Table 2. Summary and statistics of Arachis hypogaea ESTs assembled by TGICL program at stringen- cy of 50 bp similarity and 95% identity."
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    705.0,
+    726.7,
+    877.9
+   ],
+   "ocr": "Features Values\nEST sequences available at NCBI 178490\nESTs removed based of primer sequence similarity 23696 (13.28%)\nHigh quality ESTs utilized for assembly 138628 (77.67%)\nTotal number of unigenes 16424\nAverage length of unigene sequences (bases) 857\nNumber of contigs 13429 (81.76%)\nAverage number of ESTs in contigs 10.3\nN50 contigs length (bases) 942\nNumbers of singletons 2995 (18.24%)\nRedundancy removed after assembly 82.21%",
+   "table_id": "PMC4457858_table_1"
+  },
+  "p2_b7": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129127.t002"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129127 June 5, 2015 5 / 19"
+  }
+ }
+}

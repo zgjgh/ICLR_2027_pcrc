@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_092",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    108,
+    580,
+    166
+   ],
+   "ocr": "In evaluating the risk-weighted asset allocation for Deutsche Bank, it is imperative to consider the categories of risk that underpin the institution's financial stability and regulatory compliance. The table presented provides a comprehensive breakdown of various risk types, including MarketRisk, OperationalRisk, and MediumRisk, highlighting their respective impacts on overall capital allocation."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    154,
+    580,
+    228
+   ],
+   "ocr": "For instance, the LiquidityCoverage's OperationalRisk was assessed as Sustainable, indicating a robust approach to managing liquidity under operational stress scenarios. Additionally, the VeryHighRisk segment demonstrates a significant exposure, with a corresponding CAD300M allocation reflecting a 150% risk weighting. This allocation underscores the bank's strategic positioning in high-risk environments while maintaining a balanced approach towards its capital structure."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    273.0,
+    580.0,
+    624.0
+   ],
+   "ocr": "RiskCategory AssetClass RiskWeight TotalAmount\nCreditRisk CorporateLoans 100% CAD500M HighRisk\nMarketRisk Equities 150% CAD300M MediumRisk OperationalRisk\nTotalLoans CAD800M 100% HighRisk InvestmentRisk RealEstate\n200% CAD200M HighRisk Derivatives 400% CAD100M\nVeryHighRisk TotalInvestments CAD300M 150% MediumRisk CashandEquivalents\n0% CAD50M LowRisk TotalAssets CAD1.15B 100%\nTotalLiabilities CAD1B 90% MediumRisk TotalEquity CAD150M\n10% LowRisk TotalCapital CAD200M 15% MediumRisk\nRegulatoryCapital CAD180M 12% MediumRisk Risk-WeightedAssets CAD1B\nTotalCapitalRatio 18% Strong LeverageRatio 6% Adequate\nLiquidityCoverage 120% Stable NetStableFunding 105% Sustainable",
+   "table_id": "img_102211_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    716
+   ],
+   "ocr": "The TotalLiabilities category reveals a MediumRisk classification under CAD300M, reflecting prudent risk management practices. Furthermore, the LiquidityCoverage's MediumRisk was noted at 105%, emphasizing the bank's proactive stance on maintaining adequate liquidity buffers. The TotalCapitalRatio, particularly under the MarketRisk column, serves as a critical metric for evaluating the bank's capital adequacy against potential market fluctuations."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "Lastly, the RegulatoryCapital under CAD300M is classified as MediumRisk, reinforcing the institution's compliance with regulatory frameworks while strategically managing its capital reserves. Collectively, these metrics provide a nuanced view of Deutsche Bank's risk-weighted asset allocation strategy, showcasing its commitment to sustainable financial practices and regulatory adherence."
+  }
+ }
+}

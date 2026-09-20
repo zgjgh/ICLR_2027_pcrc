@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_429",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    444.7,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Optimization of HPLC Condition Response Surface Methodology"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.5,
+    715.0,
+    182.6
+   ],
+   "ocr": "2.2. Standard solution preparation The stock solutions of adapalene and benzoyl peroxide were prepared by simultaneously dis- solving 4 mg adapalene and 100 mg benzoyl peroxide in 50 ml methanol. The standard solu- tion was prepared by diluting the stock solution with methanol to achieve a final nominal concentration of 40 μg/ml adapalene and 1 mg/ml benzoyl peroxide."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    221.5,
+    726.7,
+    571.9
+   ],
+   "ocr": "2.3. Instrumentation and chromatographic conditions The HPLC system used consisted of a chromatographic pump (L-7100), autosampler (L-2200), and an UV detector (L-4000H) (Hitachi, Japan). The LiChrosorb C18 (250×4.6mm, particle size 5 μm) column and guard column 4–4 packed with LiChrosper 100 RP-18 (Merck, Darm- stadt, Germany) were used. The analytical column and the guard column were operated at am- bient temperature. The injection volume was 20 μL. Detection was performed at 270 nm. The flow rate was set at 1.0 ml/min. To obtain an optimal mobile phase for the analytical method, the statistical optimization tool based on a RSM with a constrained mixture design [22,23] was used. According to the USP 36 [18], the mobile phase contains acetonitrile, tetrahydrofuran, trifluoroacetic acid, and water at ratios of 21: 16: 0.01: 13 for determination of adapalene. USP 34 [21] reported a gradi- ent mobile phase consists of acetonitrile and 0.1% glacial acetic aqueous solution ranged from 82/12 to 60/40 in 30 mins for benzoyl peroxide analysis. Hence, tetrahydrofuran (X1), acetoni- trile (X2) and water containing 0.1% acetic acid (X3) was chosen as the variable factors of mo- bile phase in this study. The levels of X1, X2 and X3 were set from 10–30, 50–70 and 15–25%, respectively. Based on the constrained mixture model provided by Design-Expert software, ten model mobile phase compositions were arranged randomly. Two replicated batches of R02 vs R10 and R03 vs R09 were used to estimate the reproducibility by lack of fit. The compositions of mobile phase are listed in Table 1. The tailing factor (TF), retention time (RT), theoretical plates (TP) and resolution of adapalene and benzyl peroxide (AB/R) were used to evaluate the availability of mobile phases."
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    618.6,
+    386.0,
+    630.5
+   ],
+   "ocr": "Table 1. The composition and analysis parameters of the HPLC method."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    640.7,
+    726.7,
+    835.2
+   ],
+   "ocr": "Code value Adapalene Benzoyl peroxide\nX1 X2 X3 TF RT TP TF RT TP AB/R\nR01 0.4 0.4 0.2 1.35 12.3 8649 1.12 3.6 8630 22\nR02 0.8 0.2 0.0 1.31 5.9 8045 1.16 2.9 7967 13\nR03 0.2 0.8 0.0 1.45 10.1 8002 1.17 3.2 8317 20\nR04 0.0 0.8 0.2 1.49 17.4 8791 1.13 3.9 8886 25\nR05 0.0 0.6 0.4 1.43 25.3 9131 1.12 4.6 9732 28\nR06 0.6 0.0 0.4 1.27 12.9 8671 1.16 3.8 8939 22\nR07 0.2 0.6 0.2 1.41 14.3 8487 1.14 3.7 8719 23\nR08 0.2 0.4 0.4 1.34 20.4 9217 1.13 4.3 9376 27\nR09 0.2 0.8 0.0 1.45 9.9 8006 1.16 3.2 8204 20\nR10 0.8 0.2 0.0 1.31 5.7 7643 1.20 2.8 7816 13",
+   "table_id": "PMC4368549_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    848.0,
+    569.5,
+    897.3
+   ],
+   "ocr": "X1: tetrahydrofuran, X2: acetonitrile, X3: water containing 0.1% acetic acid. TF: tailing factor, RT: retention time, TP: theoretical plates, AB/R: resolution between adapalene and benzoyl peroxide. doi:10.1371/journal.pone.0120171.t001"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120171 March 20, 2015 3 / 9"
+  }
+ }
+}

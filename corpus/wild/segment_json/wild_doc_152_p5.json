@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_152",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    124
+   ],
+   "ocr": "In the analysis of deposit growth by segment and mortgage origination volume, several trends have emerged that shed light on the financial landscape within North America."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    112,
+    580,
+    155
+   ],
+   "ocr": "Notably, corporate deposits have shown significant fluctuations, with Q1's CorporateDeposits recorded at $500M, while Q2 saw a decrease to $150M, reflecting changing market conditions and corporate liquidity preferences."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    196.0,
+    580.0,
+    353.0
+   ],
+   "ocr": "DepositSegment Amount($M) YoYChange(%)\nRetailDeposits PersonalAccounts MarketShare(%) TotalDeposits\nCorporateDeposits $500M 5.2 15.0 30.0\nQ1 $120M 4.5 12.0 25.0\nQ2 $150M 6.0 14.0 28.0\nQ3 $180M 7.5 16.0 27.0\nQ4 $200M 8.0 18.0 26.0",
+   "table_id": "img_171044_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    377,
+    580,
+    419
+   ],
+   "ocr": "The mortgage origination volume also provides critical insights, particularly in relation to the AverageLoanSize, which has stabilized at $250,000 across the quarters surveyed. The approval rates for mortgage applications have remained robust, despite slight variations in ProcessingTime; Q3's ProcessingTime was notably reduced to 28days, compared to Q2's 30days."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    407,
+    580,
+    466
+   ],
+   "ocr": "This efficiency in processing may have contributed to the increase in UnitsOriginated and the overall TotalAmount of mortgage originations, which reached CAD in December 2023. Furthermore, the rejection rate has remained consistent, suggesting that while the market is competitive, lenders are maintaining prudent underwriting standards."
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    511.0,
+    580.0,
+    696.0
+   ],
+   "ocr": "MortgageOriginationData VolumebyType\nTotalOrigination Residential Commercial\nUnitsOriginated TotalAmount AverageLoanSize ApprovalRate ProcessingTime RejectionRate\n1,200 $300M $250,000 85% 30days 15%\n800 $200M $250,000 90% 28days 10%\n400 $100M $250,000 80% 32days 20%\nDec2023 CAD TotalApplications AverageInterestRate MarketShare 1,500",
+   "table_id": "img_171044_t1"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    719.0,
+    580.0,
+    750.0
+   ],
+   "ocr": "Overall, these metrics reflect a dynamic banking environment where both deposit growth and mortgage origination strategies are evolving in response to external economic factors."
+  }
+ }
+}

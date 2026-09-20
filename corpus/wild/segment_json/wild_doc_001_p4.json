@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_001",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "This report presents a comprehensive analysis of the catalytic performance of various amines under specific experimental conditions aimed at optimizing yield and enantiomeric ratio (e.r.)."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "As illustrated in the accompanying table, the entries detail the distinct amines utilized in the synthesis process, emphasizing their respective yields expressed in percentage terms."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    474.0
+   ],
+   "ocr": "Entry Amine Conditions[a] Yield [%][b] e.r.[c]\n1 A I 7 6:94\n2 A II n.r. n.d.\n3 B I 23 28:72\n4 B II 12 28:72\n5 C I 31 24:76\n6 C II 4 27:73\n7 D1 I 62 76:24\n8 D1 II 80 75:25\n9 D1 III 85 78:22\n10 D2 III 32 78:22\n11 D3 III 30 67:33\n12 D4 III 96 64:36\n13 D5 III 69 92:8\n14 D6 III 55 88:12\n15 D7 III 88 93:7\n16 D7 IV 66 95:5\n17 D7 I 80 93:7",
+   "table_id": "img_000654_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    490,
+    580,
+    564
+   ],
+   "ocr": "Notably, the yield is a critical metric for assessing the efficiency of each reaction condition, with higher percentages indicating more favorable outcomes. Additionally, the e.r. column provides insights into the stereochemical outcomes of the reactions, which is essential for applications in asymmetric synthesis where the production of a specific enantiomer is desired. The data further elucidates the correlation between the reaction conditions and the resulting yield and e.r., highlighting the importance of optimizing these parameters to achieve the desired product profile."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    552,
+    580,
+    610
+   ],
+   "ocr": "By systematically evaluating these factors, this analysis aims to contribute to the understanding of amine behavior in catalytic processes, thereby enhancing the development of more efficient synthetic methodologies in the field of organic chemistry. The detailed entries offer a basis for further exploration of the relationships between the chosen amines and their performance under varied conditions."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_432",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    422.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Classification of Different Imaginary Movements within the Same Limb"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    684.5,
+    119.4
+   ],
+   "ocr": "Table 2. BCI studies in stroke rehabilitation, focusing on upper-extremity rehabilitation and EEG was used as a modality to measure brain activities."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    395.9
+   ],
+   "ocr": "Bibliography Feedback BCI Classes\nPrasad et al. [28] BCI + Visual 2-Class: MI Left vs MI Right (Arm/Hand)\nOrtner et al. [29] BCI + Visual 2-Class: MI Left vs MI Right (Hand)\nKaiser et al. [30] BCI + Visual 2-Class: MI/AT (Grasp) vs Rest\nDaly et al. [31] BCI + Visual + FES 2-Class: MI/AT (Finger Extension) vs Relax\nTam et al. [32], Meng et al. [33] BCI + Visual + FES 2-Class: MI (Wrist) vs Rest\nYoung et al. [34] BCI + Visual + FES + TDU 2-Class: AT (Open + Close Hand) vs Rest\nTan et al. [35] BCI + Visual + NMES 2-Class: MI (Hand) vs Rest\nAng et al. [36–38] BCI + Visual + Robot 2-Class: MI (Hand) vs Rest\nAng et al. [39] BCI + Visual + Robot 2-Class: MI (Grasp) vs Rest\nRodriguez et al. [40, 41] BCI + Visual + Robot 2-Class: MI (Elbow Flexion) vs Rest;\n2-Class: MI (Elbow Extension) vs Rest\nBuch et al. [42], Broetz et al. [43] BCI + Visual + Orthosis 2-Class: MI/AT (Grasp) vs Rest (Open)\nShindo et al. [44] BCI + Visual + Orthosis 2-Class: MI (Open Hand) vs Rest\nRamos-Murguialday et al. [45] BCI + Orthosis 2-Class: AT (Reach & Grasp) vs Rest\nFrisoli et al. [46] BCI + Arm Exoskeleton + Kinect + Eye-Tracker 2-Class: MI (Right Arm) vs Rest\nCincotti et al. [47] BCI + Visual / BCI + EMG + FES 2-Class: MI/AT (Grasp/Finger Extension) vs Rest",
+   "table_id": "PMC4382224_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    408.4,
+    656.5,
+    472.9
+   ],
+   "ocr": "MI: Motor Imagery; AT: Attempted Movement; FES: Functional Electrical Stimulation; TDU: Tongue Stimulation; NMES: Neuromuscular Electrical Stimulation. BCI studies in stroke rehabilitation, focusing on upper-extremity rehabilitation and EEG was used as a modality to measure brain activities. doi:10.1371/journal.pone.0121896.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    518.1,
+    727.0,
+    899.3
+   ],
+   "ocr": "Studies have shown that a rehabilitation program that includes mental practice can help im- prove the use and function of the affected arm of a stroke patient [26, 27]. In the following section, the experimental procedures as well as the feature extraction and machine learning algorithms are described. Results are presented in Section 3 and Section 4 is dedicated to discussion and conclusion. Experimental Procedure EEG Recording All of the methods within this study were in compliance with the declaration of Helsinki and were approved by the Simon Fraser University (SFU) Office of Research Ethics (#2012s0527). We recruited twelve able-bodied individuals for this study. Participants gave a written consent before participating in the experiment. Each individual was seated comfortably in front of a computer monitor. The computer provided a simple Graphical User Interface (GUI) that dis- plays commands or cues to the participant. A 32-channel EGI’s Geodesic sensor net was applied on the participant’s head [48]. The lo- cations of all the electrodes are shown in Fig. 1. The labeled electrodes were those we employed for our BCI system. The remaining unlabeled electrodes, on the other hand, were not consid- ered in this study because they were very close to sources that generate muscle activities or arti- facts. All these electrodes were referred to the vertex (Cz position in Fig. 1) of the participant. The EEG signals were amplified and sampled at 1000 Hz using a Geodesic Net Amps 400 series amplifier [49]. Throughout the experiment, the electrode impedance was maintained below 50 kO."
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121896 April 1, 2015 4 / 24"
+  }
+ }
+}

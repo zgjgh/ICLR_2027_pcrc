@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_081",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    83,
+    580,
+    126
+   ],
+   "ocr": "In the context of MetLife's ongoing analysis of actuarial reserve movements, the data presented in the accompanying table provides critical insights into the company's financial health and risk management strategies across various categories of insurance."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    114,
+    580,
+    141
+   ],
+   "ocr": "The evaluation of reserves is essential for ensuring that MetLife maintains adequate financial backing for future claims."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    175.0,
+    580.0,
+    583.0
+   ],
+   "ocr": "ActuarialReserveMovements FY2023 EUR\nCategory OpeningReserve ClosingReserve Change ReserveRatio ClaimsRatio ExpenseRatio FundingRatio\nLifeInsurance 500M 520M 20M 1.04 0.85 0.20 1.10\nHealthInsurance 300M 290M -10M 0.97 0.75 0.15 1.05\nPropertyInsurance 200M 210M 10M 1.05 0.90 0.25 1.15\nLiabilityInsurance 150M 160M 10M 1.07 0.80 0.18 1.08\nTotalInsurance 1150M 1180M 30M 1.03 0.82 0.20 1.12\nInvestmentIncome 40M 38M -2M 0.95 0.70 0.10 1.00\nTotalRevenue 1190M 1218M 28M 1.02 0.80 0.20 1.11\nReinsuranceRecoverables 30M 28M -2M 0.93 0.72 0.12 0.95\nNetReserves 1120M 1150M 30M 1.03 0.80 0.20 1.10\nRegulatoryCapital 500M 510M 10M 1.02 0.78 0.15 1.05",
+   "table_id": "img_089001_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    599,
+    580,
+    672
+   ],
+   "ocr": "Notably, the \"LiabilityInsurance\" category reflects an \"OpeningReserve\" of EUR 150M, which underscores the significant obligations the company must manage. Furthermore, the \"ClaimsRatio\" for this category stands at a substantial 0.80, indicating that a significant portion of the reserves is dedicated to covering claims. This is complemented by insights from the \"TotalRevenue\" category, where the \"ClaimsRatio\" also mirrors this figure at 0.80, reinforcing the correlation between revenue and claims liabilities."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    660,
+    580,
+    764
+   ],
+   "ocr": "Additionally, the \"ReinsuranceRecoverables\" category shows a robust \"ClosingReserve\" of EUR 28M, highlighting the recoverable amounts anticipated from reinsurers, which play a vital role in mitigating risks associated with large claims. Lastly, in terms of operational efficiency, the \"LifeInsurance\" line reflects an \"ExpenseRatio\" of 0.20, which is consistent with the \"NetReserves\" category, also showing an \"ExpenseRatio\" of 0.20. This alignment suggests a strategic focus on maintaining a balanced approach to expense management while ensuring sufficient reserves to meet policyholder obligations. Overall, these metrics collectively illustrate MetLife’s proactive stance in managing its actuarial reserves amidst a dynamic insurance landscape."
+  }
+ }
+}

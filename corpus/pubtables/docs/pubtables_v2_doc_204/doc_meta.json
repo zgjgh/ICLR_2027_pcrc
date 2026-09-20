@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_204",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4920403_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    112.9,
+    619.9,
+    300.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4920403_table_0.png",
+   "html": "<table><tr><td>Isolate1</td><td>Origin</td><td>Year</td><td>Abbreviation</td></tr><tr><td>F. virguliforme Mont-1</td><td>USA, Illinois</td><td>1991</td><td>Fv Mont-1</td></tr><tr><td>F. virguliforme Clinton-1B</td><td>USA, Iowa</td><td>1993</td><td>Fv Clinton-1B</td></tr><tr><td>F. virguliforme LL0009</td><td>USA, Iowa</td><td>2006</td><td>Fv LL0009</td></tr><tr><td>F. virguliforme NRRL 34551</td><td>Argentina, Buenos Aires</td><td>2002</td><td>Fv 34551</td></tr><tr><td>F. cuneirostrum NRRL 31157</td><td>USA, Michigan</td><td>1992</td><td>Fc 31157</td></tr><tr><td>F. phaseoli NRRL 31156</td><td>USA, Michigan</td><td>Unknown</td><td>Fp 31156</td></tr><tr><td>F. brasiliense NRRL 31757</td><td>Brazil, Distrito Federal</td><td>1992</td><td>Fb 31757</td></tr><tr><td>F. tucumaniae NRRL 31096</td><td>Argentina, Tucum&#225;n</td><td>2001</td><td>Ft 31096</td></tr><tr><td>F. tucumaniae NRRL 31781</td><td>Argentina, Tucum&#225;n</td><td>Unknown</td><td>Ft 31781</td></tr><tr><td>F. tucumaniae NRRL 34546</td><td>Argentina, Buenos Aires</td><td>2000</td><td>Ft 34546</td></tr><tr><td>F. azukicola NRRL 54364</td><td>Japan, Hokkaido</td><td>1997</td><td>Fa 54364</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4920403_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    112.9,
+    694.0,
+    296.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4920403_table_1.png",
+   "html": "<table><tr><td>Isolate</td><td>Length of coverage (Mb)</td><td>Number of SNPs</td><td>Mean SNP rate/standard deviation1</td><td>Max SNP rate2</td></tr><tr><td>Fv 34551</td><td>49.9</td><td>3,269</td><td>0.00003/0.00003</td><td>0.00023 (6.7)</td></tr><tr><td>Fv Clinton-1B</td><td>49.6</td><td>6,315</td><td>0.00005/0.00028</td><td>0.00614 (21.8)</td></tr><tr><td>Fv LL0009</td><td>49.2</td><td>5,784</td><td>0.00005/0.00024</td><td>0.00620 (25.6)</td></tr><tr><td>Fc 31157</td><td>39.5</td><td>173,647</td><td>0.00442/0.00122</td><td>0.00803 (3.0)</td></tr><tr><td>Fp 31156</td><td>40.0</td><td>174,859</td><td>0.00441/0.00122</td><td>0.00806 (3.0)</td></tr><tr><td>Fb 31757</td><td>39.3</td><td>170,590</td><td>0.00432/0.00117</td><td>0.00883 (3.9)</td></tr><tr><td>Ft 31096</td><td>39.3</td><td>180,384</td><td>0.00459/0.00127</td><td>0.00934 (3.7)</td></tr><tr><td>Ft 31781</td><td>39.2</td><td>171,672</td><td>0.00439/0.00113</td><td>0.00817 (3.4)</td></tr><tr><td>Ft 34546</td><td>38.9</td><td>155,453</td><td>0.00409/0.00101</td><td>0.00723 (3.1)</td></tr><tr><td>Fa 54364</td><td>37.9</td><td>185,286</td><td>0.00501/0.00118</td><td>0.00943 (3.8)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4920403_table_2",
+   "page_num": 3,
+   "bbox": [
+    66.4,
+    112.9,
+    700.9,
+    458.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4920403_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Sequence2</td><td colspan=\"6\">Number of reads from the isolate that cover the sequence1</td></tr><tr><td>Fv Clinton-1B</td><td>Fv LL0009</td><td>Fv 34551</td><td>Fc 31157</td><td>Fp 31156</td><td>Fb 31757</td></tr><tr><td>A1.Ta</td><td>16</td><td>16</td><td>16</td><td>0</td><td>0</td><td>0</td></tr><tr><td>A1.Tb</td><td>32</td><td>18</td><td>0</td><td>48</td><td>46</td><td>8</td></tr><tr><td>A2.Ta</td><td>88</td><td>149</td><td>147</td><td>0</td><td>0</td><td>9</td></tr><tr><td>A2.Tb</td><td>85</td><td>114</td><td>0</td><td>115</td><td>0</td><td>0</td></tr><tr><td>A3.Ta</td><td>52</td><td>41</td><td>61</td><td>0</td><td>0</td><td>0</td></tr><tr><td>A3.Tb</td><td>78</td><td>52</td><td>0</td><td>152</td><td>0</td><td>0</td></tr><tr><td>A3.Tc</td><td>33</td><td>0</td><td>0</td><td>34</td><td>46</td><td>0</td></tr><tr><td>A4.Ta</td><td>162</td><td>134</td><td>77</td><td>121</td><td>0</td><td>97</td></tr><tr><td>A4.Tb</td><td>54</td><td>0</td><td>0</td><td>127</td><td>242</td><td>0</td></tr><tr><td>A5.Ta</td><td>39</td><td>27</td><td>57</td><td>0</td><td>0</td><td>18</td></tr><tr><td>A5.Tb</td><td>0</td><td>8</td><td>0</td><td>39</td><td>0</td><td>0</td></tr><tr><td>A5.Tc</td><td>85</td><td>0</td><td>0</td><td>69</td><td>65</td><td>0</td></tr><tr><td>A6.Ta</td><td>0</td><td>0</td><td>46</td><td>0</td><td>0</td><td>0</td></tr><tr><td>A6.Tb</td><td>72</td><td>0</td><td>0</td><td>0</td><td>209</td><td>0</td></tr><tr><td>A6.Tc</td><td>116</td><td>121</td><td>35</td><td>554</td><td>244</td><td>74</td></tr><tr><td>A7.Ta</td><td>0</td><td>0</td><td>98</td><td>0</td><td>0</td><td>0</td></tr><tr><td>A7.Tb</td><td>0</td><td>31</td><td>0</td><td>0</td><td>54</td><td>0</td></tr><tr><td>A7.Tc</td><td>35</td><td>0</td><td>0</td><td>42</td><td>50</td><td>39</td></tr><tr><td>A8.Ta</td><td>0</td><td>35</td><td>34</td><td>40</td><td>42</td><td>0</td></tr><tr><td>A8.Tb</td><td>70</td><td>0</td><td>0</td><td>51</td><td>59</td><td>42</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4920403_table_3",
+   "page_num": 4,
+   "bbox": [
+    288.1,
+    112.9,
+    692.0,
+    442.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4920403_table_3.png",
+   "html": "<table><tr><td>Scaffold</td><td>Length (kb)</td><td>Contig with type-2 SNPs or coverage variation (CV)1</td></tr><tr><td>26</td><td>379</td><td>mc26.1 (CV: Fv LL0009, Fv 34551)</td></tr><tr><td>28</td><td>218</td><td>mc28.2 (SNPs: Fv Clinton-1B)</td></tr><tr><td>33</td><td>330</td><td>mc33.8 (CV: Fv Clinton-1B, Fv LL0009)</td></tr><tr><td>41</td><td>207</td><td>mc41.8 (SNPs: Fv LL0009)</td></tr><tr><td>46</td><td>158</td><td>mc46.2 (CV: Fv LL0009, Fv 34551)</td></tr><tr><td>50</td><td>140</td><td>mc50.4 (SNPs: Fv Clinton-1B)</td></tr><tr><td>54</td><td>120</td><td>mc54.3 (CV: Fv Clinton-1B, Fv LL0009)</td></tr><tr><td>58</td><td>96</td><td>mc58.2 (CV: Fv Clinton-1B, Fv LL0009)</td></tr><tr><td>71</td><td>85</td><td>mc71.2 (SNPs: Fv Clinton-1B)</td></tr><tr><td>74</td><td>80</td><td>mc74.1 (SNPs: Fv LL0009)</td></tr><tr><td>79</td><td>73</td><td>mc79.6 (SNPs: Fv LL0009)</td></tr><tr><td>80</td><td>69</td><td>mc80.1 (CV: Fv LL0009, Fv 34551)</td></tr><tr><td>88</td><td>51</td><td>mc88.6 (SNPs: Fp 31156)</td></tr><tr><td>90</td><td>61</td><td>mc90.7 (CV: Fv 34551, Fc 31157)</td></tr><tr><td>91</td><td>44</td><td>mc91.1 (SNPs: Fp 31156)</td></tr><tr><td>98</td><td>45</td><td>mc98.3 (CV: Fv Clinton-1B, Fv LL0009)</td></tr><tr><td>99</td><td>34</td><td>mc99.2 (CV: Fv 34551, Fv Clinton-1B)</td></tr><tr><td>100</td><td>37</td><td>mc100.2 (CV: Fv Clinton-1B, Fv LL0009)</td></tr><tr><td>117</td><td>24</td><td>mc117.2 (CV: Ft 31096, Ft 31781)</td></tr><tr><td>158</td><td>12</td><td>mc158.2 (CV: Fc 31157, Fp 31156)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4920403_table_5",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    114.2,
+    700.9,
+    474.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4920403_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Transposon2</td><td colspan=\"6\">Percent coverage (%) of the transposon by reads from each isolate</td></tr><tr><td>Fv Clinton-1B</td><td>Fv LL0009</td><td>Fv 34551</td><td>Fc 31157</td><td>Fp 31156</td><td>Fb 31757</td></tr><tr><td>R_mc28.3</td><td>0</td><td>5</td><td>100</td><td>20</td><td>20</td><td>19</td></tr><tr><td>M_mc41.12</td><td>88</td><td>0</td><td>100</td><td>95</td><td>97</td><td>0</td></tr><tr><td>H_mc54.4</td><td>15</td><td>100</td><td>100</td><td>100</td><td>13</td><td>0</td></tr><tr><td>H_mc58.2</td><td>0</td><td>100</td><td>100</td><td>54</td><td>0</td><td>0</td></tr><tr><td>T_mc98.3</td><td>0</td><td>100</td><td>100</td><td>4</td><td>4</td><td>0</td></tr><tr><td>N1_cc61.1</td><td>100</td><td>0</td><td>0</td><td>0</td><td>100</td><td>0</td></tr><tr><td>N1_cc116.1</td><td>98</td><td>0</td><td>0</td><td>89</td><td>99</td><td>95</td></tr><tr><td>H_cc168.1</td><td>100</td><td>94</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>M_cc367.1</td><td>100</td><td>69</td><td>80</td><td>87</td><td>0</td><td>0</td></tr><tr><td>F_cc390.1</td><td>100</td><td>98</td><td>63</td><td>57</td><td>75</td><td>58</td></tr><tr><td>M_cc435.1</td><td>100</td><td>0</td><td>0</td><td>100</td><td>100</td><td>0</td></tr><tr><td>T_cc487.1</td><td>100</td><td>60</td><td>8</td><td>100</td><td>100</td><td>0</td></tr><tr><td>N1_cc513.1</td><td>99</td><td>17</td><td>0</td><td>26</td><td>84</td><td>16</td></tr><tr><td>N1_cc541.1</td><td>98</td><td>0</td><td>0</td><td>99</td><td>99</td><td>57</td></tr><tr><td>P_cc749.1</td><td>99</td><td>19</td><td>0</td><td>98</td><td>99</td><td>99</td></tr><tr><td>H_cc781.1</td><td>100</td><td>100</td><td>0</td><td>100</td><td>98</td><td>0</td></tr><tr><td>N2_cc837.1</td><td>99</td><td>69</td><td>2</td><td>0</td><td>0</td><td>0</td></tr><tr><td>M_cc1408.1</td><td>100</td><td>68</td><td>66</td><td>0</td><td>0</td><td>0</td></tr><tr><td>P_cc3473.1</td><td>98</td><td>55</td><td>23</td><td>94</td><td>67</td><td>98</td></tr><tr><td>M_cc4313.1</td><td>100</td><td>100</td><td>0</td><td>100</td><td>100</td><td>98</td></tr><tr><td>M_cc7644.1</td><td>100</td><td>0</td><td>92</td><td>100</td><td>100</td><td>0</td></tr></table>"
+  }
+ ]
+}

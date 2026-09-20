@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_178",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    94.0,
+    580.0,
+    125.0
+   ],
+   "ocr": "Veolia Environnement's Fiscal Year 2024 report outlines critical data on recycling recovery rates and circular economy material flows."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    163.0,
+    580.0,
+    344.0
+   ],
+   "ocr": "MaterialType RecoveryRate(%)\nRecyclingOverview Revenue(USD)\nPlastics 42.5 $25M\nMetals 65.0 $30M\nPaper 55.0 $20M\nGlass 50.0 $15M\nOrganicWaste 35.0 $10M\nE-Waste 60.0 $5M\nTotalRecovery 51.5 $105M",
+   "table_id": "img_202139_t0"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    369,
+    580,
+    427
+   ],
+   "ocr": "The first table reveals that the material types include Plastics with a recovery rate of 42.5% and revenue of $25M, Metals at 65.0% and $30M, Paper at 55.0% and $20M, Glass at 50.0% and $15M, OrganicWaste at 35.0% and $10M, E-Waste at 60.0% and $5M, culminating in a TotalRecovery rate of 51.5% with total revenue of $105M. The second table details RecycledMaterials, reporting an amount of $200M with a Year-over-Year Change of 25%."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    415,
+    580,
+    489
+   ],
+   "ocr": "The RecyclingRate reflects a WasteGenerated figure of $150M, with a LandfillDiversion rate of 30%. For individual materials, Plastics amount to $80M with a performance metric of 15% and a market share of 25%, Metals at $50M with a performance metric of 10% and a market share of 20%, OrganicWaste at $70M with a performance metric of 20% and a market share of 15%, and Electronics at $30M with a performance metric of 5% and a market share of 10%."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    528.0,
+    580.0,
+    697.0
+   ],
+   "ocr": "MaterialType Amount($M) PerformanceMetrics MarketShare(%)\nRecycledMaterials $200M YoYChange(%) 25%\nRecyclingRate WasteGenerated LandfillDiversion $150M 30%\nPlastics $80M 15% 45% 25%\nMetals $50M 10% 50% 20%\nOrganicWaste $70M 20% 40% 15%\nElectronics $30M 5% 35% 10%",
+   "table_id": "img_202139_t1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    719.0,
+    580.0,
+    750.0
+   ],
+   "ocr": "This comprehensive overview highlights the financial and operational metrics essential for assessing the effectiveness of recycling initiatives and materials recovery in the circular economy."
+  }
+ }
+}

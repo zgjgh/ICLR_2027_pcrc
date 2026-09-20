@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_017",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    306.9,
+    65.8
+   ],
+   "ocr": "Nguyen et al. Algorithms for Molecular Biology 2012, 7:3 http://www.almob.org/content/7/1/3"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 7 of 13"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    341.2,
+    124.0
+   ],
+   "ocr": "Table 6 MRL scores for 1000-taxon model conditions"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    678.6,
+    268.6
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) -16632 (1870) -19844 (1988) -21742 (2879) -24325 (2896) -20991 (3684)\nMRP(TNT) -16584 (1861) -19764 (1983) -21645 (2837) -24332 (2896) -20937 (3687)\nMRL(RAxML) -16347 (1868) -19700 (1996) -21594 (2850) -24288 (2898) -20848 (3738)\nSuperFine+MRP(PAUP*) -16368 (1869) -19714 (1995) -21625 (2844) -24329 (2891) -20876 (3742)\nSuperFine+MRP(TNT) -16366 (1870) -19718 (1998) -21630 (2845) -24326 (2892) -20878 (3742)\nSuperFine+MRL(RAxML) -16389 (1872) -19749 (1996) -21648 (2859) -24336 (2894) -20897 (3741)\nTrue Tree -16852 (1929) -20246 (2024) -22147 (2770) -24820 (2783) -21385 (3714)",
+   "table_id": "PMC3308190_table_5"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    275.7,
+    376.9,
+    695.4
+   ],
+   "ocr": "We present the average MRL scores (ML scores under the symmetric two-state given as log likelihood scores) for the 1000-taxon supertrees. Thus, numbers with percentage of the full taxon set that is present in the scaffold tree. The standard The lowest MRL score (in magnitude) for each scaffold density is shown in bold. +MRP(TNT) (followed by MRP(TNT)), while the method that generally produces the best MRL scores is MRL(RAxML), followed closely by SuperFine+MRP (PAUP*) and SuperFine+MRP(TNT). Running Time In many ways, the different variants of SuperFine are extremely close, producing trees of almost identical topological accuracy (among the most accurate across all scaffold densities), and producing good heuristics for MRP and MRL. However, how do they perform in terms of running time? We focus here on the results for the 1000-taxon datasets, shown in Figure 1 and Table 10 (see Table 11 for 500-taxon datasets). All versions of the SuperFine methods were fast, finishing in all the simulated datasets in just a few minutes (on average, about eight (8) minutes on the 1000-taxon datasets). MRP(TNT) was also fast (finishing in under 5 minutes on all these datasets), but the remaining methods were much slower: MRL(RAxML) often took more than 1.5 hours and MRP(PAUP*) took close to an hour on the 1000-taxon datasets. The tradeoffs between the different methods can be seen more clearly on the sparse scaffold conditions. Fig- ure 2 shows that MRL(RAxML) was slow but very"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    370.0,
+    275.7,
+    678.3,
+    306.9
+   ],
+   "ocr": "model with gamma-distributed rates across sites) with respect to the MRP matrix, smaller magnitude represent improvements. The scaffold density is the deviation is shown in parenthesis. All scores are rounded to the nearest integer."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    335.2,
+    678.8,
+    695.4
+   ],
+   "ocr": "accurate, MRP(TNT) was very fast but inaccurate, MRP (PAUP*) fell in between both of these methods, and all SuperFine methods were both accurate and fast. Correlation of MRL, MRP, and Sum-FN with tree error We also consider the question of how well the MRL, MRP, and Sum-FN scores correlate with tree error (as measured by FN rate). In other words, is it helpful to find a supertree that optimizes MRL, MRP, or Sum- FN? Some trends are immediately obvious from the corre- lation analysis (Tables 12 and 13). First, all three scores were statistically correlated with tree error according to Spearman’s rank correlation test and after Bonferroni correction for multiple hypothesis testing (p-values not shown). Second, Sum-FN and MRP scores had roughly the same correlation coefficient across the scaffold den- sities. Focusing on low scaffold densities, MRL had a much larger correlation coefficient than MRP and Sum- FN. In general, MRL and tree error were more strongly correlated at all scaffold densities, except at 100% scaf- fold densities, where all scores correlated strongly with tree error. We also note that all pairwise correlations became stronger as the scaffold density increased."
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    726.3,
+    335.0,
+    739.3
+   ],
+   "ocr": "Table 7 MRL scores for 500-taxon model conditions"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    744.2,
+    678.6,
+    883.9
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) -7815 (2419) -9089 (2377) -10242 (2360) -11425 (2349) -9739 (2709)\nMRP(TNT) -7799 (2417) -9039 (2373) -10218 (2370) -11426 (2349) -9716 (2715)\nMRL(RAxML) -7711 (2444) -9013 (2376) -10198 (2369) -11408 (2347) -9681 (2731)\nSuperFine+MRP(PAUP*) -7721 (2449) -9021 (2380) -10209 (2374) -11424 (2349) -9692 (2736)\nSuperFine+MRP(TNT) -7722 (2449) -9022 (2380) -10209 (2373) -11426 (2351) -9693 (2736)\nSuperFine+MRL(RAxML) -7731 (2449) -9035 (2390) -10221 (2377) -11433 (2351) -9704 (2740)\nTrue Tree -7901 (2454) -9216 (2377) -10390 (2376) -11607 (2346) -9877 (2736)",
+   "table_id": "PMC3308190_table_6"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    891.0,
+    383.1,
+    922.2
+   ],
+   "ocr": "We present the average MRL scores (ML scores with respect to the MRP matrix, smaller magnitude represent improvements. The scaffold density is the percentage deviation is shown in parenthesis. All scores are rounded to the nearest integer."
+  },
+  "p3_b10": {
+   "type": "paragraph",
+   "bbox": [
+    373.3,
+    891.0,
+    676.6,
+    922.2
+   ],
+   "ocr": "given as log likelihoods) for the 500-taxon supertrees. Thus, numbers with of the full taxon set that is present in the scaffold tree. The standard The lowest MRL score (in magnitude) for each scaffold density is shown in bold."
+  }
+ }
+}

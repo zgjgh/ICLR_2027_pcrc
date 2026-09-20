@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_422",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    42.8,
+    279.8,
+    67.0
+   ],
+   "ocr": "Dias et al. BMC Bioinformatics 2012, 13:96 http://www.biomedcentral.com/1471-2105/13/96"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    626.3,
+    43.0,
+    677.6,
+    54.4
+   ],
+   "ocr": "Page 8 of 12"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    109.3,
+    677.7,
+    340.1
+   ],
+   "ocr": "chosen were those available from GenBankb on December 7, 2011, for which complete genomes were also available (with at least 4 contigs for each genome). These genomes are quite diverse phylogenetically, representing seven dif- ferent bacterial groups (where “group” comes from the GenBank table of completed genomes and generally cor- responds to taxonomic phylum or class) and one archaeal group. No other ﬁlter was applied in this selection. The sequencing technologies represented in this table include at least one representative of a genome sequenced with 454, Solexa/Illumina, and/or ABI SOLiD. The genome sequences we used in our tests (draft and complete) are available at the website http://marte.ic.unicamp.br:8747. For each of the query chromosomes we obtained a list of the 20 closest genomes (excluding the query genome"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    111.0,
+    365.3,
+    339.5
+   ],
+   "ocr": "Mauve Aligner uses progressiveMauve [15] for sequence comparison. OSLay can use nucmer and that is what we chose (with default settings). r2cat does sequence com- parison internally. Projector 2 can use BLAT [19] (default) or BLAST [20], and we chose BLAT. CONTIGuator uses BLAST+ [21]. ABACAS can use nucmer or promer. We chose nucmer. (We observed that choosing promer made ABACAS run for more than two days without provid- ing any scaﬀold.) For ﬁllScaﬀolds [6] we have used both nucmer and promer. Input genomes We have tested the programs on real contigs from pre- liminary assemblies of 19 genomes. These genomes have been ﬁnished, so that we know the correct order for"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    336.3,
+    365.3,
+    354.5
+   ],
+   "ocr": "contigs in all cases. The list of genomes used is given"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    336.9,
+    677.6,
+    355.1
+   ],
+   "ocr": "itself), among 1331 complete prokaryotic genomes avail-"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    351.4,
+    365.2,
+    369.6
+   ],
+   "ocr": "in Table 2. In the table, column ‘cov.’ contains the frac-"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    351.9,
+    677.7,
+    370.2
+   ],
+   "ocr": "able at GenBank on May 5, 2011. We used NUCMi [22]"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    366.4,
+    365.2,
+    384.7
+   ],
+   "ocr": "tion of each chromosome covered by the contigs selected."
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    367.0,
+    677.6,
+    385.2
+   ],
+   "ocr": "(a variation of MUMi [23]) to compute the distance"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    381.5,
+    365.3,
+    399.7
+   ],
+   "ocr": "Column ‘tech.’ describes de sequencing technology used,"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    382.0,
+    677.6,
+    400.3
+   ],
+   "ocr": "between each of the 1331 genomes and the query genome."
+  },
+  "p2_b12": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    396.5,
+    365.3,
+    414.8
+   ],
+   "ocr": "when this information was available in the correspond-"
+  },
+  "p2_b13": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    397.1,
+    677.6,
+    415.3
+   ],
+   "ocr": "Our rationale for selecting 20 closest other genomes"
+  },
+  "p2_b14": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    411.6,
+    365.2,
+    429.8
+   ],
+   "ocr": "ing GenBank ﬁle. Four of the genomes in Table 2 have"
+  },
+  "p2_b15": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    412.2,
+    677.7,
+    430.4
+   ],
+   "ocr": "instead of only the closest was as follows. In practice, the"
+  },
+  "p2_b16": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    426.6,
+    365.3,
+    444.9
+   ],
+   "ocr": "two chromosomes; each chromosome was dealt with sep-"
+  },
+  "p2_b17": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    427.2,
+    677.6,
+    445.5
+   ],
+   "ocr": "choice of a reference genome should be guided by phylo-"
+  },
+  "p2_b18": {
+   "type": "caption",
+   "bbox": [
+    70.7,
+    441.7,
+    365.3,
+    497.5
+   ],
+   "ocr": "arately, thus creating a total of 23 test cases. The genomes Table 2 Chromosome Sequences Used in Tests"
+  },
+  "p2_b19": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    442.3,
+    677.6,
+    460.5
+   ],
+   "ocr": "genetic distance. The closest genome to the draft genome"
+  },
+  "p2_b20": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    503.6,
+    677.3,
+    919.9
+   ],
+   "ocr": "Genome Chromosome Size (bp) Contigs cov.(%) tech.\nAciduliprofundum boonei T469 NC 013926 1486778 29 89.36 -\nBacillus subtilis 168 NC 000964 4215606 5 99.98 Solexa\nBiﬁdobacterium longum DJO10A NC 010816 2375792 43 60.02 -\nBrucella melitensis bv 1 16M NC 003317 2117144 41 91.06 454\nBrucella melitensis bv 1 16M NC 003318 1177787 12 99.94 454\nBrucella pinnipedialis B2 94 NC 015857 2138342 55 87.68 454\nBrucella pinnipedialis B2 94 NC 015858 1260926 34 84.58 454\nBurkholderia thailandensis E264 NC 007650 2914771 15 85.33 -\nBurkholderia thailandensis E264 NC 007651 3809201 26 75.90 -\nChlamydia muridarum Nigg NC 002620 1072950 4 99.09 454\nClostridium cellulovorans 743B NC 014393 5262222 293 94.16 454/Illumina\nCorynebacterium aurimucosum ATCC 700975 NC 012590 2790189 88 85.71 SOLiD\nCorynebacterium eﬃciens YS 314 NC 004369 3147090 118 95.90 454\nMicrococcus luteus NCTC 2665 NC 012803 2501097 121 76.66 -\nMycobacterium tuberculosis H37Ra NC 009525 4419977 220 83.75 -\nMycoplasma genitalium G37 NC 000908 580076 24 78.59 454\nSaccharopolyspora erythraea NRRL 2338 NC 009142 8212805 237 96.43 454\nSelenomonas sputigena ATCC 35185 NC 015437 2568361 49 97.16 454\nStigmatella aurantiaca DW4 3 1 NC 014623 10260756 466 97.62 -\nStreptococcus pneumoniae TIGR4 NC 003028 2160842 211 90.98 454\nVibrio Ex25 NC 013456 3259580 176 91.77 -\nVibrio Ex25 NC 013457 1829445 33 95.31 -\nYersinia pestis Nepal516 NC 008149 4534590 17 84.21 SOLiD",
+   "table_id": "PMC3674793_table_1"
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_266",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    359.7,
+    64.4
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2005, 5:37"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/5/37"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    282.2,
+    118.9
+   ],
+   "ocr": "Table 5: Summary of Page Generation Times"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    649.3,
+    260.6
+   ],
+   "ocr": "Index Page Preview Page Search Page\nNumber of Loading Tests 216 65 142\nMean 2.94 ms 0.63 s 3.84 s\nStandard deviation 3.20 ms 0.78 s 6.28 s\nMinimum value 2.38 ms 0.11 s 0.00 s\n25th percentile 2.48 ms 0.30 s 0.52 s\nMedian 2.53 ms 0.41 s 1.12 s\n75th percentile 2.61 ms 0.62 s 3.61 s\nMaximum value 47.85 ms 5.54 s 35.04 s",
+   "table_id": "PMC1318459_table_4"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    276.6,
+    149.8,
+    300.4
+   ],
+   "ocr": "ms – milliseconds s – seconds"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    329.7,
+    372.6,
+    922.4
+   ],
+   "ocr": "Internet Explorer 6.0, Mozilla Firefox 1.06, Opera 8.02 and Safari 1.2. During performance testing, the index page was loaded 216 times with a mean page generation time of 2.94 mil- liseconds and standard deviation of 3.20 milliseconds. Search previews were processed 65 times with a mean page generation time of 0.63 seconds and standard devia- tion of 0.78 seconds. Complete searches with display of results were done 142 times with a mean page generation time of 3.84 seconds and standard deviation of 6.28 sec- onds. Table 5 gives a summary of the page generation time tests including standard deviations and quartiles. Eighteen physicians from the US, Australia and the Philip- pines participated in the beta-testing phase of the applica- tion and provided performance and usability feedback through an online survey. The mode was used as measure of central tendency as recommended by experts because Likert scales fall within the ordinal level of measurement [20,21]. Table 6 lists the tabulated answers and mode score for each statement in the user survey. Seven users agreed that the slider interface is more user-friendly than traditional search interfaces. Nine users found the Web- based application stable, while nine users strongly agreed that speed was acceptable. Eight users thought that the interface was easy to use. Seven physicians strongly agreed that similar interactive features are desirable in other MEDLINE searches. Six strongly believed that seeing mapped MeSH terms and unmapped keywords in their searches is a useful feature. Nine strongly preferred the option to hide and display the abstracts. Discussion Search interface design Research in data mining, natural language processing and methodology filters move towards developing backend algorithms and protocols for online information search and retrieval systems. Despite all these advances, users continue to use default settings in their PubMed searches."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    329.7,
+    698.3,
+    907.5
+   ],
+   "ocr": "This is a preliminary study of an ongoing project to improve search interface usability by enhancing user interaction with advanced features of PubMed. Limits and filters were chosen based on adaptability to structured series of implementations. Publication date and age groups were obvious choices. The journal subset slider narrowed down the search pool by combining sub- sets in PubMed with selected filters for availability of text. The hierarchy of levels of evidence provided a structured implementation for publication types and clinical study categories. The search mapping feature increased user involvement with MeSH operations. The project contin- ues to study most of the limits and filters available in PubMed for integration in future versions of the applica- tion. The information box was created as an educational tool for PubMed users and researchers by providing another level of feedback. It is nothing more than a short report on the term mapping and translation algorithms of Entrez PubMed. Users are informed of the MeSH term or MeSH subheading equivalents of their search terms. Unmapped terms can prompt users to modify specific keywords in their search. Usability survey Users who participated in the online survey were practic- ing physicians interested or involved in Medical Informat- ics. All were frequent users of PubMed and categorized themselves as intermediate to advanced users. The famili- arity with the current Entrez PubMed interface often accounts for the negative responses in the online survey. Although most user comments were positive, one user stated that advanced users of PubMed might feel more comfortable with the consistent interface of Entrez PubMed, whereas slider controls might be more useful for novice or non-expert users. One user suggested that slider labels be more descriptive. In response, some label texts"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 9 (page number not for citation purposes)"
+  }
+ }
+}

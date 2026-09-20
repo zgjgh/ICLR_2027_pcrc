@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_067",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    71,
+    580,
+    145
+   ],
+   "ocr": "The first table delineates five key biological terms: Protein, defined as proteins that encompass protein groups, families, molecules, complexes, and substructures, with the abbreviation PTN; Nucleotide, which refers to a nucleic acid molecule or compounds consisting of nucleic acids, abbreviated as NUC; Other organic compounds, denoting organic compounds apart from proteins and nucleotides, abbreviated as OOC; Source, specifying biological locations for substances and their reactions, abbreviated as SRC; and Others, representing terms not categorized as sources or substances, abbreviated as OTR."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    133,
+    580,
+    206
+   ],
+   "ocr": "The second table presents coefficients and corresponding statistics for Doctor, Dentist, and Pharmacist categories. For Rural hometowna, the coefficients are 0.05 (0.05) with a [95% CI] of [−0.05 0.14] and a Pvalue of 0.322 for Doctor; 0.15 (0.09) with a [95% CI] of [−0.01 0.32] and a Pvalue of 0.071 for Dentist; and 0.09 (0.06) with a [95% CI] of [−0.02 0.21] and a Pvalue of 0.114 for Pharmacist."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    235.0,
+    580.0,
+    362.0
+   ],
+   "ocr": "NE Definition Abbreviation\nProtein Proteins include protein groups, families, molecules, complexes, and substructures. PTN\nNucleotide A nucleic acid molecule or the compounds that consist of nucleic acids. NUC\nOther organic compounds Organic compounds excluding proteins and nucleotides. OOC\nSource Sources are biological locations where substances are found and their reactions take place. SRC\nOthers The terms that are not categorized as sources or substances can be marked. OTR",
+   "table_id": "img_075294_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    387.0,
+    580.0,
+    646.0
+   ],
+   "ocr": "Doctor Dentist Pharmacist\nCoef.(SE.) [95% CI] Pvalue Coef.(SE.) [95% CI] Pvalue Coef.(SE.) [95% CI] Pvalue\nRural hometowna 0.05 (0.05) [−0.05 0.14] 0.322 0.15 (0.09) [−0.01 0.32] 0.071 0.09 (0.06) [−0.02 0.21] 0.114\nSchool in upcountryb −0.07 (0.04) [−0.15 0.08] 0.079 0.09 (0.07) [−0.05 0.23] 0.214 0.00 (0.17) [−0.33 0.33] 0.988\nMode of admissionc\n● Direct admission −0.05 (0.05) [−0.14 0.04] 0.257 −0.06 (0.07) [−0.20 0.08] 0.376 −0.11 (0.07) [−0.25 0.03] 0.137\n● CPIRD/ODOD 0.10 (0.05) [−0.00 0.21] 0.058 NA NA NA NA NA NA\n● Others −0.03 (0.07) [−0.16 0.11] 0.722 −0.08 (0.10) [−0.05 0.23] 0.464 −0.05 (0.09) [−0.23 0.12] 0.573",
+   "table_id": "img_075294_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    662,
+    580,
+    704
+   ],
+   "ocr": "For School in upcountryb, coefficients are −0.07 (0.04) with a [95% CI] of [−0.15 0.08] and a Pvalue of 0.079 for Doctor; 0.09 (0.07) with a [95% CI] of [−0.05 0.23] and a Pvalue of 0.214 for Dentist; and 0.00 (0.17) with a [95% CI] of [−0.33 0.33] and a Pvalue of 0.988 for Pharmacist. The Mode of admissionc row is empty."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    692,
+    580,
+    766
+   ],
+   "ocr": "For Direct admission, coefficients are −0.05 (0.05) for Doctor, −0.06 (0.07) for Dentist, and −0.11 (0.07) for Pharmacist, with Pvalues of 0.257, 0.376, and 0.137, respectively. For CPIRD/ODOD, Doctor has a coefficient of 0.10 (0.05) with a Pvalue of 0.058, while Dentist and Pharmacist have NA values. Lastly, for Others, coefficients are −0.03 (0.07), −0.08 (0.10), and −0.05 (0.09) for Doctor, Dentist, and Pharmacist, respectively, with Pvalues of 0.722, 0.464, and 0.573."
+  }
+ }
+}

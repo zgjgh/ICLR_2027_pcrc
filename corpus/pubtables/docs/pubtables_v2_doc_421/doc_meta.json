@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_421",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3673840_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    127.7,
+    678.6,
+    351.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3673840_table_0.png",
+   "html": "<table><tr><td>Strain</td><td>D-xylose isomerase</td><td>D-xylulokinase</td><td>Specific growth rate, &#956;(h-1 &#177; SD)</td></tr><tr><td>YRH561</td><td>none</td><td>none</td><td>n.d.a</td></tr><tr><td>YRH562</td><td>Piromyces sp. E2</td><td>S. cerevisiae</td><td>0.07 &#177; 0.002</td></tr><tr><td>YRH563</td><td>B. uniformis</td><td>S. cerevisiae</td><td>0.07 &#177; 0.007</td></tr><tr><td>YRH564</td><td>B. distasonis</td><td>S. cerevisiae</td><td>0.06 &#177; 0.004</td></tr><tr><td>YRH565</td><td>B. ovatus</td><td>S. cerevisiae</td><td>n.d.</td></tr><tr><td>YRH587</td><td>P. ruminicola</td><td>S. cerevisiae</td><td>0.08 &#177; 0.005</td></tr><tr><td>YRH592</td><td>B. uniformis</td><td>B. uniformis</td><td>0.07 &#177; 0.012</td></tr><tr><td>YRH628</td><td>P. ruminicolaopt</td><td>none</td><td>0.06 &#177; 0.004</td></tr><tr><td>YRH629</td><td>P. ruminicolaopt</td><td>S. cerevisiae</td><td>0.07 &#177; 0.005</td></tr><tr><td>YRH630</td><td>Piromyces sp. E2</td><td>P. ruminicolaopt</td><td>0.07 &#177; 0.006</td></tr><tr><td>YRH631</td><td>P. ruminicolaopt</td><td>P. ruminicolaopt</td><td>0.06 &#177; 0.005</td></tr><tr><td>YRH1114</td><td>P. ruminicolaopt</td><td>P. ruminicolaopt</td><td>0.23 &#177; 0.024</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3673840_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    834.5,
+    678.6,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3673840_table_1.png",
+   "html": "<table><tr><td>Strain</td><td>D-xylose consumed [g/L]</td><td>Xylitol [g/L]</td><td>Glycerol [g/L]</td><td>Ethanol [g/L]</td><td>Sp. Ethanol productivity [g/gCDW/h]</td><td>Ethanol yield [% Theoretical]</td><td>Carbon recovery [%]</td></tr><tr><td>YRH400</td><td>27.9 &#177; 1.00</td><td>14.3 &#177; 1.79</td><td>0.5 &#177; 0.04</td><td>6.9 &#177; 0.13</td><td>0.028 &#177; 0.0013</td><td>48.3 &#177; 1.07</td><td>95.5 &#177; 0.06</td></tr><tr><td>YRH631</td><td>11.7 &#177; 0.52</td><td>3.0 &#177; 0.08</td><td>0.8 &#177; 0.06</td><td>4.1 &#177; 0.21</td><td>0.015 &#177; 0.0002</td><td>68.6 &#177; 0.99</td><td>100.0 &#177; 0.01</td></tr><tr><td>YRH1114</td><td>32.1 &#177; 0.45</td><td>4.8 &#177; 0.13</td><td>1.8 &#177; 0.13</td><td>13.6 &#177; 0.08</td><td>0.041 &#177; 0.0015</td><td>82.9 &#177; 1.66</td><td>91.1 &#177; 0.02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3673840_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    141.6,
+    366.1,
+    312.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3673840_table_2.png",
+   "html": "<table><tr><td>D-xylose isomerase</td><td>Km (mM)</td><td>Vmax b</td><td>Reference</td></tr><tr><td>P. ruminicola TC2-24</td><td>40</td><td>0.28c</td><td>This work</td></tr><tr><td>P. ruminicola TC2-24a</td><td>34</td><td>0.81c</td><td>This work</td></tr><tr><td>Piromyces sp. E2</td><td>51</td><td>0.25</td><td>This work</td></tr><tr><td>Piromyces sp. E2</td><td>20</td><td>NAd</td><td>[12]</td></tr><tr><td>Piromyces sp. E2</td><td>87</td><td>0.05</td><td>[13]</td></tr><tr><td>Piromyces sp. E2</td><td>50</td><td>0.05</td><td>[14]</td></tr><tr><td>C. phytofermentans</td><td>62</td><td>0.03</td><td>[14]</td></tr><tr><td>R. flavefaciens</td><td>117</td><td>NA</td><td>[16]</td></tr><tr><td>R. flavefaciense</td><td>67</td><td>NA</td><td>[16]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3673840_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    686.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3673840_table_3.png",
+   "html": "<table><tr><td>Strain</td><td>Genotype (description)</td><td>Reference</td></tr><tr><td>V601</td><td>Bacteroides uniformis</td><td>This work</td></tr><tr><td>V923</td><td>Bacteroides distasonis</td><td>This work</td></tr><tr><td>V975</td><td>Bacteroides ovatus</td><td>This work</td></tr><tr><td>TC2-24</td><td>Prevotella ruminicola (NRRL # B-50773)</td><td>This work</td></tr><tr><td>TC27</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>D31d</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>20-63</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>20-78</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>E40a</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>E42g</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>H15a</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>H2b</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>118b</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>20-92A</td><td>Prevotella ruminicola</td><td>This work</td></tr><tr><td>CEN.PK2-1C</td><td>S. cerevisiae MATa ura3-52 trp1-289 leu2-3,112 his3&#916;1 MAL2-8C SUC2</td><td>Euroscarf</td></tr><tr><td>YRH400</td><td>D5A + integrated (KanMX4; PPGK1-XYL1-TPGK1; PADH1-XYL2-TADH1; PHXT7-XKS1-THXT7)</td><td>[27]</td></tr><tr><td>YRH561</td><td>CEN.PK2-1C [pRS414, pRS416] (control strain with empty vectors)</td><td>This work</td></tr><tr><td>YRH562</td><td>CEN.PK2-1C [pRH195, pRH218] (low copy XKS1, high copy Piromyces XI)</td><td>This work</td></tr><tr><td>YRH563</td><td>CEN.PK2-1C [pRH195, pRH351] (low copy XKS1, high copy B. uniformis XI)</td><td>This work</td></tr><tr><td>YRH564</td><td>CEN.PK2-1C [pRH195, pRH352] (low copy XKS1, high copy B. distasonis XI)</td><td>This work</td></tr><tr><td>YRH565</td><td>CEN.PK2-1C [pRH195, pRH353] (low copy XKS1, high copy B. ovatus XI)</td><td>This work</td></tr><tr><td>YRH587</td><td>CEN.PK2-1C [pRH195, pRH367] (low copy XKS1, high copy P. ruminicola XI)</td><td>This work</td></tr><tr><td>YRH592</td><td>CEN.PK2-1C [pRH351, pRH369] (low copy B. uniformis XK, high copy B. uniformis XI)</td><td>This work</td></tr><tr><td>YRH628</td><td>CEN.PK2-1C [pRH384] (no XKS1, high copy P. ruminicola XIa)</td><td>This work</td></tr><tr><td>YRH629</td><td>CEN.PK2-1C [pRH195, pRH384] (low copy XKS1, high copy P. ruminicola XIa)</td><td>This work</td></tr><tr><td>YRH630</td><td>CEN.PK2-1C [pRH385, pRH218] (low copy P. ruminicola XKa, high copy Piromyces XI)</td><td>This work</td></tr><tr><td>YRH631</td><td>CEN.PK2-1C [pRH385, pRH384] (low copy P. ruminicola XKa, high copy P. ruminicola XIa)</td><td>This work</td></tr><tr><td>YRH1114</td><td>YRH631 adapted for improved D-xylose fermentation</td><td>This work</td></tr><tr><td>YRH1136</td><td>YRH1114 with XI and XK vectors (pRH384 and pRH385) evicted</td><td>This work</td></tr><tr><td>YRH1137</td><td>YRH114 with XI vector (pRH384) evicted, maintains the P. ruminicola XKa [pRH385]</td><td>This work</td></tr><tr><td>YRH1138</td><td>YRH114 with XK vector (pRH385) evicted, maintains the P. ruminicola XIa [pRH384]</td><td>This work</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3673840_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    563.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3673840_table_4.png",
+   "html": "<table><tr><td>Plasmid</td><td>Description</td><td>Reference</td></tr><tr><td>pRS414</td><td>pBluescript II SK+, TRP1, CEN6, ARSH4</td><td>[39]</td></tr><tr><td>pRS416</td><td>pBluescript II SK+, URA3, CEN6, ARSH4</td><td>[39]</td></tr><tr><td>pRS426</td><td>pBluescript II SK+, URA3, 2&#956; origin</td><td>[39]</td></tr><tr><td>pJ201</td><td>Gene synthesis vector</td><td>(DNA2.0)</td></tr><tr><td>pRH164</td><td>pRS414 + PHXT7-MCS-THXT7</td><td>[27]</td></tr><tr><td>pRH167</td><td>pRS426 + PHXT7-MCS-THXT7</td><td>[27]</td></tr><tr><td>pRH195</td><td>pRS414 + PHXT7-S. cerevisiae XKS1-THXT7</td><td>[27]</td></tr><tr><td>pRH218</td><td>pRS426 + PHXT7-Piromyces sp. E2 XI-THXT7</td><td>[40]</td></tr><tr><td>pRH325</td><td>pCR2.1 TOPO + Bacteroides uniformis XI</td><td>This work</td></tr><tr><td>pRH326</td><td>pCR2.1 TOPO + Bacteroides distasonis XI</td><td>This work</td></tr><tr><td>pRH327</td><td>pCR2.1 TOPO + Bacteroides ovatus XI</td><td>This work</td></tr><tr><td>pRH351</td><td>pRS426 + PHXT7-Bacteroides uniformis XI-THXT7</td><td>This work</td></tr><tr><td>pRH352</td><td>pRS426 + PHXT7-Bacteroides distasonis XI-THXT7</td><td>This work</td></tr><tr><td>pRH353</td><td>pRS426 + PHXT7-Bacteroides ovatus XI-THXT7</td><td>This work</td></tr><tr><td>pRH357</td><td>pCR2.1 TOPO + Prevotella ruminicola strain TC2-24 XI</td><td>This work</td></tr><tr><td>pRH360</td><td>pCR2.1 TOPO + Bacteroides uniformis xylB (D-xylulokinase)</td><td>This work</td></tr><tr><td>pRH367</td><td>pRS426 + PHXT7-Prevotella ruminicola XI-THXT7</td><td>This work</td></tr><tr><td>pRH369</td><td>pRS426 + PHXT7-Bacteroides uniformis xylB-THXT7</td><td>This work</td></tr><tr><td>pRH379</td><td>pJ201 + Prevotella ruminicola TC2-24 codon-adapted XI</td><td>This work</td></tr><tr><td>pRH380</td><td>pJ201 + Prevotella ruminicola 23 codon-adapted XK</td><td>This work</td></tr><tr><td>pRH384</td><td>pRS426 + PHXT7-P. ruminicola TC2-24 codon-adapted XI -THXT7</td><td>This work</td></tr><tr><td>pRH385</td><td>pRS414 + PHXT7-P. ruminicola 23 codon-adapted XK -THXT7</td><td>This work</td></tr><tr><td>pRH544</td><td>pRS414 + PHXT7-P. ruminicola 23 codon-adapted XK -THXT7 rescued from YRH1114</td><td>This work</td></tr><tr><td>pRH545</td><td>pRS426 + PHXT7-P ruminicola TC2-24 codon-adapted XI -THXT7 rescued from YRH1114</td><td>This work</td></tr></table>"
+  }
+ ]
+}

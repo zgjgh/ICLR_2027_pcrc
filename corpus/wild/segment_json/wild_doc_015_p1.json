@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_015",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The analysis presented in the accompanying table offers valuable insights into the relationships between oxidative stress, measured by Log-TBARS, and various anthropometric and metabolic parameters."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "Specifically, the data highlights the significance of both univariate and multivariate analyses in establishing these associations. The Log-TBARS metric serves as a crucial indicator of lipid peroxidation, which is often linked to various health conditions, including cardiovascular diseases."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    470.0
+   ],
+   "ocr": "Log-TBARS Univariate Multivariate1 (eVFA) Multivariate2 (BMI)\nr p value F value r p value F value r p value\nAge 0.282 < 0.0001 55.452 0.203 < 0.0001 76.055 0.231 < 0.0001\nBMI 0.211 < 0.0001 - - - 9.681 0.086 0.0012\nWC 0.257 < 0.0001 - - - - - -\nLog-eVFA 0.307 < 0.0001 15.023 0.115 0.0001 - - -\nSBP 0.147 < 0.0001 0.066 - - 0.026 - -\nDBP 0.212 < 0.0001 - - - - - -\nHDL-C -0.050 0.0855 - - -\nLDL-C 0.262 < 0.0001 45.483 0.184 < 0.0001 48.025 0.189 < 0.0001\nHbA1c 0.156 < 0.0001 1.734 - - 1.587 - -\nLog-adiponectin -0.190 < 0.0001 10.317 -0.089 0.0014 13.885 -0.101 0.0022\nγ-GTP 0.253 < 0.0001 34.293 0.163 < 0.0001 37.444 0.170 < 0.0001\neGFR -0.149 < 0.0001 0.078 - - 0.000 - -\nUA 0.213 < 0.0001 16.529 0.112 < 0.0001 16.493 0.120 < 0.0001\nSmoking (Current-) - 0.1235\nSmoking (Ex- and Current-) - 0.0159 0.0002 - - 0.011 - -",
+   "table_id": "img_014585_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    486,
+    580,
+    544
+   ],
+   "ocr": "In the univariate analysis, the correlation coefficient \\( r \\) indicates the strength and direction of the relationship between Log- TBARS and each independent variable. The corresponding p-values provide essential information regarding the statistical significance of these correlations, with lower values suggesting a stronger likelihood that the observed relationships are not due to chance."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    532,
+    580,
+    605
+   ],
+   "ocr": "Furthermore, the multivariate analyses, labeled Multivariate1 (eVFA) and Multivariate2 (BMI), allow for a more comprehensive understanding of how body composition and fat distribution interact with oxidative stress levels. The F values associated with these analyses further elucidate the models' explanatory power, indicating the degree to which the independent variables collectively account for variations in Log-TBARS. Overall, this data underscores the intricate interplay between oxidative stress and metabolic health indicators."
+  }
+ }
+}

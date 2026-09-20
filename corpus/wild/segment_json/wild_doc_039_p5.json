@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_039",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    96.0
+   ],
+   "ocr": "The data presented in the accompanying table provides a comprehensive overview of the relationship between various institutional characteristics and their corresponding outcomes in the context of liver triglyceride levels, measured in millimoles per gram of liver (TG)."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    234.0
+   ],
+   "ocr": "Item Supplemental (−)-HCA (mg/kg)\n0 1000 2000 3000\nTG (mmol/g liver) 3.31 ± 0.56 2.78 ± 0.40 2.75 ± 0.58 2.02 ± 0.34*\nNEFA (μmol/L) 65.83 ± 5.66 95.41 ± 9.52 109.90 ± 19.21* 125.52 ± 12.37**\nHL (U/mL) 1.57 ± 0.11 1.59 ± 0.09 3.41 ± 0.27** 2.68 ± 0.28**\nHepatic glycogen (mg/g liver) 2.63 ± 0.23 3.63 ± 0.34 3.91 ± 0.41* 3.91 ± 0.65*",
+   "table_id": "img_043398_t0"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    249.0,
+    580.0,
+    370.0
+   ],
+   "ocr": "Institution Field Number of interviews\nPublic University Humanities 8 (4 men, 4 women)\nPublic University Architecture 8 (4 men, 4 women)\nPublic University Telecommunications Engineering 8 (4 men, 4 women)\nResearch Centre Environmental Sciences 4 (2 men, 2 women)\nResearch Centre Biomedicine 8 (4 men, 4 women)",
+   "table_id": "img_043398_t1"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    385.0,
+    580.0,
+    511.0
+   ],
+   "ocr": "Model Features Selected LOOCV Misclassification Rate (%)\nLogistic Regression - Forward Stepwise 4 – 9 31\nGreedy - LDA 10 – 20 31\nGenetic algorithm - LDA 10 28\nPCA - LDA 10 – 20 24\nRobust feature selection - LDA 5 – 11 31",
+   "table_id": "img_043398_t2"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    527,
+    580,
+    585
+   ],
+   "ocr": "Specifically, the table details the number of interviews conducted across different institutions, alongside their respective fields of study, showcasing a diverse range of research environments. For instance, a public university in the humanities conducted eight interviews, evenly divided between male and female participants, which reflects a balanced consideration of gender in the study."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    573,
+    580,
+    647
+   ],
+   "ocr": "The model employed to analyze the data is crucial for understanding the efficiency of feature selection, as indicated by the column \"Features Selected.\" Furthermore, the misclassification rates presented, particularly the LOOCV (Leave-One-Out Cross-Validation) Misclassification Rate (%), highlight the accuracy and reliability of the predictive models utilized in this research. These metrics collectively underscore the significance of institutional context and methodological rigor in exploring the determinants of liver triglyceride levels."
+  }
+ }
+}

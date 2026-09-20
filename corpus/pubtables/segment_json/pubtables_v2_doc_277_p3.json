@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_277",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    250.6,
+    64.4
+   ],
+   "ocr": "BMC Veterinary Research 2007, 3:1"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    470.0,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1746-6148/3/1"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    391.9,
+    659.4
+   ],
+   "ocr": "Model 1a excludes dental disease (table 4) and uses 116 matched sets for analysis. It indicates that donkeys that are older and those that are lighter in weight were more likely to suffer impaction colic. The odds of suffering from colic were seven times higher for donkeys that previously had colic than those that had not suffered from colic before. In addition, previous musculo-skeletal problems increased the risk of colic and those fed extra rations were more likely to suffer impaction than those that weren't provided with extra feed. One particular farm also tended to increase the risk of colic. Model 1a excluded 77 matched cases due to missing data in the weight category. When the backwards stepwise regression was repeated excluding weight, all other varia- bles remained in the final multivariable model (model 1b, table 5). The magnitude of the odds ratio and signifi- cance of each variable (all P values <0.001) was strength- ened by the inclusion of more matched sets. Model 2 (table 6) which excludes weight and includes dental disease, uses 56 matched sets. Model 2 indicates that, even after adjusting for age, the presence of dental disease was significantly associated with impaction colic – donkeys with dental disease were more likely to suffer impaction colic than those without dental disease. Examination of the delta betas and fitted values showed model 1 to be stable. Removal of the data points with the largest delta betas had little effect on either the variables included in the model, the magnitude of the odds ratios or the confidence intervals. Removal of the two data points with the largest delta betas in model 2 prevented the model from converging after 30 iterations. However, these were a control with dental disease and a case with- Table 4: Multivariable conditional logistic regression model 1a of risk Sanctuary between 1st January 2003 and 31st March 2005."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    647.4
+   ],
+   "ocr": "out dental disease, hence their removal would have the influence of increasing the effect of dental disease. Discussion Our study identified all cases of colic in a large population of donkeys during a five year period. The incidence rate of colic in this population is similar to reports of incidence of colic in horses which range from 3.5–10.6 episodes per 100 horses per year [6,7]. The proportion of impactions diagnosed in this donkey population is much higher than the 5–12% that has been reported for horses [8,9]. How- ever in a study of geriatric equidae, which were more than 20 years old, a higher frequency of large colon impaction was reported, (14.4% of colic cases) [10]. A proportion (37%) of the impactions in this donkey population were not confirmed by rectal palpation or post mortem and so were based on clinical signs only. This may have led to some misclassification of other types of colic or other medical conditions as impaction colics. However, this may be expected to dilute the effect of any risk factors towards the null. The case fatality rate of 51% is considerably higher than that reported in horses, which varies from 6.7% – 15.6% depending on the population and colic type [7,11,12]. It is possible that this could be an overestimate of the mor- tality risk for two reasons. Firstly, some donkeys may have experienced a mild case of colic from which they recov- ered without it being identified or treated. Secondly, this mortality risk included cases of colic that were only con- firmed at post mortem (n = 159). However, if these cases (n = 159) were excluded the case fatality rate would be 39.0% (253 deaths/648 colic cases) – a rate that is still much greater than that recorded in other equine popula- tions. The mortality risk of impaction colic that we factors for impaction colic in donkeys housed at the Donkey"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    670.4,
+    674.7,
+    898.3
+   ],
+   "ocr": "Variable Odds Ratio Lower 95% CI Upper 95% CI LRS P-value\nContinuous\nAge (years) 1.06 1.02 1.11 0.008\nWeight (kg) 0.98 0.96 0.99 <0.001\nCategorical\nExtra rations No 1.00\nYes 2.21 1.07 4.53 0.03\nMusculo skeletal exam No 1.00\nYes 2.20 0.95 5.13 0.07\nPrevious colic No 1.00\nYes 6.80 1.65 27.95 0.008\nFarm 1 1.00\n2 0.43 0.19 0.97 0.04",
+   "table_id": "PMC1800892_table_3"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    914.6,
+    398.9,
+    926.4
+   ],
+   "ocr": "Model 1a excluded the variable dental disease during the backwards stepwise"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    401.8,
+    914.6,
+    596.6,
+    926.4
+   ],
+   "ocr": "regression. LRS = likelihood ratio test statistic"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 11 (page number not for citation purposes)"
+  }
+ }
+}

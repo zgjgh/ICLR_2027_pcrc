@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_045",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Thompson et al. BMC Bioinformatics 2011, 12:393 http://www.biomedcentral.com/1471-2105/12/393"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.0,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 12 of 18"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    324.8,
+    137.7
+   ],
+   "ocr": "Table 8 Distribution of negated events among KT categories"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    111.0,
+    655.5,
+    137.7
+   ],
+   "ocr": "Table 9 Most common clue expressions for Polarity = Negative"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    90.3,
+    142.7,
+    347.2,
+    246.0
+   ],
+   "ocr": "KT Category Negated events (% within category)\nObservation 1364 (10.6%)\nAnalysis 577 (8.7%)\nFact 105 (3.5%)\nOther 187 (1.6%)\nMethod 10 (1.0%)\nInvestigation 20 (1.0%)",
+   "table_id": "PMC3222636_table_7"
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    436.3,
+    142.7,
+    626.2,
+    381.6
+   ],
+   "ocr": "Category Freq\nnot 1141\nno 199\nindependent 113\nwithout 65\nfailed 47\nnor 47\nabsence 42\nneither 38\nunaffected 28\nlack 23\nun 23\nunable 19\nindependently 18\nresistant 15\nfails 13",
+   "table_id": "PMC3222636_table_8"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    270.0,
+    366.1,
+    916.3
+   ],
+   "ocr": "negated events occur within events belonging to all KT categories, the distribution is quite uneven. Only obser- vations and analyses are negated with any amount of regularity. Events belonging to the remaining KT values are virtually always expressed with positive polarity, with only around 3.5% of fact-bearing events being negative, and the other three categories (Investigation, Method and Other) only averaging one negative instance per hundred events. The low occurrence of negative instances amongst events with KT = Investigation events is quite intuitive - it is the norm to investigate why/whether something does take place, although in some instances there can be investigation into why something does not take place, such as in response to a previous negative finding, such as in (6). (6) To determine why alveolar macrophages do not EXPRESS AP-1 DNA binding activity, ... Also, for methods, it is highly unusual to say that a particular method was not applied, unless in contrast to the case where the method was applied, as is the case in (7). (7) For comparison, we recruited a control group con- sisting of 32 healthy males and females with similar age distribution and without a history of EXPO- SURE to MTBE or benzene. Table 9 displays the most commonly annotated clue expressions for negated events. Although the number of events we have identified as negated is roughly similar to those originally annotated in the GENIA event cor- pus, our annotation has the advantage of having identi- fied a suitable clue expression for each negated event. The word not constitutes around half of all clue expressions for negation (50.4%), and is over 5 times more common than the next most common clue expression, no. Although most of the words in the list have an inherently negative meaning, the third most common word, i.e., independent (together with its asso- ciated adverb independently), does not. Closer"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    405.5,
+    678.6,
+    916.4
+   ],
+   "ocr": "examination shows that this negative meaning is quite context-dependent, in that it only denotes a negative meaning for events of type Correlation and Regulation (together with its sub-type Positive_Regulation). For Reg- ulation events, a typical example is shown in (8). (8) An alteration in the E2F-4 profile was INDE- PENDENT of viral gene expression. In (8), the word independent acts as both the event trigger and the negative clue expression. The event denotes the fact that the alteration in the E2F-4 profile was not dependent on viral gene expression occurring. In other words, it is not the case that viral gene expres- sion regulates the alteration in the E2F-4 profile. Events of type Correlation are annotated when there is some kind of association that holds between entities and/or other events. Sentence (9) shows an example of both a positive Correlation event and a negated Correlation event. (9) LPS-INDUCED NF-kappaB activation is protein tyrosine kinase DEPENDENT and protein kinase C INDEPENDENT There are three relevant events in (9). Firstly, the word induced is the trigger for a Positive_Regulation event in which NF-kappaB activation is regulated by LPS. The word dependent is the trigger for the second event, which is a positive Correlation event. It shows that that there is and association between the Positive_Regulation event and the protein tyrosine kinase. In contrast, the third event, triggered by independent, shows that no such association holds between the Positive_Regulation"
+  }
+ }
+}

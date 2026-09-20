@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_493",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Billings et al. Standards in Genomic Sciences (2015) 10:106 Page 6 of 11"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    651.1,
+    138.3
+   ],
+   "ocr": "Table 3 Summary of genome: one chromosome and six other Table 5 Number of genes associated with COG functional contigs categories"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    143.3,
+    366.1,
+    276.9
+   ],
+   "ocr": "Label Size (kb) Topology INSDC identifier\nChromosome 1 3187 linear AZUK01000001\nContig 2 316 linear AZUK01000002\nContig 3 44 linear AZUK01000003\nContig 4 24 linear AZUK01000004\nContig 6 12 linear AZUK01000006\nContig 7 11 linear AZUK01000007\nContig 8 10 linear AZUK01000008",
+   "table_id": "PMC4653933_table_2"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    143.3,
+    665.6,
+    604.5
+   ],
+   "ocr": "Code Value % Description\nage\nJ 168 5.10 Translation, ribosomal structure and biogenesis\nA 1 0.03 RNA processing and modification\nK 217 6.58 Transcription\nL 129 3.91 Replication, recombination and repair\nB 0 0.00s Chromatin structure and dynamics\nD 35 1.06 Cell cycle control, cell division, chromosome\npartitioning\nV 37 1.12 Defense mechanisms\nT 171 5.19 Signal transduction mechanisms\nM 159 4.82 Cell wall/membrane biogenesis\nN 112 3.40 Cell motility\nU 88 2.67 Intracellular trafficking and secretion\nO 106 3.22 Posttranslational modification, protein turnover,\nchaperones\nC 176 5.34 Energy production and conversion\nG 247 7.49 Carbohydrate transport and metabolism\nE 241 7.31 Amino acid transport and metabolism\nF 73 2.21 Nucleotide transport and metabolism\nH 144 4.37 Coenzyme transport and metabolism\nI 50 1.52 Lipid transport and metabolism\nP 126 3.82 Inorganic ion transport and metabolism\nQ 31 0.94 Secondary metabolites biosynthesis, transport\nand catabolism\nR 259 7.86 General function prediction only\nS 245 7.43 Function unknown\n– 930 28.21 Not in COGs",
+   "table_id": "PMC4653933_table_4"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    307.6,
+    366.1,
+    618.7
+   ],
+   "ocr": "family sequences, and plasmid maintenance and stabilization protein genes, making them likely candidates. Of the 3427 predicted genes, 3323 were identified as protein-encoding genes, while 131 RNA genes were found. Of the total protein coding genes identified, 75.02 % were assigned to a putative function. The prop- erties and the statistics of the genome are summarized in Tables 3, 4 and 5. Insights from the genome sequence Genome to genome comparisons Once the genome of strain BRL6-1T was sequenced, we were able to compare it to the genome of T. auensis, its closest relative. The two genomes have an average nu- cleotide identity (ANI) of 84 %, far below the 95 % threshold for species delineation [35]. A tool developed by DSMZ called the genome to genome distance calcu- lator (GGDC) compares genome sequences to databases Table 4 Nucleotide content and gene count levels of the genome"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    610.9,
+    644.8,
+    631.5
+   ],
+   "ocr": "The total is based on the total number of protein coding genes in the annotated genome"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    623.7,
+    366.1,
+    898.4
+   ],
+   "ocr": "Attribute Value % of total\nGenome size (bp) 3,607,052 100.00\nDNA coding (bp) 3,268,621 89.99\nDNA G+C (bp) 1,715,377 47.56\nDNA scaffolds 7 100.00\nTotal genes 3427 100.00\nProtein coding genes 3296 96.18\nRNA genes 131 3.82\nPseudo genes 24 0.70\nGenes in internal clusters 2431 70.94\nGenes with function prediction 2571 75.02\nGenes assigned to COGs 2797 81.62\nGenes with Pfam domains 2916 85.09\nGenes with signal peptides 273 7.97\nGenes with transmembrane helices 755 22.03\nCRISPR repeats 1 –",
+   "table_id": "PMC4653933_table_3"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    655.4,
+    678.6,
+    911.0
+   ],
+   "ocr": "of DNA-DNA hybridization (DDH) data [36]. It esti- mates the DDH between these two genomes to be 23.10 % +/− 2.37, again far below the species threshold (70 %). The GGDC also uses logistic regression to esti- mate the probability that DDH > 70 %, i.e. the two ge- nomes belong to the same species. The GGDC calculated a <0.01 % chance that DDH > 70 % between the genomes of strain BRL6-1T and T. auensis. These data support the assertion that strain BRL6-1T is a novel species. Oxidative enzymes To facilitate physiological comparisons among the spe- cies within the Tolumonas genus, T. auensis and T. oso- nensis were acquired from the DSMZ culture collection in Germany. Oxidase tests confirmed that all three Tolu- monas species, including Tolumonas lignolytica BRL6-"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    904.8,
+    357.1,
+    914.7
+   ],
+   "ocr": "The total is based on either the size of the genome in base pairs or the total"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    910.5,
+    678.5,
+    926.2
+   ],
+   "ocr": "number of protein coding genes in the annotated genome 1T, are negative for oxidation of cytochrome c, as"
+  }
+ }
+}

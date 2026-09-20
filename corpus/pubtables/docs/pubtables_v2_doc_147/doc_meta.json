@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_147",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3361467_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    128.9,
+    354.4,
+    240.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3361467_table_0.png",
+   "html": "<table><tr><td></td><td>PMR</td><td>CONC</td><td>SUPP</td></tr><tr><td>Energy* (MJ NEL/kg of DM)</td><td>6.45</td><td>8.00</td><td>12.8</td></tr><tr><td>Crude fibre (g/kg of DM)</td><td>214</td><td>67</td><td>69</td></tr><tr><td>Crude ash (g/kg of DM)</td><td>81</td><td>72</td><td>49</td></tr><tr><td>Crude fat (g/kg of DM)</td><td>32</td><td>20</td><td>303</td></tr><tr><td>CP (g/kg of DM)</td><td>129</td><td>184</td><td>140</td></tr><tr><td>Available CP (g/kg of DM)*</td><td>142</td><td>187</td><td>151</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3361467_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    141.1,
+    670.9,
+    713.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3361467_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">Forward primer (from 5&#8217; to 3&#8217;) Reverse primer (from 5&#8217; to 3&#8217;)</td><td rowspan=\"2\">PCR product</td><td rowspan=\"2\">NCBI GenBank</td><td rowspan=\"2\">Slope</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">Efficiency</td><td rowspan=\"2\">M</td></tr><tr></tr><tr><td colspan=\"8\">Reference genes</td></tr><tr><td rowspan=\"2\">ACTB</td><td>ACTTGCGCAGAAAACGAGAT</td><td>120</td><td>AY141970</td><td>-0.30</td><td>0.99</td><td>1.99</td><td>0.039</td></tr><tr><td>CACCTTCACCGTTCCAGTTT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">SDHA</td><td>GCAGAACCTGATGCTTTGTG</td><td>185</td><td>NM_174178</td><td>-0.24</td><td>0.99</td><td>1.74</td><td>0.048</td></tr><tr><td>CGTAGGAGAGCGTGTGCTT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">ATP5B</td><td>GGACTCAGCCCTTCAGCGCC</td><td>229</td><td>NM_175796.2</td><td>-0.16</td><td>0.99</td><td>1.44</td><td>0.039</td></tr><tr><td>GCCTGGTCTCCCTGCCTTGC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">RPS9</td><td>GTGAGGTCTGGAGGGTCAAA</td><td>108</td><td>BC148016</td><td>-0.31</td><td>0.99</td><td>2.04</td><td>0.040</td></tr><tr><td>GGGCATTACCTTCGAACAGA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">PPIA</td><td>GGCAAATGCTGGCCCCAACACA</td><td>87</td><td>NM_178320.2</td><td>-0.34</td><td>0.99</td><td>2.13</td><td>0.034</td></tr><tr><td>AGTACCACGTGCTTGCCATCCA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">RPL12</td><td>CACCAGCCGCCTCCACCATG</td><td>84</td><td>NM_205797.1</td><td>-0.35</td><td>0.99</td><td>2.25</td><td>0.036</td></tr><tr><td>CGACTTCCCCACCGGTGCAC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"8\">Target genes</td></tr><tr><td rowspan=\"2\">ACADM</td><td>GCGAGTACCCTGTCCCATTA</td><td>243</td><td>NM_001075235</td><td>-0.29</td><td>0.99</td><td>1.93</td><td></td></tr><tr><td>CCTCAGTCATTCTCCCCAAA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">ACOX1</td><td>CCATTGCCGTCCGATACAGT</td><td>99</td><td>BC102761</td><td>-0.27</td><td>0.96</td><td>1.88</td><td></td></tr><tr><td>GTTTATATTGCTGGGTTTGATAATCCA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">ALDH9A1</td><td>CAGGATTCGGCAGAGAGAAC</td><td>229</td><td>NM_001046423</td><td>-0.28</td><td>0.99</td><td>1.90</td><td></td></tr><tr><td>TGAGCCATGAAGAGCATCAC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">BBOX1</td><td>TCCAGCTGCCTACTCTGGAT</td><td>292</td><td>BC149884.1</td><td>-0.28</td><td>0.99</td><td>1.91</td><td></td></tr><tr><td>AGCTGAACCTTACCCCAGGT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">CD36</td><td>GCATTCTGAAAGTGCGTTGA</td><td>179</td><td>BC103112</td><td>-0.28</td><td>0.98</td><td>1.91</td><td></td></tr><tr><td>CGGGTCTGATGAAAGTGGTT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">CPT1A</td><td>CAAAACCATGTTGTACAGCTTCCA</td><td>111</td><td>FJ415874</td><td>-0.32</td><td>0.99</td><td>2.09</td><td></td></tr><tr><td>GCTTCCTTCATCAGAGGCTTCA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">HMGCS2</td><td>GCCCAATATGTGGACCAAAC</td><td>209</td><td>NM_001045883</td><td>-0.29</td><td>0.99</td><td>1.96</td><td></td></tr><tr><td>ATGGTCTCAGTGCCCACTTC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">PPARA</td><td>GGTGGAGAGTTTGGCAGAACCAGA</td><td>168</td><td>BT020756.1</td><td>-0.23</td><td>0.99</td><td>1.70</td><td></td></tr><tr><td>TCCCACTGCCCAGCTCCGATC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">SLC22A5</td><td>CACAGTGGTCAGGAACATGG</td><td>181</td><td>BC105377</td><td>-0.28</td><td>0.99</td><td>1.89</td><td></td></tr><tr><td>AATGGTGTCTGGGAGTGGAG</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">SLC27A1</td><td>CTGAAGGAGACCTCCACAGC</td><td>208</td><td>NM_001033625.2</td><td>-0.30</td><td>0.99</td><td>1.99</td><td></td></tr><tr><td>GTGGTACAGGGGCAGACAGT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">TMLHE</td><td>TGGCAGGACACTGCTAGTTG</td><td>222</td><td>NM_001076064.1</td><td>-0.31</td><td>0.99</td><td>2.05</td><td></td></tr><tr><td>GACAGCCCGGTCATAGTTGT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3361467_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    128.9,
+    678.2,
+    279.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3361467_table_2.png",
+   "html": "<table><tr><td>Variable</td><td>3 wk prepartum</td><td>1 wk postpartum</td><td>5 wk postpartum</td><td>14 wk postpartum</td><td>wks 1 to 14 postpartum</td><td>P- value</td></tr><tr><td>Dry matter intake (kg/d)</td><td>13.4c &#177; 0.33</td><td>13.4c &#177; 0.48</td><td>18.4b &#177; 0.62</td><td>20.4a &#177; 0.53</td><td>18.5 &#177; 0.49</td><td>&lt; 0.001</td></tr><tr><td>Milk yield (kg/d)</td><td>-</td><td>28.6c &#177; 0.76</td><td>37.5a &#177; 0.90</td><td>32.0b &#177; 0.81</td><td>32.7 &#177; 0.67</td><td>&lt; 0.001</td></tr><tr><td>FCM* (kg/d)</td><td>-</td><td>39.2a &#177; 1.39</td><td>40.9a &#177; 1.51</td><td>33.0b &#177; 1.03</td><td>37.7 &#177; 0.87</td><td>&lt; 0.001</td></tr><tr><td>Milk fat (%)</td><td>-</td><td>6.40a &#177; 0.25</td><td>4.51b &#177; 0.20</td><td>4.11b &#177; 0.13</td><td>5.00 &#177; 0.17</td><td>&lt; 0.001</td></tr><tr><td>Milk protein (%)</td><td>-</td><td>4.09a &#177; 0.09</td><td>2.85c &#177; 0.05</td><td>3.13b &#177; 0.06</td><td>3.35 &#177; 0.08</td><td>&lt; 0.001</td></tr><tr><td>Energy balance&#8224; (MJ NEL/d)</td><td>46.9a &#177; 2.42</td><td>-64.9d &#177; 5.15</td><td>-30.4c &#177; 3.05</td><td>3.89b &#177; 2.11</td><td>-12.5 &#177; 5.52</td><td>&lt; 0.001</td></tr><tr><td>Energy intake&#8224; (% of requirement)</td><td>215.1 &#177; 7.92</td><td>58.9 &#177; 2.45</td><td>82.3 &#177; 2.22</td><td>102.1 &#177; 2.10</td><td>81.1 &#177; 2.63</td><td>&lt; 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3361467_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    668.6,
+    662.3,
+    835.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3361467_table_3.png",
+   "html": "<table><tr><td></td><td>3 wk prepartum</td><td>1 wk postpartum</td><td>5 wk postpartum</td><td>14 wk postpartum</td><td>P-value</td></tr><tr><td colspan=\"6\">Liver tissue</td></tr><tr><td>free carnitine, nmol/g wet weight</td><td>37.4b &#177; 4.53</td><td>55.6a &#177; 4.09</td><td>26.0c &#177; 1.76</td><td>18.2c &#177; 1.26</td><td>&lt; 0.001</td></tr><tr><td colspan=\"6\">Plasma</td></tr><tr><td>free carnitine, &#956;mol/L</td><td>3.82a &#177; 0.25</td><td>1.40c &#177; 0.10</td><td>2.18b &#177; 0.20</td><td>2.35b &#177; 0.17</td><td>&lt; 0.001</td></tr><tr><td>carnitine esters*, &#956;mol/L</td><td>2.07b &#177; 0.10</td><td>2.54a &#177; 0.12</td><td>2.45ab &#177; 0.18</td><td>1.64c &#177; 0.11</td><td>&lt; 0.001</td></tr><tr><td>total carnitine&#8224;, &#956;mol/L</td><td>5.89a &#177; 0.33</td><td>3.94b &#177; 0.17</td><td>4.64b &#177; 0.32</td><td>3.99b &#177; 0.26</td><td>&lt; 0.001</td></tr><tr><td colspan=\"6\">Milk</td></tr><tr><td>free carnitine, &#956;mol/L</td><td>-</td><td>84.5a &#177; 5.92</td><td>50.3b &#177; 4.34</td><td>60.2b &#177; 2.65</td><td>&lt; 0.001</td></tr><tr><td>carnitine esters*, &#956;mol/L</td><td>-</td><td>131.1a &#177; 12.1</td><td>65.9b &#177; 6.23</td><td>41.3c &#177; 2.60</td><td>&lt; 0.001</td></tr><tr><td>total carnitine&#8224;, &#956;mol/L</td><td>-</td><td>215.5a &#177; 16.6</td><td>116.2b &#177; 7.92</td><td>101.5b &#177; 3.93</td><td>&lt; 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3361467_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    831.4,
+    671.2,
+    892.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3361467_table_4.png",
+   "html": "<table><tr><td></td><td>3 wk prepartum</td><td>1 wk postpartum</td><td>5 wk postpartum</td><td>14 wk postpartum</td><td>P-value</td></tr><tr><td>Plasma NEFA (&#956;mol/L)</td><td>103d &#177; 10</td><td>864a &#177; 47</td><td>276b &#177; 16</td><td>171c &#177; 11</td><td>&lt; 0.001</td></tr><tr><td>Liver triglyceride (mg/g wet weight)</td><td>4.56c &#177; 0.45</td><td>23.5b &#177; 2.6</td><td>64.3a &#177; 10.3</td><td>3.18c &#177; 0.28</td><td>&lt; 0.001</td></tr><tr><td>Plasma BHBA (&#956;mol/L)</td><td>484b &#177; 23</td><td>707a &#177; 42</td><td>724a &#177; 46</td><td>521b &#177; 24</td><td>&lt; 0.001</td></tr></table>"
+  }
+ ]
+}

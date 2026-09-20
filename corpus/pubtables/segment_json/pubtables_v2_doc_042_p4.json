@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_042",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Clennon et al. International Journal of Health Geographics 2010, 9:58 Page 9 of 13 http://www.ij-healthgeographics.com/content/9/1/58"
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    156.5,
+    364.8,
+    567.1
+   ],
+   "ocr": "Presence Contrast GLM/GLMM SRTM/ASTER AIC ΔAIC\nWater Random GLM SRTM 306.6 31.3\nWater Random GLM ASTER 366.2 90.9\nWater Random GLMM SRTM 275.3 -\nWater Random GLMM ASTER 298.7 23.4\nAnopheles Random GLM SRTM 238.4 13.4\nAnopheles Random GLM ASTER 297.4 72.4\nAnopheles Random GLMM SRTM 225 -\nAnopheles Random GLMM ASTER 252.1 27.1\nAn. arabiensis Random GLM SRTM 82.2 -\nAn. arabiensis Random GLM ASTER 110.8 28.6\nAn. arabiensis Random GLMM SRTM 84.2 2\nAn. arabiensis Random GLMM ASTER 112.1 29.9\nAnopheles spp. Water GLM SRTM 234.9 26.7\nAnopheles spp. Water GLM ASTER 241.9 33.7\nAnopheles spp. Water GLMM SRTM 208.2 -\nAnopheles spp. Water GLMM ASTER 213.7 5.5\nAn. arabiensis Water GLM SRTM 151.9 -\nAn. arabiensis Water GLM ASTER 153.4 1.5\nAn. arabiensis Water GLMM SRTM 153.9 2\nAn. arabiensis Water GLMM ASTER 155.4 3.5",
+   "table_id": "PMC2993656_table_5"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    613.4,
+    678.6,
+    741.2
+   ],
+   "ocr": "Model Data Source Variable Odds Ratio P > |z| 95% CI Lower 95% CI Upper\nSRTM-LandSat SRTM slope 0.40 <0.001 0.27 0.61\nSRTM TWI 1.29 0.02 1.04 1.59\nSRTM aspect 1.003 0.012 1.00 1.005\nSRTM TPI500 0.65 <0.001 0.55 0.75\nLandSat -ASTER ASTER TPI2000 0.96 0.005 0.94 0.99\nLandSat 3:1 0.005 0.006 0.0001 0.22",
+   "table_id": "PMC2993656_table_6"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    770.2,
+    474.6,
+    783.2
+   ],
+   "ocr": "Table 8 Predicting water presence compared to random locations using GLMM"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    788.1,
+    678.6,
+    916.7
+   ],
+   "ocr": "Model Data Source Variable Odds Ratio P > |z| 95% CI Lower 95% CI Upper\nSRTM-LandSat SRTM slope 0.38 0.01 0.18 0.81\nSRTM aspect 1.01 0.02 1.00 1.01\nSRTM TPI500 0.65 <0.001 0.52 0.82\nLandSat -ASTER ASTER TPI500 1.29 0.01 1.06 1.57\nASTER slope 0.75 0.03 0.59 0.97\nASTER TPI2000 0.81 0.002 0.70 0.92",
+   "table_id": "PMC2993656_table_7"
+  }
+ }
+}

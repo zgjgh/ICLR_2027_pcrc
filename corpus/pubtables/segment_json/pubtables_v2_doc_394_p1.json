@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_394",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    383.3,
+    66.0
+   ],
+   "ocr": "Wollmann et al. Journal of Cardiovascular Magnetic Resonance 2012, 14:67 http://www.jcmr-online.com/content/14/1/67"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 3 of 11"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    260.9,
+    124.4
+   ],
+   "ocr": "Table 1 MRI sequences for brain scan"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    675.3,
+    632.8
+   ],
+   "ocr": "Sequences for Philips MRI Scanner\nBody Region: Head, Patient Position: Supine, Patient Entry: Head First, Landmark on Eyes\n3 plane Reference AX SE T1 AX FSE T2 T2 FLAIR Diffusion 3D TOF MT CE-MRA Perfusion\nlocalizer Scan\nLandmark Landmark Landmark Landmark Landmark Landmark Landmark Landmark on Landmark\non Eyes on Eyes on Eyes on Eyes on Eyes on Eyes on Eyes Eyes on Eyes\nName Anatomy Head CNS- Ref Scans Head CNS- Head CNS- Head CNS- Head CNS- Head CNS- Head CNS-CE- Head CNS-\nPhilips Brain Brain Brain Brain Function Angio Angio Function\nSequence Name survey RefScan T1W_SE T2W_TSE T2W_FLAIR DWI_E S3DI_MC_HR 3D_DYN_AVM sPRESTO\nPhilips\nplane ax/cor/sag - ax ax ax ax ax sag ax\nScan time 0:17 0:51 02:39 02:13 03:18 00:36 02:52 00:51 0:50\nstacks 3 2 1 1 1 1 1 1 1\nslices 3 each 82 18 18 16 18 100 10 30\nScan technique T1-TFE SENSE SE SE IR SE FFE FFE FFE\nFast imaging TFE - MS TSE TSE EPI none none EPI\nmode\n(Turbo/EPI) 42 - 1 19 23 89 - - 19\nFactor\nTE [ms] 5.2 0.95 15 100 120 104 6.9 1.27 shortest\nTR [ms] 15 8 483 3607 6000 3034 24 5 22\nTI [ms] - - - - 2000 - - - -\nFlip angle [deg] 20 7 140 90 100 90 20 35 7\nFOV [mm] 250 - 230 230 230 230 200 260 220\nScan [%] 74 82 79 74 68 79.6 57.4 100 55.8\nScan matrix 256 x 126 64 x 52 256 x 163 384 x 228 208 x 115 112 x 89 332 x 190 160 x 144 64 x 29\nSlice thickness 10 - 5 5 6 5 1 / 0.5 16 / 8 3.5\n[mm]acq/rec\nSlice gap 0 1 1 2 1 - - -\nNSA / NEX 1 3 2 3 2 1 1 1 1\nBandwidth 186.9 2540.7 109.3 224.0 152.9 1834 108.8 541.1 60.3\n[Hz/pixel]",
+   "table_id": "PMC3482396_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    655.4,
+    366.2,
+    926.2
+   ],
+   "ocr": "scans an incorporated lumbar spine coil was used. Before performing the MR scans pacemakers were programmed to the MR mode (ProMRI feature). Within this feature the pacing mode was programmed according to the require- ments of the patients to an asynchronous single chamber (A00 or V00), dual chamber mode (D00) or was deacti- vated (OFF). In case of programming an asynchronous pacing mode, the lower rate was automatically set to 80 bpm, and the output to 4.8 Volts/1.0 ms. Different pacemaker functions (e.g. capture control, memory func- tions) were deactivated during active ProMRI mode auto- matically. Upon programming the pacemaker in the ProMRI mode the Home Monitoring transmission system is automatically rendered inactive (i.e. OFF). Thus no risks of interferences between data transmission and MR sys- tem are to be expected. There were certain restrictions to be considered for MR scans: since Evia pacemakers have an exclusion zone"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    655.4,
+    678.6,
+    926.2
+   ],
+   "ocr": "for the isocenter landmark (exclusion zone: below the level of the eyes and above the level of the major tro- chanters), the iso-center landmark had to be placed at the level of the eyes for brain scan, and at the level of the major trochanters for lumbar spine scan, respect- ively. The patient had to be in a supine position. No additional local sending inductors were allowed. The gradient slew rate had to be ≤ 200 T/m/s. The whole body specific absorption rate (SAR) had to be ≤ 2 W/kg, whereas the head SAR had to be ≤ 3.2 W/kg, respect- ively. The scanning time per MR session should not ex- ceed 30 minutes. During MR patients were monitored using a MR com- patible telemetry based ECG and pulse oximetry (In vivo Corporation Orlando, FL, USA). ECG and pulse oximetry curves were continuously observed by the first author and recorded on digital video tape for the pur- pose of (primarily not intended) retrospective evaluation."
+  }
+ }
+}

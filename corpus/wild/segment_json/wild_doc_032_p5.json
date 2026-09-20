@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_032",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The advancements in medical technology continue to revolutionize patient care, particularly through the development of innovative devices designed to enhance physiological functions. The data presented in the accompanying table summarizes key performance metrics of various medical devices, including Pace-Makers and Neural Stimulators, which are critical in managing chronic conditions. Notably, the throughput capabilities of these devices, measured in kilobits per second (KBPS), indicate their efficiency in data transmission, with several systems achieving speeds of up to 100 KBPS."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "This is particularly significant in the context of real-time monitoring and feedback mechanisms essential for patient safety and treatment efficacy. Additionally, the table highlights the Area Under the Receiver Operating Characteristic curve (AUROC) along with its 95% Confidence Interval (CI) for each device, providing a quantitative measure of diagnostic accuracy. These metrics serve as vital benchmarks for evaluating the performance of technologies such as Drug-Delivery Systems and Retinal Implants, ultimately guiding clinical decisions and enhancing therapeutic outcomes in diverse patient populations."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    340.0
+   ],
+   "ocr": "all cases cases with one indicator cases with two indicators cases with three indicators\nM* PA* M, PH* M, PA* PH, PA* M, PH, PA*\nno IA 490 231 6 253 - - -\nproven IA 56 3 6 17 13 2 15\nprobable IA 25 6 - 17 - 1 1\npossible IA 133 45 - 88 - - -",
+   "table_id": "img_035804_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    355.0,
+    580.0,
+    531.0
+   ],
+   "ocr": "Network Parameter Requirement of Implantable Medical Devices\nPace-Maker Neural Stimulators Drug-Delivery Systems Retinal Implants Cochlear Implants Endoscopy Capsules Active Prostheses\nThroughput up to 100 KBPS up to 100 KBPS up to 150 KBPS up to 150 KBPS up to 100 KBPS up to 150 KBPS up to 150 KBPS\nLatency up to 10 ms up to 30 ms up to 60 ms up to 20 ms up to 30 ms up to 60 ms up to 20 ms\nPayload 40 KBPS 60 KBPS 30 KBPS 80 KBPS 60 KBPS 30 KBPS 80 KBPS\nDuty cycling (MICS band) 0.1% 0.1% 0.25% 0.1% 0.1% 0.25% 0.1%",
+   "table_id": "img_035804_t1"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    546.0,
+    580.0,
+    667.0
+   ],
+   "ocr": "Significant fibrosis Cirrhosis\nAUROC (95% CI) AUROC (95% CI)\nAPRI 0.61 (0.54-0.67) 0.64 (0.58-0.70)\nFIB-4 0.57 (0.50-0.63) 0.63 (0.57-0.69)\nComparison of AUROC\nAPRI vs FIB-4 p=0.11 p=0.853",
+   "table_id": "img_035804_t2"
+  }
+ }
+}

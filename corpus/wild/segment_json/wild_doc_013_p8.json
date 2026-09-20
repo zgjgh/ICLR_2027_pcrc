@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_013",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in the accompanying table offers a comprehensive overview of the distribution of certain metrics across various categories."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "Specifically, the table highlights the prevalence of instances where values are less than or equal to 0.125, providing a clear indication of how frequently these lower thresholds occur within the analyzed data set."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    364.0
+   ],
+   "ocr": "MIC (mg/L) Levofloxacin Moxifloxacin Sparfloxacin Gemifloxacin Gatifloxacin\nNo. % No. % No. % No. % No. %\n≤0.125 2 3.8 1 1.9\n≤0.25 7 13.4 5 9.6 14 26.9 7 13.5 8 15.4\n0.50 10 19.2 18 34.6 9 17.3 14 26.9 15 28.8\n1 mg/L 15 28.8 15 28.8 10 19.2 9 17.3 7 13.5\n2.00 8 15.4 9 17.3 8 15.4 14 26.9 12 23.1\n4.00 8 15.4 3 5.8 7 13.5 6 11.5 7 13.5\n8.00 4 7.7 2 3.8 3 5.8 2 3.8\n16.00 1 1.9\nMIC ≥ 2 mg/L 20 38.5 14 26.9 19 36.5 20 38.4 21 40.4\nMIC50b 1.0 1.0 1.0 1.0 1.0",
+   "table_id": "img_013019_t0"
+  },
+  "p8_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    380,
+    580,
+    438
+   ],
+   "ocr": "The first column, labeled \"No.,\" enumerates the total number of occurrences that fall within this criterion, while the corresponding \"%\" column quantifies these occurrences as a percentage of the overall dataset. This dual representation allows for a nuanced understanding of the data, showcasing not only the absolute counts but also their relative significance within the broader context."
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    426,
+    580,
+    500
+   ],
+   "ocr": "Furthermore, the subsequent columns follow a similar format, capturing additional metrics that further elucidate this phenomenon. By analyzing these figures, stakeholders can gain insights into trends and patterns that may warrant further investigation or action. The implications of these findings are vital for informed decision-making, particularly in scenarios where low values may indicate underlying issues or opportunities for improvement in performance or compliance with established standards."
+  }
+ }
+}

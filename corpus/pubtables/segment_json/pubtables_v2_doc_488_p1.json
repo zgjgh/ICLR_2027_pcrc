@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_488",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    401.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparing Epidemics on ERGMs and Configuration Type Network Models"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    290.3,
+    107.4
+   ],
+   "ocr": "Table 1. Summary of High School Contact Networks."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    178.5
+   ],
+   "ocr": "Network Num. Nodes Num. Isolates Tie Duration (min.) Density Mean Node Degree Max. Clique Sizes\nHS75 538 0 75 0.005 2.48 1–4\nHS60 688 0 60 0.008 5.42 1–6\nHS6 789 5 6 0.073 57.48 1–25",
+   "table_id": "PMC4640514_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    191.2,
+    697.0,
+    240.5
+   ],
+   "ocr": "Property summary of empirical networks from high school data with contact durations at least 75 minutes (HS75), 60 minutes (HS60) and 6 minutes (HS6). doi:10.1371/journal.pone.0142181.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    283.0,
+    726.7,
+    641.6
+   ],
+   "ocr": "school. Our version of the network, shown in Fig 2, was manually recoded starting from Fig 2 of Bearman et al. [30] so we have an attribute for gender, but not the additional attributes col- lected in the study. This contact network is relevant for infections where transmission involves intimate or sexual contact. Such SIR-type infections include cytomegalovirus (CMV) and Epstein-Barr virus (EBV). In the relationships network there are 573 nodes and 477 edges, including one male-male edge and one female-female edge. If one ignored those two same-sex edges the network would be bipartite, although we illustrate more general models here. Notably, the network has only one triangle, one 9-star and three overlapping 4-cycles. In particular, clustering is not a signifi- cant feature of the network. PWID Contact Network. For this study we use the same empirical PWID network described previously [24] and shown in Fig 3. A tie represents two people have engaged in injecting behaviour at the same place and time within three months prior to interview. The population of interest are in three urban neighbourhoods in Melbourne, Australia. A number of personal details are known for each respondent. Location, age (<25 years or >25 years), gender and injecting frequency (less than daily, at least daily) have previously been included in a contact network model [24] for this data. This contact network is relevant for infections involving blood-to-blood contact. Hepatitis B is an example of an infection that can be approx- imated as SIR-type. Importantly, although the data collection used network-based methods, a complete network census was not performed. Rather, we can think of the empirical network as a snowball sample, consisting of seed nodes (“wave 0”, “zone 0”) and nodes in waves i, i 1. Assuming every node"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    593.9,
+    628.7,
+    603.6,
+    650.5
+   ],
+   "ocr": "�"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    644.1,
+    714.5,
+    658.1
+   ],
+   "ocr": "“remembers” to nominate all its network neighbours, nodes in wave i, i 1, are all the nodes"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    609.4,
+    645.2,
+    619.2,
+    667.0
+   ],
+   "ocr": "�"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    659.7,
+    727.3,
+    898.4
+   ],
+   "ocr": "nominated by nodes in wave i − 1 that are not in wave i − 1 themselves. (See Rolls et al. [24] for more details on addressing the effect of missing nominations on the zone structure.) Network Models for the High School Networks For the high school networks we consider several configuration-type models and an exponen- tial random graph model (ERGM). For comparison purposes we also consider an Erdős-Rényi model [31] (sometimes called the G(n, p) model for n nodes and edge probability p). For each network model we generate a random sample of 100 networks. Configuration-Type Models. We consider six configuration-type models: the standard configuration model (CM), the edge-triangle model (ET), a variation of the edge-triangle model that adds subgraphs of size four (+sub4), a variation that then adds 3-triangles and 4-tri- angles to the first variation (+34tri), a variation that then adds a subgraph with three connected triangles to the second variation (+truss), and a fourth variation that then adds maximal cliques of size five and above to the third variation (+clqs5+). Some of the subgraphs have been"
+  },
+  "p1_b9": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142181 November 10, 2015 7 / 36"
+  }
+ }
+}

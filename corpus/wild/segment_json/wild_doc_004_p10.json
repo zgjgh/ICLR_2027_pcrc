@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_004",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    43,
+    492,
+    106
+   ],
+   "ocr": "The analysis of genetic variants in patients with pectoralis muscle anomalies reveals significant insights into potential underlying causes. The data presented in the table highlights the correlation between chromosomal abnormalities and phenotypic presentations, particularly in the context of copy number variations (CNVs). For instance, the entry for Patient ID 2, who is female, details a notable CNV located at chromosome 5p15.2, specifically within the coordinates Hg19 of chr5:13266637-14011580."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    96,
+    492,
+    132
+   ],
+   "ocr": "This CNV spans a size of 0.74 Mbp, indicating a substantial genomic alteration that may contribute to the observed pectoralis muscle phenotype. Additionally, the table outlines possible candidate genes associated with these CNVs, providing a crucial link between genetic variations and clinical manifestations."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    147.0,
+    492.0,
+    725.0
+   ],
+   "ocr": "Patients ID Gender Chr. band Coordinates Hg19 Size (Mbp) CNV Possible candidate genesa Inh Pectoralis muscle phenotype (L/R)/Additional anomalies (L/R) Previous reports\n2 F 5p15.2 chr5:13266637-14011580 0.74 Dup DNAH5, TRIO Mat hypoplasia (L)/upper limb hypoplasia (L) -\n3 M 5p14.3 chr5:22187485-22740287 0.55 Dup CDH12 de novo hypoplasia (R)/hand hypoplasia (R) -\n4b F 5p14.1-p13.3 chr5:27656463-29650802 1.99 Del CDH6, CDH9 Mat hypoplasia (R) -\n5 M 6q21-q22.1 chr6:111777947-116488007 4.71 Del REV3L, FYN, WISP3, LAMA4, MARCKS, FRK, COL10A1 Nd hypoplasia (R)/scoliosis/pectus excavatum/intellectual disability (22)\n6 F 7q11.22 chr7:70182803-70223737 0.04 Del - de novo agenesis (L)/brachysyndactyly (L)/ASD, pectus excavatum -\n7 F 9p24.2-p24.1 chr9:4152060-4627624 0.48 Dup GLIS3 Mat agenesis (L)/upper limb hypoplasia (L) -\n9 F 11q12.3 chr11:63185662-63342369 0.16 Del HRASLS5, RARRES3, HRASLS2, PLA2G16 de novo hypoplasia (R)/hand hypoplaisa, vertebral defects (8)\n10 M 11p14.1 chr11:28131098-28349712 0.22 Del KIF18A Mat hypoplasia (R) -\n11 F 12q21.31-q21.32 chr12:86018191-87432656 1.41 Dup NTS Pat hypoplasia (R)/brachydactyly -\n12 M 13q12.11-q12.12 chr13:22840054-24890143 2.05 Del SGCG, SACS, SPATA13 Mat agenesis (R)/brachysyndactyly (R), pectus excavatum -\n14 F 16p13.11-p12.3 chr16:15256686-18546759 3.29 Dup NDE1, MYH11, ABCC6, XYLT1 Not mat agenesis (R)/upper limb hypoplasia (R) -\n15 M 16p13.11-p12.3 chr16:15131723-16305736 1.17 Del RRN3, NDE1, MYH11, ABCC6 Nd hypoplasia (R), pectus carinatum -\n16 F 16q22.3-q23.1 chr16:74087653-74519724 0.43 Dup PSMD7, GLG1 Mat agenesis (L)/upper limb hypoplasia (L), rib defects (1)\n20 M Xp11.22 chrX:53666883-54056673 0.39 Dup HUWE1 Mat hypoplasia (R) (1)",
+   "table_id": "img_005031_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    738,
+    492,
+    761
+   ],
+   "ocr": "The inclusion of previous reports allows for a comparative analysis, enhancing the understanding of the inheritance patterns (Inh) observed in this cohort."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    751,
+    492,
+    788
+   ],
+   "ocr": "By integrating these metrics, the study aims to facilitate further research into the genetic basis of muscle development anomalies and their implications for patient care and genetic counseling. Such insights are essential for advancing personalized medicine approaches in the management of congenital muscle disorders."
+  }
+ }
+}

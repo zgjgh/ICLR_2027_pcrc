@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_084",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Inference of competing endogenous RNA interaction networks"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    97.5,
+    709.6,
+    119.6
+   ],
+   "ocr": "Table 5. Number of inferred ceRNA interactions and number of ceRNAs in those interactions (output of Can- cerin—Step 3)."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    128.3,
+    699.8,
+    248.9
+   ],
+   "ocr": "BRCA KIRC HNSC\nNo. of all ceRNA interactions 4,115 4,639 2,725\nNo. of mRNA-mRNA ceRNA interactions1 3,674 4,614 2,589\nNo. of mRNA-lncRNA ceRNA interactions1 394 25 121\nNo. of lncRNA-lncRNA ceRNA interactions1 47 0 15\nNo. of all ceRNAs 1,593 1,081 1,110\nNo. of mRNAs as ceRNAs2 1,491 1,071 1,063\nNo. of lncRNAs ceRNAs2 102 10 47",
+   "table_id": "PMC6072113_table_4"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    260.5,
+    725.8,
+    883.4
+   ],
+   "ocr": "1: subset of all ceRNA interactions (Row 1) 2: subset of all ceRNAs (Row 5) https://doi.org/10.1371/journal.pcbi.1006318.t005 KIRC, 22 between BRCA and HNSC, and 32 between KIRC and HNSC). In all three cancer types, almost all ceRNA interactions were between mRNAs (84% (BRCA), 99% (KIRC), and 95% (HNSC)). In BRCA and HNSC, many lncRNAs that were involved in lncRNA-lnRNA ceRNA interactions also participated in mRNA-lncRNA ceRNA interactions. Specifically, out of 57 lncRNAs (BRCA) and 20 lncRNAs (HNSC) involved in lncRNA-lncRNA ceRNA inter- actions, 41 (BRCA) and 14 (HNSC) of those lncRNAs also participated in mRNA-lncRNA ceRNA interactions. Inferred ceRNA networks were scale-free and independent from protein-protein inter- actions (PPI) and TF-gene interactions. Biological networks usually exhibit scale-free prop- erty [64]. To check if the inferred ceRNA networks were scale-free, we computed the degree probability distribution function of each ceRNA network. Following the power-law rule [65], we fitted linear regression of log(ceRNA’s degree probability) to log(ceRNA’s degree). Log-log plots of all three ceRNA networks had negative slope with high fitness, which clearly indicated that the inferred ceRNA networks were scale-free (Fig 2). Two genes can interact and thereby regulate each other via different regulatory layers (e.g., protein-protein interactions (PPIs) and TF-gene interactions). To test the specificity of Can- cerin to identify ceRNA interactions, we checked whether the inferred ceRNA interaction net- works also contained TF-gene interactions or PPIs. We collected 410,337 PPIs from BioGrid database version 3.4.159 [66]. Within the total number of inferred ceRNA interactions in each cancer network, very few interactions were PPI (0.85% (BRCA), 0.63% (KIRC), and 0.73% (HNSC)). Similarly, we also found very few ceRNA interactions that were also TF-gene inter- actions (0.78% (BRCA), 0.09% (KIRC), and 0.18% (HNSC)). CeRNAs were significantly associated with cancer-related genes. To test if the ceRNAs in the inferred ceRNA networks were enriched in cancer-associated genes, we compiled a list of cancer-related genes (oncogenes and tumor-suppressor genes) from the Cancer Gene Cen- sus in COSMIC v83 [67], the Bushman lab’s Cancer Gene List v3 [68], and the Network of Cancer Genes 5.0 [69]. It resulted 2,944 cancer-related genes in total. We performed a hyper- geometric test between the inferred ceRNAs in each cancer type with the cancer-related gene list. The results showed that ceRNAs were significantly enriched in the cancer-related genes (p-values were 4.3e-4 (BRCA), 5.0e-3 (KIRC), and 1.9e-5 (HNSC)). We also performed a hypergeometric test between the DE RNAs that were not predicted to be ceRNAs (i.e., non- ceRNAs) and the cancer-related genes. In all the three cancer types, unlike the ceRNAs, the �"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    861.8,
+    723.2,
+    890.8
+   ],
+   "ocr": "non-ceRNAs did not show significant enrichment with the cancer-related genes (p-values 1 in all three cancer types)."
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS Computational Biology | https://doi.org/10.1371/journal.pcbi.1006318 July 16, 2018 12 / 23"
+  }
+ }
+}

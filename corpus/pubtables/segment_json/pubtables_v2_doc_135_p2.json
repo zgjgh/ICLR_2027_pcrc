@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_135",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Chen et al. BMC Bioinformatics 2011, 12:311 Page 8 of 14 http://www.biomedcentral.com/1471-2105/12/311"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    362.7,
+    426.8
+   ],
+   "ocr": "Features Testing P R F1 AUC\nASA 10-fold 0.58 0.65 0.61 0.62\nTest set 0.60 0.61 0.61 0.57\nBC 10-fold 0.66 0.33 0.43 0.67\nTest set 0.71 0.40 0.51 0.58\nPhy 10-fold 0.63 0.51 0.55 0.67\nTest set 0.59 0.53 0.56 0.58\nECS 10-fold 0.58 0.27 0.34 0.51\nTest set 0.74 0.18 0.28 0.68\nSE 10-fold 0.57 0.53 0.54 0.60\nTest set 0.59 0.61 0.60 0.52\nPSSM 10-fold 0.65 0.54 0.58 0.65\nTest set 0.64 0.48 0.55 0.66\nPhy+PSSM+ECS+SE 10-fold 0.65 0.65 0.65 0.68\nTest set 0.69 0.68 0.68 0.68\nPhy+ASA+BC 10-fold 0.65 0.60 0.61 0.70\nTest set 0.62 0.70 0.66 0.62\nPhy+ASA+BC+PSSM+ECS+SE 10-fold 0.66 0.68 0.66 0.72\nTest set 0.65 0.63 0.64 0.66",
+   "table_id": "PMC3176265_table_2"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    433.8,
+    353.6,
+    443.7
+   ],
+   "ocr": "ASA denotes accessible surface area; BC denotes biochemical contacts; Phy"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    441.6,
+    678.6,
+    470.3
+   ],
+   "ocr": "means physicochemical features; ECS denotes evolutionary conservation score; inferior both on self-consistency test (F1 = 0.68 and SE means sequence entropy; and PSSM is the abbreviation of Position-Specific AUC = 0.77) and 10-fold cross-validation test (F1 = 0.61"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    465.8,
+    126.8,
+    475.7
+   ],
+   "ocr": "Scoring Matrix."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    471.7,
+    678.6,
+    651.1
+   ],
+   "ocr": "and AUC = 0.70). The combination of all six features also obtains a better performance with F1 = 0.84 and sequence entropy, there is at least 55% increase in F1 AUC = 0.91 on self-consistency test. And on 10-fold and 37% increase in AUC on self-consistency test. Simi- cross-validation test, all features model achieves the best larly, the F1 increases from 0.34 to 0.65 and the AUC performance (F1 = 0.66 and AUC = 0.72). The analyses increases from 0.51 to 0.68 on 10-fold cross-validation above indicate that, there is no single feature that makes test. Among sequence-based feature combinations, this a dominant contribution. Rather, it seems that the fea- feature combination mentioned above outperforms tures in different combinations are complementary, and other sequence features combinations. The accessible that the exploration of these complementarities might surface area (ASA) feature performs better in predicting be very helpful for probing hot spots. It also supports hot spots both on self-consistency test (F1 = 0.68 and the claim that there are no general patterns of hydro- AUC = 0.72) and 10-fold cross-validation test (F1 = 0.61 phobicity, shape or charge that can be used to easily"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    644.1,
+    366.1,
+    657.8
+   ],
+   "ocr": "and AUC = 0.62). This suggests that a hot spot residue"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    652.5,
+    678.6,
+    883.9
+   ],
+   "ocr": "detect hot spots [15,17]. We have also computed the contribution ratio of each feature in sequence-based model on 10-fold cross-vali- dation test. Deleting one feature at a time can lead to some decrease in F1 score (see Table 4). Among excluded features, the physicochemical feature can make more decrease in F1 (ΔF = 0.06). The evolutionary Table 4 Contribution ratio of each feature in sequence- based model on 10-fold cross-validation test Excluded feature P R F1 ΔF1 SE 0.63 0.62 0.62 -0.03 ECS 0.62 0.67 0.64 -0.01 PSSM 0.62 0.64 0.62 -0.03 Phy 0.61 0.58 0.59 -0.06"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    878.1,
+    669.9,
+    914.7
+   ],
+   "ocr": "Figure 7 ROC curves for different models on 10-fold cross- validation test. The curves for different models are presented on SE means sequence entropy; ECS denotes evolutionary conservation score; 10-fold cross-validation test. PSSM is the abbreviation of Position-Specific Scoring Matrix; and Phy means"
+  },
+  "p2_b9": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    912.3,
+    479.1,
+    922.2
+   ],
+   "ocr": "physicochemical features."
+  }
+ }
+}

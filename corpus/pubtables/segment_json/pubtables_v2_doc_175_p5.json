@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_175",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "caption",
+   "bbox": [
+    58.9,
+    54.7,
+    648.1,
+    110.9
+   ],
+   "ocr": "Sensors 2015, 15 12351 Table 6. Reliability of water displacement and SkanLab in measuring human arms (N = 30)."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    88.2,
+    122.1,
+    618.0,
+    299.8
+   ],
+   "ocr": "Water Displacement SkanLab\nRater 1 Rater 2 Rater 1 Rater 2\nMean ± SD (mL) Mean ± SD (mL) Mean ± SD (mL) Mean ± SD (mL)\nReplicate 1 1927.7 ± 491.9 1919.2 ± 489.9 1911.4 ± 495.4 1911.5 ± 501.8\nReplicate 2 1922.2 ± 495.7 1920.2 ± 497.4 1911.3 ± 496.1 1915.7 ± 501.7\na\nIntra-rater SEM 9.79 12.95 15.54 16.50\n0.9996 0.9993 0.9990 0.9989\nb\nIntra-rater ICC\n(0.9991 to 0.9998) (0.9986 to 0.9997) (0.9978 to 0.9995) (0.9977 to 0.9995)\na\nInter-rater SEM 6.92 8.56\nb\nInter-rater ICC 0.9998 (0.9995 to 0.9999) 0.9997 (0.9994 to 0.9999)",
+   "table_id": "PMC4507693_table_5"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    304.9,
+    648.2,
+    905.6
+   ],
+   "ocr": "a Standard error of measurement; b intraclass correlation coefficient. 3.2.3. Duration of Measurement The mean duration the volunteers were involved in the measurements for measuring volume was higher for the water displacement technique than for SkanLab, being respectively equal to 2′ and 3″ ± 29″ and 42″ ± 11″ (p ≈ 0.000). The mean duration of data cleaning using MeshLab was equal to 8′ and 35″. 4. Discussion Various methods can be used for determining arm volume: anthropometry, infrared technology [11], laser scanning and water displacement; the latter being considered the “gold standard” [38,39]. We have shown that SkanLab is a low-cost technique that is fast, reliable and accurate in measuring the volume of both inanimate objects and human arms when compared to the reference methods. In fact, the very low biases and narrow LOAs obtained in this study were similar or lower to the lowest values obtained with other methods (Table 7), while the intra- and inter-rater reliability was similar or higher and the measurement time shorter. In particular, when measuring inanimate objects with respect to the geometrically-determined volume (Table 7), the accuracy of SkanLab, in terms of bias and LOA, was slightly worse than the very high one shown by laser scanning [16] and slightly better than that shown by Perometer [18]. However, Man et al. [18] do not mention the limits of the agreement nor show the raw data, hence reducing the informative value of the observed bias. The comparison with the water displacement technique is difficult because of the wide range of biases (from 2.7 mL, obtained in this research, to 120.7 mL). This variability is probably due to different rater expertise, instruments and experimental conditions. Moreover, the lack of information on LOA of some studies [18,30] does not allow a full interpretation of the results. To our knowledge, there are no statistical indices on reliability, such as ICC or SEM, to be compared with the excellent values obtained in this study with inanimate objects. However, Mc Kinnon et al. [16] found high reliability evaluated by the coefficient of reproducibility (19.0 mL) using laser scanning."
+  }
+ }
+}

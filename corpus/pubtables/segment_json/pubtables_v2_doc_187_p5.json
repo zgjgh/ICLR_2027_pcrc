@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_187",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    423.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Sex and STEM Occupation Predict AQ Scores in Half a Million People"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    434.1,
+    727.3,
+    655.0
+   ],
+   "ocr": "Fig 5. Density plots for selected hypothesis-driven demographic variables. A. Sex. B. Occupation. doi:10.1371/journal.pone.0141229.g005 From this study we were able to replicate previous findings concerning the effect of sex and occupation on AQ scores, despite this not being a representative sample from the general pop- ulation. This suggests these effects are robust and universal and allows us to conclude that traits commonly associated with autism are strongly linked to traits associated with being male and with STEM occupations, regardless of other factors. More generally, the use of a large data set in the current study demonstrates the value of collaborating with groups that have access to national and international survey platforms, and of collaboration between researchers and non-researchers. Table 5. The linear regression model relating covariates to AQ score. Female and Non-STEM used as reference levels. Correlation effect sizes = 0.1, 0.3, 0.5."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    663.7,
+    726.7,
+    868.2
+   ],
+   "ocr": "Model term B 95% CI p-value Partial eta squared\nIntercept 20.35 20.23 20.47 <0.0001 0.19\nSex: Male -0.44 -0.67 -0.20 <0.0001 0.00\nAge (Years) -0.06 -0.06 -0.05 <0.0001 0.003\nOccupation: STEM 1.15 1.05 1.96 <0.0001 0.001\nOther 1.76 1.58 1.94 <0.0001 0.001\nInteractions: Male x Age 0.08 0.07 0.09 <0.0001 0.002\nMale x Other career 0.12 -0.21 0.45 0.46 0.00\nMale x STEM -0.48 -1.04 0.09 0.10 0.00\nAge x Other career 0.00 -0.00 0.00 0.93 0.00\nAge x STEM 0.02 0.01 0.04 <0.0001 0.00\nMale x Age x Other -0.02 -0.02 -0.01 <0.0001 0.00\nMale x Age x STEM -0.01 -0.03 0.00 0.15 0.00",
+   "table_id": "PMC4619566_table_4"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    876.3,
+    186.2,
+    887.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0141229.t005"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0141229 October 21, 2015 12 / 15"
+  }
+ }
+}

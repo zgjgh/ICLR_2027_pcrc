@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_192",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    81.0
+   ],
+   "ocr": "In Q1 2024, Boeing Company reported financial ratios indicating a Gross Margin of 35.0%, Operating Margin of 22.0%, Net Margin of 15.5%, Return on Assets of 8.0%, and Return on Equity of 12.5%."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    286.0
+   ],
+   "ocr": "FinancialRatios Q12024 ProfitabilityMetrics\nGrossMargin OperatingMargin NetMargin ReturnonAssets ReturnonEquity\n35.0% 22.0% 15.5% 8.0% 12.5%\nLiquidityRatios CurrentRatio QuickRatio CashRatio DebtServiceRatio\n1.8 1.5 0.6 2.3 1.0\nLeverageRatios DebttoEquity DebttoAssets InterestCoverage EquityRatio\n0.7 0.4 5.0 0.5 0.3",
+   "table_id": "img_219301_t0"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    302,
+    580,
+    391
+   ],
+   "ocr": "The Liquidity Ratios showed a Current Ratio of 1.8, Quick Ratio of 1.5, Cash Ratio of 0.6, and Debt Service Ratio of 2.3, with an overall Liquidity Ratios value of 1.0. The Leverage Ratios included a Debt to Equity of 0.7, Debt to Assets of 0.4, Interest Coverage of 5.0, and an Equity Ratio of 0.5. In the Commercial Aircraft Deliveries table, the Delivery Summary for Q1 2024 indicated Total Deliveries of 100, with 90 Completed and 120 Projected Deliveries. The Boeing 737 model was Completed with 50 Total Deliveries, 45 Delivered This Quarter, and 55 Forecasted Deliveries, while the Boeing 787 was In Progress with 20 Total Deliveries and 15 Delivered This Quarter."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    379,
+    580,
+    452
+   ],
+   "ocr": "The Boeing 777 model was Completed with 30 Total Deliveries and 30 Delivered This Quarter, while the Boeing 747 was Canceled with 5 Total Deliveries and 0 Delivered This Quarter. The Asia- Pacific Region had a Market Share of 35% and 30% in Key Customers, with Airline A at 15 Total Deliveries and 10 Delivered This Quarter, Airline B at 20 Total Deliveries and 15 Delivered This Quarter, and Airline C at 10 Total Deliveries and 10 Delivered This Quarter."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    470.0,
+    580.0,
+    749.0
+   ],
+   "ocr": "CommercialAircraftDeliveries Model DeliveryStatus\nDeliverySummaryQ12024 TotalDeliveries DeliveredThisQuarter ForecastedDeliveries\nBoeing737 Completed 50 45 55 Boeing787 InProgress 20\n15 25 Boeing777 Completed 30 30 35 Boeing747\nCanceled 5 0 2 TotalDeliveries Completed 100 90\nTotalForecast Projected 120 110 Asia-PacificRegion MarketShare 35% 30%\nKeyCustomers AirlineA 15 10 20 AirlineB 20 15\n25 AirlineC 10 10 15 TotalCustomers 3 3\nDeliveryPerformance OnTime 90% 85% Delayed 10% 15% Total",
+   "table_id": "img_219301_t1"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    764.0,
+    580.0,
+    779.0
+   ],
+   "ocr": "Overall, the Delivery Performance showed 90% On Time and 10% Delayed."
+  }
+ }
+}

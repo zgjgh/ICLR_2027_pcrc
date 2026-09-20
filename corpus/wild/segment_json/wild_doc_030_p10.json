@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_030",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "The relationship between specific genes and their corresponding primer sequences is critical for the accurate detection and quantification of gene expression in various biological contexts. In this report, we focus on tumor necrosis factor-alpha (TNF- α), a key cytokine involved in systemic inflammation and a crucial mediator in the immune response. The data table provides essential information regarding the primer sequences utilized for the amplification of TNF-α transcripts during quantitative polymerase chain reaction (qPCR) analysis. Notably, the forward primer sequence, CAGGCGGTGCCTATGTCTC, has been specifically designed to enhance the specificity and efficiency of the amplification process."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    232
+   ],
+   "ocr": "This primer sequence ensures that the resultant products correspond closely to the target gene, thereby facilitating accurate measurement of TNF-α expression levels. Additionally, the table includes information on other relevant genes, which can be instrumental in comparative studies assessing cytokine profiles under various experimental conditions. By rigorously analyzing these sequences, researchers can gain deeper insights into the regulatory mechanisms underlying TNF-α production and its implications in pathological states, such as autoimmune disorders and chronic inflammatory diseases. Consequently, the data presented serves as a foundational element for further research aimed at elucidating the role of TNF-α in health and disease."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    250.0,
+    580.0,
+    550.0
+   ],
+   "ocr": "Gene Primer Sequence (5′–3′)\nTNF-α Forward CAGGCGGTGCCTATGTCTC\nReverse CGATCACCCCGAAGTTCAGTAG\nIL-6 Forward CTGCAAGAGACTTCCATCCAG\nReverse AGTGGTATAGACAGGTCTGTTGG\nLC3 Forward GACCGCTGTAAGGAGGTGC\nReverse AGAAGCCGAAGGTTTCTTGGG\nBeclin1 Forward ATGGAGGGGTCTAAGGCGTC\nReverse TGGGCTGTGGTAAGTAATGGA\nBax Forward AGACAGGGGCCTTTTTGCTAC\nReverse AATTCGCCGGAGACACTCG\nBcl-2 Forward GCTACCGTCGTCGTGACTTCGC\nReverse CCCCACCGAACTCAAAGAAGG\nβ-actin Forward GGCTGTATTCCCCTCCATCG\nReverse CCAGTTGGTAACAATGCCATGT",
+   "table_id": "img_033823_t0"
+  }
+ }
+}

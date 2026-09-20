@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_414",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3626293_table_0",
+   "page_num": 1,
+   "bbox": [
+    70.6,
+    515.9,
+    685.8,
+    906.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3626293_table_0.png",
+   "html": "<table><tr><td>Gene symbol (Accession number)</td><td>Primer and probe sequence (5&#8242;&#8212;3&#8242;)</td><td>Amplicon size (bp)</td></tr><tr><td>Ankrd11</td><td>F: CTGAAGGAGCTGTTCAAGCA</td><td>96</td></tr><tr><td rowspan=\"2\">NM_001081379</td><td>R: TTGCTCACAGGACACAATCA</td><td></td></tr><tr><td>P: TGCTGCAGGCGCAGCTTACC</td><td></td></tr><tr><td>Ankrd37</td><td>F: TGATGTCCAGATTGGCGTAT</td><td>120</td></tr><tr><td rowspan=\"2\">NM_001039562</td><td>R: CTTGCCGTCTGCATACATTT</td><td></td></tr><tr><td>P: CCTGGCACATTCTGGAAAGCCA</td><td></td></tr><tr><td>Anxa2</td><td>F: GTGAAGAGGAAAGGAACCGA</td><td>129</td></tr><tr><td rowspan=\"2\">NM_007585</td><td>R: CTTGATGCTCTCCAGCATGT</td><td></td></tr><tr><td>P: CGCAGTGTGTGCCACCTCCA</td><td></td></tr><tr><td>Mt2</td><td>F: CTGCAAATGCAAACAATGC</td><td>116</td></tr><tr><td rowspan=\"2\">NM_008630</td><td>R: ACTTGTCGGAAGCCTCTTTG</td><td></td></tr><tr><td>P: CCCTGGGAGCACTTCGCACA</td><td></td></tr><tr><td>Tpi1</td><td>F: GAAGAAGTGCCTGGGAGAAC</td><td>109</td></tr><tr><td rowspan=\"2\">NM_009415</td><td>R: CTGTCTGGCAAAGTCGATGT</td><td></td></tr><tr><td>P: AAACCACCTCGGTGCCTGCC</td><td></td></tr><tr><td>Vegfa</td><td>F: CACAGCAGATGTGAATGCAG</td><td>111</td></tr><tr><td rowspan=\"2\">NM_001025250</td><td>R: TTTAAACCGGGATTTCTTGC</td><td></td></tr><tr><td>P: TGACCCTTTCCCTTTCCTCGAACTG</td><td></td></tr><tr><td>Rpl5</td><td>F: GGAAGCACATCATGGGTCAGA</td><td>70</td></tr><tr><td rowspan=\"2\">NM_016980</td><td>R: TACGCATCTTCATCTTCCTCCATT</td><td></td></tr><tr><td>P: TGTGGCAGACTACATGCGCTACC</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_1",
+   "page_num": 2,
+   "bbox": [
+    70.6,
+    125.0,
+    367.9,
+    367.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3626293_table_1.png",
+   "html": "<table><tr><td>Gene symbol</td><td>P8-O/P8-N ratio</td><td>P13-O/P13-N ratio</td></tr><tr><td>Chd4</td><td>2.1374</td><td>0.5983</td></tr><tr><td>Ankrd11</td><td>1.7291</td><td>0.6465</td></tr><tr><td>Anxa2</td><td>0.6669</td><td>2.1625</td></tr><tr><td>Pgk1</td><td>0.6066</td><td>1.5450</td></tr><tr><td>Ankrd37</td><td>0.5776</td><td>1.5206</td></tr><tr><td>Ak3l1</td><td>0.5606</td><td>1.7040</td></tr><tr><td>Pgam1</td><td>0.5438</td><td>2.0699</td></tr><tr><td>Rdx</td><td>0.5414</td><td>10.3585</td></tr><tr><td>Pdlim3</td><td>0.5330</td><td>1.6370</td></tr><tr><td>Pdk1</td><td>0.5242</td><td>1.8361</td></tr><tr><td>Tpi1</td><td>0.5030</td><td>1.6187</td></tr><tr><td>Vegfa</td><td>0.2877</td><td>2.4823</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_2",
+   "page_num": 3,
+   "bbox": [
+    70.6,
+    111.3,
+    674.3,
+    435.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3626293_table_2.png",
+   "html": "<table><tr><td>GO Term</td><td>P Value</td><td>Genes</td><td>Fold Enrichment</td></tr><tr><td colspan=\"4\">P8-O/P8-N</td></tr><tr><td>regulation of cytoskeleton organization</td><td>0.012034</td><td>Mtap2, Mtap1b, Rasa1</td><td>17.157</td></tr><tr><td colspan=\"4\">P13-O/P13-N</td></tr><tr><td>glycolysis</td><td>1.41E-05</td><td>Tpi1, Pgam1, Hk2, Pgk1, Gpi1</td><td>32.853</td></tr><tr><td>glucose metabolic process</td><td>1.05E-04</td><td>Pdk1, Tpi1, Pgam1, Hk2, Pgk1, Gpi1</td><td>12.390</td></tr><tr><td>generation of precursor metabolites and energy</td><td>0.001813</td><td>Tpi1, Pgam1, Hk2, Ero1l, Pgk1, Gpi1</td><td>6.646</td></tr><tr><td>circulatory system process</td><td>0.00624</td><td>Acta2, Edn2, Hmox1, Vegfa</td><td>10.418</td></tr><tr><td>nitric oxide mediated signal transduction</td><td>0.006759</td><td>Mt2, Mt1</td><td>289.106</td></tr><tr><td>angiogenesis</td><td>0.01024</td><td>Hmox1, Vegfa, Gpi1, Anxa2</td><td>8.695</td></tr><tr><td>vascular process in circulatory system</td><td>0.012388</td><td>Acta2, Edn2, Vegfa</td><td>17.347</td></tr><tr><td>response to oxygen levels</td><td>0.020371</td><td>Hmox1, Vegfa, Bnip3</td><td>13.344</td></tr><tr><td>immune response</td><td>0.020881</td><td>Ccl12, Rmcs2, Vegfa, Bnip3, Ccl4, B2m</td><td>3.683</td></tr><tr><td>vasoconstriction</td><td>0.043145</td><td>Acta2, Edn2</td><td>44.478</td></tr><tr><td>negative regulation of multicellular organ- ismal process</td><td>0.045008</td><td>Hmox1, Vegfa, Anxa2</td><td>8.673</td></tr><tr><td>extracellular matrix organization</td><td>0.045821</td><td>Lgals3, Col2a1, Anxa2</td><td>8.587</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_3",
+   "page_num": 3,
+   "bbox": [
+    70.6,
+    635.4,
+    693.3,
+    755.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3626293_table_3.png",
+   "html": "<table><tr><td>Term</td><td>P Value</td><td>Genes</td><td>Fold Enrichment</td></tr><tr><td colspan=\"4\">Downregulated pathways</td></tr><tr><td>Starch and sucrose metabolism</td><td>0.008</td><td>Pygm, Gaa, Hk2, Hk1</td><td>9.516</td></tr><tr><td>Purine metabolism</td><td>0.034</td><td>Pde6a, Pde6b, Adssl1, Pde8a, Pde6h, Pde6g</td><td>3.273</td></tr><tr><td colspan=\"4\">Upregulated pathways</td></tr><tr><td>Gap junction</td><td>0.028</td><td>Tubb2b, Tubb2a, Tubb5, Tuba1a</td><td>5.931</td></tr><tr><td>Fc gamma R-mediated phagocytosis</td><td>0.039</td><td>Marcksl1, Marcks, Arpc5, Pik3r1</td><td>5.205</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_4",
+   "page_num": 3,
+   "bbox": [
+    139.5,
+    821.4,
+    598.2,
+    906.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3626293_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">P13-O/P13-N</td><td colspan=\"3\">P9-N/P30-N</td></tr><tr><td>Up-regulated</td><td>Down-regulated</td><td>Unchanged</td></tr><tr><td>Up-regulated</td><td>6</td><td>5</td><td>51</td></tr><tr><td>Down-regulated</td><td>3</td><td>3</td><td>2</td></tr><tr><td>Unchanged</td><td>126</td><td>223</td><td>21554</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_5",
+   "page_num": 4,
+   "bbox": [
+    81.9,
+    111.3,
+    684.9,
+    457.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3626293_table_5.png",
+   "html": "<table><tr><td>Gene symbol</td><td>Definition</td><td>P13-O/P13-N ratio</td><td>P9-N/P30-N ratio</td></tr><tr><td>Kcne1</td><td>potassium voltage-gated channel, Isk-related subfamily, member 1</td><td>0.6592</td><td>2.3086</td></tr><tr><td>Vcam1</td><td>vascular cell adhesion molecule 1</td><td>0.6341</td><td>1.9022</td></tr><tr><td>Slc38a5</td><td>solute carrier family 38, member 5</td><td>0.6191</td><td>1.7993</td></tr><tr><td>Rdx</td><td>radixin</td><td>10.3585</td><td>1.6608</td></tr><tr><td>Tagln2</td><td>transgelin 2</td><td>2.1198</td><td>1.6158</td></tr><tr><td>Col2a1</td><td>collagen, type II, alpha 1</td><td>1.7254</td><td>1.9554</td></tr><tr><td>Neurog2</td><td>neurogenin 2</td><td>1.7086</td><td>1.6937</td></tr><tr><td>Rbp1</td><td>retinol binding protein 1, cellular</td><td>1.6143</td><td>1.7148</td></tr><tr><td>Sat1</td><td>spermidine/spermine N1-acetyl transferase 1</td><td>1.5006</td><td>2.1131</td></tr><tr><td>Glul</td><td>glutamate-ammonia ligase 1</td><td>0.6594</td><td>0.2625</td></tr><tr><td>P2ry14</td><td>purinergic receptor P2Y, G-protein coupled, 14</td><td>0.6286</td><td>0.6476</td></tr><tr><td>Sfxn5</td><td>sideroflexin 5</td><td>0.6238</td><td>0.5462</td></tr><tr><td>Mt1</td><td>metallothionein 1</td><td>2.6682</td><td>0.3433</td></tr><tr><td>Mt2</td><td>metallothionein 2</td><td>2.2200</td><td>0.6344</td></tr><tr><td>Fos</td><td>FBJ osteosarcoma oncogene</td><td>1.7431</td><td>0.4556</td></tr><tr><td>Bhlhb2</td><td>Class B basic helix&#8211;loop&#8211;helix protein 2</td><td>1.5353</td><td>0.4539</td></tr><tr><td>Hk2</td><td>hexokinase 2</td><td>1.5251</td><td>0.1495</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_6",
+   "page_num": 4,
+   "bbox": [
+    80.8,
+    555.4,
+    692.2,
+    887.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3626293_table_6.png",
+   "html": "<table><tr><td>Gene symbol</td><td>Gene name</td><td>P13-O/P13-N ratio</td><td>P9-N/P30-N ratio</td></tr><tr><td>Adm</td><td>adrenomedullin</td><td>2.2952</td><td>1.2184</td></tr><tr><td>Anxa2</td><td>annexin A2</td><td>2.1625</td><td>1.2005</td></tr><tr><td>Ccl12</td><td>chemokine (C-C motif) ligand 12</td><td>1.6336</td><td>1.0920</td></tr><tr><td>Ccl4</td><td>chemokine (C-C motif) ligand 4</td><td>1.6343</td><td>1.0484</td></tr><tr><td>Chd4</td><td>chromodomain helicase DNA binding protein 4</td><td>0.5983</td><td>1.4473</td></tr><tr><td>Ddx5*</td><td>DEAD (Asp-Glu-Ala-Asp) box polypeptide 5</td><td>1.8907, 1.7185, 1.5464</td><td>1.1269, 1.0889, 0.8610</td></tr><tr><td>Edn2</td><td>endothelin 2</td><td>2.8626</td><td>0.8801</td></tr><tr><td>Egln1*</td><td>EGL nine homolog 1 (C. elegans)</td><td>1.8848, 2.0157, 1.6188</td><td>0.9181, 0.9040, 0.9575</td></tr><tr><td>Ero1l*</td><td>ERO1-like (S. cerevisiae)</td><td>1.8372, 1.9127</td><td>0.8408, 0.7613</td></tr><tr><td>Gpi1</td><td>glucose phosphate isomerase 1</td><td>1.6661</td><td>0.8129</td></tr><tr><td>Hmox1</td><td>heme oxygenase (decycling) 1</td><td>1.8236</td><td>1.1132</td></tr><tr><td>Muc2</td><td>mucin 2</td><td>2.0306</td><td>0.9220</td></tr><tr><td>Pgam1</td><td>phosphoglycerate mutase 1</td><td>2.0699</td><td>0.8084</td></tr><tr><td>Syt5</td><td>synaptotagmin V</td><td>2.7145</td><td>0.7828</td></tr><tr><td>Tpi1</td><td>triosephosphate isomerase 1</td><td>1.6187</td><td>0.6997</td></tr><tr><td>Vegfa</td><td>vascular endothelial growth factor A</td><td>2.4823</td><td>1.2186</td></tr><tr><td>Vim</td><td>vimentin</td><td>2.3312</td><td>1.4946</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3626293_table_7",
+   "page_num": 5,
+   "bbox": [
+    78.7,
+    111.3,
+    676.0,
+    259.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3626293_table_7.png",
+   "html": "<table><tr><td>Gene symbol</td><td>P8-O/P8-N PCR ratio</td><td>P8-O/P8-N Chip ratio</td><td>P13-O/ P13-N PCR ratio</td><td>P13-O/ P13-N Chip ratio</td><td>P9-N/ P30-N PCR ratio</td><td>P9-N/ P30-N Chip ratio</td></tr><tr><td>Ankrd11</td><td>2.2830</td><td>1.7291</td><td>1.5625</td><td>0.6465</td><td>0.5672</td><td>1.2766</td></tr><tr><td>Ankrd37</td><td>0.3149</td><td>0.5776</td><td>1.8058</td><td>1.5206</td><td>0.5643</td><td>1.0405</td></tr><tr><td>Anxa2</td><td>0.4648</td><td>0.6669</td><td>3.5604</td><td>2.1625</td><td>3.2840</td><td>1.2005</td></tr><tr><td>Mt2</td><td>5.3914</td><td>1.0532</td><td>2.1010</td><td>2.2200</td><td>0.4132</td><td>0.6344</td></tr><tr><td>Tpi1</td><td>0.5288</td><td>0.5030</td><td>2.6888</td><td>1.6187</td><td>0.7075</td><td>0.6997</td></tr><tr><td>Vegfa</td><td>0.7057</td><td>0.2877</td><td>4.8914</td><td>2.4823</td><td>0.9922</td><td>1.2186</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_239",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    529.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Integrated predictor of coronary heart disease"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    717.9,
+    119.7
+   ],
+   "ocr": "Table 2. DNA methylation and CHD status. Top 30 significant methylation sites associated with symptomatic CHD after Bonferroni correction for multiple compari- sons using training set data."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    67.3,
+    128.3,
+    701.0,
+    611.9
+   ],
+   "ocr": "CpG Beta Gene Chr Position Island Status Corrected p-value\ncg26910465 6.48E-01 ADAL 15 TSS200 Island 8.01E-18\ncg13567813 6.60E-01 NR1H2 19 TSS200 Island 2.05E-17\ncg09238957 5.98E-01 ORC6L 16 TSS200 Island 7.97E-17\ncg04099813 6.12E-01 TSSC4 11 TSS1500 S_Shore 1.45E-16\ncg07546106 6.29E-01 TAP2 6 5’UTR N_Shore 2.40E-16\ncg20808462 6.01E-01 HAUS3 4 5’UTR Island 5.42E-16\ncg16968115 5.92E-01 WDTC1 1 TSS200 Island 1.25E-15\ncg24475210 5.84E-01 MRFAP1 4 TSS200 Island 1.26E-15\ncg03031660 5.84E-01 MRPS7 17 1stExon Island 1.45E-15\ncg22605179 5.97E-01 EWSR1 22 5’UTR Island 3.81E-15\ncg02357877 5.71E-01 GBAS 7 TSS1500 Island 4.04E-15\ncg22111723 5.65E-01 13 Island 4.57E-15\ncg06117184 5.67E-01 CKAP2L 2 1stExon Island 4.87E-15\ncg07478100 5.85E-01 MIS12 17 TSS1500 Island 5.36E-15\ncg15318396 5.83E-01 21 Island 5.52E-15\ncg00544901 5.76E-01 RPS11 19 TSS1500 Island 5.62E-15\ncg24478630 5.88E-01 MOGS 2 TSS200 S_Shore 5.65E-15\ncg04022019 5.90E-01 DCAF13 8 1stExon Island 5.86E-15\ncg12124516 5.81E-01 MCM6 2 TSS200 Island 6.41E-15\ncg20935862 5.96E-01 C9orf41 9 TSS1500 Island 6.62E-15\ncg07377675 6.00E-01 USP1 1 TSS200 Island 7.79E-15\ncg07734253 5.83E-01 CORO1A 16 TSS1500 N_Shore 8.16E-15\ncg03699307 5.94E-01 GABARAPL2 16 TSS1500 Island 8.44E-15\ncg17360140 5.79E-01 C4orf29 4 TSS1500 Island 9.10E-15\ncg25632648 6.06E-01 KCTD21 11 TSS200 Island 9.83E-15\ncg06339248 5.83E-01 ZDHHC5 11 5’UTR Island 1.10E-14\ncg24275354 6.24E-01 NDUFA10 2 Body N_Shore 1.52E-14\ncg25261764 5.93E-01 NARS 18 1stExon Island 1.69E-14\ncg14172283 5.83E-01 TOMM5 9 1stExon Island 2.00E-14\ncg01089095 5.69E-01 CHCHD1 10 TSS200 Island 2.02E-14",
+   "table_id": "PMC5749823_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    620.1,
+    727.2,
+    898.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190549.t002 known to be less reliable, including in cardiac patients[28, 29], we also include the epigenetic smoking biomarker, cg05575921[30], in Table 1. Regression of CHD to genome-wide DNA methylation using data from the 1,545 individu- als in the training set resulted in 11,497 significant methylation sites (2.4%) after Bonferroni correction for multiple comparisons. The top 30 sites are shown in Table 2, while all sites are shown in S1 File. All annotations (Illumina) are based on genome build 37 and in S1 File, addi- tional annotation (uncorrected p-values and mapinfo) are provided for all 11,497 sites. Integrated genetic-epigenetic Random Forest analyses Eight RF models were built on the eight sub-datasets consisting of genetic, epigenetic, age and gender data from the 1,545 subjects in the training dataset. Standard scikit-learn RF parameters were used to determine the important SNPs and DNA methylation loci. Based on the average accuracy and AUC of the eight classifiers and the information gain criteria of each variable, four CpG sites (cg26910465, cg11355601, cg16410464 and cg12091641), two SNPs (rs6418712 and rs10275666), age and gender were retained for prediction. Using the tuned"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190549 January 2, 2018 8 / 18"
+  }
+ }
+}

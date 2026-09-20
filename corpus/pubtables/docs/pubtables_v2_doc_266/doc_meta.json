@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_266",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1318459_table_0",
+   "page_num": 1,
+   "bbox": [
+    143.9,
+    129.9,
+    665.0,
+    312.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1318459_table_0.png",
+   "html": "<table><tr><td>Slider Value</td><td>Limit Description</td><td>PubMed Filter</td></tr><tr><td>0</td><td>Default (All PubMed)</td><td>No filter</td></tr><tr><td>1&#8211;5</td><td>PubMed: with abstracts only</td><td>AND hasabstract</td></tr><tr><td>6&#8211;15</td><td>PubMed: full text</td><td>AND full text[sb]</td></tr><tr><td>16&#8211;25</td><td>PubMed: free full text</td><td>AND free full text[sb]</td></tr><tr><td>26&#8211;35</td><td>MEDLINE (4800+ journals)</td><td>AND medline[sb]</td></tr><tr><td>36&#8211;45</td><td>MEDLINE: with abstracts only</td><td>AND medline[sb] AND hasabstract</td></tr><tr><td>46&#8211;55</td><td>MEDLINE: full text</td><td>AND medline[sb] AND full text[sb]</td></tr><tr><td>56&#8211;65</td><td>MEDLINE: free full text</td><td>AND medline[sb] AND free full text[sb]</td></tr><tr><td>66&#8211;75</td><td>Core Clinical (120 journals)</td><td>AND jsubsetaim</td></tr><tr><td>76&#8211;85</td><td>Core Clinical: with abstracts only</td><td>AND jsubsetaim AND hasabstract</td></tr><tr><td>86&#8211;95</td><td>Core Clinical: full text</td><td>AND jsubsetaim AND full text[sb]</td></tr><tr><td>95&#8211;100</td><td>Core Clinical: free full text</td><td>AND jsubsetaim AND free full text[sb]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1318459_table_1",
+   "page_num": 1,
+   "bbox": [
+    143.9,
+    679.5,
+    690.7,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1318459_table_1.png",
+   "html": "<table><tr><td>Slider Value</td><td>Limit Description</td><td>PubMed Filter</td></tr><tr><td>0</td><td>Default</td><td>No age limits</td></tr><tr><td>1&#8211;8</td><td>Newborn (Birth &#8211; 1 month)</td><td>\"infant, newborn\"[MeSH Terms]</td></tr><tr><td>9&#8211;16</td><td>Infant (1&#8211;23 months)</td><td>\"infant\"[MeSH Terms:noexp]</td></tr><tr><td>17&#8211;24</td><td>Infant Group (Birth-23 months)</td><td>\"infant\"[MeSH Terms]</td></tr><tr><td>25&#8211;32</td><td>Preschool Child (2&#8211;5 years)</td><td>\"child, preschool\"[MeSH Terms]</td></tr><tr><td>33&#8211;40</td><td>Child (6&#8211;12 years)</td><td>\"child\"[MeSH Terms:noexp]</td></tr><tr><td>41&#8211;48</td><td>Adolescent (13&#8211;18 years)</td><td>\"adolescent\"[MeSH Terms]</td></tr><tr><td>49&#8211;56</td><td>Child Group (0&#8211;18 years)</td><td>(\"infant\"[MeSH Terms] OR \"child\"[MeSH Terms] OR \"adolescent\"[MeSH Terms])</td></tr><tr><td>57&#8211;64</td><td>Adult (19&#8211;44 years)</td><td>\"adult\"[MeSH Terms:noexp]</td></tr><tr><td>65&#8211;72</td><td>Middle Aged (45&#8211;64 years)</td><td>\"middle aged\"[MeSH Terms]</td></tr><tr><td>73&#8211;80</td><td>Middle Aged + Aged (45+ years)</td><td>(\"middle aged\"[MeSH Terms] OR \"aged\"[MeSH Terms])</td></tr><tr><td>81&#8211;88</td><td>Adult Group (19+ years)</td><td>\"adult\"[MeSH Terms]</td></tr><tr><td>89&#8211;96</td><td>Aged (65+ years)</td><td>\"aged\"[MeSH Terms]</td></tr><tr><td>97&#8211;100</td><td>80 and over (80+ years)</td><td>\"aged, 80 and over\"[MeSH Terms]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1318459_table_2",
+   "page_num": 2,
+   "bbox": [
+    86.1,
+    129.9,
+    688.7,
+    368.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1318459_table_2.png",
+   "html": "<table><tr><td>Slider Value</td><td>Limit Description</td><td>PubMed Filter</td></tr><tr><td>0</td><td>Default</td><td>No filters</td></tr><tr><td>1&#8211;12</td><td>Case Reports</td><td>AND (\"case reports\"[Publication Type] OR (case report[TIAB] OR case reported[TIAB] OR case reporting[TIAB] OR case reports[TIAB]))</td></tr><tr><td>13&#8211;24</td><td>Cross-sectional Surveys</td><td>AND (\"cross-sectional studies\"[TIAB] NOT Medline[SB]) OR \"cross-sectional studies\"[MeSH Terms] OR (cross [TIAB] AND sectional [TIAB])</td></tr><tr><td>25&#8211;36</td><td>Case-control studies, broad search</td><td>AND ((case control stud*[TIAB] NOT Medline[SB]) OR \"case-control studies\"[MeSH Terms] OR case-control stud* [TIAB])</td></tr><tr><td>37&#8211;48</td><td>Case-control studies, narrow search</td><td>AND (case control stud*[TIAB] OR \"case-control studies\"[MeSH Terms:noexp] OR \"case-control studies\"[MAJR])</td></tr><tr><td>49&#8211;60</td><td>Cohort Studies, broad search</td><td>AND (\"cohort studies\"[MeSH Terms] OR (cohort[TIAB] AND stud* [TIAB]))</td></tr><tr><td>61&#8211;72</td><td>Cohort Studies, narrow search</td><td>AND (\"cohort studies\"[MeSH Terms:noexp] OR \"cohort studies\"[MAJR])</td></tr><tr><td>73&#8211;84</td><td>Randomized Controlled Trials, broad search [15]</td><td>AND ((clinical[Title/Abstract] AND trial[Title/Abstract]) OR clinical trials[MeSH Terms] OR clinical trial[Publication Type] OR random*[Title/Abstract] OR random allocation[MeSH Terms] OR therapeutic use[MeSH Subheading])</td></tr><tr><td>85&#8211;96</td><td>Randomized Controlled Trials, narrow search [15]</td><td>AND (randomized controlled trial[Publication Type] OR (randomized[Title/ Abstract] AND controlled[Title/Abstract] AND trial[Title/Abstract]))</td></tr><tr><td>97&#8211;100</td><td>Systematic Reviews [16]</td><td>AND systematic[sb]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1318459_table_3",
+   "page_num": 3,
+   "bbox": [
+    98.4,
+    129.9,
+    669.6,
+    284.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1318459_table_3.png",
+   "html": "<table><tr><td>Slider Value</td><td>Limit Description</td><td>PubMed Filter Algorithm</td></tr><tr><td>0</td><td>Default</td><td>No change in details</td></tr><tr><td>1&#8211;14</td><td>Mapped keywords searched in Title and Abstract</td><td>Keyword[Text Word] &#8594; Keyword[TIAB]</td></tr><tr><td>15&#8211;29</td><td>ANY Mapped MeSH Terms required</td><td>TIABDetails + AND (MH OR MH)</td></tr><tr><td>30&#8211;44</td><td>ANY Mapped MeSH Terms required but with no tree explosion</td><td>TIABDetails + AND (MH:noexp OR MH:noexp)</td></tr><tr><td>45&#8211;59</td><td>ALL Mapped MeSH Terms required</td><td>TIABDetails + AND (MH AND MH)</td></tr><tr><td>60&#8211;74</td><td>ANY Mapped MeSH Terms should be MAJOR topic</td><td>TIABDetails + AND (MH[MAJR] OR MH[MAJR])</td></tr><tr><td>75&#8211;89</td><td>ALL Mapped MeSH Terms required but with no tree explosion</td><td>TIABDetails + AND (MH:noexp AND MH:noexp)</td></tr><tr><td>90&#8211;100</td><td>ALL Mapped MeSH Terms should be MAJOR topic</td><td>TIABDetails + AND (MH[MAJR] AND MH[MAJR])</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1318459_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    129.9,
+    649.3,
+    260.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1318459_table_4.png",
+   "html": "<table><tr><td></td><td>Index Page</td><td>Preview Page</td><td>Search Page</td></tr><tr><td>Number of Loading Tests</td><td>216</td><td>65</td><td>142</td></tr><tr><td>Mean</td><td>2.94 ms</td><td>0.63 s</td><td>3.84 s</td></tr><tr><td>Standard deviation</td><td>3.20 ms</td><td>0.78 s</td><td>6.28 s</td></tr><tr><td>Minimum value</td><td>2.38 ms</td><td>0.11 s</td><td>0.00 s</td></tr><tr><td>25th percentile</td><td>2.48 ms</td><td>0.30 s</td><td>0.52 s</td></tr><tr><td>Median</td><td>2.53 ms</td><td>0.41 s</td><td>1.12 s</td></tr><tr><td>75th percentile</td><td>2.61 ms</td><td>0.62 s</td><td>3.61 s</td></tr><tr><td>Maximum value</td><td>47.85 ms</td><td>5.54 s</td><td>35.04 s</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1318459_table_5",
+   "page_num": 5,
+   "bbox": [
+    91.4,
+    129.9,
+    678.4,
+    322.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1318459_table_5.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Statements</td><td colspan=\"5\">Answers/Total Respondents</td><td rowspan=\"2\">Mode Score</td></tr><tr><td></td><td>1 SD</td><td>2 D</td><td>3 N</td><td>4 A</td><td>5 SA</td></tr><tr><td>1</td><td>The new interface with slider controls is more user- friendly than traditional search interfaces.</td><td>1/18</td><td>3/18</td><td>4/18</td><td>7/18</td><td>3/18</td><td>4</td></tr><tr><td>2</td><td>The Web-based application is stable.</td><td>0/18</td><td>0/18</td><td>5/18</td><td>9/18</td><td>4/18</td><td>4</td></tr><tr><td>3</td><td>The speed of search and results display is acceptable.</td><td>0/18</td><td>0/18</td><td>1/18</td><td>8/18</td><td>9/18</td><td>5</td></tr><tr><td>4</td><td>The new interface is easy-to-use with minimal confusion on how controls work.</td><td>0/18</td><td>2/18</td><td>5/18</td><td>8/18</td><td>3/18</td><td>4</td></tr><tr><td>5</td><td>I'd like to see similar interactive features in other MEDLINE search engines.</td><td>1/18</td><td>1/18</td><td>5/18</td><td>4/18</td><td>7/18</td><td>5</td></tr><tr><td>6</td><td>Seeing mapped MeSH terms and unmapped keywords in the information box is a useful feature.</td><td>0/18</td><td>3/18</td><td>4/18</td><td>5/18</td><td>6/18</td><td>5</td></tr><tr><td>7</td><td>I like the feature where I can hide and display abstracts.</td><td>0/18</td><td>1/18</td><td>3/18</td><td>5/18</td><td>9/18</td><td>5</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_108",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    251.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9(Suppl 2):S4"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    445.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/S2/S4"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    350.0,
+    118.9
+   ],
+   "ocr": "Table 2: Abundance of intrinsic disorder in various datasets."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    644.0,
+    195.9
+   ],
+   "ocr": "Protein % Predicted Disordered X-raya % Predicted Disordered NMR % Predicted Disordered\nPDBS90 24 ± 2 (14 ± 2) 34 ± 2 (32 ± 1) 24 ± 2 (15 ± 1)\nHIV 27 ± 2 (16 ± 1) 50 ± 3 (41 ± 3) 34 ± 2 (19 ± 2)\nInfluenza 21 ± 2 (10 ± 2) 34 ± 3 (40 ± 3) 21 ± 2 (11 ± 2)",
+   "table_id": "PMC2559894_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    212.1,
+    389.9,
+    500.0
+   ],
+   "ocr": "aPercentage of residues that are predicted to be disordered that have been Table presents means of predicted disorder by PONDR® VLXT. The proteins used in this analysis was 34 for lentivirus, while the number of the averaged predicted disorder rate for proteins from PDBS90 is 24 ± 2 (15 ± 2). If this value is used as a bench- mark for labelling a protein as moderately disordered or mostly structured, then any protein that falls close to this number with respect to percentage of predicted disor- dered residues can safely be classified as 'moderately dis- ordered' by prediction. The information in Table 2 provides the benchmarks for the analysis of the results shown in Tables 3 and 4. Table 3 categorizes proteins found in the HIV virus by their function and arranges data by protein location in the virion. The envelope proteins are placed on the forefront with gp120 being the Surface Unit (SU). Just below the SU lies the gp41, which is a transmembrane protein (TM). Using the information in Table 2, we can tell that gp120 can be considered as quite Table 3: Summary of the predicted disorder rates in HIV proteins."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    366.8,
+    212.1,
+    698.3,
+    477.3
+   ],
+   "ocr": "characterized by X-ray crystallography. corresponding PONDR® VL3 are shown in brackets. The total number of influenza A analyzed proteins is 27. Table 4 gives the data on the abundance of disorder in influenza A virus proteins. These data provide compari- sons of proteins from orthomyxovirus and lentivirus. The envelope of the orthomyxovirus contains hemagglutinin (HA) and neuraminidase (NA) protein. While the per- centage predicted disorder rate for gp120 does not vary much by strains, predicted intrinsic disorder in both HA and NA vary significantly by subtype (see Table 5). The M1 is a matrix protein, which provides a link between the surface protein and the capsid. M1 is predicted to be mod- erately disordered. Both non-structural proteins of the influenza A viruses were predicted to be rather disordered. Similarly, both nucleoprotein and main core protein were predicted to contain significant percentage of disordered residues."
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    511.2,
+    639.4,
+    706.4
+   ],
+   "ocr": "Protein Accession numbers %VLXT(VL3)a Methodsb Virus Type\nSU 2i60.pdb, Subunit G 11 (0) X-Ray HIV-1\n(gp120)\nTM 2cmr.pdb, Subunit: S 34 (27) X-Ray HIV-1\n(gp41) TM 1jek.pdb, Subunit: A 64 (0) X-Ray Visna\nMA (p17) 1hiw.pdb, Subunit: A 61 (48) X-Ray HIV-1\nVPR 1ceu.pdb, Subunit: A 39 (63) NMR HIV-1\nVPUc 2goh.pdb, Subunit: A 26 (NA)d NMR HIV-1\nCA (p24) 1afv.pdb, Subunit:A 48 (0) X-Ray HIV-1\nPR (p11)e 1tcw.pdb, Subunit A 18 (0) X-Ray SIV\nRT (p66)e 2hnz.pdb, Sunbunt: A 18 (10) X-Ray HIV-1\nIN (p32)e 1k6y.pdb, Subunit: A 26 (7) X-Ray HIV-1\nNefc 1avz.pdb, Subunit: A 26 (31) X-Ray HIV-1\nTatc 1jfw.pdb, Subunit: A 100 (100) NMR HIV-1",
+   "table_id": "PMC2559894_table_2"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    722.7,
+    379.4,
+    781.2
+   ],
+   "ocr": "aPercentage of residues in a chain that are predicted to be disordered. bMethods used to characterize the proteins cLocations of these proteins in virions have yet been determined. VPU is dChain available is too short for VL3 analysis. eExact locations of these proteins have yet been determined."
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    382.3,
+    746.0,
+    669.2,
+    757.8
+   ],
+   "ocr": "however, placed alongside with VPR for comparative purposes only."
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    819.3,
+    372.6,
+    922.4
+   ],
+   "ocr": "ordered by prediction, whereas the gp41 should be cate- gorized as rather disordered. The amount of predicted intrinsic disorder is high in matrix and capsid proteins, as well as in Vpr and Tat proteins. Nef protein and integrase are predicted to be moderately disordered, whereas both protease and reverse transcriptase contain the least amount of predicted disorder."
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    819.3,
+    698.3,
+    922.4
+   ],
+   "ocr": "Table 6 summarizes some trends in the distribution of intrinsic disorder among various functional classes of pro- teins derived from the analysis of literature. First, a collec- tion of RNA-binding proteins show a strong tendency to be highly disordered, both experimentally and computa- tionally. The next sets of proteins that have also been observed disordered, though not as highly disordered as"
+  },
+  "p2_b11": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 14 (page number not for citation purposes)"
+  }
+ }
+}

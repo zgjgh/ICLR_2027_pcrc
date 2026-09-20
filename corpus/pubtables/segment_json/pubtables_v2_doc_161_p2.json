@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_161",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    432.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Platoon-Based Model for Performance Evaluation at Intersections"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    94.4,
+    357.6,
+    107.0
+   ],
+   "ocr": "Table 2. Trafﬁc demands for the link model (capacity = 800 veh/h)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.6,
+    717.3,
+    222.5
+   ],
+   "ocr": "Degree of Saturation Trafﬁc demands To achieve DOS Trafﬁc demands For 15 minutes Trafﬁc Demands For one signal cycle\n(DOS) X (veh/h) (vehs) (vehs)\n0.58 464 116 29\n0.7 560 140 35\n0.86 688 172 43\n1.1 880 220 55\n1.2 960 240 60",
+   "table_id": "PMC4364894_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    230.6,
+    726.9,
+    477.5
+   ],
+   "ocr": "doi:10.1371/journal.pone.0114406.t002 from a cycle to cycle basis. The respective initial marking is used to evaluate traffic under AT-1, AT-2, AT-4 and AT-5 arrivals. Thus, all the 20 scenarios mentioned can be simulated with these settings. Estimated arrival profile for each scenario is used by the estimator (which is coded in MATLAB) to simulate Qs, Qm, Qr and total delay from a cycle to cycle basis. As men- tioned, a total of four signal cycles (equivalent to 15 minutes analysis period) is performed for each scenario using the appropriate demands listed in Table 2. For each scenario simulated, the average delay is obtained by dividing the total delays accu- mulated over four signal cycles with the demand of through vehicles (vehs) during this period as shown in equation (37). On the other hand, equation (38) shows calculation of the mean maximum queue QMM which is the estimated mean over all cycles of the position of the back of the queue at its peak. The maximum end of red queue QMEOR is the highest value of Qs that can be achieved within the analysis period. Total delay over four signal cycles"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    315.4,
+    472.1,
+    727.3,
+    495.0
+   ],
+   "ocr": "Average delay ¼ ð37Þ"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    403.9,
+    480.8,
+    629.9,
+    530.2
+   ],
+   "ocr": "Demand of through vehicles for 15 minutes Sum of Qm over four signal cycles"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    365.0,
+    522.9,
+    727.3,
+    545.8
+   ],
+   "ocr": "ð38Þ QMM ¼"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    324.8,
+    532.9,
+    668.6,
+    578.3
+   ],
+   "ocr": "4 highest value of Qs that can be achieved within the analysis period"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    276.7,
+    562.5,
+    727.3,
+    585.4
+   ],
+   "ocr": "ð39Þ QMEOR"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    563.6,
+    727.2,
+    899.4
+   ],
+   "ocr": "¼ Comparison of Simulation Results 6.1. IM simulations The link model and the signal timing plan for both intersections are implemented and simulat- ed in the MATLAB environment where an analysis period of 15 minutes is considered. Simula- tion for AT-1 and DOS of X = 0.58 will be used to illustrate the implementation of the IM. According to Table 2, the demand over 15 minutes time period for X = 0.58 is 116 vehicles. The link model needs to be implemented for four signal cycles (225 s per cycle) to attain a 15 minutes analysis period. Therefore, for each cycle, 29 vehicles passed through the upstream in- tersection. Thus, the initial marking of m0 in the VCPN is set to this value. Simulated platoon arrival profile at downstream stop line (i.e. place m5) from the VCPN for the first cycle of implementation is shown in Fig. 11. This arrival profile is time-shifted by the estimator using Ltt = 56.9 s (see Fig. 12). Based on the existing timing plan of the target ap- proach and suitable offset between intersections, arrival AT-1 is achieved where approximately 28 vehicles (96.08% of the platoon) arrived during the red period. The estimator plotted the de- parture profile and calculates Qs, Qm, Qr and total delay. Any residue queue Qr will be consid- ered as the initial queue for the analysis in the next cycle. However, there is no resultant Qr as"
+  },
+  "p2_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0114406 March 18, 2015 15 / 25"
+  }
+ }
+}

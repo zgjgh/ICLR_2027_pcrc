@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_413",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    478.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Abnormality Assessment for Individual mTBI Patient"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    700.8,
+    541.9
+   ],
+   "ocr": "the t-distribution, the number of voxels classified as abnormal by the ‘‘one vs. many’’ t-test is excessively conservative. The FWER- control approach is also overly conservative. Robustness of the spatial extent of abnormalities for individual patients derived with different control subjects were explored, as demonstrated in Table 6 and Figure 8. Two sets of reference groups (n = 20 and n = 40; the n = 40 group includes the n = 20 group plus an additional 20 control subjects) were used separately to assess individual mTBI patients. For each of the three global metrics the number of abnormal voxels detected by standard Z-score approach greatly decreased as the size of the reference group increased, while ‘‘one vs. many’’ T-test showed the opposite pattern. The regions of abnormally low FA detected with the EZ- score were stable across reference group. Regions of abnormally high FA detected with the EZ-score, however, decreased as the size of the reference group increased. Discussion Individualized assessments are needed to guide personalized therapeutic interventions [25–30]. Personalized medicine is generally understood to encompass genotype-tailored treatment [25–29], but other unique manifestations of disease demand Figure 6. ROC curves from four analytic methods. ROC curves individualized diagnostic and therapeutic approaches. Individual- from four analytic methods, (1) EZ-MAP, (2) ‘‘one vs. many’’ t-test, and ized assessment of DTI has been reported in only a few studies of (3) standard Z-score approach and (4) the FWER test with pseudo t- TBI, which applied group-wise methods to individuals [4,6,8,31]. distribution, were compared for one global metric (number of whole brain white matter voxels meeting criteria for abnormality). The However, individualized assessments are especially relevant to thresholds applied were a1 = 0.05 (2-tailed) and a2 = 0.05 (corrected TBI, where the nature of the injury and its pathologic for multiple comparisons) for the EZ approach, ‘‘one vs. many’’ t-test, manifestations will be unique in each individual [10]. Additionally, and standard Z-score approach while a1 = 0.05 (1-tailed) with no spatial the analytic methods we have described could, after appropriate extent threshold was employed for the FWER test. The ROC curve for validation, be generalized to the assessment of many brain each of the three analytical methods is shown (blue dotted line = EZ- approach, red dotted line = ‘‘one vs. many’’ t-test, black dotted diseases. line = standard Z-score, grey dotted line = FWER test). The EZ-MAP, We carefully addressed several important considerations in the ‘‘one vs. many’’ t-test, and standard Z-score approaches showed implementation and validation of our approach. First, any study significant power; the yellow square indicates the optimal sensitivity must in practice employ a control group that is a small subset of"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    538.3,
+    375.7,
+    548.4
+   ],
+   "ocr": "and specificity of the ROC curve for EZ-MAP (sensitivity- 71%, specificity"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    543.9,
+    700.7,
+    555.3
+   ],
+   "ocr": "the population against which determinations of abnormality are to"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    549.6,
+    375.8,
+    559.7
+   ],
+   "ocr": "71%); red and black squares indicate this point for the ‘‘one vs. many’’ t-"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    557.4,
+    700.7,
+    568.7
+   ],
+   "ocr": "be inferred. This sampling limitation may lead to underestimation"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    561.0,
+    700.8,
+    605.1
+   ],
+   "ocr": "test and standard Z-score, respectively (sensitivity 65%, specificity 76% for both methods). The FWER test was not significant and therefore of variance in Z-scores and consequent erroneous inferences. EZ- optimal sensitivity and specificity are not noted. MAP accounts for this potential additional variance by bootstrap, doi:10.1371/journal.pone.0059382.g006"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    597.7,
+    700.8,
+    642.0
+   ],
+   "ocr": "a nonparametric method which resamples the Z-score (i.e., by Table 6. Robustness: Number of abnormal voxels (n = 34)."
+  },
+  "p5_b8": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    671.1,
+    665.6,
+    871.9
+   ],
+   "ocr": "Tested with n = 40 Control subjects Tested with n = 20 Control subjects Paired T-test (p-value)\nAll abnormal Voxels\nEZ-MAP 12965 (11623) 14000 (11108) 0.725\n‘‘1 vs. many’’ T test 10271 (10534) 8759 (8206) 0.537\nZ-score 16516 (13383) 21603 (14459) 0.156\nAbnormally Low FA Voxels\nEZ-MAP 6400 (8314) 6489 (7800) 0.965\n‘‘1 vs. many’’ T test 5187 (7641) 4134 (6559) 0.566\nZ-score 8129 (9657) 9998 (10661) 0.475\nAbnormally High FA Voxels\nEZ-MAP 6565 (6548) 7512 (6850) 0.590\n‘‘1 vs. many’’ T test 5083 (5464) 4625 (4763) 0.736\nZ-score 8387 (7738) 11605 (9232) 0.149",
+   "table_id": "PMC3608654_table_5"
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    885.1,
+    700.7,
+    926.1
+   ],
+   "ocr": "Note- Mean number of abnormal voxels (SD) detected by each analysis method from each group for each global metric (1) ‘‘All’’ - all abnormal white matter voxels across the whole brain, (2) ‘‘Low’’ - all white matter voxels where FA was significantly higher than normal and (3) ‘‘High’’ - all white matter voxels. Paired t-test was conducted for each global metric to compare numbers of abnormal voxels detected in mTBI patients using each of two reference groups (n = 20, n = 40). doi:10.1371/journal.pone.0059382.t006"
+  },
+  "p5_b10": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org 10 March 2013 | Volume 8 | Issue 3 | e59382"
+  }
+ }
+}

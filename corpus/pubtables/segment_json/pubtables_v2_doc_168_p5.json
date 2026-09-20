@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_168",
+  "page": 5,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    42.8,
+    300.9,
+    67.0
+   ],
+   "ocr": "Saleem et al. Journal of Biomedical Semantics 2014, 5:47 http://www.jbiomedsem.com/content/5/1/47"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    621.2,
+    43.0,
+    677.6,
+    54.4
+   ],
+   "ocr": "Page 16 of 18"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    70.7,
+    112.1,
+    364.2,
+    125.1
+   ],
+   "ocr": "Table 8 Comparison of source selection average execution"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    366.5,
+    112.1,
+    529.9,
+    125.1
+   ],
+   "ocr": "time (based on a sampling of 10)"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    131.0,
+    677.3,
+    353.4
+   ],
+   "ocr": "FedX(first run) FedX(cached) TopFed\nQuery no Execution time(msec) Execution time(msec) S.E Execution time(msec) S.E\n1 530 11.7 0.35 28.1 0.98\n2 487 11.4 0.67 5.2 0.57\n3 470 11.9 0.78 5 0.42\n4 510 12 0.52 23.6 1.57\n5 473 9.8 0.65 4.8 0.29\n6 371 9.9 0.38 21.7 0.68\n7 521 10 0.39 24.4 0.76\n8 483 9.5 0.45 29.5 0.86\n9 496 9.8 0.39 20.1 0.99\n10 456 10.6 0.40 7.4 0.58\nAverage 479.7 10.66 0.50 16.98 0.77",
+   "table_id": "PMC4417511_table_7"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    382.3,
+    365.3,
+    762.0
+   ],
+   "ocr": "on retrieving the results from all of the endpoints in both the blue and green categories, only to return an empty set of results, after making a star join with the triple pat- tern (?recordNo, tcga:RPKM, ?RPKM). We expect that our approach will generally lead to much faster resolu- tion for queries of this nature, where a large number of triples is retrieved for a specific colour category. This reflects the improvement that TopFed’s engine is able to determine those queries that will return empty sets prior to requesting the data. Although the benchmark query 5 results in a very large set of triples, the execution time for both systems is almost the same. As pointed out above, the reason for this is that the query is too generic and it is impossible to infer the category colour or tumour number. Conclusion In this work, we have published a Linked Data version of TCGA data level 3 (to the best of our knowledge the largest Linked Data dump anywhere) and further linked it to the LOD cloud. This big data resource is designed to be used as infrastructure for biomedical and bioinfor- matics applications that analyse and query both the file annotations but also the internal content of the patient- derived files of this key reference for molecular biology"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    382.3,
+    677.6,
+    475.8
+   ],
+   "ocr": "and across all cancer types, without the need to down- load the files and extract the pieces of information that satisfy the query. In fact, we would argue that this type of analysis will eventually be all but impossible for big data resources like TCGA without RDFication and improved federation schemes such as those described in this"
+  },
+  "p5_b7": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    472.7,
+    414.2,
+    490.9
+   ],
+   "ocr": "paper."
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    487.7,
+    677.7,
+    807.1
+   ],
+   "ocr": "The TCGA data dump (and what we expect will be the genomics datasets in the future) is already too large to be effectively handled by a single server. If the relationships between TCGA and other related resources are taken into account, a smart data distribution framework that distributes the data among multiple SPARQL endpoints, such as the one reported here is, an absolute necessity. This framework, TopFed, is specifically designed as a fed- erated query processing engine that handles a collection of physically distributed RDF data sources. The resulting virtually integrated data resource was observed to enable significantly faster querying and retrieval (one third) than current solutions, such as FedX. The TopFed source selec- tion algorithm achieves this result by considering the metadata about the data distribution with the type of the joins among query triples patterns. The substantial improvements in efficient processing achieved, also in the use of network traffic, suggests that the development of systems designed to process an individual patient clinical data to identify the drugs leading to better outcomes in related cohorts in TCGA-like resources (e.g., ICGC [59])"
+  },
+  "p5_b9": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    758.8,
+    213.8,
+    777.0
+   ],
+   "ocr": "and epidemiology of cancer."
+  },
+  "p5_b10": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    773.9,
+    365.3,
+    852.3
+   ],
+   "ocr": "Anticipating usages that traverse to other related big data resources, we have also generated links to other LOD data dumps such as HGNC, OMIM and Homolo- gene. We believe that this RDFication can greatly help researchers in the biomedical domain as the amount and"
+  },
+  "p5_b11": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    803.9,
+    460.1,
+    822.1
+   ],
+   "ocr": "is now at hand."
+  },
+  "p5_b12": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    819.0,
+    677.6,
+    882.4
+   ],
+   "ocr": "One of our future aims is to develop an intelligent sys- tem, in which a cancer patient’s genomic data are used as input to suggest effective drugs for treatment while com- paring against results from TCGA patients with the same"
+  },
+  "p5_b13": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    849.1,
+    365.3,
+    867.4
+   ],
+   "ocr": "diversity of data exceeds the ability of local resources"
+  },
+  "p5_b14": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    864.2,
+    365.2,
+    882.4
+   ],
+   "ocr": "to handle its retrieval and parsing. The RDFized data"
+  },
+  "p5_b15": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    879.2,
+    365.2,
+    897.5
+   ],
+   "ocr": "resource can be easily traversed from a modest machine"
+  },
+  "p5_b16": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    879.2,
+    677.6,
+    897.4
+   ],
+   "ocr": "or similar cancer sub-types. In 2009, we contributed to"
+  },
+  "p5_b17": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    894.3,
+    365.2,
+    912.5
+   ],
+   "ocr": "to investigate a variety of measures at each position of"
+  },
+  "p5_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    894.3,
+    677.6,
+    912.5
+   ],
+   "ocr": "CNViewer [60], a browser based tool that could be used,"
+  },
+  "p5_b19": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    909.3,
+    677.6,
+    927.6
+   ],
+   "ocr": "via oncologists uploading their own patient’s copy number"
+  },
+  "p5_b20": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    909.4,
+    365.2,
+    927.6
+   ],
+   "ocr": "the genome, across all types of molecular information,"
+  }
+ }
+}

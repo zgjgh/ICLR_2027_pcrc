@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_411",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    488.7,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "A Method for Predicting Subnuclear Localizations"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.6,
+    393.0,
+    92.9
+   ],
+   "ocr": "Table 2. 30 physicochemical properties of amino acids selected"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    396.8,
+    81.6,
+    512.4,
+    92.9
+   ],
+   "ocr": "from AAindex database."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    623.8,
+    606.2
+   ],
+   "ocr": "AAindex Physicochemical property Range of property\nBULH740101 Transfer free energy to surface [22.46 0.16]\nBULH740102 Apparent partial specific volume [0.558 0.842]\nPONP800106 Surrounding hydrophobicity in turn [10.53 13.86]\nPONP800104 Surrounding hydrophobicity in alpha-helix [10.98 14.08]\nPONP800105 Surrounding hydrophobicity in beta-sheet [11.79 16.49]\nPONP800106 Surrounding hydrophobicity in turn [9.93 15.00]\nMANP780101 Average surrounding hydrophobicity [11.36 15.71]\nEISD840101 Consensus normalized hydrophobicity scale [21.76 0.73]\nJOND750101 Hydrophobicity [0.00 3.15]\nHOPT810101 Hydrophilicity value [23.4 3.00]\nPARJ860101 HPLC parameter [210.00 10.00]\nJANJ780101 Average accessible surface area [22.8 103.0]\nPONP800107 Accessibility reduction ratio [2.12 7.69]\nCHOC760102 Residue accessible surface area in folded protein [18 97]\nROSG850101 Mean area buried on transfer [62.9 224.6]\nROSG850102 Mean fractional area loss [0.52 0.91]\nBHAR880101 Average flexibility indices [0.295 0.544]\nKARP850101 Flexibility parameter for no rigid neighbors [0.925 1.169]\nKARP850102 Flexibility parameter for one rigid neighbor [0.862 1.085]\nKARP850103 Flexibility parameter for two rigid neighbors [0.803 1.057]\nJANJ780102 Percentage of buried residues [3 74]\nJANJ780103 Percentage of exposed residues [5 85]\nLEVM780101 Normalized frequency of alpha-helix, with weights [0.90 1.47]\nLEVM780102 Normalized frequency of beta-sheet, with weights [0.72 1.49]\nLEVM780103 Normalized frequency of reverse turn, with weights [0.41 1.91]\nGRAR740102 Polarity [4.9 13.0]\nGRAR740103 Volume [3 170]\nMCMT640101 Refractivity [0.00 42.35]\nPONP800108 Average number of surrounding residues [4.88 7.86]\nKYTJ820101 Hydropathy index [24.5 4.5]",
+   "table_id": "PMC3584121_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    619.4,
+    225.1,
+    628.2
+   ],
+   "ocr": "doi:10.1371/journal.pone.0057225.t002"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.4,
+    647.1,
+    700.7,
+    963.6
+   ],
+   "ocr": "Comparison of Feature Extraction Methods: Grid Search vs Automatic Search First, we observed each feature extraction method separately to see which method is more effective. The same leave-one-out cross validation process as [1] is used to evaluate each feature extraction method and their combinations on Lei benchmark dataset. For details, during the training process, each protein is selected as the test sample in turn and the remaining ones constitute the training set. We used a grid search approach to find optimal feature subsets and optimize the SVM parameter C using 5-fold cross validation on the training set for all binary classification models. For the SVM parameter c, we use two kinds of methods to find the optimal value: grid search and GFO [59]. It is found that the number of elements of the optimal feature subset for each binary classification is generally less than 300. So we chose the top-rank 300 features as the upper bound for optimal feature subset search. The top-rank 10 features are used as an initial feature subset. The size of the feature subset is increased by 10, obtaining 10, 20, 30,..., 300 features. At each size, we searched a pair (C,c) with the best 5- fold cross validation (e.g. logC = 25, 23, 21,..., 15; log c = 215, 213, 211,..., 3). From this process, each binary classification 4 February 2013 | Volume 8 | Issue 2 | e57225"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    183.0,
+    655.4,
+    194.9,
+    697.7
+   ],
+   "ocr": "P"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    199.8,
+    664.2,
+    217.0,
+    676.4
+   ],
+   "ocr": "TPi"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    194.9,
+    670.0,
+    197.1,
+    677.9
+   ],
+   "ocr": "i"
+  },
+  "p2_b9": {
+   "type": "title",
+   "bbox": [
+    157.5,
+    671.7,
+    291.3,
+    684.1
+   ],
+   "ocr": "Ac~ , i~1,2,3, . . . ,k"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    679.7,
+    375.7,
+    901.3
+   ],
+   "ocr": "N where true positives TP = number of positive events that are correctly predicted; true negatives TN = number of negative events that are correctly predicted; false positives FP = number of negative events that are incorrectly predicted to be positive; false negatives FN = number of subjects that are predicted to be negative despite they are positive; k = number of classes. To further evaluate the performance of our method, we also use the receiver operating characteristic (ROC) curve [64], which is probably one of the most robust approaches for classifier evaluation. The ROC curve is obtained by plotting true positive rate (Sin) on the y-axis against the false positive rate (1{Sip) on the x-axis. The area under the ROC curve (AUC) [65] can be used as a reliable measure for the prediction performance. The case that maximum value of AUC equals to 1 means a perfect prediction. A random guess receives an AUC value close to 0.5."
+  },
+  "p2_b11": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.1,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_410",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3579693_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    129.2,
+    678.7,
+    651.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3579693_table_0.png",
+   "html": "<table><tr><td></td><td>Characteristics</td></tr><tr><td>Age (mean, sd, range)</td><td>60.6 (14.4, 24-90)</td></tr><tr><td colspan=\"2\">Ethnic Group: n, %</td></tr><tr><td>White Caucasian</td><td>77 (76%)</td></tr><tr><td>Afro Carib</td><td>14 (14%)</td></tr><tr><td>Asian</td><td>6 (5%)</td></tr><tr><td>Other</td><td>5 (5%)</td></tr><tr><td colspan=\"2\">Smoking status (%)</td></tr><tr><td>Current</td><td>21 (21%</td></tr><tr><td>Ex</td><td>31 (30%)</td></tr><tr><td>Never</td><td>50 (49%)</td></tr><tr><td>Anti-hypertensive medication</td><td>21 (20%)</td></tr><tr><td>Waist:hip ratio (mean, sd,range)</td><td>0.945 (0.071, 0.79-1.14)</td></tr><tr><td>Waist circumference (cm) (mena, sd, range)</td><td>94.9 (9.54, 74-127)</td></tr><tr><td>BMI (mean, sd, range)</td><td>25.7 (3.09, 17.9-37)</td></tr><tr><td colspan=\"2\">Exercise</td></tr><tr><td>&lt;2 x /week</td><td>68 (67%)</td></tr><tr><td>2 + x/week</td><td>34 (33%)</td></tr><tr><td colspan=\"2\">Occupation:</td></tr><tr><td>Manual</td><td>19 (19%)</td></tr><tr><td>Non-manual</td><td>34 (33%)</td></tr><tr><td>retired</td><td>49 (48%)</td></tr><tr><td>Wound length cm mean, sem, range</td><td>8.43 (0.84, 7-10)</td></tr><tr><td>Duration of surgery mins</td><td rowspan=\"2\">18.2 (5.54, 8-40)</td></tr><tr><td>Mean, sd, range</td></tr><tr><td>Serum C-reactive protein, geom. Mean, median, range) at baseline n = 102</td><td>1.28 (1.34, 0.1-92.4)</td></tr><tr><td>Serum C-reactive protein, geom. Mean, median, range) at 6 hrs n = 95</td><td>1.22 (1.30, 0.1-79.8)</td></tr><tr><td>Serum C-reactive protein, geom. Mean, median, range) at 24 hrs n = 98</td><td>13.7 (17.6, 0.8-120)</td></tr><tr><td>Serum C-reactive protein, geom. Mean, median, range) at 48 hrs n = 97</td><td>20.0 (27.4, 0.1-121.4)</td></tr><tr><td>Serum C-reactive protein, geom. Mean, median, range) peak n = 102</td><td>24.0 (28.4, 0.1-121.4)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3579693_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    143.1,
+    673.7,
+    623.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3579693_table_1.png",
+   "html": "<table><tr><td></td><td>Baseline CRP (proportional change)</td><td>Peak CRP (proportional change)</td><td>Difference in peak CRP peak and baseline (proportional change)</td></tr><tr><td>Baseline CRP (per 10 fold increase)</td><td></td><td>2.44 (1.76-3.38) p &lt; 0.0001</td><td>1.23 (0.86-1.76) ns</td></tr><tr><td>Waist:hip ratio (per 10% increase)</td><td>1.70 (1.22-2.37) p = 0.0022</td><td>1.86 (1.44-2.40) p &lt; 0.0001</td><td>1.52 (1.17-1.98) p = 0.0019</td></tr><tr><td>BMI(per unit change)</td><td>1.06 (0.97-1.16) p = 0.16</td><td>1.05 (0.97-1.12) p = 0.24</td><td>1.06 (0.99-1.14) p = 0.1</td></tr><tr><td rowspan=\"2\">Waist circumference (per 10 cm increase)</td><td rowspan=\"2\">1.68 (1.28- 2.20) p = 0.0002</td><td>1.60 (1.29- 1.98)</td><td rowspan=\"2\">1.43 (1.15- 1.77) p = 0.0015</td></tr><tr><td>P &lt; 0.0001</td></tr><tr><td>Weight (per 10 kg increase)</td><td>1.21 (0.95-1.52)</td><td>1.14 (0.95-1.39)</td><td>1.16 (0.97-1.39) p = 0.09</td></tr><tr><td>Age (per decade)</td><td>1.38 (1.15-1.66) p = 0.0006</td><td>1.32 (1.14-1.52) p = 0.0003</td><td>1.18 (1.02-1.37) p = 0.02</td></tr><tr><td>Duration of surgery (per minute)</td><td>1.05 (1.01-1.11) p = 0.04</td><td>1.06 (1.02-1.10) p = 0.003</td><td>1.05 (1.02-1.09) p = 0.007</td></tr><tr><td>Wound length (per cm)</td><td>1.46 (1.06-2.00) p = 0.02</td><td>1.33 (1.03-1.73) p = 0.03</td><td>1.28 (0.99-1.65) p = 0.06</td></tr><tr><td colspan=\"4\">*Ethnic Group: n, %</td></tr><tr><td>White Caucasian</td><td>1.46 (1.00-2.63)</td><td>1.38 (0.91- 1.51)</td><td>1.17 (0.78- 1.74)</td></tr><tr><td>Afro Carib</td><td>1.27 (0.66- 2.43)</td><td>0.83 (0.55- 1.50)</td><td>0.87 (0.50- 1.73)</td></tr><tr><td>Asian</td><td>1.67 (0.73- 3.84)</td><td>1.15 (0.55- 2.40)</td><td>1.12 (0.54- 2.30)</td></tr><tr><td>Other (ref)</td><td>0.29 P = 0.06</td><td>0.75</td><td>0.88</td></tr><tr><td colspan=\"4\">*Smoking status (%)</td></tr><tr><td>Current (reference)</td><td>0.80</td><td>0.87</td><td>0.93 (0.70-1.24)</td></tr><tr><td>Ex</td><td>1.66 (1,12- 2.45)</td><td>1.30 (0.95- 1,78)</td><td>1.13 (0.82- 1.56)</td></tr><tr><td>Never</td><td>0.76 (0.53- 1.08) P = 0.04</td><td>0.88 (0.66- 1.17)</td><td>0.95</td></tr><tr><td colspan=\"4\">Exercise</td></tr><tr><td colspan=\"4\">&lt;2 &#215; /week (reference)</td></tr><tr><td>2 + &#215;/week</td><td>0.64 (0.36-1.13) p = 0.12</td><td>0.95 (0.59-1.52)</td><td>1.14 (0.72-1.79)</td></tr><tr><td colspan=\"4\">*Occupation</td></tr><tr><td>Manual (reference)</td><td>0.73 (0.47- 1.14)</td><td>0.68 (0.48- 0.96)</td><td>0.69 (0.48- 0.99)</td></tr><tr><td>Non-manual</td><td>0.80 (0.54- 1.17)</td><td>1.06 (0.78- 1.43)</td><td>1.18 (0.87- 1.60)</td></tr><tr><td>retired</td><td>1.73 p = 0.007</td><td>1.39 P = 0.1</td><td>1.23 P = 0.002</td></tr><tr><td>Anti-hypertensive medication</td><td>1.63 (0.86-3.10)</td><td>1.91 (1.13-2.61) p = 0.02</td><td>1.82 (1,10-2.61) P = 0.02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3579693_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    517.0,
+    673.7,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3579693_table_2.png",
+   "html": "<table><tr><td></td><td>Baseline CRP (proportional difference)</td><td>Peak CRP (proportional difference)</td><td>Difference in peak CRP peak and baseline (proportional difference)</td></tr><tr><td>Baseline CRP (per 10 fold increase)</td><td></td><td>1.77 (1.25-2.52) P = 0.002</td><td>0.85 (0.58-1.26)</td></tr><tr><td>Waist:hip ratio (per 10% increase)</td><td>1.43 (1.02- 2.01) p = 0.04</td><td>1.46 (1.14-1,88) P = 0.002</td><td>1.41 (1.06- 1.59) P = 0.02</td></tr><tr><td>Age (per decade)</td><td>1.20 (0.81-1.56)</td><td>1.27 (1.00-1.62) p = 0.05</td><td>1.20 (0.92-1.57)</td></tr><tr><td>Duration of surgery (per minute)</td><td>1.05 (0.99-1.10) p = 0.06</td><td>1.05 (1.02-1.09) P = 0.007</td><td>1.06 (1.02-1.11) p = 0.004</td></tr><tr><td>Wound length (per cm)</td><td>1.17 (0.83-1.64)</td><td>0.94 (0.73-1.21)</td><td>1.07 (0.81-1.41)</td></tr><tr><td colspan=\"4\">Ethnic Group: n, %</td></tr><tr><td>White Caucasian</td><td>1.30 (0.77-2.20)</td><td>1.15 (0.78-1.69)</td><td>1.11 (0.71-1.71)</td></tr><tr><td>Afro Carib</td><td>1.52 (0.81-2.87)</td><td>0.88 (0.55-1.41)</td><td>0.99 (0.59-1.68)</td></tr><tr><td>Asian</td><td>1.91 (0.78-4.68)</td><td>1.04 (0.53-2.03)</td><td>1.26 (0.60-2.67)</td></tr><tr><td>Other (reference)</td><td>0.27 p = 0.04</td><td>0.96</td><td>0.72</td></tr><tr><td colspan=\"4\">Smoking status (%)</td></tr><tr><td>Current (reference)</td><td>0.97</td><td>0.96</td><td>0.96</td></tr><tr><td>Ex</td><td>1.17(0.47-1.38)</td><td>1.00 (0.75-1.33)</td><td>0.96 (0.70-1.33)</td></tr><tr><td>Never</td><td>0.89(0.62-1.26)</td><td>1.04 (0.81-1.35)</td><td>1.08 (0.81-1.45)</td></tr><tr><td colspan=\"4\">Exercise</td></tr><tr><td>&lt;2 x /week (reference) 2 + x/week</td><td>0.80(0.47-1.38)</td><td>1.27 (0.86-1.89)</td><td>1.39 (0.89-2.17)</td></tr><tr><td colspan=\"4\">Occupation</td></tr><tr><td>Manual</td><td>0.96 (0.58-1.56)</td><td>0.90 (0.62-1.29)</td><td>0.84(0.56-1.26)</td></tr><tr><td>Non-manual</td><td>0.83 (0.54-1.26)</td><td>1.39 (1.02-1.89)</td><td>1.29(0.91-1.82)</td></tr><tr><td>Retired (reference)</td><td>1.27</td><td>0.81</td><td>0.93</td></tr><tr><td>Anti-hypertensive medication</td><td>1.12 (0.59-2.12)</td><td>1.34 (0.83-2.19)</td><td>1.47(0.91-2.40)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3579693_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    129.2,
+    673.7,
+    239.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3579693_table_3.png",
+   "html": "<table><tr><td></td><td>Baseline CRP (proportional difference)</td><td>Peak CRP (proportional difference)</td><td>Difference in peak CRP peak and baseline (proportional difference)</td></tr><tr><td>Baseline CRP (per 10 fold increase)</td><td></td><td>1.72 (1.23-2.40) p = 0,002</td><td>0.86 (0.59-1.25)</td></tr><tr><td>Waist:hip ratio(per 10% increase)</td><td>1.46 (1.01-2.12) p = 0.04</td><td>1.53 (1.17-2.01) p = 0.002)</td><td>1.47 (1.08-1.98) p = 0.01</td></tr><tr><td>Age (per decade)</td><td>1.28 (1.05-1.56) p = 0.01</td><td>1.15 (1.00-1.33) p = 0.05</td><td>1.13 (0.96-1.32) p = 0.1</td></tr><tr><td>Duration of surgery (per minute)</td><td>1.05 (1.01-1.10) p = 0.03</td><td>1.05 (1.01-1.08) p = 0.007</td><td>1.06 (1.02-1.10) p = 0.005</td></tr><tr><td>Wound length (per cm)</td><td>1.10 (0.79-1.53)</td><td>0.99 (0.78-1.25)</td><td>1.08 (0.83-1.41)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3579693_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    580.0,
+    366.1,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3579693_table_4.png",
+   "html": "<table><tr><td></td><td>Waist:hip ratio proportional change</td></tr><tr><td>Age (per decade)</td><td>1.49 (1.17- 1.90) p = 0.0013</td></tr><tr><td>Duration of surgery (per minute)</td><td>1.02 (0.97- 1.09)</td></tr><tr><td>Wound length (per cm)</td><td>1.47 (1.14- 1.88) p = 0.003</td></tr><tr><td colspan=\"2\">Ethnic Group: n, %</td></tr><tr><td>White Caucasian</td><td>0.81 (0.42- 1.58)</td></tr><tr><td>Afro Carib</td><td>0.44 (0.18- 1.07)</td></tr><tr><td>Asian</td><td>1.52 (0.47- 4.86)</td></tr><tr><td>Other (reference)</td><td>1.85</td></tr><tr><td colspan=\"2\">Smoking status (%)</td></tr><tr><td>Current (reference)</td><td>0.79</td></tr><tr><td>Ex</td><td>1.34 (0.78-2.27)</td></tr><tr><td>Never</td><td>0.94 (0.59-1.50)</td></tr><tr><td colspan=\"2\">Exercise</td></tr><tr><td>2 + &#215;/week v &lt; 2&#215; /week</td><td>0.85 (0.39- 1.84)</td></tr><tr><td colspan=\"2\">Occupation</td></tr><tr><td>Manual (reference)</td><td>1.66 (NS)</td></tr><tr><td>Non-manual</td><td>0.82 (0.49-1.40)</td></tr><tr><td>Retired</td><td>0.73 ( 0.40-1.33)</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_142",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Lee et al. BMC Bioinformatics 2011, 12(Suppl 13):S20 http://www.biomedcentral.com/1471-2105/12/S13/S20"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 7 of 15"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    573.5,
+    380.9,
+    585.0
+   ],
+   "ocr": "Figure 3 a) QQPPI constructed by highly expressed genes in disease"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    384.2,
+    573.6,
+    620.9,
+    585.0
+   ],
+   "ocr": "and control samples; b) The “core” functional module"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    610.3,
+    391.2,
+    827.1
+   ],
+   "ocr": "indirect interactions through mediator proteins (level 1 interactors) in between. Taking bipolar disorder as an example, there was only one gene listed in both Iwamoto et al and this study as a disease marker; only two of our abnormally expressed genes for bipolar dirorder had direct interactions (PPIs) with two bipolar disorder mar- kers of Iwamoto et al. However, our markers of bipolar disorder shared 120 level 1 interactors with the bipolar disorder markers of Iwamoto et al [39]. Similar results were observed in the data of Phenopedia as summarized in Table 4. For schizophrenia, bipolar dis- order, and major depression, there were only 11, 5, and 5 Table 4 Comparison to the disease genes listed in Phenopedia"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    610.3,
+    678.6,
+    789.7
+   ],
+   "ocr": "genes, respectively, that were listed both as disease genes in Phenopedia and as our disease markers. Interestingly, there were many PPIs formed between the Phenopedia disease genes and our abnormally expressed genes for schizophrenia, bipolar disorder, and major depression as illustrated in Additional file 8, 9, and 10 (titled ‘Interrela- tionship between Phenopedia and abnormally expressed genes’ in ‘schizophrenia’, ‘bipolar disorder’, and ‘major depression’, respectively). The names of these disease genes are listed in Additional file 11 (titled ‘Comparison of disease genes listed in Phenopedia, HGMD, and GWAS’). The diseases associated SNPs and mutations"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    101.9,
+    832.0,
+    648.1,
+    905.2
+   ],
+   "ocr": "Record type Schizophrenia Bipolar disorder Major depression\nDisease genes in Phenopedia (P) 1001 722 226\nAbnormally expressed genes (T)* 110 100 44\nBoth P and T (shared nodes) 11 5 1\nPPIs between P and T 252 73 11",
+   "table_id": "PMC3278837_table_3"
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    215.2,
+    922.2
+   ],
+   "ocr": "* Genes with P values < 0.01 in t-tests"
+  }
+ }
+}

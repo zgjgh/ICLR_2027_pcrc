@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_042",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    171
+   ],
+   "ocr": "In Table 1, under the header \"Technique,\" the body contains data for two methods: Conventional and ADAPT. The row labeled \"n\" shows a sample size of 9 for both techniques. The \"Median (seconds)\" row indicates a median of 29.00 seconds for Conventional and 17.00 seconds for ADAPT. The \"Range (seconds)\" row presents a range of 54.00 seconds for Conventional and 27.00 seconds for ADAPT. Finally, the \"Interquartile range (seconds)\" row reveals an interquartile range of 30.50 seconds for Conventional and 20.50 seconds for ADAPT. In Table 2, titled \"Groups,\" there are multiple categories including Control, PD, PDD, DLB, and AD. The \"Control (N)\" row has values of 11 for FCX, 12 for TCX, 12 for Cb, 12 for Pu, and 8 for Hp, with an age at death of 77.5 ± 6.98 years, tissue pH of 6.17 ± 0.34, PMD of 19.9 ± 6.42 hours, and gender distribution of 7 males and 5 females."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    159,
+    580,
+    263
+   ],
+   "ocr": "The \"PD (N)\" row shows 12 for each FCX, TCX, Cb, and Pu, with an age at death of 77.44 ± 7.03 years, tissue pH of 5.85 ± 0.06, PMD of 23.44 ± 9.72 hours, and 8 males and 4 females. The \"PDD (N)\" row lists 8 for FCX, 9 for TCX, 12 for Cb, 8 for Pu, and age at death of 75.93 ± 5.38 years, tissue pH of 6.19 ± 0.32, PMD of 24.69 ± 11.38 hours, with 9 males and 3 females. The \"DLB (N)\" row has 12 for each FCX, TCX, Cb, and Pu, an age at death of 77.00 ± 5.35 years, tissue pH of 6.32 ± 0.29, PMD of 18.0 ± 8.58 hours, and a gender breakdown of 9 males and 3 females. The \"AD (N)\" row shows 12 for FCX, TCX, and Cb, no data for Pu, 9 for Hp, an age at death of 80.37 ± 5.25 years, tissue pH of 6.19 ± 0.33, PMD of 19.84 ± 9.30 hours, and 5 males and 7 females."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    280.0,
+    580.0,
+    403.0
+   ],
+   "ocr": "Technique\nDescriptives Conventional ADAPT\nn 9 9\nMedian (seconds) 29.00 17.00\nRange (seconds) 54.00 27.00\nInterquartile range (seconds) 30.50 20.50",
+   "table_id": "img_046384_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    418.0,
+    580.0,
+    566.0
+   ],
+   "ocr": "Groups FCX TCX Cb Pu Hp Age at death (years) Tissue pH PMD (hours) Gender\nM F\nControl (N) 11 12 12 12 8 77.5 ± 6.98 6.17 ± 0.34 19.9 ± 6.42 7 5\nPD (N) 12 12 12 12 — 77.44 ± 7.03 5.85 ± 0.06 23.44 ± 9.72 8 4\nPDD (N) 8 9 12 8 — 75.93 ± 5.38 6.19 ± 0.32 24.69 ± 11.38 9 3\nDLB (N) 12 12 12 12 6 77.00 ± 5.35 6.32 ± 0.29 18.0 ± 8.58 9 3\nAD (N) 12 12 12 — 9 80.37 ± 5.25 6.19 ± 0.33 19.84 ± 9.30 5 7",
+   "table_id": "img_046384_t1"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_480",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    589.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "AIx in Relation to PAD and AAA"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    457.0,
+    107.4
+   ],
+   "ocr": "Table 5. Differences in cAIx between patients and a control group of healthy individuals."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    114.8,
+    726.7,
+    247.5
+   ],
+   "ocr": "R2 = 0.93, N = 202\nPatient group or parameter Coefﬁcient SE Beta p-value\nAAA 10.48 4.24 0.30 0.014\nPAD 9.58 3.89 0.43 0.015\nPAD & AAA 9.27 4.14 0.33 0.026\nAge 0.43 0.56 0.56 0.000\nSex -3.18 1.32 -0.14 0.017\nHeart rate -0.52 0.37 -0.54 0.158",
+   "table_id": "PMC4599890_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    260.2,
+    727.2,
+    898.4
+   ],
+   "ocr": "Notes: The table shows results from multivariate linear regression analysis. SE denotes the standard errors of regression coefﬁcients. The dependent variable is cAIx@75 (heart rate 75 bpm) doi:10.1371/journal.pone.0139887.t005 negative effect on cAIx, and the positive effect of diagnosis remained significant, however at the 10% level only (p = 0.063). Cerebrovascular disease was positively correlated with cAIx, but not significantly. Model 4 complemented Model 3, as it was not possible to include comorbidi- ties and medication in the same model. Model 4 showed a significant negative effect of calcium channel blockers on cAIx (a lower and therefore improved cAIx value), as well as a borderline significant negative effect of diuretics on cAIx, corroborating the significant positive effect of diagnosis. In summary, Models 1 to 4 demonstrated that patients with PAD only, or AAA plus PAD, had a significantly higher cAIx than patients with AAA, even after controlling for a rich set of confounding factors. Models 5 and 6 tested the robustness of these results. Model 5 included all variables which were significant in Models 1 to 4, and diagnosis remained significant. Model 6 used an alterna- tive specification of diagnosis: rather than including one ordinal variable which ranged from 1 to 3, it included two binary variables. The first took the value one if the patient suffered from PAD only and was zero otherwise; the second variable took the value one if the patient suffered from PAD and AAA. Results were therefore expressed relative to patients with AAA only. The model showed that cAIx was significantly higher for patients suffering from PAD only (p- value: 0.034) compared to patients suffering from AAA only. In order to test robustness further, a z-score Index was calculated (see S1 Text). Discussion To the best of our knowledge, this is the first study to compare cAIx in patients with PAD and AAA. We found that the presence of peripheral arterial disease and / or abdominal aortic aneu- rysm was associated with an elevated cAIx and was highest in patients with PAD only, followed by patients with PAD and concomitant AAA, and lowest in patients with AAA without evi- dence for PAD. Although this study was based on a fairly low number of observations (n = 184), and the patient groups differed in regard to number, age and sex, the results were consistent across a comprehensive range of analyses that took account of confounding factors. Previous studies have focused either on patients with PAD or AAA only. Several groups have reported an association between cAIx and PAD. Khalegi and Kullo found that cAIx was higher in patients with asymptomatic PAD compared to age- and sex-matched controls [22]. Brewer et al. [23] observed that lower cAIx was associated with more physical exercise (longer walking distances) in patients with PAD. In a previous study, we similarly found a significant correlation between ankle-brachial index and aortic augmentation index in PAD patients, and significant correlation for these patients between ABI and subendocardial viability ratio"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0139887 October 9, 2015 8 / 14"
+  }
+ }
+}

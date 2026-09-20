@@ -1,0 +1,145 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_048",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.5,
+    65.8
+   ],
+   "ocr": "Anwar and Oakes BMC Medical Informatics and Decision Making 2012, 12(Suppl 1):S6 Page 4 of 8 http://www.biomedcentral.com/1472-6947/12/S1/S6"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    678.7,
+    530.7
+   ],
+   "ocr": "Table 4 Logistic regression for BC4000 but positive for higher frequencies, for both air and bone conduction, and thus differentiated patients according to whether they have a predominantly high frequency or low frequency hearing loss. The coefficients of the third PC (PC3) were positive for air conduction at all frequencies, but negative for bone conduction, showing a contrast between patients with and without an air-bone gap. The * Note: Bc4000_ind1, Bc4000_ind2 and Bc4000_ind3 represent bone fourth component (PC4) was similar to the third, but cor- conduction threshold quartiles of 25, 40 and 55 dB respectively. responded to an air-bone gap at low frequencies. No clear patterns were seen for the fifth or subsequent principal components. The first four PCs corresponded to audio- Table 5 Logistic regression for age gram types frequently encountered in audiology clinics. The percentage of the overall variability in the data explained by the first four principal components respec- tively was 59.5, 13.4, 9.7, and 5.2, giving a total of 87.8%. The thresholds corresponding to the first four PCs by using formula (1) are given in Table 9. The top row of each PC refers to the air conduction frequencies at 250, * Note: Age_ind1, Age_ind2 and Age_ind3 represent age quartiles of 60, 70 500, 1000, 2000, 4000 and 8000 Hz respectively, while and 78 years respectively. the second row refers to the corresponding bone conduc- tion frequencies in the range 250 to 4000 Hz. The results Table 6 Logistic regression for diagnosis are shown in Tables 10 to 12. The overall c2 (chi-squared Regression coefficient b Standard error se(b) Z P value), calculated as the sum of the cells in Table 12, is Constant 0.37 0.39 0.96 0.34 548.07, which for one degree of freedom gives p < 0.001, Diagnosis -1.05 0.44 -2.37 0.02 so audiogram type is clearly related to hearing aid type. Also, in Table 12, the (O - E)2 / E values which make the greatest contribution to the overall c2 value are those in Table 7 Logistic regression for masker the PCA1 and PCA3 columns. Thus, flat hearing loss"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    128.9,
+    356.7,
+    213.4
+   ],
+   "ocr": "Regression Standard Z P\ncoefficient b error se(b)\nConstant -0.09 0.08 -1.12 0.26\nBc4000_ind1 -0.15 0.11 -1.33 0.18\nBC4000_ind2 -0.20 0.09 -2.12 0.03\nBC4000_ind3 0.09 0.09 1.01 0.31",
+   "table_id": "PMC3339393_table_3"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    82.2,
+    284.1,
+    357.7,
+    368.7
+   ],
+   "ocr": "Regression Standard Z P\ncoefficient b error se(b)\nConstant -0.08 0.05 -1.49 0.13\nAge_ind1 -0.13 0.08 -1.73 0.08\nAge_ind2 -0.26 0.08 -3.48 0.00\nAge_ind3 0.14 0.08 1.88 0.06",
+   "table_id": "PMC3339393_table_4"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    195.1,
+    526.6,
+    360.8,
+    538.0
+   ],
+   "ocr": "Regression Standard Z P"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    532.1,
+    678.5,
+    545.8
+   ],
+   "ocr": "(PCA1) audiograms without air-bone were associated"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    191.5,
+    537.9,
+    309.5,
+    549.3
+   ],
+   "ocr": "coefficient b errorse(b)"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    547.2,
+    678.6,
+    560.9
+   ],
+   "ocr": "with ITE aids and flat audiograms with additional air-"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    106.3,
+    554.8,
+    366.1,
+    565.9
+   ],
+   "ocr": "Constant -0.41 0.25 -1.60 0.11"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    562.2,
+    678.6,
+    786.8
+   ],
+   "ocr": "bone gaps (PCA3) were associated with BTE aids. This Masker(No_masker, OTHERS) -0.91 0.50 -1.83 0.07 result is in accordance with Stephens [3], who found that the fitting of ITE aids was limited in cases of severe hear- implants), NFA for no follow-up-appointment and REV ing loss. Audiograms were also clustered using K-means for hearing aid review. clustering [4] which produced similar results to PCA, in that the mild to moderate hearing loss cluster was asso- Results ciated with ITE aids and the severe hearing loss cluster Principal component analysis (PCA) was associated with BTE aids. Thus, it was demonstrated The coefficients of the first PC (PC1) were all negative and that the audiogram is a factor influencing the choice of approximately equal. This suggests that the main source hearing aid type. of variation between the patients was simply the overall degree of hearing loss. The coefficients of the second PC Chi-squared test (PC2) were negative for frequencies at or below 1000 Hz, The contingency table showing the relationship between gender and hearing aid type is shown in Table 12. The raw counts are given at the top of each cell, where for"
+  },
+  "p3_b10": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    779.7,
+    278.7,
+    792.6
+   ],
+   "ocr": "Table 8 Logistic regression for keywords"
+  },
+  "p3_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    788.2,
+    678.7,
+    922.4
+   ],
+   "ocr": "example there were 3196 male patients who wore BTE hearing aids. In each cell the Observed frequencies (O) are not enclosed in brackets, Expected frequencies (E) are in () and the quantity (O - E)2 / E is in []. The overall chi- squared value (the sum of the values in [] for all four cells) was 33.68, which for one degree of freedom is significant at p < 0.001. Males tended more to use ITE hearing aids and females tended more to use BTE hearing aids. For the relationship between hearing aid type and a diagnosis of"
+  },
+  "p3_b12": {
+   "type": "table",
+   "bbox": [
+    71.5,
+    797.5,
+    366.0,
+    915.9
+   ],
+   "ocr": "Regression coefficient b Standard error se(b) Z P\nConstant -0.16 0.03 -5.63 0.00\nAPPT 0.06 0.15 0.37 0.71\nFTA -0.77 0.19 -4.05 0.00\nGP 0.62 0.13 4.75 0.00\nMAP 2.32 0.53 4.39 0.00\nNFA -0.93 0.32 -2.93 0.00\nREV 0.12 0.10 1.12 0.26",
+   "table_id": "PMC3339393_table_7"
+  }
+ }
+}

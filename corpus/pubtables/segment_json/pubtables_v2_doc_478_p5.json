@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_478",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    236.0,
+    53.4
+   ],
+   "ocr": "Sun et al. BMC Genomics (2015) 16:747"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 9 of 15"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    369.1,
+    124.4
+   ],
+   "ocr": "Table 6 QTLs for fruit quality traits detected by interval mapping"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    450.8
+   ],
+   "ocr": "Trait Year QTL Map/Linkage LOD Exp (%) Peak Intervals on QTL-associated\ngroup location (cM) maps (cM) markers\nMalic acid 2011 qtlma.j8 J8 7.7 39.1 57.27 55.27 ~ 59.15 emC08.14121899\nemC08.13666872\nCitric acid 2011 qtlc.g8 G8 3.7 19.4 46.58 46.13 ~ 47.98 huM001766.113.1072\n2011 qtlc.j8 J8 5.5 27.2 59.15 55.27 ~ 62.15 emC08.14121899\n2011 qtlc.j15 J15 3.6 20.2 64.01 63.42 ~ 64.97 huC15.29186826\nAcetic acid 2011 qtla.j7 J7 3.7 20.1 59.83 59.13 ~ 60.83 euLG07_014\nTotal acid 2011 qtlta.j8 J8 7.7 39.2 57.27 55.27 ~ 59.15 emC08.14121899\nemC08.13666872\nFructose 2011 qtlf.j1 J1 4.3 28.5 37.82 32.81 ~ 42.74 huC01.18233570\nemC01.11115376\nSucrose 2011 qtls.g1 G1 3.5 17.5 49.57 48.60 ~ 50.57 huC01.18378291\nFruit weight 2008 qtlfw.j3 J3 3.7 11.2 24.65 24.28 ~ 25.39 hmC03.5431144\n2008 qtlfw.j5 J5 3.8 11 53.86 52.86 ~ 54.86 euC05.25996313\nFruit firmness 2010 qtlff.j11a J11 4.4 27.5 24.60 22.21 ~ 26.43 euC11.7408490\nhuC11.10309880\n2010 qtlff.j11b J11 3.9 21.6 11.48 10.48 ~ 13.30 euC11.5719084\nhmC11.4173064",
+   "table_id": "PMC4595315_table_5"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    457.1,
+    375.7,
+    926.2
+   ],
+   "ocr": "The phenotyping data were collected from the mapping population derived from that above the LOD threshold of 3.5 at a 95 % confidence level. Markers located at markers. J Jonathan, G Golden Delicious associated with the QTL linked to citric acid on LG08 of ‘Golden Delicious’ was located 8.46 cM downstream of the marker emC08.14121899. Two QTLs related to fruit sugar contents were detected. qtlf.j1 (LOD = 4.3, 28.8 %), which contributed to fruit fructose content, was mapped to LG01 of ‘Jonathan’, and the nearest marker was huC01.18233570. While qtls.g1 (LOD = 3.5, 17.5 %), which was linked to sucrose, was mapped to LG01 of ‘Golden Delicious’, and the nearest marker was huC01.18378291. The distance between the two markers, huC01.18233570 and huC01.18378291, was about 145 kb on the reference genome of apple. In 2008, two QTLs of fruit weight were identified on genetic maps of ‘Jonathan’. One QTL, qtlfw.j3, was mapped on LG03, which explained 11.2 % of variance with a peak LOD score of 3.7. The other, qtlfw.j5, was mapped on LG05, with a LOD score of 3.8 and an 11.0 % explan- ation of variance. There were two QTLs related to fruit firmness located on LG11 of ‘Jonathan’, qtlff.j11a (LOD = 4.4, 27.5 %) was associated with euC11.7408490 and huC11.10309880, while qtlff.j11b (LOD = 3.9, 21.6 %) was between marker hmC11.4173064 and euC11.5719084 (Table 6). Candidate genes involved in fruit quality traits Based on the alignment of the QTL regions with the phys- ical positions on the apple genome pseudo-chromosomes in silico, five QTLs with a region < 5 cM, having the"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    371.3,
+    457.1,
+    666.7,
+    477.8
+   ],
+   "ocr": "‘Jonathan’ × ‘Golden Delicious’ in 2008 to 2011. QTL intervals were the ranges or flanked with the peak LOD value of a QTL were recognized as QTL-associated"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    504.2,
+    678.7,
+    926.2
+   ],
+   "ocr": "highest LOD value and variance explanation among the three traits, had their corresponding positions identified, which were suitable for searching for candidate genes dir- ectly [41]. The five regions were 4.17-5.72 Mb of chromo- some 11 (linked to fruit firmness), 7.40–10.31 Mb of chromosome 11 (linked to fruit firmness), 13.66-14.20 Mb of chromosome 08 (linked to malic, citric and total acid), 5.43–7.73 Mb of chromosome 03, and 22.64–26.00 Mb of chromosome 05 (both linked to fruit weight). Initially 366, 434, 194, 357, and 347 genes and their annotation within the five genomic regions, respectively, were obtained from the apple genome database. According to their functional predictions, 35, 29, 17, 35, and 45 genes, respectively, were good candidates (Additional file 6: Table S4). Analysis of fruit acidity and expressions of candidate genes To understand the potential relationship between candi- date genes and fruit acidity, the expression profiles of candidate genes and fruit acidity were analyzed during different fruit development stages of a high acidity culti- var, ‘Jonathan’, and a low acidity cultivar, ‘Fuji’. The con- tents of malic, citric, and total acid were determined to indicate fruit acidity and the regularity of the data were confirmed. Generally, in young fruit of both ‘Jonathan’ and ‘Fuji’, high fruit acidity was detected at 30 DAFB, and then after 60 DAFB, the fruit acidity declined signifi- cantly. However, the acidity of ‘Jonathan’ was always higher than that of ‘Fuji’ (Fig. 2d-f). Among the analyzed"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_266",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    359.7,
+    64.4
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2005, 5:37"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/5/37"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    403.2,
+    118.9
+   ],
+   "ocr": "Table 4: Search mapping slider bar limit description and corresponding"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    406.0,
+    107.2,
+    519.6,
+    118.9
+   ],
+   "ocr": "PubMed filter algorithm"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    98.4,
+    129.9,
+    669.6,
+    284.0
+   ],
+   "ocr": "Slider Value Limit Description PubMed Filter Algorithm\n0 Default No change in details\n1–14 Mapped keywords searched in Title and Abstract Keyword[Text Word] → Keyword[TIAB]\n15–29 ANY Mapped MeSH Terms required TIABDetails + AND (MH OR MH)\n30–44 ANY Mapped MeSH Terms required but with no tree TIABDetails + AND (MH:noexp OR MH:noexp)\nexplosion\n45–59 ALL Mapped MeSH Terms required TIABDetails + AND (MH AND MH)\n60–74 ANY Mapped MeSH Terms should be MAJOR topic TIABDetails + AND (MH[MAJR] OR MH[MAJR])\n75–89 ALL Mapped MeSH Terms required but with no tree TIABDetails + AND (MH:noexp AND MH:noexp)\nexplosion\n90–100 ALL Mapped MeSH Terms should be MAJOR topic TIABDetails + AND (MH[MAJR] AND MH[MAJR])",
+   "table_id": "PMC1318459_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    359.1,
+    372.6,
+    922.4
+   ],
+   "ocr": "System architecture and development SLIM was written in PHP and developed on an Apache 2.0.52 server running PHP 4.3.10. The PHP scripts gener- ate a HyperText Markup Language (HTML) and JavaScript search form. JavaScript provides most of the functionality of the search form and search results. Free and open source JavaScript codes were downloaded from the Inter- net for the slider controls [17,18]. Customized JavaScript codes were written to enhance the usability of the form and slider controls by providing pre-defined limit combi- nations, tool tips and slider labels. The application connects to the MEDLINE/PubMed data- base using tools from Entrez Programming Utilities (E- Utilities) [10]. The ESearch tool searches and retrieves pri- mary IDs and term translations. The EFetch tool retrieves records from a list of one or more primary IDs. The E-Util- ities server generates remote XML documents for both processes. Custom PHP scripts were written to parse the XML files. SLIM sends two successive passes through the ESearch tool and one final pass through the EFetch tool when the search form is submitted. Automatic term mapping is the process where terms entered in the PubMed query box without a search tag are matched against the Medical Subject Headings translation table, the journals translation table, the full author trans- lation table and an author index [19]. To optimize modi- fications done by SLIM on the search terms, it was essential to emulate the mapping and translation algo- rithms of Entrez PubMed. The first ESearch pass was designed to mimic this process. By sending unmodified search terms to the E-Utilities server and retrieving the translation stack from the XML document, a custom PHP function was able to build the detailed search query from the parsed XML elements. The goal was to capture the process found in the Details tab of PubMed. Using the translation stack, mapped MeSH terms and subheadings"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    359.4,
+    698.4,
+    981.2
+   ],
+   "ocr": "were identified and recorded. Terms tagged as \"All Fields\" were identified as unmapped terms. Depending on slider bar and search form input, the detailed search query built on the first ESearch pass is modified by appending user-defined limits and study design filters, or by converting search tags. The modified query is processed once again through the ESearch tool to get the final list of PubMed IDs (PMIDs) from the second XML document. The ID list is sent to the EFetch tool to retrieve and display the details of the first 200 citations. Performance and usability testing To simulate performance testing, benchmarking timer functions were embedded in the PHP scripts to measure page loading and search times. All values generated dur- ing the alpha-testing with developers and beta-testing with users were recorded in a MySQL database for data analysis. An online survey form was created to gather preliminary user opinion on stability and usability of the application. All seven questions used Likert scales to record answers. A call for participation in the usability testing was made on a mailing list of an international group of practicing phy- sicians. Users were asked to use the system as a replace- ment for their regular PubMed search engine for two weeks. Comments and discussion on the application were encouraged. Results Initial qualitative testing by application developers dem- onstrated that SLIM is functional and stable. Occasional XML file connection problems occurred, but rarely. These were attributed to technical issues in the E-Utilities server and were quickly resolved by resubmitting the search form. The application was tested for compatibility with multiple browsers and worked in default installations of Page 6 of 9 (page number not for citation purposes)"
+  }
+ }
+}

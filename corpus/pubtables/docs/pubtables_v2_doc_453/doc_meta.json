@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_453",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4492601_table_1",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    768.1,
+    726.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4492601_table_1.png",
+   "html": "<table><tr><td>Type</td><td>Number</td></tr><tr><td>Total genes</td><td>26034</td></tr><tr><td>Total unigenes</td><td>38237</td></tr><tr><td>Total residues</td><td>61573030 bp</td></tr><tr><td>Average length</td><td>1610.3 bp</td></tr><tr><td>Largest unigene</td><td>24554 bp</td></tr><tr><td>Smallest unigene</td><td>351 bp</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4492601_table_2",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    279.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4492601_table_2.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Predicted sequences</td><td colspan=\"2\">Unpredictable sequences</td></tr><tr><td></td><td>Number</td><td>Ratio (%)</td><td>Number</td><td>Ratio (%)</td></tr><tr><td>All genes</td><td>22431</td><td>100</td><td>15806</td><td>100</td></tr><tr><td>Annotated in NR</td><td>17232</td><td>76.82</td><td>2235</td><td>14.14</td></tr><tr><td>Annotated in NT</td><td>None</td><td>None</td><td>509</td><td>3.22</td></tr><tr><td>Annotated in GO</td><td>None</td><td>None</td><td>746</td><td>4.72</td></tr><tr><td>Annotated in string</td><td>6298</td><td>28.08</td><td>313</td><td>1.98</td></tr><tr><td>Annotated in COG</td><td>3720</td><td>16.58</td><td>128</td><td>0.81</td></tr><tr><td>Annotated in KOG</td><td>5408</td><td>24.11</td><td>243</td><td>1.54</td></tr><tr><td>Annotated in NOG</td><td>302</td><td>1.35</td><td>56</td><td>0.35</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4492601_table_3",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    446.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4492601_table_3.png",
+   "html": "<table><tr><td>Pathway ID</td><td>Pathway definition</td><td>Number of sequences</td></tr><tr><td>path:ko01100</td><td>Metabolic pathways</td><td>1476</td></tr><tr><td>path:ko01110</td><td>Biosynthesis of secondary metabolites</td><td>419</td></tr><tr><td>path:ko03040</td><td>Spliceosome</td><td>278</td></tr><tr><td>path:ko03013</td><td>RNA transport</td><td>260</td></tr><tr><td>path:ko04144</td><td>Endocytosis</td><td>247</td></tr><tr><td>path:ko05169</td><td>Epstein-Barr virus infection</td><td>245</td></tr><tr><td>path:ko00230</td><td>Purine metabolism</td><td>236</td></tr><tr><td>path:ko05205</td><td>Proteoglycans in cancer</td><td>232</td></tr><tr><td>path:ko05200</td><td>Pathways in cancer</td><td>231</td></tr><tr><td>path:ko01120</td><td>Microbial metabolism in diverse environments</td><td>227</td></tr><tr><td>path:ko04142</td><td>Lysosome</td><td>219</td></tr><tr><td>path:ko05166</td><td>HTLV-I infection</td><td>216</td></tr><tr><td>path:ko04151</td><td>PI3K-Akt signaling pathway</td><td>216</td></tr><tr><td>path:ko04510</td><td>Focal adhesion</td><td>215</td></tr><tr><td>path:ko04141</td><td>Protein processing in endoplasmic reticulum</td><td>187</td></tr><tr><td>path:ko05016</td><td>Huntington's disease</td><td>186</td></tr><tr><td>path:ko04530</td><td>Tight junction</td><td>185</td></tr><tr><td>path:ko05203</td><td>Viral carcinogenesis</td><td>180</td></tr><tr><td>path:ko05168</td><td>Herpes simplex infection</td><td>180</td></tr><tr><td>path:ko04120</td><td>Ubiquitin mediated proteolysis</td><td>172</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4492601_table_4",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    515.5,
+    726.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4492601_table_4.png",
+   "html": "<table><tr><td>GO ID</td><td>Pathway description</td><td>P value</td><td>Type</td></tr><tr><td>GO:0003674</td><td>molecular function</td><td>1.88E-06</td><td>Molecular function</td></tr><tr><td>GO:0003824</td><td>catalytic activity</td><td>2.12E-06</td><td>Molecular function</td></tr><tr><td>GO:0043967</td><td>histone H4 acetylation</td><td>0.000136</td><td>Biological process</td></tr><tr><td>GO:0042302</td><td>structural constituent of cuticle</td><td>0.000223</td><td>Molecular function</td></tr><tr><td>GO:0008061</td><td>chitin binding</td><td>0.000638</td><td>Molecular function</td></tr><tr><td>GO:0097367</td><td>carbohydrate derivative binding</td><td>0.000884</td><td>Molecular function</td></tr><tr><td>GO:0006030</td><td>chitin metabolic process</td><td>0.0016</td><td>Biological process</td></tr><tr><td>GO:1901071</td><td>glucosamine-containing compound metabolic process</td><td>0.0021</td><td>Biological process</td></tr><tr><td>GO:0006022</td><td>aminoglycan metabolic process</td><td>0.0041</td><td>Biological process</td></tr><tr><td>GO:0016573</td><td>histone acetylation</td><td>0.0047</td><td>Biological process</td></tr><tr><td>GO:0018393</td><td>internal peptidyl-lysine acetylation</td><td>0.0047</td><td>Biological process</td></tr><tr><td>GO:0018394</td><td>peptidyl-lysine acetylation</td><td>0.0047</td><td>Biological process</td></tr><tr><td>GO:0006475</td><td>internal protein amino acid acetylation</td><td>0.0061</td><td>Biological process</td></tr><tr><td>GO:0000123</td><td>histone acetyltransferase complex</td><td>0.0075</td><td>Cellular component</td></tr><tr><td>GO:0006473</td><td>protein acetylation</td><td>0.0079</td><td>Biological process</td></tr><tr><td>GO:0043543</td><td>protein acylation</td><td>0.0129</td><td>Biological process</td></tr><tr><td>GO:1901564</td><td>organonitrogen compound metabolic process</td><td>0.0139</td><td>Biological process</td></tr><tr><td>GO:0018205</td><td>peptidyl-lysine modification</td><td>0.0139</td><td>Biological process</td></tr><tr><td>GO:0006040</td><td>amino sugar metabolic process</td><td>0.0163</td><td>Biological process</td></tr><tr><td>GO:0008152</td><td>metabolic process</td><td>0.0188</td><td>Biological process</td></tr><tr><td>GO:0016491</td><td>oxidoreductase activity</td><td>0.0314</td><td>Molecular function</td></tr><tr><td>GO:0005576</td><td>extracellular region</td><td>0.0476</td><td>Cellular component</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4492601_table_5",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    415.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4492601_table_5.png",
+   "html": "<table><tr><td>Pathway description</td><td>KEGG ID</td><td>Sample number</td><td>Background number</td><td>P-value</td></tr><tr><td>Glycosphingolipid biosynthesis&#8212;lacto and neolacto series</td><td>ko00601</td><td>7</td><td>16</td><td>0.001</td></tr><tr><td>Lysine degradation</td><td>ko00310</td><td>23</td><td>102</td><td>0.002</td></tr><tr><td>Glycosaminoglycan biosynthesis&#8212;keratan sulfate</td><td>ko00533</td><td>7</td><td>17</td><td>0.002</td></tr><tr><td>Malaria</td><td>ko05144</td><td>11</td><td>41</td><td>0.007</td></tr><tr><td>Phosphonate and phosphinate metabolism</td><td>ko00440</td><td>4</td><td>8</td><td>0.009</td></tr><tr><td>Glycerophospholipid metabolism</td><td>ko00564</td><td>20</td><td>98</td><td>0.011</td></tr><tr><td>Steroid hormone biosynthesis</td><td>ko00140</td><td>8</td><td>29</td><td>0.017</td></tr><tr><td>Glycosaminoglycan degradation</td><td>ko00531</td><td>11</td><td>48</td><td>0.023</td></tr><tr><td>Adipocytokine signaling pathway</td><td>ko04920</td><td>14</td><td>67</td><td>0.025</td></tr><tr><td>Fatty-acid biosynthesis</td><td>ko00061</td><td>3</td><td>6</td><td>0.026</td></tr><tr><td>Synthesis and degradation of ketone bodies</td><td>ko00072</td><td>8</td><td>32</td><td>0.031</td></tr><tr><td>Ether lipid metabolism</td><td>ko00565</td><td>9</td><td>38</td><td>0.031</td></tr><tr><td>Drug metabolism&#8212;cytochrome P450</td><td>ko00982</td><td>13</td><td>63</td><td>0.033</td></tr><tr><td>Drug metabolism&#8212;other enzymes</td><td>ko00983</td><td>15</td><td>76</td><td>0.033</td></tr><tr><td>TGF-beta signaling pathway</td><td>ko04350</td><td>12</td><td>57</td><td>0.034</td></tr><tr><td>Arachidonic acid metabolism</td><td>ko00590</td><td>14</td><td>70</td><td>0.035</td></tr><tr><td>Metabolism of xenobiotics by cytochrome P450</td><td>ko00980</td><td>14</td><td>71</td><td>0.039</td></tr><tr><td>Cholinergic synapse</td><td>ko04725</td><td>14</td><td>71</td><td>0.039</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4492601_table_6",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    762.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4492601_table_6.png",
+   "html": "<table><tr><td>Gene name</td><td></td><td>Product size</td><td>Primer sequences (5&#8217;-3&#8217;)</td></tr><tr><td rowspan=\"2\">MLL3</td><td>F</td><td>90</td><td>GACATCTCCTACCACATATACT</td></tr><tr><td>R</td><td></td><td>TTGACATACAGCACACCAT</td></tr><tr><td rowspan=\"2\">LYPLA3</td><td>F</td><td>121</td><td>TGGAACAGTCAACCTAAGAA</td></tr><tr><td>R</td><td></td><td>GTCAGAGTCACGCAAGAT</td></tr><tr><td rowspan=\"2\">GPAT3_4</td><td>F</td><td>147</td><td>TAGCAAGGAGATTACGAGAG</td></tr><tr><td>R</td><td></td><td>TGGCGACTGGATAGATGA</td></tr><tr><td rowspan=\"2\">E2.7.8.11</td><td>F</td><td>132</td><td>ATTCTCCGCATCTACTACAC</td></tr><tr><td>R</td><td></td><td>CCTCCAGAGTCCTATTCCA</td></tr><tr><td rowspan=\"2\">EPT1</td><td>F</td><td>117</td><td>ATGACCAAGAGCGAGATG</td></tr><tr><td>R</td><td></td><td>ACAGACACAATACAGGAGAT</td></tr><tr><td rowspan=\"2\">HSD3B</td><td>F</td><td>95</td><td>CCAACACAATGCCTTCCT</td></tr><tr><td>R</td><td></td><td>CTTCCTCAGAGCCATGAC</td></tr><tr><td rowspan=\"2\">HSD17B8</td><td>F</td><td>98</td><td>AGAGAAGGAGCACGAGTG</td></tr><tr><td>R</td><td></td><td>CTTACCGCCAGATGATTATTG</td></tr><tr><td rowspan=\"2\">CYP3A</td><td>F</td><td>139</td><td>TAGGCATCATAGGCAGGAA</td></tr><tr><td>R</td><td></td><td>TCTGGCAGGTTGTCTTCA</td></tr><tr><td rowspan=\"2\">fabF</td><td>F</td><td>120</td><td>AGCCATCCTCACCATTCT</td></tr><tr><td>R</td><td></td><td>TATTCTTCTGTCCGCCATC</td></tr><tr><td rowspan=\"2\">E3.1.1.47</td><td>F</td><td>145</td><td>GAGCACAGAGACAGTTCC</td></tr><tr><td>R</td><td></td><td>CTGGCTGTTCCTGAGTTC</td></tr><tr><td rowspan=\"2\">E1.11.1.9</td><td>F</td><td>119</td><td>CTGAATGGCGTCCGTTAC</td></tr><tr><td>R</td><td></td><td>CGAAGTCTGTGTCTGTGTAT</td></tr><tr><td rowspan=\"2\">CYP2J</td><td>F</td><td>106</td><td>TCCTACCAGCACAAGAGT</td></tr><tr><td>R</td><td></td><td>GCCAGGTAAGTGTCAGTC</td></tr><tr><td rowspan=\"2\">IRS</td><td>F</td><td>114</td><td>AGAGGAGAGTGCCATATCA</td></tr><tr><td>R</td><td></td><td>ACCGCTGTTGTTAGTTGT</td></tr><tr><td rowspan=\"2\">AKT</td><td>F</td><td>118</td><td>AGCACGAGACCTCCTTAG</td></tr><tr><td>R</td><td></td><td>CAGTTGATGGTGATGTAGAAG</td></tr><tr><td rowspan=\"2\">GNS</td><td>F</td><td>149</td><td>GAGGACTCGTGGAACAAC</td></tr><tr><td>R</td><td></td><td>CGCTCTTCAGGTCATACAT</td></tr><tr><td rowspan=\"2\">E3.2.1.31</td><td>F</td><td>129</td><td>ATTCGCACTCTTGGATGG</td></tr><tr><td>R</td><td></td><td>CACTTGAGGAGGCTGAAG</td></tr><tr><td rowspan=\"2\">OXCT</td><td>F</td><td>126</td><td>AACGGACGGAATTACATCA</td></tr><tr><td>R</td><td></td><td>GCACATTGGTAGGTTGAAG</td></tr><tr><td rowspan=\"2\">CYP2C</td><td>F</td><td>125</td><td>CTGACGGCTCTGTATCTG</td></tr><tr><td>R</td><td></td><td>TGTGCTTGATGTGGTCTC</td></tr><tr><td rowspan=\"2\">BMP2_4</td><td>F</td><td>122</td><td>ACCAATACCTCGCTGATG</td></tr><tr><td>R</td><td></td><td>GATGTTCGTCACGTTGAAG</td></tr><tr><td rowspan=\"2\">GNB5</td><td>F</td><td>106</td><td>GCAGGATACAACGACTACA</td></tr><tr><td>R</td><td></td><td>GAGACATCTTCAGACAGGAG</td></tr></table>"
+  }
+ ]
+}

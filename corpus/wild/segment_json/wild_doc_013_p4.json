@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_013",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    63
+   ],
+   "ocr": "The table presents a comprehensive overview of various drugs, their associated diseases, relevant DNA mutations, and actions."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "For Chronic myelogenous leukemia, the drugs Imatinib, Dasatinib, Nilotinib, and Bosutinib target the BCR-ABL1 fusion, indicating their use in therapy. Ponatinib is also indicated for Chronic myelogenous leukemia but is specifically noted for T315I mutations."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    422.0
+   ],
+   "ocr": "Drug Disease DNA mutation Action\nImatinib, Dasatinib, Nilotinib, Bosutinib Chronic myelogenous leukemia BCR-ABL1 fusion Indication for therapy\nPonatinib Chronic myelogenous leukemia BCR-ABL1 fusion Only indicated for T315I mutations\nT315I resistance mutation\nErlotinib, Afatinib Lung adenocarcinoma EGFR Indication for therapy\nExon 19 deletions\nL858R\nVemurafenib, Dabrafenib Melanoma BRAF V600E Indication for therapy\nTramatenib Melanoma BRAF V600E/K Indication for therapy\nCrizotinib Lung cancer ALK gene fusions Indication for therapy\nCetuximab Colon cancer KRAS codon 12, 13 Contraindication to therapy\nOlaparib Ovarian cancer BRCA1 and BRCA2 mutations Indication for therapy",
+   "table_id": "img_012850_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    438,
+    580,
+    496
+   ],
+   "ocr": "The T315I resistance mutation itself is acknowledged but lacks a specific drug association. In the context of Lung adenocarcinoma, Erlotinib and Afatinib are indicated for therapy due to the presence of EGFR mutations, including Exon 19 deletions and the L858R mutation. For Melanoma, Vemurafenib and Dabrafenib are indicated for therapy targeting the BRAF V600E mutation, while Tramatenib is also indicated for the BRAF V600E/K mutation."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    484,
+    580,
+    557
+   ],
+   "ocr": "Crizotinib is noted for its therapeutic indication in Lung cancer, targeting ALK gene fusions. In Colon cancer, Cetuximab is listed as a contraindication to therapy for KRAS codon 12 and 13 mutations. Lastly, Olaparib is indicated for therapy in Ovarian cancer, specifically for patients with BRCA1 and BRCA2 mutations. This detailed table encapsulates essential information regarding drug applications based on specific diseases and genetic mutations, highlighting the importance of precision in cancer treatment protocols."
+  }
+ }
+}

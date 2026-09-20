@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_009",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The table presents a detailed overview of genetic alterations associated with the THBS1 gene, located at chromosome 15q14, specifically focusing on the variant identified by the ID LN607833. This variant is characterized by the presence of ten skipped exons, which may significantly impact the gene's functional output."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "Skipped exons can lead to alterations in the open reading frame (ORF) and may affect the resulting protein's structure and function. The ORF change associated with this variant indicates a potential disruption in the normal coding sequence, which may result in a truncated or nonfunctional protein."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    415.0
+   ],
+   "ocr": "Gene Name Positions ID Skipped Exons ORF Change Affected Domain(s) Protein Length\nTHBS1 15q14 LN607833 10 Del TSP1 1112\nLGALS1 22q13.1 LN607840 3 Frameshift β-galactoside binding 39\nRAP1GAP 1p36.12 LN607839 24 Ins N/A 821\nCD47 3q13.12 LN680437 8–10 Frameshift Cytoplasmic C-term 293\nRHOA 3p21.31 LN607834 3–4 Del GTP binding 109\nRHOD 11q13.2 LN607835 4 Del GTP binding 165\nCASK Xp11.4 LN607837 19–20 Del Linker between PDZ and SH3 886\nCTTN 11q13.3 LN607836 10–11 Del Cortactin 476\nJAG2 14q32.33 LN607838 24 Del VWFC 1194\nSEMA3C 7q21.11 LN626689 15 Frameshift Type 1 Ig-like and R/K rich 514\nSEMA3F 3p21.31 LN626688 16 Frameshift Type 1 Ig-like and R/K rich 571\nPLXNB1 3p21.31 LN626690 32 Frameshift Cytoplasmic C-term 1876",
+   "table_id": "img_008806_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    431,
+    580,
+    474
+   ],
+   "ocr": "Furthermore, the affected domains listed in the table provide insights into specific functional regions within the protein that may be compromised due to these genetic alterations. Understanding the implications of such changes is crucial for elucidating the role of THBS1 in various biological processes and its potential involvement in disease mechanisms."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    462,
+    580,
+    520
+   ],
+   "ocr": "The protein length metric adds context to the overall impact of the skipped exons, as alterations in protein size can influence its stability, localization, and interaction with other cellular components. Thus, this data serves as a foundation for further investigation into the biological significance of THBS1 variants."
+  }
+ }
+}

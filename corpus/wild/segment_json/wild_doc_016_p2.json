@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_016",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "In recent years, the implementation of advanced monitoring technologies has become essential for managing water resources effectively, particularly in regions prone to flooding or drought. Nakhon Si Thammarat, Thailand, has adopted innovative solutions to enhance its water management capabilities through the integration of the STARLFLOW Ultrasonic Doppler sensor system."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    140
+   ],
+   "ocr": "This system provides real-time data on critical water parameters, specifically water level and velocity, which are crucial for assessing hydrological conditions. The data collected through these measurements enables local authorities to make informed decisions regarding water management and disaster preparedness."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    642.0
+   ],
+   "ocr": "Location Sensors Communication System Alert Dissemination Power Supply\nType Variables to Measure\nNakhon Si Thammarat, Thailand STARLFLOW Ultrasonic Doppler sensor Water level and velocity GPRS module Web application. SMS, FAX, email. Connected to the electrical grid and UPS\nTipping bucket rain gauge Amount of rain\nFlorida, United States Ultrasonic sensor WL700 Water level Wireless unit (IEEE 802.15) Online access to raw and predicted data, video information Photovoltaic system\nRedeye Z205 Cameras Ethernet\nBarranquilla, Colombia Humidity sensor Atmospheric variables ZigBee (IEEE 802.15) Web and mobile application Photovoltaic system\nTemperature sensor\nAtmospheric pressure\nManila, Philippines Pressure sensor Water level GPRS module Web application Photovoltaic system\nTipping bucket rain gauge Amount of rain\nMayagüez, Puerto Rico Weather radar Radar reflectivity and amount of rain Parabolic antenna (IEEE 802.15) Web application Photovoltaic system\nBarcelona, Spain Weather radar Radar reflectivity and amount of rain Web application, SMS, E-mail",
+   "table_id": "img_016082_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    717
+   ],
+   "ocr": "In addition to the ultrasonic sensors, the deployment of a GPRS module facilitates immediate data transmission to a web application, allowing stakeholders to access information remotely and promptly. This digital infrastructure supports various communication methods, including SMS, FAX, and email notifications, ensuring that relevant parties are kept informed of changing water conditions."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    747
+   ],
+   "ocr": "The table presented herein outlines the specific types of data collected and the variables to measure, illustrating the comprehensive approach taken in Nakhon Si Thammarat to enhance water resource management through technology."
+  }
+ }
+}

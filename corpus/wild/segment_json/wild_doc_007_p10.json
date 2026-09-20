@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_007",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in the table provides a comprehensive overview of the finishing quality assessments associated with MIGS- 31 properties."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "This analysis is critical for understanding the consistency and reliability of finished products within the specified term."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    392.0
+   ],
+   "ocr": "MIGS ID Property Term\nMIGS-31 Finishing quality Finished\nMIGS-28 Libraries used Three libraries of 500 bp, 2,000 bp and 6,000 bp, respectively\nMIGS-29 Sequencing platforms Solexa\nMIGS-31.2 Fold coverage 200 x\nMIGS-30 Assemblers SOAPdenovo 1.05\nMIGS-32 Gene calling method NCBI Prokaryotic Genome Annotation Pipeline\nLocus Tag PFLUOLIPICF7\nGenbank ID CP005975\nGenBank Date of Release May 31, 2017\nGOLD ID Gi0079402\nBIOPROJECT PRJNA203247\nNCBI taxon ID 1334632\nProject relevance Plant-bacteria interaction, Model for endophytic lifestyle, Agricultural, Environmental",
+   "table_id": "img_007355_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    408,
+    580,
+    482
+   ],
+   "ocr": "The MIGS ID column serves as a unique identifier for each property, ensuring precise tracking and reference throughout the evaluation process. By examining the relationship between the MIGS ID and the associated finishing quality metrics, stakeholders can gain valuable insights into production outcomes and potential areas for improvement. Furthermore, the Term column delineates the specific timeframe during which the finishing quality was assessed, allowing for a temporal analysis of performance trends."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    470,
+    580,
+    543
+   ],
+   "ocr": "This temporal dimension is essential for identifying whether certain properties consistently meet quality standards or if there are fluctuations that may require further investigation. Overall, the integration of these metrics not only enhances the understanding of finishing quality for MIGS-31 but also facilitates informed decision-making for quality control and production optimization. Stakeholders are encouraged to utilize this data to support strategic initiatives aimed at maintaining high-quality standards across all finished products."
+  }
+ }
+}

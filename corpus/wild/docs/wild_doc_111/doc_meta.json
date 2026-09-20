@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_111",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_122210_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    400.0,
+    580.0,
+    525.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_122210_t0.png",
+   "html": "<table><tr><td>Platform</td><td colspan=\"2\">AdvertisingMetrics</td></tr><tr><td colspan=\"2\">RevenueGrowth</td><td colspan=\"2\">MarketShare</td></tr><tr><td colspan=\"2\">ProfitabilityRatios</td><td>P/ERatio</td><td colspan=\"2\">CurrentRatio</td></tr><tr><td>Television</td><td>£500M</td><td>15%</td><td>30%</td><td>8.5</td></tr><tr><td>Digital</td><td>£400M</td><td>20%</td><td>25%</td><td>7.2</td></tr><tr><td>Streaming</td><td>£300M</td><td>25%</td><td>20%</td><td>6.5</td></tr></table>"
+  },
+  {
+   "table_id": "img_122244_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    422.0,
+    580.0,
+    571.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_122244_t0.png",
+   "html": "<table><tr><td>Year</td><td>2020</td></tr><tr><td>RigCount</td><td colspan=\"3\">TotalRigs</td></tr><tr><td>Region</td><td>NorthAmerica</td><td colspan=\"5\">Change(%)</td><td>2021</td></tr><tr><td>2022</td><td>2020</td><td>2021</td><td>2022</td><td>TotalRigs</td><td>ActiveRigs</td><td colspan=\"2\">InactiveRigs</td><td>Trend</td></tr><tr><td>100</td><td>90</td><td>85</td><td>80</td><td>75</td><td>70</td><td>5%</td><td>10%</td><td>15%</td></tr><tr><td>2020</td><td>100</td><td>90</td><td>10</td><td>2021</td><td>85</td><td>75</td><td>10</td><td>Decrease</td></tr></table>"
+  },
+  {
+   "table_id": "img_122262_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    338.0,
+    580.0,
+    543.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_122262_t0.png",
+   "html": "<table><tr><td colspan=\"7\">SolarInstallationCapacity</td><td>Region</td><td>TotalCapacity(MW)</td></tr><tr><td>Region</td><td>Q1Capacity(MW)</td><td>Q2Capacity(MW)</td><td>Q3Capacity(MW)</td><td>Q4Capacity(MW)</td><td>YearlyGrowth(%)</td><td>Revenue(CAD)</td><td>NetIncome(CAD)</td><td>CAPEX(CAD)</td></tr><tr><td>Ontario</td><td>1500</td><td>200</td><td>300</td><td>400</td><td>600</td><td>10%</td><td>$500M</td><td>$50M</td></tr><tr><td>Quebec</td><td>800</td><td>100</td><td>200</td><td>300</td><td>200</td><td>5%</td><td>$250M</td><td>$25M</td></tr><tr><td>BritishColumbia</td><td>1200</td><td>150</td><td>200</td><td>350</td><td>500</td><td>12%</td><td>$400M</td><td>$40M</td></tr><tr><td>Alberta</td><td>1000</td><td>120</td><td>180</td><td>300</td><td>400</td><td>8%</td><td>$350M</td><td>$35M</td></tr></table>"
+  },
+  {
+   "table_id": "img_122298_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    432.0,
+    580.0,
+    552.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_122298_t0.png",
+   "html": "<table><tr><td>ExplorationProject</td><td>DrillHoles</td><td>Depth(m)</td><td>Result(g/tAu)</td></tr><tr><td>Year</td><td>TotalCAPEX</td><td>Revenue</td><td>NetIncome</td></tr><tr><td colspan=\"2\">2019-2024Trends</td><td>$150M</td><td>$80M</td><td>$20M</td></tr><tr><td>2020</td><td>20</td><td>150</td><td>5.2</td><td>2021</td></tr><tr><td>2021</td><td>25</td><td>200</td><td>6.0</td><td>2022</td></tr><tr><td>30</td><td>250</td><td>6.5</td><td>2023</td><td>35</td></tr></table>"
+  },
+  {
+   "table_id": "img_122414_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    333.0,
+    580.0,
+    496.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_122414_t0.png",
+   "html": "<table><tr><td colspan=\"2\">FinancialRatios</td><td colspan=\"2\">PerformanceIndices</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>GrossMargin%</td></tr><tr><td>15.2</td><td>1.5</td><td>0.8</td><td>20.5</td></tr><tr><td>17.8</td><td>1.3</td><td>0.7</td><td>22.0</td></tr><tr><td>18.5</td><td>1.8</td><td>0.9</td><td>21.0</td></tr><tr><td>16.0</td><td>1.2</td><td>1.1</td><td>19.8</td></tr><tr><td>19.0</td><td>1.6</td><td>0.6</td><td>23.5</td></tr><tr><td>14.5</td><td>1.4</td><td>0.5</td><td>24.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_122476_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    390.0,
+    580.0,
+    527.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_122476_t0.png",
+   "html": "<table><tr><td>SteelPricingTrends</td><td colspan=\"5\">PriceOverview</td></tr><tr><td>Year</td><td>Amount($M)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>AveragePrice($/ton)</td><td>Forecast($M)</td></tr><tr><td>2019</td><td>150</td><td>5</td><td>20</td><td>600</td><td>180</td></tr><tr><td>2020</td><td>160</td><td>7</td><td>21</td><td>620</td><td>200</td></tr><tr><td>2021</td><td>170</td><td>6</td><td>22</td><td>640</td><td>220</td></tr><tr><td>2022</td><td>180</td><td>5</td><td>23</td><td>660</td><td>240</td></tr></table>"
+  },
+  {
+   "table_id": "img_122657_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    315.0,
+    580.0,
+    452.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_122657_t0.png",
+   "html": "<table><tr><td colspan=\"2\">PrefabricationAdoptionRates</td><td>2024Overview</td></tr><tr><td>Category</td><td>Status</td><td>Amount</td></tr><tr><td>Residential</td><td>Growing</td><td>35%</td></tr><tr><td>Commercial</td><td>Stable</td><td>20%</td></tr><tr><td>Industrial</td><td>Declining</td><td>10%</td></tr><tr><td>TotalAdoption</td><td>OverallStatus</td><td>24%</td></tr></table>"
+  },
+  {
+   "table_id": "img_122679_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    371.0,
+    580.0,
+    533.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_122679_t0.png",
+   "html": "<table><tr><td colspan=\"2\">SupplyChainOverview</td><td colspan=\"2\">LeadTimeAnalysis</td></tr><tr><td>Category</td><td colspan=\"3\">CurrentLeadTime(days)</td><td colspan=\"3\">PreviousLeadTime(days)</td><td>YoYChange(%)</td></tr><tr><td>Aerospace</td><td>45</td><td>40</td><td>12.5</td><td>Defense</td><td>60</td><td>55</td><td>9.1</td></tr><tr><td>Electronics</td><td>30</td><td>28</td><td>7.1</td><td>Materials</td><td>50</td><td>48</td><td>4.2</td></tr><tr><td>Logistics</td><td>35</td><td>33</td><td>6.1</td><td>Manufacturing</td><td>55</td><td>52</td><td>5.8</td></tr><tr><td>Total</td><td>45</td><td>42</td><td>7.1</td><td>AverageLeadTime</td><td>47.5</td><td>45</td><td>5.6</td></tr></table>"
+  },
+  {
+   "table_id": "img_122697_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    286.0,
+    580.0,
+    469.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_122697_t0.png",
+   "html": "<table><tr><td>VintageYear</td><td>2020</td></tr><tr><td>2021</td><td>2022</td></tr><tr><td>TotalReturns</td><td>InvestmentVolume</td></tr><tr><td colspan=\"5\">PerformanceMetrics</td><td colspan=\"2\">Currency:CAD</td></tr><tr><td>IRR(%)</td><td>1Year</td><td>3Year</td><td>5Year</td><td>TotalInvested</td><td>Distributions</td><td>NetCashFlow</td></tr><tr><td>15.4%</td><td>$250M</td><td>$50M</td><td>$200M</td><td>$75M</td><td>$125M</td><td>$300M</td></tr><tr><td>12.2%</td><td>$300M</td><td>$60M</td><td>$240M</td><td>$80M</td><td>$160M</td><td>$350M</td></tr><tr><td>10.6%</td><td>$350M</td><td>$70M</td><td>$270M</td><td>$90M</td><td>$180M</td><td>$400M</td></tr></table>"
+  },
+  {
+   "table_id": "img_122885_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    299.0,
+    580.0,
+    426.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_122885_t0.png",
+   "html": "<table><tr><td>MarketSegment</td><td>RevPAR(USD)</td></tr><tr><td>Luxury</td><td>$250.00</td></tr><tr><td>Midscale</td><td colspan=\"3\">TotalRevPAR</td></tr><tr><td>Economy</td><td>$150.00</td><td>$200.00</td><td>Change(%)</td></tr><tr><td>Northeast</td><td>$220.00</td><td>5.0%</td><td>$210.00</td></tr><tr><td>Southeast</td><td>$190.00</td><td>3.0%</td><td>$180.00</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_010",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The table presents data on gene expression involving various gene IDs, their descriptions, and read counts for MTX and RTX. The first row, Tb927.8.3620, with the description \"Folate transporter, putative,\" has MTX reads of 387.4a and RTX reads of 425.6a. The second row, Tb927.8.3650, also a \"Folate transporter, putative,\" shows MTX reads at 190.1a and RTX reads at 139.4a."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    140
+   ],
+   "ocr": "In the third row, Tb927.8.3630, another \"Folate transporter, putative,\" displays MTX reads of 107.0a and RTX reads of 125.5a. The fourth entry, Tb11.v5.0766, described as a \"Folate transporter, putative (truncated),\" has MTX reads of 85.4a and RTX reads of 78.9a."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    409.0
+   ],
+   "ocr": "Gene ID Gene description MTX reads RTX reads\nTb927.8.3620 Folate transporter, putative 387.4a 425.6a\nTb927.8.3650 Folate transporter, putative 190.1a 139.4a\nTb927.8.3630 Folate transporter, putative 107.0a 125.5a\nTb11.v5.0766 Folate transporter, putative (truncated) 85.4a 78.9a\nTb927.11.14360 Mitochondrial carrier protein (MCP2) 16.6a 4.0a\nTb927.7.1600 C-1-tetrahydrofolate synthase, cytoplasmic, putative 0 57.3a\nTb927.11.12460 Hypothetical protein, conserved 0 3.6\nTb927.8.1040 Protein phosphatase inhibitor, putative 2.1 0.5\nTb927.9.5960 Succinate dehydrogenase, putative 1.7 0\nTb927.10.7520 Folylpolyglutamate synthase, putative (FPGS) 0 1.2\nTb927.8.5840 Hypothetical protein, conserved 1.2 0",
+   "table_id": "img_009591_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    425,
+    580,
+    499
+   ],
+   "ocr": "The fifth row, Tb927.11.14360, identified as \"Mitochondrial carrier protein (MCP2),\" reports MTX reads of 16.6a and RTX reads of 4.0a. The sixth entry, Tb927.7.1600, a \"C-1-tetrahydrofolate synthase, cytoplasmic, putative,\" has MTX reads of 0 and RTX reads of 57.3a. The seventh row, Tb927.11.12460, a \"Hypothetical protein, conserved,\" shows MTX reads of 0 and RTX reads of 3.6. The eighth entry, Tb927.8.1040, labeled \"Protein phosphatase inhibitor, putative,\" has MTX reads of 2.1 and RTX reads of 0.5."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    487,
+    580,
+    545
+   ],
+   "ocr": "The ninth row, Tb927.9.5960, titled \"Succinate dehydrogenase, putative,\" has MTX reads of 1.7 and RTX reads of 0. The tenth and final entry, Tb927.10.7520, a \"Folylpolyglutamate synthase, putative (FPGS),\" shows MTX reads of 0 and RTX reads of 1.2, while the last row, Tb927.8.5840, a \"Hypothetical protein, conserved,\" has MTX reads of 1.2 and RTX reads of 0."
+  }
+ }
+}

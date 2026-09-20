@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_382",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    500.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prediction of Multiple Drug-Target Interactions"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    327.0,
+    92.8
+   ],
+   "ocr": "Table 1. Statistics of the prediction performances."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    687.5,
+    231.4
+   ],
+   "ocr": "SE (RF/SVM) SP (RF/SVM) CO (RF/SVM) AUC (RF/SVM)\nModel\nTraining Test Training Test Training Test Training Test\nModel I 79.58%/76.31% 80.99%/77.50% 84.11%/85.85% 84.66%/85.91% 81.84%/81.08% 82.83%/81.71% 89.50/88.97 90.55/89.91\nModel II 81.18%/77.66% 73.66%/74.11% 83.89%/86.11% 83.52%/85.49% 82.50%/81.78% 79.09%/80.38% 90.31/89.79 86.50/87.19\nModel III 81.33%/77.56% 52.20%/55.17% 83.22%/85.35% 92.15%/93.62% 82.25%/81.34% 74.53%/76.66% 89.81/89.04 82.77/84.90\nModel IV 71.90%/66.41% 32.52%/36.48% 90.25%/88.07% 91.21%/92.42% 82.46%/78.88% 66.09%/68.48% 88.99/85.62 72.64/75.47\nAverage 78.50%/74.49% 59.84%/60.82% 85.37%/86.35% 87.89%/89.36% 82.26%/80.77% 75.64%/76.81% 89.65/88.36 83.13/83.93",
+   "table_id": "PMC3364341_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    244.6,
+    377.3,
+    484.3
+   ],
+   "ocr": "The AUC (ROC score) is the area under the ROC curve, normalized to doi:10.1371/journal.pone.0037608.t001 Model Evaluation and Comparison To construct the four classification models using the Random Forest method, we firstly validated the predictive performance of these models by the internal five-fold cross-validations. Table 1 shows that these RF models for the internal validation perform consistently well in predicting the binding (average SE 78.50%) and the non-binding (average SP 85.37%) patterns, with an average concordance of 82.26% and an average AUC of 89.65, indicating the strong robustness and capability of the models for prediction of the interactions between drugs and targets. Additionally, the obtained ROC curve (Figure 2) suggests that the RF method can catch sufficient information to detect the drug- target interactions at high true-positive rates against low false- positive rates at any threshold. For example, in the RF Model I, when the true positive rate reaches 40% the false positive rate is as"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    380.3,
+    244.6,
+    631.9,
+    253.5
+   ],
+   "ocr": "100 for a perfect inference and 50 for a random inference."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    279.5,
+    700.8,
+    482.7
+   ],
+   "ocr": "low as ,2%, and when the true positive rate is 60% the false positive rate is still low as ,4%. Subsequently, we used four external independent validations to further assess the generalization ability of these models, i.e., the ‘‘general’’ prediction, the ‘‘new-drug vs known-target’’ prediction, ‘‘new-target vs known-drug’’ prediction and ‘‘new-drug vs new- target’’ prediction (Table 1). For the test set I, the RF Model I acquires a sensitivity of 80.99%, a specificity of 84.66% and a concordance of 82.83%, which are comparable to the results obtained for the internal validation. This suggests that the risk of over-fitting problem is quite low for the obtained models. For the test set II and test set III, RF Model II and III obtain a sensitivity of 73.66% and 52.20%, a specificity of 83.52% and 92.15% and a concordance of 79.09% and 74.53%, respectively. Evidently, the Model II exhibits much better results than model III, and such"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    894.2,
+    386.5,
+    927.0
+   ],
+   "ocr": "Figure 2. The ROC curves of the RF and SVM in internal five-fold Model IV. doi:10.1371/journal.pone.0037608.g002"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    389.5,
+    894.2,
+    700.8,
+    904.3
+   ],
+   "ocr": "cross validation for (a) Model I, (b) Model II, (c) Model III and (d)"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p1_b9": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "5 May 2012 | Volume 7 | Issue 5 | e37608"
+  }
+ }
+}

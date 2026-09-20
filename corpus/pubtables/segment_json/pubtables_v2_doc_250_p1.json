@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_250",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "caption",
+   "bbox": [
+    55.3,
+    116.8,
+    264.0,
+    128.1
+   ],
+   "ocr": "Table 1 Description of modules in FluxPyt."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    50.9,
+    137.4,
+    721.1,
+    458.3
+   ],
+   "ocr": "Module Description\nmain.py Main driver module. Asks user inputs\nbuild_model.py Parses csv model ﬁle. Generates metabolite and isotopomer models, stoichiometric matrix.\nReads measured MIDs\ncreate_atm_transition_equations.py Creates list of elementary reactions from atom transition equations\ninput_substrate_emu.py Reads substrate input ﬁle and calculates substrate MIDs required in the emu network\nmid_vec_gen.py Generates correction vector for a given natural isotope distribution vector and number\nof atomic elements\npriliminary_fba.py Generates initial feasible ﬂux distribution using glpk as linear programming solver and\nsets feasible reaction bounds\nglpk_solve.py Solves linear programming problems using glpk\nmake_emu_networks.py Makes EMU networks from elementary reactions and measured MIDs\nfree_ﬂux_null.py Calculates null matrix and free ﬂuxes\nsolve_mfa_lm.py Generates and solves non-linear optimization problem using lmﬁt\nsolve_mid_networks.py Solves EMU network to ﬁnd calculated MIDS with respect to parameters of the non-linear problem\nmid_corr.py Corrects calculated MIDs\ndraw_ﬂux_map.py Draws ﬂux map from optimization result and ﬂux map template\nmonte_carlo.py Performs Monte-Carlo analysis\nbootstrap.py For bootstrapping results from Monte-Carlo analysis",
+   "table_id": "PMC5933345_table_0"
+  },
+  "p1_b2": {
+   "type": "title",
+   "bbox": [
+    235.9,
+    486.8,
+    730.0,
+    538.4
+   ],
+   "ocr": "\" ðMIDcalc�MIDmeasuredÞ2 # Minimize (3)"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    235.9,
+    519.4,
+    730.0,
+    687.6
+   ],
+   "ocr": "Error2 Levenberg–Marquardt algorithm implemented in the lmﬁt package is used to optimize the free ﬂux parameters in the metabolite model. The free ﬂux assignments are done based on the reduced row echelon form (rref) of the stoichiometric matrix. Before calculating the rref, the reactions are arranged in following order: 2 3"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    247.3,
+    644.6,
+    265.4,
+    663.4
+   ],
+   "ocr": "v! rev"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    247.3,
+    663.3,
+    271.5,
+    694.5
+   ],
+   "ocr": "virrev v!"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    247.3,
+    687.0,
+    272.0,
+    727.0
+   ],
+   "ocr": "free vbasis v"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    235.9,
+    720.1,
+    730.0,
+    758.6
+   ],
+   "ocr": "rev v! and v are the forward and reverse reactions of reversible reactions; virrev are irreversible"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    235.9,
+    750.7,
+    730.0,
+    777.5
+   ],
+   "ocr": "rev rev reactions; v! are reactions that the user chooses to act as free ﬂuxes; vbasis are reactions with"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    235.9,
+    769.7,
+    730.0,
+    908.5
+   ],
+   "ocr": "free measured or predetermined values. The arrangement of reactions in a speciﬁed order ensures that the measured ﬂuxes are calculated as free ﬂuxes. In addition, the user may provide a preference for certain reactions to be calculated as free ﬂuxes (v! free). The default number of iterations is 10, but this value can be changed by the user. The iterations are run with different random initial parameters so as to increase the chances of ﬁnding global minimum. Flux standard deviations are calculated using the Monte-Carlo method. Multiple datasets of the measured MID values are generated using the mean and standard"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    42.7,
+    944.5,
+    729.9,
+    957.7
+   ],
+   "ocr": "Desai and Srivastava (2018), PeerJ, DOI 10.7717/peerj.4716 5/16"
+  }
+ }
+}

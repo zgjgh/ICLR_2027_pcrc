@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_044",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in the table provides a comprehensive comparison of gene expression metrics across three plant species: wheat, Arabidopsis, and rice, as indicated by their respective columns."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "Specifically, the genes associated with the TaGPDH1 (GenBank accession No. KC953025) in wheat, At2g41540 in Arabidopsis, and Os01g58740 and Os01g71280 in rice have been analyzed to assess their expression levels."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    320.0
+   ],
+   "ocr": "Wheat Arabidopsis Rice\nTaGPDH1 (GenBank accession No. KC953025) At2g41540 (71%), At3g07690 (69%) Os01g58740 (76%), Os01g71280 (89%), Os05g41590 (76%)\nTaGPDH2 (GenBank accession No. KC953026) At3g10370 (72%) ND\nTaGPDH3 (GenBank accession No. KC953027) At5g40610 (71%) Os01g74000 (88%)\nTaGLY1 (GenBank accession No. KC527592) At2g40690 (68%) Os07g12640 (89%)\nTaGLI1 (GenBank accession No. KC244204) At1g80460 (72%) Os04g55410 (87%)",
+   "table_id": "img_049942_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    335.0,
+    580.0,
+    455.0
+   ],
+   "ocr": "Difference >SDD\nAge > 65 yrs 1.35 [1.07–1.71]∗\nMenopause 0.88 [0.71–1.08]\nBMI < 20 0.87 [0.53–1.43]\nCorticoid use (>3 months) 0.79 [0.53–1.17]\nTotal hip BMD 0.25 [0.05–1.11]",
+   "table_id": "img_049942_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    470.0,
+    580.0,
+    597.0
+   ],
+   "ocr": "Baseline (£ million) Stamping-out Vaccinate-to-die\n5th Median 95th 5th Median 95th\nCattle 23,059 −0.8% −0.9% −0.9% −0.4% −0.4% −0.5%\nPig 10,045 −2.0% −2.2% −2.8% −1.7% −1.8% −2.3%\nSheep 9,832 −2.8% −3.1% −4.0% −2.4% −2.6% −3.2%\nTotal livestock 59,052 −1.1% −1.2% −1.5% −0.8% −0.9% −1.1%",
+   "table_id": "img_049942_t2"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    613,
+    580,
+    671
+   ],
+   "ocr": "The metrics of interest include the median and the 95th percentile, which reflect the central tendency and variability of gene expression, respectively. Notably, the median expression values for these genes are critical for understanding their relative abundance across species. Additionally, the column labeled \"Difference >SDD\" highlights significant variations in expression levels, which may have implications for agricultural practices and genetic research."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    717
+   ],
+   "ocr": "This analysis is particularly relevant in the context of plant resilience and adaptation, as gene expression can influence phenotypic traits in response to environmental pressures. The implications of these findings extend to broader discussions on crop improvement strategies and sustainable agricultural practices."
+  }
+ }
+}

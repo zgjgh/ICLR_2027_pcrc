@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_026",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The following data table presents a comparative analysis of various visual odometry systems, with a focus on their performance metrics under different conditions. The systems evaluated include GVORB, GV-NoLC, ORB-SLAM, and ORB-NoLC, each representing distinct methodologies in the realm of visual localization and mapping."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    140
+   ],
+   "ocr": "The table specifically highlights the sequences tested and their corresponding metrics, such as the accuracy rates measured in terms of mean absolute error and computational efficiency. For instance, the GVORB system recorded a notable accuracy score of 0.64, reflecting its robustness in handling complex environments."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    389.0
+   ],
+   "ocr": "Sequence GVORB GV-NoLC ORB-SLAM ORB-NoLC\n00 0.64 0.94 5.45 45.00\n02 1.02 0.97 17.29 24.12\n03 0.64 0.62\n04 0.63 0.68\n05 0.71 0.65 3.11 26.24\n06 1.13 0.88 6.85 31.62\n07 0.66 0.66 1.17 11.01\n08 1.26 28.20\n09 0.74 31.46\n10 0.69 3.92",
+   "table_id": "img_028508_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    405,
+    580,
+    464
+   ],
+   "ocr": "In contrast, the ORB-SLAM system, which operates without loop closure (ORB-NoLC), demonstrated a higher accuracy of 0.94, suggesting its effectiveness in maintaining consistency during prolonged navigation. These metrics are crucial for understanding the strengths and limitations of each approach, particularly in real-time applications where efficiency and precision are paramount."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    452,
+    580,
+    479
+   ],
+   "ocr": "Overall, the data provides valuable insights that can guide future developments in visual odometry technologies, emphasizing the need for continued innovation to enhance performance across various scenarios."
+  }
+ }
+}

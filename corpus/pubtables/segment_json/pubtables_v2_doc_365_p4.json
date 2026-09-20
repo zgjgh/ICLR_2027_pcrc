@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_365",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Chase et al. BioMedical Engineering OnLine 2010, 9:84 Page 12 of 18 http://www.biomedical-engineering-online.com/content/9/1/84"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    164.6,
+    120.3,
+    422.4,
+    224.6
+   ],
+   "ocr": "Median BG CDF (per-patient) 1 Glucontrol A clinical 0.9 Glucontrol B clinical Glucontrol A on A (actual measurements) 0.8 Glucontrol A on A (per-prototocol) Glucontrol B on A (per-protocol) Glucontrol A on B (per-protocol) Frequency"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    176.2,
+    184.8,
+    320.9,
+    229.7
+   ],
+   "ocr": "0.7 Glucontrol B on B (actual measurements) Glucontrol B on B (per-prototocol) 0.6 freq. 0.5"
+  },
+  "p4_b3": {
+   "type": "title",
+   "bbox": [
+    176.2,
+    226.3,
+    181.1,
+    237.5
+   ],
+   "ocr": "Cum."
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    164.6,
+    227.1,
+    174.6,
+    274.1
+   ],
+   "ocr": "Cumulative"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    156.1,
+    324.3,
+    594.0,
+    377.3
+   ],
+   "ocr": "0 0 2 4 6 8 10 12 14 BG [mmol/L] BG (mmol/L) Figure 7 CDF of median blood glucose measured of Glucontrol clinical data versus virtual trial on a per patient basis. The A and B cohort sets of (3) curves are labeled."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    402.6,
+    601.9,
+    765.0
+   ],
+   "ocr": "Differences in measurement rate and insulin dose can be ascribed to non-compliance and due to the design of Glucontrol, where the rate of change of insulin dose is tied to BG measurement frequency. In particular, the clinical and actual measurements were taken 52.0% of the potential per-protocol specified times based on in silico glycemic results for Glucontrol A and 63.5% for Glucontrol B in Table 5. Note that Glucontrol B had a higher compliance rate (% of per-protocol measurements) likely due to its higher glycemic target, which allowed 4 hour measurements to start sooner than for Glucontrol A. Thus, it could be construed that Glucontrol A clinical staff were less compliant to a potentially more burdensome protocol in this regard. For the cross validation, the Glucontrol A protocol required almost 3× higher rates of insulin for Group B, compared to the clinical data. However, this may be a function of the interaction of protocol and measurement frequency where there was a 1.4× dif- ference that results from per protocol versus actual measurement self-validation. That said, the Glucontrol B patients received 2.6× greater carbohydrate input to offset much of this difference in insulin administration. Specifically, the cross validation in Table 4 required 3.2× more insulin to offset 2.6× more carbohydrate administration. Adjusting Table 4 Comparison of per-patient clinical results and virtual trial simulations (self- validation and cross validation) on Glucontrol A. Clinical and actual measurements were taken 52.0% of the potential per-protocol specified times based on in silico glycemic results. Median [IQR] is used where appropriate"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    769.9,
+    597.1,
+    919.4
+   ],
+   "ocr": "Self validation Cross validation\nClinical Actual Measurement Per-Protocol Per-Protocol\nNo. of patients 142 142 142 69\nPer Patient Results\nInsulin rate (U/h) 1.4 [0.9 - 2.1] 1.8 [1.1 - 2.9] 2.5 [1.5 - 4.1] 4.5 [2.3 - 6.5]\nGlucose rate (g/h) 1.1 [0.5 - 7.6] 1.1 [0.5 - 7.6] 1.1 [0.5 - 7.6] 2.9 [0.7 - 7.4]\nBG (mmol/L) 6.4 [5.9 - 6.9] 6.2 [5.7 - 6.8] 6.2 [5.7 - 6.8] 6.5 [6.0 - 6.9]\nBG measures 4564 4564 9467 7259\nMeasurement frequency 6.52 6.52 13.54 13.48\n(measurement/patient/day)",
+   "table_id": "PMC3224899_table_3"
+  }
+ }
+}

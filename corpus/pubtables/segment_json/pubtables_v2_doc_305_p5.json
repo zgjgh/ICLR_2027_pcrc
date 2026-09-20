@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_305",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.0,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2009, 10:46"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/10/46"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    823.5
+   ],
+   "ocr": "to the literature for their research. Results show that retrieval at the level of paragraphs within full text is signif- icantly more effective than searching abstracts only. Com- bining span- and article-level evidence appears to yield the best results. However, much work remains in develop- ing effective full-text retrieval algorithms for the life sci- ences literature: toward that end, this work presents a first step. One important issue in moving from searching abstracts to searching full text is that of scalability. Gains in effec- tiveness come at a cost – algorithms must process signifi- cantly more text. Although currently-available tools designed to run on single machines suffice to handle present test collections, it is clear that future systems must distribute computations across multiple machines to cope with ever-growing quantities of text. As illustrated by Ivory, MapReduce provides a convenient framework for distributed text retrieval. The combination of greater effec- tiveness enabled by full text and greater efficiency enabled by cluster computing paves the way for exciting future developments in information access tools for the life sci- ences. Methods Test Collection Experiments reported in this article were conducted with the test collection from the TREC 2007 genomics track evaluation [26]. A test collection is a standard laboratory tool for evaluating text retrieval systems, which consists of three components: • a collection – documents on which retrieval is per- formed, • a set of information needs – written statements describ- ing the desired information (called \"topics\"), which are usually provided as queries to the system, and • relevance judgments – records specifying the documents that should be retrieved in response to each information need (i.e., which documents are relevant to each topic). The use of test collections to assess the effectiveness of text retrieval algorithms is a well-established methodology in the information retrieval literature, dating back to the Table 7: Sample topics from the TREC 2007 genomics track."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.3,
+    788.8
+   ],
+   "ocr": "Cranfield experiments in the 60's [42]. These tools enable rapid, reproducible experiments in a controlled setting without requiring manual assessment. In modern infor- mation retrieval research, test collections are created through large-scale evaluations, such as the Text Retrieval Conferences (TRECs) sponsored by the U.S. National Institute of Standards and Technology (NIST) [43]. TREC is an annual evaluation forum that draws together researchers from around the world to work on shared problems in different \"tracks\". Over the years, TREC has explored a wide variety of problems ranging from multi- media retrieval to spam detection. The genomics track was dedicated to exploring biomedical text retrieval. The TREC 2007 genomics track used a collection of 162,259 full-text articles assembled in 2006. These articles came from the electronic distribution of 49 genomics- related journals from Highwire Press. The articles were distributed in HTML, which preserved formatting, struc- ture, table and figure legends, etc. In addition, the organ- izers gathered MEDLINE records corresponding to each of the full-text articles, which were also made available to participants in the evaluation. The test collection contains 36 official topics in the form of questions that asked for specific entities such as pro- teins and drugs – the first five topics are shown in Table 7. Entities of interest are denoted in square brackets and cor- respond to controlled terminologies from various sources (e.g., MeSH). The topics were created after surveying biol- ogists about recent information needs, and hence can be considered representative for an important group of users who regularly depend on access to the literature. Relevance judgments consist of lists of legal spans that were determined to contain an answer, based on the opin- ion of human assessors with significant domain knowl- edge (Ph.D. in the life sciences). A legal span is a prescribed unit of retrieval that corresponds to a para- graph in the full-text article. The notion of a legal span evolved out of an attempt to standardize system output. Since systems varied in their processing of article text (in terms of segmentation, tokenization, etc.), a prescrip- tively-defined unit of retrieval made results easier to com- pare. In total, there are 12.6 million legal spans in the collection; a list of all legal spans was distributed along-"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    834.7,
+    621.1,
+    911.3
+   ],
+   "ocr": "200 What serum [PROTEINS] change expression in association with high disease activity in lupus?\n201 What [MUTATIONS] in the Raf gene are associated with cancer?\n202 What [DRUGS] are associated with lysosomal abnormalities in the nervous system?\n203 What [CELL OR TISSUE TYPES] express receptor binding sites for vasoactive intestinal peptide (VIP) on their cell surface?\n204 What nervous system [CELL OR TISSUE TYPES] synthesize neurosteroids in the brain?\n205 What [SIGNS OR SYMPTOMS] of anxiety disorder are related to coronary artery disease?",
+   "table_id": "PMC2695361_table_6"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 10 of 15 (page number not for citation purposes)"
+  }
+ }
+}

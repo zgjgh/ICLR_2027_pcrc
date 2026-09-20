@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_375",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    758,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    758,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    758,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    758,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    758,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3303588_table_0",
+   "page_num": 1,
+   "bbox": [
+    66.5,
+    117.3,
+    663.0,
+    265.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3303588_table_0.png",
+   "html": "<table><tr><td>Tool</td><td>Mined data</td><td>URL</td></tr><tr><td>ANNI</td><td>MedLine</td><td>http://www.biosemantics.org</td></tr><tr><td rowspan=\"2\">Arrowsmith1,</td><td>MedLine, OVID</td><td>http://wiki.uchicago.edu/</td></tr><tr><td>UMLS concepts in</td><td></td></tr><tr><td>Arrowsmith2</td><td>title words (MedLine)</td><td>http://arrowsmith.psych.uic.edu/</td></tr><tr><td>BITOLA</td><td>MeSH and LocusLink</td><td>http://www.mf.uni-lj.si/bitola/</td></tr><tr><td>LitLinker</td><td>UMLS</td><td>http://litlinker.ischool.washington.edu/</td></tr><tr><td>FACTA</td><td>MedLine</td><td>http://refine1-nactem.mc.man.ac.uk/facta/</td></tr><tr><td>FAUN</td><td>MedLine</td><td>https://grits.eecs.utk.edu/faun/</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3303588_table_1",
+   "page_num": 2,
+   "bbox": [
+    66.5,
+    116.7,
+    689.5,
+    302.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3303588_table_1.png",
+   "html": "<table><tr><td>Tool</td><td>Analyzed data</td><td>URL</td></tr><tr><td>Cytoscape</td><td>220 diverse databases.</td><td>http://www.cytoscape.org/</td></tr><tr><td rowspan=\"2\">BIANA</td><td>uniprot, GenBank, IntAct,</td><td>http://sbi.imim.es/web/BIANA.php</td></tr><tr><td>KEGG and PFAM.</td><td></td></tr><tr><td>Pathway studio</td><td>MedLine.</td><td>http://www.ariadnegenomics.com/products/path- way-studio/expression-analysis/algorithms</td></tr><tr><td rowspan=\"2\">Patika</td><td>Reactome, UniProt, Entrez</td><td>http://www.patika.org/</td></tr><tr><td>Gene, and GO.</td><td></td></tr><tr><td rowspan=\"2\">Genes2networks</td><td>BIND, DIP, IntAct, MINT,</td><td>http://actin.pharm.mssm.edu/genes2networks/</td></tr><tr><td>pdzbase, SAVI, Stelzl, vidal, ncbi hprd, and KEGG mammalian</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3303588_table_2",
+   "page_num": 3,
+   "bbox": [
+    66.5,
+    116.3,
+    690.1,
+    552.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3303588_table_2.png",
+   "html": "<table><tr><td colspan=\"2\">Cluster 1. SLE-SS</td><td colspan=\"2\">Cluster 2. T1D-AITD</td><td colspan=\"2\">Cluster 4. RA-MS</td></tr><tr><td>Gene</td><td>%</td><td>Gene</td><td>%</td><td>Gene</td><td>%</td></tr><tr><td>TRIM21</td><td>27.91</td><td>TPO</td><td>32.4</td><td>TNF</td><td>39.5</td></tr><tr><td>TNFSF13B</td><td>27.46</td><td>CTLA4</td><td>28.6</td><td>HLA-DRB1</td><td>20.7</td></tr><tr><td>TROVE2</td><td>19.8</td><td>TNFRSF25</td><td>6.7</td><td>IL10</td><td>5.2</td></tr><tr><td>SSB</td><td>6.6</td><td>HLA-DRB1</td><td>6.7</td><td>IL6</td><td>2.2</td></tr><tr><td>FAS</td><td>2.7</td><td>PTPN22</td><td>6.4</td><td>CCL2</td><td>0.6</td></tr><tr><td>DLAT</td><td>2.6</td><td>GAD1</td><td>4.6</td><td>CD4</td><td>0.6</td></tr><tr><td>IRF5</td><td>1.0</td><td>GAD2</td><td>3.6</td><td>MMP9</td><td>0.6</td></tr><tr><td>IL10</td><td>0.9</td><td>AIRE</td><td>1.7</td><td>IL1B</td><td>0.5</td></tr><tr><td>FASLG</td><td>0.8</td><td>PTPRN</td><td>1.5</td><td>IL4</td><td>0.5</td></tr><tr><td>TNFRSF25</td><td>0.6</td><td>HLA-DQB1</td><td>0.5</td><td>TNFSF13B</td><td>0.5</td></tr><tr><td>CR1</td><td>0.5</td><td>IDDM2</td><td>0.5</td><td>IL23A</td><td>0.4</td></tr><tr><td>CALR</td><td>0.5</td><td>SUMO4</td><td>0.5</td><td>CCR2</td><td>0.4</td></tr><tr><td>SPTAN1</td><td>0.4</td><td>ICA1</td><td>0.4</td><td>IL1RN</td><td>0.4</td></tr><tr><td>RNPC3</td><td>0.4</td><td>FOXP3</td><td>0.3</td><td>CCL5</td><td>0.3</td></tr><tr><td>CR2</td><td>0.2</td><td>FCRL3</td><td>0.2</td><td>ICAM1</td><td>0.3</td></tr><tr><td>SNRNP70</td><td>0.2</td><td>CD4</td><td>0.2</td><td>CXCR3</td><td>0.3</td></tr><tr><td>SERPIND1</td><td>0.2</td><td>FASLG</td><td>0.2</td><td>HLA-DQB1</td><td>0.3</td></tr><tr><td>C1QA</td><td>0.2</td><td>CXCL10</td><td>0.2</td><td>VCAM1</td><td>0.2</td></tr><tr><td>IL18</td><td>0.2</td><td>CD8A</td><td>0.2</td><td>CTLA4</td><td>0.2</td></tr><tr><td rowspan=\"5\">IL6</td><td>0.2</td><td>IL1B</td><td>0.2</td><td>PADI4</td><td>0.2</td></tr><tr><td></td><td>TSHR</td><td>0.2</td><td>IFNB1</td><td>0.2</td></tr><tr><td></td><td></td><td></td><td>CRP</td><td>0.2</td></tr><tr><td></td><td></td><td></td><td>CCR5</td><td>0.2</td></tr><tr><td></td><td></td><td></td><td>IL12B</td><td>0.2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3303588_table_3",
+   "page_num": 4,
+   "bbox": [
+    66.5,
+    419.7,
+    687.0,
+    809.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3303588_table_3.png",
+   "html": "<table><tr><td>Gene name</td><td>Link</td><td>Link in background</td><td>Links to seed</td><td>Links in subnetwork</td><td>z-score</td></tr><tr><td>HLA-DQA2</td><td>3</td><td>11429</td><td>2</td><td>60</td><td>15,852</td></tr><tr><td>DARC</td><td>4</td><td>11429</td><td>2</td><td>60</td><td>13,692</td></tr><tr><td>LCK</td><td>67</td><td>11429</td><td>6</td><td>60</td><td>9,548</td></tr><tr><td>PRTN3</td><td>9</td><td>11429</td><td>2</td><td>60</td><td>9,007</td></tr><tr><td>APCS</td><td>10</td><td>11429</td><td>2</td><td>60</td><td>8,522</td></tr><tr><td>FN1</td><td>62</td><td>11429</td><td>5</td><td>60</td><td>8,215</td></tr><tr><td>IGFBP7</td><td>11</td><td>11429</td><td>2</td><td>60</td><td>8,103</td></tr><tr><td>PTPN13</td><td>12</td><td>11429</td><td>2</td><td>60</td><td>7,737</td></tr><tr><td>CASP1</td><td>18</td><td>11429</td><td>2</td><td>60</td><td>6,215</td></tr><tr><td>A2M</td><td>24</td><td>11429</td><td>2</td><td>60</td><td>5,293</td></tr><tr><td>DCN</td><td>25</td><td>11429</td><td>2</td><td>60</td><td>5,171</td></tr><tr><td>NCL</td><td>30</td><td>11429</td><td>2</td><td>60</td><td>4,655</td></tr><tr><td>C3</td><td>31</td><td>11429</td><td>2</td><td>60</td><td>4,566</td></tr><tr><td>JAK2</td><td>116</td><td>11429</td><td>4</td><td>60</td><td>4,356</td></tr><tr><td>PTPRC</td><td>35</td><td>11429</td><td>2</td><td>60</td><td>4,248</td></tr><tr><td>THBS1</td><td>37</td><td>11429</td><td>2</td><td>60</td><td>4,108</td></tr><tr><td>ARRB1</td><td>44</td><td>11429</td><td>2</td><td>60</td><td>3,690</td></tr><tr><td>TRADD</td><td>63</td><td>11429</td><td>2</td><td>60</td><td>2,910</td></tr><tr><td>PIK3R1</td><td>133</td><td>11429</td><td>3</td><td>60</td><td>2,761</td></tr><tr><td>FYN</td><td>153</td><td>11429</td><td>3</td><td>60</td><td>2,457</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3303588_table_4",
+   "page_num": 5,
+   "bbox": [
+    66.5,
+    131.1,
+    686.7,
+    265.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3303588_table_4.png",
+   "html": "<table><tr><td>Gene</td><td>Full name</td><td>Location</td><td>GWAS catalogue</td><td>Reference</td></tr><tr><td>HLA-DQB1</td><td>Major histocompatibility complex, class II, DQ beta 1</td><td>6p21.3</td><td>MS, PBC, RA, SSc, CD, UC, CrD</td><td>[31]</td></tr><tr><td>CD4</td><td>CD4 molecule</td><td>12pter-p12</td><td>&#8212;</td><td>&#8212;</td></tr><tr><td>CTLA4</td><td>Cytotoxic T-lymphocyte-associated protein 4</td><td>2q33</td><td>T1D, RA, MS, SLE, CD</td><td>[32, 33]</td></tr><tr><td>FASLG</td><td>Fas ligand (TNF superfamily, member 6)</td><td>1q23</td><td>CD, CrD</td><td>&#8212;</td></tr><tr><td>IL1B</td><td>Interleukin 1, beta</td><td>2q14</td><td>&#8212;</td><td>&#8212;</td></tr><tr><td>IL10</td><td>Interleukin 10</td><td>1q31-q32</td><td>T1D, SLE, UC, CrD</td><td>[34]</td></tr></table>"
+  }
+ ]
+}

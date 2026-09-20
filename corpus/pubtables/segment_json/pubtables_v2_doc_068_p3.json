@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_068",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    41.7,
+    678.6,
+    54.3
+   ],
+   "ocr": "Idri and Kadi SpringerPlus (2016) 5:81 Page 9 of 17"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    148.2,
+    110.7,
+    464.0,
+    124.7
+   ],
+   "ocr": "Table 3 Details about input data and classes for each ANS tests"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    133.0,
+    599.0,
+    457.9
+   ],
+   "ocr": "ANS tests Measured values Input attributes Class\nDeep breathing Vagal response Age High\nVR Normal\nLow\nHand grip Vagal response Age High\nVR Normal\nLow\nPSR α Age High\nPSR Normal\nLow\nMental stress test CSR α Age High\nCSR α Normal\nLow\nCSR β Age High\nCSR β Normal\nLow\nOrthostatic test Vagal response Age High\nVR Normal\nLow\nSP_FC Age High\nHRmin Normal\nHRmax Low\nSP_TA Age High\nBPmin Normal\nBPmax Low",
+   "table_id": "PMC4728159_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    488.6,
+    601.8,
+    917.0
+   ],
+   "ocr": "in addition to the age were measured: CSR α and CSR β. Thereafter, two preliminary conclusions are identified in this test: one for the CSR α value, and another for the CSR β value. These conclusions determine whether the CSR α and CSR β values are interpreted as high, normal or low; consequently, two decision trees were generated for mental stress test. For the other tests, one or more decision trees were generated. As a result, eight decision trees were generated and tested. Moreover, the identified classes were coded in order to be used by C4.5 algorithm (see “Generation of the prediction system” section). In fact, to run C4.5 algorithm, three files are required: names file, data file and test file. The data and test files contain the training and test datasets respectively. The names file includes details about the identified classes and attributes: their names and types (dis- crete or continuous). Thus, the three classes identified for each ANS test were coded and included in the names file as follow: high: 2, normal: 1 and low: 0. Cardiovascular dysautonomias prediction system: evaluation and validation The evaluation phase is required to assess the performance of the generated classifiers and the validation phase is adopted to validate the model clinically. In fact, after evaluat- ing our prediction system, a clinical validation is required using the validation set afore- mentioned in “Medical dataset collection and description” section so as to ensure the efficiency and reliability of the developed system. To do that, a web-based prototype was developed with the Java Enterprise Edition (JEE) platform to enhance visualization and ease of interpretation. JEE provides an API and runtime environment for develop- ing, building and deploying web-based enterprise applications (Jendrock et  al. 2014). Thereby, the developed prototype is a web presentation of our prediction system which allows experts to enter the HR and BP values and have as an output the preliminary"
+  }
+ }
+}

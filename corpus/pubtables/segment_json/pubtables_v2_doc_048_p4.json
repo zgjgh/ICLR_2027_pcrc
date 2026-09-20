@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_048",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    369.8,
+    41.8,
+    678.5,
+    53.3
+   ],
+   "ocr": "12(Suppl 1):S6 Page 5 of 8"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    42.0,
+    366.5,
+    65.8
+   ],
+   "ocr": "Anwar and Oakes BMC Medical Informatics and Decision Making 2012, http://www.biomedcentral.com/1472-6947/12/S1/S6"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    396.7,
+    124.0
+   ],
+   "ocr": "Table 9 The thresholds corresponding to the first four Principal"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    400.5,
+    111.0,
+    464.4,
+    124.0
+   ],
+   "ocr": "Components"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    660.0,
+    277.4
+   ],
+   "ocr": "Principal Component (PC) Frequency (in Hz)\n250 500 1000 2000 4000 8000\nPC1: Flat hearing loss 42 41 40 39 42 44\n45 45 42 42 45\nPC2: High tone sensorineural loss 37 38 48 69 82 79\n46 46 55 76 89\nPC3: Air-bone gap (flat) 78 77 75 71 75 76\n31 35 42 45 47\nPC4: Air-bone gap (predominant at low tone) 50 59 76 76 50 32\n29 55 82 85 52",
+   "table_id": "PMC3339393_table_8"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    301.5,
+    366.2,
+    867.9
+   ],
+   "ocr": "tinnitus (ringing in the ear), the overall chi-squared value was 31.75, again significant at p < 0.001 for one degree of freedom. Patients with tinnitus tended more to wear ITE hearing aids. The relationship between the wearing of a tinnitus masker (a soothing sound source designed to drown out tinnitus) and hearing aid type, among patients diagnosed with tinnitus, had the overall chi-squared value of 17.16, which for one degree of freedom, was also signifi- cant at p < 0.001. The data for the cross-tabulation of hearing aid type and age produced the overall chi-squared value of 10.53, which for one degree of freedom, showed significance at p < 0.001. Mould type was also cross-tabu- lated with hearing aid type and the overall chi-squared value was 9844.18, which for 30 degrees of freedom was significant at p < 0.001. Thus all the category data types were significantly associated with hearing aid type. All the data in the patient records was used without considering confounding effects, where for example it might have been the choice of hearing aid type affecting the choice of mould, rather than vice versa. It is believed that this may have been the case, since many mould types never occurred in conjunction with one or the other hearing aid type. The set of free-text keywords which tended to occur significantly more and less often (called positive and negative keywords respectively) in records where the patient wore either BTE or ITE aids are shown in Table 3. The association between these keywords and one or other type of hearing aid suggests the following: BTE aids were associated with high gain (amplification), e.g., be34, be36 and be52, and cases where changes had been made to the ear mould. ITE hearing aid types tended to use lacquer, had vents, required reshelling of ear impres- sions, had changes made to the hearing aid itself, were reviewed and the wearers were making progress. Table 10 Observed values (O)"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    301.7,
+    678.6,
+    434.6
+   ],
+   "ocr": "Logistic regression (LR) model In Table 8, the part of the model which takes into account the occurrence or otherwise of the selected key- words in deciding which type of hearing aid to suggest is given. Using keywords alone, the relative likelihoods of the patient needing an ITE or a BTE aid are given by equation (3): log[P(ITE/BTE)] ="
+  },
+  "p4_b7": {
+   "type": "title",
+   "bbox": [
+    473.2,
+    424.5,
+    497.1,
+    440.8
+   ],
+   "ocr": "−0.16"
+  },
+  "p4_b8": {
+   "type": "title",
+   "bbox": [
+    499.1,
+    424.5,
+    644.9,
+    434.6
+   ],
+   "ocr": "+ 0.06(APPT) 0.77(FTA) + 0.62(GP)"
+  },
+  "p4_b9": {
+   "type": "title",
+   "bbox": [
+    553.0,
+    425.3,
+    678.6,
+    442.7
+   ],
+   "ocr": "− (3)"
+  },
+  "p4_b10": {
+   "type": "title",
+   "bbox": [
+    402.0,
+    438.1,
+    553.1,
+    448.3
+   ],
+   "ocr": "+2.32(MAP) 0.93(NFA) + 0.12(REV)."
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    439.0,
+    678.6,
+    867.9
+   ],
+   "ocr": "− As shown in Table 13, the logistic regression coeffi- cient for gender was calculated. In Table 14, logistic regression values for air conduction (AC) at 250 dB are given for each quartile and in Table 15, predicted log odds are calculated using the regression coefficient values (b) from Table 14. Similarly, predicted log odds were calculated for AC500, AC1000, AC2000, AC4000, AC8000, BC250, BC500, BC1000, BC2000, gender and mould. To show how the model works, a sample record from the test set is taken, as shown in Table 16. The attri- butes of this record are shown in the first column, and their values are shown in the second. Starting with a predicted log odds of 0 (meaning a BTE and ITE aid are assumed equally likely), the values of the attributes are examined in the record one by one, and add on the regression coefficient corresponding to that value of that attribute to the running total. The value of the first attribute, age is disregarded, but the next attribute gen- der has value “male”. For “male”, the regression coeffi- cient is calculated to be -0.23, so the running total becomes 0 - 0.23 = -0.23. The relevant regression coeffi- cients for each attribute are added in turn, ending with adding on -0.04 for the presence of the keyword “REV” Table 11 Expected values (E)"
+  },
+  "p4_b12": {
+   "type": "table",
+   "bbox": [
+    81.3,
+    872.8,
+    356.3,
+    915.9
+   ],
+   "ocr": "Hearing aid type PCA1 PCA2 PCA3 PCA4\nITE 2036 1341 476 75\nBTE 1119 1166 1165 59",
+   "table_id": "PMC3339393_table_9"
+  },
+  "p4_b13": {
+   "type": "table",
+   "bbox": [
+    392.1,
+    872.8,
+    670.5,
+    915.9
+   ],
+   "ocr": "Hearing aid type PCA1 PCA2 PCA3 PCA4\nITE 1666.38 1324.12 866.73 70.77\nBTE 1488.62 1182.88 774.27 63.23",
+   "table_id": "PMC3339393_table_10"
+  }
+ }
+}

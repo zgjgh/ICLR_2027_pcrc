@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_024",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    269.4,
+    53.5
+   ],
+   "ocr": "El-Saadi et al. In Silico Pharmacology (2015) 3:6"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 15 of 20"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    348.6,
+    124.4
+   ],
+   "ocr": "Table 6 Positive toxicity model prediction results for FC101a"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    244.2
+   ],
+   "ocr": "Toxicity model Output Model definition\nTOX_ER_filter Toxic (48 %) Qualitative assessment of estrogen receptor toxicity in rats.\nTOX_MUT_97 + 1537 Positive Qualitative assessment of mutagenicity of the pure compound in TA97 and/or\nTA1537 strains of S. typhimurium.\nTOX_MUT_m97 + 1537 Positive Qualitative assessment of mutagenicity of the compound and its microsomal rat\nliver metabolites in TA97 and/or TA1537 strains of S. typhimurium.\nTOX_MUT_m98 Positive Qualitative assessment of mutagenicity of the compound and its microsomal rat\nliver metabolites in TA98 strain of S. typhimurium.",
+   "table_id": "PMC4464579_table_5"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    250.5,
+    366.2,
+    638.9
+   ],
+   "ocr": "Of 20 applicable toxicity prediction models, four returned positive results 8.6323), the crystal structure of the protease-like domain of cellular FLICE- inhibitory protein (cFLIP(L)) in com- plex with procaspase-8 are the top two ranked proteins with the highest affinity for FC101a are (see Fig. 17). We propose a mechanism of action by which binding of FC101a to either or perhaps both the protease-like do- main of cFLIP(L) and procaspase-8, as shown in Fig. 17, could enhance heterodimerization between the two mole- cules, thus enhancing caspase activity and leading to apoptosis upregulation. Our proposed mechanisms are based on four observations; substantial levels of cFLIP have been recorded in human cancers such as ovarian, colon, glioblastoma, breast, colorectal, and prostate, and it has been recognized as a major regulator of apoptosis, utilizing dual functionality- cFLIP(L) inhibits caspase-8 ac- tivation at high expression levels, but increases caspase-8 activity at low levels (Safa et al. 2008; Bagnoli et al. 2010); prior to caspase-induced apoptosis induction, procaspase- 8 must be recruited to FADD and form the DISC, followed by caspase heterodimerization and proteolytic cleavage; cFLIP(L) is capable of increasing the proteolytic activity of caspase-8 by facilitating heterodimerization of the two molecules, yet the mechanism forcing these two molecules together and thereby leading to enhanced"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    277.4,
+    678.6,
+    638.9
+   ],
+   "ocr": "initiator caspase activation remains unclear (Yu et al. 2009); and finally, FC101a interacts with regions from both chain A and chain B of the caspase-8: cFLIP com- plex, illustrated in Fig. 18, and docking with either chain independent of the other resulted in scores below the minimum allowed threshold. Our logic is in-line with the notion proposed by others that drugs targeting caspase-8 isoforms and c-FLIP variants may offer a therapeutic ad- vantage (Safa et al. 2008). Nonetheless, in-vitro analysis must be performed in future studies to confirm or elimin- ate our proposed mechanisms. Conclusion FC101a demonstrates tremendous potency towards mul- tiple cancer cell lines, yet exhibits modest in-vivo anti- cancer activity. Potential therapeutic compounds are useless without having a desirable PK profile, and thus it is vital to find the source of such diminished potency if one wishes to develop a marketable drug. In addition to investigating the novel mode of action of FC101a, this study was designed, in-part, to answer two questions utilizing primarily in-silico techniques: why is in-vivo potency diminished, and how can we improve in-vivo potency? Objectively, we aimed to characterize the"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    843.3,
+    383.2,
+    917.9
+   ],
+   "ocr": "Fig. 16 In-silico specificity matrix based on eleven randomly chosen FDA Matrix was generated using binding affinity scores calculated from SYBYL-X binding between drugs and their therapeutic target- high binding scores for their intended therapeutic target. Docking scores with FC101a (green that FC101a is specific for its unknown target(s). Four of the eleven drugs specificity (red cells). Drugs 2, 3, 6, and 8–11 are specific to their respective"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    376.6,
+    843.6,
+    671.1,
+    917.9
+   ],
+   "ocr": "approved drugs. Two-dimensional specificity matrix generated in-silico. Total Score- a robust scoring function. The gray diagonal line indicates should only occur along the diagonal line, if drugs are highly specific row) do not exceed any scores along the gray line, possibly indicating bind strongly to at least one non-target, indicative of low target targets"
+  }
+ }
+}

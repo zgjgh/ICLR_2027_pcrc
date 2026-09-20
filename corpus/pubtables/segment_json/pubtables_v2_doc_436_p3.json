@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_436",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    53.4,
+    294.9,
+    65.0
+   ],
+   "ocr": "Jimeno Yepes et al. BMC Bioinformatics (2015) 16:113"
+  },
+  "p3_b1": {
+   "type": "title",
+   "bbox": [
+    626.3,
+    53.6,
+    677.6,
+    65.0
+   ],
+   "ocr": "Page 8 of 12"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    111.0,
+    365.3,
+    279.8
+   ],
+   "ocr": "based representations (i) have an uneven distribution of feature values and (ii) contain many redundant features. Concept representation of the citations has perfor- mance comparable to the unigrams, being even better for some of the learning algorithms, even though the differ- ences are in most cases not significant. This is the second best performance feature, after bigrams. Surprisingly, we obtain better results when representing concepts by their name than when representing them by their CUI. This may be due to the fact that MetaMap may be incur- ring errors when solving ambiguity to assign the concept"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    111.0,
+    677.7,
+    219.6
+   ],
+   "ocr": "(Unigrams, Bigrams, Concept names and CUIs, and First level taxonomy) and the best ML algorithm (SVM-perf). Making the distinction of the provenance of the features, either from the title or the abstract of the paper, the per- formance slightly improves in most of the cases, which is not significant in most of the cases. A larger statistically significant improvement is observed when working with"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    216.4,
+    524.4,
+    234.7
+   ],
+   "ocr": "concepts rather than terms."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    230.5,
+    677.7,
+    370.2
+   ],
+   "ocr": "In addition, it has been found that binary features per- form better than frequency-based features, as can be seen in Table 4, even though the difference is not sig- nificant. This was found as well by Dumais et al. [13] in non-domain specific collections. This might be explained because the abstracts are short, and thus there is a larger variance of term frequencies. We find that using binary features seems to perform better compared to using the term frequency in terms of F-measure, even though it"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    276.7,
+    164.1,
+    294.9
+   ],
+   "ocr": "unique identifiers."
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    290.7,
+    365.3,
+    370.2
+   ],
+   "ocr": "The results from the hypernym representations are, however, very disappointing. Generalization of concepts at the different levels has showed a significant decrease in performance compared with using the concepts them- selves. We observe that the higher the generalization, the"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    367.0,
+    229.4,
+    385.2
+   ],
+   "ocr": "worse the classification results."
+  },
+  "p3_b9": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    367.0,
+    569.1,
+    385.2
+   ],
+   "ocr": "boosts precision at the cost of recall."
+  },
+  "p3_b10": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    381.1,
+    365.2,
+    475.6
+   ],
+   "ocr": "On the other hand, using the meta-data from the MEDLINE citations (journal, authors and affiliation) as the only features is not enough to correctly classify the citations. This was expected, since they provide little discriminative information that should be used in com- bination with more informative features (see Section"
+  },
+  "p3_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    381.1,
+    677.7,
+    867.1
+   ],
+   "ocr": "When using the predictions by MTI as classification features, the performance is below the original MTI per- formance. MTI system performance is above the other approaches, which is understandable since it has been tuned for MeSH indexing and has specific rules for index- ing. Average MTI results are shown in Table 5. In addition to the MTI results, performance of its components are shown. The results for MMI and PRC independently are much lower compared to the MTI results. Performance of individual components of MTI is improved when their predictions are used as features within machine learning algorithms. One difference is the use of machine learning applied to the Check Tags [56], the most commonly used MeSH headings. Another difference is that MTI imple- ments a set of rules produced by interaction with MeSH indexers. Feature combination Results show that performance is dependent on the fea- tures and the machine learning algorithms. Overall, uni- grams and bigrams seem to be competitive compared to other features with over 0.51 in the F-measure when used with SVM-perf. We could try improving the perfor- mance of unigrams by combining them with other feature sets (MTI performance has been shown to improve by combining several sources of information). A large number of feature combinations could be con- sidered. Based on the results in Table 2, we have selected a limited set of feature combinations using unigrams and bigrams to evaluate the contribution of adding several fea- tures. In addition, we show the performance of the learn- ing algorithms when combining all the available features."
+  },
+  "p3_b12": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    472.4,
+    226.2,
+    490.6
+   ],
+   "ocr": "“Feature combination” below)."
+  },
+  "p3_b13": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    486.5,
+    365.3,
+    611.9
+   ],
+   "ocr": "The argumentative structure information does not seem to improve the performance of the classifiers. The argumentative structure has been assigned based on a trained classifier; thus either mistakes made by the clas- sifier might have impacted the performance or there is simply no overall impact using this kind of classifier. Table 3 shows the results when the classification attributes are separated according to their location (title"
+  },
+  "p3_b14": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    607.9,
+    365.2,
+    711.1
+   ],
+   "ocr": "or abstract - TIAB), for the most promising features so far Table 3 Results of the best performance features (Unigrams, Bigrams, Concepts’ names and CUIs, and First level taxonomy) keeping the source of tokens (either title or abstract), using SVM-perf and a binary representation of features"
+  },
+  "p3_b15": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    717.1,
+    365.1,
+    905.9
+   ],
+   "ocr": "Precision Recall F-measure\nSVM-perf unigram 0.395 0.654 0.492\nSVM-perf bigram 0.414 0.675 0.513*\nSVM-perf concepts 0.404 0.646 0.497*\nSVM-perf CUIs 0.404 0.643 0.496*\nSVM-perf first level taxonomy 0.351 0.653 0.456\nSVM-perf TIAB unigram 0.398 0.659 0.496*\nSVM-perf TIAB bigram 0.408 0.685 0.512*\nSVM-perf TIAB Concepts 0.405 0.656 0.501*\nSVM-perf TIAB CUIs 0.407 0.655 0.502*\nSVM-perf TIAB first level taxonomy 0.376 0.610 0.465",
+   "table_id": "PMC4407321_table_2"
+  },
+  "p3_b16": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    863.9,
+    677.7,
+    882.2
+   ],
+   "ocr": "The results on the combination of features are available"
+  },
+  "p3_b17": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    879.0,
+    450.9,
+    897.2
+   ],
+   "ocr": "from Table 6."
+  },
+  "p3_b18": {
+   "type": "paragraph",
+   "bbox": [
+    393.1,
+    894.0,
+    677.6,
+    912.3
+   ],
+   "ocr": "The combination of features has different performance"
+  },
+  "p3_b19": {
+   "type": "caption",
+   "bbox": [
+    383.1,
+    909.1,
+    677.6,
+    927.3
+   ],
+   "ocr": "depending on the learning algorithm. AdaBoostM1 with"
+  },
+  "p3_b20": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    913.2,
+    329.4,
+    923.1
+   ],
+   "ocr": "Results significantly better than unigram (p>0.05) are indicated with *."
+  }
+ }
+}

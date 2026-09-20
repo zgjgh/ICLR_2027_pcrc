@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_200",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    68.0,
+    580.0,
+    83.0
+   ],
+   "ocr": "In the financial analysis of Stripe Inc."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    109.0,
+    580.0,
+    313.0
+   ],
+   "ocr": "FinancialMetrics 2019Trends 2020Trends 2021Trends 2022Trends 2023Trends\nP/ERatio CurrentRatio Debt/Equity GrossMargin NetProfitMargin ROE ROA RevenueGrowth\n2019 45.2 1.8 0.5 60.5% 15.3% 12.4% 8.1%\n2020 50.3 2.1 0.6 65.2% 16.0% 13.1% 9.3%\n2021 40.5 1.9 0.4 63.0% 14.5% 11.0% 7.5%\n2022 55.4 2.3 0.7 68.0% 17.5% 14.2% 10.1%\n2023 60.0 2.5 0.8 70.0% 18.0% 15.0% 11.0%",
+   "table_id": "img_228574_t0"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    329,
+    580,
+    388
+   ],
+   "ocr": "from 2019 to 2023, the key metrics reveal notable trends. The P/E Ratio for 2019 was 45.2, increasing to 50.3 in 2020, then declining to 40.5 in 2021 before rising again to 55.4 in 2022 and reaching 60.0 in 2023. The Current Ratio started at 1.8 in 2019, rose to 2.1 in 2020, decreased to 1.9 in 2021, climbed to 2.3 in 2022, and reached 2.5 in 2023. The Debt/Equity ratio varied from 0.5 in 2019 to 0.6 in 2020, 0.4 in 2021, 0.7 in 2022, and 0.8 in 2023."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    376,
+    580,
+    449
+   ],
+   "ocr": "Gross Margin improved from 60.5% in 2019 to 65.2% in 2020, followed by 63.0% in 2021, 68.0% in 2022, and 70.0% in 2023. Net Profit Margin showed an upward trend from 15.3% in 2019 to 18.0% in 2023. Return on Equity (ROE) and Return on Assets (ROA) also demonstrated growth, with ROE rising from 12.4% in 2019 to 15.0% in 2023 and ROA from 8.1% to 11.0%. Revenue Growth fluctuated, starting at 9.3% in 2019 and reaching 11.0% in 2023."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    476.0,
+    580.0,
+    687.0
+   ],
+   "ocr": "Year TakeRate MerchantFees Transactions GrossVolume\n2019 2.5% ₹50,000 1,000,000 ₹2,000M 2020 2.4%\n₹52,000 1,200,000 ₹2,400M 2021 2.3% ₹54,000 1,500,000\n₹2,500M 2022 2.2% ₹56,000 1,800,000 ₹3,000M 2023\n2.1% ₹58,000 2,000,000 ₹3,500M 2024 2.0% ₹60,000\n2,500,000 ₹4,000M Total Average TotalFees TotalTransactions TotalVolume\n₹320,000 ₹1,000 ₹300,000 10,000,000 ₹15,000M ₹1,500 ₹400,000\n₹600,000 ₹10,000 ₹30,000 ₹8,000 ₹1,200 ₹500,000 ₹15,000\n₹20,000 ₹50,000 ₹1,200 ₹3,000 ₹25,000 ₹10,000 ₹200,000",
+   "table_id": "img_228574_t1"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    703,
+    580,
+    745
+   ],
+   "ocr": "In the embedded finance integration, the Take Rate has decreased from 2.5% in 2019 to 2.1% in 2023, while Merchant Fees increased from ₹50,000 to ₹58,000, with Transactions rising from 1,000,000 to 2,000,000 and Gross Volume increasing from ₹2,000M to ₹3,500M."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    733,
+    580,
+    761
+   ],
+   "ocr": "Total Fees amounted to ₹320,000 with an average of ₹1,000 across 10,000,000 transactions, yielding a Total Volume of ₹15,000M, while the total number of transactions equals ₹400,000."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_447",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    556.7,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Checking STEP-Associated Trafficking"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    371.4,
+    726.2,
+    806.7
+   ],
+   "ocr": "Fig 1. ROC plot for the three machine learning models generated using (A) 154 descriptors. (B) 10 BestFirst descriptors. doi:10.1371/journal.pone.0129370.g001 SMARTs Analysis We analyzed the test instances predicted to be active by our best model for the presence of SMART patterns to filter out unwanted molecules. A total of 13,722 predicted positives were processed through the SMARTsfilter web application and 1,299 molecules passed through all the filters, confirming the absence of any SMART pattern (Fig 2). The results indicated that the majority of compounds (i.e. 78.7%) could not pass the ALARM NMR filter followed by the PAINS (48.6%) and Pfizer LINT (38.1%). Some 13.4% and 9.3% of compounds could not pass Oprea and Glaxo filters respectively. We also examined the 887 active compounds of the bioas- say, of which only 30 compounds (3.4%) passed through all the five sets of SMARTs. Molecular Docking Analyses The 1,299 molecules that passed the SMARTsfilter were also virtually screened against human protein tyrosine phosphatase, PTPN5 (STEP, striatum enriched phosphatase) (PDB ID: 2BV5), to further identify and rank the potential active molecules. Initially, the compounds were docked using the HTVS approach, which led to 49 compounds with a Glide score of less than -6.0 kcal/mol. The 49 compounds were then subjected to Glide XP docking. The top scor- ing compound (1-benzyl-2, 5-dimethyl-4-({[(2S)-1-phenylbutan-2-yl] azaniumyl} methyl)- 1H-pyrrole-3-carboxylate, Ligand_874) among the resultant compounds had a Glide score of -8.11 kcal/mol and a Glide energy of -42.44 kcal/mol (Table 3, Fig 3(A)). The ligand_874 that occupied the active site defined and formed three hydrogen bonds with residues, Lys 439, Arg 478 and Gln 520. One hydrogen bond of 2.84 Å was formed between the NE atoms of Arg 478 Table 2. Evaluation of generated models based on 10 BestFirst attributes obtained using CfsSubsetEval module."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    815.4,
+    726.7,
+    878.2
+   ],
+   "ocr": "Models True positives True negatives False positives False negatives Sensitivity (%) Speciﬁcity (%) Accuracy (%) G-mean\nNB 58 57588 14081 119 32.8 80.3 80.2 0.51\nRF 102 58049 13620 75 57.6 80.9 80.9 0.68\nSMO 65 57796 13873 112 36.7 80.6 80.5 0.54",
+   "table_id": "PMC4466797_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129370.t002"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129370 June 12, 2015 8 / 20"
+  }
+ }
+}

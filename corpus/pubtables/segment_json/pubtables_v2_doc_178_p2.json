@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_178",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    525.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Colored Petri Net Based SHER Mobility Model"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    418.1,
+    107.4
+   ],
+   "ocr": "Table 2. Declaration of Color set for HOTSPOTS and its substitution transitions."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    225.8
+   ],
+   "ocr": "Line No. Color Name Color Type\n1. colset STHOME product INT*NODE*LCOOR*STRING*LCOOR timed;\n2. colset HISTORY list HSTRY;\n3. colset IDxSTxCOR product NODE*STRING*LCOOR;\n4. colset HSTCNTR product NODE*INT*INT*INT*STRING*LCOOR;\n5. colset IDxINTxINTxINT product NODE*INT*INT*INT;\n6. colset TPLACE list IDxSTxCOR;",
+   "table_id": "PMC4534131_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    233.9,
+    186.2,
+    245.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0133634.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    870.1,
+    372.5,
+    901.4
+   ],
+   "ocr": "Fig 7. The HISTORY module which models the attraction points of MH. doi:10.1371/journal.pone.0133634.g007"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0133634 August 12, 2015 13 / 30"
+  }
+ }
+}

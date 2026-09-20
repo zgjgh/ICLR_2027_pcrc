@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_024",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    269.4,
+    53.4
+   ],
+   "ocr": "El-Saadi et al. In Silico Pharmacology (2015) 3:6"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 5 of 20"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    421.0,
+    363.5,
+    445.1
+   ],
+   "ocr": "Fig. 5 Methodology flowchart for molecular docking portion of study. a model compound, kynurenine"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    366.5,
+    421.3,
+    668.5,
+    432.5
+   ],
+   "ocr": "Flowchart depicts the steps taken to determined a docking protocol using"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    474.0,
+    366.2,
+    710.0
+   ],
+   "ocr": "including gaps, adding hydrogens via H-bonding function, rigid protein model, and eliminating proteins with a C Score < 4. The overall structure was minimized with charges set to MMFS94 and MMfs94s force field. Poten- tial binding sites in the protein structures were identified by generating a protomol using one of three methods; Multi-Channel Surface (MCS) mode, Automatic mode when MCS mode was unavailable, and Ligand extraction mode when interested in a specific binding pocket bound by a co-crystallized ligand. A probe radius of 1.4 Å2 was used and threshold was set to .50 and bloat to 1 in order to increase the size and depth of the searchable cavity for Table 1 Control molecular dockings between hKATII and kynurenine"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    474.0,
+    678.6,
+    926.2
+   ],
+   "ocr": "a binding site. The top two ligand poses were considered in order to account for flexibility in the binding pocket. Results from both dockings were exported to Excel for analysis and used to determine parameters for future dockings with FC101a. Although multiple scoring func- tions were tabulated, Total Score (default scoring function used by Surflex dock to generate and rank poses) and C Score (consensus scoring function that combines multiple scoring functions to rank the affinity of a ligand to the active site) were given priority in analysis- targets will be ranked first by C Score and then Total Score. It should be noted that Total Score is not part of the C Score consen- sus. This method could be a useful approach for re- searchers who need to generate appropriate parameters for comparable tasks, and indeed others have utilized similar approaches. Ligands and protein preparation Protein-ligand dockings were carried out on the crystal structure of 49 potential biological. Protein prepar- ation took place prior to docking and each structure was prepared using the Atom Expression View tool and Structure Preparation tool of SYBYL-X software package. Crystal structures of proteins were retrieved from rcsb.org through SYBYL-X interface followed by preparation and staged minimization as described in the above section. Each protein was exported and saved in the following format: pdbPDBID_P.mol2, where “_P” lets the researcher know this protein has been prepared."
+  },
+  "p1_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    715.1,
+    366.1,
+    866.3
+   ],
+   "ocr": "Protein Ligand Protomol Total Score C Score\n2R2N pdb2r2n_ligand Ligand extraction 8.053 5\n2R2N Kynurenine_z Ligand extraction 6.1745 4\n2R2N FC101b_inactive Ligand extraction 7.3148 2\n2R2N FC101a_04 Ligand extraction 6.5068 1\n2QLR pdb2r2n_ligand Automatic mode 5.1002 5\n2QLR Kynurenine_z Automatic mode 4.3048 5\n2QLR FC101b_inactive Automatic mode 6.2713 4\n2QLR FC101a_04 Automatic mode 5.2248 2",
+   "table_id": "PMC4464579_table_0"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    872.6,
+    351.3,
+    925.4
+   ],
+   "ocr": "These dockings were used to determine the molecular docking protocol applied to FC101a and proteins of interest. Kynurenine, represented by pdb2r2n_ligand and Kynurenine_z, are the natural substrates of 2R2N and 2QLR; all four dockings received a C Score ≥ 4, evidence to the validity of C Score in accurately ranking compounds of similar structure to kynurenine"
+  }
+ }
+}

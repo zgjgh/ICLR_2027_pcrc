@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_335",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    554.1,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Pseudomonas FadD and Virulence"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    78.9,
+    300.4,
+    92.8
+   ],
+   "ocr": "Table 3. Bacterial strains used in this studya."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    80.4,
+    120.1,
+    654.3,
+    678.0
+   ],
+   "ocr": "Strains Lab IDb Relevant properties Reference\nE. coli\nEPMax10B E1231 F- l- mcrA D(mrr-hsdRMS-mcrBC) Q80dlacZ DM15 DlacX74 BioRad\ndeoR recA1 endA1 araD139 D(ara, leu)7697 galU galK rpsL nupG\nK12 E0577 Prototroph ATCC #23740\nK27 E0410 fadD- (oldD88) mutant [16]\nK27-T7 E1063 Gmr; K27 with T7 expression system Lab strain\nfadD- (oldD88) lattB::T7(pol-lysS)-lacIq-Gmr\nJWC285 E1560 Kmr; fadA::Tn10 yfcYX::cat fadR::Kmr [44]\nK27-fadR- E2011 Kmr; fadD- fadR::Kmr (transduced from strain JWC285 P1-lysate This study\ninto strain K27)\nP. aeruginosa\nPAO1 P007 prototroph [68]\nPAO1-fadD1::FRT P175 PAO1 with fadD1 insertional mutation This study\nPAO1-fadD2::FRT P547 PAO1 with fadD2 insertional mutation This study\nPAO1- DfadD2D1::FRT P177 PAO1 with fadD2D1 deletional mutation This study\nPAO1-fadD1::FRT/ P541 Tetr; PAO1-fadD1::FRT complemented with miniCTX2-fadD1 This study\nattB::miniCTX2-fadD1\nPAO1-fadD2::FRT/ P549 Tetr; PAO1-fadD2::FRT complemented with miniCTX2-fadD2 This study\nattB::miniCTX2-fadD2\nPAO1-DfadD2D1::FRT/ P543 Tetr; PAO1-DfadD2D1::FRT complemented with miniCTX2-fadD2D1 This study\nattB::miniCTX2-fadD2D1\nPAO1-fadD1::FRT-lacZ/ P518 Tetr, Gmr; fadD1 complement strain with fadD1-FRT-lacZ fusion This study\nattB::miniCTX2-fadD1\nPAO1-fadD2::FRT-lacZ/ P520 Tetr, Gmr; fadD2 complement strain with fadD2-FRT-lacZ fusion This study\nattB::miniCTX2-fadD2\nPAO1-fadD1::FRT/ P663 Cbr; fadD1 mutant with pUC18 inserted in mucA gene This study\nmucA::pUC18\nPAO1-fadD2::FRT/ P667 Cbr; fadD2 mutant with pUC18 inserted in mucA gene This study\nmucA::pUC18\nPAO1-DfadD2D1::FRT/ P665 Cbr; fadD2D1 mutant with pUC18 inserted in mucA gene This study\nmucA::pUC18\nPAO1-fadD1::FRT/ P657 Cbr, Tetr; fadD1 mutant with pUC18 inserted in mucA gene This study\nattB::miniCTX2-fadD1/\nmucA::pUC18\nPAO1-fadD2::FRT/ P659 Cbr, Tetr; fadD2 mutant with pUC18 inserted in mucA gene This study\nattB::miniCTX2-fadD2/\nmucA::pUC18\nPAO1-DfadD2D1::FRT/ P661 Cbr, Tetr; fadD2D1 mutant with pUC18 inserted in mucA gene This study\nattB::miniCTX2-fadD2D1/\nmucA::pUC18",
+   "table_id": "PMC2958839_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    689.2,
+    351.0,
+    721.4
+   ],
+   "ocr": "aFor strains constructed in this study, please see text for further details. bPlease use lab ID for requesting strains. doi:10.1371/journal.pone.0013557.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    769.2,
+    375.9,
+    918.8
+   ],
+   "ocr": "Construction of fadD1-lacZ and fadD2-lacZ fusion strains and induction by FAs To take advantage of the native fadD1-promoter and create a transcriptional fusion of PfadD1-lacZ, pFRT1-lacZ was integrated at the FRT locus in strain PAO1-fadD1::FRT as previously described [29]. The resulting fusion strain, PAO1-fadD1::FRT-lacZ, was PCR confirmed using oligos #341 + #713, which are specific for the fadD1 and lacZ genes, respectively. Similarly, PAO1-fadD2::FRT- lacZ was constructed and PCR confirmed using oligos #377 + #501 (data not shown). Complementation vectors miniCTX2- fadD1 and miniCTX2-fadD2 were then integrated into these newly"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    771.0,
+    700.8,
+    918.5
+   ],
+   "ocr": "developed lacZ-fusion strains, to yield two complemented fusion strains, PAO1-fadD1::FRT-lacZ/attB::miniCTX2-fadD1 and PAO1- fadD2::FRT-lacZ/attB::miniCTX2-fadD2, respectively. b-Galactosidase activities were measured for these two comple- mented fusion strains under various growth conditions. Cells were first grown overnight in PIB medium, washed twice with one volume of 1x M9, and resuspended in an equal volume of the same medium. Cell resuspensions were then diluted 100-fold into fresh 1x M9 +1% Brij-58 +1% CAA60.1% of the individual FAs (C4:0 to C16:0, or C18:1 D9), and growth curve experiments were performed. Cell cultures were taken at mid-log phase (OD540"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    392.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 13"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    495.7,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "October 2010 | Volume 5 | Issue 10 | e13557"
+  }
+ }
+}

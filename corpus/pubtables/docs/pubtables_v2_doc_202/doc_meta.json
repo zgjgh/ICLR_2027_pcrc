@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_202",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    1000,
+    753
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    1000,
+    753
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4878077_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.6,
+    332.7,
+    367.1,
+    920.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4878077_table_0.png",
+   "html": "<table><tr><td>Primer name</td><td>Sequence</td><td>GeneBank accession no</td></tr><tr><td>SAV-3 E2-F</td><td>CAGTGAAATTCGATAAGAAGTGCAA</td><td rowspan=\"2\">EF675594</td></tr><tr><td>SAV-3 E2-R</td><td>TGGGAGTCGCTGGTAAAGGT</td></tr><tr><td>&#946;-actin-F</td><td>CCAGTCCTGCTCACTGAGGC</td><td rowspan=\"2\">AF012125</td></tr><tr><td>&#946;-actin-R</td><td>GGTCTCAAACATGATCTGGGTCA</td></tr><tr><td>STAT1-F</td><td>CGGGCCCTGTCACTGTTC</td><td rowspan=\"2\">GQ325309</td></tr><tr><td>STAT1-R</td><td>GGCATACAGGGCTGTCTCT</td></tr><tr><td>STAT2-F</td><td>AAAACCCCCTCCTCTTCCTC</td><td rowspan=\"2\">NM_001145424</td></tr><tr><td>STAT2-R</td><td>TTAGCCTCCAGTGTGTTCC</td></tr><tr><td>IFNGR1-F</td><td>TCAAACACTTCCCTCTACCAC</td><td rowspan=\"2\">EU244876</td></tr><tr><td>IFNGR1-R</td><td>GTATTCTGTCCAACAGCAGTC</td></tr><tr><td>IFNGR2-F</td><td>AGTCCATCCAAGAGTCAGAAAG</td><td rowspan=\"2\">EU244877</td></tr><tr><td>IFNGR2-R</td><td>CCACTACCAAGACACCCAAC</td></tr><tr><td>IL-10RB-F</td><td>ATCAGTCAGTCTCGACTCGC</td><td rowspan=\"2\">BT047745</td></tr><tr><td>IL-10RB-R</td><td>TCACCCATATCTTCCCCATCC</td></tr><tr><td>IL-20RA-F</td><td>TTCAACCTGCTCTCAGTCC</td><td rowspan=\"2\">NM_001141080</td></tr><tr><td>IL-20RA-R</td><td>GCCTTCATCATCATCTTCTTCC</td></tr><tr><td>IL-15RA-F</td><td>TGTGTCTCCAACAGAACCCC</td><td rowspan=\"2\">NM_001124572</td></tr><tr><td>IL-15RA-R</td><td>TTACTACCACCCCACCTACACC</td></tr><tr><td>IL-13RA-F</td><td>GCTTTTCCCCACGATACCAC</td><td rowspan=\"2\">NM_001140169</td></tr><tr><td>IL-13RA-R</td><td>ATTCCACCTCCTCCTCAACC</td></tr><tr><td>LIFRA-F</td><td>TTTAACCTATCCTGGTCCGC</td><td rowspan=\"2\">HM190263</td></tr><tr><td>LIFRA-R</td><td>TACCTTCACCCACTCCACTC</td></tr><tr><td>GHR1-F</td><td>CGCACCAACACAGATAATGAG</td><td rowspan=\"2\">NM_001123576</td></tr><tr><td>GHR1-R</td><td>GCAAAGACAAGCAGGACAG</td></tr><tr><td>IRF9-F</td><td>ACAAAGTTTACTGCCTTGTACC</td><td rowspan=\"2\">NM_001173719</td></tr><tr><td>IRF9-R</td><td>ACAACCTCCTCCTCCTTCAC</td></tr><tr><td>Myc-2-F</td><td>TCCGCTTCCTACCACAAAC</td><td rowspan=\"2\">NM_001173816</td></tr><tr><td>Myc-2-R</td><td>TCCTCCTCATCCTCCACATC</td></tr><tr><td>AKT2-F</td><td>TTACACTGACACCCTACTGAC</td><td rowspan=\"2\">NM_001139690</td></tr><tr><td>AKT2-R</td><td>AGCCATCCTTCCCTGACTAC</td></tr><tr><td>Bcl-X-F</td><td>TTGAACCTTGCATCCCACC</td><td rowspan=\"2\">NM_001141086</td></tr><tr><td>Bcl-X-R</td><td>AGTCCTAGATACCTCCCTCC</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4878077_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.6,
+    155.9,
+    367.1,
+    389.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4878077_table_1.png",
+   "html": "<table><tr><td>Parameters</td><td>Structural Protein (SP)</td><td>Non-structural protein (NSP)</td></tr><tr><td>Gene ID</td><td>AFJ15605.1</td><td>AFJ15604.1</td></tr><tr><td>Gene length</td><td>3960</td><td>7764</td></tr><tr><td>Expression of SAV3</td><td>1800842.81</td><td>62.71</td></tr><tr><td>Expression of SAV3 (log10)</td><td>1 &#215; 106.26</td><td>1 &#215; 101.80</td></tr><tr><td>Expression of IFN/SAV3</td><td>9403.57</td><td>11.43</td></tr><tr><td>Expression of IFN/SAV3 (log10)</td><td>1 &#215; 103.97</td><td>1 &#215; 101.06</td></tr><tr><td>SAV3-FPKM</td><td>42259.47</td><td>0.75</td></tr><tr><td>IFN/SAV3-FPKM</td><td>248.61</td><td>0.15</td></tr><tr><td>log2 Ratio (IFN/SAV3/SAV3)</td><td>-7.41</td><td>-2.32</td></tr><tr><td>Up/Down-Regulation</td><td>Down</td><td>Down</td></tr><tr><td>P-value</td><td>0</td><td>1.33E-08</td></tr><tr><td>FDR</td><td>0</td><td>1.14E-07</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4878077_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.6,
+    128.1,
+    367.1,
+    279.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4878077_table_2.png",
+   "html": "<table><tr><td>Parameters</td><td>TO-VS-IFN/SAV3</td><td>TO-VS-SAV3</td></tr><tr><td>KEGG orthology unigenes (KO)</td><td>20,115</td><td>20,115</td></tr><tr><td>Differentially expressed genes (DEGs)</td><td>1629</td><td>9,135</td></tr><tr><td>Total JAKSTAT DEGs</td><td>49</td><td>135</td></tr><tr><td>Upregulated DEGs</td><td>40</td><td>16</td></tr><tr><td>Down regulated DEGs</td><td>9</td><td>119</td></tr><tr><td>Number of KEGG pathways</td><td>237</td><td>252</td></tr><tr><td>JAKSTAT pathway Qvalue</td><td>1.14E-06</td><td>5.90E-01</td></tr><tr><td>JAKSTAT pathway p-value</td><td>8.07E-08</td><td>8.07E-01</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4878077_table_3",
+   "page_num": 4,
+   "bbox": [
+    75.3,
+    165.3,
+    888.0,
+    598.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4878077_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene name</td><td rowspan=\"2\">Abbr</td><td rowspan=\"2\">Unigene</td><td rowspan=\"2\">NCBI</td><td rowspan=\"2\">KEGG</td><td colspan=\"3\">TO-VS-SAV3</td><td colspan=\"3\">TO-VS-SAV+IFN</td></tr><tr><td>Log2 (Fold change)</td><td>Reg</td><td>P-value</td><td>Log2 (Fold change)</td><td>Reg</td><td>P-value</td></tr><tr><td colspan=\"11\">Type I cytokine and noncytokine receptors</td></tr><tr><td colspan=\"11\">(i) Gamma chain (YC) family</td></tr><tr><td>Interleukin-2 receptor beta chain</td><td>IL-2RB</td><td>Unig32859</td><td>NP_001134020.1</td><td>K05069</td><td>6.56</td><td>Up</td><td>1.52e-02</td><td>9.68</td><td>Up</td><td>3.89e-16</td></tr><tr><td>Interleukin-4 receptor alpha chain</td><td>IL-4RA</td><td>CL1700.1</td><td>NP_001133565.1</td><td>K05071</td><td></td><td></td><td></td><td>1.04</td><td>Up</td><td>4.17e-24</td></tr><tr><td>Interleukin-13 receptor alpha chain</td><td>IL-13RA</td><td>Unig8578</td><td>NP_001133641.1</td><td>K05076</td><td>-1.89</td><td>Down</td><td>1.06e-71</td><td></td><td></td><td></td></tr><tr><td>Interleukin-15 receptor alpha chain</td><td>IL-15RA</td><td>Unig15594</td><td>NP_001118044.1</td><td>K05074</td><td></td><td></td><td></td><td>1.29</td><td>Up</td><td>5.72e-09</td></tr><tr><td colspan=\"11\">(ii) gp130 family</td></tr><tr><td>Interleukin-6 signal transducer GP130</td><td>IL-6RA</td><td>Unig10219</td><td>CBL94873.1</td><td>K05060</td><td>-1.05</td><td>Down</td><td>7.91e-05</td><td></td><td></td><td></td></tr><tr><td>Interleukin-12 receptor beta chain</td><td>IL-12RB</td><td>CL7886.1</td><td>XP_003452899.1</td><td>K05064</td><td>-1.91</td><td>Down</td><td>6.32e-52</td><td>-1.35</td><td>Down</td><td>2.74e-22</td></tr><tr><td>Leptin receptor</td><td>LEPR</td><td>CL10577.1</td><td>NP_001158237.1</td><td>K05062</td><td>-2.57</td><td>Down</td><td>2.00e-5</td><td>-1.77</td><td>Down</td><td>5.00e-4</td></tr><tr><td>Leukemia inhibitory factor receptor alpha</td><td>LIFRA</td><td>Unig7438</td><td>ADV36655.1</td><td>K05080</td><td>-1.92</td><td>Down</td><td>5.58e-168</td><td>-1.36</td><td>Down</td><td>4.60e-94</td></tr><tr><td colspan=\"11\">(iii) Single chain family</td></tr><tr><td>Growth hormone receptor isoform 1</td><td>GHR1</td><td>Unig15500</td><td>NP_001117048.1</td><td>K05080</td><td>-2.17</td><td>Down</td><td>5.74e-27</td><td>-1.05</td><td>Down</td><td>4.78e-08</td></tr><tr><td>Growth factor receptor-bound protein 2</td><td>GRB2</td><td>Unig8178</td><td>XP_003455002.1</td><td>K04364</td><td>-1.16</td><td>Down</td><td>3.05e-25</td><td></td><td></td><td></td></tr><tr><td colspan=\"11\">Type II cytokine receptors</td></tr><tr><td colspan=\"11\">(i) IFN family receptor</td></tr><tr><td>Interferon receptor 1</td><td>IFNAR1</td><td>Unig34816</td><td></td><td>K05130</td><td>1.86</td><td>Up</td><td>3.24e-03</td><td>3.47</td><td>Up</td><td>9.38e-08</td></tr><tr><td>Interferon receptor 2</td><td>IFNAR2</td><td>Unig11244</td><td></td><td>K05131</td><td>1.23</td><td>Up</td><td>2.97e-11</td><td>2.58</td><td>Up</td><td>1.07e-65</td></tr><tr><td>Interferon-gamma receptor 1</td><td>IFNGR1</td><td>CL9561.2</td><td>ABY87188.1</td><td>K05132</td><td></td><td></td><td></td><td>1.14</td><td>Up</td><td>1.55e-124</td></tr><tr><td>Interferon-gamma receptor 2</td><td>IFNGR2</td><td>CL3893.1</td><td>ABY87189.1</td><td>K05133</td><td></td><td></td><td></td><td>1.57</td><td>Up</td><td>2.44e-140</td></tr><tr><td colspan=\"11\">(ii) Interleukin receptors</td></tr><tr><td>Interleukin-10 receptor beta chain</td><td>IL-10RB</td><td>Unig6317</td><td>ACI67546.1</td><td>K05135</td><td>3.78</td><td>Up</td><td>2.11e-04</td><td>4.92</td><td>Up</td><td>4.2e-05</td></tr><tr><td>Interleukin-20 receptor alpha chain</td><td>IL-20RA</td><td>Unig7932</td><td>NP_001134552.1</td><td>K05136</td><td>5.31</td><td>Up</td><td>8.93e-66</td><td>7.33</td><td>Up</td><td>1.31e-280</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4878077_table_4",
+   "page_num": 5,
+   "bbox": [
+    75.3,
+    244.9,
+    888.0,
+    519.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4878077_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene name</td><td rowspan=\"2\">Abbr</td><td rowspan=\"2\">Unigene</td><td rowspan=\"2\">NCBI</td><td rowspan=\"2\">KEGG</td><td colspan=\"3\">TO-VS-SAV3</td><td colspan=\"3\">TO-VS- IFN/SAV3</td></tr><tr><td>Log2 (Fold change)</td><td>Reg</td><td>P-value</td><td>Log2(Fold Change)</td><td>Reg</td><td>P-value</td></tr><tr><td colspan=\"11\">A: Jaks</td></tr><tr><td>Tyrosine-protein kinase JAK1</td><td>JAK1</td><td>CL2001.7</td><td>NP_571148</td><td>K11217</td><td>1.17</td><td>Up</td><td>1.87e-185</td><td>2.61</td><td>Up</td><td>1.01e-05</td></tr><tr><td>Janus kinase 2</td><td>JAK2</td><td>Unig38863</td><td>ACU12481</td><td>K04447</td><td>-1.97</td><td>Down</td><td>3.84e-05</td><td></td><td></td><td></td></tr><tr><td>Tyrosine kinase 2</td><td>TyK2</td><td>Unig6068</td><td>ACU12483.1</td><td>K11219</td><td>-1.07</td><td>Down</td><td>7.70e-27</td><td></td><td></td><td></td></tr><tr><td colspan=\"11\">B: Signal transducers</td></tr><tr><td>Signal transducer and activator of transcription 1</td><td>STAT1</td><td>CL2066.1</td><td>NP_001134757.1</td><td>K11220</td><td>6.03</td><td>Up</td><td>3.06e-68</td><td>7.11</td><td>Up</td><td>1.20e-4</td></tr><tr><td>Signal transducer and activator of transcription 2</td><td>STAT2</td><td>Unig6362</td><td>NP_001138896.1</td><td>K11221</td><td>1.88</td><td>Up</td><td>1.31e-06</td><td>2.67</td><td>Up</td><td>1.10e-4</td></tr><tr><td>Signal transducer and activator of transcription 3</td><td>STAT3</td><td>CL10061.2</td><td>GU933429.1</td><td>K04692</td><td>-1.32</td><td>Down</td><td>4.00e-05</td><td></td><td></td><td></td></tr><tr><td>Signal transducer and activator of transcription 5B</td><td>STAT5</td><td>Unig39041</td><td>XP_003454096.1</td><td>K11224</td><td>-2.32</td><td>Down</td><td>3.00e-05</td><td></td><td></td><td></td></tr><tr><td>Signal transducer and activator of transcription 6</td><td>STAT6</td><td>Unig2573</td><td>ACU12488.1</td><td>K11225</td><td></td><td></td><td></td><td>1.29</td><td>Up</td><td>3.83e-57</td></tr><tr><td colspan=\"11\">C: Negative loop feedback</td></tr><tr><td>Suppressor of cytokine signaling 3</td><td>SOCS3</td><td>Unig14487</td><td>NP_001139640.1</td><td>K04696</td><td>-1.25</td><td>Down</td><td>1.02e-07</td><td>1.89</td><td>Up</td><td>1.04e-07</td></tr><tr><td>Suppressor of cytokine signaling 1</td><td>SOCS1</td><td>Unig8629</td><td>CCC15083.1</td><td>K04694</td><td>6.86</td><td>Up</td><td>1.31e-207</td><td>7.78</td><td>Up</td><td>1.11e-04</td></tr><tr><td>E3 SUMO-protein ligase PIAS2</td><td>PIAS2</td><td>Unig18900</td><td>XP_003457088.1</td><td>K16063</td><td>-1.06</td><td>Down</td><td>2.00e-05</td><td>1.01</td><td>Up</td><td>7.71e-07</td></tr></table>"
+  }
+ ]
+}

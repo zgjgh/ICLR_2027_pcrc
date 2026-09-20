@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_314",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    226.1,
+    65.5
+   ],
+   "ocr": "BMC Plant Biology 2009, 9:135"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    49.8,
+    698.3,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2229/9/135"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    382.5,
+    578.4
+   ],
+   "ocr": "each dNTP, 1× Standard Taq PCR buffer with 1.5 mmol/L MgCl2, 1.2 U Taq polymerase (all from New England Biolabs, Ipswich, MA), and forward and reverse primers at a concentration of 0.25 μmol/L each. The reaction condi- tions were as follows: 95° for 2 min, followed by 35 cycles of 95° for 30 s, annealing temperature (Table 2) for 30 s, and 72° for 30 s, with final extension of 72° for 5 min. Amplification was performed in an MJ Research Tetrad Thermal Cycler (MJ Research, Waltham, MA). The PCR products were analyzed on gels composed of 0.7% agar- ose (Fisher Scientific, Pittsburgh, PA) and 1.15% Synergel (Diversified Biotech, Boston, MA) run with 0.5× TBE buffer. PCR samples were stained prior to electrophoresis with 1× GelRed (Biotium, Hayward, CA). Alternatively, the PCR products were separated using an HDA-GT12 DNA analyzer and scored by Biocalculator software (both from eGene, Irvine, CA). If sequencing was needed, PCR products were first treated with Exonuclease I and subse- quently with Antarctic Phosphatase (both from New Eng- land Biolabs). DNA sequencing was performed using ABI BigDye Terminator (v3.1; Applied Biosystems, Foster City, CA) according to the manufacturer's protocol, except that 5-μl reactions were performed with 0.25 μl of BigDye on an ABI 3730xl DNA sequencing machine with 50 cm arrays. DNA sequences were analyzed with CodonCode Aligner v. 2.0.6 (CodonCode Corporation, Dedham, MA). We detected three types of polymorphism in our sequences - single feature polymorphism (SFP), insertions and dele- Table 2: Information for nine markers that were sequenced from a"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    385.2,
+    107.2,
+    698.3,
+    578.4
+   ],
+   "ocr": "tions (indels) and variable number tandem repeats (VNTRs). Most of the SFPs that had been detected using the Affymetrix GeneChip [17] were due to a single nucle- otide polymorphism (SNP), but in five cases due to a sin- gle base indel. Since Haploview cannot handle missing values, missing bases were substituted prior to data analy- sis with an appropriate single nucleotide. Because all sin- gle-base indels could be tagged with SNPs from the same marker locus (as described below), we use the term SNP throughout the text. Both indels and VNTRs were excluded from data analysis, unless otherwise noted in the text. High-resolution DNA melting curve (HRM) analysis EST-derived markers were screened for polymorphism using high-resolution melting curve analysis. Primer pairs for each marker were developed with the PRIMER 3 soft- ware and tested for optimal amplification using a temper- ature gradient (from 58-67°). Amplifications were performed in 10 μl reactions containing 10 ng DNA, 200 μmol/L of each dNTP, 0.6 U Taq polymerase, 1× Standard Taq buffer with 1.5 mmol/L MgCl2 (all from New England Biolab), 1× LCGreen Plus Melting Dye (Idaho Technol- ogy, Salt Lake City, UT), 0.25 μmol/L of each primer, and 15 μL of mineral oil (USB Corporation, Cleveland, OH). PCR was performed on a MJ Research Tetrad Thermal Cycler with an initial denaturation of 95° for 2 min, fol- lowed by 45 cycles of 95° for 30 s, annealing temperature (Table 3) for 30 s, and 72° for 30 s, with final extension of 72° for 5 min. To facilitate heteroduplex formation set of 68 L. sativa accessions."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    589.2,
+    688.2,
+    860.0
+   ],
+   "ocr": "Marker EST/Contig in CGPDB Primers (5' - 3') Ta (°C) Mg (mM) Amplicon\nsize (bp)\nLK1457 QG_CA_Contig4638 F - AGGAGCAAAGGAAAGGCTTC 57 1.5 636-648\nR - TGCAACTTCTTCAGCCAATG\nCntg10044 CLS_S3_Contig10044 F - GCATGCCGATTACTCCTTTC 57 1.5 845-860\nR - TCCCCAATCACCTAAGATGG\nQGG19E03 QGG19E03.yg.ab1 F - ATATCCCACCGCCCATAGAT 57 1.5 711-720\nR - ACGCAACTAACCCGTTTCAT\nCntg4252 CLS_S3_Contig4252 F - GGGGAGTTCAGACGTTCAGT 57 1.5 1160\nR - CGAATTGATACACCGCAAAA\nCntg10192 CLS_S3_Contig10192 F - CTCGTTTTCAACACCGACAA 57 1.5 349\nR - TTGTCTCCGGCACTGTATCATCG\nCLSM9959 CLSM9959.b1_N18.ab1 F - TGCTCAATTACACTCGAACCA 57 1.5 326\nR - CTTCATGGAGAGAAATACAAGGTC\nCLSZ1525 CLSZ1525.b1_J22.ab1 F - TTGTTGAAATTATAAACACGAAGCA 57 3 499-629\nR - CAACAAAGGATGTCTCAAATTCA\nQGC11N03 QGC11N03.yg.ab1 F - GCACCTGATGGCTGAATATG 57 1.5 569-581\nR - CATCCTCAATCGCTTGTGTT\nCntg11275 CLS_S3_Contig11275 F - GGAGAAATTTTGGAGCTGTAATTAC 61 1.5 765-956\nR - GGAGGTATGTTGAGGTACATGAC",
+   "table_id": "PMC2789080_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    876.1,
+    387.1,
+    911.5
+   ],
+   "ocr": "Columns indicate marker name, EST or Contig information in the CGPDB magnesium concentration in PCR reaction, and size of amplicon. Marker though 34 primer combinations were tested."
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    381.1,
+    876.1,
+    684.8,
+    899.8
+   ],
+   "ocr": "database, forward and reverse primers, annealing temperature (Ta), QGG19E03 could not be successfully amplified from 13 accessions even"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 5 of 16 (page number not for citation purposes)"
+  }
+ }
+}

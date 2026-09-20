@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_125",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2994823_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    142.7,
+    678.7,
+    597.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2994823_table_0.png",
+   "html": "<table><tr><td>Dog</td><td>Breed</td><td>Age in years</td><td>Histologic Grade</td><td>Tumor size (cm)</td><td>Affected lymph node</td><td>Postoperative overall survival (months)</td><td>ERa</td><td>ERBB2</td></tr><tr><td>1</td><td>American Pittbull</td><td>9</td><td>Grade III</td><td>3</td><td>Inguinal</td><td>8</td><td>-</td><td>+</td></tr><tr><td>2</td><td>Bobtail</td><td>10</td><td>Grade III</td><td>3</td><td>inguinal</td><td>6</td><td>-</td><td>+</td></tr><tr><td>3</td><td>Rottweiler</td><td>10</td><td>Grade III</td><td>3</td><td>inguinal</td><td>6</td><td>-</td><td>+</td></tr><tr><td>4</td><td>Dachshund</td><td>13</td><td>Grade II</td><td>2</td><td>inguinal</td><td>3</td><td>-</td><td>+</td></tr><tr><td>5</td><td>Bavarian Mountain Dog</td><td>13</td><td>Grade III</td><td>5</td><td>inguinal</td><td>8</td><td>-</td><td>+</td></tr><tr><td>6</td><td>Golden Retriever</td><td>11</td><td>Grade III</td><td>1</td><td>inguinal</td><td>5</td><td>-</td><td>-</td></tr><tr><td>7</td><td></td><td>12</td><td>Grade II</td><td>1</td><td>axillary</td><td>2</td><td>-</td><td>+</td></tr><tr><td>8</td><td>Pudel</td><td>16</td><td>Grade II</td><td>3</td><td>inguinal</td><td>2</td><td>-</td><td>-</td></tr><tr><td>9</td><td>West Highland White Terrier</td><td>16</td><td>Grade II</td><td>0.5</td><td>inguinal</td><td>3</td><td>-</td><td>+</td></tr><tr><td>10</td><td>French Bulldog</td><td>15</td><td>Grade III</td><td>1</td><td>inguinal</td><td>/</td><td>-</td><td>+</td></tr><tr><td>11</td><td>Mixed Breed</td><td>16</td><td>Grade II</td><td>3</td><td>inguinal</td><td>9</td><td>-</td><td>+</td></tr><tr><td>12</td><td>Beagle</td><td>11</td><td>Grade II</td><td>4</td><td>inguinal</td><td>1</td><td>-</td><td>+</td></tr><tr><td>13</td><td>Mixed Breed</td><td>9</td><td>Grade III</td><td>2</td><td>inguinal</td><td>/</td><td>-</td><td>+</td></tr><tr><td>14</td><td>Mixed Breed</td><td>12</td><td>Grade III</td><td>4</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>15</td><td>Dalmatian</td><td>10</td><td>Grade II</td><td>3</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>16</td><td>Irish Setter</td><td>9</td><td>Grade II</td><td>3</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>17</td><td>Labrador</td><td>11</td><td>Grade III</td><td>3</td><td>-</td><td>&gt;24</td><td>-</td><td>-</td></tr><tr><td>18</td><td>Soft coat. wheaten Terrier</td><td>12</td><td>Grade III</td><td>4</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>19</td><td>Mixed Breed</td><td>11</td><td>Grade III</td><td>3</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>20</td><td>German Short Hair</td><td>12</td><td>Grade III</td><td>15</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>21</td><td>Poodle</td><td>11</td><td>Grade II</td><td>3</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>22</td><td>Mixed Breed</td><td>15</td><td>Grade III</td><td>7</td><td>-</td><td>&gt;8</td><td>-</td><td>+</td></tr><tr><td>23</td><td>Miniature Pinscher</td><td>13</td><td>Grade II</td><td>2</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>24</td><td>Mixed Breed</td><td>11</td><td>Grade III</td><td>9</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>25</td><td>Great Dane</td><td>10</td><td>Grade III</td><td>7</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>26</td><td>Mixed Breed</td><td>9</td><td>Grade III</td><td>3</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr><tr><td>27</td><td>Mixed Breed</td><td>13</td><td>Grade III</td><td>7</td><td>-</td><td>&gt;24</td><td>-</td><td>+</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2994823_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    771.8,
+    659.0,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2994823_table_1.png",
+   "html": "<table><tr><td>Gene</td><td>Mean fold change in metastatic carcinomas by qPCR</td><td>Mean fold change in metastatic carcinomas by microarray</td></tr><tr><td>AURKA</td><td>2.5 (0.52)*</td><td>5.9</td></tr><tr><td>ALOX12</td><td>0.6 (0.11)*</td><td>0.4</td></tr><tr><td>BMP-6</td><td>2.4 (0.97)*</td><td>4.4</td></tr><tr><td>ERBB-4</td><td>0.4 (0.09)*</td><td>0.4</td></tr><tr><td>HEPACAM2</td><td>0.2 (0.05)*</td><td>0.01</td></tr><tr><td>IGFR2</td><td>0.6 (0.11)</td><td>0.4</td></tr><tr><td>RAD51</td><td>2.4 (0.67)*</td><td>4.7</td></tr><tr><td>TGFBR-3</td><td>0.41 (0.90)*</td><td>0.2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2994823_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    128.9,
+    650.9,
+    370.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2994823_table_2.png",
+   "html": "<table><tr><td>Up-regulated cell cycle genes</td><td>Down-regulated cell cycle genes</td></tr><tr><td colspan=\"2\">Cell Cycle Genes</td></tr><tr><td>ANAPC10, APPL1, AURKA, BIRC5, BUB3, CCDC5, CCNA2, CCNB1, CCNB2, CCNE1, CDC2, CDC27, CDC37, CDC45L, CDC5L, CDC6, CDCA2, CDCA5, CDCA8, CETN3, CGREF1, CHAF1A, CHAF1B, CHEK2, CKAP2, DKC1, DTYMK, ERBB2IP, ESCO2, ESPL1, EXO1, FBXO5, GADD45B, GADD45GIP1, GMNN, GTSE1, ILF3, INCENP, IRF1, KATNA1, KIF15, KIF23, KIFC1, LIN9, MAD2L1, MCM5, MCM6, MIS12, MRPL41, MYBL2, NCAPG, NCAPG2, NCAPH, NDC80, NME1, NOLC1, NPM1, NUF2, NUSAP1, PARD3B, PBK, PES1, PFDN1, PIK3CB, PLK1, PPM1G, PRC1, PRMT5, PTPN11, RAD17, RAD21, RAD51, RANBP1, RASSF1, RASSF4, B1CC1, RBL1, RPA1, SASS6, SGOL1, SMC1A, SPC24, SPC25, SPIN1, STK11, SUGT1, TPX2, TTK, TXNL4A, UHRF1, YEATS4, YWHAQ, ZW10</td><td>BCL6, DBC1, DST, KHDRBS1, LATS1, NEDD9, PPP2R1B, RBM5, SESN1, TARDBP,</td></tr><tr><td colspan=\"2\">Cell Cycle Checkpoint Genes</td></tr><tr><td colspan=\"2\">BIRC5, BUB3, CDC2, CDC45L, CDC6, CHEK2, GTSE1, MAD2L1, PTPN11, RAD17, SMC1A, TTK, ZW10,</td></tr><tr><td colspan=\"2\">Cyclin Genes</td></tr><tr><td>CCNE1, RBL1, CCNB2, CCNA2, CCNB1</td><td>CCNL2</td></tr><tr><td colspan=\"2\">DNA-Damage Repair Genes</td></tr><tr><td>APEX2, CHAF1A, CHAF1B, DCLRE1B, ESCO2, EXO1, FEN1, GADD45B, GADD45GIP1, GEN1, GTF2H3, NSMCE2, NUDT1, POLD3, RAD17, RAD21, RAD51, RAD51C, RFC3, RPA1, SMC1A, SMC5, TOPBP1, TYMS, UBE2N, UHRF1, UNG</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2994823_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.6,
+    457.8,
+    357.4,
+    871.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2994823_table_3.png",
+   "html": "<table><tr><td>Functional gene class</td><td>Gene number</td><td>Enrichment factor</td></tr><tr><td colspan=\"3\">up-regulated genes</td></tr><tr><td>M-phase</td><td>52</td><td>17.49</td></tr><tr><td>DNA replication</td><td>29</td><td>6.72</td></tr><tr><td>Protein folding</td><td>32</td><td>6.34</td></tr><tr><td>Transcription factors</td><td>48</td><td>6.21</td></tr><tr><td>RNA processing</td><td>50</td><td>5.99</td></tr><tr><td>Apoptosis</td><td>10</td><td>5.98</td></tr><tr><td>Mitochondrion</td><td>59</td><td>5.96</td></tr><tr><td>Cell cycle checkpoint</td><td>14</td><td>4.09</td></tr><tr><td>DNA damage response</td><td>30</td><td>3.52</td></tr><tr><td>Ubiquitin-pathway</td><td>13</td><td>2.56</td></tr><tr><td>DNA-replication initiation</td><td>7</td><td>2.05</td></tr><tr><td>Methyltransferases</td><td>15</td><td>1.95</td></tr><tr><td>RAS-signalling</td><td>5</td><td>1.71</td></tr><tr><td>Prefoldins</td><td>4</td><td>1.62</td></tr><tr><td>Transcription repressors</td><td>13</td><td>1.32</td></tr><tr><td colspan=\"3\">down-regulated genes</td></tr><tr><td>Transcription factors</td><td>55</td><td>3.62</td></tr><tr><td>mRNA processing</td><td>11</td><td>3.45</td></tr><tr><td>Muscle contraction</td><td>10</td><td>2.86</td></tr><tr><td>Transcription regulation</td><td>41</td><td>2.36</td></tr><tr><td>Cell growth regulation</td><td>10</td><td>2.03</td></tr><tr><td>Methyltransferases</td><td>6</td><td>1.75</td></tr><tr><td>Cell differentiation</td><td>54</td><td>1.58</td></tr><tr><td>Transmembrane tyrosine kinase receptors</td><td>12</td><td>1.33</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2994823_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    128.9,
+    658.5,
+    346.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2994823_table_4.png",
+   "html": "<table><tr><td>Up-regulated receptor genes</td><td>Down-regulated receptor genes</td></tr><tr><td colspan=\"2\">Receptors</td></tr><tr><td>CD300LF, CRLF3, F2RL1, FKBP3, GOSR2, HYAL2, IL10RB, ITGA4, JMJD6, KIF15, LBR, MED30, PFDN6, RNF139, SIVA1, TFRC, TREM1, ZNHIT3</td><td>EPHB1, EPHB3, ERBB4, FGFR1, FKBP, GIT2, GPR116, IGF2R, MET, NISCH, NRP1, NPR2, NRXN1 NTRK2, PRKCZ, PTPN2, TGFBR3, THRB, TNFRSF1B, TNFRSF21, TNPO3</td></tr><tr><td colspan=\"2\">Transmembrane Receptors with Tyrosine Kinase Activity</td></tr><tr><td></td><td>EPHB1, EPHB3, ERBB4, FGFR1, IGF2R, MET, NRP1, NTRK2, TGFBR3,</td></tr><tr><td colspan=\"2\">G-Protein Coupled Receptors</td></tr><tr><td>F2RL1, SLC26A6</td><td>GPR116, NPR2</td></tr><tr><td colspan=\"2\">Cell Differentiation Genes</td></tr><tr><td>AATF, ASF1B, Bak1, BCLAF1, BID, BIRC3, BIRC5, BMP6, BNIP2, CASC5, CASP6, CDC2, CEP57, CHEK2, CKAP2, CLN5, CNP, CSE1L, DNAJA3, DNM1L, EIF2B2, ESPL1, FASTKD3, FBXO5, GADD45B, HRB, HSPD1, JMJD6, KATNA1, MRPL41, MYBL2, NME1, NPM1, OPA1, PDCD10, PEX13, PLDN, PRKAA1, PTPN11, RAD21, RB1CC1, RNF6, RNF7, SAP30BP, SFXN1, SIVA1, SKIL, SLTM, SON, STK3, STK4, STRBP, TGM2, WHSC1L1, YWHAG</td><td>ACTN1, AFF4, ALOX12, BCL6, CATSPER1, CSPG5, DBC1, EPHB3, ERBB4, FGFR1, FST, GATA3, MET, MYH11, NRP1, NRXN1, NTF3, NTRK2, PIK3R1, PPP2R1B, PRKCZ, SEMA6D, SMARCA1, SOX5, SOX6, TBX19, THRB, TNFRSF1B, TNFRSF21, TSG101, ZBTB16</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2994823_table_5",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    796.5,
+    658.0,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2994823_table_5.png",
+   "html": "<table><tr><td>Up-regulated genes</td><td>Down-regulated genes</td></tr><tr><td colspan=\"2\">Matrix Modulators</td></tr><tr><td colspan=\"2\">MMP11, SERPINE1, CTSL2</td></tr><tr><td colspan=\"2\">Cell adhesion</td></tr><tr><td>DST, ICAM2, ITGA4, ITGB1BP1, LBR</td><td>ACTN1, ALOX12, ASAM, BCL6, CHAD, COL16A1, CYR61, DST, EMILIN1, HEPACAM2, MIA3, NEDD9, NRP1, NRXN1, PCDHGC3</td></tr><tr><td colspan=\"2\">Focal Adhesion</td></tr><tr><td>PTK2</td><td>ACTN1, BIRC3, CHAD, COL2A1, MET, MYLK, PIK3R1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2994823_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    128.9,
+    640.5,
+    305.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2994823_table_6.png",
+   "html": "<table><tr><td>Dysregulated pathways in metastatic canine mammary tumors</td><td>Gene number</td><td>Dysregulated pathways in metastatic human breast cancer</td></tr><tr><td>up-regulated pathways</td><td></td><td>Ranking in a meta-analysis[1]</td></tr><tr><td>Cell_cycle</td><td>33</td><td>1</td></tr><tr><td>Cell_cycle_G1_to_S_control_reactome</td><td>22</td><td>2</td></tr><tr><td>DNA_replication_reactome</td><td>25</td><td>3</td></tr><tr><td>Tissue_embryonic_stem_cell</td><td>11</td><td>6</td></tr><tr><td>Proteasome degradation</td><td>7</td><td>7</td></tr><tr><td colspan=\"3\">down-regulated pathways</td></tr><tr><td>Striated_muscle_contraction</td><td>8</td><td>4</td></tr><tr><td>Focal_adhesion</td><td>11</td><td>/</td></tr><tr><td>IL-6_NetPath_18</td><td>5</td><td>6</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_193",
+  "page": 9,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    74.0,
+    580.0,
+    89.0
+   ],
+   "ocr": "In the fiscal year 2024, Sea Limited's fulfillment cost per order analysis reveals diverse metrics across various orders."
+  },
+  "p9_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    114.0,
+    580.0,
+    345.0
+   ],
+   "ocr": "OrderID ProductCategory FulfillmentMethod CostperOrder Status\nOrderDate ShippingCost HandlingFee TotalCost DeliveryTime\nCustomerID Region DiscountApplied PromotionalCode FeedbackScore\n12345 Electronics Standard £5.00 Completed\n2024-01-10 £2.50 £1.00 £8.50 3days\n12346 Clothing Express £12.00 Shipped\n2024-01-12 £5.00 £2.00 £19.00 1day\n12347 HomeGoods Standard £7.50 Pending\n2024-01-15 £3.50 £1.50 £12.50 5days",
+   "table_id": "img_221047_t0"
+  },
+  "p9_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    360.0,
+    580.0,
+    407.0
+   ],
+   "ocr": "The table lists OrderID 12345 for the Electronics category, utilizing Standard fulfillment, incurring a Cost per Order of £5.00, completed on 2024-01-10, with a Shipping Cost of £2.50, Handling Fee of £1.00, leading to a Total Cost of £8.50 and a Delivery Time of 3 days."
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    435.0,
+    580.0,
+    583.0
+   ],
+   "ocr": "LiveCommerceMetrics TotalRevenue\nConversionRate YoYChange(%) MarketShare(%) AverageOrderValue\n£50M 12.5% 15.0% 25.0%\n£45M 10.0% 14.5% 24.5%\n£60M 15.0% 16.0% 26.0%\n£55M 13.0% 15.5% 25.5%\n£70M 18.0% 17.0% Total",
+   "table_id": "img_221047_t1"
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    599,
+    580,
+    688
+   ],
+   "ocr": "OrderID 12346 for Clothing, using Express fulfillment, had a Cost per Order of £12.00, shipped on 2024-01-12, with Shipping Cost £5.00, Handling Fee £2.00, resulting in a Total Cost of £19.00 and a Delivery Time of 1 day. OrderID 12347 in the HomeGoods category, under Standard fulfillment, had a Cost per Order of £7.50, pending on 2024-01-15, with Shipping Cost £3.50, Handling Fee £1.50, totaling £12.50 and a Delivery Time of 5 days. The Live Commerce Metrics table shows Total Revenue of £50M, a Conversion Rate of 12.5%, YoY Change of 15.0%, Market Share of 25.0%, and Average Order Value of £24.5."
+  },
+  "p9_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    676,
+    580,
+    749
+   ],
+   "ocr": "The subsequent rows indicate Total Revenue of £45M with a Conversion Rate of 10.0%, YoY Change of 14.5%, Market Share of 24.5%, and Average Order Value of £24.5; £60M in Total Revenue with a Conversion Rate of 15.0%, YoY Change of 16.0%, Market Share of 26.0%, and Average Order Value of £26.0; £55M with a Conversion Rate of 13.0%, YoY Change of 15.5%, Market Share of 25.5%, and Average Order Value of £25.5; and finally, £70M, with a Conversion Rate of 18.0%, YoY Change of 17.0%, Market Share of 17.0%, and Total Average Order Value."
+  }
+ }
+}

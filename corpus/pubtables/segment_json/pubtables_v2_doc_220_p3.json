@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_220",
+  "page": 3,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    255.0,
+    51.8
+   ],
+   "ocr": "Fleming et al. BMC Genomics (2016) 17:812"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 5 of 11"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    351.8,
+    137.0
+   ],
+   "ocr": "Table 6 Overrepresented gene ontology terms for moderate impactb, line-specific variants in Fayoumi and Leghorn lines"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    385.3,
+    110.0,
+    667.9,
+    138.0
+   ],
+   "ocr": "Table 7 Gene ontology terms from DAVID for variant regions with greatest difference (FST = 1)"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    140.4,
+    367.1,
+    454.2
+   ],
+   "ocr": "Fayoumi GO Term Count P-valuea\nFN3 22 1.10E-03\nRibonucleotide binding 154 1.70E-03\nPurine ribonucleotide binding 154 1.70E-03\nFibronectin, type III 22 8.10E-03\nPTPc 8 1.70E-02\nNucleotide binding 177 2.10E-02\nProtein kinase activity 61 2.60E-02\nLeghorn GO Term Count P-valuea\nECM-receptor interaction 25 9.60E-05\nExtracellular matrix 41 1.90E-04\nMetal ion binding 270 2.30E-03\nProteinaceous extracellular matrix 37 1.30E-03\nExtracellular region 94 2.30E-03\nCell division and chromosome partitioning 26 2.60E-02\nCalcium ion binding 77 3.90E-02\nAminophospholipid transporter activity 7 4.30E-02\nPhospholipid-translocating atpase activity 7 4.30E-02",
+   "table_id": "PMC5070165_table_5"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    142.0,
+    680.5,
+    594.8
+   ],
+   "ocr": "GO Terms Count P-value\nNucleoside binding 630 6.90E-13\nPurine nucleoside binding 626 4.30E-13\nAdenyl nucleotide binding 622 3.50E-13\nNucleotide binding 869 9.10E-13\nPurine nucleotide binding 745 2.90E-12\nAdenyl ribonucleotide binding 585 1.20E-11\nATP binding 581 1.70E-11\nRibonucleotide binding 708 5.20E-11\nPurine ribonucleotide binding 708 5.20E-11\nProtein kinase activity 263 1.60E-07\nProtein amino acid phosphorylation 273 7.30E-05\nAtp-binding 243 1.50E-05\nNucleoside-triphosphatase regulator activity 129 1.80E-05\nGtpase regulator activity 125 3.10E-05\nProtein serine/threonine kinase activity 168 3.70E-05\nExtracellular ligand-gated ion channel activity 49 4.00E-05\nNucleotide-binding 300 1.00E-04\nPhosphorus metabolic process 361 9.20E-04\nPhosphate metabolic process 361 9.20E-04\nEnzyme activator activity 78 2.90E-04\nNucleotide phosphate-binding region: ATP 103 2.50E-02\nGtpase activator activity 63 1.10E-03\nIdentical protein binding 112 1.50E-03\nLigand-gated ion channel activity 64 1.50E-03\nLigand-gated channel activity 64 1.50E-03",
+   "table_id": "PMC5070165_table_6"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    460.6,
+    360.4,
+    513.5
+   ],
+   "ocr": "Over-represented GO terms for moderate impact variants (fixed/segregating) and unique for the inbred Fayoumi and Leghorn lines. aBenjamini-Hochberg Corrected p-value cut-off α = 0.05. bModerate impact variants: non_synonymous_coding, codon_change, codon_insertion, codon_change_plus_codon_insertion, codon_ deletion, codon_change_plus_codon_deletion, utr_5_deleted, utr_3_deleted"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    549.7,
+    367.5,
+    927.7
+   ],
+   "ocr": "Leptin receptor expression can also affect follicle formation in breeder hens [19]. After strict filtering of the variants based on the information from the validation and the ex- ploratory run to collect information on genomic diversity, the variations associated with fibronectin type III still remained statistically significant (FDR ≤ 0.05). However PTPc disappeared and was replaced with statistically signifi- cant GO terms for cytokine-cytokine receptor interactions and natural killer cell (Additional file 1: Table S1.). Over- enriched terms from each analysis point to possible con- nections between breed-specific variants and their breed phenotypes. The Prolactin receptor (PRLR) was represented in the Fayoumi gene list under the GO term FN3. The prolactin receptor has a role in egg production in chickens [20, 21] and is also a member of the cytokine signaling superfam- ily, giving it some influence on immune functions [22]. The genes LEPR and PRLR both were present in the statis- tically significant GO term lists based on the exploratory and strict variant filter lists. Both genes showed a decrease in the number of variants associated with all functional impacts (LEPR exploratory filter = 245, strict filter = 95; PRLR exploratory filter = 104, strict filter = 65) based on filtering, but still remain associated to the over-enriched FN3 term."
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    601.1,
+    678.5,
+    632.6
+   ],
+   "ocr": "Functional categories from DAVID representing the genes that had FST value’s of 1. GO Terms from DAVID based on FST values of 1 for comparison of variant position between populations. Benjamini Corrected p-value cut-off α = 0.05"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    656.5,
+    681.1,
+    927.7
+   ],
+   "ocr": "Within-line variation: Leghorn Within-population analysis of the fixed and unique Leghorn variants different from the RJF reference, revealed GO terms related to reproductive phenotypes. Gene set enrichment analysis of the moderate impact variants gave significant results (adjusted p value < 0.05) for the GO terms of cell division, calcium ion binding, phospholipid ac- tivity and extracellular matrix annotations (Table 6), all pro- cesses involved in egg production [23]. It is possible that variants in these gene clusters are tolerated and may repre- sent sets of diversification/improvement genes. Genes of interest within the extracellular matrix cluster include TIMP, metallopeptidase inhibitor 2 (TIMP2), an inhibitor of metalloproteineases that degrades the extracellular matrix and suppresses endothelial cell proliferation. Highly con- served in multiple species, TIMP2 plays a role in chicken eggshell production and embryogenesis [24, 25]. Calcium ion binding and metal ion binding (Table 6) are related to"
+  }
+ }
+}

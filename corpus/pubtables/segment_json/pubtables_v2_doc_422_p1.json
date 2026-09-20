@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_422",
+  "page": 1,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    42.8,
+    281.2,
+    67.0
+   ],
+   "ocr": "Dias et al. BMC Bioinformatics 2012, 13:96 http://www.biomedcentral.com/1471-2105/13/96"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.8,
+    43.0,
+    679.1,
+    54.4
+   ],
+   "ocr": "Page 7 of 12"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    111.0,
+    366.7,
+    159.4
+   ],
+   "ocr": "have been searched so far. Variable nextC indi- cates the contig with smallest ID not yet placed in the scaﬀold."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    111.0,
+    679.1,
+    219.6
+   ],
+   "ocr": "query genome as well as in the generated scaﬀold set. In the case of circular replicons, all correct scaﬀolds with m contigs have exactly m correct adjacencies. Even though SIS in general outputs a set of scaﬀolds, for the purposes of this test we consider the result to be just one scaﬀold, with scaﬀolds being placed side by side as the algorithm creates them."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    156.2,
+    366.7,
+    249.7
+   ],
+   "ocr": "The main loop in lines 7–39 is executed until all con- tigs have been placed in the scaﬀold. Variable ok indicates whether the algorithm found a candidate contig to be placed in the scaﬀold. Line 9 ensures that the algorithm is not searching for an invalid conserved block. Lines 21– 24 check whether the algorithm is searching an already"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    216.4,
+    679.1,
+    385.2
+   ],
+   "ocr": "A second quality measure is genome coverage. In this measure we attempt to determine how much of the genome to which the contigs belong is actually covered by the scaﬀolds generated. The working deﬁnition we use is as follows. If both ends of a contig have correct adja- cencies, then we count the entire length of that contig as contributing to the coverage. If only one end has a cor- rect adjacency, then half of the contig length is used. If both ends have incorrect adjacencies, then the contig is not used. We deﬁne coverage as the ratio of the sum of contig lengths considered per the above rules and the sum"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    72.1,
+    246.5,
+    207.0,
+    264.8
+   ],
+   "ocr": "searched conserved block."
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    261.6,
+    366.7,
+    340.1
+   ],
+   "ocr": "If the algorithm decides to insert a new contig in the scaﬀold (test in line 25) lines 26–39 are executed. If no valid contig was found, the ﬁrst contig not yet placed is determined in lines 26–28. Lines 29–30 place that contig as the ﬁrst in a new scaﬀold. Vector used and variables"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    72.1,
+    336.9,
+    282.4,
+    355.1
+   ],
+   "ocr": "nextC and i are updated in lines 31–34."
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    351.9,
+    366.7,
+    641.2
+   ],
+   "ocr": "Recalling that n is the number of conserved blocks and m is the number of contigs, with n ≥ m, we now state the algorithm’s complexity. Data structure inContig can be built in O(n). Initialization takes O(n + m). The main loop is executed n + m times, since in each iteration either a new position in vector searched is marked or a new contig is placed in the scaﬀold. There is one oper- ation inside the main loop that does not take constant time, which is the loop in lines 33–34. However, variable nextC can be incremented at most m times, so the amor- tized cost of each update is O(1). This leads to an overall complexity of O(n). Testing Methodology We have implemented the algorithm creating program SIS (Scaﬀolds from Inversion Signatures). We stress that SIS does not require the algorithm assumptions listed above in order to be used. We used real contigs available in"
+  },
+  "p1_b10": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    382.0,
+    487.6,
+    400.3
+   ],
+   "ocr": "of all contig lengths."
+  },
+  "p1_b11": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    397.1,
+    679.1,
+    460.5
+   ],
+   "ocr": "In this test we compared SIS to seven other scaﬀold gen- erating programs, namely ABACAS [5], ﬁllScaﬀolds [6], Mauve Aligner [7], OSLay [8], Projector 2 [9], r2cat [10], and CONTIGuator [12]. Table 1 gives a summary of all"
+  },
+  "p1_b12": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    457.3,
+    470.3,
+    475.6
+   ],
+   "ocr": "programs tested."
+  },
+  "p1_b13": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    472.4,
+    679.1,
+    596.0
+   ],
+   "ocr": "It is important to mention that among programs tested ﬁllScaﬀolds [6] was the only one designed speciﬁcally for eukaryote sequences, whereas all of our tests are done on prokaryote sequences. FillScaﬀolds is a sophisticated tool that takes into account many kinds of rearrangements in addition to inversions, such as transpositions, recipro- cal translocations, and chromosome fusions and ﬁssions. We have included ﬁllScaﬀolds in the present study for"
+  },
+  "p1_b14": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    592.8,
+    456.9,
+    611.1
+   ],
+   "ocr": "completeness."
+  },
+  "p1_b15": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    607.9,
+    679.1,
+    691.5
+   ],
+   "ocr": "One important consideration is block conservation detection. In the case of SIS this was done by programs nucmer [18] and promer [18], with default settings. We postprocessed the outputs using the MUMmer script delta-ﬁlter [18] with parameter −1, which ensures that"
+  },
+  "p1_b16": {
+   "type": "title",
+   "bbox": [
+    72.1,
+    638.1,
+    277.0,
+    656.3
+   ],
+   "ocr": "GenBank for testing as described below."
+  },
+  "p1_b17": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    653.1,
+    366.6,
+    686.4
+   ],
+   "ocr": "The main quality measure for a scaﬀold is the number of correct contig adjacencies. A contig adjacency for contigs"
+  },
+  "p1_b18": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    683.2,
+    366.7,
+    737.8
+   ],
+   "ocr": "x and y is correct if they are consecutive in the (completed) Table 1 Programs Tested"
+  },
+  "p1_b19": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    683.2,
+    585.6,
+    701.4
+   ],
+   "ocr": "only nonrepeated blocks are processed."
+  },
+  "p1_b20": {
+   "type": "table",
+   "bbox": [
+    72.1,
+    743.7,
+    678.7,
+    919.9
+   ],
+   "ocr": "Prokaryote vs. Unichromosomal vs. Standalone Block User\nEukaryote Multichromosomal vs. Server Detection Interface\nAbacas Prokaryote Multichromosomal Standalone nucmer, promer Command line\nCONTIGuator Prokaryote Multichromosomal Standalone Blast+ Command line\nﬁllScaﬀolds Eukaryote Multichromosomal Standalone nucmer, promer Command line\nMauve Aligner Prokaryote Unichromosomal Standalone Mauve GUI\nOSLay Both Unichromosomal Standalone nucmer GUI\nProjector2 Prokaryote Unichromosomal Server BLAT Web\nr2cat Both Multichromosomal Standalone - GUI\nSIS Prokaryote Unichromosomal Both nucmer, promer Web, Command line",
+   "table_id": "PMC3674793_table_0"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_068",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    41.7,
+    678.6,
+    54.3
+   ],
+   "ocr": "Idri and Kadi SpringerPlus (2016) 5:81 Page 7 of 17"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    110.7,
+    601.9,
+    683.9
+   ],
+   "ocr": "decision. According to the specialist’s guidelines, three classes were identified for each ANS test namely: high, normal and low. A class distribution for all the ANS tests was evaluated and has shown that 41 % of the data were identified as high class, 31 % as nor- mal class and 28 % as low class. On the other hand, the dataset contains a set of attributes; some provide general and administrative information about the patient such as: name of patient, file reference, date of consultation and the attending physician. These data do not affect the patient diagnosis which is why they were discarded. Only the attributes judged by the special- ists to be relevant for the diagnosis of patients were selected. Hence, 11 attributes were selected in this first stage of the ANS procedure to generate the decision trees. Table 2 provides a brief description as well as some statistics such as mean, max, and the min values of each selected attribute values using the training subset. According to Table 2, the patients diagnosed by ANS units are from all generations including the children and the oldest persons. For the other attributes, the age of patients is considered by the ANS specialists as the main factor influencing the results interpretation. In fact, a normal value of an ANS test result differs according to age category. As an example, for the VR_DB attribute, a normal value should be near to 30 % for adult patients (18 < Age < 60). However, for the elderly, a normal value is around 25 %; and for children and young patients, a normal value is close to 60 %. Also, the same principle applies to VR_HG, PSR α, CSR α, CSR β and VR_Ort attributes except that the critical values differ from one attribute to another. Nevertheless, we notice that the average value for VR_DB is 46.23 % which shows that a lot of patients suffer from dif- ficulties in case of breathing efforts. In general, a normal HR value should be between 60 beats/min and 80 beats/min, and a normal value of BP should be between 100 and 140 for systolic values. These values were calculated using devices that measures HR and BP directly from patients through a set of sensors. These devices are adopted by the specialists of the ANS unit for several years. According to Table 2, the min and max val- ues detected have far exceeded the normal ones for both HR and BP which shows that there are some patients that are suffering from serious problems that need to be treated urgently. Table 2 Description and statistics of selected attributes"
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    692.2,
+    601.2,
+    892.8
+   ],
+   "ocr": "Input attributes Description Mean Min Max\nAge (years) Age of the patient 41.4 7 83\nVR_DB (beat/min) Vagal response measured using HR values in DB test 45.73 4 155\nVR_HG (beat/min) Vagal response measured using HR values in HG test 19.39 0 66\nPSR α (mmHg) Peripheral sympathetic response α measured using BP values in HG 21.75 2 72\ntest\nCSR α (mmHg) Central sympathetic response α measured using BP values in MS test 16.35 3 56\nCSR β (beat/min) Central sympathetic response β measured using HR values in MS test 18.93 1 95\nVR_Ort (beat/min) Vagal response measured using HR values in Ort test 21.24 1 80\nHRmin (beat/min) Minimum heart rate measured in Ort test 61.51 17 104\nHRmax (beat/min) Maximum heart rate measured in Ort test 70.48 38 165\nBPmin (mmHg) Minimum blood pressure measured in Ort test 114.47 84 161\nBPmax (mmHg) Maximum blood pressure measured in Ort test 125.94 89 181",
+   "table_id": "PMC4728159_table_1"
+  }
+ }
+}

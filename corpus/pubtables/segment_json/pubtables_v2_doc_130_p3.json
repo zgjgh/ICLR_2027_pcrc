@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_130",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.7,
+    282.3,
+    65.7
+   ],
+   "ocr": "Exarchos et al. BMC Bioinformatics 2011, 12:142 http://www.biomedcentral.com/1471-2105/12/142"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    41.9,
+    678.6,
+    53.2
+   ],
+   "ocr": "Page 7 of 12"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    111.0,
+    672.5,
+    137.7
+   ],
+   "ocr": "Table 3 Frequencies of occurrence for each residues and character class in the retained patterns"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    142.7,
+    676.9,
+    676.1
+   ],
+   "ocr": "Amino acid frequencies (%)\nExact pattern Chemical Structural\ndiscovery equivalency set equivalency set\nA (alanine) 8 5 6\nR (arginine) 3 2 2\nN (aspargine) 4 3 3\nD (aspartic 6 4 4\nacid)\nC (cysteine) 1 1 1\nE (glutamic 5 4 3\nacid)\nQ (glutamine) 2 1 2\nG (glycine) 13 9 10\nH (histidine) 3 2 2\nI (isoleucine) 5 3 3\nL (leucine) 9 6 6\nK (lysine) 4 3 3\nM 2 1 1\n(methionine)\nF 4 3 2\n(phenylalanine)\nP (proline) 6 4 4\nS (serine) 7 5 5\nT (threonine) 6 3 3\nW (tryptophan) 2 2 1\nY (tyrosine) 4 3 2\nV (valine) 7 4 4\nAG/ITV - 6 10\nDE/DLN - 3 7\nFY/KMR - 3 5\nQN/EQ - 2 2\nILMV/FHWY - 12 7\nST/CS - 5 2\nKR/- - 3 -",
+   "table_id": "PMC3097163_table_2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    314.8,
+    358.3,
+    338.8
+   ],
+   "ocr": "Figure 4 Groupings of amino acids based on common physicochemical properties."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    364.1,
+    366.2,
+    920.0
+   ],
+   "ocr": "with glycine, but also show a considerable preference towards leucine and alanine as well as serine and valine. The situation is quite similar for the other two types of pattern discovery when the frequencies of individual amino acids are considered, with proline, aspartic acid and glutamic acid yielding more or less the same fre- quency of occurrence as valine. These residues have been previously found to be prevalent in the neighbor- hood of cis-nonPro bonds, especially glycine and alanine which are also proven to be quite prevalent here as well [24]. Furthermore, it should be noted that same as with frequent residues, the most infrequent ones in the retained patterns are also the same for all types of pat- tern discovery. Specifically, cysteine exhibits the smallest representation (i.e. 1% in all types of pattern discovery) and the residues that follow are methionine, glutamine and tryptophan, however, not necessarily in this order for all types of pattern discovery. It is interesting that all four most frequent residues are small in terms of volume thus facilitating the formation of a cis bond by offering the minimum steric resistance. Moreover, we observe that glycine, alanine and valine are also hydro- phobic residues, therefore conjecturing considerable pre- ference of cis regions towards small and hydrophobic residues. However, cysteine is an exception to this corol- lary being a small hydrophobic residue as well, but hardly occurring in cis regions. A possible explanation lies probably in the sulfur atom that discriminates cysteine from the other three residues and is involved in the formation of the sulfhydryl group which is very reac- tive. Besides cysteine, methionine also contains sulfur in its side chain (and are both among the most infrequent amino acids), thus indicating the potentially unfavorable role of the sulfur atom towards the cis-nonPro peptide bond formation. Furthermore, glutamine and tryptophan that are rarely observed in the retained patterns are both polar and non-small residues, thus showing a"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.0,
+    713.3,
+    678.7,
+    922.8
+   ],
+   "ocr": "negative association of cis regions and sizeable polar residues. In the case of chemical equivalency set, when the character classes are also considered, [ILMV] has the highest frequency of occurrence and [AG] follows; on the contrary [QN] exhibits one of the smallest frequen- cies. Judging from the prevalent character class [ILMV] and more specifically from residues isoleucine, leucine and valine we observe a high propensity towards alipha- tic residues. Character class [AG] appears with high fre- quency, which is in accordance with the previous observation for the individual residues alanine and gly- cine, and is further reinforced by the abundant occur- rence of their combination as a character class. As for"
+  }
+ }
+}

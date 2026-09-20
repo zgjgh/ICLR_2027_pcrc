@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_060",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    177,
+    580,
+    235
+   ],
+   "ocr": "In Table 1, the headers are miRNA input (ng) and Yield (ng), with the corresponding data for each row labeled as follows: for 0.5 ng, the yield is 2664 ng; for 1 ng, the yield is 2791 ng; for 3 ng, the yield is 8165 ng; for 9 ng, the yield is 22736 ng; and for 27 ng, the yield is 40340 ng. Table 2 presents the headers as Detecting Scheme, Linear Range (μg/L), Regression Equation, Correlation Coefficient (R), and Limit of Detection (μg/L)."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    223,
+    580,
+    358
+   ],
+   "ocr": "The data for each detecting scheme is: Method 1 has a linear range of 0.0001~200 μg/L, a regression equation of Y = 219.42X + 748.61, a correlation coefficient of 0.9903, and a limit of detection of 0.0001 μg/L; Method 2 has a linear range of 0.0003~200 μg/L, a regression equation of Y = 204.83X + 643.88, a correlation coefficient of 0.9918, and a limit of detection of 0.0003 μg/L; Method 3 has a linear range of 0.0003~200 μg/L, a regression equation of Y = 194.17X + 613.61, a correlation coefficient of 0.9919, and a limit of detection of 0.0003 μg/L; Method 4 has a linear range of 0.002~500 μg/L, a regression equation of Y = 171.42X + 398.51, a correlation coefficient of 0.9905, and a limit of detection of 0.002 μg/L; Method 5 has a linear range of 0.018~500 μg/L, a regression equation of Y = 158.86X + 236.21, a correlation coefficient of 0.9913, and a limit of detection of 0.018 μg/L; Method 6 has a linear range of 0.25~250 μg/L, a regression equation of Y = 0.5415X + 0.6196, a correlation coefficient of 0.9945, and a limit of detection of 0.25 μg/L."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    436.0,
+    580.0,
+    562.0
+   ],
+   "ocr": "miRNA input (ng) Yield (ng)\n0.5 2664\n1 2791\n3 8165\n9 22736\n27 40340",
+   "table_id": "img_066071_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    637.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "Detecting Scheme Linear Range (μg/L) Regression Equation Correlation Coefficient (R) Limit of Detection (μg/L)\nMethod 1 0.0001~200 Y = 219.42X + 748.61 0.9903 0.0001\nMethod 2 0.0003~200 Y = 204.83X + 643.88 0.9918 0.0003\nMethod 3 0.0003~200 Y = 194.17X + 613.61 0.9919 0.0003\nMethod 4 0.002~500 Y = 171.42X + 398.51 0.9905 0.002\nMethod 5 0.018~500 Y = 158.86X + 236.21 0.9913 0.018\nMethod 6 0.25~250 Y = 0.5415X + 0.6196 0.9945 0.25",
+   "table_id": "img_066071_t1"
+  }
+ }
+}

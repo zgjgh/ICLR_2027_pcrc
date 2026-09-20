@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_021",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    517.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Computational Models of Consumer Confidence"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    190.3,
+    107.4
+   ],
+   "ocr": "Table 3. Stationary test results."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    289.9
+   ],
+   "ocr": "Variables ADF (unit root) p value KPSS (level stationary) Statistics (lag(11)) KPSS(trend stationary) Statistics (lag(11))\nCCI 0.294 0.431 0.084\nC1 0.781 0.834** 0.158*\nC2 0.290 0.228 0.190*\nC3 0.018* 0.226 0.101\nC4 0.160 0.131 0.086\nC5 0.003** 0.183 0.118\nC6 0.005** 0.073 0.070\nC7 0.000** 0.247 0.095\nC8 0.019* 0.210 0.060\nC9 0.000** 0.094 0.080",
+   "table_id": "PMC4380490_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    301.7,
+    722.0,
+    366.2
+   ],
+   "ocr": "(1) Critical values of KPSS (level stationary)—10%: 0.347, 5%: 0.463, 2.5%: 0.574 1%: 0.739. (2) Critical values of KPSS (trend stationary)—10%: 0.119, 5%: 0.146, 2.5%: 0.176, 1%: 0.216. (3) * and ** mean rejecting H0 at the 5% level and 1% level respectively. (4) p-values equaling 0.000 indicate < 0.0005: we use the same notation throughout the paper. doi:10.1371/journal.pone.0120039.t003"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    445.1,
+    235.4,
+    457.0
+   ],
+   "ocr": "Table 4. Vector Auto-regression Results."
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    465.6,
+    726.6,
+    796.4
+   ],
+   "ocr": "Dependent Var.: CCI Coef. Std. Err. z P > z\nCCI L1. 0.816 0.104 7.840 0.000\nL2. 0.025 0.112 0.220 0.823\nC2 L1. 0.019 0.027 0.690 0.491\nL2. -0.024 0.027 -0.870 0.387\nC3 L1. -0.031 0.024 -1.300 0.194\nL2. 0.065 0.026 2.500 0.012\nC4 L1. -0.004 0.027 -0.150 0.879\nL2. 0.006 0.026 0.240 0.807\nC5 L1. 0.007 0.026 0.270 0.788\nL2. -0.038 0.025 -1.500 0.134\nC6 L1. -0.021 0.024 -0.850 0.394\nL2. 0.043 0.024 1.800 0.072\nC7 L1. 0.022 0.030 0.740 0.459\nL2. -0.038 0.030 -1.270 0.204\nC8 L1. -0.001 0.023 -0.030 0.973\nL2. -0.024 0.025 -0.960 0.338\nC9 L1. 0.000 0.027 0.010 0.991\nL2. 0.003 0.025 0.110 0.909\nDC1 L1. -0.007 0.024 -0.290 0.774\nL2. -0.003 0.019 -0.160 0.874",
+   "table_id": "PMC4380490_table_3"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    809.0,
+    725.7,
+    858.5
+   ],
+   "ocr": "(1) L1 indicates a 1 month time series lag whereas L2 indicates a 2 month lag. (2) L.CCI and L2.C3 are signiﬁcant with a low p-value in the VAR model, so they are added in the model as independent variables. doi:10.1371/journal.pone.0120039.t004"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120039 March 31, 2015 9 / 18"
+  }
+ }
+}

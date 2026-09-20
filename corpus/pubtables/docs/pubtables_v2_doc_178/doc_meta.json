@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_178",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4534131_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    368.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4534131_table_0.png",
+   "html": "<table><tr><td>Line No.</td><td>Color Name</td><td>Color Type</td></tr><tr><td>1.</td><td>colset NO</td><td>int with 1..tn timed;</td></tr><tr><td>2.</td><td>colset INT</td><td>int;</td></tr><tr><td>3.</td><td>colset ART</td><td>int;</td></tr><tr><td>4.</td><td>colset REAL</td><td>real;</td></tr><tr><td>5.</td><td>colset STRING</td><td>string;</td></tr><tr><td>6.</td><td>colset ID</td><td>string;</td></tr><tr><td>7.</td><td>colset RCOR</td><td>REAL;</td></tr><tr><td>8.</td><td>colset RCOOR</td><td>product RCOR*RCOR;</td></tr><tr><td>9.</td><td>colset LCOOR</td><td>list RCOOR;</td></tr><tr><td>10.</td><td>colset NODE</td><td>product ID*ART timed;</td></tr><tr><td>11.</td><td>colset STA_HOME</td><td>product NODE*LCOOR*LCOOR timed;</td></tr><tr><td>12.</td><td>colset PAUSE</td><td>product INT*NODE*STRING*LCOOR timed;</td></tr><tr><td>13.</td><td>colset STHOME</td><td>product INT*NODE*LCOOR*STRING*LCOOR timed</td></tr><tr><td>14.</td><td>colset IDxCORxCOR</td><td>product INT*NODE*LCOOR*LCOOR;</td></tr><tr><td>15.</td><td>colset HSTRY</td><td>product NODE*STRING*INT*LCOOR;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4534131_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    225.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4534131_table_1.png",
+   "html": "<table><tr><td>Line No.</td><td>Color Name</td><td>Color Type</td></tr><tr><td>1.</td><td>colset STHOME</td><td>product INT*NODE*LCOOR*STRING*LCOOR timed;</td></tr><tr><td>2.</td><td>colset HISTORY</td><td>list HSTRY;</td></tr><tr><td>3.</td><td>colset IDxSTxCOR</td><td>product NODE*STRING*LCOOR;</td></tr><tr><td>4.</td><td>colset HSTCNTR</td><td>product NODE*INT*INT*INT*STRING*LCOOR;</td></tr><tr><td>5.</td><td>colset IDxINTxINTxINT</td><td>product NODE*INT*INT*INT;</td></tr><tr><td>6.</td><td>colset TPLACE</td><td>list IDxSTxCOR;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4534131_table_2",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    649.4,
+    713.4,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4534131_table_2.png",
+   "html": "<table><tr><td>Line No.</td><td>Function</td></tr><tr><td>1.</td><td>val pr = 0.95;</td></tr><tr><td>2.</td><td>valpr2 = 0.70;</td></tr><tr><td>3.</td><td>val prF = 0.50;</td></tr><tr><td>4.</td><td>fun prity () = uniform (0.0,1.0) &lt; = pr;</td></tr><tr><td>5.</td><td>fun prity2 () = uniform (0.0,1.0) &lt; = pr2;</td></tr><tr><td>6.</td><td>fun prityF () = uniform (0.0,1.0) &lt; = prF;</td></tr><tr><td>7.</td><td>fun dstny(id:NODE,dest:LCOOR fp:STRING,bb:INT,aa:INT, pdest:LCOOR, mdest:LCOOR) =</td></tr><tr><td>8.</td><td>(id,dest, fp, if aa+1 = 6 andalso bb = 0 then pdest else if aa+1 = 6 andalso bb &gt; 0 andalso bb &lt; 51</td></tr><tr><td>9.</td><td>then if prity () then pdest else [(real(discrete(0,99)), real(discrete(0,99)))]</td></tr><tr><td>10.</td><td>else if aa+1 = 6 andalso bb &gt; = 51 then if prity2 () then if prityF () then mdest else pdest</td></tr><tr><td>11.</td><td>else [(real(discrete(0,99)), real(discrete(0,99)))]</td></tr><tr><td>12.</td><td>else [(real(discrete(0,99)), real(discrete(0,99)))]);</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4534131_table_3",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    799.6,
+    726.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4534131_table_3.png",
+   "html": "<table><tr><td>Line No.</td><td>State Space</td><td>Scg Graph</td></tr><tr><td>1.</td><td>Nodes:42244</td><td>Nodes:42244</td></tr><tr><td>2.</td><td>Arcs: 57145</td><td>Arcs: 57145</td></tr><tr><td>3.</td><td>Secs: 1000</td><td>Secs: 4</td></tr><tr><td>4.</td><td>Status: Partial</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4534131_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    541.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4534131_table_4.png",
+   "html": "<table><tr><td>Best Integer Bounds</td><td>Upper</td><td>Lower</td><td>Best Integer Bounds</td><td>Upper</td><td>Lower</td></tr><tr><td>ANGLE'CONTER</td><td>1</td><td>1</td><td>PAUSE'NW_DEST</td><td>1</td><td>0</td></tr><tr><td>ANGLE'MAX_SPEED</td><td>1</td><td>0</td><td>PAUSE'NW_DEST_PAUSE</td><td>1</td><td>0</td></tr><tr><td>ANGLE'OK</td><td>1</td><td>1</td><td>PAUSE'NW_DEST__PAUSE2</td><td>1</td><td>0</td></tr><tr><td>ANGLE'QURDNT_SLOPE</td><td>1</td><td>0</td><td>PAUSE'PAUSE_MONITOR</td><td>7</td><td>0</td></tr><tr><td>ANGLE'SLOPE</td><td>1</td><td>0</td><td>PAUSE'PHIST2</td><td>5</td><td>0</td></tr><tr><td>ANGLE'TOTAL_STPS</td><td>1</td><td>0</td><td>PAUSE'PRIORTY3</td><td>5</td><td>5</td></tr><tr><td>ANGLE'VLCTY_DEPND1</td><td>1</td><td>0</td><td>PAUSE'PRITY_PLACES2</td><td>1</td><td>1</td></tr><tr><td>HISTORY'HCNTR</td><td>2</td><td>0</td><td>PAUSE'PS_CNTR</td><td>1</td><td>1</td></tr><tr><td>HISTORY'HCNTR2</td><td>2</td><td>0</td><td>PAUSE'PS_CNTR2</td><td>1</td><td>0</td></tr><tr><td>HISTORY'HCNTR4</td><td>1</td><td>1</td><td>REPEAT'BCNTR</td><td>1</td><td>0</td></tr><tr><td>HISTORY'HSTY3</td><td>2</td><td>0</td><td>REPEAT'BCNTR2</td><td>1</td><td>0</td></tr><tr><td>HISTORY'PHIST</td><td>5</td><td>0</td><td>REPEAT'MAXP</td><td>1</td><td>0</td></tr><tr><td>HISTORY'PHIST5</td><td>1</td><td>1</td><td>REPEAT'PR_INT</td><td>1</td><td>0</td></tr><tr><td>HISTORY'PHIST8</td><td>1</td><td>0</td><td>REPEAT'RCORD</td><td>1</td><td>0</td></tr><tr><td>HISTORY'PHIST9</td><td>1</td><td>0</td><td>REPEAT'SORTED</td><td>1</td><td>1</td></tr><tr><td>HISTORY'PRIORITY</td><td>2</td><td>0</td><td>REPEAT'SRTCNTR</td><td>1</td><td>1</td></tr><tr><td>HISTORY'PRIORTY2</td><td>6</td><td>1</td><td>SHER'MAX_PR</td><td>2</td><td>1</td></tr><tr><td>HISTORY'PRITY_PLACES</td><td>1</td><td>1</td><td>SHER'MONITOR</td><td>5</td><td>0</td></tr><tr><td>HISTORY'RCORD3</td><td>1</td><td>1</td><td>SHER'ND</td><td>1</td><td>0</td></tr><tr><td>HOTSPOTS'RCORD4</td><td>1</td><td>0</td><td>SHER'NEW_DEST</td><td>2</td><td>0</td></tr><tr><td>MOVE'CNTR</td><td>1</td><td>1</td><td>SHER'PRIORITY4</td><td>2</td><td>0</td></tr><tr><td>MOVE'NOW_MOVE</td><td>2</td><td>0</td><td>SHER'PRIORITY_CHK</td><td>1</td><td>0</td></tr><tr><td>MOVE'TSP</td><td>1</td><td>1</td><td>SHER'STA__HOM1</td><td>1</td><td>0</td></tr><tr><td>PAUSE'HCNTR3</td><td>2</td><td>0</td><td>START'MH2</td><td>1</td><td>0</td></tr><tr><td>PAUSE'MAX_PR2</td><td>1</td><td>1</td><td>SHER'PUSE_DEPND</td><td>25</td><td>0</td></tr><tr><td>START'VLCTY_DEPND</td><td>1</td><td>0</td><td>SHER'EVERY_MOVE</td><td>65</td><td>0</td></tr></table>"
+  }
+ ]
+}

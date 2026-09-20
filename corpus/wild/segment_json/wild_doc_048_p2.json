@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_048",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    45,
+    515,
+    97
+   ],
+   "ocr": "The tables detail conserved signature motifs of MAPKs and the calling strategies used for identifying validated mutations in hepatocellular carcinoma and breast cancer samples. In Table 1, the N-Terminal conserved motifs include Group A: A-K-Y, N- K-Y; Group A: T-E-Y, T-Q-Y; Group A & B: S-D-Y, S-E-Y, T-D-Y; Group B: S-K-Y, R-K-Y; Group B: T-E-Y, M-E-Y, T-E-C, T- V-Y; and Group C: D-N-Y, S-Q-Y."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    86,
+    515,
+    165
+   ],
+   "ocr": "The activation loop motifs comprise Group C: T-K-Y and Group C: T-E-Y, while the C- terminal motifs include Group D: S-K-Y, T-K-Y, S-R-Y, S-N-Y; Group D: S-Q-Y, N-R-Y, S-R-Y; and Group D: T-D-Y, with Group E: T-S-Y, T-E-M, T-Q-M, T-R-M noted as well. Table 2 presents various calling strategies, with Single algorithms (after filtering) using Bambino identifying 742 validated mutations (88.1% sensitivity, average 2503 ± 1070 variant calls/sample), while CaVEMan identified 801 mutations (95.1% sensitivity, average 1072 ± 1055) and Mpileup identified 727 mutations (86.3% sensitivity, average 429 ± 226)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    181.0,
+    515.0,
+    370.0
+   ],
+   "ocr": "Conserved signature motifs of MAPKs\nN-Terminal conserved motifs Some other conserved Motif Present in N-terminal End Activation loop motifs C-Terminal motifs\nGroup D Group A: A-K-Y, N-K-Y Group A: T-E-Y, T-Q-Y Group A & B: S-D-Y, S-E-Y, T-D-Y\nS-D-Y, S-E-Y Group B: S-K-Y, R-K-Y Group B: T-E-Y, M-E-Y, T-E-C, T-V-Y Group C: D-N-Y, S-Q-Y\nT-D-Y, T-E-Y Group C: T-K-Y Group C: T-E-Y Group D: S-K-Y, T-K-Y, S-R-Y, S-N-Y\nGroup D: S-Q-Y, N-R-Y, S-R-Y Group D: T-D-Y\nGroup E: T-S-Y, T-E-M, T-Q-M, T-R-M",
+   "table_id": "img_053217_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    383.0,
+    515.0,
+    719.0
+   ],
+   "ocr": "Hepatocellular carcinoma (24 samples/842 validated sites) Breast cancer (2 samples/264 validated sites)\nCalling strategy Algorithms Validated mutations identified (total) Sensitivity (%) Average number of variant calls per sample Validated mutations identified (total) Sensitivity (%) Average number of variant calls per sample Validation success rate (Sequenom) (%)\nSingle algorithms (after filtering) Bambino 742 88.1 2503 ± 1070 248 93.9 3456 ± 324\nCaVEMan 801 95.1 1072 ± 1055 (263) (99.6) (961 ± 90)\nMpileup 727 86.3 429 ± 226 181 68.6 329 ± 32\nVarScan 2 805 95.6 926 ± 527 205 77.7 929 ± 91\nCake ≥ any 2 callers 812 96.4 634 ± 299 254 96.2 613 ± 42 51.5\n≥ any 3 callers 794 94.3 270 ± 132 214 81.1 326 ± 50 81.7\n4 callers 652 77.4 168 ± 98 166 62.8 178 ± 42 88.3",
+   "table_id": "img_053217_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    733,
+    515,
+    758
+   ],
+   "ocr": "VarScan 2 identified 805 mutations (95.6% sensitivity, average 926 ± 527), and Cake with ≥ any 2 callers identified 812 mutations (96.4% sensitivity, average 634 ± 299) with a validation success rate of 51.5%."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    747,
+    515,
+    785
+   ],
+   "ocr": "For ≥ any 3 callers, 794 mutations (94.3% sensitivity, average 270 ± 132) were identified, and 652 mutations (77.4% sensitivity, average 168 ± 98) were found with 4 callers."
+  }
+ }
+}

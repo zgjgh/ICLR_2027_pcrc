@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_026",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "This report examines the impact of varying poring pulse voltages on embryo development and viability, as evidenced by the data presented in Table 1."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "The study focused on the WKY strain and assessed multiple parameters, including the number of >2- cell embryos (A) and the number of embryos exhibiting fluorescence (B)."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    380.0
+   ],
+   "ocr": "Stain Poring Pulse Voltage (V) Transfer pulseNo. of Pulses No. of > 2-cell embryos (A) No. of embryos with fluorescence (B) % (B/A)\nWKY 50 3 138 68 49.3\n50 6 116 86 74.1\n40 3 158 36 22.8\n40 6 124 56 45.2\n30 6 123 38 30.9\nDA 50 6 118 88 74.6\n40 6 109 41 37.6\n30 6 110 23 20.9\nWKY x DA (F1) 50 6 122 67 54.9\n40 6 154 54 35.1\n30 6 133 31 23.3",
+   "table_id": "img_028476_t0"
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    396,
+    580,
+    454
+   ],
+   "ocr": "A total of 50 volts were applied during the poring pulse phase, which was followed by three transfer pulses. The data indicates that a significant number of embryos, specifically 138, reached the >2-cell stage, highlighting a positive outcome in terms of developmental success. Furthermore, the number of embryos displaying fluorescence, which is crucial for evaluating successful genetic modifications, stood at 68."
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    442,
+    580,
+    516
+   ],
+   "ocr": "This resulted in a fluorescence percentage of approximately 49.3%, calculated as (B/A) * 100. The correlation between the applied voltage and the observed outcomes underscores the necessity of optimizing electrical parameters to enhance embryo viability and genetic expression. Consequently, these findings contribute to a deeper understanding of the electrophysiological processes involved in embryo development and provide a framework for future research aimed at improving genetic engineering techniques in reproductive biotechnology."
+  }
+ }
+}

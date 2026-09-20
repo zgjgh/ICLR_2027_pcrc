@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_033",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The analysis of variation in diagnostic performance metrics is crucial for understanding the reliability and effectiveness of different feature types in medical assessments. The data presented in the table categorizes variations into three distinct types: Special cause variation (low), Common cause variation, and Special cause variation (high)."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    155
+   ],
+   "ocr": "Notably, the column labeled \"Sensitivity (%)\" indicates how effectively a test correctly identifies true positives, with the \"Total\" column summarizing the overall performance across feature types, including brain and tonsil samples. In reviewing the special cause variation (low) data, it is evident that certain feature types, such as the AAC designation, exhibit varying levels of sensitivity, with a recorded value of 57.26%."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    296.0
+   ],
+   "ocr": "Observed mortality rate Risk Adjusted mortality rate\nSpecial cause variation (low) Common cause variation Special cause variation (high) Total\nSpecial cause variation (low) 2 4 0 6\nCommon cause variation 0 281 6 287\nSpecial cause variation (high) 0 3 2 5\nTotal 2 288 8 298",
+   "table_id": "img_036778_t0"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    311.0,
+    580.0,
+    434.0
+   ],
+   "ocr": "Feature type Sensitivity(%) Specificity(%) Accuracy(%) MCC Precision (%) ER(%)\nAAC 57.26 63.89 72.54 0.30 62.45 27.47\nPseAA 57.26 63.88 72.48 0.31 65.25 27.52\nDipep 61.29 65.96 74.97 0.40 73.97 25.03\nNCC 61.29 75.82 77.15 0.40 60.42 22.85\nPhysico-Chem 45.97 65.30 66.63 0.14 47.03 33.37",
+   "table_id": "img_036778_t1"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    449.0,
+    580.0,
+    572.0
+   ],
+   "ocr": "Designation day brain tonsil Lymph node heart liver spleen lung kidney stomach\nSSV 14 1/4 1/4 1/4 0/4 1/4 1/4 0/4 2/4 0/4\n21 0/3 1/3 0/3 0/3 1/3 0/3 0/3 1/3 0/3\n28 1/3 3/3 0/3 1/3 3/3 0/3 0/3 0/3 0/3\nPRRSV+SS7 10- 7/8 7/8 5/8 5/8 5/8 7/8 6/8 5/8 5/8\n28 1/2 2/2 1/2 0/2 0/2 0/2 1/2 0/2 2/2",
+   "table_id": "img_036778_t2"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    588,
+    580,
+    615
+   ],
+   "ocr": "This finding suggests that while some diagnostic methods may be robust, others require further optimization to enhance their accuracy and reliability."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    603,
+    580,
+    646
+   ],
+   "ocr": "Additionally, the specificity percentage of 63.89% highlights the importance of considering both sensitivity and specificity in assessing diagnostic tools, as these metrics collectively influence clinical decision-making and patient outcomes."
+  }
+ }
+}

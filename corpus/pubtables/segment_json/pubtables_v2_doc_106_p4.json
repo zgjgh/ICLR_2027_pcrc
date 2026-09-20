@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_106",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    281.5,
+    64.4
+   ],
+   "ocr": "Algorithms for Molecular Biology 2008, 3:8"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    522.9,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.almob.org/content/3/1/8"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    346.1,
+    130.9
+   ],
+   "ocr": "Table 5: Average number of genes common to each pair of methods for Datasets 3–38"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "tal datasets is more important than a profound one on a few experimental datasets when estimating the methods' practical ability to detect DEGs, as the superficial compar- ison on a large number of datasets can also prevent selec- tion bias regarding the datasets. Therefore, we think the number of experimental datasets interrogated is also very important for evaluating the practical advantages of the existing methods. A profound comparison on a large number of experimental datasets should be of course the most important. For example, a comparison of significant Gene Ontology [84] categories using top-ranked genes from each of the eight methods would be interesting. We think such a comparison would be important as another reasonable assessment of whether some top-ranked genes detected only by WAD might actually be differentially expressed. The analysis of many datasets is however prac- tically difficult because of wide range of knowledge it would require, and this related to the next task. Effect of different preprocessing algorithms on gene ranking In general, different choices of preprocessing algorithms can output different subsets of top-ranked genes (e.g., see Tables 1 and 4) [85]. We compared the gene rankings of MAS-, RMA-, and DFW-preprocessed data. Table 6 shows the average number of common genes in 20, 50, 100, and 200 top-ranked genes for the 36 experimental datasets. Although all methods output relatively low numbers of common genes, the numbers for WAD were consistently higher than those for the other methods. This result indi- cates the gene ranking based on WAD is more robust against data processing than the other methods are. From the comparison of WAD and AD, it is obvious that the high rank-invariant property of WAD is by virtue of the inclusion of the weight term: The gene ranking based on the w statistic is much more reproducible than the one based on the AD statistic. Relatively small numbers of common genes were observed for the other FC-based methods (AD, FC, and RP) (Table 6). This was because differences in top-ranked genes between MAS and RMA (or DFW) were much larger than those between RMA and DFW (data not shown). Effect of outliers on the weight term in WAD statistic Recall that the WAD statistic is composed of the AD statis- tic and the weight (w) term (see the Methods section). Some researchers may be suspicious about the use of w because it is calculated from a sample mean (i.e., xi ) for gene i, and sample means are notoriously sensitive to out- liers in the data. Actually, the w term is calculated from logged data and is therefore insensitive to outliers. Indeed, we observed few outliers in two datasets (there were 31 outliers in Dataset 14 and 7 outliers in Dataset 29; they Page 6 of 12 (page number not for citation purposes)"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    76.0,
+    142.1,
+    365.8,
+    527.4
+   ],
+   "ocr": "(a) MAS AD FC RP modT samT shrinkT ibmT\nWAD 52.0 39.1 49.7 37.7 45.2 39.8 42.8\nAD 61.9 84.1 34.4 47.1 37.2 33.2\nFC 58.2 29.5 39.1 31.2 28.1\nRP 30.5 41.8 32.4 29.8\nmodT 79.9 92.7 78.1\nsamT 83.5 65.0\nshrinkT 74.8\n(b) RMA AD FC RP modT samT shrinkT ibmT\nWAD 62.2 50.4 60.2 31.7 32.6 30.8 33.4\nAD 78.8 84.7 35.2 36.2 33.9 38.0\nFC 72.3 32.2 32.8 30.8 34.5\nRP 36.8 37.6 35.4 39.4\nmodT 88.3 93.0 88.4\nsamT 87.6 83.6\nshrinkT 85.1\n(c) DFW AD FC RP modT samT shrinkT ibmT\nWAD 84.3 83.9 72.1 13.6 13.4 14.6 13.9\nAD 98.6 77.3 13.7 13.5 14.7 14.0\nFC 77.0 13.6 13.4 14.6 13.9\nRP 18.1 17.9 20.1 18.8\nmodT 94.1 83.2 93.4\nsamT 81.1 91.0\nshrinkT 83.0",
+   "table_id": "PMC2464587_table_4"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    543.6,
+    372.6,
+    922.4
+   ],
+   "ocr": "The averages were calculated from top 100 genes. Due to the symmetric nature of the matrix only the upper triangular part is presented. comparison using a total of the 21 datasets (Datasets 3–6, 19–28, and 32–38) should give an advantageous result for the t-statistic-based methods since those methods were used in the original analysis for 15 of the 21 datasets. Nev- ertheless, the best performing methods across the 36 experimental datasets including the 21 datasets seem to be independent of the originally analyzed methods, by virtue of WAD's high performance. Also, the overall per- formances of eight methods for the two artificial spike-in datasets (Datasets 1 and 2) and for the 36 real experimen- tal datasets (Datasets 3–38) were quite similar (Tables 1 and 4). These results suggest that the use of genes only val- idated by RT-PCR as DEGs does not affect the objective evaluations of the methods. To our knowledge, the number (32) of real experimental datasets we analyzed is much larger than those analyzed by previous methodological studies: Two experimental datasets were evaluated for the ibmT [20] method and one was for the shrinkT [23] method. Although those studies performed a profound analysis on a few datasets, we think a superficial comparison on a large number of experimen-"
+  }
+ }
+}

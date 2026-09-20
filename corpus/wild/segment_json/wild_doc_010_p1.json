@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_010",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The table presents hazard ratios (HR) with their corresponding 95% confidence intervals (CI) and p-values (P) across three categories: CC, LRC, and CSS. For High grade tumor, the HR is 0.92 with a 95% CI of 0.17-3.97 and P value of 0.91 in CC; in LRC, HR is 0.78 with a 95% CI of 0.24-2.14 and P value of 0.64; in CSS, HR is 0.40 with a 95% CI of 0.14-0.96 and P value of 0.04."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "The recurrence ≤6 months after initial therapy shows HR of 0.24 (95% CI: 0.03-4.88, P: 0.28) in CC, 0.32 (95% CI: 0.08- 2.15, P: 0.21) in LRC, and 0.10 (95% CI: 0.03-0.40, P: 0.002) in CSS. Previous RT has HRs of 2.21 (95% CI: 0.57-9.00, P: 0.25), 1.26 (95% CI: 0.43-3.51, P: 0.66), and 1.40 (95% CI: 0.60-3.20, P: 0.43) respectively. For Pelvic exenteration, HRs are 4.18 (P: 0.02), 3.01 (P: 0.02), and 1.75 (P: 0.15). Surgical margin grade is not applicable. R0 vs."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    413.0
+   ],
+   "ocr": "Variable CC LRC CSS\nHR 95% CI P HR 95% CI P HR 95% CI P\nHigh grade tumor 0.92 0.17-3.97 0.91 0.78 0.24-2.14 0.64 0.40 0.14-0.96 0.04\nRecurrence ≤6 months after initial therapy 0.24 0.03-4.88 0.28 0.32 0.08-2.15 0.21 0.10 0.03-0.40 0.002\nPrevious RT 2.21 0.57-9.00 0.25 1.26 0.43-3.51 0.66 1.40 0.60-3.20 0.43\nPelvic exenteration 4.18 1.15-20.62 0.02 3.01 1.19-8.55 0.02 1.75 0.83-3.90 0.15\nSurgical margin grade\nR0 vs. R2 0.69 0.13-3.52 0.65 1.60 0.56-4.61 0.38 2.25 0.94-5.42 0.07\nR1 vs. R2 0.54 0.12-1.90 0.35 1.20 0.47-2.89 0.69 2.02 0.92-4.34 0.08\nR0 vs. R1 1.29 0.34-5.61 0.72 1.33 0.51-3.64 0.56 1.11 0.50-2.50 0.79\nPerioperative RT 5.54 1.52-23.86 0.009 3.38 1.30-9.19 0.01 2.09 0.93-4.67 0.07\nPerioperative systemic therapy 0.98 0.33-3.10 0.97 0.74 0.33-1.63 0.45 0.86 0.44-1.69 0.66",
+   "table_id": "img_009164_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    429,
+    580,
+    456
+   ],
+   "ocr": "R2 has HRs of 0.69 (P: 0.65), 1.60 (P: 0.38), and 2.25 (P: 0.07). R1 vs. R2 yields 0.54 (P: 0.35), 1.20 (P: 0.69), and 2.02 (P: 0.08). R0 vs. R1 shows 1.29 (P: 0.72), 1.33 (P: 0.56), and 1.11 (P: 0.79)."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    444,
+    580,
+    472
+   ],
+   "ocr": "Perioperative RT has 5.54 (P: 0.009), 3.38 (P: 0.01), and 2.09 (P: 0.07). Lastly, Perioperative systemic therapy shows HRs of 0.98 (P: 0.97), 0.74 (P: 0.45), and 0.86 (P: 0.66)."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_015",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in the table provides critical insights into the relationship between gender and survival outcomes within the studied cohort."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "Specifically, the variable of male gender is highlighted, indicating a notable disparity in mortality rates. Among the 30 individuals assessed, 8 males (66.7%) did not survive, while 7 males (38.9%) were among the survivors."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    511.0
+   ],
+   "ocr": "No. (%) of patients\nVariable Dead (n = 12) Survivors (n = 18) Risk ratio 95% CI P value\nMale gender 8 (66.7) 7 (38.9) 1.57 0.84-2.92 0.080*\nAge, years, mean (SD) 57.1 (17.7) 56.0 (13.9) 0.001 −0.011-0.14 0.895^\nLOS in ICU, days, median (IQR) 20 (18.5-22.5) 18.5 (13–30) 0.005 −0.017-0.027 0.644^\nLOS in surgery ward, median (IQR) 6.5 (3.5-8) 8 (5–10) −0.051 −0.112-0.010 0.098^\nPrevious hospitalization 6 (50.0) 11 (61.1) 0.636 0.13-3.03 0.570*\nSurgical drainage 2 (16.7) 12 (66.7) 0.44 0.22-0.85 0.005*\nUnderlying conditions\nSmoking 5 (41.7) 11 (61.1) 0.73 0.39-1.35 0.160*\nSolid tumor 6 (50.0) 12 (66.7) 0.42 0.09-1.94 0.150*\nAPACHE II score, mean (SD) 24.5 (0.67) 22.7 (1.8) 0.147 0.051-0.242 0.004^\nInfection type\nSepticemia 3 (25.0) 11 (61.1)\nVAP 4 (33.3) 6 (33.3)\nSepticemia + VAP 5 (41.7) 1 ( 5.6) 8.33 1.03-67.1 0.030*\nIntestinal carriage of KPC-Kp 6 (50.0) 11 (61.1) 0.85 0.44-1.65 0.320*\nTigecycline + colistin\nHigh dosage 2 (16.7) 12 (66.7) 0.44 0.22-0.85 0.005*",
+   "table_id": "img_014628_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    527,
+    580,
+    601
+   ],
+   "ocr": "This suggests a concerning trend that may warrant further investigation into the underlying factors contributing to this differential survival rate. The risk ratio calculated for male gender is 1.57, suggesting that males in this cohort have a 57% higher risk of mortality compared to their female counterparts. The accompanying 95% confidence interval (0.84-2.92) indicates that while the observed risk is notable, the range includes values that suggest the association may not be statistically significant at conventional levels."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    589,
+    580,
+    647
+   ],
+   "ocr": "The P value further supports this interpretation, necessitating caution in drawing definitive conclusions. These findings highlight the importance of gender as a variable in understanding survival outcomes and emphasize the need for targeted research to explore the biological and sociocultural factors contributing to these disparities in mortality rates."
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_321",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    749,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2873247_table_0",
+   "page_num": 1,
+   "bbox": [
+    83.9,
+    158.3,
+    635.0,
+    621.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2873247_table_0.png",
+   "html": "<table><tr><td>Parameters</td><td>Normal Glucose Tolerance(20)</td><td>Impaired Glucose Tolerance (10)</td><td>Diabetics (10)</td></tr><tr><td rowspan=\"2\">Male/Female</td><td>14/6</td><td>5/5</td><td>6/4</td></tr><tr><td>Mean &#177; SD</td><td>Mean &#177; SD</td><td>Mean &#177; SD</td></tr><tr><td>Age (yrs)</td><td>13.15 &#177; 3.56</td><td>14.80 &#177; 3.12</td><td>14.90 &#177; 2.69</td></tr><tr><td>Age of diagnosis (ms)</td><td>8.5 &#177; 6.53</td><td>7.80 &#177; 3.22</td><td>6.70 &#177; 2.50</td></tr><tr><td>Duration of disease(yrs)</td><td>12.42 &#177; 3.52</td><td>13.21 &#177; 3.3</td><td>14.34 &#177; 2.66</td></tr><tr><td>Duration of chelation (yrs)</td><td>5.80 &#177; 3.07</td><td>5.55 &#177; 4.31</td><td>5.90 &#177; 2.96</td></tr><tr><td>Hb (g/dL)</td><td>7.46 &#177; 1.24</td><td>7.53 &#177; 1.23</td><td>7.39 &#177; 0.86</td></tr><tr><td>AST (IU/L)</td><td>64.80 &#177; 44.06</td><td>86.89 &#177; 40.07</td><td>74.80 &#177; 41.52</td></tr><tr><td>ALT (IU/L)</td><td>66.40 &#177; 53.74</td><td>107.50 &#177; 84.53</td><td>67.70 &#177; 27.77</td></tr><tr><td>Serum ferritin (ng/ml)</td><td>1999.90 &#177; 932.95</td><td>3223.60 &#177; 2188.23</td><td>3438 &#177; 1327.60</td></tr><tr><td>FBG (mg/dL)</td><td>82.40 &#177; 7.16</td><td>107.8 &#177; 16.4</td><td>145.30 &#177; 29.50</td></tr><tr><td>PP (mg/dL)</td><td>120.80 &#177; 9.55</td><td>175.2 &#177; 17.9</td><td>236.80 &#177; 29.81</td></tr><tr><td>Frequency of blood transfusion (wk interval)</td><td>3.05 &#177; 0.6</td><td>3.2 &#177; 0.63</td><td>3.4 &#177; 0.84</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2873247_table_1",
+   "page_num": 2,
+   "bbox": [
+    83.9,
+    158.3,
+    653.4,
+    490.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2873247_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameters</td><td colspan=\"2\" rowspan=\"2\">Normal glucose tolerance(20) Mean &#177; SD</td><td colspan=\"2\" rowspan=\"2\">Abnormal glucose tolerance (20) Mean &#177; SD</td><td rowspan=\"2\">t *</td><td rowspan=\"2\">P</td><td rowspan=\"2\">Sig.</td></tr><tr></tr><tr><td>Age (yrs)</td><td colspan=\"2\">13.15 &#177; 3.56</td><td colspan=\"2\">14.85 &#177; 2.83</td><td>1.67</td><td>0.10</td><td>NS</td></tr><tr><td>Age at diagnosis (ms)</td><td colspan=\"2\">12.30 &#177; 18.63</td><td colspan=\"2\">7.20 &#177; 2.78</td><td>1.21</td><td>0.23</td><td>NS</td></tr><tr><td>Duration of chelation (yrs)</td><td colspan=\"2\">5.80 &#177; 3.07</td><td colspan=\"2\">5.73 &#177; 3.60</td><td>0.07</td><td>0.94</td><td>NS</td></tr><tr><td>Hb (gm/dl)</td><td colspan=\"2\">7.46 &#177; 1.24</td><td colspan=\"2\">7.61 &#177; 1.4</td><td>0.4</td><td>0.33</td><td>NS</td></tr><tr><td>FBG (mg/dl)</td><td colspan=\"2\">82.40 &#177; 7.16</td><td colspan=\"2\">138.75 &#177; 30.39</td><td>8.07</td><td>&lt;0.0001</td><td>HS</td></tr><tr><td rowspan=\"2\">PP (mg/dl)</td><td colspan=\"2\">120.80 &#177; 9.55</td><td colspan=\"2\">212.50 &#177; 47.58</td><td>8.45</td><td>&lt;0.0001</td><td>HS</td></tr><tr><td>Median</td><td>IQR</td><td>Median</td><td>IQR</td><td>Z**</td><td>P</td><td></td></tr><tr><td>Serum ferritin (ng/ml)</td><td>1704.5</td><td>1330- 2000</td><td>3251</td><td>3050- 4300</td><td>-3.03</td><td>0.002</td><td>HS</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2873247_table_2",
+   "page_num": 3,
+   "bbox": [
+    83.9,
+    158.3,
+    650.5,
+    515.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2873247_table_2.png",
+   "html": "<table><tr><td>SIR of Liver</td><td>N</td><td>Median</td><td>IQR</td><td>&#935;2 value#</td><td>P value</td></tr><tr><td>I) Controls</td><td>20</td><td>15.389</td><td>14.158-18.074</td><td>42.828</td><td>&lt;.001*</td></tr><tr><td>II) Non diabetic(NGT)</td><td>20</td><td>.833</td><td>.646-.861</td><td></td><td></td></tr><tr><td>III) abnormal glucose tolerance</td><td>20</td><td>.489</td><td>.159-.769</td><td></td><td></td></tr><tr><td colspan=\"6\">I/II) z value** = -5.423 P value &lt; .001* I/III) z value** = -5.422 P value &lt; .001* II/III) z value** = -2.379 P value = .017*</td></tr><tr><td>SIR of pancreas</td><td>N</td><td>Median</td><td>IQR</td><td>&#935;2 value#</td><td>P value</td></tr><tr><td>I) Controls</td><td>20</td><td>18.036</td><td>16.165-20.183</td><td>38.384</td><td>&lt;.001*</td></tr><tr><td>II) Non diabetic(NGT)</td><td>20</td><td>2.548</td><td>1.968-8.111</td><td></td><td></td></tr><tr><td>III) abnormal glucose tolerance</td><td>20</td><td>1.185</td><td>.833-1.519</td><td></td><td></td></tr><tr><td colspan=\"6\">I/II) z value** = -5.425 P value &lt; .001* I/III) z value** = -5.423 P value &lt; .001* II/III) z value** = -2.762 P value = .006*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2873247_table_3",
+   "page_num": 4,
+   "bbox": [
+    83.9,
+    144.5,
+    633.5,
+    529.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2873247_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameters</td><td colspan=\"2\">SIR of liver</td><td colspan=\"2\">SIR of pancreas</td></tr><tr><td>&#961; value#</td><td>P value</td><td>&#961; value#</td><td>P value</td></tr><tr><td>Age</td><td>.065</td><td>.620</td><td>.088</td><td>.504</td></tr><tr><td>Age at diagnosis</td><td>.433</td><td>.005*</td><td>.542</td><td>&lt;.001*</td></tr><tr><td>Disease duration</td><td>.228</td><td>.157</td><td>.279</td><td>.081</td></tr><tr><td>Transfusion frequency</td><td>-.162</td><td>.319</td><td>-.211</td><td>.192</td></tr><tr><td>Ferritin</td><td>-.409</td><td>.009*</td><td>-.532</td><td>&lt;.001*</td></tr><tr><td>FBG</td><td>-.449</td><td>&lt;.001*</td><td>-.416</td><td>&lt;.001*</td></tr><tr><td>PP</td><td>-.514</td><td>&lt;.001*</td><td>-.540</td><td>&lt;.001*</td></tr><tr><td>AST</td><td>-.363</td><td>.021*</td><td>-.484</td><td>.002*</td></tr><tr><td>ALT</td><td>-.242</td><td>.132</td><td>-.411</td><td>.009*</td></tr><tr><td>SIR of pancreas</td><td>0.93</td><td>&lt;.001*</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2873247_table_4",
+   "page_num": 5,
+   "bbox": [
+    83.9,
+    617.0,
+    655.8,
+    916.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2873247_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameters</td><td colspan=\"2\" rowspan=\"2\">non splenectomized (8) Mean &#177; SD</td><td colspan=\"2\" rowspan=\"2\">Splenectomized (32) Mean &#177; SD</td><td rowspan=\"2\">t*</td><td rowspan=\"2\">P</td><td rowspan=\"2\">Sig.</td></tr><tr></tr><tr><td>Age (yrs)</td><td colspan=\"2\">12.63 &#177; 3.07</td><td colspan=\"2\">14.34 &#177; 3.30</td><td>1.34</td><td>0.19</td><td>NS</td></tr><tr><td>Duration of disease (yrs)</td><td colspan=\"2\">11.47 &#177; 3.65</td><td colspan=\"2\">13.50 &#177; 3.12</td><td>1.60</td><td>0.12</td><td>NS</td></tr><tr><td>Serum ferritin (mg/dl)</td><td colspan=\"2\">2374.63 &#177; 1183.90</td><td colspan=\"2\">2823.22 &#177; 1346.84</td><td>0.86</td><td>0.39</td><td>NS</td></tr><tr><td rowspan=\"2\">Frequency of Blood Transfusion (wk)</td><td colspan=\"2\">3.13 &#177; 0.64</td><td colspan=\"2\">3.19 &#177; 0.69</td><td>0.23</td><td>0.82</td><td>NS</td></tr><tr><td>Median</td><td>IQR</td><td>Median</td><td>IQR</td><td>Z**</td><td>P</td><td>Sig.</td></tr><tr><td>SIR of liver</td><td>0.679</td><td>0.451-0.967</td><td>0.707</td><td>0.273-0.857</td><td>-.135</td><td>0.89</td><td>NS</td></tr><tr><td>SIR of pancreas</td><td>2.95</td><td>2.047-15.562</td><td>1.743</td><td>1.014-3.211</td><td>-2.03</td><td>.042</td><td>S</td></tr></table>"
+  }
+ ]
+}

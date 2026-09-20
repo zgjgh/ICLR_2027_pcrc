@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_043",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "In Table 1, the model classifications are organized into two categories: \"0.5\" and \"Blood flow\" and \"Insertion depth (mm).\" For the \"Reduced\" model labeled as \"Low,\" the values are 390.2 for Blood flow and 516.2 and 593.1 for the Insertion depth. The \"High\" model features values of 295.3 for Blood flow, with corresponding Insertion depths of 434.6 and 544.4. The \"Full\" model under \"Low\" has Blood flow at 302.3 and Insertion depths of 408.7 and 550.7, while the \"High\" model shows Blood flow at 290.5 and Insertion depths of 400.7 and 526.8."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "In Table 2, the epigenetic mechanisms are categorized under \"Epigenetic mechanism\" and \"Epigenetic factors.\" The first mechanism, \"DNA (de)methylation and hydroxymethylation,\" includes factors such as DNA methyltransferase enzymes, Methyl-CpG-binding domain proteins, DNA excision repair proteins, Cytidine deaminase enzymes, Gadd45 proteins, and Ten-Eleven Translocation enzymes. The second mechanism, \"Histone and chromatin modifications,\" lists factors including Histone modifying enzymes (e.g., histone [de]acetylase and [de]methylase), Polycomb group proteins, Trithorax group proteins, and REST and CoREST epigenetic regulatory complexes."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "Model Blood flow Insertion depth (mm)\n0.5 1.0 1.5\nReduced Low 390.2 516.2 593.1\nHigh 295.3 434.6 544.4\nFull Low 302.3 408.7 550.7\nHigh 290.5 400.7 526.8",
+   "table_id": "img_048510_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    523.0
+   ],
+   "ocr": "Epigenetic mechanism Epigenetic factors\nDNA (de)methylation and hydroxymethylation DNA methyltransferase enzymesMethyl-CpG-binding domain proteinsDNA excision repair proteinsCytidine deaminase enzymesGadd45 proteinsTen-Eleven Translocation enzymes\nHistone and chromatin modifications Histone modifying enzymes (e.g., histone [de]acetylase and [de]methylase)Polycomb group proteinsTrithorax group proteinsREST and CoREST epigenetic regulatory complexes\nNon-coding RNAs (ncRNAs) Short-interfering RNAsMicroRNAsPIWI-interacting RNAsSmall nucleolar RNAsLong ncRNAsLong intergenic ncRNAs\nRNA editing Adenosine deaminase that act on RNA enzymesApolipoprotein B editing catalytic subunit enzymes\nNuclear organization Nuclear domains (e.g., nuclear speckles)Nuclear lamina (e.g., lamin genes)",
+   "table_id": "img_048510_t1"
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    539,
+    580,
+    566
+   ],
+   "ocr": "The third mechanism, \"Non-coding RNAs (ncRNAs),\" includes short-interfering RNAs, MicroRNAs, PIWI-interacting RNAs, Small nucleolar RNAs, Long ncRNAs, and Long intergenic ncRNAs."
+  },
+  "p7_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    554,
+    580,
+    597
+   ],
+   "ocr": "The \"RNA editing\" mechanism includes Adenosine deaminase that act on RNA enzymes and Apolipoprotein B editing catalytic subunit enzymes. The final mechanism, \"Nuclear organization,\" encompasses Nuclear domains (e.g., nuclear speckles) and Nuclear lamina (e.g., lamin genes)."
+  }
+ }
+}

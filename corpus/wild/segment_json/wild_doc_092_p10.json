@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_092",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    137,
+    580,
+    195
+   ],
+   "ocr": "The Loan portfolio composition of JPMorgan Chase reveals a detailed overview for the period analyzed, categorized by LoanType, Amount, and Percentage. The Consumer Loans category totals $300M, representing 30% of the total loan composition, while Commercial Loans amount to $200M, or 25%, and Mortgage Loans significantly lead at $700M, accounting for 70%."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    183,
+    580,
+    257
+   ],
+   "ocr": "The overall loan composition indicates a TotalAmount of $540M across various ratings, with AAA rated loans at $200M (20%), AA at $150M (15%), A at $100M, B at $50M (5%), C at $25M (2.5%), and D rated loans at $10M, alongside Defaulted loans totaling $5M (0.5%). The Growth Rate for the portfolio stands at 12.3%, with an OverallGrowth of 10.4%. Specific growth rates are noted as ConsumerGrowth at 8.5%, CommercialGrowth at 9.0%, and MortgageGrowth at 11.1%. The TotalPortfolio value is reported at $1.5B, with a corresponding 5-Year CAGR of 10.0%."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    324.0,
+    580.0,
+    647.0
+   ],
+   "ocr": "LoanType Amount Percentage\nConsumerLoans CommercialLoans MortgageLoans\nLoanComposition TotalAmount GrowthRate\nLoanPortfolioOverview CAD 5-YearCAGR Status\nAAA $200M 20% AA $150M 15% A $100M\nB $50M 5% C $25M 2.5% D $10M\nDefaulted $5M 0.5% Total $540M 100% Growth 12.3%\nConsumer $300M 30% Commercial $200M 25% Mortgage $700M\n70% Mixed $50M 5% OverallGrowth 10.4% ConsumerGrowth 8.5%\nCommercialGrowth 9.0% MortgageGrowth 11.1% TotalPortfolio $1.5B 5-YearCAGR 10.0%\nDefaultRate 1.5% ConsumerDefault 1.0% CommercialDefault 2.0% MortgageDefault 0.5%\nPortfolioRatings HighQuality MediumQuality LowQuality TotalExposure $1.2B PortfolioStatus Stable",
+   "table_id": "img_102983_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    747
+   ],
+   "ocr": "The DefaultRate is recorded at 1.5%, segmented into ConsumerDefault at 1.0%, CommercialDefault at 2.0%, and MortgageDefault at 0.5%. The PortfolioRatings categorize the loan quality into HighQuality, MediumQuality, and LowQuality, with TotalExposure of $1.2B classified under PortfolioStatus as Stable."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    735,
+    580,
+    762
+   ],
+   "ocr": "This comprehensive analysis encapsulates the dynamics and growth trajectories of the loan portfolio in CAD, highlighting key areas of strength and potential risk within the market."
+  }
+ }
+}

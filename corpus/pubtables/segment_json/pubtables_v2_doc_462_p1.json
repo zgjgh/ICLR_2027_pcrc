@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_462",
+  "page": 1,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "caption",
+   "bbox": [
+    58.9,
+    54.7,
+    648.5,
+    131.1
+   ],
+   "ocr": "Sensors 2015, 15 17333 Table 1. Rule of signal classification for a candidate based on signal strength and ray-tracing [25]."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    75.2,
+    142.2,
+    631.5,
+    267.2
+   ],
+   "ocr": "Signal Strength (C/N0) Ray-Tracing Valid Satellite Type\nLOS (>40 dB-Hz) LOS LOS\nNLOS (<30 dB-Hz) NLOS NLOS\nLOS (>40 dB-Hz) NLOS Invalid\nNLOS (<30 dB-Hz) LOS Invalid\nUnknown (30 dB-Hz < C/N0 < 40 dB-Hz) LOS Multipath (LOS if no reflection path is found)\nUnknown (30 dB-Hz < C/N0 < 40 dB-Hz) NLOS NLOS",
+   "table_id": "PMC4541937_table_0"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    287.5,
+    648.8,
+    666.7
+   ],
+   "ocr": "In the LOS case, simulated pseudoranges can be estimated as the distance of the direct path between the satellite and the assumed position. In the multipath and NLOS cases, the simulated pseudoranges can be estimated as the distance of the reflected path between the satellite and the candidate position via the building surface. Ideally, if the position of a candidate is located at the true position, the difference between the simulated and measured pseudoranges should be zero. In other words, the simulated and measured pseudoranges should be identical. Therefore, the likelihood of each valid candidate is evaluated based on the pseudorange difference between the pseudorange measurement and the simulated pseudorange simulated by 3D building models and ray tracing. Finally, the expectation of all the candidates is the estimated positioning of the proposed map method. The proposed method is able to find the optimum position through a dedicated optimization algorithm of the above assumptions and evaluations. The detail algorithm of the particle filter using 3D city building models can be found in [23–25]. However, this particle filter still suffers from the effect of multiple reflected NLOS in the process of generating simulated pseudorange. In the developed method, a double reflected NLOS signal is devastating because of the assumption of single reflection. In a deep urban canyon environment, namely high buildings located on both sides of a street, the single reflection assumption is not always correct. If a double reflected NLOS is received, the developed method will estimate the user location at wrong side of street due to single reflection limit as shown in Figure 3. The candidates become invalid in the correct side of the street due to the incorrect assumption. As a result, the developed method will estimate a fault positioning solution."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.4,
+    918.9,
+    637.0,
+    934.7
+   ],
+   "ocr": "Figure 3. Illustration of the devastated effect caused by double reflected non-line-of-sight (NLOS)."
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_039",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    315.0
+   ],
+   "ocr": "Primers Position (EMC, JX869059.2) Sequence (5′ – 3′) Number of matched MERS sequences*\nF3 28848–28866 GCTCCCAGGTGGTACTTCT 86/88\nB3 29061–29042 cagtcccctcaatgtggaag 88/88\nFIP (F1c + F2) 28939–28918 tcatggacccaaacgatgccatACTGGAACTGGACCCGAAG 77/88\n+ 28872–28890 88/88\nBIP (B1c + B2) 28956–28977 GCTCCTTCAACTTTTGGGACGCtagtaccgggcgcgaatt 87/88\n+ 29028–29011 83-88\nLF 28906–28891 cggaatgggagtgctg 88/88\nLB 28978–29000 GGAACCCTAACAATGATTCAGCT 85/88",
+   "table_id": "img_043244_t0"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    330.0,
+    580.0,
+    478.0
+   ],
+   "ocr": "aCytokine Control B16OVA-7D B16OVA-14D\nMCP-1 6.44 ± 0.1 328 ± 1.5 13.4 ± 1.5\nTNF-α 5.4 ± 0.1 11.39 ± 0.2 1.61 ± 0.1\nIFN-γ 0.98 ± 0.1 91.9 ± 1.2 0.57 ± 0.1\nIL-6 0.89 ± 0.1 12.8 ± 1.2 9.69 ± 0.5\nIL-10 0 ± 0 13.8 ± 0 51.52 ± 0.5\nIL-12 1.2 ± 0.1 0 ± 0 0 ± 0",
+   "table_id": "img_043244_t1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    494,
+    580,
+    568
+   ],
+   "ocr": "The data presented in Table 1 provides a comprehensive overview of the primer sequences evaluated for their efficacy in detecting matched Middle East Respiratory Syndrome (MERS) sequences. Specifically, the column labeled \"Number of matched MERS sequences*\" indicates a high specificity, with the primer sequence F3 (position EMC, JX869059.2) demonstrating an impressive 86 out of 88 matches. This level of concordance underscores the reliability of the primer in identifying relevant MERS genetic material, which is critical for both diagnostic and research applications."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    556,
+    580,
+    660
+   ],
+   "ocr": "Additionally, the \"aCytokine\" column reveals quantitative data on cytokine responses, with MCP-1 showing a concentration of 6.44 ± 0.1. This metric is vital for understanding the inflammatory responses associated with MERS infections and could inform therapeutic strategies. Furthermore, the control data, including metrics from B16OVA-7D and B16OVA-14D, provide baseline comparisons that enhance the interpretation of the experimental results. Collectively, these metrics elucidate the primer's performance and its potential implications for enhancing detection methods in MERS-related studies, highlighting the importance of precise primer design in virology research."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_011",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The dataset presents a comprehensive analysis of associations between various psychological traits and cardiovascular measures, with Neuroticism, Extraversion, Openness, Agreeableness, and Conscientiousness as key traits. For SBP_ER (%), the correlation coefficients (rs) are 0.158 for Neuroticism, -0.272 for Extraversion, -0.047 for Openness, -0.055 for Agreeableness, and 0.149 for Conscientiousness, all with p-values of 0.575, 0.327, 0.869, 0.847, and 0.596 respectively."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    140
+   ],
+   "ocr": "In the case of DBP_ER (%), the rs values are 0.584** for Neuroticism, -0.478* for Extraversion, -0.023 for Openness, -0.271 for Agreeableness, and -0.275 for Conscientiousness, with corresponding p-values of 0.022, 0.072, 0.934, 0.328, and 0.322."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    388.0
+   ],
+   "ocr": "Neuroticism Extraversion Openness Agreeableness Conscientiousness\nSBP_ER (%) rs 0.158 −0.272 −0.047 −0.055 0.149\np 0.575 0.327 0.869 0.847 0.596\nDBP_ER (%) rs 0.584** −0.478* −0.023 −0.271 −0.275\np 0.022 0.072 0.934 0.328 0.322\nMBP_ER (%) rs 0.526** −0.499* −0.077 −0.299 −0.201\np 0.044 0.058 0.784 0.279 0.472\nPR (%) rs 0.050 0.250 0.334 0.200 −0.368\np 0.859 0.368 0.224 0.474 0.177\nRPP (bpm × mmHg) rs 0.102 0.059 −0.011 0.029 −0.122\np 0.717 0.834 0.970 0.918 0.665",
+   "table_id": "img_011195_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    404,
+    580,
+    463
+   ],
+   "ocr": "For MBP_ER (%), the rs values are 0.526** for Neuroticism, -0.499* for Extraversion, -0.077 for Openness, -0.299 for Agreeableness, and -0.201 for Conscientiousness, with p-values of 0.044, 0.058, 0.784, 0.279, and 0.472. Analyzing PR (%), the rs coefficients are 0.050 for Neuroticism, 0.250 for Extraversion, 0.334 for Openness, 0.200 for Agreeableness, and -0.368 for Conscientiousness, with p-values of 0.859, 0.368, 0.224, 0.474, and 0.177."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    451,
+    580,
+    493
+   ],
+   "ocr": "Finally, examining RPP (bpm × mmHg), the rs values are 0.102 for Neuroticism, 0.059 for Extraversion, -0.011 for Openness, 0.029 for Agreeableness, and -0.122 for Conscientiousness, with p-values of 0.717, 0.834, 0.970, 0.918, and 0.665."
+  }
+ }
+}

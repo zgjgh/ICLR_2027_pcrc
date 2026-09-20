@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_030",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "In the evaluation of predictive accuracy across various models, the table presents a comprehensive comparison of three distinct modeling approaches: Model 1, Model 2, and Model 3."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "Each model is assessed based on critical metrics, including the Mean Absolute Percentage Error of the sum (MAPSEsum) and the Cumulative Average Monthly Mean Forecasting Score (CAMMFS)."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    350.0
+   ],
+   "ocr": "Parameters and statistics Model 1 Model 2 Model 3\nPredictor MAPSEsum CAMMFS LWFS\nIntercept (bo) -0.618 ± 1.315 0.212 ± 1.124 -0.737 ± 0.999\n(P = 0.640) (P = 0.851) (P = 0.822)\nSlope (b1) 0.628 ± 0.056 1.052 ± 0.084 1.180 ± 0.078\n(P < 0.001) (P < 0.001) (P < 0.001)\nR2 0.7266 0.7665 0.8257\nMSE (dispersion) 9.34 7.98 5.95\nGoF test* (P value)\nΔdeviance (χ2 test) <0.001 <0.001 <0.001\nHL test >0.99 >0.99 >0.99",
+   "table_id": "img_033604_t0"
+  },
+  "p9_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    366,
+    580,
+    424
+   ],
+   "ocr": "The MAPSEsum serves as a crucial indicator of the models' overall performance, highlighting the percentage deviation of predicted values from actual observations, thereby allowing for a straightforward interpretation of forecasting accuracy. Conversely, the CAMMFS provides insights into the models' effectiveness over time, evaluating their ability to consistently deliver reliable forecasts on a monthly basis."
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    412,
+    580,
+    485
+   ],
+   "ocr": "By analyzing these metrics, stakeholders can discern the relative strengths and weaknesses of each model, facilitating informed decisions regarding their application in real-world scenarios. Furthermore, the inclusion of additional parameters, such as the Last Week Forecast Score (LWFS), enhances the robustness of this comparative analysis, offering a multidimensional view of predictive capabilities. This data-driven approach underscores the importance of tailored modeling strategies in achieving optimal forecasting outcomes in complex environments."
+  }
+ }
+}

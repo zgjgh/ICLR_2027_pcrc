@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_184",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    317.6,
+    53.4
+   ],
+   "ocr": "Manzella et al. Standards in Genomic Sciences (2015) 10:77"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 6 of 19"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.2,
+    549.4
+   ],
+   "ocr": "weight of putative c-type cytochromes was estimated with the ExPASy ProtParam program [42]. The weight of the signal peptide was then subtracted from the pre- dicted weight and 685 daltons were added for each heme-binding motif to estimate the molecular weight of the mature cytochrome. The predicted molecular weight values and subcellular localization of the mature cyto- chromes were compared to the masses reported for mature heme-containing proteins present in whole cells and outer- surface protein preparations of “G. ahangari” [14]. Genome properties The genome of “G. ahangari” strain 234T comprises one circular chromosome with a total size of 1,770,093 bp and does not contain any plasmids. The genome size is within the range of those reported for other members of the Archaeoglobales [15, 26, 43–45], and NC_015320.1. The mol percent G + C is 53.1 %, which is lower than the 58.7 % estimated experimentally via HPLC [1]. Out of the total 2072 genes annotated in the genome, 52 were identified as RNA genes and 2020 as protein- coding genes (Table 3). There are 47 pseudogenes, com- prising 2.3 % of the protein-coding genes. Furthermore, 76.5 % of the predicted genes (1557) are represented by COG functional categories. Distribution of these genes Table 3 Nucleotide content and gene count levels of the genome"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.6,
+    926.2
+   ],
+   "ocr": "and their percentage representation are listed in Fig. 3 and Table 4. The preferred start codon is ATG (83.8 % of the genes), followed by GTG (10.4 %) and TTG (5.7 %). This distribution is similar to the start codon representation of the other member of the Geoglobus genus, G. acetivorans (79.4 % ATG, 11.6 % GTG, and 9.0 % TTG) [15] and the closely related archaeon F. placidus (82.5 % ATG, 10.2 % GTG, 6.1 % TTG, and 1.3 % other) [26]. There is one copy of each of the rRNA genes but the genes are located in two different regions of the genome: the 16S rRNA (GAH_00462) and 23S rRNA (GAH_00460) genes are in the same gene cluster and separated by a span of 139 bp encoding a single tRNA whereas the 5S rRNA (GAH_02069) is located 205,273 bp away in a region with genes coding for proteins with functions unrelated to ribosome function and biogenesis. Almost all origins of DNA replication identified in Ar- chaea to date are located in close proximity to genes coding for a homologue of the eukaryotic Cdc6 and Orc1 proteins [46]. Interestingly, we identified two genes encoding Orc1/Cdc6 family replication initiation pro- teins (GAH_00094 and GAH_00965) in the genome of “G. ahangari”, thus raising the possibility that the gen- ome contains more than one functional origin of replica- tion. Many archaeal replication origins consist of long intergenic sequences upstream of the cdc6 gene contain- ing an A/T-rich duplex unwinding element flanked by several conserved repeat motifs known as ORBs [47]. A specific ORB could not be identified in the genome when compared to other archaeal origins of replication available in the DoriC database [48]. However, the 320- bp long region upstream of GAH_00965, one of the Orc1/Cdc6 family replication initiation proteins, con- tains a long (111 bp) non-coding intergenic region with one AT-rich stretch and 8 direct repeats (3 TCGTGG, 3 CGTGGTC, and 2 GGGGATTA), which could function as a replication origin. Furthermore, the 580-bp region directly upstream of the other Orc1/Cdc6 family replica- tion initiation protein (GAH_00094) lacks a non-coding intergenic region and/or AT-rich span but contains 8 direct repeats (2 GGTTGAGAAG, 3 TGAGAAG, and 3 AACATCCCG) and several “G-string” elements analo- gous to ori sites reported for haloarchaeal species [49]. Insights from the genome Autotrophic growth with H2 as electron donor “G. ahangari” strain 234T was the first dissimilatory Fe (III)-reducing hyperthermophile shown to grow autotro- phically with H2 as an electron donor [1]. In its genome, we identified genes required for the two branches of the reductive acetyl-CoA/Wood-Ljungdahl pathway [50–53], which other members of the Euryarchaeota [54], includ- ing most members of the Archaeoglobales [8, 45, 55–58],"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    552.8,
+    366.1,
+    898.4
+   ],
+   "ocr": "Attribute Value % of totala\nSize (bp) 1,770,093 100.0 %\nCoding region (bp) 1,662,832 93.9 %\nG + C content (bp) 940,071 53.1 %\nNumber of replicons 1\nExtrachromosomal 0\nelements\nTotal genes 2072 100.0 %\nRNA genes 52 2.5 %\nrRNA operons 2\nProtein-coding genes 2034 100.0 %\nPseudogenes 47 2.3 %\nGenes with function 1677 82.4 %\nprediction\nGenes in paralog clusters 1406 69.1 %\nGenes assigned to COGs 1470 72.2 %\nGenes assigned Pfam 1667 82.0 %\ndomains\nGenes with signal peptides 55 2.7 %\nGenes with transmembrane helices 409 20.1 %\nCRISPR repeats 7",
+   "table_id": "PMC4600277_table_2"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    903.4,
+    360.2,
+    925.4
+   ],
+   "ocr": "aThe total is based on either the size of the genome in base pairs or the total number of protein coding genes in the annotated genome"
+  }
+ }
+}

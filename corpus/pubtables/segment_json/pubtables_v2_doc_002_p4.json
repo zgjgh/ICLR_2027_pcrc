@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_002",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.6,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterogeneous EoC Combination Search Using GA"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    544.1,
+    107.4
+   ],
+   "ocr": "Table 5. Classification performances (in MCC scale) of the base classifiers and GA-EoC for all experiments."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    478.4
+   ],
+   "ocr": "Classiﬁer WBC PIMA BUPA AD-18 MCI-18 AD-5 MCI-5 UAB IAB UEAB\nBayesNet 0.94 0.43 0.04 0.79 0.31 0.91 0.28 0.37 0.36 0.46\nDecisionStump 0.84 0.37 0.20 0.80 0.15 0.80 0.15 0.21 0.11 0.21\nDecisionTable 0.87 0.38 0.14 0.80 0.10 0.80 0.10 0.24 0.17 0.22\nIBk 0.90 0.33 0.24 0.89 0.37 0.79 0.16 0.59 0.60 0.57\nJ48 0.89 0.42 0.33 0.89 0.19 0.80 0.27 0.29 0.30 0.29\nJRip 0.89 0.43 0.32 0.59 0.37 0.85 0.10 0.44 0.24 0.31\nLibSVM 0.91 0.00 0.13 0.85 0.40 0.87 0.37 0.53 0.52 0.63\nLMT 0.91 0.48 0.41 0.76 0.41 0.89 0.53 0.65 0.63 0.59\nLogistic 0.92 0.48 0.35 0.72 0.41 0.89 0.51 0.49 0.49 0.38\nNaiveBayes 0.91 0.47 0.15 0.87 0.33 0.91 0.35 0.39 0.36 0.41\nNaiveBayesUpdateable 0.91 0.47 0.15 0.87 0.33 0.91 0.35 0.39 0.36 0.41\nOneR 0.84 0.33 0.09 0.80 0.15 0.80 0.15 0.17 0.09 0.17\nPART 0.87 0.43 0.26 0.81 0.32 0.82 0.18 0.22 0.24 0.34\nRandomForest 0.91 0.43 0.36 0.78 0.21 0.89 0.19 0.35 0.30 0.46\nRandomTree 0.86 0.32 0.24 0.63 0.08 0.69 0.07 0.23 0.09 0.21\nREPTree 0.86 0.44 0.28 0.80 0.15 0.80 0.15 0.33 0.26 0.28\nSGD 0.93 0.50 0.30 0.81 0.44 0.89 0.48 0.59 0.64 0.61\nSimpleLogistic 0.91 0.48 0.36 0.76 0.41 0.89 0.53 0.65 0.63 0.59\nVotedPerceptron 0.81 0.13 0.33 0.85 0.27 0.83 0.23 0.49 0.47 0.54\nZeroR 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00\nGA-EoC(avg) 0.99 0.94 0.50 0.89 0.36 0.92 0.27 0.62 0.57 0.56\nGA-EoC (Stdev) 0.007 0.040 0.009 0.037 0.039 0.056 0.046 0.147 0.085 0.118",
+   "table_id": "PMC4713117_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    491.1,
+    724.7,
+    585.9
+   ],
+   "ocr": "We used 10-fold cross validation for the experiments with WBC, PIMA and BUPA datasets. For the experiment of AD-18 and MCI-18, we used Ray- AD-Trn-18 dataset for training but TestSetAD and TestSetMCI as testdata set respectively. We trained the classiﬁer with RMoscato-AD-Trn-5 and tested on TestSetAD and TestSetMCI datasets for the experiment of AD-5 and MCI-5, respectively. For UEAB, IAB and UAB experiments, the GA-EoC was trained on their own training datasets and performances have been measured on respective testing datasets. Same training and testing data manipulation approaches have been used to measure the classiﬁcation performance of all experiments. doi:10.1371/journal.pone.0146116.t005"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    628.0,
+    726.7,
+    888.1
+   ],
+   "ocr": "classification, the proposed method has achieved an average accuracy of 75.72% and LMT, the best performing base classifier, achieved an accuracy of 71.59%. The accuracy gaps between the GA-EoC and the best performing base classifier are 2%, 20% and 4% for WBC, PIMA and BUPA datasets, respectively. From the results in Tables 6 and 5, it is clear that the proposed GA-EoC method exhibited better performance than any of its constituent base classifiers. Moreover, the standard devia- tions of the GA-EoC scores (both in terms of MCC and accuracy) over 100-runs for all datasets are very low. For example, for the WBC dataset, the standard deviation in MCC is 0.007 which is less than 1%. As similarly low standard deviation value was observed for the BUPA dataset. However, the GA-EoC converges with 5 different MCCs among 100 repeated runs in the WBC dataset with a standard deviation of 0.040. This demonstrates that the proposed GA-EoC method performs consistently. In conclusion, we observed that for all of the UCI-ML datasets, the proposed method produced better classification performance than its base classifiers and there was no single base classifier that performed consistently on all of these three datasets. These results advocate the effectiveness of the proposed GA based ensemble construction technique."
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0146116 January 14, 2016 14 / 28"
+  }
+ }
+}

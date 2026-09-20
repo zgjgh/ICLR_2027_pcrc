@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_021",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "In the analysis of patient outcomes related to liver disease, the table presented provides critical insights into the association between lab-derived Model for End-Stage Liver Disease (Lab-MELD) scores and clinical outcomes."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    125
+   ],
+   "ocr": "Specifically, the odds ratios calculated demonstrate a statistically significant relationship between increasing Lab-MELD scores and the likelihood of adverse events. For instance, the odds ratio of 1.05 indicates that for every one-unit increase in the Lab-MELD score, the odds of experiencing a negative outcome increase by approximately 5%."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    403.0
+   ],
+   "ocr": "Variable Univariate analysis Multivariable analysis\nOdds ratio 95% CI P value Odds ratio 95% CI P value\nLab-MELD 1.05 1.03, 1.08 <0.0001 1.06 1.03, 1.09 <0.0001\nSurgical history 0.93 0.42, 2.10 0.87\nICU Pre-LTx 2.05 1.23, 3.15 0.006\nWIT (Min) 1.00 0.99, 1.01 0.48\nOR length 0.99 0.98, 1.00 0.13\nDRI 0.85 0.48, 1.52 0.58\npRBC 1.04 0.99, 1.10 0.13\nFFP 1.09 0.99, 1.20 0.08\nPLT 0.87 0.76, 0.99 0.04 0.73 0.58, 0.91 0.004\nEstrogen 0.67 0.41, 1.10 0.12\nAminocaproic acid 0.59 0.34, 0.99 0.05 0.46 0.27, 0.80 0.006",
+   "table_id": "img_023041_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    419,
+    580,
+    462
+   ],
+   "ocr": "This finding is further corroborated by the 95% confidence intervals, which range from 1.03 to 1.08, demonstrating the robustness of this association within the studied population. Notably, the P value of <0.0001 reaffirms the statistical significance of these results, suggesting that the relationship observed is unlikely to be due to random chance."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    450,
+    580,
+    508
+   ],
+   "ocr": "Such data are essential for clinicians and healthcare policymakers in risk assessment and decision-making processes, as they highlight the importance of monitoring Lab-MELD scores to improve patient management strategies in liver disease contexts. Overall, these findings contribute to a growing body of evidence that underscores the predictive value of Lab-MELD scores in clinical practice."
+  }
+ }
+}

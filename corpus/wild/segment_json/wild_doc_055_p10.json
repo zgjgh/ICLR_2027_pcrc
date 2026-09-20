@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_055",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    100,
+    580,
+    143
+   ],
+   "ocr": "The following data table presents a comprehensive analysis of the optical coherence tomography (OCT) metrics comparing preoperative measurements with those taken 90 days post-surgery. This comparison is crucial for assessing the efficacy of the surgical intervention on visual function and retinal health."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    131,
+    580,
+    158
+   ],
+   "ocr": "Key metrics evaluated include the correlation coefficient (ICC) and the bias percentage, which provide insights into the reliability and accuracy of the measurements taken at both time points."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    198.0,
+    580.0,
+    318.0
+   ],
+   "ocr": "Intra-observer Inter-observer\nR bias(%) LOA(%) ICC R bias(%) LOA(%) ICC\nGLSs 0.80 2.39 −5.48 ~ 6.75 0.853 0.82 2.29 −6.18 ~ 4.97 0.875\nGLSRs 0.85 1.28 −4.42 ~ 2.95 0.901 0.84 1.19 −5.54 ~ 4.69 0.885\nGLSRe 0.81 2.14 −6.58 ~ 5.10 0.867 0.79 2.75 −8.42 ~ 3.13 0.821\nGLSRa 0.90 0.65 −1.04 ~ 2.35 0.969 0.96 0.59 −0.13 ~ 1.87 0.993",
+   "table_id": "img_060761_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    370.0,
+    580.0,
+    491.0
+   ],
+   "ocr": "p value–Wilcoxon test MS MD 10° microscotoma Fix 2° Fix 4° BCVA CRT\nPreoperative versus 90 days 0.010 0.006 0.459 0.841 0.986 <0.001 <0.001\nPreoperative versus 180 days 0.036 0.016 0.429 0.124 0.124 <0.001 <0.001\nPreoperative versus 1 year 0.037 0.044 0.246 0.401 0.841 <0.001 <0.001\nPreoperative versus 4 years 0.001 <0.001 0.267 0.070 0.174 <0.001 <0.001\n1 year versus 4 years 0.001 <0.001 0.872 0.368 0.215 0.080 0.078",
+   "table_id": "img_060761_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    545.0,
+    580.0,
+    651.0
+   ],
+   "ocr": "Product Name Manufacturer AWP Per Dose AWP Date a\nTOBI® Novartis® $157.24 April 2014\nGeneric inhaled tobramycin TEVA® $128.77 November 2013\nBETHKIS® Cornerstone Therapeutics® $121.61 May 2014\nPFIT X-Gen Pharmaceuticals® $52.50 June 2012",
+   "table_id": "img_060761_t2"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    732
+   ],
+   "ocr": "Notably, the ICC value of 0.853 indicates a strong level of agreement between the two sets of data, while the bias percentage reflects the systematic differences observed, with values ranging from −5.48% to 6.75%. Additionally, the p value from the Wilcoxon test, recorded at 0.010, suggests that the differences observed are statistically significant, reinforcing the importance of these findings in clinical practice."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "The metrics of mean square (MS) and mean difference (MD) further elucidate the variations in visual acuity, specifically in relation to best-corrected visual acuity (BCVA) outcomes. Overall, this analysis underscores the critical role of these OCT measurements in evaluating postoperative recovery."
+  }
+ }
+}

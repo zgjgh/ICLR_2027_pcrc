@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_226",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    482.9,
+    50.5,
+    727.3,
+    60.9
+   ],
+   "ocr": "Unit Root Testing and Estimation in Nonlinear ESTAR. . ."
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.3,
+    300.2,
+    107.4
+   ],
+   "ocr": "Table 2. The size of the test for Kapetanios t-statistics."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    75.4,
+    116.1,
+    662.7,
+    222.0
+   ],
+   "ocr": "Error disttn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.011 0.046 0.930 0.013 0.045 0.085\nN = 100 0.015 0.047 0.101 0.007 0.049 0.092\nN = 250 0.011 0.055 0.114 0.010 0.054 0.096\nN = 500 0.019 0.059 0.109 0.010 0.045 0.091\nN = 1000 0.013 0.053 0.104 0.008 0.047 0.103",
+   "table_id": "PMC5127548_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    230.6,
+    723.7,
+    339.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t002 Comparing Power of Kapetanios Test with Wild Bootstrap Procedure For the comparison of the power performance of the two methods under discussion we use γ = −1, θ = 0.05, 0.02 and 0.001 in the data generation process Dyt εt"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    321.9,
+    727.3,
+    763.8
+   ],
+   "ocr": "¼ gyt�1½1 � expf�yy2 t�1g� þ ð12Þ And the error distribution in the DGP is taken from random normal and random t-distri- bution with 5 degrees of freedom, which is the finite variance case so that the variance, skew- ness and shape of the distribution can be found if needed. Results are shown in the following Tables 4–9. Outliers are generated on the same process of contamination which is discussed below in section 6 to check as if it effect the power of the Kapetanios test or not. Tables 4 to 6 show that in case of contaminated data there is a significant decrease in the power of the Kapetanios test. The above tables show that results in comparing the power performance of the two meth- ods. It results in the significance increase in the power using the bootstrap technique when the errors are generated from normal distribution. In case when errors are generated from t-distri- bution, Kapetanios test performs better. Extreme care should be taken in applying the resam- pling technique when there are outliers especially when taking large samples from such data may give very misleading results. Comparing the Power of Nonlinear Least Square with Quantile Regression Fit in the Presence of Outliers Quantile regression has been introduced by [25], is a statistical method planned to estimate, and carry out inference about, restricted quantile functions. Quantile regression technique proposes a system for estimating models for the provisional median function, and the com- plete range of other conditional quantile functions. This function is able to provide a more pre- cise analysis of the associations between random variables by combining the estimation of restricted mean functions and procedure for estimating a full class of restricted quantile functions. Table 3. The size of the test using wild bootstrap procedure."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    75.4,
+    772.5,
+    662.7,
+    878.4
+   ],
+   "ocr": "Error disttn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.010 0.051 0.110 0.015 0.061 0.103\nN = 100 0.011 0.051 0.086 0.011 0.051 0.096\nN = 250 0.017 0.056 0.108 0.011 0.054 0.110\nN = 500 0.013 0.040 0.870 0.007 0.043 0.093\nN = 1000 0.015 0.054 0.100 0.013 0.054 0.085",
+   "table_id": "PMC5127548_table_2"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    195.2,
+    897.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t003"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0166990 November 29, 2016 5 / 11"
+  }
+ }
+}

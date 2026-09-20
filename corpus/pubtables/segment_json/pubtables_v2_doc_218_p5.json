@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_218",
+  "page": 5,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    70.7,
+    42.7,
+    677.6,
+    54.4
+   ],
+   "ocr": "Xing et al. BioData Mining (2016) 9:31 Page 12 of 18"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    147.8,
+    108.3,
+    452.0,
+    121.3
+   ],
+   "ocr": "Table 7 Summary of the results for randomly generated ontologies"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    147.7,
+    126.6,
+    575.9,
+    277.0
+   ],
+   "ocr": "(N, E, Cmin, Cmax) # Layers TC RR RR% T(ms)\n(500,000, 550,000, 2, 5) 12 5,957,690 6 0.0001 5,847\n(500,000, 550,000, 2, 10) 8 4,036,792 12 0.0003 5,212\n(500,000, 550,000, 2, 20) 6 3,000,751 7 0.0002 5,637\n(500,000, 600,000, 2, 20) 6 3,567,691 13 0.00036 5,449\n(500,000, 700,000, 2, 20) 6 4,190,494 34 0.00081 5,332\n(500,000, 900,000, 2, 20) 6 7,104,749 109 0.00153 8,183\n(500,000, 1,300,000, 2, 20) 6 25,934,499 1, 404 0.0054 33,235\n(1,000,000, 1,200,000, 2, 20) 7 7,071,813 21 0.0003 18,051\n(1,000,000, 1,400,000, 2, 20) 7 8,694,703 133 0.0015 11,582",
+   "table_id": "PMC5057496_table_6"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    283.0,
+    584.5,
+    303.5
+   ],
+   "ocr": "N: number of concepts, E: number of is-a relations, Cmin/Cmax: minimum/maximum number of children a node can have, TC: number of transitive closure pairs, RR: number of redundant is-a relations, T(ms): time taken in milliseconds"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    337.1,
+    601.3,
+    483.4
+   ],
+   "ocr": "Change rates in ontology evolution Most ontologies in life science evolve continuously to account for new discoveries [11, 13, 14]. Our experimental studies indicated that the change rates of redundant is- a relations are significantly higher than the change rates of all is-a relations for both SNOMED CT and Gene Ontology. Figure 4 is a graphical summary of the differences between SNOMED CT versions using the change rate of redundant is-a relations versus the change rate of all is-a relations. The change rate between two versions is defined as (|N − O| + |O − N|)/(|O| + |N|), where"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    477.7,
+    601.2,
+    518.9
+   ],
+   "ocr": "N is the set of relations in the new version, O is the the set of relations in the old version, N − O is the set of relations in the new version but not in the old version, and O − N is"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    513.2,
+    601.3,
+    554.4
+   ],
+   "ocr": "the set of relations in the old version but not in the new version. It should be noted that N − O ̸= O − N and |N − O| ̸= |N| − |O| in general. Figure 5 shows the summary of"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    548.8,
+    601.2,
+    620.3
+   ],
+   "ocr": "the differences between Gene Ontology versions using the change rate of redundant is-a relations versus the change rate of all is-a relations. As can be seen from Figs. 4 and 5, the change rates of redundant is-a relations between versions are consistently higher than that of all is-a relations for both SNOMED CT and"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    155.7,
+    895.5,
+    562.6,
+    919.6
+   ],
+   "ocr": "Fig. 4 Change rate of redundant is-a relations compared to the change rate of all is-a relations during SNOMED CT evolution"
+  }
+ }
+}

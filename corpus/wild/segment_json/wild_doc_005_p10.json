@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_005",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "In the ongoing assessment of predictive modeling techniques for classification tasks, the efficacy of various methods is critical to achieving optimal outcomes. The data presented in Table 1 illustrates several key performance metrics, including the Area Under the Curve (AUC) and True Positive Rate (TPR) at different thresholds, which are essential for evaluating model performance."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    125
+   ],
+   "ocr": "The AUC value serves as a comprehensive measure of a model's ability to discriminate between positive and negative classes across various decision thresholds."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    525.0
+   ],
+   "ocr": "Seq. Similarity Pos/Neg(% Pos) Method AUC TPR-0 TPR-1% TPR-5%\nP 0.82 9.77 24.71 40.23\nPS 0.89 25.86 54.02 66.67\n50% 174/1656 (10%) PF 0.80 9.77 17.82 35.63\nBLAST 0.88 15.52 64.37 73.56\nPH 0.83 5.75 17.82 47.70\nPSH 0.89 1.72 25.29 64.94\nP 0.92 16.92 55.64 71.05\nPS 0.94 27.44 69.92 77.82\n90% 266/4379 (6%) PF 0.90 27.44 46.62 67.29\nBLAST 0.92 13.53 76.69 83.08\nPH 0.89 0.38 19.92 40.23\nPSH 0.93 7.14 34.59 67.67\nP 0.94 26.65 63.19 75.82\nPS 0.94 34.62 73.90 83.24\n0% 364/6983 (5%) PF 0.91 26.65 58.24 69.51\nBLAST 0.93 0.00 78.30 86.81\nPH 0.87 2.47 10.71 29.12\nPSH 0.93 2.75 29.12 60.71",
+   "table_id": "img_005901_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    541,
+    580,
+    599
+   ],
+   "ocr": "In the context of this analysis, a higher AUC indicates superior predictive capability. Additionally, the True Positive Rate metrics, specifically TPR-0, TPR-1%, and TPR-5%, provide insight into the model's sensitivity at varying levels of classification confidence. For instance, TPR-1% reflects the model's ability to correctly identify positive instances when the threshold is set to yield a 1% false positive rate."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    587,
+    580,
+    645
+   ],
+   "ocr": "Understanding these metrics enables practitioners to make informed decisions regarding the selection of algorithms and their configurations based on the trade-offs between precision and recall. Overall, the insights garnered from this table are instrumental in guiding the development of robust predictive models that meet specific operational requirements."
+  }
+ }
+}

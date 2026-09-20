@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_280",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2007, 8:119"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/8/119"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    326.3,
+    118.9
+   ],
+   "ocr": "Table 3: THEMATICS success rates for site prediction."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    688.9,
+    219.3
+   ],
+   "ocr": "Z Score Correct Partially Correct Total Success Total % Success Total % Success Filtration Ratio\nCut-Off percentage percentage based on CatRes based on based on\nbased on CatRes based on CatRes Reference Set 2 Reference Set 3\n1.00 48.5% 29.0% 77.5% 82.2% 89.9% 2.5%\n0.99 59.8% 26.0% 85.8% 88.2% 92.9% 3.3%\n0.98 66.9% 21.3% 88.2% 90.5% 94.1% 3.8%",
+   "table_id": "PMC1877815_table_2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    235.5,
+    387.6,
+    707.1
+   ],
+   "ocr": "Success rate is expressed as correct, partially correct, and total, using a Z total success rate is reported using three different reference sets of active Reference Set 2 adds annotations from the PDB SITE field and associated ligands. There are then eight additional successful predictions, for a total success rate of 82.2%, according to Reference Set 2. If we add the ligand binding residues computed by the Ligand-Protein Contacts (LPC) server [61] to the list of active site residues for those enzymes where a bound structure is available, the total success rate rises to 89.9%. These success rates are achieved with a low filtration ratio of 2.5%. Improvement in the site prediction success rate is achieved with a slightly lower Z score cut-off, as shown in Table 3. Using a cut-off of 0.99, a correct site prediction is obtained for 101 enzymes and a partially correct predic- tion for 44 enzymes, for a total success rate of 85.8%, according to the CatRes/CSA data. This success rate increases to 88.2% against Reference Set 2 and to 92.9% against Reference Set 3, all with a filtration ratio of 3.3%. If a Z score cut-off of 0.98 is used, then correct active sites are predicted for 113 of the enzymes and partially correct predictions for 36 enzymes, for a total success rate of 88.2%, using only the CatRes/CSA data as the reference. If Reference Set 2 is used as the source of true positive resi- dues, then the overall success rate increases to 90.5%, and to 94.1% if Reference Set 3 is used. For a Z score cut-off of 0.98, the filtration ratio is 3.8%. Table 4: Comparison of method performance for residue prediction"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    385.0,
+    235.5,
+    691.2,
+    270.7
+   ],
+   "ocr": "score cut-off of 1.00, 0.99 and 0.98 for the test set of 169 enzymes. The site residues. Reference Set 1 is the CatRes/CSA database only; journal articles; Reference Set 3 adds residues in contact with bound"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    390.5,
+    300.0,
+    698.4,
+    707.1
+   ],
+   "ocr": "Based on these results and given our desire to make pre- dictions with good sensitivity but without major sacrifice in precision, a Z score cut-off value of 0.99 is designated as the preferred value for our future predictive calcula- tions. Comparison with other methods on a sample set There are two other 3D-structure-based site prediction methods available for performance comparison, Q-Site- Finder [57] and SARIG [52]. It is only possible to compare performance on a subset of the CatRes/CSA database pri- marily because the online version of Q-SiteFinder is restricted to proteins with 10,000 atoms or fewer, because of the longer processing time for larger proteins. Thus a test set of 75 proteins, a subset of the CatRes/CSA set, was created such that the SARIG and Q-SiteFinder servers both return predictions for all members of the subset. Table 4 compares the performance of THEMATICS with these other 3D-structure-based methods on the test set of 75 proteins. The composition of the test set is described in the Methods section. THEMATICS performance is reported using Z score cut-off values of 1.00, 0.99, 0.98, 0.96, and 0.95. For purposes of Table 4, the combination of the top three sites is used as the Q-SiteFinder predic- tion; this combination of the top three sites was used in reference [57] as the basis for their calculation of the suc- on a sample set of 75 proteins."
+  },
+  "p3_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    718.0,
+    651.9,
+    894.2
+   ],
+   "ocr": "Method Recall (%) Precision (%) Filtration ratio (%) False Positive Percent\nTHEMATICS 48.1 25.0 2.5 1.95\nZ = 1.0\nTHEMATICS 53.4 21.9 3.2 2.60\nZ = 0.99\nTHEMATICS 56.5 19.5 3.8 3.12\nZ = 0.98\nTHEMATICS 65.6 17.0 4.8 4.08\nZ = 0.96\nTHEMATICS 67.5 16.1 5.3 4.54\nZ = 0.95\nQ-SiteFinder (top 3 sites) 65.6 5.4 14.9 14.3\nSARIG 57.4 8.1 8.7 8.15",
+   "table_id": "PMC1877815_table_3"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    910.5,
+    402.8,
+    922.3
+   ],
+   "ocr": "Recall, precision, and false positive rate are based on CatRes/CSA annotations"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    405.7,
+    910.5,
+    628.2,
+    922.3
+   ],
+   "ocr": "and are averaged over the sample set of 75 proteins."
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 15 (page number not for citation purposes)"
+  }
+ }
+}

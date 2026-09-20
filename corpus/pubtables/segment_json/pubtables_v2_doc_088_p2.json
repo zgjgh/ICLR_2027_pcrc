@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_088",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    529.2,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Factors influencing temporal patterns in crime"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.2,
+    721.9,
+    131.7
+   ],
+   "ocr": "Table 2. The R2 of the best-fit regression models that incrementally include trend, annual periodicity, holidays, day-of-week, paydays, and climate effects. “Other” crimes include animal/elder/child abuse or neglect, harassment, parole violations, and criminal trespass. The test sample consists of every third year of data, and the train- ing sample consists of the remaining data."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    138.3,
+    722.9,
+    435.1
+   ],
+   "ocr": "R2 Described by Model: Training Sample\nRobbery Aggr Burglary Theft MV Battery Bogus Criminal “Other”\nAssault Theft Checks Damage\nTrend 0.12 0.24 0.02 0.22 0.39 0.42 0.03 0.41 0.67\nTrend + Annual 0.38 0.55 0.29 0.50 0.42 0.63 0.05 0.59 0.69\nTrend + Annual + Holiday 0.42 0.57 0.31 0.58 0.44 0.67 0.13 0.63 0.71\nTrend + Annual + Holiday + Weekday 0.52 0.65 0.61 0.76 0.48 0.75 0.43 0.73 0.77\nTrend + Annual + Holiday + Weekday + Payday 0.52 0.65 0.61 0.80 0.48 0.75 0.51 0.73 0.80\nTrend + Annual + Holiday + Weekday + Payday 0.54 0.75 0.63 0.82 0.49 0.84 0.51 0.80 0.81\n+ Climate\nR2 Described by Model: Test Sample\nRobbery Aggr Burglary Theft MV Battery Bogus Criminal “Other”\nAssault Theft Checks Damage\nTrend 0.14 0.31 0.22 0.23 0.57 0.46 0.01 0.50 0.70\nTrend + Annual 0.38 0.58 0.44 0.54 0.58 0.69 −0.01 0.70 0.73\nTrend + Annual + Holiday 0.39 0.59 0.45 0.60 0.59 0.72 0.05 0.72 0.74\nTrend + Annual + Holiday + Weekday 0.49 0.66 0.69 0.76 0.62 0.77 0.33 0.78 0.79\nTrend + Annual + Holiday + Weekday + Payday 0.49 0.66 0.68 0.79 0.62 0.77 0.40 0.78 0.81\nTrend + Annual + Holiday + Weekday + Payday 0.51 0.74 0.70 0.80 0.61 0.84 0.41 0.84 0.81\n+ Climate",
+   "table_id": "PMC6200217_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    443.3,
+    236.3,
+    454.0
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0205151.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    479.4,
+    726.2,
+    898.4
+   ],
+   "ocr": "In Fig 8 we show the results of the best-fit regression models to the training data (every two out of three years of data) that include trend, annual periodicity, holidays, day-of-week, pay- days, and climate effects (where significant). In Fig 9 we show the performance of the linear regression model in predicting crime in the independent test data set (every third year of data), overlaying the model predictions on the test data. Dependence of crime on day-of-week In order to examine how crime depends on weekday, we take the most parsimonious model determined for each type of crime that includes trend, smooth annual periodicity, holidays, weekdays, paydays, and climate. Weekdays are included as a factor; we thus examine the varia- tion by weekday factor level, and examine this variation relative to the fit average incidence on Wednesdays, which is a weekday when most types of crime have minimum incidence. In Table 3, we show the average resulting percentage increase or decrease in each type of crime by weekday, relative to Wednesdays, taking into account trend, annual periodicity, holidays, paydays, and climate. Because multiple tests of significance are involved, we must correct the α used to assess significance using the Bonferroni correction. A total of six weekdays are assessed, and nine types of crime, leading to 54 tests of significance. We thus set α to α = 0.05/ 54. As seen in Table 3, we find all types of crime are significantly more prevalent on Fridays. Robberies, aggravated assaults, batteries, and criminal damage are significantly more prevalent on Saturdays, and most types of crime are significantly less prevalent on Sundays. Dependence of crime on holidays In order to examine how crime depends on holiday, we take the most parsimonious model determined for each type of crime that includes trend, smooth annual periodicity, holidays,"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0205151 October 24, 2018 15 / 27"
+  }
+ }
+}

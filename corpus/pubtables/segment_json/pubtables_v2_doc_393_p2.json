@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_393",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    299.3,
+    66.0
+   ],
+   "ocr": "Pretty et al. Annals of Intensive Care 2012, 2:17 http://www.annalsofintensivecare.com/content/2/1/17"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 10"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.1,
+    883.7
+   ],
+   "ocr": "included in the analysis only if it contained 6 hours or more of data. SI levels and variability are non-Gaussian and thus compared using cumulative distribution functions (CDFs) and nonparametric statistics. Distributed data are generally compared using the Wilcoxon rank-sum test (Mann–Whitney U test), except for SI variability results. SI variability is compared using the Kolmogorov- Smirnov test, because it has more power to detect differ- ences in the shape of distributions than the rank-sum test when median values are similar. P < 0.05 are consid- ered statistically significant. Results Twenty-four hour analyses Insulin sensitivity level Figure 2 presents the cumulative distribution functions (CDFs) of hourly SI for each day by cohort (left panel) and median daily SI per-patient (right panel). Table 2 presents the increase in median insulin sensitivity and associated p values between successive days. Both per-patient and co- hort analyses suggest that insulin sensitivity levels start low, but increase over time in the ICU. There is a particu- larly significant increase between days 1 and 2 (p < 0.001). On subsequent days the increase continues but to a lesser degree. Per-patient comparisons between days 2, 3, and 4 are not statistically significant. The results of Figure 2 and Table 2 are further reflected in Table 3, which shows that daily median insulin sensitiv- ity increases for a large proportion of the cohort between days 1 and 2 with lesser proportions on subsequent days. Table 3 is a matrix where the value in a cell represents the Cohort level analysis 1 0.9 0.8 0.7 0.6 F(x) 0.5 0.4 0.3 0.2 0-24hrs (3936 hours) 0.1 24-48hrs (3376 hours) 48-72hrs (2568 hours) 72-96hrs (2187 hours) 0"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    111.4,
+    674.5,
+    138.3
+   ],
+   "ocr": "Table 2 Increasing cohort and per-patient median insulin sensitivity over time (24-hr blocks)"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    143.1,
+    677.0,
+    234.3
+   ],
+   "ocr": "Level Cohort analysis Per-patient analysis\nanalysis\n% Increase p value % Increase p value\nat median at median\nDays 1-2 34 <0.0001 33 0.0004\nDays 2-3 16 <0.0001 21 0.2559\nDays 3-4 6 0.0013 4 0.6306",
+   "table_id": "PMC3464183_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    240.6,
+    568.6,
+    250.6
+   ],
+   "ocr": "P values calculated using Wilcoxon rank-sum test."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    376.6,
+    273.6,
+    678.7,
+    883.7
+   ],
+   "ocr": "proportion of patients for whom daily median insulin sen- sitivity is greater on the day of the associated column than the day of the associated row. For example, 72% of patients show an increase in median SI between days 1 and 2, and 54% when comparing days 2 and 3. Insulin sensitivity variability SI variability decreases over time in the ICU, parallel to increases in absolute SI level. Figure 3 and Table 4 present the CDFs and tabulated results for cohort and per-patient analyses of the hour-to-hour percentage changes in SI (Δ%SI). The cohort aggregate distributions of Δ%SI by day are shown in the left panel of Figure 3. The right panel presents the CDFs for the per-patient IQRs by day. As with insulin sensitivity level, the largest increase in SI variability is between days 1 and 2. The decrease between days 2, 3, and 4 is statistically significant for both cohort and per-patient analyses, but the change is much less than over the first day and may not be clinic- ally significant. Per-patient level analysis 1 0.9 0.8 0.7 0.6 F(x) 0.5 0.4 0.3 0.2 0-24hrs (164 patients) 0.1 24-48hrs (155 patients) 48-72hrs (112 patients) 72-96hrs (95 patients) 0"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    101.0,
+    880.0,
+    372.9,
+    899.6
+   ],
+   "ocr": "0 0.5 1 1.5 SI [L/mU.min] -3"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    397.2,
+    880.0,
+    669.1,
+    899.6
+   ],
+   "ocr": "0 0.5 1 1.5 SI [L/mU.min] -3"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    891.4,
+    363.9,
+    917.9
+   ],
+   "ocr": "x 10 Figure 2 Insulin sensitivity level distributions by cohort (left) and"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    366.9,
+    891.4,
+    659.3,
+    917.9
+   ],
+   "ocr": "x 10 per-patient median (right) using 24-hr blocks of data."
+  }
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_118",
+  "page": 5,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    57.3,
+    285.5,
+    81.3
+   ],
+   "ocr": "Hackenberg et al. BMC Genomics 2010, 11:327 http://www.biomedcentral.com/1471-2164/11/327"
+  },
+  "p5_b1": {
+   "type": "title",
+   "bbox": [
+    626.5,
+    57.4,
+    677.7,
+    68.8
+   ],
+   "ocr": "Page 8 of 14"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    117.8,
+    365.9,
+    257.0
+   ],
+   "ocr": "esting, as these two genes have very different expression breadths. Using the GeneAtlas2 expression data [32], we determined for UFD1L an expression breadth of 97.3% (expressed in 71 out of 73 healthy tissues), being therefore a housekeeping gene, while the CDC45L gene is expressed in just 15.1% (11 of 73) of all tissues. Given this differential gene expression pattern, a shared CpG island seems to be less specific than the scenario where each of the genes has its own island, as suggested by the predic-"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    118.8,
+    678.4,
+    211.7
+   ],
+   "ocr": "Heterogeneous methylation in long SWA islands A functional CpG island should show a rather homoge- nous methylation profile among the different CpGs and over the different tissues. For example, the existence of more than one methylation domain within a predicted island might indicate an erroneous merging of two small"
+  },
+  "p5_b4": {
+   "type": "title",
+   "bbox": [
+    383.8,
+    208.5,
+    555.8,
+    226.8
+   ],
+   "ocr": "islands into a single longer island."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    223.6,
+    678.4,
+    498.8
+   ],
+   "ocr": "Here, we used single base resolution methylation data from different sources (see Data and Methods) to decide whether CpGcluster predicts too many short islands or SWA predict too many long islands. In doing so, we detect all TJ islands which harbor at least two CpGcluster islands. Next, we calculate the mean methylation for each CpGcluster island and the maximal difference in methyla- tion over the different tissues. If many TJ islands exist with high methylation differences inside, this might indi- cate an erroneously joining of different methylation domains into a single island. Figure 8 shows a particular example from human chromosome 22. The region for which HEP data were available is just 317 bp long, show- ing a very pronounced change of the methylation values in embryonic liver cells. All SWA programs predict a very long island in this region, including completely the inter- esting region where the un-methylation/methylation bor- der occurs. Only CpGcluster predicts precisely one CGI"
+  },
+  "p5_b6": {
+   "type": "title",
+   "bbox": [
+    71.3,
+    253.8,
+    168.5,
+    272.1
+   ],
+   "ocr": "tion of CpGcluster."
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    269.0,
+    366.0,
+    483.7
+   ],
+   "ocr": "In the human genome, there are a total of 166 bi-direc- tional promoter pairs which share one long SWA CGI but two separated CpGcluster CGIs. The gene-pair shown in Figure 7 may be just an example of extreme differentia- tion in gene-expression: while the first member of the gene-pair is a housekeeping gene, the second one is a tis- sue-specific gene. However, one cannot reasonably expect that this may be the rule for all the bidirectional gene-pairs. In fact, after analyzing the expression profiles in a sample of 73 healthy tissues, only 16 (or 9.64%) gene- pairs show a completely divergent pattern of gene-expres- sion (coexpression value ≤ 0.2, see Methods), while 13 (or 7.83%) exhibit complete coexpression (coexpression value = 1). The remaining gene-pairs show intermediate values"
+  },
+  "p5_b8": {
+   "type": "title",
+   "bbox": [
+    71.3,
+    480.5,
+    154.0,
+    498.8
+   ],
+   "ocr": "of coexpression."
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    495.7,
+    366.0,
+    574.4
+   ],
+   "ocr": "On the other hand, by using single base resolution methylation data [33], we also analyzed methylation dif- ferences between the CGIs overlapping bi-directional promoters. We found that 10 (or 11.24%) of these island- pairs in H1 stem cells, and 15 (or 16.85%) in the IMR90"
+  },
+  "p5_b10": {
+   "type": "title",
+   "bbox": [
+    383.8,
+    495.7,
+    572.5,
+    513.9
+   ],
+   "ocr": "for each of the methylation domains."
+  },
+  "p5_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    510.8,
+    678.5,
+    574.4
+   ],
+   "ocr": "Figure 9a shows the distribution of the maximum dif- ferences in the methylation of CpGs inside TJ islands for HEP data. It can be seen that very high differences occur, around 12% of all tested islands having higher differences"
+  },
+  "p5_b12": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    571.2,
+    365.9,
+    589.5
+   ],
+   "ocr": "fetal lung fibroblasts, show significant differences (Mann-"
+  },
+  "p5_b13": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    571.2,
+    678.5,
+    589.5
+   ],
+   "ocr": "than 30% in methylation. Methylation HEP data are avail-"
+  },
+  "p5_b14": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    586.3,
+    365.9,
+    604.6
+   ],
+   "ocr": "Whitney non-parametric test) in their methylation aver-"
+  },
+  "p5_b15": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    586.3,
+    678.4,
+    604.6
+   ],
+   "ocr": "able for only 5% of all tissues, and therefore the 12% of"
+  },
+  "p5_b16": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    601.4,
+    398.9,
+    665.9
+   ],
+   "ocr": "age (p ≤ 0.05). Table 6: Co-localization of CpG islands and alternative promoters."
+  },
+  "p5_b17": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    601.4,
+    678.4,
+    619.7
+   ],
+   "ocr": "heterogeneous TJ islands merging several methylation"
+  },
+  "p5_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    616.6,
+    678.4,
+    634.8
+   ],
+   "ocr": "domains might increase when data for more tissues"
+  },
+  "p5_b19": {
+   "type": "table",
+   "bbox": [
+    83.9,
+    677.1,
+    632.9,
+    917.9
+   ],
+   "ocr": "Numbers of overlapping islands\nMethod All the TSSs Unique TSS Multiple TSSs\nTJ 13,759 8,868 (64.45%) 4,891 (35.55%)\nUCSC 11,826 8,143 (68.86%) 5,518 (31.14%)\nCpGproD 15,319 9,801 (63.98%) 5,518 (36.02%)\nCpGcluster islands:\nrelaxed set* 15,095 12,034 (79.72%) 3,061 (20.28%)\nstrict set** 10,325 7,659(74.18%) 2,666 (25.82%)",
+   "table_id": "PMC2887419_table_5"
+  },
+  "p5_b20": {
+   "type": "caption",
+   "bbox": [
+    84.0,
+    924.2,
+    225.5,
+    935.5
+   ],
+   "ocr": "*p-value ≤ 1E-5; ** p-value ≤ 1E-20"
+  }
+ }
+}

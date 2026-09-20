@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_178",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    525.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Colored Petri Net Based SHER Mobility Model"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    395.5,
+    107.4
+   ],
+   "ocr": "Table 5. State space report—Boundedness properties and integer bounds."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    541.5
+   ],
+   "ocr": "Best Integer Bounds Upper Lower Best Integer Bounds Upper Lower\nANGLE'CONTER 1 1 PAUSE'NW_DEST 1 0\nANGLE'MAX_SPEED 1 0 PAUSE'NW_DEST_PAUSE 1 0\nANGLE'OK 1 1 PAUSE'NW_DEST__PAUSE2 1 0\nANGLE'QURDNT_SLOPE 1 0 PAUSE'PAUSE_MONITOR 7 0\nANGLE'SLOPE 1 0 PAUSE'PHIST2 5 0\nANGLE'TOTAL_STPS 1 0 PAUSE'PRIORTY3 5 5\nANGLE'VLCTY_DEPND1 1 0 PAUSE'PRITY_PLACES2 1 1\nHISTORY'HCNTR 2 0 PAUSE'PS_CNTR 1 1\nHISTORY'HCNTR2 2 0 PAUSE'PS_CNTR2 1 0\nHISTORY'HCNTR4 1 1 REPEAT'BCNTR 1 0\nHISTORY'HSTY3 2 0 REPEAT'BCNTR2 1 0\nHISTORY'PHIST 5 0 REPEAT'MAXP 1 0\nHISTORY'PHIST5 1 1 REPEAT'PR_INT 1 0\nHISTORY'PHIST8 1 0 REPEAT'RCORD 1 0\nHISTORY'PHIST9 1 0 REPEAT'SORTED 1 1\nHISTORY'PRIORITY 2 0 REPEAT'SRTCNTR 1 1\nHISTORY'PRIORTY2 6 1 SHER'MAX_PR 2 1\nHISTORY'PRITY_PLACES 1 1 SHER'MONITOR 5 0\nHISTORY'RCORD3 1 1 SHER'ND 1 0\nHOTSPOTS'RCORD4 1 0 SHER'NEW_DEST 2 0\nMOVE'CNTR 1 1 SHER'PRIORITY4 2 0\nMOVE'NOW_MOVE 2 0 SHER'PRIORITY_CHK 1 0\nMOVE'TSP 1 1 SHER'STA__HOM1 1 0\nPAUSE'HCNTR3 2 0 START'MH2 1 0\nPAUSE'MAX_PR2 1 1 SHER'PUSE_DEPND 25 0\nSTART'VLCTY_DEPND 1 0 SHER'EVERY_MOVE 65 0",
+   "table_id": "PMC4534131_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    549.6,
+    725.6,
+    878.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0133634.t005 3.3 Deadlock freedom To determine the failure cause of the model, Holzmann [41][42] presented three prominent properties: deadlocks are the cause when the protocols are in waiting state for occurrence of conditions that can never be fulfilled and leads to deadlock of the model; livelocks represent the situation when every process constantly changes with regard to one another without making any effective progress. Finally, improper termination is the situation when the protocol accom- plishes without satisfying the termination conditions. Our proposed model is deadlock free and the state space report in Table 6 specifies that there are 15671 dead markings including [42244,42243,42242,42241,42240,. . .]. There are 42244 dead marking because we fixed the state space tool to generate state space report up to 1000 sec for the purpose of simplicity; hence, the total generated nodes are 42244 (see Table 4). Our proposed SHER model satisfies all the termination specifications and Figs 13 to 16 illustrate these conditions. The home properties in Table 6 specifies that initial marking is not home marking. How- ever, Fig 11 illustrates that we can repeat the process (see the bold node 4 and 44 of Fig 11). In markings 4 and 44, the tuples, color sets, and variables can never be changed; however, values of variables can be changed according to the current scenario. The liveness property ensures that a transition t can be fired again and is stronger than the absence of dead transition. Simi- larly, the home property specifies that a marking m can always be reached again during the"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0133634 August 12, 2015 23 / 30"
+  }
+ }
+}

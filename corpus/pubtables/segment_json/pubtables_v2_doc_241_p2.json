@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_241",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    553.1,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Quantifying scale-variance relationships"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    95.1,
+    727.2,
+    569.6
+   ],
+   "ocr": "where γ(h) is the empirical variance in the faunal data at distance class h, xia and xib are Hellinger transformed abundances for species i (i = 1 to s) in samples a and b, respectively, and the inner summation is over all pairs of samples separated by a geographic distance of approximately h. The Hellinger transformation is the square root of the relative abundance of each species in a sample [42]. As such, it focuses the analysis on compositional differ- ences and downplays the influence of highly abundant species to prevent them from domi- nating the analysis. In addition, when used in conjunction with Euclidian distance, the ecological distance measure utilized here and in the multivariate regression analyses pre- sented below, it produces good representations of ecological dissimilarity [42]. Summing Eq 1 for all pairs of samples, instead of a distance class subset, yields s2 the total sample var- iance [43]. A plot of γ(h) vs. distance classes h is called a variogram plot and shows how variance between samples changes with spatial scale. Changes in γ(h) with distance indicate the pres- ence of spatial patterns in community structure. Often when spatial structure is present, γ (h) increases from some minimal value at small distances, indicating that community differ- ences increase as samples are collected further apart. This is not the only pattern possible, and variograms with no trend, negative trends, periodic trends, and more complex patterns have been observed [14,44–46],. Important features of the multivariate variogram relevant to the present study include the sill, which is the value of the variance where the variogram plot levels out (if it exists) and the nugget or nugget effect, the value of γ(h) at h = 0 [14,27]. If a sill is present, the range indicates the distance at which community variance is no longer increasing. For reference, definitions of the variogram terms and their ecological interpreta- tions are provided in Table 2. The quantity γ(h) is termed the semivariance in most refer- ences on spatial statistics, although Bachmaier and Backes (2008) [43] suggest that the prefix “semi” is applied incorrectly. Because of its common usage, it will be called semivar- iance in the present study. Variograms were created using the rda(), mso(), and msoplot() functions in the vegan package of R (R Foundation for Statistical Computing, Vienna, Aus- tralia). The code for mso() and msoplot() was created and first published by Wagner (2004) [28]."
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    604.5,
+    722.4,
+    718.6
+   ],
+   "ocr": "Estimating small-scale variation Empirical variograms created for each site were fit to a number of common models utilized in spatial statistics [48]. Since no a priori guidance or mechanistic reason was found to choose one model over the others, multiple models with a variety of characteristics, including with/ without an inflection at small spatial scales and with/without an asymptotic sill, were fit. The Table 2. Variogram nomenclature [14,47,48]. Symbols refer to model parameters in Eqs 2–6."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    727.2,
+    716.0,
+    880.0
+   ],
+   "ocr": "Term Symbol Variogram Definition Ecological Interpretation\nNugget c0 The y-intercept of a variogram at Variance that occurs at a spatial scale smaller than the sampling interval. Estimates the\ndistance h = 0. community variance that is below the resolution of a survey.\nSill c0 + c1 The value of the variance where the Community variance of pairs of samples that are separated at large enough geographic\nvariogram levels off. distances that they are spatially independent.\nRange a for Eqs 4 & 5 The geographic distance where the The geographic distance beyond which community structure in pairs of samples are\nsill is reached. spatially independent. Spatial structure is present at distances below the range.\nh such that\nɣ(h) = 0.95(c0 + c1)\nfor Eqs 2, 3, & 6\nMaximum hmax The largest geographic distance Identical to the variogram definition; this simply refers to the maximum geographic\nExtent between two samples in a study. distance between two samples in a study.",
+   "table_id": "PMC5764243_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    888.2,
+    236.3,
+    898.8
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0189313.t002"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0189313 January 11, 2018 7 / 25"
+  }
+ }
+}

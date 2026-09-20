@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_026",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Ren et al. BMC Bioinformatics 2015, 16(Suppl 18):S12 http://www.biomedcentral.com/1471-2105/16/S18/S12"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 3 of 15"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    751.8
+   ],
+   "ocr": "antibodies, and their distinct epitopes were mapped onto the same unbound-state structure 2VB1 to reduce the false negative annotations. In this step, 308 epitopes were mapped onto 92 unbound-state structures. • Remove duplicate units. For the 92 unbound-state structures, only one asymmetric unit was retained for each structure. A residue was retained for the unbound data set if its ASA was more than 0Å. This is because the candidate epitope residues at least need to be exposed to contribute to the binding affinity. We used the relative low threshold of 0Å to preserve the ground truth of the epitopes. By following these steps, a data set of 92 unbound- state structures was constructed (Additional File 1) which contained 2123 confirmed epitope residues labeled as positive (Additional File 2), and 16615 resi- dues marked as unlabeled. Feature vector representation for residues Various features of amino acids were used together as a vector to represent a residue. We collected 239 basic features (Table 1), including 205 physico-chemical fea- tures collected from AAIndex with less than 80% simi- larity, 21 evolutionary features (PSSM features), and 13 structural features. Some of these features may make little contribution to the characterization and identification of epitopes. A non-parameter hypothesis test (Wilcoxon rank-sum test on the epitope residues and the unlabeled residues) was used to find out which features better characterized epi- topes. The p-value reflects the significance: the smaller the p-value is, the better the feature characterizes epitope residues. The features are then ranked by p-values. Only those with p-value less than 1e - 4 were retained as important features. To avoid over-fitting, the hypothesis test was conducted on 62 (2/3 of 92) randomly selected complexes each time. This procedure was repeated nine times, and produced nine important feature lists. The Table 1. Description of features"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    922.2
+   ],
+   "ocr": "expected. The use of unbound-state structures can also reduce the false negative annotations by aggregating mul- tiple epitopes on the same antigen. These unbound-state structures were manually organized in terms of species and disease which is especially useful for species/disease- specific feature analysis. The construction of the unbound-state structure data set requires reference information from bound struc- tures. We used the following steps to obtain the bound structures with epitope annotations: • Collect bound structures of antigen-antibody com- plexes. Bound structures were collected by text search of ‘complex’ and ‘antibody/Fab/ Fv/VHH’ from the PDB database dated 9th Sep 2014, which retrieved 1596 structures. • Filter the bound structures. A bound structure was removed if it was consistent with any of the following conditions: (1) there is no antibody chain; (2) there is a chain of ‘DNA/RNA/Fc/T-cell/receptor’; (3) the reso- lution is worse (more) than 3Å; (4) the antigen chain is less than 25 residues [2,28]. In total, 598 bound struc- tures of antigen-antibody complexes were retained. • Determine the location of epitopes: A residue of an antigen is considered to be an epitope residue if a heavy atom of the residue is within 4Å distance from any heavy atom of the antibody [2,13]. Subsequently, the steps to build the unbound-state structure data set are: • Obtain candidate unbound-state structures of anti- gens. An antigen structure in unbound state is selected as a candidate if it has more than 70% sequence similarity to any antigen in bound state (i.e., the 598 bound structures). By this way, there may be multiple candidate unbound-state antigen structures that are similar to the same bound-state antigen, but only one will be used for mapping in the next step. The candidate with the highest similarity to the bound-state antigen and with higher resolution is considered to have higher priority. Bound-state struc- tures will be removed if their antigens do not have high similarity to antigens in unbound state. • Map the epitopes onto the unbound-state struc- tures. The epitopes extracted from the bound struc- tures were mapped onto the corresponding unbound- state structures by structure alignment. An epitope was retained if it could be completely aligned with the unbound structure. This step reduces the false negative annotations: if various bound structures share the same antigen, their epitopes will be mapped on the same unbound-state structure. For example, 1VFB and 2EIZ are bound structures of lysozyme and"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    756.8,
+    661.5,
+    905.2
+   ],
+   "ocr": "Features Collected from Feature No.\nPhysico-chemical AAIndex (80% similarity) 1-205\nPSSM Psi-BLAST 206-225\nPSSM residue PSSM 226\nPI PSAIA 227\nSecondary structure DSSP 228-235\nASA NACCESS 236\nRSA NACCESS 237\nB-factor PDB files 238\nB-factor CA PDB files 239",
+   "table_id": "PMC4682424_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    912.3,
+    654.0,
+    922.2
+   ],
+   "ocr": "’Feature No.’ describes the number of dimensions for each feature type."
+  }
+ }
+}

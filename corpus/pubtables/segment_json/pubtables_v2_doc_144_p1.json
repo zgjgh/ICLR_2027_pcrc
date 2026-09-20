@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_144",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    264.2,
+    65.8
+   ],
+   "ocr": "Minoche et al. Genome Biology 2011, 12:R112 http://genomebiology.com/2011/12/11/R112"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 3 of 15"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    276.5,
+    124.0
+   ],
+   "ocr": "Table 1 Properties of the sequence data"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    666.3,
+    503.4
+   ],
+   "ocr": "Species Bv + PhiX At + PhiX PhiX\nPlatform HiSeq HiSeq GAIIx\nRead length 95 100 150\nNumber of lanes 3 1 1\nNumber of sequenced pairs 246,159,940 71,393,237 9,046,254\nNumber of sequenced bases 46,770,388,600 14,278,647,400 2,713,876,200\nFraction of uncalled bases 1.52% 1.21% 13.77%\nFraction of uncalled bases - read 1 1.45% 1.07% 12.66%\nFraction of uncalled bases - read 2 1.58% 1.34% 14.87%\nFraction of reads with at least one uncalled base 2.46% 2.26% 15.57%\nFraction of entirely uncalled reads 0.56% 0.50% 7.16%\nFraction of bases in B-tails 11.01% 16.56% 25.78%\nFraction of uncalled bases in B-tails 1.49% 1.18% 13.75%\nFraction of bases in B-tails - read 1 11.02% 14.45% 24.82%\nFraction of bases in B-tails - read 2 11.00% 18.67% 26.74%\nAverage length of B-tails 10.5 (9.9)a 16.6 (16.1)a 38.7 (27.9)a\nFraction of reads with B-tail 26.15% 39.44% 67.87%\nFraction of reads containing at least one uncalled base in B-tail 2.19% 1.98% 14.99%\nFraction of both reads with B-tail 14.70% 24.50% 53.10%\nAverage Q-score 31.81 30.23 27.17\nAverage Q-score - read 1 31.83 31.10 27.62\nAverage Q-score - read 2 31.80 29.37 26.73\nQ ≥ 30 bases 37.27 Gbp (79.68%) 10.56 Gbp (73.99%) 1.74 Gbp (64.29%)\nQ ≥ 30 bases - read 1 18.70 Gbp (39.98%) 5.49 Gbp (38.42%) 0.90 Gbp (33.01%)\nQ ≥ 30 bases - read 2 18.57 Gbp (39.71%) 5.08 Gbp (35.57%) 0.85 Gbp (31.28%)",
+   "table_id": "PMC3334598_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    509.1,
+    366.1,
+    913.2
+   ],
+   "ocr": "aValues in parentheses are those without reads entirely composed of uncalled of bases lying within B-tails was 13.8% in the HiSeq data and 25.8% in the GAIIx data. Among these B-tail bases, 10.3% (HiSeq) and 53.3% (GAIIx) were uncalled. The B- tail length distribution shows a slight increase towards short B-tails and a sharp increase towards reads entirely composed of B. The predominant size is the full-length B-tail even after the removal of reads entirely composed of uncalled bases (Figure S3 in Additional file 1). In both HiSeq data sets, on average, 32.8% of all reads we studied had B-tails, and 19.6% of all read pairs had a B- tail in both reads. In the GAIIx data 67.9% of all reads had a B-tail, and 53% of all read pairs had a B-tail in both reads. Excluding the reads entirely composed of uncalled bases, the average read length after B-tail trim- ming was reduced to 122 bases in GAIIx reads (original read length 150 nucleotides), to 85 bases for reads from the HiSeq Bv + PhiX sample (original read length 95 nucleotides) and to 74 bases for the HiSeq At + PhiX reads (original read length 100 nucleotides). Removing B-tails has a strong effect on the expected error rate (determined by the average of the error prob- ability of each base according to Illumina quality values). In HiSeq Bv + PhiX data the removal of B-tails decreased the expected error rate from 7.09% to 0.16% and reduced the data output by 11%. In the GAIIx data"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    367.5,
+    510.4,
+    678.6,
+    913.1
+   ],
+   "ocr": "bases. At, Arabidopsis thaliana; Bv, Beta vulgaris; PhiX, bacteriophage PhiX174. the expected error rate decreased from 16.43% to 0.23%, reducing the data amount by 25.8%. Apart from B-tail removal, further filters can be applied based on Illumi- na’s quality measurement. We tested several filtering cri- teria separately and in combination and recorded the resulting expected error rates (Table 2). The Illumina software provides a read quality rating by introducing the chastity filter. The chastity is determined from the ratio of the signal intensities of the four possible bases in each sequencing cycle. Reads do not pass the chastity filter if they underrun a certain chastity cutoff within the first 25 cycles (see Materials and methods for details). The lowest expected error rate was obtained for the following combination of filtering criteria: B-tail trimming, passed chastity filter, removal of reads con- taining uncalled bases, keeping reads only if at least two-thirds of the bases of the first half of the read had quality values of Q ≥ 30. The GC content (%GC) of the unfiltered HiSeq reads was higher than expected: 40% for Bv + PhiX data and 45.5% for At + PhiX. The B. vulgaris reference sequence has a %GC of 35% [8] and that of the A. thaliana gen- ome is 36% (calculated from TAIR10 [9]). The fraction of PhiX reads (44.7% GC) accounts for only 1 to 2% of the data. For the PhiX sample sequenced on the GAIIx"
+  }
+ }
+}

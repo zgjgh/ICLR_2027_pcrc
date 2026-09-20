@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_021",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in Table 1 offers a comprehensive overview of the performance metrics across multiple evaluations, with a particular focus on the GT (Growth Rate), AE (Average Efficiency), and STD (Standard Deviation) values."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    125
+   ],
+   "ocr": "These metrics are essential for understanding the variability and reliability of the results derived from our analysis. For instance, the reported growth rate of 29.06 indicates a significant upward trend in performance, reflecting the effectiveness of the strategies implemented during the evaluation period."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    458.0
+   ],
+   "ocr": "Subject AI (%) AW (mm) AH (mm)\nGT AE STD GT AE STD GT AE STD\n1 29.06 1.63 0.89 29 1.86 1.77 8 −1.06 0.51\n2 31.14 −0.40 0.37 28 −0.86 2.49 8 0.95 0.63\n3 25.27 −1.35 1.12 30 0.67 0.99 11 1.93 0.87\n4 27.90 −0.81 0.96 37 1.71 1.93 12 2.06 0.56\n5 23.59 −1.29 0.28 28 −0.65 0.57 9 0.57 0.84\n6 26.66 0.95 0.36 40 1.38 2.90 12 0.49 0.56\n7 28.26 0.60 0.48 41 1.12 1.21 11 0.38 0.45\n8 25.86 −1.34 0.85 35 1.76 1.97 14 −1.00 1.15\n9 26.73 −0.02 0.79 38 2.24 0.41 16 1.29 1.07\n10 29.30 −0.21 1.23 41 −0.80 1.93 10 0.42 0.43\n11 27.75 0.33 0.38 39 2.05 1.74 11 −0.31 0.44\nAVG 27.41 −0.17 0.70 35.09 0.95 1.63 11.09 0.52 0.68\nCV(%) 0.023 0.046 0.061",
+   "table_id": "img_023293_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    474,
+    580,
+    517
+   ],
+   "ocr": "Furthermore, the average efficiency metric of 1.63 suggests that the majority of the evaluated entities are operating above the standard threshold, which is crucial for maintaining competitive advantage. The standard deviation values across the different assessments provide insight into the consistency of these performance metrics."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    505,
+    580,
+    578
+   ],
+   "ocr": "A lower standard deviation, such as the value of 0.89, indicates that the performance results are tightly clustered around the mean, thereby enhancing the reliability of the growth rate and average efficiency figures. This combination of metrics allows stakeholders to make informed decisions based on solid empirical evidence and highlights areas that may require further investigation or adjustment to optimize outcomes moving forward."
+  }
+ }
+}

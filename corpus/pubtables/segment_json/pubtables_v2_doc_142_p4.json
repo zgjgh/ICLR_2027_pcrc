@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_142",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Lee et al. BMC Bioinformatics 2011, 12(Suppl 13):S20 http://www.biomedcentral.com/1471-2105/12/S13/S20"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 15"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    581.8
+   ],
+   "ocr": "which are listed in GWAS and HGMD were also com- pared with the abnormally expressed genes identified in this study and listed also in Additional file 8. Furthermore, dopamine, GABA, and glutamate are criti- cal chemicals affecting the symptoms of schizophrenia, bipolar disorder, and major depression. Genes which were described in GeneRIF as involving in the biochemistry of these chemicals are listed in Table 5. This data was con- sidered as the indirect evidence to the association of genes to the studied mental diseases. The highly expressed genes and the most abundant protein interactions in the prefrontal cortex In order to identify the most abundant protein interactions in BA10, the PPI network of highly expressed genes were constructed for schizophrenia, bipolar disorder, major depression, and healthy control samples as illustrated in Figure 3a. Many PPIs were shared by two or more of the diseases. Disease-associated SNPs, mutations, and GO functional classes were identified for each gene and labelled as shown in Figure 3a. In this PPI network, there were one clique-5 and sev- eral clique-4s that tightly knitted into a sub-network con- taining 12 genes as shown in Figure 3b. These 12 genes in the BA10 cliques encode four heat shock proteins (HSPA8, HSP90AA1, HSPD1, HSP90AB1), the tubulin protein (TUBA1A), the ubiquitin protein (UBC), the actin-binding cytoskeleton protein (SPTAN1), beta-actin Table 5 Genes which participated in the biochemistry of GABA, glutamate, or dopamine"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    922.3
+   ],
+   "ocr": "(ACTB), the energy generating glyceraldehyde-3-phos- phate dehydrogenase (GAPDH), translation elongation factor (EEF1A1), signal transduction protein (YWHAZ), and amyloid beta (A4) precursor protein (APP). This sub-network of 12 highly expressed and topologically sig- nificant genes was proposed as the “core” functional module of BA10 for both patients and healthy people. Discussion This study combined data of quantitative transcriptomics and PPIs for statistical and topological analyses. New disease marker genes and potential drug targets were revealed. Shared disease mechanisms, although hypothe- tical at the present, were proposed based on common marker genes and interconnecting PPIs to explain the shared symptoms among diseases. A “core” functional module of BA10 was also proposed. Disease markers and potential drug targets The genes which had P values < 0.01 in our t-tests were defined as abnormally expressed in disease samples. These genes were proposed as disease marker genes and con- structed into a PPI network as illustrated in Figure 2. Previous studies have shown that the probes (and the genes which they represented) with lower P values appeared as more effective clustering features for separat- ing the disease samples from the controls in hierarchical clusters (unpublished data). The observation suggested that genes with lower P values are more important dis- ease markers. The genes with the lowest P values in our t-tests were not well-studied genes. SBNO2 was a gene of which the probe had the lowest P value in the t-test comparing schi- zophrenia and control samples. SBNO2 has a strawberry notch homolog in fruit fly. The gene is involved in the anti-inflammatory signalling pathway [69]. It has also been associated with type 2 diabetes mellitus, of which shared many disease genes with mental diseases [52,70]. SEC24C was a gene of which the probe had the lowest P value in the t-test comparing bipolar disorder and control samples. SEC24C encodes a protein which may be involved in ER to Golgi vesicular transportation [71]. It has been asso- ciated another mental disease, Alzheimer’s disease [52]. SRRT was a gene of which the probe had the lowest P value in the t-test comparing major depression and control samples. SRRT is possibly involved in transcriptional regu- lation and RNA metabolism as it is a homolog to an Arabidopsis serrate RNA effector [72]. Apart from this study, SBNO2, SEC24C and SRRT have never been asso- ciated with schizophrenia, bipolar disorder, or major depression; these genes did not form PPI with any of our abnormally expressed marker genes, either. There appeared a weak negative correlation between the P values of a gene (probe) and its centrality ranks in"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    586.6,
+    353.8,
+    916.0
+   ],
+   "ocr": "Gene Symbol GABA Glutamate Dopamine\nAPP + + +\nGABBR2 + +\nGABBR1 + +\nSLC12A5 +\nGABARAP +\nSLC1A3 +\nNOS1 +\nGRM8 +\nGLUL +\nUCHL1 +\nSYNGR3 +\nSTXBP1 +\nSTX1A +\nSNCB +\nPRKAR1B +\nPARK2 +\nIGF1 +\nGPR143 +\nEPB41L1 +\nCRYAA +\nADORA2A +",
+   "table_id": "PMC3278837_table_4"
+  }
+ }
+}

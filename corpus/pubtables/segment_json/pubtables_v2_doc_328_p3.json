@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_328",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    56.3,
+    677.8,
+    81.3
+   ],
+   "ocr": "Fiamma et al. BMC Infectious Diseases 2010, 10:137 Page 5 of 10 http://www.biomedcentral.com/1471-2334/10/137"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    120.1,
+    629.6,
+    148.0
+   ],
+   "ocr": "Table 3: False recent seroconverters and protective effect of MC on HIV incidence as calculated using BED and AI separately"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    83.9,
+    158.3,
+    658.5,
+    803.1
+   ],
+   "ocr": "BED\nCut-off 0.325 0.733 0.900 1.51 1.89 2.27\nWindow period 3m (91.5d) 6m (183d) 9m (274d) 12m (366d) 15m (457d) 18m (549d)\nFalse LTS (%) 0/3 (0) 1/12 (8.3) 5/21 (23.8) 5/32 (16) 2/34 (5.9) 3/47 (6.4)\n95% CI 0 to 0.53 0.5 to 32 9.6 to 44 6 to 30 1 to 17 2 to 16\nObserved false RS (%) 1/124 (0.8) 6/124 (4.8) 8/124 (6.5) NC NC NC\n95% CI 0.05 to 3.8 1.9 to 9.6 3 to 12\n1Calculated false RS (%) 2.1 4.3 6.4 8.5 10.7 12.8\nTested RSs\nIntervention - Control 6 - 10 12 - 27 15-30 23 - 48 33 - 62 42 - 79\nUncorrected effect (%) 43 58 53 55 49 50\n95% CI -57 to 84 19 to 80 13 to 77 26 to 75 23 to 67 27 to 66\n2Correction\nIntervention (%) 28 29 34 30 26 24\nControl (%) 24 18 24 20 20 18\nTotal (%) 25 21 28 23 22 21\nCorrected effect (%) 46 63 59 60 53 53\n95% CI NC 22 to 88 9 to 86 25 to 80 25 to 73 30 to 70\nAI\nCut-off 31.6 80.5 90.0 94.0 96.0 NC\nWindow period 3m (91.5d) 6m (183d) 9m (274d) 12m (366d) 15m (457d) 18m (549d)\nFalse LTS (%) 0/3 (0) 1/12 (8.3) 3/21 (14) 4/32 (13) 4/34 (12) NC\n95% CI 0 to 53 0.5 to 32 4 to 33 4 to 27 3.8 to 25\nObserved false RS (%) 0/124 (0) 3/124 (2.4) 15/124 (12) NC NC NC\n95% CI 0 to 2.4 0.6 to 6.2 7 to 19\n1Calculated false RS (%) 2.9 5.9 8.8 11.8 14.7 NC\nTested RSs NC\nIntervention - Control 3 - 11 10 - 19 18-31 26 - 44 33 - 62\nUncorrected effect (%) 74 50 45 44 50 NC\n95% CI 19 to 100 -6 to 78 3 to 72 17 to 71 21 to 69\n2Correction NC\nIntervention (%) 77 47 39 36 36\nControl (%) 30 35 32 31 27\nTotal (%) 40 39 35 33 30\nCorrected effect (%) 92 59 50 49 55 NC\n95% CI 14 to 100 -14 to 100 -13 to 83 4 to 78 25 to 77",
+   "table_id": "PMC2890001_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    84.0,
+    808.6,
+    363.7,
+    923.2
+   ],
+   "ocr": "LTS: Long-term seroconverters RS: Recent seroconverters m: months d: days AI: Avidity index NC: Not calculable CI: Confidence interval 1Estimated by linear regression (see Additional file 1) 2Correction for intervention and control = [NHIV+(1-False RS)]/Ntested"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    365.2,
+    914.8,
+    383.9,
+    923.2
+   ],
+   "ocr": "recent"
+  }
+ }
+}

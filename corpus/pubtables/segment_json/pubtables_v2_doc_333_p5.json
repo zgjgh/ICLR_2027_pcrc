@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_333",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    579.0,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Comparative Study on Aphis"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    393.6,
+    106.0
+   ],
+   "ocr": "Table 5. Evolutionary analysis of the 16 characters appeared to BayesTraits, showing model parameters and likelihood ratio (LR)."
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    389.7,
+    81.4,
+    700.7,
+    92.8
+   ],
+   "ocr": "be significant in ANOVA, using BayesContinuous implemented in"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    699.5,
+    436.1
+   ],
+   "ocr": "LR [R]andom\nwalk vs\nScaling parameter estimates\n[D]irectional\nCharacters l LR against l = 0 k LR against k = 1 d LR against d = 1\nLength of Body 0.53 7.39** 0.30 31.31*** 2.03 5.61* 2.19 [R]\nAntenna 0.67 11.66*** 0.41 21.15*** 1.69 3.71 ,0.01 [R]\nAnt.III 0.54 9.00** 0.26 37.92*** 2.10 7.35** 1.85 [R]\nAnt.IV 0.64 11.64*** 0.36 22.20*** 1.46 4.08* 2.52 [R]\nAnt.V 0.69 13.15*** 0.33 20.98*** 1.22 1.04 1.46 [R]\nHFM 0.60 15.01*** 0.32 28.43*** 1.64 4.04* 0.99 [R]\nHTB 0.61 13.81*** 0.32 29.42*** 1.69 4.61* 2.98 [R]\n2HT 0.81 14.38*** 0.51 5.19** 0.63 21.00 2.63 [R]\nCauda 0.50 2.71 0.21 24.15*** 0.85 21.12 4.71* [R]\nLength of setae on Ant.III 0.61 3.76 0.88 3.45 2.47 4.54* 1.81{ [D]\nNumber of setae on ML 0.68 11.86*** 0.36 17.75*** 1.19 0.48 3.98* [R]\nAnt.III 0.81 12.66*** 0.90 25.81 1.89 1.92 2.82{ [D]\nGP 0.82 9.24** 0.98 20.35 2.00 2.03 0.31 [R]\nCauda 0.72 9.73** 0.54 11.43*** 1.60 3.11 0.37 [R]\nNumber of rhinarhia on (alate) Ant.III 0.61 5.27* 0.37 12.88*** 1.06 24.86 0.46 [R]\nAnt.IV 0.61 4.00* 0.45 11.73*** 1.13 0.15 0.13 [R]",
+   "table_id": "PMC2904707_table_4"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    449.0,
+    392.2,
+    963.6
+   ],
+   "ocr": "***P,0.001. **P,0.01. *P,0.05. {log-likelihood value of Model B bigger than that of Model A. doi:10.1371/journal.pone.0011608.t005 used the phylogeny based on molecular markers which were used in the previous studies [14,15]. Of the 40 species used in the morphological analyses, data from 33 species were available for phylogenetic reconstruction. We retrieved the sequences of two mitochondrial genes (partial tRNA-leucine + cytochrome c oxidase II [COII; 702 bp]; partial 12S + tRNA-valine + 16S [16S; 1601 bp]) and one nuclear gene (nuclear elongation factor 1 alpha [EF1-a; 802 bp excluding introns]) for the species including an outgroup species (Schizaphis graminum) from GenBank, and generated corresponding sequences for two species, A. argrimoniae and A. sedi. In addition, sequences of three species (A. craccae, A. idaei, and A. ulmariae) previously used by Coeur d’acier et al. [14] were also obtained from GenBank. We generated cytochrome b (CytB; 737 bp) sequences for 31 species in this study, as described previously [18]. For the phylogenetic analysis, the sequences of 33 ingroup species plus one outgroup were concatenated and aligned using MEGA4.0 [55] to yield a combined dataset containing ,3,842 bp of sequence. The GenBank accession numbers of all used sequences are listed in Table S3. A maximum likelihood (ML) tree was generated from the combined dataset. The best fit model for each gene was assessed according to the Akaike information criterion as implemented in MrModeltest 2.0 [56]. Maximum likelihood analysis was per- formed under a partitioned scheme for each gene, using RAxML 7.0.3 [57] with independent GTR + I + c substitution models for each partition. Bootstrap values were estimated by RAxML based on 100 bootstrap replicates. Bayesian inference (BI) was performed using MrBayes (version 3.1.1; [58]). Markov chain Monte Carlo (MCMC) with four chains was performed for 5,000,000 generations with trees sampled every 100th generation. The best-fitting nucleotide substitution models and estimated param- PLoS ONE | www.plosone.org 10"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    514.2,
+    700.8,
+    963.6
+   ],
+   "ocr": "eters for each gene were applied separately in the MCMC analysis. The burn-in parameter was estimated empirically by plotting 2ln L against the generation number using Tracer version 1.4 [59]; the trees corresponding to the first 10% of the generations were discarded, and the posterior probabilities were obtained by summarizing the remaining trees. Multivariate morphometric analysis Principal component analysis (PCA; SAS Procedure PRIN- COMP; SAS version 9.1.3; SAS Institute, Inc., Cary, NC) was carried out on the morphometric dataset of 40 species using the 28 measured/counted characters to confirm the correlations of species-groups and to determine the main components of variation in the morphological data. Principal component analysis was performed again on the morphometric dataset of 247 apterous samples from 14 represen- tative species; seven (A. egomae, A. glycines, A. gossypii, A. ichigo, A. sanguisorbicola, A. sedi, A. sumire) from the gossypii group and seven (A. craccivora, A. fabae, A. fukii, A.hederae, A. neospirae, A. rumicis, A. spiraecola) from the fabae + craccivora + spiraecola groups, using the 25 morphological characters except for three alate characters (number of rhinaria). Canonical discriminant analysis (CDA; SAS Procedure CANDISC; SAS version 9.1.3) was then performed to determine which character(s) contributed most to the separation of each species cluster. We also performed PCA and CDA using 11 meristic characters only, to exclude the effects of highly size-correlated variables between groups. One-way analysis of variance (ANOVA; SAS Procedure ANOVA; SAS version 9.1.3) was performed for each character to evaluate the significances of differences between the gossypii group and all other species in the first and second PCAs. July 2010 | Volume 5 | Issue 7 | e11608"
+  }
+ }
+}

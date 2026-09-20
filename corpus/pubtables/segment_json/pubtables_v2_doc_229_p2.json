@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_229",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    395.0,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Comparative Coastal Risk Index (CCRI) for Latin America and the Caribbean"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.3,
+    269.4,
+    107.4
+   ],
+   "ocr": "Table 3. Socioeconomic vulnerability variables."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    47.6,
+    116.1,
+    707.5,
+    249.2
+   ],
+   "ocr": "Vulnerability Variable Data Sources Resolution Period Unit\nGini coefficient The Standardized World Income Inequality Database [51] National 1995– N/A\n(see S2 Appendix for additional sources) 2012\nChild Malnutrition Rate SEDAC [52] Subnational 1990– %\n(%) (see S2 Appendix for other sources) 2000\nInfant Mortality Rate (%) SEDAC Center for International Earth Science Information Network (CIESIN) Subnational 2000 number of\n[53] deaths\n(see S2 Appendix for additional sources)\nPer Capita GDP (average) Global Risk Data Platform, (UNEP) [44] Subnational 2010 USD\n(see S2 Appendix for additional sources)",
+   "table_id": "PMC5667813_table_2"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    257.7,
+    724.5,
+    451.8
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0187011.t003 locations with similar features. Several attempts were made to adjust the best number of final clusters (from 2 to 25), with 9 clusters best representing the data. As an index is introduced in the analysis, the issue of the number of clusters is greatly minimized, as similar clusters receive similar values for the final index. Data transformation and normalization. The exposure dataset contains a significant number of coastal segments with no population or GDP (values equal 0), resulting in a highly- skewed distribution. To improve the distribution, the Box-Cox transformation (Eq 1) was applied to the relevant variables. ðxl � 1Þ"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    444.5,
+    436.6,
+    452.3,
+    452.8
+   ],
+   "ocr": "x0"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    454.3,
+    438.5,
+    727.2,
+    460.3
+   ],
+   "ocr": "l ¼ ð1Þ"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    446.4,
+    725.9,
+    898.4
+   ],
+   "ocr": "l Subsequently, all variables were then transformed to range from 0 to 1. This step ensures that all variables have equal weight in the clustering analysis. Maximum dissimilarity initialization. The Maximum Dissimilarity algorithm was used to pre-select the most distinct values within the dataset as the initial centers for each cluster, ensuring that the resulting clusters are as diverse as possible. [31,61]. First clustering step–Self-Organizing Maps (SOM). The SOM algorithm [62] facilitates the visualization of high-dimensional data by converting nonlinear statistical relationships between multiple dimensions into simple geometric shapes, usually a simple grid of nodes. SOM compresses information but retains the most important relationships of the original data elements. Formally, SOM is the nonlinear mapping of high-dimensional input data into a lin- ear array. Each map unit produced represents a vector, comprised of as many columns as the original dataset (i.e. each hazards, exposure, and vulnerability attributes). The most commonly used SOM output is a topological representation of the data, where each cell represents a clus- ter and contains a number of data entries, or samples, associated with it. All samples within a cell are similar, and also similar to samples in adjacent cells, while samples assigned to distant cells are less similar. A probability matrix is also produced, which represents the number of records belonging to each cluster. SOM reduced the dimensionality of each data set into a sin- gle value for each cluster. Hazards, exposure, and vulnerability data were clustered independently. Several attempts were made to perform a single cluster analysis utilizing a single database containing all vari- ables. However, clustering results, based on 16 variables, proved to be too complex and cum- bersome to be analyzed. Second clustering step–K-Means algorithm. As a second clustering step, the K-Means algorithm was applied to further reduce the 100 SOM groups (resulting from the first cluster- ing step) into 9 clusters. This step was repeated for each category (hazards, exposure, and vul- nerability), independently. Using K-means to assign each one of the 100 SOM groups into 9"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0187011 November 2, 2017 7 / 24"
+  }
+ }
+}

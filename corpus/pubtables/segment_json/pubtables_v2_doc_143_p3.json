@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_143",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Shokouhi et al. BMC Medical Imaging 2011, 11:23 Page 8 of 16 http://www.biomedcentral.com/1471-2342/11/23"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    623.1,
+    124.0
+   ],
+   "ocr": "Table 3 The mean and standard deviation of GM, WM, and CSF volumes across subjects for the 1.5 T group"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.4,
+    658.3,
+    255.1
+   ],
+   "ocr": "Centre/Visit GM volume (cm3) WM volume (cm3) CSF volume (cm3)\nBrainvisa FAST Brainvisa FAST Brainvisa FAST\nA/1 259 ± 35 275 ± 36 296 ± 45 253 ± 44 87 ± 18 132 ± 20\nA/2 259 ± 34 270 ± 32 293 ± 47 249 ± 39 89 ± 20 127 ± 16\nB/1 322 ± 65 286 ± 34 274 ± 29 234 ± 33 62 ± 21 153 ± 18\nB/2 321 ± 68 285 ± 35 274 ± 24 236 ± 34 64 ± 19 151 ± 21\nC/1 249 ± 31 274 ± 38 288 ± 48 243 ± 41 96 ± 28 131 ± 23\nC/2 247 ± 34 270 ± 32 293 ± 51 239 ± 38 96 ± 26 128 ± 15",
+   "table_id": "PMC3315423_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    262.2,
+    528.3,
+    272.1
+   ],
+   "ocr": "The results of segmentation using Brainvisa and FAST are given (mean ± standard deviation) for each visit to each centre"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    71.8,
+    305.0,
+    614.4,
+    317.9
+   ],
+   "ocr": "Table 4 The mean and standard deviation of GM, WM, and CSF volumes across subjects for the 3 T group"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    71.7,
+    321.4,
+    638.3,
+    515.6
+   ],
+   "ocr": "Centre/Visit GM volume (cm3) WM volume (cm3) CSF volume (cm3)\nBrainvisa FAST Brainvisa FAST Brainvisa FAST\nD/1 308 ± 31 298 ± 20 249 ± 29 228 ± 20 93 ± 17 112 ± 12\nD/2 294 ± 25 293 ± 19 264 ± 28 227 ± 18 91 ± 14 116 ± 15\nE/1 324 ± 28 282 ± 17 250 ± 42 211 ± 19 111 ± 21 111 ± 15\nE/2 310 ± 27 271 ± 20 268 ± 31 202 ± 17 105 ± 11 130 ± 16\nF/1 328 ± 36 309 ± 22 241 ± 23 245 ± 21 105 ± 11 122 ± 15\nF/2 311 ± 32 312 ± 21 278 ± 43 246 ± 22 94 ± 13 129 ± 14\nG/1 332 ± 39 298 ± 18 247 ± 28 232 ± 16 87 ± 18 144 ± 13\nG/2 314 ± 37 295 ± 19 261 ± 28 232 ± 18 88 ± 18 143 ± 18\nH/1 321 ± 30 301 ± 17 267 ± 34 245 ± 20 87 ± 26 136 ± 13\nH/2 346 ± 38 299 ± 18 237 ± 34 244 ± 19 87 ± 17 133 ± 14",
+   "table_id": "PMC3315423_table_3"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    71.8,
+    522.7,
+    528.6,
+    532.6
+   ],
+   "ocr": "The results of segmentation using Brainvisa and FAST are given (mean ± standard deviation) for each visit to each centre"
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    568.2,
+    315.9,
+    581.1
+   ],
+   "ocr": "Table 5 The p-values for centre and visit effects"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    586.0,
+    658.0,
+    894.6
+   ],
+   "ocr": "Parameter 1.5 T Group 3 T Group\nCentre Visit Centre*visit Centre Visit Centre*visit\nGM volume < 0.001 0.272 0.875 < 0.001 0.015 < 0.001\nWM volume < 0.001 0.624 0.642 0.036 < 0.001 < 0.001\nCSF volume 0.013 0.311 0.993 < 0.001 0.003 0.535\nCerebral < 0.001 0.739 0.285 < 0.001 0.599 0.109\nHemisphere\nVolume\nGSI 0.017 0.011 0.024 0.203 0.088 0.094\nSulcal surface\nGlobal 0.827 0.895 0.885 < 0.001 0.777 0.843\nLocal 0.821 0.909 0.808 < 0.001 0.673 0.807\nMarkovian 0.778 0.855 0.944 < 0.001 0.486 0.865\nTalairach 0.847 0.792 0.925 < 0.001 0.847 0.863\nSulcal mean\ngeodesic depth\nGlobal 0.887 0.754 0.547 0.028 0.937 0.649\nLocal 0.573 0.820 0.574 0.002 0.121 0.943\nMarkovian 0.742 0.422 0.603 0.001 0.182 0.381\nTalairach 0.574 0.427 0.857 0.006 0.956 0.711",
+   "table_id": "PMC3315423_table_4"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    901.7,
+    671.0,
+    922.2
+   ],
+   "ocr": "P-values for the main effect of centre and visit as well as their interaction for all Brainvisa metrics are given for the 1.5 T and 3 T groups. For sulcal parameters, p-values are given for all sulci recognition algorithms."
+  }
+ }
+}

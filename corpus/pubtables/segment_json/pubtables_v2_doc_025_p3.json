@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_025",
+  "page": 3,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    104.1,
+    46.7
+   ],
+   "ocr": "Frazier et al."
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    598.2,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Reﬂexive antecedent search"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    80.5,
+    372.3,
+    915.7
+   ],
+   "ocr": "reﬂexive. If this is because of the antecedent search process’s susceptibility to linear closeness, gender mismatch eﬀects from the linearly local candidate antecedent should precede any from the wh-NP. If instead antecedent retrieval consists of a cue- based retrieval system that is able to consider ungrammatical reﬂexive antecedents, gender mismatch eﬀects of both candidate antecedents should interact in such a way that the slowdown eﬀect induced by mismatch with the wh-NP is ameliorated in the presence of a gender-matching ungrammatical candidate antecedent. However, because in the ﬁnite embedded clauses used in Experiment 2 no control reading is possible, it is not possible to interpret the reﬂexive in the examples used in Experiment 2 as an intensiﬁer reﬂexive linked to the matrix subject, so this experiment may constitute a cleaner test of the role of the binding constraints in reﬂexive antecedent search. It is not expected that the pattern of eﬀects in this experiment will diﬀer from that in Experiment 1; if it does, this would cast doubt upon an explanation of the eﬀect of the wh-NP in Experiment 1 in terms of the parser’s online sensitivity to ﬁnd-grained syntactic constraints. 2.2.5. Data Analysis The analysis of the data gathered in this experiment was carried out in much the same way as in Experiment 1. The critical region corresponds to the reﬂexive pronoun (herself ) and the spillover region corresponds to for unimportant in the example below. Since the stimuli used in this experiment are adapted from Experiment 1, the same limitations on region size due to line breaks constrained the spillover region. (23) Which saleswoman did Margaret presume had excused herself for unimportant reasons? Table 3 contains the means and standard errors in milliseconds of reading times. These measures were calculated after manual vertical alignment of ﬁxations. For statistical analysis, converging maximal linear mixed eﬀect models were compared via ANOVA to depleted models of the same structure, but with a term of interest removed. χ2-values and their corresponding p-values are reported in Table 4, alongside the estimates and standard errors calculated from the corresponding maximal model. The ideal maximal structure contains the same terms as in Experiment 1, and in cases where a maximal or depleted model did not converge, additional terms were removed in the order speciﬁed above. 2.2.6. Results In the critical region, the only observed eﬀects are in re-read time. We observe a signiﬁcant main eﬀect of the wh-phrase, with the gender matched condition read faster than gender mismatched conditions [β = −129.22, S.E. = 31.34, χ2(1) = 12.43, p < 0.001]. This is consistent with the observations in Experiment 1, that the local NP is not considered as a candidate antecedent for the reﬂexive pronoun, despite its linear proximity. No other eﬀects reached signiﬁcance. The spillover region displays a similar pattern of eﬀects, with the addition of signiﬁcant main eﬀects of wh-phrase observed in"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    391.4,
+    81.5,
+    632.5,
+    90.4
+   ],
+   "ocr": "TABLE 3 | Means (and Standard Errors) for Experiment 2."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    391.1,
+    104.8,
+    697.6,
+    446.2
+   ],
+   "ocr": "Region Critical region Spillover region\nWh-phrase Local NP\nFIRST FIXATION\nMatch Match 209 (6) 204 (5)\nMatch Mismatch 214 (5) 208 (6)\nMismatch Match 222 (6) 219 (6)\nMismatch Mismatch 213 (4) 213 (6)\nFIRST PASS\nMatch Match 223 (7) 293 (12)\nMatch Mismatch 238 (8) 319 (14)\nMismatch Match 250 (9) 356 (18)\nMismatch Mismatch 237 (8) 348 (18)\nREGRESSION PATH\nMatch Match 461 (55) 1860 (119)\nMatch Mismatch 454 (45) 1867 (112)\nMismatch Match 620 (66) 2656 (171)\nMismatch Mismatch 611 (73) 2744 (197)\nRE-READ TIME\nMatch Match 300 (32) 382 (38)\nMatch Mismatch 335 (26) 381 (30)\nMismatch Match 463 (33) 477 (35)\nMismatch Mismatch 426 (28) 494 (34)",
+   "table_id": "PMC4599314_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    476.9,
+    706.1,
+    915.7
+   ],
+   "ocr": "ﬁrst pass reading time, regression path duration (Figure 2), and re-read time, with gender match between the wh-phrase and the reﬂexive pronoun read faster than gender mismatch [ﬁrst pass: β = −42.53, S.E. = 13.92, χ2(1) = 8.21, p = 0.004; regression path: β = −831.51, S.E. = 140.41, χ2(1) = 21.11, p < 0.001], as in the case for re-read time [β = −107.00, S.E. = 43.43, χ2(1) = 5.13, p = 0.023]. As before, this indicates that the gender of the wh-phrase is somehow represented at the tail of the WhFGD, which is then being accessed during the reﬂexive antecedent search. These results are compatible with our observations in Experiment 1. As such, we can conﬁrm that the gender mismatch eﬀects observed in the critical region and spillover region in both Experiments 1 and 2 are due to the ability of the parser to form a dependency between the reﬂexive and the gap, although for diﬀerent reasons. There were no marginal eﬀects of the linearly local candidate antecedent NP in this experiment, unlike in Experiment 1, suggesting that the intensiﬁer reading explanation for those eﬀects in Experiment 1 may be on the right track, rather than an interpretation in terms of failed cue-based retrieval. This is of course merely speculation, given that the eﬀects in question do not reach statistical signiﬁcance. 2.3. Experiment 3 2.3.1. Introduction Experiment 3 (as well as Experiment 4, discussed below) serves as a check to ensure that the diﬀerence observed in Experiments 1 and 2 between the eﬀect of gender match/mismatch of the reﬂexive and the wh-NP and of the reﬂexive and the linearly closer NP is not due to some diﬀerence between the way wh-NPs"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    227.9,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    376.8,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "11 October 2015 | Volume 6 | Article 1504"
+  }
+ }
+}

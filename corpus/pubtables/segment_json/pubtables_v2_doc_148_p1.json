@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_148",
+  "page": 1,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    478.9,
+    79.4,
+    633.6,
+    88.7
+   ],
+   "ocr": "Beilstein J. Org. Chem. 2012, 8, 915–929."
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    77.8,
+    130.1,
+    239.4,
+    139.4
+   ],
+   "ocr": "Table 1: Carbohydrate structure databases."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    81.2,
+    156.9,
+    623.6,
+    656.5
+   ],
+   "ocr": "Name, Ref Main content, comments URL Statusa\nBCSDB (Bacterial Glycan sequences, taxonomy, bibliography, http://csdb.glycoscience.ru/bacterial/ D/M\nCarbohydrate Structure NMR data\nDatabase) [18]\nCCSDB//CarbBank [19,20] Glycan sequences, taxonomy, bibliography – S\nCFG Glycan Structure DB Glycan sequences, taxonomy, bibliography, http://www.functionalglycomics.org/glyco S\n[21] glycan array data mics/molecule/jsp/carbohydrate/carbMol\neculeHome.jsp\nECODAB (Escherichia coli Glycan sequences, NMR data, http://www.casper.organ.su.se/ECODAB/ D/M\nO-antigen Database) [22,23] glycosyltranferases (E. coli glycans only)\nEUROCarbDB [24] Glycan sequences, taxonomy, bibliography, http://www.ebi.ac.uk/eurocarb/ S\nMS data\nGlycobase (Dublin) [25] Glycan sequences, taxonomy, HPLC data, http://glycobase.nibrt.ie D/M\nMS data, bibliography (registration required)\nGlycobase (Lille) Glycan sequences, taxonomy, NMR data http://glycobase.univ-lille1.fr/base/ ?\nGlycoconjugateDB [26] Glycan sequences, PDB references http://www.glycostructures.jp ?\nGlycoMapsDB [27] Computed conformational maps http://www.glycosciences.de/modeling/gl P\nycomapsdb/\nGlycoNavi (JCGGDB) Chemical reactions of carbohydrate http://ws.glyconavi.org D/M\nmolecules\nGlycomeDB [28-30] Glycan sequences and taxonomic data http://www.glycome-db.org D/M\nextracted from other databases\nGlycoPOD (JCGGDB Protocols for synthesis and analysis of http://jcggdb.jp/GlycoPOD/protocolListSh D/M\nGlycoProtocols Online glycan structures ow.action\nDatabase)\nGlycosciences.DB [31] Glycan sequences, taxonomy, bibliography, http://www.glycosciences.de/database/ D/M\n3D structure models, NMR data, PDB\nreferences\nGlycosideDB (JCGGDB) Chemical structures of glycoconjugates, http://jcggdb.jp/search/GlycosideDB.cgi D/M\naglycones\nGlycoSuiteDB [32,33] Glycan sequences, taxonomy, bibliography, http://glycosuitedb.expasy.org D/M\ndisease, protein glycosylation sites\nJCGGDB [34] Collection of several Japanese glyco-related http://jcggdb.jp/index_en.html D/M\ndatabases\nKEGG GLYCAN [35] Glycan sequences, bibliography, http://www.genome.jp/kegg/glycan/ ?\ncross-references to other KEGG resources\nMonosaccharideDB Monosaccharide notation and properties http://www.monosaccharidedb.org D/M\nSugaBase [36] Glycan sequences, taxonomy, NMR data – S\nUniCarb-DB [37] Glycan sequences, taxonomy, LC–MS data http://www.unicarb-db.com D/M",
+   "table_id": "PMC3388882_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    77.8,
+    662.2,
+    626.4,
+    683.6
+   ],
+   "ocr": "aD/M: Database is further developed and/or maintained; P: Development/maintenance is paused, but planned to be continued; S: Development/main- tenance is stopped (or, in the case of CFG resources, will be stopped soon because funding will discontinue); ?: Status unknown."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    725.8,
+    637.1,
+    942.5
+   ],
+   "ocr": "funding than that of data extracted from the literature. Carbohy- ways. EUROCarbDB was developed to store primary data of drate data from the PDB are also available in the Glycoconju- mass spectrometry (MS), NMR and high performance liquid gate Database [26], but updates are less frequent than in Glyco- chromatography (HPLC) experiments. In addition to data sciences.DB, which is updated weekly with new PDB entries. imported from CarbBank, the database contains structures from such experiments (mainly MS data). Detailed information on Other databases that implemented CarbBank data are KEGG the biological context in which a structure was found, is also GLYCAN [35], EUROCarbDB [24], and the Glycan Structure provided. EUROCarbDB is another example of a database that Database of the Consortium for Functional Glycomics (CFG) is no longer being developed because the funding has stopped. [21]. KEGG GLYCAN is part of the Kyoto Encyclopedia of However, it was developed as an open-source project. There- Genes and Genomes (KEGG) and integrates carbohydrate data fore, newly funded projects such as UniCarb-DB [37] or the with a variety of tools and information on other biomolecules. latest version of GlycoBase (Dublin) [25], which stores HPLC The KEGG portal has a particular focus on biosynthetic path- data, are able to make use of the EUROCarbDB source code 917"
+  }
+ }
+}

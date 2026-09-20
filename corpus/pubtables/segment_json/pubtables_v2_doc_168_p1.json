@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_168",
+  "page": 1,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    42.8,
+    300.9,
+    67.0
+   ],
+   "ocr": "Saleem et al. Journal of Biomedical Semantics 2014, 5:47 http://www.jbiomedsem.com/content/5/1/47"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    626.3,
+    43.0,
+    677.6,
+    54.4
+   ],
+   "ocr": "Page 8 of 18"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    310.8,
+    112.4,
+    677.6,
+    174.4
+   ],
+   "ocr": "for linking TCGA data workflow and schema To devise a fast, big data driven query federation engine, we started by exploiting how the various files and types of data in TCGA are interconnected. To date, 23054 raw"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    112.5,
+    324.1,
+    331.1
+   ],
+   "ocr": "Listing 3 Excerpt of the LIMES link specification TCGA and Homologene <SOURCE> <ID>TCGA</ID> <ENDPOINT>dna_methylation450_Lookup . nt <VAR>?x </VAR> <PAGESIZE>−1</PAGESIZE> <RESTRICTION>?x rdf : type tcga−schema : dna_methylation450_lookup </RESTRICTION> <PROPERTY>tcga−schema : Gene_Symbol AS </PROPERTY> <TYPE>N−TRIPLE </TYPE> </SOURCE> <TARGET> <ID>homologene </ID> <ENDPOINT> http : / / homologene . bio2rdf . org </ENDPOINT> <VAR>?y </VAR> <PAGESIZE>10000 </PAGESIZE> <RESTRICTION>? y a homologene : HomoloGene_Group"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    286.7,
+    165.7,
+    346.3,
+    179.3
+   ],
+   "ocr": "</ENDPOINT>"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    281.5,
+    171.2,
+    677.7,
+    370.2
+   ],
+   "ocr": "data files from 28 cancer tumours have been collected, summing up to a total of 28.3 TB of data [55]. For each level 3 data, we have identified three different types, i.e., lowercase we RDFized level 3 data for each cancer type and further define 3 data types for each of the level 3 tumours data of data. The resulting data are organized as a three layer architecture where layer 1 contains patient data, layer 2 / sparql consists of clinical information and layer 3 contain results for different samples of a patient. Each type of data is assigned to a different class in the RDFized version as depicted in Figure 5. For each patient, tumour and blood- lowercase /normal tissue samples are collected and divided into different portions upon which different protocols such as"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    77.6,
+    326.9,
+    153.2,
+    340.6
+   ],
+   "ocr": "</RESTRICTION>"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    76.6,
+    337.0,
+    291.4,
+    350.6
+   ],
+   "ocr": "<PROPERTY>homologene : has_gene_symbol AS"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    72.0,
+    347.1,
+    136.7,
+    370.8
+   ],
+   "ocr": "</PROPERTY> </TARGET>"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    315.2,
+    367.0,
+    677.6,
+    385.2
+   ],
+   "ocr": ", DNA, RNA and so on, are applied to extract the ana-"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    71.0,
+    367.2,
+    312.3,
+    390.9
+   ],
+   "ocr": "<METRIC>exactmatch ( x . tcga−schema : Gene_Symbol y . homologene : has_gene_symbol ) </METRIC>"
+  },
+  "p1_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    382.0,
+    677.6,
+    400.3
+   ],
+   "ocr": "lytes for the analysis of the sample. The extracted analytes"
+  },
+  "p1_b12": {
+   "type": "title",
+   "bbox": [
+    71.0,
+    387.4,
+    208.4,
+    411.1
+   ],
+   "ocr": "<ACCEPTANCE> <THRESHOLD>1</THRESHOLD>"
+  },
+  "p1_b13": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    397.1,
+    677.6,
+    415.3
+   ],
+   "ocr": "are distributed across plates. All these plates contain-"
+  },
+  "p1_b14": {
+   "type": "paragraph",
+   "bbox": [
+    76.6,
+    407.5,
+    313.2,
+    435.1
+   ],
+   "ocr": "<FILE >dna_450_homologene_accepted . nt </ <RELATION>tcga−schema : Homologene </RELATION>"
+  },
+  "p1_b15": {
+   "type": "title",
+   "bbox": [
+    286.5,
+    407.5,
+    313.2,
+    421.2
+   ],
+   "ocr": "FILE >"
+  },
+  "p1_b16": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    412.2,
+    677.6,
+    430.4
+   ],
+   "ocr": "ing patients tumour and normal samples are shipped to"
+  },
+  "p1_b17": {
+   "type": "caption",
+   "bbox": [
+    286.2,
+    427.2,
+    677.6,
+    472.7
+   ],
+   "ocr": "Genome Characterization Centres (GCCs) and Genome number of triples"
+  },
+  "p1_b18": {
+   "type": "caption",
+   "bbox": [
+    70.7,
+    427.7,
+    283.9,
+    472.7
+   ],
+   "ocr": "</ACCEPTANCE> Table 1 Statistics for 27 tumours sorted by"
+  },
+  "p1_b19": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    478.7,
+    677.3,
+    908.4
+   ],
+   "ocr": "Tumour type Raw(GB) Refined(GB) RDF(GB) Triples(Million)\nLymphoid Neoplasm Diffuse Large 0.37 0.20 0.83 35\nB-cell Lymphoma (DLBC)\nCutaneous melanoma (UCS) 1.2 0.64 2.6 113\nGlioblastoma multiforme (GBM) 2.3 0.77 2.8 132\nEsophageal carcinoma (ESCA) 1.5 0.88 3.4 149\nAdrenocortical carcinoma (ACC) 1.6 0.90 3.6 158\nPancreatic adenocarcinoma (PAAD) 2.6 1.1 4.5 200\nKidney Chromophobe (KICH) 3.7 1.4 5.3 242\nSarcoma (SARC) 3.8 1.5 5.9 267\nCervical (CESC) 8.75 2.44 8.86 400.19\nOvarian serous cystadenocarcinoma (OV) 8.2 2.4 8.7 410\nRectal adenocarcinoma (READ) 8.07 2.25 9.04 413.31\nPapillary Kidney (KIRP) 10.40 2.90 10.4 469.65\nStomach adenocarcinoma (STAD) 5.5 2.9 12 529\nLiver hepatocellular carcinoma (LIHC) 8.2 3.1 12 550\nBladder cancer (BLCA) 12.16 3.39 12.3 556.38\nAcute Myeloid Leukemia (LAML) 14.85 4.14 15.1 684.05\nLower Grade Glioma (LGG) 17.08 4.76 17.1 778.82\nProstate adenocarcinoma (PRAD) 18.05 5.03 18.1 821.01\nLung squamous carcinoma (LUSC) 20.63 5.75 20.5 927.08\nCutaneous melanoma (SKCM) 23.22 6.47 23.2 1050.94\nUterine Corpus Endometrial Carcinoma (UCEC) 13 5.98 24.2 1070\nColon adenocarcinoma (COAD) 18 6.64 26 1175\nv Head and neck squamous cell(HNSC) 27.6 7.69 27.5 1245.37\nLung adenocarcinoma (LUAD) 23 9.1 36 1611\nKidney renal clear cell carcinoma (KIRC) 24 9.4 37 1658\nThyroid carcinoma (THCA) 26 10.1 40 1796\nBreast invasive carcinoma (BRCA) 45 17 65 2959",
+   "table_id": "PMC4417511_table_0"
+  },
+  "p1_b20": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    915.7,
+    173.4,
+    925.6
+   ],
+   "ocr": "A total of 20.4 Billion triples."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_176",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    510.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterozygous Mapping Strategy for GBS Markers"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.4,
+    691.0,
+    108.3
+   ],
+   "ocr": "Table 4. Number of SNPs and linkage groups (LG) during LG and phase assignment for four F1 families analyzed with the de novo pipeline."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    717.7,
+    254.2
+   ],
+   "ocr": "F1 family (# individuals) Cut # Split LG (parent) # SNPs in # SNPs phased, # SNPs # ordered SNPs\nheight LGs LGs female phased, male after ﬁltering\nV. rupestris B38 x 0.95 43 8, 18 (V. rupestris B38) 13,829 4,200 (28%) 8,827 (59%) 7,018 (47%)\n‘Horizon’ (215) 1,4,7 (‘Horizon’) (93%)\n‘Horizon’ x Illinois 547–1 0.925 40 1,7 (‘Horizon’) 16,115 6,670 (39%) 8,794 (52%) 11,080 (65%)\n(366) (95%)\n‘Chardonnay’ x V. 0.9375 39 17 (‘Chardonnay’) 10,914 5,513 (46%) 4,927 (41%) 5,343 (44%)\ncinerea B9 (148) (90%)\n‘Horizon’ x V. cinerea B9 0.925 41 1,4,7 (‘Horizon’) 14,028 8,806 (57%) 4,454 (29%) 6,221 (41%)\n(162) (92%)",
+   "table_id": "PMC4526651_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    266.7,
+    727.3,
+    898.4
+   ],
+   "ocr": "Percentages below SNP number are relative to the number of pseudo-testcross markers entering the de novo pipeline. doi:10.1371/journal.pone.0134880.t004 libraries, 3) purification and size selection with AMPure beads, and 4) SNP calling independent of the 8,353 sample VitisGen build. Given the half-sib family experimental design, we analyzed this closely-related family for comparison to the VitisGen approach. For this pre-VitisGen family, fewer raw SNPs were identified (116,466) and more progeny (13 out of 88) were filtered out during family level quality control. While there were fewer raw SNPs for this family, 14.8% of them were retained during Pt marker identification, compared to 4.2% of the markers in the VitisGen families, resulting in 17,267 Pt markers for V. rupestris B38 x ‘Chardonnay’ (S7 Table), the highest of the five families tested. This was primarily due to fewer markers with low genotyping rate or <5% allele frequency, and fewer invariant sites after masking errors. However, this family had more markers with unexpected segregation ratios. In the HetMappS Synteny Pipeline, only 49% of Pt markers for the V. rupestris B38 x ‘Char- donnay’ family were linked with reference-assigned chromosomes, due to frequent linkage with other chromosomes or with multiple chromosomes (S8 Table). For LG assignment, this family required a more relaxed cut height (0.825) than the VitisGen families (0.9), and nine LGs were split on the parental maps. Due to the small population size of 88 progeny, only 2,669 markers were ordered in the Synteny map (S9 Table). In the HetMappS de novo Pipeline, the static cut height for the V. rupestris B38 x ‘Chardon- nay’ family (0.875) was again outside the range of the VitisGen families (0.925 and 0.95), and the majority of LGs were split, resulting in 71 LGs (S9 Table). Furthermore, only the F1 family V. rupestris B38 x ‘Chardonnay’ lost markers (1,807) during phasing. Some clustered markers had an atypical linkage pattern not seen in the VitisGen families, resulting in five large LGs with poorly defined linkage (S8 Fig). These five LGs were removed due their atypical linkage pattern, resulting in 66 LGs in the V. rupestris B38 x ‘Chardonnay’ map (S9 Table). Results of genetic map curation Genetic maps from both synteny and de novo pipelines were evaluated in terms of marker order and total size. Across the ten parental maps from the synteny or de novo pipeline, an average of 0.7 or 2.1 LGs per map (S10 Table) showed major order problems, respectively (S1 File). Further, all genetic maps derived from MSTMap showed larger genetic distances than the ~100 cM per LG that is typical for Vitis F1 families. Initial genetic distances ranged from 1,891 cM (1,231 SNPs) for the female synteny map of the V. rupestris B38 x ‘Chardonnay’ family, up to 8,311 cM (4,450 SNPs) for the male de novo map of the ‘Horizon’ x Illinois 547–1 family (Tables 5 and 6). Map curation with R/qtl (S3 Table, S4 File and S4 Table) was effective in reducing map size in both synteny and de novo pipelines, from an average distance of 2,906 cM and 4,878 cM to average distances of 1,286 cM"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0134880 August 5, 2015 16 / 31"
+  }
+ }
+}

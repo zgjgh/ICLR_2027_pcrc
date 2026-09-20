@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_054",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    451.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Time-Critical Adaptive Approach for Visualizing Natural Scenes"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    284.0,
+    715.8,
+    458.6
+   ],
+   "ocr": "Fig 3. Evaluation of tree importance. a. Our method to evaluate tree importance. The level of detail for a tree is related to viewpoint, tree position, visual angle and tree size. P4 has a higher level of LOD than P3 because P3 has a longer distance to viewpoint. P1 has the same distance to viewpoint as P2, but P1 has a higher level of LOD because it has a smaller visual angle. Although P4 and P5 have the same distance to viewpoint and the same visual angle, P4 has a higher level of LOD than P5 because P4 has a larger crown. b. Comparison with traditional LOD. Using traditional LOD method, P1 and P3 between range R1 and R2 have lower LOD level than P5, which is different from the result of our method. doi:10.1371/journal.pone.0117586.g003 crown. The value of B is calculated from a tree (called a benchmark tree) in the importance- critical area, as shown in Formula (12). 100"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    383.5,
+    453.2,
+    527.6,
+    469.0
+   ],
+   "ocr": "B a2"
+  },
+  "p3_b3": {
+   "type": "title",
+   "bbox": [
+    407.5,
+    453.2,
+    476.4,
+    476.1
+   ],
+   "ocr": "a1ð1 tany0Þ"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    491.7,
+    453.2,
+    501.7,
+    469.0
+   ],
+   "ocr": "d0"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    705.4,
+    453.2,
+    727.3,
+    476.1
+   ],
+   "ocr": "ð12Þ"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    394.3,
+    454.3,
+    540.8,
+    476.1
+   ],
+   "ocr": "¼ þ � þ �"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    461.9,
+    726.8,
+    773.6
+   ],
+   "ocr": "s0 where θ0 is the visual angle of the benchmark tree, d0 is its distance to the viewpoint, and s0 is the crown size of the benchmark tree. The larger the value of I is, the greater the visual im- portance is. When the value of I is more than 1, it means that the visual effect of this tree is more important, and it is not allowed to reduce its LOD level. Take tree P1 as the benchmark tree and its importance value as 1; for the marked five trees in Fig. 3a, their importance values are shown in Table 4, where d is the distance to viewpoint, θ is visual angle, s is the projection area of the tree crown, and I is the visual importance value. To verify this evaluation method of tree importance have better visual effects, this paper provides a comparison about the temporal coherence with traditional LOD method. Fig. 4a shows the scene rendered by using traditional LOD method at viewpoint p1, and Fig. 4b shows the same scene after walking forward at viewpoint p2 (S2 Dataset). The scene rendered by using the method proposed in this paper is shown in Fig. 5. Fig. 5a shows the scene at view- point p1, and Fig. 5b shows the same scene as Fig. 4b at viewpoint p2. According to these scenes, the LOD level of Tree 1 and Tree2 in Fig. 4a is LOD2, while the LOD level of Tree 1 and Tree2 in Fig. 4b is LOD1. However, the LOD level of Tree 1 and Tree2 is LOD1, no matter in Table 4. Importance information (α1 = 0.6, α2 = 0.4)."
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    783.9,
+    726.6,
+    877.9
+   ],
+   "ocr": "Tree position d θ S I\nP1 15 0 6 1\nP2 15 30 6 0.75\nP3 15 45 9 0.69\nP4 9 25 11 1.35\nP5 9 25 5 0.98",
+   "table_id": "PMC4344310_table_3"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    392.8,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t004"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0117586 February 27, 2015 11 / 26"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_209",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.1,
+    681.1,
+    52.7
+   ],
+   "ocr": "Huang et al. SpringerPlus (2016) 5:1138 Page 18 of 24"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    109.3,
+    472.9,
+    123.4
+   ],
+   "ocr": "Table 4 Average SLR for Matmul structure of unequal workloads"
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    131.2,
+    602.7,
+    227.5
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 0.31 0.24 0.21 0.20\nMCPA 0.25 0.18 0.15 0.14\nMCPA2 0.29 0.19 0.16 0.15\nCPR 0.25 0.20 0.17 0.16\nIAES 0.24 0.17 0.15 0.13",
+   "table_id": "PMC4954800_table_3"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.7,
+    267.3,
+    604.0,
+    661.4
+   ],
+   "ocr": "problems. In both types of experiments, we evaluated the M-task allocation methods across parallel computer systems of four different numbers of processors, i.e. 8, 16, 32, and 64. Tables 1 and 3 show the performance comparison in terms of average makespan and Tables 2 and 4 present the performance evaluation in terms of average SLR. The experimental results in Tables 1 and 2 show that for the workflow structure of Matmul, MCPA, MCPA2, CPR, and our IAES achieve the same performance when nodes of the same layer have equal workloads. On the other hand, Tables 3 and 4 indicate that the five M-task allocation methods lead to significantly different performance when nodes of the same layer might have unequal workloads. In both types of experiments, our IAES can achieve the best performance, while CPA performs the worst because it allocates processors to tasks at a per task basis and thus leads to unnecessary resource fragmentation and wasting. The experimental results in Tables 3 and 4 indicate that the number of processors might influence the relative performance of the M-task allocation methods. For example, CPR outperforms MCPA2 when the system has eight processors, while MCPA2 achieves better performance than CPR for systems of more processors. Figure 10 is the workflow structure of another real world application, Strassen Matrix Multiplication (Strassen), which has also been used in the experiments of many research works on mixed-parallel workflow scheduling, including (Radulescu et  al. 2001; Rad- ulescu and van Gemund 2001; Bansal et al. 2006). Tables 5, 6, 7 and 8 present the performance evaluation using the real world workflow structure of Strassen in Fig. 10. In the experiments of equal workloads for nodes of the same layer, as shown in Tables 5 and 6, MCPA2 outperforms the others when the system"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    156.5,
+    898.4,
+    313.1,
+    911.0
+   ],
+   "ocr": "Fig. 10 Workflow structure of Strassen"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_345",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    311.0,
+    65.8
+   ],
+   "ocr": "Ongenae et al. BMC Health Services Research 2011, 11:26 http://www.biomedcentral.com/1472-6963/11/26"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 17 of 28"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    922.3
+   ],
+   "ocr": "sanitary space, they are treated as sanitary calls. Nurses are able to make (sanitary) assistance calls in this department, but there are no buttons to make urgency or medical calls. Technical calls are not taken into account in the simulations as the result is straight- forward. Technical calls always get the lowest priority and a member of the technical staff is called as explained in The nurse call algorithm Subsection of the Algorithms Section. Information about the calls, such as frequency and duration, was gathered during three weeks by studying the logging information of the currently installed place- oriented nurse call system. Limited research has been done on reasons for patients’ call light use in the Ghent University hospital. The paper by Meade [41] presents an extensive study about this subject. The used results are presented in Figure 11. When a call is made a rea- son is randomly assigned based on these percentages. The average time that a nurse spends on handling a task from each category was also determined in an ear- lier study [40]. The normal, sanitary and (sanitary) assistance calls are handled as follows. All the nurses of the department receive the calls on their beepers or portable phones. A light also switches on above the room of the patient. The nurse, who arrives first at the location of the patient, switches off the call and starts treating the patient. If the time-out of a call is reached and none of the staff members have come to handle the call, all the nurses of the department receive the call again. As can be seen, it is possible that multiple nurses arrive at a room to handle a call, as multiple nurses are called and one nurse does not know if another nurse will handle the call or not. If they interrupt their current task (which could also be a call) to handle this call, the nurses have to remember themselves that they have to go back to that interrupted task. In case of an inter- rupted call, the other patient also has to wait until the nurse has finished this call, while it could be of a lower priority. Simulation set-up A realistic day-to-day hospital scenario was simulated. This means that the beds in the department are occu- pied averaging around the occupation rate as indicated in the Collected data Subsection. Of course it is assumed that the patients already own portable buttons and can thus move around freely and still make calls. When this situation is simulated for the place-oriented system, some calls may be impossible to handle e.g. calls made in the middle of a hallway. The movements of the patients were determined out of the collected data about the mobility of the patients and their tendency to visit other areas. During these movements they can make (sanitary) calls modeled according to a Poisson"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    336.9,
+    137.7
+   ],
+   "ocr": "Table 3 The distribution of the risk factors amongst patients in the three departments"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    302.7,
+    455.3
+   ],
+   "ocr": "Number of patients with:\n0 risk factors 10\n1 risk factor 10\n2 risk factors 8\n> 2 risk factors 2\nRisk factor weights (%):\nHigh age (a) 50\nDiabetes (b) 10\nHeart disease (c) 3\nHigh fall risk (d) 5\nNeurologic problem (e) 3\nTracheotomy (f) 10\nCOPD (g) 3\nParaplegia (h) 3\nPneumonia (i) 3\nDisoriented/confused (j) 5\nGastric Bleeding within 48 h (k) 3\nTransferred from ICU (l) 1\nTransferred from ICU within 72 h (m) 0\nReanimated (n) 1\nReanimated within 72 h (o) 0",
+   "table_id": "PMC3045288_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    487.5,
+    366.2,
+    922.9
+   ],
+   "ocr": "• Diabetes and disoriented/confused • Neurological problem and disoriented/confused • Transferred from the ICU and tracheotomy Based on this data, patients were assigned risk factors. The thresholds for the probabilistic reasoning algo- rithm, see the Priority Assessment of a call Subsection of the Algorithms Section, were determined by generating 22500 realistic calls and determining the priority each call gets by adjusting the threshold. The combination of thresholds was searched for which the percentages of calls assigned to a certain priority deviated least from the following distribution: 5% calls with highest priority, 10% with high priority, 25% with above normal priority, 35% with normal priority, 25% with below normal prior- ity and 0% with the low and lowest priority. This distri- bution reflects a realistic hospital environment. The tested kinds of calls generally do not have the low or lowest priority as these categories are preserved for medical and technical calls. The middle categories, namely above normal, normal and below normal, gener- ally contain more calls as most calls are made for simple requests. The chosen thresholds are 0.21 for the highest priority, 0.3 for the high priority, 0.24 for the above nor- mal priority, 0 for the normal priority, 0.05 for the below normal priority and 0 for the low and lowest priority. Current nurse call algorithm When calls are made by patients inside rooms, they are treated as normal calls. When calls are made inside a"
+  }
+ }
+}

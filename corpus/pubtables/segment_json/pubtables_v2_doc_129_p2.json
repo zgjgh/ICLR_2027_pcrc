@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_129",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    277.2,
+    65.8
+   ],
+   "ocr": "Müller et al. BMC Genomics 2011, 12:81 http://www.biomedcentral.com/1471-2164/12/81"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 3 of 13"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    663.3
+   ],
+   "ocr": "These comparisons are conservative, because they use a common P-value of 0.001 for both sexes, which corre- sponds to a FDR of 30% in females, but only 7% in males. Reducing the FDR in females would reduce the number of polymorphic genes even further. However, even using the minimal P-value possible in our analysis (P = 0.0001), the FDR does not drop below 20%. A con- tributing factor to the observed difference between the sexes may be that there is less statistical power to detect expression polymorphism in the female experiment. Townsend [26] proposed the statistic GEL50, which is the fold-change difference at which there is a 50% chance of detecting a significant difference with P < 0.05, as a standard for comparing the power of microar- ray experiments. For the female experiment, the GEL50 was 1.85. This is higher than the GEL50 of 1.51 reported for the male experiment [18], but still within the range reported for similar surveys of expression polymorphism in Drosophila and other species [2]. However, it is possi- ble that small differences in GEL50 can lead to large dif- ferences in the percentage of genes detected as differentially expressed [2]. To investigate the contribution of sex-biased genes to gene expression polymorphism among females, we clas- sified all of the genes on our arrays as male-biased, female-biased, or unbiased using the 5% FDR meta-ana- lysis of the Sebida database (release 2.0) [27]. Previous studies have shown that male-biased genes are the most polymorphic class of genes when assayed in males [18,28]. When assayed in females, there was no signifi- cant difference in the level of expression polymorphism among male-biased, female-biased, and unbiased genes (Table 2). However, the general pattern in females fol- lowed that in males, with male-biased genes showing Table 2 Expression polymorphism in sex-biased genes"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    922.3
+   ],
+   "ocr": "the greatest expression polymorphism and female-biased genes showing the least (Table 2). As expected, there were significant differences in the proportion of genes of different classes that were detected as expressed in females, with 56% of the female-biased genes and 38% of the male-biased genes being detected (Table 2). It should be noted that the Sebida sex-bias classifications consider only adult flies raised under standard laboratory condi- tions and, thus, may overlook genes that show condition- dependent or transient sex-biased gene expression. Baker and Russell [29] identified over 3,500 genes that showed female-biased expression in adult female abdomens dur- ing at least one stage of egg development. However, levels of polymorphism in this set of female-biased genes were nearly identical to those in the Sebida female-biased gene set. Of the female-biased genes identified by Baker and Russell [29] that were detected as expressed in our experiment, 23.82% (470/1,973) were polymorphic. The corresponding number for the Sebida female-biased gene set was 23.79% (534/2,245). It was previously found that, among males, genes residing on the X chromosome show less expression polymorphism than those residing on the autosomes [18]. This was attributed to the paucity of male-biased genes, which are the most polymorphic class in males, on the X chromosome [18]. Consistent with this inter- pretation, we found no significant difference in the level of expression polymorphism between X-linked and autosomal genes in females, where many fewer male- biased genes are expressed. The proportions of poly- morphic X-linked and autosomal genes were 25.3% and 23.9%, respectively (c2 = 0.97, P = 0.33). The ratio of X-linked to autosomal significant pairwise differences per gene was 0.96. The above results suggest that the difference in expression polymorphism between males and females can be explained partly by sex-biased gene expression, as male-biased genes tend to show the greatest expres- sion polymorphism whether assayed in males or in females [8,28] (Table 2) and make up a much greater proportion of the genes detected as expressed in males. However, when considering only unbiased genes (those expressed nearly equally in males and females), the per- centage of polymorphic genes is still 1.6-fold lower in females than in males (24.7% vs. 39.2%; c2 = 230, P < 0.0001). Similarly, unbiased genes show 3.9-fold fewer pairwise differences per gene in females than in males (0.95 vs. 3.74; Mann-Whitney test, P < 0.0001). This suggests that there are general differences between the sexes with respect to the regulation of gene expression and/or the level of purifying selection that restricts gene expression variation. It has been observed that infection with sigma virus alters the expression of many more genes in males than"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    668.3,
+    366.2,
+    873.2
+   ],
+   "ocr": "Sex-bias classification\nFeature Female Male Unbiased\nNumber of genes on array 4002 2572 5988\nPercentage of genes detected as expressed 56.1* 36.5* 44.8\nPercentage of expressed genes:\nPolymorphic in Europe 5.1 5.1 4.6\nPolymorphic in Africa 8.0 9.3 8.5\nPolymorphic overall 23.8 24.4 24.7\nDifferentially expressed between 8.4† 10.9 11.6\npopulations\nAverage percentage of pairwise differences:\nWithin Europe 0.16 0.18 0.17\nWithin Africa 0.25 0.32 0.30\nOverall 0.65 0.87 0.79",
+   "table_id": "PMC3040150_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    880.3,
+    363.7,
+    922.2
+   ],
+   "ocr": "Genes were classified using the 5% FDR meta-analysis of the Sebida database [27]. *Significantly different from unbiased genes (FET, P < 0.0001). †Significantly different from male-biased (FET, P < 0.05) and unbiased (FET, P < 0.001) genes."
+  }
+ }
+}

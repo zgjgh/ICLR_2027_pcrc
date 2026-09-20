@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_081",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    416.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Jointly learning word embeddings using a corpus and a knowledge base"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    97.5,
+    435.0,
+    107.6
+   ],
+   "ocr": "Table 1. Sub-corpora selected from ukWaC."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    303.7,
+    116.3,
+    671.5,
+    207.8
+   ],
+   "ocr": "% of ukWaC Number of tokens Size\n100 2B XL\n70 1.4B L\n40 800M M\n20 400M S\n10 200M XS",
+   "table_id": "PMC5847320_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    216.1,
+    443.1,
+    226.7
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0193094.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    256.0,
+    727.3,
+    552.0
+   ],
+   "ocr": "the corpus size on the proposed method, we randomly select sub-corpora of varying sizes as shown in Table 1. We use WordNet [8] as the KB in our experiments and consider eight different relation types. For synonyms, we generate all the pairwise combinations of words in a given synset to create synonymous word pairs. The list of synonymous word pairs is considered as the syno- nyms in Table 2. For other relations, we consider two words u and v connected by a semantic relation R if R exists between the two synsets encompassing u and v. Table 2 shows the number of tuples extracted for relation type (SKB) and the size of the KB after expanding with the cor- pus using NNE and HNE methods. Because of the extra requirements imposed by HNE over NNE, HNE is expected to assign fewer number of expansion candidates than NNE. Implementation details We create a word co-occurrence matrix X considering the words that occur at least 20 times in the corpus. Following prior recommendations [36], we set the context window to the 10 tokens preceding and succeeding a target word in a sentence and extract unigrams as context words. Co-occurrences are weighted by the inverse of the distance between the target word and a con- text word, measured by the number of tokens appearing in between. We adopt a decreasing 1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    545.3,
+    701.5,
+    557.9
+   ],
+   "ocr": "weighting function using the reciprocal of the distance between two co-occurrences. For"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    552.1,
+    725.8,
+    716.2
+   ],
+   "ocr": "d example, a context word co-occurring 5 tokens from a target word would contribute to a co- occurrence count of 1 5. The weighting function given by Eq 2 is computed with α = 0.75 and tmax = 100. We use stochastic gradient descent (SGD) with learning rate scheduled using AdaGrad [37] as the optimisation method. The overall algorithm of the proposed joint word embedding learning method is listed in Algorithm 1. The word embeddings are randomly initialised to the uniform distribution in the range [−1, +1] for each dimension separately. Experimentally, Table 2. KB size (in no. of edges) for different relation type under different expansion methods with K = 5 expan- sion words."
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    724.9,
+    689.4,
+    879.5
+   ],
+   "ocr": "Relation Type Edges\nSKB NNE HNE\nSynonyms 87,060 108,510 104,123\nAntonyms 4,064 7,004 5,325\nHypernyms 119,029 144,199 138,922\nHyponyms 122,926 141,961 138,010\nMember-holonyms 11,506 13,716 12,033\nMember-meronyms 11,431 12,706 11,651\nPart-holonyms 13,082 18,222 16,557\nPart-meronyms 13,251 18,191 16,186",
+   "table_id": "PMC5847320_table_1"
+  },
+  "p1_b8": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    887.8,
+    443.1,
+    898.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0193094.t002"
+  },
+  "p1_b9": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0193094 March 12, 2018 10 / 26"
+  }
+ }
+}

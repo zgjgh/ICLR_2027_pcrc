@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_145",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    370.4,
+    65.8
+   ],
+   "ocr": "Husain et al. BMC Medical Informatics and Decision Making 2012, 12:24 http://www.biomedcentral.com/1472-6947/12/24"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 12"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    376.1,
+    124.0
+   ],
+   "ocr": "Table 2 Number of GP ‘events’ from linked GP data and GP"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    379.9,
+    111.0,
+    539.1,
+    124.0
+   ],
+   "ocr": "‘visits’ from questionnaire data"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    678.6,
+    625.1
+   ],
+   "ocr": "Number of GP ‘events’ from linked GP data (Mean Number of GP ‘visits’ from Questionnaire data\n[95% CI])\nPatient Stratification Schemes 5 year period 1 year period 3 month recall 3 months recall period\nperiod\nDisease Severity Index\nLow (BASDAI < 40) 61.92 12.92 2.81 1.31\n(n = 72) [47.86-75.64] [9.96-15.87] [2.06-3.55] [0.98-1.63]\nHigh (BASDAI > = 40) 80.28 17.79 4.25 1.78\n(n = 72) [64.32-96.23] [14.04-21.54] [3.22-5.28] [1.34-2.21]\nRatio (high/low BASDAI) 1.30 1.38 1.51 1.36\nDisease Functional Index\nLow (BASFI < 40) 49.15 11.20 2.75 1.21\n(n = 71) [36.99-61.32] [8.38-14.02] [1.97-3.52] [0.87-1.55]\nHigh (BASFI > = 40) 92.27 19.40 4.29 1.86\n(n = 73) [76.34-108.21] [15.73-23.07] [3.29-5.29] [1.45-2.28]\nRatio (high/low BASFI) 1.88 1.73 1.56 1.54\nAge\nAge < 50 45.96 10.46 2.53 1.44\n(n = 68) [34.05-57.87] [7.54-13.38] [1.65-3.41] [1.00-1.89]\nAge > = 50 93.43 19.74 4.42 1.63\n(n = 76) [77.95-108.92] [16.27-23.21] [3.53-5.31] [1.30-1.97]\nRatio (Age > = 50/Age < 40) 2.03 1.89 1.75 1.13\nSex\nMale 75.52 16.07 3.69 1.50\n(n = 113) [63.43-87.61] [13.32-18.83] [2.95-4.43] [1.21-1.79]\nFemale 54.58 12.74 2.93 1.68\n(n = 31) [32.82-76.34] [7.82-17.66] [1.61-4.26] [0.95-2.40]\nRatio (Male/Female) 0.72 0.79 0.79 1.12\nDisease Symptom\nFirst Symptom at age < = 30 66.03 14.39 3.29 1.46\n(n = 112) [54.94-77.11] [11.86-16.93] [2.61-3.98] [1.17-1.76]\nFirst Symptom at age > 30 88.47 18.72 4.34 1.81\n(n = 32) [60.53-116.40] [12.45-24.99] [2.68-6.01] [1.11-2.51]\nRatio (first sym. age > 30/age < = 30) 1.34 1.30 1.32 1.24",
+   "table_id": "PMC3342092_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    649.0,
+    678.6,
+    918.8
+   ],
+   "ocr": "Similar hypotheses can be generated for female and male patients. This may have important implications as AS affects men more commonly than women, with onset in late teens or early adult years. Linked routine GP data for medications Table 3 indicates the presence of parent drugs in the AS patients’ GP history. The GP read codes starting with small letters a-z indicate the parent drug family the pre- scribed medicines belong to. Starting with the small let- ters a-z, the drug related GP read codes extends up to 4 more sub-digits to specifically identify the drug. It is beyond the scope of this paper to go beyond the first parent groups. Table 3 shows, in different retrospective time spans, how many patients’ GP read codes include the mentioning of a particular drug code at least once. It is evident that the highest number of patients is pre- scribed musculoskeletal and joint drugs (read code ‘j’), followed by the central nervous system drugs (which"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    649.1,
+    366.1,
+    918.8
+   ],
+   "ocr": "are consistent with those for the number of self- reported visits obtained from the questionnaires during the 3 month recall period, which are 1.31 visits for the low severity group and 1.78 for the high severity group. The 3 month GP events and self-reported GP visits in the high disease severity group were 1.51 and 1.36 times respectively more than in the low disease severity group and the between-group relative differences are largely consistent throughout the 5 year period (see Table 2). The same strategy can be applied to the other stratifica- tion models. The data in Table 2 indicates that the lar- gest discrepancies between self-reported GP visits and routine data GP events are in the groups stratified by age and gender. We postulate that this suggests that older patients with AS (age ≥50) either tend to under- report GP visits or have more non-visit related GP events (e.g. for prescriptions) compared to younger patients, or that the reverse is true for younger patients."
+  }
+ }
+}

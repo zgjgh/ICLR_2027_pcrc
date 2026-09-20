@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_256",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    306.8,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Bayesian variable selection with graphical structure learning: Applications in integrative genomics"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.8,
+    727.4,
+    155.6
+   ],
+   "ocr": "Table 1. Simulations for Case I(a)-I(b), training sample size = 100, test sample size = 100. BVS-SL(κ) represents the Bayes variable selection with belief parameter κ for all edges. Pencred, SSVS, Lasso, EL, SCAD, SSL, and Flasso represent the penalized joint credible regions approach, stochastic search variable selection, L1 penalized regres- sion, and elastic net, the smooth clipped absolute deviation, the spike and slab lasso, and sparse fused lasso respectively. MSPE: out of sample predictive MSE; Pwr(10% FDR) is sensitivity controlling for 90% specificity; MS: estimated model size; FP: false positives, and Cov95 is coverage under 95% predictive intervals. The true model size for Cases I(a)-(b) is 10."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    162.6,
+    701.0,
+    808.2
+   ],
+   "ocr": "Method MSPE ROC PRC Pwr(10% FDR) MS FP Cov95\nCase I(a) p = 40\nBVS-SL(κ = 0) 1.103 0.997 0.996 1.000 10.000 0.444 0.922\nBVS-SL(κ = 20) 1.100 1.000 1.000 1.000 10.250 0.250 0.921\nPenCred 1.153 0.890 0.869 0.802 9.400 1.700 0.912\nSSVS 1.123 0.954 0.921 0.880 7.650 0.200 0.917\nLasso 1.206 0.894 0.870 0.815 10.950 2.900 0.893\nEL 1.218 0.906 0.874 0.815 11.150 3.050 0.893\nSCAD 1.310 0.707 0.714 0.824 9.64 1.72 0.915\nSSL 1.309 0.855 0.825 0.762 7.36 0.46 0.908\nFlasso 1.228 0.912 0.894 0.851 9.258 0.623 0.895\nCase I(a) p = 80\nBVS-SL(κ = 0) 1.093 0.999 0.996 1.000 9.800 0.250 0.928\nBVS-SL(κ = 20) 1.092 1.000 1.000 1.000 10.600 0.600 0.930\nPenCred 1.270 0.888 0.790 0.740 13.700 6.150 0.880\nSSVS 1.128 0.965 0.897 0.895 8.050 0.750 0.926\nLasso 1.288 0.879 0.770 0.800 10.700 3.100 0.883\nEL 1.300 0.890 0.773 0.790 11.050 3.450 0.879\nSCAD 1.370 0.697 0.680 0.746 9.12 1.70 0.905\nSSL 1.364 0.887 0.834 0.732 7.08 0.36 0.908\nFLasso 1.155 0.938 0.912 0.854 9.190 0.428 0.904\nCase I(b) p = 40\nBVS-SL(κ = 0) 1.108 0.971 0.947 0.955 9.100 1.000 0.924\nBVS-SL(κ = 20) 1.111 0.987 0.981 0.985 9.550 0.650 0.923\nPenCred 1.156 0.749 0.679 0.550 6.200 1.200 0.912\nSSVS 1.107 0.842 0.785 0.695 6.400 0.650 0.925\nLasso 1.251 0.630 0.563 0.423 8.650 4.050 0.885\nEL 1.265 0.648 0.598 0.465 8.300 3.450 0.881\nSCAD 1.287 0.664 0.632 0.662 8.64 1.78 0.912\nSSL 1.274 0.831 0.792 0.652 6.34 0.28 0.914\nFlasso 1.114 0.851 0.827 0.792 9.59 0.90 0.898\nCase I(b) p = 80\nBVS-SL(κ = 0) 1.089 0.960 0.927 0.950 8.200 0.500 0.922\nBVS-SL(κ = 20) 1.082 0.975 0.963 0.965 8.600 0.400 0.927\nPenCred 1.212 0.738 0.561 0.518 9.450 4.450 0.888\nSSVS 1.093 0.863 0.730 0.725 6.050 0.600 0.924\nLasso 1.290 0.609 0.473 0.450 6.100 2.200 0.861\nEL 1.295 0.628 0.536 0.530 7.250 2.750 0.861\nSCAD 1.408 0.655 0.599 0.658 10.80 4.06 0.901\nSSL 1.305 0.816 0.740 0.632 6.28 0.18 0.912\nFlasso 1.182 0.885 0.851 0.802 9.24 0.73 0.901",
+   "table_id": "PMC6066211_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    816.4,
+    236.3,
+    827.0
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195070.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195070 July 30, 2018 18 / 29"
+  }
+ }
+}

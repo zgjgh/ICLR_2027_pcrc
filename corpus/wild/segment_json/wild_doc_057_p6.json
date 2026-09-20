@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_057",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    94,
+    580,
+    152
+   ],
+   "ocr": "In the context of our ongoing research into the differentiation potential of various samples, the data presented in the accompanying table offers critical insights into the crystallite size and its correlation with specific differentiation stages. Notably, the \"Crystallite Size (nm)\" column highlights the varying physical characteristics of the samples, which are hypothesized to influence their biological behavior."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    140,
+    580,
+    198
+   ],
+   "ocr": "For instance, a crystallite size of 12.2 nm in sample TM0 may suggest a favorable structural environment for differentiation processes. Furthermore, the metrics related to differentiation stages— specifically, the \"Stage 1\" and \"Stage 2\" columns—provide quantitative measures of differentiation efficacy, with corresponding p-values to evaluate statistical significance."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    236.0,
+    580.0,
+    356.0
+   ],
+   "ocr": "Sample Crystallite Size (nm)\nTM0 12.2\nTM30 11.5\nTM120 11.8\nTM600 12.9\nTM1200 12.9",
+   "table_id": "img_063380_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    397.0,
+    580.0,
+    523.0
+   ],
+   "ocr": "Characteristics Hazard ratio 95.0% confidence interval P value\nUpper Lower\nDifferentiation 0.802 0.647 0.994 0.044*\nLymph node 0.512 0.358 0.732 <0.001*\nClinical stage 1.433 0.943 2.177 <0.001*\nSPON2 expression 1.626 1.063 2.486 0.025*",
+   "table_id": "img_063380_t1"
+  },
+  "p6_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    557.0,
+    580.0,
+    684.0
+   ],
+   "ocr": "Immune markers Cell type DL FLR\nStage 1 Stage 2 p Value Stage 1 Stage 2 p Value\nCD3+ T cells 19.9 27.67 0.11 20.22 19.15 0.38\nCD19+CD3− B cells 2.92 5.35 0.016 1.46 2.42 0.69\nCD3−CD56+ NK cells 11.16 15.21 0.375 11.10 16.57 0.163\nCD11b+ Myeloid cells 57.4 40.54 0.047 59 42.16 0.22",
+   "table_id": "img_063380_t2"
+  },
+  "p6_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    732
+   ],
+   "ocr": "The observed p-value of 0.044* indicates a noteworthy difference between the stages, suggesting a statistically significant impact of the crystallite size on the differentiation outcome."
+  },
+  "p6_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Collectively, these metrics underscore the relevance of physical properties in biological applications, guiding future investigations into material modifications aimed at optimizing differentiation protocols."
+  }
+ }
+}

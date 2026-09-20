@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_044",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    506.2,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Novel SNPs Associated with Autism Subtypes"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    366.1,
+    92.8
+   ],
+   "ocr": "Table 4. Insistence on sameness QTL associated with ASD"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    369.9,
+    81.4,
+    415.2,
+    92.8
+   ],
+   "ocr": "subtypes."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    120.1,
+    674.4,
+    401.4
+   ],
+   "ocr": "SNP SNP Position Band Location Gene UNADJ FDR_BHa BONFb Subtype\nrs1827924 chr2:228377979 2q36.3 Promoter CCL20 0.0002 0.0053 0.0053 Moderate\nrs17738966 chr14:54371969 14q22.2 Downstream GCH1 0.0005 0.0071 0.0171 \"\nrs7950390 chr11:4587928 11p15.4 Promoter TRIM68 0.0007 0.0071 0.0212 \"\nrs3861787 chr11:4604346 11p15.4 CNV* 0.0012 0.0078 0.0385 \"\nrs317985 chr5:66773558 5q13.1 CNV 0.0012 0.0078 0.0392 \"\nrs3804967 chr3:7479914 3p26.1 Intron GRM7 0.0022 0.0119 0.0712 \"\nrs3804968 chr3:7477700 3p26.1 Intron GRM7 0.0033 0.0131 0.1069 \"\nrs13096022 chr3:7465129 3p26.1 Intron GRM7 0.0034 0.0131 0.1102 \"\nrs6782718 chr3:7462776 3p26.1 Intron GRM7 0.0037 0.0131 0.1182 \"\nrs9568011 chr13:47606812 13q14.2 - 0.0047 0.0152 0.1518 \"\nrs164187 chr1:160615261 1q23.3 Promoter C1orf111 0.0070 0.0205 0.2251 \"\nrs10781238 chr9:76384432 9q21.13 Intron RORB 0.0101 0.0240 0.3221 \"\nrs9634811 chr13:47362176 13q14.2 - 0.0103 0.0240 0.3303 \"\nrs2469183 chr15:84992924 15q25.3 CNV 0.0105 0.0240 0.3363 \"\nrs317985 chr5:66773558 5q13.1 CNV 0.0023 0.0584 0.0727 Mild\nrs1827924 chr2:228377979 2q36.3 Promoter CCL20 0.0037 0.0584 0.1168 \"\nrs2574852 chr17:73003467 17q25.3 Intron SEPT9 0.0057 0.0609 0.1826 \"",
+   "table_id": "PMC3083416_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    412.7,
+    375.8,
+    963.6
+   ],
+   "ocr": "ap-value adjusted using Benjamini-Hochberg False Discovery Rate method; bBonferroni-adjusted p-value. *CNV located in Chromosomal band as reported by Pinto et al. [15]. doi:10.1371/journal.pone.0019067.t004 pathway analysis was conducted to develop a better sense of the relationships among the SNP-associated genes and their impact on higher level functions and diseases. Fig. 3 shows a gene network constructed using Pathway Studio 7 which includes seven of the 9 genes associated with SNPs found within gene promoters or introns. Of the 7 genes, HTR4 and GCH1 are ‘‘hubs’’ showing the highest ‘‘connectivity’’ with other components within the network. The specific relationships between these two genes and other network components are more clearly illustrated in Figures S3 and S4. It is noted that many of the cellular and higher level processes in this network, such as neurogenesis, axonogenesis, steroid metabolism, cell proliferation, long-term synaptic potenti- ation, learning and memory are relevant to identified deficits in ASDs. Discussion We have previously shown that the autistic population can be divided into subgroups of affected individuals according to symptomatic profile through cluster analyses of severity scores from the ADI-R assessment for each individual with an ASD [13]. Three of the 4 resulting subgroups were shown to exhibit distinct, though partially overlapping, gene expression profiles, each relative to a group of nonautistic controls, implying that both unique and shared genes are associated with the respective phenotypes [14]. We therefore applied the same rationale and methods in subtyping individuals with ASDs for this re-analysis of previously published genome-wide association data [9]. We first employed quantitative trait association analyses to the .500,000 SNPs tested in order to prioritize SNPs that might correlate with a behavioral or symptomatic ‘‘trait’’ relevant to ASDs. These quantitative traits for each individual with an ASD were derived from the sums of severity scores from the ADI-R items that described severity of language impairment, deficits in nonverbal PLoS ONE | www.plosone.org"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    473.8,
+    700.8,
+    963.6
+   ],
+   "ocr": "communication, impaired play skills, insistence on sameness/ rituals, and delayed social development. The specific items used to establish each quantitative trait (listed in Table S1) were shown by Hu and Steinberg to exhibit differential severity among the several subtypes of ASDs [13]. In this ‘‘discovery’’ stage of the experiment, quantitative trait association analyses across the 5 selected traits produced a filtered set of 167 unique SNPs from the original 513,312 SNPs (Table S2). Subsequent association analyses of these QTL with both combined and subtyped individuals with ASDs revealed 18 novel SNPs which were found to be highly significant (Bonferroni-adjusted p-value,0.05) in at least one subtype of autism (Table 6). Interestingly, many of the language QTL from Table S2 are strongly associated with the severely language-impaired ASD subtype. Of the 18 novel SNPs, 10 SNPs were replicated, albeit at a more modest significance level, in at least one of the other subtypes. Two are replicated with Bonferroni-significant p-values while the other 8 are suggestively significant (FDR-BH adjusted p-value,0.09). While it may be argued that the standard statistical methods used here to correct for multiple testing are not stringent enough, there is still no clear consensus on the significance level that is appropriate for a candidate gene (or SNP) study such as this, where the candidate SNPs are determined by prior quantitative trait association analyses. More significantly, different minor allele frequencies and odds ratios are observed for the SNPs that are associated with more than one subtype (Table 6 and Fig. 2), thus reflecting the genetic heterogeneity among the ASD phenotypes, which is teased apart by the subtyping procedures employed here. It is noteworthy that no significant SNPs were identified when all 1867 individuals with ASDs were analyzed against 2438 nonautistic controls, thus underscoring the importance of phenotypic subtyping to unearth- ing SNP associations with ASDs. By comparison, the original genome-wide study which was based on the combined analysis of 2503 cases and more than 7000 6 April 2011 | Volume 6 | Issue 4 | e19067"
+  }
+ }
+}

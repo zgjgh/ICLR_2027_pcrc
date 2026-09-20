@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_038",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The following data table presents a comprehensive overview of various chemical compounds as cataloged in the DrugBank database, emphasizing critical characteristics such as their structural representations and classification. Among the metrics detailed in the table, the \"IUPAC\" column provides standardized nomenclature for each compound, facilitating clear communication regarding their chemical identity."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "Additionally, the \"Chance level (%)\" metric offers insight into the predictive reliability of the associated data, with a notable observation that the average chance level stands at 50%. This percentage reflects the baseline probability of correctly identifying the properties of these compounds, which is essential for researchers aiming to develop new pharmacological applications."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    300.0
+   ],
+   "ocr": "Database MOL InChI SMILES IUPAC\nDrugBank 6506 6391 6504 6489\nChEBI 21367 19076 19725 18798\nHMDB 8534 8534 8534 7727\nPubChem 5069294 5069293 5069294 4769031\nNPC 8024 0 8018 0",
+   "table_id": "img_042685_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    315.0,
+    580.0,
+    418.0
+   ],
+   "ocr": "Class Chance level (%) Confidence limits (%)\n2 50 (36.8, 63.2)\n3 33.4 (23.2, 44.2)\n4 25 (17.2, 33.6)\n5 20 (14.3, 26.5)",
+   "table_id": "img_042685_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    433.0,
+    580.0,
+    559.0
+   ],
+   "ocr": "Life years Quality-adjusted life years\nYears since initiation PSM and Dabi PCpc and Hpc and Hvp PSM and Dabi PCpc and Hpc and Hvp\n1 0.90 0.88 0.56 0.54\n5 3.77 3.55 2.21 2.06\n10 6.09 5.51 3.43 3.10\nLifetime 8.45 7.29 4.59 3.99",
+   "table_id": "img_042685_t2"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    575,
+    580,
+    602
+   ],
+   "ocr": "The inclusion of \"Years since initiation\" also provides context for the temporal aspect of the data, highlighting the evolution of drug development timelines."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    590,
+    580,
+    633
+   ],
+   "ocr": "Overall, this table serves as a critical resource for understanding the relationships between chemical structures and their potential therapeutic uses, informing ongoing research and innovation in the field of medicinal chemistry."
+  }
+ }
+}

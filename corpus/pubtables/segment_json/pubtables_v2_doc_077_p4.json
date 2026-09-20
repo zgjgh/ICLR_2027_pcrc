@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_077",
+  "page": 4,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    16.5,
+    253.7,
+    31.8
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    202.7,
+    60.2,
+    633.3,
+    459.6
+   ],
+   "ocr": "Variables Cholesterol oxidase activity (U mL−1)\nStd Run Type X1 X2 X3 Experimental Predicted Residuals\n5 1 Factorial −1 −1 1 9.065 8.875 0.190\n6 2 Factorial 1 −1 1 12.663 12.649 0.014\n14 3 Axial 0 0 1 15.411 15.459 −0.048\n3 4 Factorial −1 1 −1 10.172 10.022 0.150\n18 5 Center 0 0 0 14.710 14.940 −0.230\n7 6 Factorial −1 1 1 7.939 8.084 −0.145\n12 7 Axial 0 1 0 14.808 14.777 0.031\n11 8 Axial 0 −1 0 13.349 14.037 −0.688\n4 9 Factorial 1 1 −1 8.823 8.848 −0.026\n16 10 Center 0 0 0 15.390 14.940 0.450\n1 11 Factorial −1 −1 −1 6.193 6.018 0.175\n2 12 Factorial 1 −1 −1 6.885 6.576 0.309\n15 13 Center 0 0 0 15.074 14.940 0.134\n8 14 Factorial 1 1 1 10.116 10.127 −0.011\n10 15 Axial 1 0 0 10.310 10.597 −0.287\n9 16 Axial −1 0 0 8.926 9.297 −0.370\n20 17 Center 0 0 0 15.074 14.940 0.134\n19 18 Center 0 0 0 15.631 14.940 0.691\n13 19 Axial 0 0 −1 12.781 13.391 −0.609\n17 20 Center 0 0 0 15.074 14.940 0.134\nCoded and actual levels\nVariable Variable code −1 0 1\nCholesterol (g/L) X1 2 3 5\nIncubation time (days) X2 4 5 6\npH X3 5 6 7",
+   "table_id": "PMC5807524_table_4"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    469.6,
+    697.0,
+    498.3
+   ],
+   "ocr": "Table 5. FCCD showing cholesterol oxidase production by the selected strain as influenced by the three most significant variables along with the predicted values and residuals."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    202.7,
+    527.5,
+    493.8,
+    757.5
+   ],
+   "ocr": "Coefficient Standard 95% CI 95% CI\nFactor estimate error Low High\nIntercept 14.940 0.156 14.592 15.287\nX1 - (Cholesterol, g/L) 0.650 0.144 0.330 0.970\nX2 - (Incubation time, days) 0.370 0.144 0.050 0.690\nX3 - (pH) 1.034 0.144 0.714 1.354\nX1 X2 −0.433 0.161 −0.790 −0.075\nX1 X3 0.804 0.161 0.446 1.162\nX2 X3 −1.199 0.161 −1.556 −0.841\nX1 2 −4.992 0.274 −5.603 −4.382\nX2 2 −0.532 0.274 −1.143 0.078\nX3 2 −0.515 0.274 −1.125 0.095\nStd. Dev. 0.454 R-Squared 0.9895\nMean 11.920 Adj R-Squared 0.9801\nC.V.% 3.810 Pred R-Squared 0.9494\nPRESS 9.971 Adeq Precision 29.4015",
+   "table_id": "PMC5807524_table_5"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    768.2,
+    709.0,
+    851.1
+   ],
+   "ocr": "Table 6. Regression statistics of FCCD, regression coefficients of second order polynomial model for cholesterol oxidase production optimization. C.V: Coefficient of variation. Multiple regression analysis and ANOVA. The obtained data were subjected to regression analysis and analysis of variance (ANOVA) using the Design Expert 7.0 software, and the generated data are represented in"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    848.4,
+    709.0,
+    863.9
+   ],
+   "ocr": "Tables 6–8. The coefficient of determination (R2) checks the goodness of fit of the model. In the present investiga-"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    861.1,
+    708.9,
+    876.7
+   ],
+   "ocr": "tion, the obtained coefficient of determination (R2) value (0.9895) (Table 6) reflected that 98.95% of the variations"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    873.9,
+    708.7,
+    889.4
+   ],
+   "ocr": "in the enzyme production can be explained by the independent factors and only 1.05% of the variations are not"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    886.6,
+    708.9,
+    902.2
+   ],
+   "ocr": "explained by these factors. According to Chen et al.43, “a regression model is considered highly correlated when"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    899.5,
+    709.0,
+    915.0
+   ],
+   "ocr": "the R2 value is higher than 0.9”. The adjusted determination coefficient (Adj R2) found to be 0.9801 which con-"
+  },
+  "p4_b10": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    912.3,
+    708.9,
+    927.8
+   ],
+   "ocr": "firm the model significance. The values of the “Pred R-Squared and the “Adj R-Squared” were found to be 0.9494"
+  },
+  "p4_b11": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    925.0,
+    708.9,
+    979.9
+   ],
+   "ocr": "and 0.9801, respectively, which elucidates a very good fit between the experimentally obtained results and the SCiENTiFiC REPORTS | (2018) 8:2706 | DOI:10.1038/s41598-018-20786-3 8"
+  }
+ }
+}

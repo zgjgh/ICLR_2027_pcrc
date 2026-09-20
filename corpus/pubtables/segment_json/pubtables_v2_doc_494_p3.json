@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_494",
+  "page": 3,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    421.1,
+    708.9,
+    451.1
+   ],
+   "ocr": "Figure 4. Functional recognition of median nerve fascicles. (a) One nerve slice image; (b) first recognition result; (c) second recognition result; (d) third recognition result."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    204.0,
+    490.8,
+    443.2,
+    537.7
+   ],
+   "ocr": "Processing mode Accuracy rate Time consumed\nManual 99.7% 42 hrs\nComputer 91.6% 9.5 hrs",
+   "table_id": "PMC4657002_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    198.9,
+    553.5,
+    665.0,
+    569.4
+   ],
+   "ocr": "Table 3. Processing time and accuracy comparisons between manual and computer processing."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    610.5,
+    709.0,
+    861.7
+   ],
+   "ocr": "“J” and “K” are of another type and other groups are separated to the same other type. The same results were obtained when the method was employed to other slice images. Additionally, the current study has compared the accuracy and efficiency between our computer method and the manual method in recognizing the functional types of nerve fascicles of 200 slice images (Table 3). While the recognition accuracy of the manual way was a little better than computer’s method, the computer method was over 4 fold more efficient than the manual method. This study demonstrates that the fascicle feature extraction by multi-directional gradient and its second order gradient method is feasible, effective and efficient, and that our method for the automatic functional type recognition of nerve fascicles is simple, rapid and reliable. 3D reconstruction of median nerve fascicles. After the above described procedures for position line recognition, image registration, fascicle edge acquisition and functional type recognition, the result- ing section images can then be used to perform the 3D reconstruction. For 3D reconstruction, purple, green and yellow drawings were used to represent fascicles of different functions as well as to distinguish the cross and fusion between the nerve bundles. The reconstructed results of the median nerve are pre- sented in Fig. 5, which shows a 3D model of the nerve in an arbitrary position (Fig. 5a) and the different natures and combinations of nerve fascicles (Fig. 5b). By adjusting the related parameters of software, we can control the orientation of the image presentation, angles and so on, and we can implement the"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    858.7,
+    708.9,
+    875.1
+   ],
+   "ocr": "human-computer interaction arbitrary 3D rotation, which shows a clear and strong sense of the entity"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    872.2,
+    709.0,
+    888.5
+   ],
+   "ocr": "as a whole. From this 3D model, it can be seen that nerve fascicles can cross and merge along its length,"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    885.6,
+    708.9,
+    902.0
+   ],
+   "ocr": "demonstrating and confirming the intuitive complex variations of the different functional fascicle types"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    899.0,
+    709.0,
+    915.4
+   ],
+   "ocr": "of the median nerve. In addition, it confirms that a peripheral nerve includes those nerve fascicles mainly"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    912.4,
+    708.9,
+    928.8
+   ],
+   "ocr": "of sensory function, those of motor function, and those mixed nerve fascicles with sensory and motor"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    925.8,
+    708.9,
+    980.1
+   ],
+   "ocr": "functions. Scientific RepoRts | 5:17168 | DOI: 10.1038/srep17168 6"
+  }
+ }
+}

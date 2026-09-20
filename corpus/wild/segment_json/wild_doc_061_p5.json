@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_061",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    575,
+    93
+   ],
+   "ocr": "The following data table provides an in-depth analysis of the protein HydA1, specifically focusing on its association with various clinical manifestations and skeletal abnormalities. The STRING ID and Protein ID columns offer unique identifiers that facilitate the correlation of this protein with specific phenotypic and clinical outcomes."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    81,
+    575,
+    124
+   ],
+   "ocr": "Notably, the table highlights the presence of significant skeletal abnormalities, including bilateral pes equinovarus, which indicates a pronounced impact on the patient's mobility and overall quality of life."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    141.0,
+    575.0,
+    261.0
+   ],
+   "ocr": "STRING ID Protein ID Protein Description\nCAC0028 HydA1 Hydrogenase I (Hydrogene dehydrogenase)\nCAC0487 - Uncharacterized protein\nCAC1651 HydF Predicted GTPase with uncharacterized domain\nCAC1631 HydE Biotin synthase family enzyme\nCAC1356 HydG Thiamine biosynthesis enzyme",
+   "table_id": "img_067342_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    276.0,
+    575.0,
+    480.0
+   ],
+   "ocr": "Subject Skeletal Abnormalities Spastic Gait Age of Onset of Paraparesis (Years) Rhabdomyolysis\nI/2 Both hands and feet with bilateral pes equinovarus Yes, with wheelchair-dependency in her 50s 30s Unknown\nII/1 Mild hand deformities Yes, required an assistive device in her 50s and wheelchair in her 60s 30 Yes (history of passing very dark urine)\nII/2 Severe hand deformities, mild feet deformities Yes, required assistive device in his 60s, wheelchair in his 70s 39 Yes (history of passing very dark urine)\nIII/1 Mild hand deformities Yes, abnormal but independent gait at age 47 years 27 Yes (documented elevation of CPK and myoglobinuria)\nIII/2 Severe hand deformities, mild feet deformities Yes, abnormal but independent gait at age of 51 years 32 Yes (documented elevation of CPK and myoglobinuria)",
+   "table_id": "img_067342_t1"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    495.0,
+    575.0,
+    689.0
+   ],
+   "ocr": "Bias (95% CI)\nMean area (um2) ±SD P value R value LoA Mean Upper limit Lower limit\nAutomated 195474.6 ± 96311.3 0.006 −0.062 43187.1 (13056.0 to 73318.3) 250990.3 (199150.8 to 302830.0) −164616.1 (-216455.7 to -112776.5)\nS.A M(mean of M1, M2) 152287.4 ± 38750.8\nAutomated 195474.6 ± 96311.3 0.004 −0.058 45885.2 (15590.3 to 76180.1) 254817.6 (202696.4 to 306938.9) −163047.2 (-215168.5 to -110926.0)\nS.A B(mean of B1 ,B2) 149589.4 ± 40447.4",
+   "table_id": "img_067342_t2"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    575,
+    732
+   ],
+   "ocr": "Additionally, the Age of Onset of Paraparesis is documented, revealing a delayed onset in the 30s, which raises intriguing questions regarding the progression of symptoms and the underlying pathophysiology associated with HydA1."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    575,
+    778
+   ],
+   "ocr": "The data also includes critical statistical metrics, such as the P value and R value, which provide insights into the strength and significance of the observed associations. These findings underscore the importance of further research into the functional implications of HydA1 in relation to these clinical features, particularly for patients experiencing severe motor disabilities."
+  }
+ }
+}

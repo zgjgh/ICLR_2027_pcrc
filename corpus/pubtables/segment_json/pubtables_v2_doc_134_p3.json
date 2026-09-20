@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_134",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Predicting Infection with Simple Parameters"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    639.4
+   ],
+   "ocr": "areas under receiver operating characteristic curve (AUC) were calculated and compared using MedCalc for windows, version 10.2.0.0 (MedCalc Software, Meriakerke, Belgium). Results Out of 1,852 patients, 893 (48.2%) were female patients with the mean age of 55.29618.35 years (range 17 years–80 years); Mean diagnosis numbers at admission was 1.4860.838 (range 0– 5). Table 2 summarized the demographic clinical characteristics of infection and non-infection groups. The patients with HAIs were found to be older and predominantly male, and have significantly increased number of diagnosis at the time of admission, hemodialysis, devices used such as arterial lines, CVCs, endotra- cheal intubations and tracheostomy, NG and other draining tubes, Foley catheters, and treatment modalities as chemotherapy, systemic steroids and ulcer prophylaxes than those without infection. There was no statistical significance between two groups with respect to NSAID per se. These parameters were used to establish LR and ANN models. Detection of Infection by Logistic Regression We first analyzed the variables that would be useful to detect infection and 7 variables were included in the final LR model selected by stepwise method which is shown in table 4. The optimal cut point (Youden’s index) for predicted values was 0.20. The performances of LR of Group 1 both for training set (accuracy: 91.05%; sensitivity: 93.7%; specificity: 91.0%) and internal validation (accuracy: 91.54%; sensitivity: 92.44%; speci- ficity: 91.52%) were excellent. Then we applied ‘‘variable rotation’’ methods in comparison with different variable groups, with particular focus on the presence or absence of medical devices in determining the acceptable models. Using medical devices as variables only (i.e. Group 3), we displayed comparatively good performances with high accuracy (90.40% in training set and 91.76% in internal validation), the mean values of AUC were 0.95360.010 and 0.95960.013 for training and internal valida- tion sets respectively. Finally, we found that using only three variables representing underlying condition and medications (i.e. Group 5) can also give satisfactory prediction rates in internal validation (accuracy: 85.33%; sensitivity: 71.43%; specificity: 90.35%, AUC: 0.82960.025)."
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.6,
+    700.8,
+    628.5
+   ],
+   "ocr": "Detection of Infection by ANN The first model showed that the multilayer perceptron network with 16 input nodes and 13 hidden nodes provided the optimal network architecture (figure 1) which also gave excellent performance (accuracy: 95.04%; sensitivity: 97.06%; specificity: 96.52%), the AUC outperformed which of LR (0.99560.003 versus 0.96660.008, p,0.001) in training set (figure 2). Then other ANN models using different group were analyzed as it was done with LR. The results in test set also displayed good performance irrespective of inclusion or non-inclusion of medical devices as variables (accurate rate: 90.51% in training set and 91.54% in test set in Group 3; accurate rate: 85.33% in training set and 85.47% in test set in Group 5). The results of LR in comparison with ANN in training set and internal validation were shown in table 5, 6. Comparing these two algorithms, as studies showed, ANN performed better than LR just in the beginning. Later, the differences became less significant as variables decreased in later ‘‘variable rotation’’ steps. In terms of internal validation, there were no statistical significances between ANN and LR in the performance of detection in different groups of variables (p = 0.507, 0.574, 0.095, 0.553 for Group 1 to 4 respectively) (table 6 and figure 3). Interestingly, in Group 5, we can get the same AUC for ANN and LR in both sets (0.86760.016 in training set; 0.82960.025 in test set, p = 1.000) as shown in table 5 and 6. Prediction of Infection by Scoring System The equation for the prediction of HAI derived from LR is: Logit (odds of HAI) = 24.4622+2.5499[NG tube]+1.8124[Fo- ley]+0.9502[A-line]+0.7528[CVC]+1.9751[Steroids]+1.3682[S- tress-ulcer prophylaxes]+1.5272[Hemodialysis] Where [variable] = 1 if the patient presents with the character and 0 otherwise. The probability of HAI = elogit/(1+elogit) In order to obtain the simplest weights, we set the coefficient of CVC as the denominator and rounded the proportions as the weights of the variables. After logistic transformation, the shrink equation of the scoring is:"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    669.8,
+    346.4,
+    694.4
+   ],
+   "ocr": "Table 4. Coefficients of the Logistic Regression Model (N = 927)."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    723.4,
+    369.0,
+    882.6
+   ],
+   "ocr": "Coefficient\n(b) SE OR 95% CI p value\nNG tube 22.594 0.317 13.389 7.193–24.924 ,0.0001\nSteroids 21.975 0.415 7.207 3.195–16.256 ,0.0001\nFoley catheter 21.812 0.282 6.125 3.524–10.645 ,0.0001\nHemodialysis 21.527 0.528 4.606 1.637–12.958 0.004\nStress ulcer 21.368 0.303 3.928 2.171–7.108 ,0.0001\nprophylaxes\nArterial line 20.950 0.432 2.586 1.109–6.032 0.028\nCVC 20.753 0.374 2.123 1.021–4.415 0.044\nConstant 6.518 0.754 - - -",
+   "table_id": "PMC3160843_table_3"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    398.4,
+    882.8,
+    700.8,
+    927.0
+   ],
+   "ocr": "Figure 1. The Optimal Network Architecture of The Artificial Neural Network. A multilayer perceptron with 16 input nodes and 13 hidden nodes in the network. doi:10.1371/journal.pone.0023137.g001"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    895.9,
+    359.5,
+    926.1
+   ],
+   "ocr": "Abbreviations: SE = standard error, OR = odds ratio, CI: confidence interval, CVC = central venous catheter, NG = nasogastric. doi:10.1371/journal.pone.0023137.t004"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    389.7,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 5"
+  },
+  "p3_b8": {
+   "type": "header_footer",
+   "bbox": [
+    504.9,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "August 2011 | Volume 6 | Issue 8 | e23137"
+  }
+ }
+}

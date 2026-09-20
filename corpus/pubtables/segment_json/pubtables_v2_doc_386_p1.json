@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_386",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    514.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prokaryotic Glycosylated-Residue Prediction"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    412.5,
+    695.6
+   ],
+   "ocr": "116 O-linked glycosites from archaeal and bacterial glycoproteins, we have found that indeed these tools (as detailed in Table 1), fail to provide reliable predictions for glycosites in prokaryotic glycoproteins. Furthermore, protein glycosylation in prokaryotes is much more versatile than in eukaryotes in terms of both mechanisms involved and the types of glycans and linkages present as discussed in references [20–22] & Table 2. Among archaea N- glycosylation is believed to be widespread yet experimental evidence exists only in case of phyla Crenarchaeota and Euryarchaeota where it is mediated by an enzyme AglB and its homologues and sugar is transferred on to NX(S/T)(where X?P) acceptor sequon in an en-bloc fashion. Similarly, in bacteria N-glycosylation is known and experimentally validated only in a few organisms belonging to phylum Proteobacteria. In Proteobacteria both sequentially (in cytoplasm, ex. Haemophilus influenzae) and en-bloc glycosylated (in periplasm, ex. Campylobacter jejuni) proteins have been characterized in different organisms. Similarly, experimental data on O- glycosites is available only from four bacterial phyla namely, Actinobacteria, Bacteroidetes, Firmicutes and Proteobacteria out of eleven bacterial phyla where glycoproteins are known to exist. Interesting novel ‘‘conserved sequences of amino acids around glycosites (sequons)’’ like (D/E)X1NX(S/T)(where X1 & X?P) for N- glycosylation and D(S/T)(A/I/L/V/M/T) for O-glycosylation have been elucidated within these glycoproteins that are not yet seen in eukaryotes [23,24]. A tool to map such sequons in amino acid sequence(s) of protein/proteomes has recently been made available by our group [6]. Further, an analysis of amino acid sequences surrounding N-glycosites of available archaeal glyco- proteins (10 at that time) by Abu-Qarn and co-workers has also shown that archaeal N-glycosites are rarely surrounded by aromatic residues that are in abundance at positions –2 and –1 preceding glycosylated Asn at postion 0 in eukaryotic N-glycosites [25–27]. For these reasons, the development of separate and new algorithms for prediction of glycosites in prokaryotes is of high interest and need [20]. Therefore in this study, we have attempted to analyze the sequence context, predicted secondary structure and surface accessibility of the experimentally verified glycosites in the largest available dataset of 107 N-linked glycosylated-residues (N- glycosites) and 116 O-linked glycosylated-residues (O-glycosites) from 59 prokaryotic glycoproteins retrieved from our recently published database of experimentally characterized prokaryotic glycoproteins, ProGlycProt [6]. In this study, we have developed a Table 1. An evaluation of performances of some of the well-known glycoproteins."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.1,
+    700.8,
+    682.4
+   ],
+   "ocr": "number of SVM models using three types of features namely, binary profile of patterns (BPP), composition profile of patterns (CPP), and PSI-BLAST generated PSSM profile of patterns (PPP) to recognize and differentiate glycosylated sequence contexts from non-glycosylated contexts in prokaryotic glycoproteins. For the reasons that mere presence of a consensus-sequon/pattern may not always be sufficient for glycosylation to occur and that the glycosites are predominantly situated on loops/accessible portions of folded proteins in prokaryotes, we have employed predicted secondary structure and surface accessibility features in combina- tion with BPP, CPP and PPP for developing hybrid models (Table 3), [21,28]. The best performing and significantly accurate models were then evaluated against an independent dataset of experimentally validated glycosites and finally implemented via web server GlycoPP (Figure 1) made available through open access at http:/www.imtech.res.in/raghava/glycopp/. Methods Dataset Generation Source of data. The primary set consisted of 39 N-linked and 54 O-linked glycoproteins obtained from the first release (July_2011) of ProGlycProt database [6]. For the reason that number of experimentally validated proteins is not very high, all the available N-linked and O-linked glycoprotein entries in primary dataset have been taken in to account for this study. However, entries containing only cysteine-linked (S-linked) glycosites as well as all glyco-engineered protein/peptides have been excluded from the primary set resulting into a total of 38 N- linked and 48 O-linked glycoproteins for further consideration. Some of these glycoproteins are N- as well as O-glycosylated. These glycoproteins include a variety of important proteins like S- layer proteins, flagellar proteins, pili/fimbrial proteins, lectins, adhesions, glycosidases, Cytochrome hemoprotein, heparinase, Chondroitinase as well as several known-unknown cytoplasmic, membrane bound and exported proteins (Table 2). These glycoproteins represent all types of known N-glycosylation in prokaryotes representing organisms from phylum Crenarchaeota and Euryarchaeota of Archaea and phylum Proteobacteria of Bacteria. Similarly, this dataset represents all available validated examples of O-glycosylated proteins from four phyla namely, Actinobacteria, Bacteroidetes, Firmicutes and Proteobacteria of Bacteria. In Archaea no experimentally validated data exists for O-glycosites, so far. models for glycosylation prediction on prokaryotic"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    724.6,
+    682.0,
+    893.9
+   ],
+   "ocr": "Type of Glycosylation Prediction Tools Threshold Sensitivity (%) Specificity (%) Accuracy (%) MCC (%)\nN-linked NetNglyc1 0.5 81.75 10.16 34.41 20.11\n0.6 50.79 42.68 45.43 20.06\n0.7 15.87 76.02 55.65 20.09\n0.9 0.79 98.37 65.32 20.03\nEnsembleGly3 0.3 92.86 0.41 31.72 20.2\n0.5 90.48 1.63 31.72 20.18\n0.7 79.37 10.98 34.14 20.13\n0.9 51.59 47.15 48.66 20.01\nO-linked NetOglyc2 0 8.38 95.64 87.96 0.05\nEnsembleGly3 0 9.5 93.37 86 0.03",
+   "table_id": "PMC3392279_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    907.2,
+    302.3,
+    926.7
+   ],
+   "ocr": "Footnotes: (1: http://www.cbs.dtu.dk/services/NetNGlyc/, 2: doi:10.1371/journal.pone.0040155.t001"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    305.2,
+    907.2,
+    645.1,
+    916.0
+   ],
+   "ocr": "http://www.cbs.dtu.dk/services/NetOGlyc-3.0/, 3: http://turing.cs.iastate.edu/EnsembleGly/)."
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "2 July 2012 | Volume 7 | Issue 7 | e40155"
+  }
+ }
+}

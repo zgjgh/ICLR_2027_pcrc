@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_069",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    89,
+    580,
+    147
+   ],
+   "ocr": "The following table presents critical data regarding the treatment outcomes of patients diagnosed with various combinations of therapies, specifically focusing on their Current (mA) levels and subsequent survival metrics. The analysis includes a diverse cohort ranging in age and sex, categorized under the Age/Sex column, which allows for a comprehensive understanding of demographic influences on treatment efficacy."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    135,
+    580,
+    193
+   ],
+   "ocr": "Additionally, the table highlights the Status at Starting Point of Treatment, providing vital context for the initial conditions of each patient before therapy commencement. In evaluating the impact of chemotherapy and radiation therapy, the data reflects significant variations in patient responses, as evidenced by the metrics for Metastasis (mo) and Survival (mo)."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    231.0,
+    580.0,
+    374.0
+   ],
+   "ocr": "Combination Current (mA) Combination Current (mA) Combination Current (mA)\n/ 20 A (5 Hz) 24 A 46\nB 45 W 30 S 55\nA, B 52 B, W 75 B, S 68\nA, W 70 A, S 61 W, S 84\nA, B, W 74 A, B, S 70 B, W, S 90\nA, W, S 85 A, B, W, S 100",
+   "table_id": "img_077496_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    395.0,
+    580.0,
+    426.0
+   ],
+   "ocr": "Notably, patients who underwent different combinations of therapy, such as those noted with a Current (mA) of 20, experienced distinct outcomes compared to those with higher Current (mA) levels."
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    465.0,
+    580.0,
+    682.0
+   ],
+   "ocr": "Age/Sex Grade, Status at Starting Point of Treatment Chemotherapy Radiation Therapy Metastasis (mo) Survival (mo)\n40/F G2 Recurrence at 6 mo after R1 resection Yes Yes Bone (2) D, 22\n42/M G3 Recurrence at 2 mo after R1 resection Yes Yes Lung(14), bone (20) D, 27\n60/F G3 Partial resection Yes Yes Chest wall (2), brain (18) D, 19\n38/M G3 Partial resection No No - D, 8\n44/F U Partial resection No No Brain (1) D, 2\n48/M U Biopsy No No Lung (3) D, 5\n69/F G3 Biopsy No No - D, 3",
+   "table_id": "img_077496_t1"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    521,
+    717
+   ],
+   "ocr": "This differentiation is crucial for tailoring individualized treatment plans and improving prognostic accuracy."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    747
+   ],
+   "ocr": "Overall, the insights derived from this table underscore the importance of nuanced treatment approaches in enhancing patient survival and managing recurrence rates effectively, particularly in cases marked by complexities such as metastasis."
+  }
+ }
+}

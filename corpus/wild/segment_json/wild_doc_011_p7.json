@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_011",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    48,
+    550,
+    74
+   ],
+   "ocr": "The following data table provides insights into the genetic architecture associated with specific traits, as delineated by the genomic locations and their respective metrics."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    63,
+    550,
+    104
+   ],
+   "ocr": "Focusing on the trait identified as ABF, the table highlights the genomic interval ranging from 38,000,437 to 38,996,916 Mb, which encompasses a total of 396 single nucleotide polymorphisms (SNPs) within this window."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    14.0,
+    120.0,
+    550.0,
+    652.0
+   ],
+   "ocr": "Trait GGA (Mb)a SNP window(first – last position)a Number of SNP/ window Number of genes/ windowb Proportion of genetic variance explained by the SNP window PPAc\nABF 5 (38) 38,000,437–38,996,916 396 31 0.92 0.84\n10 (7) 7,000,336–7,998,549 592 21 0.58 0.93\n13 (3) 3,002,617–3,998,616 460 16 1.45 0.88\n20 (5) 5,000,651–5,999,452 492 53 0.94 0.88\n26 (1) 1,002,598–1,999,851 662 74 1.06 0.95\nABFP 5 (38) 38,000,437–38,996,916 396 31 0.64 0.82\n10 (7) 7,000,336–7,998,549 592 21 0.61 0.90\n13 (3) 3,002,617–3,998,616 460 16 1.49 0.89\n26 (1) 1,002,598–1,999,851 662 74 0.54 0.92\nSKINW 15 (6) 6,000,311–6,999,944 544 62 0.73 0.89\n24 (5) 5,000,105–5,999,010 778 60 0.56 0.91\n27 (3) 3,000,222–3,997,124 933 52 0.60 0.94\nSKINP 9 (4) 4,000,836–4,999,336 482 50 0.73 0.83\n15 (6) 6,000,311–6,999,944 544 62 0.71 0.91\n27 (3) 3,000,222–3,997,124 933 52 0.57 0.95",
+   "table_id": "img_011521_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    667,
+    550,
+    737
+   ],
+   "ocr": "This high SNP density is indicative of a potentially significant genetic influence on the trait under investigation. Furthermore, the number of genes located within this SNP window has been recorded as 31, suggesting a concentrated region of genetic variation that may contribute to phenotypic expression. The proportion of genetic variance explained by the SNP window serves as a critical metric, providing a quantitative assessment of how much of the trait's variability can be attributed to the genetic markers identified."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    725,
+    550,
+    781
+   ],
+   "ocr": "This context is essential for understanding the genetic basis of ABF, as it facilitates further exploration into the biological mechanisms at play and the potential for genomic selection in breeding programs. The comprehensive data presented in this table will aid researchers in their efforts to elucidate the complex relationships between genetic markers and trait expression."
+  }
+ }
+}

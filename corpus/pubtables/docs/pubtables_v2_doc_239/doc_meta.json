@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_239",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5749823_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    416.7,
+    707.3,
+    868.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5749823_table_0.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Training</td><td colspan=\"2\">Testing</td></tr><tr><td></td><td>CHD</td><td>No CHD</td><td>CHD</td><td>No CHD</td></tr><tr><td colspan=\"5\">Gender (count)</td></tr><tr><td>Male</td><td>115</td><td>579</td><td>49</td><td>39</td></tr><tr><td>Female</td><td>58</td><td>793</td><td>22</td><td>32</td></tr><tr><td colspan=\"5\">Age (years)</td></tr><tr><td>Male</td><td>71.1&#177;7.4</td><td>66.4&#177;8.5</td><td>67.5&#177;8.4</td><td>59.6&#177;9.2</td></tr><tr><td>Female</td><td>73.0&#177;8.7</td><td>66.4&#177;8.6</td><td>72.5&#177;9.0</td><td>64.6&#177;10.8</td></tr><tr><td colspan=\"5\">Total Cholesterol (mg/dL)</td></tr><tr><td>Male</td><td>154&#177;33</td><td>176&#177;33</td><td>141&#177;25</td><td>191&#177;32</td></tr><tr><td>Female</td><td>172&#177;35</td><td>199&#177;36</td><td>180&#177;41</td><td>187&#177;35</td></tr><tr><td colspan=\"5\">HDL Cholesterol (mg/dL)</td></tr><tr><td>Male</td><td>45&#177;12</td><td>50&#177;14</td><td>46&#177;11</td><td>51&#177;15</td></tr><tr><td>Female</td><td>59&#177;17</td><td>65&#177;19</td><td>62&#177;18</td><td>61&#177;18</td></tr><tr><td colspan=\"5\">HbA1c (%)</td></tr><tr><td>Male</td><td>6.0&#177;0.9</td><td>5.7&#177;0.8</td><td>5.9&#177;0.9</td><td>5.9&#177;1.4</td></tr><tr><td>Female</td><td>6.0&#177;0.9</td><td>5.7&#177;0.5</td><td>6.3&#177;1.0</td><td>6.0&#177;1.0</td></tr><tr><td colspan=\"5\">SBP (mmHg)</td></tr><tr><td>Male</td><td>128&#177;19</td><td>130&#177;17</td><td>124&#177;19</td><td>127&#177;17</td></tr><tr><td>Female</td><td>135&#177;18</td><td>129&#177;18</td><td>136&#177;17</td><td>129&#177;15</td></tr><tr><td colspan=\"5\">Use Statin (count)</td></tr><tr><td>Male</td><td>94</td><td>228</td><td>1</td><td>3</td></tr><tr><td>Female</td><td>44</td><td>254</td><td>0</td><td>0</td></tr><tr><td colspan=\"5\">cg05575921 (z-score)</td></tr><tr><td>Male</td><td>-0.15&#177;1.19</td><td>-0.07&#177;1.05</td><td>-0.46&#177;1.43</td><td>-0.26&#177;1.12</td></tr><tr><td>Female</td><td>-0.12&#177;1.11</td><td>0.08&#177;0.92</td><td>0.10&#177;1.12</td><td>-0.13&#177;0.93</td></tr><tr><td colspan=\"5\">Smoker (count)</td></tr><tr><td>Male</td><td>12</td><td>39</td><td>6</td><td>7</td></tr><tr><td>Female</td><td>2</td><td>64</td><td>1</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5749823_table_1",
+   "page_num": 2,
+   "bbox": [
+    67.3,
+    128.3,
+    701.0,
+    611.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5749823_table_1.png",
+   "html": "<table><tr><td>CpG</td><td>Beta</td><td>Gene</td><td>Chr</td><td>Position</td><td>Island Status</td><td>Corrected p-value</td></tr><tr><td>cg26910465</td><td>6.48E-01</td><td>ADAL</td><td>15</td><td>TSS200</td><td>Island</td><td>8.01E-18</td></tr><tr><td>cg13567813</td><td>6.60E-01</td><td>NR1H2</td><td>19</td><td>TSS200</td><td>Island</td><td>2.05E-17</td></tr><tr><td>cg09238957</td><td>5.98E-01</td><td>ORC6L</td><td>16</td><td>TSS200</td><td>Island</td><td>7.97E-17</td></tr><tr><td>cg04099813</td><td>6.12E-01</td><td>TSSC4</td><td>11</td><td>TSS1500</td><td>S_Shore</td><td>1.45E-16</td></tr><tr><td>cg07546106</td><td>6.29E-01</td><td>TAP2</td><td>6</td><td>5&#8217;UTR</td><td>N_Shore</td><td>2.40E-16</td></tr><tr><td>cg20808462</td><td>6.01E-01</td><td>HAUS3</td><td>4</td><td>5&#8217;UTR</td><td>Island</td><td>5.42E-16</td></tr><tr><td>cg16968115</td><td>5.92E-01</td><td>WDTC1</td><td>1</td><td>TSS200</td><td>Island</td><td>1.25E-15</td></tr><tr><td>cg24475210</td><td>5.84E-01</td><td>MRFAP1</td><td>4</td><td>TSS200</td><td>Island</td><td>1.26E-15</td></tr><tr><td>cg03031660</td><td>5.84E-01</td><td>MRPS7</td><td>17</td><td>1stExon</td><td>Island</td><td>1.45E-15</td></tr><tr><td>cg22605179</td><td>5.97E-01</td><td>EWSR1</td><td>22</td><td>5&#8217;UTR</td><td>Island</td><td>3.81E-15</td></tr><tr><td>cg02357877</td><td>5.71E-01</td><td>GBAS</td><td>7</td><td>TSS1500</td><td>Island</td><td>4.04E-15</td></tr><tr><td>cg22111723</td><td>5.65E-01</td><td></td><td>13</td><td></td><td>Island</td><td>4.57E-15</td></tr><tr><td>cg06117184</td><td>5.67E-01</td><td>CKAP2L</td><td>2</td><td>1stExon</td><td>Island</td><td>4.87E-15</td></tr><tr><td>cg07478100</td><td>5.85E-01</td><td>MIS12</td><td>17</td><td>TSS1500</td><td>Island</td><td>5.36E-15</td></tr><tr><td>cg15318396</td><td>5.83E-01</td><td></td><td>21</td><td></td><td>Island</td><td>5.52E-15</td></tr><tr><td>cg00544901</td><td>5.76E-01</td><td>RPS11</td><td>19</td><td>TSS1500</td><td>Island</td><td>5.62E-15</td></tr><tr><td>cg24478630</td><td>5.88E-01</td><td>MOGS</td><td>2</td><td>TSS200</td><td>S_Shore</td><td>5.65E-15</td></tr><tr><td>cg04022019</td><td>5.90E-01</td><td>DCAF13</td><td>8</td><td>1stExon</td><td>Island</td><td>5.86E-15</td></tr><tr><td>cg12124516</td><td>5.81E-01</td><td>MCM6</td><td>2</td><td>TSS200</td><td>Island</td><td>6.41E-15</td></tr><tr><td>cg20935862</td><td>5.96E-01</td><td>C9orf41</td><td>9</td><td>TSS1500</td><td>Island</td><td>6.62E-15</td></tr><tr><td>cg07377675</td><td>6.00E-01</td><td>USP1</td><td>1</td><td>TSS200</td><td>Island</td><td>7.79E-15</td></tr><tr><td>cg07734253</td><td>5.83E-01</td><td>CORO1A</td><td>16</td><td>TSS1500</td><td>N_Shore</td><td>8.16E-15</td></tr><tr><td>cg03699307</td><td>5.94E-01</td><td>GABARAPL2</td><td>16</td><td>TSS1500</td><td>Island</td><td>8.44E-15</td></tr><tr><td>cg17360140</td><td>5.79E-01</td><td>C4orf29</td><td>4</td><td>TSS1500</td><td>Island</td><td>9.10E-15</td></tr><tr><td>cg25632648</td><td>6.06E-01</td><td>KCTD21</td><td>11</td><td>TSS200</td><td>Island</td><td>9.83E-15</td></tr><tr><td>cg06339248</td><td>5.83E-01</td><td>ZDHHC5</td><td>11</td><td>5&#8217;UTR</td><td>Island</td><td>1.10E-14</td></tr><tr><td>cg24275354</td><td>6.24E-01</td><td>NDUFA10</td><td>2</td><td>Body</td><td>N_Shore</td><td>1.52E-14</td></tr><tr><td>cg25261764</td><td>5.93E-01</td><td>NARS</td><td>18</td><td>1stExon</td><td>Island</td><td>1.69E-14</td></tr><tr><td>cg14172283</td><td>5.83E-01</td><td>TOMM5</td><td>9</td><td>1stExon</td><td>Island</td><td>2.00E-14</td></tr><tr><td>cg01089095</td><td>5.69E-01</td><td>CHCHD1</td><td>10</td><td>TSS200</td><td>Island</td><td>2.02E-14</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5749823_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    128.5,
+    631.4,
+    266.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5749823_table_2.png",
+   "html": "<table><tr><td>Model</td><td>Accuracy</td><td>AUC</td><td>Sensitivity</td><td>Specificity</td></tr><tr><td>1</td><td>0.78&#177;0.09</td><td>0.82&#177;0.09</td><td>0.79&#177;0.12</td><td>0.77&#177;0.08</td></tr><tr><td>2</td><td>0.75&#177;0.05</td><td>0.83&#177;0.06</td><td>0.78&#177;0.10</td><td>0.72&#177;0.08</td></tr><tr><td>3</td><td>0.79&#177;0.05</td><td>0.85&#177;0.07</td><td>0.83&#177;0.07</td><td>0.76&#177;0.08</td></tr><tr><td>4</td><td>0.78&#177;0.07</td><td>0.84&#177;0.07</td><td>0.79&#177;0.12</td><td>0.76&#177;0.07</td></tr><tr><td>5</td><td>0.75&#177;0.06</td><td>0.78&#177;0.06</td><td>0.70&#177;0.09</td><td>0.79&#177;0.09</td></tr><tr><td>6</td><td>0.70&#177;0.05</td><td>0.77&#177;0.05</td><td>0.70&#177;0.12</td><td>0.70&#177;0.10</td></tr><tr><td>7</td><td>0.80&#177;0.06</td><td>0.87&#177;0.04</td><td>0.82&#177;0.08</td><td>0.77&#177;0.07</td></tr><tr><td>8</td><td>0.78&#177;0.06</td><td>0.85&#177;0.05</td><td>0.82&#177;0.07</td><td>0.74&#177;0.08</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5749823_table_4",
+   "page_num": 4,
+   "bbox": [
+    68.3,
+    758.2,
+    700.0,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5749823_table_4.png",
+   "html": "<table><tr><td>CpG</td><td>Beta</td><td>Gene</td><td>Chr</td><td>Position</td><td>Island Status</td><td>Corrected p-value</td></tr><tr><td>cg17901584</td><td>-4.59E-01</td><td>DHCR24</td><td>1</td><td>TSS1500</td><td>S_Shore</td><td>3.53E-12</td></tr><tr><td>cg06500161</td><td>4.43E-01</td><td>ABCG1</td><td>21</td><td>Body</td><td>S_Shore</td><td>9.30E-11</td></tr><tr><td>cg05119988</td><td>-3.30E-01</td><td>SC4MOL</td><td>4</td><td>5&#8217;UTR</td><td>S_Shelf</td><td>5.22E-04</td></tr><tr><td>cg19751789</td><td>-3.23E-01</td><td>LDLR</td><td>19</td><td>TSS200</td><td>N_Shore</td><td>1.54E-03</td></tr><tr><td>cg27243685</td><td>3.01E-01</td><td>ABCG1</td><td>21</td><td>Body</td><td>S_Shelf</td><td>1.87E-02</td></tr><tr><td>cg01185530</td><td>-2.58E-01</td><td>DNAJC3</td><td>13</td><td>5&#8217;UTR</td><td>Island</td><td>2.81E-02</td></tr><tr><td>cg11072882</td><td>-2.74E-01</td><td>FAM47E</td><td>4</td><td>Body</td><td>Island</td><td>4.97E-02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5749823_table_5",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    128.3,
+    631.4,
+    265.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5749823_table_5.png",
+   "html": "<table><tr><td>Model</td><td>Accuracy</td><td>AUC</td><td>Sensitivity</td><td>Specificity</td></tr><tr><td>1</td><td>0.73&#177;0.03</td><td>0.77&#177;0.05</td><td>0.71&#177;0.07</td><td>0.75&#177;0.10</td></tr><tr><td>2</td><td>0.73&#177;0.07</td><td>0.75&#177;0.08</td><td>0.74&#177;0.08</td><td>0.72&#177;0.09</td></tr><tr><td>3</td><td>0.75&#177;0.07</td><td>0.79&#177;0.06</td><td>0.73&#177;0.12</td><td>0.77&#177;0.10</td></tr><tr><td>4</td><td>0.70&#177;0.06</td><td>0.75&#177;0.08</td><td>0.68&#177;0.10</td><td>0.72&#177;0.07</td></tr><tr><td>5</td><td>0.70&#177;0.06</td><td>0.72&#177;0.08</td><td>0.67&#177;0.09</td><td>0.73&#177;0.10</td></tr><tr><td>6</td><td>0.71&#177;0.10</td><td>0.75&#177;0.10</td><td>0.68&#177;0.14</td><td>0.75&#177;0.10</td></tr><tr><td>7</td><td>0.76&#177;0.04</td><td>0.79&#177;0.05</td><td>0.73&#177;0.11</td><td>0.79&#177;0.09</td></tr><tr><td>8</td><td>0.71&#177;0.10</td><td>0.76&#177;0.12</td><td>0.68&#177;0.15</td><td>0.75&#177;0.11</td></tr></table>"
+  }
+ ]
+}

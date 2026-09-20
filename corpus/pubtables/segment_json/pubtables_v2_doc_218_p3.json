@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_218",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.7,
+    678.3,
+    54.4
+   ],
+   "ocr": "Xing et al. BioData Mining (2016) 9:31 Page 9 of 18"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    108.3,
+    598.2,
+    149.0
+   ],
+   "ocr": "Table 3 Numbers of redundant is-a relations in 5 versions of SNOMED CT regarding to the length of the indirect path. li represents the number of redundant is-a relations in length of i regarding to the indirect path"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    154.0,
+    601.6,
+    243.5
+   ],
+   "ocr": "Version l2 l3 l4 Total\n2013-09-01 233 7 0 240\n2014-03-01 264 11 2 277\n2014-09-01 291 13 1 305\n2015-03-01 224 10 1 235\n2015-09-01 358 13 1 372",
+   "table_id": "PMC5057496_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    287.7,
+    602.0,
+    453.1
+   ],
+   "ocr": "relations; the percentage of the redundant is-a relations among the transitive closure pairs is 0.2886 %; and it took 1,538 milliseconds to complete. As the number of concepts and is-a relations were increasing, the number and percentage of redundant is-a relations (RR) were monotonically increasing every month and increased more than twice from the 2014-08-01 version (497; 0.0961 %) to the 2015-05-01 version (1,609; 0.2886 %). For each version, it only took a couple of seconds to identify all the redundant is-a relations, indicating the efficiency of FEDRR. Table 5 shows the numbers of identified redundant is-a relations for the 10 versions with respect to the length of the indirect path. For each version, li (i = 2, . . . , 7) is the number"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    447.5,
+    601.9,
+    726.5
+   ],
+   "ocr": "of redundant is-a relations in length of i regarding to the indirect path. For example, in the version of 2015-05-01, there were 1,238 redundant is-a relations in length of 2 and 255 in length of 3. Most redundant is-a relations were in length of 2 or 3 regarding to the indirect path. There were only a couple of redundant is-a relations in length of 7. No redundant is-a relations exceeding length of 7 was identified. Redundant is-a relations in UMLS We ran the FEDRR method to detect redundant is-a relations from over 190 source vocabularies integrated in the UMLS (2015AB release). Since the original occurrences of concept names are preserved and identified as AUIs in the UMLS, we used AUIs and relations between AUIs to detect redundant is-a relations. We also filtered out inactive is-a relations in the UMLS before applying the FEDRR method (obsolete relations are indicated by a value of ‘O’ in the SUPPRESS field in the relation file MRREL.RRF). Table 4 Summary of the results for 10 versions of Gene Ontology"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    731.8,
+    601.6,
+    897.5
+   ],
+   "ocr": "Version # Concepts # is-a Relations TC RR RR% T(ms)\n2014-08-01 41,436 66,544 517,092 497 0.0961 1,372\n2014-09-01 41,694 66,995 522,741 502 0.0960 1,472\n2014-10-01 41,867 67,536 528,821 631 0.1193 1,455\n2014-11-01 42,012 69,300 541,718 1,031 0.1903 1,497\n2014-12-01 42,189 69,887 545,168 1,193 0.2188 1,425\n2015-01-01 42,329 70,272 544,210 1,277 0.2347 1,510\n2015-02-01 42,466 70,724 546,158 1,420 0.2600 1,549\n2015-03-01 42,588 71,032 548,006 1,463 0.2670 1,542\n2015-04-01 42,805 71,549 552,367 1,552 0.2810 1,437\n2015-05-01 42,979 71,954 557,550 1,609 0.2886 1,538",
+   "table_id": "PMC5057496_table_3"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    148.5,
+    903.5,
+    600.9,
+    924.0
+   ],
+   "ocr": "TC: number of transitive closure pairs, RR: number of redundant is-a relations, RR%: percentage of redundant is-a relations among transitive closure pairs, T(ms): time taken in milliseconds"
+  }
+ }
+}

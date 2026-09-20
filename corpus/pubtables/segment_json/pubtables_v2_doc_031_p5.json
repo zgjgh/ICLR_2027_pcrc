@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_031",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    320.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Scalable preprocessing of high volume environmental acoustic data for bioacoustic monitoring"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    97.5,
+    727.1,
+    120.8
+   ],
+   "ocr": "Table 8. Execution times for processing 2 hours of audio for different distributed system configurations. The master and each slave have 4 cores, so 16 cores uses 4 vir- tual machines. Improvement rate is given by execution time of 1 core/Execution time of x cores."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    99.0,
+    128.3,
+    669.2,
+    265.8
+   ],
+   "ocr": "# Machines #Cores Execution Time Improvement Rate\n1 1 896.6 ± 14.5 1×\n1 2 526.0 ± 6.1 1.70 ± 0.03×\n1 4 262.3 ± 1.4 3.42 ± 0.06×\n2 8 135.6 ± 2.0 6.61 ± 0.11×\n3 12 95.2 ± 1.9 9.42 ± 0.15×\n4 16 73.2 ± 1.9 12.25 ± 0.20×\n6 24 51.7 ± 0.6 17.35 ± 0.94×\n8 32 41.2 ± 0.9 21.76 ± 0.35×",
+   "table_id": "PMC6075764_table_7"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    272.9,
+    236.2,
+    283.5
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0201542.t008"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    308.6,
+    725.8,
+    614.2
+   ],
+   "ocr": "A further test is conducted using smaller machines which, when combined, give a similar power level to large machines. The configurations compared are as follows: 1. One 4-core, 16 GB RAM master, one 4-core, 16 GB RAM slave 2. One 4-core, 16 GB RAM master, two 2-core, 6 GB RAM slaves 3. One 4-core, 16 GB RAM master, four 1-core, 4 GB RAM slaves The master also runs a slave instance in all cases, to make a fairer comparison with the pre- vious tests. This also has the effect of testing system performance where different sizes of vir- tual machines are operating at the same time, as the master virtual machine runs a slave with 4 cores in all cases, albeit while competing for resources with the master thread. The results shown in Fig 12 indicate that the system works as well with the master and two 2-core slaves compared to the master and one 4-core slave, and slightly worse when four 1-core slaves are used. The slower execution time when using 1-core machines could be due to extra overhead caused by the use of the centralised slave thread. This use of the central slave thread (which can be further broken down into six small threads) results in excessive overhead with smaller machines, while with larger machines reducing the amount of communication to the master and waiting times in processing files become advantageous. It could also be due to an inappropriate queue size being used for smaller machines, leading to imbalances in"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    860.1,
+    716.7,
+    901.7
+   ],
+   "ocr": "Fig 12. Execution time comparison between using more smaller machines and using fewer larger machines. The master on its own is also shown for comparison. https://doi.org/10.1371/journal.pone.0201542.g012"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0201542 August 3, 2018 18 / 24"
+  }
+ }
+}

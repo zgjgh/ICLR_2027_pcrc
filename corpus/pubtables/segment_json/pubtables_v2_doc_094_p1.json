@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_094",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    219.7,
+    64.4
+   ],
+   "ocr": "BMC Plant Biology 2006, 6:17"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2229/6/17"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    387.1,
+    118.9
+   ],
+   "ocr": "Table 1: Characteristics of the GS 20 combined run data assemblies"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    615.3,
+    364.1
+   ],
+   "ocr": "Nandina Platanus\ncombined run data length 130503 bp 136335 bp\nno. of combined data contigs 8 10\naverage contig length 16313 bp 13634 bp\nsize of largest contig 35901 bp 28803 bp\ntotal no. of reads 31019 23743\naverage read length 103.6 bp 99.8 bp\noverall average read depth (incl. one IR) 24.6× 17.3×\noverall average read depth (incl. both IRs) 20.5× 14.6×\nIR average read depth 24.2× 28.2×\nSC average read depth 24.7× 14.9×\nproportion of bases ≥ Q40 99.8% 99.4%\nno. of gaps 9 11\ntotal gap length 34 bp 390 bp\naverage gap length 3.8 bp 35.5 bp\nno. of zero-length gaps 7 5\nsize of largest gap 32 bp 170 bp",
+   "table_id": "PMC1564139_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    380.4,
+    379.4,
+    922.4
+   ],
+   "ocr": "Characteristics of the GS 20 combined run data assemblies. The overall inverted repeat (IR) region (to reflect the fact that the two copies of the contigged together) and by including both copies of the IR region. SC = of coverage of 24.6× in Nandina and 17.3× in Platanus. Few gaps were present in either genome assembly (Table 1). All but three gaps were less than 50 bp, with many zero-length gaps (no missing sequence between adjoining contigs) present in both assemblies. Only one gap in either assembly was larger than 100 bp (in Platanus; Table 1). In several cases gaps in the assemblies occurred in the same regions of both genomes. Short gaps (mostly zero- length, but all < 5 bp) were present at all four junctions between the inverted repeat (IR) and single-copy (SC) regions in both Nandina and Platanus, as well as within the rpoB gene (32 bp and 27 bp gaps, respectively) of each genome. Genome characteristics The plastid genomes of both Nandina and Platanus pos- sess the typical genome structure observed in most angiosperm plastids, with an IR region of ~25 kb separat- ing large and small SC regions (Figs. 1, 2; Table 2) [25,26]. Neither genome is rearranged relative to Nicotiana [27,28]. The plastid genomes of Nandina and Platanus share essentially identical complements of coding genes, each containing 30 tRNA genes, 4 rRNA genes, and 79 protein-coding genes (Table 3). Based on the presence of internal stop codons, two pseudogenes (ycf15 and ycf68) are present in the Platanus plastid genome. In Nandina the latter locus is also present as a pseudogene, although ycf15 appears intact. Both of these genes have been frequently reported as pseudogenes in other angiosperms [29,30], and so their presence as pseudogenes in Nandina and Pla- tanus is not surprising. Based on the presence of ACG start codons in their DNA sequence, RNA editing appears to be necessary for the proper translation of two genes in"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    377.1,
+    380.4,
+    698.4,
+    922.4
+   ],
+   "ocr": "average read depth is calculated in two ways: by including one copy of the IR are indistinguishable during genome sequencing, and are therefore single-copy region. Nandina (ndhD and rpl2) and three genes in Platanus (ndhD, psbL, and rpl2), and likely occurs throughout each genome on a broader scale [28,31]. Accuracy of the GS 20 sequence Conventional sequencing of the IR, IR/SC junctions, and regions surrounding putative coding sequence errors resulted in 46134 bp of comparison sequence in Nandina and 45249 bp of comparison sequence in Platanus. Observed error rates in the combined run data for these regions are summarized in Table 4. Observed numbers of errors in combined run data and lengths of conventional sequence data that were used in the error calculations are presented in Table 5. The overall observed error rate was 0.043% in Nandina and 0.031% in Platanus, and the com- bined overall error rate for both genomes was 0.037% (Table 4). Two types of errors were observed in the GS 20 combined data sequence: errors associated with contig ends, and insertions and deletions (indels), usually associated with homopolymer runs. A small number of errors was present within 50 bp of the ends of the combined data contigs in both genomes (5 errors in Nandina and 6 errors in Plata- nus). Including these errors increased overall error rates to 0.054% in Nandina and 0.044% in Platanus. However, these errors were excluded from other error calculations because they were expected as a result of the low depth of coverage at contig ends, and because such errors were nec- essarily checked by targeted Sanger sequencing when bridging the gaps between contigs, unlike the remaining, higher-coverage regions of the GS 20 assembly. All remaining errors were indels, all but one of which (a C/G"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 13 (page number not for citation purposes)"
+  }
+ }
+}

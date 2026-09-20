@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_325",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    749,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2877063_table_0",
+   "page_num": 1,
+   "bbox": [
+    83.9,
+    144.5,
+    660.2,
+    854.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2877063_table_0.png",
+   "html": "<table><tr><td>Gene</td><td>Strand</td><td>Position</td><td>Anticodon</td><td>Size (bp)</td><td>Start codon</td><td>Stop codon</td></tr><tr><td>tRNAIle</td><td>H</td><td>1-68</td><td>GAT</td><td>69</td><td></td><td></td></tr><tr><td>tRNAGln</td><td>L</td><td>66-134</td><td>TTG</td><td>69</td><td></td><td></td></tr><tr><td>tRNAMet</td><td>H</td><td>134-202</td><td>CAT</td><td>69</td><td></td><td></td></tr><tr><td>NAD2</td><td>H</td><td>203-1228</td><td></td><td>1026</td><td>ATT</td><td>TAA</td></tr><tr><td>tRNATrp</td><td>H</td><td>1227-1295</td><td>TCA</td><td>69</td><td></td><td></td></tr><tr><td>tRNACys</td><td>L</td><td>1295-1358</td><td>GCA</td><td>64</td><td></td><td></td></tr><tr><td>tRNATyr</td><td>L</td><td>1359-1423</td><td>GTA</td><td>65</td><td></td><td></td></tr><tr><td>COI</td><td>H</td><td>1422-2963</td><td></td><td>1542</td><td>TCG</td><td>Ta</td></tr><tr><td>tRNALeu</td><td>H</td><td>2959-3024</td><td>TAA</td><td>66</td><td></td><td></td></tr><tr><td>COII</td><td>H</td><td>3027-3711</td><td></td><td>685</td><td>ATG</td><td>Ta</td></tr><tr><td>tRNALys</td><td>H</td><td>3712-3782</td><td>CTT</td><td>71</td><td></td><td></td></tr><tr><td>tRNAAsp</td><td>H</td><td>3792-3859</td><td>GTC</td><td>68</td><td></td><td></td></tr><tr><td>ATP8</td><td>H</td><td>3860-4021</td><td></td><td>162</td><td>ATC</td><td>TAA</td></tr><tr><td>ATP6</td><td>H</td><td>4015-4695</td><td></td><td>681</td><td>ATG</td><td>TAA</td></tr><tr><td>COIII</td><td>H</td><td>4695-5481</td><td></td><td>787</td><td>ATG</td><td>Ta</td></tr><tr><td>tRNAGly</td><td>H</td><td>5482-5548</td><td>TCC</td><td>67</td><td></td><td></td></tr><tr><td>NAD3</td><td>H</td><td>5549-5902</td><td></td><td>354</td><td>ATA</td><td>TAA</td></tr><tr><td>tRNAArg</td><td>H</td><td>5902-5965</td><td></td><td>64</td><td></td><td></td></tr><tr><td>tRNAAla</td><td>H</td><td>5965-6030</td><td>TGC</td><td>66</td><td></td><td></td></tr><tr><td>tRNAAsn</td><td>H</td><td>6031-6098</td><td>GTT</td><td>68</td><td></td><td></td></tr><tr><td>tRNASer</td><td>L</td><td>6099-6177</td><td>GCT</td><td>79</td><td></td><td></td></tr><tr><td>tRNAGlu</td><td>H</td><td>6166-6231</td><td>TTC</td><td>66</td><td></td><td></td></tr><tr><td>tRNAPhe</td><td>L</td><td>6230-6296</td><td>GAA</td><td>67</td><td></td><td></td></tr><tr><td>NAD5</td><td>L</td><td>6296-8037</td><td></td><td>1742</td><td>GTG</td><td>TAa</td></tr><tr><td>tRNAHis</td><td>L</td><td>8038-8102</td><td>GTG</td><td>65</td><td></td><td></td></tr><tr><td>NAD4</td><td>L</td><td>8103-9444</td><td></td><td>1342</td><td>ATG</td><td>TAa</td></tr><tr><td>NAD4L</td><td>L</td><td>9438-9743</td><td></td><td>306</td><td>ATG</td><td>TAA</td></tr><tr><td>tRNAThr</td><td>H</td><td>9744-9811</td><td>TGT</td><td>68</td><td></td><td></td></tr><tr><td>tRNAPro</td><td>L</td><td>9812-9877</td><td>TGG</td><td>66</td><td></td><td></td></tr><tr><td>NAD6</td><td>H</td><td>9880-10404</td><td></td><td>525</td><td>ATT</td><td>TAA</td></tr><tr><td>CYTB</td><td>H</td><td>10404-11540</td><td></td><td>1137</td><td>ATG</td><td>TAA</td></tr><tr><td>tRNASer</td><td>H</td><td>11539-11604</td><td>TGA</td><td>66</td><td></td><td></td></tr><tr><td>NAD1</td><td>L</td><td>11622-12578</td><td></td><td>957</td><td>ATA</td><td>TAA</td></tr><tr><td>tRNALeu</td><td>L</td><td>12573-12638</td><td>TAG</td><td>66</td><td></td><td></td></tr><tr><td>16S rRNA</td><td>L</td><td>12574-13967</td><td></td><td>1394</td><td></td><td></td></tr><tr><td>tRNAVal</td><td>L</td><td>13968-14039</td><td>TAC</td><td>72</td><td></td><td></td></tr><tr><td>12S rRNA</td><td>L</td><td>14040-14832</td><td></td><td>793</td><td></td><td></td></tr><tr><td>Control region</td><td></td><td>14833-15385, 386</td><td></td><td>555-554</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2877063_table_1",
+   "page_num": 2,
+   "bbox": [
+    85.5,
+    706.4,
+    661.1,
+    950.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2877063_table_1.png",
+   "html": "<table><tr><td>Species</td><td>Total nt</td><td>A</td><td>C</td><td>G</td><td>T</td><td>A+T</td><td>G-skew</td><td>T-skew</td></tr><tr><td>Anopheles darlingi N</td><td>15386</td><td>6189</td><td>1920</td><td>1434</td><td>5843</td><td>78.2%</td><td>-0.144</td><td>-0.028</td></tr><tr><td>Anopheles darlingi S</td><td>15385</td><td>6181</td><td>1920</td><td>1444</td><td>5840</td><td>78.1%</td><td>-0.141</td><td>-0.028</td></tr><tr><td>Anopheles gambiae</td><td>15363</td><td>6150</td><td>1989</td><td>1458</td><td>5766</td><td>77.5%</td><td>-0.154</td><td>-0.032</td></tr><tr><td>Anopheles quadrimaculatus</td><td>15455</td><td>6221</td><td>2067</td><td>1432</td><td>5735</td><td>77.3%</td><td>-0.181</td><td>-0.040</td></tr><tr><td>Anopheles funestus</td><td>15354</td><td>6178</td><td>1936</td><td>1404</td><td>5836</td><td>78.2%</td><td>-0.159</td><td>-0.028</td></tr><tr><td>Aedes albopictus</td><td>16665</td><td>6680</td><td>2014</td><td>1396</td><td>6575</td><td>79.5%</td><td>-0.181</td><td>-0.007</td></tr><tr><td>Aedes aegypti</td><td>16655</td><td>6690</td><td>2118</td><td>1380</td><td>6467</td><td>79%</td><td>-0.210</td><td>-0.016</td></tr><tr><td>Drosophila yakuba</td><td>16019</td><td>6326</td><td>1949</td><td>1481</td><td>6263</td><td>78.6%</td><td>-0.136</td><td>-0.005</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2877063_table_2",
+   "page_num": 3,
+   "bbox": [
+    83.9,
+    144.5,
+    653.5,
+    454.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2877063_table_2.png",
+   "html": "<table><tr><td>Codon</td><td>Count</td><td>Codon</td><td>Count</td><td>Codon</td><td>Count</td><td>Codon</td><td>Count</td></tr><tr><td>UUU</td><td>335 (334)</td><td>UCU</td><td>93 (94)</td><td>UAU</td><td>139 (141)</td><td>UGU</td><td>38 (37)</td></tr><tr><td>UUC</td><td>26 (27)</td><td>UCC</td><td>2 (3)</td><td>UAC</td><td>25 (23)</td><td>UGC</td><td>2 (3)</td></tr><tr><td>UUA</td><td>531 (534)</td><td>UCA</td><td>107 (108)</td><td>UAA</td><td>14</td><td>UGA</td><td>94 (95)</td></tr><tr><td>UUG</td><td>28 (24)</td><td>UCG</td><td>6</td><td>UAG</td><td>0</td><td>UGG</td><td>5 (4)</td></tr><tr><td>CUU</td><td>26 (27)</td><td>CCU</td><td>71 (72)</td><td>CAU</td><td>71</td><td>CGU</td><td>10 (9)</td></tr><tr><td>CUC</td><td>1 (0)</td><td>CCC</td><td>7 (6)</td><td>CAC</td><td>7</td><td>CGC</td><td>0</td></tr><tr><td>CUA</td><td>25 (26)</td><td>CCA</td><td>54 (55)</td><td>CAA</td><td>73 (75)</td><td>CGA</td><td>48 (47)</td></tr><tr><td>CUG</td><td>0</td><td>CCG</td><td>1 (0)</td><td>CAG</td><td>4 (2)</td><td>CGG</td><td>0 (2)</td></tr><tr><td>AUU</td><td>337 (333)</td><td>ACU</td><td>118 (115)</td><td>AAU</td><td>192 (189)</td><td>AGU</td><td>49 (53)</td></tr><tr><td>AUC</td><td>11 (15)</td><td>ACC</td><td>2 (4)</td><td>AAC</td><td>13 (15)</td><td>AGC</td><td>8 (6)</td></tr><tr><td>AUA</td><td>201 (203)</td><td>ACA</td><td>77</td><td>AAA</td><td>74 (72)</td><td>AGA</td><td>50 (49)</td></tr><tr><td>AUG</td><td>22 (21)</td><td>ACG</td><td>1 (3)</td><td>AAG</td><td>20 (22)</td><td>AGG</td><td>0</td></tr><tr><td>GUU</td><td>65 (68)</td><td>GCU</td><td>100</td><td>GAU</td><td>63 (64)</td><td>GGU</td><td>32 (34)</td></tr><tr><td>GUC</td><td>4 (6)</td><td>GCC</td><td>8</td><td>GAC</td><td>3 (2)</td><td>GGC</td><td>1</td></tr><tr><td>GUA</td><td>106</td><td>GCA</td><td>64 (65)</td><td>GAA</td><td>76 (78)</td><td>GGA</td><td>159 (161)</td></tr><tr><td>GUG</td><td>10 (9)</td><td>GCG</td><td>3</td><td>GAG</td><td>5 (3)</td><td>GGG</td><td>26 (20)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2877063_table_3",
+   "page_num": 4,
+   "bbox": [
+    113.6,
+    144.5,
+    654.6,
+    529.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2877063_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td colspan=\"4\">Identity (%)</td></tr><tr><td>An. darlingi S vsN</td><td>An. darlingi S vs An. funestus</td><td>An. darlingi S vs An. gambiae</td><td>An. darlingi S vs An. quadrimaculatus</td></tr><tr><td>ND2</td><td>99.2</td><td>87.2</td><td>88.6</td><td>87.6</td></tr><tr><td>COI</td><td>98.6</td><td>90.6</td><td>88.6</td><td>88.2</td></tr><tr><td>COII</td><td>98.5</td><td>90.6</td><td>89</td><td>89.6</td></tr><tr><td>ATP8</td><td>98.7</td><td>91.3</td><td>90.7</td><td>91.3</td></tr><tr><td>ATP6</td><td>98.6</td><td>87</td><td>89.1</td><td>87.2</td></tr><tr><td>COIII</td><td>98.4</td><td>89.1</td><td>89.9</td><td>89.3</td></tr><tr><td>ND3</td><td>98.8</td><td>88.4</td><td>88.7</td><td>82.2</td></tr><tr><td>ND5</td><td>98.7</td><td>87.3</td><td>86.9</td><td>85.4</td></tr><tr><td>ND4</td><td>98.5</td><td>85.7</td><td>87.8</td><td>86.8</td></tr><tr><td>ND4L</td><td>99.6</td><td>90.1</td><td>88.8</td><td>87.2</td></tr><tr><td>ND6</td><td>99.8</td><td>85.9</td><td>87.8</td><td>88.7</td></tr><tr><td>CYTB</td><td>99</td><td>90.6</td><td>90</td><td>89.7</td></tr><tr><td>ND1</td><td>98.6</td><td>90.7</td><td>89.7</td><td>90.3</td></tr><tr><td>16SrRNA</td><td>99.7</td><td>92.1</td><td>93.2</td><td>94.1</td></tr><tr><td>12SrRNA</td><td>98.4</td><td>92.2</td><td>93.6</td><td>94.3</td></tr><tr><td>tRNA</td><td>100</td><td>94.9</td><td>95.8</td><td>94.3</td></tr><tr><td>CR</td><td>97.3</td><td>60.9</td><td>67.3</td><td>56.7</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2877063_table_4",
+   "page_num": 5,
+   "bbox": [
+    80.1,
+    144.5,
+    668.5,
+    889.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2877063_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">Codon</td><td colspan=\"5\">Parameters estimates*</td></tr><tr><td>M0 (one-ratio)</td><td>M1a (neutral)</td><td>M2a (selection)</td><td>M7 (&#946;)</td><td>M8 (&#946;&amp;&#969;)</td></tr><tr><td>NAD1</td><td>314</td><td>&#969; = 0.00843</td><td>p0 = 0.986, &#969;0 = 0.005 p1 = 0.013, &#969;1 = 1</td><td>p0 = 0.986, &#969;0 = 0.005 p1 = 0.013, &#969;1 = 1; p2 = 0, &#969;2 = 16.720</td><td>p = 0.040 q = 2.433</td><td>p0 = 0.992, p1 = 0.007 p = 0.047, q = 4.310 &#969; = 1</td></tr><tr><td>NAD2</td><td>341</td><td>&#969; = 0.00705</td><td>p0 = 0.972, &#969;0 = 0.005 p1 = 0.027, &#969;1 = 1</td><td>p0 = 0.972, &#969;0 = 0.005 p1 = 0.027, &#969;1 = 1 p2 = 0, &#969;2 = 33.683</td><td>p = 0.166 q = 17.011</td><td>p0 = 0.099, p1 = 0.003 p = 0.179, q = 19.695 &#969; = 1</td></tr><tr><td>NAD3</td><td>117</td><td>&#969; = 0.00583</td><td>p0 = 0.995, &#969;0 = 0.005 p1 = 0.004, &#969;1 = 1</td><td>p0 = 0.995, &#969;0 = 0.005 p1 = 0.002, &#969;1 = 1 p2 = 0.001, &#969;2 = 1</td><td>p = 0.17328 q = 24.05246</td><td>p0 = 0.999, p1 = 0.00001 p = 0.173, q = 24.053 &#969; = 1</td></tr><tr><td>NAD4</td><td>447</td><td>&#969; = 0.00295</td><td>p0 = 0.967, &#969;0 = 0.007 p1 = 0.032, &#969;1 = 1</td><td>p0 = 0.967, &#969;0 = 0 p1 = 0.032, &#969;1 = 1 p2 = 0, &#969;2 = 1</td><td>p = 0.12561 q = 7.98102</td><td>p0 = 0.999, p1 = 0.00001 p = 0.125, q = 7.983 &#969; = 1</td></tr><tr><td>NAD4L</td><td>99</td><td>&#969; = 0.00168</td><td>p0 = 0.980, &#969;0 = 0 p1 = 0.019, &#969;1 = 1</td><td>p0 = 0.98, &#969;0 = 0 p1 = 0.019, &#969;1 = 1 p2 = 0, &#969;2 = 88.23</td><td>p = 0.02510 q = 4.53382</td><td>p0 = 0.999, p1 = 0.00001 p = 0.025, q = 4.534 &#969; = 23.181</td></tr><tr><td>NAD5</td><td>576</td><td>&#969; = 0.01018</td><td>p0 = 0.959, &#969;0 = 0.006 p1 = 0.040, &#969;1 = 1</td><td>p0 = 0.959, &#969;0 = 0,006 p1 = 0.04, &#969;1 = 1 p2 = 0, &#969;2 = 9.342</td><td>p = 0.09489 q = 5.44623</td><td>p0 = 0.998, p1 = 0.001 p = 0.096, q = 5.702 &#969; = 1</td></tr><tr><td>NAD6</td><td>174</td><td>&#969; = 0.00034</td><td>p0 = 0.922, &#969;0 = 0 p1 = 0.077, &#969;1 = 1</td><td>p0 = 0.922, &#969;0 = 0 p1 = 0.075, &#969;1 = 1 p2 = 0.002, &#969;2 = 1</td><td>p = 0.11857 q = 99.0</td><td>p0 = 0.999, p1 = 0.00001 p = 0.118, q = 99 &#969; = 1.915</td></tr><tr><td>ATP6</td><td>222</td><td>&#969; = 0.01750</td><td>p0 = 0.966, &#969;0 = 0.012, p1 = 0.033, &#969;1 = 1</td><td>p0 = 0.966, &#969;0 = 0.01 p1 = 0.013, &#969;1 = 1 p2 = 0.02 , &#969;2 = 1</td><td>p = 0.12790 q = 5.29443</td><td>p0 = 0.999, p1 = 0.00001 p = 0.127, q = 5.295 &#969; = 1</td></tr><tr><td>ATP8</td><td>53</td><td>&#969; = 0.03705</td><td>p0 = 0.999, &#969;0 = 0.037 p1 = 0.000, &#969;1 = 1</td><td>p0 = 1, &#969;0 = 0.037 p1 = 0, &#969;1 = 1 p2 = 0, &#969;2 = 1</td><td>p = 0.63306 q = 15.13648</td><td>p0 = 0.999, p1 = 0.00001 p = 0.633, q = 15.138 &#969; = 1</td></tr><tr><td>COI</td><td>512</td><td>&#969; = 0.00343</td><td>p0 = 0.997, &#969;0 = 0.003 p1 = 0.002, &#969;1 = 1</td><td>p0 = 0.997, &#969;0 = 0.003 p1 = 0, &#969;1 = 1 p2 = 0.002, &#969;2 = 1</td><td>p = 0.00827 q = 0.29316</td><td>p0 = 0.999, p1 = 0.00001 p = 0.011, q = 0.524 &#969; = 1</td></tr><tr><td>COII</td><td>228</td><td>&#969; = 0.00761</td><td>p0 = 0.999, &#969;0 = 0.007 p1 = 0, &#969;1 = 1</td><td>p0 = 1, &#969;0 = 0.007 p1 = 0, &#969;1 = 1 p2 = 0, &#969;2 = 31.418</td><td>p = 0.05952 q = 5.03366</td><td>p0 = 0.999, p1 = 0.00001 p = 0.059, q = 5.033 &#969; = 1</td></tr><tr><td>COIII</td><td>262</td><td>&#969; = 0.00865</td><td>p0 = 0.984, &#969;0 = 0.005 p1 = 0.015, &#969;1 = 1</td><td>p0 = 0.984, &#969;0 = 0.005 p1 = 0.015, &#969;1 = 1 p2 = 0, &#969;2 = 68.73</td><td>p = 0.01261 q = 0.42587</td><td>p0 = 0.999, p1 = 0.00001 p = 0.0125, q = 0.422 &#969; = 2.891</td></tr><tr><td>CYTB</td><td>378</td><td>&#969; = 0.00516</td><td>p0 = 0.988, &#969;0 = 0.002 p1 = 0.011, &#969;1 = 1</td><td>p0 = 0.988, &#969;0 = 0.002 p1 = 0, &#969;1 = 1 p2 = 0.01, &#969;2 = 1</td><td>p = 0.01168 q = 0.44511</td><td>p0 = 0.994, p1 = 0.0051 p = 0.012, q = 0.583 &#969; = 1</td></tr></table>"
+  }
+ ]
+}

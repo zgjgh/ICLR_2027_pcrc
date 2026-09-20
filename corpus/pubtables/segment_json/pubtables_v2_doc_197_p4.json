@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_197",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    615.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Gene Centric Methylation"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    666.7,
+    107.4
+   ],
+   "ocr": "Table 6. Top 30 GO terms with MCC > 0.6 for genes by 1NN-SFS algorithm on TCGA data."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    604.6
+   ],
+   "ocr": "Description FDR q-value\npositive regulation of cellular process 3.75E-8\npositive regulation of biological process 2E-7\nRNA metabolic process 3.6E-7\nregulation of metabolic process 7.55E-7\nregulation of transcription from RNA polymerase II promoter 8.6E-7\ncellular macromolecule metabolic process 9.69E-7\nregulation of gene expression 1.16E-6\nregulation of macromolecule metabolic process 1.19E-6\nregulation of macromolecule biosynthetic process 1.35E-6\nregulation of cellular macromolecule biosynthetic process 1.36E-6\nRNA biosynthetic process 1.45E-6\nregulation of primary metabolic process 1.54E-6\nregulation of biosynthetic process 1.56E-6\nmacromolecule metabolic process 2.36E-6\naromatic compound biosynthetic process 2.48E-6\nregulation of cellular biosynthetic process 2.52E-6\npositive regulation of RNA biosynthetic process 3.02E-6\nregulation of RNA biosynthetic process 3.12E-6\nnucleobase-containing compound biosynthetic process 3.4E-6\nnucleic acid metabolic process 3.44E-6\nregulation of cellular metabolic process 3.45E-6\nregulation of transcription, DNA-templated 3.63E-6\ncellular process 3.73E-6\nheterocycle biosynthetic process 3.93E-6\ncellular nitrogen compound biosynthetic process 4.29E-6\npositive regulation of macromolecule biosynthetic process 4.35E-6\nregulation of nucleic acid-templated transcription 5.11E-6\nnucleobase-containing compound metabolic process 6.76E-6\nregulation of nucleobase-containing compound metabolic process 1.04E-5\npositive regulation of RNA metabolic process 1.07E-5",
+   "table_id": "PMC4752315_table_5"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    612.7,
+    727.2,
+    886.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t006 algorithms based on their ability to predict up/down expressed samples. We found that the 1NN-SFS algorithm performed the best compared to other methods tested (Figs 1 and 2) and random selection (Fig 1). We demonstrated that this algorithm led to consistent results (Fig 5). The 1NN-SFS has the advantages of selecting a certain number of probes as opposed to ranking the probes. We also observed that genes whose expression was predicted by DNA methylation with high accuracy were enriched in GO terms related to the regulation of various biological pro- cesses in both datasets. The overlap between highly predicted genes in both datasets were also significantly higher. Genes whose expression was accurately predicted by DNA methylation may be more sensitive to changes in DNA methylation. Therefore, genes that are sensitive to changes in DNA methylation may be more likely to be involved in the regulation of various biological processes. Additionally, functional clustering revealed that many genes that were sensitive to DNA methylation were regulators of other genes and proteins through a variety of mechanisms including DNA-binding, protein kinase activity, protein degradation and protein synthesis."
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0148977 February 12, 2016 15 / 19"
+  }
+ }
+}

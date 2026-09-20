@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_004",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The analysis of gene expression often requires precise methodologies to ensure accurate amplification and characterization of target sequences. In this context, the data presented in Table 1 focuses on the gene DNMT1, which plays a crucial role in DNA methylation and epigenetic regulation."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    155
+   ],
+   "ocr": "The primer sequences utilized for amplifying the DNMT1 gene are critical to the success of polymerase chain reaction (PCR) experiments, as they determine the specificity and efficiency of the amplification process. As indicated in the table, one such primer sequence for the forward strand is 5′-GGCTGAGATGAGGCAAAAAG-3′. Additionally, the product length, measured in base pairs (bp), provides essential information regarding the expected size of the amplified fragment."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    554.0
+   ],
+   "ocr": "Gene Primer sequence Product length (bp)\nDNMT1 F 5′-GGCTGAGATGAGGCAAAAAG -3′ 112\nR 5′-ACCAACTCGGTACAGGATGC -3′\nDNMT3A F 5′-TATTGATGAGCGCACAAGAGAGC -3′ 111\nR 5′-GGGTGTTCCAGGGTAACATTGAG -3′\nDNMT3B F 5′-AATGTGAATCCAGCCAGGAAAGGC -3′ 191\nR 5′-ACTGGATTACACTCCAGGAACCGT -3′\nMeCP2 F 5′-TGACCGGGGACCCATGTAT -3′ 145\nR 5′- CTCCACTTTAGAGCGAAAGGC -3′\nMBD1 F 5′- CCTGGGTGCTGTGAGAACTGT -3′ 107\nR 5′- TTGAAGGCAATTCTCTGTGCTC -3′\nMBD2 F 5′- AGGTAGCAATGATGAGACCCTTTTA -3′ 116\nR 5′- TAAGCCAAACAGCAGGGTTCTT -3′\nMBD3 F 5′- CCGCTCTCCTTCAGTAAATGTAAC -3′ 101\nR 5′- GGCTGGAGTTTGGTTTTCAGAA -3′\nMBD4 F 5′- AGACCCGCCGAATGACCT -3′ 144\nR 5′- GCACCAAACTGAGCAGAAGCG -3′\nβ-ACTIN F 5′- CTGGAACGGTGAAGGTGACA -3′ 140\nR 5′- AAGGGACTTCCTGTAACAACGCA -3′",
+   "table_id": "img_005001_t0"
+  },
+  "p9_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    570,
+    580,
+    597
+   ],
+   "ocr": "In this case, the product length for the DNMT1 gene is 112 bp. Understanding these parameters is vital for researchers aiming to quantify gene expression accurately and assess the functional consequences of genetic variations."
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    585,
+    580,
+    628
+   ],
+   "ocr": "The subsequent analysis of this data will contribute to a deeper understanding of the regulatory mechanisms governing DNMT1 and its implications in various biological processes and diseases."
+  }
+ }
+}

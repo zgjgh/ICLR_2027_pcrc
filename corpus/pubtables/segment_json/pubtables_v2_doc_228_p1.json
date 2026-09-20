@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_228",
+  "page": 1,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    301.9,
+    640.2,
+    317.8
+   ],
+   "ocr": "Figure 2. Cumulative hydrogen production from food waste hydrolysate in the batch system."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    202.7,
+    355.5,
+    442.5,
+    496.3
+   ],
+   "ocr": "Parameters Value\nEthanol (mmol) 108.93\nAcetate (mmol) 79.4\nButyrate (mmol) 31.78\nCarbon dioxide (mmol) 161.67\nCarbon recovered in soluble microbial products and\n665.45\ncarbon dioxide (mmol)\nConsumed glucose (mmol) 132.27\nConsumed carbon (mmol) 793.62\nCarbon recovery (%) 83.8",
+   "table_id": "PMC5133606_table_1"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    507.0,
+    694.0,
+    535.7
+   ],
+   "ocr": "Table 2. Performance of soluble microbial products and carbon recoveries under steady state from food waste hydrolysate in the batch system."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    571.5,
+    709.0,
+    587.0
+   ],
+   "ocr": "and 23.81 g glucose was consumed after 96 h which corresponded to a yield of 245.7 mL hydrogen/g glucose"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    198.9,
+    584.3,
+    352.7,
+    599.8
+   ],
+   "ocr": "(1.97 mol hydrogen/mol glucose)."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    597.0,
+    709.0,
+    894.6
+   ],
+   "ocr": "A modified Gompertz equation (1) was used to simulate biohydrogen production from food waste hydrolysate and the constant was determined by regression analysis using the Matlab 8.0 program. H = P exp{ − exp[(R e /P) ( λ − t) + 1]}  (1) (t) m where, H(t) is the CHP (mL), P is the maximum hydrogen production potential (mL), Rm is the maximum hydro- gen production rate (mL/h), λ is duration of the lag phase, e is 2.718 and t is the cultivation time (h). According to Gompertz equation, the maximum hydrogen production rate of 277.8 mL/(h), the maximum hydrogen produc- tion potential (P) of 6437 mL and the lag phase of 11.2 h could be calculated. Soluble microbial products and carbon recovery. Table 2 showed the profile of soluble microbial products and carbon recovery from food waste hydrolysate. The main soluble microbial products were ethanol and acetate with yields of 108.93 mmol and 79.4 mmol, respectively. It indicated that the bacterial metabolism was following ethanol type fermentation. This was beneficial for biohydrogen production because the ethanol type fermentation was considered to be the best type for biohydrogen production18. According to the carbon produced in the ethanol, acetate, butyrate and carbon dioxide, the recovered carbon in the soluble and gaseous microbial products of 665.45 mmol could be calculated. The consumed glucose was 132.27 mmol which was equal to consumed carbon of 793.62 mmol. Therefore, the carbon recovery of 83.8% was calculated in the batch system with the balance assumed to be converted to biomass19. Biohydrogen production from food waste hydrolysate with various HRT in the continuous system. Biohydrogen production rate and biomass. Hydrogen production rate (HPR) is a key criterion to evaluate the performance of biohydrogen-producing system. The HPRs at different HRT conditions (4–12 h)"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    891.9,
+    708.9,
+    907.4
+   ],
+   "ocr": "from food waste hydrolysate in the CSTR were shown in Fig. 3. For HRTs between 12 and 6 h, the HPR increased"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    904.6,
+    709.0,
+    920.2
+   ],
+   "ocr": "from 3.76 mmol/(h·L) to 8.02 mmol/(h·L) with decreasing of HRT since much more organic substrate was sup-"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    917.4,
+    708.9,
+    932.9
+   ],
+   "ocr": "plied into the CSTR for biohydrogen production20. However, the HPR decreased to 4.4 mmol/(h·L) when the"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    930.2,
+    708.9,
+    980.1
+   ],
+   "ocr": "HRT further decreased to 4 h. This is probably because the low HRT (4 h) had a direct negative effect on the Scientific RepoRts | 6:38395 | DOI: 10.1038/srep38395 3"
+  }
+ }
+}

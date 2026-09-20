@@ -1,0 +1,390 @@
+{
+ "doc_id": "wild_doc_045",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    720
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_049967_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    228.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_049967_t0.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Univariable model</td><td colspan=\"3\">Multivariable model</td></tr><tr><td></td><td>Log PCR</td><td>Log ACR</td><td>Log 24-h protein excretion</td><td>Log PCR</td><td>Log ACR</td><td>Log 24-h protein excretion</td></tr><tr><td>HR (95% CI)</td><td>1.39 (1.18–1.62)</td><td>1.29 (1.13–1.47)</td><td>1.43 (1.21–1.68)</td><td>1.31 (1.18–1.63)</td><td>1.27 (1.11–1.23)</td><td>1.43 (1.20–1.71)</td></tr><tr><td>P- value</td><td>&lt;0.001</td><td>&lt;0.001</td><td>&lt;0.001</td><td>0.001</td><td>&lt;0.001</td><td>&lt;0.001</td></tr><tr><td>Harrell’s C statistic (95% CI)</td><td>0.64 (0.57–0.70)</td><td>0.64 (0.57–0.71)</td><td>0.64 (0.57–0.71)</td><td>0.74 (0.69–0.80)</td><td>0.75 (0.69–0.81)</td><td>0.75 (0.69–0.81)</td></tr><tr><td>AIC</td><td>691</td><td>691</td><td>689</td><td>671</td><td>668</td><td>665</td></tr></table>"
+  },
+  {
+   "table_id": "img_049967_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    243.0,
+    580.0,
+    346.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_049967_t1.png",
+   "html": "<table><tr><td>TP53 mut</td><td colspan=\"3\">rs2736100 genotypes</td></tr><tr><td></td><td>AA</td><td>AC</td><td>CC</td></tr><tr><td>wt</td><td>8 (62%)</td><td>4 (14%)</td><td>4 (24%)</td></tr><tr><td>het</td><td>2 (15%)</td><td>7 (25%)</td><td>3 (18%)</td></tr><tr><td>hom</td><td>3 (23%)</td><td>17 (61%)</td><td>10 (59%)</td></tr></table>"
+  },
+  {
+   "table_id": "img_049967_t2",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    500.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_049967_t2.png",
+   "html": "<table><tr><td>Variables included in the analysis</td><td>Beta coefficient</td><td>Standard error</td><td>P</td><td>Exp(B)</td><td>95% CI of Exp(B)</td></tr><tr><td>Country = New Zealand (Comparison=all other participants)</td><td>0.67</td><td>0.21</td><td>&lt;0.001</td><td>2.60</td><td>1.92 – 3.52</td></tr><tr><td>Country=Trinidad &amp; Tobago (Comparison=all other participants)</td><td>-1.95</td><td>0.47</td><td>&lt;0.001</td><td>0.14</td><td>0.06 – 0.36</td></tr><tr><td>Feeling a Valued member of dental team(Most or all the time vs all other participants)</td><td>1.49</td><td>0.20</td><td>&lt;0.001</td><td>4.45</td><td>3.00 – 6.59</td></tr></table>"
+  },
+  {
+   "table_id": "img_050094_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    297.0,
+    580.0,
+    417.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_050094_t0.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Time point 1</td><td colspan=\"2\">Time point 2</td><td colspan=\"2\">Change (tp2 − tp1)</td></tr><tr><td></td><td>r</td><td>p</td><td>r</td><td>p</td><td>r</td><td>p</td></tr><tr><td>FA</td><td>.34</td><td>&lt; .001</td><td>.30</td><td>&lt; .001</td><td>− .05</td><td>.516</td></tr><tr><td>MD</td><td>− .27</td><td>&lt; .001</td><td>− .24</td><td>.003</td><td>.03</td><td>.756</td></tr><tr><td>RD</td><td>− .31</td><td>&lt; .001</td><td>− .27</td><td>&lt; .001</td><td>.03</td><td>.736</td></tr><tr><td>AD</td><td>− .13</td><td>.132</td><td>− .13</td><td>.104</td><td>.02</td><td>.814</td></tr></table>"
+  },
+  {
+   "table_id": "img_050094_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    495.0,
+    580.0,
+    635.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_050094_t1.png",
+   "html": "<table><tr><td>Statistics</td><td>DBH (cm)</td><td>H (m)</td><td>Age (years)</td><td>BEF</td><td>R</td><td>C (kg)</td></tr><tr><td>Average</td><td>24.69</td><td>16.69</td><td>21.67</td><td>1.39</td><td>0.07</td><td>113.01</td></tr><tr><td>Minimum</td><td>14.29</td><td>12.72</td><td>14.00</td><td>1.05</td><td>0.03</td><td>25.91</td></tr><tr><td>Maximum</td><td>33.39</td><td>19.90</td><td>31.00</td><td>2.06</td><td>0.12</td><td>228.43</td></tr><tr><td>Standard Deviation</td><td>5.62</td><td>2.07</td><td>5.85</td><td>0.25</td><td>0.02</td><td>58.20</td></tr><tr><td>Coefficient of Variation</td><td>22.76</td><td>12.39</td><td>27.00</td><td>17.94</td><td>31.15</td><td>51.50</td></tr><tr><td>N</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr></table>"
+  },
+  {
+   "table_id": "img_050132_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    236.0,
+    580.0,
+    379.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_050132_t0.png",
+   "html": "<table><tr><td>Phenotype category</td><td>Description</td><td>Number Candidatesa</td></tr><tr><td>U-shaped Somites</td><td>Somites with characteristic U shape</td><td>8</td></tr><tr><td>Cyclopia</td><td>Single large eye</td><td>6</td></tr><tr><td>Craniofacial abnormalities</td><td>Small/missing mandible; skull abnormalities</td><td>4</td></tr><tr><td>Pigment abnormalities</td><td>Floating melanocytes; reduced pigment in eye</td><td>3</td></tr><tr><td>Heart</td><td>Pericardial edema</td><td>1</td></tr><tr><td>Other</td><td>Tail/fin abnormalities, embryo lethality</td><td>2</td></tr></table>"
+  },
+  {
+   "table_id": "img_050132_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    414.0,
+    580.0,
+    651.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_050132_t1.png",
+   "html": "<table><tr><td>Stains</td><td>Procedure site</td><td>Frequency</td><td>Percent</td><td>Staining time Minutes</td><td>Report issuing site</td></tr><tr><td rowspan=\"2\">TBS</td><td>Onsite</td><td>114</td><td>100.0</td><td rowspan=\"2\">3.00</td><td rowspan=\"2\">On site in Procedure room</td></tr><tr><td>Not onsite</td><td>0</td><td>0.00</td></tr><tr><td rowspan=\"2\">Pap</td><td>Onsite</td><td>0</td><td>0.00</td><td rowspan=\"2\">30.00</td><td rowspan=\"2\">In the Laboratory after 24 hours</td></tr><tr><td>Not onsite</td><td>114</td><td>100.0</td></tr><tr><td>Stains</td><td>Staining ability</td><td>Staining intensity</td><td>Permanent smearing</td><td>Cell membrane and cytoplasm</td><td>Nuclei detail</td></tr><tr><td>TBS</td><td>Good</td><td>Good</td><td>Good</td><td>Good</td><td>Good</td></tr><tr><td>PAP</td><td>Good</td><td>Good</td><td>Good</td><td>Good</td><td>Good</td></tr></table>"
+  },
+  {
+   "table_id": "img_050257_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    165.0,
+    580.0,
+    286.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_050257_t0.png",
+   "html": "<table><tr><td>Re-interventions (n) in the same patient</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>AAPC (95%CI)2</td></tr><tr><td>1 re-intervention in the same year</td><td>3268</td><td>3243</td><td>3241</td><td>3039</td><td>2950</td><td>2667</td><td>2347</td><td>1796</td><td>−6.8 (−7.3; -6.3)</td></tr><tr><td>2 re-interventions in the same year</td><td>1387</td><td>1981</td><td>2419</td><td>2834</td><td>3092</td><td>3484</td><td>3560</td><td>3794</td><td>+12.9 (12.2; 13.5)</td></tr><tr><td>3 re-interventions in the same year</td><td>27</td><td>56</td><td>132</td><td>166</td><td>220</td><td>240</td><td>290</td><td>295</td><td>+27.5 (24.4; 30.7)</td></tr><tr><td>&gt;3 re-interventions in the same year</td><td>0</td><td>0</td><td>7</td><td>3</td><td>17</td><td>16</td><td>15</td><td>24</td><td>+45.9 (29.9; 63.9)</td></tr><tr><td>Total Re-interventions</td><td>4682</td><td>5280</td><td>5799</td><td>6042</td><td>6279</td><td>6407</td><td>6212</td><td>5909</td><td>+3.2 (2.8; 3.6)</td></tr></table>"
+  },
+  {
+   "table_id": "img_050257_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    323.0,
+    580.0,
+    445.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_050257_t1.png",
+   "html": "<table><tr><td>Life Stage</td><td>Seed</td><td>Seedling</td><td>Plantlet</td><td>Juvenile</td><td>Adult</td></tr><tr><td>Seed</td><td>0.016</td><td></td><td></td><td></td><td>14924</td></tr><tr><td>Seedling</td><td>0.02</td><td>0.06</td><td></td><td></td><td>205</td></tr><tr><td>Plantlet</td><td></td><td></td><td>0.05</td><td>4.83</td><td>13.7</td></tr><tr><td>Juvenile</td><td></td><td>0.083</td><td>0.78</td><td>0.28</td><td></td></tr><tr><td>Adult</td><td></td><td></td><td></td><td>0.26</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_050257_t2",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    482.0,
+    580.0,
+    608.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_050257_t2.png",
+   "html": "<table><tr><td></td><td>% correct C</td><td>Copy number error (median)</td><td colspan=\"3\">Purity error (median)</td></tr><tr><td>m</td><td>THetA</td><td>THetA</td><td>THetA</td><td>CNAnorm</td><td>ABSOLUTE</td></tr><tr><td>6</td><td>35.0</td><td>0.118</td><td>0.081</td><td>0.202</td><td>0.458</td></tr><tr><td>8</td><td>45.0</td><td>0.075</td><td>0.052</td><td>0.276</td><td>0.477</td></tr><tr><td>10</td><td>35.0</td><td>0.071</td><td>0.055</td><td>0.177</td><td>0.434</td></tr><tr><td>12</td><td>45.0</td><td>0.059</td><td>0.036</td><td>0.301</td><td>0.547</td></tr></table>"
+  },
+  {
+   "table_id": "img_050375_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    250.0,
+    580.0,
+    391.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_050375_t0.png",
+   "html": "<table><tr><td>Statements</td><td>N</td><td>%</td></tr><tr><td>Never thought that I needed one</td><td>320</td><td>57.2</td></tr><tr><td>Embarrassed to get examined by male health professional</td><td>134</td><td>24</td></tr><tr><td>Afraid to find out cancer</td><td>111</td><td>19.9</td></tr><tr><td>Wasn’t aware such services are available in our health facilities</td><td>34</td><td>6.1</td></tr><tr><td>Because of past unpleasant experience with health professionals</td><td>23</td><td>4.1</td></tr><tr><td>Others</td><td>14</td><td>2.5</td></tr></table>"
+  },
+  {
+   "table_id": "img_050375_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    441.0,
+    580.0,
+    589.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_050375_t1.png",
+   "html": "<table><tr><td>Genotypes</td><td>CAD patients (n = 300)</td><td>Control subjects (n = 312)</td><td>P-Value</td></tr><tr><td>C-1065A</td><td></td><td></td><td></td></tr><tr><td>CC</td><td>154 (51.3%)</td><td>147 (47.1%)</td><td></td></tr><tr><td>CA</td><td>137 (45.7%)</td><td>155 (49.3%)</td><td></td></tr><tr><td>AA</td><td>9 (3.0%)</td><td>10 (3.6%)</td><td>0.5798#</td></tr><tr><td>C allele</td><td>445 (74.2%)</td><td>449 (72.0%)</td><td></td></tr><tr><td>A allele</td><td>155 (25.8%)</td><td>175 (28.0%)</td><td>0.3834##</td></tr></table>"
+  },
+  {
+   "table_id": "img_050410_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    307.0,
+    580.0,
+    434.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_050410_t0.png",
+   "html": "<table><tr><td>Response option</td><td colspan=\"4\">Frequency of panel members’ ratings across four criteria of the 45 items (%)</td></tr><tr><td></td><td>Language clarity</td><td>Relevance</td><td>Completeness</td><td>Scaling</td></tr><tr><td>Strongly agree</td><td>58</td><td>55</td><td>50</td><td>57</td></tr><tr><td>Agree</td><td>28</td><td>33</td><td>33</td><td>28</td></tr><tr><td>Disagree</td><td>12</td><td>9</td><td>13</td><td>13</td></tr><tr><td>Strongly disagree</td><td>2</td><td>3</td><td>4</td><td>2</td></tr></table>"
+  },
+  {
+   "table_id": "img_050410_t1",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    486.0,
+    580.0,
+    607.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_050410_t1.png",
+   "html": "<table><tr><td>Factors</td><td>Number of questions</td><td>Cronbach’s alpha (95% CI)</td><td>Kappa (95% CI)</td></tr><tr><td>1. Snoring behaviour</td><td>5</td><td>0.89 (0.85-0.92)</td><td>0.88 (0.79-0.97)</td></tr><tr><td>2. Sleepiness during driving</td><td>2</td><td>0.78 (0.68-0.86)</td><td>0.81 (0.60-1.00)</td></tr><tr><td>3. Daytime fatigue</td><td>2</td><td>0.42 (0.31-0.61)</td><td>0.66 (0.43-0.89)</td></tr><tr><td>4. Hypertension or obesity</td><td>2</td><td>-</td><td>0.98 (0.94-1.00)</td></tr><tr><td>Total questionnaire</td><td>11</td><td>0.77 (0.69-0.83)</td><td>0.86 (0.74-0.98)</td></tr></table>"
+  },
+  {
+   "table_id": "img_050410_t2",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    650.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_050410_t2.png",
+   "html": "<table><tr><td>Sample</td><td>Total reads</td><td>GC %</td><td>Q30%</td><td>SLAF number</td><td>Total depth</td><td>Average depth</td></tr><tr><td>Hatiexi No.1</td><td>17,631,146</td><td>42.81</td><td>92.2</td><td>160,977</td><td>2,646,465</td><td>16.44</td></tr><tr><td>Zhe5819</td><td>38,025,068</td><td>43.41</td><td>93.3</td><td>181,313</td><td>4,916,562</td><td>27.12</td></tr><tr><td>Black pool</td><td>63,431,978</td><td>43.20</td><td>93.4</td><td>216,958</td><td>9,852,375</td><td>45.41</td></tr><tr><td>Yellow pool</td><td>61,740,302</td><td>42.98</td><td>92.8</td><td>205,768</td><td>8,492,938</td><td>41.27</td></tr><tr><td>Total</td><td>180,828,494</td><td>–</td><td>–</td><td>765,016</td><td>–</td><td>–</td></tr></table>"
+  },
+  {
+   "table_id": "img_050564_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    160.0,
+    580.0,
+    357.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_050564_t0.png",
+   "html": "<table><tr><td>Type of Permit for Advanced Treatment</td><td>Permits (n) 2007–2012</td><td>Active Waterworks 2012</td><td>Treated Water (million m3/year)</td><td>Examples of Treatment Methods</td></tr><tr><td>Major components</td><td>43</td><td>29</td><td>13.26</td><td>addition of sodium hydroxide, precipitation by adding iron(II), flocculation with polyaluminium chloride</td></tr><tr><td>Inorganic trace elements</td><td>36</td><td>31</td><td>3.67</td><td>addition of iron chloride, iron sulphate or adsorption filters with iron oxide</td></tr><tr><td>Organic micro-pollutants</td><td>17</td><td>8</td><td>10.38</td><td>activated carbon filters, intense stripping</td></tr><tr><td>Microbiology</td><td>22</td><td>6</td><td>23.32</td><td>UV disinfection</td></tr><tr><td>Total</td><td>118</td><td>74</td><td>50.471</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_050564_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    386.0,
+    580.0,
+    471.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_050564_t1.png",
+   "html": "<table><tr><td>Year</td><td>Tallmon et al. (2008)</td><td>Nb/Nc</td></tr><tr><td>1997</td><td>45.5 (31.4–54.9)</td><td>0.48</td></tr><tr><td>2005</td><td>30.5 (23.7–66.0)</td><td>0.53</td></tr><tr><td>2014</td><td>58.6 (43.0–144.0)</td><td>0.77</td></tr></table>"
+  },
+  {
+   "table_id": "img_050564_t2",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    495.0,
+    580.0,
+    616.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_050564_t2.png",
+   "html": "<table><tr><td>Gene sets</td><td></td><td>All genes</td><td>Only TATA-box</td><td>Only TC[-39,-26]-PLMs</td><td>Only TATAΔ-PLMs</td><td>[-39,-26]-PLM-less</td></tr><tr><td>Length median</td><td>Gene</td><td>2293</td><td>1936 (5e-23)</td><td>2385 (8e-8)</td><td>2293 (NS)</td><td>2334 (2e-7)</td></tr><tr><td></td><td>5&#x27;UTR</td><td>158</td><td>112 (7e-38)</td><td>175 (3e-5)</td><td>161 (NS)</td><td>173 (9e-10)</td></tr><tr><td></td><td>CDS</td><td>1086</td><td>966 (5e-14)</td><td>1185 (3e-10)</td><td>1071 (NS)</td><td>1119 (1e-4)</td></tr><tr><td></td><td>All introns</td><td>588</td><td>521 (1e-4)</td><td>605 (NS)</td><td>588 (NS)</td><td>614 (NS)</td></tr><tr><td>Percentage</td><td>Intron-less</td><td>18.8</td><td>24.5 (4e-9)</td><td>16.7 (NS)</td><td>17.5 (NS)</td><td>17.1 (NS)</td></tr></table>"
+  },
+  {
+   "table_id": "img_050600_t0",
+   "page_num": 8,
+   "bbox": [
+    9.0,
+    66.0,
+    343.0,
+    604.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_050600_t0.png",
+   "html": "<table><tr><td>Age Group</td><td>Type of Measures*</td><td>Name of questionnaire</td><td>Instrument</td><td>Dimension/subscales</td><td>N.°of Items**</td><td>Way of administration</td><td>Reliability</td><td>Validity in Haemophilia Examined</td><td>N° of languages</td><td>Use in haemophilia Research</td></tr><tr><td>Children</td><td>HRQoL</td><td>Haemo-QoL</td><td>Haemophilia -specific QoL Questionnaire for children patients and parents</td><td>8-12 (physical health, feeling, view of yourself, family, friends, perceived support, others, sports and school, dealing with haemophilia, treatment, future, relationships, global health)</td><td>I: 21 for children aged 4-7 II: 64 for children aged 8-12 III: 77 for adolescents aged 13-16</td><td>Self/Proxy</td><td>α = 0.85-0.91 (for the different age group versions)</td><td>yes</td><td>40</td><td>Epidemiological study (describing the quality of life of patients with reference to other chronic conditions), Clinical trials (to evaluate the potential benefits of different treatment regimes), Quality assurance (identifying the quality of care perceived by patients, e.g., in Haemophilia Comprehensive Care Centres (HCCC), Health-economic studies (assessing costs and benefits of haemophilia treatment with regard to economic indicators) and Routine treatment</td></tr><tr><td>Adults</td><td></td><td>Haem-A-QoL</td><td>Disease-specific questionnaire for adults patients</td><td>10 (physical health, feelings, view of yourself, sport and leisure, work and school, dealing with haemophilia, treatment, future, family planning, partnership and sexuality)</td><td>46</td><td>Self</td><td>α = 0.74-0.88</td><td>yes</td><td>32</td><td></td></tr><tr><td></td><td></td><td>Medtap (Haemo-QoL-A)</td><td>Haemophilia-specific QoL questionnaire for adults</td><td>4 (day-to-day activities, mood and feelings, work or school life, family life -social life, haemophilia treatment)</td><td>41</td><td>Self</td><td>α = 0.75-0.95</td><td>yes</td><td>20</td><td></td></tr><tr><td></td><td>TS</td><td>Hemo-SatA</td><td>Haemophilia Treatment satisfaction Question- naire</td><td>6 (Ease and convenience, Efficacy Burden, Specialist/nurses, Centre/Hospital, General satisfaction with your treatment</td><td>34</td><td>Self</td><td>α = 0.71-0.95</td><td>yes</td><td>24</td><td>To evaluate patients&#x27; therapy and experience, in follow-up analysis</td></tr><tr><td></td><td>Functioning</td><td>HEP-Test Q</td><td>Subjective assessment questionnaire of the effects of physical functioning in adult with haemophilia</td><td>5 (physical status, mobility strength-coordination, endurance, body perception)</td><td>25 + 1</td><td>Self</td><td>α = 0.70-0.90</td><td>yes</td><td>3</td><td>Evaluation of patients&#x27; daily activities or functioning, Follow-up analysis, Rehabilitation Programs</td></tr></table>"
+  },
+  {
+   "table_id": "img_050600_t1",
+   "page_num": 8,
+   "bbox": [
+    9.0,
+    613.0,
+    343.0,
+    697.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_050600_t1.png",
+   "html": "<table><tr><td>Test (interaction)</td><td>β(SE)</td><td>p-Value</td></tr><tr><td colspan=\"3\">Serial digit learning (AG × age)</td></tr><tr><td>Non-AG</td><td>0.26 (0.17)</td><td>0.13</td></tr><tr><td>AG</td><td>−0.16 (0.12)</td><td>0.20</td></tr><tr><td colspan=\"3\">Symbol-digit latency (AG × education)</td></tr><tr><td>Non-AG</td><td>−90.87 (40.17)</td><td>0.03</td></tr><tr><td>AG</td><td>−197.52 (33.12)</td><td>&lt; 0.01</td></tr></table>"
+  },
+  {
+   "table_id": "img_050602_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    241.0,
+    580.0,
+    364.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_050602_t0.png",
+   "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Control</td><td colspan=\"2\">VA</td><td colspan=\"2\">CLA</td><td colspan=\"2\">VA+CLA</td></tr><tr><td>Mean</td><td>SEM</td><td>Mean</td><td>SEM</td><td>Mean</td><td>SEM</td><td>Mean</td><td>SEM</td></tr><tr><td>2-AGa</td><td>ND</td><td>—</td><td>ND</td><td>—</td><td>ND</td><td>—</td><td>ND</td><td>—</td></tr><tr><td>AEAa</td><td>8.9</td><td>4.1</td><td>5.6</td><td>0.6</td><td>7.9</td><td>0.4</td><td>6.4</td><td>1.9</td></tr><tr><td>PEAa</td><td>145.9</td><td>11.1</td><td>145.2</td><td>2.5</td><td>144.1</td><td>6.0</td><td>146.9</td><td>3.3</td></tr><tr><td>OEAa</td><td>62.1</td><td>6.8</td><td>59.3</td><td>1.8</td><td>59</td><td>6.5</td><td>57.9</td><td>3.1</td></tr></table>"
+  },
+  {
+   "table_id": "img_050602_t1",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    393.0,
+    580.0,
+    516.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_050602_t1.png",
+   "html": "<table><tr><td></td><td></td><td></td><td colspan=\"3\">BOSpos (n = 20)</td><td colspan=\"3\">BOSneg (n = 87)b</td><td colspan=\"3\">Controls (n = 422)</td></tr><tr><td>SNPs</td><td>Gene region</td><td>Major/minor</td><td>AA</td><td>AB</td><td>BB</td><td>AA</td><td>AB</td><td>BB</td><td>AA</td><td>AB</td><td>BB</td></tr><tr><td>rs12154695</td><td>Unknown</td><td>C/A</td><td>12 (60)</td><td>6 (30)</td><td>2 (10)</td><td>34 (39)</td><td>47 (54)</td><td>6 (7)</td><td>181 (43)</td><td>189 (45)</td><td>52 (12)</td></tr><tr><td>rs10256914</td><td>Intron</td><td>T/C</td><td>12 (60)</td><td>6 (30)</td><td>2 (10)</td><td>50 (57)</td><td>29 (33)</td><td>8 (9)</td><td>228 (54)</td><td>158 (37)</td><td>36 (9)</td></tr><tr><td>rs3807989c</td><td>Intron</td><td>C/T</td><td>4 (20)</td><td>9 (45)</td><td>7 (35)</td><td>33 (38)</td><td>47 (54)</td><td>7 (8)</td><td>144 (34)</td><td>206 (49)</td><td>72 (17)</td></tr><tr><td>rs3807994</td><td>Intron</td><td>C/T</td><td>10 (50)</td><td>7 (35)</td><td>3 (15)</td><td>57 (66)</td><td>28 (32)</td><td>2 (2)</td><td>240 (57)</td><td>156 (37)</td><td>26 (6)</td></tr></table>"
+  },
+  {
+   "table_id": "img_050602_t2",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    544.0,
+    580.0,
+    671.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_050602_t2.png",
+   "html": "<table><tr><td></td><td>Hybrid</td><td>Cemented</td><td>P value</td></tr><tr><td>Total no. of knees</td><td>193</td><td>111</td><td></td></tr><tr><td>Mean postop. KSS clinical</td><td>96.6</td><td>93.8</td><td>0.007*</td></tr><tr><td>Mean postop. KSS functional</td><td>96.6</td><td>94.9</td><td>0.22</td></tr><tr><td>Mean postop. KSS TOTAL</td><td>192</td><td>185.1</td><td>0.02*</td></tr><tr><td>Mean KSS total improvement</td><td>54.8</td><td>58.8</td><td>0.35</td></tr></table>"
+  },
+  {
+   "table_id": "img_050713_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    184.0,
+    580.0,
+    310.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_050713_t0.png",
+   "html": "<table><tr><td>Cytokine</td><td>PorB/VD1</td><td>PorB/VD2</td><td>PorB/VD3</td><td>PorB/VD4</td><td>NL PorB</td></tr><tr><td>IL-4 a</td><td>1.19 ± 0.55</td><td>3.56 ± 0.7</td><td>3.1 ± 0.72</td><td>2.29 ± 0.09</td><td>2.57 ± 0.67</td></tr><tr><td>IFN-γ a</td><td>5.44 ± 0.2</td><td>10.05 ± 4.79</td><td>3.65 ± 0.25</td><td>2.08 ± 0.62</td><td>2.84 ± 1.09</td></tr><tr><td>Th1:Th2 index ^</td><td>2.85</td><td>2.81</td><td>1.80</td><td>0.90</td><td>1.10</td></tr><tr><td>IL-6 a</td><td>5.23 ±0.82</td><td>16.63 ± 3.47</td><td>7.6 ± 1.12</td><td>11.14 ± 2.56</td><td>4.81 ± 1.7</td></tr><tr><td>TNF-α a</td><td>7.87 ± 1.78</td><td>1.58 ± 0.67</td><td>5.9 ± 0.68</td><td>12.75 ± 3.63</td><td>0.46 ± 0.24</td></tr></table>"
+  },
+  {
+   "table_id": "img_050713_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    330.0,
+    580.0,
+    537.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_050713_t1.png",
+   "html": "<table><tr><td>SUBCATEGORY</td><td>DESCRIPTION</td></tr><tr><td>Time demand</td><td>High time demand for paediatric palliative care (in comparison to adult palliative care) due to involvement of the whole family system and longer illness trajectories</td></tr><tr><td>Basic conditions of care</td><td>Small caseload in paediatric palliative care and a heterogeneous range of conditions bear practical and economical challenges for extensive specialist infrastructure</td></tr><tr><td>Challenges for staff</td><td>Work in paediatric palliative home care as a &quot;tightrope walk&quot; due to the traumatising impact of the dying of a child and the involvement of the whole family system</td></tr><tr><td>Qualification</td><td>Requirement of specialist qualification in the field of paediatric hospice and palliative care, as well as supervision and staff support</td></tr><tr><td>Locations of care</td><td>Advantages of home care (&quot;normality&quot; and intimacy within familiar environment) vs. advantages of inpatient care (safety, relief of medical and nursing responsibility)</td></tr></table>"
+  },
+  {
+   "table_id": "img_050713_t2",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    555.0,
+    580.0,
+    682.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_050713_t2.png",
+   "html": "<table><tr><td></td><td>ORF</td><td>Promoter</td><td>5&#x27; UTR</td><td>3&#x27; UTR</td><td>Terminator</td></tr><tr><td>ORF</td><td>--------</td><td>0.053 (0.0015)</td><td>0.19(&lt; 10-16)</td><td>-0.032(0.02)</td><td>0.073(5.66*10-6)</td></tr><tr><td>Promoter</td><td>--------</td><td>---------</td><td>0.0717 (1.37*10-5)</td><td>0.043(0.01)</td><td>0.155(1.37*10-16)</td></tr><tr><td>5&#x27; UTR</td><td>--------</td><td>---------</td><td>---------</td><td>0.1 (4.63*10-11)</td><td>0.124(1.37*10-12)</td></tr><tr><td>3&#x27; UTR</td><td>--------</td><td>---------</td><td>---------</td><td>---------</td><td>-0.19 (&lt; 10-16)</td></tr><tr><td>Terminator</td><td>--------</td><td>---------</td><td>---------</td><td>---------</td><td>---------</td></tr></table>"
+  }
+ ]
+}

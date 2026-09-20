@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_288",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    49.8,
+    698.3,
+    65.5
+   ],
+   "ocr": "BMC Genomics 2008, 9:102 http://www.biomedcentral.com/1471-2164/9/102"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    384.6,
+    119.1
+   ],
+   "ocr": "Table 3: The most abundant functional groups in the E. coli cytosol."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.0,
+    693.1,
+    324.3
+   ],
+   "ocr": "FunCat number FunCat category description Distinct proteins in this group Rank (by mean copy number)\n05.01.01 ribosomal proteins 55 1\n05.01 ribosome biogenesis 62 2\n63.03.03 RNA binding 83 3\n05 Protein synthesis 107 4\n63.03 nucleic acid binding 144 5\n40.03 cytoplasm 275 6\n63 Protein with binding function or cofactor requirement 483 7\n(structural or catalytic)\n63.07 structural protein 6 8\n05.04 translation 34 9\n63.01 protein binding 113 10\n06.01 protein folding and stabilization 70 11\n04.01.99 other rRNA-transcription activities 6 12",
+   "table_id": "PMC2292177_table_2"
+  },
+  "p3_b3": {
+   "type": "title",
+   "bbox": [
+    79.5,
+    508.4,
+    100.7,
+    542.7
+   ],
+   "ocr": "s ein t o 50"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    79.5,
+    539.3,
+    100.7,
+    594.2
+   ],
+   "ocr": "pr of ion 40 act"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    79.5,
+    589.3,
+    100.7,
+    606.3
+   ],
+   "ocr": "a Fr 30"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    692.8,
+    698.3,
+    912.8
+   ],
+   "ocr": "0 0 0 50 50 100 100 150 150 200 200 250 250 300 300 350 350 400 400 450 450 500 500 550 550 600 600 650 650 Top n -abu n dan t pr ot ein s Protein with binding function Transcription cellular organization protein synthesis protein fate transport facilitation metabolism cellular transport energy cell rescue Figure Abundance 5 functional profile Abundance functional profile. Shown is the fraction of proteins which are involved in different functional categories in dif- ferent abundance ranges. The first data point shows the functional breakdown of the 50 most abundant proteins, the second data point corresponds to the 100 most abundant proteins, and so on. Note that the fractions relative to the number of pro- teins (e.g. 50, 100...) do not sum up to 1 since a protein can have assigned multiple functions like protein synthesis and with bind- ing function. The functional categories shown in the legend are the FunCat top level classifications as outlined in the Methods sections. In this plot all 1103 proteins – inclusive the 53 ribosomal proteins – are shown. Since the plot is based on relative ranking it is robust with respect to the observed copy number variability of these most abundant proteins."
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    394.0,
+    952.8,
+    698.4,
+    981.8
+   ],
+   "ocr": "dant Barrel-sandwich fold. Furthermore, the widely Page spread 9 of 17 (page number not for citation purposes)"
+  }
+ }
+}

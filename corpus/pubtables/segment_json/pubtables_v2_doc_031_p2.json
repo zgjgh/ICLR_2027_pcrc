@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_031",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    320.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Scalable preprocessing of high volume environmental acoustic data for bioacoustic monitoring"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    96.6,
+    192.0,
+    106.7
+   ],
+   "ocr": "Table 4. Cicada detection accuracy."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    76.9,
+    115.4,
+    691.3,
+    204.4
+   ],
+   "ocr": "Split Length True Pos. False Pos. False Neg. True Neg. Accuracy\n5 10.3% 2.0% 0.0% 87.6% 98.0%\n10 10.3% 1.7% 0.0% 87.9% 98.3%\n15 10.3% 1.7% 0.0% 89.7% 100.0%\n20 10.3% 2.3% 0.0% 87.4% 97.7%\n30 10.3% 1.7% 0.0% 87.9% 98.3%",
+   "table_id": "PMC6075764_table_3"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    212.6,
+    236.2,
+    223.2
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0201542.t004"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    491.9,
+    727.2,
+    795.4
+   ],
+   "ocr": "Fig 5. Amount of audio detected as rain in a sample as it varies with split length. https://doi.org/10.1371/journal.pone.0201542.g005 signal was classified as rain, although the rain classifier classifies some lighter rain without significant bird sound as containing rain. While these are labelled as false positives, many of these would be (validly) removed by the silence detector anyway. • Silence: Figs 6 and 7, and Table 6, show the accuracy of the silence detector at different signal to noise ratio thresholds. Unlike rain and cicada detection, split length has a significant effect on the sensitivity of silence detection. This is because silence is much more likely to occur over shorter durations. Overall, the silence detector performs somewhat poorly, producing about as many false posi- tives as true positives on more aggressive settings, and failing to detect many instances of silence on all settings, with worsening performance for longer split lengths and lower thresh- olds. This indicates a better approach is needed for removing silence overall, which will be the subject of future work. For the present investigation a less sensitive threshold is selected, as this is more accurate overall and retains more samples containing bird sound, which is Table 5. Rain detection accuracy."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    76.9,
+    804.2,
+    691.3,
+    893.1
+   ],
+   "ocr": "Split Length True Pos. False Pos. False Neg. True Neg. Accuracy\n5 6.8% 5.4% 4.8% 83.0% 89.9%\n10 6.9% 4.0% 4.3% 84.7% 91.7%\n15 7.5% 4.6% 3.7% 84.2% 91.7%\n20 8.3% 5.5% 2.9% 83.3% 91.7%\n30 6.0% 4.3% 5.2% 84.5% 90.5%",
+   "table_id": "PMC6075764_table_4"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    901.4,
+    236.2,
+    912.0
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0201542.t005"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0201542 August 3, 2018 11 / 24"
+  }
+ }
+}

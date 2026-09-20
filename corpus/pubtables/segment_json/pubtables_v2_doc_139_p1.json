@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_139",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    485.9,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Genome Majority Vote Improves Gene Predictions"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    410.1,
+    376.2,
+    653.7
+   ],
+   "ocr": "Figure 2. Example of a GMV modification of gene starts that is of the gene, and the start codon before and after the change. doi:10.1371/journal.pcbi.1002284.g002 varied depending on the number and diversity of genomes in the test sets. The impact was highest for the medium diversity sets. The maximum level of consistency that could theoretically be imposed ranged from 81.6% to 99.9% (Table 1, last row). The difference between the theoretical maximum and the levels achieved by GMV ranged from 3.6% to 35.2%; these differences increased monotonically with the diversity of the genome test sets. The range of differences encompasses a value of 18% calculated from the results for five Burkholderia genomes [7], demonstrating the general consistency of the previous results with the results presented here. The ortholog sets not revised by GMV involve choosing alternative start sites for the majority of genes. These Table 1. Consistency statistics for ortholog sets."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    375.3,
+    410.1,
+    700.8,
+    420.1
+   ],
+   "ocr": "typical in terms of ortholog sequence identity, change in the length"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    461.2,
+    700.8,
+    620.7
+   ],
+   "ocr": "ortholog sets might represent real biological variation in the location of gene start sites, as we discussed previously [7]. In contrast, GenePRIMP [9] also uses homologs to identify potential start site prediction errors, but does not appear to have a mechanism that could distinguish errors from true biological variation. GMV changes typically preserve start codons Among the ortholog sets revised by GMV, ATG was the most common start codon, as expected (Table 2). We calculated statistics for start codon changes for the medium and high diversity genome test sets, which accounted for the largest number of"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    681.0,
+    688.6,
+    872.2
+   ],
+   "ocr": "5 genomesa 10 genomesa\nLow Medium High Very High Low Medium High Very High\nTotal # of ortholog sets generated 3633 2446 1414 988 3271 2133 1317 380\nin the pipeline\n# of ortholog sets for which Prodigal 213 (5.9%) 536 (21.9%) 574 (40.6%) 547 251 614 (28.8%) 634 (48.1%) 235 (61.8%)\nstarts were initially inconsistentb (55.4%) (7.7%)\n# of ortholog sets for which Prodigal 3420 (94.1%) 1910 (78.1%) 840 (59.4%) 441 3020 1519 (71.2%) 683 (51.9%) 145 (38.2%)\nstarts were already consistentb (44.6%) (92.3%)\n# of inconsistent ortholog sets 74 (34.7%) 278 (51.9%) 204 (35.5%) 74 89 286 (46.6%) 227 (35.8%) 31 (13.2%)\nthat were made consistent by GMVc (16.8%) (35.5%)\n# of ortholog sets with consistent 3494 (96.2%) 2188 (89.5%) 1044 (73.8%) 515 3109 1805 (84.6%) 910 (69.1%) 176 (46.3%)\nstarts after GMVb (52.1%) (95.0%)\n# of ortholog sets with at least 3626 (99.8%) 2428 (99.3%) 1326 (93.8%) 863 3269 2098 (98.4%) 1215 (92.3%) 310 (81.6%)\none consistent startb (87.3%) (99.9%)",
+   "table_id": "PMC3219611_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    883.5,
+    388.9,
+    926.4
+   ],
+   "ocr": "aThe genomes in each set are listed in Supplementary Table S1. bPercentage is with respect to total # of ortholog sets generated in the pipeline. cPercentage is with respect to # of ortholog sets for which Prodigal starts were doi:10.1371/journal.pcbi.1002284.t001"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    386.4,
+    906.9,
+    462.2,
+    915.7
+   ],
+   "ocr": "initially inconsistent."
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    336.7,
+    963.6
+   ],
+   "ocr": "PLoS Computational Biology | www.ploscompbiol.org"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.9,
+    963.6
+   ],
+   "ocr": "4 November 2011 | Volume 7 | Issue 11 | e1002284"
+  }
+ }
+}

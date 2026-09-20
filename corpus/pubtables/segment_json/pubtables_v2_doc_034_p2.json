@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_034",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    196.3,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2007, 7:109"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/7/109"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    333.8,
+    118.9
+   ],
+   "ocr": "Table 2: Expression levels of melanin biosynthesis genes."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    74.0,
+    130.1,
+    687.6,
+    320.0
+   ],
+   "ocr": "Library Gene B16F1 melanoma cells Melan-a2 melanocytes E14 Stem Cell E17.5 embryo Descriptions\nPET counts (cpm)\nTyr 185 798 0 0 Tyrosinase precursor; Albino locus protein;\nBelong to tyrosinase gene family.\nDct (Tyrp2) 1468 3208 0 0 Dopachrome tautomerase precursor;\nTyrosinase-related protein 2; Belong to\ntyrosinase gene family.\nDdt 65 58 44 0 D-dopachrome tautomerase.\nTyrp1 1750 2816 0 0 5,6-dihydroxyindole-2-carboxylic acid (DHICA)\noxidase precursor; Belong to tyrosinase gene\nfamily.\nSi 4751 7985 125 12 Melanocyte protein Pmel 17 precursor (Silver\nlocus protein).",
+   "table_id": "PMC1929113_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    359.4,
+    372.6,
+    922.4
+   ],
+   "ocr": "either related to purine, amino acid, or lipid biosynthesis, or the degradation of xenobiotic compounds (Table 3). High activation of the purine biosynthesis pathway occurred in most of the enzymes involved in ATP or GTP synthesis, starting from the biosynthesis of ribose 5-phos- phate all the way through PRPP, inosinate (IMP), xanthyl- ate, to the formation of ATP and GTP. The aminophosphonate metabolic pathway upregulation might lead to an increase in phospholipid biosynthesis. Upregulation of nitrobenzene degradation and bisphenol A degradation pathways would help melanoma cells detoxify xenobiotic compounds, in which cytochrome P450 plays an important role. Transcription of P450 per se was increased from an undetectable level in melanocytes to 44 cpm in melanoma cells. Biosynthesis of the amino acid tyrosine was activated in melanoma cells as suggested by the transcriptional upregulation of tyrosine biosynthe- sis genes. However, the utilization of tyrosine residues in melanoma cells is unclear because the transcriptional lev- els of the enzymes involved in consuming tyrosine for melanin synthesis in melanoma were all lower than in melanocytes (4.4, 1.6, and 2.2 fold differences for Tyr, Tyrp1, and Dct, respectively) and enzymes involved in downstream tyrosine utilization were mostly lower in melanoma cells. Lastly, transcriptional activation was found in most of the enzymes of the galactose pathway, especially those involved in the galactose-glucose inter- conversion process (Table 4) including galactosekinase 1, UDP-galactose-4-epimerase, and UDP-glucose pyrophos- phorylase 2, suggesting that melanoma cells are more active than melanocytes in using galactose not only to use it as the carbon and energy sources, but also for detoxifi- cation because galactose is highly toxic if accumulated in the cell. Glycolysis is the biological process that converts glucose to pyruvate with ATP production. The process can be divided into upstream and downstream processes. The"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    359.4,
+    698.4,
+    922.4
+   ],
+   "ocr": "upstream process converts one molecule of glucose into one molecule of dihydroxyacetone phosphate (which is subsequently converted into glyceraldehyde 3-P) and one molecule of glyceraldehyde 3-P. The downstream process converts two glyceraldehyde 3-P molecules into two pyru- vate molecules. In melanoma cells, although the overall glycolysis path- way is not upregulated, most of the enzymes involved in the upstream reaction were upregulated, especially phos- phoglucose isomerase (255:450 in cpm), which intercon- verts glucose 6-P and fructose 6-P, and aldolase (1263:1784 in cpm), which interconverts fructose 1,6- bisphosphate and glyceraldehydes 3-P/dihydroxyacetone phosphate. The PI3K/Akt lipid kinase signaling pathway, which is involved in diverse cellular activities including glucose metabolism, was activated in melanoma cells. Expression levels of PI3K and Akt were 11 cpm and 176 cpm, respec- tively, in melanoma cells; compared with 0 cpm and 90 cpm in melanocytes. Most of the significantly downregulated pathways reside in mitochondria and are related to energy metabolisms through the electron transport chain Eight pathways were found significantly downregulated (p < 0.005) in melanoma cells (Table 3). Three of them were excluded by manual curation due to the following reasons: 1) The Reductive carboxylate cycle is actually a reverse TCA cycle, and TCA cycle was already included. 2) The C5-branched dibasic acid metabolism pathway com- prises only two genes, IlvB and Sucla2; and Sucla2 encodes a succinate-CoA ligase, which is also a component of the TCA cycle. 3) Lastly, the pyrimidine biosynthesis pathway consists of 72 gene isoforms listed in the KEGG database, of which 12 were shown to be downregulated and another 12 were shown to be upregulated (as defined by r ≤ 0.67,"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 9 of 21 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_065",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    707,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4648050_table_0",
+   "page_num": 1,
+   "bbox": [
+    74.5,
+    788.8,
+    377.1,
+    850.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4648050_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">clogP</td><td rowspan=\"2\">tPSA [&#65533;2]</td><td rowspan=\"2\">Mr [Da]</td><td colspan=\"2\">EC50 [mm][a]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>1</td><td>3.3</td><td>57</td><td>334</td><td>0.08</td><td>&gt;50</td></tr><tr><td>2</td><td>2.8</td><td>75</td><td>370</td><td>0.5</td><td>15</td></tr><tr><td>3</td><td>2.9</td><td>77</td><td>334</td><td>0.9</td><td>ND</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4648050_table_1",
+   "page_num": 2,
+   "bbox": [
+    61.6,
+    154.8,
+    339.5,
+    445.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4648050_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">R1</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">clogP</td><td colspan=\"2\">EC50 [mm][a]</td><td rowspan=\"2\">Aq. Sol. [mm][b]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>1</td><td></td><td></td><td>3.6</td><td>0.08</td><td>&gt;50</td><td>&lt;12</td></tr><tr><td>8</td><td></td><td></td><td>3.6</td><td>0.09</td><td>&gt;50</td><td>ND</td></tr><tr><td>9</td><td></td><td></td><td>3.3</td><td>0.5</td><td>&gt;50</td><td>ND</td></tr><tr><td>10</td><td></td><td></td><td>2.7</td><td>0.3</td><td>&gt;50</td><td>ND</td></tr><tr><td>11</td><td></td><td></td><td>1.9</td><td>40</td><td>&gt;50</td><td>ND</td></tr><tr><td>12</td><td></td><td></td><td>3.9</td><td>0.03</td><td>&gt;50</td><td>55</td></tr><tr><td>13</td><td></td><td></td><td>2.0</td><td>0.59</td><td>&gt;50</td><td>ND</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4648050_table_2",
+   "page_num": 2,
+   "bbox": [
+    368.0,
+    154.8,
+    645.8,
+    410.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4648050_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">R1</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">clogP</td><td colspan=\"2\">EC50 [mm][a]</td><td rowspan=\"2\">Aq. Sol. [mm][b]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>1</td><td></td><td></td><td>3.6</td><td>0.08</td><td>&gt;50</td><td>&lt;12</td></tr><tr><td>14</td><td></td><td></td><td>3.5</td><td>0.1</td><td>26</td><td>&lt;12</td></tr><tr><td>15</td><td></td><td></td><td>4.0</td><td>1</td><td>39</td><td>ND</td></tr><tr><td>16</td><td></td><td></td><td>2.0</td><td>36</td><td>&gt;50</td><td>ND</td></tr><tr><td>17</td><td></td><td></td><td>3.6</td><td>0.3</td><td>44</td><td>ND</td></tr><tr><td>18</td><td></td><td></td><td>2.5</td><td>3</td><td>46</td><td>ND</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4648050_table_4",
+   "page_num": 3,
+   "bbox": [
+    61.6,
+    697.6,
+    386.6,
+    840.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4648050_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">R3</td><td rowspan=\"2\">R4</td><td rowspan=\"2\">R5</td><td rowspan=\"2\">PPB [%free]</td><td rowspan=\"2\">clogP</td><td colspan=\"2\">EC50 [mm][a]</td><td rowspan=\"2\">Aq. Sol. [mm][b]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>19</td><td>H</td><td>H</td><td>H</td><td>0.8</td><td>3.9</td><td>0.04</td><td>&gt;50</td><td>110</td></tr><tr><td>20</td><td>OMe</td><td>H</td><td>H</td><td>0.7</td><td>3.8</td><td>0.33</td><td>24</td><td>ND</td></tr><tr><td>21</td><td>CH2OH</td><td>H</td><td>H</td><td>4.7</td><td>2.9</td><td>0.4</td><td>&gt;50</td><td>ND</td></tr><tr><td>22</td><td>C(O)NHMe</td><td>H</td><td>H</td><td>ND</td><td>2.9</td><td>1.7</td><td>&gt;50</td><td>ND</td></tr><tr><td>23</td><td>CH2NMe2</td><td>H</td><td>H</td><td>ND</td><td>3.8</td><td>5</td><td>&gt;50</td><td>ND</td></tr><tr><td>24</td><td>H</td><td>CH2OH</td><td>H</td><td>ND</td><td>2.9</td><td>0.03</td><td>&gt;50</td><td>&gt;250</td></tr><tr><td>25</td><td>H</td><td>NHCOMe</td><td>H</td><td>ND</td><td>3.2</td><td>0.9</td><td>&gt;50</td><td>ND</td></tr><tr><td>26</td><td>H</td><td>H</td><td>F</td><td>0.7</td><td>3.9</td><td>0.06</td><td>&gt;50</td><td>20</td></tr><tr><td>27</td><td>H</td><td>H</td><td>OMe</td><td>ND</td><td>3.9</td><td>0.9</td><td>&gt;50</td><td>ND</td></tr><tr><td>28</td><td>H</td><td>H</td><td>CH2OH</td><td>7.2</td><td>2.9</td><td>0.05</td><td>&gt;50</td><td>&gt;250</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4648050_table_6",
+   "page_num": 4,
+   "bbox": [
+    368.0,
+    160.8,
+    645.8,
+    429.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4648050_table_6.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">R1</td><td rowspan=\"2\">clogP</td><td colspan=\"2\">EC50 [mm][a]</td><td rowspan=\"2\">Aq. Sol. [mm][b]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>19</td><td></td><td>3.9</td><td>0.04</td><td>&gt;50</td><td>110</td></tr><tr><td>36</td><td></td><td>2.5</td><td>0.3</td><td>&gt;50</td><td>ND</td></tr><tr><td>37</td><td></td><td>2.9</td><td>&gt;50</td><td>&gt;50</td><td>ND</td></tr><tr><td>38</td><td></td><td>2.3</td><td>0.1</td><td>&gt;50</td><td>55</td></tr><tr><td>39</td><td></td><td>2.0</td><td>0.2</td><td>&gt;50</td><td>ND</td></tr><tr><td>40</td><td></td><td>1.7</td><td>0.5</td><td>&gt;50</td><td>ND</td></tr><tr><td>41</td><td></td><td>1.7</td><td>13</td><td>&gt;50</td><td>ND</td></tr><tr><td>42</td><td></td><td>2.4</td><td>2</td><td>&gt;50</td><td>ND</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4648050_table_5",
+   "page_num": 4,
+   "bbox": [
+    61.6,
+    174.9,
+    339.5,
+    365.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4648050_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">clogP</td><td colspan=\"2\">EC50 [mm][a]</td><td rowspan=\"2\">Aq. Sol. [mm][b]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>19</td><td></td><td>3.9</td><td>0.04</td><td>&gt;50</td><td>110</td></tr><tr><td>29</td><td></td><td>3.0</td><td>0.07</td><td>&gt;50</td><td>ND</td></tr><tr><td>30</td><td></td><td>3.0</td><td>0.1</td><td>&gt;50</td><td>ND</td></tr><tr><td>31</td><td></td><td>3.5</td><td>0.08</td><td>&gt;50</td><td>ND</td></tr><tr><td>32</td><td></td><td>2.3</td><td>0.05</td><td>&gt;50</td><td>220</td></tr><tr><td>33</td><td></td><td>2.3</td><td>2</td><td>&gt;50</td><td>ND</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4648050_table_8",
+   "page_num": 5,
+   "bbox": [
+    368.0,
+    156.5,
+    645.9,
+    436.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4648050_table_8.png",
+   "html": "<table><tr><td rowspan=\"2\">ID</td><td rowspan=\"2\">R1</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">clogP</td><td colspan=\"2\">EC50 [mm][a]</td><td rowspan=\"2\">Aq. Sol. [mm][b]</td></tr><tr><td>T. b. brucei</td><td>MRC5</td></tr><tr><td>51</td><td></td><td></td><td>3.9</td><td>0.054</td><td>&gt;50</td><td>36</td></tr><tr><td>52</td><td></td><td></td><td>3.1</td><td>0.79</td><td>23</td><td>ND</td></tr><tr><td>53</td><td></td><td></td><td>2.8</td><td>0.67</td><td>&gt;50</td><td>ND</td></tr><tr><td>54</td><td></td><td></td><td>3.2</td><td>15</td><td>&gt;50</td><td>ND</td></tr><tr><td>55</td><td></td><td></td><td>2.8</td><td>0.23</td><td>&gt;50</td><td>180</td></tr><tr><td>56</td><td></td><td></td><td>3.3</td><td>0.093</td><td>&gt;50</td><td>&gt;250</td></tr><tr><td>57</td><td></td><td></td><td>2.2</td><td>0.33</td><td>&gt;50</td><td>ND</td></tr></table>"
+  }
+ ]
+}

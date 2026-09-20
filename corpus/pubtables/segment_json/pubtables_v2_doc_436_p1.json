@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_436",
+  "page": 1,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    53.4,
+    294.9,
+    65.0
+   ],
+   "ocr": "Jimeno Yepes et al. BMC Bioinformatics (2015) 16:113"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    626.3,
+    53.6,
+    677.6,
+    65.0
+   ],
+   "ocr": "Page 6 of 12"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    70.7,
+    108.3,
+    363.7,
+    121.3
+   ],
+   "ocr": "Table 1 MeSH descriptors in the evaluation collection, and"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    366.0,
+    108.3,
+    589.1,
+    121.3
+   ],
+   "ocr": "their citations frequencies in the training set"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    127.3,
+    677.3,
+    578.8
+   ],
+   "ocr": "Descriptor Frequency Descriptor Frequency\nHumans 66612 Disease models, Animal 2203\nMale 39007 Rats, Sprague-Dawley 2160\nFemale 38793 Sensitivity and specificity 2155\nAnimals 25529 Cell proliferation 2124\nAdult 21471 Biological markers 2088\nMiddle aged 20867 Cohort studies 2072\nYoung adult 9512 Risk assessment 2049\nAdolescent 8869 Brain 2035\nMice 7980 Mutation 2025\nTreatment outcome 6749 Mice, Inbred C57BL 2005\nAged, 80 and over 6015 Cell line 1947\nChild 5759 Apoptosis 1901\nRats 5610 Infant, Newborn 1865\nRisk factors 4896 Tomography, X-Ray computed 1862\nProspective studies 3178 RNA, Messenger 1843\nQuestionnaires 3064 Age factors 1763\nSignal transduction 2925 Algorithms 1698\nCell line, Tumor 2911 Models, Molecular 1692\nMolecular sequence data 2695 Antineoplastic agents 1681\nPregnancy 2672 Gene expression regulation 1669\nInfant 2551 Dose-response relationship, Drug 1627\nMagnetic resonance imaging 2545 Amino acid sequence 1625\nCells, Cultured 2451 Genotype 1561\nPrognosis 2450 Neoplasms 1521\nCase-Control studies 2383 Phylogeny 1518",
+   "table_id": "PMC4407321_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    485.5,
+    602.7,
+    596.1,
+    626.1
+   ],
+   "ocr": "2 × recall × precision"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    606.4,
+    365.2,
+    624.7
+   ],
+   "ocr": "package [52], that has reported good results for MeSH"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    401.9,
+    611.3,
+    677.6,
+    666.1
+   ],
+   "ocr": "F − measure = (1) recall + precision true positive"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    621.5,
+    118.2,
+    639.7
+   ],
+   "ocr": "indexing."
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    636.6,
+    365.3,
+    805.4
+   ],
+   "ocr": "As we observe in Table 1 there is a large imbalance between the citations indexed with a given MeSH heading (positives) and the citations not indexed with it (nega- tives). This is a problem for learning algorithms that opti- mise learning for accuracy, and in some cases the trained models simply predict the majority class. We have eval- uated using AdaBoostM1 with oversampling to provide more weight to the positive citations. We have evaluated as well using SVM-perf optimizing F-measure instead of accuracy [53], using the -c parameter to trade-off between training error and margin. Finally, we have used the imple-"
+  },
+  "p1_b10": {
+   "type": "title",
+   "bbox": [
+    401.9,
+    656.5,
+    677.6,
+    679.9
+   ],
+   "ocr": "precision = (2)"
+  },
+  "p1_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    665.2,
+    677.7,
+    867.8
+   ],
+   "ocr": "true positive + false positive true positive recall = (3) true positive + false negative where true positive is the number of the cita- tions correctly assigned to the MeSH category, false positive is the number of citations incorrectly assigned to the MeSH category, false negative is the number of citations incorrectly rejected from the MeSH cate- gory, and true negative is the number of citations correctly rejected from the MeSH category. Average results have been provided for the 50 headings in the set C. Micro average sums all the"
+  },
+  "p1_b12": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    802.2,
+    365.2,
+    820.4
+   ],
+   "ocr": "mentation available from [54] and the -c value has been"
+  },
+  "p1_b13": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    817.2,
+    365.2,
+    882.0
+   ],
+   "ocr": "set to 100. Evaluation metrics To evaluate the different feature sets, we use precision,"
+  },
+  "p1_b14": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    864.6,
+    677.6,
+    882.9
+   ],
+   "ocr": "true positives (TP), false negatives (FN)"
+  },
+  "p1_b15": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    878.8,
+    365.3,
+    897.0
+   ],
+   "ocr": "recall and F-measure, as traditionally done in supervised"
+  },
+  "p1_b16": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    879.7,
+    677.7,
+    897.9
+   ],
+   "ocr": "and false positives (FP) as shown in formula 4."
+  },
+  "p1_b17": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    893.8,
+    365.2,
+    912.1
+   ],
+   "ocr": "classification. The F-measure is the harmonic mean of"
+  },
+  "p1_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    894.8,
+    677.6,
+    913.0
+   ],
+   "ocr": "These values are then used to calculate precision, recall"
+  },
+  "p1_b19": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    908.9,
+    317.3,
+    927.1
+   ],
+   "ocr": "precision and recall, and is computed as follows:"
+  },
+  "p1_b20": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    909.8,
+    462.3,
+    928.1
+   ],
+   "ocr": "and F-measure."
+  }
+ }
+}

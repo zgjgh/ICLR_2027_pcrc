@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_015",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2277399_table_0",
+   "page_num": 1,
+   "bbox": [
+    90.2,
+    536.1,
+    690.7,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2277399_table_0.png",
+   "html": "<table><tr><td>Variables</td><td>CF &amp; Conf. threshold</td><td>Support threshold</td><td>Total number of rules</td><td>FDR</td></tr><tr><td>Structural variables</td><td>0.1</td><td>0.01</td><td>24</td><td>0.093</td></tr><tr><td>Molecular Function &amp; Structural variables</td><td>0.4</td><td>0.004</td><td>20</td><td>0.042</td></tr><tr><td>Biological Process &amp; Structural variables</td><td>0.5</td><td>0.004</td><td>7</td><td>0.050</td></tr><tr><td>Cellular Component &amp; Structural variables</td><td>0.5</td><td>0.004</td><td>12</td><td>0.011</td></tr><tr><td>Protein abundance &amp; Responsiveness &amp; TATA box</td><td>0.1</td><td>0.002</td><td>15</td><td>0.000</td></tr><tr><td>Protein abundance &amp; Structural variables</td><td>0.1</td><td>0.002</td><td>4</td><td>0.040</td></tr><tr><td>Protein abundance &amp; Molecular Function</td><td>0.2</td><td>0.002</td><td>19</td><td>0.109</td></tr><tr><td>Protein abundance &amp; Biological Process</td><td>0.4</td><td>0.002</td><td>21</td><td>0.005</td></tr><tr><td>Protein abundance &amp; Cellular Component</td><td>0.3</td><td>0.002</td><td>14</td><td>0.011</td></tr><tr><td>Responsiveness &amp; Structural variables</td><td>0.1</td><td>0.002</td><td>10</td><td>0.044</td></tr><tr><td>Responsiveness &amp; Molecular Function</td><td>0.3</td><td>0.002</td><td>23</td><td>0.069</td></tr><tr><td>Responsiveness &amp; Biological Process</td><td>0.6</td><td>0.002</td><td>19</td><td>0.002</td></tr><tr><td>Responsiveness &amp; Cellular Component</td><td>0.4</td><td>0.002</td><td>19</td><td>0.011</td></tr><tr><td>TATA box &amp; Structural variables</td><td>0.1</td><td>0.002</td><td>8</td><td>0.098</td></tr><tr><td>TATA box &amp; Molecular Function</td><td>0.3</td><td>0.002</td><td>26</td><td>0.213</td></tr><tr><td>TATA box &amp; Biological Process</td><td>0.5</td><td>0.002</td><td>15</td><td>0.131</td></tr><tr><td>TATA box &amp; Cellular Component</td><td>0.3</td><td>0.002</td><td>12</td><td>0.260</td></tr><tr><td>Cho et al. &#8211; EDA (grouping 1)</td><td>0.4</td><td>0.001</td><td>23</td><td>0.318</td></tr><tr><td>Cho et al. &#8211; EDA (grouping 2)</td><td>0.4</td><td>0.001</td><td>6</td><td>0.115</td></tr><tr><td>Cho et al. &#8211; G&amp;S SHAVING (grouping 1)</td><td>0.6</td><td>0.002</td><td>45</td><td>0.006</td></tr><tr><td>Cho et al. &#8211; G&amp;S SHAVING (grouping 2)</td><td>0.6</td><td>0.002</td><td>36</td><td>0.003</td></tr><tr><td>Gasch et al. &#8211; EDA (grouping 1)</td><td>0.4</td><td>0.001</td><td>17</td><td>0.005</td></tr><tr><td>Gasch et al. &#8211; EDA (grouping 2)</td><td>0.4</td><td>0.001</td><td>21</td><td>0.004</td></tr><tr><td>Gasch et al. &#8211; G&amp;S SHAVING (grouping 1)</td><td>0.6</td><td>0.001</td><td>56</td><td>0.023</td></tr><tr><td>Gasch et al. &#8211; G&amp;S SHAVING (grouping 2)</td><td>0.7</td><td>0.001</td><td>35</td><td>0.019</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2277399_table_1",
+   "page_num": 2,
+   "bbox": [
+    77.1,
+    616.9,
+    350.1,
+    915.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2277399_table_1.png",
+   "html": "<table><tr><td>Sup.</td><td>Conf.</td><td>CF</td><td>Association rule</td></tr><tr><td>0.12</td><td>0.40</td><td>0.15</td><td>length = LOW &#8594; G + C = HIGH</td></tr><tr><td>0.12</td><td>0.38</td><td>0.14</td><td>G + C = LOW &#8594; length = HIGH</td></tr><tr><td>0.12</td><td>0.41</td><td>0.16</td><td>G + C = HIGH &#8594; length = LOW</td></tr><tr><td>0.12</td><td>0.40</td><td>0.14</td><td>length = HIGH &#8594; G + C = LOW</td></tr><tr><td>0.13</td><td>0.41</td><td>0.17</td><td>intLength = LOW &#8594; intGC = LOW</td></tr><tr><td>0.13</td><td>0.43</td><td>0.18</td><td>intGC = LOW &#8594; intLength = LOW</td></tr><tr><td>0.13</td><td>0.44</td><td>0.21</td><td>intGC = HIGH &#8594; intLength = HIGH</td></tr><tr><td>0.13</td><td>0.44</td><td>0.22</td><td>intLength = HIGH &#8594; intGC = HIGH</td></tr><tr><td>0.18</td><td>0.63</td><td>0.24</td><td>intLeng. = HIGH &#8594; orient. = DIV</td></tr><tr><td>0.23</td><td>0.56</td><td>0.15</td><td>intLeng. = MED &#8594; orient. = TAN</td></tr><tr><td>0.20</td><td>0.40</td><td>0.16</td><td>orient. = TAN &#8594; intGC = LOW</td></tr><tr><td>0.20</td><td>0.68</td><td>0.37</td><td>intGC = LOW &#8594; orient = TAN</td></tr><tr><td>0.19</td><td>0.36</td><td>0.10</td><td>orient. = DIV &#8594; intGC = HIGH</td></tr><tr><td>0.19</td><td>0.65</td><td>0.27</td><td>intGC = HIGH &#8594; orient. = DIV</td></tr><tr><td>0.13</td><td>0.42</td><td>0.17</td><td>intGC = LOW &#8594; G + C = LOW</td></tr><tr><td>0.13</td><td>0.41</td><td>0.17</td><td>G + C = LOW &#8594; intGC = LOW</td></tr><tr><td>0.14</td><td>0.46</td><td>0.23</td><td>G + C = HIGH &#8594; intGC = HIGH</td></tr><tr><td>0.14</td><td>0.46</td><td>0.23</td><td>intGC = HIGH &#8594; G + C = HIGH</td></tr><tr><td>0.038</td><td>0.48</td><td>0.12</td><td>chr = 16 &#8594; intLeng. = MED</td></tr><tr><td>0.010</td><td>0.41</td><td>0.17</td><td>chr = 3 &#8594; gct = HIGH</td></tr><tr><td>0.015</td><td>0.39</td><td>0.14</td><td>chr = 9 &#8594; intGC = HIGH</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2277399_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.6,
+    130.1,
+    365.9,
+    312.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2277399_table_2.png",
+   "html": "<table><tr><td>Sup.</td><td>Conf.</td><td>CF</td><td>Association rule</td></tr><tr><td>0.092</td><td>0.48</td><td>0.12</td><td>proteinAbundance = HIGH &#8594; length = MEDIUM</td></tr><tr><td>0.087</td><td>0.45</td><td>0.22</td><td>proteinAbundance = LOW &#8594; length = HIGH</td></tr><tr><td>0.10</td><td>0.40</td><td>0.16</td><td>responsiveness = HIGH &#8594; G + C = HIGH</td></tr><tr><td>0.10</td><td>0.35</td><td>0.13</td><td>G + C = HIGH &#8594; responsiveness = HIGH</td></tr><tr><td>0.11</td><td>0.39</td><td>0.14</td><td>responsiveness = LOW &#8594; G + C = LOW</td></tr><tr><td>0.074</td><td>0.40</td><td>0.15</td><td>proteinAbundance = HIGH &#8594; G + C = HIGH</td></tr><tr><td>0.096</td><td>0.37</td><td>0.12</td><td>responsiveness = HIGH &#8594; intGC = HIGH</td></tr><tr><td>0.11</td><td>0.44</td><td>0.21</td><td>responsiveness = HIGH &#8594; intLength = HIGH</td></tr><tr><td>0.11</td><td>0.38</td><td>0.17</td><td>intLength = HIGH &#8594; responsiveness = HIGH</td></tr><tr><td>0.10</td><td>0.37</td><td>0.10</td><td>responsiveness = LOW &#8594; intLength = LOW</td></tr><tr><td>0.055</td><td>0.41</td><td>0.17</td><td>TATA = yes &#8594; intGC = HIGH</td></tr><tr><td>0.058</td><td>0.44</td><td>0.21</td><td>TATA = yes &#8594; intLength = HIGH</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2277399_table_4",
+   "page_num": 4,
+   "bbox": [
+    98.9,
+    600.8,
+    680.7,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2277399_table_4.png",
+   "html": "<table><tr><td>Variables</td><td>Number of rules before</td><td>Number of rules after</td><td>Rule reduction rate</td></tr><tr><td>Molecular Function &amp; Structural variables</td><td>38</td><td>20</td><td>47%</td></tr><tr><td>Biological Process &amp; Structural variables</td><td>11</td><td>7</td><td>36%</td></tr><tr><td>Cellular Component &amp; Structural variables</td><td>24</td><td>12</td><td>50%</td></tr><tr><td>Protein abundance &amp; Molecular Function</td><td>34</td><td>19</td><td>44%</td></tr><tr><td>Protein abundance &amp; Biological Process</td><td>37</td><td>21</td><td>43%</td></tr><tr><td>Protein abundance &amp; Cellular Component</td><td>23</td><td>14</td><td>39%</td></tr><tr><td>Responsiveness &amp; Molecular Function</td><td>45</td><td>23</td><td>49%</td></tr><tr><td>Responsiveness &amp; Biological Process</td><td>28</td><td>19</td><td>32%</td></tr><tr><td>Responsiveness &amp; Cellular Component</td><td>50</td><td>19</td><td>62%</td></tr><tr><td>TATA box &amp; Molecular Function</td><td>53</td><td>26</td><td>51%</td></tr><tr><td>TATA box &amp; Biological Process</td><td>17</td><td>15</td><td>12%</td></tr><tr><td>TATA box &amp; Cellular Component</td><td>37</td><td>12</td><td>68%</td></tr><tr><td>Cho et al. &#8211; EDA (grouping 1)</td><td>24</td><td>23</td><td>4%</td></tr><tr><td>Cho et al. &#8211; EDA (grouping 2)</td><td>6</td><td>6</td><td>0%</td></tr><tr><td>Cho et al. &#8211; G&amp;S SHAVING (grouping 1)</td><td>98</td><td>45</td><td>54%</td></tr><tr><td>Cho et al. &#8211; G&amp;S SHAVING (grouping 2)</td><td>79</td><td>36</td><td>54%</td></tr><tr><td>Gasch et al. &#8211; EDA (grouping 1)</td><td>21</td><td>17</td><td>19%</td></tr><tr><td>Gasch et al. &#8211; EDA (grouping 2)</td><td>25</td><td>21</td><td>16%</td></tr><tr><td>Gasch et al. &#8211; G&amp;S SHAVING (grouping 1)</td><td>95</td><td>56</td><td>41%</td></tr><tr><td>Gasch et al. &#8211; G&amp;S SHAVING (grouping 2)</td><td>77</td><td>35</td><td>55%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2277399_table_6",
+   "page_num": 5,
+   "bbox": [
+    91.4,
+    600.8,
+    587.2,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2277399_table_6.png",
+   "html": "<table><tr><td>Sup.</td><td>Conf.</td><td>CF</td><td>Association rule</td></tr><tr><td>0.0029</td><td>0.54</td><td>0.45</td><td>bicluster = 1 &#8594; GO = non-membrane-bound organelle</td></tr><tr><td>0.0033</td><td>0.61</td><td>0.45</td><td>bicluster = 1 &#8594; GO = nucleus</td></tr><tr><td>0.0018</td><td>0.68</td><td>0.46</td><td>bicluster = 2 &#8594; length = MEDIUM</td></tr><tr><td>0.0022</td><td>0.80</td><td>0.74</td><td>bicluster = 2 &#8594; responsiveness = HIGH</td></tr><tr><td>0.0012</td><td>0.43</td><td>0.40</td><td>bicluster = 2 &#8594; GO = oxidoreductase activity</td></tr><tr><td>0.0039</td><td>0.65</td><td>0.5</td><td>bicluster = 3 &#8594; GO = nucleus</td></tr><tr><td>0.0029</td><td>0.48</td><td>0.44</td><td>bicluster = 3 &#8594; GO = DNA metabolism</td></tr><tr><td>0.0033</td><td>0.81</td><td>0.73</td><td>bicluster = 4 &#8594; length = LOW</td></tr><tr><td>0.0036</td><td>0.89</td><td>0.85</td><td>bicluster = 4 &#8594; G + C = HIGH</td></tr><tr><td>0.0037</td><td>0.90</td><td>0.89</td><td>bicluster = 4 &#8594; GO = non-membrane-bound organelle</td></tr><tr><td>0.0037</td><td>0.90</td><td>0.89</td><td>bicluster = 4 GO = biosynthesis</td></tr><tr><td>0.0037</td><td>0.90</td><td>0.87</td><td>bicluster = 4 &#8594; GO = protein complex</td></tr><tr><td>0.0035</td><td>0.86</td><td>0.78</td><td>bicluster = 4 &#8594; GO = organelle part</td></tr><tr><td>0.0035</td><td>0.86</td><td>0.85</td><td>bicluster = 4 &#8594; GO = cytosol</td></tr><tr><td>0.0035</td><td>0.86</td><td>0.85</td><td>bicluster = 4 &#8594; GO = structural molecule activity</td></tr><tr><td>0.0107</td><td>0.92</td><td>0.89</td><td>bicluster = 5 &#8594; length = HIGH</td></tr><tr><td>0.0073</td><td>0.63</td><td>0.41</td><td>bicluster = 5 responsiveness = MEDIUM</td></tr><tr><td>0.0019</td><td>0.71</td><td>0.69</td><td>bicluster = 6 &#8594; chr = II</td></tr><tr><td>0.0017</td><td>0.64</td><td>0.61</td><td>bicluster = 6 &#8594; GO = macromolecule biosynthesis</td></tr><tr><td>0.0017</td><td>0.64</td><td>0.62</td><td>bicluster = 6 &#8594; GO = cytosol</td></tr></table>"
+  }
+ ]
+}

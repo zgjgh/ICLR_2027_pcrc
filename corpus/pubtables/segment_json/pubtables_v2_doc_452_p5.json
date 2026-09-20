@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_452",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    261.1,
+    53.4
+   ],
+   "ocr": "Katayama et al. BMC Genomics (2015) 16:476"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 12 of 14"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.7,
+    918.9
+   ],
+   "ocr": "and Ravasi et al. [26], respectively. For cytokeratin expres- sion analysis, we selected the gene symbols that begin “KRT” followed by number. We performed PCA with the scaling but non-centering preprocess steps. Correlation of gene expression with PC was estimated by SAMstrt quan- titative response test. Scores of samples on a PC were given as the quantitative values, and threshold of the sig- nificantly correlated gene is Local-FDR < 1 %. PC-GSEA, which tests correlation of gene set with PC, was by GSEA [49] preranked test towards c1, c2, c3, c5, c6 and c7 of MSigDB version 4. The ranked lists contain the gene cor- relation scores estimated by SAMstrt as descrived above; threshold of the significantly correlated gene set is q-value FDR < 1 %. qRT-PCR The qualified total RNA samples 10kD, 10k1 and 10k6, which were used for sequencing with STRT method, were subjected to cDNA synthesis. Equal amount of the SPIKE- in RNA mix (ArrayControl RNA, AM1780M, Ambion) was added to each cDNA synthesis reaction according to the STRT-library preparation protocol described above. cDNA synthesis was carried out using oligo dT-primers and SuperScript III First-Strand synthesis system for RT-PCR (18080–151, Invitrogen) according to manufac- turer’s instructions. 5 ng of cDNA was applied to each qPCR assay and each sample was run in three technical replicates. qPCR was carried out using an ABI PRISM 7500 Fast Real-Time PCR System with Fast SYBR® Green Master mix (4385617, both from Applied Biosystems) according to manufacturer’s instructions. The primer sequences are shown in Additional file 12: Table S9. Availability of supporting data The processed STRT reads supporting the results of this article are available in the European Nucleotide Archive (http://www.ebi.ac.uk/ena/data/view/PRJEB8997). Additional files Additional file 1: Table S1. Patients and the prepared samples. Additional file 2: Table S2. The prepared samples and the total RNA qualities. Additional file 3: Table S3. STRT library designs, sample notation and the sequencing summary. The sample name consists of 5 characters. The former 4 characters represent the sample type whether HaCaT cell line (HCTP) or the other primary samples as defined by patient and type identifiers in Additional file 2: Table S2. The last one character either a, b or c represent the technical replicas. Additional file 4: Table S4. Similarity between technical replicates. The similarity was estimated by Pearson correlation coefficients of raw read counts. Additional file 5: Figure S1. Variation of relative polyA+ transcript counts. There are three replicas (a, b and c from dark to bright filling colors) in each sample. The relative polyA+ transcript count was estimated by mapped read count per spike-in read count; we added the same amount of"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.4,
+    363.8,
+    263.0
+   ],
+   "ocr": "Table 7 Significant gene sets enriched in PC3 correlating genes. Tables a, b and c are subsets of gene sets significantly (FDR q-value < 1 %) enriched in PC3 correlating genes by PC-GSEA (for full data, see Additional file 10: Table S7). (a) Table is a subset of the ten (out of 30) gene sets most significantly enriched in the positively correlating genes, which were upregulated in LKCs. (b) Table is cell cycle associated gene sets significantly enriched in the negatively correlating genes, which were upregulated in HaCaTs. (c) Table is miRNA-target gene sets significantly enriched in PC3 negatively correlating genes. SIZE is number of genes belonging the gene set. NES is normalized enrichment score"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    268.0,
+    366.1,
+    712.9
+   ],
+   "ocr": "Name SIZE NES FDR\nq-val\n(a)\nREACTOME_OLFACTORY_SIGNALING_PATHWAY 36 2.967 0\nDAZARD_UV_RESPONSE_CLUSTER_G28 20 2.908 0\nDAZARD_UV_RESPONSE_CLUSTER_G24 27 2.774 0\nPID_CONE_PATHWAY 16 2.774 0\nMAHADEVAN_RESPONSE_TO_MP470_DN 19 2.760 0\nWANG_TNF_TARGETS 23 2.758 0\nBURTON_ADIPOGENESIS_1 33 2.742 0\nAMIT_EGF_RESPONSE_60_MCF10A 38 2.735 0\nVOLTAGE_GATED_POTASSIUM_CHANNEL_COMPLEX 29 2.689 0\nRORIE_TARGETS_OF_EWSR1_FLI1_FUSION_UP 30 2.663 0\n(b)\nREACTOME_G2_M_CHECKPOINTS 41 1.865 0.00029\nREACTOME_MITOTIC_PROMETAPHASE 85 1.822 0.00064\nREACTOME_MITOTIC_M_M_G1_PHASES 167 1.783 0.00114\nREACTOME_G0_AND_EARLY_G1 23 1.732 0.00241\nREACTOME_CELL_CYCLE 392 1.710 0.00314\nREACTOME_CELL_CYCLE_CHECKPOINTS 111 1.690 0.00428\nREACTOME_S_PHASE 106 1.660 0.00596\nREACTOME_M_G1_TRANSITION 78 1.646 0.00706\nREACTOME_REGULATION_OF_MITOTIC_CELL_CYCLE 77 1.621 0.00908\n(c)\nGEORGES_CELL_CYCLE_MIR192_TARGETS 62 1.726 0.00272\nTOYOTA_TARGETS_OF_MIR34B_AND_MIR34C 449 1.675 0.00501",
+   "table_id": "PMC4480911_table_6"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    731.0,
+    366.2,
+    926.2
+   ],
+   "ocr": "first PCR amplification. The libraries (Additional file 3: Table S3) were sequenced using an Illumina HiSeq 2000 instrument. Preprocessing of STRT reads, alignments and per-gene quantitation were performed by an established analysis pipeline [16]. Differential expression analysis was performed by SAMstrt [14], and also by SAMseq [48] for an example of the gene-based normalization. Differentially expressed genes by the four sample types were extracted by multiclass response test; threshold of the significantly regulated genes is Local-FDR < 1 %. Gene type (e.g. pro- tein coding, pseudo, noncoding), genes of glycolysis/ gluconeogenesis and transcription factors were classified based on Entrez Gene, KEGG pathway [KEGG:hsa00010]"
+  }
+ }
+}

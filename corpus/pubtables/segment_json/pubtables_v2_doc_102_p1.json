@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_102",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.8,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:87"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/87"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    838.3
+   ],
+   "ocr": "ally treated with hormone therapy whereas ER- breast can- cers are treated using chemotherapy. Not all breast carcinomas are responsive to the treatment though. Thus, there is an urgent need to identify novel therapeutic tar- gets and develop new agents. Moreover, pathway crosstalk and new biological insights might help find predictive biomarkers [19]. To deal with the issue of unbalanced sample size between the ER+ and ER- groups we utilized weighted Random Forests. The p53 data set is the most unbalanced among the three breast cancer data sets we analyzed, it has 213 in the ER+ and 38 in the ER- groups. For more details on why we chose this approach, see the discussion in the see Addi- tional file 1, DMS1. The above data sets are available for download from the GEO website under the accessions GSE2109, GSE3494 and GSE2034 for the Consort, p53 and LymphNode data sets, respectively. See Table 1. Software The library package randomForest v4.5-18 from the R pro- gram was used in our analysis [20] for the Balanced Ran- dom Forests solution. A modified version of the original Fortran code was used to perform the Weighted Random Forests in our pathway-based context [21]. For pathway clusters visualization, Cytoscape [22] was used. Biological Significance We considered using GO terms based enrichment analy- sis, but Goeman and Bühlmann [23] pointed out that this approach may not be satisfactory and may result in false positives. Therefore, we used two alternative approaches. First, we used PubMatrix [24], a web-based application that identifies genes' citation with keywords of interest. Genes that contribute most in predicting the correct class in pathway-based classification are called informative genes [5]. We compared the informative genes defined by Random Forests classification that were obtained in the pathway cluster sets and examined whether these genes are more likely to have publications with the keywords of interest compared with informative genes from the top pathways not in the pathway cluster. Although impor- tance measure in Random Forests could be biased [25], it is unlikely in our case since we only used normalized gene expression data and did not combine it with other cate- Table 1: Breast cancer data sets used in this study"
+  },
+  "p1_b3": {
+   "type": "title",
+   "bbox": [
+    76.3,
+    131.5,
+    133.0,
+    140.1
+   ],
+   "ocr": "Tight Clustering"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    371.1,
+    369.8,
+    412.4
+   ],
+   "ocr": "Figure Tight Clustering 2 Tight Clustering. A diagram illustrating Tight Clustering on Class votes."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    448.4,
+    372.6,
+    922.4
+   ],
+   "ocr": "(2) We considered 283 BioCarta pathways. Most of these pathways are related to signal transduction for human with a smaller group of metabolic pathways. (3) The 61 GenMapp pathways we used consist of more genes per set on average. There are different types of path- ways such as metabolic pathways, signal transduction pathways, gene families and subcellular components. Microarray data Three different breast cancer microarray data sets were used. All of these studies used Affymetrix GeneChip®, but they are of different versions. Consort data set was based on hgu-133 plus 2.0 with 54,613 probesets whereas the other two, LymphNode and p53 data sets [10,11], were based on an older chip called hgu-133a with 22,215 probesets. Consort [12] data set consists of 99 breast tissue samples with clinical status of estrogen receptor. LymphN- ode data set consists of frozen tumor samples of 286 lymph-node negative patients who had not received adju- vant systematic treatment [10]. p53 data set is a set of 251 frozen tissues that were sequenced for p53 [11]. We chose the breast cancer data sets and ER positive/neg- ative status (ER+/ER-) to study because breast cancer has been extensively studied in the literature and tumor sam- ples are normally classified on the basis of ER status [13]. A recent publication described a set of prognostic gene expression classifiers for ER+ breast cancer [14]. The estro- gen receptor status has also been used to predict breast cancer therapy, breast cancer survival rate and estimate the risk of breast cancer [15-18]. ER+ breast cancers are usu-"
+  },
+  "p1_b6": {
+   "type": "table",
+   "bbox": [
+    399.0,
+    849.4,
+    686.1,
+    915.3
+   ],
+   "ocr": "Data sets Reference n Genes Response type\nConsort INTEGEN 99 54613 ER status\nLymphNode [10] Wang (2005) 286 22215 ER status\np53 [11] Miller (2005) 251 22215 ER status",
+   "table_id": "PMC2335306_table_0"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 12 (page number not for citation purposes)"
+  }
+ }
+}

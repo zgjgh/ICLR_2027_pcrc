@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_411",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    488.7,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "A Method for Predicting Subnuclear Localizations"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    81.0,
+    81.6,
+    253.9,
+    92.9
+   ],
+   "ocr": "Table 1. Amino acid classifications."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    680.2,
+    448.7
+   ],
+   "ocr": "Method Number Amino acid classification Reference\nHP 2 (ALIMFPWV) (DENCQGSTYRHK) [48]\nDHP 4 (ALVIFWMP) (STYCNGQ) (KRH) (DE) [49]\n7-Cat 7 (AGV) (ILFP) (YMTS) (HNQW) (RK) (DE) C [50]\n20-Cat 20 A G V I L F P Y M T S H N Q W R K D E C -\nms 6 (AVLIMC) (WYHF) (TQSN) (RK) (ED) (GP) [51]\nlesk 6 (AST) (CVILWYMPF) (HQN) (RK) (ED) G [51]\nF-Ic4 7 (AWM) (GST) (HPY) (CVIFL) (DNQ) (ER) K [51]\nF-Ic2 9 (AWM) (GS) (HPY) (CVI) (FL) (DNQ) (ER) K T [51]\nF-IIIc4 9 (ACV) (HPL) (DQ) S (ERGN) F (IMT) (KW) Y [51]\nF-Vc4 8 (AWHC) G (LEPV) (KYMT) (IN) Q D S [51]\nMurphy8 8 (LVMIC) (AG) (ST) P (FYW) (DENQ) (KR) H [52]\nMurphy15 15 (LVIM) C A G S T P (FY) W E D N Q (KR) H [52]\nLetter12 12 (LVIM) C (AG) (ST) P (FY) W (ED) N Q (KR) H [53]\nHydrophobicity 3 (RKEDQN) (GASTPHY) (CLVIMFW) [36]\nNormalized van der Waals 3 (GASTPD) (NVEQIL) (MHKFRYW) [36]\nPolarity 3 (LIFWCMVY) (PATGS) (HQRKNED) [36]\nPolarizability 3 (GASDT) (CPNVEQIL) (KMHFRYW) [36]\nCharge 3 (KR) (ANCQGHILMFPSTWYV) (DE) [36]\nSecondary structure 3 (EALMQKRH) (VIYCWFT) (GNPSD) [36]\nSolvent accessibility 3 (ALFCGIVW) (PKQEND) (MPSTHY) [36]",
+   "table_id": "PMC3584121_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    462.0,
+    225.1,
+    470.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0057225.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    488.7,
+    375.7,
+    963.6
+   ],
+   "ocr": "Two-step optimal feature selection. After running each feature extraction method, all primary protein structures with different length are converted into numerical feature vectors with the same dimension. In order to reduce feature abundance and computation complexity, we propose a two-step optimal feature selection process by using an incremental feature selection (IFS) method [61]. The IFS is based on the mRMR method originally proposed by [46] for analyzing microarray data. The detailed information about the mRMR and IFS methods can be found in [46,61], respectively. In the first step, we consider each feature extraction method separately and construct corresponding models for each binary classification. Supposing that the number of feature extraction methods used is M, there are M optimal feature subsets constructed for each binary classification in this step. In the second step, for each binary classification, we extract the final optimal feature subset on the union of M optimal feature subsets obtained in the first step. We simultaneously find the optimal feature subset and the SVM parameters C and c for each binary classification using 5-fold cross validation on the training set for each turn in the leave-one-out cross validation process. Two-stage support vector machine. Finally, we construct a novel two-stage support vector machine to predict protein subnuclear localizations. In the first stage, k|(k{1)=2 binary classifiers with probability estimates are constructed based on the two-step optimal feature selection procedure for each turn in the leave-one-out cross validation process. All optimal feature subsets and SVM parameters for k|(k{1)=2 binary classifiers are simultaneously obtained by the two-step optimal feature selection procedure. We use LIBSVM for probability estimation as in [62]. After this, each primary protein structure is represented by a k- dimensional numerical vector, each element of which is the probability of the corresponding class to be predicted. The outputs PLOS ONE | www.plosone.org"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    489.1,
+    700.7,
+    806.0
+   ],
+   "ocr": "of this stage are used as inputs for the next stage. In the second stage, we use conventional multiclass SVMs to predict protein subnuclear localizations. Here we use LIBSVM [62] to implement SVMs. The complete flow chart of our method is shown in Figure 1. Note that if the leave-one-out cross validation is chosen to test this two-stage SVM, different two-stage SVM is constructed for each turn the leave-one-out cross validation. Performance Evaluation In statistical prediction, three validation tests are often used to evaluate the prediction performance: independent dataset test, sub-sampling test and jackknife test [63]. We adopted the jackknife test in this paper to make fair comparison with existing methods. That is, each protein sequence in the samples is singled out in turn as a test sample and the remaining protein sequences are used as training samples. In this sense, the jackknife test is also known as the leave-one-out test. The overall prediction accuracyAc, individual sensitivitySin, individual specificity Sipand Matthew’s correlation coefficient MCCi are used to evaluate the prediction performance of our work. Their definitions are as follows: Sin~TPi=(TPizFNi)"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    496.8,
+    837.7,
+    602.2,
+    850.1
+   ],
+   "ocr": "Sip~TNi=(TNizFPi)"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    522.1,
+    879.6,
+    628.4,
+    892.1
+   ],
+   "ocr": "TPi|TNi{FPi|FNi"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    442.0,
+    887.1,
+    709.2,
+    929.3
+   ],
+   "ocr": "p ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ"
+  },
+  "p1_b9": {
+   "type": "title",
+   "bbox": [
+    398.4,
+    887.4,
+    440.2,
+    899.8
+   ],
+   "ocr": "MCCi~"
+  },
+  "p1_b10": {
+   "type": "title",
+   "bbox": [
+    453.4,
+    896.8,
+    709.2,
+    909.1
+   ],
+   "ocr": "(TPizFPi)|(TPizFNi)|(TNizFPi)|(TNizFNi)"
+  },
+  "p1_b11": {
+   "type": "header_footer",
+   "bbox": [
+    384.4,
+    953.5,
+    700.7,
+    963.6
+   ],
+   "ocr": "3 February 2013 | Volume 8 | Issue 2 | e57225"
+  }
+ }
+}

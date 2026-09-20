@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_153",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.6,
+    41.8,
+    295.6,
+    65.8
+   ],
+   "ocr": "Menon et al. BMC Genomics 2012, 13(Suppl 7):S10 http://www.biomedcentral.com/1471-2164/13/S7/S10"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.4,
+    42.0,
+    678.8,
+    53.3
+   ],
+   "ocr": "Page 8 of 17"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    377.2,
+    124.0
+   ],
+   "ocr": "Table 7 Top 20 protein families of known function found in"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    381.0,
+    111.0,
+    524.2,
+    124.0
+   ],
+   "ocr": "excretory-secretory proteins"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    630.2,
+    443.1
+   ],
+   "ocr": "Description ES sequences Type Interproscan ID\nMetridin-like ShK toxin 14 Domain IPR003582\nTransthyretin-like 11 Family IPR001534\nSCP-like extracellular 7 Domain IPR014044\nSaposin-like 7 Domain IPR011001\nC-type lectin 7 Domain IPR001304\nC-type lectin fold 6 Domain IPR016187\nC-type lectin-like 6 Domain IPR016186\nProteinase inhibitor I2, Kunitz metazoa 5 Domain IPR002223\nProtein kinase-like domain 4 Domain IPR011009\nMajor facilitator superfamily, general substrate transporter 4 Domain IPR016196\nDestabilase 3 Family IPR008597\nAllergen V5/Tpx-1 related 3 Family IPR001283\nTyrosine-protein kinase 3 Region IPR020685\nPhospholipase A2 2 Family IPR016090\nThioredoxin-like fold 2 Domain IPR012336\nThioredoxin fold 2 Domain IPR012335\nGlobin 2 Domain IPR012292\nSerine/cysteine peptidase, trypsin-like 2 Domain IPR009003\nSaposin B 2 Domain IPR008139\nProtein of unknown function DUF148 2 Domain IPR003677",
+   "table_id": "PMC3521389_table_6"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    472.4,
+    678.7,
+    922.9
+   ],
+   "ocr": "obtain quality ESTs with a sequencing success of 90.06% which is consistent with previous studies [15,34,37]. To infer the proteome for T. circumcincta, all rESTs were then subjected to analyses against three databases con- taining protein sequences. Data were compared with protein sequences available for (i) C. elegans (from WORMPEP v.182 Wombase([http://wormbase.org/])), (ii) parasitic nematodes (available protein sequences and peptides from conceptually translated ESTs) and (iii) organisms other than nematodes (from NCBI non- redundant protein database) [38]. Three-way compari- son of T. circumcincta rESTs with homologues from C. elegans, WORMPEP and parasitic nematodes have been figuratively presented (Figure 2) using SimiTri. Some of the proteins predicted to be parasite- or nema- tode-specific were identified by similarity searches of rESTs and these proteins in parasitic nematodes were either absent from or very different from the correspond- ing molecules in their host(s). Comparative analysis was carried out to identify homo- logues in C. elegans, the best characterized nematode in relation to its genome, genetics, biology, physiology, bio- chemistry as well as the localization and functions of molecules Wormbase [39]. This study showed that 7,537 of them were mapped to key biological pathways including oxidative phosphorylation, peptidases and the ribosomal protein assembly pathway. Oxidative phosphorylation relates to genes that encode NADH dehydrogenases, suc- cinate dehydrogenases, cytochrome c oxidases, cyto- chrome c reductases, ATPases and ATP synthases"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    472.5,
+    366.2,
+    922.9
+   ],
+   "ocr": "datasets. SecretomeP identified 615 sequences as non- classical secreted proteins at a cut-off value of 0.9. The detailed annotation of 615 secreted proteins revealed 62 KEGG pathways mapped by 105 sequences (Additional File 11) with the top highly represented pathways pre- sented in Table 8. Translation factors and oxidative phosphorylation were the main KEGG pathways that mapped to the sequences. Pro- tein kinases, peptidases, chaperones and folding catalysts are among other well represented pathways by ES proteins. The analysis of 6,058 raw EST sequences from dbEST with an overlap of 20.3% with the cDNA resulted in 745 contigs and 1,696 singletons, where 2,242 had ORFs. We could identify 315 putatively secreted proteins and 183 transmembrane proteins. An in-depth analysis of secreted proteins, identified 11 C-type single domain acti- vation associated secreted protein (ASP3) precursors (O. ostertagi), ten ancyclostoma-secreted protein-like pro- teins (O. ostertagi), five cathepsin B-like cysteine proteases (O. ostertagi), one cathepsin L cysteine protease (H. contor- tus), three cysteine proteases, four precursor transthyretin like protein 1 (O. ostertagi), six putative L3 ES proteins (O. ostertagi), five saposin-like protein 1 (A. caninum), three secreted cathepsin F (T. circumcincta), two SXC1 pro- teins (O. ostertagi), three TransThyretin-related proteins, two venom-allergen-like proteins. Discussion In the absence of a genomic sequence for T. circum- cincta, 407,357 raw EST sequences were analysed to"
+  }
+ }
+}

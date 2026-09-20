@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_239",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    529.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Integrated predictor of coronary heart disease"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    718.6,
+    119.7
+   ],
+   "ocr": "Table 6. Conventional risk factor training metrics. The 10-fold cross-validation performance metrics of the eight conventional risk factor models within the ensemble on the training set."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.3,
+    631.4,
+    265.8
+   ],
+   "ocr": "Model Accuracy AUC Sensitivity Specificity\n1 0.73±0.03 0.77±0.05 0.71±0.07 0.75±0.10\n2 0.73±0.07 0.75±0.08 0.74±0.08 0.72±0.09\n3 0.75±0.07 0.79±0.06 0.73±0.12 0.77±0.10\n4 0.70±0.06 0.75±0.08 0.68±0.10 0.72±0.07\n5 0.70±0.06 0.72±0.08 0.67±0.09 0.73±0.10\n6 0.71±0.10 0.75±0.10 0.68±0.14 0.75±0.10\n7 0.76±0.04 0.79±0.05 0.73±0.11 0.79±0.09\n8 0.71±0.10 0.76±0.12 0.68±0.15 0.75±0.11",
+   "table_id": "PMC5749823_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    272.9,
+    726.9,
+    463.0
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190549.t006 deviations) of the eight models are summarized in Table 6. Accuracies of these models on their respective training datasets ranged from 70–76%, while the sensitivity and specificity ranges were 67–74% and 72–79%, respectively. The range of the ROC AUC was 0.72–0.79. While the accuracy and specificity is quite comparable with the integrated genetic-epigenetic models, the conventional risk factors models underperformed with respect to sensitivity and ROC AUC. The 10-fold ROC AUC of the best performing model (model 7) among the eight models is shown in Fig 3. When the ensemble of the eight models was tested on the test dataset, the test accuracy was 65.4%, which is approximately 12% less than that of our integrated genetic-epigenetic ensem- ble. The confusion matrix is shown in Table 7. However, the more important metric is the"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    860.1,
+    726.9,
+    901.7
+   ],
+   "ocr": "Fig 3. Conventional risk factors model ROC curve. The Receiver Operating Characteristic curves of the conventional risk factors model with the largest average 10-fold cross-validation area under the curve value. https://doi.org/10.1371/journal.pone.0190549.g003"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190549 January 2, 2018 11 / 18"
+  }
+ }
+}

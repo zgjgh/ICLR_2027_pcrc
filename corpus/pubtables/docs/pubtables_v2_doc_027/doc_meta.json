@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_027",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    753,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4747993_table_0",
+   "page_num": 1,
+   "bbox": [
+    64.5,
+    97.3,
+    687.6,
+    217.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4747993_table_0.png",
+   "html": "<table><tr><td>Categories</td><td>Indicators</td></tr><tr><td>Dis-adopters/non-adopters</td><td>Abandoned the SWC measures and/or never used SWC measures on any of their plots</td></tr><tr><td>Initial adopters</td><td>Established SWC line interventions on up to 25 % of sloping farm land (experimentation phase) and did not yet expand them to other plots</td></tr><tr><td>Actual adopters</td><td>Established and maintained the initial SWC measures during past 4 years, and started to expand them on at least 26&#8211;50 % of the vulnerable farm land</td></tr><tr><td>Final adopters</td><td>Continued use, expanded, and more than 5 years maintained on their own motivation, and in total covering 51&#8211;100 % of sloping farm area</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4747993_table_1",
+   "page_num": 2,
+   "bbox": [
+    64.5,
+    458.9,
+    687.5,
+    682.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4747993_table_1.png",
+   "html": "<table><tr><td>Features</td><td>Anjeni watershed</td><td>Dijil watershed</td><td>Debre Mewi watershed</td></tr><tr><td>Altitude (m.a.s.l)</td><td>2450</td><td>2480</td><td>2300</td></tr><tr><td>Average annual rainfall (mm)</td><td>1790</td><td>1300</td><td>1260</td></tr><tr><td>Dominant soil types</td><td>Alisols, Nitosols, Regosols, and Leptosols</td><td>Nitosols</td><td>Vertic Nitosols, Nitosols, and Vertisols</td></tr><tr><td>Degradation</td><td>Degraded</td><td>Very degraded</td><td>Not heavily degraded</td></tr><tr><td>Dominant crop in farming systems</td><td>Barley</td><td>Oats</td><td>Tef</td></tr><tr><td>Average number of TLU (tropical livestock units) per farm</td><td>5.2</td><td>6.0</td><td>4.6</td></tr><tr><td>Productivity</td><td>Low</td><td>Low</td><td>High</td></tr><tr><td>Number of households</td><td>95</td><td>628</td><td>324</td></tr><tr><td>All weather road and transport access</td><td>Poor</td><td>Good</td><td>Good</td></tr><tr><td>Availability of local market</td><td>Yes</td><td>No</td><td>Yes</td></tr><tr><td>Distance to district market (Km)</td><td>20</td><td>8</td><td>12</td></tr><tr><td>SWC projects (exposure to SWC)</td><td>SCRP (long term)</td><td>SIDA; SLM-GIZ</td><td>No specific project</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4747993_table_2",
+   "page_num": 3,
+   "bbox": [
+    64.5,
+    97.3,
+    687.6,
+    654.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4747993_table_2.png",
+   "html": "<table><tr><td>Variables</td><td>Description</td><td>Mean</td><td>SD</td></tr><tr><td colspan=\"4\">Household characteristics and labor resources</td></tr><tr><td>Age</td><td>Age of household heads (in years)</td><td>45.35</td><td>12.34</td></tr><tr><td>Family size</td><td>Size of households (in numbers)</td><td>5.80</td><td>1.77</td></tr><tr><td>Farm labor</td><td>Persons working fulltime in agriculture (it includes the hired laborer on annual base);(in numbers)</td><td>2.18</td><td>0.70</td></tr><tr><td>Distance from road</td><td>Distance to main road from home (in walking minutes)</td><td>15.00</td><td>13.33</td></tr><tr><td colspan=\"4\">Land resources</td></tr><tr><td>Average parcel size</td><td>Average parcel size (total farm size divided by the number of parcels); (in ha)</td><td>0.26</td><td>0.62</td></tr><tr><td>Cultivated land size</td><td>Actual cultivated land size (it refers to the annual crop production area); (in ha)</td><td>1.03</td><td>0.50</td></tr><tr><td>Farm size</td><td>Total area of farm (cultivated land, grazing land, woodland, and bare land); (in ha)</td><td>1.17</td><td>0.53</td></tr><tr><td>Flat slope</td><td>Flat slope (1 if on average the slopes of parcels are flat (\\10 %), 0 otherwise)</td><td>0.101</td><td>&#8211;</td></tr><tr><td>Moderate Slope</td><td>Moderate slope (1 if on average the slopes of parcels are moderate steep (between 10 and 20 %), 0 otherwise)</td><td>0.515</td><td>&#8211;</td></tr><tr><td>Steep slope</td><td>Steep slope (1 if on average the slopes of parcels are steep ([20 %), 0 otherwise)</td><td>0.383</td><td>&#8211;</td></tr><tr><td colspan=\"4\">Other resources</td></tr><tr><td>Size of iron roof1</td><td>Size of iron roof house (number of iron sheets)</td><td>55.54</td><td>20.72</td></tr><tr><td>Tools</td><td>Ownership of tools (1 if the household has tools (e.g., shovels), 0 otherwise)</td><td>0.596</td><td>&#8211;</td></tr><tr><td>Off-farm income</td><td>Average off-farm monthly income (in Birr2)</td><td>56.72</td><td>147.29</td></tr><tr><td colspan=\"4\">Institutions and social capital</td></tr><tr><td>Tenure security</td><td>Perception of tenure security (1 if feeling secure, 0 otherwise)</td><td>0.802</td><td>&#8211;</td></tr><tr><td>SWC training</td><td>Training in SWC measures (1 if the household got training on SWC, 0 otherwise)</td><td>0.361</td><td>&#8211;</td></tr><tr><td>SWC program</td><td>Presence of SWC assisted program in the village/watershed in past/present (1 if there is an SWC program, 0 otherwise)</td><td>0.547</td><td>&#8211;</td></tr><tr><td>Low cooperation</td><td>Low cooperation with adjacent farm (1 if the extent of working together between adjacent farms in erosion control is low, 0 otherwise)</td><td>0.243</td><td>&#8211;</td></tr><tr><td>Medium cooperation</td><td>Medium cooperation with adjacent farm (1 if the extent of working together between adjacent farms in erosion control is medium, 0 otherwise)</td><td>0.291</td><td>&#8211;</td></tr><tr><td>High cooperation</td><td>High cooperation with adjacent farm (1 if the extent of working together between adjacent farms in erosion control is high, 0 otherwise)</td><td>0.465</td><td>&#8211;</td></tr><tr><td>Formal position</td><td>Executive bodies in formal associations (1 if the household has position in executive body, 0 otherwise)</td><td>0.088</td><td>&#8211;</td></tr><tr><td>Labor sharing (assistance)</td><td>The number of participating farmers during labor-sharing activities (labor shortage periods like weeding and harvesting); (numbers)</td><td>5.82</td><td>6.91</td></tr><tr><td colspan=\"4\">Perceptions</td></tr><tr><td>Erosion problems</td><td>Perception on erosion problem (1 if erosion is perceived, 0 otherwise)</td><td>0.969</td><td>&#8211;</td></tr><tr><td>SWC profitability</td><td>Perception on the profitability of SWC (1 if profitability is perceived, 0 otherwise)</td><td>0.979</td><td>&#8211;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4747993_table_3",
+   "page_num": 4,
+   "bbox": [
+    225.6,
+    80.4,
+    687.6,
+    220.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4747993_table_3.png",
+   "html": "<table><tr><td rowspan=\"3\">Adoption phase</td><td colspan=\"6\">Watersheds</td><td colspan=\"2\" rowspan=\"2\">Total</td></tr><tr><td colspan=\"2\">Anjeni</td><td colspan=\"2\">Dijil</td><td colspan=\"2\">Debre Mewi</td></tr><tr><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td></tr><tr><td>Dis-adopter/non-adopter</td><td>0</td><td>0</td><td>11</td><td>8.8</td><td>44</td><td>38.9</td><td>55</td><td>18.5</td></tr><tr><td>Initial adopter</td><td>0</td><td>0</td><td>49</td><td>39.2</td><td>42</td><td>37.2</td><td>91</td><td>30.5</td></tr><tr><td>Actual adopter</td><td>1</td><td>1.7</td><td>42</td><td>33.6</td><td>17</td><td>15.0</td><td>60</td><td>20.1</td></tr><tr><td>Final adopter</td><td>59</td><td>98.3</td><td>23</td><td>18.4</td><td>10</td><td>8.8</td><td>92</td><td>30.9</td></tr><tr><td>Total</td><td>60</td><td>100</td><td>125</td><td>100</td><td>113</td><td>100</td><td>298</td><td>100.0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4747993_table_4",
+   "page_num": 5,
+   "bbox": [
+    64.5,
+    95.2,
+    687.5,
+    745.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4747993_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Variables</td><td colspan=\"4\">Mean/percentages proportion of adopter category</td><td rowspan=\"2\">F/v2 valuea</td></tr><tr><td>Initial adopter (N = 91)</td><td>Actual adopter (N = 60)</td><td>Final adopter (N = 92)</td><td>Non-adopter/ dis-adopter (N = 55)</td></tr><tr><td colspan=\"6\">Household characteristics and labor resources</td></tr><tr><td>Age</td><td>43.51</td><td>43.28</td><td>45.55</td><td>50.32</td><td>0.005***</td></tr><tr><td>Family size</td><td>5.79</td><td>5.83</td><td>5.98</td><td>5.58</td><td>0.606</td></tr><tr><td>Farm labor</td><td>2.14</td><td>2.18</td><td>2.30</td><td>2.03</td><td>0.141</td></tr><tr><td>Distance from road</td><td>13.57</td><td>14.26</td><td>16.96</td><td>15.23</td><td>0.362</td></tr><tr><td colspan=\"6\">Land resources</td></tr><tr><td>Average parcel size</td><td>0.19</td><td>0.24</td><td>0.29</td><td>0.23</td><td>0.001***</td></tr><tr><td>Cultivated land</td><td>0.94</td><td>1.19</td><td>1.11</td><td>0.89</td><td>0.001***</td></tr><tr><td>Farm size</td><td>1.08</td><td>1.27</td><td>1.20</td><td>1.15</td><td>0.157</td></tr><tr><td colspan=\"6\">Parcel slope</td></tr><tr><td>Flat</td><td>11.0</td><td>1.7</td><td>4.3</td><td>27.3</td><td>0.001***</td></tr><tr><td>Medium</td><td>45.0</td><td>61.0</td><td>50.0</td><td>54.5</td><td>0.268</td></tr><tr><td>Steep</td><td>44.0</td><td>37.3</td><td>45.7</td><td>18.2</td><td>0.005***</td></tr><tr><td colspan=\"6\">Other resources</td></tr><tr><td>Size of iron roof</td><td>56.7</td><td>57.1</td><td>53.3</td><td>55.1</td><td>0.640</td></tr><tr><td colspan=\"6\">Tools</td></tr><tr><td>Yes</td><td>54.9</td><td>70.0</td><td>76.1</td><td>27.3</td><td>0.001***</td></tr><tr><td>Off-farm income</td><td>72.6</td><td>34.3</td><td>49.9</td><td>66.7</td><td>0.423</td></tr><tr><td colspan=\"6\">Institutions and social capital</td></tr><tr><td colspan=\"6\">Tenure security</td></tr><tr><td>Yes</td><td>81.3</td><td>88.3</td><td>81.5</td><td>67.3</td><td>0.037**</td></tr><tr><td colspan=\"6\">SWC training</td></tr><tr><td>Yes</td><td>28.6</td><td>49.2</td><td>46.7</td><td>16.7</td><td>0.001***</td></tr><tr><td colspan=\"6\">SWC program</td></tr><tr><td>Yes</td><td>41.2</td><td>70.0</td><td>85.9</td><td>9.1</td><td>0.001***</td></tr><tr><td colspan=\"6\">Cooperation</td></tr><tr><td>High</td><td>40.4</td><td>42.4</td><td>67.0</td><td>26.4</td><td>0.001***</td></tr><tr><td>Medium</td><td>24.7</td><td>33.9</td><td>26.4</td><td>35.8</td><td>0.394</td></tr><tr><td>Low</td><td>34.8</td><td>23.7</td><td>6.6</td><td>35.8</td><td>0.001***</td></tr><tr><td colspan=\"6\">Formal position</td></tr><tr><td>Yes</td><td>13.2</td><td>6.8</td><td>9.9</td><td>1.9</td><td>0.119</td></tr><tr><td>Labor sharing (assistance)</td><td>5.9</td><td>6.1</td><td>7.1</td><td>3.4</td><td>0.022**</td></tr><tr><td colspan=\"6\">Perceptions</td></tr><tr><td colspan=\"6\">Erosion problems</td></tr><tr><td>Yes</td><td>95.6</td><td>100</td><td>100</td><td>90.9</td><td>0.007***</td></tr><tr><td colspan=\"6\">SWC profitability</td></tr><tr><td>Yes</td><td>97.8</td><td>96.7</td><td>100</td><td>96.3</td><td>0.361</td></tr></table>"
+  }
+ ]
+}

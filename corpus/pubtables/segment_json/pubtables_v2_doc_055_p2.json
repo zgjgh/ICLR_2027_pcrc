@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_055",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparison of Methods for Recreating Individual Patient Data"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.5,
+    727.2,
+    379.3
+   ],
+   "ocr": "Application of the methods Considering all possible parameter selections, we ended up with several scenarios: 18 scenarios for the Weibull distribution and 12 scenarios for the lognormal distribution (Table 3). Although the sample size 100–500 covered the range of trials typically encountered well and reflect what was often seen in large trials, [16–18] additional work was performed by simulat- ing lager trials (sample size set to 1000). The simulation were run with γ set to 0.6 and λ set to 6.65 and censoring rate set to 0.76 for Weibull distribution and σ set to 2 and μ set to 0.30 and censoring rate set to 0.76 for lognormal distribution. For the Guyot et al. method, the number of events was used; however, this information is often not provided. For the Hoyle and Henley method, 6 time intervals were used in most cases. For each scenario, 1000 datasets were generated. The four methods previously described were subsequently applied to each of the 1000 datasets, and the MLE was applied directly to the simulated IPD to estimate the parameters of the survival distribution, which commonly oc- curs in cost-effectiveness analyses. For each method, the mean survival time was estimated for each of the 1000 datasets. All simulations were conducted using the R for Statistical Computing version 3.1.1 (R Foundation for Statistical Computing, Vienna, Austria)."
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    425.3,
+    720.8,
+    526.7
+   ],
+   "ocr": "Performance evaluation The measurements used to evaluate the performance of the different methods have been sum- marized by Burton et al. [23] Bias was calculated as follows: d �^b b"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    512.8,
+    712.5,
+    661.8
+   ],
+   "ocr": "¼ � in which β is the true value for the estimate of interest, and �^b is the mean estimate of interest over the 1000 simulations performed. Mean square error (MSE) MSE is considered a useful measure of the overall accuracy because it incorporates both measures of bias and variability. The MSE was calculated as follows: ð�^b ðSEð^bÞÞ"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    417.5,
+    638.9,
+    441.3,
+    652.8
+   ],
+   "ocr": "MSE"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    298.8,
+    639.2,
+    514.9,
+    692.5
+   ],
+   "ocr": "¼ � bÞ � SEð^bÞ"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    669.6,
+    667.3,
+    712.0
+   ],
+   "ocr": "in which was the empirical SE of the estimate of interest over all simulations. Table 3. Summary of simulation variables."
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    720.7,
+    726.6,
+    877.9
+   ],
+   "ocr": "Variable Scenarios Details\nSample size 2 100 or 500\nWeibull:\nγ = 0.6, λ = 6.65\nγ = 1, λ = 10\nParametric distribution 2 γ = 2, λ = 11.28\nlognormal:\nσ = 1, μ = 1.802585\nσ = 2, μ = 0.3025851\nCensoring rate 3 0.76, 0.42 or 0.26",
+   "table_id": "PMC4372344_table_2"
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0121353.t003"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121353 March 24, 2015 7 / 21"
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_055",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    457.3,
+    49.0,
+    521.6,
+    60.5
+   ],
+   "ocr": "Comparison of"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    523.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Methods for Recreating Individual Patient Data"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    515.0,
+    119.4
+   ],
+   "ocr": "Table 4. Simulation results of mean survival time, bias, and MSE at 0.26, 0.42 and 0.76 censoring rate hazard function (weibull distribution)."
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    517.2,
+    95.5,
+    720.8,
+    107.4
+   ],
+   "ocr": "with sample size = 100 from three shapes of"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    853.4
+   ],
+   "ocr": "Weibull parameter (γ,λ) Censoring rate Method Mean survival time Bias MSE\n0.6, 6.65 0.76 Actual IPD 15.9336 5.9341 37.1899\nGuyot et al. 17.2754 7.2760 53.9205\nHoyle and Henley 16.8712 6.8718 47.6772\nLeast Squares 3416 3406 15462811\nGraphical Method 357.54 347.54 160506\n0.42 Actual IPD 10.5470 0.5476 0.3125\nGuyot et al. 10.6075 0.6081 0.3834\nHoyle and Henley 10.9734 0.9740 0.9687\nLeast Squares 11.4388 1.4394 2.3522\nGraphical Method 11.1826 1.1832 1.5023\n0.26 Actual IPD 10.3671 0.3677 0.1432\nGuyot et al. 10.2806 0.2812 0.0869\nHoyle and Henley 10.5170 0.5176 0.2769\nLeast Squares 10.5891 0.5897 0.3611\nGraphical Method 10.5918 0.5924 0.3640\n1, 10 0.76 Actual IPD 11.1790 1.1789 1.4209\nGuyot et al. 11.8904 1.8904 3.6299\nHoyle and Henley 12.9022 2.9022 8.5909\nLeast Squares 17.0620 7.0619 62.0269\nGraphical Method 14.4269 4.4269 22.7738\n0.42 Actual IPD 10.1433 0.1433 0.0239\nGuyot et al. 10.1801 0.1801 0.0364\nHoyle and Henley 10.2534 0.2534 0.0700\nLeast Squares 10.3630 0.3630 0.1572\nGraphical Method 10.4729 0.4729 0.2463\n0.26 Actual IPD 10.0939 0.0939 0.0107\nGuyot et al. 10.1793 0.1793 0.0349\nHoyle and Henley 10.3346 0.3346 0.1150\nLeast Squares 10.0475 0.0475 0.0056\nGraphical Method 10.4213 0.4213 0.1831\n2, 11.28 0.76 Actual IPD 10.1699 0.1733 0.0319\nGuyot et al. 10.4740 0.4774 0.2334\nHoyle and Henley 10.5882 0.5915 0.3555\nLeast Squares 10.3604 0.3637 0.1397\nGraphical Method 11.2220 1.2254 1.5166\n0.42 Actual IPD 10.0818 0.0852 0.0078\nGuyot et al. 10.1202 0.1236 0.0160\nHoyle and Henley 10.1014 0.1048 0.0117\nLeast Squares 10.1346 0.1380 0.0199\nGraphical Method 11.2330 1.2363 1.5351\n0.26 Actual IPD 10.0060 0.0094 0.0004\nGuyot et al. 10.1296 0.1329 0.0182\nHoyle and Henley 10.1312 0.1346 0.0187\nLeast Squares 10.0244 0.0278 0.0015\nGraphical Method 11.4072 1.4105 1.9993",
+   "table_id": "PMC4372344_table_3"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    861.5,
+    186.2,
+    872.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0121353.t004"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    337.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121353 March 24, 2015"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    703.4,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "9 / 21"
+  }
+ }
+}

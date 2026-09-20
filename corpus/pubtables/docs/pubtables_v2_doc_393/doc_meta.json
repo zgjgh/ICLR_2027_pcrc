@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_393",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3464183_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    129.2,
+    678.6,
+    298.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3464183_table_0.png",
+   "html": "<table><tr><td>N</td><td>164</td></tr><tr><td>Age (yr)</td><td>65 [56&#8211;74]</td></tr><tr><td>Gender (M/F)</td><td>102/62</td></tr><tr><td>APACHE II score</td><td>19 [16&#8211;25]</td></tr><tr><td>APACHE II ROD (%)</td><td>32 [17&#8211;52]</td></tr><tr><td>Operative/nonoperative</td><td>66/98</td></tr><tr><td>Hospital mortality</td><td>25%</td></tr><tr><td>ICU mortality</td><td>18%</td></tr><tr><td>ICU length of stay (hr)</td><td>142 [70&#8211;308]</td></tr><tr><td>Diabetic history: type I/type II</td><td>10/22</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3464183_table_1",
+   "page_num": 2,
+   "bbox": [
+    383.9,
+    143.1,
+    677.0,
+    234.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3464183_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Level analysis</td><td colspan=\"2\">Cohort analysis</td><td colspan=\"2\">Per-patient analysis</td></tr><tr><td>% Increase at median</td><td>p value</td><td>% Increase at median</td><td>p value</td></tr><tr><td>Days 1-2</td><td>34</td><td>&lt;0.0001</td><td>33</td><td>0.0004</td></tr><tr><td>Days 2-3</td><td>16</td><td>&lt;0.0001</td><td>21</td><td>0.2559</td></tr><tr><td>Days 3-4</td><td>6</td><td>0.0013</td><td>4</td><td>0.6306</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3464183_table_3",
+   "page_num": 3,
+   "bbox": [
+    383.9,
+    156.9,
+    678.3,
+    248.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3464183_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Variability analysis</td><td colspan=\"2\">Cohort analysis</td><td colspan=\"2\">Per-patient analysis</td></tr><tr><td>% Reduction of IQR</td><td>p-value</td><td>% Decrease at median</td><td>p value</td></tr><tr><td>Days 1-2</td><td>32</td><td>&lt;0.0001</td><td>36</td><td>&lt;0.0001</td></tr><tr><td>Days 2-3</td><td>20</td><td>0.0028</td><td>18</td><td>0.0091</td></tr><tr><td>Days 3-4</td><td>14</td><td>0.0269</td><td>17</td><td>0.0369</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3464183_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    754.9,
+    364.5,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3464183_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Level analysis</td><td colspan=\"2\">Cohort analysis</td><td colspan=\"2\">Per-patient analysis</td></tr><tr><td>% Increase at median</td><td>p value</td><td>% Increase at median</td><td>p value</td></tr><tr><td>Block 1&#8211;2 (0&#8211;6 vs. 6&#8211;12 hr)</td><td>42</td><td>&lt;0.0001</td><td>40</td><td>0.0007</td></tr><tr><td>Block 2&#8211;3 (6&#8211;12 vs. 12&#8211;18 hr)</td><td>28</td><td>&lt;0.0001</td><td>26</td><td>0.0123</td></tr><tr><td>Block 3&#8211;4 (12&#8211;18 vs. 18&#8211;24 hr)</td><td>1</td><td>0.0335</td><td>3</td><td>0.4829</td></tr><tr><td>Block 4&#8211;5 (18&#8211;24 vs. 24&#8211;48 hr)</td><td>9</td><td>0.0452</td><td>7</td><td>0.3776</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3464183_table_5",
+   "page_num": 4,
+   "bbox": [
+    383.9,
+    838.3,
+    678.6,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3464183_table_5.png",
+   "html": "<table><tr><td></td><td>6&#8211;12 hr</td><td>12&#8211;18 hr</td><td>18&#8211;24 hr</td><td>24&#8211;48 hr</td></tr><tr><td>0&#8211;6 hr</td><td>0.74</td><td>0.78</td><td>0.77</td><td>0.79</td></tr><tr><td>6&#8211;12 hr</td><td></td><td>0.76</td><td>0.7</td><td>0.72</td></tr><tr><td>12&#8211;18 hr</td><td></td><td></td><td>0.55</td><td>0.64</td></tr><tr><td>18&#8211;24 hr</td><td></td><td></td><td></td><td>0.58</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3464183_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    744.3,
+    365.8,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3464183_table_6.png",
+   "html": "<table><tr><td rowspan=\"2\">Variability analysis</td><td colspan=\"2\">Cohort analysis</td><td colspan=\"2\">Per-patient analysis</td></tr><tr><td>% Reduction of IQR</td><td>p value</td><td>% Decrease at median</td><td>p value</td></tr><tr><td>Block 1&#8211;2 (0&#8211;6 vs. 6&#8211;12 hr)</td><td>40</td><td>0.0017</td><td>36</td><td>&lt;0.0001</td></tr><tr><td>Block 2&#8211;3 (6&#8211;12 vs. 12&#8211;18 hr)</td><td>24</td><td>0.0628</td><td>28</td><td>0.0673</td></tr><tr><td>Block 3&#8211;4 (12&#8211;18 vs. 18&#8211;24 hr)</td><td>0</td><td>0.0931</td><td>9</td><td>0.1032</td></tr><tr><td>Block 4&#8211;5 (18&#8211;24 vs. 24&#8211;48 hr)</td><td>18</td><td>0.1682</td><td>14</td><td>0.1075</td></tr></table>"
+  }
+ ]
+}

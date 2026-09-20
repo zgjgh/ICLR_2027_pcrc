@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_436",
+  "page": 5,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    53.4,
+    677.6,
+    65.0
+   ],
+   "ocr": "Jimeno Yepes et al. BMC Bioinformatics (2015) 16:113 Page 10 of 12"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    70.7,
+    107.9,
+    253.1,
+    120.9
+   ],
+   "ocr": "Table 6 Feature combination results"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    126.9,
+    677.3,
+    456.3
+   ],
+   "ocr": "SVM-perf Ada over\nFeature combination Prec Rec F1 Prec Rec F1\nUnigram 0.395 0.654 0.492 0.528 0.425 0.471\nUnigram+CUI 0.409 0.657 0.504* 0.529 0.437 0.479*\nUnigram+Meta 0.387 0.672 0.491 0.550 0.405 0.466\nUnigram+NP 0.382 0.701 0.495* 0.535 0.424 0.473\nUnigram+Taxo 0.403 0.660 0.500* 0.531 0.432 0.477\nUnigram+mti 0.448 0.679 0.540* 0.586 0.477 0.526*\nUnigram+mmi+prc 0.445 0.677 0.537* 0.583 0.474 0.523*\nUnigram+all 0.452 0.689 0.546* 0.600 0.476 0.531*\nFeature combination Prec Rec F1 Prec Rec F1\nTIAB+bigram 0.408 0.685 0.512 0.556 0.421 0.479\nTIAB+bigram+CUI 0.439 0.688 0.536 0.556 0.435 0.488*\nTIAB+bigram+Meta 0.408 0.689 0.513 0.581 0.406 0.478\nTIAB+bigram+NP 0.417 0.686 0.518* 0.560 0.422 0.481\nTIAB+bigram+Taxo 0.418 0.679 0.518* 0.554 0.412 0.472\nTIAB+bigram+mti 0.451 0.701 0.549* 0.604 0.475 0.532*\nTIAB+bigram+mmi+prc 0.448 0.699 0.546* 0.607 0.466 0.528*\nTIAB+bigram+all 0.470 0.682 0.557* 0.629 0.380 0.474",
+   "table_id": "PMC4407321_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    463.6,
+    676.3,
+    495.0
+   ],
+   "ocr": "Results are reported in Precision (Prec), Recall (Rec) and F-measure (F1). Unigrams and bigrams with feature source (either title or abstract, TIAB+bigram) are combined with concepts identifiers (+CUI), meta-data (+Meta), noun phrases (+NP), hypernyms (+Taxo), MTI predictions (+mti), MTI components (mti+prc) and all the features (+all). For each column, results significantly better (p>0.05) than the ones obtained with unigram or TIAB+bigram are indicated with *."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    78.5,
+    892.6,
+    657.6,
+    916.7
+   ],
+   "ocr": "Figure 1 Classification performance per MeSH heading. The figure shows the F-measure for each MeSH heading, when the best combination of features is used for classification (TIAB+bigram+all) and using the best performance ML algorithm (SVM-perf)."
+  }
+ }
+}

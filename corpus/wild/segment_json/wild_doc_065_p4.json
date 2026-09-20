@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_065",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    48.0,
+    561.0,
+    93.0
+   ],
+   "ocr": "The data presented in the table provides a comprehensive overview of the characteristics and methodologies employed in an open-label trial investigating the efficacy of an extended-release methylphenidate preparation for Attention Deficit Hyperactivity Disorder (ADHD)."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    108.0,
+    561.0,
+    285.0
+   ],
+   "ocr": "Study type Diagnosis DSM-VI Social status of the parents N minors Sex Age Mean (SD) IQ Mean (SD)\nOpen-label trial with an extended-release methylphenidate preparation for ADHD 5 *314.01, 2 * 314.00, 2 *concomitant 315.2, 1* concomitant 312.8 3 high5 average0 low 7 boys 13.3 (2.4) 104.1 (13.9)\nPlacebo-controlled RCT with a new SNRI-preparation for ADHD + ODD 12 * 314.01 + 312.8, 1*concomitant 315.2 2 high9 average1 low 12 boys 9.9 (1.7) 97.2 (14.7)\nTotalRange 19 11.0 (2.3)7–15 y 99.8 (14.5)72–132",
+   "table_id": "img_072630_t0"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    299.0,
+    561.0,
+    517.0
+   ],
+   "ocr": "Library preparation method Library preparation kit Input amount (ng) Duplicate read (%) Fragment size (stdev) Coveragea Ratio of bias in CpG island/shores\nPre-BS KAPA LTP (Kapa Biosystems) 1000 4.2 138 bp (41 bp) 5.4× 0.5:0.8\nKAPA Hyperprep (Kapa Biosystems) 100 5.6 105 bp (49 bp) 3.9× 0.2:0.6\nPost-BS TruSeq DNA methylation (Illumina) 50 9.6 73 bp (37 bp) 4.2× 3.3:2.0\nTruMethyl WG v1.9 (Cambridge Epigenetix) 200 1.8 120 bp (49 bp) 5.1× 1.1:1.0\nAccel-NGS methyl-seq (Swift Biosciences) 100 1.4 132 bp (50 bp) 6.6× 0.6:0.9",
+   "table_id": "img_072630_t1"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    531.0,
+    561.0,
+    649.0
+   ],
+   "ocr": "Mutation sites\nMutation region/name AANAT1a AANAT2 Sheep AANAT\nβ5 M154I I157M M159\nα2 - L69R + N70H + G73T + Q74L Q71 + H72 + T75 + L76\nβ4 - S123A A125\nαa - M107L L109",
+   "table_id": "img_072630_t2"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    664,
+    561,
+    705
+   ],
+   "ocr": "The study includes a diverse cohort of minors, with a mean age of 13.3 years (SD = 2.4), and a notable sex distribution of 7 boys, highlighting the gender prevalence observed in ADHD diagnoses. Additionally, the social status of the parents has been documented, which may play a critical role in understanding the environmental influences on the study population."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    694,
+    561,
+    780
+   ],
+   "ocr": "The trial also emphasizes the technical aspects of genomic analysis, as evidenced by metrics such as the input amount of DNA (1000 ng) and the coverage levels achieved during library preparation, utilizing the KAPA LTP kit from Kapa Biosystems. These methodological details are essential for assessing the reliability and validity of the genetic findings related to the AANAT1 gene, which has been implicated in ADHD-related behaviors. Overall, this table serves as a foundational reference for interpreting the trial's outcomes in relation to ADHD treatment."
+  }
+ }
+}

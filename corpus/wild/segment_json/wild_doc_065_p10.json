@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_065",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    127,
+    395,
+    139
+   ],
+   "ocr": "The analysis presented in the following table focuses on the biological effects of the P."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    127,
+    580,
+    154
+   ],
+   "ocr": "cylindraceus extract on various cell lines, specifically HeLa, HepG2, and HT-29."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    220.0,
+    580.0,
+    347.0
+   ],
+   "ocr": "Test samples IC50 values (μg/mL)\nHeLa HepG2 HT-29\nP. cylindraceus 3.97 ± 0.13 d 3.88 ± 0.06 c 3.91 ± 0.15 c\nP. asirensis 7.51 ± 0.48 b 7.19 ± 0.74 a 6.82 ± 0.65 b\nP. barbatus 4.97 ± 0.15 c 4.99 ± 0.17 b 4.93 ± 0.1 c\nDasatamib 5.57 ± 0.17 a 4.05 ± 0.21 b 5.24 ± 0.18 b",
+   "table_id": "img_073283_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    414.0,
+    580.0,
+    583.0
+   ],
+   "ocr": "GO Category GO ID GO Annotation Genes P-value\nBiological Process GO:0050772 positive regulation of axonogenesis DSCAM, TIAM1 0.000000736\nBiological Process GO:0031346 positive regulation of cell projection organization DSCAM, TIAM1 0.000005400\nBiological Process GO:0048013 ephrin receptor signaling pathway TIAM1 0.000024800\nBiological Process GO:0031344 regulation of cell projection organization DSCAM, TIAM1 0.000030600\nBiological Process GO:0009886 post-embryonic morphogenesis DSCAM 0.000038400\nBiological Process GO:0048841 regulation of axon extension involved in axon guidance DSCAM 0.000045900\nMolecular Function GO:0046875 ephrin receptor binding TIAM1 0.000053600",
+   "table_id": "img_073283_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    628,
+    580,
+    701
+   ],
+   "ocr": "These cell lines represent distinct biological contexts, allowing for a comprehensive evaluation of the extract’s influence on cellular processes. Notably, the table highlights the GO Category associated with the positive regulation of axonogenesis, as indicated by the Gene Ontology (GO) ID GO:0050772. This category is particularly relevant in understanding the extract's potential neuroprotective properties, which may have implications for therapeutic strategies targeting neurodegenerative diseases."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "The genes listed, such as DSCAM and TIAM1, have been implicated in neural development and signaling pathways that regulate axonal growth. Additionally, the P-values associated with these genes provide statistical significance to the observed effects, underscoring the reliability of the findings. Overall, the presented data contribute to a growing body of evidence regarding the biological activity of P. cylindraceus and its potential applications in enhancing axonogenesis, with implications for both fundamental research and clinical advancements in neurobiology."
+  }
+ }
+}

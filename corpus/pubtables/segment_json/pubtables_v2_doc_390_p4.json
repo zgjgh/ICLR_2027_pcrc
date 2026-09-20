@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_390",
+  "page": 4,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.8,
+    648.5,
+    347.3
+   ],
+   "ocr": "Sensors 2012, 12 9857 adopted to develop regression models. Furthermore, LSSVM model was also based on RBF kernel function, and the kernel parameters of gam (γ) and sig2 (σ2) were optimized as 111,570 and 972.655 by grid-search which was a two-dimensional optimization procedure based on exhaustive search in a limited range [30]. The determination results of these three models are listed in Table 7. In detail, the MLR model obtains outstanding result with high correlation (r), and low root mean squared error (RMSE). Moreover, LSSVM model acquires excellent results in calibration stage, but the prediction results of the LSSVM model is slightly worse than that of the MLR model. And the PLSR model performs relative worse in both calibration and prediction stages comparing to MLR and LSSVM models. It may be concluded that the MLR model is the most proper description for the relationship between spectroscopy and MC. The results of the MLR model are plotted in Figure 6. Table 7. Results of three models corresponding to the three types of regression algorithms based on the wavelet approximation coefficients as predictors."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    77.4,
+    356.7,
+    631.6,
+    480.9
+   ],
+   "ocr": "a b c d\nSN Alg. Input Stage Elements Cor. RMSE Bias\nCalibration 492 0.987 0.041 −1.637e−08\nModel 5 PLS 89\nPrediction 246 0.980 0.052 −8.600e−03\nCalibration 492 0.996 0.024 −1.462e−05\nModel 6 MLR 89\nPrediction 246 0.991 0.034 −6.800e−03\nCalibration 492 0.999 0.013 −4.514e−05\nModel 7 LSSVM 89\nPrediction 246 0.986 0.044 −6.730e−03",
+   "table_id": "PMC3444132_table_6"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    92.7,
+    484.9,
+    520.8,
+    493.4
+   ],
+   "ocr": "a b c d"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    92.7,
+    486.5,
+    614.8,
+    572.9
+   ],
+   "ocr": "SN: sequence number. Alg.: regression algorithm. Cor.: correlation coefficient. RMSE: root mean squared error. Figure 6. Scatter plot of reference vs. predicted of the optimal MLR Model 6 (a) calibration result and (b) prediction result."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    776.8,
+    648.4,
+    922.0
+   ],
+   "ocr": "(a) (b) 3.5. Detection of Fingerprint Wavelengths In the MLR model, the relationship between wavelet coefficients cA3 and response variable (MC) could be represented by a set of regression coefficients seen in Figure 7. It can be seen that the B-coefficients of many wavelet approximation coefficients are close to zero, and intense jagged peaks and valleys can be seen at the beginning and in the middle of the regression line. The B-coefficients"
+  }
+ }
+}

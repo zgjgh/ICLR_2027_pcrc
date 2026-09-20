@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_229",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    395.0,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Comparative Coastal Risk Index (CCRI) for Latin America and the Caribbean"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.3,
+    210.5,
+    107.4
+   ],
+   "ocr": "Table 1. Coastal hazards variables."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    48.1,
+    116.1,
+    719.3,
+    265.3
+   ],
+   "ocr": "Coastal Hazards Score Data Source Resolution (degrees of Period of Unit\nComponents Latitude or km) Data\nWave Energy Reguero et al. (2015a) [30] 0.25˚ (Caribbean) 1948–2008 W/m2\n0.50˚ remaining areas\nStorm Surge 99% (m) Losada et al. (2013) [26] 0.25˚ (Caribbean) 1948–2010 m\n0.50˚ remaining areas\nEl Nino 1997–1998 (m) Losada et al. (2013) [26] 0.50˚ 1997–1998 m\nSignificant Wave Height Ratio (HS Reguero et al. (2013 and 2015b) [27,29] 0.25˚ (Caribbean) 1948–2008 ratio\n12 / HS mean) 0.50˚ remaining areas\nCumulated Tropical Cyclone Global Risk Data Platform, United Nations Environment 2km 1975–2007 km (km/\nWinds Programme (UNEP), [44] h*h)",
+   "table_id": "PMC5667813_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    273.5,
+    727.2,
+    701.3
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0187011.t001 coastal hazard that may impact livelihoods and well-being [47]. Poverty and welfare are com- mon indicators of socioeconomic vulnerability, and can be evaluated by proxy variables [48,49]. Vulnerability variables used in this study, namely: Infant Mortality Rate (IMR), Child Malnutrition, GDP, and Income Inequality, are commonly accepted indicators of socioeco- nomic vulnerability and poverty [48–50]. Table 3 contains a list of the socioeconomic vulnera- bility variables included in the study. c) Clustering analysis Clustering techniques were used to investigate how coastal areas in the LAC region may be grouped according to similar characteristics of hazards, exposure, and vulnerability. We follow the techniques and recommendations from Camus et al. (2011, and 2016) [31,54], Ramos et al. (2012) [32], and Rueda et al. (2017) [55]. Clustering, in this context, means partitioning of each dataset into smaller groups of similar characteristics. Two clustering algorithms were applied in two subsequent steps. First, the Self-Organizing Maps (SOM) algorithm was applied to distribute 13,426 study units into 100 maps. Second, the K-Means algorithm was applied to further group the 100 resulting SOM maps into 9 clusters (S1 Appendix). The application of two abstraction levels proved more consistent than applying either one independently, con- firming the findings from Vesanto and Alhoniemi (2000) [56]. Recent studies applied similar methods of data classification in various research fields [31,57–60]. One of the limitations of the used algorithms is that they do not propose an optimal number of clusters. Therefore, it was necessary to test multiple values for each abstraction level (SOM and K-Means), until it was possible to validate that the resulting clusters indeed consisted of Table 2. Geographic exposure variables."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    51.4,
+    710.0,
+    714.5,
+    878.4
+   ],
+   "ocr": "Exposure Score Data Source Resolution Date Unit / Year\nComponents\nCoastal Population Reguero et al. (2015b) [29] 1km2 2000 Number of People\n% Urban Coverage ECLAC (2011) [46] 5km 2000? Ratio\n% Crop Coverage ECLAC (2011) [46] 5km 2011 Ratio\nBeach area ECLAC (2011) [46] 5km 2011 Km (km2/km)\nCoastal Forests area ECLAC (2011) [46] 5km 2011 Km (km2/km)\nWetlands area ECLAC (2011) [46] 5km 2011 Km (km2/km)\nPer Capita GDP (average) Global Risk Data Platform, UNEP 30 arc second resolution, roughly 1 2000 USD (year 2000, extrapolated to\n[44] km2 2010)\n(see S2 Appendix for additional\nsources)",
+   "table_id": "PMC5667813_table_1"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    236.3,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0187011.t002"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0187011 November 2, 2017 6 / 24"
+  }
+ }
+}

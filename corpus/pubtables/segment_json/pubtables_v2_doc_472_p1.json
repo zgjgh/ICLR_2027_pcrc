@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_472",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    288.6,
+    65.8
+   ],
+   "ocr": "Wen et al. BMC Systems Biology 2015, 9(Suppl 5):S4 http://www.biomedcentral.com/1752-0509/9/S5/S4"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 3 of 11"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.6,
+    678.7,
+    756.3
+   ],
+   "ocr": "Data processing and analysis Raw data and series matrix files of GSE21510, GSE41258 and GSE49355 were downloaded from GEO and extracted with 7zip. Data were normalised and sum- marised using Bioconductor affy package MAS5 algo- rithm. Series matrix files were used to extract the clinical information such as phenotypes (normal or tumour) and stages. Samples were further clustered in each dataset according to their stages (2-3 or 4), stage 2 and 3 samples were grouped together as a combined group of 2*3 and stage 4 samples formed a separate group. As a result, five sub-datasets were created: GSE21510S2*3 (n = 30), GSE41258S2*3 (n = 38), GSE21510S4 (n = 8), GSE41258S4 (n = 36) and GSE49355S4 (n = 30). Within each sub-dataset, half of the samples were primary tumours and the other half were the corresponding paired normals. Table 1 sum- marizes the sample and platform information for each dataset. Ranking method To identify differentially expressed genes between the two biological conditions, normal versus tumour, we carried out paired-sample T-test on each gene in these datasets individually. As a result, each gene had a p- value from the T-test in each dataset. A stringent threshold p-value was set as 1/π0N , where N was the total number of genes analysed (N = 22277), π0 the pro- portion of non-differentially expressed genes, which could be accurately estimated using the Zhang-Gant method [17,18]. Setting such a stringent threshold was to control the expected number of false positives as 1 in multiple testing. All genes in each dataset were then divided into 2 groups: statistically significant group and non-significant group. Genes with a p-value smaller than the threshold were put in the significant group; the rest in the non-significant group. We developed the following method to combine scores from different datasets and select significant genes. The ranking and scoring of all genes in an indivi- dual dataset is described in steps 1-5 below: 1. All genes in the statistically non-significant group will have 0 score."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.7,
+    366.2,
+    757.8
+   ],
+   "ocr": "Methods Datasets: Samples and genes selection Datasets GSE21510, GSE41258 and GSE49355 were obtained from the Gene Expression Omnibus(GEO), a public gene expression data repository. These datasets contain both tumour and normal, paired or unpaired, stage I-IV CRC samples, with raw microarray expression data available. We selected only stage II, III, and IV and excluded stage I samples in our study. Dataset GSE21510 includes in total 148 samples from 104 colorectal cancer patients who had surgical therapy between 2002 to 2007 at Tokyo Medical and Dental University Hospital, Japan [14]. 46 tumour and paired normal samples from 23 patients are available. Exclud- ing 8 (4 pairs) stage I samples, we selected 38 (19 pairs) samples from this dataset: 16 (8 pairs) stage II, 14 (7 pairs) stage III, and 8 (4 pairs) stage IV samples. Dataset GSE41258 was from the study of Sheffer et al [15] on patients with colonic neoplasia presented at Memorial Sloan-Kettering Cancer Center, New York between 1992 and 2004. Biological specimens used in the original study included primary colon adenocarcino- mas, adenomas and corresponding normal mucosae from patients at a variety of clinical stages. There are 88 paired samples in this dataset, from which we selected 74 paired, stage II-IV samples for our analysis. The selected include 16 stage II, 22 stage III and 36 stage IV samples. Dataset GSE49355 was from a prospective study at the Institut du Cancer de Montpellier, France during January 2000 and June 2004, which involved 50 colorectal cancer patients. Samples of normal colon, primary colon cancer and hepatic metastasis were collected during surgery and before chemotherapy [16]. We selected 30 paired primary tumour and normal samples from this dataset, all sam- ples were at stage IV. The platforms used for these datasets were Affymetrix HG-U133A (for GSE41258 and GSE49355) and HG- U133 Plus 2 (for GSE21510), measuring the expression of 22283 and 54675 probe-sets respectively. Between these two platforms, there were 22277 common probe- sets, and these became the selected genes analyzed in our study."
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    794.7,
+    263.3,
+    807.7
+   ],
+   "ocr": "Table 1 Information of datasets used."
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    812.6,
+    658.2,
+    915.9
+   ],
+   "ocr": "Dataset Stage Samples Platform TotalGenes SignificantGenes\nGSE21510 2-3 30(15pairs) HG-U133Plus2 54675 4025\nGSE41258 2-3 38(19pairs) HG-U133A 22283 929\nGSE21510 4 8(4pairs) HG-U133Plus2 54675 7\nGSE41258 4 36(18pairs) HG-U133A 22283 663\nGSE49355 4 30(15pairs) HG-U133A 22283 1323\nCombined Dataset 2-4 142(71pairs) 22277 4757",
+   "table_id": "PMC4565135_table_0"
+  }
+ }
+}

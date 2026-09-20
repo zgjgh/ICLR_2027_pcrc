@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_250",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5933345_table_0",
+   "page_num": 1,
+   "bbox": [
+    50.9,
+    137.4,
+    721.1,
+    458.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5933345_table_0.png",
+   "html": "<table><tr><td>Module</td><td>Description</td></tr><tr><td>main.py</td><td>Main driver module. Asks user inputs</td></tr><tr><td>build_model.py</td><td>Parses csv model file. Generates metabolite and isotopomer models, stoichiometric matrix. Reads measured MIDs</td></tr><tr><td>create_atm_transition_equations.py</td><td>Creates list of elementary reactions from atom transition equations</td></tr><tr><td>input_substrate_emu.py</td><td>Reads substrate input file and calculates substrate MIDs required in the emu network</td></tr><tr><td>mid_vec_gen.py</td><td>Generates correction vector for a given natural isotope distribution vector and number of atomic elements</td></tr><tr><td>priliminary_fba.py</td><td>Generates initial feasible flux distribution using glpk as linear programming solver and sets feasible reaction bounds</td></tr><tr><td>glpk_solve.py</td><td>Solves linear programming problems using glpk</td></tr><tr><td>make_emu_networks.py</td><td>Makes EMU networks from elementary reactions and measured MIDs</td></tr><tr><td>free_flux_null.py</td><td>Calculates null matrix and free fluxes</td></tr><tr><td>solve_mfa_lm.py</td><td>Generates and solves non-linear optimization problem using lmfit</td></tr><tr><td>solve_mid_networks.py</td><td>Solves EMU network to find calculated MIDS with respect to parameters of the non-linear problem</td></tr><tr><td>mid_corr.py</td><td>Corrects calculated MIDs</td></tr><tr><td>draw_flux_map.py</td><td>Draws flux map from optimization result and flux map template</td></tr><tr><td>monte_carlo.py</td><td>Performs Monte-Carlo analysis</td></tr><tr><td>bootstrap.py</td><td>For bootstrapping results from Monte-Carlo analysis</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5933345_table_1",
+   "page_num": 2,
+   "bbox": [
+    243.9,
+    151.2,
+    729.3,
+    501.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5933345_table_1.png",
+   "html": "<table><tr><td></td><td></td><td>FluxPyt</td><td>OpenFLUX</td></tr><tr><td rowspan=\"6\">VALX:11111</td><td>M+0</td><td>0.0298</td><td>0.0298</td></tr><tr><td>M+1</td><td>0.2438</td><td>0.2438</td></tr><tr><td>M+2</td><td>0.0589</td><td>0.0589</td></tr><tr><td>M+3</td><td>0.4399</td><td>0.4399</td></tr><tr><td>M+4</td><td>0.0292</td><td>0.0292</td></tr><tr><td>M+5</td><td>0.1984</td><td>0.1984</td></tr><tr><td rowspan=\"7\">LYSX:111111</td><td>M+0</td><td>0.0344</td><td>0.0344</td></tr><tr><td>M+1</td><td>0.1854</td><td>0.1854</td></tr><tr><td>M+2</td><td>0.1677</td><td>0.1677</td></tr><tr><td>M+3</td><td>0.2499</td><td>0.2499</td></tr><tr><td>M+4</td><td>0.2074</td><td>0.2074</td></tr><tr><td>M+5</td><td>0.0764</td><td>0.0764</td></tr><tr><td>M+6</td><td>0.0788</td><td>0.0788</td></tr><tr><td rowspan=\"5\">ASPX:1111</td><td>M+1</td><td>0.0661</td><td>0.0661</td></tr><tr><td>M+2</td><td>0.3532</td><td>0.3532</td></tr><tr><td>M+3</td><td>0.2497</td><td>0.2497</td></tr><tr><td>M+4</td><td>0.1590</td><td>0.1590</td></tr><tr><td>M+5</td><td>0.1720</td><td>0.1720</td></tr><tr><td colspan=\"2\">Sum of squared residual (SSR)</td><td>0.0002</td><td>0.0002</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5933345_table_2",
+   "page_num": 3,
+   "bbox": [
+    243.9,
+    151.2,
+    721.1,
+    484.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5933345_table_2.png",
+   "html": "<table><tr><td>Reaction ID</td><td>Reaction formula</td><td>FluxPyt</td><td>OpenFLUX</td></tr><tr><td>V01</td><td>PYR_EX -&gt; PYR</td><td>1.00</td><td>1.00</td></tr><tr><td>V02</td><td>GLU_EX -&gt; AKG</td><td>0.20</td><td>0.20</td></tr><tr><td>V03</td><td>PYR -&gt; ACCOA + CO2 + NADH</td><td>0.62</td><td>0.62</td></tr><tr><td>V04</td><td>ACCOA + OAA -&gt; ICI</td><td>0.62</td><td>0.62</td></tr><tr><td>V05</td><td>ICI -&gt; AKG + CO2 + NADH</td><td>0.62</td><td>0.62</td></tr><tr><td>V06</td><td>AKG -&gt; 0.5 SUC + 0.5 SUC + CO2 + NADH + ATP</td><td>0.59</td><td>0.59</td></tr><tr><td>V07</td><td>SUC -&gt; OAA + FADH2 + NADH</td><td>2.62</td><td>2.61</td></tr><tr><td>V08</td><td>OAA + FADH2 + NADH -&gt; 0.5 SUC + 0.5 SUC</td><td>2.02</td><td>2.02</td></tr><tr><td>V09</td><td>OAA -&gt; PYR + CO2</td><td>0.30</td><td>0.30</td></tr><tr><td>V10</td><td>PYR + CO2 + ATP -&gt; OAA</td><td>0.48</td><td>0.48</td></tr><tr><td>V11</td><td>2 NADH + O2 -&gt; 4 ATP</td><td>1.21</td><td>1.21</td></tr><tr><td>V12</td><td>2 FADH2 + O2 -&gt; 2 ATP</td><td>0.30</td><td>0.30</td></tr><tr><td>V13</td><td>O2_EX -&gt; O2</td><td>1.51</td><td>1.51</td></tr><tr><td>V14</td><td>CO2 -&gt; CO2_EX</td><td>1.65</td><td>1.65</td></tr><tr><td>V15</td><td>ATP -&gt; ATPM</td><td>5.56</td><td>5.54</td></tr><tr><td>V16</td><td>PYR -&gt; PYR_B</td><td>0.20</td><td>0.20</td></tr><tr><td>V17</td><td>AKG -&gt; AKG_B</td><td>0.23</td><td>0.23</td></tr><tr><td>V18</td><td>OAA -&gt; OAA_B</td><td>0.15</td><td>0.15</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5933345_table_3",
+   "page_num": 4,
+   "bbox": [
+    243.9,
+    563.2,
+    721.1,
+    899.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5933345_table_3.png",
+   "html": "<table><tr><td>Reaction ID</td><td>-95% CI</td><td>-68% CI</td><td>Median</td><td>+68% CI</td><td>+95% CI</td></tr><tr><td>V01</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>V02</td><td>0.19</td><td>0.19</td><td>0.20</td><td>0.21</td><td>0.21</td></tr><tr><td>V03</td><td>0.59</td><td>0.60</td><td>0.62</td><td>0.64</td><td>0.66</td></tr><tr><td>V04</td><td>0.59</td><td>0.60</td><td>0.62</td><td>0.64</td><td>0.66</td></tr><tr><td>V05</td><td>0.59</td><td>0.60</td><td>0.62</td><td>0.64</td><td>0.66</td></tr><tr><td>V06</td><td>0.57</td><td>0.58</td><td>0.59</td><td>0.60</td><td>0.60</td></tr><tr><td>V07</td><td>1.30</td><td>1.74</td><td>2.59</td><td>4.17</td><td>9.41</td></tr><tr><td>V08</td><td>0.72</td><td>1.15</td><td>2.01</td><td>3.58</td><td>8.81</td></tr><tr><td>V09</td><td>0.29</td><td>0.29</td><td>0.30</td><td>0.31</td><td>0.32</td></tr><tr><td>V10</td><td>0.46</td><td>0.47</td><td>0.48</td><td>0.49</td><td>0.50</td></tr><tr><td>V11</td><td>1.17</td><td>1.18</td><td>1.21</td><td>1.24</td><td>1.26</td></tr><tr><td>V12</td><td>0.29</td><td>0.29</td><td>0.29</td><td>0.30</td><td>0.30</td></tr><tr><td>V13</td><td>1.46</td><td>1.48</td><td>1.50</td><td>1.53</td><td>1.56</td></tr><tr><td>V14</td><td>1.57</td><td>1.60</td><td>1.65</td><td>1.70</td><td>1.74</td></tr><tr><td>V15</td><td>5.33</td><td>5.41</td><td>5.53</td><td>5.66</td><td>5.76</td></tr><tr><td>V16</td><td>0.17</td><td>0.18</td><td>0.20</td><td>0.22</td><td>0.23</td></tr><tr><td>V17</td><td>0.20</td><td>0.20</td><td>0.23</td><td>0.26</td><td>0.26</td></tr><tr><td>V18</td><td>0.12</td><td>0.12</td><td>0.15</td><td>0.18</td><td>0.18</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5933345_table_4",
+   "page_num": 5,
+   "bbox": [
+    243.9,
+    137.4,
+    721.1,
+    697.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5933345_table_4.png",
+   "html": "<table><tr><td></td><td></td><td>Measured MIDs (Quek et al., 2009)</td><td>FluxPyt</td><td>OpenFLUX</td></tr><tr><td rowspan=\"3\">Ala 260</td><td>M+0</td><td>0.5085</td><td>0.5096</td><td>0.5095</td></tr><tr><td>M+1</td><td>0.3529</td><td>0.3537</td><td>0.3538</td></tr><tr><td>M+2</td><td>0.1058</td><td>0.1062</td><td>0.1063</td></tr><tr><td rowspan=\"3\">Val 288</td><td>M+0</td><td>0.3455</td><td>0.3472</td><td>0.3477</td></tr><tr><td>M+1</td><td>0.3983</td><td>0.3979</td><td>0.3978</td></tr><tr><td>M+2</td><td>0.1845</td><td>0.1840</td><td>0.1838</td></tr><tr><td rowspan=\"3\">Thr 404</td><td>M+0</td><td>0.3330</td><td>0.3342</td><td>0.3341</td></tr><tr><td>M+1</td><td>0.3764</td><td>0.3750</td><td>0.3758</td></tr><tr><td>M+2</td><td>0.1957</td><td>0.1958</td><td>0.1957</td></tr><tr><td rowspan=\"3\">Asp 418</td><td>M+0</td><td>0.3343</td><td>0.3336</td><td>0.3334</td></tr><tr><td>M+1</td><td>0.3732</td><td>0.3743</td><td>0.3750</td></tr><tr><td>M+2</td><td>0.1955</td><td>0.1962</td><td>0.1961</td></tr><tr><td rowspan=\"3\">Glu 432</td><td>M+0</td><td>0.2469</td><td>0.2499</td><td>0.2493</td></tr><tr><td>M+1</td><td>0.3648</td><td>0.3652</td><td>0.3657</td></tr><tr><td>M+2</td><td>0.2412</td><td>0.2392</td><td>0.2396</td></tr><tr><td rowspan=\"3\">Ser 390</td><td>M+0</td><td>0.4497</td><td>0.4483</td><td>0.4486</td></tr><tr><td>M+1</td><td>0.3576</td><td>0.3582</td><td>0.3581</td></tr><tr><td>M+2</td><td>0.1428</td><td>0.1437</td><td>0.1435</td></tr><tr><td rowspan=\"3\">Phe 336</td><td>M+0</td><td>0.2712</td><td>0.2736</td><td>0.2736</td></tr><tr><td>M+1</td><td>0.3816</td><td>0.3812</td><td>0.3814</td></tr><tr><td>M+2</td><td>0.2282</td><td>0.2282</td><td>0.2283</td></tr><tr><td rowspan=\"2\">Gly 246</td><td>M+0</td><td>0.7407</td><td>0.7416</td><td>0.7416</td></tr><tr><td>M+1</td><td>0.1845</td><td>0.1852</td><td>0.1852</td></tr><tr><td rowspan=\"3\">Tyr 466</td><td>M+0</td><td>0.2344</td><td>0.2356</td><td>0.2356</td></tr><tr><td>M+1</td><td>0.3530</td><td>0.3560</td><td>0.3561</td></tr><tr><td>M+2</td><td>0.2423</td><td>0.2448</td><td>0.2448</td></tr><tr><td rowspan=\"3\">Tre 361</td><td>M+0</td><td>0.0613</td><td>0.0618</td><td>0.0618</td></tr><tr><td>M+1</td><td>0.6040</td><td>0.6059</td><td>0.6060</td></tr><tr><td>M+2</td><td>0.2070</td><td>0.2071</td><td>0.2070</td></tr><tr><td colspan=\"2\">SSR</td><td></td><td>690</td><td>701</td></tr></table>"
+  }
+ ]
+}

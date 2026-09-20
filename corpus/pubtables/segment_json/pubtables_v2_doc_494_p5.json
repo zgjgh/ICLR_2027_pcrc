@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_494",
+  "page": 5,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    57.1,
+    61.3,
+    698.3,
+    165.7
+   ],
+   "ocr": "Clarity of\nfascicles Method to acquire Similarity between\nin section Registration the edges of Recognition of fascicle reconstructed results Operation time\nimage method fascicles functional types and actual fascicles required Repeatability\nComplex operation,\nOur method Clear Our algorithm Our algorithm Our algorithm 80–95% 80–90%\nneeding a long time\nTraditional 3D\nCannot judge the\nreconstruction Unclear No registration Manual Without this function Easy to operate 99%\nsimilarity degree\nmethod",
+   "table_id": "PMC4657002_table_4"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    198.9,
+    181.5,
+    558.0,
+    197.5
+   ],
+   "ocr": "Table 5. Comparing our method with traditional 3D reconstruction way."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    235.3,
+    709.0,
+    848.9
+   ],
+   "ocr": "While the current technique was developed using normal nerve specimens (non-injured, non-distorted and cylinder-like), future studies are required to investigate whether this technique can be adopted to reveal internal detailed structures of defected/injured nerves or repairing nerves. Further adaptation of this technique and its potential successful application in abnormal nerves may render its likely value in meeting the current challenges for performing non-invasive diagnosis of a nerve injury or other nerve pathological conditions, for guiding minimally invasive nerve surgery and for surgical navigation for reconnection of different nerve bundles. While 3D reconstruction results are expected to be different between normal and damaged nerves, this technique described and the data generated in the current study will provide an important basis and reference data for these future studies. In addition, this 3D model method will be potentially useful to help us to understand the nerve complex internal information and functionality and to set up virtual 3D nerve internal fascicle databases for different peripheral nerves and at different regions, such databases will ultimately be useful for developing a non-invasive 3D nerve fascicle reconstruction approach for diagnostics of nerve injury and for guiding nerve repair surgery. In summary, in this study, the key technologies of 3D reconstruction of peripheral nerve internal fascicular groups were established through actual cases of peripheral nerves, including serial section preparation and imaging, image position line recognition and image registration, nerve fascicular edge acquisition, fascicle functional type recognition and 3D reconstruction of nerve fascicles of different types. After the LS-SVM method was trained and optimized by a designed training set, its accuracy in recognizing cross sections of position lines is about 91.75%. To align and register nerve section images, the bilinear method was found efficient and its accuracy rate satisfies the requirement of 3D reconstruc- tion. For extracting the edges of nerve fascicles, the GVF-Snake method was found effective and efficient, enabling the contours of fascicular groups in nerve slice images to be smooth and continuous, and most slice images can be processed within 120 seconds. The current study has also proposed an approach to recognize the fascicular groups by multi-direction gradient and corresponding 2nd derivative gradient of gray level, and this approach was found to recognize types of fascicular groups accurately and efficiently, with the recognizing results not related with the parameters. Finally, 3D reconstruction results of nerve internal fascicular groups are close to the real nerve internal structure. Therefore, data of this study sug- gest that the key technology described here can potentially be used to achieve accurate 3D reconstruction of the peripheral nerve internal fascicular groups, which can reveal the complicated anatomical nerve fascicle structure and changes in fascicles along its length. To be able to achieve 3D reconstruction of nerve internal fascicles of different functional types of limbs will have a great clinical value. Apart from its potential in aiding accurate internal positioning of nerve fascicles for nerve repair, the establishment of a relatively complete and accurate virtual 3D nerve internal fascicle database will be a valuable edu- cation tool, provide important match options and guidance for nerve tissue engineering, artificial nerve creation, rational choices/designs for various nerve translocation and transplantation, for diagnosis of peripheral nerve disorders, for nerve surgical repair and for virtual surgery. Methods Median nerve sampling, serial sectioning, and imaging. The median nerve in the cubital fossa region was dissected from an unfrozen adult cadaver within 24 hours of death with informed consents obtained from all subjects (the subject prior to death and deceased person’s family), and the dissection and the use of the median nerve were carried out in accordance with the approved guidelines and were approved by the Human Research Ethics Committee of Sun Yat-sen University (Guangzhou, China). After removing other tissues (e.g. fat) around the nerve, the nerve specimen was placed on a small piece of soft wooden board, and both ends were fixed on the board by pins to prevent the nerve from curling"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    845.9,
+    708.9,
+    862.3
+   ],
+   "ocr": "and to maintain it straight. Four adult female hairs (used as position lines) were used to fix around the"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    859.4,
+    709.0,
+    875.7
+   ],
+   "ocr": "nerve specimen, and specimen and hairs were embedded in OCT (optimal cutting temperature) cryostat"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    872.8,
+    708.9,
+    889.2
+   ],
+   "ocr": "embedding medium. Then the nerve specimen was stored in − 80 °C and taken out for cryostat section-"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    886.2,
+    708.9,
+    902.6
+   ],
+   "ocr": "ing one week later. The median nerve specimen was firstly cut into 20 mm-long segments, which were"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    899.6,
+    708.9,
+    916.0
+   ],
+   "ocr": "then sliced in a cryostat microtome to obtain serial cross sections of 15 μ m in thickness and 0.5 mm"
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    913.0,
+    708.9,
+    929.4
+   ],
+   "ocr": "apart. The same approach was used to prepare serial sections of the median nerve of the hand-wrist"
+  },
+  "p5_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    926.5,
+    709.0,
+    980.1
+   ],
+   "ocr": "region. After being stained by H&E, all sections were viewed by Z61 stereo microscope with a MSHOT Scientific RepoRts | 5:17168 | DOI: 10.1038/srep17168 10"
+  }
+ }
+}

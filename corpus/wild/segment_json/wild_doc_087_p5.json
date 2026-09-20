@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_087",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    210.0,
+    580.0,
+    532.0
+   ],
+   "ocr": "FineType TotalFines AverageFine MinFine MaxFine\nEnvironmentalViolations ComplianceRate FinesPaid FinesPending FinesWaived\nWasteManagement FinesbyCategory FinesperState TotalViolations PenaltyIndex\nOperationalCosts CostRecovery Debt/EquityRatio CurrentRatio P/ERatio\nRegulatoryFines $5M $500K $50K $1M\nHazardousWaste 50% $2M $1.5M $300K\nWaterQuality $3M 40% $1.2M $800K\nAirQuality $1.5M 30% $600K $900K\nFinesCollected $6M TotalFines $12M PendingFines\n$4M WaivedFines $2M FineIndex 1.2\nStateA $1M 25% $500K $250K\nStateB $2M 35% $1M $400K",
+   "table_id": "img_096437_t0"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    597,
+    580,
+    671
+   ],
+   "ocr": "In the context of environmental compliance, organizations such as Veolia Environnement face significant financial implications related to operational costs and regulatory adherence. The data table presented illustrates various metrics that underscore the financial health and compliance status of the company. Notably, the operational costs associated with AirQuality were reported as AirQuality, highlighting the importance of maintaining standards in this critical area. Additionally, the debt-to-equity ratio for WaterQuality stands at 40%, which reflects the company's leverage in financing and its potential risk exposure."
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    763
+   ],
+   "ocr": "The current ratio metrics provide further insight into liquidity; for example, AirQuality's current ratio is reported at $600K, while RegulatoryFines show a current ratio of $50K, indicating varying levels of financial health across different compliance categories. Furthermore, the price-to-earnings ratio for AirQuality is noted at $900K, suggesting strong investor confidence in the company’s ability to manage environmental challenges effectively. These metrics collectively offer a comprehensive view of the financial landscape surrounding environmental compliance fines, illustrating the critical intersection of operational efficiency and regulatory requirements that organizations must navigate in today’s complex environmental framework."
+  }
+ }
+}

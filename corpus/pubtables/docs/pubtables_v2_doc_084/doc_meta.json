@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_084",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC6072113_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    731.4,
+    687.6,
+    836.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC6072113_table_0.png",
+   "html": "<table><tr><td></td><td>BRCA</td><td>KIRC</td><td>HNSC</td></tr><tr><td>No. of putative DE miRNA&#8212;DE mRNA interactions</td><td>153,465</td><td>107,348</td><td>94,980</td></tr><tr><td>No. of DE miRNAs 1</td><td>215</td><td>164</td><td>201</td></tr><tr><td>No. of DE mRNAs 1</td><td>7,502</td><td>6,690</td><td>5,005</td></tr><tr><td>No. of putative DE miRNA&#8212;DE lncRNA interactions</td><td>60,935</td><td>18,589</td><td>17,350</td></tr><tr><td>No. of DE miRNAs 2</td><td>215</td><td>164</td><td>201</td></tr><tr><td>No. of DE lncRNAs 2</td><td>3,111</td><td>1,335</td><td>896</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6072113_table_1",
+   "page_num": 2,
+   "bbox": [
+    252.3,
+    128.3,
+    666.3,
+    233.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6072113_table_1.png",
+   "html": "<table><tr><td></td><td>BRCA</td><td>KIRC</td><td>HNSC</td></tr><tr><td>No. of miRNA-mRNA interactions</td><td>6,616</td><td>8,408</td><td>9,893</td></tr><tr><td>No. of miRNAs 1</td><td>196</td><td>154</td><td>190</td></tr><tr><td>No. of mRNAs 1</td><td>2,814</td><td>2,971</td><td>3,020</td></tr><tr><td>No. of miRNA-lncRNA interactions</td><td>502</td><td>217</td><td>467</td></tr><tr><td>No. of miRNAs 2</td><td>134</td><td>93</td><td>141</td></tr><tr><td>No. of lncRNAs 2</td><td>210</td><td>91</td><td>175</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6072113_table_2",
+   "page_num": 2,
+   "bbox": [
+    252.3,
+    821.3,
+    707.2,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6072113_table_2.png",
+   "html": "<table><tr><td></td><td>BRCA</td><td>KIRC</td><td>HNSC</td></tr><tr><td>Percentage of RNA targets under CNA regulation</td><td>76.2%</td><td>69.2%</td><td>77.2%</td></tr><tr><td>Percentage of RNA targets under DNA Methylation regulation</td><td>30.4%</td><td>26.3%</td><td>35.0%</td></tr><tr><td>Percentage of RNA targets under TF regulation</td><td>54.1%</td><td>59.3%</td><td>48.0%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6072113_table_4",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    128.3,
+    699.8,
+    248.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC6072113_table_4.png",
+   "html": "<table><tr><td></td><td>BRCA</td><td>KIRC</td><td>HNSC</td></tr><tr><td>No. of all ceRNA interactions</td><td>4,115</td><td>4,639</td><td>2,725</td></tr><tr><td>No. of mRNA-mRNA ceRNA interactions1</td><td>3,674</td><td>4,614</td><td>2,589</td></tr><tr><td>No. of mRNA-lncRNA ceRNA interactions1</td><td>394</td><td>25</td><td>121</td></tr><tr><td>No. of lncRNA-lncRNA ceRNA interactions1</td><td>47</td><td>0</td><td>15</td></tr><tr><td>No. of all ceRNAs</td><td>1,593</td><td>1,081</td><td>1,110</td></tr><tr><td>No. of mRNAs as ceRNAs2</td><td>1,491</td><td>1,071</td><td>1,063</td></tr><tr><td>No. of lncRNAs ceRNAs2</td><td>102</td><td>10</td><td>47</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6072113_table_5",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    552.6,
+    720.6,
+    862.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC6072113_table_5.png",
+   "html": "<table><tr><td>Cancer type</td><td>Cancer hallmark geneset</td><td>Description</td><td>Enriched Module</td></tr><tr><td rowspan=\"9\">BRCA</td><td>Epithelial Mesenchymal Transition</td><td>Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis</td><td>2, 4, 14</td></tr><tr><td>E2F Targets</td><td>Genes encoding cell cycle related targets of E2F transcription factors</td><td>3, 7, 13</td></tr><tr><td>Estrogen Response Early</td><td>Genes defining late response to estrogen</td><td>1, 11</td></tr><tr><td>G2M Checkpoint</td><td>Genes involved in the G2/M checkpoint, as in progression through the cell division cycle</td><td>3, 7</td></tr><tr><td>TGF Beta Signaling</td><td>TGF-beta signaling pathway</td><td>6</td></tr><tr><td>Spermatogenesis</td><td>Genes up-regulated during production of male gametes (sperm), as in spermatogenesis</td><td>7</td></tr><tr><td>IL-6/JAK/STAT3 Signaling</td><td>Genes up-regulated by IL6 via STAT3, e.g., during acute phase response</td><td>12</td></tr><tr><td>Interferon Gammaresponse</td><td>Genes up-regulated in response to IFNG</td><td>12</td></tr><tr><td>UV Response Up</td><td>Genes up-regulated in response to ultraviolet (UV) radiation</td><td>17</td></tr><tr><td rowspan=\"5\">KIRC</td><td>Epithelial Mesenchymal Transition</td><td>Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis</td><td>4</td></tr><tr><td>UV Response DN</td><td>Genes down-regulated in response to ultraviolet (UV) radiation</td><td>4</td></tr><tr><td>Oxidative Phosphorylation</td><td>Genes encoding proteins involved in oxidative phosphorylation</td><td>11</td></tr><tr><td>MYC Targets V1</td><td>A subgroup of genes regulated by MYC&#8212;version 1 (v1)</td><td>11</td></tr><tr><td>Adipogenesis</td><td>Genes up-regulated during adipocyte differentiation (adipogenesis)</td><td>11</td></tr><tr><td rowspan=\"5\">HNSC</td><td>Epithelial Mesenchymal Transition</td><td>Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis</td><td>4, 5</td></tr><tr><td>TGF Beta Signaling</td><td>TGF-beta signaling pathway (UV) radiation</td><td>4</td></tr><tr><td>MYC Targets V1</td><td>A subgroup of genes regulated by MYC&#8212;version 1 (v1)</td><td>6</td></tr><tr><td>G2M Checkpoint</td><td>Genes involved in the G2/M checkpoint, as in progression through the cell division cycle</td><td>7</td></tr><tr><td>E2F Targets</td><td>Genes encoding cell cycle related targets of E2F transcription factors</td><td>7</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6072113_table_6",
+   "page_num": 5,
+   "bbox": [
+    252.3,
+    805.5,
+    689.6,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC6072113_table_6.png",
+   "html": "<table><tr><td></td><td>BRCA</td><td>KIRC</td><td>HNSC</td></tr><tr><td>Cancerin (original)</td><td>4,115</td><td>4,639</td><td>2,725</td></tr><tr><td>Cancerin (OLS regression)</td><td>6,039</td><td>19,202</td><td>6,262</td></tr><tr><td>Cancerin (sensitivity correlation filtering step deactivated)</td><td>7,018</td><td>18,976</td><td>8,179</td></tr><tr><td>Correlation-based method</td><td>25,853</td><td>46,518</td><td>16,908</td></tr></table>"
+  }
+ ]
+}

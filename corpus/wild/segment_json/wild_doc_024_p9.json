@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_024",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    65.0
+   ],
+   "ocr": "The table presents a comparative analysis of various models across specific criteria."
+  },
+  "p9_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    80.0,
+    580.0,
+    300.0
+   ],
+   "ocr": "Comparison criteria Modela,b\nSMM RMM1 RMM2 RMM3\nGL\nMean squared error 18.717 18.717 18.716 18.715\nPearson's correlation 0.465 0.465 0.465 0.465\nCD\nMean squared error 0.788 0.791 0.791 0.791\nPearson's correlation 0.487 0.485 0.486 0.486\nSB\nMean squared error 0.108 0.109 0.109 0.109\nPearson's correlation 0.246 0.243 0.244 0.243",
+   "table_id": "img_027049_t0"
+  },
+  "p9_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    316,
+    580,
+    390
+   ],
+   "ocr": "Under the \"Comparison criteria\" header, three distinct categories are analyzed: GL, CD, and SB. For the GL category, the mean squared error values are recorded as 18.717 for SMM, 18.717 for RMM1, 18.716 for RMM2, and 18.715 for RMM3, while Pearson's correlation values are consistent at 0.465 across all models. In the CD category, the mean squared error values are 0.788 for SMM, 0.791 for RMM1, 0.791 for RMM2, and 0.791 for RMM3, with Pearson's correlation values measuring 0.487 for SMM, 0.485 for RMM1, 0.486 for RMM2, and 0.486 for RMM3, indicating slight variation among the models."
+  },
+  "p9_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    378,
+    580,
+    467
+   ],
+   "ocr": "The SB category shows mean squared error values of 0.108 for SMM, 0.109 for RMM1, 0.109 for RMM2, and 0.109 for RMM3, while Pearson's correlation values are recorded as 0.246 for SMM, 0.243 for RMM1, 0.244 for RMM2, and 0.243 for RMM3. Overall, the data reveals varied performance across the models, with GL showing the highest mean squared error and Pearson's correlation values, whereas SB presents the lowest mean squared error, highlighting the differing efficacy of each model in the specified comparison criteria."
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_462",
+  "page": 3,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.6,
+    211.9
+   ],
+   "ocr": "Sensors 2015, 15 17338 pseudorange measurement and simulated pseudorange will be excluded. The statistic of Figure 7 is listed in Table 3. Comparing the two, the positioning error is about 3.97 and 2.96 m before and after using the RAIM, respectively. The improvement by RAIM not only can be found in terms of mean but also standard deviation. This improvement indicates the proposed RAIM makes the 3D map method more accurate and precise. The conventional positioning methods cannot achieve a similar performance even if it only uses the LOS satellite measurements."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    92.6,
+    560.1,
+    614.9,
+    650.8
+   ],
+   "ocr": "Figure 7. Results of the proposed 3D map positioning method before and after using the RAIM satellite selection method in a middle urban canyon. Table 3. Lateral positioning performance of the conventional method and the proposed 3D map method before and after using the RAIM method in the middle urban canyon."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    140.0,
+    661.8,
+    566.5,
+    748.1
+   ],
+   "ocr": "Methods Mean (m) Std (m) Availability\nConventional positioning method (WLS) 24.28 28.61 97.23%\nWLS using only LOS 12.57 13.38 53.36%\n3D map method 3.97 3.97 100%\n3D map method with RAIM FDE 2.96 2.44 100%",
+   "table_id": "PMC4541937_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    768.6,
+    648.6,
+    870.2
+   ],
+   "ocr": "To demonstrate the performance improved by the RAIM, we select two typical points in this dynamic data, point 264,038 and 264,239. To observe the left side of Figure 7 (point 264,239), the positioning result before and after applying RAIM is very different. The red ball is much closer to the ground truth than yellow ball. The position solution of the 3D map method is calculated by: ∑ α(�)�(�)"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    349.2,
+    860.3,
+    352.7,
+    872.2
+   ],
+   "ocr": "�"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    312.5,
+    864.2,
+    646.6,
+    881.5
+   ],
+   "ocr": "� = (8)"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    350.0,
+    873.5,
+    386.9,
+    891.0
+   ],
+   "ocr": "∑ α(�)"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    881.1,
+    648.5,
+    938.2
+   ],
+   "ocr": "� where x denotes the position estimated, α denotes the weighting of a particle and P denotes the position of a particle. Hence, the weighting of the particles is very essential for the proposed method. Figure 8"
+  }
+ }
+}

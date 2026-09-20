@@ -1,0 +1,354 @@
+{
+ "doc_id": "wild_doc_171",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_194680_t0",
+   "page_num": 1,
+   "bbox": [
+    14.0,
+    91.0,
+    548.0,
+    369.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_194680_t0.png",
+   "html": "<table><tr><td colspan=\"2\">LendingPlatformMetrics</td><td>TotalLoans(AUD)</td><td>DefaultRate(%)</td></tr><tr><td colspan=\"2\">RevenueBreakdown</td><td>InterestIncome(AUD)</td><td>FeesIncome(AUD)</td><td>NetIncome(AUD)</td></tr><tr><td colspan=\"3\">OperationalExpenses</td><td colspan=\"2\">MarketingCosts(AUD)</td><td colspan=\"2\">TechCosts(AUD)</td><td>PersonnelCosts(AUD)</td><td>TotalExpenses(AUD)</td></tr><tr><td>Quarter1</td><td>$50M</td><td>1.5%</td><td>$30M</td><td>$10M</td><td>$5M</td><td>$45M</td><td>$10M</td><td>$55M</td></tr><tr><td>Quarter2</td><td>$70M</td><td>1.8%</td><td>$40M</td><td>$15M</td><td>$8M</td><td>$63M</td><td>$12M</td><td>$75M</td></tr><tr><td>Quarter3</td><td>$90M</td><td>2.0%</td><td>$50M</td><td>$20M</td><td>$10M</td><td>$80M</td><td>$15M</td><td>$95M</td></tr><tr><td>Quarter4</td><td>$110M</td><td>2.2%</td><td>$60M</td><td>$25M</td><td>$12M</td><td>$97M</td><td>$20M</td><td>$120M</td></tr><tr><td>TotalYear</td><td>$320M</td><td>1.75%</td><td>$180M</td><td>$70M</td><td>$35M</td><td>$285M</td><td>$57M</td><td>$330M</td></tr><tr><td>ProjectedGrowth(%)</td><td>20%</td><td>MarketShare(%)</td><td>15%</td><td>CustomerAcquisitionCost(AUD)</td><td>$500</td><td>AverageLoanSize(AUD)</td><td>$15,000</td><td>TotalApplicationsReceived</td></tr></table>"
+  },
+  {
+   "table_id": "img_194680_t1",
+   "page_num": 1,
+   "bbox": [
+    14.0,
+    543.0,
+    548.0,
+    696.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_194680_t1.png",
+   "html": "<table><tr><td>PolicyType</td><td>IssuedPolicies</td><td colspan=\"3\">FinancialOverview</td></tr><tr><td>Standard</td><td>Premium</td><td>AmountIssued</td><td>ClaimsRatio</td><td>RenewalRate</td></tr><tr><td>HealthInsurance</td><td>5,000</td><td>$12.3M</td><td>85%</td><td>90%</td></tr><tr><td>AutoInsurance</td><td>3,500</td><td>$8.5M</td><td>78%</td><td>88%</td></tr><tr><td>TravelInsurance</td><td>2,200</td><td>$4.7M</td><td>82%</td><td>85%</td></tr><tr><td>HomeInsurance</td><td>4,000</td><td>$9.8M</td><td>80%</td><td>87%</td></tr><tr><td>TotalPolicies</td><td>14,700</td><td>$35.3M</td><td>81%</td><td>AverageRenewalRate</td></tr></table>"
+  },
+  {
+   "table_id": "img_194746_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    250.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_194746_t0.png",
+   "html": "<table><tr><td colspan=\"3\">FinancialRatios</td><td colspan=\"2\">LiquidityRatios</td></tr><tr><td colspan=\"2\">ProfitabilityRatios</td><td>ExpenseRatio</td><td>LossRatio</td><td colspan=\"2\">CombinedRatio</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>NetIncome</td><td>RevenueGrowth</td><td>OperatingMargin</td></tr><tr><td>12.5</td><td>1.8</td><td>0.5</td><td>15%</td><td>22%</td><td>37%</td></tr><tr><td>16.0</td><td>2.1</td><td>0.6</td><td>18%</td><td>24%</td><td>42%</td></tr><tr><td>14.8</td><td>1.9</td><td>0.4</td><td>20%</td><td>23%</td><td>43%</td></tr></table>"
+  },
+  {
+   "table_id": "img_194746_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    311.0,
+    580.0,
+    501.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_194746_t1.png",
+   "html": "<table><tr><td colspan=\"3\">InvestmentPortfolioOverview</td><td>TotalReturns</td><td>AnnualizedReturn(%)</td></tr><tr><td colspan=\"3\">AssetClassAllocation</td><td>Equities</td><td>Bonds</td><td>RealEstate</td><td>Cash&amp;Equivalents</td></tr><tr><td>Amount(INRM)</td><td>YoYChange(%)</td><td colspan=\"2\">MarketShare(%)</td><td>2022</td><td>2023</td><td>2022</td><td>2023</td></tr><tr><td>TotalPortfolioValue</td><td>50,000</td><td>52,500</td><td>5.0</td><td>6.0</td><td>Equities</td><td>20,000</td><td>25,000</td></tr><tr><td>40.0</td><td>45.0</td><td>Bonds</td><td>15,000</td><td>15,500</td><td>3.0</td><td>3.3</td><td>RealEstate</td></tr><tr><td>10,000</td><td>10,500</td><td>2.0</td><td>2.2</td><td>Cash&amp;Equivalents</td><td>5,000</td><td>5,500</td><td>1.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_194746_t2",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    608.0,
+    580.0,
+    735.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_194746_t2.png",
+   "html": "<table><tr><td>SolvencyRequirement</td><td>CapitalReserves</td><td>NetPremiums</td><td>ClaimsPaid</td></tr><tr><td>Tier1Capital</td><td>Tier2Capital</td><td>TotalCapital</td><td>RiskRatio</td></tr><tr><td>RequiredCapital</td><td>AvailableCapital</td><td>SurplusCapital</td><td>CoverageRatio</td></tr><tr><td>INR200B</td><td>INR150B</td><td>INR350B</td><td>1.25</td></tr><tr><td>INR180B</td><td>INR170B</td><td>INR10B</td><td>0.95</td></tr><tr><td>INR220B</td><td>INR190B</td><td>INR30B</td><td>1.15</td></tr></table>"
+  },
+  {
+   "table_id": "img_194828_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    154.0,
+    580.0,
+    287.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_194828_t0.png",
+   "html": "<table><tr><td>Trait</td><td>MarketShare(%)</td><td>Revenue(CHF)</td><td>GrowthRate(%)</td><td>Region</td><td>NetIncome(CHF)</td><td>CAPEX(CHF)</td><td>R&amp;DInvestment(CHF)</td><td>TotalUnitsSold</td></tr><tr><td>HerbicideTolerance</td><td>25.5</td><td>150M</td><td>5.2</td><td>Europe</td><td>30M</td><td>20M</td><td>10M</td><td>500K</td></tr><tr><td>InsectResistance</td><td>18.3</td><td>120M</td><td>3.8</td><td>Europe</td><td>25M</td><td>15M</td><td>8M</td><td>400K</td></tr><tr><td>DroughtTolerance</td><td>14.7</td><td>100M</td><td>4.0</td><td>Europe</td><td>20M</td><td>10M</td><td>5M</td><td>300K</td></tr><tr><td>Total</td><td>58.5</td><td>370M</td><td>4.5</td><td>Europe</td><td>75M</td><td>45M</td><td>23M</td><td>1.2M</td></tr></table>"
+  },
+  {
+   "table_id": "img_194828_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    387.0,
+    580.0,
+    501.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_194828_t1.png",
+   "html": "<table><tr><td>FertilizerType</td><td>ApplicationRate(kg/ha)</td><td>TotalArea(ha)</td><td>Cost(CHF)</td><td>YoYChange(%)</td></tr><tr><td>Nitrogen</td><td>150</td><td>200000</td><td>3000000</td><td>5.0</td></tr><tr><td>Phosphorus</td><td>100</td><td>150000</td><td>1500000</td><td>3.0</td></tr><tr><td>Potassium</td><td>120</td><td>180000</td><td>2160000</td><td>4.5</td></tr><tr><td>TotalFertilizer</td><td>370</td><td>530000</td><td>6660000</td><td>4.2</td></tr></table>"
+  },
+  {
+   "table_id": "img_194828_t2",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    573.0,
+    580.0,
+    707.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_194828_t2.png",
+   "html": "<table><tr><td>AquacultureType</td><td>HarvestVolume</td><td colspan=\"3\">ProductionMetrics</td></tr><tr><td>Species</td><td>Location</td><td colspan=\"3\">GrowthRate</td></tr><tr><td colspan=\"2\">TotalHarvest</td><td colspan=\"2\">AveragePrice</td><td>Revenue</td><td colspan=\"2\">CostofGoods</td><td colspan=\"2\">NetProfit</td></tr><tr><td>Salmon</td><td>2000tons</td><td>Norway</td><td>15%</td><td>CHF12/kg</td><td>CHF24M</td><td>CHF10M</td><td>CHF14M</td><td>Tuna</td></tr><tr><td>1500tons</td><td>Spain</td><td>10%</td><td>CHF15/kg</td><td>CHF22M</td><td>CHF9M</td><td>CHF13M</td><td>Trout</td><td>1200tons</td></tr></table>"
+  },
+  {
+   "table_id": "img_194942_t0",
+   "page_num": 4,
+   "bbox": [
+    10.0,
+    103.0,
+    378.0,
+    227.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_194942_t0.png",
+   "html": "<table><tr><td colspan=\"2\">PowerPurchaseAgreementMetrics</td><td>March2025</td></tr><tr><td>P/ERatio</td><td colspan=\"4\">FinancialRatios</td><td colspan=\"2\">MarketIndices</td></tr><tr><td>CurrentRatio</td><td>Debt/Equity</td><td>GrossMargin</td><td>OperatingMargin</td><td>NetProfitMargin</td><td>ROE</td><td>ROA</td></tr><tr><td>1.5</td><td>0.8</td><td>35%</td><td>18%</td><td>10%</td><td>15%</td><td>8%</td></tr><tr><td>1.8</td><td>0.6</td><td>40%</td><td>20%</td><td>12%</td><td>17%</td><td>9%</td></tr><tr><td>2.0</td><td>0.7</td><td>38%</td><td>22%</td><td>11%</td><td>16%</td><td>7%</td></tr><tr><td>1.4</td><td>0.9</td><td>36%</td><td>19%</td><td>9%</td><td>14%</td><td>6%</td></tr><tr><td>1.6</td><td>0.75</td><td>37%</td><td>21%</td><td>10.5%</td><td>18.5%</td><td>8.5%</td></tr><tr><td>1.7</td><td>0.85</td><td>39%</td><td>23%</td><td>11.5%</td><td>19.5%</td><td>7.5%</td></tr></table>"
+  },
+  {
+   "table_id": "img_194942_t1",
+   "page_num": 4,
+   "bbox": [
+    10.0,
+    266.0,
+    378.0,
+    762.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_194942_t1.png",
+   "html": "<table><tr><td colspan=\"3\">GreenHydrogenCosts</td><td>ProductionCosts(SGD)</td><td>CapEx(SGD)</td><td>OpEx(SGD)</td><td>Revenue(SGD)</td><td>NetIncome(SGD)</td><td>HydrogenOutput(kg)</td></tr><tr><td colspan=\"2\">CostBreakdown</td><td colspan=\"3\">ElectrolyzerCosts</td><td>StorageCosts</td><td colspan=\"3\">DistributionCosts</td><td>TotalCosts</td><td>Costperkg</td><td>Investment(SGD)</td><td>ROI(%)</td><td>MarketSize</td></tr><tr><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>GrowthRate(%)</td><td>MarketShare(%)</td><td>ElectrolyzerEfficiency(%)</td><td>RenewableEnergyMix(%)</td><td>GovernmentIncentives(SGD)</td><td>R&amp;DExpenses(SGD)</td><td>TotalRevenue(SGD)</td><td>ProductionVolume(kg)</td><td>SalesVolume(kg)</td></tr><tr><td>5M</td><td>4.5M</td><td>4M</td><td>3.5M</td><td>3M</td><td>10M</td><td>15M</td><td>20M</td><td>25M</td><td>30M</td><td>0.8</td><td>0.75</td><td>0.7</td><td>0.65</td></tr><tr><td>0.6</td><td>15M</td><td>12M</td><td>10M</td><td>8M</td><td>6M</td><td>5M</td><td>4M</td><td>3M</td><td>2M</td><td>1M</td><td>30%</td><td>25%</td><td>20%</td></tr><tr><td>15%</td><td>10%</td><td>12%</td><td>8%</td><td>6%</td><td>5%</td><td>7%</td><td>3M</td><td>2.5M</td><td>2M</td><td>1.5M</td><td>1M</td><td>100%</td><td>90%</td></tr><tr><td>85%</td><td>80%</td><td>75%</td><td>70%</td><td>30M</td><td>40M</td><td>50M</td><td>60M</td><td>70M</td><td>SGD5M</td><td>SGD4M</td><td>SGD3M</td><td>SGD2M</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_194961_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    221.0,
+    580.0,
+    459.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_194961_t0.png",
+   "html": "<table><tr><td>ProductCategory</td><td>BacklogAmount($M)</td><td>Aging(Days)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>Region</td><td>Segment</td><td>PriorityLevel</td></tr><tr><td>ElectricalEquipment</td><td>$150M</td><td>45</td><td>5.2</td><td>30.0</td><td>NorthAmerica</td><td>Core</td><td>High</td></tr><tr><td>IndustrialAutomation</td><td>$120M</td><td>60</td><td>3.5</td><td>25.0</td><td>NorthAmerica</td><td>Core</td><td>Medium</td></tr><tr><td>EnergyManagement</td><td>$100M</td><td>30</td><td>8.0</td><td>20.0</td><td>NorthAmerica</td><td>Emerging</td><td>High</td></tr><tr><td>BuildingAutomation</td><td>$80M</td><td>90</td><td>2.0</td><td>15.0</td><td>NorthAmerica</td><td>Emerging</td><td>Low</td></tr><tr><td>ServiceContracts</td><td>$60M</td><td>15</td><td>10.5</td><td>10.0</td><td>NorthAmerica</td><td>Core</td><td>Medium</td></tr><tr><td>TotalBacklog</td><td>$510M</td><td>45</td><td>5.0</td><td>100.0</td><td>NorthAmerica</td><td>All</td><td>N/A</td></tr></table>"
+  },
+  {
+   "table_id": "img_194961_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    561.0,
+    580.0,
+    704.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_194961_t1.png",
+   "html": "<table><tr><td>KPIs</td><td colspan=\"2\">InvestmentOverview</td><td>2024ROI</td><td colspan=\"3\">Financials</td></tr><tr><td>Metric</td><td colspan=\"2\">InitialInvestment</td><td>Savings</td><td colspan=\"3\">Profitability</td></tr><tr><td colspan=\"2\">TotalCosts</td><td colspan=\"2\">OperationalEfficiency</td><td>NetGain</td><td colspan=\"3\">Long-termImpact</td></tr><tr><td>Manufacturing</td><td>$5M</td><td>$1.2M</td><td>24%</td><td>$3.8M</td><td>High</td><td>Logistics</td><td>$4M</td></tr><tr><td>$800K</td><td>20%</td><td>$2.5M</td><td>Medium</td><td>R&amp;D</td><td>$6M</td><td>$1.5M</td><td>25%</td></tr><tr><td>$4.5M</td><td>High</td><td>Sales</td><td>$7M</td><td>$2M</td><td>28%</td><td>$5M</td><td>High</td></tr><tr><td>Total</td><td>$22M</td><td>$5.5M</td><td>25%</td><td>$15.8M</td><td>High</td><td>Overall</td><td>Positive</td></tr></table>"
+  },
+  {
+   "table_id": "img_195193_t0",
+   "page_num": 6,
+   "bbox": [
+    11.0,
+    71.0,
+    428.0,
+    227.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_195193_t0.png",
+   "html": "<table><tr><td>RehabilitationCosts</td><td colspan=\"2\">CurrentYear</td><td>TotalProvisions</td></tr><tr><td>ProjectName</td><td colspan=\"2\">FutureLiability</td><td>ChangefromLastYear</td><td colspan=\"3\">RehabilitationOverview</td></tr><tr><td>SiteA</td><td>$20M</td><td>5%</td><td>30%</td><td>$15M</td><td>10%</td><td>50%</td></tr><tr><td>SiteB</td><td>$25M</td><td>3%</td><td>35%</td><td>$18M</td><td>8%</td><td>40%</td></tr><tr><td>SiteC</td><td>$30M</td><td>2%</td><td>25%</td><td>$22M</td><td>6%</td><td>45%</td></tr><tr><td>SiteD</td><td>$15M</td><td>4%</td><td>20%</td><td>$12M</td><td>7%</td><td>35%</td></tr><tr><td>SiteE</td><td>$10M</td><td>1%</td><td>15%</td><td>$8M</td><td>5%</td><td>30%</td></tr><tr><td>TotalSites</td><td>$100M</td><td>15%</td><td>100%</td><td>$75M</td><td>6%</td><td>40%</td></tr><tr><td>ProvisionsAdjustments</td><td>$5M</td><td>2%</td><td>10%</td><td>$3M</td><td>4%</td><td>TotalAdjusted</td></tr></table>"
+  },
+  {
+   "table_id": "img_195193_t1",
+   "page_num": 6,
+   "bbox": [
+    11.0,
+    409.0,
+    428.0,
+    683.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_195193_t1.png",
+   "html": "<table><tr><td>ZijinMining</td><td colspan=\"5\">FinancialOverview</td><td colspan=\"2\">PerformanceMetrics</td><td>ReportingPeriod</td><td colspan=\"2\">OperationalCosts</td><td colspan=\"4\">RevenueBreakdown</td><td>SGDJan-2024</td></tr><tr><td>TotalRevenue</td><td>NetIncome</td><td>GrossProfit</td><td>OperatingMargin</td><td>EBITDA</td><td>CAPEX</td><td>ProductionCosts</td><td>SalesVolume</td><td>AveragePrice</td><td>SalesRevenue</td><td>CashFlow</td><td>DebtLevels</td><td>TotalAssets</td><td>ReturnonEquity</td><td>MarketShare</td><td>DividendPayout</td></tr><tr><td>$300M</td><td>$50M</td><td>$100M</td><td>16.7%</td><td>$80M</td><td>$30M</td><td>$120M</td><td>200,000tons</td><td>$1,500</td><td>$300M</td><td>$40M</td><td>8.0%</td><td>15.0%</td><td>$2.5B</td><td>12.5%</td><td>15%increase</td></tr><tr><td>$280M</td><td>$45M</td><td>$95M</td><td>16.1%</td><td>$78M</td><td>$32M</td><td>$115M</td><td>190,000tons</td><td>$1,550</td><td>$290M</td><td>$42M</td><td>7.9%</td><td>14.8%</td><td>$2.4B</td><td>12.3%</td><td>14%increase</td></tr><tr><td>$310M</td><td>$55M</td><td>$105M</td><td>17.2%</td><td>$82M</td><td>$35M</td><td>$125M</td><td>210,000tons</td><td>$1,600</td><td>$305M</td><td>$44M</td><td>8.2%</td><td>15.2%</td><td>$2.6B</td><td>13.0%</td><td>13%increase</td></tr><tr><td>$290M</td><td>$48M</td><td>$98M</td><td>16.5%</td><td>$76M</td><td>$33M</td><td>$118M</td><td>195,000tons</td><td>$1,530</td><td>$292M</td><td>$41M</td><td>8.1%</td><td>14.5%</td><td>$2.5B</td><td>12.7%</td><td>14.5%increase</td></tr><tr><td>$300M</td><td>$50M</td><td>$100M</td><td>16.7%</td><td>$80M</td><td>$30M</td><td>$120M</td><td>200,000tons</td><td>$1,500</td><td>$300M</td><td>$40M</td><td>8.0%</td><td>15.0%</td><td>$2.5B</td><td>12.5%</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_195204_t0",
+   "page_num": 7,
+   "bbox": [
+    13.0,
+    84.0,
+    510.0,
+    419.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_195204_t0.png",
+   "html": "<table><tr><td colspan=\"2\">MiningMethodComparison</td><td>Rating</td><td>Status</td><td colspan=\"3\">CategoryInsights</td><td colspan=\"2\">CostAnalysis</td></tr><tr><td>Underground</td><td>Open-Pit</td><td>OperationalRisk</td><td>RecoveryRate</td><td>CAPEX</td><td>OPEX</td><td>ProductionVolume</td><td>ProfitMargin</td><td>IRR(%)</td></tr><tr><td>High</td><td>Medium</td><td>Moderate</td><td>95%</td><td>£500M</td><td>£300M</td><td>1.2Mtons</td><td>20%</td><td>12.5%</td></tr><tr><td>Medium</td><td>High</td><td>Higher</td><td>90%</td><td>£600M</td><td>£400M</td><td>1.5Mtons</td><td>25%</td><td>15%</td></tr><tr><td>Low</td><td>Low</td><td>Lower</td><td>85%</td><td>£400M</td><td>£200M</td><td>1.0Mtons</td><td>18%</td><td>10%</td></tr><tr><td>High</td><td>High</td><td>Veryhigh</td><td>92%</td><td>£700M</td><td>£500M</td><td>1.8Mtons</td><td>22%</td><td>14%</td></tr><tr><td>Low</td><td>Medium</td><td>Moderate</td><td>87%</td><td>£300M</td><td>£150M</td><td>0.8Mtons</td><td>15%</td><td>8%</td></tr></table>"
+  },
+  {
+   "table_id": "img_195204_t1",
+   "page_num": 7,
+   "bbox": [
+    13.0,
+    554.0,
+    510.0,
+    721.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_195204_t1.png",
+   "html": "<table><tr><td>Mineral</td><td>Status</td></tr><tr><td>Production</td><td>Supply</td></tr><tr><td colspan=\"2\">CriticalMineralsOverview</td><td>UsageRate</td></tr><tr><td>Lithium</td><td colspan=\"2\">1000tons</td><td colspan=\"2\">75%demand</td></tr><tr><td>Cobalt</td><td>500tons</td><td>50%demand</td><td>Nickel</td><td>800tons</td></tr><tr><td>Lithium</td><td>Active</td><td>1000tons</td><td>1500tons</td><td>67%</td></tr><tr><td>Cobalt</td><td>Active</td><td>500tons</td><td>1000tons</td><td>50%</td></tr><tr><td>Nickel</td><td>Planned</td><td>800tons</td><td>1200tons</td><td>67%</td></tr><tr><td>RareEarth</td><td>Inactive</td><td>200tons</td><td>300tons</td><td>67%</td></tr></table>"
+  },
+  {
+   "table_id": "img_195452_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    110.0,
+    580.0,
+    384.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_195452_t0.png",
+   "html": "<table><tr><td>LoanType</td><td>TotalAmount</td><td colspan=\"2\">ResidentialLoans</td><td colspan=\"2\">CommercialLoans</td><td>TotalAccounts</td></tr><tr><td>Type</td><td>Count</td><td colspan=\"2\">Amount(CAD)</td><td>AverageLoanSize</td><td>DefaultRate</td><td>CurrentAssets</td><td>PastDue</td></tr><tr><td>Residential</td><td>10,000</td><td>1.5B</td><td>150,000</td><td>15,000</td><td>3.0%</td><td>0.5%</td><td>Commercial</td></tr><tr><td>5,000</td><td>2.0B</td><td>400,000</td><td>20,000</td><td>5.0%</td><td>1.0%</td><td>Total</td><td>15,000</td></tr><tr><td>3.5B</td><td>550,000</td><td>35,000</td><td>4.0%</td><td>0.8%</td><td>GeographicalArea</td><td>Residential(CAD)</td><td>Commercial(CAD)</td></tr><tr><td>Ontario</td><td>6,000</td><td>800M</td><td>250,000</td><td>10,000</td><td>3.2%</td><td>0.6%</td><td>Quebec</td></tr><tr><td>4,000</td><td>600M</td><td>150,000</td><td>8,000</td><td>4.5%</td><td>1.2%</td><td>BritishColumbia</td><td>3,000</td></tr><tr><td>500M</td><td>100,000</td><td>5,000</td><td>2.8%</td><td>0.3%</td><td>Alberta</td><td>2,000</td><td>400M</td></tr><tr><td>50,000</td><td>7,000</td><td>6.0%</td><td>1.5%</td><td>TotalPortfolio</td><td>15,000</td><td>3.5B</td><td>AverageDefaultRate</td></tr></table>"
+  },
+  {
+   "table_id": "img_195452_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    511.0,
+    580.0,
+    694.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_195452_t1.png",
+   "html": "<table><tr><td>FeeIncomeBreakdown</td><td>January2024</td><td>Currency</td><td colspan=\"2\">TransactionFees</td><td>OtherFees</td></tr><tr><td>Category</td><td>Amount</td><td>UnitsSold</td><td>Percentage</td><td>TotalFees</td><td>GrowthRate</td></tr><tr><td>Loans</td><td>CAD15M</td><td>1,500</td><td>30%</td><td>CAD20M</td><td>5.5%</td></tr><tr><td>Deposits</td><td>CAD10M</td><td>800</td><td>20%</td><td>CAD12M</td><td>4.0%</td></tr><tr><td>Advisory</td><td>CAD5M</td><td>300</td><td>10%</td><td>CAD6M</td><td>3.5%</td></tr><tr><td>InvestmentBanking</td><td>CAD8M</td><td>200</td><td>15%</td><td>CAD9M</td><td>4.5%</td></tr><tr><td>TotalIncome</td><td>CAD38M</td><td>3,300</td><td>75%</td><td>CAD47M</td><td>18.0%</td></tr><tr><td>Branches</td><td>150</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Headcount</td><td>2,000</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr></table>"
+  },
+  {
+   "table_id": "img_195581_t0",
+   "page_num": 9,
+   "bbox": [
+    14.0,
+    91.0,
+    548.0,
+    255.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_195581_t0.png",
+   "html": "<table><tr><td>Year</td><td>TotalRevenue</td><td colspan=\"2\">AdvertisingRevenue</td><td>UnitsSold</td><td colspan=\"2\">MarketShare</td></tr><tr><td colspan=\"3\">E-commerceMetrics</td><td>GrowthRate</td><td colspan=\"2\">TotalCustomers</td><td>NetProfit</td><td colspan=\"2\">CustomerRetention</td></tr><tr><td>2023</td><td>CHF1.2B</td><td>CHF250M</td><td>15M</td><td>25%</td><td>80%</td><td>2024</td><td>CHF1.5B</td><td>CHF300M</td></tr><tr><td>CHF60M</td><td>16.5M</td><td>26%</td><td>82%</td><td>2025</td><td>CHF1.8B</td><td>CHF350M</td><td>CHF75M</td><td>18M</td></tr><tr><td>27%</td><td>84%</td><td>2026</td><td>CHF2.1B</td><td>CHF400M</td><td>CHF90M</td><td>19.5M</td><td>29%</td><td>85%</td></tr></table>"
+  },
+  {
+   "table_id": "img_195581_t1",
+   "page_num": 9,
+   "bbox": [
+    14.0,
+    385.0,
+    548.0,
+    480.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_195581_t1.png",
+   "html": "<table><tr><td>PaymentMethod</td><td>PercentageofUsers</td></tr><tr><td colspan=\"2\">PreferredPaymentOptions</td><td>YearlyGrowthRate</td></tr><tr><td>CreditCard</td><td>45%</td><td>5.2%</td></tr><tr><td>PayPal</td><td>30%</td><td>8.1%</td></tr><tr><td>BankTransfer</td><td>15%</td><td>3.5%</td></tr></table>"
+  },
+  {
+   "table_id": "img_195581_t2",
+   "page_num": 9,
+   "bbox": [
+    14.0,
+    537.0,
+    548.0,
+    740.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_195581_t2.png",
+   "html": "<table><tr><td>Year</td><td colspan=\"2\">LiveSales</td><td colspan=\"2\">ConversionRate</td><td>AverageOrderValue</td><td>TotalOrders</td></tr><tr><td>2021</td><td>CHF50M</td><td>5.2%</td><td>CHF75</td><td>666,667</td><td>2022</td><td>CHF75M</td></tr><tr><td>6.1%</td><td>CHF85</td><td>882,353</td><td>2023</td><td>CHF100M</td><td>7.5%</td><td>CHF90</td></tr><tr><td>1,111,111</td><td>2024</td><td>CHF125M</td><td>8.2%</td><td>CHF95</td><td>1,315,789</td><td>2025</td></tr><tr><td>CHF150M</td><td>9.0%</td><td>CHF100</td><td>1,500,000</td><td>5-YearCAGR</td><td>25%</td><td>GrowthRate</td></tr></table>"
+  },
+  {
+   "table_id": "img_195615_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    102.0,
+    580.0,
+    271.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_195615_t0.png",
+   "html": "<table><tr><td>EndMarket</td><td colspan=\"2\">RevenueandRatios</td></tr><tr><td>ChipType</td><td colspan=\"5\">ConsumerElectronics</td><td>TotalRevenue</td></tr><tr><td>Smartphones</td><td>Tablets</td><td>Laptops</td><td>Wearables</td><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td></tr><tr><td>Q12025</td><td>$450M</td><td>$150M</td><td>$200M</td><td>$50M</td><td>12.5</td><td>1.8</td></tr><tr><td>Q22025</td><td>$500M</td><td>$175M</td><td>$225M</td><td>$60M</td><td>13.0</td><td>1.9</td></tr><tr><td>Q32025</td><td>$550M</td><td>$200M</td><td>$250M</td><td>$75M</td><td>13.5</td><td>2.0</td></tr><tr><td>Q42025</td><td>$600M</td><td>$225M</td><td>$275M</td><td>$90M</td><td>14.0</td><td>2.1</td></tr></table>"
+  },
+  {
+   "table_id": "img_195615_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    384.0,
+    580.0,
+    573.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_195615_t1.png",
+   "html": "<table><tr><td colspan=\"2\">EquipmentSpendingCycle</td><td>March2025</td></tr><tr><td>UnitsSold</td><td>Revenue(CAD)</td><td>GrowthRate(%)</td></tr><tr><td>1500</td><td>$75M</td><td>5.2</td></tr><tr><td>1200</td><td>$60M</td><td>3.8</td></tr><tr><td>1800</td><td>$90M</td><td>6.0</td></tr><tr><td>1600</td><td>$80M</td><td>4.5</td></tr><tr><td>1400</td><td>$70M</td><td>2.9</td></tr><tr><td>1300</td><td>$65M</td><td>3.0</td></tr><tr><td>1700</td><td>$85M</td><td>4.2</td></tr></table>"
+  }
+ ]
+}

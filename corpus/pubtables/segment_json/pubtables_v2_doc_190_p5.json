@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_190",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Grassland and Alien Plants on Power Line Corridors"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    712.2,
+    107.4
+   ],
+   "ocr": "Table 6. The models for grassland and alien species composition (expressed as Bray-Curtis distance), with only significant variables included."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    380.5
+   ],
+   "ocr": "Response variable: Grassland species composition (Bray-Curtis distance)\nPredictors df. AIC F Pr (>F)\nSlope steepness 1 179.24 2.22 0.020\nHistory: Grassland 1 179.41 2.39 0.010\nHistory: Forest 1 179.84 2.78 0.005\nSoil moisture 1 182.87 5.69 0.005\nLight abundance 1 183.62 6.42 0.005\nSoil productivity 1 185.12 7.93 0.005\nResponse variable: Alien species composition (Bray-Curtis distance)\nPredictors df. AIC F Pr (>F)\nShrub density 1 220.72 1.67 0.035\nCorridor age 1 221.08 2.00 0.010\nTime since clear-cut 1 221.68 2.55 0.005\nAmount of debris 1 221.87 2.73 0.005\nLight abundance 1 221.9 2.75 0.005\nSoil moisture 1 222.03 2.87 0.005\nSoil productivity 1 222.88 3.66 0.005",
+   "table_id": "PMC4643934_table_5"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    388.6,
+    186.2,
+    400.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0142236.t006"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    833.9,
+    724.7,
+    901.2
+   ],
+   "ocr": "Fig 3. Distance-based redundancy analysis (Bray-Curtis distance) ordination on grassland and alien species on 67 plots in electric power line corridors. Panels A and B show only the plots and panels C and D the 20 environmental features used as explanatory variables. Red arrows indicate statistically significant variables after 500 permutations. For abbreviations, see Table 1. doi:10.1371/journal.pone.0142236.g003"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142236 November 13, 2015 10 / 16"
+  }
+ }
+}

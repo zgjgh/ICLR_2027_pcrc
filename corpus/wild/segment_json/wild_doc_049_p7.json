@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_049",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    106,
+    580,
+    180
+   ],
+   "ocr": "In the assessment of hemodynamic parameters within the patient cohort, a detailed analysis of various manometric metrics was conducted to elucidate the relationships between positive and negative pressure readings. The data table encapsulates critical measurements such as the HP positive and HP negative parameters, which are essential for understanding the pressure dynamics experienced by patients in the study. Notably, the findings indicate an average HP positive reading of 35, accompanied by an HP negative measurement of 111."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    168,
+    580,
+    257
+   ],
+   "ocr": "These metrics highlight significant variations in arterial pressure, which may have implications for patient management strategies. Furthermore, the mean values for both the TP and FP, alongside their respective standard deviations, offer valuable insights into the variability of pressure readings within the population. For instance, the TP mean recorded at 4.1 (with a standard deviation of 2.68) suggests a notable range in patient responses, warranting further investigation into underlying causes. Collectively, these parameters provide a comprehensive overview of the hemodynamic status of the patients, facilitating targeted interventions and enhancing clinical outcomes."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    306.0,
+    580.0,
+    429.0
+   ],
+   "ocr": "MANOMETRIC PARAMETERS HP positive HP negative P\nPatients 35 111\nLES pressure (mmHg) 19.4 ± 9.7 19.7 ± 10.7 NS\nMotility impairment 26 (74.3%) 88 (79.3%) NS\nEsophageal wave length (sec) 3.2 3.1 NS\nEsophageal wave height 67.9 ± 28. 72.4 ± 39.3 NS",
+   "table_id": "img_054517_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    481.0,
+    580.0,
+    604.0
+   ],
+   "ocr": "Effect Size CV Method WRS Method\nFP mean(STD) TP mean(STD) FP mean(STD) TP mean(STD)\n0.1 0.95(0.92) 4.1(2.68) 0.65(0.85) 0.25(0.54)\n0.2 0.65(0.85) 42.9(13.86) 0.75(0.83) 0.1(0.3)\n0.3 0.65(0.73) 92.1(8.28) 0.9(1.09) 0.1(0.3)\n0.4 1.45(1.07) 99.3(1.82) 0.85(0.91) 0.05(0.22)",
+   "table_id": "img_054517_t1"
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    654.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "Artery\nYoung modulus (Pa) 5.00E+05\nPoisson ratio 0.5\nBlood\nDensity (kg m3) 1050\nViscosity (Pa s) 3.50E-03",
+   "table_id": "img_054517_t2"
+  }
+ }
+}

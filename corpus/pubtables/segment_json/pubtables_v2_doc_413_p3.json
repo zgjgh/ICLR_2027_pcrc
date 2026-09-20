@@ -1,0 +1,213 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_413",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    478.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Abnormality Assessment for Individual mTBI Patient"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    366.1,
+    93.9
+   ],
+   "ocr": "Table 3. Comparison of thresholds (a1, a2) based on AUC."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    639.9,
+    278.6
+   ],
+   "ocr": "Cluster size threshold (a2)\nIndividual voxel threshold (a1) 5% uncorrected 1% uncorrected 5% corrected 1% corrected\n(a1 = 5%)\nEZ-MAP 0.701 (0.002) 0.701 (0.002) 0.724 (0.000) 0.702 (0.002)\n‘‘1 vs. many’’ T test 0.702 (0.002) 0.710 (0.001) 0.738 (0.000) 0.718 (0.001)\nZ-score 0.689 (0.004) 0.692 (0.003) 0.703 (0.002) 0.696 (0.003)\n(a1 = 1%)\nEZ-MAP 0.678 (0.007) 0.668 (0.011) 0.695 (0.003) 0.702 (0.002)\n‘‘1 vs. many’’ T test 0.665 (0.012) 0.678 (0.007) 0.705 (0.002) 0.695 (0.003)\nZ-score 0.678 (0.007) 0.674 (0.008) 0.685 (0.005) 0.681 (0.006)",
+   "table_id": "PMC3608654_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    291.8,
+    385.5,
+    490.7
+   ],
+   "ocr": "Note – Discrimination between patients and controls based on a global metric, (all tested by Wilcox-Mann-Whitney test (1-tailed); AUC score and its p-value in doi:10.1371/journal.pone.0059382.t003 thresholds (a1 and a2), ROC analysis identified optimal levels of the two thresholds, where AUC was maximal. One vs. Many t-test The ‘‘one vs. many’’ t-test [4,8] utilizes the t-distribution with n- 1 (n = size of the reference group) DF. Individual voxels are classified as abnormal based on the t-score defined by . p ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ ð3Þ"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    368.4,
+    291.8,
+    700.8,
+    311.4
+   ],
+   "ocr": "abnormal white matter voxels across the whole brain) assessed by AUC score. AUC is parentheses are calculated for each pair of two thresholds."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    340.3,
+    700.8,
+    648.0
+   ],
+   "ocr": "spread, indicating deviation from the theoretical t distribution. Inferences that voxels are abnormal, based on the theoretical t distribution, may therefore be substantially biased for those voxels located at the tail regions of the histogram shown in Figure S1. Since about 60% of voxels showed smaller SD estimates than the theoretical SD, determination that voxels are abnormal based on ‘‘one vs. many’’ t-test tends to be conservative and subject to false negative inferences. Further, voxelwise bootstrap SD estimates were classified into 3 classes: (a) under-dispersion, (b) over- dispersion and (c) close to the theoretical SD value by comparing bootstrap SD estimates to the theoretical SD. Over-dispersion was frequently found in peripheral WM regions while under-dispersion was found in the deep white matter (Figure 3). Methods that apply a theoretical SD threshold uniformly across all voxels may thus produce higher false positive or false negative decisions for the over- and under- dispersion regions. Deviation from the theoret- ical variance suggests deviation from the Gaussian assumption for FA measures. For example, the distribution of FA at a voxel can be a mixture of two Gaussian distributions as in Equation (4). � �"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    179.4,
+    458.8,
+    269.8,
+    471.1
+   ],
+   "ocr": "Ti~Zi 1z1=n :"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    501.2,
+    375.8,
+    647.3
+   ],
+   "ocr": "However, the t-score strictly requires a Gaussian distribution in order for FA values at each voxel to have the assumed theoretical t distribution with n-1 DF. Although the two-group t-test is known to be robust to deviation from the Gaussian distribution, this property cannot be applied to ‘‘one vs. many’’ t-test because when a patient is compared to a group of control subjects, the central limit theorem, which provides robustness in the two-group t-test, is no longer valid. One way to validate this Gaussian assumption is to compare theoretical variance and variance estimated from the data. The SD of the t-score can be estimated from the data simply by dividing the bootstrap SD estimate of the Z-score at each voxel"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    507.2,
+    614.0,
+    630.8,
+    625.6
+   ],
+   "ocr": "Z{m Z{m"
+  },
+  "p3_b9": {
+   "type": "title",
+   "bbox": [
+    467.5,
+    621.1,
+    478.9,
+    634.1
+   ],
+   "ocr": "*"
+  },
+  "p3_b10": {
+   "type": "title",
+   "bbox": [
+    686.4,
+    621.7,
+    700.8,
+    641.3
+   ],
+   "ocr": "ð4Þ"
+  },
+  "p3_b11": {
+   "type": "title",
+   "bbox": [
+    457.1,
+    621.8,
+    642.1,
+    634.1
+   ],
+   "ocr": "Z p1 Q ( )z(1{p1) Q ,"
+  },
+  "p3_b12": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    629.6,
+    700.8,
+    894.4
+   ],
+   "ocr": "s1 s2 with the standard Gaussian density w, 0,p1,1, and si .0 (i = 1, 2). The distribution of FA values in Equation (4) corresponds to a mixture of two subpopulations, each of which has Gaussian distribution with the same mean m, but different variances. This model may be plausible in certain populations, for example, above a certain age, variance may increase or decrease significantly. Although, in the present study, effects of age on the mean FA were removed by linear regression, heterogeneous variance among age groups may remain. Under an assumption that the sample size (n) for the reference group is sufficiently large, the distribution of t- scores in Equation (3) derived with samples from a mixture Gaussian distribution is found to be a mixture of two t- distributions. Accordingly, classification of a voxel as abnormal based on the theoretical t-distribution is not valid; the coverage rate bounds (- tn-1,a/2, tn-1,a/2) from the theoretical t distribution cannot achieve the desired coverage rate [(1-a)6100%] in the presence of a mixed Gaussian distribution as in Equation (4). Details of this derivation are provided in Text S2."
+  },
+  "p3_b13": {
+   "type": "title",
+   "bbox": [
+    97.8,
+    639.2,
+    146.3,
+    681.5
+   ],
+   "ocr": "p ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ"
+  },
+  "p3_b14": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    649.0,
+    375.7,
+    660.8
+   ],
+   "ocr": "by 1z1=n . A comparison of the theoretical SD"
+  },
+  "p3_b15": {
+   "type": "title",
+   "bbox": [
+    87.5,
+    654.9,
+    168.1,
+    697.2
+   ],
+   "ocr": "p ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ"
+  },
+  "p3_b16": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    664.6,
+    375.8,
+    756.6
+   ],
+   "ocr": "( = (n{1)=(n{3) ) and bootstrap SD estimates of t-scores is demonstrated in Figure S1. The distribution of the bootstrap SD estimates of t-scores is approximately centered (Median = 1.05; Mean = 1.07) on the theoretical value 1.06 with n = 20, but widely Table 4. Sensitivity and specificity from the ROC analysis."
+  },
+  "p3_b17": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    785.6,
+    375.7,
+    926.1
+   ],
+   "ocr": "‘‘1-vs.-many’’ EZ-MAP T test Z-score FWER- control Sensitivity 0.706 0.647 0.647 NA Specificity 0.714 0.762 0.762 NA Note- EZ-MAP, ‘‘one vs. many’’ T, and Z-scores were thresholded at a1 = 0.05 (2- tails); a2 = 0.05 (corrected for multiple comparisons). In the ROC analysis, the optimal cut-off number (all abnormal voxels for discrimination of patients and controls) is the point closest to the top-left corner of the ROC curve. Sensitivity and specificity are not applicable because the FWER-control method was not significantly powered in the ROC analysis. doi:10.1371/journal.pone.0059382.t004"
+  },
+  "p3_b18": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p3_b19": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "8 March 2013 | Volume 8 | Issue 3 | e59382"
+  }
+ }
+}

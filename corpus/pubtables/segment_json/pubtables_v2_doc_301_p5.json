@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_301",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    49.8,
+    359.7,
+    65.5
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2008, 8:53"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    49.8,
+    698.1,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/8/53"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.7,
+    726.5
+   ],
+   "ocr": "where there is a relatively limited number of cases, and the curve is subject to excess sampling variation. Nonetheless, the rationale for decision curve analysis is to evaluate the clinical effects of a test, model or marker. Studies aiming to affect clinical practice tend to be large, and should be well populated across the threshold probabilities of inter- est. As such, we should expect the important parts of the decision curve to be monotone. In time-to-event analyses where the failure event is some- thing other than death, it is often important to consider the effects of competing risks. A competing risk is any event that a subject could experience, that would alter the likelihood of having the event of interest. The most com- mon competing risk is death before the event of interest, such as recurrence of cancer, since a subject cannot expe- rience the event of interest after they die. In the presence of competing risks, the cumulative incidence function, which takes into account the probability of having the competing risk event, can be used to estimate the proba- bility of having the event of interest [13]. To calculate the net benefit in the presence of competing risks, we denote the cumulative incidence of the event of interest by time t as I(t). The number of true positives is given by (I(t) | x = 1) × P(x = 1) × n and the false positives as [1 - (I(t) | x = 1)] × P(x = 1) × n. That is, we use the same formula as in the absence of competing risks, but using the estimate from the cumulative incidence function in place of the Kaplan-Meier estimate. It is known that the probability of the event calculated using Kaplan-Meier methods is gener- ally higher than when taking into account competing risks [14]. We therefore expect that, in general, net benefit will be lower when competing risks are taken into account. Simulation study without competing risks We conducted a simulation study with 2000 replications to check the method for computing the net benefit for sur- vival time data in the absence of competing risks. We sim- ulated data with 5000 subjects and created a binary predictor x (1 if positive and 0 if negative) and generated Table 5: Simulation results for a survival-time endpoint."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    699.8
+   ],
+   "ocr": "an event time Ti for each subject i such that Ti was related to x. We then generated a uniform censoring time Ci for each subject i and defined the observed time for subject i as the minimum of Ti and Ci, denoted by Yi. We deter- mined the coverage of the method described above, for a given time t and for a threshold probabilities of 15, 30, and 60%. Coverage was defined as the proportion of 95% confidence intervals, calculated using bootstrap methods described above, that contained the true net benefit. To obtain the true net benefit, we simulated data in the same way but with an arbitrarily large data set and Yi equal to Ti. Due to the absence of censoring, the true positives are sub- jects with x = 1 and Ti <t and the false positives are subjects with x = 1 and Ti > t. We conducted simulations for three time-points t and with three relationships between the predictor and event: the predictor equally sensitive and specific, the predictor more specific, and the predictor more sensitive. Approximately 10%, 20%, and 30% of patients were censored, respectively, before time-point 1, 2, and 3. Results of simulation study without competing risk Results of the simulation study where the predictor was equally sensitive and specific are given in Table 5. For all scenarios, there was little bias and coverage was excellent. For example, for a threshold probability of 15%, a predic- tor being equally sensitivity and specific to the event, and evaluated at timepoint 1, the true net benefit was 0.0185 and the mean net benefit over 2000 replications was 0.0186. Similar results were obtained for the simulations where the predictor was more specific and where the pre- dictor was more sensitive (data not shown). A decision curve from a survival time data set with 30% censoring is shown in figure 5. To create this figure, we used an uncensored survival time data set, created a binary outcome for survival at t, and calculated net benefit for binary data. We then applied censoring as described above, and calculated a second decision curve calculating net benefit for censored data. The two curves are essen-"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    98.0,
+    737.5,
+    661.9,
+    911.5
+   ],
+   "ocr": "Threshold Timepoint True Net benefit Mean estimate Coverage (%)\n15% 1 0.0185 0.0186 95.0\n2 0.1171 0.1169 94.7\n3 0.2177 0.2172 95.0\n30% 1 -0.0526 -0.0524 95.3\n2 0.0672 0.0670 94.5\n3 0.1894 0.1888 95.6\n60% 1 -0.3546 -0.3543 94.5\n2 -0.1450 -0.1453 94.5\n3 0.0688 0.0678 95.3",
+   "table_id": "PMC2611975_table_4"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 12 of 17 (page number not for citation purposes)"
+  }
+ }
+}

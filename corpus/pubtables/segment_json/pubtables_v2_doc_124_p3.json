@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_124",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Mei et al. BMC Genetics 2010, 11:100 http://www.biomedcentral.com/1471-2156/11/100"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 12"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    816.9
+   ],
+   "ocr": "study. The characteristics of the study participants are summarized in Table 5 for both males and females, as follows: age (AGE, in years), weight circumference (WEIGHT, in kg), waist circumference (WAIST, in cm), body mass index (BMI, in kg/m2), hip circumference (HIP, in cm), plasma insulin level (INSULIN, in μU/mL) and plasma insulin/glucose ratio (I/G). The pairwise correlation coefficients (r) among adjusted traits are pre- sented in Table 6. The correlations clustered into two groups, with the first group comprised of WEIGHT, BMI, WAIST, and HIP (r ≥ 0.89) and the second group comprised of INSULIN and I/G (r = 0.97). The results of the PCBMR pleiotropic association stu- dies based on the GEN model are presented in Figures 1 and 2. Markers with significant p-values (≤1e-5) are sum- marized in Tables 7 and 8. For these markers, analyses based on recessive, dominant and additive models were conducted, and the best genetic model and its p-value were documented. For the first trait group of WEIGHT, BMI, WAIST, and HIP, PCBMR generated a single canonical variable that explained 94.1% of the variance. With Bonferroni adjustment, PCBMR using the GEN model found four SNPs with significant pleiotropic association (p <1e-5) (Figure 1). Among these, SNP rs11721044 at 174.6 Mb and rs11926347 at 185.2 Mb were located in genes NLGN1 (OMIM 600568) and ABCC5 (OMIM 60521), respectively (Table 7). For the second trait group of INSULIN and I/G, PCBMR also generated a single canonical variable, and this variable explained 98.6% of the variance. Using the GEN model, thirty-four SNPs passed Bonferroni signifi- cance level (Figure 2), of which 17 were found within 11 genes. SNP rs11926347, in an intron of ABCC5 (OMIM 60521), and SNP rs6795506, near the 5’ end of AHSG (OMIM 138680), had extremely small p-values (Table 8). Among the other nine genes, ADIPOQ (OMIM 605441, 612556) has been widely reported to be asso- ciated with obesity and diabetes [21-24]; FNDC3B (OMIM 611909) is involved in positive regulation of adipogenesis [25]; and DGKG (OMIM 601854) and AHSG (OMIM 138680) have been reported to be asso- ciated with obesity-related metabolic traits [26,27]. The remaining genes have no reported relation to obesity- related metabolic traits based on our literature review. SNP rs11926347 in ABCC5 showed significant pleio- tropic association in both groups and the p-value was"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    312.5,
+    137.8
+   ],
+   "ocr": "Table 4 Type 1 error and power of data sets of simulation 4"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    360.1,
+    407.9
+   ],
+   "ocr": "Traits PCBMR Single-Trait Association\nGEN ADD DOM REC GEN ADD DOM REC\n2 79.1 87.4 82.5 40.8 79.1 86.8 82.2 40.2\n(70.1) (79.0) (75.1) (30.2)\n3 80.6 87.2 83.1 40.2 80.1 86.8 82.5 40.0\n(67.0) (75.7) (70.1) (25.7)\n4 79.4 87.6 83.3 41.2 79.6 88.3 83.3 42.4\n(62.2) (72.9) (65.6) (24.6)\n5 78.6 87.8 83.2 40.9 78.9 87.3 83.3 41.2\n(59.1) (69.6) (63.8) (18.0)\n6 78.4 86.3 83 40.1 78.6 86.9 82.8 40.8\n(57.2) (68.4) (60.7) (17.9)\n7 79.2 86.2 82.4 40.1 78.5 86.4 82.7 40.7\n(54.6) (65.7) (58.5) (14.6)\n8 80.3 85.5 82.4 40.7 80.0 86.2 82.1 40.8\n(51.6) (63.3) (56.0) (13.7)\n9 77.9 85.6 83.1 42.5 78.1 86.3 82.3 42.9\n(52.3) (61.5) (53.9) (15.3)\n10 78.7 87.3 82.6 42.4 78.8 87.7 83.0 42.4\n(47.4) (60.4) (51.4) (14.7)",
+   "table_id": "PMC2991276_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    415.0,
+    366.2,
+    857.3
+   ],
+   "ocr": "(See Table 1) coefficients between any pair of simulated traits were all ≥0.97 and the expected percentage of correlation contrib- uted by the tested QTL was 8.7%. For all numbers of traits, PCBMR generated one canonical variable for the association test. Results are presented in Table 4. Power depended on genetic model assumptions, with power decreasing in order among ADD, DOM, GEN, and REC. For different numbers of traits and different genetic model assumptions, the power of PCBMR was consis- tently close to that of SATN, with no significant differ- ence detected by the binomial exact test. Power was approximately equal for different numbers of traits as well. The power of SATB decreased dramatically as the number of traits increased. Compared with SATB, PCBMR had significantly improved power, especially with larger numbers of traits. Pleiotropic Association Studies of Traits of Abdominal Obesity-Metabolic Syndrome A total of 1,196 subjects with 5,529 SNPs in the candi- date region of chromosome 3 (at 182-227cM or 173.4- 198.8 Mb) made up the study population. Quality control measures included the removal of SNPs with minor allele frequencies of ≤0.01 and Hardy-Weinberg equilibrium p-values of ≤1e-5, leaving 4,769 SNPs in the Table 5 Characteristics of study participants"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    79.6,
+    860.6,
+    670.4,
+    905.2
+   ],
+   "ocr": "N AGE (yrs) WEIGHT (kg) WAIST (cm) BMI (kg/m2) HIP (cm) INSULIN (μU/mL) I/G\nMale 517 36.2 (4.4) 91.8 (20.6) 98.4 (15.9) 29.1 (6.2) 107.6 (11.6) 12.8 (9.6) 0.14 (0.09)\nFemale 679 35.7 (4.6) 78.8 (22.2) 89.3 (17.7) 29.5 (8.0) 110.2 (15.7) 13.2 (14.7) 0.15 (0.16)",
+   "table_id": "PMC2991276_table_4"
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    169.6,
+    922.2
+   ],
+   "ocr": "Mean (standard deviation)"
+  }
+ }
+}

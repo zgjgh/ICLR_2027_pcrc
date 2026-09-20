@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_121",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    48,
+    547,
+    146
+   ],
+   "ocr": "In the context of Emerson Electric's operations within the Asia-Pacific region, the Backlog Aging Analysis provides critical insights into the status of outstanding orders across various countries. This analysis is essential for understanding how effectively the company is managing its order fulfillment process and identifying potential areas for improvement. The data reveals that Japan's TotalUnits stands at 20, indicating a significant backlog that requires attention to ensure timely deliveries and customer satisfaction. Additionally, the metrics related to order age are of paramount importance; for instance, the category of 60to90Days highlights that Japan has a notable backlog in this timeframe with a total of 100 units pending, suggesting a need for strategic prioritization in processing these orders."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    135,
+    547,
+    234
+   ],
+   "ocr": "Furthermore, the analysis illustrates the current state of pending orders in countries such as Australia, where the TotalUnits amount to 5. This relatively smaller backlog may provide a more manageable situation for the teams involved in order fulfillment, allowing for focused resource allocation. On the other hand, the aging data from China raises concerns, particularly as the PercentageDelayed has reached HKD8M. This figure underscores the urgency for a comprehensive review of the processes in place, as delayed orders can significantly impact revenue and overall customer relationships. The report also delineates key metrics such as TotalRevenue and AverageDays, which help contextualize the financial implications of these backlogs."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    14.0,
+    250.0,
+    547.0,
+    581.0
+   ],
+   "ocr": "BacklogAgingAnalysis UnitsSold OrderStatus Region TotalBacklog DelayedOrders\nLessthan30Days 30to60Days 60to90Days Over90Days TotalUnits TotalRevenue PercentageDelayed AverageDays TotalOrders CompletedOrders PendingOrders CancelledOrders\nAPAC 1500 300 200 50 HKD75M HKD15M 20% 45 400 100 30\nChina 800 150 100 30 HKD40M HKD8M 18% 40 200 40 20\nJapan 500 100 70 20 HKD25M HKD5M 25% 50 100 20 10\nAustralia 200 50 30 5 HKD10M HKD2M 15% 30 60 10 5",
+   "table_id": "img_133202_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    596,
+    547,
+    694
+   ],
+   "ocr": "As Emerson Electric navigates the complexities of the industrial manufacturing sector in the Asia-Pacific market, understanding these metrics becomes vital for strategic decision-making. The TotalOrders and CompletedOrders columns provide a snapshot of operational efficiency, indicating how many orders have been fulfilled against the total volume of orders received. The presence of PendingOrders and CancelledOrders also highlights the dynamics of order management, revealing potential areas for operational improvement. As the company continues to monitor these trends, attention to the specific aging categories is crucial. For example, orders in the Over90Days category can indicate systemic issues that may require immediate action to mitigate risks associated with prolonged backlogs."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    683,
+    547,
+    781
+   ],
+   "ocr": "Identifying the root causes of delays and implementing corrective measures will not only improve operational performance but also enhance customer satisfaction and loyalty across the region. In summary, the Backlog Aging Analysis serves as a vital tool for Emerson Electric, enabling the company to assess its performance across various markets within the Asia-Pacific. By closely examining the metrics outlined, such as Japan's TotalUnits of 20 and the concerning PercentageDelayed in China at HKD8M, the company can strategically align its resources to address backlog challenges effectively. The insights garnered from this analysis will be instrumental in driving operational improvements and ensuring the company's competitive edge in the dynamic industrial manufacturing landscape."
+  }
+ }
+}

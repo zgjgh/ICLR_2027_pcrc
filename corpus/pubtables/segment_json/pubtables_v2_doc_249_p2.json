@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_249",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    580.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Hybrid flower pollination algorithm"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.2,
+    231.3,
+    107.6
+   ],
+   "ocr": "Table 2. Averages test suite for CA(N; 2, 46)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    58.1,
+    116.3,
+    710.2,
+    268.5
+   ],
+   "ocr": "Pollen Size Iteration\n5 10 20 30 40 50 100 200 300 500 700\n10 35.65 32.15 32.95 30.30 29.95 29.15 28.55 27.65 26.40 25.65 25.25\n20 32.20 29.65 28.80 28.45 27.55 27.40 26.95 25.10 24.95 24.80 24.50\n30 30.95 28.65 28.00 26.80 26.75 25.50 25.35 24.65 24.50 24.20 24.00\n50 29.05 26.65 27.20 25.95 25.95 25.15 25.55 24.10 24.00 24.00 24.00\n100 27.15 26.10 25.65 25.25 24.65 24.70 24.55 23.85 24.10 23.90 23.50\n200 26.25 25.15 24.80 24.65 24.50 24.35 24.00 23.40 23.50 23.90 23.75\n300 25.90 24.90 24.55 24.05 24.45 24.15 23.95 23.80 23.70 23.45 24.00\n500 24.80 24.50 24.15 24.05 23.70 23.80 24.10 23.35 23.55 23.80 23.65",
+   "table_id": "PMC5931463_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    276.7,
+    236.3,
+    287.3
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    310.4,
+    727.2,
+    723.1
+   ],
+   "ocr": "5.2 Hybrid FPA-based strategies for t-way test suite generation The original FPA-based method for test suite generation has two core components: global pol- lination via le´vy flight and local pollination. The FPA performance may be enhanced by adding one or more components from other efficient algorithms to the FPA. Here, we present three components that will be injected into the FPA. These three components have been carefully selected to improve the FPA’s intensification and diversification. • Elitism Feature: Elitism is a simple way of improving the efficiency of randomization, that is, a good candidate solution is retained (and the poor ones are randomly replaced from the population) to be carried over to the next iteration. • Mutation operator: Mutation maintains the diversity solution of the population from one generation to the next one (i.e., as one or more solution values are changed). In our work, we adopt the bit string mutation. • Local Search: This is a simple and highly effective technique for finding a local optimum solution. Local search only moves from current states to neighboring states if they improve the current solution. The hybridization of FPA with other components can occur in every component of the standard FPA. In this paper, we propose four variants of FPA: original FPA, hybrid elitism FPA (eFPA), hybrid mutation FPA (mFPA), and hybrid local search FPA (lFPA). The hybrid eFPA variant uses the elitism technique to retain the elite population and replace the poor pop- ulation by a new pollen randomly. The hybrid mFPA variant uses the mutation operator to include diversity in the population of pollens. The hybrid lFPA uses intensive local search to Table 3. Averages test suite for CA (N; 2, 105)."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    58.1,
+    731.9,
+    710.2,
+    884.0
+   ],
+   "ocr": "Pollen Size Iteration\n5 10 20 30 40 50 100 200 300 500 700\n10 146.4 138.7 134.9 133.6 131.3 128.2 127.4 127.2 126.2 126.3 125.3\n20 138.3 132.6 131.2 128.9 128.4 126.0 125.5 124.1 124.3 124.6 124.6\n30 135.8 130.7 128.4 127.9 125.9 125.0 124.3 124.2 124.2 123.4 123.9\n50 133.0 129.1 126.7 125.5 125.5 123.5 123.7 122.8 122.8 123.0 123.6\n100 129.3 126.5 125.0 123.9 123.7 123.3 123.4 123.2 123.4 123.3 123.5\n200 126.8 125.0 123.8 123.7 123.8 122.1 122.8 123.3 122.6 122.6 122.6\n300 125.4 124.5 123.8 123.7 123.6 123.2 122.8 122.7 123.3 123.6 122.5\n500 124.4 124.1 123.3 123.1 123.0 123.2 123.0 123.1 122.6 122.8 122.8",
+   "table_id": "PMC5931463_table_2"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    892.2,
+    236.3,
+    902.8
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t003"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195187 May 2, 2018 11 / 24"
+  }
+ }
+}

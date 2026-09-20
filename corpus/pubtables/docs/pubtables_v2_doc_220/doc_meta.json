@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_220",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    753,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5070165_table_1",
+   "page_num": 1,
+   "bbox": [
+    71.6,
+    128.1,
+    367.0,
+    368.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5070165_table_1.png",
+   "html": "<table><tr><td>Type</td><td>Total</td><td>Homozygous</td><td>Heterozygous</td></tr><tr><td colspan=\"4\">Fayoumi vs. RJFb</td></tr><tr><td>SNV</td><td>4,146,394</td><td>3,638,803</td><td>507,591</td></tr><tr><td>INSc</td><td>180,752</td><td>158,256</td><td>22,496</td></tr><tr><td>DELd</td><td>135,321</td><td>125,514</td><td>9,807</td></tr><tr><td>TOTAL</td><td>4,462,467</td><td>3,922,573</td><td>539,894</td></tr><tr><td colspan=\"4\">Leghorn vs. RJF</td></tr><tr><td>SNV</td><td>4,271,399</td><td>4,010,609</td><td>260,790</td></tr><tr><td>INS</td><td>189,494</td><td>177,474</td><td>12,020</td></tr><tr><td>DEL</td><td>144,839</td><td>142,181</td><td>2,658</td></tr><tr><td>TOTAL</td><td>4,605,732</td><td>4,330,264</td><td>275,468</td></tr><tr><td colspan=\"4\">Fayoumi vs. Leghorn: referencea</td></tr><tr><td>SNV</td><td>3,792,327</td><td>3,094,177</td><td>698,150</td></tr><tr><td>TOTAL</td><td>3,792,327</td><td>3,094,177</td><td>698,150</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_3",
+   "page_num": 1,
+   "bbox": [
+    385.0,
+    128.1,
+    680.5,
+    244.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5070165_table_3.png",
+   "html": "<table><tr><td></td><td>Mutation</td><td>Count</td><td>Percent</td></tr><tr><td rowspan=\"3\">Fayoumi</td><td>Missense</td><td>14,389</td><td>27.6 %</td></tr><tr><td>Nonsense</td><td>106</td><td>0.2 %</td></tr><tr><td>Silent</td><td>37,512</td><td>72.1 %</td></tr><tr><td rowspan=\"3\">Leghorn</td><td>Missense</td><td>16,982</td><td>28.7 %</td></tr><tr><td>Nonsense</td><td>118</td><td>0.2 %</td></tr><tr><td>Silent</td><td>41,873</td><td>71.0 %</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_2",
+   "page_num": 1,
+   "bbox": [
+    71.6,
+    500.2,
+    680.4,
+    899.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5070165_table_2.png",
+   "html": "<table><tr><td>Effect Type</td><td>Fayoumi</td><td>Leghorn</td><td>Chi-Square Statistic</td></tr><tr><td>Codon_Change_Plus_Codon_Deletion</td><td>16</td><td>24</td><td></td></tr><tr><td>Codon_Change_Plus_Codon_Insertion</td><td>23</td><td>34</td><td></td></tr><tr><td>Codon_Deletion</td><td>40</td><td>53</td><td></td></tr><tr><td>Codon_Insertion</td><td>46</td><td>63</td><td></td></tr><tr><td>Downstream</td><td>401,163</td><td>440,064</td><td>P &lt; 0.0001</td></tr><tr><td>Exon</td><td>418</td><td>473</td><td></td></tr><tr><td>Frame_Shift</td><td>384</td><td>504</td><td>P &lt; 0.0001</td></tr><tr><td>Intergenic</td><td>2,344,623</td><td>2,430,279</td><td>P &lt; 0.0001</td></tr><tr><td>Intron</td><td>2,205,047</td><td>2,264,238</td><td>P &lt; 0.0001</td></tr><tr><td>Non_Synonymous_Coding</td><td>14,335</td><td>16,924</td><td>P &lt; 0.0001</td></tr><tr><td>Non_Synonymous_Start</td><td>5</td><td>2</td><td></td></tr><tr><td>Splice_Site_Acceptor</td><td>229</td><td>236</td><td></td></tr><tr><td>Splice_Site_Donor</td><td>196</td><td>251</td><td>P &lt; 0.01</td></tr><tr><td>Start_Gained</td><td>1,015</td><td>1,185</td><td>P &lt; 0.01</td></tr><tr><td>Start_Lost</td><td>35</td><td>41</td><td></td></tr><tr><td>Stop_Gained</td><td>107</td><td>121</td><td></td></tr><tr><td>Stop_Lost</td><td>16</td><td>18</td><td></td></tr><tr><td>Synonymous_Coding</td><td>37,502</td><td>41,860</td><td>P &lt; 0.0001</td></tr><tr><td>Synonymous_Stop</td><td>9</td><td>12</td><td></td></tr><tr><td>Upstream</td><td>397,941</td><td>438,052</td><td>P &lt; 0.0001</td></tr><tr><td>Utr_3_Prime</td><td>48,430</td><td>52,433</td><td>P &lt; 0.0001</td></tr><tr><td>Utr_5_Prime</td><td>6,445</td><td>7,802</td><td>P &lt; 0.0001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_4",
+   "page_num": 2,
+   "bbox": [
+    71.6,
+    128.1,
+    680.5,
+    314.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5070165_table_4.png",
+   "html": "<table><tr><td>Class</td><td>Fayoumi SNVs</td><td>Leghorn SNVs</td><td>Common SNVs</td><td>Total</td><td>Classification description</td></tr><tr><td>A</td><td>5</td><td>0</td><td>0</td><td>5</td><td>Segregating in population only</td></tr><tr><td>B</td><td>14</td><td>0</td><td>0</td><td>14</td><td>Fayoumi and Leghorn different (one segregating, one not segregating), and segregating in controls</td></tr><tr><td>C</td><td>2</td><td>0</td><td>0</td><td>2</td><td>Fayoumi, Leghorn, and controls mix of homozygous for reference or alternate allele, but no heterozygotes</td></tr><tr><td>D</td><td>4</td><td>10</td><td>0</td><td>14</td><td>Failed</td></tr><tr><td>E</td><td>11</td><td>24</td><td>2</td><td>37</td><td>Evidence of duplication</td></tr><tr><td>F</td><td>1</td><td>2</td><td>0</td><td>3</td><td>Only Homozygous (Fayoumi and Leghorn homozygous for different alleles, segregating in controls)</td></tr><tr><td rowspan=\"2\">Total</td><td>37</td><td>36</td><td>2</td><td>75</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Pass rate = 81.3 % (75&#8211;14)/75</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_5",
+   "page_num": 3,
+   "bbox": [
+    71.6,
+    140.4,
+    367.1,
+    454.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5070165_table_5.png",
+   "html": "<table><tr><td>Fayoumi GO Term</td><td>Count</td><td>P-valuea</td></tr><tr><td>FN3</td><td>22</td><td>1.10E-03</td></tr><tr><td>Ribonucleotide binding</td><td>154</td><td>1.70E-03</td></tr><tr><td>Purine ribonucleotide binding</td><td>154</td><td>1.70E-03</td></tr><tr><td>Fibronectin, type III</td><td>22</td><td>8.10E-03</td></tr><tr><td>PTPc</td><td>8</td><td>1.70E-02</td></tr><tr><td>Nucleotide binding</td><td>177</td><td>2.10E-02</td></tr><tr><td>Protein kinase activity</td><td>61</td><td>2.60E-02</td></tr><tr><td>Leghorn GO Term</td><td>Count</td><td>P-valuea</td></tr><tr><td>ECM-receptor interaction</td><td>25</td><td>9.60E-05</td></tr><tr><td>Extracellular matrix</td><td>41</td><td>1.90E-04</td></tr><tr><td>Metal ion binding</td><td>270</td><td>2.30E-03</td></tr><tr><td>Proteinaceous extracellular matrix</td><td>37</td><td>1.30E-03</td></tr><tr><td>Extracellular region</td><td>94</td><td>2.30E-03</td></tr><tr><td>Cell division and chromosome partitioning</td><td>26</td><td>2.60E-02</td></tr><tr><td>Calcium ion binding</td><td>77</td><td>3.90E-02</td></tr><tr><td>Aminophospholipid transporter activity</td><td>7</td><td>4.30E-02</td></tr><tr><td>Phospholipid-translocating atpase activity</td><td>7</td><td>4.30E-02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_6",
+   "page_num": 3,
+   "bbox": [
+    385.0,
+    142.0,
+    680.5,
+    594.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5070165_table_6.png",
+   "html": "<table><tr><td>GO Terms</td><td>Count</td><td>P-value</td></tr><tr><td>Nucleoside binding</td><td>630</td><td>6.90E-13</td></tr><tr><td>Purine nucleoside binding</td><td>626</td><td>4.30E-13</td></tr><tr><td>Adenyl nucleotide binding</td><td>622</td><td>3.50E-13</td></tr><tr><td>Nucleotide binding</td><td>869</td><td>9.10E-13</td></tr><tr><td>Purine nucleotide binding</td><td>745</td><td>2.90E-12</td></tr><tr><td>Adenyl ribonucleotide binding</td><td>585</td><td>1.20E-11</td></tr><tr><td>ATP binding</td><td>581</td><td>1.70E-11</td></tr><tr><td>Ribonucleotide binding</td><td>708</td><td>5.20E-11</td></tr><tr><td>Purine ribonucleotide binding</td><td>708</td><td>5.20E-11</td></tr><tr><td>Protein kinase activity</td><td>263</td><td>1.60E-07</td></tr><tr><td>Protein amino acid phosphorylation</td><td>273</td><td>7.30E-05</td></tr><tr><td>Atp-binding</td><td>243</td><td>1.50E-05</td></tr><tr><td>Nucleoside-triphosphatase regulator activity</td><td>129</td><td>1.80E-05</td></tr><tr><td>Gtpase regulator activity</td><td>125</td><td>3.10E-05</td></tr><tr><td>Protein serine/threonine kinase activity</td><td>168</td><td>3.70E-05</td></tr><tr><td>Extracellular ligand-gated ion channel activity</td><td>49</td><td>4.00E-05</td></tr><tr><td>Nucleotide-binding</td><td>300</td><td>1.00E-04</td></tr><tr><td>Phosphorus metabolic process</td><td>361</td><td>9.20E-04</td></tr><tr><td>Phosphate metabolic process</td><td>361</td><td>9.20E-04</td></tr><tr><td>Enzyme activator activity</td><td>78</td><td>2.90E-04</td></tr><tr><td>Nucleotide phosphate-binding region: ATP</td><td>103</td><td>2.50E-02</td></tr><tr><td>Gtpase activator activity</td><td>63</td><td>1.10E-03</td></tr><tr><td>Identical protein binding</td><td>112</td><td>1.50E-03</td></tr><tr><td>Ligand-gated ion channel activity</td><td>64</td><td>1.50E-03</td></tr><tr><td>Ligand-gated channel activity</td><td>64</td><td>1.50E-03</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_7",
+   "page_num": 4,
+   "bbox": [
+    385.0,
+    503.4,
+    680.5,
+    867.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5070165_table_7.png",
+   "html": "<table><tr><td>Description</td><td>Frequency</td><td>Uniqueness</td></tr><tr><td>Immune system process</td><td>0.86 %</td><td>0.99</td></tr><tr><td>Cellular protein modification process</td><td>2.99 %</td><td>0.83</td></tr><tr><td>Behavior</td><td>0.09 %</td><td>0.92</td></tr><tr><td>Metabolic process</td><td>78.07 %</td><td>1</td></tr><tr><td>Cellular process</td><td>70.74 %</td><td>1</td></tr><tr><td>Cellular component organization</td><td>4.20 %</td><td>0.95</td></tr><tr><td>Sexual reproduction</td><td>0.08 %</td><td>0.99</td></tr><tr><td>Biological adhesion</td><td>2.09 %</td><td>0.99</td></tr><tr><td>Signaling</td><td>5.13 %</td><td>0.99</td></tr><tr><td>Multicellular organismal process</td><td>1.33 %</td><td>0.99</td></tr><tr><td>Developmental process</td><td>1.67 %</td><td>0.99</td></tr><tr><td>Growth</td><td>0.14 %</td><td>0.99</td></tr><tr><td>Locomotion</td><td>3.09 %</td><td>0.99</td></tr><tr><td>Single-organism process</td><td>25.74 %</td><td>1</td></tr><tr><td>Single-multicellular organism process</td><td>1.30 %</td><td>0.8</td></tr><tr><td>Positive regulation of biological process</td><td>0.84 %</td><td>0.76</td></tr><tr><td>Anatomical structure development</td><td>1.38 %</td><td>0.89</td></tr><tr><td>Response to stimulus</td><td>10.51 %</td><td>0.99</td></tr><tr><td>Localization</td><td>17.22 %</td><td>1</td></tr><tr><td>Multi-organism process</td><td>4.65 %</td><td>0.99</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5070165_table_8",
+   "page_num": 5,
+   "bbox": [
+    71.6,
+    562.5,
+    367.1,
+    910.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5070165_table_8.png",
+   "html": "<table><tr><td>Type (Fayoumi vs. Leghorn: referencea)</td><td>Count</td></tr><tr><td>DOWNSTREAM</td><td>161,833</td></tr><tr><td>EXON</td><td>300</td></tr><tr><td>INTERGENIC</td><td>872,171</td></tr><tr><td>INTRON</td><td>812,038</td></tr><tr><td>NONE</td><td>2,121,836</td></tr><tr><td>NON_SYNONYMOUS_CODING</td><td>26,500</td></tr><tr><td>NON_SYNONYMOUS_START</td><td>16</td></tr><tr><td>SPLICE_SITE_ACCEPTOR</td><td>602</td></tr><tr><td>SPLICE_SITE_DONOR</td><td>634</td></tr><tr><td>START_GAINED</td><td>507</td></tr><tr><td>START_LOST</td><td>31</td></tr><tr><td>STOP_GAINED</td><td>1,511</td></tr><tr><td>STOP_LOST</td><td>53</td></tr><tr><td>SYNONYMOUS_CODING</td><td>21,093</td></tr><tr><td>SYNONYMOUS_START</td><td>21</td></tr><tr><td>SYNONYMOUS_STOP</td><td>27</td></tr><tr><td>UPSTREAM</td><td>158,646</td></tr><tr><td>UTR_3_PRIME</td><td>23,377</td></tr><tr><td>UTR_5_PRIME</td><td>3,428</td></tr></table>"
+  }
+ ]
+}

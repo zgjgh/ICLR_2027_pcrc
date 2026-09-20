@@ -1,0 +1,378 @@
+{
+ "doc_id": "wild_doc_151",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_169743_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    126.0,
+    579.0,
+    421.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_169743_t0.png",
+   "html": "<table><tr><td>FuelType</td><td>CostperTon</td><td>VolumeUsed</td><td>TotalCost</td><td>CostChange</td><td>Status</td><td>Category</td></tr><tr><td>MarineDiesel</td><td>850SGD</td><td>2000Tons</td><td>1,700,000SGD</td><td>5%</td><td>Increased</td><td>Diesel</td></tr><tr><td>HeavyFuelOil</td><td>600SGD</td><td>3000Tons</td><td>1,800,000SGD</td><td>3%</td><td>Stable</td><td>BunkerOil</td></tr><tr><td>LNG</td><td>1,200SGD</td><td>1500Tons</td><td>1,800,000SGD</td><td>-2%</td><td>Decreased</td><td>AlternativeFuel</td></tr><tr><td>TotalBunkerFuel</td><td>AverageCost</td><td>TotalVolume</td><td>TotalExpenditure</td><td>ChangeinCost</td><td>StatusSummary</td><td>Overall</td></tr><tr><td>716.67SGD</td><td>6500Tons</td><td>5,300,000SGD</td><td>2%</td><td>Mixed</td><td>Analysis</td><td>ProjectedCosts</td></tr><tr><td>FutureTrends</td><td>ForecastedPrices</td><td>ProjectedVolume</td><td>ProjectedExpenditure</td><td>CostVariance</td><td>Future</td><td>Forecast</td></tr><tr><td>900SGD</td><td>2500Tons</td><td>2,250,000SGD</td><td>1%</td><td>Increasing</td><td>Estimates</td><td>AnalysisSummary</td></tr><tr><td>Summary</td><td>KeyInsights</td><td>Recommendations</td><td>RiskFactors</td><td>FutureOutlook</td><td>NextSteps</td><td>Conclusion</td></tr></table>"
+  },
+  {
+   "table_id": "img_169743_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    512.0,
+    579.0,
+    674.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_169743_t1.png",
+   "html": "<table><tr><td>VesselType</td><td colspan=\"2\">OrderVolume</td><td colspan=\"3\">DeliverySchedule</td></tr><tr><td>ContainerShips</td><td colspan=\"2\">$350M</td><td colspan=\"3\">2025-2027</td></tr><tr><td>BulkCarriers</td><td colspan=\"2\">$150M</td><td colspan=\"3\">2025-2026</td></tr><tr><td colspan=\"2\">TotalOrders</td><td colspan=\"2\">$500M</td><td colspan=\"3\">MarketOverview</td></tr><tr><td>YoYChange</td><td>MarketShare</td><td>%Change</td><td>ContainerShips</td><td>15.0%</td><td>30.0%</td><td>BulkCarriers</td></tr><tr><td>5.0%</td><td>12.0%</td><td>$350M</td><td>2025-2027</td><td>$150M</td><td>2025-2026</td><td>$500M</td></tr><tr><td>20.0%</td><td>42.0%</td><td>TotalOrders</td><td>10.0%</td><td>25.0%</td><td>30.0%</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_169782_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    101.0,
+    580.0,
+    294.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_169782_t0.png",
+   "html": "<table><tr><td>ChemicalType</td><td>AveragePrice</td><td>UnitsSold</td><td>MarketShare</td><td>GrowthRate</td><td colspan=\"3\">SalesMetrics</td></tr><tr><td>Polyethylene</td><td>$1,200</td><td>500,000tons</td><td>25%</td><td>3.5%</td><td>Revenue</td><td>$600M</td><td>ProfitMargin</td></tr><tr><td>Polypropylene</td><td>$1,100</td><td>450,000tons</td><td>20%</td><td>4.0%</td><td>Revenue</td><td>$495M</td><td>ProfitMargin</td></tr><tr><td>EthyleneGlycol</td><td>$700</td><td>300,000tons</td><td>15%</td><td>2.8%</td><td>Revenue</td><td>$210M</td><td>ProfitMargin</td></tr><tr><td>Benzene</td><td>$900</td><td>200,000tons</td><td>10%</td><td>3.2%</td><td>Revenue</td><td>$180M</td><td>ProfitMargin</td></tr><tr><td>Total</td><td>$2,485M</td><td>1,450,000tons</td><td>70%</td><td>3.0%</td><td>AverageRevenue</td><td>$621.25M</td><td>OverallGrowth</td></tr></table>"
+  },
+  {
+   "table_id": "img_169782_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    403.0,
+    580.0,
+    540.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_169782_t1.png",
+   "html": "<table><tr><td colspan=\"2\">IndustrialGasSupply</td><td>Amount($M)</td></tr><tr><td colspan=\"2\">ContractType</td><td>YoYChange(%)</td><td colspan=\"5\">MarketShare(%)</td></tr><tr><td>Year</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>CAGR(%)</td></tr><tr><td>Oxygen</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>8.5</td></tr><tr><td>Nitrogen</td><td>40</td><td>42</td><td>45</td><td>48</td><td>50</td><td>55</td><td>5.5</td></tr><tr><td>Argon</td><td>30</td><td>32</td><td>35</td><td>38</td><td>40</td><td>42</td><td>6.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_169782_t2",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    603.0,
+    580.0,
+    730.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_169782_t2.png",
+   "html": "<table><tr><td>Metric</td><td colspan=\"2\">SalesMix</td><td>GrowthRate</td></tr><tr><td>Coatings</td><td>Adhesives</td><td>Total</td><td>CAGR(%)</td></tr><tr><td>2020</td><td>60%</td><td>40%</td><td>100M</td></tr><tr><td>2021</td><td>62%</td><td>38%</td><td>110M</td></tr><tr><td>2022</td><td>64%</td><td>36%</td><td>120M</td></tr><tr><td>2023</td><td>65%</td><td>35%</td><td>130M</td></tr></table>"
+  },
+  {
+   "table_id": "img_169819_t0",
+   "page_num": 3,
+   "bbox": [
+    12.0,
+    92.0,
+    483.0,
+    338.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_169819_t0.png",
+   "html": "<table><tr><td colspan=\"2\">AirCargoGrowthData</td><td colspan=\"2\">VolumebyRegion</td><td colspan=\"4\">MonthlyTonnageTrends</td><td>TotalGrowthRate</td></tr><tr><td>Region</td><td>Jan-2023</td><td>Jan-2024</td><td>Change(%)</td><td>TotalTonnage</td><td>Avg.Rate(CHF)</td><td>TotalRevenue</td><td>MarketShare(%)</td><td>ForecastedGrowth(%)</td></tr><tr><td>Europe</td><td>12,500</td><td>13,750</td><td>10.0</td><td>150,000</td><td>1,200</td><td>180,000</td><td>25.0</td><td>8.0</td></tr><tr><td>Asia</td><td>15,000</td><td>16,500</td><td>10.0</td><td>200,000</td><td>1,500</td><td>250,000</td><td>30.0</td><td>9.0</td></tr><tr><td>NorthAmerica</td><td>10,000</td><td>11,000</td><td>10.0</td><td>120,000</td><td>1,000</td><td>150,000</td><td>20.0</td><td>7.0</td></tr><tr><td>LatinAmerica</td><td>5,000</td><td>5,500</td><td>10.0</td><td>60,000</td><td>600</td><td>70,000</td><td>15.0</td><td>5.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_169819_t1",
+   "page_num": 3,
+   "bbox": [
+    12.0,
+    389.0,
+    483.0,
+    537.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_169819_t1.png",
+   "html": "<table><tr><td colspan=\"4\">RailNetworkPerformance</td><td colspan=\"2\">MarketOverview</td></tr><tr><td>TotalVolume(CHF)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>FreightType</td><td>Volume(CHF)</td><td>YoYChange(%)</td></tr><tr><td>Coal</td><td>50M</td><td>5.0</td><td>30</td><td>Intermodal</td><td>75M</td></tr><tr><td>4.0</td><td>45</td><td>Agricultural</td><td>30M</td><td>3.5</td><td>15</td></tr><tr><td>Automotive</td><td>20M</td><td>6.0</td><td>10</td><td>Other</td><td>10M</td></tr><tr><td>2.0</td><td>5</td><td>TotalFreight</td><td>185M</td><td>4.1</td><td>100</td></tr></table>"
+  },
+  {
+   "table_id": "img_169819_t2",
+   "page_num": 3,
+   "bbox": [
+    12.0,
+    588.0,
+    483.0,
+    714.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_169819_t2.png",
+   "html": "<table><tr><td>FleetSize</td><td>ElectrifiedUnits</td><td>TotalDistance</td><td colspan=\"2\">ChargingInfrastructure</td><td colspan=\"2\">EnergyConsumption</td><td>EmissionsReduction</td></tr><tr><td>TotalUnits</td><td>UnitsElectrified</td><td>KilometersDriven</td><td>ChargingStations</td><td>EnergyUsed(MWh)</td><td>CO2Reduced(%)</td><td>TotalCost(CHF)</td><td>AverageCost(CHF)</td></tr><tr><td>1500</td><td>450</td><td>1,200,000</td><td>200</td><td>900</td><td>30</td><td>500,000</td><td>3.5</td></tr><tr><td>2000</td><td>600</td><td>1,500,000</td><td>250</td><td>1,000</td><td>40</td><td>600,000</td><td>4.0</td></tr><tr><td>1800</td><td>500</td><td>1,000,000</td><td>220</td><td>800</td><td>35</td><td>550,000</td><td>3.8</td></tr><tr><td>1600</td><td>700</td><td>1,250,000</td><td>230</td><td>950</td><td>38</td><td>580,000</td><td>4.2</td></tr></table>"
+  },
+  {
+   "table_id": "img_169829_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    149.0,
+    580.0,
+    297.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_169829_t0.png",
+   "html": "<table><tr><td>Year</td><td colspan=\"2\">RevenueTrends</td><td>GrowthRate</td></tr><tr><td>2019</td><td>CHF120M</td><td>5.0%</td><td>Stable</td></tr><tr><td>2020</td><td>CHF130M</td><td>8.3%</td><td>Increase</td></tr><tr><td>2021</td><td>CHF150M</td><td>15.4%</td><td>RapidGrowth</td></tr><tr><td>2022</td><td>CHF165M</td><td>10.0%</td><td>Sustained</td></tr><tr><td>2023</td><td>CHF180M</td><td>9.1%</td><td>Consistent</td></tr><tr><td>CAGR(5-Year)</td><td>CHF145M</td><td>8.6%</td><td>OverallTrend</td></tr></table>"
+  },
+  {
+   "table_id": "img_169829_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    376.0,
+    580.0,
+    684.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_169829_t1.png",
+   "html": "<table><tr><td>VesselType</td><td>VesselAge(Years)</td><td>ScrappingRate(%)</td><td>FleetSize</td><td>TotalRevenue(CHF)</td><td>NetIncome(CHF)</td><td>CAPEX(CHF)</td><td colspan=\"2\">AgeProfile</td></tr><tr><td>ContainerShips</td><td>0-5</td><td>2.5</td><td colspan=\"2\">100</td><td>50M</td><td>15M</td><td colspan=\"2\">0-5</td><td>BulkCarriers</td><td>6-10</td></tr><tr><td>3.0</td><td>80</td><td>40M</td><td>8M</td><td>6-10</td><td>Tankers</td><td>11-15</td><td>4.5</td><td>60</td><td>30M</td><td>5M</td></tr><tr><td>11-15</td><td>GeneralCargo</td><td>16-20</td><td>5.0</td><td>50</td><td>20M</td><td>4M</td><td>16-20</td><td>AllVessels</td><td>0-5</td><td>2.8</td></tr><tr><td>330</td><td>200M</td><td>70M</td><td>0-5</td><td>6-10</td><td>20-25</td><td>1.0</td><td>25</td><td>15M</td><td>2M</td><td>20-25</td></tr><tr><td>OlderVessels</td><td>Over25</td><td>7.0</td><td>10</td><td>5M</td><td>1M</td><td>Over25</td><td>ScrapValue(CHF)</td><td>EstimatedCosts</td><td>25M</td><td>2M</td></tr><tr><td>TotalFleetValue</td><td>MarketValue(CHF)</td><td>650M</td><td>NetWorth(CHF)</td><td>300M</td><td>ProjectedGrowth(%)</td><td>5-YearCAGR</td><td>4.5</td><td>ScrappingGrowth(%)</td><td>3.0</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_169883_t0",
+   "page_num": 5,
+   "bbox": [
+    11.0,
+    94.0,
+    431.0,
+    308.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_169883_t0.png",
+   "html": "<table><tr><td>Category</td><td>Status</td><td>Rating</td><td>Amount</td><td>GrowthRate</td><td>MarketShare</td><td>Forecast</td></tr><tr><td colspan=\"3\">AdvancedPackaging</td><td>2024Forecast</td><td>CurrentValue</td><td>PreviousYear</td><td>ProjectedGrowth</td><td>CompetitivePosition</td><td>MarketTrends</td></tr><tr><td>3DPackaging</td><td>OnTrack</td><td>A+</td><td>CHF150M</td><td>12%</td><td>25%</td><td>Strong</td><td>IncreasedDemand</td><td>ChipletTechnology</td></tr><tr><td>InProgress</td><td>B</td><td>CHF100M</td><td>8%</td><td>15%</td><td>Moderate</td><td>CostEfficiency</td><td>Fan-OutWaferLevel</td><td>Delayed</td></tr><tr><td>C</td><td>CHF80M</td><td>5%</td><td>10%</td><td>Weak</td><td>SupplyChainIssues</td><td>EmbeddedDie</td><td>OnTrack</td><td>B+</td></tr><tr><td>CHF120M</td><td>10%</td><td>20%</td><td>Moderate</td><td>TechnologicalAdvancements</td><td>System-in-Package</td><td>AtRisk</td><td>B-</td><td>CHF90M</td></tr></table>"
+  },
+  {
+   "table_id": "img_169883_t1",
+   "page_num": 5,
+   "bbox": [
+    11.0,
+    353.0,
+    431.0,
+    466.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_169883_t1.png",
+   "html": "<table><tr><td colspan=\"2\">QualcommR&amp;DAnalysis</td><td>Jan-2024</td></tr><tr><td>Category</td><td colspan=\"3\">R&amp;DInvestment</td><td colspan=\"2\">Revenue</td></tr><tr><td>Semiconductors</td><td>5.2MCHF</td><td>200MCHF</td><td>Electronics</td><td>4.8MCHF</td><td>180MCHF</td></tr><tr><td>Total</td><td>10MCHF</td><td>380MCHF</td><td>R&amp;DRatio</td><td>2.6%</td><td>Status</td></tr><tr><td>Positive</td><td>Growth</td><td>Steady</td><td>Insights</td><td>InnovationFocus</td><td>MarketTrends</td></tr><tr><td>FuturePlans</td><td>ExpandR&amp;D</td><td>IncreaseRevenue</td><td>InvestmentStrategy</td><td>Diversification</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_169883_t2",
+   "page_num": 5,
+   "bbox": [
+    11.0,
+    522.0,
+    431.0,
+    762.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_169883_t2.png",
+   "html": "<table><tr><td>EquipmentCategory</td><td>Q12024Spend</td><td>Q22024Spend</td><td colspan=\"2\">TotalSpend</td><td>GrowthRate</td><td colspan=\"2\">ForecastFY2024</td></tr><tr><td colspan=\"2\">Semiconductor</td><td>CHF200M</td><td>CHF250M</td><td>CHF450M</td><td>25%</td><td>CHF1.2B</td><td colspan=\"2\">Electronics</td></tr><tr><td>CHF150M</td><td>CHF180M</td><td>CHF330M</td><td>20%</td><td>CHF900M</td><td>Manufacturing</td><td>CHF100M</td><td>CHF120M</td><td>CHF220M</td></tr><tr><td>15%</td><td>CHF600M</td><td>Research&amp;Development</td><td>CHF50M</td><td>CHF70M</td><td>CHF120M</td><td>40%</td><td>CHF300M</td><td>TotalEquipment</td></tr><tr><td>CHF500M</td><td>CHF620M</td><td>CHF1.12B</td><td>21%</td><td>CHF3B</td><td>MarketAnalysis</td><td>CHF75M</td><td>CHF90M</td><td>CHF165M</td></tr><tr><td>20%</td><td>CHF400M</td><td>TotalCAPEX</td><td>CHF700M</td><td>CHF800M</td><td>CHF1.5B</td><td>15%</td><td>CHF2.5B</td><td>EndofYear</td></tr></table>"
+  },
+  {
+   "table_id": "img_169921_t0",
+   "page_num": 6,
+   "bbox": [
+    13.0,
+    100.0,
+    520.0,
+    367.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_169921_t0.png",
+   "html": "<table><tr><td>Metric</td><td>Value</td><td colspan=\"3\">InvestmentOverview</td><td>ROI(%)</td><td>NetSavings(£M)</td></tr><tr><td colspan=\"2\">AutomationProjects</td><td>CAPEX(£M)</td><td>OPEXReduction(%)</td><td>PaybackPeriod(Years)</td><td>TotalRevenue(£M)</td><td colspan=\"2\">EfficiencyGains</td><td>EmployeeProductivity(%)</td></tr><tr><td>ProjectA</td><td>50</td><td>15%</td><td>2</td><td>500</td><td>200</td><td>10%</td><td>ProjectB</td><td>30</td></tr><tr><td>70</td><td>20%</td><td>1.5</td><td>300</td><td>150</td><td>12%</td><td>ProjectC</td><td>40</td><td>25%</td></tr><tr><td>1.8</td><td>400</td><td>160</td><td>15%</td><td>OverallTotal</td><td>120</td><td>45%</td><td>1.75</td><td>TotalSavings(£M)</td></tr></table>"
+  },
+  {
+   "table_id": "img_169921_t1",
+   "page_num": 6,
+   "bbox": [
+    13.0,
+    422.0,
+    520.0,
+    517.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_169921_t1.png",
+   "html": "<table><tr><td>FactoryUtilizationRate</td><td>FY2023(%)</td></tr><tr><td>Region</td><td colspan=\"2\">Europe</td></tr><tr><td>AverageUtilization</td><td>PeakUtilization</td><td>LowestUtilization</td></tr><tr><td>75.4</td><td>85.2</td><td>65.3</td></tr><tr><td>78.6</td><td>88.5</td><td>67.9</td></tr></table>"
+  },
+  {
+   "table_id": "img_169921_t2",
+   "page_num": 6,
+   "bbox": [
+    13.0,
+    571.0,
+    520.0,
+    690.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_169921_t2.png",
+   "html": "<table><tr><td>Metric</td><td colspan=\"2\">FinancialOverview</td></tr><tr><td>Period</td><td colspan=\"3\">PricingTrends</td><td>Forecast</td></tr><tr><td colspan=\"2\">Q12023</td><td>Q22023</td><td>Q32023</td><td colspan=\"3\">Q42023</td><td>FY2023</td></tr><tr><td>Revenue(GBP)</td><td>NetIncome(GBP)</td><td>CAPEX(GBP)</td><td>GrossMargin(%)</td><td>OperatingIncome(GBP)</td><td>ProfitMargin(%)</td><td>SalesGrowth(%)</td><td>MarketShare(%)</td></tr><tr><td>£200M</td><td>£50M</td><td>£30M</td><td>35.0%</td><td>£20M</td><td>25.0%</td><td>5.0%</td><td>15.0%</td></tr></table>"
+  },
+  {
+   "table_id": "img_170223_t0",
+   "page_num": 7,
+   "bbox": [
+    13.0,
+    98.0,
+    513.0,
+    379.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_170223_t0.png",
+   "html": "<table><tr><td colspan=\"2\">SteelPricingMetrics</td><td>AveragePrice</td><td>PriceChange</td><td colspan=\"4\">RebarPricingMetrics</td></tr><tr><td>Type</td><td>Q12024</td><td>Q42023</td><td>Change(%)</td><td>CurrentRatio</td><td>Debt/Equity</td><td>P/ERatio</td><td>MarketCap(MEUR)</td></tr><tr><td>Steel(perton)</td><td>500EUR</td><td>5%</td><td>1.5</td><td>0.75</td><td>15</td><td>1200</td><td>Rebar(perton)</td></tr><tr><td>520EUR</td><td>4%</td><td>1.4</td><td>0.80</td><td>14</td><td>1150</td><td>ConstructionIndex</td><td>180</td></tr><tr><td>SteelDemand</td><td>200,000tons</td><td>3%</td><td>RebarDemand</td><td>150,000tons</td><td>2%</td><td>SteelExportRatio</td><td>30%</td></tr><tr><td>RebarExportRatio</td><td>25%</td><td>TotalRevenue</td><td>500MEUR</td><td>NetProfitMargin</td><td>10%</td><td>OperatingMargin</td><td>12%</td></tr></table>"
+  },
+  {
+   "table_id": "img_170223_t1",
+   "page_num": 7,
+   "bbox": [
+    13.0,
+    460.0,
+    513.0,
+    568.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_170223_t1.png",
+   "html": "<table><tr><td>MaterialType</td><td>CostIndex</td></tr><tr><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>Cement</td><td>120.5</td></tr><tr><td>Aggregates</td><td colspan=\"3\">TotalCosts</td></tr><tr><td>Sand</td><td>110.2</td><td>5.0</td><td>15.0</td></tr><tr><td>Concrete</td><td>125.0</td><td>6.5</td><td>20.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_170223_t2",
+   "page_num": 7,
+   "bbox": [
+    13.0,
+    622.0,
+    513.0,
+    747.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_170223_t2.png",
+   "html": "<table><tr><td colspan=\"2\">HousingStarts</td><td>Units</td></tr><tr><td colspan=\"2\">PermitsIssued</td><td>Units</td></tr><tr><td colspan=\"2\">Q12024Overview</td><td>ChangevsQ12023</td><td colspan=\"3\">MarketInsights</td></tr><tr><td>Residential</td><td>Commercial</td><td>Total</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>Forecast(%)</td></tr><tr><td>25,000</td><td>10,000</td><td>35,000</td><td>5.0</td><td>30.2</td><td>12.5</td></tr><tr><td>22,000</td><td>9,000</td><td>31,000</td><td>4.5</td><td>28.0</td><td>11.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_170421_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    154.0,
+    568.0,
+    457.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_170421_t0.png",
+   "html": "<table><tr><td colspan=\"4\">WealthManagementAUM</td><td>Q12024</td><td>USD</td></tr><tr><td>ClientSegment</td><td>AUMAmount</td><td>GrowthRate</td><td>MarketShare</td><td>Status</td><td>Category</td></tr><tr><td>RetailClients</td><td>$150B</td><td>5.2%</td><td>30%</td><td>Active</td><td>Individual</td></tr><tr><td>InstitutionalClients</td><td>$200B</td><td>6.1%</td><td>40%</td><td>Active</td><td>Corporate</td></tr><tr><td>HighNetWorth</td><td>$100B</td><td>4.5%</td><td>20%</td><td>Active</td><td>Individual</td></tr><tr><td>UltraHighNetWorth</td><td>$50B</td><td>3.8%</td><td>10%</td><td>Active</td><td>Individual</td></tr><tr><td>FamilyOffices</td><td>$30B</td><td>2.0%</td><td>6%</td><td>Active</td><td>Institutional</td></tr><tr><td>TotalAUM</td><td>$530B</td><td>5.5%</td><td>100%</td><td>Overall</td><td>QuarterlyChange</td></tr><tr><td>1.5%</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_170421_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    561.0,
+    568.0,
+    779.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_170421_t1.png",
+   "html": "<table><tr><td>BranchName</td><td>Location</td><td>TotalDeposits</td><td colspan=\"2\">PerformanceRatios</td><td colspan=\"2\">EfficiencyRatios</td><td>CustomerSatisfaction</td></tr><tr><td>BranchID</td><td>State</td><td>USD1M</td><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>NPSScore</td><td>QuarterlyGrowth</td></tr><tr><td>BranchA</td><td>California</td><td>USD5M</td><td>15.2</td><td>1.5</td><td>0.2</td><td>72%</td><td>3.5%</td></tr><tr><td>BranchB</td><td>NewYork</td><td>USD3M</td><td>14.8</td><td>1.3</td><td>0.3</td><td>68%</td><td>2.9%</td></tr><tr><td>BranchC</td><td>Texas</td><td>USD4M</td><td>16.5</td><td>1.6</td><td>0.1</td><td>75%</td><td>4.1%</td></tr><tr><td>BranchD</td><td>Florida</td><td>USD2M</td><td>13.9</td><td>1.2</td><td>0.4</td><td>65%</td><td>2.5%</td></tr><tr><td>BranchE</td><td>Illinois</td><td>USD6M</td><td>15.0</td><td>1.4</td><td>0.25</td><td>70%</td><td>3.0%</td></tr><tr><td>BranchF</td><td>Nevada</td><td>USD1.5M</td><td>14.2</td><td>1.1</td><td>0.35</td><td>66%</td><td>2.8%</td></tr><tr><td>BranchG</td><td>Virginia</td><td>USD3.5M</td><td>15.8</td><td>1.7</td><td>0.15</td><td>73%</td><td>3.8%</td></tr></table>"
+  },
+  {
+   "table_id": "img_170735_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    143.0,
+    580.0,
+    375.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_170735_t0.png",
+   "html": "<table><tr><td colspan=\"3\">GrossMarginAnalysis</td><td>2024Forecast</td></tr><tr><td colspan=\"3\">ChannelPerformance</td><td colspan=\"3\">GrossMargin(%)</td></tr><tr><td colspan=\"3\">YearlyOverview</td><td>Revenue(USD)</td><td>CostofGoodsSold</td><td colspan=\"2\">NetProfit(USD)</td></tr><tr><td>OnlineSales</td><td>$500M</td><td>$350M</td><td>$150M</td><td>40%</td><td>In-StoreSales</td><td>$600M</td></tr><tr><td>$420M</td><td>$180M</td><td>30%</td><td>Wholesale</td><td>$200M</td><td>$140M</td><td>$60M</td></tr><tr><td>30%</td><td>TotalRevenue</td><td>$1.3B</td><td>$910M</td><td>$390M</td><td>38%</td><td>2019</td></tr><tr><td>$300M</td><td>$210M</td><td>$90M</td><td>30%</td><td>2020</td><td>$400M</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_170735_t1",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    484.0,
+    580.0,
+    638.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_170735_t1.png",
+   "html": "<table><tr><td>Year</td><td colspan=\"2\">StoreMetrics</td><td colspan=\"2\">SalesPerformance</td><td>GrowthRate</td></tr><tr><td>2019</td><td>150</td><td>$1.2B</td><td>5.0%</td><td>2020</td><td>160</td></tr><tr><td>1.3B</td><td>6.7%</td><td>2021</td><td>170</td><td>$1.5B</td><td>8.1%</td></tr><tr><td>2022</td><td>180</td><td>$1.8B</td><td>11.0%</td><td>2023</td><td>190</td></tr><tr><td>$2.0B</td><td>12.2%</td><td>2024</td><td>200</td><td>$2.3B</td><td>15.0%</td></tr><tr><td>Total</td><td>1,250</td><td>$10.5B</td><td>9.4%</td><td>Average</td><td>175</td></tr><tr><td>$1.75B</td><td>9.0%</td><td>Forecast</td><td>210</td><td>$2.5B</td><td>16.0%</td></tr></table>"
+  },
+  {
+   "table_id": "img_170739_t0",
+   "page_num": 10,
+   "bbox": [
+    9.0,
+    68.0,
+    352.0,
+    154.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_170739_t0.png",
+   "html": "<table><tr><td>DesignWinPipeline</td><td colspan=\"2\">ProjectedGrowth</td></tr><tr><td>Category</td><td colspan=\"2\">Amount(USD)</td></tr><tr><td>FablessCompanies</td><td colspan=\"2\">GrowthRate</td><td>MarketShare</td></tr><tr><td>CompanyA</td><td>$50M</td><td>12.5%</td><td>20%</td></tr><tr><td>CompanyB</td><td>$30M</td><td>10.0%</td><td>15%</td></tr><tr><td>CompanyC</td><td>$70M</td><td>15.0%</td><td>25%</td></tr><tr><td>CompanyD</td><td>$90M</td><td>20.0%</td><td>30%</td></tr></table>"
+  },
+  {
+   "table_id": "img_170739_t1",
+   "page_num": 10,
+   "bbox": [
+    9.0,
+    238.0,
+    352.0,
+    767.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_170739_t1.png",
+   "html": "<table><tr><td>ProductSegment</td><td>Revenue($M)</td><td>YoYChange(%)</td><td colspan=\"2\">MarketTrends</td><td>MarketShare(%)</td><td colspan=\"3\">RegionPerformance</td><td>Forecast($M)</td><td>5-YearCAGR(%)</td></tr><tr><td>Microcontrollers</td><td>1500</td><td>10</td><td>Growth</td><td>25</td><td>NorthAmerica</td><td>500</td><td>8</td><td>Stable</td><td>20</td><td>PositiveOutlook</td></tr><tr><td>Sensors</td><td>1200</td><td>15</td><td>Increase</td><td>30</td><td>NorthAmerica</td><td>400</td><td>12</td><td>PositiveGrowth</td><td>18</td><td>ExpandingMarket</td></tr><tr><td>PowerManagement</td><td>1000</td><td>5</td><td>Moderate</td><td>22</td><td>NorthAmerica</td><td>350</td><td>6</td><td>SlightDecline</td><td>15</td><td>AdjustingSupply</td></tr><tr><td>ConnectivityChips</td><td>800</td><td>20</td><td>StrongDemand</td><td>35</td><td>NorthAmerica</td><td>300</td><td>9</td><td>RobustGrowth</td><td>25</td><td>EmergingOpportunities</td></tr><tr><td>ASICs</td><td>600</td><td>3</td><td>Stable</td><td>18</td><td>NorthAmerica</td><td>200</td><td>7</td><td>ConsistentDemand</td><td>10</td><td>MarketSaturation</td></tr><tr><td>TotalRevenue</td><td>4100</td><td>12</td><td>OverallGrowth</td><td>20</td><td>NorthAmerica</td><td>1850</td><td>9</td><td>PositiveTrends</td><td>15</td><td>FutureOutlook</td></tr></table>"
+  }
+ ]
+}

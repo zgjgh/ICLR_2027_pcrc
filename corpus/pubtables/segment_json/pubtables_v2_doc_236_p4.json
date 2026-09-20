@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_236",
+  "page": 4,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.3,
+    278.6,
+    51.8
+   ],
+   "ocr": "Saka et al. BMC Genomics 2017, 18(Suppl 10):875"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 7 of 88"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    374.1,
+    123.1
+   ],
+   "ocr": "Table 7 Number of mapped probes for custom CDF construction"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    202.8
+   ],
+   "ocr": "GeneChip® Number of PM Probes Number of PM Probes Number of PM Probes Mapped Number of PM Probes\nMapped Uniquely to Multiple Locations Not Aligned\nHuman Genome U133 Plus 2.0 Array 603,158 525,985 36,493 40,680\nRat Genome 230 2.0 Array 341,459 288,319 26,027 27,113\nMouse Genome 430 2.0 Array 495,374 427,758 28,444 39,173",
+   "table_id": "PMC5731501_table_6"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    246.2,
+    367.5,
+    442.1
+   ],
+   "ocr": "determined to be differentially expressed using both CDFs (Fig. 3a). Examination of the p-values shows a significant correlation between both the gene and the 3′ UTR region (r = 0.439; p = 1.480E-58) as well as be- tween the gene and the exon region (r = 0.101; p = 0.001). The higher correlation with the 3′ UTR region is to be expected, due to a higher abundance of probes designed in these regions. One hundred sixty genes are found to be differentially expressed using the gene-based approach only. Three genes are omitted completely from the region-based CDF. Further examination of the remaining 157 genes measured using both the gene-based and region-based"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    246.2,
+    681.2,
+    927.5
+   ],
+   "ocr": "methods shows that 122 of these (78%) have a gene- based p-value >0.03, and 80 (50%) have a gene-based p-value >0.04, indicating the detected differences are just below the cutoff level. Analysis of the region-based p-values show that 120 of these (77%) have a region- based p-value <0.10, and 146 (94%) have a region-based p-value <0.20, putting these genes just above the signifi- cance threshold. An additional 423 genes are found to be differentially expressed using the region-based approach only, with 203 from the 3′ UTR only, 10 from the 5′ UTR only, 206 from the exon only, and 4 from both the 3′ UTR and exon. Unlike the DEGs uniquely found in the gene-based ap- proach, those genes found to be differentially expressed in the region-based approach typically have a much higher p-value in gene-based analysis, with only 31% having a p-value between 0.05 and 0.10. This supports our reason- ing that separating into functional regions allows detec- tion of subtle changes in transcript formation that may have a larger functional impact of those transcripts which has been further validated by experimental work showing differential expression of the 3′ UTR of the CAMKIV gene plays a role in localization [23]. In order to determine why some genes were only detected by the brainarray CDF, we examined the probe sequences of those genes that are brainarray specific. Of these, 39 were excluded from our CDFs since they aligned to multiple locations in the rn6 genome. An additional ten of these probes did not match to known Ensembl gene structures and were thus removed. Eighteen of these probes were excluded because the probe set contained fewer than three probes. An additional 40 of the brainarray probes were used in our CDFs, but with annotations differing from brainarray due to changes in annotation information. In the GSE48611 data series, DEGs were determined for two pairwise comparisons: isogenic Ts21 vs. control iPSCs for both DS1 and DS4. We reanalyzed the data using region, gene and the original Affymetrix® supplied CDF obtained from the Affymetrix® Netaffx™ web site. For DS1, our gene-based CDF identified an additional 194 DEGs not found using the original CDF and 616 DEGs identified by both methods. For DS2, our gene base CDF identified an additional 331 DEGs found using our method only and 337 DEGs identified by both methods (Table 8)."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    882.5,
+    350.9,
+    919.4
+   ],
+   "ocr": "Fig. 3 Number of common and different differentially expressed genes using our custom region and gene-based CDFs compared to brain array custom CDFs. a Day 7 versus naïve. b Day 14 versus naïve"
+  }
+ }
+}

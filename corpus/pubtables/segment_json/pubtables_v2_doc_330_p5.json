@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_330",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    562.0,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Unusual MHC Diversity in Sheep"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.1,
+    700.8,
+    533.5
+   ],
+   "ocr": "alignment we used the statistical methods available in the PAML package [37] developed by Ziheng Yang. PAML supplies a range of modern statistical tests to detect positive selection based on the ratio (omega) of nonsynonymous to synonymous substitutions. When no selection has acted, omega is expected to be one. The most common type of selection, negative selection will result in omega being less than one. PAML uses a likelihood ratio test to produce a probability that omega is greater than one. We used the recently developed Branch-Site models [38] plus an associated likelihood ratio test (LRT) [39]. This approach has been applied to data similar to DRA namely the DRB gene by the developers of the method [40]. With the Branch-Site approach, the branches to be assessed for the influence of positive selection, i.e. the ‘‘foreground’’ branches, require to be chosen in advance. We then compared, by use of the LRT, a branch–site model allowing positive selection on the foreground branches with a simpler model that does not. When there is a lack of a clear biological hypothesis to guide the choice of the foreground branch, one approach is to carry out many analyses by selecting each branch in turn as the foreground branch. In this case, we are primarily interested in the branch leading to Ovar-DRA*0201. However, it is prudent to test the other branches, especially those leading to the other sheep DRA sequences. Positive selection analysis was carried out on the full alignment length which provides the largest number of sites. Estimating phylogenetic trees. The full length cDNA alignment and exon 2 DNA alignments were merged using the profile alignment facility within the Clustalw program to create a 34 by 759bp alignment. Prior to phylogenetic tree estimation, the codon position model was optimised using the model selection feature in the TOPALi v2 package [41] which produces improved estimates of Likelihood values and derived statistical quantities (AIC, BIC). A nucleotide substitution model was estimated for each of the three codon positions: HKY+G (position 1), HKY+I"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.6,
+    375.8,
+    569.0
+   ],
+   "ocr": "Generation of mammalian expression constructs Ovine MHC class II DRA and DRB genes were amplified from pGEM-T Easy vector clones and subcloned into the eukaryotic expression vector pcDNA3.1/V5-His-TOPO (Invitrogen). PCR reactions were carried out as described for the original amplification using primers listed in Table 5. All clones were sequenced in both directions to verify integrity. Plasmid DNA for transfection was prepared from 50 ml bacterial cultures using the SNAP midi kit (Invitrogen), precipitated in ethanol and resus- pended under aseptic conditions to a concentration of 500 ng/ul in sterile water. Sequence analysis DRA contigs were assembled using the SeqManII program of the DNASTAR package. The full length and exon 2 sequences have been deposited in the EMBL database and assigned the accession numbers FM986335–FM986352 detailed in Table 6. DNA Multiple alignments were produced using the CLUS- TALW program using the profile alignment option to merge alignments of the long (fill length) and short (exon 2 only) sequences. Alignments of the corresponding protein sequences were used to check the DNA alignments. The use of a combined alignment of long and short sequences improves the phylogenetic tree estimate if the alignment is of high precision (i.e. long gaps in the correct position). Such a combined alignment yields an improved tree estimate as all available data is used to resolve the species relationships. Modern statistical methods, namely Bayesian inference and Maximum Likelihood, handle missing values efficiently. On the contrary, distance-based methods such as Neighbour–Joining are expected to perform poorly as pairwise distances do not allow information on gaps to be used optimally. Phylogenetic inference Selection detection using the Branch-Site Test. To detect positive Darwinian selection in the protein-coding multiple Table 6. Origin of DRA full length and exon 2 sequences."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    598.0,
+    667.5,
+    893.4
+   ],
+   "ocr": "Accession number Species Name Common Name Allele Name Sequence\nFM986335 Ovis aries Domestic sheep Ovar-DRA*0101 Full length transcript\nFM986336 Ovis aries Domestic sheep Ovar-DRA*0102 Full length transcript\nFM986337 Ovis aries Domestic sheep Ovar-DRA*0201 Full length transcript\nFM986338 Bos indicus Zebu cattle BoLA-DRA*01013 Full length transcript\nFM986339 Bos indicus Zebu cattle BoLA-DRA*01014 Full length transcript\nFM986340 Ovis canadensis Big Horn Sheep Ovca-DRA*0101 Exon 2\nFM986341 Ovis dalli Dalli sheep Ovda-DRA*0101 Exon 2\nFM986342 Oryx dammah Scimitar Horned Oryx Orda-DRA*0101 Exon 2\nFM986343 Connochaetes taurinus Blue Wildebeest Cota-DRA*0101, Exon 2\nFM986344 Rupicapra rupicapra Chamois Ruru-DRA*0101 Exon 2\nFM986345 Budorcas taxicolor Takin Butu-DRA*0101 Exon 2\nFM986346 Capra falconeri Markhor Cafa-DRA*0101 Exon 2\nFM986347 Cervus elaphus Red deer Ceel-DRA*0101 Exon 2\nFM986348 Rangifer tarandus Reindeer Rata-DRA*0101 Exon 2\nFM986349 Lama pacos Alpaca Vipa-DRA*0101 Exon 2\nFM986350 Delphinus capensis Common Dolphin Deca-DRA*0101 Exon 2\nFM986351 Grampus griseus Risso’s dolphin Grgr-DRA*0101 Exon 2\nFM986352 Physeter catodon Sperm Whale Phca-DRA*0101 Exon 2",
+   "table_id": "PMC2894946_table_5"
+  },
+  "p5_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    906.6,
+    384.0,
+    926.1
+   ],
+   "ocr": "Database accession numbers and species of origin of the full length and exon 2 doi:10.1371/journal.pone.0011402.t006"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    387.0,
+    906.6,
+    557.0,
+    915.4
+   ],
+   "ocr": "DRA sequences generated though this study."
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "8 June 2010 | Volume 5 | Issue 6 | e11402"
+  }
+ }
+}

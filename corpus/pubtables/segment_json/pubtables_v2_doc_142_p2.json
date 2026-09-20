@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_142",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Lee et al. BMC Bioinformatics 2011, 12(Suppl 13):S20 http://www.biomedcentral.com/1471-2105/12/S13/S20"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 15"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    485.5
+   ],
+   "ocr": "analysis of abnormally expressed genes in QQPPI net- work’). The top ranked nodes are summarised in Table 3. Proteins which rank higher in centrality analyses of PPI networks usually have more crucial biological functions [68]. The top ranked nodes (e.g. UBC, UBB, and ACTB) were therefore proposed as having critical roles in disease mechanisms. Only three clique-3s were found (data not shown). Clique-4 or above was not identified as a result of the looser network formed by the abnormally expressed genes (Figure 2) in comparison with the tightly knitted network formed by the highly expressed genes (Figure 3). The disease marker genes identified through different analytical approaches were connected in PPI networks The microarray data series used in this study has been analysed by the original contributors, Iwamoto et al [39]. In the studied mental diseases, Iwamoto et al revealed down-regulation of receptor-, transporter-, and channel- encoding genes; and up-regulation of transcription-, translation-, stress- and molecular chaperon-related genes [39]. Although the genes identified in our studies were not identical to the findings of Iwamoto et al, they fall into similar functional categories. Although few of our disease markers had direct protein interactions with the ones described in Iwamoto et al [39], many had"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    527.8
+   ],
+   "ocr": "compartment, GO molecular function, and REACTOME are detailed in Additional file 6 (titled ‘FatiGO term enrichment with P values smaller than 0.01). Enriched functions can be classified into five groups—(1) neuron and signal transduction-related, such as neuron projection, transmission of nerve impulse, synaptic transmission, synaptogenesis, and signalling by NGF; (2) cytoskeleton; (3) gene expression, such as translation and ribosomes; (4) metabolisms of lipids, lipoproteins, proteins, polyamines, and sugars (diabetes); and (5) stresses, such as influenza infection. The enrichment of neuron and signal transduc- tion-related functions was expected. Abnormality in trans- lation-related genes has been observed in previous studies [39,57]. Abnormality in cytoskeleton genes could lead to disrupted cellular mobility of Golgi apparatus, which has a place in neuron signal transduction [58-61]. Previous stu- dies have also shown abnormal expression of ATP-related or mitochondrial genes [20,22,62-64]. The enriched meta- bolism functions can be further evidences of abnormal energy conversion in patients’ prefrontal cortex. The rela- tionship to influenza infection can be explained as biotic stress; and stresses have often been reported as inducers of mental diseases [65-67]. The ranks of centrality were calculated by various algo- rithms and are listed in Additional file 7 (titled ‘Centrality Table 3 Centrality analysis of PPI network"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    77.2,
+    532.7,
+    665.1,
+    869.5
+   ],
+   "ocr": "Gene Disease(s) or essential Gene function(s) Sum of\nsymbol gene* ranks**\nUBC S • ubiquitin C 7\nACTB S • actin, beta 15\nUBB S • ubiquitin B 29\nAPP E • amyloid beta (A4) precursor protein 32\nFOS S • v-fos FBJ murine osteosarcoma viral oncogene homolog 51\nHSPA4 S • heat shock 70kDa protein 4 54\nPARK2 SD • Parkinson disease (autosomal recessive, juvenile) 2, parkin 67\nSYK B • spleen tyrosine kinase 97\nTUBB2A E • tubulin, beta 2A 117\nTSC2 S • tuberous sclerosis 2 127\nUCHL1 E • ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase) 217\nMARK3 S • MAP/microtubule affinity-regulating kinase 3 236\nRPS27A S • ribosomal protein S27a pseudogene 12; ribosomal 355\nDNM1 E • dynamin 1 476\nIRS2 E • insulin receptor substrate 2 497\nGNAI2 S • guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2 519\nSMARCC2 B • SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily 525\nc, member 2\nHRAS S • v-Ha-ras Harvey rat sarcoma viral oncogene homolog 527\nSAT1 S • spermidine/spermine N1-acetyltransferase 1 529\nCRKL B • v-crk sarcoma virus CT10 oncogene homolog (avian)-like 531",
+   "table_id": "PMC3278837_table_2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    876.5,
+    380.7,
+    922.2
+   ],
+   "ocr": "The L1PPI network (not shown) was constructed by abnormally expressed disease *The listed genes were found abnormally expressed in samples of schizophrenia “essential” (E) genes. **The sum of centrality ranks calculated using various centrality algorithms for the"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    376.4,
+    876.5,
+    641.0,
+    922.2
+   ],
+   "ocr": "markers, tissue-specific “essential” genes (S), bipolar disorder (B) or major depression (D), or were tissue-specific disease and “essential” genes shown in Figure 2."
+  }
+ }
+}

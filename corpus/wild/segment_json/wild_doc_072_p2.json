@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_072",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    65,
+    580,
+    108
+   ],
+   "ocr": "The following data table presents an analysis of the relationship between drug use in combination and various genetic traits. This investigation primarily focuses on the Variable of interest, which encompasses distinct combinations of substances, and their corresponding Adjusted Odds Ratios (AOR)."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    96,
+    580,
+    123
+   ],
+   "ocr": "The AOR serves as a critical metric in understanding the likelihood of experiencing specific outcomes associated with these combinations, as indicated by the values presented in the table."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    148.0,
+    580.0,
+    289.0
+   ],
+   "ocr": "Variable Adjusted Odds Ratio (AOR) 95% Confidence Interval (CI) p-value\nEver used drugs in combination\n(yes vs. no) 1.78 (0.94 – 3.36) 0.078\nEver had drugs planted by police\n(yes vs. no) 1.81 (1.04 – 3.15) 0.035\nMedian daily expenses for purchasing drugs\n(≥ 300 THB vs. < 300 THB) 1.86 (1.07 – 3.22) 0.028",
+   "table_id": "img_080441_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    304.0,
+    580.0,
+    334.0
+   ],
+   "ocr": "Furthermore, the inclusion of the 95% Confidence Interval (CI) allows for a robust assessment of the precision of these estimates, providing insight into the reliability of the observed associations."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    355.0,
+    580.0,
+    657.0
+   ],
+   "ocr": "QTL Trait(s) Chromosome Start (Mb) Max (Mb) and Marker Stop (Mb) Percent Variation Explained (%)\nHrS5 D3% weight Chr 18 27.108062 42.852536 backupUNC181069094 58.694005 6.60\nD4% weight 27.108062 51.250937 JAX00083358 58.694005 8.50\nLog titer 27.108062 51.250937 JAX00083358 58.694005 12.90\nHemorrhage 24.762824 51.250937 JAX00083358 78.29634 6\nHrS6 D3% weight Chr 9 116.476207 121.771517 backupJAX00708075 Telomere 7\nHrS7 Log titer Chr 7 55.169841 96.668697 UNC070369595 117.22358 12.30\nHrS8 Log titer Chr 12 81.649471 88.541688 UNC120199018 108.529109 5.40\nHrS9 Hemorrhage Chr 15 Centromere 30.785867 UNC150077326 64.430001 9.10",
+   "table_id": "img_080441_t1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    732
+   ],
+   "ocr": "The analysis also highlights significant findings related to specific chromosomes, including Chromosome 18, which is associated with the trait HrS5. Notably, this chromosome spans a region from 27.108062 Mb to its maximum marker. The Percent Variation Explained (%) is another essential metric, elucidating the extent to which genetic factors contribute to the observed variation in drug response."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    762
+   ],
+   "ocr": "Overall, this table underscores the intricate interplay between genetic markers and the effects of drug use in combination, paving the way for further investigations into their implications for treatment and prevention strategies."
+  }
+ }
+}

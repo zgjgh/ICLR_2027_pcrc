@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_402",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    377.8,
+    66.0
+   ],
+   "ocr": "Younesi et al. BMC Medical Informatics and Decision Making 2012, 12:148 http://www.biomedcentral.com/1472-6947/12/148"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 7 of 13"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    394.0,
+    702.5
+   ],
+   "ocr": "genes cover various aspects of NSCLC-gene relations not relevant for the search of NSCLC biomarker candi- dates. Putting additional restriction on the semantic search using the five biomarker retrieval classes (ignor- ing the class Antecedent) reduces the number of retrieved documents down to 1539, containing 877 genes. Further reduction to relevant genes is possible through the inclusion of frequency or relative entropy ranking thresholds. Ignoring all gene mentions occurring in less than 5 abstracts decreases the gene set to 126 genes. Spot checks of ten genes with low relative entropy values revealed that nine of these genes are true positive biomarker candidates (see Table 2). One of the biomarker candidates is Mucin 1 for which 8 abstracts under the above- mentioned criteria were retrieved. Mucin 1 is involved in invasiveness, metasta- sis, and angiogenesis of NSCLC [33] and its expression and localisation in lung adenocarcinoma patients is altered compared to normal epithelial cells [34]. A fur- ther exemplified action using the biomarker retrieval ter- minology is the literature search for suitable Mucin-1 antibodies. This can be directly conducted by applying the biomarker retrieval terminology. Selection of the Diagnostic subclass Immunohistochemistry and the Evi- dence subclass Expression together with the NSLCL MeSH variants and the Mucin-1 gene concept retrieves 16 abstracts. In 11 abstracts immunostaining of Muc1 is directly stated but only 4 abstracts mention the specific antibodies (CA15-3, clone DF3 in PMID 17409826, HMFG2 in PMIDs 8980247, 2456176 and 1284790). A further analysis of the retrieved full text articles is neces- sary to retrieve in a next step all information about the antibodies utilized. Higher recall rates for different anti- bodies for this example could be reached with searches for a broader disease area like Lung Neoplasms (31 abstracts), the search with the Diagnostic subclass Immunohisto- chemistry in combination with the text search ‘anti-Muc1’ Table 2 Spot check of NSCLC genes/proteins for their relevance"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.6,
+    702.5
+   ],
+   "ocr": "(105 abstracts), or in combination with the gene con- cept Muc1 and the Evidence marker Expression (1055 abstracts). These examples demonstrate the ability of the bio- marker search engine - depending on the application area - to substantially increase recall or precision of the search results, maximizing the efficiency of public do- main literature searches. Adaptation and evaluation of biomarker retrieval in neurodegenerative diseases area To demonstrate the applicability of the biomarker re- trieval terminology in other disease indications inde- pendently of the oncology-focused training corpus, the performance of retrieval for biomarker-related abstracts from Medline was tested in the field of Alzheimer’s dis- ease and multiple sclerosis. In a first test it became evident that the class Diagnos- tics shows a high diversity between cancer and neurode- generative diseases and that this class has to be extended for the new disease areas. For instance, in the area of neurodegenerative diseases, we included the diagnostic imaging subtree of MeSH (after omitting microscopy and molecular imaging) and a number of very specific medical classification systems provided by experts (e.g. MS Functional Composite score). The final BioMarker terminology contains 164 classes and 2506 synonyms. After this optimization for neurodegenerative diseases, in three evaluation steps we examined: i) to what extent biomarker class selection influences the biomarker gene enrichment in comparison to the content of independent gold standards (entity retrieval); ii) how many biomarker-enriched abstracts could be retrieved with the selection of our terminology (abstract retrieval); and iii) how far new biomarker genes/proteins information could be retrieved which are not provided by the gold standard (potential biomarker identification). to biomarker applicability and evidence"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    707.3,
+    645.7,
+    887.7
+   ],
+   "ocr": "Gene or No. of retrieved Relative entropy Frequency based Example Biomarker Biomarker\nprotein document rank rank PMID applicability evidence\nP53 281 1 1 20521348 Prognosis Expression\nVEGFA 128 6 4 21964530 Prognosis Expression\nBCL2 90 8 6 19560836 Survival Expression\nPCNA 47 11 10 21495034 Prognosis Expression\nVEGFC 22 16 21 19758816 Recurrence Expression\nPTGS2 33 25 15 20592629 Survival Expression\nCDKN1B 12 50 52 15483027 Prognosis Expression\nDNAJB4 2 100 344 16788156 Survival Expression\nCDK2 5 342 112 10817513 Prognosis No impact",
+   "table_id": "PMC3541249_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    894.1,
+    380.5,
+    925.4
+   ],
+   "ocr": "For the SCAIView search the MeSH disease “Carcinoma, Non-Small-Cell Lung” in were selected and the retrieved genes were ranked according the Relative Entropy biomarker information for the respective genes."
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    370.7,
+    894.1,
+    672.3,
+    914.7
+   ],
+   "ocr": "combination with five biomarker retrieval classes (omitting the class Antecedent) or frequency. In spot tests the abstracts were analysed for containing"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_181",
+  "page": 9,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    226.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "Category Margin(%)\nProductLine Amount(AUD)\nYear Status\nSurfactants 25.5\nAdhesives 18.2\nCoatings 22.8",
+   "table_id": "img_205888_t0"
+  },
+  "p9_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    417.0,
+    580.0,
+    542.0
+   ],
+   "ocr": "ProductType ProductionVolume\nRevenue YoYChange(%)\nPolymerTypes MarketShare(%)\nPolyethylene 15000 $30M 5 25\nPolypropylene 12000 $24M 3 20\nPVC 8000 $16M 2 15",
+   "table_id": "img_205888_t1"
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    622.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "CatalystType PerformanceIndex CostperUnit MarketShare\nProductA 85% $150 GrowthMetrics\nYear-over-Year MarketPenetration R&DInvestment CustomerSatisfaction ProductB\n90% $200 15% 95% ProductC\n80% $175 10% 88% ProductD\n75% $160 5% 85% Total",
+   "table_id": "img_205888_t2"
+  }
+ }
+}

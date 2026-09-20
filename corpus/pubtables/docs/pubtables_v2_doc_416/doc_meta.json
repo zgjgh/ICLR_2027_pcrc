@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_416",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3633862_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    690.3,
+    557.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3633862_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">DEFINITION</td><td colspan=\"2\">Monocytes</td><td colspan=\"2\">T cells</td><td rowspan=\"2\">Cell-type*IFN-b P-value3</td></tr><tr><td>Fold change1</td><td>P-value2</td><td>Fold change1</td><td>P-value2</td></tr><tr><td>LAG3</td><td>Lymphocyte-activation gene 3 (LAG3)</td><td>8.66</td><td>2e24</td><td>6.91</td><td>4e24</td><td>0.48</td></tr><tr><td>TLR7</td><td>Toll-like receptor 7 (TLR7)</td><td>6.92</td><td>5e24</td><td>2.85</td><td>0.006</td><td>0.06</td></tr><tr><td>NT5C3</td><td>59-nucleotidase, cytosolic III (NT5C3)</td><td>10.1</td><td>5e24</td><td>7.51</td><td>0.001</td><td>0.47</td></tr><tr><td>SLC38A5</td><td>Solute carrier family 38, member 5 (SLC38A5)</td><td>4.89</td><td>5e24</td><td>2.4</td><td>0.006</td><td>0.07</td></tr><tr><td>ISG20</td><td>Interferon stimulated exonuclease gene 20kDa (ISG20)</td><td>15.3</td><td>0.001</td><td>5.3</td><td>0.007</td><td>0.11</td></tr><tr><td>DUSP5</td><td>Dual specificity phosphatase 5 (DUSP5)</td><td>10.2</td><td>0.001</td><td>2.63</td><td>0.033</td><td>0.06</td></tr><tr><td>ZBP1</td><td>Z-DNA binding protein 1 (ZBP1)</td><td>9.45</td><td>0.001</td><td>11.9</td><td>0.001</td><td>0.63</td></tr><tr><td>LGALS3BP</td><td>Lectin, galactoside-binding, soluble, 3 binding protein (LGALS3BP)</td><td>9.13</td><td>0.001</td><td>5.1</td><td>0.004</td><td>0.25</td></tr><tr><td>CD14</td><td>CD14 molecule (CD14)</td><td>0.11</td><td>0.001</td><td>0.38</td><td>0.034</td><td>0.06</td></tr><tr><td>GIMAP6</td><td>GTPase, IMAP family member 6 (GIMAP6)</td><td>5.32</td><td>0.001</td><td>2.06</td><td>0.039</td><td>0.07</td></tr><tr><td>HS.561105</td><td>BX116726 NCI_CGAP_Pr28 cDNA clone IMAGp998J065569 sequence</td><td>4.78</td><td>0.002</td><td>2.75</td><td>0.011</td><td>0.18</td></tr><tr><td>JAK2</td><td>Janus kinase 2 (a protein tyrosine kinase) (JAK2)</td><td>3.34</td><td>0.002</td><td>2.82</td><td>0.004</td><td>0.57</td></tr><tr><td>HSH2D</td><td>Hematopoietic SH2 domain containing (HSH2D)</td><td>7.67</td><td>0.002</td><td>8.21</td><td>0.002</td><td>0.9</td></tr><tr><td>IFITM2</td><td>Interferon induced transmembrane protein 2 (1&#8211;8D) (IFITM2)</td><td>7.8</td><td>0.002</td><td>4.91</td><td>0.007</td><td>0.39</td></tr><tr><td>CBX7</td><td>Chromobox homolog 7 (CBX7)</td><td>0.18</td><td>0.002</td><td>0.46</td><td>0.049</td><td>0.09</td></tr><tr><td>HS.537991</td><td>HUMGS0004661 Human adult (K.Okubo) cDNA 3 sequence</td><td>5.47</td><td>0.003</td><td>2.93</td><td>0.016</td><td>0.19</td></tr><tr><td>AIM2</td><td>Absent in melanoma 2 (AIM2)</td><td>13.6</td><td>0.003</td><td>6.67</td><td>0.01</td><td>0.32</td></tr><tr><td>DYNLT1</td><td>Dynein, light chain, Tctex-type 1 (DYNLT1)</td><td>4.01</td><td>0.003</td><td>3.26</td><td>0.005</td><td>0.58</td></tr><tr><td>LOC728216</td><td>PREDICTED: similar to ubiquitin specific peptidase 18 (LOC728216)</td><td>4.92</td><td>0.003</td><td>3.74</td><td>0.006</td><td>0.52</td></tr><tr><td>SP140</td><td>SP140 nuclear body protein (SP140)</td><td>3.98</td><td>0.003</td><td>3.66</td><td>0.004</td><td>0.83</td></tr><tr><td>ATF3</td><td>Activating transcription factor 3 (ATF3)</td><td>4.94</td><td>0.003</td><td>2.17</td><td>0.048</td><td>0.11</td></tr><tr><td>MOV10</td><td>Mov10, Moloney leukemia virus 10, homolog (mouse) (MOV10)</td><td>3.64</td><td>0.003</td><td>3.67</td><td>0.003</td><td>0.98</td></tr><tr><td>GBP4</td><td>Guanylate binding protein 4 (GBP4)</td><td>9.43</td><td>0.003</td><td>4.28</td><td>0.019</td><td>0.23</td></tr><tr><td>TNFSF10</td><td>Tumor necrosis factor (ligand) superfamily, member 10 (TNFSF10)</td><td>27.2</td><td>0.003</td><td>10</td><td>0.015</td><td>0.3</td></tr><tr><td>GBP5</td><td>Guanylate binding protein 5 (GBP5)</td><td>8.77</td><td>0.003</td><td>6.13</td><td>0.007</td><td>0.57</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3633862_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    121.8,
+    696.6,
+    589.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3633862_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">DEFINITION</td><td colspan=\"2\">Monocytes</td><td colspan=\"2\">T-cells</td><td rowspan=\"2\">Cell-type*IFN-b P-value3</td></tr><tr><td>Fold change1</td><td>P-value2</td><td>Fold change1</td><td>P-value2</td></tr><tr><td>HS.564389</td><td>DKFZp686C15231_r1 686 (synonym: hlcc3)</td><td>9.95</td><td>3.6e25</td><td>1.14</td><td>0.4</td><td>0.003</td></tr><tr><td>AXL</td><td>AXL receptor tyrosine kinase (AXL)</td><td>13.1</td><td>3.9e25</td><td>1.25</td><td>0.22</td><td>0.003</td></tr><tr><td>STAB1</td><td>stabilin 1 (STAB1)</td><td>0.07</td><td>3.9e25</td><td>1.11</td><td>0.6</td><td>0.003</td></tr><tr><td>TBXAS1</td><td>Thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A) (TBXAS1)</td><td>0.03</td><td>4e25</td><td>0.84</td><td>0.5</td><td>0.003</td></tr><tr><td>PID1</td><td>Phosphotyrosine interaction domain containing 1 (PID1)</td><td>0.02</td><td>5e25</td><td>1.02</td><td>0.96</td><td>0.003</td></tr><tr><td>DEFB1</td><td>Defensin, beta 1 (DEFB1)</td><td>31.8</td><td>0.0001</td><td>1.18</td><td>0.58</td><td>0.004</td></tr><tr><td>EDN1</td><td>endothelin 1 (EDN1)</td><td>23.2</td><td>0.0001</td><td>1.69</td><td>0.06</td><td>0.005</td></tr><tr><td>SAMD4A</td><td>Sterile alpha motif domain containing 4A (SAMD4A)</td><td>7.84</td><td>0.0001</td><td>1.47</td><td>0.04</td><td>0.005</td></tr><tr><td>CLEC4A</td><td>C-type lectin domain family 4, member A (CLEC4A)</td><td>0.06</td><td>0.0001</td><td>1.05</td><td>0.86</td><td>0.004</td></tr><tr><td>QSOX1</td><td>Quiescin Q6 sulfhydryl oxidase 1 (QSOX1)</td><td>0.3</td><td>0.0001</td><td>0.93</td><td>0.51</td><td>0.005</td></tr><tr><td>KIAA1199</td><td>KIAA1199 (KIAA1199)</td><td>12.3</td><td>0.0001</td><td>1.18</td><td>0.49</td><td>0.005</td></tr><tr><td>SLC11A1</td><td>Solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1 (SLC11A1)</td><td>0.04</td><td>0.0001</td><td>1.04</td><td>0.92</td><td>0.005</td></tr><tr><td>OLR1</td><td>Oxidized low density lipoprotein (lectin-like) receptor 1 (OLR1)</td><td>0.16</td><td>0.0001</td><td>1.04</td><td>0.84</td><td>0.005</td></tr><tr><td>CD80</td><td>CD80 molecule (CD80)</td><td>26.9</td><td>0.0001</td><td>1.6</td><td>0.16</td><td>0.008</td></tr><tr><td>FOS</td><td>v-fos FBJ murine osteosarcoma viral oncogene homolog (FOS)</td><td>0.06</td><td>0.0001</td><td>1.04</td><td>0.92</td><td>0.005</td></tr><tr><td>LTA4H</td><td>Leukotriene A4 hydrolase (LTA4H)</td><td>0.04</td><td>0.0001</td><td>0.74</td><td>0.35</td><td>0.007</td></tr><tr><td>RHBDD2</td><td>Rhomboid domain containing 2 (RHBDD2)</td><td>0.05</td><td>0.0001</td><td>0.99</td><td>0.98</td><td>0.005</td></tr><tr><td>HTRA1</td><td>HtrA serine peptidase 1 (HTRA1)</td><td>0.03</td><td>0.0001</td><td>1.07</td><td>0.88</td><td>0.005</td></tr><tr><td>CXCL9</td><td>Chemokine (C-X-C motif) ligand 9 (CXCL9)</td><td>24.1</td><td>0.0001</td><td>1.79</td><td>0.1</td><td>0.01</td></tr><tr><td>C5ORF29</td><td>Chromosome 5 open reading frame 29 (C5orf29)</td><td>0.08</td><td>0.0002</td><td>0.85</td><td>0.58</td><td>0.008</td></tr><tr><td>SEPT9</td><td>Septin 9 (SEPT9)</td><td>0.18</td><td>0.0002</td><td>0.81</td><td>0.27</td><td>0.01</td></tr><tr><td>ASCL2</td><td>Achaete-scute complex homolog 2 (Drosophila) (ASCL2)</td><td>5.43</td><td>0.0002</td><td>1.85</td><td>0.01</td><td>0.018</td></tr><tr><td>TPST1</td><td>Tyrosylprotein sulfotransferase 1 (TPST1)</td><td>0.07</td><td>0.0002</td><td>0.94</td><td>0.87</td><td>0.008</td></tr><tr><td>COL23A1</td><td>Collagen, type XXIII, alpha 1 (COL23A1)</td><td>0.06</td><td>0.0002</td><td>1.17</td><td>0.63</td><td>0.006</td></tr><tr><td>SERPING1</td><td>Serpin peptidase inhibitor, clade G (C1 inhibitor), member 1 (angioedema, hereditary) (SERPING1)</td><td>19.5</td><td>0.0002</td><td>1.3</td><td>0.44</td><td>0.01</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3633862_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    121.8,
+    690.3,
+    494.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3633862_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">DEFINITION</td><td colspan=\"2\">Monocytes</td><td colspan=\"2\">T-cells</td><td rowspan=\"2\">Cell-type*IFN-b P-value3</td></tr><tr><td>Fold change1</td><td>P-value2</td><td>Fold change1</td><td>P-value2</td></tr><tr><td>AZI2</td><td>5-azacytidine induced 2 (AZI2)</td><td>0.65</td><td>0.139</td><td>2.23</td><td>0.018</td><td>0.036</td></tr><tr><td>C1ORF173</td><td>Chromosome 1 open reading frame 173 (C1orf173)</td><td>1.31</td><td>0.207</td><td>2.95</td><td>0.002</td><td>0.045</td></tr><tr><td>CD68</td><td>CD68 antigen (CD68)</td><td>0.9</td><td>0.792</td><td>4</td><td>0.005</td><td>0.037</td></tr><tr><td>CDA</td><td>Eytidine deaminase (CDA)</td><td>1.998</td><td>0.011</td><td>7.08</td><td>2e24</td><td>0.016</td></tr><tr><td>CMTM8</td><td>CKLF-like MARVEL transmembrane domain containing 8 (CMTM8)</td><td>0.58</td><td>0.104</td><td>2.11</td><td>0.041</td><td>0.043</td></tr><tr><td>CYP2J2</td><td>Cytochrome P450, family 2, subfamily J, polypeptide 2 (CYP2J2)</td><td>1.04</td><td>0.933</td><td>6.52</td><td>0.001</td><td>0.022</td></tr><tr><td>ECGF1</td><td>Endothelial cell growth factor 1 (platelet-derived) (ECGF1)</td><td>0.93</td><td>0.8</td><td>6.96</td><td>3e24</td><td>0.01</td></tr><tr><td>GORASP1</td><td>Golgi reassembly stacking protein 1, 65kDa (GORASP1)</td><td>0.82</td><td>0.58</td><td>2.77</td><td>0.014</td><td>0.049</td></tr><tr><td>HS.386275</td><td>cl02h05.z1 Hembase; Erythroid Precursor Cells (LCB:cl library)</td><td>0.99</td><td>0.991</td><td>3.79</td><td>0.007</td><td>0.048</td></tr><tr><td>HS.570308</td><td>cDNA clone IMAGp998F201004 sequence</td><td>0.9</td><td>0.752</td><td>2.58</td><td>0.011</td><td>0.049</td></tr><tr><td>LPIN2</td><td>Lipin 2 (LPIN2)</td><td>0.68</td><td>0.207</td><td>2.59</td><td>0.013</td><td>0.035</td></tr><tr><td>MKRN1</td><td>Makorin, ring finger protein, 1 (MKRN1)</td><td>0.82</td><td>0.42</td><td>2.09</td><td>0.013</td><td>0.043</td></tr><tr><td>PIM2</td><td>Pim-2 oncogene (PIM2)</td><td>0.62</td><td>0.239</td><td>2.71</td><td>0.029</td><td>0.047</td></tr><tr><td>PRKD2</td><td>Protein kinase D2 (PRKD2)</td><td>0.83</td><td>0.545</td><td>4.18</td><td>0.002</td><td>0.021</td></tr><tr><td>RASGRP3</td><td>RAS guanyl releasing protein 3 (calcium and DAG-regulated) (RASGRP3)</td><td>1.99</td><td>0.024</td><td>5.14</td><td>0.001</td><td>0.048</td></tr><tr><td>RGS1</td><td>Regulator of G-protein signaling 1 (RGS1)</td><td>1.22</td><td>0.421</td><td>3.32</td><td>0.002</td><td>0.038</td></tr><tr><td>SLFN13</td><td>Schlafen family member 13 (SLFN13)</td><td>0.84</td><td>0.654</td><td>4.33</td><td>0.004</td><td>0.03</td></tr><tr><td>SOBP</td><td>Sine oculis binding protein homolog (Drosophila) (SOBP)</td><td>0.82</td><td>0.455</td><td>3.06</td><td>0.003</td><td>0.023</td></tr><tr><td>TRIM25</td><td>Tripartite motif-containing 25 (TRIM25)</td><td>1.52</td><td>0.18</td><td>6.85</td><td>0.001</td><td>0.028</td></tr><tr><td>TTC21A</td><td>Tetratricopeptide repeat domain 21A (TTC21A)</td><td>1.34</td><td>0.386</td><td>6.88</td><td>0.001</td><td>0.028</td></tr><tr><td>FCHSD2</td><td>Delta-like 1 (Drosophila) (DLL1)</td><td>0.48</td><td>0.073</td><td>2.37</td><td>0.044</td><td>0.04</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3633862_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    120.1,
+    666.4,
+    396.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3633862_table_3.png",
+   "html": "<table><tr><td></td><td>GO Term</td><td>Description</td><td>p-value</td><td>Enrichment2</td></tr><tr><td rowspan=\"6\">Monocytes</td><td>GO:0006952</td><td>defense response</td><td>3E216</td><td>2.7</td></tr><tr><td>GO:0002376</td><td>immune system process</td><td>9E214</td><td>2.15</td></tr><tr><td>GO:0009611</td><td>response to wounding</td><td>2E213</td><td>3.24</td></tr><tr><td>GO:0006954</td><td>inflammatory response</td><td>1E212</td><td>3.31</td></tr><tr><td>GO:0006955</td><td>immune response</td><td>2E210</td><td>2.22</td></tr><tr><td>GO:0006414</td><td>translation elongation</td><td>4E210</td><td>1.97</td></tr><tr><td rowspan=\"10\">T cells</td><td>GO:0009615</td><td>response to virus</td><td>3E223</td><td>22.06</td></tr><tr><td>GO:0002376</td><td>immune system process</td><td>1E222</td><td>3.34</td></tr><tr><td>GO:0006955</td><td>immune response</td><td>4E219</td><td>3.9</td></tr><tr><td>GO:0051707</td><td>response to other organism</td><td>9E219</td><td>14.67</td></tr><tr><td>GO:0009607</td><td>response to biotic stimulus</td><td>2E217</td><td>6.57</td></tr><tr><td>GO:0051704</td><td>multi-organism process</td><td>4E214</td><td>4.62</td></tr><tr><td>GO:0050896</td><td>response to stimulus</td><td>1E212</td><td>1.79</td></tr><tr><td>GO:0002474</td><td>antigen processing and presentation of peptide antigen via MHC class I</td><td>1E211</td><td>6.17</td></tr><tr><td>GO:0006952</td><td>defense response</td><td>2E211</td><td>2.95</td></tr><tr><td>GO:0048002</td><td>antigen processing and presentation of peptide antigen</td><td>3E210</td><td>5.05</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3633862_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    551.3,
+    670.9,
+    879.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3633862_table_4.png",
+   "html": "<table><tr><td></td><td>Canonical pathway</td><td>p-value</td><td>Ratio1</td></tr><tr><td rowspan=\"10\">Monocytes</td><td>Communication between Innate and Adaptive Immune Cells</td><td>2E25</td><td>0.12</td></tr><tr><td>Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses</td><td>1E24</td><td>0.14</td></tr><tr><td>TREM1 Signaling</td><td>1E24</td><td>0.15</td></tr><tr><td>Leukocyte Extravasation Signaling</td><td>3E24</td><td>0.10</td></tr><tr><td>HMGB1 Signaling</td><td>3E24</td><td>0.13</td></tr><tr><td>Systemic Lupus Erythematosus Signaling</td><td>3E24</td><td>0.09</td></tr><tr><td>IL-6 Signaling</td><td>1E23</td><td>0.12</td></tr><tr><td>Chemokine Signaling</td><td>1E23</td><td>0.13</td></tr><tr><td>T Cell Receptor Signaling</td><td>1E23</td><td>0.11</td></tr><tr><td>IL-3 Signaling</td><td>2E23</td><td>0.13</td></tr><tr><td rowspan=\"10\">T cells</td><td>Interferon Signaling</td><td>1E214</td><td>0.28</td></tr><tr><td>Activation of IRF by Cytosolic Pattern Recognition Receptors</td><td>5E210</td><td>0.12</td></tr><tr><td>Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses</td><td>5E28</td><td>0.09</td></tr><tr><td>Retinoic acid Mediated Apoptosis Signaling</td><td>6E25</td><td>0.07</td></tr><tr><td>Role of RIG1-like Receptors in Antiviral Innate Immunity</td><td>2E24</td><td>0.08</td></tr><tr><td>TREM1 Signaling</td><td>6E24</td><td>0.06</td></tr><tr><td>JAK/Stat Signaling</td><td>1E22</td><td>0.04</td></tr><tr><td>PDGF Signaling</td><td>1E22</td><td>0.04</td></tr><tr><td>IL-15 Production</td><td>2E22</td><td>0.06</td></tr><tr><td>Pyrimidine Metabolism</td><td>2E22</td><td>0.02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3633862_table_5",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    121.8,
+    670.9,
+    417.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3633862_table_5.png",
+   "html": "<table><tr><td>Gene symbol</td><td>Entrez Gene ID</td><td>Forward</td><td>Reverse</td><td>Source</td></tr><tr><td>INDO</td><td>3620</td><td>GATGAAGAAGTGGGCTTTGC</td><td>TCAACTCTTTCTCGAAGCTGG</td><td>qPrimerDepot</td></tr><tr><td>ICAM1</td><td>3383</td><td>TGATGGGCAGTCAACAGCTA</td><td>AGGGTAAGGTTCTTGCCCAC</td><td>qPrimerDepot</td></tr><tr><td>IL1B</td><td>3553</td><td>GAAGCTGATGGCCCTAAACA</td><td>AAGCCCTTGCTGTAGTGGTG</td><td>qPrimerDepot</td></tr><tr><td>TRAF1</td><td>7185</td><td>CTATAAGCCCAGGAAGCCG</td><td>CTTCCCTTGAAGGAGCAGC</td><td>qPrimerDepot</td></tr><tr><td>ASCL2</td><td>430</td><td>TCTAAGGGCACAGAGAATCCAT</td><td>ACAAAAATAGGTCTCCGTTTGC</td><td>UPL1</td></tr><tr><td>CD38</td><td>952</td><td>CAGACCGTACCTTGCAACAA</td><td>AGGTCATCAGCAAGGTAGCC</td><td>UPL</td></tr><tr><td>CD83</td><td>9308</td><td>CTCCAGCTTCTGCTCCTGA</td><td>GCAAGCCACCTTCACCTC</td><td>UPL</td></tr><tr><td>LTA4H</td><td>4048</td><td>TCACGGTCCAGTCTCAGGA</td><td>TTTTCTATTGTAAGGTCCTTTGTATCC</td><td>UPL</td></tr><tr><td>RIPK2</td><td>8767</td><td>TCCACTCTCAACTGCAGGAA</td><td>GGATCCACTGCTGGGCTA</td><td>UPL</td></tr><tr><td>SIGLEC10</td><td>89790</td><td>TCCTATGCGGAGATGCTACTG</td><td>CAGAATCTCCCATCCATAGCC</td><td>UPL</td></tr><tr><td>TBXAS1</td><td>6916</td><td>CACTTTCTTTTGCCACCTACCT</td><td>TTCCTCGAGGCTGCAGAA</td><td>UPL</td></tr><tr><td>TRIM25</td><td>7706</td><td>TCCGAACTCAACATCTCTCAAG</td><td>GCGGTGTTGTAGTCCAGGAT</td><td>UPL</td></tr><tr><td>UBE2D2</td><td>7322</td><td>ATTGAATGATCTGGCACGGG</td><td>GTCATTTGGCCCCATTATTG</td><td>RTPrimerDB</td></tr><tr><td>IL1A</td><td>3552</td><td>ACTGCCCAAGATGAAGACCA</td><td>CCGTGAGTTTCCCAGAAGAA</td><td>qPrimerDepot</td></tr><tr><td>HMGB1</td><td>3146</td><td>CCCAAAAGCGTGAGCTTAAAAT</td><td>AGTCTCGTTTCCTGAGCAGTCC</td><td>Yang et al. [80]</td></tr><tr><td>IL8</td><td>3576</td><td>GCCAAGGAGTGCTAAAGAAC</td><td>TTCTCCACAACCCTCTGCAC</td><td>Gene Runner</td></tr><tr><td>EDN1</td><td>1906</td><td>TATCAGCAGTTAGTGAGAGG</td><td>CGAAGGTCTGTCACCAATGTGC</td><td>Biowww.net</td></tr><tr><td>RXRA</td><td>6256</td><td>TTCGCTAAGCTCTTGCTC</td><td>ATAAGGAAGGTGTCAATGGG</td><td>Biowww.net</td></tr></table>"
+  }
+ ]
+}

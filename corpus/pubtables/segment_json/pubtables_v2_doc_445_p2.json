@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_445",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    463.0,
+    49.0,
+    727.4,
+    61.5
+   ],
+   "ocr": "Mexiletine and Lidocaine Block Nav1.5 and Nav1.7 Channels"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    532.6,
+    107.4
+   ],
+   "ocr": "Table 2. Parameters obtained from steady-state fast inactivation curve fittings with Boltzmann Function."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    232.0
+   ],
+   "ocr": "Nav1.5 Nav1.7\nV1/2 (mV) k V1/2 (mV) k\ncontrol -83.5 ± 1.4 (n = 23) 4.6 ± 0.1 -78.0 ± 1.4 (n = 8) 5.0 ± 0.2\nmexiletine 0.3 mM -92.3 ± 1.2 (n = 12) *** 6.0 ± 0.2*** -88.7 ± 1.1 (n = 13) *** 6.3 ± 0.3***\nmexiletine 1.0 mM -103.8 ± 1.4 (n = 11) *** 7.0 ± 0.2*** -95.2 ± 1.1 (n = 12) *** 6.7 ± 0.2***\nlidocaine 0.3 mM -90.1 ± 1.3 (n = 12) *** 6.2 ± 0.2*** -88.9 ± 1.1 (n = 8) *** 6.7 ± 0.2***\nlidocaine 1.0 mM -100.2 ± 1.3 (n = 15) *** 6.9 ± 0.2*** -101.6 ± 1.4 (n = 7) *** 7.0 ± 0.2***",
+   "table_id": "PMC4465899_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    244.5,
+    690.9,
+    293.8
+   ],
+   "ocr": "Note: Asterisk indicates values derived from ﬁtting the Boltzmann function that differ from the corresponding values in control (drug-free) condition. ***P < 0.001, one-way ANOVA. doi:10.1371/journal.pone.0128653.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    329.2,
+    727.3,
+    899.4
+   ],
+   "ocr": "Slow inactivation, which determines the propensity to generate repetitive firing and the ex- tent of action potential backpropagation, is functionally distinct from fast inactivation [6]. We used the protocol of a constant 10 s conditioning pulse and measured the fraction of available currents. We detected a prominent 24.4 mV difference between two isoforms for steady-state slow inactivation in control condition (Nav1.5: V1/2 = -65.4 ± 11.9 mV, n = 5; Nav1.7: V1/2 = -41.0 ± 3.4 mV, n = 5; p<0.001, unpaired t-test). As similar with steady-state fast inactivation, the slow component displayed a negative hyperpolarized shift under the effects of mexiletine or lidocaine in a dose-dependent manner. Mexiletine at 0.3 mM and 1.0 mM caused a shift of V1/2 for Nav1.5 to the negative direction by 23.2 mV (n = 5) and 37.0 mV (n = 6), respectively, as compared with the control (p<0.05, one-way ANOVA, F = 5.76). Lidocaine at 0.3 mM and 1.0 mM shifted the V1/2 for Nav1.5 to the left by 27.2 mV (n = 7) and 30.0 mV (n = 5), respec- tively (p<0.001, one-way ANOVA, F = 22.87, Fig 3B and Table 3). For Nav1.7, mexiletine at 0.3 mM and 1.0 mM shifted the V1/2 to the left by 20.7 mV (n = 5) and 33.1 mV (n = 5), respec- tively (p<0.01, one-way ANOVA, F = 9.77). Lidocaine at 0.3 mM and 1.0 mM shifted the V1/2 for Nav1.7 to the left by 21.6 mV (n = 5) and 38.7 mV (n = 6), respectively (p<0.05, one-way ANOVA, F = 6.54; Fig 3C and Table 3). The steepness factor is similar to the control for Nav1.7 (p = 0.3482, one-way ANOVA, F = 1.19), whereas for Nav1.5 the curves became steeper in the presence of mexiletine or lidocaine (p<0.01, one-way ANOVA, F = 5.42). These results showed that both mexiletine and lidocaine significantly caused the shift of voltage-dependent inactivation of Nav1.5 or Nav1.7 to the hyperpolarized direction, reflecting a shift in equilibrium from resting to inactivated states, and thus providing a basis for suppress- ing repetitive firing. Facilitation of closed-state inactivation by mexiletine and lidocaine Inactivation can occur from pre-open closed states (closed-state inactivation, CSI) at modestly depolarized and hyperpolarized membrane potentials. Voltage-gated sodium channels utilize CSI to regulate firing frequency. To test the effects of mexiletine and lidocaine on CSI, we gen- erated a depolarization protocol that contains a conditioning pulse at -80 mV with variable in- tervals from 0.1 ms to 10 s and a subsequent test pulse at -20 mV to measure the availability of Nav1.5 or Nav1.7 currents (Fig 4, inset). The onset of CSI was best fitted with the sum of two exponential, τ1 and τ2, representing time constants of fast and slow inactivation, respectively (Table 4). We found that the fast inactivation constants, τ1 values for both channels, were in the same range with Nav1.5 at 121.7 ± 10.3 ms and Nav1.7 at 126.7 ± 16.8 ms (p = 0.8035, un- paired t-test). In the presence of 0.3 or 1.0 mM lidocaine, there was little decrease for τ1 values"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0128653 June 11, 2015 8 / 20"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_328",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    749,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2890001_table_0",
+   "page_num": 1,
+   "bbox": [
+    83.9,
+    761.0,
+    655.7,
+    871.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2890001_table_0.png",
+   "html": "<table><tr><td>Window period</td><td>3 m (91.5 d)</td><td>6 m (183 d)</td><td>9 m (274 d)</td><td>12 m (366 d)</td><td>15 m (457 d)</td><td>18 m (549 d)</td></tr><tr><td>BED Cut-off</td><td>0.325</td><td>0.733</td><td>0.90</td><td>1.51</td><td>1.89</td><td>2.27</td></tr><tr><td>95% CI</td><td>0.21 to 0.41</td><td>0.49 to 1.14</td><td>0.66 to 1.50</td><td>0.88 to 1.89</td><td>1.58 to 2.17</td><td>2.02 to 2.64</td></tr><tr><td>AI Cut-off</td><td>31.6</td><td>80.5</td><td>90.0</td><td>94.0</td><td>96.0</td><td>NC</td></tr><tr><td>95% CI</td><td>20.6 to 37.0</td><td>42.9 to 90.1</td><td>84.0 to 94.0</td><td>90.0 to 97.5</td><td>94.0 to 99.7</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2890001_table_1",
+   "page_num": 2,
+   "bbox": [
+    83.9,
+    158.7,
+    633.5,
+    206.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2890001_table_1.png",
+   "html": "<table><tr><td>BED - AI Cut-off</td><td>0.325 - 31.6</td><td>0.733 - 80.5</td><td>0.90 - 90.0</td><td>1.51 - 94.0</td><td>1.89 - 96.0</td></tr><tr><td>Window period</td><td>65.9 d</td><td>159 d</td><td>213 d</td><td>268 d</td><td>300 d</td></tr><tr><td>95% CI in days</td><td>45.3 to 93.5</td><td>122 to 211</td><td>163 to 264</td><td>211 to 352</td><td>234 to 388</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2890001_table_2",
+   "page_num": 3,
+   "bbox": [
+    83.9,
+    158.3,
+    658.5,
+    803.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2890001_table_2.png",
+   "html": "<table><tr><td>BED</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cut-off</td><td>0.325</td><td>0.733</td><td>0.900</td><td>1.51</td><td>1.89</td><td>2.27</td></tr><tr><td>Window period</td><td>3m (91.5d)</td><td>6m (183d)</td><td>9m (274d)</td><td>12m (366d)</td><td>15m (457d)</td><td>18m (549d)</td></tr><tr><td>False LTS (%)</td><td>0/3 (0)</td><td>1/12 (8.3)</td><td>5/21 (23.8)</td><td>5/32 (16)</td><td>2/34 (5.9)</td><td>3/47 (6.4)</td></tr><tr><td>95% CI</td><td>0 to 0.53</td><td>0.5 to 32</td><td>9.6 to 44</td><td>6 to 30</td><td>1 to 17</td><td>2 to 16</td></tr><tr><td>Observed false RS (%)</td><td>1/124 (0.8)</td><td>6/124 (4.8)</td><td>8/124 (6.5)</td><td>NC</td><td>NC</td><td>NC</td></tr><tr><td>95% CI</td><td>0.05 to 3.8</td><td>1.9 to 9.6</td><td>3 to 12</td><td></td><td></td><td></td></tr><tr><td>1Calculated false RS (%)</td><td>2.1</td><td>4.3</td><td>6.4</td><td>8.5</td><td>10.7</td><td>12.8</td></tr><tr><td colspan=\"7\">Tested RSs</td></tr><tr><td>Intervention - Control</td><td>6 - 10</td><td>12 - 27</td><td>15-30</td><td>23 - 48</td><td>33 - 62</td><td>42 - 79</td></tr><tr><td>Uncorrected effect (%)</td><td>43</td><td>58</td><td>53</td><td>55</td><td>49</td><td>50</td></tr><tr><td>95% CI</td><td>-57 to 84</td><td>19 to 80</td><td>13 to 77</td><td>26 to 75</td><td>23 to 67</td><td>27 to 66</td></tr><tr><td colspan=\"7\">2Correction</td></tr><tr><td>Intervention (%)</td><td>28</td><td>29</td><td>34</td><td>30</td><td>26</td><td>24</td></tr><tr><td>Control (%)</td><td>24</td><td>18</td><td>24</td><td>20</td><td>20</td><td>18</td></tr><tr><td>Total (%)</td><td>25</td><td>21</td><td>28</td><td>23</td><td>22</td><td>21</td></tr><tr><td>Corrected effect (%)</td><td>46</td><td>63</td><td>59</td><td>60</td><td>53</td><td>53</td></tr><tr><td>95% CI</td><td>NC</td><td>22 to 88</td><td>9 to 86</td><td>25 to 80</td><td>25 to 73</td><td>30 to 70</td></tr><tr><td colspan=\"7\">AI</td></tr><tr><td>Cut-off</td><td>31.6</td><td>80.5</td><td>90.0</td><td>94.0</td><td>96.0</td><td>NC</td></tr><tr><td>Window period</td><td>3m (91.5d)</td><td>6m (183d)</td><td>9m (274d)</td><td>12m (366d)</td><td>15m (457d)</td><td>18m (549d)</td></tr><tr><td>False LTS (%)</td><td>0/3 (0)</td><td>1/12 (8.3)</td><td>3/21 (14)</td><td>4/32 (13)</td><td>4/34 (12)</td><td>NC</td></tr><tr><td>95% CI</td><td>0 to 53</td><td>0.5 to 32</td><td>4 to 33</td><td>4 to 27</td><td>3.8 to 25</td><td></td></tr><tr><td>Observed false RS (%)</td><td>0/124 (0)</td><td>3/124 (2.4)</td><td>15/124 (12)</td><td>NC</td><td>NC</td><td>NC</td></tr><tr><td>95% CI</td><td>0 to 2.4</td><td>0.6 to 6.2</td><td>7 to 19</td><td></td><td></td><td></td></tr><tr><td>1Calculated false RS (%)</td><td>2.9</td><td>5.9</td><td>8.8</td><td>11.8</td><td>14.7</td><td>NC</td></tr><tr><td>Tested RSs</td><td></td><td></td><td></td><td></td><td></td><td>NC</td></tr><tr><td>Intervention - Control</td><td>3 - 11</td><td>10 - 19</td><td>18-31</td><td>26 - 44</td><td>33 - 62</td><td></td></tr><tr><td>Uncorrected effect (%)</td><td>74</td><td>50</td><td>45</td><td>44</td><td>50</td><td>NC</td></tr><tr><td>95% CI</td><td>19 to 100</td><td>-6 to 78</td><td>3 to 72</td><td>17 to 71</td><td>21 to 69</td><td></td></tr><tr><td>2Correction</td><td></td><td></td><td></td><td></td><td></td><td>NC</td></tr><tr><td>Intervention (%)</td><td>77</td><td>47</td><td>39</td><td>36</td><td>36</td><td></td></tr><tr><td>Control (%)</td><td>30</td><td>35</td><td>32</td><td>31</td><td>27</td><td></td></tr><tr><td>Total (%)</td><td>40</td><td>39</td><td>35</td><td>33</td><td>30</td><td></td></tr><tr><td>Corrected effect (%)</td><td>92</td><td>59</td><td>50</td><td>49</td><td>55</td><td>NC</td></tr><tr><td>95% CI</td><td>14 to 100</td><td>-14 to 100</td><td>-13 to 83</td><td>4 to 78</td><td>25 to 77</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2890001_table_3",
+   "page_num": 4,
+   "bbox": [
+    83.9,
+    158.3,
+    660.4,
+    485.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2890001_table_3.png",
+   "html": "<table><tr><td>BED-AI</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BED - AI Cut-off</td><td>0.325 - 31.6</td><td>0.733 - 80.5</td><td>0.900 - 90.0</td><td>1.51 - 94.0</td><td>1.89 - 96.0</td><td>NC</td></tr><tr><td>Window period</td><td>65.9d</td><td>159d</td><td>213d</td><td>268d</td><td>300d</td><td>NC</td></tr><tr><td>False LTS (%)</td><td>NC</td><td>1/9 (11)</td><td>1/13 (7.7)</td><td>2/16 (13)</td><td>3/27 (11)</td><td>NC</td></tr><tr><td>95% CI</td><td></td><td>1 to 40</td><td>0.4 to 30</td><td>2 to 33</td><td>3 to 26</td><td></td></tr><tr><td>Observed false RS (%)</td><td>0/124 (0)</td><td>2/124 (1.6)</td><td>2/124 (1.6)</td><td>6/124 (4.8)</td><td>NC</td><td>NC</td></tr><tr><td>95% CI</td><td>0 to 2.4</td><td>0.25 to 5.0</td><td>0.3 to 5</td><td>1.9 to 9.6</td><td></td><td></td></tr><tr><td>1Calculated false RS (%)</td><td>0.9</td><td>2.1</td><td>2.7</td><td>3.5</td><td>3.9</td><td>NC</td></tr><tr><td>Tested RSs</td><td></td><td></td><td></td><td></td><td></td><td>NC</td></tr><tr><td>Intervention - Control</td><td>2 - 7</td><td>8 - 17</td><td>9-21</td><td>11 - 30</td><td>16 - 41</td><td></td></tr><tr><td>Uncorrected effect (%)</td><td>73</td><td>55</td><td>59</td><td>65</td><td>63</td><td>NC</td></tr><tr><td>95% CI</td><td>NC</td><td>-1 to 84</td><td>8 to 84</td><td>33 to 85</td><td>36 to 81</td><td></td></tr><tr><td>2Correction</td><td></td><td></td><td></td><td></td><td></td><td>NC</td></tr><tr><td>Intervention (%)</td><td>36</td><td>21</td><td>24</td><td>25</td><td>20</td><td></td></tr><tr><td>Control (%)</td><td>15</td><td>14</td><td>15</td><td>13</td><td>11</td><td></td></tr><tr><td>Total (%)</td><td>19</td><td>16</td><td>17</td><td>17</td><td>13</td><td></td></tr><tr><td>Corrected effect (%)</td><td>80</td><td>59</td><td>64</td><td>70</td><td>67</td><td>NC</td></tr><tr><td>95% CI</td><td>NC</td><td>-2 to 93</td><td>6 to 92</td><td>39 to 90</td><td>38 to 86</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2890001_table_4",
+   "page_num": 5,
+   "bbox": [
+    83.9,
+    158.7,
+    659.9,
+    876.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2890001_table_4.png",
+   "html": "<table><tr><td colspan=\"5\">Visit A</td></tr><tr><td>Label</td><td>V1</td><td>V3</td><td>V1</td><td>V2</td></tr><tr><td>HIV positive cases</td><td>127</td><td>148</td><td>124</td><td>124</td></tr><tr><td>HIV negative cases</td><td>11</td><td>35</td><td>32</td><td>56</td></tr><tr><td colspan=\"5\">Visit B</td></tr><tr><td>Label</td><td>V2</td><td>V4</td><td>V3</td><td>V4</td></tr><tr><td>HIV positive cases</td><td>138</td><td>183</td><td>156</td><td>180</td></tr><tr><td>1HIV negative cases</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td colspan=\"5\">From visit A to visit B</td></tr><tr><td>Average duration</td><td>3.6 m</td><td>8.8 m</td><td>12.6 m</td><td>18.0 m</td></tr><tr><td>HIV incident cases</td><td>11</td><td>35</td><td>32</td><td>56</td></tr><tr><td colspan=\"5\">BED</td></tr><tr><td>Cut-off</td><td>0.325</td><td>0.90</td><td>1.51</td><td>2.27</td></tr><tr><td>Window period</td><td>3.0 m</td><td>9.0 m</td><td>12.0 m</td><td>18.0 m</td></tr><tr><td>Tested recent</td><td>12</td><td>43</td><td>54</td><td>110</td></tr><tr><td>Tested recent not incident case</td><td>6</td><td>25</td><td>21</td><td>53</td></tr><tr><td>Tested recent and not incident case</td><td>6</td><td>18</td><td>33</td><td>57</td></tr><tr><td>Not tested recent and incident cases</td><td>5</td><td>10</td><td>11</td><td>3</td></tr><tr><td>Kappa statistics [95% CI]</td><td>0.64 [0.41 to 0.81]</td><td>0.55 [0.40 to 0.69]</td><td>0.31 [0.16 to 0.46]</td><td>0.39 [0.26 to 0.51]</td></tr><tr><td>Sensitivity (%) [95% CI]</td><td>55 [28 to 79]</td><td>71 [56 to 84]</td><td>66 [49 to 80]</td><td>95 [87 to 99]</td></tr><tr><td>Specificity (%) [95% CI]</td><td>95 [91 to 98]</td><td>88 [82 to 92]</td><td>73 [65 to 81]</td><td>54 [45 to 63]</td></tr><tr><td colspan=\"5\">AV</td></tr><tr><td>Cut-off</td><td>31.6</td><td>90</td><td>94</td><td>NC</td></tr><tr><td>Window period</td><td>3.0 m</td><td>9.0 m</td><td>12.0 m</td><td></td></tr><tr><td>Tested recent</td><td>11</td><td>49</td><td>44</td><td></td></tr><tr><td>Tested recent and incident case</td><td>8</td><td>28</td><td>20</td><td></td></tr><tr><td>Tested recent and not incident case</td><td>3</td><td>21</td><td>24</td><td></td></tr><tr><td>Not tested recent and incident cases</td><td>3</td><td>7</td><td>12</td><td></td></tr><tr><td>Kappa statistics [95% CI]</td><td>0.48 [0.31 to 0.64]</td><td>0.57 [0.43 to 0.71]</td><td>0.38 [0.23 to 0.53]</td><td></td></tr><tr><td>Sensitivity (%) [95% CI]</td><td>73 [45 to 92]</td><td>80 [65 to 91]</td><td>63 [46 to 78]</td><td></td></tr><tr><td>Specificity (%) [95% CI]</td><td>98 [94 to 99]</td><td>86 [79 to 91]</td><td>81 [73 to 87]</td><td></td></tr><tr><td colspan=\"5\">BED-AI</td></tr><tr><td>Cut-off</td><td>20.40 - 41</td><td>1.51 - 94</td><td>NC</td><td>NC</td></tr><tr><td>Window period</td><td>9.0 m</td><td>8.8 m</td><td></td><td></td></tr><tr><td>Tested recent</td><td>10</td><td>38</td><td></td><td></td></tr><tr><td>Tested recent and incident case</td><td>7</td><td>27</td><td></td><td></td></tr><tr><td>Tested recent and not incident case</td><td>3</td><td>11</td><td></td><td></td></tr><tr><td>Not tested recent and incident cases</td><td>4</td><td>8</td><td></td><td></td></tr><tr><td>Kappa statistics [95% CI]</td><td>0.70 [0.54 to 0.87]</td><td>0.68 [0.53 to 0.82]</td><td></td><td></td></tr><tr><td>Sensitivity (%) [95% CI]</td><td>64 [36 to 86]</td><td>77 [62 to 89]</td><td></td><td></td></tr><tr><td>Specificity (%) [95% CI]</td><td>98 [94 to 99]</td><td>93 [88 to 96]</td><td></td><td></td></tr></table>"
+  }
+ ]
+}

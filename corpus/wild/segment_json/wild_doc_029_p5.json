@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_029",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The analysis of genomic data is essential for understanding genetic variation and functional genomics in various species. The accompanying table presents a comprehensive overview of the genomic characteristics across different categories, highlighting key metrics such as the \"No. of reads (a)\" and the \"No. of annotated genes.\" These metrics provide insight into the sequencing depth and the completeness of the genomic assembly, which are critical for subsequent analyses in comparative genomics and evolutionary studies."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    155
+   ],
+   "ocr": "The \"No. of reads (a)\" indicates the total number of sequencing reads obtained for each category, which directly influences the resolution and reliability of the data. A higher number of reads typically correlates with increased confidence in the identified variants and the reconstruction of the genome."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    559.0
+   ],
+   "ocr": "Category No. of reads (a) Length in Mb (%) Predicted single-copy reads Length in Mb No. of contigs and singletons Length in Mb No. of SNPs Nucleotides/SNP No. of annotated genes\nGenes\nCharacterized 948,379 380.0 (8.0%) 734,848 298.8 378,152 153.4 153,787 997 32,307\nUncharacterized 285,529 113.7(2.3%) 109,158 44.0 45,570 18.1 41,844 432\nSub total 1,233,908 493.7 (10.3%) 844,066 342.8 423,722 171.5 195,631 876 32,307\nRepetitive sequences\nCharacterized repeats 7,121,948 2,818.1 (59.0%)\nRepeat junctions(b) 347,811 156.9(3.3%) 200,564 89.3 200,564 89.3 145,907 612\nSub total 7,121,948 2,818.1 (59.0%)\nUncharacterized sequences 3,929,444 1,460.7 (30.7%) 2,398,762 891.2 1,236,912 271.5 155,580 1745\nTotal 12,285,300 4,772. 5 (100%) 3,443,392 1,323 1,861,198 532.3 497,118 1070 32,307",
+   "table_id": "img_032296_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    575,
+    580,
+    602
+   ],
+   "ocr": "Additionally, the \"No. of annotated genes\" column reflects the extent of functional annotation achieved, offering a glimpse into the biological relevance of the assembled sequences."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    590,
+    580,
+    633
+   ],
+   "ocr": "This information is vital for researchers aiming to link genotype with phenotype and for exploring the evolutionary trajectories of the species under study. Overall, the presented data underscore the importance of robust genomic resources in advancing our understanding of genetic diversity and function."
+  }
+ }
+}

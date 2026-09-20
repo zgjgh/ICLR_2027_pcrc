@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_077",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    170,
+    580,
+    197
+   ],
+   "ocr": "In the current market landscape, understanding the duration of fixed income investments is critical for effective portfolio management and risk assessment."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    185,
+    580,
+    228
+   ],
+   "ocr": "The accompanying fixed income duration analysis table provides a comprehensive overview of various asset classes, highlighting key metrics such as the duration and price of government bonds, corporate bonds, and municipal bonds."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    308.0,
+    580.0,
+    590.0
+   ],
+   "ocr": "BondType Duration(Years) Yield(%) Convexity Price ModifiedDuration\nGovernmentBonds 5.2 2.1 8.4 $102.5 4.9\nCorporateBonds 6.1 3.5 9.2 $98.3 5.4\nMunicipalBonds 4.8 2.9 7.1 $100.7 4.5\nHighYieldBonds 7.4 5.2 10.1 $95.0 6.2\nAssetAllocation TotalDuration AverageYield WeightedConvexity PortfolioPrice PortfolioModifiedDuration\nBalancedFund 5.5 3.0 8.7 $101.2 5.1\nIncomeFund 6.3 4.0 9.5 $97.8 5.5\nGrowthFund 4.9 2.5 7.8 $99.4 4.3\nRiskMetrics SharpeRatio Beta Alpha StandardDeviation TrackingError\nBalancedFund 1.2 0.9 3.5 6.8 2.0\nIncomeFund 1.5 1.1 4.0 7.2 1.8",
+   "table_id": "img_085611_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    628,
+    580,
+    701
+   ],
+   "ocr": "For instance, the CorporateBonds category reflects a duration of 5.2 years, indicating a moderate sensitivity to interest rate changes. In contrast, the BalancedFund's duration is slightly elevated at 8.7, suggesting greater interest rate risk. Additionally, the table notes that the MunicipalBonds are priced at $100.7, which may affect their attractiveness in terms of yield versus risk. The IncomeFund, which has a duration of 4.0, appears to be well-positioned for those seeking steady income with lower volatility."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "Moreover, the IncomeFund's yield metric of 1.1 reinforces its role as a conservative investment choice within the fixed income spectrum. Lastly, the analysis of HighYieldBonds reveals a duration of 10.1, which underscores their higher risk profile compared to other fixed income securities. The data presented not only aids in discerning the relative risks associated with each investment but also informs strategic asset allocation decisions, ensuring that portfolio managers are equipped to navigate the complexities of today’s financial environment effectively."
+  }
+ }
+}

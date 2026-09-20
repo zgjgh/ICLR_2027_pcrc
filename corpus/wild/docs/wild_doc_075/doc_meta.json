@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_075",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_083448_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    281.0,
+    580.0,
+    664.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_083448_t0.png",
+   "html": "<table><tr><td>ProductCategory</td><td>Revenue(CHF)</td><td>NetIncome(CHF)</td><td>Volume(liters)</td><td colspan=\"3\">DairyProducts</td><td colspan=\"3\">ProductionCosts(CHF)</td></tr><tr><td>Milk</td><td>150M</td><td>30M</td><td>500M</td><td>100M</td><td>25M</td><td>300M</td><td>50M</td><td>15M</td><td>200M</td></tr><tr><td>Cheese</td><td>80M</td><td>15M</td><td>200M</td><td>40M</td><td>10M</td><td>120M</td><td>30M</td><td>7M</td><td>90M</td></tr><tr><td>Yogurt</td><td>70M</td><td>12M</td><td>150M</td><td>35M</td><td>8M</td><td>100M</td><td>20M</td><td>5M</td><td>80M</td></tr><tr><td>Butter</td><td>60M</td><td>10M</td><td>120M</td><td>25M</td><td>6M</td><td>75M</td><td>15M</td><td>4M</td><td>65M</td></tr><tr><td>Cream</td><td>50M</td><td>8M</td><td>100M</td><td>20M</td><td>5M</td><td>50M</td><td>10M</td><td>3M</td><td>45M</td></tr><tr><td>IceCream</td><td>40M</td><td>6M</td><td>80M</td><td>15M</td><td>4M</td><td>30M</td><td>8M</td><td>2M</td><td>35M</td></tr><tr><td>TotalDairy</td><td>450M</td><td>81M</td><td>1.1B</td><td>210M</td><td>58M</td><td>675M</td><td>155M</td><td>41M</td><td>440M</td></tr><tr><td>YearlyGrowth(%)</td><td>5%</td><td>4%</td><td>6%</td><td>5%</td><td>7%</td><td>3%</td><td>6%</td><td>5%</td><td>4%</td></tr><tr><td>MarketShare(%)</td><td>25%</td><td>15%</td><td>10%</td><td>20%</td><td>10%</td><td>5%</td><td>8%</td><td>7%</td><td>6%</td></tr><tr><td>ExportVolume(liters)</td><td>100M</td><td>30M</td><td>50M</td><td>20M</td><td>10M</td><td>15M</td><td>8M</td><td>5M</td><td>12M</td></tr><tr><td>DomesticVolume(liters)</td><td>400M</td><td>70M</td><td>150M</td><td>40M</td><td>5M</td><td>30M</td><td>12M</td><td>3M</td><td>28M</td></tr></table>"
+  },
+  {
+   "table_id": "img_083548_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    389.0,
+    580.0,
+    642.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_083548_t0.png",
+   "html": "<table><tr><td>PipelineSegment</td><td>TariffRate</td></tr><tr><td>VolumeTransported</td><td>RevenueGenerated</td></tr><tr><td>Year-to-Date</td><td>ForecastedTariff</td></tr><tr><td colspan=\"2\">CurrentSegmentData</td><td colspan=\"2\">ProjectedSegmentData</td></tr><tr><td>MainPipeline</td><td>£0.50</td><td>2,500,000m³</td><td>£1,250,000</td></tr><tr><td>BranchA</td><td>£0.55</td><td>1,200,000m³</td><td>£660,000</td></tr><tr><td>BranchB</td><td>£0.60</td><td>800,000m³</td><td>£480,000</td></tr><tr><td>BranchC</td><td>£0.52</td><td>700,000m³</td><td>£364,000</td></tr><tr><td>BranchD</td><td>£0.58</td><td>900,000m³</td><td>£522,000</td></tr><tr><td>TotalVolume</td><td>£0.53</td><td>5,100,000m³</td><td>£2,276,000</td></tr><tr><td>Avg.TariffRate</td><td>£0.54</td><td>3,600,000m³</td><td>£1,944,000</td></tr><tr><td>ForecastedGrowth</td><td>5%</td><td>2024</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_083623_t0",
+   "page_num": 3,
+   "bbox": [
+    11.0,
+    131.0,
+    439.0,
+    725.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_083623_t0.png",
+   "html": "<table><tr><td>InvestmentType</td><td>UnitsSold</td><td>TotalValue</td><td>GrowthRate</td><td>AverageYield</td></tr><tr><td>Stocks</td><td>5000</td><td>₹200M</td><td>12.5%</td><td colspan=\"2\">Equities</td></tr><tr><td>Bonds</td><td>3000</td><td>₹150M</td><td>8.0%</td><td colspan=\"2\">FixedIncome</td><td>RealEstate</td></tr><tr><td>1000</td><td>₹250M</td><td>6.5%</td><td>AlternativeInvestments</td><td colspan=\"4\">Commodities</td><td>700</td><td>₹100M</td></tr><tr><td>5.0%</td><td>MutualFunds</td><td>2000</td><td>₹120M</td><td>9.0%</td><td>HedgeFunds</td><td>300</td><td>₹75M</td><td>10.0%</td><td>PrivateEquity</td></tr><tr><td>150</td><td>₹90M</td><td>11.5%</td><td>TotalInvestments</td><td>TotalUnits</td><td>₹1.0B</td><td>AverageGrowth</td><td>9.5%</td><td>OverallPerformance</td><td>HighYield</td></tr><tr><td>CorporateBonds</td><td>800</td><td>₹60M</td><td>7.0%</td><td>GovernmentBonds</td><td>1200</td><td>₹80M</td><td>5.0%</td><td>InvestmentGrade</td><td>1500</td></tr><tr><td>₹100M</td><td>6.0%</td><td>TotalPortfolio</td><td>TotalValue</td><td>₹1.2B</td><td>AverageYield</td><td>9.1%</td><td>RiskAssessment</td><td>LowRisk</td><td>40%</td></tr><tr><td>MediumRisk</td><td>35%</td><td>HighRisk</td><td>25%</td><td>PerformanceMetrics</td><td>ReturnonInvestment</td><td>8.5%</td><td>SharpeRatio</td><td>1.2</td><td>Alpha</td></tr><tr><td>2%</td><td>Beta</td><td>0.9</td><td>InvestmentStrategy</td><td>GrowthFocus</td><td>60%</td><td>IncomeFocus</td><td>25%</td><td>Balanced</td><td>15%</td></tr><tr><td>TopPerformingAssets</td><td>AssetA</td><td>₹300M</td><td>15%</td><td>AssetB</td><td>₹250M</td><td>14%</td><td>AssetC</td><td>₹200M</td><td>13%</td></tr><tr><td>AssetD</td><td>₹150M</td><td>12%</td><td>MarketOutlook</td><td>Favorable</td><td>PositiveTrends</td><td>EconomicGrowth</td><td>3.5%</td><td>InflationRate</td><td>4%</td></tr><tr><td>RegulatoryChanges</td><td>MinimalImpact</td><td>InvestmentRisks</td><td>MarketVolatility</td><td>High</td><td>CreditRisk</td><td>Moderate</td><td>LiquidityRisk</td><td>Low</td><td>InvestmentHorizon</td></tr><tr><td>ShortTerm</td><td>1Year</td><td>MediumTerm</td><td>3Years</td><td>LongTerm</td><td>5Years</td><td>InvestorComposition</td><td>InstitutionalInvestors</td><td>70%</td><td>RetailInvestors</td></tr><tr><td>30%</td><td>PortfolioDiversification</td><td>BroadlyDiversified</td><td>Yes</td><td>InvestmentAdvisory</td><td>In-houseTeam</td><td>ExpertGuidance</td><td>PerformanceReview</td><td>QuarterlyAssessment</td><td>InvestmentGoals</td></tr><tr><td>CapitalPreservation</td><td>IncomeGeneration</td><td>GrowthAccumulation</td><td>OverallStrategy</td><td>RiskMitigation</td><td>AssetAllocation</td><td>GlobalExposure</td><td>EmergingMarkets</td><td>FocusonAsia</td><td>SustainabilityInitiatives</td></tr><tr><td>GreenInvestments</td><td>SocialResponsibility</td><td>CorporateGovernance</td><td>EthicalBonds</td><td>ImpactInvestments</td><td>CommunityProjects</td><td>PensionFunds</td><td>InsuranceReserves</td><td>TotalReserves</td><td>₹500M</td></tr><tr><td>ClaimsSettled</td><td>₹400M</td><td>NetAssets</td><td>₹1.1B</td><td>LiquidityPosition</td><td>High</td><td>DebttoEquity</td><td>0.5</td><td>CashFlow</td><td>Positive</td></tr><tr><td>InvestmentReturns</td><td>AnnualizedReturns</td><td>9%</td><td>BenchmarkReturns</td><td>8%</td><td>PerformanceComparison</td><td>AboveBenchmark</td><td>MarketTrends</td><td>Bullish</td><td>FutureOutlook</td></tr><tr><td>CautiouslyOptimistic</td><td>InvestmentPolicy</td><td>ConservativeApproach</td><td>FinancialHealth</td><td>Stable</td><td>GrowthPotential</td><td>Moderate</td><td>InvestmentPlan</td><td>LongTermStrategy</td><td>TotalAssets</td></tr></table>"
+  },
+  {
+   "table_id": "img_083802_t0",
+   "page_num": 4,
+   "bbox": [
+    11.0,
+    198.0,
+    433.0,
+    794.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_083802_t0.png",
+   "html": "<table><tr><td colspan=\"4\">InsurtechPolicyIssuance</td><td>Period</td><td colspan=\"2\">PolicyCount</td><td colspan=\"2\">TotalPremiums</td><td>AvgPremium</td><td>YoYGrowth</td><td>MarketShare</td><td>ClaimRatio</td><td>CustomerRetention</td><td>NewPolicies</td></tr><tr><td>Year</td><td>Amount($M)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>TotalPolicies</td><td>PremiumGrowth(%)</td><td>ClaimAmount($M)</td><td>RetentionRate(%)</td><td>GrowthRate(%)</td><td>PolicyCount</td><td>2023</td><td>150.0</td><td>5.0</td><td>12.0</td><td>500.0</td></tr><tr><td>10.0</td><td>250.0</td><td>70.0</td><td>2000</td><td>15.0</td><td>90.0</td><td>3.0</td><td>2024</td><td>160.0</td><td>6.7</td><td>13.0</td><td>525.0</td><td>12.5</td><td>260.0</td><td>72.0</td></tr><tr><td>3.5</td><td>2025</td><td>170.0</td><td>6.3</td><td>14.0</td><td>550.0</td><td>11.6</td><td>270.0</td><td>74.0</td><td>3.8</td><td>2026</td><td>180.0</td><td>5.9</td><td>15.0</td><td>575.0</td></tr><tr><td>10.4</td><td>280.0</td><td>76.0</td><td>3.2</td><td>2027</td><td>190.0</td><td>5.6</td><td>15.5</td><td>600.0</td><td>9.6</td><td>290.0</td><td>78.0</td><td>3.0</td><td>CAGR</td><td>8.5</td></tr><tr><td>2023</td><td>150.0</td><td>5.0</td><td>12.0</td><td>500.0</td><td>10.0</td><td>250.0</td><td>70.0</td><td>2000</td><td>15.0</td><td>90.0</td><td>3.0</td><td>2024</td><td>160.0</td><td>6.7</td></tr><tr><td>13.0</td><td>525.0</td><td>12.5</td><td>260.0</td><td>72.0</td><td>3.5</td><td>2025</td><td>170.0</td><td>6.3</td><td>14.0</td><td>550.0</td><td>11.6</td><td>270.0</td><td>74.0</td><td>3.8</td></tr><tr><td>2026</td><td>180.0</td><td>5.9</td><td>15.0</td><td>575.0</td><td>10.4</td><td>280.0</td><td>76.0</td><td>3.2</td><td>2027</td><td>190.0</td><td>5.6</td><td>15.5</td><td>600.0</td><td>9.6</td></tr><tr><td>290.0</td><td>78.0</td><td>3.0</td><td>CAGR</td><td>8.5</td><td>2023</td><td>150.0</td><td>5.0</td><td>12.0</td><td>500.0</td><td>10.0</td><td>250.0</td><td>70.0</td><td>2000</td><td>15.0</td></tr><tr><td>90.0</td><td>3.0</td><td>2024</td><td>160.0</td><td>6.7</td><td>13.0</td><td>525.0</td><td>12.5</td><td>260.0</td><td>72.0</td><td>3.5</td><td>2025</td><td>170.0</td><td>6.3</td><td>14.0</td></tr><tr><td>550.0</td><td>11.6</td><td>270.0</td><td>74.0</td><td>3.8</td><td>2026</td><td>180.0</td><td>5.9</td><td>15.0</td><td>575.0</td><td>10.4</td><td>280.0</td><td>76.0</td><td>3.2</td><td>2027</td></tr><tr><td>190.0</td><td>5.6</td><td>15.5</td><td>600.0</td><td>9.6</td><td>290.0</td><td>78.0</td><td>3.0</td><td>CAGR</td><td>8.5</td><td>2023</td><td>150.0</td><td>5.0</td><td>12.0</td><td>500.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_084110_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    315.0,
+    580.0,
+    624.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_084110_t0.png",
+   "html": "<table><tr><td colspan=\"2\">ThemeParkAttendance</td><td>Revenue(USD)</td><td>NetIncome(USD)</td><td>CAPEX(USD)</td><td>AttendanceGrowth(%)</td><td>CustomerSatisfaction(%)</td></tr><tr><td>Quarter</td><td>TotalVisitors</td><td>Revenue(USD)</td><td>NetIncome(USD)</td><td>CAPEX(USD)</td><td>GrowthRate(%)</td><td>SatisfactionIndex</td></tr><tr><td>Q1FY2025</td><td>1.2M</td><td>$50M</td><td>$10M</td><td>$5M</td><td>5%</td><td>85%</td></tr><tr><td>Q2FY2025</td><td>1.5M</td><td>$60M</td><td>$12M</td><td>$6M</td><td>15%</td><td>87%</td></tr><tr><td>Q3FY2025</td><td>1.8M</td><td>$70M</td><td>$14M</td><td>$7M</td><td>20%</td><td>90%</td></tr><tr><td>Q4FY2025</td><td>2.0M</td><td>$80M</td><td>$16M</td><td>$8M</td><td>10%</td><td>92%</td></tr><tr><td>TotalFY2025</td><td>6.5M</td><td>$260M</td><td>$52M</td><td>$26M</td><td>50%</td><td>88%</td></tr><tr><td>NorthRegion</td><td>2.3M</td><td>$100M</td><td>$20M</td><td>$10M</td><td>25%</td><td>91%</td></tr><tr><td>SouthRegion</td><td>1.5M</td><td>$70M</td><td>$14M</td><td>$7M</td><td>10%</td><td>89%</td></tr><tr><td>EastRegion</td><td>1.2M</td><td>$60M</td><td>$12M</td><td>$6M</td><td>5%</td><td>85%</td></tr><tr><td>WestRegion</td><td>1.5M</td><td>$80M</td><td>$16M</td><td>$8M</td><td>15%</td><td>90%</td></tr><tr><td>MerchandiseSales(USD)</td><td>$15M</td><td>$20M</td><td>$25M</td><td>$30M</td><td>$70M</td><td>TotalRevenue</td></tr></table>"
+  },
+  {
+   "table_id": "img_084114_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    344.0,
+    580.0,
+    596.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_084114_t0.png",
+   "html": "<table><tr><td>Year</td><td colspan=\"2\">AirCargoTonnage</td><td>GrowthRate</td><td>MarketShare</td></tr><tr><td>2019</td><td>1,200,000</td><td>5.0%</td><td>15.0%</td><td>N/A</td></tr><tr><td>2020</td><td>1,300,000</td><td>8.3%</td><td>16.0%</td><td>N/A</td></tr><tr><td>2021</td><td>1,400,000</td><td>7.7%</td><td>17.0%</td><td>N/A</td></tr><tr><td>2022</td><td>1,600,000</td><td>14.3%</td><td>18.5%</td><td>N/A</td></tr><tr><td>2023</td><td>1,800,000</td><td>12.5%</td><td>19.0%</td><td>N/A</td></tr><tr><td>2024</td><td>2,000,000</td><td>11.1%</td><td>20.0%</td><td>N/A</td></tr><tr><td>Average</td><td>1,500,000</td><td>10.0%</td><td>17.5%</td><td>N/A</td></tr><tr><td>Forecast</td><td>2,200,000</td><td>10.0%</td><td>22.0%</td><td>N/A</td></tr><tr><td>YoYChange</td><td>100,000</td><td>15.0%</td><td>1.5%</td><td>N/A</td></tr><tr><td>Cumulative</td><td>10,600,000</td><td>10.0%</td><td>19.2%</td><td>N/A</td></tr><tr><td>Total</td><td>2,000,000</td><td>11.1%</td><td>20.0%</td><td>N/A</td></tr></table>"
+  },
+  {
+   "table_id": "img_084219_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    130.0,
+    580.0,
+    633.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_084219_t0.png",
+   "html": "<table><tr><td>ProductCategory</td><td>Revenue(GBP)</td><td colspan=\"2\">SalesMix(%)</td><td>GrowthRate(%)</td></tr><tr><td>Coatings</td><td>£250M</td><td colspan=\"2\">45%</td><td>5.0%</td></tr><tr><td>Adhesives</td><td colspan=\"2\">£300M</td><td>55%</td><td>6.5%</td><td>Total</td></tr><tr><td>Region</td><td>Revenue(GBP)</td><td>GrowthRate(%)</td><td>MarketShare(%)</td><td>Europe</td><td>£550M</td></tr><tr><td>5.2%</td><td>40%</td><td>NorthAmerica</td><td>£300M</td><td>3.8%</td><td>30%</td></tr><tr><td>Asia-Pacific</td><td>£150M</td><td>4.5%</td><td>15%</td><td>LatinAmerica</td><td>£50M</td></tr><tr><td>2.0%</td><td>5%</td><td>MiddleEast</td><td>£20M</td><td>1.5%</td><td>2%</td></tr><tr><td>ProductLine</td><td>Revenue(GBP)</td><td>GrowthRate(%)</td><td>MarketShare(%)</td><td>IndustrialCoatings</td><td>£150M</td></tr><tr><td>7.0%</td><td>27%</td><td>ArchitecturalCoatings</td><td>£100M</td><td>6.0%</td><td>18%</td></tr><tr><td>AutomotiveAdhesives</td><td>£180M</td><td>5.5%</td><td>33%</td><td>ConstructionAdhesives</td><td>£120M</td></tr><tr><td>4.0%</td><td>22%</td><td>OtherProducts</td><td>£50M</td><td>3.0%</td><td>9%</td></tr><tr><td>Year</td><td>Revenue(GBP)</td><td>CAGR(%)</td><td>2021</td><td>£450M</td><td>5.5%</td></tr><tr><td>2022</td><td>£480M</td><td>6.0%</td><td>2023</td><td>£510M</td><td>5.8%</td></tr><tr><td>2024</td><td>£530M</td><td>5.0%</td><td>2025</td><td>£550M</td><td>4.5%</td></tr><tr><td>MarketSegment</td><td>Revenue(GBP)</td><td>GrowthRate(%)</td><td>ConsumerGoods</td><td>£300M</td><td>6.5%</td></tr><tr><td>IndustrialApplications</td><td>£200M</td><td>4.5%</td><td>Healthcare</td><td>£50M</td><td>3.0%</td></tr><tr><td>Packaging</td><td>£150M</td><td>5.2%</td><td>TotalSales</td><td>£550M</td><td>5.5%</td></tr><tr><td>OperatingIncome</td><td>NetIncome(€M)</td><td>OperatingMargin(%)</td><td>£80M</td><td>€70M</td><td>14.5%</td></tr><tr><td>CAPEX(GBP)</td><td>R&amp;DInvestment(GBP)</td><td>EmployeeCount</td><td>£50M</td><td>£25M</td><td>5,000</td></tr><tr><td>SustainabilityInitiatives</td><td>Investment(GBP)</td><td>ReductioninEmissions(%)</td><td>£10M</td><td>20%</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_084267_t0",
+   "page_num": 8,
+   "bbox": [
+    14.0,
+    130.0,
+    530.0,
+    687.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_084267_t0.png",
+   "html": "<table><tr><td colspan=\"2\">MarketOverview</td><td>Amount(€M)</td></tr><tr><td colspan=\"2\">GrowthMetrics</td><td>YoYChange(%)</td></tr><tr><td colspan=\"2\">MarketShareAnalysis</td><td colspan=\"3\">MarketShare(%)</td><td colspan=\"2\">CompetitiveLandscape</td></tr><tr><td>CSXCorporation</td><td>500</td><td>10.2</td><td>25.0</td><td>75.3</td><td>10.0</td><td>3.0</td></tr><tr><td>CompanyA</td><td>700</td><td>8.5</td><td>30.0</td><td>80.0</td><td>12.0</td><td>4.5</td></tr><tr><td>CompanyB</td><td>600</td><td>5.0</td><td>20.0</td><td>70.0</td><td>8.0</td><td>2.0</td></tr><tr><td>CompanyC</td><td>400</td><td>9.0</td><td>15.0</td><td>65.0</td><td>6.5</td><td>1.5</td></tr><tr><td>CompanyD</td><td>300</td><td>7.0</td><td>10.0</td><td>60.0</td><td>5.0</td><td>1.0</td></tr><tr><td>CompanyE</td><td>200</td><td>6.0</td><td>5.0</td><td>55.0</td><td>4.0</td><td>0.5</td></tr><tr><td>CompanyF</td><td>100</td><td>4.0</td><td>3.0</td><td>50.0</td><td>3.0</td><td>0.2</td></tr><tr><td>TotalMarket</td><td>3000</td><td>6.0</td><td>100.0</td><td>100.0</td><td>100.0</td><td>0.0</td></tr><tr><td>CAGR2023-2028</td><td>6.5%</td><td>ProjectedGrowth</td><td>8.0%</td><td>FutureTrends</td><td>E-commerceGrowth</td><td>10.0%</td></tr><tr><td>SustainabilityFocus</td><td>15.0%</td><td>TechnologicalAdvances</td><td>12.0%</td><td>RegulatoryChanges</td><td>4.5%</td><td>MarketChallenges</td></tr><tr><td>Competition</td><td>3.0%</td><td>CostPressures</td><td>2.0%</td><td>InfrastructureIssues</td><td>1.5%</td><td>CustomerExpectations</td></tr><tr><td>7.0%</td><td>MarketOpportunities</td><td>NewSegments</td><td>5.0%</td><td>ServiceInnovation</td><td>6.0%</td><td>Partnerships</td></tr><tr><td>4.0%</td><td>DigitalTransformation</td><td>9.0%</td><td>RegulatorySupport</td><td>3.5%</td><td>EconomicFactors</td><td>GDPGrowth</td></tr><tr><td>2.5%</td><td>ConsumerSpending</td><td>3.0%</td><td>TradePolicies</td><td>1.0%</td><td>GeopoliticalStability</td><td>2.0%</td></tr><tr><td>FinalNotes</td><td>MarketDynamics</td><td>EvolvingLandscape</td><td>CSXPositioning</td><td>StrategicInitiatives</td><td>CompetitiveEdge</td><td>SustainablePractices</td></tr><tr><td>FutureOutlook</td><td>GrowthPotential</td><td>InvestmentOpportunities</td><td>MarketReadiness</td><td>InnovationRoadmap</td><td>Data-DrivenDecisions</td><td>Long-TermVision</td></tr><tr><td>SuccessFactors</td><td>OperationalEfficiency</td><td>CustomerSatisfaction</td><td>BrandReputation</td><td>MarketAdaptability</td><td>RevenueGrowth</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_084281_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    323.0,
+    580.0,
+    564.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_084281_t0.png",
+   "html": "<table><tr><td>CatalystType</td><td>PerformanceRating</td><td colspan=\"2\">5-YearPerformance</td></tr><tr><td>ProductName</td><td>Status</td><td>CAGR(%)</td><td>TotalAmount(GBP)</td></tr><tr><td>CatalystA</td><td>Excellent</td><td>15.2</td><td>£5.3M</td></tr><tr><td>CatalystB</td><td>Good</td><td>10.5</td><td>£3.2M</td></tr><tr><td>CatalystC</td><td>Average</td><td>7.8</td><td>£1.9M</td></tr><tr><td>CatalystD</td><td>Poor</td><td>2.5</td><td>£0.5M</td></tr><tr><td>CatalystE</td><td>Excellent</td><td>14.0</td><td>£4.8M</td></tr><tr><td>CatalystF</td><td>Good</td><td>9.3</td><td>£2.7M</td></tr><tr><td>CatalystG</td><td>Average</td><td>6.1</td><td>£1.4M</td></tr><tr><td>CatalystH</td><td>Poor</td><td>3.0</td><td>£0.8M</td></tr><tr><td>CatalystI</td><td>Excellent</td><td>12.5</td><td>£3.9M</td></tr><tr><td>CatalystJ</td><td>Good</td><td>8.7</td><td>£2.1M</td></tr></table>"
+  },
+  {
+   "table_id": "img_084340_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    269.0,
+    580.0,
+    593.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_084340_t0.png",
+   "html": "<table><tr><td colspan=\"2\">CostMetrics</td><td colspan=\"2\">PerformanceRatios</td><td>Forecast</td></tr><tr><td colspan=\"3\">UnitCost(HKD/kWh)</td><td>CapacityFactor(%)</td><td>CycleLife(Cycles)</td><td>Efficiency(%)</td><td>InvestmentIndex</td></tr><tr><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>TotalCost</td></tr><tr><td>500</td><td>60</td><td>3000</td><td>90</td><td>0.85</td><td>1.0</td><td>450</td></tr><tr><td>480</td><td>62</td><td>3100</td><td>91</td><td>0.87</td><td>1.05</td><td>460</td></tr><tr><td>460</td><td>64</td><td>3200</td><td>92</td><td>0.88</td><td>1.10</td><td>470</td></tr><tr><td>450</td><td>65</td><td>3300</td><td>93</td><td>0.89</td><td>1.15</td><td>480</td></tr><tr><td>440</td><td>66</td><td>3400</td><td>94</td><td>0.90</td><td>1.20</td><td>490</td></tr><tr><td>430</td><td>67</td><td>3500</td><td>95</td><td>0.91</td><td>1.25</td><td>500</td></tr><tr><td>420</td><td>68</td><td>3600</td><td>96</td><td>0.92</td><td>1.30</td><td>510</td></tr><tr><td>400</td><td>69</td><td>3700</td><td>97</td><td>0.93</td><td>1.35</td><td>520</td></tr><tr><td>380</td><td>70</td><td>3800</td><td>98</td><td>0.94</td><td>1.40</td><td>530</td></tr></table>"
+  }
+ ]
+}

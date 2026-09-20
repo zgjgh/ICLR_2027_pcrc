@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_208",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    477.7,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Impact of Chaos Functions on Modern Swarm Optimizers"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    504.7,
+    107.4
+   ],
+   "ocr": "Table 2. Description of the data sets used in the study."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    295.8,
+    114.2,
+    679.4,
+    458.2
+   ],
+   "ocr": "Data set No. features No. instances\nLymphography 18 148\nWineEW 13 178\nBreastEW 30 569\nBreastcancer 9 699\nClean1 166 476\nClean2 166 6598\nCongressEW 16 435\nExactly 13 1000\nExactly2 13 1000\nHeartEW 13 270\nIonosphereEW 34 351\nKrvskpEW 36 3196\nM-of-n 13 1000\nPenglungEW 325 73\nSemeion 265 1593\nSonarEW 60 208\nSpectEW 22 267\nTic-tac-toe 9 958\nVote 16 300\nWaveformEW 40 5000\nZoo 16 101",
+   "table_id": "PMC4943604_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    465.6,
+    393.3,
+    477.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158738.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    517.1,
+    727.3,
+    898.4
+   ],
+   "ocr": "3 Results and Discussion 3.1 Data description 21 datasets in Table 2 from the UCI machine learning repository [34] are used as a part of the analyses and examinations results. The data sets were chosen to have different numbers of features and instances of the various problems that the proposed algorithms will be tried on. In this study, the wrapper-based approach for feature selection is using the KNN classifier. KNN is used in the experiments based on trial and error basis where the best decision of K is chosen (K = 5) as the best performing on all the data sets [33]. Through the training process, every wolf/antlion/moth position represents one solution (feature subset). The training set is used to assess the KNN on the validation set all through the optimization to guide the feature selection procedure. The test data are kept avoided the optimization and is let for final assess- ment. The global and optimizer-specific parameter setting is sketched out in Table 3. Every one of the parameters is set either as indicated by particular domain learning as the α, β parameters of the fitness function or based on trial and error on small simulations or regular in the literature. 3.2 Evaluation criteria Singular data sets are divided randomly into three different similar parts to be specific: training, validation, and testing sets in cross-validation manner. The apportioning of the data is repeated for 20 times to guarantee stability and statistical significance of the results. In every run, the fol- lowing measures are recorded from the validation data:"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158738 July 13, 2016 13 / 26"
+  }
+ }
+}

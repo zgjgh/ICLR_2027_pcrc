@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_108",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    251.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9(Suppl 2):S4"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    445.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/S2/S4"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    399.4,
+    130.9
+   ],
+   "ocr": "Table 1: HIV and influenza viral proteins. Some of the most important description of their functions. They are listed by the order of their"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    381.8,
+    107.2,
+    654.1,
+    130.9
+   ],
+   "ocr": "HIV and influenza viral proteins are listed with a brief location in the corresponding virions [7-10]."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    142.1,
+    692.9,
+    500.2
+   ],
+   "ocr": "Major HIV proteins\nProtein Function of the Protein Location\nSU(gp120) Binding of host's CD4 to itself Virion Surface(SU)\nTM (gp41) Involved in fusion with host Transmembrane (TM) at the Virion Envelope\nMA (p17) Matrix Beneath the Enevelope\nVpua Virion release\nVpr Nucleus transportation of viral proteins Within capsid and beneath matrix\nCA (p24) Main core protein Nucleocapsid\nPR (p11) Protease. Within the Core\nRT (p66) Reverse Transcriptase Within th Core\nIN (p32) Integrase. Within the Core\nTata Transcription factor NAa\nMajor influenza A virus proteins\nProtein Function/Description Location\nHA Hemagglutinin allows the attachhment of host's CD4 to itself Envelope\nNA Neuraminidase cleaves sialic acud group to allow virion release into the Transmembrane (TM) at the Virion Envelope\nextracellular region.\nMA (M1, M2) Protein assembly with membrane binding and disassociation Matrix: Beneath the Enevelope\nNS1 Non-Structural Protein. Inhibits RNA splicing. RNA binding Within capsid and beneath matrix\nNS2 Transportation of RNPb to cytoplasm\nNP Nucleoprotein Nucleocapsid\nPB1 Main core protein Binds to Nucleocapsid",
+   "table_id": "PMC2559894_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    516.5,
+    372.6,
+    907.5
+   ],
+   "ocr": "a Positions of VPU and Tat in the virion is unclear b Ribonucleoprotein (RNP) existing instead as dynamic ensembles of interconverting structures. Intrinsically disordered proteins [12] are also known by several other names including \"intrinsically unstructured\" [13] and \"natively unfolded.\" [14-16] While the function of a given protein is often determined by its unique structure, comparative studies on several exceptions to the structure-to-function mechanism led to the realizations that intrinsically disordered proteins share many sequence characteristics and so comprise a distinct cohort. These intrinsically unstructured proteins and regions differ from structured globular proteins and domains with regard to many attributes, including amino acid composition, sequence complexity, hydrophobicity, charge, flexibility [12,15], and type and rate of amino acid substitutions over evolutionary time [17]. Many of these differences between ordered and intrinsically disordered proteins were utilized to develop numerous disorder pre- dictors. The disorder predictors used in this paper are PONDR®s (Predictors of Naturally Disordered Regions) VLXT and VL3 [18-21]. We utilized these predictors to address the following question: Can disorder prediction be used to determine or map at least some the functions for viral proteins?"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    566.3,
+    698.3,
+    922.4
+   ],
+   "ocr": "Results Predicted intrinsic disorder in various viruses Table 2 lists the average percentages of predicted disor- dered residues (the percentage disorder rate) that have been found in proteins studied by NMR or X-Ray crystal- lography. They are also divided into PDB-Select 90 pro- teins [22,23], lentivirus, and influenza A virus. Table 2 shows that the percentage of residues predicted to be dis- ordered by PONDR® VLXT in proteins from a PDB-Select 90 set is 24 ± 2, whereas the corresponding value for PONDR® VL3 predictions is 14 ± 2. Table 2 also shows that predicted disorder is a bit more abundant in lentivirus proteins in comparison with proteins from the influenza virus. The values given in this table are the average per- centages of disordered residues in a given dataset, not the average percentages of disordered residues in each chain. The former provides a better gauge of the mean since the number of influenza and HIV-related proteins available in PDB [22] is relatively small. Averaged predicted disorder rates enable analysis of the viral protein disorder Table 2 provides a simple measure to classify a given pro- tein as ordered or disordered by prediction. For example,"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 14 (page number not for citation purposes)"
+  }
+ }
+}

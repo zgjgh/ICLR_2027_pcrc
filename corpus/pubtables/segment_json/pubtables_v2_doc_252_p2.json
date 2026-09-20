@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_252",
+  "page": 2,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    108.4,
+    46.7
+   ],
+   "ocr": "Lassiter et al."
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    565.8,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Macro Conditions for Marginalization"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    80.5,
+    372.3,
+    607.1
+   ],
+   "ocr": "will not share any primary traits. It is worth noting that even though deviants and rebels do not overlap on primary traits, they might overlap on secondary traits. This reﬂects the commonplace observation that people from diﬀerent subcultures might be interested in the same things: conformists and deviants might have a shared enjoyment of baseball or gourmet cooking. The primary traits do double duty. On the one hand, they act as group variables by identifying and individuating classes: conformists (for example) are diﬀerent from deviants because there is at least one primary trait associated with all conformists that isn’t associated with any deviant. On the other hand, primary traits are agent variables, for agents are the bearers of these traits. But these dual roles for primary traits are two sides of the same coin. Primary traits are markers of membership in a class because they are crowd-sourced from the members of a particular culture. So for example all rebels begin with the primary traits {4 15 7 8 9 14 17 18}. After a few time steps, it may turn out that many agents who had this string of numbers as a part of their primary traits dropped “18” and picked up another value, say “37.” The new set of primary traits associated with rebels would be {4 15 7 8 9 14 17 37}. And 37 would now become part of the set of primary traits associated with rebels because a majority of rebels dropped “18” and picked up “37.” Details for this process are described below in the section 3.3.2. While the primary traits identify the agent as a member of a breed, the secondary traits make individuals within the breed unique. The secondary traits are assigned randomly from a range beginning with “22” and ending with “50” (secondary traits begin at “22” because primary traits are drawn from a range starting with “0” and running to “21”). So while it’s possible that two agents of a breed could be assigned the same secondary traits, it’s extremely unlikely: in the Low Diversity condition (to be explained shortly), agents have ﬁve secondary traits, delivering a probability of 1 in 850,668 that any two agents have identical sets of secondary traits. in the High Diversity condition, the odds drop to 1 in 5.18 × 109."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    80.5,
+    706.1,
+    915.0
+   ],
+   "ocr": "Another micro-level variable tracks lifespan and generation. Each agent has two variables tracking how many times they have interacted and what generation they are a part of. After 1,000 interactions, an agent “dies” and is replaced by another agent. We estimate an agent has roughly 1,000 interactions in a lifetime that can potentially change one’s primary or secondary traits— roughly 14–20 a year for 50–70 years. Even if this number is oﬀ by a few hundred in either direction, it aﬀects the model’s running time (but not any of the interactions). The new agent is initially assigned to the same breed as the one that died, but the newly born agent doesn’t take on the breed’s traits wholesale. Rather, each new agent has the opportunity to take on all, some or none of the primary traits of its parent’s culture. Our rationale here is that progeny don’t necessarily take on all the cultural preferences of their parents. We let the platform’s random number generator determine how similar oﬀspring are to their parents. The model starts with generation 0 and ends with generation 2.5 (i.e., after generation 2 has, on average, 500 interactions)7. We integrate two macro-level variables into the model, introduced in section 2.2: resistance to change and diversity. RTC operationalizes resistance to change. It assigns probabilities for successful interactions. A successful interaction is one in which an agent adopts a trait of another agent, sometimes from across class boundaries. Suppose an arbitrarily chosen rebel picks out an arbitrarily chosen deviant to interact with; whether the rebel replaces one of its own primary or secondary traits with one of the deviant’s is determined by a set of probabilities reﬂecting the likelihood that someone from the deviant’s culture would successfully inﬂuence the rebel. These probabilities are reﬂected in the Table 4. The one doing the inﬂuencing is on the vertical and the one inﬂuenced is on the horizontal8. Notice that agents of a class will always inﬂuence other agents of their same class and there are some classes for which agents never inﬂuence others: a quiet maverick will never take on values from anyone else; rebels will never take on values from a conformist. RTC operationalizes resistance to change in the following way. As a society becomes more resistant to change, institutional practices become more entrenched and class boundaries become more diﬃcult to breach. So a society’s low resistance to change is captured in the model through a Low RTC relative to the other RTC conditions. There is one exception for the impermeability of class boundaries as resistance to change goes up: deviants are more likely to copy conformists (but the same doesn’t hold of conformists copying deviants). This is because as conformists are more thoroughly entrenched and deviants have a more diﬃcult time moving into other social spaces, their best option is to copy mainstream norms and values. 7One constraint on the model is that the population size is ﬁxed at 200 agents rather than letting the overall population change over time. We chose to simplify this because we wanted to examine shifts in population proportions of the model that were the results of changes in RTC and Diversity. Analysis of this would have to control for ﬂuxes in subculture populations. So rather than build that ﬂux into the model only to control for it, we kept the populations size of the model ﬁxed. Thanks to an anonymous reviewer for pressing for clariﬁcation on this point. 8These values are from Toivonen (personal communication)."
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    57.5,
+    644.1,
+    186.7,
+    653.0
+   ],
+   "ocr": "TABLE 4 | Resistance to change."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    57.5,
+    667.5,
+    364.2,
+    912.5
+   ],
+   "ocr": "Quiet maverick Conformist Deviant Rebel\nPANEL A: LOW\nQuiet Maverick 1.0 0.05 0.05 0.20\nConformist 0.0 1.0 0.10 0.0\nDeviant 0.0 0.0 1.0 0.0\nRebel 0.0 0.10 0.60 1.0\nPANEL B: MODERATE\nQuiet Maverick 1.0 0.0375 0.075 0.15\nConformist 0.0 1.0 0.075 0.0\nDeviant 0.0 0.20 1.0 0.0\nRebel 0.0 0.075 0.40 1.0\nPANEL C: HIGH\nQuiet Maverick 1.0 0.025 0.10 0.10\nConformist 0.0 1.0 0.05 0.0\nDeviant 0.0 0.40 1.0 0.0\nRebel 0.0 0.05 0.20 1.0",
+   "table_id": "PMC5992435_table_3"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    384.3,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 5"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    574.2,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "June 2018 | Volume 9 | Article 812"
+  }
+ }
+}

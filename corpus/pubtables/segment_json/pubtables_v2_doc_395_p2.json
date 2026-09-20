@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_395",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    302.1,
+    66.0
+   ],
+   "ocr": "Mentz et al. BMC Health Services Research 2012, 12:312 http://www.biomedcentral.com/1472-6963/12/312"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 5 of 11"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    356.1,
+    138.3
+   ],
+   "ocr": "Table 3 Sensitivity, specificity and agreement indicators status, educational level, income level)"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    359.6,
+    111.4,
+    643.3,
+    124.4
+   ],
+   "ocr": "for each determinant investigated (age, gender, marital"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    141.6,
+    678.7,
+    593.4
+   ],
+   "ocr": "Sensitivity Specificity Accuracy1 Kappa\nP(CH = 1|SR = 1) P(CH = 0|SR = 0) (overall agreement)\nFull sample 0.90 0.80 0.83 0.66\nAge\n25-34 0.71 0.88 0.85 0.64\n35-49 0.86 0.81 0.82 0.57\n50+ 0.95 0.69 0.83 0.83\nGender\nFemales 0.88 0.83 0.85 0.66\nMales 0.9 0.8 0.8 0.59\nMarital Status\nCurrently Married 0.90 0.82 0.84 0.65\nNot Married 0.89 0.80 0.83 0.65\nRace/ethnicity\nLatino 0.89 0.85 0.86 0.65\nnon-Hispanic White 0.90 0.77 0.81 0.65\nnon-Hispanic Black 0.90 0.79 0.83 0.66\nEducation\n<12 0.92 0.79 0.83 0.65\n12 0.79 0.82 0.81 0.65\n12+ 0.86 0.82 0.83 0.66\nAnnual Household Income\n<$10,000 0.77 0.83 0.81 0.66\n$10,000-19,999 0.92 0.83 0.86 0.65\n$20,000-34,999 0.89 0.79 0.81 0.65\n$35,000+ 0.97 0.77 0.83 0.66",
+   "table_id": "PMC3483283_table_2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    599.7,
+    368.8,
+    774.4
+   ],
+   "ocr": "Accuracy is the proportion of true results (both true positive and true negative). complete or reliable and one wants to impute/replace by using covariate information. a) Estimates of the probability of self-reported HBP within the HEP sample, using weighted logistic regression models adjusting for the same set of covariates used to develop the prediction model described in Method 1. ^P CHi"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    358.9,
+    599.7,
+    678.5,
+    760.4
+   ],
+   "ocr": "Refer to Additional file 1. it Finally, we then considered 0.50, 0.60, 0.70 and 0.80 as threshold values of the estimated probability of clinically measured HBP which were used to classify each individ- ual into one of two groups: HBP according to clinical measures or not (binary representation of predicted probabilities based on both proposed methods). That is if, ^P CHi"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    410.8,
+    745.7,
+    678.5,
+    768.3
+   ],
+   "ocr": "ð ¼ Þ ð5Þ"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    452.4,
+    745.7,
+    545.1,
+    768.3
+   ],
+   "ocr": "1jXi threshold;"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    747.1,
+    678.6,
+    837.1
+   ],
+   "ocr": "> we classify the HEP participant as having predicted clin- ically HBP, i.e., CH ^ 1;"
+  },
+  "p2_b10": {
+   "type": "title",
+   "bbox": [
+    139.9,
+    759.7,
+    363.3,
+    782.3
+   ],
+   "ocr": "ð3Þ 1 SRi; Xi"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    81.5,
+    761.0,
+    365.7,
+    888.3
+   ],
+   "ocr": "ð ¼ j Þ b) Estimate of the probability of clinically measured HBP as a weighted average of re-calibrated sensitivity and specificity as follows: ^P 1jSRi ^P CHi CHi 0; Xi ð ¼ 1jXi Þ ¼ ð ¼ ¼ Þ ^P SRi ^P 0jXi CHi 1jSRi 1; Xi � ð ¼ Þ þ ð ¼ ¼ Þ"
+  },
+  "p2_b12": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    823.3,
+    678.6,
+    895.9
+   ],
+   "ocr": "i ¼ ð6Þ otherwise we classify him/her as not having predicted clinically HBP. For each proposed threshold misclassifi- cation rates were assessed using measures of"
+  },
+  "p2_b13": {
+   "type": "title",
+   "bbox": [
+    111.6,
+    881.2,
+    177.1,
+    905.1
+   ],
+   "ocr": "^P 1jXi SRi"
+  },
+  "p2_b14": {
+   "type": "title",
+   "bbox": [
+    350.4,
+    882.5,
+    483.7,
+    949.4
+   ],
+   "ocr": "ð4Þ �"
+  },
+  "p2_b15": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    883.8,
+    221.7,
+    926.7
+   ],
+   "ocr": "� ð ¼ Þ where ^P SRi ^P"
+  },
+  "p2_b16": {
+   "type": "title",
+   "bbox": [
+    402.9,
+    910.7,
+    569.7,
+    925.9
+   ],
+   "ocr": "Sensitivity P CH ^ 1 CH 1"
+  },
+  "p2_b17": {
+   "type": "title",
+   "bbox": [
+    114.1,
+    912.0,
+    285.6,
+    934.6
+   ],
+   "ocr": "ð ¼ Þ ¼ � ð ¼ 1jXi Þ"
+  },
+  "p2_b18": {
+   "type": "title",
+   "bbox": [
+    151.8,
+    912.0,
+    171.7,
+    934.6
+   ],
+   "ocr": "0jXi"
+  },
+  "p2_b19": {
+   "type": "title",
+   "bbox": [
+    193.5,
+    912.0,
+    243.3,
+    926.7
+   ],
+   "ocr": "1 SRi"
+  },
+  "p2_b20": {
+   "type": "title",
+   "bbox": [
+    457.9,
+    912.1,
+    677.5,
+    934.8
+   ],
+   "ocr": "¼ ¼ j ¼ Þ; ð7Þ"
+  }
+ }
+}

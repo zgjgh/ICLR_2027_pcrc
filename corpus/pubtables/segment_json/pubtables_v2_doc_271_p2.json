@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_271",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    43.9,
+    53.8,
+    365.7,
+    65.3
+   ],
+   "ocr": "R5.4 Genome Biology 2006, Volume 7, Issue 1, Article R5 Forrest et al."
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    539.0,
+    53.9,
+    698.2,
+    65.3
+   ],
+   "ocr": "http://genomebiology.com/2006/7/1/R5"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.9,
+    107.2,
+    404.2,
+    350.4
+   ],
+   "ocr": "Table 3 Support for alternative transcription starts and stops within the End 5 counts 5' 5' exon clusters 1086/612 (1.8) TSS clusters 1289/609 (2.1) 3' 3' exon clusters 976/611 (1.6) TTS clusters 1600/620 (2.6) Number of 5' or 3' ends are shown for thresholds of 5, 10, 20 or 50 supporting the ratio in brackets Note that at a threshold of 50, the number of genes start site; TTS, transcription termination site. Table 4 Loci with well supported alternative 5' exons"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    374.5,
+    131.0,
+    694.1,
+    274.4
+   ],
+   "ocr": "phosphoregulator set 10 counts 20 counts 50 counts 852/576 (1.5) 730/543 (1.3) 577/480 (1.2) 924/572 (1.6) 742/533 (1.4) 550/472 (1.2) 750/564 (1.3) 576/495 (1.2) 335/307 (1.1) 1054/566 (1.9) 685/483 (1.4) 307/262 (1.2) tags. Shows the number of ends divided by the number of genes, and with 3' end support is almost half that with 5' support. TSS, transcription"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.9,
+    367.2,
+    656.1,
+    511.2
+   ],
+   "ocr": "Intron Type Count MGI symbol\n1 ME_exon 16 Abl1, Adck1, Brd4, Dusp14, Mark2, Pak1, Pdp1, Pkn3, Prkacb, Prkar1a, Ptp4a3, Ptprs, Raf1, Riok2, Sgk, Srpk2\nIntronic 9 Acvrl1, Ccrk, Cdk9, Ntrk2, Pim3, Ppp4c, Prkcn, Prkwnk1\n2 ME_exon 1 Sgk3\nIntronic 1 Ptp4a2\n3-4 ME_exon 6 Mast3, Limk2, Pak6, Pftk1, Pkn1, Prkcz\nIntronic 0\n5> ME_exon 6 Dcamkl1, Lats2, Plk1, Ptprd, Tns1, Tns3, Ttn\nIntronic 2 Mylk, Ptpro",
+   "table_id": "PMC1431701_table_3"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.9,
+    521.4,
+    397.5,
+    967.1
+   ],
+   "ocr": "The Intron column refers to the intron where alternative transcript begins, starts in intron runs into next exon; ME_exon, mutually exclusive first exons. ative threshold of 50 tags revealed that 10.7% and 7.3% of these loci used alternative 5' and 3' exons, respectively (Table 3 and Additional data file 4). In addition, we examined how many of the terminal exons with 50 counts or more had multiple TSS or TTSs within them. Requiring 10 counts to be considered a reliable TSS/ TTS, 16% of 5' exons and 47% of 3' exons had more than one reliable TSS/TTS (10 or more counts for each). In the case of the 3' exons, changes in untranslated region length may be functionally relevant or they may just reflect the need for mul- tiple poly-adenylation signals for an inefficient termination process. Alternative 5' exon usage With an estimate that alternative 5' terminal exons exist for 45% of multi-exon loci, we sought to evaluate the gene struc- tures that allowed alternative 5' exon usage and attempted to determine whether the predicted alternative starts could be verified by 5'-RACE (5' rapid amplification of cDNA ends). To evaluate the structure of variant 5' exon usage, we separated the set into three classes of alternative transcript (Figure 1): transcripts that start from mutually exclusive first exons; transcripts that originate from intronic regions of the genome and then continue on to the next exon; and transcripts that appear to initiate within coding exons of a longer canonical Genome Biology"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    391.5,
+    521.4,
+    701.9,
+    967.1
+   ],
+   "ocr": "and the Count column shows the number of loci in each class. Intronic, form. To demonstrate the relative frequency of each class we focused only on those loci with 50 counts or more for both starting exons (Table 4). The majority of these alternative starts was due to mutually exclusive starting exons, and more than half of these were within the first intron. None of the examples with 50 counts or more started within coding exons of a longer canonical form; the best supported example of this was a clone of Fgfr2 that starts within the 11th exon of the canonical form and is supported by 48 tags (GenBank:AK081810). To test whether the threshold of counts we applied was bio- logically relevant and whether cDNAs starting from within internal exons of longer transcripts are 5' truncations or gen- uine transcription start sites, we tested a panel of 19 alternative 5' exons with 5'-RACE. As a technical point, an enzymatic oligo-cap method independent of the FANTOM3 cap-trapper technique was used to ensure that only full- length capped 5' ends of mRNAs were surveyed [29,30]. Pre- dicted alternative 5' exons were confirmed for all classes tested. Additionally, and perhaps surprisingly, transcript starts with counts below five were validated including alter- native transcripts with only one cDNA as evidence (Acvr1c [GenBank:AK049089] and Ptprg [GenBank:AK144283]). The results of the 5'-RACE analysis and the primer sequences used are provided in Additional data file 5. 2006, 7:R5"
+  }
+ }
+}

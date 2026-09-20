@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_139",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3219611_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    681.0,
+    688.6,
+    872.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3219611_table_0.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">5 genomesa</td><td colspan=\"4\">10 genomesa</td></tr><tr><td></td><td>Low</td><td>Medium</td><td>High</td><td>Very High</td><td>Low</td><td>Medium</td><td>High</td><td>Very High</td></tr><tr><td>Total # of ortholog sets generated in the pipeline</td><td>3633</td><td>2446</td><td>1414</td><td>988</td><td>3271</td><td>2133</td><td>1317</td><td>380</td></tr><tr><td># of ortholog sets for which Prodigal starts were initially inconsistentb</td><td>213 (5.9%)</td><td>536 (21.9%)</td><td>574 (40.6%)</td><td>547 (55.4%)</td><td>251 (7.7%)</td><td>614 (28.8%)</td><td>634 (48.1%)</td><td>235 (61.8%)</td></tr><tr><td># of ortholog sets for which Prodigal starts were already consistentb</td><td>3420 (94.1%)</td><td>1910 (78.1%)</td><td>840 (59.4%)</td><td>441 (44.6%)</td><td>3020 (92.3%)</td><td>1519 (71.2%)</td><td>683 (51.9%)</td><td>145 (38.2%)</td></tr><tr><td># of inconsistent ortholog sets that were made consistent by GMVc</td><td>74 (34.7%)</td><td>278 (51.9%)</td><td>204 (35.5%)</td><td>74 (16.8%)</td><td>89 (35.5%)</td><td>286 (46.6%)</td><td>227 (35.8%)</td><td>31 (13.2%)</td></tr><tr><td># of ortholog sets with consistent starts after GMVb</td><td>3494 (96.2%)</td><td>2188 (89.5%)</td><td>1044 (73.8%)</td><td>515 (52.1%)</td><td>3109 (95.0%)</td><td>1805 (84.6%)</td><td>910 (69.1%)</td><td>176 (46.3%)</td></tr><tr><td># of ortholog sets with at least one consistent startb</td><td>3626 (99.8%)</td><td>2428 (99.3%)</td><td>1326 (93.8%)</td><td>863 (87.3%)</td><td>3269 (99.9%)</td><td>2098 (98.4%)</td><td>1215 (92.3%)</td><td>310 (81.6%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3219611_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    135.1,
+    363.5,
+    365.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3219611_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Codon before change</td><td rowspan=\"2\">Codon after change</td><td colspan=\"2\">5 genomes</td><td colspan=\"2\">10 genomes</td></tr><tr><td>Medium</td><td>High</td><td>Medium</td><td>High</td></tr><tr><td>ATG</td><td>ATG</td><td>243</td><td>184</td><td>354</td><td>249</td></tr><tr><td>ATG</td><td>GTG</td><td>47</td><td>26</td><td>66</td><td>41</td></tr><tr><td>ATG</td><td>TTG</td><td>16</td><td>10</td><td>33</td><td>26</td></tr><tr><td>GTG</td><td>ATG</td><td>31</td><td>15</td><td>42</td><td>22</td></tr><tr><td>GTG</td><td>GTG</td><td>8</td><td>5</td><td>5</td><td>7</td></tr><tr><td>GTG</td><td>TTG</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>TTG</td><td>ATG</td><td>9</td><td>10</td><td>14</td><td>11</td></tr><tr><td>TTG</td><td>GTG</td><td>3</td><td>1</td><td>7</td><td>5</td></tr><tr><td>TTG</td><td>TTG</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Total Changes</td><td></td><td>357</td><td>252</td><td>522</td><td>363</td></tr><tr><td>Same codon</td><td></td><td>251</td><td>189</td><td>360</td><td>257</td></tr><tr><td>Different codon</td><td></td><td>106</td><td>63</td><td>162</td><td>106</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3219611_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    121.8,
+    700.6,
+    354.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3219611_table_2.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">5 genomes</td><td colspan=\"4\">10 genomes</td></tr><tr><td></td><td>Low</td><td>Medium</td><td>High</td><td>Very High</td><td>Low</td><td>Medium</td><td>High</td><td>Very High</td></tr><tr><td># of ortholog sets for which E. coli validation was available</td><td>833</td><td>683</td><td>457</td><td>274</td><td>800</td><td>618</td><td>414</td><td>129</td></tr><tr><td># of ortholog sets for which E. coli validation was available and for which Prodigal predictions were already consistenta</td><td>825 (99.0%)</td><td>613 (89.8%)</td><td>382 (83.6%)</td><td>245 (89.4%)</td><td>787 (98.4%)</td><td>546 (88.3%)</td><td>329 (79.5%)</td><td>107 (82.9%)</td></tr><tr><td># of ortholog sets for which E. coli validation was available and for which Prodigal predictions were inconsistenta</td><td>8 (0.96%)</td><td>70 (10.2%)</td><td>75 (16.4%)</td><td>29 (10.6%)</td><td>13 (1.63%)</td><td>72 (11.7%)</td><td>85 (20.5%)</td><td>22 (17.1%)</td></tr><tr><td># of ortholog sets with start sites matching a validated E. coli starta</td><td>799 (95.9%)</td><td>664 (97.2%)</td><td>444 (97.2%)</td><td>271 (98.9%)</td><td>769 (96.1%)</td><td>602 (97.4%)</td><td>406 (98.1%)</td><td>126 (97.7%)</td></tr><tr><td># of ortholog sets with start sites matching a validated E. coli start and for which Prodigal predictions were already consistentb</td><td>792 (96.0%)</td><td>609 (99.3%)</td><td>381 (99.7%)</td><td>245 (100%)</td><td>760 (96.6%)</td><td>544 (99.6%)</td><td>328 (99.7%)</td><td>107 (100%)</td></tr><tr><td># of ortholog sets with start sites matching a validated E. coli start and for which Prodigal predictions were inconsistentc</td><td>7 (87.5%)</td><td>55 (78.6%)</td><td>63 (84.0%)</td><td>26 (89.7%)</td><td>9 (69.2%)</td><td>58 (80.6%)</td><td>78 (91.8%)</td><td>19 (86.3%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3219611_table_3",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    700.1,
+    681.5,
+    872.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3219611_table_3.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">5 genomes</td><td colspan=\"4\">10 genomes</td></tr><tr><td></td><td>Low</td><td>Medium</td><td>High</td><td>Very High</td><td>Low</td><td>Medium</td><td>High</td><td>Very High</td></tr><tr><td># of ortholog sets with an incorrect E. coli start (GP)</td><td>34</td><td>19</td><td>13</td><td>3</td><td>31</td><td>16</td><td>8</td><td>3</td></tr><tr><td># of corrected validated starts in E. coli (TP)</td><td>0</td><td>9</td><td>11</td><td>3</td><td>1</td><td>8</td><td>7</td><td>3</td></tr><tr><td># of E. coli errors introduced (FP)</td><td>1</td><td>2</td><td>2</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Error Rate (Ea)</td><td>1.00</td><td>0.182</td><td>0.154</td><td>0.25</td><td>0.5b</td><td>0.111b</td><td>0.125b</td><td>0.25b</td></tr><tr><td>Sensitivity (Sc)</td><td>0</td><td>0.474</td><td>0.846</td><td>1.0</td><td>0.032</td><td>0.5</td><td>0.875</td><td>1.00</td></tr><tr><td>Total # of changes in E. coli</td><td>13</td><td>51</td><td>41</td><td>12</td><td>9</td><td>38</td><td>21</td><td>4</td></tr><tr><td>Total # of changes in all genomes</td><td>92</td><td>357</td><td>252</td><td>88</td><td>169</td><td>522</td><td>363</td><td>40</td></tr><tr><td>Total # of changes that agree with a validated start</td><td>9</td><td>76</td><td>82</td><td>31</td><td>20</td><td>114</td><td>126</td><td>28</td></tr><tr><td>Total # of changes that disagree with a validated start</td><td>4</td><td>7</td><td>6</td><td>1</td><td>4</td><td>15</td><td>0</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3219611_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    783.9,
+    365.6,
+    872.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3219611_table_4.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">5 genomes</td><td colspan=\"2\">10 genomes</td></tr><tr><td></td><td>Medium</td><td>High</td><td>Medium</td><td>High</td></tr><tr><td>Maximum possible # ortholog sets, M</td><td>4282</td><td>4332</td><td>4151</td><td>3710</td></tr><tr><td>Ortholog set yield, Ya</td><td>57.1%</td><td>32.6%</td><td>51.3%</td><td>35.4%</td></tr><tr><td>Increase in consistency after applying GMV, Ib</td><td>11.4%</td><td>14.4%</td><td>13.4%</td><td>17.2%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3219611_table_5",
+   "page_num": 5,
+   "bbox": [
+    84.1,
+    121.8,
+    693.2,
+    302.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3219611_table_5.png",
+   "html": "<table><tr><td></td><td></td><td>5 genomes Medium Diversity</td><td>5 genomes High Diversity</td></tr><tr><td rowspan=\"5\">Prodigal vs. GenBank</td><td># of shared ortholog sets</td><td>2289</td><td>1234</td></tr><tr><td># of ortholog sets for which Prodigal starts were initially inconsistent</td><td>455</td><td>413</td></tr><tr><td># of ortholog sets for which GenBank starts were initially inconsistent</td><td>925</td><td>311</td></tr><tr><td># made consistent by Prodigal</td><td>552</td><td>50</td></tr><tr><td># made consistent by GMV</td><td>194</td><td>47</td></tr><tr><td rowspan=\"5\">Prodigal vs. Glimmer3</td><td># of shared ortholog sets</td><td>2427</td><td>1398</td></tr><tr><td># of ortholog sets for which Prodigal starts were initially inconsistent</td><td>532</td><td>566</td></tr><tr><td># of ortholog sets for which GenBank starts were initially inconsistent</td><td>869</td><td>767</td></tr><tr><td># made consistent by Prodigal</td><td>432</td><td>248</td></tr><tr><td># made consistent by GMV</td><td>193</td><td>155</td></tr></table>"
+  }
+ ]
+}

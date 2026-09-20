@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_071",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    118,
+    580,
+    176
+   ],
+   "ocr": "The study presents data on Chronic Fatigue Syndrome (CFS) across three categories: Severe CFS, Unclassified CFS, and CFS Negative, with a total population of 87 individuals from 21 states. The average age across these groups is 44 for Severe CFS, 40 for Unclassified CFS, and 23 for CFS Negative, with the average duration of illness being 12.8 years for Severe CFS and 12.3 years for Unclassified CFS, while the CFS Negative group does not report this metric."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    164,
+    580,
+    207
+   ],
+   "ocr": "In terms of race, the population consists of 87% Caucasian and 13% Other for Severe CFS, 79% Caucasian and 21% Other for Unclassified CFS, and 71% Caucasian and 29% Other for CFS Negative."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    260.0,
+    580.0,
+    386.0
+   ],
+   "ocr": "Race Gender\nPopulation N States AvgAge Avg Duration of Illness Caucasian Other Female Male\nSevere CFS 31 17 44 12.8 yrs 87% 13% 61% 39%\nUnclassified CFS 14 9 40 12.3 yrs 79% 21% 86% 14%\nCFS Negative 42 12 23 n/a 71% 29% 45% 55%\nTOTAL 87 21 78% 22% 57% 43%",
+   "table_id": "img_079789_t0"
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    416,
+    580,
+    444
+   ],
+   "ocr": "Gender distribution shows 61% Female and 39% Male for Severe CFS, 86% Female and 14% Male for Unclassified CFS, and 45% Female and 55% Male for CFS Negative."
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    432,
+    580,
+    475
+   ],
+   "ocr": "The treatment outcomes are detailed in Table 2, with Low-dose treatment resulting in 75 for BA, 1,296 for BI, 687 for RO, and 84 for SAG; High-dose treatment yielding 211 for BA, 1,914 for BI, 1,011 for RO, and 289 for SAG; Union treatment showing 256 for BA, 2,486 for BI, 1,286 for RO, and 332 for SAG."
+  },
+  "p6_b5": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    522.0,
+    580.0,
+    672.0
+   ],
+   "ocr": "Treatment BA BI RO SAG\nLow-dose 75 1,296 687 84\nHigh-dose 211 1,914 1,011 289\nUnion 256 2,486 1,286 332\nMethod MAS 5.0Welch’s t-testp < 0.01 MAS 5.0Mann-Whitney U-testp < 0.05 MAS 5.0Paired t-test,p < 0.1 In-house softwaret-testp < 0.01\nCutoff > 1.5-fold change > 1.2-fold change > 1.25-fold change > 1.5-fold change",
+   "table_id": "img_079789_t1"
+  },
+  "p6_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    704.0,
+    580.0,
+    750.0
+   ],
+   "ocr": "Analytical methods utilized include MAS 5.0 Welch’s t-test (p < 0.01), MAS 5.0 Mann-Whitney U-test (p < 0.05), MAS 5.0 Paired t-test (p < 0.1), and in-house software t-test (p < 0.01), with cutoffs defined as > 1.5-fold change for BA, > 1.2-fold change for BI, > 1.25-fold change for RO, and > 1.5-fold change for SAG."
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_102",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.8,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:87"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/87"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    243.5,
+    118.9
+   ],
+   "ocr": "Table 6: Estrogen Receptor Citations"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    686.2,
+    290.9
+   ],
+   "ocr": "LymphNode In citation Not in citation p-value\nGenes in pathway cluster (Table 2) 8 4\nInformative genes not in pathway cluster (Table 2) of top 22 pathways 16 30 0.048\np53 In citation Not in citation p-value\nGenes in pathway cluster (Table 2) 8 0\nInformative genes not in pathway cluster (Table 2) of top 22 pathways 15 30 0.0006\nConsort In citation Not in citation p-value\nGenes in pathway cluster (Table 2) 6 2\nInformative genes not in pathway cluster (Table 2) of top 22 pathways 7 25 0.0084",
+   "table_id": "PMC2335306_table_5"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    328.8,
+    698.4,
+    922.4
+   ],
+   "ocr": "Discussions In this article, we have described a Random Forests-based approach to identify clusters of pathways sharing similar functions. Class votes measure similarity at the individual level. Using the three different breast cancer data sets to classify between estrogen receptor positive and negative status, we found that Tight Clustering for class votes yielded consistent and interpretable results. We also con- sidered other means of measuring the similarity of class votes, such as the similarities between class votes solely by Euclidean distances, but their performance was less con- sistent than the methods described here. Moreover, another output, proximity matrices, for Random Forests was also investigated, but it was found to be highly corre- lated with the class votes (see Figures A4.). Bioinformati- cians and biologists can make use of the proposed methods to discover pathway clusters, find informative genes shared between pathways and identify genes that bridge between pathways within a pathway cluster. This allows researchers to obtain results that are more closely tied to the biological mechanism of diseases and to exam- ine pathway crosstalk. Due to the unbalanced nature of the data sets in this study, the weighted random forests (WRF) algorithm was used. WRF seems to perform better than the alternative balanced random forests procedure. Although we are looking at ER+ vs. ER- status for the Consort, p53 and Lym- phNode data sets, it is reasonable to obtain different path- way clusters from them. This is because the patients were from different clinical settings. The Consort data set con- sists of patients from a consortium of different breast can- cer studies, the p53 data set consists of patients whose tissue were sequenced for p53 and the LymphNode data set only has patients with negative lymph node status. In this article, we have also demonstrated the biological relevance of our approach using PubMatrix. The number of citations for informative genes within the pathway"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    329.7,
+    372.6,
+    581.2
+   ],
+   "ocr": "GATA3 and ESR1. Furthermore, there are 7 literature sup- port of genes MUC1 and HNF3-alpha [29-35] related to breast neoplasm compared to 6 (MUC1) for EGFR and none for IKBKB. In fact, EGFR is one of the genes in the Calcium Signalling pathway which also share genes with the GATA3 pathway. CA12 and ESR1 are also closely tied; CA12 is connected to ESR1 through HIF-1 and NCOA1. There are 4 literature support of genes HIF-1 and NCOA1 related to breast neoplasm [36-39]. Again, the EGFR is at the top of this chart with the same number gene steps but with 4 different paths, and two more literature support than CA12. Another gene IL6ST has two different paths and three literature support. Although, it seems that the connection between CA12 and the four pathways with ESR1 is not as strong, it is still significant relative to the majority of the top informative genes which show 4 or more gene steps."
+  },
+  "p5_b6": {
+   "type": "title",
+   "bbox": [
+    194.9,
+    630.8,
+    357.7,
+    730.3
+   ],
+   "ocr": "GATA interacts PPARBP in CARM-1"
+  },
+  "p5_b7": {
+   "type": "title",
+   "bbox": [
+    228.7,
+    728.1,
+    270.8,
+    740.6
+   ],
+   "ocr": "interacts"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    732.4,
+    362.1,
+    911.8
+   ],
+   "ocr": "pathway junB ESR1 binds regulates BRCA1 Figure Links between 4 GATA3 and CARM1 pathways using HPRD Links between GATA3 and CARM1 pathways using HPRD. The connection between genes in GATA3 and CARM1 pathways using information obtained from HPRD."
+  },
+  "p5_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 9 of 12 (page number not for citation purposes)"
+  }
+ }
+}

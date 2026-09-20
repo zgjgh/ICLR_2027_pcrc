@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_032",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    312.0
+   ],
+   "ocr": "Type Number Placement Criteria Total Consumption (mA) Comments\nOpening sensor 8 1/window 1/airflow door - It requires KNX interface\nPresence detector 7 1/room 56 Installation height = 2.20 m\nMotion detector 4 1/passing area 16 It includes bus coupler and connection terminal\nTemperature sensor 6 1/room -\nLuminaires actuator 12 It depends on the luminaires number 75 Binary input to dry contacts connection or conventional push button\nHeating electrovalve 6 1/room 5.2\nSplit control interface 4 1/split - Bidirectional KNX gateway—Air conditioners",
+   "table_id": "img_035032_t0"
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    327.0,
+    580.0,
+    475.0
+   ],
+   "ocr": "BP index Time period for blood pressure assessment RR (95% CI) Pvalue\nDiastolic BP (per 10 mmHg) Baseline 1.07 (0.94–1.21) 0.30\nMean follow-up 1.20 (0.97–1.49) 0.09\nSystolic BP (per 10 mmHg) Baseline 1.09 (1.01–1.17) 0.02\nMean follow-up 1.30 (1.15–1.48) <0.01\nPulse pressure(per 10 mmHg) Baseline 1.12 (1.02–1.23) 0.02\nMean follow-up 1.28 (1.11–1.47) <0.01",
+   "table_id": "img_035032_t1"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    491,
+    580,
+    611
+   ],
+   "ocr": "The first table outlines various types of sensors and devices with their respective number, placement criteria, total consumption (mA), and comments: the opening sensor has 8 units, with a placement of 1/window 1/airflow door, requiring a KNX interface; the presence detector consists of 7 units, placed 1/room, with a total consumption of 56 mA and an installation height of 2.20 m; the motion detector includes 4 units, for 1/passing area, consuming 16 mA and featuring a bus coupler and connection terminal; the temperature sensor has 6 units, placed 1/room, with no specified consumption; the luminaires actuator comprises 12 units, depending on the luminaires number, with a total consumption of 75 mA and a binary input for dry contacts connection or conventional push button; the heating electrovalve has 6 units, placed 1/room, consuming 5.2 mA; and the split control interface features 4 units, placed 1/split, with no specified consumption and serving as a bidirectional KNX gateway for air conditioners."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    614,
+    580,
+    688
+   ],
+   "ocr": "The second table presents blood pressure assessment data, indicating the diastolic BP (per 10 mmHg) has a baseline RR of 1.07 (0.94–1.21) and a Pvalue of 0.30, with a mean follow-up RR of 1.20 (0.97–1.49) and a Pvalue of 0.09. The systolic BP (per 10 mmHg) shows a baseline RR of 1.09 (1.01–1.17) with a Pvalue of 0.02 and a mean follow-up RR of 1.30 (1.15–1.48) with a Pvalue of <0.01. Finally, the pulse pressure (per 10 mmHg) has a baseline RR of 1.12 (1.02–1.23) and a Pvalue of 0.02, with a mean follow-up RR of 1.28 (1.11–1.47) and a Pvalue of <0.01."
+  }
+ }
+}

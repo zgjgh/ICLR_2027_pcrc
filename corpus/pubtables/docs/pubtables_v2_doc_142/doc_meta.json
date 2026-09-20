@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_142",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3278837_table_1",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    669.8,
+    673.5,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3278837_table_1.png",
+   "html": "<table><tr><td>GO: biological process</td><td>Go term ID</td><td>Genes with this term</td></tr><tr><td>Translation</td><td>GO:0006412</td><td>DHX29, EIF4G1, FAU, GSPT1, KRT7, MAZ, RPL10A, RPL17, RPL 18, RPL21, RPL21P119, RPL21P16, RPL21P39, RPL21P80, RPL21P93, RPL21P97, RPL22, RPS15A, RPS5, VARS, MRPS12, PABPC4, RPS27A, TOP3A</td></tr><tr><td>Transmission of nerve impulse</td><td>GO:0019226</td><td>CPNE6, GABARAP, MUSK, POU3F2, VGF, ADORA2A, GRM8, NF1, NMU, PARK2, DLGAP2, GNAI2, HRAS, NOS1, RPS27A, STX1A, UBB, UBC</td></tr><tr><td>Synaptic transmission</td><td>GO:0007268</td><td>CPNE6, GABARAP, MUSK, VGF, ADORA2A, GRM8, NMU, PARK2, DLGAP2, GNAI2, HRAS, NOS1, RPS27A, STX1A, UBB, UBC</td></tr><tr><td>Negative regulation of catalytic activity</td><td>GO:0043086</td><td>GNAT1, TNNI3, ADORA2A, GRM8, NF1, GNAI2, OXA1L, RPS27A, SH3BP5, TSC2, UBB, UBC</td></tr><tr><td>Regulation of synaptic transmission</td><td>GO:0050804</td><td>VGF, ADORA2A, GRM8, NMU, PARK2, GNAI2, HRAS, RPS27A, STX1A, UBB, UBC</td></tr><tr><td>Translational elongation</td><td>GO:0006414</td><td>FAU, RPL10A, RPL17, RPL18, RPL21, RPL21P119, RPL21P16, RPL21P39, RPL21P80, RPL21P93, RPL21P97, RPL22, RPS15A, RPS5, VARS, RPS27A</td></tr><tr><td>Regulation of synaptogenesis</td><td>GO:0051963</td><td>MUSK, RPS27A, UBB, UBC</td></tr><tr><td>Polyamine metabolic process</td><td>GO:0006595</td><td>ODC1, SLC6A11, OAZ2, SAT1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3278837_table_2",
+   "page_num": 2,
+   "bbox": [
+    77.2,
+    532.7,
+    665.1,
+    869.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3278837_table_2.png",
+   "html": "<table><tr><td>Gene symbol</td><td>Disease(s) or essential gene*</td><td>Gene function(s)</td><td>Sum of ranks**</td></tr><tr><td>UBC</td><td>S</td><td>&#8226; ubiquitin C</td><td>7</td></tr><tr><td>ACTB</td><td>S</td><td>&#8226; actin, beta</td><td>15</td></tr><tr><td>UBB</td><td>S</td><td>&#8226; ubiquitin B</td><td>29</td></tr><tr><td>APP</td><td>E</td><td>&#8226; amyloid beta (A4) precursor protein</td><td>32</td></tr><tr><td>FOS</td><td>S</td><td>&#8226; v-fos FBJ murine osteosarcoma viral oncogene homolog</td><td>51</td></tr><tr><td>HSPA4</td><td>S</td><td>&#8226; heat shock 70kDa protein 4</td><td>54</td></tr><tr><td>PARK2</td><td>SD</td><td>&#8226; Parkinson disease (autosomal recessive, juvenile) 2, parkin</td><td>67</td></tr><tr><td>SYK</td><td>B</td><td>&#8226; spleen tyrosine kinase</td><td>97</td></tr><tr><td>TUBB2A</td><td>E</td><td>&#8226; tubulin, beta 2A</td><td>117</td></tr><tr><td>TSC2</td><td>S</td><td>&#8226; tuberous sclerosis 2</td><td>127</td></tr><tr><td>UCHL1</td><td>E</td><td>&#8226; ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)</td><td>217</td></tr><tr><td>MARK3</td><td>S</td><td>&#8226; MAP/microtubule affinity-regulating kinase 3</td><td>236</td></tr><tr><td>RPS27A</td><td>S</td><td>&#8226; ribosomal protein S27a pseudogene 12; ribosomal</td><td>355</td></tr><tr><td>DNM1</td><td>E</td><td>&#8226; dynamin 1</td><td>476</td></tr><tr><td>IRS2</td><td>E</td><td>&#8226; insulin receptor substrate 2</td><td>497</td></tr><tr><td>GNAI2</td><td>S</td><td>&#8226; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2</td><td>519</td></tr><tr><td>SMARCC2</td><td>B</td><td>&#8226; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2</td><td>525</td></tr><tr><td>HRAS</td><td>S</td><td>&#8226; v-Ha-ras Harvey rat sarcoma viral oncogene homolog</td><td>527</td></tr><tr><td>SAT1</td><td>S</td><td>&#8226; spermidine/spermine N1-acetyltransferase 1</td><td>529</td></tr><tr><td>CRKL</td><td>B</td><td>&#8226; v-crk sarcoma virus CT10 oncogene homolog (avian)-like</td><td>531</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3278837_table_3",
+   "page_num": 3,
+   "bbox": [
+    101.9,
+    832.0,
+    648.1,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3278837_table_3.png",
+   "html": "<table><tr><td>Record type</td><td>Schizophrenia</td><td>Bipolar disorder</td><td>Major depression</td></tr><tr><td>Disease genes in Phenopedia (P)</td><td>1001</td><td>722</td><td>226</td></tr><tr><td>Abnormally expressed genes (T)*</td><td>110</td><td>100</td><td>44</td></tr><tr><td>Both P and T (shared nodes)</td><td>11</td><td>5</td><td>1</td></tr><tr><td>PPIs between P and T</td><td>252</td><td>73</td><td>11</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3278837_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    586.6,
+    353.8,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3278837_table_4.png",
+   "html": "<table><tr><td>Gene Symbol</td><td>GABA</td><td>Glutamate</td><td>Dopamine</td></tr><tr><td>APP</td><td>+</td><td>+</td><td>+</td></tr><tr><td>GABBR2</td><td>+</td><td>+</td><td></td></tr><tr><td>GABBR1</td><td>+</td><td>+</td><td></td></tr><tr><td>SLC12A5</td><td>+</td><td></td><td></td></tr><tr><td>GABARAP</td><td>+</td><td></td><td></td></tr><tr><td>SLC1A3</td><td></td><td>+</td><td></td></tr><tr><td>NOS1</td><td></td><td>+</td><td></td></tr><tr><td>GRM8</td><td></td><td>+</td><td></td></tr><tr><td>GLUL</td><td></td><td>+</td><td></td></tr><tr><td>UCHL1</td><td></td><td></td><td>+</td></tr><tr><td>SYNGR3</td><td></td><td></td><td>+</td></tr><tr><td>STXBP1</td><td></td><td></td><td>+</td></tr><tr><td>STX1A</td><td></td><td></td><td>+</td></tr><tr><td>SNCB</td><td></td><td></td><td>+</td></tr><tr><td>PRKAR1B</td><td></td><td></td><td>+</td></tr><tr><td>PARK2</td><td></td><td></td><td>+</td></tr><tr><td>IGF1</td><td></td><td></td><td>+</td></tr><tr><td>GPR143</td><td></td><td></td><td>+</td></tr><tr><td>EPB41L1</td><td></td><td></td><td>+</td></tr><tr><td>CRYAA</td><td></td><td></td><td>+</td></tr><tr><td>ADORA2A</td><td></td><td></td><td>+</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3278837_table_5",
+   "page_num": 5,
+   "bbox": [
+    85.9,
+    683.9,
+    649.5,
+    892.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3278837_table_5.png",
+   "html": "<table><tr><td colspan=\"4\">List of clique-4</td><td rowspan=\"2\">Protein complex &#8226; Nil</td></tr><tr><td>HSPA8</td><td>HSP90AA1</td><td>APP</td><td>YWHAZ</td></tr><tr><td>HSPA8</td><td>HSP90AA1</td><td>APP</td><td>ACTB</td><td>&#8226; Amyloid beta protein oligomer (PMID:15834427)</td></tr><tr><td>HSPA8</td><td>HSP90AA1</td><td>ACTB</td><td>YWHAZ</td><td>&#8226; APP-FE65-LRP complex (PMID:15115822)</td></tr><tr><td>HSPA8</td><td>APP</td><td>ACTB</td><td>YWHAZ</td><td>&#8226; APP-TIMM23 complex (PMID:16943564)</td></tr><tr><td>HSP90AA1</td><td>APP</td><td>ACTB</td><td>YWHAZ</td><td>&#8226; APP-TOMM40 complex (PMID:16943564)</td></tr><tr><td>HSP90AA1</td><td>ACTB</td><td>YWHAZ</td><td>TUBA1A</td><td>&#8226; Emerin architectural complex (PMID:17620012)</td></tr><tr><td>GAPDH</td><td>HSP90AB1*</td><td>ACTB</td><td>YWHAZ</td><td>&#8226; Emerin complex 25 (PMID:17620012)</td></tr><tr><td>GAPDH</td><td>APP</td><td>ACTB</td><td>YWHAZ</td><td>&#8226; Emerin-actin-NMI- (PMID:alphaII) spectrin complex (PMID:17620012)</td></tr><tr><td>HSPA8</td><td>ACTB</td><td>UBC*</td><td>YWHAZ</td><td>&#8226; Kinase maturation complex 1 (PMID:14743216)</td></tr><tr><td>HSP90AB1*</td><td>ACTB</td><td>SPTAN1</td><td>YWHAZ</td><td>&#8226; P2X7 receptor signaling complex (PMID:11707406)</td></tr><tr><td>HSP90AA1</td><td>HSPD1</td><td>ACTB</td><td>YWHAZ</td><td>&#8226; Profilin 2 complex (PMID:9463375)</td></tr><tr><td>EEF1A1*</td><td>ACTB</td><td>UBC*</td><td>YWHAZ</td><td>&#8226; Profilin 2 complex (PMID:9463375)</td></tr><tr><td>APP</td><td>ACTB</td><td>SPTAN1</td><td>YWHAZ</td><td>&#8226; Nil</td></tr></table>"
+  }
+ ]
+}

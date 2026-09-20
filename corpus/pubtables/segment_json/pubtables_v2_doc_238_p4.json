@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_238",
+  "page": 4,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Zhu and Gonzalez Floor Effects on Standardized Vocabulary Tests"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    80.0,
+    706.1,
+    452.6
+   ],
+   "ocr": "detected for the PPVT-4 and EVT-2 outcomes when using the model and could be ﬁtted with the Mplus Type=Twolevel regular multilevel regression without addressing the ﬂoor eﬀects. routine. Floor eﬀects in the outcome variable were considered. Nevertheless, both robust standard error approach (partially The population model for data generation was as follows. The addressing the ﬂoor eﬀects) and Tobit regression approach ﬁxed eﬀects parameter vector (γ00, γ10) represented the grand 2 (fully addressing the ﬂoor eﬀects) yielded signiﬁcant intervention mean and slope. φ represented the between-level variance and σ i eﬀects on the EVT-2, the measure of expressive vocabulary, but was the within-level residual variance. non-signiﬁcant intervention eﬀects on the PPVT-4, the receptive vocabulary measure. By further examining the descriptive Level 1 : Yij = β0j + β1jX1ij + eij (15) statistics as shown in Table 1, we found that more children scored near the lower end of the EVT-2 than on the PPVT-4. These Level 2 : β0j = γ00 + γ01X2j + U0j (16) results validated that the necessity of taking the ﬂoor eﬀects into β1j = γ10 (17) account when conducting the data analysis with potential ﬂoor U0j ∼ N(0, φ) (18) eﬀects. Without properly addressing the ﬂoor eﬀects, one can result in the incorrect test of the signiﬁcant intervention eﬀect eij ∼ N(0, σ i ). (19) and mislead to the non-signiﬁcant intervention eﬀect conclusion. In summary, ﬂoor eﬀects were shown to be present in Population parameters used to generate the data are as follows: both standardized receptive and expressive vocabulary tests the variances of X1 and X2 were both 1. The means of X1 and scores in a sample of low income Mexican-American preschool X2 were set to be zero. The within-level residual variance φ and children who enrolled in a randomized clinical trial of a shared- the between-level residual variance σ were set to equal 1 and i book reading intervention (Pollard-Durodola et al., 2016). 0.5, respectively. The between-level mean of Y was set to be 1. Analytical methods ignoring the ﬂoor eﬀects (i.e., regular The parameter vector (γ10, γ01) was set to be (0.75, 0.50). The multilevel regression) and methods addressing the ﬂoor eﬀects outcome Yij was simulated with diﬀerent proportions of ﬂoor (i.e., robust standard error approach partially addressing the data, which was detailed in a later section. Sample size was 1,000. ﬂoor eﬀects and Tobit regression approach fully addressing the Five hundred replications were generated for each simulation ﬂoor eﬀects) resulted in diﬀerence in model results. Accounting condition."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    448.0,
+    706.1,
+    629.0
+   ],
+   "ocr": "for ﬂoor eﬀects in data analysis yielded diﬀerent results Regarding the diﬀerent proportions of ﬂoor data in the (i.e., standard error estimates and signiﬁcance tests), though outcome Y, six conditions (i.e., 0, 5, 10, 15, 20, and 25%) parameter estimates did not appear to be signiﬁcantly impacted. were considered, with 0% representing no ﬂoor eﬀects and When ﬂoor eﬀects were ignored, standard errors tended to be 25% representing the most ﬂoor eﬀects. In the study by Wang overestimated. On the other hand, both robust standard error et al. (2008), the authors used diﬀerent ceiling thresholds to and Tobit regression approaches produced smaller standard manipulate diﬀerent ceiling proportion conditions in studying error estimates and subsequently signiﬁcant results. Hence, we ceiling eﬀects. In this study, we adopted their approach and would like to further examine whether partially addressing the varied the left-censoring points to create diﬀerent proportions ﬂoor eﬀects (i.e., the robust standard error approach) would of ﬂoor data. The ﬂoor proportions and ﬂoor thresholds are be suﬃcient enough to obtain unbiased parameter estimates presented in Table 4. The proportion of ﬂoor data increased as and standard errors, or only fully addressing the ﬂoor eﬀects ﬂoor thresholds increased. Figure 2 displays the corresponding (i.e., Tobit regression) would result in unbiased estimates and distributions of the six simulated data sets with diﬀerent"
+  },
+  "p4_b3": {
+   "type": "title",
+   "bbox": [
+    57.5,
+    624.3,
+    135.2,
+    636.5
+   ],
+   "ocr": "standard errors."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    631.5,
+    706.1,
+    658.4
+   ],
+   "ocr": "proportions of ﬂoor data in the outcome variable. In the 0% ﬂoor data condition, the data was shown to be normally distributed."
+  },
+  "p4_b5": {
+   "type": "title",
+   "bbox": [
+    57.5,
+    655.0,
+    244.4,
+    670.3
+   ],
+   "ocr": "THE SIMULATION STUDY"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    660.9,
+    706.1,
+    770.6
+   ],
+   "ocr": "The 0% proportion condition served as the baseline condition. When the proportion of ﬂoor data increased (e.g., 5–25%), scores To further examine the impact of ﬂoor eﬀects in multilevel data increasingly stacked on the lower end and the data distribution analysis, a Monte Carlo simulation study was conducted. Using further shifted to the left (or more right skewed). the Monte Carlo routine in Mplus version 7.31 (Muthén and Muthén, 1998-2015), data with ﬂoor eﬀects were generated. Next, the simulated data were analyzed using the three comparative methods: (a) the maximum likelihood (ML) based multilevel"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    391.4,
+    767.4,
+    616.0,
+    776.4
+   ],
+   "ocr": "TABLE 4 | Floor proportions with different ﬂoor thresholds."
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    773.2,
+    372.2,
+    915.7
+   ],
+   "ocr": "regression model without addressing the ﬂoor eﬀects, (b) the robust standard error approach (i.e., the ML based multilevel regression model with robust standard error estimator) only partially addressing the ﬂoor eﬀects, and (c) the multilevel Tobit model which fully addressing the ﬂoor eﬀects by deﬁning the outcome variable as a left-censored variable. Data Generation Data were simulated based on a basic two-level random intercept model which was a commonly used multilevel structural equation"
+  },
+  "p4_b9": {
+   "type": "table",
+   "bbox": [
+    391.1,
+    790.8,
+    705.2,
+    912.5
+   ],
+   "ocr": "Proportions of Floor thresholds Mean (SD) Score range\nﬂoor data (%)\n0 No ﬂoor 0.86 (1.60) (−4.62, 5.60)\n5 −1.50 1.04 (1.47) (−1.50, 5.61)\n10 −0.95 1.08 (1.41) (−0.95, 5.61)\n15 −0.60 1.12 (1.35) (−0.60, 5.61)\n20 −0.25 1.18 (1.28) (−0.25, 5.61)\n25 0.03 1.25 (1.21) (0.03, 5.61)",
+   "table_id": "PMC5732956_table_3"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 8 December 2017 | Volume 8 | Article 2146"
+  }
+ }
+}

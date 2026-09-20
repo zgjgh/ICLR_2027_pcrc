@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_180",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    43,
+    484,
+    91
+   ],
+   "ocr": "In the fiscal year 2024, the Equipment maintenance costs table details various equipment types, including MRI Machines with 120 units sold, totaling CHF2M, which incurred maintenance costs of CHF300K and repair costs of CHF150K, while Ultrasound Devices, with 200 units sold, amounted to CHF1.5M in total costs, CHF200K in maintenance costs, and CHF100K in repair costs."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    81,
+    484,
+    104
+   ],
+   "ocr": "CT Scanners, with 80 units sold, had total costs of CHF1.2M, maintenance costs of CHF250K, and repair costs of CHF120K."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    118.0,
+    484.0,
+    505.0
+   ],
+   "ocr": "EquipmentType UnitsSold TotalCost MaintenanceCosts RepairCosts\nMRIMachines 120 CHF2M CHF300K CHF150K UltrasoundDevices 200\nCHF1.5M CHF200K CHF100K CTScanners 80 CHF1.2M CHF250K CHF120K\nTotalUnits 400 CHF4.7M CHF750K CHF370K TotalMachines 400 CHF4.7M\nOperationalYear 2024 TotalRepairs CHF1.5M TotalMaintenance CHF750K AverageCost CHF11.75K\nAverageRepair CHF3.75K PercentageRepairs 31.9% PercentageMaintenance 15.9% AnnualGrowth 5%\nCostTrend Stable ProjectedCosts CHF5M ProjectedGrowth 6% EndofYear CHF5.5M\nRegion Europe TotalRegions 1 Currency CHF TotalEquipment 400\nHeadcount 150 Branches 5 TotalStaff 200 Contractors 50",
+   "table_id": "img_204726_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    518,
+    484,
+    567
+   ],
+   "ocr": "The total units sold across all equipment types reached 400, with a total cost of CHF4.7M, maintenance costs of CHF750K, and repair costs of CHF370K. The operational year 2024 reports total repairs of CHF1.5M, total maintenance of CHF750K, and an average cost of CHF11.75K, with an average repair cost of CHF3.75K, a percentage of repairs at 31.9%, and a percentage of maintenance at 15.9%, indicating an annual growth of 5%."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    557,
+    484,
+    605
+   ],
+   "ocr": "The cost trend is stable, with projected costs of CHF5M and projected growth of 6%, leading to an end-of-year estimate of CHF5.5M. The regional breakdown for Europe shows total regions at 1, currency in CHF, and total equipment at 400, with a headcount of 150, 5 branches, total staff at 200, and 50 contractors."
+  },
+  "p7_b5": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    620.0,
+    484.0,
+    739.0
+   ],
+   "ocr": "VisitVolume YearlyTrends\nQuarter VolumeChange\nRegion CHFAmount\nTotalVisits ClinicalServices\nQ12024 5%Increase CHF2.5M\nSwitzerland 1,200 CHF600K\nGermany 1,800 CHF900K",
+   "table_id": "img_204726_t1"
+  },
+  "p7_b6": {
+   "type": "paragraph",
+   "bbox": [
+    13.0,
+    752.0,
+    484.0,
+    790.0
+   ],
+   "ocr": "The outpatient visit volume trends table identifies Q12024 with a volume change of 5% increase and CHF2.5M in CHFAmount, where Switzerland recorded 1,200 total visits and CHF600K in clinical services, while Germany recorded 1,800 visits and CHF900K."
+  }
+ }
+}

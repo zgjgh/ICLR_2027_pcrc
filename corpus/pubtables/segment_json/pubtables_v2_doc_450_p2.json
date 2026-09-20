@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_450",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    689.6,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "QuorUM"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    465.8,
+    107.4
+   ],
+   "ocr": "Table 2. Idealized contig size statistics (in kb)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    326.4
+   ],
+   "ocr": "Corrector Rhodobacter Staphylococcus Mouse C16\nN50 E-size N50 E-size N50 E-size\nnone 2.7 4.1 43 42.4 32 40.4\ntrim20B 3.9 5.8 17 20.4 32 40.1\ntrimQual5 3.2 4.3 35 42.3 38 47.8\nCoral 4.7 6.9 65 87.7 17 22.6\nEcho 5.6 8.0 100 110 - -\nHiTec 5.7 8.1 55 56.3 - -\nQuake 3.2 4.3 21 23.1 36 45.1\nSGA 4.7 6.8 15 16.2 38 48.1\nRacer 5.7 9.3 39 44.3 24 30.2\nMusket 5.1 7.8 61 78.1 31 38.6\nQuorUM 12 18 86 112 40 49.0",
+   "table_id": "PMC4471408_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    334.5,
+    393.3,
+    345.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0130821.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    378.9,
+    727.2,
+    898.4
+   ],
+   "ocr": "the contig size such that x% of the genome is contained in contigs of size Nx or larger. The expected size, or E-size, of the contigs is computed as follows. For each base (i.e. location) in the reference, compute the size of the contig it lies in. The E-size is the average of these sizes, averaged over all the bases in the finished sequence. In other words, the E-size is the expected contig size for a randomly chosen base in the genome. It is computed as the sum of the squares of the contig lengths divided by the length of the reference assembly. Idealized contigs To avoid any bias in our results related to choosing a particular assembler, we chose to simply map the corrected reads to the reference genome thus creating idealized contigs. An idealized contig consists of a segment of the genome that is covered by overlapping cor- rected reads, overlapping by at least O bases (we chose O = 25 for reporting the results shown in Table 2 because it corresponds to building an overlap-based assembly with a minimum over- lap of 25 bases or de Bruijn graph assembly with 25-mers; one rarely would choose a minimum overlap or smaller k-mer size for an assembly). These reads must match the reference along their entire length with at least 98% identity. Given that the idealized contigs are created by alignment to the reference, the N50 and E-size of idealized contigs represent an estimate of the upper-bound of the best N50 and E-size that can be obtained when assembling this set of reads. We note that reads with less than 98% identity will likely be assembled in different con- tigs by the assembly program. The N50 and E-size of idealized contigs are reported in Table 2. The correctors that leave too many false k-mers in the reads will have fewer reads that align to the reference at 98% identity, resulting in gaps between the idealized contigs. Conversely, too many true k-mers missing result in gaps between the idealized contigs. Table 2 suggests that QuorUM generally generates a set of reads that will lead to an assembly with longer contigs. Perfect reads Table 3 reports the percentage of the original reads that are perfect after error reduction, and it also reports the percentage of bases contained in perfect reads compared with bases in original reads. A perfect read is defined as read having a full length error-free alignment with the reference."
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0130821 June 17, 2015 7 / 13"
+  }
+ }
+}

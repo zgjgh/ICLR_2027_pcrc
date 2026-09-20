@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_204",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    305.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Identification of Highly Variable Supernumerary Chromosome Segments in an Asexual Pathogen"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    484.6,
+    107.4
+   ],
+   "ocr": "Table 4. Scaffolds with supernumerary segments."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    288.1,
+    112.9,
+    692.0,
+    442.7
+   ],
+   "ocr": "Scaffold Length (kb) Contig with type-2 SNPs or coverage variation (CV)1\n26 379 mc26.1 (CV: Fv LL0009, Fv 34551)\n28 218 mc28.2 (SNPs: Fv Clinton-1B)\n33 330 mc33.8 (CV: Fv Clinton-1B, Fv LL0009)\n41 207 mc41.8 (SNPs: Fv LL0009)\n46 158 mc46.2 (CV: Fv LL0009, Fv 34551)\n50 140 mc50.4 (SNPs: Fv Clinton-1B)\n54 120 mc54.3 (CV: Fv Clinton-1B, Fv LL0009)\n58 96 mc58.2 (CV: Fv Clinton-1B, Fv LL0009)\n71 85 mc71.2 (SNPs: Fv Clinton-1B)\n74 80 mc74.1 (SNPs: Fv LL0009)\n79 73 mc79.6 (SNPs: Fv LL0009)\n80 69 mc80.1 (CV: Fv LL0009, Fv 34551)\n88 51 mc88.6 (SNPs: Fp 31156)\n90 61 mc90.7 (CV: Fv 34551, Fc 31157)\n91 44 mc91.1 (SNPs: Fp 31156)\n98 45 mc98.3 (CV: Fv Clinton-1B, Fv LL0009)\n99 34 mc99.2 (CV: Fv 34551, Fv Clinton-1B)\n100 37 mc100.2 (CV: Fv Clinton-1B, Fv LL0009)\n117 24 mc117.2 (CV: Ft 31096, Ft 31781)\n158 12 mc158.2 (CV: Fc 31157, Fp 31156)",
+   "table_id": "PMC4920403_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    454.5,
+    727.4,
+    894.6
+   ],
+   "ocr": "Shown in the parentheses are the names of two isolates in which read coverage variation was detected in the contig or the name of an isolate in which type-2 SNPs were detected in the contig. doi:10.1371/journal.pone.0158183.t004 We examined variation in some of the genes among the isolates. Contig mc74.1 harbors a gene encoding a cytochrome P450 (CYP) enzyme of 643 residues. This enzyme, a member of family CYP53 (e-value = 1.0e-152), is capable of detoxifying plant defensive compounds, including benzoic acid derivatives [46]. The gene was present in the top seven isolates (in Table 2) including Ft 31096, but not in the other three isolates including Ft 31781 and Ft 34546 (S3 Fig). No SNPs were found in this gene in each of Fv Clinton-1B, Fv 34551, Fc 31157, Fp 31156, whose reads covered the reference locus at depths between 70 and 380; 2 SNPs were found in Fb 31757. In contrast, we found 11 type-2 SNPs in Fv LL0009. Of the 11 SNPs, 8 were nonsynonymous, 1 synonymous, 1 in an intron, and 1 in a 50 untranslated region (UTR). In addition, in Ft 31096, 12 SNPs were found, of which 8 were nonsynonymous. The supernumerary CYP53 gene was 43% identical at the amino acid level to another region (contig mc2.51) in the essential (core) genome, where the two genes shared the same 4-exon gene structure with two short exons followed by two long exons. The core CYP53 gene was present in all of the isolates with no SNPs among the F. virguliforme isolates and a total of 12 SNPs between the F. virguliforme isolates and the non-F. virguliforme isolates. Of the 12 SNPs, 3 were present in all the non-F. virguliforme isolates, 2 were in all the F. tucumaniae isolates, 3 were in Fc 31157 and Fb 31757, 3 were only in Fa 54364, and 1 was only in Fp 31156. The core CYP53 enzyme was 90% identical to a CYP53 enzyme of 635 residues from N. haematococca MPVI; which was also the best match (at 43% identity) for the supernumerary CYP53 enzyme when searched against all of the N. haematococca MPVI proteins. Downstream of the supernumerary CYP53 gene in contig mc74.1 was a 2-exon gene encoding a 514-residue protein with a heterokaryon incompatibility (HET) domain (e-value = 4.3e-17)."
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158183 June 24, 2016 15 / 23"
+  }
+ }
+}

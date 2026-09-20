@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_493",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Billings et al. Standards in Genomic Sciences (2015) 10:106 Page 5 of 11"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.4,
+    366.1,
+    436.9
+   ],
+   "ocr": "MIGS ID Property Term\nMIGS-31 Finishing quality High-quality draft\nMIGS-28 Libraries used Three libraries: Illumina std shotgun\nlibrary, Illumina long insert mate pair\nlibrary, Pacbio SMRTbell™ library\nMIGS-29 Sequencing Illumina HiSeq 2000, PacBio RS\nplatforms\nMIGS- Fold coverage 2680X, 1157X, 33X\n31.2\nMIGS-30 Assemblers AllpathsLG\nMIGS-32 Gene calling method Prodigal, GenePRIMP\nLocus Tag H027\nGenBank ID AZUK00000000.1\nGenBank Date of May 23, 2014\nRelease\nGOLD ID Gi0037033\nBIOPROJECT PRJNA186459\nMIGS-13 Source Material In submission\nIdentifier\nProject relevance Biofuels, Environmental",
+   "table_id": "PMC4653933_table_1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    842.1,
+    671.1,
+    917.9
+   ],
+   "ocr": "Fig. 3 Z-curve graph of T. lignolytica BRL6-1T contig 1. The Z-curve graph was made using Ori-Finder software. The sequence is rotated such that the beginning and ending are the maximum of the GC disparity curve. The short vertical red line indicates the location of the indicator gene dnaA, while purple peaks with diamonds indicate DnaA box clusters. The shift in base pair disparity coincides with the location of the dnaA gene and a large cluster of DnaA boxes, which together strongly suggest the location of the origin of replication. MK disparity represents the ratio of amino (A,C) to keto (G,T) bases, while RY disparity represents the ratio of purine (A,G) to pyrimidine (C,T) bases. Finally, the AT and GC disparities represent the ratio of weak to strong hydrogen bond forming bases, respectively"
+  }
+ }
+}

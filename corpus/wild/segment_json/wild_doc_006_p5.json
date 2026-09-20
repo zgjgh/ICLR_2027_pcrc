@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_006",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The table includes data on gene probes across the Cortex and Hippocampus with specific values for different markers. For the gene Itgam with probe A55P1977929, the Cortex values are 0.9, 1.5, 1.2, and 1.9 for M1, M4, M6, and M9 respectively, while the Hippocampus values are 1.1, 2.0, 1.8, and 1.6."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    140
+   ],
+   "ocr": "The gene Itgb2, under probe A51P262208, shows Cortex values of 1.0, 2.5, 2.6, and 3.4 for M1, M4, M6, and M9, and Hippocampus values of 1.0, 2.3, 2.4, and 2.5. For Itgb3 with probe A52P553890, the Cortex values are 0.9, 1.3, 2.0, and 1.5, and the Hippocampus values are 0.9, 1.8, 1.9, and 3.0. The gene Tlr2, probe A51P452629, has Cortex values of 1.0, 2.7, 3.6, and 3.3, with Hippocampus values of 0.6, 3.2, 3.6, and 5.1."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    389.0
+   ],
+   "ocr": "Cortex Hippocampus\nGene Probe M1 M4 M6 M9 M1 M4 M6 M9\nItgam A55P1977929 0.9 1.5 1.2 1.9 1.1 2.0 1.8 1.6\nItgb2 A51P262208 1.0 2.5 2.6 3.4 1.0 2.3 2.4 2.5\nItgb3 A52P553890 0.9 1.3 2.0 1.5 0.9 1.8 1.9 3.0\nTlr2 A51P452629 1.0 2.7 3.6 3.3 0.6 3.2 3.6 5.1\nC3 A51P110301 1.6 1.0 3.5 1.6 0.9 1.2 5.2 6.3\nC4b A55P2078633 1.1 2.6 9.0 3.7 0.8 2.6 4.0 5.6\nC1qa A51P181451 1.1 2.6 3.2 4.0 1.0 3.0 3.8 4.7\nC1qb A51P351860 1.0 2.3 2.9 3.2 1.0 2.6 5.1 2.9\nC1qc A51P102789 1.0 2.8 2.0 5.7 1.2 3.0 4.6 4.2",
+   "table_id": "img_006241_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    405,
+    580,
+    448
+   ],
+   "ocr": "The gene C3, probe A51P110301, records Cortex values of 1.6, 1.0, 3.5, and 1.6, and Hippocampus values of 0.9, 1.2, 5.2, and 6.3. For C4b, probe A55P2078633, the Cortex values are 1.1, 2.6, 9.0, and 3.7, while the Hippocampus shows values of 0.8, 2.6, 4.0, and 5.6."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    436,
+    580,
+    494
+   ],
+   "ocr": "The gene C1qa, probe A51P181451, has Cortex values of 1.1, 2.6, 3.2, and 4.0, and Hippocampus values of 1.0, 3.0, 3.8, and 4.7. For C1qb, under probe A51P351860, Cortex values are 1.0, 2.3, 2.9, and 3.2, with Hippocampus values of 1.0, 2.6, 5.1, and 2.9. Lastly, C1qc with probe A51P102789 has Cortex values of 1.0, 2.8, 2.0, and 5.7, while Hippocampus values are 1.2, 3.0, 4.6, and 4.2."
+  }
+ }
+}

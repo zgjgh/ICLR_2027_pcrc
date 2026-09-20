@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_037",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The following table presents a comprehensive overview of the interactions of Thioredoxin A (TrxA) with various structural elements across different cellular applications."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    125
+   ],
+   "ocr": "Utilizing a yeast two-hybrid phage display system, the data elucidates the binding affinities and functional roles of TrxA in mammalian cells, specifically highlighting the influence of distinct HLA alleles, including DRB1*01:01 and DRB1*15:01. These alleles are critical in understanding the immune response and potential therapeutic targets."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    325.0
+   ],
+   "ocr": "Scaffold Structural element Application References Remark\nThioredoxin A (TrxA) 1 loop yeast two-hybrid phage display mammalian cells [18,25]\nStaphylococcal nuclease 1 loop functional screening [21]\nHuman Stefin A 3 sites yeast two-hybrid [26]\nGreen Fluorescent Protein (GFP) loop randomization visual screening [20]\nFKBP12-(peptide)-FRB-GST fusion of three domains screen for kinase inhibitors [27] ligand-regulated peptide aptamers (LiRPs; rapamycin)",
+   "table_id": "img_041740_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    340.0,
+    580.0,
+    490.0
+   ],
+   "ocr": "HLA Alleles DRB1*01:01 DRB1*07:01 DRB1*15:01\nIncubation No. 1 2 3 4 5 6 7 8 9\nHLA − + + − + + − + +\nLigand peptide + − + + − + + − +\nConcentration (nM) 0.11 ± 0.01 0.17 ± 0.03 0.13 ± 0.01 0.13 ± 0.01 0.17 ± 0.03 0.14 ± 0.01 0.14 ± 0.03 0.23 ± 0.09 0.14 ± 0.02\np-Value n/a 0.006 (vs. 1) 0.023 (vs. 2) n/a 0.087 (vs. 4) 0.211 (vs. 5) n/a 0.084 (vs. 7) 0.076 (vs. 8)",
+   "table_id": "img_041740_t1"
+  },
+  "p6_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    505.0,
+    580.0,
+    626.0
+   ],
+   "ocr": "IC50 (μmol·L−1)\nCompound HL-60 MCF-7 HCT116 H9c2 3T3\nDp44mT 0.002 ± 0.000 0.009 ± 0.002 0.006 ± 0.001 0.124 ± 0.049 0.157 ± 0.051\nDp4mT 0.250 ± 0.055 4.106 ± 0.831 1.731 ± 0.160 3.250 ± 0.641 3.598 ± 0.664\nDpC 0.003 ± 0.001 0.003 ± 0.001 0.005 ± 0.001 0.085 ± 0.013 0.412 ± 0.177\nDpC-A 32.251 ± 3.854 19.527 ± 6.268 34.062 ± 6.349 257.203 ± 73.567 639.715 ± 65.874",
+   "table_id": "img_041740_t2"
+  },
+  "p6_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    642,
+    580,
+    685
+   ],
+   "ocr": "The table categorizes the results based on the scaffold utilized, the specific structural elements involved, and the types of cells employed in the experiments, such as HL-60 and MCF-7. Notably, the incubation periods for the assays are denoted, providing insight into the temporal aspects of TrxA interactions."
+  },
+  "p6_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    731
+   ],
+   "ocr": "The references cited, such as [18,25], further substantiate the methodologies applied and the significance of the findings in the context of immunology and cellular biology. Overall, this data serves to enhance our understanding of TrxA’s role in various biological pathways and its potential applications in therapeutic interventions."
+  }
+ }
+}

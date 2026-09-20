@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_494",
+  "page": 1,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    445.9,
+    689.2,
+    532.1
+   ],
+   "ocr": "Figure 1. Position line recognition and edge acquisition of nerve fascicles in cross section images of median nerve. Images of randomly selected sections of (a) the cubital fossa median nerve, (b) the hand- wrist median nerve, (c) the first section, (d) the zoomed-in image of a region within (c). (e) Amplified cross-section images of the 4 position lines (the blue dots) within (c). (f) A template of a circular cross section image of 15 × 15 pixels, (g) a template of circle-like cross section image, and (h) the cross section image of the nerve with the central pixel coordinate after recognition of the position lines."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    204.0,
+    571.9,
+    587.2,
+    664.8
+   ],
+   "ocr": "Kernel function Adjustable\nRecognition method parameter σ2 parameter γ Misclassified error (%)\nLS-SVM with optimized\n4.71 224 8.25%\nparameters\nLS-SVM with optional\n2 100 11.375%\nparameters\nRBF Neural Networks — — 14.75%",
+   "table_id": "PMC4657002_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    198.9,
+    680.7,
+    609.9,
+    696.6
+   ],
+   "ocr": "Table 1. Comparison of recognition performance by different recognition methods."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    731.9,
+    709.0,
+    862.4
+   ],
+   "ocr": "there have been several algorithms developed for this purpose, particularly in the area of medical image analyses10–12. In the current study, to improve the calculating efficiency, section image registration and alignment were implemented using the bilinear method13. Figure 2 displays results of registration of five section images randomly selected from the median nerve of the cubital fossa region. As it can be seen in the images after registration, the position lines were corrected to the same coordinate position of section images. The results showed that total registration time was 1380.2 s for the 400 acquired section images, with an average of 3.45 s per section. Edge acquisition of nerve fascicles. After registration of section images, edges of nerve fascicles"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    859.4,
+    709.0,
+    875.8
+   ],
+   "ocr": "need to be acquired before the fascicle functional types can be recognized. Since the fascicular groups"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    872.8,
+    708.9,
+    889.2
+   ],
+   "ocr": "converge and split while extending and thus their numbers in section images change, the fascicular group"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    886.2,
+    708.9,
+    902.6
+   ],
+   "ocr": "numbers in section images have to be acquired before obtaining the accurate edges of fascicular groups."
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    899.7,
+    709.0,
+    916.0
+   ],
+   "ocr": "For this purpose, a preprocessing step was implemented, and the unsupervised dynamic clustering"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    913.1,
+    708.9,
+    929.5
+   ],
+   "ocr": "method was employed. Furthermore, before edges of nerve fascicles can be acquired, the centers of nerve"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    926.5,
+    708.9,
+    980.1
+   ],
+   "ocr": "fascicles need to be obtained and pixels of nerve fascicles of each section image need to be processed by Scientific RepoRts | 5:17168 | DOI: 10.1038/srep17168 3"
+  }
+ }
+}

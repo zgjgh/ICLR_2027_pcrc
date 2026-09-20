@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_353",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3131126_table_0",
+   "page_num": 1,
+   "bbox": [
+    112.5,
+    218.1,
+    366.0,
+    362.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3131126_table_0.png",
+   "html": "<table><tr><td>Indicator</td><td>National</td><td>Morang</td></tr><tr><td>Human development index (13)</td><td>0.471</td><td>0.531</td></tr><tr><td>Human poverty index (13)</td><td>39.6</td><td>34.4</td></tr><tr><td>Per-capita income (US$) (13)</td><td>240</td><td>297</td></tr><tr><td>Literacy rate&#8212;6 years and above (14)</td><td>48.6</td><td>57</td></tr><tr><td>Male</td><td>62.7</td><td>67.1</td></tr><tr><td>Female</td><td>34.9</td><td>46.8</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3131126_table_1",
+   "page_num": 2,
+   "bbox": [
+    94.8,
+    109.2,
+    638.9,
+    526.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3131126_table_1.png",
+   "html": "<table><tr><td>MINI algorithm</td><td>WHO algorithm</td><td>SEARCH algorithm</td></tr><tr><td>Presence of any one of the following signs</td><td>Presence of any one of the following signs</td><td>Presence of any two of the following signs on same day</td></tr><tr><td>Unable to feed</td><td>Convulsions</td><td>Reduced feeding or stopped feeding</td></tr><tr><td>Lethargic or unconscious</td><td>Lethargic or unconscious</td><td>Drowsy or unconscious</td></tr><tr><td>Fast breathing (&#8805;60 breaths per minute)</td><td>Fast breathing (60 breaths per minute or more)</td><td></td></tr><tr><td>Severe chest in-drawing</td><td>Severe chest in-drawing</td><td>Chest in-drawing</td></tr><tr><td>Grunting</td><td>Grunting</td><td></td></tr><tr><td>Fever (temperature &#8805;37.5 &#176;C)</td><td>Fever (37.5 &#176;C* or above or feels hot)</td><td>Mother says baby becomes cold to touch (hypothermic)</td></tr><tr><td>Hypothermia (temperature &lt;35.5 &#176;C)</td><td>Low body-temperature (less than 35.5 &#176;C* or feels cold)</td><td>Or temperature is more than 99 oF (37.2 &#176;C)</td></tr><tr><td>Redness around umbilicus</td><td>Umbilical redness extending to the skin or</td><td>Pus in umbilicus</td></tr><tr><td>&gt;10 skin pustules or 1 large abscess</td><td>Many or severe skin pustules</td><td>Or abscess with pus in skin</td></tr><tr><td rowspan=\"6\">Weak cry</td><td></td><td>Weak cry or stopped cry</td></tr><tr><td>Nasal flaring</td><td></td></tr><tr><td>Bulging fontanelle</td><td></td></tr><tr><td>Pus draining from ear</td><td></td></tr><tr><td>Less than normal movement</td><td></td></tr><tr><td></td><td>Stomach distended or repeated vomiting</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3131126_table_2",
+   "page_num": 3,
+   "bbox": [
+    94.5,
+    140.8,
+    340.1,
+    392.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3131126_table_2.png",
+   "html": "<table><tr><td>Sign</td><td>Kappa statistic</td><td>95% CI</td></tr><tr><td>&gt;10 skin pustules or 1 large abscess</td><td>0.96</td><td>0.90-0.98</td></tr><tr><td>Fever</td><td>0.85</td><td>0.77-0.91</td></tr><tr><td>Hypothermia</td><td>0.84</td><td>0.76-0.90</td></tr><tr><td>Redness around umbilicus</td><td>0.84</td><td>0.76-0.90</td></tr><tr><td>Unable to feed</td><td>0.82</td><td>0.73-0.88</td></tr><tr><td>Grunting</td><td>0.82</td><td>0.73-0.88</td></tr><tr><td>Fast breathing</td><td>0.80</td><td>0.71-0.87</td></tr><tr><td>Severe chest in-drawing</td><td>0.77</td><td>0.68-0.84</td></tr><tr><td>Lethargic or unconscious</td><td>0.74</td><td>0.65-0.82</td></tr><tr><td>Weak cry</td><td>0.71</td><td>0.62-0.79</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3131126_table_3",
+   "page_num": 4,
+   "bbox": [
+    114.1,
+    394.4,
+    651.5,
+    475.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3131126_table_3.png",
+   "html": "<table><tr><td>Characteristics</td><td>No. of episodes</td><td>No. of deaths (n=186)</td><td>MINI case fatality (%) and 95% CI</td></tr><tr><td>Those who received treatment</td><td>1,376</td><td>21</td><td>1.5 (1.0-2.3)</td></tr><tr><td>Those who did not receive treatment</td><td>150</td><td>8</td><td>5.3 (2.6-9.7)</td></tr><tr><td>Total PSBI episodes</td><td>1,526</td><td>29</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3131126_table_4",
+   "page_num": 4,
+   "bbox": [
+    114.4,
+    759.3,
+    655.2,
+    912.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3131126_table_4.png",
+   "html": "<table><tr><td>Morbidity category</td><td>No. of episodes</td><td>No. of deaths</td><td>MINI case fatality (%) (95% CI)</td></tr><tr><td>PSBI episodes with single sign</td><td>738</td><td>5</td><td>0.7 (0.3-1.6)</td></tr><tr><td>Those who received treatment</td><td>661</td><td>3</td><td>0.5 (0.2-1.3)</td></tr><tr><td>Those who did not receive treatment</td><td>77</td><td>2</td><td>2.6 (0.7-9.0)</td></tr><tr><td>PSBI episodes with two or more signs</td><td>788</td><td>24</td><td>3 (2.1-4.5)</td></tr><tr><td>Those who received treatment</td><td>715</td><td>18</td><td>2.5 (1.6-3.9)</td></tr><tr><td>Those who did not receive treatment</td><td>73</td><td>6</td><td>8.2 (3.8-16.8)</td></tr><tr><td>Total PSBI episodes</td><td>1,526</td><td>29</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3131126_table_5",
+   "page_num": 5,
+   "bbox": [
+    95.5,
+    735.7,
+    616.8,
+    896.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3131126_table_5.png",
+   "html": "<table><tr><td>Day of treatment initiation</td><td>No. of episodes</td><td>No. of deaths</td><td>Case fatality (%)</td><td>95% CI</td></tr><tr><td>Same day</td><td>572</td><td>12</td><td>2.1</td><td>1.2-3.6</td></tr><tr><td>Day 1</td><td>321</td><td>3</td><td>0.9</td><td>0.3-2.7</td></tr><tr><td>Day 2</td><td>246</td><td>5</td><td>2.0</td><td>0.9-4.7</td></tr><tr><td>Day 3</td><td>138</td><td>0</td><td>0</td><td></td></tr><tr><td>Day 4</td><td>48</td><td>1</td><td>2.08</td><td>0.4-10.9</td></tr><tr><td>Day 5</td><td>31</td><td>0</td><td>0</td><td></td></tr><tr><td>Day 6 or more</td><td>20</td><td>0</td><td>0</td><td></td></tr><tr><td>Total</td><td>1,376</td><td>21</td><td>1.5</td><td>1-2.3</td></tr></table>"
+  }
+ ]
+}

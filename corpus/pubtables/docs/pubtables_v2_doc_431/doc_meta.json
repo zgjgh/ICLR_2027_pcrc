@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_431",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    1000,
+    750
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    1000,
+    750
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    1000,
+    750
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4377056_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    129.2,
+    672.8,
+    285.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4377056_table_0.png",
+   "html": "<table><tr><td colspan=\"2\">I. Inclusion criteria</td><td colspan=\"2\">II. Exclusion criteria</td></tr><tr><td>a.</td><td>Original peer-reviewed articles from US studies published between January 1, 2000 and March 4, 2014</td><td>a.</td><td>Studies from clinical trials, controlled cessation programs, and clinical studies or evaluations of smokeless tobacco cessation interventions without additional follow-up beyond the originally planned timeframe of the program</td></tr><tr><td rowspan=\"6\">b.</td><td rowspan=\"6\">Articles include estimates of at least one transition between two points in time between a combination of the following tobacco use states: exclusive cigarette smoking, exclusive smokeless tobacco use, dual use of both products, and use of neither product.</td><td>b.</td><td>Studies that do not have data on smokeless transition behaviors</td></tr><tr><td>c.</td><td>Non-human studies</td></tr><tr><td>d.</td><td>Non-English language studies</td></tr><tr><td>e.</td><td>Commentaries or non-empirical research</td></tr><tr><td>f.</td><td>Studies published prior to 2000</td></tr><tr><td>g.</td><td>Studies on e-cigarettes as a &#8220;smokeless&#8221; product</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4377056_table_1",
+   "page_num": 2,
+   "bbox": [
+    77.1,
+    85.7,
+    888.5,
+    673.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4377056_table_1.png",
+   "html": "<table><tr><td>Study</td><td>Study design</td><td>Population</td><td>Follow-Up and Loss to Follow-Up</td><td>Definition: use neither product</td><td>Definition: exclusive smokeless tobacco (ST) user</td><td>Definition: exclusive smoker</td><td>Definition: dual use</td><td>How transitions calculated</td></tr><tr><td rowspan=\"5\">Zhu et al. (2009)</td><td rowspan=\"2\">&#8226; Tobacco Use Supplement to Current Population Survey 2002&#8211;2003 (TUS CPS)</td><td>&#8226; n = 15,056</td><td>&#8226; Follow-up one year later in 2003</td><td rowspan=\"5\">Non-user = does not currently use either product, subgroups include never smokers and former smokers</td><td rowspan=\"5\">ST user = currently uses chewing tobacco or snuff every day or some days</td><td rowspan=\"5\">Cigarette smoker = has smoked &#8805; 100 cigarettes in lifetime and currently smokes cigarettes every day or some days</td><td rowspan=\"5\">Dual user = ST user + cigarette smoker</td><td rowspan=\"5\">Percentages are weighted by census- derived survey weights, and stratified by gender, but not adjusted for other factors.</td></tr><tr><td>&#8226; Males and females</td><td rowspan=\"4\">&#8226; Only includes data for adults with baseline and follow-up information (excludes 1.9% of the sample with conflicting smoking information)</td></tr><tr><td rowspan=\"2\">&#8226; Nationally representative cross sectional survey with longitudinal component in some cycles</td><td>&#8226; ages 18+</td></tr><tr><td rowspan=\"2\">&#8226; Nationally representative</td></tr><tr><td>&#8226; Household interviews at baseline in 2002 with follow-up in 2003 for some participants</td></tr><tr><td rowspan=\"4\">Wetter et al. (2002)</td><td rowspan=\"2\">&#8226; Secondary trial data from Working Well cancer prevention trial &#8211; University of Texas MD Anderson Cancer Center and worksites</td><td>&#8226; n = 1244 tobacco users</td><td>&#8226; Follow-up four years later</td><td rowspan=\"4\">Non-user = has not smoked in past seven days and does not currently use smokeless tobacco</td><td rowspan=\"4\">ST user = currently uses chewing tobacco, dip, or snuff</td><td rowspan=\"4\">Cigarette smoker = has smoked &#8805; 100 cigarettes in lifetime and has smoked in past seven days</td><td rowspan=\"4\">Dual user = ST user + cigarette smoker</td><td>percentages are unadjusted</td></tr><tr><td>&#8226; Males</td><td rowspan=\"2\">&#8226; Only includes employees who remained at their baseline worksite four years later (62% of baseline sample)</td><td rowspan=\"3\">adjusted odds ratios, for other analyses (not presented here)</td></tr><tr><td rowspan=\"2\">&#8226; Baseline in 1990</td><td>&#8226; Average age = 37.5 years</td></tr><tr><td>&#8226; Reside in southeastern U.S.</td><td>&#8226; 52% of baseline dual users had follow up data, compared to 60% of smokers and 66% of ST users.</td></tr><tr><td rowspan=\"5\">Haddock et al. (2001)</td><td rowspan=\"2\">&#8226; Secondary data from Wilford Hall/University of Memphis and Minnesota Smoking Cessation Program</td><td>&#8226; n = 7865</td><td rowspan=\"2\">&#8226; Mail-in follow-up one year after military basic training</td><td rowspan=\"2\">Non-user = Never smoker + never ST user or never smoker + former ST user</td><td rowspan=\"5\">ST user = uses smokeless tobacco at least once per day</td><td rowspan=\"5\">Cigarette smoker at follow-up = has smoked at least a puff in last seven days</td><td rowspan=\"5\">n/a</td><td rowspan=\"2\">percentages are unadjusted</td></tr><tr><td>&#8226; Males</td></tr><tr><td>&#8226; Baseline questionnaire in August 1995</td><td>&#8226; Average age 19.8 years</td><td>&#8226; Follow-up takes place after an imposed tobacco ban</td><td rowspan=\"3\">Never Smoker = has never smoked regularly (at least one cigarette per day)</td><td rowspan=\"3\">adjusted odds ratios for other analyses (not presented here)</td></tr><tr><td rowspan=\"2\">&#8226; Treatment and control groups during a 6-week imposed tobacco ban in August 1996</td><td>&#8226; U.S. Air Force young adult male recruits who reported being never smokers at baseline</td><td>&#8226; 96% of smokers and 66% of nonsmokers had follow-up data from parent study</td></tr><tr><td></td><td>&#8226; Follow-up excludes those who dropped out of basic training, completed training but dropped out of the survey, were deceased, or on assignment)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4377056_table_2",
+   "page_num": 3,
+   "bbox": [
+    76.8,
+    170.2,
+    882.6,
+    591.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4377056_table_2.png",
+   "html": "<table><tr><td>Study</td><td>Study design</td><td>Population</td><td>Follow-up and loss to follow-up</td><td>Definition: use neither product</td><td>Definition: exclusive ST user</td><td>Definition: exclusive smoker</td><td>Definition: dual use</td><td>How transitions calculated</td></tr><tr><td rowspan=\"4\">Tomar et al. (2003)</td><td rowspan=\"2\">&#8226; The Teenage Attitudes and Practices Survey (TAPS-I and II), nationally representative cohort study, in 1988&#8211;1989 and 1993</td><td>&#8226; n = 3,996</td><td rowspan=\"2\">&#8226; Four-year follow-up between 1989 and 1993</td><td rowspan=\"4\">Non-user = Not ST user + Not current smoker</td><td rowspan=\"4\">ST user = self-identification as regular user of chewing tobacco or snuff</td><td rowspan=\"4\">Current smoker = smoked &#8805; 100 cigarettes in lifetime and smoked at least 1 day in 30 days preceding interview</td><td rowspan=\"4\">Dual user = ST user + current smoker</td><td rowspan=\"2\">percentages are weighted by survey weights</td></tr><tr><td>&#8226; Young males</td></tr><tr><td rowspan=\"2\">&#8226; Telephone interviews and self-administered questionnaires by mail (TAPS-I) or in-person contact (TAPS-II)</td><td>&#8226; Ages 11-19</td><td rowspan=\"2\">&#8226; 87.1% of baseline sample completed follow-up</td><td rowspan=\"2\">adjusted odds ratios for other analyses (not presented here)</td></tr><tr><td>&#8226; Nationally representative</td></tr><tr><td rowspan=\"4\">Severson et al. (2007)</td><td rowspan=\"2\">&#8226; Cohort study conducted between 1994 and 1999</td><td>&#8226; n = 2263</td><td rowspan=\"4\">&#8226; Two-year follow-up in 9th or 11th grade</td><td rowspan=\"2\">Non-user = Non-smoker + Not ST user</td><td rowspan=\"4\">ST user = any smokeless tobacco use in the past 30 days</td><td rowspan=\"4\">Current smoker = WSI score is &#8805; 1</td><td rowspan=\"4\">Dual user = ST user + cigarette smoker (only included at follow-up)</td><td rowspan=\"2\">percentages are unadjusted</td></tr><tr><td>&#8226; Young males</td></tr><tr><td>&#8226; Baseline survey completed once in 7th or 9th grade</td><td>&#8226; 7th and 9th-graders at baseline</td><td rowspan=\"2\">Non-smoker = Has never smoked and Weekly Smoking Index (WSI) score is 0. WSI score averages answers to four questions about current smoking during past month</td><td rowspan=\"2\">adjusted odds ratios for other analyses (not presented here)</td></tr><tr><td>&#8226; Evaluation of a randomized community intervention to prevent adolescent use</td><td>&#8226; Small rural communities in Oregon</td></tr><tr><td rowspan=\"4\">O&#8217;Hegarty et al. (2012)</td><td rowspan=\"4\">&#8226; National Longitudinal Study of Adolescent Health (Add Health), a nationally representative school-based sample with Wave I conducted during the 1994&#8211;1995 school year</td><td>&#8226; n = 3284</td><td rowspan=\"3\">&#8226; Wave II conducted in 1996, approximately 1&#8211;2 years after Wave I (1994&#8211;1995)</td><td></td><td rowspan=\"4\">ST user = reported using smokeless tobacco during the past 30 days</td><td rowspan=\"4\">Current smoker = smoked on at least 1 of the past 30 days</td><td rowspan=\"4\">Dual user = smoked on at least 1 of the past 30 days and used reported using smokeless during the past 30 days</td><td></td></tr><tr><td>&#8226; Male and female</td><td></td><td></td></tr><tr><td>&#8226; Grades 7&#8211;11 when interviewed in Wave I</td><td></td><td></td></tr><tr><td>&#8226; Nationally representative sample</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4377056_table_3",
+   "page_num": 4,
+   "bbox": [
+    76.8,
+    93.4,
+    886.6,
+    626.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4377056_table_3.png",
+   "html": "<table><tr><td></td><td></td><td colspan=\"4\">Follow-up status</td></tr><tr><td></td><td></td><td>Neither</td><td>Exclusive smokeless tobacco user</td><td>Exclusive smoker</td><td>Dual user</td></tr><tr><td rowspan=\"25\">Baseline</td><td rowspan=\"9\">Neither</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td></tr><tr><td>&#8226; 73.9%* male former smokers quit &#8804;1 yr [15]</td><td>&#8226; 1.7% males former smoker quit &#8804;1 yr (0.5 to 5.8) [15]</td><td>&#8226; 24.4% males former smoker quit &#8804;1 yr (17.1 to 33.6) [15]</td><td>&#8226; 0% males former smoker quit &#8804;1 yr [15]</td></tr><tr><td>&#8226; 97%* males former smoker quit &gt;1 yr [15]</td><td>&#8226; 0.3% males former smoker quit &gt;1 yr (0.1 to 0.7) [15]</td><td>&#8226; 2.6% males former smoker quit &gt;1 yr (1.9 to 3.6) [15]</td><td>&#8226; 0.1% males former smoker quit &gt;1 yr (0.0 to 0.5) [15]</td></tr><tr><td>&#8226; 96.7%* males never smoker [15]</td><td>&#8226; 0.7% males never smoker (0.5 to 1.1) [15]</td><td>&#8226; 2.5% males never smoker (1.7 to 3.8) [15]</td><td>&#8226; 0.1% males never smoker (0 to 0.3) [15]</td></tr><tr><td>&#8226; 68.3%* females former smoker quit &#8804;1 yr [15]</td><td>&#8226; 0% females former smoker quit &#8804;1 yr [15]</td><td>&#8226; 31.7% females former smoker quit &#8804;1 yr (24.9 to 39.3) [15]</td><td>&#8226; 0% females former smoker quit &#8804;1 yr [15]</td></tr><tr><td rowspan=\"2\">&#8226; 97.1%* females former smoker quit &gt;1 yr [15]</td><td rowspan=\"2\">&#8226; 0.3% females former smoker quit &gt;1 yr (0.1 to 0.6) [15]</td><td>&#8226; 2.9% females former smoker quit &gt;1 yr (2.1 to 4.0) [15]</td><td rowspan=\"4\">&#8226; 0% females never smoker [15]</td></tr><tr><td>&#8226; 1.7% females never smoker (1.2 to 2.2) [15]</td></tr><tr><td rowspan=\"2\">&#8226; 98.3%* females never smoker [15]</td><td rowspan=\"2\">&#8226; 0% females never smoker [15]</td><td>&#8226; 12.9% of male never ST users [17]</td></tr><tr><td>&#8226; 26.3% of male former ST users [17]</td></tr><tr><td rowspan=\"6\">Exclusive smokeless tobacco user</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td></tr><tr><td>&#8226; 35.0% males (27.0 to 43.8) [15]</td><td>&#8226; 59.4% males (50.6 to 67.7) [15]</td><td>&#8226; 3.9% males (1.4 to 10.6) [15]</td><td>&#8226; 1.8% males (0.6 to 5.5) [15]</td></tr><tr><td rowspan=\"2\">&#8226; 44.1% females (22.2 to 68.6) [15]</td><td rowspan=\"2\">&#8226; 52.7% females (27.4 to 76.7) [15]</td><td>&#8226; 3.2% females (0.2 to 31.5) [15]</td><td rowspan=\"2\">&#8226; 0% females [15]</td></tr><tr><td>&#8226; 26.6% males [17]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 20.1% males [16]</td><td>&#8226; 76.6% of males [16]</td><td>&#8226; 0.9% males [16]</td><td>&#8226; 2.5% of males [16]</td></tr><tr><td rowspan=\"5\">Exclusive smoker</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td></tr><tr><td>&#8226; 11.3% males (8.7 to 14.2) [15]</td><td>&#8226; 0.3% males (0.1 to 0.8) [15]</td><td>&#8226; 86.2% males (83.1 to 88.9) [15]</td><td>&#8226; 2.2% males (1.4 to 3.5) [15]</td></tr><tr><td>&#8226; 12.3% females (10.2 to 14.7) [15]</td><td>&#8226; 0% females [15]</td><td>&#8226; 87.6% female (85.2 to 89.7) [15]</td><td>&#8226; 0.1% female (0.0 to 0.2) [15]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 15.7% males [16]</td><td>&#8226; 1.4% males [16]</td><td>&#8226; 79.7% males [16]</td><td>&#8226; 3.2% males [16]</td></tr><tr><td rowspan=\"5\">Dual user</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td><td>1 year follow-up</td></tr><tr><td>&#8226; 13.1% males (4.9 to 30.7) [15]</td><td>&#8226; 4.9% males (0.9 to 23.1) [15]</td><td>&#8226; 37.0% males (23.2 to 53.4) [15]</td><td>&#8226; 45.0% males (29.7 to 61.3) [15]</td></tr><tr><td>&#8226; 0% females [15]</td><td>&#8226; 0% females [15]</td><td>&#8226; 71.6% females (14.0 to 97.5) [15]</td><td>&#8226; 28.4% females (2.5 to 86.0) [15]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 11.3% of males [16]</td><td>&#8226; 17.4% of males [16]</td><td>&#8226; 27.0% males [16]</td><td>&#8226; 44.3% of males [16]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4377056_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.2,
+    670.8,
+    504.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4377056_table_4.png",
+   "html": "<table><tr><td></td><td></td><td colspan=\"4\">Follow up status</td></tr><tr><td></td><td></td><td>Neither</td><td>Exclusive smokeless tobacco user</td><td>Exclusive smoker</td><td>Dual user</td></tr><tr><td rowspan=\"18\">Baseline</td><td rowspan=\"4\">Neither</td><td>2 year follow-up</td><td>2 year follow-up</td><td>2 year follow-up</td><td>2 year follow-up</td></tr><tr><td>&#8226; 71.5% males [20]</td><td>&#8226; 4.6% males [20]</td><td>15.7% males [20]</td><td>&#8226; 8.3% males [20]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 82.2% males [19]</td><td>&#8226; 3.1% males [19]</td><td>&#8226; 13.5% males [19]</td><td>&#8226; 1.1% males [19]</td></tr><tr><td rowspan=\"4\">Exclusive smokeless tobacco user</td><td>2 year follow-up</td><td>2 year follow-up</td><td>2 year follow-up</td><td>2 year follow-up</td></tr><tr><td>&#8226; 16.6% males [20]</td><td>&#8226; 26.2% males [20]</td><td>&#8226; 16.6% males [20]</td><td>&#8226; 40.7% males [20]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 15.2% males [19]</td><td>&#8226; 44.8% males [19]</td><td>&#8226; 25.5% males [19]</td><td>&#8226; 14.3% males [19]</td></tr><tr><td rowspan=\"6\">Exclusive smoker</td><td>1-2 year follow-up</td><td>1-2 year follow-up</td><td>1-2 year follow-up</td><td>1-2 year follow-up</td></tr><tr><td>&#8226; 20.0% males and females combined [18]</td><td>&#8226; 1.6% males and females combined [18]</td><td>&#8226; 73.4% males and females combined [18]</td><td>&#8226; 5% males and females combined [18]</td></tr><tr><td>2 year follow-up</td><td>2 year follow-up</td><td>2 year follow-up</td><td>2 year follow-up</td></tr><tr><td>&#8226; 25.6% males [20]</td><td>&#8226; 3.8% males [20]</td><td>&#8226; 46.8% males [20]</td><td>&#8226; 23.8% males [20]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 16.9% males [19]</td><td>&#8226; 0.8% males [19]</td><td>&#8226; 78.7% males [19]</td><td>&#8226; 3.6% of males [19]</td></tr><tr><td rowspan=\"4\">Dual user</td><td>1-2 year follow-up</td><td>1-2 year follow-up</td><td>1-2 year follow-up</td><td>1-2 year follow-up</td></tr><tr><td>&#8226; 17.9% males and females combined [18]</td><td>&#8226; 8.5%* males and females combined [18]</td><td>&#8226; 36.6% males and females combined [18]</td><td>&#8226; 37% males and females combined [18]</td></tr><tr><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td><td>4 year follow-up</td></tr><tr><td>&#8226; 14.1% males [19]</td><td>&#8226; 34.2% males [19]</td><td>&#8226; 31.2% males [19]</td><td>&#8226; 20.4% males [19]</td></tr></table>"
+  }
+ ]
+}

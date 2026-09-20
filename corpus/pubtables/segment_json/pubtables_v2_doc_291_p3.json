@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_291",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    210.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9:177"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/177"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    406.2,
+    118.9
+   ],
+   "ocr": "Table 4: Top 20 prognostic gene sets identified by two-means clustering"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    409.0,
+    107.2,
+    604.7,
+    118.9
+   ],
+   "ocr": "in breast cancer gene expression datasets"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.5,
+    697.5,
+    550.9
+   ],
+   "ocr": "Gene set *category Bild Miller Oh Pawitan Sorlie_1 Sorlie_2 Sotiriou_1 Sotiriou_2 van de Vijver Wang Weigelt West #freq %mean\n11823860_ST2 BR 1.32 7.21 10.02 22.68 8.87 0.44 4.51 8.18 45.51 8.19 0 0.97 8 9.83\nmitotic BP 7.51 13.34 2.91 13.57 0.07 0.03 4.08 9.59 30.78 12.49 0.01 3.57 7 8.16\ncheckpoint\nCell_cycle_KE PW 7.2 12.05 2.08 11.46 4.28 0.31 2.75 9.33 40.26 6.93 0.01 0.03 7 8.06\nGG_GenMAPP\ncell division BP 4.37 10.47 3.46 13.81 6.05 0 2.14 7.69 32.14 15.18 0.02 0.06 7 7.95\ncation efflux IP 7.94 9.69 2.16 15.77 4.16 2.41 1.96 10.45 24.69 10.04 0.51 0.21 7 7.5\nprotein\ncyclin, C- IP 3.88 15.25 6.72 16.84 5.65 0.07 2.64 3.84 21.12 7.7 0.69 0.23 7 7.05\nterminal\nDNA repair BP 2.04 7.15 4.58 9.13 0.09 0.02 6.61 8.4 35.15 6.97 0.13 1.53 7 6.82\ncyclin, N- IP 3.4 15.66 2.50 10.93 5.5 0.3 4.37 3.91 26.72 7.28 1.03 0.03 7 6.8\nterminal\ndomain\nprotein MF 9.45 4.03 8.29 9.19 4.51 0.55 2.55 0.46 24.1 9.25 0 2.84 7 6.27\ntyrosine\nphosphatase\nactivity\nprotein MF 6.56 5.32 0 10.73 0.14 1.24 12.14 6.81 15.53 2.69 10.09 0.66 7 5.99\ndomain specific\nbinding\nDNA BP 4.08 8.01 1.81 10.15 0.06 0.17 5.06 4.88 26.2 8.88 0.64 0.3 7 5.85\nmetabolism\nidentical MF 0.18 8.04 8.35 9.55 0.12 5.3 8.79 4.09 19.64 0.01 0.97 0.12 7 5.43\nprotein binding\nwater BP 0.01 10.23 5.85 5.26 0.45 5.25 1.57 0.42 3.97 0.91 6.13 5.14 7 3.77\ntransport\n17076897_AD BR 3.15 14.49 4.06 19.84 0.1 2.59 2.31 12.03 48.93 18.04 0 2.39 6 10.66\nF3\nmitosis BP 6.45 13.81 2.22 16.95 1.35 0.1 2.23 9.05 37.87 11.43 0 0.16 6 8.47\n16478745_ST1 BR 5.49 10.52 3.2 13.32 1.04 0 2.55 11.64 39.05 12.51 0.29 0.53 6 8.35\nPyrimidine PW 4.28 7.84 4.35 25.6 0.61 0.46 2.07 8.04 42.75 3.12 0 0.77 6 8.32\nmetabolism_K\nEGG\n14737219_US BR 4.27 10.25 3.72 13.61 0.99 0.06 1.96 10.86 39.37 11.4 0.16 0.2 6 8.07\nR\ncytokinesis BP 2.6 8.9 3.91 17.06 0.03 0.91 0.22 8.68 48.68 5.24 0.16 0.17 6 8.05\n14737219_CS BR 0.51 10.7 3.13 15.5 7.45 0.08 4.25 1.43 39.65 7.32 0.38 2.3 6 7.73\nR",
+   "table_id": "PMC2364634_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    567.0,
+    375.1,
+    922.4
+   ],
+   "ocr": "Values are chi-square values from log-rank test. #frequency: The number of cases in which chi-square value is over 3.84 *category: BP-GO Biological Processes, BR-Breast cancer prognostic IP-InterPro domains %mean: Mean of 12 chi-square values Accuracy of outcome prediction We then analyzed the accuracy of patient outcome predic- tion for each of the 2,411 gene sets. Initially, we tested five algorithms – nearest centroid, diagonal linear discrimi- nant analysis (DLDA), compound covariate predictor, one-nearest and three-nearest neighbor predictor [28] and found that in our datasets nearest centroid and DLDA methods performed better than the others (data not shown) with similar performance to each other. For con- venience, we used the nearest centroid method in subse- quent analysis. With six large datasets containing more than 100 samples, we estimated the prediction accuracy of each gene set by external validation. We measured predic- tion accuracy for each pair of 30 training-testing datasets and for a total of 30 predictions (Table 6). The best gene set was the gene set 11823860_ST2, with prediction accu- racy, sensitivity, and specificity of 67.55%, 70.56%, and 57.16%, respectively (Tables 6 and 7). The individual pre- diction accuracy with the 11823860_ST2 gene set was as"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    366.3,
+    590.3,
+    690.5,
+    602.2
+   ],
+   "ocr": "signatures, MF-GO Molecular Function, PW-KEGG and GenMAPP pathways,"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    641.3,
+    698.4,
+    922.4
+   ],
+   "ocr": "high as 0.7464 when the training-testing pair was Paw- itan-van de Vijver and as low as 0.54 74 when the training- testing pair was Wang-Bild (Table 6). The individual pre- diction accuracy was not related to the differences in microarray platforms or patient characteristics (data not shown). We also analyzed the accuracy of patient out- come prediction with nine datasets with more than ten samples for each of the two groups. Again, the gene set 11823860_ST2 was the best with a prediction accuracy, sensitivity, and specificity of 0.6578, 0.6895, and 0.566, respectively (Additional data file 3, Supplementary Table 8). Best gene sets for prediction accuracy differ from those for prognosis Comparison of the top 20 prognostic gene sets for breast cancer survival (Table 4) with the top 20 gene sets with high prediction accuracy (Table 7) showed only three common gene sets (11823860_ST2, 14737219_USR, and"
+  },
+  "p3_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 11 (page number not for citation purposes)"
+  }
+ }
+}

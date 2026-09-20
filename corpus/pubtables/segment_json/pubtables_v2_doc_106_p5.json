@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_106",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    281.5,
+    64.4
+   ],
+   "ocr": "Algorithms for Molecular Biology 2008, 3:8"
+  },
+  "p5_b1": {
+   "type": "title",
+   "bbox": [
+    522.9,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.almob.org/content/3/1/8"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    361.3,
+    130.9
+   ],
+   "ocr": "Table 6: Average number of common genes in results of three preprocessing algorithms for Datasets 3–38"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    917.6
+   ],
+   "ocr": "(ibmT) (one-tail p-value = 0.18, paired t-test; see Table 7a), it is natural that one should select the best performing method for a number of real datasets. For RMA users, FC-based methods can be recommended. Although these methods (except WAD) were inferior to the t-statistic-based methods when the results for the older spike-in dataset (Dataset 1, which is obtained from the HG-U95A array) were compared, they were better for both the newer spike-in dataset (Dataset 2, which is from the HG-U133A array) and the 36 real experimental data- sets (Datasets 3–38, which is also from the HG-U133A array). We think that the results for the real experimental datasets (or a newer platform) should take precedence over the results for the artificial datasets (or an older plat- form). AD or FC may be the best since they are the best for the 36 real datasets (see Tables 4 and 7b). For DFW users, RP can be recommended since it was the best for the 36 real experimental datasets (see Tables 4 and 7c). However, the use of RP for analyzing large numbers of arrays can be sometimes limited by available computer memory. The other FC-based methods can be recom- mended for such a situation. The variance estimation is much more challenging when the number of replicates is small [29]. This suggests that the FC-based methods including WAD tend to be more powerful (or less powerful) than the t-statistic-based methods if the number of replicates is small (or large). We found that WAD was the best for some datasets which contain large (> 10) replicates (e.g., Datasets 5, 7, and 26) while FC and RP tended to perform the best on datasets with relatively small replicates (e.g., Datasets 34 and 10, whose numbers of replicates in one class were smaller than 6) [see Additional file 1]. These results suggest that WAD can perform well across a range of replicate num- bers. It is important to mention that there are other preprocess- ing algorithms such as FARMS [39] and SuperNorm [90]. FARMS considers data on a multi-array basis as does RMA and DFW, while SuperNorm considers data on a per-array basis as does MAS. Although the FC-based methods were superior to the t-statistic-based methods, the latter meth- ods might perform well for FARMS- or SuperNorm-pre- processed data. The evaluation of competing methods for these preprocessing algorithms will be our next task. In practice, one may want to detect the DEGs from gene expression data, produced from a comparison of two or more classes (or time points), and the current method does not analyze these DEGs. A simple way to deal with q q"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    82.1,
+    142.1,
+    358.0,
+    272.6
+   ],
+   "ocr": "Method Top 20 Top 50 Top 100 Top 200\nWAD 8.2 19.8 38.0 73.1\nAD 4.5 10.7 20.0 37.9\nFC 5.0 12.2 22.0 40.6\nRP 4.6 11.1 20.6 40.5\nmodT 4.4 13.1 27.6 60.3\nsamT 4.0 11.9 24.4 52.4\nshrinkT 4.5 13.6 29.0 62.4\nibmT 5.3 15.2 32.0 66.7",
+   "table_id": "PMC2464587_table_5"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    296.2,
+    372.6,
+    366.5
+   ],
+   "ocr": "corresponded to (31 + 7)/(22,283 clones × 36 datasets) = 0.0047%) when an outlier detection method based on Akaike's Information Criterion (AIC) [85-87] was applied to the average expression vector ( x ,..., xp ) calculated"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    356.4,
+    372.6,
+    920.8
+   ],
+   "ocr": "1 from each of the 36 datasets. In addition to the automatic detection of outliers, we also visually examined the distri- bution of the average vectors and concluded there were no outliers. Also, the differences in the AUC values between AD and WAD were less than 0.1% for the two datasets (Datasets 14 and 29). We therefore decided that all the automatically detected outliers did not affect the result. The average expression vectors and the results of outlier detection using the AIC-based method are available in the additional files [see Additional files 4 and 5]. Choice of best methods with preprocessing algorithms In this study, we analyzed eight gene-ranking methods with three preprocessing algorithms. Currently, there is no convincing rationale for choosing among different pre- processing algorithms. Although the three algorithms from best to worst were DFW, RMA, and MAS when artifi- cial spike-in datasets (Datasets 1 and 2) were evaluated using the AUC metric with the eight methods (Table 1), their performance might not be generalizable in practice [79]. Indeed, a recent study reported the utility of MAS [82]. Also, a shared disadvantage of RMA and DFW is that the probeset intensities change when microarrays are re- preprocessed because of the inclusion of additional arrays, but modification strategies to deal with it have only been developed for RMA [81,88,89]. We therefore discuss the best methods for each preprocessing algo- rithm. For MAS users, we think WAD is the most promising method because it gave good results for both types of dataset (artificial spike-in and real experimental datasets, see Tables 1, 2, and 4). The second best was ibmT [20]. Although there was no a statistically significant difference between the 36 AUC values for WAD from the real exper- imental datasets and those for the second best method"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    908.5,
+    698.3,
+    924.5
+   ],
+   "ocr": "them is to use AD ( i ) = max( x ) − min( x ) and"
+  },
+  "p5_b8": {
+   "type": "title",
+   "bbox": [
+    594.2,
+    916.5,
+    653.4,
+    926.5
+   ],
+   "ocr": "i i"
+  },
+  "p5_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 12 (page number not for citation purposes)"
+  }
+ }
+}

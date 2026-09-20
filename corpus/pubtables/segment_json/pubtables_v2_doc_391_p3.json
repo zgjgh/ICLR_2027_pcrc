@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_391",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.2,
+    67.5,
+    382.4,
+    78.0
+   ],
+   "ocr": "Molecular Vision 2012; 18:2338-2351 <http://www.molvis.org/molvis/v18/a247>"
+  },
+  "p3_b1": {
+   "type": "title",
+   "bbox": [
+    607.1,
+    67.5,
+    704.6,
+    78.0
+   ],
+   "ocr": "© 2012 Molecular Vision"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    85.2,
+    113.8,
+    379.6,
+    139.9
+   ],
+   "ocr": "TABLE 4. PATHWAY ANALYSES OF RETINAL GENE EXPRESSION IN (HFD) OR BILBERRIES (BB)"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    382.4,
+    113.8,
+    687.5,
+    139.9
+   ],
+   "ocr": "C57BL MICE FED NORMAL CONTROL DIET (NCD), HIGH FAT DIET IN THESE DIETS FOR 12 WEEKS."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    75.3,
+    152.1,
+    674.4,
+    412.8
+   ],
+   "ocr": "Description of group Pathway Genes1 Z-score2\nHDF vs NCD Systemic lupus erythematosus 15 11.84\nType II diabetes mellitus 3 3,87\nAllograft rejection 3 3,50\nGraft-versus-host disease 3 3.5\nType I diabetes mellitus 3 3.24\nAmoebiasis 4 2.91\nAntigen processing and presentation 3 2.81\nApoptosis 3 2,44\nCell adhesion molecules (CAMs) 4 2,40\nHFD+BB vs NCD Systemic lupus erythematosus 14 10.85\nProtein processing in ER 5 3.06\nMAPK signaling pathway 6 2.38\nWnt signaling pathway 4 2.19\nNCD+BB vs NCD Systemic lupus erythematosus 14 9.62\nDilated cardiomyopathy 3 2.1\nHFD+BB vs HFD Systemic lupus erythematosus 16 11.4\nTyrosine metabolism 3 3.99",
+   "table_id": "PMC3444297_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.2,
+    421.3,
+    399.0,
+    932.4
+   ],
+   "ocr": "Pathway analyses in Pathvisio using p-values and fold changes groups. 1The number of genes passed criteria of p<0.05 AND FC<1.3). 2The standard statistical test (z-test) under the hypergeometric criteria (Table 4 and Table 5). Interestingly, T2D, Gap junction, and long-term potentiation (LTP) as well as cell adhesion molecules (CAMs) pathways were significant, but with a fairly low gene number (Table 4). When analyzing either up- or downregulated genes between these diets, the mitogen-activated protein kinase (MAPK; up) and apoptosis (down) pathways displayed the highest number of differentially regulated genes (Table 5). Among the most differentially expressed genes were the crystallins (Table 6). Several crystallins such as crystallin alpha A, crystallins beta A1, A2, A4, and beta B1, B2, B3, and crystallins gamma B, C, and S showed higher expression in samples from the HFD-fed versus the NCD-fed mice, suggesting an upregulation of these genes induced by the HFD. Bilberry induced gene expression changes in the retina: Genes associated with SLE, protein processing in the endoplasmic reticulum, and the MAPK pathway appear to be significantly regulated in response to HFD+BB. The SLE pathway was affected when diets with bilberries were compared to both control diets (Table 4 and Table 5). The number of significantly regulated genes within the SLE pathway (14–16 genes) remained similar in all groups. In addition to the previous pathways, downregulated genes in retinas of mice fed with bilberries compared to both control diets displayed significant regulation of the apoptosis pathway. The MAPK pathway was affected in the HFD+BB group (Table 4) and displayed potential downregulation in 2343"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    379.0,
+    421.3,
+    704.6,
+    906.4
+   ],
+   "ocr": "(FC) in KEGG pathways to identify the differences in the diet LR> 0.4 OR LR<-0.4 (equal to fold changes: FC >1.3 OR distribution. NCD+BB (Table 5). This may indicate that bilberries are able to induce differential regulation of genes within the MAPK pathway. If one examines the most differentially expressed (p<0.01, n=131) genes between all groups, then a total of 13 were crystallins (beta, gamma, and alpha) with mitigated expression in the HFD+BB group (Table 6, Appendix 4). These crystallins were furthermore potentially downregulated in HFD+BB to the HFD. Bilberry induced gene expression changes in high-fat- diet upregulated genes in the retina: Further gene enrichment approaches were applied to clarify the significance of either HFD versus NCD up- or downregulated genes having opposite fold changes in the groups fed bilberries. This was performed to explore molecular functions or biologic processes in the absence of differently regulated pathways. The results revealed that apoptosis and MAPK and the biologic process of eye development and molecular function of the structural constituents of the eye lens seemed to be modulated by bilberries. HFD up- (359, 76) or HFD down- (318, 57) regulated genes with opposite fold changes in each group with bilberries are described with the number of identifiers recognized in DAVID (0, 1.3 fold change [FC] for cut-off value). A zero cut-off was used since with FC≥1.3 the number of genes with opposite FC was too low for GSEA (Figure 2). While simultaneously upregulated by HFD and downregulated by HFD+BB versus HFD (250, 33), the"
+  }
+ }
+}

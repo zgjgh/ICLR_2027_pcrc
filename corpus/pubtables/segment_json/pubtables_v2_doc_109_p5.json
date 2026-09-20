@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_109",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "Proteome Science 2009, 7:19 http://www.proteomesci.com/content/7/1/19"
+  },
+  "p5_b1": {
+   "type": "title",
+   "bbox": [
+    146.8,
+    143.2,
+    163.3,
+    163.8
+   ],
+   "ocr": "���"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    146.8,
+    160.3,
+    307.4,
+    250.9
+   ],
+   "ocr": "����������� ����������� ����������� ���������� �� ���������� ����������"
+  },
+  "p5_b3": {
+   "type": "title",
+   "bbox": [
+    117.2,
+    293.9,
+    360.4,
+    386.9
+   ],
+   "ocr": "�� ��������� �� �� ��"
+  },
+  "p5_b4": {
+   "type": "title",
+   "bbox": [
+    146.8,
+    411.5,
+    360.4,
+    477.3
+   ],
+   "ocr": "�� �� �� ��"
+  },
+  "p5_b5": {
+   "type": "title",
+   "bbox": [
+    146.8,
+    503.3,
+    602.9,
+    525.1
+   ],
+   "ocr": "� � ���� ���� ���� ���� ���� ����"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    550.6,
+    694.9,
+    684.3
+   ],
+   "ocr": "��� ��� ��� ��� ��� ��� ������� Figure Cumulative 4 plot of significance of detected peaks (ovarian cancer dataset) Cumulative plot of significance of detected peaks (ovarian cancer dataset). For each combination of pre-processing method and peak selection settings, the cumulative percentage of peaks with a p-value smaller than the value on the x-axis is shown. P-value of a peak is based on a t-test between the normalized intensities of the cancer and the control group. Inset zooms in on p-values smaller than 0.1. Dataset shown is the combined CM10/Q10 data."
+  },
+  "p5_b7": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    744.0,
+    343.9,
+    755.7
+   ],
+   "ocr": "Table 5: Comparison of classifiers (ovarian cancer dataset)"
+  },
+  "p5_b8": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    766.8,
+    677.1,
+    886.6
+   ],
+   "ocr": "Ciphergen C Cromwell A\nCM10/Q10 CM10 Q10 CM10/Q10 CM10 Q10\nDLDA 77 (57–93) 71 (50–93) 71 (50–86) 78 (64–93) 74 (57–93) 70 (43–93)\nNaive Bayes 70 (50–93) 66 (43–86) 63 (43–86) 69 (50–86) 68 (50–86) 60 (36–86)\nPCDA 73 (50–93) 70 (50–93) 67 (43–86) 77 (57–93) 73 (57–86) 77 (50–93)\nSVM 77 (57–93) 71 (50–86) 70 (50–86) 79 (64–93) 77 (57–93) 79 (50–93)\nTree 69 (43–93) 69 (43–93) 64 (36–86) 58 (36–79) 58 (36–79) 52 (29–71)",
+   "table_id": "PMC2689848_table_4"
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    902.9,
+    680.1,
+    926.4
+   ],
+   "ocr": "Average classification accuracy (95% confidence interval) of ovarian cancer versus control on 1000 test sets (size of training sets: 14, size of test sets: 14). Pre-processing was done using setting C for Ciphergen and setting A for Cromwell. Classifiers without feature selection."
+  },
+  "p5_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 10 of 17 (page number not for citation purposes)"
+  }
+ }
+}

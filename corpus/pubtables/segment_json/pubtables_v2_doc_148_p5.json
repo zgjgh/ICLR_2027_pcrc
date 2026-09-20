@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_148",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    478.9,
+    79.4,
+    633.6,
+    88.7
+   ],
+   "ocr": "Beilstein J. Org. Chem. 2012, 8, 915–929."
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    77.8,
+    130.1,
+    277.7,
+    139.4
+   ],
+   "ocr": "Table 5: Prediction and analysis of glycosylation sites."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    81.2,
+    153.7,
+    623.9,
+    338.2
+   ],
+   "ocr": "Name, Ref Comment URL\nbig-PI [103] GPI anchor modification site prediction http://mendel.imp.ac.at/sat/gpi/gpi_server.html\nCBS prediction servers Collection of various prediction tools, including http://cbs.dtu.dk/services/\nNetNGlyc, NetOGlyc [104], NetCGlyc [105],\nNetGlycate [106], DictyOGlyc [107], YingOYang\n[108]\nCKSAAP_OGlySite [109] Prediction of mucin-type O-glycosylation sites http://bioinformatics.cau.edu.cn/zzd_lab/CKS\nAAP_OGlySite/\nEnsembleGly [110] Prediction of O-, N-, and C-linked glycosylation http://turing.cs.iastate.edu/EnsembleGly/\nsites\nglySeq [89] Statistical analysis of amino acids around http://www.glycosciences.de/tools/glyseq/\nglycosylation sites\nGPI-SOM [111] Identification of GPI-anchor signals http://gpi.unibe.ch\nGPP [112] Prediction of N- and O-glycosylation sites http://comp.chem.nottingham.ac.uk/glyco/",
+   "table_id": "PMC3388882_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    370.7,
+    636.0,
+    673.9
+   ],
+   "ocr": "derivatized residues are included in a simulation, which is espe- community-developed tools exist that facilitate the carbohy- cially important during the design of glycomimetics [121]. drate-specific interpretation of these data (Table 6). Parameters that affect the simulations of carbohydrates include the treatment of atom charges [122], and solvent model (several Among the three techniques, the largest choice of tools is avail- models for water are available) [100]. The question of whether able for mass spectrometry. These programs commonly first try to include extra terms for (exo) anomeric effects has also been and assign residue compositions to measured mass peaks, but discussed for a long time [13]. use different approaches to determine glycan sequences from compositional data. Some tools such as Cartoonist [127,128] With increasing computational power, MD simulations of larger and GlycoMod [132] apply constraints that are created from the molecules become feasible; and timescales of simulations knowledge of biosynthetic pathways, thus they are tailored to increase. One major bottleneck for the scientific use of MD the analysis of biological samples rather than of chemically simulations that involve carbohydrates is, therefore, the avail- synthesized glycans, which do not match the biosynthetic path- ability of tools to analyze these simulation trajectories [13]. MD ways. In contrast, the mass fingerprinting approach as imple- software packages contain analysis tools [94,97,123], but mented in GlycosidIQ [137], GlypPep ID [134], or Glyco- these are tailored for analyzing simulations of proteins. There- Search-MS [136] works similarly to algorithms that are fore, tools such as CAT (Conformational Analysis Tools) that frequently used in peptide or protein identification by tools such serve the needs of glycoscientists are specifically developed as Mascot: Mass peaks that are observed in a spectrum are [13]. compared to theoretically derived fragment masses that are computed from glycan structures stored in a carbohydrate data- Glycoinformatics in carbohydrate structure"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    664.0,
+    637.1,
+    942.5
+   ],
+   "ocr": "base. This approach, however, is limited by the content of the analysis database that provides the templates for in silico fragmentation, After synthesis of carbohydrate chains an assessment of the which means that structures that have not been observed before quality of the produced material is necessary to exclude wrong or that are missing from the database will not be identified this structures among the products. Errors in structures that are way. This problem also applies to programs that use experi- meant for use in experiments such as glycan arrays may yield mental MSn data of oligosaccharide standards to assign MSn incorrect results and thereby lead to mistaken conclusions. fragments of larger glycans, such as GLYCH [129] or MSn Incorrect products that are used as therapeutics can have severe FragLib [140]. In contrast, programs such as STAT [142], results. Impurities in heparin, a widely used carbohydrate phar- StrOligo [143], or OSCAR [141] also allow de novo determin- maceutical, for example, can even be fatal [124-126]. The major ation of structures because they interpret MSn data by deter- methods for quality control comprise MS, NMR, and HPLC, all mining the possible compositions of parent ions according to of which produce large amounts of data that have to be evalu- their masses; subsequently, the masses of possible connected ated. Companies that develop the analytical equipment that is branching topologies are computed to match the experimentally necessary for these techniques usually do not focus on the determined data [149]. GlyQuest [139] and GlycoMiner [131] detection or analysis of carbohydrates and their software does are designed for high-throughput analysis of glycopeptides not suit the needs of glycoscientists [12]. Nevertheless, various that carry N-glycan chains. Glyco-Peakfinder [133] and 923"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_216",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    761,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5007675_table_0",
+   "page_num": 1,
+   "bbox": [
+    202.7,
+    677.6,
+    574.1,
+    779.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5007675_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Samples</td><td colspan=\"10\">Ingredients (wt%)</td></tr><tr><td>SiO2</td><td>Al2O3</td><td>TFe2O3</td><td>MgO</td><td>CaO</td><td>Na2O</td><td>K2O</td><td>TiO2</td><td>P2O5</td><td>MnO</td></tr><tr><td>RD</td><td>86.82</td><td>3.21</td><td>1.60</td><td>0.43</td><td>0.46</td><td>0.25</td><td>0.56</td><td>0.15</td><td>0.22</td><td>0.011</td></tr><tr><td>RD-1</td><td>92.78</td><td>3.44</td><td>1.68</td><td>0.46</td><td>0.46</td><td>0.27</td><td>0.60</td><td>0.16</td><td>0.23</td><td>0.011</td></tr><tr><td>RD-2</td><td>93.18</td><td>1.68</td><td>0.23</td><td>0.13</td><td>0.14</td><td>0.32</td><td>0.32</td><td>0.09</td><td>0.17</td><td>0.004</td></tr><tr><td>RD-3</td><td>87.63</td><td>1.42</td><td>0.48</td><td>0.88</td><td>1.18</td><td>0.53</td><td>0.45</td><td>0.16</td><td>0.10</td><td>0.005</td></tr><tr><td>RD-4</td><td>94.43</td><td>1.64</td><td>0.23</td><td>0.13</td><td>0.14</td><td>0.31</td><td>0.30</td><td>0.09</td><td>0.18</td><td>0.005</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5007675_table_1",
+   "page_num": 2,
+   "bbox": [
+    202.7,
+    691.0,
+    499.2,
+    762.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5007675_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Results</td><td colspan=\"5\">Samples</td></tr><tr><td>RD</td><td>RD-1</td><td>RD-2</td><td>RD-3</td><td>RD-4</td></tr><tr><td>Specific surface area (m2/g)</td><td>13.8021</td><td>14.195</td><td>24.0548</td><td>35.0635</td><td>29.8231</td></tr><tr><td>Pore volume (cc/g)</td><td>0.0241</td><td>0.0290</td><td>0.0362</td><td>0.0718</td><td>0.04277</td></tr><tr><td>Mean Pore Diameter (nm)</td><td>6.02</td><td>6.99</td><td>8.18</td><td>9.36</td><td>7.97</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5007675_table_2",
+   "page_num": 3,
+   "bbox": [
+    202.7,
+    650.7,
+    462.2,
+    767.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5007675_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Samples</td><td rowspan=\"2\">PEG Mass Ratio (wt%)</td><td colspan=\"2\">Melting Process</td><td colspan=\"2\">Solidifying Process</td></tr><tr><td>HM(J/g)</td><td>TM(&#176;C)</td><td>HS(J/g)</td><td>TS(&#176;C)</td></tr><tr><td>PEG</td><td>100</td><td>183.4</td><td>59.13</td><td>167.6</td><td>40.07</td></tr><tr><td>ss-PCM1</td><td>48</td><td>86.2</td><td>57.21</td><td>79.3</td><td>38.63</td></tr><tr><td>ss-PCM2</td><td>51</td><td>91.9</td><td>56.86</td><td>84.6</td><td>38.21</td></tr><tr><td>ss-PCM3</td><td>54</td><td>97.1</td><td>56.29</td><td>89.0</td><td>38.54</td></tr><tr><td>ss-PCM4</td><td>70</td><td>127.0</td><td>58.75</td><td>114.5</td><td>39.72</td></tr><tr><td>ss-PCM5</td><td>66</td><td>120.2</td><td>57.96</td><td>108.1</td><td>39.95</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5007675_table_3",
+   "page_num": 4,
+   "bbox": [
+    202.6,
+    315.2,
+    466.2,
+    411.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5007675_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Sample</td><td rowspan=\"2\">Heating/cooling rate (K/min)</td><td colspan=\"2\">Melting Process</td><td colspan=\"2\">Solidifying Process</td></tr><tr><td>HM(J/g)</td><td>TM(&#176;C)</td><td>HS(J/g)</td><td>TS(&#176;C)</td></tr><tr><td>ss-PCM4</td><td>2.5</td><td>130.1</td><td>59.26</td><td>118.6</td><td>42.93</td></tr><tr><td>ss-PCM4</td><td>5.0</td><td>127.0</td><td>58.75</td><td>114.5</td><td>39.72</td></tr><tr><td>ss-PCM4</td><td>8.0</td><td>128.9</td><td>58.24</td><td>116.1</td><td>38.33</td></tr><tr><td>ss-PCM4</td><td>12.0</td><td>123.7</td><td>57.89</td><td>110.1</td><td>36.16</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5007675_table_4",
+   "page_num": 5,
+   "bbox": [
+    202.7,
+    328.6,
+    468.2,
+    385.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5007675_table_4.png",
+   "html": "<table><tr><td>Samples</td><td>Onset (&#176;C)</td><td>Peak (&#176;C)</td><td>Endset (&#176;C)</td><td>Residual mass(%)</td></tr><tr><td>PEG</td><td>389</td><td>407</td><td>417</td><td>2.0</td></tr><tr><td>ss-PCM4</td><td>376</td><td>399</td><td>411</td><td>29.8</td></tr><tr><td>ss-PCM5</td><td>370</td><td>387</td><td>396</td><td>37.0</td></tr></table>"
+  }
+ ]
+}

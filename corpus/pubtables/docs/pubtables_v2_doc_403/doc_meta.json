@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_403",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3542187_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    622.6,
+    432.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3542187_table_0.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">n (N)</td><td rowspan=\"2\">CLA ELISA % (95% CI)</td><td rowspan=\"2\">rK39 RDT % (95% CI)</td></tr><tr><td></td></tr><tr><td>Infected dogs</td><td>285 (54)</td><td>85.3 (80.4&#8211;89.1)</td><td>45.6 (36.8&#8211;54.7)</td></tr><tr><td>Uninfected endemic dogs</td><td>29 (28)</td><td>-</td><td>0</td></tr><tr><td>Brazil non-endemic dogs</td><td>8 (8)</td><td>-</td><td>0</td></tr><tr><td>UK non-endemic dogs</td><td>30 (30)</td><td>-</td><td>0</td></tr><tr><td colspan=\"4\">Infected dogs by serological status1</td></tr><tr><td>- seropositive</td><td>243 (54)</td><td>-</td><td>52.2 (42.1&#8211;62.0)</td></tr><tr><td>- seronegative</td><td>42 (32)</td><td>-</td><td>0</td></tr><tr><td colspan=\"4\">Infected dogs by PCR status</td></tr><tr><td>- PCR positive</td><td>111 (45)</td><td>91.8 (85.0&#8211;95.6)</td><td>58.6 (47.8&#8211;68.7)</td></tr><tr><td>- PCR negative</td><td>74 (30)</td><td>67.7 (53.5&#8211;79.3)</td><td>26.3 (14.7&#8211;42.6)</td></tr><tr><td colspan=\"4\">Infected dogs by clinical status</td></tr><tr><td>- Symptomatic</td><td>99 (39)</td><td>95.3 (83.9&#8211;98.8)</td><td>76.5 (63.8&#8211;85.7)</td></tr><tr><td>- Polysymptomatic</td><td>39 (25)</td><td>97.4 (82.6&#8211;99.7)</td><td>88.9 (70.2&#8211;96.5)</td></tr><tr><td>- Oligosymptomatic</td><td>60 (30)</td><td>93.4 (79.7&#8211;98.1)</td><td>69.1 (52.5&#8211;81.9)</td></tr><tr><td>- Asymptomatic</td><td>178 (51)</td><td>81.3 (75.0&#8211;86.4)</td><td>32.6 (23.9&#8211;42.7)</td></tr><tr><td colspan=\"4\">Infected dogs by xenodiagnosis</td></tr><tr><td>- Infectious</td><td>35 (18)</td><td>100</td><td>77.7 (59.0&#8211;89.4)</td></tr><tr><td>- Non-infectious</td><td>81 (27)</td><td>80.6 (69.0&#8211;88.5)</td><td>46.6 (32.0&#8211;61.8)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3542187_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    135.1,
+    360.2,
+    320.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3542187_table_1.png",
+   "html": "<table><tr><td>Variable</td><td>Odds Ratio (95% CI)</td><td>P</td></tr><tr><td>PCR status: negative</td><td>1</td><td></td></tr><tr><td>positive</td><td>5.99 (2.34&#8211;15.3)</td><td>0.0002</td></tr><tr><td>Clinical status: asymptomatic</td><td>1</td><td></td></tr><tr><td>oligosymptomatic</td><td>1.47 (0.77&#8211;2.80)</td><td></td></tr><tr><td>polysymptomatic</td><td>3.47 (1.47&#8211;8.17)</td><td>0.015</td></tr><tr><td>Clinical status: asymptomatic</td><td>1</td><td></td></tr><tr><td>symptomatic</td><td>1.97 (1.10&#8211;3.51)</td><td>0.022</td></tr><tr><td>Infectious: no</td><td>1</td><td></td></tr><tr><td>yes</td><td>3.68 (1.87&#8211;7.24)</td><td>0.0002</td></tr><tr><td>CLA ELISA titre (per 106 increase)</td><td>20.2 (8.52&#8211;48.0)</td><td>,0.0001</td></tr><tr><td>Parasite burden (per 106 increase)</td><td>1.64 (1.22&#8211;2.20)</td><td>0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3542187_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    120.1,
+    681.5,
+    338.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3542187_table_2.png",
+   "html": "<table><tr><td>Country</td><td>Study design1</td><td>Supplier2</td><td>Reference test</td><td>Number of cases</td><td>rK39 RDT % (95% CI)</td><td>ELISA4 %</td><td>IFAT %</td><td>Ref.</td></tr><tr><td>Brazil</td><td>CC</td><td>Inbios</td><td>IFAT</td><td>50</td><td>96.0 (86.5&#8211;98.9)</td><td>-</td><td>-</td><td>[15]</td></tr><tr><td>Iran</td><td>XS</td><td>Cypress</td><td>DAT</td><td>126</td><td>73.8 (65.5&#8211;80.7)</td><td>-</td><td>-</td><td>[16]</td></tr><tr><td>Turkey</td><td>XS</td><td>Inbios</td><td>Smear or IFAT</td><td>12</td><td>100 (75.8&#8211;100)</td><td>-</td><td>-</td><td>[17]</td></tr><tr><td>Mediterranean</td><td>CC</td><td>Diamed</td><td>Culture or PCR</td><td>30</td><td>96.7 (83.3&#8211;99.4)</td><td>100</td><td>90</td><td>[18]</td></tr><tr><td>Italy</td><td>CC</td><td>Intersep</td><td>Smear</td><td>68</td><td>97.1 (89.9&#8211;99.2)</td><td>-</td><td>98.5</td><td>[19]</td></tr><tr><td>Turkey</td><td>XS</td><td>Intersep</td><td>ELISA</td><td>8</td><td>87.5 (52.9&#8211;97.8)</td><td>-</td><td>100</td><td>[20]</td></tr><tr><td>Brazil</td><td>CC</td><td>Inbios</td><td>Smear</td><td>60</td><td>85.0 (73.9&#8211;91.9)</td><td>95</td><td>-</td><td>[22]</td></tr><tr><td>Brazil</td><td>XS</td><td>Inbios</td><td>ELISA</td><td>38</td><td>57.9 (42.2&#8211;72.1)</td><td>-</td><td>-</td><td>[23]</td></tr><tr><td>Argentina</td><td>XS</td><td>Inbios</td><td>PCR</td><td>42</td><td>66.7 (51.6&#8211;79.0)</td><td>-</td><td>66.7</td><td>[25]</td></tr><tr><td>Brazil</td><td>CC</td><td>-3</td><td>PCR</td><td>47</td><td>91.5 (80.1&#8211;96.6)</td><td>100</td><td>-</td><td>[26]</td></tr><tr><td>China</td><td>XS</td><td>Inbios</td><td>PCR</td><td>6</td><td>50.0 (18.8&#8211;81.2)</td><td>83.3</td><td>-</td><td>[28]</td></tr><tr><td>Brazil</td><td>Cohort</td><td>Inbios</td><td>PCR or ELISA</td><td>39</td><td>76.9 (61.7&#8211;87.4)</td><td>95</td><td>-</td><td>this study</td></tr><tr><td>Combined</td><td></td><td></td><td></td><td></td><td>86.7 (76.9&#8211;92.8)</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3542187_table_3",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    722.3,
+    681.5,
+    861.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3542187_table_3.png",
+   "html": "<table><tr><td>Country</td><td>Study design1</td><td>Supplier2</td><td>Reference test</td><td>Number of dogs</td><td>rK39 RDT % (95% CI)</td><td>ELISA4 %</td><td>IFAT %</td><td>Ref.</td></tr><tr><td>Mediterranean</td><td>CC</td><td>Diamed</td><td>Culture or PCR</td><td>17</td><td>52.9 (31.0&#8211;73.8)</td><td>100</td><td>29</td><td>[18]</td></tr><tr><td>Turkey</td><td>XS</td><td>Intersep</td><td>ELISA</td><td>7</td><td>85.7 (48.7&#8211;97.4)</td><td>-</td><td>100</td><td>[20]</td></tr><tr><td>Brazil</td><td>CC</td><td>Inbios</td><td>Smear</td><td>16</td><td>75.0 (50.5&#8211;89.8)</td><td>94</td><td>-</td><td>[22]</td></tr><tr><td>Italy</td><td>XS3</td><td>Intersep</td><td>ELISA</td><td>143</td><td>55.9 (47.8&#8211;63.8)</td><td>-</td><td>59</td><td>[24]</td></tr><tr><td>Argentina</td><td>XS</td><td>Inbios</td><td>PCR</td><td>9</td><td>55.6 (26.7&#8211;81.1)</td><td>-</td><td>60</td><td>[25]</td></tr><tr><td>China</td><td>XS</td><td>Inbios</td><td>PCR or ELISA</td><td>56</td><td>10.7 (5.0&#8211;21.5)</td><td>61</td><td>-</td><td>[28]</td></tr><tr><td>Brazil</td><td>Cohort</td><td>Inbios</td><td>PCR or ELISA</td><td>51</td><td>33.3 (22.0&#8211;47.0)</td><td>81</td><td>-</td><td>this study</td></tr><tr><td>Combined</td><td></td><td></td><td></td><td></td><td>49.7 (29.3&#8211;70.1)</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3542187_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    120.1,
+    681.5,
+    306.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3542187_table_4.png",
+   "html": "<table><tr><td>Country</td><td>Study design1</td><td>Supplier2</td><td>Reference test</td><td>Number of dogs</td><td>rK39 RDT % (95% CI)</td><td>ELISA4 %</td><td>IFAT %</td><td>Ref.</td></tr><tr><td>China</td><td>XS</td><td>Corixa</td><td>Smear</td><td>3</td><td>100 (43.9&#8211;100)</td><td>-</td><td>-</td><td>[13]</td></tr><tr><td>Brazil</td><td>XS</td><td>Intersep</td><td>PCR or ELISA</td><td>74</td><td>71.6 (60.5&#8211;80.6)</td><td>-</td><td>-</td><td>[14]</td></tr><tr><td>Mediterranean</td><td>CC</td><td>Diamed</td><td>Culture or PCR</td><td>47</td><td>80.9 (67.5&#8211;89.6)</td><td>100</td><td>68</td><td>[18]</td></tr><tr><td>Turkey</td><td>XS</td><td>Intersep</td><td>ELISA</td><td>15</td><td>86.7 (62.1&#8211;96.3)</td><td>-</td><td>100</td><td>[20]</td></tr><tr><td>Iran</td><td>XS</td><td>Cypress</td><td>DAT</td><td>26</td><td>38.5 (22.4&#8211;57.5)</td><td>-</td><td>-</td><td>[21]</td></tr><tr><td>Brazil</td><td>CC</td><td>Inbios</td><td>Smear</td><td>76</td><td>82.9 (72.9&#8211;89.7)</td><td>95</td><td>-</td><td>[22]</td></tr><tr><td>Argentina</td><td>XS</td><td>Inbios</td><td>PCR</td><td>51</td><td>64.7 (51.0&#8211;76.4)</td><td>-</td><td>65.4</td><td>[25]</td></tr><tr><td>Brazil</td><td>XS3</td><td>Inbios</td><td>IFAT</td><td>23</td><td>13.0 (4.5&#8211;32.1)</td><td>-</td><td>-</td><td>[27]</td></tr><tr><td>China</td><td>XS</td><td>Inbios</td><td>PCR or ELISA</td><td>62</td><td>14.5 (7.8&#8211;25.3)</td><td>59</td><td>-</td><td>[28]</td></tr><tr><td>Brazil</td><td>Cohort</td><td>Inbios</td><td>PCR or ELISA</td><td>54</td><td>46.3 (33.7&#8211;59.4)</td><td>85</td><td>-</td><td>this study</td></tr><tr><td>Combined</td><td></td><td></td><td></td><td></td><td>59.3 (37.9&#8211;77.6)</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3542187_table_5",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    637.9,
+    681.5,
+    840.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3542187_table_5.png",
+   "html": "<table><tr><td>Country</td><td>Study design1</td><td>Supplier2</td><td>Reference test</td><td>Number and type of controls3</td><td>Specificity % (95% CI)</td><td>Ref.</td></tr><tr><td>Brazil</td><td>XS</td><td>Intersep</td><td>PCR/ELISA</td><td>40 NEC, 101 EC</td><td>65.2 (57.1&#8211;72.6)</td><td>[14]</td></tr><tr><td>Brazil</td><td>CC</td><td>Inbios</td><td>IFAT</td><td>50 NEC, 14 OD</td><td>100 (94.3&#8211;100)</td><td>[15]</td></tr><tr><td>Iran</td><td>XS</td><td>Cypress</td><td>DAT</td><td>152 EC</td><td>84.9 (78.3&#8211;89.7)</td><td>[16]</td></tr><tr><td>Turkey</td><td>XS</td><td>Inbios</td><td>Smear/IFAT</td><td>10 EC6</td><td>100 (72.2&#8211;100)</td><td>[17]</td></tr><tr><td>Mediterranean</td><td>CC</td><td>Diamed</td><td>-5</td><td>50 NEC, 26 OD</td><td>94.7 (87.2&#8211;97.9)</td><td>[18]</td></tr><tr><td>Italy</td><td>CC</td><td>Intersep</td><td>Smear</td><td>22 NEC, 33 EC, 42 OD</td><td>100 (96.2&#8211;100)</td><td>[19]</td></tr><tr><td>Brazil</td><td>CC</td><td>Inbios</td><td>Smear/ELISA</td><td>33 NEC, 25 OD</td><td>93.1 (83.6&#8211;97.3)</td><td>[22]</td></tr><tr><td>Brazil</td><td>XS</td><td>Inbios</td><td>ELISA</td><td>9 EC6</td><td>77.8 (45.3&#8211;93.7)</td><td>[23]</td></tr><tr><td>Italy</td><td>XS4</td><td>Intersep</td><td>ELISA</td><td>694 EC</td><td>100 (99.4&#8211;100)</td><td>[24]</td></tr><tr><td>China</td><td>XS</td><td>Inbios</td><td>PCR/ELISA</td><td>44 EC</td><td>97.7 (88.2&#8211;99.6)</td><td>[28]</td></tr><tr><td>Brazil</td><td>Cohort</td><td>Inbios</td><td>PCR/ELISA</td><td>38 NEC, 28 EC</td><td>100 (94.5&#8211;100)</td><td>this study</td></tr><tr><td>Combined</td><td></td><td></td><td></td><td></td><td>98.7 (89.5&#8211;99.9)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3542187_table_6",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    135.1,
+    372.8,
+    320.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3542187_table_6.png",
+   "html": "<table><tr><td>Reference</td><td>Non-endemic (NEC)</td><td>Endemic (EC)</td><td>Other diseases (OD)</td></tr><tr><td>[14]</td><td>75.0</td><td>61.4</td><td>-</td></tr><tr><td>[15]</td><td>100</td><td>-</td><td>100</td></tr><tr><td>[16]</td><td>-</td><td>84.8</td><td>-</td></tr><tr><td>[17]</td><td>-</td><td>100</td><td>-</td></tr><tr><td>[18]</td><td>94.0</td><td>-</td><td>96.2</td></tr><tr><td>[19]</td><td>100</td><td>100</td><td>100</td></tr><tr><td>[22]</td><td>100</td><td>-</td><td>84.0</td></tr><tr><td>[23]</td><td>-</td><td>77.8</td><td>-</td></tr><tr><td>[24]</td><td>-</td><td>100</td><td>-</td></tr><tr><td>[28]</td><td>-</td><td>97.7</td><td>-</td></tr><tr><td>This study</td><td>100</td><td>100</td><td>-</td></tr></table>"
+  }
+ ]
+}

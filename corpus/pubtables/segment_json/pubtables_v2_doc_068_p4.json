@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_068",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    41.7,
+    678.6,
+    54.3
+   ],
+   "ocr": "Idri and Kadi SpringerPlus (2016) 5:81 Page 11 of 17"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    110.7,
+    601.8,
+    432.6
+   ],
+   "ocr": "other hand, in order to evaluate the performance of the generated classifiers, we used the accuracy metric which is the rate of incorrect classification (Esfandiari et al. 2014). For this reason, the error rate was calculated for each classifier. This metric measures the proportion of errors made over the whole set of instances. Learning phase In this experimentation, 10 trials were carried out to generate and test the decision trees for each ANS test. In each trial, the training subset as described in “Medical dataset col- lection and description” section was used to generate the decision tree and calculate its error rate. The training and test subsets were changed in each trial randomly which involves changing data and test files of C4.5 algorithm. Figure 2 presents an example of a generated decision tree of DB test. As previously explained, the age attribute has a great influence on the interpretation of the VR values which is why the age was identified as the root node of the generated decision tree. Table 4 presents the performance results in terms of error rate on the training set for each ANS test. The values of Table 4 are the mean of error rate values obtained in the 10 trials for each generated decision tree. The mean error rate for each ANS test was calcu- lated using the Eq. 5."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    156.1,
+    692.5,
+    406.2,
+    705.0
+   ],
+   "ocr": "Fig. 2 Example of a generated decision tree regarding DB test"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    148.2,
+    745.7,
+    452.4,
+    759.7
+   ],
+   "ocr": "Table 4 Error rates of the generated classifiers in training set"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    768.0,
+    601.1,
+    909.7
+   ],
+   "ocr": "ANS tests Phase Mean error rate (%)\nDeep breathing Vagal response 2.15\nHand grip Vagal response 3.99\nPSR α 0.81\nMental stress CSR α 0.85\nCSR β 0\nOrthostatic Vagal response 0\nSP_FC 1.28\nSP_TA 2.54",
+   "table_id": "PMC4728159_table_3"
+  }
+ }
+}

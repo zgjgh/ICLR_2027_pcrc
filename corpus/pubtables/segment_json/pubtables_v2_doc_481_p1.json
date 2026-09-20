@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_481",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    490.3,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Anemia and Mortality in Korean Hemodialysis Patients"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    727.3,
+    369.5
+   ],
+   "ocr": "were missed. Cox proportional hazard analysis was adjusted for all potential risk factors includ- ing age, sex, comorbidities, duration of dialysis, hs-CRP level, serum albumin level, ESA dose, serum ferritin level, and transferrin saturation. For further analysis, we stratified the patients by age or diabetes status, and the risk for mortality in association with Hb level was investigated by Cox proportional hazard analysis. All statistical analysis was performed using SAS system for Windows, version 9.2 (SAS Institute Inc., Cary, NC, USA), and R (R Foundation for Statis- tical Computing, Vienna, Austria; www.r-project.org). A two-sided P-value < 0.05 was defined as significant. Results Patient characteristics The baseline characteristics of the 1,276 patients categorized using Hb levels (Hb groups) are shown in Table 1. The mean age of the patient population was 59.6 years. Men accounted for 58.4% of the sample, and 52.4% of patients had diabetes. At enrollment, the mean Hb of all the patients was 9.9 ± 1.7 g/dL. Stratification by Hb levels revealed that the ESA dose was signifi- cantly higher in the Hb group 10 g/dL than that in the Hb group 10 g/dL. In addition, the"
+  },
+  "p1_b2": {
+   "type": "title",
+   "bbox": [
+    588.3,
+    356.6,
+    598.0,
+    378.5
+   ],
+   "ocr": "�"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    356.8,
+    708.9,
+    414.4
+   ],
+   "ocr": "< ESA responsive index was the highest in the Hb group < 9 g/dL; further, it was significantly Table 1. Baseline characteristics of the cohort as classified by the levels of hemoglobin (Hb groups)."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    423.1,
+    726.6,
+    805.9
+   ],
+   "ocr": "All patients Hb group\n(n = 1276) <9 (n = 72) 9–10 (n = 241) 10–11 (n = 421) 11–12 (n = 353) 12 (n = 189) P\nAge (years) 59.6 ± 13.8 58.9 ± 15.5 60.6 ± 12.8 60.3 ± 13.8 58.9 ± 14.2 58.0 ± 13.9 0.198\nMale sex (%) 745 (58.4) 46 (63.9) 133 (55.2) 244 (58.0) 212 (60.1) 110 (58.2) 0.671\nBody mass index (kg/m2) 22.4 ± 3.2 21.9 ± 2.8 22.1 ± 3.1 22.3 ± 3.4 22.8 ± 3.2 22.6 ± 2.9 0.071\nHistory of diabetes (%) 536 (52.4) 28 (44.4) 100 (50.3) 181 (53.9) 146 (54.5) 81 (51.6) 0.598\nHistory of CVD (%)\nCoronary artery disease 125 (12.3) 5 (8.1) 25 (12.6) 41 (12.3) 36 (13.6) 18 (11.5) 0.815\nCongestive heart failure 115 (11.3) 8 (12.7) 25 (12.6) 40 (11.9) 25 (9.4) 17 (11.0) 0.814\nArrhythmia 19 (1.87) 1 (1.6) 2 (1.0) 8 (2.4) 5 (1.9) 3 (1.9) 0.862\nCerebrovascular disease 23 (2.3) 0 (0.0) 6 (3.0) 7 (2.1) 7 (2.6) 3 (1.9) 0.687\nPeripheral vascular 63 (6.2) 2 (3.2) 12 (6.1) 23 (6.9) 17 (6.4) 9 (5.8) 0.858\ndisease\n(g/dL)−1/kg)*\nESA dose (U/week)* 8858.5 ± 5403.8 12595.5b ± 10760.2b ± 8140.9a ± 7647.8a ± 8555.6a ± 0.000\n8153.2 6464.9 4398.2 4662.8 4334.3\nERI 14.9 ± 11.1 27.0c ± 21.0 20.0b ± 13.3 13.5a ± 7.6 11.5a ± 8.0 11.5a ± 6.5 0.000\nSerum albumin (g/dL)* 3.9 ± 0.4 3.7a ± 0.4 3.8b ± 0.4 4.0c ± 0.4 4.0c ± 0.4 4.0c ± 0.4 0.000\nSerum ferritin (ng/mL)* 275.5 ± 307.3 435.0c ± 459.8 333.1b ± 393.2 275.3ab ± 295.6 226.7a ± 211.2 237.8a ± 264.0 0.000\nTSAT (%) 30.6 ± 15.2 29.1 ± 15.1 30.7 ± 17.5 30.7 ± 15.1 30.9 ± 14.9 30.5 ± 12.3 0.949\nhs-CRP (mg/L)* 0.7 ± 1.6 1.4b ± 2.3 0.8a ± 1.6 0.7a ± 1.5 0.5a ± 1.4 0.7a ± 1.6 0.004\nIV iron treatment (%) 99 (8.1) 11 (15.7) 22 (9.3) 27 (6.6) 28 (8.4) 11 (6.4) 0.078\nESA treatment** (%) 870 (71.8) 56 (82.4) 201 (85.9) 330 (80.9) 209 (62.4) 74 (44.6) 0.000\nKt/V (single pool) 1.4 ± 0.3 1.4 ± 0.2 1.4 ± 0.3 1.4 ± 0.2 1.4 ± 0.2 1.4 ± 0.3 0.199\nCa*(mg/dL) 8.7 ± 0.9 8.3a ± 0.8 8.6b ± 0.8 8.6b ± 0.8 8.8c ± 0.9 8.9c ± 0.9 0.000\nP*(mg/dL) 4.8 ± 1.5 4.7ab ± 1.9 4.6a ± 1.5 4.8abc ± 1.5 5.0bc ± 1.4 5.0c ± 1.3 0.019",
+   "table_id": "PMC4599895_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    818.3,
+    689.0,
+    898.0
+   ],
+   "ocr": "Continuous variables are noted as mean ± SD. Categorical variables are presented as n (%). CVD, cardiovascular diseases; ESA, erythropoiesis- stimulating agent; ERI, ESA responsiveness index; TSAT, transferrin saturation; hs-CRP, high-sensitivity C-reactive protein. * Signiﬁcant difference between a, b, and c (ANOVA, Scheffé test); ** signiﬁcant difference among the ﬁve groups (Chi-square test). doi:10.1371/journal.pone.0140241.t001"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0140241 October 9, 2015 4 / 13"
+  }
+ }
+}

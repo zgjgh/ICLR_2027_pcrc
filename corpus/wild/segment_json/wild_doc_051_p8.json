@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_051",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    87.0,
+    580.0,
+    214.0
+   ],
+   "ocr": "Sample # Growth temperature (°C) Ar flow rate (SCCM) N2 flow rate (SCCM) N2/Ar flow rate ratio\n1 300 9 2 0.22\n2 300 10 4 0.40\n3 300 10 6 0.60\n4 300 10 8 0.80\n5 300 10 10 1.0",
+   "table_id": "img_056427_t0"
+  },
+  "p8_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    242.0,
+    580.0,
+    365.0
+   ],
+   "ocr": "motion_sensor/hand.msg\nstd_msgs/Header header\nuint32 hands_num\nstring[] hand_typer\ngeometry_msgs/Point position\ngeometry_msgs/Quaternion orientation",
+   "table_id": "img_056427_t1"
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    394.0,
+    580.0,
+    601.0
+   ],
+   "ocr": "Induced Damage Experimental Animal Intervention Duration Main Outcomes a Reference\nObesity-related inflammation C57BL/6 J mice 5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.) 18 weeks ↓ High fat diet-induced IL-6 and expression of pro-inflammatory genes [56]\nAdipose tissue inflammation C57BL/6 J mice 5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.) 18 weeks ↓ High fat diet-induced TNF-α, IL-6, iNOS, NF-κB, COX-2 [57]\nAdipose tissue inflammation Swiss mice 10% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.) 4 weeks ↑ High fat diet-down regulated PPARα expression and signaling [58]\nExperimental myocarditis Balb/c mice Cocoa polyphenol extract (oral) 3 weeks ↓ Myocarditis-induced IL-1β, IL-6, E-selectin, VCAM-1, NF-κB [60]\nAtherogenic diet ApoE3Leiden mice High flavanol chocolate-enriched diet (8.75%) 20 weeks ↑ High cholesterol-induced VCAM-1 and E-selectin [62]",
+   "table_id": "img_056427_t2"
+  },
+  "p8_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    617,
+    580,
+    706
+   ],
+   "ocr": "The data presented in Table 1 provides a comprehensive overview of experimental conditions and outcomes related to obesity- related inflammation in various animal models. The table systematically categorizes samples based on key parameters, including growth temperature (°C) and flow rates of argon (Ar) and nitrogen (N2). Notably, the N2/Ar flow rate ratio is highlighted, indicating the specific gas mixture utilized in each experimental setup. This ratio is critical for understanding the environmental conditions under which the experiments were conducted, as it influences the physiological responses observed in the subjects."
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    694,
+    580,
+    768
+   ],
+   "ocr": "Additionally, the table includes metrics such as the duration of the intervention and the main outcomes associated with each sample, which are essential for assessing the efficacy of the treatments administered. By documenting the induced damage alongside the experimental animals used, the table serves as a valuable resource for researchers aiming to replicate or build upon these findings. Together, these variables elucidate the complex interplay between environmental factors and the biological mechanisms underlying obesity-related inflammation, offering insights into potential therapeutic strategies."
+  }
+ }
+}

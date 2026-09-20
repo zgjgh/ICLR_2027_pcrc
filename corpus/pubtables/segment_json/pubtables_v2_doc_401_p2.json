@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_401",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    278.6,
+    66.0
+   ],
+   "ocr": "Willmann et al. Malaria Journal 2012, 11:363 http://www.malariajournal.com/content/11/1/363"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    630.1,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 9"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    379.7,
+    124.4
+   ],
+   "ocr": "Table 2 Demographic characteristics and laboratory findings"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    383.1,
+    111.4,
+    644.8,
+    124.4
+   ],
+   "ocr": "of adult patients with Plasmodium knowlesi malaria"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    369.0
+   ],
+   "ocr": "Variable Uncomplicated malaria n = 93 Severe malaria n = 17 p-value\nDemographic characteristic\nAge, mean (95% CI), years 43.44 (40.4 – 46.5) 49.59 (43.24 – 55.94) 0.11\nMale sex, % 68.8 70.6 NA\nIban ethnicity, % 81.7 88.2 NA\nLaboratory findings at admission\nWhite blood cell count, x 103/μl1 5.9 (5 – 7.55) 8.7 (6.7 – 12.5) 0.009\nNeutrophils, mean (95% CI), % 70.4 (68.8 – 71.9) 75.1 (69.9 – 80.4) 0.025\nMonocytes, %1 2 (1 – 5) 3 (2 – 4) 0.69\nLymphocytes, mean (95% CI), % 25.2 (23.8 – 26.6) 21.2 (16.4 – 26) 0.034\nParasite count, parasites/μl1 3843.5 (714.5 – 13030.5) 94256 (18432 – 285768) <0.0001\nParasite count, % IRBC1 0.3 (0.1- 0.7) 2.5 (0.7 – 11.1) <0.0001\nPlatelet count, x 103 platelets/μl1 69 (44 – 99) 38 (26 – 48) 0.0004\nPCN count, cells/μl1 36 (0–128) 563 (158 – 1388) <0.0001",
+   "table_id": "PMC3533741_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    375.2,
+    209.4,
+    428.0
+   ],
+   "ocr": "1 median, interquartile range. 95% CI 95% confidence interval. % IRBC % infected red blood cells. PCN pigment-containing neutrophils. NA not assessed."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    458.8,
+    366.1,
+    667.8
+   ],
+   "ocr": "167,000 platelets/μl. That indicates a generally low plate- let count in all of the patients. Platelet counts were lower in severe P. knowlesi malaria compared with uncomplicated disease (38,000 vs 69,000 platelets/μl, p = 0.0004). Risk assessment of potential laboratory severity markers A detailed crude risk assessment of potential labora- tory severity markers was performed by using logistic regression on different categorical variables (Table 3). The PCN count was strongly associated with risk of Table 3 Risk of severe disease among adult patients with"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    458.8,
+    678.6,
+    623.7
+   ],
+   "ocr": "severity (p <0.0001). This is particularly accentuated in the group with the highest PCN count (≥416 PCN/μl, OR = 37.58). For analysis of the parasite counts the WHO cut-offs for severe falciparum malaria in low transmission areas were employed (thick film count >100,000 parasites/μl and thin film count >2% IRBC). Both were strongly associated with risk of severity (OR = 9.44 and OR = 8.79, respectively). Furthermore, patients with severe (≤35,000 platelets/μl) and moderate (36,000 platelets/μl – 59,000 platelets/μl) thrombocytopaenia were more likely to have a severe course of disease (p = 0.001)."
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    365.4,
+    654.9,
+    628.6,
+    667.8
+   ],
+   "ocr": "Plasmodium knowlesi malaria – univariate modeling"
+  },
+  "p2_b9": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    671.3,
+    678.6,
+    877.0
+   ],
+   "ocr": "Variable Uncomplicated malaria n (%) Severe malaria n (%) Crude odds ratio (95% CI) p-value†\nPCN count (PCN/μl) 0 41 (44.1) 2 (11.8) 1 <0.0001\n1 – 139 32 (34.4) 1 (5.9) 0.64 (0.06 – 7.38)\n140 – 415 14 (15.1) 3 (17.6) 4.39 (0.66 – 29.06)\n≥416 6 (6.4) 11 (54.7) 37.58 (6.64 – 212.67)\nParasite count (parasites/μl) <100000 85 (91.4) 9 (52.9) 1 0.0003\n≥100000 8 (8.6) 8 (47.1) 9.44 (2.85 – 31.28)\nParasite count (% IRBC) <2 80 (86) 7 (41.2) 1 0.0001\n≥2 13 (14) 10 (58.8) 8.79 (2.84 – 27.21)\nPlatelet count (x 103 platelets/μl) ≥60 54 (58.1) 2 (11.8) 1 0.001\n36-59 18 (19.3) 8 (47) 12 (2.33 – 61.78)\n≤35 21 (22.6) 7 (41.2) 9 (1.72 – 46.87)",
+   "table_id": "PMC3533741_table_2"
+  },
+  "p2_b10": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    883.4,
+    270.5,
+    925.4
+   ],
+   "ocr": "95% CI 95% confidence interval. PCN pigment-containing neutrophils. % IRBC % infected red blood cells. †All p-values were obtained from likelihood ratio test."
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_034",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    196.3,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2007, 7:109"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/7/109"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    346.6,
+    118.9
+   ],
+   "ocr": "Table 5: Transcription levels of RAS-MAPK pathway genes."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    88.9,
+    130.1,
+    690.3,
+    310.5
+   ],
+   "ocr": "PET counts (cpm)\nLibrary PKA PKB (Akt) PKC Ras Raf Mek1 Mek2 Erk\nH-ras K-ras M-ras N-ras R-ras\nMelan-a2 melanocytes 0 90 15 89 0 30 15 60 58 15 44 73\ntotal: 194\nB16F1 melanoma cells 33 176 97 22 11 0 11 186 108 98 130 98\ntotal: 230",
+   "table_id": "PMC1929113_table_4"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    326.8,
+    372.6,
+    922.4
+   ],
+   "ocr": "Expression levels of the major components of RAS-MAPK pathway are pathway components. Besides p53, the tumor suppressor genes Atm and Cdkn1a (p21 gene) were expressed higher in melanoma cells than melanocytes (65:0 and 22:0 in cpm, respectively). It was reported that the expression levels of c-MYC, proliferating cell nuclear antigen (PCNA), and p53 were all higher in metastasizing colorectal cancer than non-metastasizing tumors as detected by immunohistochemistry [6]. Cell cycle progression is tightly regulated by two types of controls: a rhythmic expression of cyclins in conjunction with their interactions with their kinase partners, and a supervisory control through diversified checkpoint moni- toring mechanisms [45]. PCNA, a nuclear protein used as an indicator of cell proliferation, increased from 104 cpm in melanocyte to 1311 cpm in melanoma (12.6 fold), implying aggressive growth of melanoma cells. In general, compared to melanocytes, the transcriptional levels of cyclins and cyclin-dependent kinases are all elevated in melanoma cells (Figure 6). Perturbations in apoptosis pathway: elevation of caspase 8 transcription and E2f1-to-E2f4 switch Two alterations were apparent in melanoma apoptosis pathway: elevation of caspase 8 transcription and an E2f1- to-E2f4 gene isoform switch. Expression of caspase 8 was significantly increased (0:154 cpm) in melanoma cells. Both Bad and Bax expression lev- els were increased slightly and Bad showed isoform induc- tion, suggesting that there might be apoptotic pressures, causing the pathway to be upregulated at some points. However, like the p53 pathway, the apoptosis pathway seemed to be disoriented and deregulated. We found an E2f1-to-E2f4 switch in melanoma cells, wherein p73 transcript was not present. E2Fs are known to be crucial regulators of a variety of cellular events includ- ing cell cycle progression, DNA replication, checkpoint"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    375.2,
+    326.8,
+    698.4,
+    922.4
+   ],
+   "ocr": "listed along with that of PKA, PKB, and PKC, which are also KEGG MAPK control, apoptosis, and DNA repair [46], and E2F1 is cru- cial for E2F-dependent apoptosis [47,48]. In general, E2Fs can be divided into activators (E2F1-3) and repressors (E2F4 and E2F5). However, it is technically possible for the repressors to activate certain genes. E2F1 induces the transcription of p73 which in turn activates the apoptosis pathway [40,49]. The capability of p73 to induce apopto- sis in TP53-/- cells is a p53-independent tumor control mechanism that runs in parallel with p53-dependent apoptosis. There were six E2f gene isoforms (E2f1-E2f6) listed in KEGG database, among which melanocytes expressed E2f1 (60 cpm) and E2f5 (15 cpm), while melanoma cells expressed E2f4 (11 cpm) and E2f5 (11 cpm). It seems likely that melanoma cells adopt the E2f1- to-E2f4 switch as a strategy to avoid E2F1-p73-dependent apoptosis. As E2Fs regulate a broad spectrum of cellular activities, it remains to be learned how such a switch in E2f isoforms affects overall cancer cell physiology. It is possible that melanoma cells may still express E2f1 at a redefined basal level below our detection limit to sustain the transcription of certain genes. Cell adhesion and metastasis related genes were expressed as diverse isoforms in melanoma cells Recently β-catenin has drawn a great attention due to its dual role in signal transduction and cell adhesion. It is not only a transcription factor that activates genes such as c- Myc, but also a structural adaptor protein that bridges extracellular cadherins through α-catenin to the intracel- lular actin cytoskeleton network, which is crucial for cell- cell adhesion and migration [9]. Metastases are responsible for most cancer deaths and the involvement of adhesion proteins in metastasis has been well documented [1,8]. Since B16F1 is a metastatic melanoma cell line, it is of particular interest to find out what adhesion proteins are expressed in melanoma cells. In both normal melanocytes and melanoma cells, tran-"
+  },
+  "p4_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 13 of 21 (page number not for citation purposes)"
+  }
+ }
+}

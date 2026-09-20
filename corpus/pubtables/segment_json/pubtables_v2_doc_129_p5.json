@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_129",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    277.2,
+    65.8
+   ],
+   "ocr": "Müller et al. BMC Genomics 2011, 12:81 http://www.biomedcentral.com/1471-2164/12/81"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 7 of 13"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    626.0
+   ],
+   "ocr": "population than in the African population [25]. If this is indicative of a general pattern of stronger selection on females to adapt to the European environment, it could explain the excess of between-population expression dif- ferences in females relative to males. A possible reason for this is that females may be under greater selection to survive through the winter, while males that do not survive the winter may still contribute genes to future generations if their sperm is stored in a surviving female [36]. The above hypothesis predicts that most expres- sion differences between populations should be the result of changes occurring within the European popula- tion during colonization. At present, we do not have data that would allow us to infer the direction of inter- population expression changes and test this prediction. Of the 569 genes identified as differentially expressed between the African and European populations in females and the 153 genes identified as differentially expressed between the same populations in males [18], only 14 genes overlapped (i.e., were significant in both sexes; Table 5). Of these, 12 genes showed higher expression in the same population in both sexes, which is no more than would be expected by chance given the numbers of significant genes in each sex and the total number of genes analyzed in both sexes (c2 = 0.60, P = 0.44). However, several of the overlapping genes (Table 5) represent good candidates for genes that have undergone adaptive regulatory evolution in response to changes in the environment. The gene showing the greatest over-expression in Europe in both males and females was the cytochrome P450 gene Cyp6g1 (see Table 5 Genes with a significant inter-population expression difference in both females and males"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.8,
+    666.2
+   ],
+   "ocr": "above section, Gene expression divergence between popu- lations). The gene CG12262, with an annotated function in oxidation/reduction and fatty acid metabolism, and the gene CG17292, which is also involved in fatty acid metabolism, both showed over-expression in Europe in both sexes. The gene CG7409, which has an annotated function in response to heat and unfolded protein bind- ing, and the actin gene Act88F, which is a component of indirect flight muscle and also involved in the innate immune response, showed consistent African over- expression in both sexes. In addition, three genes of unknown function that are located in a cluster on chromosome arm 2L (CG8997, CG7916, and CG7953) showed significant African over-expression in both males and females (Figure 6). A fourth gene in this cluster, CG33307, showed significant African over- expression in males, but was not detected as expressed in females (Figure 6). The vast majority of genes detected as being differen- tially expressed between populations showed this pattern in only one sex. Of the 569 genes that differed in expression between females of the European and African populations, 557 showed this difference only in females. Of these, 310 genes were not detected as expressed in males, while 245 were detected as expressed but their expression did not differ significantly between the popu- lations. Two other genes showed a significant expression difference between populations, but in opposite direc- tions in the two sexes. The first, CG11395, is a gene of unknown function that had significant Africa over- expression in females, but significant Europe over- expression in males. The second is the foraging (for) gene, which encodes a cGMP-dependent protein kinase that influences larval and adult feeding behavior [37-39]. In females, for is significantly over-expressed in Africa, while in males it is significantly over-expressed in Europe."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    630.9,
+    362.0,
+    905.2
+   ],
+   "ocr": "Log2 (Afr/Eur)\nGene Female Male* Function\nCG8997 1.85 0.77 Unknown\nCG7916 1.00 0.68 Unknown\nCG34330 1.00 0.38 Unknown\nCG7409 0.93 0.49 Unfolded protein binding; response to heat\nretinin 0.85 0.58 Unknown; expressed in eye\nCG7953 0.85 0.49 Unknown\nAdk2 0.58 0.38 Adenylate kinase; ADP biosynthesis\nAct88F 0.49 1.54 Actin filament; indirect flight muscle;\nimmune response\nCyp6g1 -1.58 -2.14 Cytochrome P450; insecticide resistance\nfau -0.49 -0.38 Unknown; upregulated under anoxia\nCG17292 -0.49 -0.19 Triglyceride lipase; lipid metabolism\nCG12262 -0.38 -0.38 Acyl-CoA dehydrogenase; fatty acid beta-\noxidation\nfor 0.51 -0.31 cGMP-dependent protein kinase; feeding\nbehavior\nCG11395 0.49 -0.23 Unknown",
+   "table_id": "PMC3040150_table_4"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.8,
+    827.9,
+    670.8,
+    914.7
+   ],
+   "ocr": "Figure 6 A cluster of genes on chromosome arm 2L with significant over-expression in the African population. Solid boxes represent transcriptional units, with the arrow indicating the direction of transcription. The African/European expression ratio of each gene, as determined by microarray experiments using males [18] and females (present study), is shown at the bottom. Expression of CG33307 was not detected in females."
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    178.3,
+    922.2
+   ],
+   "ocr": "*Data from Hutter et al. [18]."
+  }
+ }
+}

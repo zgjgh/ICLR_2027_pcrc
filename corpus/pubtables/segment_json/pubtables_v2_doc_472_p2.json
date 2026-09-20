@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_472",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    288.6,
+    65.8
+   ],
+   "ocr": "Wen et al. BMC Systems Biology 2015, 9(Suppl 5):S4 http://www.biomedcentral.com/1752-0509/9/S5/S4"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 11"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    822.8
+   ],
+   "ocr": "across all datasets their overall scores are varied. CDH3 is the top gene in dataset GSE41258S2*3, but due to its less prominent positions in other datasets, the overall rank for this gene across five datasets is 25. FXR1 is the top gene in GSE21510S2*3 dataset, and because it is not significant in all other datasets, its overall rank is dropped to 1000. In fact, none of these five genes are in the list of top 20 genes by overall ranking. Table 3 shows the top 10 genes by overall ranking. A common feature of these top 10 genes is that each gene is consis- tently significant (and with the same regulation direc- tion) across all datasets except GSE21510S4, which only returned 7 significant genes due to small sample size and low statistical power. Gene signature progression procedure In the construction of a gene signature for connectivity mapping, there are often a large number of genes that passed the threshold p-value and were selected as signif- icant genes. But including all the significant genes in a query signature might not be the best choice to describe the biological condition under study, since this may dilute the critical features of a biological condition. As the purpose of a gene signature is to capture the most important/prominent features of a biological state, we define the optimal signature length as the smallest num- ber of genes from the top of the ranked list to achieve a target number of significant connections. To effectively utilize connectivity mapping, the drug hits in sscMap are used to guide the choice of gene signature length. We implement the following procedure to decide the length of a query signature. 1 First, as in the sscMap framework, we set Efp = 1 as the expected number of false positives to tolerate among the drug hits. The threshold p-value for declar- ing significant connection is then set as Efp /Nc = 1/1309, where Nc = 1309 is the number of small molecule compounds in the connectivity mapping database. 2 Set the target false discovery rate (FDR) as 0.10 (one in ten risk of false drug hit). The empirical FDR is cal- culated by Efp/Ns, where Ns is the number of significant drug hits. 3 Start from m = 1, where m denotes the number of genes included in a query gene signature. datasets."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    248.0
+   ],
+   "ocr": "2. Genes in the statistically significant group will have a score from M to 1 according to their significance order, the score will be normalised by M , where M is the num- ber of significant genes identified in each dataset [see note (a) below]. 3. The score for the ith gene in the ordered list is calculated using the formula: −"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    225.5,
+    387.2,
+    822.8
+   ],
+   "ocr": "Score = (M i + 1)/M 4. Apply a biological significance threshold and set their score to 0 for those genes with a fold change less than 2 in the statistically significant group. 5. Assign a sign to each score, giving “+” if the gene is up-regulated or “-” if down-regulated [see note (b)]. 6. Sum up the scores of each gene across all datasets, so that each gene has a total score. 7. Sort all genes according to the absolute value of their total score in descending order, the gene with the highest absolute total score (the most significant gene) will be on the top. 8. Finally use the gene signature progression procedure (see the following section) with sscMap to decide the sig- nature length. Note: (a) For different datasets, the number of statistically significant genes M is generally not the same. Nor- malising the scores by M makes them comparable across different datasets. (b) Each score contains a sign, so if a gene regulates differently in different datasets, its per-dataset scores will counteract each other and its overall score is reduced. The purpose of this ranking procedure is to identify genuinely significant genes across all of the datasets. Using this method, an overall top-ranked gene across multiple datasets must consistently have high ranking scores from these datasets, and must also have the same regulation direction in the majority of datasets. Only such genes are guaranteed to retain high overall scores. Table 2 lists the top ranked gene in each individual dataset (FXR1, CDH3, COL11A1, HSPH1 and SMPD1), along with their scores in the other datasets. As can be seen from Table 2, depending on their individual scores Table 2 Top 1 gene of each dataset and its scores in all other"
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    827.6,
+    675.5,
+    915.9
+   ],
+   "ocr": "ProbeID GeneSymbol GSE21510S2*3 GSE41258S2*3 GSE21510S4 GSE41258S4 GSE49355S4 TotalScore OverallRank\n201637 s at FXR1 1 0 0 0 0 1 1000\n203256 at CDH3 0.6174 1 0 0.9400 0.9983 3.5557 25\n37892 at COL11A1 0.9990 0.8303 0 1 0.4707 3.3000 64\n206976 s at HSPH1 0.3651 0.9524 0 0 1 2.3175 262\n216230 × at SMPD1 -0.6184 -0.8424 -1 0 0 -2.4608 222",
+   "table_id": "PMC4565135_table_1"
+  }
+ }
+}

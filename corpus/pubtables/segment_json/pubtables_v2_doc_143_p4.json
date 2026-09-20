@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_143",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    279.8,
+    65.8
+   ],
+   "ocr": "Shokouhi et al. BMC Medical Imaging 2011, 11:23 http://www.biomedcentral.com/1471-2342/11/23"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.0,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 10 of 16"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    741.6
+   ],
+   "ocr": "the two visits produce similar results whereas for other scanners the estimations for the two visits are signifi- cantly different. As visits don’t follow any logical order, the significance of the interaction term in the first case may not necessarily be indicative of real inconsistency between scanners. This seems to be the case for GM and WM volumes of the 3 T group. In this case, as can be inferred from Figure 2, the direction of change from the first to the second visit varies across scanners. Con- versely, for GSI of the 1.5 T group the second explana- tion applies as the significance of the interaction terms arises from higher between-visit variability for centre B compared to those for centres A and C. Table 5 also indicates that for the 1.5 T group, the two visits to the same centre did not produce signifi- cantly different values for GM, WM, CSF, and hemi- sphere volumes, however these values were significantly different across centres. In the 3 T group, although the two visits produced similar results for hemisphere volume, the GM, WM, and CSF volumes varied significantly between the two visits. In addition, all volumes significantly vary across scanners. Nonetheless, both visits to all five centres pro- duced similar results for GSI. For sulcal parameters, the centre and visit factors as well as their interaction were non-significant for the 1.5 T group, however for the 3 T group, the centre factor was significant for both surface and depth and with all four algorithms. Between-visit and between-centre reliabilities The between-visit and between-centre reliabilities were computed for all parameters according to equation 1. As a rule of thumb, the reliability values smaller than 0.50, between 0.50 and 0.70, between 0.70 and 0.90, and greater than 0.90 were considered poor, moderate, good, and excellent, respectively. Table 6 shows the results for global parameters. In the 1.5 T group, the between-visit reliability was excellent for the GM, WM, CSF and hemisphere volumes. Between- centre reliabilities were excellent for hemisphere volume, moderate for WM and CSF volumes, and poor for GM"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    372.1,
+    110.3,
+    678.6,
+    790.7
+   ],
+   "ocr": "volume. For GSI, the between-visit reliability was good whereas between-centre reliability was poor. For the 3 T group, the between-centre and between- visit reliabilities of the hemisphere volume were almost excellent. However following segmentation, the reliabil- ities of the resulting segmented volumes were mostly poor. It can be therefore concluded that segmentation has led to a significant reduction in the reliability. The between-visit and between-centre reliabilities of GSI for the 3 T group were moderate and poor, respectively. The reliabilities for sulcal parameters were calculated for each sulcal piece independently due to huge variabil- ity in sulcal parameters (especially the sulcal surface) for different sulci. Figure 4 depicts the distribution of reli- abilities across 59 sulcal pieces using all sulci recogni- tion algorithms indicating that the reliabilities range from poor to excellent. The figure suggests that in all cases the average between-visit reliability was greater than the average between-centre reliability. Moreover among the four algorithms, Markovian and Global resulted in the highest reliabilities, whereas Talairach led to the lowest reliabilities. For a quantitative compari- son between the four algorithms, the average reliabilities (across all sulci) are presented in table 7 for both 1.5 T and 3 T groups. Segmentation with FAST vs. Brainvisa The p-values of the centre and visit factors as well as their interaction for GM, WM, and CSF volumes esti- mated using FAST are given in table 8. For the 1.5 T group, each segmented volume was significantly differ- ent across centres but similar for the two visits to the same scanner. The interaction term was significant for WM volume which was mainly due the various direc- tions of changes from first to second visit (as can be concluded from Figure 2). For the 3 T group, the centre and visit factors as well as their interaction were significant for all volumes which suggests that some scanners produce less consis- tent results between the two visits. Figure 2 shows that this inconsistency mainly arises from centre E. Table 9 summarizes the between-visit and between- centre reliabilities of brain segmentation using FAST. for global parameters calculated using Brainvisa"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    777.7,
+    368.3,
+    790.7
+   ],
+   "ocr": "Table 6 The between-visit and between-centre reliabilities"
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    795.6,
+    637.1,
+    905.2
+   ],
+   "ocr": "Parameter 1.5 T Group 3 T Group\nBetween-visit Between-centre Between-visit Between-centre\nGM volume 0.92 0.36 0.29 0.25\nWM volume 0.95 0.67 0.13 0.15\nCSF volume 0.90 0.50 0.55 0.34\nCerebral hemisphere volume 0.99 0.97 0.96 0.88\nGSI 0.75 0.13 0.62 0.43",
+   "table_id": "PMC3315423_table_5"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    266.0,
+    922.2
+   ],
+   "ocr": "The results are given for both 1.5 T and 3 T groups."
+  }
+ }
+}

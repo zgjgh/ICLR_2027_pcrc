@@ -1,0 +1,342 @@
+{
+ "doc_id": "wild_doc_065",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_072396_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    270.0,
+    580.0,
+    413.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_072396_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Iteration</td><td colspan=\"3\">Nominal</td><td colspan=\"3\">GIRF</td></tr><tr><td>Duration [ms]</td><td>Peak [μT]</td><td>NRMSE [%]</td><td>Duration [ms]</td><td>Peak [μT]</td><td>NRMSE [%]</td></tr><tr><td>1</td><td>10.39</td><td>45.12</td><td>56</td><td>10.39</td><td>30.94</td><td>8</td></tr><tr><td>2</td><td>12.84</td><td>13.08</td><td>18</td><td>11.78</td><td>20.05</td><td>7</td></tr><tr><td>3</td><td>12.93</td><td>11.38</td><td>18</td><td>12.21</td><td>13.67</td><td>7</td></tr><tr><td>4</td><td>—</td><td>—</td><td>—</td><td>12.36</td><td>13.24</td><td>7</td></tr><tr><td>5</td><td>—</td><td>—</td><td>—</td><td>12.42</td><td>11.40</td><td>7</td></tr></table>"
+  },
+  {
+   "table_id": "img_072396_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    494.0,
+    580.0,
+    616.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_072396_t1.png",
+   "html": "<table><tr><td>Treatment</td><td>Dose (mg/kg)</td><td>1st h</td><td>2nd h</td><td>3rd h</td><td>4th h</td></tr><tr><td>Vehicle</td><td>–</td><td>0.93 ± 0.19</td><td>1.65 ± 0.30</td><td>2.61 ± 0.21</td><td>2.83 ± 0.20</td></tr><tr><td>Piroxicam</td><td>30</td><td>0.29 ± 0.11 **</td><td>0.26 ± 0.04 **</td><td>0.83 ± 0.14 **</td><td>1.37 ± 0.24 *</td></tr><tr><td rowspan=\"3\">Methanolic extract</td><td>7.81</td><td>0.71 ± 0.12</td><td>0.83 ± 0.26</td><td>1.07 ± 0.25 *</td><td>1.92 ± 0.13</td></tr><tr><td>15.62</td><td>0.30 ± 0.06 **</td><td>0.40 ± 0.07 **</td><td>0.88 ± 0.15 **</td><td>1.76 ± 0.21 **</td></tr><tr><td>31.25</td><td>0.38 ± 0.01 **</td><td>0.50 ± 0.12 **</td><td>0.59 ± 0.12 **</td><td>1.01 ± 0.27 *</td></tr></table>"
+  },
+  {
+   "table_id": "img_072604_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    275.0,
+    580.0,
+    415.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_072604_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Type of pesticide application</td><td colspan=\"2\">Telephone survey</td><td colspan=\"2\">Web survey</td></tr><tr><td>Effect</td><td>ICC</td><td>Effect</td><td>ICC</td></tr><tr><td rowspan=\"2\">Outdoor sprays</td><td rowspan=\"2\">No variation observed</td><td rowspan=\"2\">0.16</td><td>Decreasing across quarters</td><td rowspan=\"2\">0.30</td></tr><tr><td>warm season &gt; cool season</td></tr><tr><td>Indoor sprays</td><td>No variation observed</td><td>0.05</td><td>No variation observed</td><td>0.20</td></tr><tr><td>Behind-the-neck treatment on pet</td><td>No variation observed</td><td>0.45</td><td>Decreasing across quarters</td><td>0.66</td></tr><tr><td>Professional application in the yard</td><td>—</td><td>—</td><td>No variation observed</td><td>0.77</td></tr></table>"
+  },
+  {
+   "table_id": "img_072604_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    460.0,
+    580.0,
+    642.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_072604_t1.png",
+   "html": "<table><tr><td>Receptor</td><td>Regulation</td><td>Pathway</td><td>Function</td><td>Reference</td></tr><tr><td>PAR-1</td><td>CCL2</td><td>PKC/c-SRC/EGFR/MEK/ERK/AP-1</td><td>Monocytes, memory T cells, and dendritic cells activation</td><td>[47, 48]</td></tr><tr><td>PAR-1/-2</td><td>IL-1, TNF-α</td><td>p38/p42/44</td><td>MMP expression</td><td>[65]</td></tr><tr><td>PAR-1/-3</td><td>HO-1</td><td>PKCδ/c-SRC/Nrf-2</td><td>Synovial fibroblasts inflammatory</td><td>[70–72]</td></tr><tr><td>PAR-1/-3</td><td>MMP-13</td><td>PKCδ/c-SRC/EGFR/pI3K/AKT/AP-1</td><td>Cartilage destruction</td><td>[59, 60]</td></tr><tr><td>PAR-1</td><td>COX-2</td><td>?</td><td>IL-6, CTGF, FGF1/2, VEGF, Tnc expression</td><td>[51–54]</td></tr></table>"
+  },
+  {
+   "table_id": "img_072608_t0",
+   "page_num": 3,
+   "bbox": [
+    14.0,
+    236.0,
+    549.0,
+    465.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_072608_t0.png",
+   "html": "<table><tr><td></td><td>Sex ρ (p)</td><td>Age ρ (p)</td><td>Shoe size ρ (p)</td><td>Frequency of sport activity ρ (p)</td><td>BMI ρ (p)</td><td>Foot asymmetry ρ (p)</td><td>Foot loading ρ (p)</td></tr><tr><td>PC1</td><td>0.72*(0.001)</td><td>-0.019 (0.761)</td><td>0.60*(&lt; 0.001)</td><td>0.19*(0.002)</td><td>0.0574 (0.368)</td><td>-0.0253 (0.691)</td><td>-0.26*(&lt; 0.001)</td></tr><tr><td>PC2</td><td>-0.33*(&lt; 0.001)</td><td>0.2246*(&lt; 0.001)</td><td>-0.23*(0.002)</td><td>-0.0452 (0.478)</td><td>0.16*(0.011)</td><td>0.045 (0.480)</td><td>0.14*(0.024)</td></tr><tr><td>PC3</td><td>0.0113 (0.860)</td><td>-0.122 (0.054)</td><td>0.17*(0.008)</td><td>0.24*(&lt; 0.001)</td><td>-0.53*(&lt; 0.001)</td><td>0.0871 (0.171)</td><td>0.06578 (0.302)</td></tr><tr><td>PC4</td><td>-0.067 (0.291)</td><td>-0.1164 (0.067)</td><td>0.00789 (0.901)</td><td>0.0174 (0.785)</td><td>-0.13*(0.033)</td><td>0.08831 (0.166)</td><td>0.26*(&lt; 0.001)</td></tr><tr><td>PC5</td><td>0.01847 (0.772)</td><td>-0.0192 (0.764)</td><td>-0.0363 (0.570)</td><td>-0.0887 (0.164)</td><td>0.17*(0.007)</td><td>0.14*(0.025)</td><td>0.06364 (0.318)</td></tr><tr><td>PC6</td><td>0.0018 (0.978)</td><td>-0.0068 (0.915)</td><td>-0.06156 (0.334)</td><td>-0.23*(&lt; 0.001)</td><td>0.01258 (0.844)</td><td>-0.24*(&lt; 0.001)</td><td>0.05232 (0.412)</td></tr></table>"
+  },
+  {
+   "table_id": "img_072608_t1",
+   "page_num": 3,
+   "bbox": [
+    14.0,
+    479.0,
+    549.0,
+    652.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_072608_t1.png",
+   "html": "<table><tr><td></td><td>MLUs</td><td>CLUs</td></tr><tr><td>Total</td><td>1101</td><td>552</td></tr><tr><td>Mean age years (SD)</td><td>29 (4.9)</td><td>28.7 (5.0)</td></tr><tr><td>Parity 0 (%)</td><td>565 (51.3)</td><td>276 (50)</td></tr><tr><td>Parity &gt; 0 (%)</td><td>536 (48.7)</td><td>276 (50)</td></tr><tr><td>Single (%)</td><td>415 (37.7)</td><td>229 (41.5)</td></tr><tr><td>Married, not separated (%)</td><td>664 (60.3)</td><td>312 (56.5)</td></tr><tr><td>Mean weight Kgs (SD)</td><td>65.9 (8.9)</td><td>66.1 (8.93)</td></tr><tr><td>Mean height metres (SD)</td><td>1.66 (0.07)</td><td>1.66 (0.08)</td></tr></table>"
+  },
+  {
+   "table_id": "img_072630_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    108.0,
+    561.0,
+    285.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_072630_t0.png",
+   "html": "<table><tr><td>Study type</td><td>Diagnosis DSM-VI</td><td>Social status of the parents</td><td>N minors Sex</td><td>Age Mean (SD)</td><td>IQ Mean (SD)</td></tr><tr><td>Open-label trial with an extended-release methylphenidate preparation for ADHD</td><td>5 *314.01, 2 * 314.00, 2 *concomitant 315.2, 1* concomitant 312.8</td><td>3 high5 average0 low</td><td>7 boys</td><td>13.3 (2.4)</td><td>104.1 (13.9)</td></tr><tr><td>Placebo-controlled RCT with a new SNRI-preparation for ADHD + ODD</td><td>12 * 314.01 + 312.8, 1*concomitant 315.2</td><td>2 high9 average1 low</td><td>12 boys</td><td>9.9 (1.7)</td><td>97.2 (14.7)</td></tr><tr><td>TotalRange</td><td></td><td></td><td>19</td><td>11.0 (2.3)7–15 y</td><td>99.8 (14.5)72–132</td></tr></table>"
+  },
+  {
+   "table_id": "img_072630_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    299.0,
+    561.0,
+    517.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_072630_t1.png",
+   "html": "<table><tr><td>Library preparation method</td><td>Library preparation kit</td><td>Input amount (ng)</td><td>Duplicate read (%)</td><td>Fragment size (stdev)</td><td>Coveragea</td><td>Ratio of bias in CpG island/shores</td></tr><tr><td rowspan=\"2\">Pre-BS</td><td>KAPA LTP (Kapa Biosystems)</td><td>1000</td><td>4.2</td><td>138 bp (41 bp)</td><td>5.4×</td><td>0.5:0.8</td></tr><tr><td>KAPA Hyperprep (Kapa Biosystems)</td><td>100</td><td>5.6</td><td>105 bp (49 bp)</td><td>3.9×</td><td>0.2:0.6</td></tr><tr><td rowspan=\"3\">Post-BS</td><td>TruSeq DNA methylation (Illumina)</td><td>50</td><td>9.6</td><td>73 bp (37 bp)</td><td>4.2×</td><td>3.3:2.0</td></tr><tr><td>TruMethyl WG v1.9 (Cambridge Epigenetix)</td><td>200</td><td>1.8</td><td>120 bp (49 bp)</td><td>5.1×</td><td>1.1:1.0</td></tr><tr><td>Accel-NGS methyl-seq (Swift Biosciences)</td><td>100</td><td>1.4</td><td>132 bp (50 bp)</td><td>6.6×</td><td>0.6:0.9</td></tr></table>"
+  },
+  {
+   "table_id": "img_072630_t2",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    531.0,
+    561.0,
+    649.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_072630_t2.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Mutation sites</td></tr><tr><td>Mutation region/name</td><td>AANAT1a</td><td>AANAT2</td><td>Sheep AANAT</td></tr><tr><td>β5</td><td>M154I</td><td>I157M</td><td>M159</td></tr><tr><td>α2</td><td>-</td><td>L69R + N70H + G73T + Q74L</td><td>Q71 + H72 + T75 + L76</td></tr><tr><td>β4</td><td>-</td><td>S123A</td><td>A125</td></tr><tr><td>αa</td><td>-</td><td>M107L</td><td>L109</td></tr></table>"
+  },
+  {
+   "table_id": "img_072808_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    224.0,
+    580.0,
+    362.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_072808_t0.png",
+   "html": "<table><tr><td></td><td>CRP</td><td>IL-6</td><td>TNF</td><td>ALA</td><td>EPA</td><td>DPA</td><td>DHA</td><td>n-3</td><td>LA</td><td>DGLA</td><td>AA</td><td>n-6</td></tr><tr><td>CRP</td><td>—</td><td>0.455**</td><td>0.392**</td><td>−0.369**</td><td>−0.112</td><td>−0.224</td><td>−0.282*</td><td>−0.343**</td><td>−0.123</td><td>−0.523**</td><td>−0.255***</td><td>−0.379**</td></tr><tr><td>IL-6</td><td></td><td>—</td><td>0.780***</td><td>−0.269*</td><td>−0.185</td><td>−0.286*</td><td>−0.213</td><td>−0.308*</td><td>−0.232</td><td>−0.262*</td><td>−0.293*</td><td>−0.438**</td></tr><tr><td>TNF</td><td></td><td></td><td>—</td><td>−0.587***</td><td>−0.140</td><td>−0.197</td><td>−0.376**</td><td>−0.403**</td><td>−0.605***</td><td>−0.319**</td><td>−0.203</td><td>−0.370**</td></tr></table>"
+  },
+  {
+   "table_id": "img_072808_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    392.0,
+    580.0,
+    543.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_072808_t1.png",
+   "html": "<table><tr><td rowspan=\"2\">Days post-inoculation (DPI)</td><td rowspan=\"2\">Groups</td><td colspan=\"2\">The number of positive rabbits’ ovaries for positive- and negative-strand HEV RNA detection</td></tr><tr><td>Positive-strand HEV RNA detection</td><td>Negative-strand HEV RNA detection</td></tr><tr><td rowspan=\"2\">28 dpi</td><td>Experimental groups</td><td>1/4</td><td>0/4</td></tr><tr><td>Control groups</td><td>0/4</td><td>0/4</td></tr><tr><td rowspan=\"2\">49 dpi</td><td>Experimental groups</td><td>2/4</td><td>2/4</td></tr><tr><td>Control groups</td><td>0/4</td><td>0/4</td></tr></table>"
+  },
+  {
+   "table_id": "img_072808_t2",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    577.0,
+    580.0,
+    703.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_072808_t2.png",
+   "html": "<table><tr><td></td><td>Dachau</td><td>Zülke et al. [11]</td><td>Charny et al. [47]</td><td>Weimann et al. [42]</td></tr><tr><td></td><td>n (%)</td><td>n (%)</td><td>n (%)</td><td>n (%)</td></tr><tr><td>Atypical resection</td><td>20 (46)</td><td>15 (28)</td><td>33 (48)</td><td>84 (50)</td></tr><tr><td>Segmental resection, resection of more than one segment</td><td>19 (44)</td><td>32 (60)</td><td>12 (18)</td><td>38 (22)</td></tr><tr><td>Hemihepatectomy</td><td>4 (9)</td><td>6 (11)</td><td>23 (34)</td><td>47 (28)</td></tr><tr><td>Total</td><td>43</td><td>53</td><td>68</td><td>169</td></tr></table>"
+  },
+  {
+   "table_id": "img_072828_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    151.0,
+    580.0,
+    340.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_072828_t0.png",
+   "html": "<table><tr><td></td><td>Est</td><td>se</td><td>p-value</td></tr><tr><td>Sex</td><td></td><td></td><td></td></tr><tr><td>Male</td><td>ref</td><td></td><td></td></tr><tr><td>Female</td><td>1.57</td><td>0.01</td><td>&lt; 0.001</td></tr><tr><td>Survey Year</td><td></td><td></td><td></td></tr><tr><td>2014</td><td>ref</td><td></td><td></td></tr><tr><td>1997</td><td>-0.21</td><td>0.01</td><td>&lt; 0.001</td></tr><tr><td>Interaction</td><td></td><td></td><td></td></tr><tr><td>Survey year/sex multiplicative interaction term</td><td>0.37</td><td>0.02</td><td>&lt; 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "img_072828_t1",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    408.0,
+    580.0,
+    572.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_072828_t1.png",
+   "html": "<table><tr><td colspan=\"9\">The Best Forecasting Results</td></tr><tr><td>The Smart Home number</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>The training algorithm</td><td>BR</td><td>BR</td><td>LM</td><td>LM</td><td>BR</td><td>BR</td><td>BR</td><td>LM</td></tr><tr><td>The number of neurons in the hidden layer n</td><td>43</td><td>45</td><td>44</td><td>44</td><td>45</td><td>44</td><td>43</td><td>45</td></tr><tr><td>MSE</td><td>0.0168124</td><td>0.0169730</td><td>0.016950</td><td>0.01662157</td><td>0.0168801</td><td>0.0169599</td><td>0.0168124</td><td>0.0166215</td></tr><tr><td>R</td><td>0.9794941</td><td>0.9791961</td><td>0.974322</td><td>0.97957431</td><td>0.9795743</td><td>0.9789337</td><td>0.9795743</td><td>0.9791634</td></tr></table>"
+  },
+  {
+   "table_id": "img_072887_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    243.0,
+    580.0,
+    391.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_072887_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Concentrations (%)</td><td>Initial bagasse waste</td><td>Post vermicompost</td></tr><tr><td>Mean root length (cm)</td><td>Mean root length (cm)</td></tr><tr><td>0 (control)</td><td>3.66 ± 0.40</td><td>5.46 ± 0.41 (49.18)</td></tr><tr><td>25</td><td>3.54 ± 0.25</td><td>6.76 ± 0.36* (90.96)</td></tr><tr><td>50</td><td>3.24 ± 0.29</td><td>6.37 ± 0.21* (96.60)</td></tr><tr><td>75</td><td>2.96 ± 0.14</td><td>4.55 ± 0.31** (53.71)</td></tr><tr><td>100</td><td>2.18 ± 0.33</td><td>3.40 ± 0.17 (55.96)</td></tr></table>"
+  },
+  {
+   "table_id": "img_072887_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    434.0,
+    580.0,
+    617.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_072887_t1.png",
+   "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Mealworms</td><td colspan=\"2\">Crickets</td><td colspan=\"2\">Bees</td><td colspan=\"2\">Mean</td></tr><tr><td>Mean</td><td>SEM</td><td>Mean</td><td>SEM</td><td>Mean</td><td>SEM</td><td>Mean</td><td>SEM</td></tr><tr><td>Day1</td><td>1.22</td><td>0.32</td><td>2.85</td><td>0.10</td><td>3.00</td><td>0.00</td><td>2.47</td><td>0.16</td></tr><tr><td>Day2</td><td>2.22</td><td>0.36</td><td>2.62</td><td>0.18</td><td>2.83</td><td>0.11</td><td>2.59</td><td>0.13</td></tr><tr><td>Day3</td><td>1.67</td><td>0.33</td><td>2.08</td><td>0.26</td><td>2.50</td><td>0.23</td><td>2.12</td><td>0.16</td></tr><tr><td>Day4</td><td>2.00</td><td>0.29</td><td>1.75</td><td>0.28</td><td>2.58</td><td>0.19</td><td>2.12</td><td>0.16</td></tr><tr><td>Day5</td><td>2.00</td><td>0.29</td><td>2.36</td><td>0.15</td><td>2.27</td><td>0.30</td><td>2.23</td><td>0.14</td></tr><tr><td>Day6</td><td>1.78</td><td>0.40</td><td>2.64</td><td>0.20</td><td>2.45</td><td>0.31</td><td>2.32</td><td>0.18</td></tr><tr><td>Mean</td><td>1.81</td><td>0.14</td><td>2.39</td><td>0.09</td><td>2.61</td><td>0.09</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_073235_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    268.0,
+    580.0,
+    389.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_073235_t0.png",
+   "html": "<table><tr><td>Percent of damaged edges</td><td>AUC of GD</td><td>AUC of GA</td><td>P-value</td></tr><tr><td>10%</td><td>0.852</td><td>0.864</td><td>1.80e-03</td></tr><tr><td>30%</td><td>0.844</td><td>0.860</td><td>2.10e-03</td></tr><tr><td>50%</td><td>0.816</td><td>0.836</td><td>1.91e-04</td></tr><tr><td>70%</td><td>0.760</td><td>0.816</td><td>2.38e-04</td></tr><tr><td>90%</td><td>0.648</td><td>0.784</td><td>2.36e-05</td></tr></table>"
+  },
+  {
+   "table_id": "img_073235_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    471.0,
+    580.0,
+    619.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_073235_t1.png",
+   "html": "<table><tr><td>SAX</td><td>hh</td><td>hu</td><td>hud</td><td>ud</td><td>hh2</td><td>hu2</td></tr><tr><td>hh</td><td>49</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>hu</td><td></td><td>43</td><td></td><td></td><td></td><td></td></tr><tr><td>hud</td><td></td><td>2</td><td>52</td><td></td><td></td><td></td></tr><tr><td>ud</td><td></td><td></td><td>1</td><td>48</td><td></td><td></td></tr><tr><td>hh2</td><td></td><td></td><td></td><td></td><td>52</td><td></td></tr><tr><td>hu2</td><td></td><td></td><td></td><td></td><td></td><td>51</td></tr></table>"
+  },
+  {
+   "table_id": "img_073252_t0",
+   "page_num": 9,
+   "bbox": [
+    8.0,
+    79.0,
+    324.0,
+    477.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_073252_t0.png",
+   "html": "<table><tr><td>Objective</td><td>Model/tissue type</td><td>Early stress/assessment age</td><td>Epigenetic and expression changes</td><td>Interpretation</td><td>References</td></tr><tr><td>Determine the effect of childhood SES on genome-wide methylation in adulthood</td><td>RetrospectivePeripheral blood DNA</td><td>High vs low childhood SESAssessed: 45 yrs.N = 40 M</td><td>666 gene promoters ↑ and 586 promoters ↓ methylation in high vs low childhood SESThe genes involved fall into extra and intracellular signalling, DNA signalling and metabolic signalling categories.</td><td>Variations in childhood SES cause changes in genome-wide methylation in adulthood with genes in extra and intra cellular signalling and metabolic functioning</td><td>[79]</td></tr><tr><td>Determine the effect of early environment on genome-wide methylation levels</td><td>RetrospectivePeripheral blood DNA</td><td>Institutional care vs raised by biological parentsAssessed: mean 8.25 yrs. N = 28</td><td>Differential methylation of 914 of 26,214 CpG sites from 838 gene promoters across groupsa↑ methylation of 744 promoters in institutionalised↓ methylation of 94 promoters in institutionalisedPromoters mainly involved in control of cellular signalling and the immune response</td><td>Early environmental alterations cause changes in methylation of a number of genes important for control of cellular signalling and the immune response in childhood</td><td>[77]</td></tr><tr><td rowspan=\"2\">Determine the effect of childhood abuse on genome-wide DNA methylation</td><td>RetrospectiveHippocampus</td><td>CA + suicide vs no CA + suicideAssessed: adulthoodN = 41 M</td><td>Differentially methylated promoters in CA vs no CA were spread across the genome248 (68.5 %) promoters ↑ methylation in CA114 (31.5 %) promoters ↓ methylation in CA↑ methylation associated w ↓ mRNA exp</td><td>Childhood abuse causes alteration in the methylation of gene promoters and mRNA exp in adulthood specifically genes involved in neuronal plasticity</td><td>[93]</td></tr><tr><td>RetrospectivePeripheral blood DNA</td><td>PTSD + CA vs PTSD + no CAAssessed: mean age CA = 39.6 yrs.No CA = 43.69N = 61</td><td>Differential methylation in promoters of abused vs non-abused PTSD patients↑ methylation in transcripts of PTSD + CA group (11.78 %) vs PTSD + no CA (0.8 %)14 transcripts differentially methylated in CA vs no CA</td><td>Childhood abuse causes alteration to the methylation of CpG sites in both promoter regions and gene body and include specifically genes involved in CNS development in the abused PTSD group</td><td>[80]</td></tr><tr><td>Determine the effect of childhood abuse in methylation status of immune system and cytokine regulation</td><td>RetrospectivePeripheral blood DNA</td><td>PTSD + CA, PTSD + no CA, C + CA, C + no CAAssessed: adulthoodN = 110</td><td>↑ global methylation in PTSD vs C↔ methylation due to CA in PTSD or CGene specific associations with found in BDNF, HSF1, TLR8 for PTSD and CA↑plasma TNFα in CA vs no CA</td><td>Childhood abuse early in life can alter global and gene specific DNA methylation patterns specifically involved in immune dysregulation</td><td>[81]</td></tr></table>"
+  },
+  {
+   "table_id": "img_073252_t1",
+   "page_num": 9,
+   "bbox": [
+    8.0,
+    485.0,
+    324.0,
+    601.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_073252_t1.png",
+   "html": "<table><tr><td>Score</td><td>Presence of surface DNA</td><td>Invasion into the template</td><td>Degree of neutrophil degeneration</td></tr><tr><td>1</td><td>DNA adherent to some surfaces of the template</td><td>Slight invasion into the template near a fold or defect in the template</td><td>Most invading neutrophils non-degenerative</td></tr><tr><td>2</td><td>DNA adherent to most surfaces of the template</td><td>Slight invasion into the template</td><td>Many invading neutrophils non-degenerative</td></tr><tr><td>3</td><td>Dense DNA layer adherent to some surfaces of the template</td><td>Moderate invasion with reduced invasion toward the center of the template</td><td>Occasional invading neutrophils non-degenerative</td></tr><tr><td>4</td><td>Dense DNA layer adherent to most surfaces of the template</td><td>Moderate invasion throughout the thickness of the membrane</td><td>Few non-degenerating neutrophils not deeply invaded</td></tr><tr><td>5</td><td>Conspicuous, dense DNA layer adherent to the surfaces of the template</td><td>Dense invasion throughout the thickness of the membrane</td><td>Diffuse degenerating neutrophils near the surface of defect in the template.</td></tr></table>"
+  },
+  {
+   "table_id": "img_073283_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    220.0,
+    580.0,
+    347.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_073283_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Test samples</td><td colspan=\"3\">IC50 values (μg/mL)</td></tr><tr><td>HeLa</td><td>HepG2</td><td>HT-29</td></tr><tr><td>P. cylindraceus</td><td>3.97 ± 0.13 d</td><td>3.88 ± 0.06 c</td><td>3.91 ± 0.15 c</td></tr><tr><td>P. asirensis</td><td>7.51 ± 0.48 b</td><td>7.19 ± 0.74 a</td><td>6.82 ± 0.65 b</td></tr><tr><td>P. barbatus</td><td>4.97 ± 0.15 c</td><td>4.99 ± 0.17 b</td><td>4.93 ± 0.1 c</td></tr><tr><td>Dasatamib</td><td>5.57 ± 0.17 a</td><td>4.05 ± 0.21 b</td><td>5.24 ± 0.18 b</td></tr></table>"
+  },
+  {
+   "table_id": "img_073283_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    414.0,
+    580.0,
+    583.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_073283_t1.png",
+   "html": "<table><tr><td>GO Category</td><td>GO ID</td><td>GO Annotation</td><td>Genes</td><td>P-value</td></tr><tr><td>Biological Process</td><td>GO:0050772</td><td>positive regulation of axonogenesis</td><td>DSCAM, TIAM1</td><td>0.000000736</td></tr><tr><td>Biological Process</td><td>GO:0031346</td><td>positive regulation of cell projection organization</td><td>DSCAM, TIAM1</td><td>0.000005400</td></tr><tr><td>Biological Process</td><td>GO:0048013</td><td>ephrin receptor signaling pathway</td><td>TIAM1</td><td>0.000024800</td></tr><tr><td>Biological Process</td><td>GO:0031344</td><td>regulation of cell projection organization</td><td>DSCAM, TIAM1</td><td>0.000030600</td></tr><tr><td>Biological Process</td><td>GO:0009886</td><td>post-embryonic morphogenesis</td><td>DSCAM</td><td>0.000038400</td></tr><tr><td>Biological Process</td><td>GO:0048841</td><td>regulation of axon extension involved in axon guidance</td><td>DSCAM</td><td>0.000045900</td></tr><tr><td>Molecular Function</td><td>GO:0046875</td><td>ephrin receptor binding</td><td>TIAM1</td><td>0.000053600</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_042",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    192.0
+   ],
+   "ocr": "Group Cytokine production (pg/mL)\nIFN-γ IL-12(p70) IL-10 IL-4\npVAX-TgCDPK2 694.56 ± 76.72* 334.51 ± 7.52* 421 ± 23.25* 11.75 ± 2.98\npVAX I 104.63 ± 28.39 < 15 < 15 11.29 ± 4.45\nPBS 89.14 ± 20.14 < 15 < 15 13.17 ± 0.98\nBlank control 62.14 ± 26.92 < 15 < 15 11.67 ± 3.21",
+   "table_id": "img_046769_t0"
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    207.0,
+    580.0,
+    348.0
+   ],
+   "ocr": "Covariate N Studies Coefficient (95% CI) p value\nMean study age 6 0.003 (−0.009, 0.014) 0.052\nStudy age criteria (under 22 or over 18) 6 0.067 (−0.365, 0.499) 0.691\nType I or type II diabetes 5 −0.05 (−0.74, 0.63) 0.825\nMale (percent) 6 0.002 (−0.006, 0.010) 0.522\nStudy design 6 0.062 (−0.483, 0.608) 0.767\nDuration smoked Not reported N/A N/A",
+   "table_id": "img_046769_t1"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    364,
+    580,
+    438
+   ],
+   "ocr": "The first table presents cytokine production in pg/mL across four groups: for the group pVAX-TgCDPK2, the values are IFN-γ at 694.56 ± 76.72*, IL-12(p70) at 334.51 ± 7.52*, IL-10 at 421 ± 23.25*, and IL-4 at 11.75 ± 2.98; for the group pVAX I, IFN-γ is 104.63 ± 28.39, IL-12(p70) is < 15, IL-10 is < 15, and IL-4 is 11.29 ± 4.45; for the PBS group, IFN-γ is 89.14 ± 20.14, IL- 12(p70) is < 15, IL-10 is < 15, and IL-4 is 13.17 ± 0.98; and for the Blank control, IFN-γ is 62.14 ± 26.92, IL-12(p70) is < 15, IL-10 is < 15, and IL-4 is 11.67 ± 3.21."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    426,
+    580,
+    530
+   ],
+   "ocr": "The second table details various covariates affecting study outcomes, with the mean study age showing N Studies of 6, a Coefficient (95% CI) of 0.003 (−0.009, 0.014), and a p value of 0.052; study age criteria (under 22 or over 18) also has N Studies of 6, a Coefficient (95% CI) of 0.067 (−0.365, 0.499), and a p value of 0.691; type I or type II diabetes shows N Studies of 5, a Coefficient (95% CI) of −0.05 (−0.74, 0.63), and a p value of 0.825; male (percent) has N Studies of 6, a Coefficient (95% CI) of 0.002 (−0.006, 0.010), and a p value of 0.522; study design indicates N Studies of 6, a Coefficient (95% CI) of 0.062 (−0.483, 0.608), and a p value of 0.767; while duration smoked is not reported, marked as N/A for both Coefficient and p value."
+  }
+ }
+}

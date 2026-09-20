@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_031",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in Table 1 provides critical insights into the performance metrics of the DGfield system during both validation and training phases. These metrics are vital for assessing the efficacy of the system in real-world applications."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    109
+   ],
+   "ocr": "Specifically, the daily gain, indicated by the values under the \"Training\" and \"Validation\" columns, illustrates the system's ability to adapt and improve over time."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    485.0
+   ],
+   "ocr": "Trait Abbreviation Complete pedigrees Short pedigrees\nValidation Training Validation Training\nDaily gain, field test records DGfield 0.92 0.81 0.92 0.76\nDaily gain, on station test records DGstation 0.82 0.79 0.79 0.73\nCarcass lean content, estimated with Bonner formulae CLCBonn 0.76 0.78 0.68 0.70\nCarcass lean content, FOM records CLCFOM 0.90 0.78 0.88 0.72\nShoulder weight, AutoFOM records SW 0.78 0.69 0.71 0.60\nBelly weight, AutoFOM records BW 0.77 0.69 0.71 0.61\nBelly lean content, AutoFOM records BLC 0.83 0.74 0.79 0.67\nHam weight, AutoFOM records HW 0.79 0.72 0.73 0.65\nLoin weight, AutoFOM records LW 0.74 0.68 0.63 0.59\nLoin eye area LEA 0.71 0.76 0.58 0.68\nCarcass length CL 0.62 0.72 0.39 0.59\npH value, loin, 45 min. p.m. pH1 0.60 0.70 0.25 0.52\nIntramuscular fat content IMF 0.55 0.53 0.22 0.36\nDrip loss Drip 0.59 0.67 0.24 0.50\nMean 0.74 0.72 0.61 0.62",
+   "table_id": "img_034808_t0"
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    501,
+    580,
+    559
+   ],
+   "ocr": "For instance, the training daily gain achieved a noteworthy figure of 0.92, while the validation daily gain recorded a slightly lower value of 0.81. This discrepancy suggests that while the model performs optimally with the training data, there may be areas for enhancement when applied to validation scenarios. Such differences can be crucial for further refining the system and ensuring its robustness in field tests."
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    547,
+    580,
+    620
+   ],
+   "ocr": "Additionally, the consistent performance across both phases indicates a level of reliability that can be expected from DGfield in practical applications. It is essential to continue monitoring these metrics over time to ascertain long-term performance trends and to implement necessary adjustments in the system's algorithms or training techniques. Future analyses will focus on understanding the factors contributing to the observed validation training gap and optimizing them accordingly."
+  }
+ }
+}

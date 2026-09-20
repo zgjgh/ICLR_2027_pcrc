@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_270",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    220.4,
+    64.4
+   ],
+   "ocr": "BMC Public Health 2006, 6:25"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2458/6/25"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    397.8,
+    118.9
+   ],
+   "ocr": "Table 2: Under and over-treatment categories used for the evaluation"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    400.6,
+    107.2,
+    488.5,
+    118.9
+   ],
+   "ocr": "of appropriateness"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    656.3,
+    313.3
+   ],
+   "ocr": "pT Surgery Linfoadenectomy Stage SI\nprocedures\nUnder-treatment\nT1 T2 T3 85.2* no I IIa IIb IIIa IIIb IV 2 3 4\nCase a) T1 T2 T3 85.41–85.42 no I IIa IIb IIIa IIIb IV 2 3 4\nT2 T3 85.2* yes IIa IIb IIIa IIIb 3 4\nT4 85.2*, 85.41–85.44 IIIb 4\nOver-treatment\nTis 85.4* yes 0 1\nTis 85.2* yes 0 1\nCase b) T1 T2 T3 85.45–85.48 I IIa IIb IIIa IIIb 2 3\nT1§ 85.41–85.44 I 2",
+   "table_id": "PMC1420286_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    329.6,
+    387.0,
+    922.4
+   ],
+   "ocr": "§this case represents an over-treatment only if happens in more than 15% Example: a) case with tumor size T3, independently on the stage, who undergoes to classified as under-treated b) radical mastectomy (85.45–85.48) in a case with a tumor size less than vant information onto a two part ad hoc schedule. The first part requested both non-coded diagnoses and ICD-9-CM coding from the HDR; the second part contained clinical and anatomy-pathology parameters, including tumor size (pT), and diagnostic results to calculate the stage of the tumor (TNM) [5]. Definition of variables A) Indicators of tumor severity Tumor size Size (pT) is classified into the following categories accord- ing to pathology reports included in clinical charts: Tis for carcinoma in situ/Paget, T0 for \"no evidence\" of a local lesion; T1 for tumors up to 2 cm in diameter; T2 for tumors from 2 to 5 cm; T3 for tumors greater than 5 cm, and T4 for tumors that have spread into surrounding tis- sue [5]. TNM staging system The TNM stage was determined from clinical charts; this defines five stages of breast cancer severity (from 0 to IV) based on the size, but also on other characteristics of the tumor, positive lymph nodes, and other sites of metastasis [5]. Consequently, some categories correspond to tumor size, while others do not. For example, a tumor up to 2 cm in size (T1) with positive lymph-nodes is equivalent to a bigger tumor (>T1) without positive lymph nodes. Severity indicator (SI) based on the HIS diagnosis The severity indicator we used is a modified version of the indicator defined by Kahn et al [23], based on specific ICD9 codes for breast cancer. It allows breast cancer cases to be classified into 4 levels of clinical severity, from the primary and secondary diagnoses reported in the HIS"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.8,
+    329.6,
+    698.4,
+    981.2
+   ],
+   "ocr": "of the T1 cancers treated intervention 85.41 (simple mastectomy) and no linfoadenectomy, is T4, is always considered as an over-treatment (table 1). First level (I): tumors in situ; second level (II): localized tumors; third level (III): non-localized tumors with loco-regional metastasis; IV: non-localized tumors with distant metastasis. The SI groups tumors according to their princi- pal characteristics (localized/not-localized; presence/ absence of metastasis) like the TNM system, but does not include tumour size(pT). B) Indicators of intervention appropriateness We referred to treatment Italian guidelines for breast can- cer [5], which indicate - conservative surgery for tumors up to 2 cm (for at least 80% of cases); - Halsted mastectomy only for tumors that have infiltra- tion of the thoracic wall; - radical excision of auxiliary lymph nodes (or possibly the search for sentinel lymph nodes in accredited hospi- tals) in all cases except for tumors in situ. According to the above criteria and to the review of clini- cal charts interventions which varied from these indica- tions were classified as \"under-treatments\" or \"over- treatments\". Table 2 shows the definitions of over- and under- treatment using the three aforementioned indica- tors of tumor severity (pT, TNM, SI). Data analysis The agreement between SI and TNM classifications and between SI and pT classifications (Intraclass correlation coefficient, Spearman's Rho) [26] were determined. We compared their ability to classify the appropriateness of Page 3 of 8 (page number not for citation purposes)"
+  }
+ }
+}

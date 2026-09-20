@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_033",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "In the analysis presented in Table 1, the variable Age at diagnosis shows a univariate relative risk (RR) of 4.012 with a 95% confidence interval (CI) of 1.895 to 8.493 and a P value of < 0.001, while the multivariate RR is 2.175 with a 95% CI of 0.607 to 7.792 and a P value of 0.233. Clinical stage reveals an univariate RR of 10.686 (95% CI: 3.842 – 29.719, P < 0.001) and a multivariate RR of 2.376 (95% CI: 0.527 – 10.716, P = 0.260)."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    171
+   ],
+   "ocr": "MYCN status presents an univariate RR of 3.723 (95% CI: 2.195 – 6.315, P < 0.001) and a multivariate RR of 2.191 (95% CI: 1.120 – 4.286, P = 0.022). MDA5 expression indicates an univariate RR of 4.718 (95% CI: 2.080 – 10.705, P < 0.001) and a multivariate RR of 2.811 (95% CI: 1.127 – 7.013, P = 0.027). Histology shows an univariate RR of 3.604 (95% CI: 2.037 – 6.376, P < 0.001) and a multivariate RR of 1.353 (95% CI: 0.680 – 2.695, P = 0.389). Table 2 details analysis of variance with sources including Line (d.f."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    188.0,
+    580.0,
+    336.0
+   ],
+   "ocr": "Variable Univariate analysis Multivariate analysis\nRR 95% CI P value RR 95% CI P value\nAge at diagnosis: > 1.5 year versus ≤ 1.5 year 4.012 1.895 – 8.493 < 0.001 2.175 0.607 – 7.792 0.233\nClinical stage: advanced (3, 4) versus early (1, 2, 4S) 10.686 3.842 – 29.719 < 0.001 2.376 0.527 – 10.716 0.260\nMYCN: amplified versus non-amplified 3.723 2.195 – 6.315 < 0.001 2.191 1.120 – 4.286 0.022\nMDA5 expression: negative versus positive 4.718 2.080 – 10.705 < 0.001 2.811 1.127 – 7.013 0.027\nHistology: unfavorable versus favorable 3.604 2.037 – 6.376 < 0.001 1.353 0.680 – 2.695 0.389",
+   "table_id": "img_036659_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    351.0,
+    580.0,
+    474.0
+   ],
+   "ocr": "Source d.f. MS F P\nLine 3 0.048 3.723 0.150\nCactus 1 0.014 1.273 0.336\nLine × Cactus 3 0.014 7.539 0.001\nWing Length 1 0.001 0.806 0.372\nError 79 0.002",
+   "table_id": "img_036659_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    490,
+    507,
+    502
+   ],
+   "ocr": "3, MS 0.048, F 3.723, P 0.150), Cactus (d.f. 1, MS 0.014, F 1.273, P 0.336), Line × Cactus interaction (d.f."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    490,
+    580,
+    518
+   ],
+   "ocr": "3, MS 0.014, F 7.539, P 0.001), Wing Length (d.f. 1, MS 0.001, F 0.806, P 0.372), and Error (d.f. 79, MS 0.002)."
+  }
+ }
+}

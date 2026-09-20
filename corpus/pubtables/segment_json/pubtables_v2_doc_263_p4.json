@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_263",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    98.5,
+    45.8,
+    659.1,
+    59.3
+   ],
+   "ocr": "Pullen and Oser Page 25"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    24.2,
+    99.3,
+    602.3,
+    180.5
+   ],
+   "ocr": "Table 4. Regression predicting health matters network mean discussion frequency at follow-up with baseline Author"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    104.7,
+    172.2,
+    539.5,
+    577.0
+   ],
+   "ocr": "Variables Model 1 Model 2 Model 3 Model 4 Model 5\nDemographics\nAge (tens of years) 0.10 (0.06) 0.10 (0.06) 0.07 (0.06) 0.08 (0.05) 0.08 (0.06)\nMarried/Living as Married 0.05 (0.17) 0.07 (0.17) 0.01 (0.17) −0.02 (0.17) −0.05 (0.17)\nIncome (tens of thousands) * * * * −0.01 (0.01)\n−0.01 (0.01) −0.01 (0.01) −0.01 (0.01) −0.01 (0.01)\nEducation (years) −0.01 (0.03) −0.01 (0.03) −0.01 (0.03) −0.01 (0.03) 0.01 (0.03)\nCriminal Justice Status\nPrison 0.05 (0.16) — — — 0.06 (0.16)\nProbation * — — — *\n0.33 (0.16) 0.34 (0.16)\nSubstance Use\nAlcohol Use (Intoxication) — 0.33 (0.17) — — 0.13 (0.17)\nCrack/Cocaine Use — −0.18 (0.18) — — −0.11 (0.18)\nDaily Tobacco Use — 0.19 (0.13) — — 0.14 (0.13)\nPhysical Health\nBMI — — (0.01)** — (0.01)*\n0.02 0.02\nExercise (days/week) — — 0.03 (0.02) — 0.03 (0.02)\nOther Health Status\nDepression (2 weeks +) — — — (0.15)* (0.15)*\n0.40 0.32\nOvernight Hospital Stay — — — (0.24)* (0.23)*\n0.51 0.50\nNumber of Observations 265 264 264 264 264\nF 2.28* 1.54 2.70* 3.31** 2.76**\nAdjusted R2 0.03 0.01 0.04 0.05 0.08",
+   "table_id": "PMC6231576_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    97.6,
+    589.6,
+    274.5,
+    626.2
+   ],
+   "ocr": "Coefficients and standard errors are presented; *="
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    24.2,
+    611.7,
+    45.0,
+    685.9
+   ],
+   "ocr": "Manuscript"
+  },
+  "p4_b5": {
+   "type": "title",
+   "bbox": [
+    97.6,
+    613.6,
+    144.9,
+    650.2
+   ],
+   "ocr": "p < 0.05; **="
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    97.6,
+    637.6,
+    149.7,
+    674.2
+   ],
+   "ocr": "p < 0.01; ***="
+  },
+  "p4_b7": {
+   "type": "title",
+   "bbox": [
+    119.5,
+    661.6,
+    158.9,
+    674.2
+   ],
+   "ocr": "p < 0.001."
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    24.2,
+    776.8,
+    503.1,
+    913.7
+   ],
+   "ocr": "Author Manuscript Soc Sci (Basel). Author manuscript; available in PMC 2018 November 12."
+  }
+ }
+}

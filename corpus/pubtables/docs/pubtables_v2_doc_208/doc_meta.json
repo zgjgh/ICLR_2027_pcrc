@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_208",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4943604_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    114.2,
+    719.7,
+    274.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4943604_table_0.png",
+   "html": "<table><tr><td>Agent</td><td>Responsibility</td></tr><tr><td>Alphas</td><td>Decision making for the whole pack regarding hunting, sleeping,. . .etc.</td></tr><tr><td>Beta</td><td>Help the alpha in decision-making and candidate to be the alpha.</td></tr><tr><td>Delta</td><td>This group have many rules and classes such as: &#8226; Scouts: Responsible for watching the boundaries of the territory and warning the pack in case of any danger. &#8226; Sentinels protect and guarantee the safety of the pack. &#8226; Elders are the experienced wolves who used to be alpha or beta. &#8226; Hunters help the alphas and betas when hunting prey and providing food for the pack. &#8226; Caretakers are responsible for caring for the weak, ill, and wounded wolves in the pack.</td></tr><tr><td>Omega</td><td>Babysitters in the pack and it is the last wolf allowed eating.</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4943604_table_1",
+   "page_num": 2,
+   "bbox": [
+    295.8,
+    114.2,
+    679.4,
+    458.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4943604_table_1.png",
+   "html": "<table><tr><td>Data set</td><td>No. features</td><td>No. instances</td></tr><tr><td>Lymphography</td><td>18</td><td>148</td></tr><tr><td>WineEW</td><td>13</td><td>178</td></tr><tr><td>BreastEW</td><td>30</td><td>569</td></tr><tr><td>Breastcancer</td><td>9</td><td>699</td></tr><tr><td>Clean1</td><td>166</td><td>476</td></tr><tr><td>Clean2</td><td>166</td><td>6598</td></tr><tr><td>CongressEW</td><td>16</td><td>435</td></tr><tr><td>Exactly</td><td>13</td><td>1000</td></tr><tr><td>Exactly2</td><td>13</td><td>1000</td></tr><tr><td>HeartEW</td><td>13</td><td>270</td></tr><tr><td>IonosphereEW</td><td>34</td><td>351</td></tr><tr><td>KrvskpEW</td><td>36</td><td>3196</td></tr><tr><td>M-of-n</td><td>13</td><td>1000</td></tr><tr><td>PenglungEW</td><td>325</td><td>73</td></tr><tr><td>Semeion</td><td>265</td><td>1593</td></tr><tr><td>SonarEW</td><td>60</td><td>208</td></tr><tr><td>SpectEW</td><td>22</td><td>267</td></tr><tr><td>Tic-tac-toe</td><td>9</td><td>958</td></tr><tr><td>Vote</td><td>16</td><td>300</td></tr><tr><td>WaveformEW</td><td>40</td><td>5000</td></tr><tr><td>Zoo</td><td>16</td><td>101</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4943604_table_2",
+   "page_num": 3,
+   "bbox": [
+    291.2,
+    114.2,
+    683.9,
+    268.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4943604_table_2.png",
+   "html": "<table><tr><td>Parameter</td><td>Value(s)</td></tr><tr><td>No. of search agents</td><td>8</td></tr><tr><td>No. of iterations</td><td>100</td></tr><tr><td>Problem dimension</td><td>No. of features in the data</td></tr><tr><td>Search domain</td><td>[0 1]</td></tr><tr><td>No. Repetitions of runs</td><td>20</td></tr><tr><td>&#945; parameter in the fitness function</td><td>[0.9, 0.99]</td></tr><tr><td>&#946; parameter in the fitness function</td><td>1&#8212;[0.9, 0.99]</td></tr><tr><td>inertia factor of PSO</td><td>0.1</td></tr><tr><td>an individual-best acceleration factor of PSO</td><td>0.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4943604_table_3",
+   "page_num": 4,
+   "bbox": [
+    87.2,
+    529.3,
+    681.1,
+    873.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4943604_table_3.png",
+   "html": "<table><tr><td>Data</td><td>CALO-SING</td><td>ALO</td><td>PSO</td><td>CALO-SIN</td></tr><tr><td>Breastcancer</td><td>0.444</td><td>0.519</td><td>0.519</td><td>0.481</td></tr><tr><td>BreastEW</td><td>0.500</td><td>0.478</td><td>0.456</td><td>0.522</td></tr><tr><td>Clean1</td><td>0.329</td><td>0.456</td><td>0.462</td><td>0.442</td></tr><tr><td>Clean2</td><td>0.510</td><td>0.679</td><td>0.518</td><td>0.661</td></tr><tr><td>CongressEW</td><td>0.104</td><td>0.167</td><td>0.375</td><td>0.200</td></tr><tr><td>Exactly</td><td>0.564</td><td>0.641</td><td>0.615</td><td>0.569</td></tr><tr><td>Exactly2</td><td>0.538</td><td>0.077</td><td>0.385</td><td>0.282</td></tr><tr><td>HeartEW</td><td>0.718</td><td>0.590</td><td>0.538</td><td>0.667</td></tr><tr><td>IonosphereEW</td><td>0.069</td><td>0.088</td><td>0.402</td><td>0.401</td></tr><tr><td>KrvskpEW</td><td>0.550</td><td>0.583</td><td>0.426</td><td>0.569</td></tr><tr><td>Lymphography</td><td>0.333</td><td>0.315</td><td>0.407</td><td>0.204</td></tr><tr><td>M-of-n</td><td>0.615</td><td>0.795</td><td>0.590</td><td>0.674</td></tr><tr><td>PenglungEW</td><td>0.089</td><td>0.190</td><td>0.425</td><td>0.317</td></tr><tr><td>Semeion</td><td>0.377</td><td>0.519</td><td>0.472</td><td>0.447</td></tr><tr><td>SonarEW</td><td>0.506</td><td>0.528</td><td>0.439</td><td>0.456</td></tr><tr><td>SpectEW</td><td>0.121</td><td>0.318</td><td>0.333</td><td>0.242</td></tr><tr><td>Tic-tac-toe</td><td>0.667</td><td>0.889</td><td>0.556</td><td>0.826</td></tr><tr><td>Vote</td><td>0.104</td><td>0.208</td><td>0.458</td><td>0.317</td></tr><tr><td>WaveformEW</td><td>0.733</td><td>0.883</td><td>0.575</td><td>0.767</td></tr><tr><td>WineEW</td><td>0.667</td><td>0.667</td><td>0.590</td><td>0.592</td></tr><tr><td>Zoo</td><td>0.375</td><td>0.479</td><td>0.354</td><td>0.417</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4943604_table_4",
+   "page_num": 5,
+   "bbox": [
+    86.5,
+    117.1,
+    681.8,
+    461.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4943604_table_4.png",
+   "html": "<table><tr><td>Data</td><td>CGWO-SING</td><td>ALO</td><td>PSO</td><td>CGWO-SIN</td></tr><tr><td>Breastcancer</td><td>0.444</td><td>0.519</td><td>0.519</td><td>0.519</td></tr><tr><td>BreastEW</td><td>0.367</td><td>0.478</td><td>0.456</td><td>0.267</td></tr><tr><td>Clean1</td><td>0.263</td><td>0.456</td><td>0.462</td><td>0.315</td></tr><tr><td>Clean2</td><td>0.259</td><td>0.679</td><td>0.518</td><td>0.373</td></tr><tr><td>CongressEW</td><td>0.354</td><td>0.167</td><td>0.375</td><td>0.125</td></tr><tr><td>Exactly</td><td>0.410</td><td>0.641</td><td>0.615</td><td>0.410</td></tr><tr><td>Exactly2</td><td>0.205</td><td>0.077</td><td>0.385</td><td>0.154</td></tr><tr><td>HeartEW</td><td>0.359</td><td>0.590</td><td>0.538</td><td>0.385</td></tr><tr><td>IonosphereEW</td><td>0.255</td><td>0.088</td><td>0.402</td><td>0.304</td></tr><tr><td>KrvskpEW</td><td>0.250</td><td>0.583</td><td>0.426</td><td>0.370</td></tr><tr><td>Lymphography</td><td>0.241</td><td>0.315</td><td>0.407</td><td>0.204</td></tr><tr><td>M-of-n</td><td>0.487</td><td>0.795</td><td>0.590</td><td>0.487</td></tr><tr><td>PenglungEW</td><td>0.191</td><td>0.190</td><td>0.425</td><td>0.160</td></tr><tr><td>Semeion</td><td>0.338</td><td>0.519</td><td>0.472</td><td>0.341</td></tr><tr><td>SonarEW</td><td>0.256</td><td>0.528</td><td>0.439</td><td>0.261</td></tr><tr><td>SpectEW</td><td>0.182</td><td>0.318</td><td>0.333</td><td>0.212</td></tr><tr><td>Tic-tac-toe</td><td>0.593</td><td>0.889</td><td>0.556</td><td>0.556</td></tr><tr><td>Vote</td><td>0.208</td><td>0.208</td><td>0.458</td><td>0.188</td></tr><tr><td>WaveformEW</td><td>0.392</td><td>0.883</td><td>0.575</td><td>0.375</td></tr><tr><td>WineEW</td><td>0.410</td><td>0.667</td><td>0.590</td><td>0.410</td></tr><tr><td>Zoo</td><td>0.271</td><td>0.479</td><td>0.354</td><td>0.313</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4943604_table_5",
+   "page_num": 5,
+   "bbox": [
+    87.0,
+    534.5,
+    681.2,
+    878.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4943604_table_5.png",
+   "html": "<table><tr><td>Data</td><td>CMFO-SING</td><td>ALO</td><td>PSO</td><td>CMFO-SIN</td></tr><tr><td>Breastcancer</td><td>0.407</td><td>0.519</td><td>0.519</td><td>0.481</td></tr><tr><td>BreastEW</td><td>0.489</td><td>0.478</td><td>0.456</td><td>0.467</td></tr><tr><td>Clean1</td><td>0.500</td><td>0.456</td><td>0.462</td><td>0.490</td></tr><tr><td>Clean2</td><td>0.528</td><td>0.679</td><td>0.518</td><td>0.514</td></tr><tr><td>CongressEW</td><td>0.542</td><td>0.167</td><td>0.375</td><td>0.479</td></tr><tr><td>Exactly</td><td>0.718</td><td>0.641</td><td>0.615</td><td>0.513</td></tr><tr><td>Exactly2</td><td>0.513</td><td>0.077</td><td>0.385</td><td>0.385</td></tr><tr><td>HeartEW</td><td>0.615</td><td>0.590</td><td>0.538</td><td>0.513</td></tr><tr><td>IonosphereEW</td><td>0.412</td><td>0.088</td><td>0.402</td><td>0.471</td></tr><tr><td>KrvskpEW</td><td>0.435</td><td>0.583</td><td>0.426</td><td>0.472</td></tr><tr><td>Lymphography</td><td>0.389</td><td>0.315</td><td>0.407</td><td>0.407</td></tr><tr><td>M-of-n</td><td>0.487</td><td>0.795</td><td>0.590</td><td>0.462</td></tr><tr><td>PenglungEW</td><td>0.456</td><td>0.190</td><td>0.425</td><td>0.416</td></tr><tr><td>Semeion</td><td>0.501</td><td>0.519</td><td>0.472</td><td>0.494</td></tr><tr><td>SonarEW</td><td>0.517</td><td>0.528</td><td>0.439</td><td>0.422</td></tr><tr><td>SpectEW</td><td>0.485</td><td>0.318</td><td>0.333</td><td>0.318</td></tr><tr><td>Tic-tac-toe</td><td>0.556</td><td>0.889</td><td>0.556</td><td>0.556</td></tr><tr><td>Vote</td><td>0.604</td><td>0.208</td><td>0.458</td><td>0.292</td></tr><tr><td>WaveformEW</td><td>0.525</td><td>0.883</td><td>0.575</td><td>0.575</td></tr><tr><td>WineEW</td><td>0.564</td><td>0.667</td><td>0.590</td><td>0.436</td></tr><tr><td>Zoo</td><td>0.458</td><td>0.479</td><td>0.354</td><td>0.479</td></tr></table>"
+  }
+ ]
+}

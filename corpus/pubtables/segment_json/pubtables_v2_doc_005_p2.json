@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_005",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.7,
+    678.3,
+    54.4
+   ],
+   "ocr": "Rabbi and Mazzuco Genus (2018) 74:18 Page 11 of 28"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    111.0,
+    602.0,
+    731.1
+   ],
+   "ocr": "and Miller (2001), we started the fitting from 1950. For coherent forecasting, we used the common fitting period of 1970 to 2010 for all the countries. We used the life tables con- structed up to age 100 for model fitting and forecasting due to the lack of data for most of the countries at later age groups. Results Comparison of mortality projection models for the nine selected CEE countries Forty years ahead point forecasts of life expectancy at birth obtained using all the methods are given in Table 2. In Table 2, forecast of life expectancy is presented only for the models for which the 40 years ahead forecast is higher than the last observed life expectancy. The results of the different types of models are discussed later. LC and HU variants BMS produced the most optimistic forecast of life expectancy for three Baltic countries and Slovakia. HUR produced the highest forecast for the Ukraine; the UN forecast was the highest for Russia, and for rest of the countries, HUW produced the most optimistic point forecast of life expectancy. In addition to other exceptional cases, all the models produced lower forecasts than the last observed life expectancy for Belarus, Russia, and Ukraine, the countries with the highest mortality levels. Only HUW could produce a higher forecast of life expectancy than the last observed e0 for Belarus; all other methods extrapolated lower or almost equal future life expectancy. For Russia and Ukraine, the HUR method was appropriate in this sense (for Ukraine, HUW was also appropriate). The results of HU variants show a better fit. This is attributable to smoothing and the implications of more than one principal component to explain the higher variation (Hyndman and Ullah 2007). HUR is proposed to give a better fit and optimistic forecast in the presence of outliers during fitting period, which is very common for all these countries. For illustration, the observed female mortality rates for Russia and Ukraine are given in Fig. 1 for the fitting period. Although HUW produced an optimistic forecast for Belarus and Ukraine, still the results are the subject to analyze. HUW is employed for countries with long time series data, which was not the case for these countries. Similarly, despite providing more optimistic forecasts and greater forecast accuracy than the other methods, forecasts using HUR are affected by unusual improvements in age-specific mortality patterns more than forecasts Table 2 Comparison of 40 years ahead life expectancy forecast for selected countries with high mortality"
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    736.4,
+    601.7,
+    886.8
+   ],
+   "ocr": "Country e0 LC LCP LM BMS HU HUR HUW LL UN\nBelarus 78.43 – – 78.43 – – – 80.79 – 79.95\nBulgaria 77.25 82.16 79.77 80.24 79.76 78.49 80.83 82.61 77.55 80.63\nEstonia 81.33 85.98 85.99 86.19 91.00 84.19 82.74 84.95 84.71 85.70\nHungary 79.24 83.16 83.05 83.68 85.98 84.64 82.99 87.81 82.60 83.54\nLatvia 78.73 81.87 81.76 81.92 86.37 81.30 81.76 82.31 80.10 82.43\nLithuania 79.37 82.31 81.05 81.93 85.20 80.37 80.09 82.70 81.63 82.76\nRussia 76.48 – – – – – 77.82 – – 79.08\nSlovakia 80.32 84.91 84.65 84.66 86.24 83.93 83.64 84.17 82.37 84.44\nUkraine 76.21 – – – – – 80.19 78.64 – 79.24",
+   "table_id": "PMC6223892_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    892.8,
+    441.4,
+    924.8
+   ],
+   "ocr": "Results are shown for females only. e0 is the last observed life expectancy during the fitting period from HMD (Table 1). A blank place means the forecast of e0 was lower than the last observed value of e0."
+  }
+ }
+}

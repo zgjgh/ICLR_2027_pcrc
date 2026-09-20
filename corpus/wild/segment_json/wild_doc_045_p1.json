@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_045",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    228.0
+   ],
+   "ocr": "Univariable model Multivariable model\nLog PCR Log ACR Log 24-h protein excretion Log PCR Log ACR Log 24-h protein excretion\nHR (95% CI) 1.39 (1.18–1.62) 1.29 (1.13–1.47) 1.43 (1.21–1.68) 1.31 (1.18–1.63) 1.27 (1.11–1.23) 1.43 (1.20–1.71)\nP- value <0.001 <0.001 <0.001 0.001 <0.001 <0.001\nHarrell’s C statistic (95% CI) 0.64 (0.57–0.70) 0.64 (0.57–0.71) 0.64 (0.57–0.71) 0.74 (0.69–0.80) 0.75 (0.69–0.81) 0.75 (0.69–0.81)\nAIC 691 691 689 671 668 665",
+   "table_id": "img_049967_t0"
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    243.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "TP53 mut rs2736100 genotypes\nAA AC CC\nwt 8 (62%) 4 (14%) 4 (24%)\nhet 2 (15%) 7 (25%) 3 (18%)\nhom 3 (23%) 17 (61%) 10 (59%)",
+   "table_id": "img_049967_t1"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    500.0
+   ],
+   "ocr": "Variables included in the analysis Beta coefficient Standard error P Exp(B) 95% CI of Exp(B)\nCountry = New Zealand (Comparison=all other participants) 0.67 0.21 <0.001 2.60 1.92 – 3.52\nCountry=Trinidad & Tobago (Comparison=all other participants) -1.95 0.47 <0.001 0.14 0.06 – 0.36\nFeeling a Valued member of dental team(Most or all the time vs all other participants) 1.49 0.20 <0.001 4.45 3.00 – 6.59",
+   "table_id": "img_049967_t2"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    516,
+    580,
+    605
+   ],
+   "ocr": "The analysis presented in the accompanying table focuses on the relationship between various clinical metrics and their impact on health outcomes, particularly in the context of protein excretion levels and renal function. Key metrics such as Log PCR (Protein-to-Creatinine Ratio) and Log ACR (Albumin-to-Creatinine Ratio) are crucial in assessing renal health and predicting potential complications in patients. The findings indicate a statistically significant association between elevated Log PCR values and increased health risks, as evidenced by a hazard ratio (HR) of 1.39 (95% CI: 1.18–1.62), suggesting that higher protein excretion is linked to adverse outcomes."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    593,
+    580,
+    667
+   ],
+   "ocr": "Furthermore, the Log 24-h protein excretion metric provides critical insights into the extent of protein loss within a 24-hour period, reinforcing the importance of monitoring these parameters in clinical practice. The Beta coefficients and their corresponding standard errors highlight the robustness of these relationships, underscoring the need for further investigation into the underlying mechanisms that contribute to these associations. Overall, the data underscore the importance of renal function metrics in predicting patient prognosis."
+  }
+ }
+}

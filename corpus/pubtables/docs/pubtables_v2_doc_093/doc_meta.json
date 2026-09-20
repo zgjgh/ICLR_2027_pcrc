@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_093",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1291401_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    142.1,
+    355.5,
+    440.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1291401_table_0.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Near-miss cases n = 211</td><td rowspan=\"2\">Maternal deaths n = 44</td></tr><tr><td></td></tr><tr><td colspan=\"3\">Age (years)</td></tr><tr><td>&#8804; 20</td><td>24 (11.4)</td><td>6 (13.6)</td></tr><tr><td>21&#8211;25</td><td>58 (27.5)</td><td>9 (20.5)</td></tr><tr><td>26&#8211;30</td><td>56 (26.5)</td><td>13 (29.5)</td></tr><tr><td>31&#8211;35</td><td>47 (22.3)</td><td>8 (18.2)</td></tr><tr><td>&gt;35</td><td>26 (12.3)</td><td>8 (18.2)</td></tr><tr><td>Range</td><td>16&#8211;44</td><td>18&#8211;45</td></tr><tr><td>Mean &#177; SD</td><td>28.1 &#177; 6.1</td><td>28.6 &#177; 5.6</td></tr><tr><td colspan=\"3\">Parity</td></tr><tr><td>0</td><td>75 (35.5)</td><td>15 (34.1)</td></tr><tr><td>1&#8211;4</td><td>113 (53.6)</td><td>25 (56.8)</td></tr><tr><td>&#8805; 5</td><td>23 (10.9)</td><td>4 (9.1)</td></tr><tr><td>Range</td><td>0&#8211;7</td><td>0&#8211;7</td></tr><tr><td>Median</td><td>2</td><td>1</td></tr><tr><td colspan=\"3\">Booking status</td></tr><tr><td>Unbooked at OOUTH</td><td>174 (82.5)</td><td>39 (88.6)</td></tr><tr><td colspan=\"3\">Gestational age (weeks)</td></tr><tr><td>&lt;13</td><td>26 (12.3)</td><td>2 (4.5)</td></tr><tr><td>13&#8211;28</td><td>13 (6.2)</td><td>1 (2.3)</td></tr><tr><td>&gt;28</td><td>172 (81.5)</td><td>41 (93.2)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1291401_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    129.9,
+    625.6,
+    480.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1291401_table_1.png",
+   "html": "<table><tr><td>Criteria</td><td>2002</td><td>2003</td><td>2004</td><td>Total</td></tr><tr><td>Haemorrhage</td><td>26 (28.3)</td><td>30 (35.3)</td><td>17 (26.2)</td><td>73 (30.2)</td></tr><tr><td>Early pregnancy</td><td>6(6.5)</td><td>9 (10.6)</td><td>9 (13.8)</td><td>24 (9.9)</td></tr><tr><td>Ectopic pregnancy</td><td>6</td><td>9</td><td>9</td><td>24</td></tr><tr><td>Abortion</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Late pregnancy</td><td>20 (21.7)</td><td>21 (24.7)</td><td>8 (12.3)</td><td>49 (20.2)</td></tr><tr><td>Placenta praevia</td><td>4</td><td>2</td><td>2</td><td>8</td></tr><tr><td>Abruptio placentae</td><td>5</td><td>4</td><td>2</td><td>11</td></tr><tr><td>Postpartum haemorrhage</td><td>11</td><td>15</td><td>4</td><td>30</td></tr><tr><td>Others</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>Hypertension</td><td>32 (34.8)</td><td>21 (24.7)</td><td>23 (35.4)</td><td>76 (31.4)</td></tr><tr><td>Eclampsia</td><td>22</td><td>8</td><td>9</td><td>39</td></tr><tr><td>Severe preeclampsia</td><td>10</td><td>13</td><td>14</td><td>37</td></tr><tr><td>Dystocia</td><td>17 (18.5)</td><td>19 (22.4)</td><td>11 (16.9)</td><td>47 (19.4)</td></tr><tr><td>Uterine rupture</td><td>3</td><td>4</td><td>3</td><td>10</td></tr><tr><td>Impending rupture</td><td>14</td><td>15</td><td>8</td><td>37</td></tr><tr><td>Infections</td><td>9 (9.8)</td><td>5 (5.9)</td><td>6 (9.2)</td><td>20 (8.3)</td></tr><tr><td>Anaemia</td><td>8 (8.7)</td><td>10 (11.8)</td><td>8 (12.3)</td><td>26 (10.7)</td></tr><tr><td>All near-miss events</td><td>92</td><td>85</td><td>65</td><td>242 (100.0)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1291401_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    141.9,
+    331.9,
+    505.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1291401_table_2.png",
+   "html": "<table><tr><td>Causes</td><td>n = 44</td><td>(%)</td></tr><tr><td>Haemorrhage</td><td>9</td><td>20.5</td></tr><tr><td colspan=\"3\">Early pregnancy</td></tr><tr><td>Ectopic pregnancy</td><td>1</td><td>2.3</td></tr><tr><td>Abortion</td><td>-</td><td>-</td></tr><tr><td colspan=\"3\">Late pregnancy</td></tr><tr><td>Placenta praevia</td><td>-</td><td>-</td></tr><tr><td>Abruptio placentae</td><td>-</td><td>-</td></tr><tr><td>Postpartum haemorrhage</td><td>8</td><td>18.2</td></tr><tr><td>Hypertension</td><td>13</td><td>29.5</td></tr><tr><td>Eclampsia</td><td>10</td><td>22.7</td></tr><tr><td>Severe preeclampsia</td><td>3</td><td>6.8</td></tr><tr><td>Dystocia</td><td>6</td><td>13.6</td></tr><tr><td>Uterine rupture</td><td>6</td><td>13.6</td></tr><tr><td>Infections</td><td>8</td><td>18.2</td></tr><tr><td>Puerperal sepsis</td><td>2</td><td>4.5</td></tr><tr><td>Chorioamnionitis</td><td>4</td><td>9.1</td></tr><tr><td>Septic abortion</td><td>1</td><td>2.3</td></tr><tr><td>*HIV infection</td><td>1</td><td>2.3</td></tr><tr><td>Anaemia (not due to haem- orrhage</td><td>5</td><td>11.4</td></tr><tr><td>Pulmonary embolism</td><td>1</td><td>2.3</td></tr><tr><td>Anaesthetic complication</td><td>1</td><td>2.3</td></tr><tr><td>*Pre-existing medical disease</td><td>1</td><td>2.3</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1291401_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    129.9,
+    691.8,
+    480.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1291401_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Complication</td><td rowspan=\"2\">NME n (%)</td><td rowspan=\"2\">*Maternal deaths n (%)</td><td rowspan=\"2\">P</td><td rowspan=\"2\">LTOC (%) n (%)</td><td rowspan=\"2\">Mortality index (%)</td></tr><tr></tr><tr><td>Haemorrhage</td><td>73 (30.2)</td><td>9 (22.0)</td><td>0.284</td><td>82 (29.0)</td><td>11.0</td></tr><tr><td>Early pregnancy</td><td>24 (9.9)</td><td>1 (2.4)</td><td>0.145</td><td>25 (8.8)</td><td>4.0</td></tr><tr><td>Ectopic pregnancy</td><td>24</td><td>1</td><td>0.145</td><td>25 (8.8)</td><td>4.0</td></tr><tr><td>Abortion</td><td>0</td><td>0</td><td></td><td>0.0 (0.0)</td><td>0.0</td></tr><tr><td>Late pregnancy</td><td>49 (20.2)</td><td>8 (19.5)</td><td>0.914</td><td>57 (20.1)</td><td>14.0</td></tr><tr><td>Placenta praevia</td><td>8</td><td>0</td><td>0.608</td><td>8 (2.8)</td><td>0.0</td></tr><tr><td>Abruptio placentae</td><td>11</td><td>0</td><td>0.376</td><td>11 (3.9)</td><td>0.0</td></tr><tr><td>Postpartum haemorrhage</td><td>30</td><td>8</td><td>0.217</td><td>38 (13.4)</td><td>21.1</td></tr><tr><td>Hypertension</td><td>76 (31.4)</td><td>13 (31.7)</td><td>0.969</td><td>89 (31.4)</td><td>14.6</td></tr><tr><td>Eclampsia</td><td>39</td><td>10</td><td>0.195</td><td>49 (17.3)</td><td>20.4</td></tr><tr><td>Severe pre-eclampsia</td><td>37</td><td>3</td><td>0.175</td><td>40 (14.1)</td><td>7.5</td></tr><tr><td>Dystocia</td><td>47 (19.4)</td><td>6 (14.6)</td><td>0.467</td><td>53 (18.7)</td><td>11.3</td></tr><tr><td>Uterine rupture</td><td>10</td><td>6</td><td>0.017</td><td>16 (5.7)</td><td>37.5</td></tr><tr><td>Impending rupture</td><td>37</td><td>0</td><td>0.007</td><td>37 (13.1)</td><td>0.0</td></tr><tr><td>Infection</td><td>20 (8.3)</td><td>8 (19.5)</td><td>0.042</td><td>28 (9.9)</td><td>28.6</td></tr><tr><td>Anaemia</td><td>26 (10.7)</td><td>5 (12.2)</td><td>0.787</td><td>31 (11.0)</td><td>16.1</td></tr><tr><td>Total</td><td>242 (100.0)</td><td>41 (100.0)</td><td></td><td>283 (100.0)</td><td>14.5</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1291401_table_4",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    129.9,
+    652.2,
+    325.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1291401_table_4.png",
+   "html": "<table><tr><td></td><td>2002</td><td>2003</td><td>2004</td><td>Total</td></tr><tr><td>Deliveries (n)</td><td>475</td><td>545</td><td>481</td><td>1501</td></tr><tr><td>Live births</td><td>433</td><td>502</td><td>443</td><td>1378</td></tr><tr><td>Near-miss cases (n)</td><td>85</td><td>71</td><td>55</td><td>211</td></tr><tr><td>Referred from other facility [n (%)]</td><td>68 (80.0)</td><td>58 (81.7)</td><td>44 (80.0)</td><td>170 (80.6)</td></tr><tr><td>On arrival [n (%)]</td><td>71(83.5)</td><td>59 (83.1)</td><td>49 (89.1)</td><td>179 (84.8)</td></tr><tr><td>During hospitalisation</td><td>*15 (17.6)</td><td>12 (16.9)</td><td>6 (10.9)</td><td>33 (15.6)</td></tr><tr><td>Near-miss cases per 1000 deliveries</td><td>178.9</td><td>130.3</td><td></td><td>114.3 140.6</td></tr><tr><td>On arrival</td><td>149.5</td><td>108.3</td><td>101.9</td><td>119.3</td></tr><tr><td>During hospitalisation</td><td>31.6</td><td>22.0</td><td>12.5</td><td>22.0</td></tr><tr><td>Maternal deaths (n)</td><td>17</td><td>16</td><td>11</td><td>44</td></tr><tr><td>MMR/100,000 deliveries</td><td>3578.9</td><td>2935.8</td><td>2286.9</td><td>2931.4</td></tr><tr><td>Critically ill obstetric patients</td><td>102</td><td>87</td><td>66</td><td>255</td></tr><tr><td>Maternal death to near-miss ratio</td><td>1: 5</td><td>1: 4.4</td><td>1: 5</td><td>1: 4.8</td></tr></table>"
+  }
+ ]
+}

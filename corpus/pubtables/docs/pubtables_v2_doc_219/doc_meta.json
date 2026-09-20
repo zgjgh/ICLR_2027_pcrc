@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_219",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5068742_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    832.2,
+    698.4,
+    874.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5068742_table_0.png",
+   "html": "<table><tr><td>Species</td><td>GC%</td><td>A%</td><td>T%</td><td>G%</td><td>C%</td><td>AT-skew</td><td>GC-skew</td></tr><tr><td>E. svetlanae</td><td>26</td><td>28</td><td>47</td><td>18</td><td>8</td><td>-0,26</td><td>0,39</td></tr><tr><td>P. kielensis</td><td>26</td><td>32</td><td>42</td><td>19</td><td>7</td><td>-0,14</td><td>0,44</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5068742_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    117.6,
+    667.3,
+    159.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5068742_table_1.png",
+   "html": "<table><tr><td>Species</td><td>Whole genome</td><td>PCG</td><td>tRNA</td><td>rRNA</td><td>Total non-coding region</td></tr><tr><td>E.svetlanae</td><td>26</td><td>27</td><td>21</td><td>22</td><td>19</td></tr><tr><td>P.kielensis</td><td>26</td><td>28</td><td>20</td><td>21</td><td>21</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5068742_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    116.1,
+    707.7,
+    726.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5068742_table_2.png",
+   "html": "<table><tr><td>Gene</td><td>Strain</td><td>Position (start-stop)</td><td>Length (bp)</td><td>Intergenic space (bp)</td><td>Start codon</td><td>Stop codon</td></tr><tr><td>cox1</td><td>+</td><td>3&#8211;1586</td><td>1584</td><td>19</td><td>GTG</td><td>TAA</td></tr><tr><td>trnL1</td><td>+</td><td>1606&#8211;1667</td><td>62</td><td>3</td><td></td><td></td></tr><tr><td>trnA</td><td>+</td><td>1671&#8211;1732</td><td>62</td><td>-5</td><td></td><td></td></tr><tr><td>trnS1</td><td>+</td><td>1728&#8211;1789</td><td>62</td><td>3</td><td></td><td></td></tr><tr><td>trnF</td><td>+</td><td>1793&#8211;1848</td><td>56</td><td>1</td><td></td><td></td></tr><tr><td>trnS2</td><td>+</td><td>1850&#8211;1915</td><td>66</td><td>3</td><td></td><td></td></tr><tr><td>trnL2</td><td>+</td><td>1919&#8211;1980</td><td>62</td><td>6</td><td></td><td></td></tr><tr><td>trnE</td><td>+</td><td>1987&#8211;2049</td><td>63</td><td>238</td><td></td><td></td></tr><tr><td>trnV</td><td>+</td><td>2288&#8211;2350</td><td>63</td><td>15</td><td></td><td></td></tr><tr><td>rrnS</td><td>+</td><td>2366&#8211;3098</td><td>733</td><td>0</td><td></td><td></td></tr><tr><td>trnG</td><td>+</td><td>3099&#8211;3160</td><td>62</td><td>54</td><td></td><td></td></tr><tr><td>atp8</td><td>+</td><td>3215&#8211;3358</td><td>144</td><td>2</td><td>ATG</td><td>TAA</td></tr><tr><td>trnK</td><td>+</td><td>3361&#8211;3421</td><td>61</td><td>18</td><td></td><td></td></tr><tr><td>rrnL</td><td>+</td><td>3440&#8211;4421</td><td>982</td><td>104</td><td></td><td></td></tr><tr><td>nad3</td><td>+</td><td>4526&#8211;4852</td><td>327</td><td>4</td><td>ATA</td><td>TAA</td></tr><tr><td>cytb</td><td>+</td><td>4857&#8211;5999</td><td>1143</td><td>18</td><td>GTG</td><td>TAA</td></tr><tr><td>nad4</td><td>+</td><td>6018&#8211;7313</td><td>1296</td><td>9</td><td>ATA</td><td>TAA</td></tr><tr><td>nad1</td><td>+</td><td>7323&#8211;8207</td><td>885</td><td>245</td><td>ATT</td><td>TAG</td></tr><tr><td>nad2</td><td>+</td><td>8453&#8211;9442</td><td>990</td><td>22</td><td>ATA</td><td>TAA</td></tr><tr><td>trnQ</td><td>+</td><td>9465&#8211;9529</td><td>65</td><td>0</td><td></td><td></td></tr><tr><td>trnM1</td><td>+</td><td>9530&#8211;9592</td><td>63</td><td>4</td><td></td><td></td></tr><tr><td>trnC</td><td>+</td><td>9597&#8211;9656</td><td>60</td><td>0</td><td></td><td></td></tr><tr><td>trnI</td><td>+</td><td>9657&#8211;9718</td><td>62</td><td>4</td><td></td><td></td></tr><tr><td>trnP</td><td>+</td><td>9723&#8211;9784</td><td>62</td><td>9</td><td></td><td></td></tr><tr><td>nad4l</td><td>+</td><td>9794&#8211;10069</td><td>276</td><td>-11</td><td>ATA</td><td>TAA</td></tr><tr><td>trnD</td><td>+</td><td>10059&#8211;10120</td><td>62</td><td>3</td><td></td><td></td></tr><tr><td>trnT</td><td>+</td><td>10124&#8211;10185</td><td>62</td><td>14</td><td></td><td></td></tr><tr><td>cox2</td><td>+</td><td>10200&#8211;10889</td><td>690</td><td>56</td><td>TTG</td><td>TAG</td></tr><tr><td>atp6</td><td>+</td><td>10946&#8211;11590</td><td>645</td><td>10</td><td>ATG</td><td>TAA</td></tr><tr><td>trnN</td><td>+</td><td>11601&#8211;11663</td><td>63</td><td>35</td><td></td><td></td></tr><tr><td>cox3</td><td>+</td><td>11699&#8211;12478</td><td>780</td><td>9</td><td>ATA</td><td>TAA</td></tr><tr><td>trnM2</td><td>+</td><td>12488&#8211;12553</td><td>66</td><td>0</td><td></td><td></td></tr><tr><td>nad6</td><td>+</td><td>12554&#8211;13018</td><td>465</td><td>4</td><td>ATA</td><td>TAA</td></tr><tr><td>trnY</td><td>+</td><td>13023&#8211;13082</td><td>60</td><td>4</td><td></td><td></td></tr><tr><td>trnR</td><td>+</td><td>13087&#8211;13149</td><td>63</td><td>3</td><td></td><td></td></tr><tr><td>trnH</td><td>+</td><td>13153&#8211;13213</td><td>61</td><td>11</td><td></td><td></td></tr><tr><td>trnW</td><td>+</td><td>13225&#8211;13287</td><td>63</td><td>6</td><td></td><td></td></tr><tr><td>nad5</td><td>+</td><td>13294&#8211;14982</td><td>1689</td><td>5</td><td>ATA</td><td>TAA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5068742_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    116.1,
+    707.7,
+    726.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5068742_table_3.png",
+   "html": "<table><tr><td>Gene</td><td>Strain</td><td>Position (start-stop)</td><td>Length (bp)</td><td>Intergenic space (bp)</td><td>Start codon</td><td>Stop codon</td></tr><tr><td>cox1</td><td>+</td><td>6&#8211;1577</td><td>1572</td><td>270</td><td>ATG</td><td>TAA</td></tr><tr><td>trnE</td><td>+</td><td>1848&#8211;1912</td><td>65</td><td>0</td><td></td><td></td></tr><tr><td>trnL2</td><td>+</td><td>1913&#8211;1982</td><td>70</td><td>4</td><td></td><td></td></tr><tr><td>rrnS</td><td>+</td><td>1987&#8211;2752</td><td>766</td><td>11</td><td></td><td></td></tr><tr><td>trnG</td><td>+</td><td>2764&#8211;2833</td><td>70</td><td>81</td><td></td><td></td></tr><tr><td>trnV</td><td>+</td><td>2915&#8211;2981</td><td>67</td><td>4</td><td></td><td></td></tr><tr><td>trnL1</td><td>+</td><td>2986&#8211;3059</td><td>74</td><td>-18</td><td></td><td></td></tr><tr><td>atp8</td><td>+</td><td>3042&#8211;3221</td><td>180</td><td>7</td><td>ATA</td><td>TAG</td></tr><tr><td>trnK</td><td>+</td><td>3229&#8211;3295</td><td>67</td><td>142</td><td></td><td></td></tr><tr><td>rrnL</td><td>+</td><td>3438&#8211;4451</td><td>1014</td><td>34</td><td></td><td></td></tr><tr><td>nad1</td><td>+</td><td>4486&#8211;5397</td><td>912</td><td>4</td><td>ATT</td><td>TAA</td></tr><tr><td>nad2</td><td>+</td><td>5402&#8211;6430</td><td>1029</td><td>4</td><td>ATG</td><td>TAA</td></tr><tr><td>trnQ</td><td>+</td><td>6435&#8211;6502</td><td>68</td><td>-4</td><td></td><td></td></tr><tr><td>trnM1</td><td>+</td><td>6499&#8211;6566</td><td>68</td><td>5</td><td></td><td></td></tr><tr><td>trnI</td><td>+</td><td>6572&#8211;6640</td><td>69</td><td>5</td><td></td><td></td></tr><tr><td>trnC</td><td>+</td><td>6646&#8211;6707</td><td>62</td><td>9</td><td></td><td></td></tr><tr><td>trnP</td><td>+</td><td>6717&#8211;6786</td><td>70</td><td>18</td><td></td><td></td></tr><tr><td>nad4l</td><td>+</td><td>6805&#8211;7077</td><td>273</td><td>5</td><td>ATA</td><td>TAG</td></tr><tr><td>trnD</td><td>+</td><td>7083&#8211;7146</td><td>64</td><td>2</td><td></td><td></td></tr><tr><td>trnA</td><td>+</td><td>7149&#8211;7214</td><td>66</td><td>6</td><td></td><td></td></tr><tr><td>trnT</td><td>+</td><td>7221&#8211;7288</td><td>68</td><td>0</td><td></td><td></td></tr><tr><td>cox2</td><td>+</td><td>7289&#8211;7966</td><td>678</td><td>10</td><td>TTG</td><td>TAA</td></tr><tr><td>trnN</td><td>+</td><td>7977&#8211;8046</td><td>70</td><td>12</td><td></td><td></td></tr><tr><td>atp6</td><td>+</td><td>8059&#8211;8745</td><td>687</td><td>17</td><td>ATA</td><td>TAA</td></tr><tr><td>cox3</td><td>+</td><td>8763&#8211;9572</td><td>810</td><td>27</td><td>ATG</td><td>TAA</td></tr><tr><td>trnS1</td><td>+</td><td>9600&#8211;9661</td><td>62</td><td>4</td><td></td><td></td></tr><tr><td>trnM2</td><td>+</td><td>9666&#8211;9728</td><td>63</td><td>18</td><td></td><td></td></tr><tr><td>nad6</td><td>+</td><td>9747&#8211;10226</td><td>480</td><td>55</td><td>ATA</td><td>TAA</td></tr><tr><td>nad3</td><td>+</td><td>10282&#8211;10608</td><td>327</td><td>11</td><td>ATA</td><td>TAA</td></tr><tr><td>cytb</td><td>+</td><td>10620&#8211;11774</td><td>1155</td><td>9</td><td>ATT</td><td>TAA</td></tr><tr><td>nad4</td><td>+</td><td>11784&#8211;13124</td><td>1341</td><td>11</td><td>ATG</td><td>TAG</td></tr><tr><td>trnS2</td><td>+</td><td>13136&#8211;13205</td><td>70</td><td>6</td><td></td><td></td></tr><tr><td>trnY</td><td>+</td><td>13212&#8211;13279</td><td>68</td><td>5</td><td></td><td></td></tr><tr><td>trnR</td><td>+</td><td>13285&#8211;13351</td><td>67</td><td>0</td><td></td><td></td></tr><tr><td>trnF</td><td>+</td><td>13352&#8211;13421</td><td>70</td><td>4</td><td></td><td></td></tr><tr><td>trnH</td><td>+</td><td>13426&#8211;13494</td><td>69</td><td>1</td><td></td><td></td></tr><tr><td>trnW</td><td>+</td><td>13496&#8211;13564</td><td>69</td><td>51</td><td></td><td></td></tr><tr><td>nad5</td><td>+</td><td>13616&#8211;15301</td><td>1686</td><td>8</td><td>ATG</td><td>TAA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5068742_table_4",
+   "page_num": 4,
+   "bbox": [
+    297.1,
+    793.9,
+    678.1,
+    868.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5068742_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Codon position</td><td colspan=\"2\">GC%</td></tr><tr><td>E. svetlanae</td><td>P. kielensis</td></tr><tr><td>1</td><td>35</td><td>36</td></tr><tr><td>2</td><td>33</td><td>33</td></tr><tr><td>3</td><td>14</td><td>16</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5068742_table_5",
+   "page_num": 5,
+   "bbox": [
+    59.3,
+    116.1,
+    709.1,
+    632.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5068742_table_5.png",
+   "html": "<table><tr><td>Amino Acid</td><td>Codon</td><td>E. svetlanae</td><td>P. kielensis</td><td>Amino Acid</td><td>Codon</td><td>E. svetlanae</td><td>P. kielensis</td></tr><tr><td rowspan=\"4\">A</td><td>GCA</td><td>28</td><td>45</td><td rowspan=\"2\">F</td><td>TTC</td><td>5</td><td>18</td></tr><tr><td>GCC</td><td>5</td><td>8</td><td>TTT</td><td>425</td><td>395</td></tr><tr><td>GCG</td><td>6</td><td>13</td><td rowspan=\"6\">L</td><td>TTA</td><td>389</td><td>365</td></tr><tr><td>GCT</td><td>99</td><td>53</td><td>TTG</td><td>66</td><td>64</td></tr><tr><td rowspan=\"4\">R</td><td>CGA</td><td>23</td><td>41</td><td>CTA</td><td>14</td><td>28</td></tr><tr><td>CGC</td><td>1</td><td>-</td><td>CTC</td><td>-</td><td>3</td></tr><tr><td>CGG</td><td>7</td><td>15</td><td>CTG</td><td>-</td><td>5</td></tr><tr><td>CGT</td><td>53</td><td>9</td><td>CTT</td><td>38</td><td>37</td></tr><tr><td rowspan=\"2\">Y</td><td>TAT</td><td>204</td><td>151</td><td rowspan=\"2\">I</td><td>ATC</td><td>4</td><td>12</td></tr><tr><td>TAC</td><td>14</td><td>10</td><td>ATT</td><td>286</td><td>254</td></tr><tr><td rowspan=\"2\">N</td><td>AAT</td><td>115</td><td>82</td><td rowspan=\"4\">V</td><td>GTA</td><td>71</td><td>155</td></tr><tr><td>AAC</td><td>9</td><td>4</td><td>GTC</td><td>4</td><td>6</td></tr><tr><td rowspan=\"2\">D</td><td>GAT</td><td>90</td><td>74</td><td>GTG</td><td>39</td><td>62</td></tr><tr><td>GAC</td><td>5</td><td>7</td><td>GTT</td><td>186</td><td>116</td></tr><tr><td rowspan=\"2\">C</td><td>TGT</td><td>66</td><td>34</td><td rowspan=\"8\">S</td><td>TCA</td><td>30</td><td>46</td></tr><tr><td>TGC</td><td>2</td><td>3</td><td>TCC</td><td>-</td><td>4</td></tr><tr><td rowspan=\"2\">E</td><td>GAA</td><td>43</td><td>64</td><td>TCG</td><td>4</td><td>9</td></tr><tr><td>GAG</td><td>39</td><td>38</td><td>TCT</td><td>111</td><td>64</td></tr><tr><td rowspan=\"4\">P</td><td>CCA</td><td>23</td><td>22</td><td>AGT</td><td>92</td><td>22</td></tr><tr><td>CCC</td><td>1</td><td>6</td><td>AGC</td><td>6</td><td>4</td></tr><tr><td>CCG</td><td>9</td><td>7</td><td>AGA</td><td>50</td><td>143</td></tr><tr><td>CCT</td><td>75</td><td>47</td><td>AGG</td><td>43</td><td>41</td></tr><tr><td rowspan=\"4\">T</td><td>ACA</td><td>32</td><td>35</td><td rowspan=\"2\">H</td><td>CAT</td><td>68</td><td>47</td></tr><tr><td>ACC</td><td>3</td><td>6</td><td>CAC</td><td>5</td><td>10</td></tr><tr><td>ACG</td><td>4</td><td>3</td><td rowspan=\"2\">K</td><td>AAA</td><td>41</td><td>59</td></tr><tr><td>ACT</td><td>62</td><td>55</td><td>AAG</td><td>28</td><td>20</td></tr><tr><td rowspan=\"2\">Q</td><td>CAA</td><td>33</td><td>27</td><td rowspan=\"2\">M</td><td>ATG</td><td>55</td><td>57</td></tr><tr><td>CAG</td><td>13</td><td>13</td><td>ATA</td><td>185</td><td>283</td></tr><tr><td rowspan=\"4\">G</td><td>GGA</td><td>42</td><td>137</td><td rowspan=\"2\">W</td><td>TGA</td><td>63</td><td>91</td></tr><tr><td>GGC</td><td>20</td><td>3</td><td>TGG</td><td>35</td><td>18</td></tr><tr><td>GGG</td><td>90</td><td>122</td><td rowspan=\"2\">Stop codons</td><td>TAA</td><td>10</td><td>11</td></tr><tr><td>GGT</td><td>163</td><td>65</td><td>TAG</td><td>3</td><td>2</td></tr></table>"
+  }
+ ]
+}

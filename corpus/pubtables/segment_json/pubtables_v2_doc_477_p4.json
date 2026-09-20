@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_477",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    251.8,
+    53.4
+   ],
+   "ocr": "Tormey et al. BMC Genomics (2015) 16:754"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 9 of 14"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    377.0,
+    138.3
+   ],
+   "ocr": "Table 4 Circadian clock genes, their role in the clock, properties of homologs in Drosophila melangaster and Aedes aegypti"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    380.4,
+    111.8,
+    644.8,
+    124.4
+   ],
+   "ocr": "their Wyeomyia smithii transcripts and their relationship to"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    141.7,
+    678.6,
+    453.3
+   ],
+   "ocr": "Genea Transcriptb A. aegypti AAEL- c E-valued ProtTest Model FBgn- Ortho DB EOG7-e Nucleo- tides Relative Rate\nCkIIα 15735 012094 0 Dayhoff+G+F 0264492 4RCF1 451 0.102\nClk 2GK8YT 012562 0 JTT+G+F 0023076 NSNR1 1,865 0.679\ncry2 05165 002602 4E-173 LG+G — P64PH 634 0.298\nCul3 07535 006291 007187 0 LG+G 0261268 TN9FJ 1,771 0.348\ncwo 15437 010513 0 LG+G+F 0259938 XDP58 2,313 1.792\ncyc 17314 002049 7 E-86 JTT+G 0023094 7TBTD 851 0.390\ndbt 08662 002226 1E-144 JTT+G 0002413 2CGPS 527 0.866\njet 03197 012126 1 E-93 LG+G+F 0031652 NSNRX 1,004 1.572\nkayα 13013 008953 8 E-145 LG+G+F 0001297 06BFN 1,162 1.625\nnmo 17870 004797 0 JTT+G 0011817 JF2MQ 2,130 0.254\nPdp1 02480 005255 8 E-145 LG+I 0016694 2RZNP 3,083 0.602\nper 1A331S 008141 1 E-76 JTT+G 0003068 MHBMZ 2,670 1.500\nPP2A-B' 04554 014031 0 LG+G 0042693 S57VZ 721 0.463\nsgg 17080 005238 0 Dayhoff + G 0003371 D2S3R 2641 0.455\nslimb 03120 003371 0 JTT+G 0023423 WHV0D 2,355 0.559\ntim 06527 006411 1 E-61 JTT+G+F 0014396 DG81S 2,752 0.793\nvri 08372 011371 7 E-133 JTT+I+G+F 0173452 HXQF6 2,465 1.234",
+   "table_id": "PMC4594641_table_3"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    458.3,
+    332.0,
+    512.4
+   ],
+   "ocr": "aBold font, TTFL; regular font, PTM bContigs in Roman; singletons in italics, omitting the prefix F5BTJ3O0- cAedes aegypti BLAST to W. smithii transcriptome dE-values from reciprocal BLAST of contig or singleton to A. aegypti eRooted at most-recent common ancestor of Hymenoptera & Diptera"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    534.4,
+    374.6,
+    788.1
+   ],
+   "ocr": "distinguish these genes in W. smithii, the three A. aegypti sequences in the same OrthoDB group, were aligned lo- cally against the W. smithii transcriptome using BLAST. A gene tree was assembled using the same protocols de- scribed for cry2 showing that the widerborst gene family occupied its own monophyletic clade within the PP2A-B’ gene tree (Fig. 4b). The wdb clade included W. smithii Contig 13912. A separate branch included D. melanoga- ster PP2A-B’ and W. smithii Contig 04554. We therefore concluded that Contig 13912 is the ortholog of wdb, and Contig 04554 the ortholog of PP2A-B’. Evolutionary divergence Divergence of W. smithii genes involved in the circadian clock was determined from relative, cumulative branch Table 5 Genes closely related to clock genes or in the same gene"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    378.0,
+    534.4,
+    678.6,
+    788.1
+   ],
+   "ocr": "lengths from other taxa (Table 4) using maximum likeli- hood for phylogenetic inference. Among the 17 circadian genes (Fig. 1) ProtTest returned six different best-fit models for amino acid substitution for nine TTFL genes and five different models for eight PTM genes (Table 4). The frequency of different models did not differ between the two categories of genes (two-sided Fisher’s exact test P = 1.000). A distance matrix (Additional file 1) was generated for each maximum likelihood gene tree, showing the relative branch lengths between each organism for each particu- lar protein. In order to measure rates of evolution for W. smithii’s clock proteins relative to the other organisms in each gene family, relative rate for each clock protein was calculated from the distance matrices: familya"
+  },
+  "p4_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    793.1,
+    678.6,
+    909.2
+   ],
+   "ocr": "Related gene W. smithii Contig A. aegypti AAEL- E-value Clock gene FBgn Ortho DB EOG7- Nucleotides\nCkIα 08154 007662 0 dco 0015024 2CGPS 483\ncry1 07972 004146 0 cry2, phr6-4 0025680 9SRM2 1,228\nphr6-4 00499 001175 0 cry1, cry2 0016054 P64PH 1,134\ntgo 06945 010343 0 cyc 0264075 Q2ZVC 940\ntim2 18589 009518 7 E-45 tim 0038118 2RZMT 589\nwbt 13912 003015 008194 1 E-165 PP2A-B' 0027492 S57VZ 4,552",
+   "table_id": "PMC4594641_table_4"
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    914.1,
+    189.6,
+    925.4
+   ],
+   "ocr": "aColumn headings as in Table 4"
+  }
+ }
+}

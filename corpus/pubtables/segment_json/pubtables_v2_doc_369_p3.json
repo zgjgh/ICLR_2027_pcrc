@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_369",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    566.2,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Risk Factors for Maternal Death"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    77.1,
+    700.8,
+    963.6
+   ],
+   "ocr": "cause of death or morbidity and route of recruitment into the analysis (CMACE or UKOSS). Twenty imputed data sets were created and analyzed together. Standard logistic regression models were fitted using Stata 10. The imputed data sets were analyzed in Stata 10 using the ice suite of commands [13]. Maternal pre-existing physical and psychiatric conditions were reported only for the 2006–08 CMACE data. There were additionally fewer missing data for these women (7% missing for BMI, 20% missing for occupation). We therefore repeated the multivariate analyses with both missing indicator and multiple imputation models in a subset analysis, using only data on the population of women who died from 2006 to 2008 (n = 40) and the women who had a severe maternal morbidity and survived (n = 476) to investigate the role of pre-existing maternal conditions in death following severe morbidity. In addition, we assessed the robustness of the analysis, given the limitation of the missing data, by undertaking a series of sensitivity analyses. In each case we assumed specific extreme scenarios and apportioned missing values accordingly. We assessed the additive effect of the presence of multiple risk factors on the risk of death in a model including all factors found to be significantly associated. The final model included maternal age over 30, BMI equal or over 30 kg/m2, black Caribbean or African ethnicity and unemployed, routine or manual occupation. We used Stata version 10 software for all analyses (StataCorp, College Station, TX). Results One hundred maternal deaths from one of the five specific causes under investigation were identified from the CMACE database to have occurred between 2003 and 2008. A total of 476 women with severe morbidity who survived were identified through UKOSS (Table 1). The estimated mortality and morbidity rates are shown in Table 2. Among the five conditions, the ratio of survivors to deaths was lowest for AFE, stroke and PE: for every two women with an AFE who die, five have an AFE and survive; for every woman dying of a stroke, three survive; and for every woman dying of a PE 19 survive. The ratio of survivors to deaths was highest for AFLP and eclampsia: for every woman dying of AFLP, 70 survived and for every woman dying of eclampsia 86 women survived. Increasing maternal age and body mass index were significantly associated with the risk of death (Figure 1). Results from the multivariable models are presented in Table 3. The final model using a missing indicator analysis produced very similar effect estimates to those from the multiple imputation analysis. Women who were over 30, black Caribbean or African, unemployed or with routine or manual occupation had higher odds of progressing to death (Table 3). Women who had a BMI equal to or greater than 30 kg/m2 were more likely to die from thesesevere maternal morbidities (aOR 1.71, 95%CI 0.91–3.19) although the increased odds were not statistically significant in the model including all maternal deaths. In the analysis restricted to the 2006–8 maternal death data, 107 (22%) of the women who survived had a pre-existing medical condition compared with nine (22%) of the women who died (Table 4). Fifteen percent of the women who died had reported pre-existing depressive illness versus three percent of survivors (p,0.001). Three women who died had learning disabilities compared with none of the women who survived (p,0.001). To explore the role of pre-existing medical conditions further, we undertook a second multivariable analysis including maternal age, 5 December 2011 | Volume 6 | Issue 12 | e29077"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    375.8,
+    106.0
+   ],
+   "ocr": "Table 4. Pre-existing medical conditions in women who died (2006–8 period) and those who survived."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    362.8,
+    407.7
+   ],
+   "ocr": "Women who\ndied Survivors\nn = 476 n\nn = 40 n (%) (%)\nPrevious history\nCancer 0 3 (1)\nPrevious Thrombotic event 0 3 (1)\nCurrent disease\nAsthma 1 (2) 39 (8)\nAuto immune disease 1 (2) 3 (1)\nCongenital or aquired Cardiac disease 1 (2) 7 (1)\nDiabetes, endocrine disorders 2 (5) 12 (2)\nEpilepsy 1 (2) 3 (1)\nEssential hypertension 3 (7) 8 (2)\nHaematological disorders 0 5 (1)\nRenal or urological disease 0 5 (1)\nOthers 0 19 (4)\nOverall 9 (22) 107 (22)",
+   "table_id": "PMC3247232_table_3"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    421.0,
+    375.8,
+    963.6
+   ],
+   "ocr": "Note that some women had more than one condition. doi:10.1371/journal.pone.0029077.t004 In order to investigate trends in continuous variables, unadjusted relative risks with 95% CIs were calculated across groups and Spearman correlation was used to examine the associations between age and BMI and the risk of death. We further investigated the potential factors underlying mortality differences in severe maternal morbidities by using a logistic regression analysis. Factors were included where there was a pre- existing hypothesis or evidence to suggest that they may be associated with maternal mortality. In order to adjust for any effect relating to the individual morbidities, we included an adjustment factor for each condition in the analysis. We developed a full regression model by including both potential explanatory and confounding factors. We tested continuous variables for departure from linearity by the addition of quadratic terms to the model and subsequent likelihood ratio testing. We calculated adjusted odds ratios with 95% CI. The factors included in the model were maternal age, parity, body mass index (BMI), smoking during pregnancy, ethnicity, and socioeconomic classification based on occupation. Occupation was classified according to the Office for National Statistics socio- economic classification [11], on the basis of the woman’s occupation, unless she was not in paid employment, in which case the occupation of her partner was used. Ethnicity was categorised according to the UK census classification [12]. Data were missing for ethnicity and BMI for between 12% and 23% of cases. We investigated two different methods of analysis to account for this. In a first analysis we included all participants, with creation of a categorical indicator variable for missing responses (missing indicator). The second analysis included all participants with missing responses by using multiple imputation. Missing data for BMI, type of employment, age, parity, smoking and ethnicity were imputed using chained equations [13,14]. The multiple imputation prediction model included all variables in the conceptual framework. In addition, indicator variables for the following characteristics were included in the prediction model: PLoS ONE | www.plosone.org"
+  }
+ }
+}

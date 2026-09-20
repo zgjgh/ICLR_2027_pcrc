@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_175",
+  "page": 4,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.2,
+    220.1
+   ],
+   "ocr": "Sensors 2015, 15 12350 3.2.1. Accuracy The bias of SkanLab with respect to water displacement was equal to −9.9 mL (−0.6%) (LOA: −49.6 mL to 29.8 mL; −2.6% to 1.4%), showing a slight tendency towards underestimation (Figure 4; Table 5). Table 5. Accuracy of SkanLab in measuring human arms (N = 30)."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    120.7,
+    231.2,
+    623.2,
+    299.8
+   ],
+   "ocr": "Rater 1 Rater 2\nAbsolute Relative Absolute Relative\na\nBias −13.6 mL −0.8% −6.1 mL −0.4%\nb\nLOA −60.1 to 32.8 mL −3.3% to 1.7% −54.4 to 42.2 mL −2.8% to 2.0%",
+   "table_id": "PMC4507693_table_4"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    304.9,
+    648.2,
+    584.2
+   ],
+   "ocr": "a Mean difference between SkanLab and (water displacement); b limits of agreement. The linear regression equation (y = −0.01x + 29.15; R2 = 0.086) showed no significant relationships between total arm volume (x) and accuracy (y, volumes measured by water displacement minus volumes measured by SkanLab). On the contrary, the relationship between BMI (x) and accuracy (y, volumes measured by water displacement minus volumes measured by SkanLab) was highly significant (y = −2.55x + 69.19; R2 = 0.266; p = 0.004). 3.2.2. Reliability As for inanimate objects, both SkanLab and water displacement showed high levels of intra- and inter-rater reliability (Table 6), with intra- and inter-rater ICC values falling within the limits of high reliability [37]. The intra- and inter-rater SEM of SkanLab and the water displacement technique was similar (Table 6)."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    92.6,
+    875.9,
+    614.4,
+    911.8
+   ],
+   "ocr": "Figure 4. Bias and limits of agreement between SkanLab and Water displacement for human arms. SD, standard deviation."
+  }
+ }
+}

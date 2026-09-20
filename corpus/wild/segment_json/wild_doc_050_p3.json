@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_050",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    63,
+    580,
+    121
+   ],
+   "ocr": "The first table presents various metrics across studies on DDFS, with the headers including Process (μm), Core area (mm²), Maximum sampling rate (MHz), Power consumption (mW), SFDR (dBc), SNR (dB), Output resolution (bit), and Tuning latency (clock). The row labeled \"Kang and Swartzlander, 2006 [23]\" shows values of 0.13, 0.35, 1018, 0.343, 90, —, 17, and — respectively."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    109,
+    580,
+    152
+   ],
+   "ocr": "For \"Sharma et al., 2009 [26]\", the metrics are —, —, 230, —, 54, —, 10, and —. The row for \"Jafari et al., 2005 [17]\" lists 0.5, —, 106, —, —, —, 14, and 33. For \"Ashrafi and Adhami, 2007 [18]\", the values are 0.35, —, 210, 112, 72.2, 67, 12, and —."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    489.0
+   ],
+   "ocr": "DDFS Kang and Swartzlander, 2006 [23] Sharma et al., 2009 [26] Jafari et al., 2005 [17] Ashrafi and Adhami, 2007 [18] Yi et al., 2006 [6] De Caro et al., 2009 [27] This work,Juang et al.,2012\nProcess (μm) 0.13 — 0.5 0.35 0.35 0.25 0.18\nCore area (mm2) 0.35 — — — — 0.51 0.204\nMaximum sampling rate (MHz) 1018 230 106 210 100 385 500\nPower consumption (mW) 0.343 — — 112 0.81 0.4 0.302\nSFDR (dBc) 90 54 — 72.2 80 90 86.85\nSNR (dB) — — — 67 — 70 81.12\nOutput resolution (bit) 17 10 14 12 16 13 16\nTuning latency (clock) — — 33 — — — 11",
+   "table_id": "img_054930_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    510.0,
+    580.0,
+    637.0
+   ],
+   "ocr": "IntScreen IntSensiA VarsTotal MainSensi IntSensi rIPEC\nCoxBoostM Final Model\nSim22_corr01 19779.06 0.22 (0.04) 17.76 (13.25) 0.75 (0.04) 0.21 (0.04) 0.11 (0.07) 0.1 (0.11)\nSim22_corr03 17961.56 0.23 (0.04) 12.74 (12.85) 0.46 (0.05) 0.18 (0.04) 0.06 (0.07) 0.03 (0.08)\nSim22_corr05 15953.22 0.15 (0.04) 6.66 (8.6) 0.14 (0.03) 0.06 (0.02) 0.03 (0.06) 0 (0.03)\nSim22_corr07 14174.12 0.15 (0.04) 7.26 (8.49) 0.06 (0.02) 0.04 (0.02) -0.03 (0.2) 0.01 (0.3)",
+   "table_id": "img_054930_t1"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    653,
+    580,
+    712
+   ],
+   "ocr": "The row \"Yi et al., 2006 [6]\" shows 0.35, —, 100, 0.81, 80, —, 16, and —. In \"De Caro et al., 2009 [27]\", the values are 0.25, 0.51, 385, 0.4, 90, 70, 13, and —. Finally, \"This work, Juang et al., 2012\" reports 0.18, 0.204, 500, 0.302, 86.85, 81.12, 16, and 11. The second table focuses on model performance metrics, with headers including IntScreen, IntSensiA, VarsTotal, MainSensi, IntSensi, rIPEC, CoxBoostM, and Final Model."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    700,
+    580,
+    773
+   ],
+   "ocr": "The row \"Sim22_corr01\" has values of 19779.06, 0.22 (0.04), 17.76 (13.25), 0.75 (0.04), 0.21 (0.04), 0.11 (0.07), 0.1 (0.11), and 0.1 (0.11). \"Sim22_corr03\" shows 17961.56, 0.23 (0.04), 12.74 (12.85), 0.46 (0.05), 0.18 (0.04), 0.06 (0.07), 0.03 (0.08), and 0.03 (0.08). In \"Sim22_corr05\", the values are 15953.22, 0.15 (0.04), 6.66 (8.6), 0.14 (0.03), 0.06 (0.02), 0.03 (0.06), 0, and 0 (0.03). Finally, \"Sim22_corr07\" lists 14174.12, 0.15 (0.04), 7.26 (8.49), 0.06 (0.02), 0.04 (0.02), -0.03 (0.2), 0.01 (0.3), and 0.01 (0.3)."
+  }
+ }
+}

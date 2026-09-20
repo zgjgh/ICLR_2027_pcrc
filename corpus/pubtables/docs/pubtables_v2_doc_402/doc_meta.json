@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_402",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3541249_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    735.0,
+    671.4,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3541249_table_0.png",
+   "html": "<table><tr><td>Terminology class</td><td>Description</td><td>Examples</td><td>Annotation found in abstracts</td></tr><tr><td>Clinical Management</td><td>Terms indicating clinical investigations on patients</td><td>Patient; Cohort study</td><td>96%</td></tr><tr><td>Diagnostics</td><td>Terms representing clinical as well as molecular diagnostics</td><td>Immunohistochemistry; Emission Tomography; Microarray</td><td>85%</td></tr><tr><td>Prognosis</td><td>Terms indicating the prediction for a patient /kind of biomarker/ outcome of therapies</td><td>Surrogate end point; clinical response; biomarker; predictor</td><td>88%</td></tr><tr><td>Statistics</td><td>Statistical methods indicating the strength of the biomarker relationship</td><td>Chi(2) test; mean +/&#8722; SD; univariate analysis; Kaplan-Meier Analysis</td><td>48%</td></tr><tr><td>Evidence</td><td>Terms describing genetic/ molecular evidence for activity of a gene</td><td>Mutation; gene amplification; polymorphism; expression</td><td>82%</td></tr><tr><td>Antecedent</td><td>Terms expressing exposure to hazardous agents and risk factors</td><td>Smoker; susceptibility; exposure</td><td>20%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3541249_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    707.3,
+    645.7,
+    887.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3541249_table_1.png",
+   "html": "<table><tr><td>Gene or protein</td><td>No. of retrieved document</td><td>Relative entropy rank</td><td>Frequency based rank</td><td>Example PMID</td><td>Biomarker applicability</td><td>Biomarker evidence</td></tr><tr><td>P53</td><td>281</td><td>1</td><td>1</td><td>20521348</td><td>Prognosis</td><td>Expression</td></tr><tr><td>VEGFA</td><td>128</td><td>6</td><td>4</td><td>21964530</td><td>Prognosis</td><td>Expression</td></tr><tr><td>BCL2</td><td>90</td><td>8</td><td>6</td><td>19560836</td><td>Survival</td><td>Expression</td></tr><tr><td>PCNA</td><td>47</td><td>11</td><td>10</td><td>21495034</td><td>Prognosis</td><td>Expression</td></tr><tr><td>VEGFC</td><td>22</td><td>16</td><td>21</td><td>19758816</td><td>Recurrence</td><td>Expression</td></tr><tr><td>PTGS2</td><td>33</td><td>25</td><td>15</td><td>20592629</td><td>Survival</td><td>Expression</td></tr><tr><td>CDKN1B</td><td>12</td><td>50</td><td>52</td><td>15483027</td><td>Prognosis</td><td>Expression</td></tr><tr><td>DNAJB4</td><td>2</td><td>100</td><td>344</td><td>16788156</td><td>Survival</td><td>Expression</td></tr><tr><td>CDK2</td><td>5</td><td>342</td><td>112</td><td>10817513</td><td>Prognosis</td><td>No impact</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3541249_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    704.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3541249_table_2.png",
+   "html": "<table><tr><td>Selection</td><td>Rank</td><td>Recall</td><td>Precision</td><td>F-score</td></tr><tr><td rowspan=\"3\">Baseline: Genes / Proteins</td><td>60</td><td>0.10</td><td>0.92</td><td>0.17</td></tr><tr><td>230</td><td>0.30</td><td>0.73</td><td>0.42</td></tr><tr><td>469</td><td>0.50</td><td>0.61</td><td>0.55</td></tr><tr><td>Maximal F-score</td><td>728</td><td>0.67</td><td>0.52</td><td>0.59</td></tr><tr><td rowspan=\"3\">Baseline + Clinical Management</td><td>61</td><td>0.10</td><td>0.90</td><td>0.17</td></tr><tr><td>226</td><td>0.30</td><td>0.75</td><td>0.42</td></tr><tr><td>465</td><td>0.50</td><td>0.61</td><td>0.55</td></tr><tr><td>Maximal F-score</td><td>682</td><td>0.65</td><td>0.54</td><td>0.59</td></tr><tr><td rowspan=\"3\">Baseline + Evidence Marker</td><td>62</td><td>0.10</td><td>0.89</td><td>0.17</td></tr><tr><td>225</td><td>0.30</td><td>0.75</td><td>0.42</td></tr><tr><td>464</td><td>0.50</td><td>0.61</td><td>0.55</td></tr><tr><td>Maximal F-score</td><td>654</td><td>0.62</td><td>0.54</td><td>0.57</td></tr><tr><td rowspan=\"3\">Baseline +Prognosis</td><td>63</td><td>0.10</td><td>0.87</td><td>0.17</td></tr><tr><td>247</td><td>0.30</td><td>0.68</td><td>0.41</td></tr><tr><td>541</td><td>0.50</td><td>0.52</td><td>0.51</td></tr><tr><td>Maximal F-score</td><td>740</td><td>0.61</td><td>0.47</td><td>0.53</td></tr><tr><td rowspan=\"3\">Baseline + Diagnostics</td><td>64</td><td>0.10</td><td>0.86</td><td>0.17</td></tr><tr><td>237</td><td>0.30</td><td>0.71</td><td>0.42</td></tr><tr><td>494</td><td>0.50</td><td>0.57</td><td>0.53</td></tr><tr><td>Maximal F-score</td><td>520</td><td>0.52</td><td>0.57</td><td>0.54</td></tr><tr><td rowspan=\"3\">Baseline + Statistics</td><td>64</td><td>0.10</td><td>0.86</td><td>0.17</td></tr><tr><td>227</td><td>0.30</td><td>0.74</td><td>0.42</td></tr><tr><td>678</td><td>0.50</td><td>0.42</td><td>0.45</td></tr><tr><td>Maximal F-score</td><td>377</td><td>0.41</td><td>0.62</td><td>0.49</td></tr><tr><td rowspan=\"3\">Baseline + Clinical Management + Evidence Marker</td><td>60</td><td>0.10</td><td>0.92</td><td>0.17</td></tr><tr><td>224</td><td>0.30</td><td>0.75</td><td>0.42</td></tr><tr><td>451</td><td>0.50</td><td>0.63</td><td>0.56</td></tr><tr><td>Maximal F-score</td><td>555</td><td>0.57</td><td>0.59</td><td>0.58</td></tr><tr><td rowspan=\"3\">Baseline + Clinical Management + Evidence Marker + Prognosis</td><td>61</td><td>0.10</td><td>0.90</td><td>0.17</td></tr><tr><td>230</td><td>0.30</td><td>0.73</td><td>0.42</td></tr><tr><td>568</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>Maximal F-score</td><td>479</td><td>0.47</td><td>0.56</td><td>0.51</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3541249_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    732.5,
+    676.9,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3541249_table_3.png",
+   "html": "<table><tr><td>PMID</td><td>Gene</td><td>Alteration</td><td>Textual evidence</td></tr><tr><td>17387528</td><td>ACAD8 HMGCS2</td><td>SNP</td><td>In a European screening sample of 115 sporadic AD patients and 191 healthy control subjects, we analyzed single nucleotide polymorphisms in 28 cholesterol-related genes for association with AD. The genes HMGCS2, FDPS, RAFTLIN, ACAD8, NPC2, and ABCG1 were associated with AD at a significance level of P &lt; or = 0.05 in this sample.</td></tr><tr><td>17531353</td><td>SLC17A7</td><td>Protein expression decrease</td><td>Loss of VGLUT1 and VGLUT2 in the prefrontal cortex is correlated with cognitive decline in Alzheimer disease. . .We quantified VGLUT1 and VGLUT2 in the prefrontal dorsolateral cortex (Brodmann area 9) of controls and AD patients using specific antiserums. A dramatic decrease in VGLUT1 and VGLUT2 was observed in AD using Western blot</td></tr><tr><td>19863188</td><td>HPX SERPINF1</td><td>Cerebrospinal fluid concentration</td><td>Five differentially-expressed proteins with potential roles in amyloid-beta metabolism and vascular and brain physiology [apolipoprotein A-1 (Apo A-1), cathepsin D (CatD), hemopexin (HPX), transthyretin (TTR), and two pigment epithelium-derived factor (PEDF) isoforms] were identified. Apo A-1, CatD and TTR were significantly reduced in the AD pool sample, while HPX and the PEDF isoforms were increased in AD CSF</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3541249_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.2,
+    667.3,
+    168.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3541249_table_4.png",
+   "html": "<table><tr><td>No. of genes/ proteins retrieved by SCAIView but not contained in gold standard</td><td>No. of genes with at least one biomarker evidence in Medline</td><td>No. of abstracts with lack of relevance either to the disease or to being a biomarker</td></tr><tr><td>400</td><td>158</td><td>241</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_335",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2958839_table_0",
+   "page_num": 1,
+   "bbox": [
+    80.6,
+    773.7,
+    669.3,
+    901.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2958839_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Strain</td><td rowspan=\"2\">Plasmid</td><td colspan=\"9\">Growth on different FAs and casamino acidsa</td></tr><tr><td>C4:0</td><td>C6:0</td><td>C8:0</td><td>C10:0</td><td>C12:0</td><td>C14:0</td><td>C16:0</td><td>C18:1 D9</td><td>CAA</td></tr><tr><td>K12 (wildtype)</td><td>none</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+4</td><td>+5</td><td>+4</td><td>+5</td><td>+6</td></tr><tr><td>E2011 (fadD- fadR-)</td><td>none</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+6</td></tr><tr><td>E2011 (fadD- fadR-)</td><td>pET15b</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+6</td></tr><tr><td>E2011 (fadD- fadR-)</td><td>pET15b-fadDEc</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>+3</td><td>+3</td><td>+4</td><td>+4</td><td>+6</td></tr><tr><td>E2011 (fadD- fadR-)</td><td>pET15b-fadD1</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>+4</td><td>+4</td><td>+4</td><td>+4</td><td>+6</td></tr><tr><td>E2011 (fadD- fadR-)</td><td>pET15b-fadD2</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>+4</td><td>+3</td><td>+4</td><td>+4</td><td>+6</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2958839_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    677.0,
+    665.0,
+    851.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2958839_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Substrate varied</td><td colspan=\"4\">FadD1 Kinetic Parametera</td><td colspan=\"4\">FadD2 Kinetic Parametera</td></tr><tr><td>Vmax b</td><td>kcat c</td><td>Km d</td><td>kcat/Km e</td><td>Vmax b</td><td>kcat c</td><td>Km d</td><td>kcat/Km e</td></tr><tr><td>ATP</td><td>213</td><td>0.219</td><td>10.6</td><td>20.7</td><td>182</td><td>0.187</td><td>10.9</td><td>17.2</td></tr><tr><td>C4:0</td><td>137</td><td>0.141</td><td>27.4</td><td>5.1</td><td>167</td><td>0.172</td><td>33.3</td><td>5.2</td></tr><tr><td>C6:0</td><td>133</td><td>0.137</td><td>26.7</td><td>5.1</td><td>159</td><td>0.164</td><td>31.8</td><td>5.2</td></tr><tr><td>C8:0</td><td>125</td><td>0.128</td><td>25.0</td><td>5.1</td><td>204</td><td>0.210</td><td>20.4</td><td>10.3</td></tr><tr><td>C10:0</td><td>116</td><td>0.119</td><td>23.3</td><td>5.1</td><td>182</td><td>0.187</td><td>36.4</td><td>5.1</td></tr><tr><td>C12:0</td><td>130</td><td>0.134</td><td>26.0</td><td>5.1</td><td>137</td><td>0.141</td><td>41.1</td><td>3.4</td></tr><tr><td>C14:0</td><td>130</td><td>0.134</td><td>13.0</td><td>10.3</td><td>109</td><td>0.112</td><td>43.5</td><td>2.6</td></tr><tr><td>C16:0</td><td>154</td><td>0.158</td><td>15.4</td><td>10.3</td><td>99</td><td>0.102</td><td>49.5</td><td>2.1</td></tr><tr><td>C18:1 D9</td><td>217</td><td>0.223</td><td>21.7</td><td>10.3</td><td>101</td><td>0.104</td><td>50.5</td><td>2.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2958839_table_2",
+   "page_num": 3,
+   "bbox": [
+    80.4,
+    120.1,
+    654.3,
+    678.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2958839_table_2.png",
+   "html": "<table><tr><td>Strains</td><td>Lab IDb</td><td>Relevant properties</td><td>Reference</td></tr><tr><td colspan=\"4\">E. coli</td></tr><tr><td>EPMax10B</td><td>E1231</td><td>F- l- mcrA D(mrr-hsdRMS-mcrBC) Q80dlacZ DM15 DlacX74 deoR recA1 endA1 araD139 D(ara, leu)7697 galU galK rpsL nupG</td><td>BioRad</td></tr><tr><td>K12</td><td>E0577</td><td>Prototroph</td><td>ATCC #23740</td></tr><tr><td>K27</td><td>E0410</td><td>fadD- (oldD88) mutant</td><td>[16]</td></tr><tr><td>K27-T7</td><td>E1063</td><td>Gmr; K27 with T7 expression system fadD- (oldD88) lattB::T7(pol-lysS)-lacIq-Gmr</td><td>Lab strain</td></tr><tr><td>JWC285</td><td>E1560</td><td>Kmr; fadA::Tn10 yfcYX::cat fadR::Kmr</td><td>[44]</td></tr><tr><td>K27-fadR-</td><td>E2011</td><td>Kmr; fadD- fadR::Kmr (transduced from strain JWC285 P1-lysate into strain K27)</td><td>This study</td></tr><tr><td colspan=\"4\">P. aeruginosa</td></tr><tr><td>PAO1</td><td>P007</td><td>prototroph</td><td>[68]</td></tr><tr><td>PAO1-fadD1::FRT</td><td>P175</td><td>PAO1 with fadD1 insertional mutation</td><td>This study</td></tr><tr><td>PAO1-fadD2::FRT</td><td>P547</td><td>PAO1 with fadD2 insertional mutation</td><td>This study</td></tr><tr><td>PAO1- DfadD2D1::FRT</td><td>P177</td><td>PAO1 with fadD2D1 deletional mutation</td><td>This study</td></tr><tr><td>PAO1-fadD1::FRT/ attB::miniCTX2-fadD1</td><td>P541</td><td>Tetr; PAO1-fadD1::FRT complemented with miniCTX2-fadD1</td><td>This study</td></tr><tr><td>PAO1-fadD2::FRT/ attB::miniCTX2-fadD2</td><td>P549</td><td>Tetr; PAO1-fadD2::FRT complemented with miniCTX2-fadD2</td><td>This study</td></tr><tr><td>PAO1-DfadD2D1::FRT/ attB::miniCTX2-fadD2D1</td><td>P543</td><td>Tetr; PAO1-DfadD2D1::FRT complemented with miniCTX2-fadD2D1</td><td>This study</td></tr><tr><td>PAO1-fadD1::FRT-lacZ/ attB::miniCTX2-fadD1</td><td>P518</td><td>Tetr, Gmr; fadD1 complement strain with fadD1-FRT-lacZ fusion</td><td>This study</td></tr><tr><td>PAO1-fadD2::FRT-lacZ/ attB::miniCTX2-fadD2</td><td>P520</td><td>Tetr, Gmr; fadD2 complement strain with fadD2-FRT-lacZ fusion</td><td>This study</td></tr><tr><td>PAO1-fadD1::FRT/ mucA::pUC18</td><td>P663</td><td>Cbr; fadD1 mutant with pUC18 inserted in mucA gene</td><td>This study</td></tr><tr><td>PAO1-fadD2::FRT/ mucA::pUC18</td><td>P667</td><td>Cbr; fadD2 mutant with pUC18 inserted in mucA gene</td><td>This study</td></tr><tr><td>PAO1-DfadD2D1::FRT/ mucA::pUC18</td><td>P665</td><td>Cbr; fadD2D1 mutant with pUC18 inserted in mucA gene</td><td>This study</td></tr><tr><td>PAO1-fadD1::FRT/ attB::miniCTX2-fadD1/ mucA::pUC18</td><td>P657</td><td>Cbr, Tetr; fadD1 mutant with pUC18 inserted in mucA gene</td><td>This study</td></tr><tr><td>PAO1-fadD2::FRT/ attB::miniCTX2-fadD2/ mucA::pUC18</td><td>P659</td><td>Cbr, Tetr; fadD2 mutant with pUC18 inserted in mucA gene</td><td>This study</td></tr><tr><td>PAO1-DfadD2D1::FRT/ attB::miniCTX2-fadD2D1/ mucA::pUC18</td><td>P661</td><td>Cbr, Tetr; fadD2D1 mutant with pUC18 inserted in mucA gene</td><td>This study</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2958839_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    120.1,
+    668.4,
+    495.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2958839_table_3.png",
+   "html": "<table><tr><td>Plasmids</td><td>Lab IDb</td><td>Relevant properties</td><td>Reference</td></tr><tr><td>pEX18T</td><td>E0055</td><td>Apr; gene replacement vector</td><td>[55]</td></tr><tr><td>pEX18T-fadD2D1</td><td>E0551</td><td>Apr; pEX18T with fadD2D1</td><td>This study</td></tr><tr><td>pEX18T-fadD1::Gm-FRT</td><td>E0635</td><td>Apr, Gmr; Gmr-FRT-cassette inserted into fadD1</td><td>This study</td></tr><tr><td>pEX18T-fadD2::Gm-FRT</td><td>E2163</td><td>Apr, Gmr; Gmr-FRT-cassette inserted into fadD2</td><td>This study</td></tr><tr><td>pEX18T-DfadD2D1::Gm-FRT</td><td>E0455</td><td>Apr, Gmr; Gmr-FRT-cassette inserted into fadD2D1</td><td>This study</td></tr><tr><td>pPS856</td><td>E0050</td><td>Apr, Gmr; plasmid with Gmr-FRT-cassette</td><td>[55]</td></tr><tr><td>pET15b</td><td>E0047</td><td>Apr; T7 expression vector</td><td>Novagen</td></tr><tr><td>pET15b-fadD1</td><td>E0753</td><td>Apr; pET15b with fadD1</td><td>This study</td></tr><tr><td>pET15b-fadD2</td><td>E0756</td><td>Apr; pET15b with fadD2</td><td>This study</td></tr><tr><td>pET15b-fadDEc</td><td>E2177</td><td>Apr; pET15b with E. coli fadD</td><td>This study</td></tr><tr><td>pET15b-fadD2::Gm-FRT</td><td>E2155</td><td>Apr, Gmr; Gmr-FRT-cassette inserted into fadD2</td><td>This study</td></tr><tr><td>miniCTX2</td><td>E0076</td><td>Tetr; site-specific integration vector</td><td>[56]</td></tr><tr><td>miniCTX2-fadD1</td><td>E2157</td><td>Tetr; miniCTX2 with cloned fadD1</td><td>This study</td></tr><tr><td>miniCTX2-fadD2</td><td>E2159</td><td>Tetr; miniCTX2 with cloned fadD2</td><td>This study</td></tr><tr><td>miniCTX2-fadD2D1</td><td>E2143</td><td>Tetr; miniCTX2 with cloned fadD2D1</td><td>This study</td></tr><tr><td>pUC18</td><td>E0135</td><td>Apr; cloning vector</td><td>[69]</td></tr><tr><td>pUC18-&#8216;mucA&#8217;</td><td>E1907</td><td>Apr; mucA internal region cloned into pUC18</td><td>This study</td></tr><tr><td>pUC19</td><td>E0014</td><td>Apr; cloning vector</td><td>[69]</td></tr><tr><td>pUC19-fadD2D1</td><td>E0545</td><td>Apr; pUC19 with cloned fadD1 and fadD2</td><td>This study</td></tr><tr><td>pUC19-DfadD2D1::Gm-FRT</td><td>E0416</td><td>Apr, Gmr; pUC19-fadD2D1 with a Gmr-FRT-cassette insertion</td><td>This study</td></tr><tr><td>pFRT1-lacZ-Gm</td><td>E0790</td><td>Gmr; FRT-lacZ fusion vector</td><td>[29]</td></tr><tr><td>pCD13SK-flp-oriT</td><td>E0783</td><td>Spr; suicidal Flp-containing plasmid</td><td>[29]</td></tr><tr><td>pFLP2</td><td>E0067</td><td>Apr; Flp-containing plasmid</td><td>[55]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2958839_table_4",
+   "page_num": 5,
+   "bbox": [
+    80.4,
+    120.1,
+    373.4,
+    495.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2958839_table_4.png",
+   "html": "<table><tr><td>Number and Name</td><td>Sequencea</td></tr><tr><td colspan=\"2\">fadD cloning</td></tr><tr><td>302; fadD-up-Hind</td><td>59-ATCGGAAGCTTCCGGGTGCTGCTGGCGGAT-39</td></tr><tr><td>303; fadD-down</td><td>59-TTCGTGGAGCTGCCGGCGCAAGC-39</td></tr><tr><td>339; fadD2-NdeI</td><td>59-CAAGAACATATGCAACCTGAATTCTGGAACG-39</td></tr><tr><td>340; fadD2-BamHI</td><td>59-CGGCAAGGATCCGTTTCAGAGCCTTGTAAGGCT-39</td></tr><tr><td>341; fadD1-NdeI</td><td>59-TGGGCTCATATGATCGAAAACTTCTGGAAGG-39</td></tr><tr><td>342; fadD1-BamHI</td><td>59-GGGGCGGATCCAGGCAACGGCGGACTTACTTC-39</td></tr><tr><td>501; Gm-up-reverse</td><td>59-CATACGCTACTTGCATTACAG-39</td></tr><tr><td>713; lacZa</td><td>59-TGTTGGGAAGGGCGATC-39</td></tr><tr><td>1092; EcfadD-up-AseI</td><td>59-AAGGATTAATAAGAAGGTTTGGCTTAAC-39</td></tr><tr><td>1093; EcfadD-down-BamHI</td><td>59-AACGGGATCCTCAGGCTTTATTGTC-39</td></tr><tr><td colspan=\"2\">Promoter mapping</td></tr><tr><td>372 &#8211; fadD2-race3b</td><td>59-GAGCGCTCGAAGACCTCGA-39</td></tr><tr><td>373 &#8211; fadD2-race2</td><td>59-GAAGTCGAGACTGTCGGGTA-39</td></tr><tr><td>374 &#8211; fadD2-race1</td><td>59-TCGTTCCAGAATTCAGGTTG-39</td></tr><tr><td>375 &#8211; fadD1-race3b</td><td>59-ACAGGATGTTCGGGTACTG-39</td></tr><tr><td>376 &#8211; fadD1-race2</td><td>59-CGGGATTGATCTCGGCAGCA-39</td></tr><tr><td>377 &#8211; fadD1-race1</td><td>59-GTACTTGTCCTTCCAGAAGT-39</td></tr><tr><td>797 &#8211; SMART-IIAb</td><td>59-AAGCAGTGGTATCAACGCAGAGTACGCGGG-39</td></tr><tr><td>798 &#8211; SMART-IIB</td><td>59-AAGCAGTGGTATCAACGCAGAGT-39</td></tr><tr><td colspan=\"2\">mucA cloning</td></tr><tr><td>937 &#8211; mucA-up</td><td>59-GAAGCGGATGAACTCGAG-39</td></tr><tr><td>938 &#8211; mucA-down</td><td>59-ACTGACGGCGGATTGTTG-39</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_019",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The analysis presented in Table 1 focuses on the statistical evaluation of the amplicon data, which serves as a crucial parameter for understanding the underlying genetic variations present in the samples under investigation. The results indicate a significant relationship between the amplicon size and the observed variances, as reflected in the reported F-value of 219.331."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    140
+   ],
+   "ocr": "This high F- value suggests that the differences among the groups are substantial and likely non-random. Furthermore, the corresponding p- value of less than 0.001 reinforces the strength of this association, indicating that the results are statistically significant at conventional thresholds."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    400.0
+   ],
+   "ocr": "Parameter Df F-value p-value\nAmplicon 6 219.331 <0.001\nSample 10 7.227 <0.001\nCt 1 0.646 0.422\nDilution 4 2.111 0.078\nAmplicon:Sample 15 4.525 <0.001\nAmplicon:Ct 6 1.957 0.07\nAmplicon:Dilution 20 2.576 <0.001\nSample:Ct 10 1.226 0.271\nSample:Dilution 37 1.512 0.029\nCt: Dilution 4 1.872 0.114\nResiduals 700",
+   "table_id": "img_020525_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    416,
+    580,
+    444
+   ],
+   "ocr": "The degrees of freedom (Df) associated with this analysis provide additional context, allowing for a more nuanced interpretation of the data and its implications in the broader scope of genomic research."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    432,
+    580,
+    490
+   ],
+   "ocr": "This analysis not only underscores the importance of the amplicon as a key parameter in the study but also highlights the robust statistical methods employed to ascertain the validity of the findings. Collectively, these results contribute to a deeper understanding of the genetic landscape being studied, setting the stage for further explorations into the biological significance of the observed variations."
+  }
+ }
+}

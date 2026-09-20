@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_256",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    306.8,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Bayesian variable selection with graphical structure learning: Applications in integrative genomics"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.8,
+    727.1,
+    155.6
+   ],
+   "ocr": "Table 3. Simulations for Case II, training sample size = 100, test sample size = 100. BVS-SL(κ) represents the Bayes variable selection with belief parameter κ for all edges. Pencred, SSVS, Lasso, EL, SCAD, SSL, and Flasso represent the penalized joint credible regions approach, stochastic search variable selection, L1 penalized regres- sion, and elastic net, the smooth clipped absolute deviation, the spike and slab lasso, and sparse fused lasso respectively. MSPE: out of sample predictive MSE; Pwr(10% FDR) is sensitivity controlling for 90% specificity; MS: estimated model size; FP: false positives, and Cov95 is coverage under 95% predictive intervals. The true model size is 10."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    162.6,
+    700.1,
+    334.7
+   ],
+   "ocr": "Method MSPE ROC PRC Pwr(10% FDR) MS FP Cov95\nCase II\nBVS-SL(κ = 0) 1.26 0.89 0.79 0.78 17.85 1.55 0.901\nBVS-SL(κ = 20) 1.15 0.86 0.83 0.72 17.10 0.80 0.912\nPenCred 1.22 0.66 0.55 0.42 17.45 2.10 0.880\nSSVS 1.30 0.81 0.72 0.69 15.90 0.75 0.905\nLasso 1.38 0.59 0.47 0.39 13.90 2.85 0.892\nEL 1.39 0.63 0.58 0.40 14.10 2.55 0.895\nSCAD 1.38 0.63 0.59 0.59 12.72 2.5 0.901\nSSL 1.32 0.78 0.73 0.68 10.72 1.70 0.866\nFLasso 1.22 0.83 0.81 0.70 15.10 1.05 0.896",
+   "table_id": "PMC6066211_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    343.0,
+    236.3,
+    353.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195070.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    385.9,
+    716.2,
+    575.7
+   ],
+   "ocr": "where 2 3 ~s2��1 OO OO i 12 4 5; OT ¼ OO O22 21 ~s2��1 Gað~n=2; ~n=2Þ, varðzO ~s2 p2ð~n 2Þ=ð3~nÞ, ~n � ¼ � ¼ Þ ¼ and �i with 7:3. We note that ij i and the off-diagonal elements of OT encode within and between platform interactions. The latent variables zO are thresholded at zero to yield binary predictors which marginally follow a logistic distribution. We considered different structures for OT similar to Cases I(a)-(d), incorporating prior graph information G0 on the mixed covariates via the inverse covariance g0 j ¼ ¼"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    554.1,
+    727.2,
+    566.8
+   ],
+   "ocr": "matrix. The true inclusion status is set to 1; 1; . . . ; 8; 23; 24; with four binary variables"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    252.5,
+    560.2,
+    465.1,
+    594.6
+   ],
+   "ocr": "j g0 ¼ included, and 0 otherwise."
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    579.0,
+    721.2,
+    639.4
+   ],
+   "ocr": "j We examine the graph estimation performance of our method when the mixed covariates are generated as above, and compare these results with the scenario when a probit link is used ~s2 ��1"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    613.0,
+    625.5,
+    657.2,
+    647.3
+   ],
+   "ocr": "¼ ¼"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    625.7,
+    727.2,
+    898.4
+   ],
+   "ocr": "to generate the latent variables which can be implemented by setting 1 in (5). The i results presented in Table 4 clearly suggest that (a) irrespective of the link used to generate the binary variables, a higher value of the belief parameter results in better graphical model estima- tion performance; and (b) the sensitivity and the specificity of the estimated graphs are very similar under both the links, even though there may be possible differences in the precision matrix estimation accuracy. Based on the above findings, we conclude that there are no sys- tematic differences in terms of graphical model estimation, when the latent variables are gener- ated under different links, which illustrates the robustness of the proposed approach. Integrative network analysis of TCGA glioblastoma data Our motivating dataset arises from a TCGA-based study in glioblastoma multiforme (GBM), which is the most common and aggressive form of primary brain cancer in human adults. The TCGA data portal provides multiple levels of molecular data for a large cohort of GBM tumor specimens. Each qualified specimen was assayed using multiple assays among which we con- centrate on the following: messenger RNA (mRNA) expression using HT-HG-U133A (Affy- metrix) arrays, DNA methylation (METH) using HumanMethylation27K (Illumina) and"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195070 July 30, 2018 20 / 29"
+  }
+ }
+}

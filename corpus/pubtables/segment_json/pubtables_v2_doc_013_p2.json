@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_013",
+  "page": 2,
+  "page_size": [
+   687,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.3,
+    64.3,
+    620.8,
+    230.2
+   ],
+   "ocr": "1610 A. Saxena et al. / Data in Brief 20 (2018) 1607–1619 column (Eksigent, Dublin, CA) packed with ChromXP C18. The eluted peptides were electrosprayed into the 6600 Triple-TOF mass spectrometer (AB Sciex) where mass spectra were collected in positive mode. Peptides were fragmented by collision-induced dissociation with nitrogen gas. The Triple-TOF data were searched against the NCBInr 15Sep2014 database for Sus Scrofa proteins using the Paragon algorithm from Protein Pilot (AB Sciex) (Tables 1–12). Table 1 Acrosin peptides in PoBChE tetramers."
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    67.0,
+    243.7,
+    611.4,
+    582.5
+   ],
+   "ocr": "Name Gene Gi # peptide length count\nAcrosin ACR 47522886 APPPPPPPPPPP 12 12\nP08001 PAPPPPPPPPPP 12 12\nPPAPPPPPPPPP 12 6\nPPAPPPPPPPPPPPPP 16 3\nPPPAPPPPPPPPPPPP 16 9\nAPPPPPPPPPPPPPPP 16 3\nPAPPPPPPPPPPPPPP 16 3\nPPPPPPPPPPPPPPPQQ 17 4\nAPPPAPPPPPPPPP 14 2\nPAPPPAPPPPPPPP 14 2\nPPPAPPPPPPPP 12 7\nAPPPPPPPPPPPPP 14 1\nPAPPPPPPPPPPPP 14 2\nPPPAPPPPPPPPPP 14 2\nAPPPPPPPPPPPP 13 2\nPAPPPPPPPPPPP 13 2\nPPPAPPPPPPP 11 1\nPPPPPPPPPPPP 12 5\nPPPPPPPPPPPPP 13 11\nPPPPPPPPPPPPPP 14 7\nPPPPPPPPPPPPPPP 15 1\nPPPPPPPPPPPPPPPPP 17 20\nPPPPPPPPPPPPPPPPPP 18 13\nPPPPPPPPPPPPPPPPPPP 19 6\nPPPPPPPPPPPPPPPPQQ 18 2",
+   "table_id": "PMC6157292_table_1"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    58.3,
+    596.1,
+    440.0,
+    620.2
+   ],
+   "ocr": "Total peptide count 138. 138 peptides for acrosin compared to 10978 peptides for PoBChE calculates to 1.25%."
+  },
+  "p2_b3": {
+   "type": "title",
+   "bbox": [
+    77.1,
+    666.9,
+    279.3,
+    680.4
+   ],
+   "ocr": "4sp|P08001|ACRO_PIG Acrosin"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    58.3,
+    667.5,
+    620.7,
+    925.5
+   ],
+   "ocr": "MLPTAVLLVLAVSV AARDNATCDGPCGLRFRQKLESGMRVVGGMSAEPGAWPWMVSLQIFMYHNNRRYHTCGGILLNSHWVLTAAHCFKN KKKVTDWRLIFGANEVVWGSNKPVKPPLQERFVEEIIIHEKYVSGLEINDIALIKITPPVPCGPFIGPGCLPQFKA GPPRAPQTCWVTGWGYLKEKGPRTSPTLQEARVALIDLELCNSTRWYNGRIRSTNVCAGYPRGKIDTCQGDSGGPL MCRDRAENTFVVVGITSWGVGCARAKRPGVYTSTWPYLNWIASKIGSNALQMVQLGTPPRPSTPAPPVRPPSVQTP VRPPWYFQRPPGPSQQPGSRPRP VSAKPPQALSFAKRLQQLIE ALKGTAFSSGRSYYETETTDLQELPAS. 27 residues PAPPPAPPPPPPPPPPPPPPPPPPPQQ MW 2648.4. Acrosin is the major proteinase present in the acrosome of mature spermatozoa. It is a typical serine proteinase with trypsin-like speciﬁcity. It is stored in the acrosome in its precursor form, proacrosin. The active enzyme functions in the lysis of the zona pellucida, thus facilitating penetration of the sperm through the innermost glycoprotein layers of the ovum. The mRNA for proacrosin is synthesized only in the postmeiotic stages of spermatogenesis. In humans proacrosin ﬁrst appears in the haploid spermatids. https://www.gtexportal.org/home/gene/ACR The human acrosin gene is expressed in testis and to a small extent in mammary breast tissue, lung, spleen, adipose tissue, and tibial artery."
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    284.1,
+    667.5,
+    332.7,
+    687.7
+   ],
+   "ocr": "OS¼Sus"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    337.6,
+    667.5,
+    381.7,
+    679.5
+   ],
+   "ocr": "scrofa"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    386.6,
+    667.5,
+    512.8,
+    687.7
+   ],
+   "ocr": "GN¼ACR PE¼1 SV¼5"
+  }
+ }
+}

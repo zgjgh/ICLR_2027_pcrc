@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_217",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    508.7,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Breeding Value of Synthetic Wheat for Grain Yield"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.3,
+    268.0,
+    107.4
+   ],
+   "ocr": "Table 7. Mean heritability for traits in each trial."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    712.8,
+    222.0
+   ],
+   "ocr": "Trials DRO. IRRI. HEAT\nModel/Trait Pedigree Marker Pedigree-Marker Pedigree Marker Pedigree-Marker Pedigree Marker Pedigree-Marker\nDHE 0.68 0.63 0.64 0.71 0.67 0.67 0.64 0.58 0.59\nDFL 0.68 0.64 0.64 0.77 0.75 0.75 0.24 0.34 0.37\nDMA 0.70 0.62 0.64 0.69 0.66 0.66 0.54 0.49 0.50\nPLH 0.60 0.51 0.53 0.80 0.79 0.79 0.61 0.53 0.56\nYLD 0.57 0.52 0.52 0.70 0.64 0.65 0.68 0.63 0.64",
+   "table_id": "PMC5033409_table_6"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    230.6,
+    195.6,
+    241.2
+   ],
+   "ocr": "doi:10.1371/journal.pone.0162860.t007"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    265.5,
+    727.9,
+    899.7
+   ],
+   "ocr": "from -0.16 to 0.12 under irrigated and drought environments, respectively. The high-yielding BW parents, MILAN/S87230//BAV92, had 173 progenies among the top 10% of the SDLs, but only 25 of them had higher GEBVs than the BW parent. Their GEBVs for yield ranged from 0.44 to 1.69 under drought and irrigated conditions, respectively. This pattern is similar for the other low- and high-yielding BW parents. In order to determine if the high yield of SDLs is related to the phenological traits, the corre- lation coefficientsbetween GEBVs of YLD and those for other traits was calculated. Squared correlations of YLD with DMA were 0.08, 0.06, and 0.04 in drought, heat and irrigated, respec- tively, and these values for PLH were 0.01, 0.05, and 0.06 in drought, heat and irrigated, respec- tively which indicated that DMA and PLH did not affect the yield. Genomic Prediction The univariate, random five-fold cross validation was used for genomic prediction of traits for each trial and for all trials together. As was previously mentioned, the heat trial in year 2011– 12 experiencedextreme temperatures and when using the phenotypic observations from this trial in genomic prediction models, both heritability and prediction accuracy of the traits decreased across environments. Consequently, this trial was excluded from cross validation. Broad-sense heritabilities of traits in different environments based on pedigree,marker and pedigree-markermodels are shown in Table 7. Estimated heritabilities for all traits using the corrected pedigree model were slightly higher in each environment except for DFL under the heat stress environments (Table 7). The differences in heritabilities could be due to 1) the artifi- cially high genetic variance assigned to unrelated parents that are actually related 2) the differ- ences in the amount of estimated genetic variances using A or G matrices in the model [37]. We observedthat estimated genetic variances using the G matrix (gVarG) were smaller than those using the A matrix (gVarA) for all traits under drought stress. Under heat stress, gVarG for all traits were smaller than gVarA except for DFL, and under the irrigated environment, the trend was similar except for DFL and PLH. The genetic variances estimated using the G matrix explained 66 to 96% (gVarG/ gVarA) of those estimated using the A matrix under drought stress. This ratio ranged from 81 to 131% and from 76 to 118% for the heat and irrigated envi- ronments, respectively 3) Sampling error due to finite markers can affect the estimation of the G matrix as reported by Haile- Mariam et al. [38] and Powell et al [39]. 4) All the diagonal ele- ments of the A matrix were 2 while the average of the diagonal elements of the marker based relationship matrix (G matrix) was 1.86 (0.25 to 9.99). However, scaling the G matrix did not change the results (data not shown). The trait heritabilities were consistently higher in irrigated than drought and heat stress environments using the three models. Heritabilities of DHE, DMA and DFL were higher under irrigated and drought environments but lower under heat stress especially for DFL (Table 7). This could be related to the lower number of observations for these traits. DHE and DMA had"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0162860 September 22, 2016 15 / 24"
+  }
+ }
+}

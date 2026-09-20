@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_047",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    139,
+    580,
+    166
+   ],
+   "ocr": "The analysis presented in the accompanying data table examines the structural characteristics of the IRIS dataset, particularly focusing on the size of the dissimilarity matrix and the resulting submatrix configurations."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    154,
+    580,
+    182
+   ],
+   "ocr": "The IRIS dataset, which comprises 150 samples, serves as a foundational example for understanding multidimensional data organization."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    257.0,
+    580.0,
+    398.0
+   ],
+   "ocr": "(%) N = 100 N = 50 N = 20 N = 10 N = 4\n1 1 1.5 1 1 0\n5 4.5 4.9 4.4 4.6 0.5\n10 8.5 10.5 9 9.7 2.5\n25 25.5 25 23.1 24.9 10.2\n50 49.8 50.2 49.4 52.5 38.7\n75 74.9 73.5 75.7 76.5 69.2",
+   "table_id": "img_052106_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    454.0,
+    580.0,
+    577.0
+   ],
+   "ocr": "Dataset Size of Dissimilarity Matrix No. of Submatrices(p) No. of Samplesin Each Submatrix (s)\nIRIS 150 × 150 3 20\nDermatology 366 × 366 3 60\nM. musculus Microarray 2,000 × 2,000 10 100\nS. cerevisiae Microarray 9,300 × 9,300 10 150\nMNIST 10,000 × 10,000 10 150",
+   "table_id": "img_052106_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    686
+   ],
+   "ocr": "The table delineates various metrics, including the \"Size of Dissimilarity Matrix,\" which is quantified as 150 × 150, indicating a comprehensive representation of pairwise distances among the samples. Additionally, the table provides insights into the \"No. of Submatrices (p)\" generated from this dataset, revealing that three distinct submatrices are derived."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    763
+   ],
+   "ocr": "This partitioning is significant as it allows for a more nuanced analysis of the data, facilitating comparisons across varying sample sizes, noted in the columns labeled \"N = 100,\" \"N = 50,\" \"N = 20,\" \"N = 10,\" and \"N = 4.\" Such metrics are crucial for researchers aiming to apply clustering or classification techniques, as they highlight the scalability and adaptability of the dataset in addressing diverse analytical objectives. Overall, this contextual framework establishes a foundation for further exploration of the IRIS dataset's properties and implications in data analysis."
+  }
+ }
+}

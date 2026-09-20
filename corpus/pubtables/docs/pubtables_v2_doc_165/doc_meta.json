@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_165",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4398400_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    831.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4398400_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">GO type</td><td rowspan=\"2\">GO term</td><td rowspan=\"2\">GO id</td><td colspan=\"2\">CA vs GY</td><td colspan=\"2\">NA vs GY</td></tr><tr><td>up</td><td>down</td><td>up</td><td>down</td></tr><tr><td rowspan=\"18\">Biological process</td><td>biological regulation</td><td>0065007</td><td>39*</td><td>24</td><td>63</td><td>61</td></tr><tr><td>cellular component organization or biogenesis</td><td>0071840</td><td>8</td><td>8</td><td>25</td><td>40</td></tr><tr><td>cellular process</td><td>0009987</td><td>161</td><td>145</td><td>237</td><td>359</td></tr><tr><td>developmental process</td><td>0032502</td><td>3</td><td>2</td><td>14</td><td>18</td></tr><tr><td>establishment of localization</td><td>0051234</td><td>30</td><td>69</td><td>52</td><td>105</td></tr><tr><td>immune system process</td><td>0002376</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>localization</td><td>0051179</td><td>30</td><td>71</td><td>52</td><td>117</td></tr><tr><td>locomotion</td><td>0040011</td><td>1</td><td>4</td><td>2</td><td>19</td></tr><tr><td>metabolic process</td><td>0008152</td><td>195</td><td>149</td><td>258</td><td>368</td></tr><tr><td>multi-organism process</td><td>0051704</td><td>0</td><td>2</td><td>1</td><td>3</td></tr><tr><td>negative regulation of biological process</td><td>0048519</td><td>2</td><td>2</td><td>4</td><td>3</td></tr><tr><td>positive regulation of biological process</td><td>0048518</td><td></td><td></td><td>1</td><td>1</td></tr><tr><td>regulation of biological process</td><td>0050789</td><td>37</td><td>23</td><td>62</td><td>60</td></tr><tr><td>response to stimulus</td><td>0050896</td><td>34</td><td>23</td><td>35</td><td>50</td></tr><tr><td>Signaling</td><td>0023052</td><td>3</td><td>6</td><td>7</td><td>16</td></tr><tr><td>single-organism process</td><td>0044699</td><td>153</td><td>133</td><td>201</td><td>311</td></tr><tr><td>biological adhesion</td><td>0022610</td><td>1</td><td>0</td><td>1</td><td>1</td></tr><tr><td>reproduction</td><td>0000003</td><td></td><td></td><td>3</td><td>1</td></tr><tr><td rowspan=\"13\">Cellular component</td><td>Cell</td><td>0005623</td><td>79</td><td>83</td><td>129</td><td>201</td></tr><tr><td>cell part</td><td>0044464</td><td>79</td><td>83</td><td>129</td><td>201</td></tr><tr><td>extracellular region</td><td>0005576</td><td>1</td><td>3</td><td>1</td><td>2</td></tr><tr><td>extracellular region part</td><td>0044421</td><td>0</td><td>1</td><td></td><td></td></tr><tr><td>macromolecular complex</td><td>0032991</td><td>34</td><td>29</td><td>58</td><td>89</td></tr><tr><td>Membrane</td><td>0016020</td><td>36</td><td>78</td><td>65</td><td>131</td></tr><tr><td>membrane-enclosed lumen</td><td>0031974</td><td>1</td><td>2</td><td>2</td><td>3</td></tr><tr><td>membrane part</td><td>0044425</td><td>22</td><td>56</td><td>46</td><td>89</td></tr><tr><td>Nucleoid</td><td>0009295</td><td></td><td></td><td>1</td><td>1</td></tr><tr><td>Organelle</td><td>0043226</td><td>6</td><td>10</td><td>13</td><td>51</td></tr><tr><td>organelle part</td><td>0044422</td><td>2</td><td>5</td><td>7</td><td>26</td></tr><tr><td>Virion</td><td>0019012</td><td></td><td></td><td>2</td><td>0</td></tr><tr><td>virion part</td><td>0044423</td><td></td><td></td><td>2</td><td>0</td></tr><tr><td rowspan=\"12\">Molecular function</td><td>Binding</td><td>0005488</td><td>145</td><td>123</td><td>213</td><td>266</td></tr><tr><td>catalytic activity</td><td>0003824</td><td>185</td><td>143</td><td>236</td><td>340</td></tr><tr><td>electron carrier activity</td><td>0009055</td><td>8</td><td>6</td><td>7</td><td>2</td></tr><tr><td>metallochaperone activity</td><td>0016530</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>molecular transducer activity</td><td>0060089</td><td>3</td><td>5</td><td>5</td><td>14</td></tr><tr><td>nucleic acid binding transcription factor activity</td><td>0001071</td><td>12</td><td>7</td><td>26</td><td>15</td></tr><tr><td>receptor activity</td><td>0004872</td><td>1</td><td>2</td><td>1</td><td>6</td></tr><tr><td>structural molecule activity</td><td>0005198</td><td>4</td><td>5</td><td>3</td><td>31</td></tr><tr><td>transporter activity</td><td>0005215</td><td>20</td><td>55</td><td>35</td><td>83</td></tr><tr><td>antioxidant activity</td><td>0016209</td><td>5</td><td>0</td><td>2</td><td>1</td></tr><tr><td>enzyme regulator activity</td><td>0030234</td><td>2</td><td>0</td><td>0</td><td>1</td></tr><tr><td>protein binding transcription factor activity</td><td>0000988</td><td>3</td><td>0</td><td>4</td><td>3</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4398400_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    705.0,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4398400_table_1.png",
+   "html": "<table><tr><td>Gene ID</td><td>Description</td><td>FDR</td><td>Fold change</td></tr><tr><td>BCO26_0425</td><td>glycine betaine/L-proline ABC transporter ATPase</td><td>6.01E-03</td><td>2.30</td></tr><tr><td>BCO26_0553</td><td>binding-protein-dependent transport system inner membrane protein</td><td>3.04E-03</td><td>2.55</td></tr><tr><td>BCO26_0554</td><td>NMT1/THI5 like domain-containing protein</td><td>1.80E-02</td><td>2.03</td></tr><tr><td>BCO26_0555</td><td>ABC transporter-like protein</td><td>2.38E-02</td><td>1.94</td></tr><tr><td>BCO26_0705</td><td>phosphate binding protein</td><td>2.62E-06</td><td>4.16</td></tr><tr><td>BCO26_0706</td><td>phosphate ABC transporter permease</td><td>8.04E-04</td><td>2.98</td></tr><tr><td>BCO26_0707</td><td>phosphate ABC transporter permease</td><td>6.70E-03</td><td>2.40</td></tr><tr><td>BCO26_0743</td><td>ABC transporter-like protein</td><td>5.19E-03</td><td>2.36</td></tr><tr><td>BCO26_2084</td><td>periplasmic solute binding protein</td><td>1.52E-02</td><td>2.05</td></tr><tr><td>BCO26_2523</td><td>ABC transporter</td><td>9.44E-03</td><td>2.25</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4398400_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    352.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4398400_table_2.png",
+   "html": "<table><tr><td>Gene ID</td><td>Description</td><td>FDR</td><td>Fold change</td></tr><tr><td>BCO26_0422</td><td>binding-protein-dependent transport system inner membrane protein</td><td>1.00E-02</td><td>2.02</td></tr><tr><td>BCO26_0423</td><td>glycine betaine ABC transporter substrate-binding protein</td><td>4.04E-02</td><td>1.60</td></tr><tr><td>BCO26_0424</td><td>binding-protein-dependent transport system inner membrane protein</td><td>4.16E-02</td><td>1.60</td></tr><tr><td>BCO26_0425</td><td>glycine betaine/L-proline ABC transporter ATPase</td><td>1.12E-02</td><td>1.98</td></tr><tr><td>BCO26_0553</td><td>binding-protein-dependent transport system inner membrane protein</td><td>1.15E-02</td><td>2.04</td></tr><tr><td>BCO26_0554</td><td>NMT1/THI5 like domain-containing protein</td><td>5.03E-03</td><td>2.22</td></tr><tr><td>BCO26_0555</td><td>ABC transporter-like protein</td><td>3.86E-04</td><td>2.82</td></tr><tr><td>BCO26_0685</td><td>transport system permease</td><td>5.90E-05</td><td>3.20</td></tr><tr><td>BCO26_0686</td><td>transport system permease</td><td>3.95E-04</td><td>2.81</td></tr><tr><td>BCO26_0687</td><td>ABC transporter-like protein</td><td>2.20E-03</td><td>2.42</td></tr><tr><td>BCO26_0688</td><td>periplasmic binding protein</td><td>1.03E-03</td><td>2.59</td></tr><tr><td>BCO26_2084</td><td>periplasmic solute binding protein</td><td>4.48E-02</td><td>1.57</td></tr><tr><td>BCO26_2523</td><td>ABC transporter</td><td>6.40E-03</td><td>2.21</td></tr><tr><td>BCO26_2588</td><td>ABC transporter-like protein</td><td>4.57E-02</td><td>1.94</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4398400_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    367.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4398400_table_3.png",
+   "html": "<table><tr><td>Gene ID</td><td>Description</td><td>FDR</td><td>Fold change</td></tr><tr><td>BCO26_0036</td><td>UDP-N-acetylglucosamine pyrophosphorylase</td><td>3.31E-03</td><td>2.29</td></tr><tr><td>BCO26_0177</td><td>phosphoglucosamine mutase</td><td>8.52E-03</td><td>2.04</td></tr><tr><td>BCO26_0186</td><td>NAD(P)(+)-protein-arginine ADP-ribosyltransferase</td><td>9.44E-07</td><td>4.03</td></tr><tr><td>BCO26_0204</td><td>PTS system glucose subfamily transporter subunit IIA</td><td>9.03E-03</td><td>2.16</td></tr><tr><td>BCO26_0255</td><td>glucosamine/fructose-6-phosphate aminotransferase</td><td>2.00E-09</td><td>5.17</td></tr><tr><td>BCO26_0507</td><td>phosphoglucomutase/phosphomannomutase alpha/beta/alpha domain I</td><td>3.58E-02</td><td>1.63</td></tr><tr><td>BCO26_0622</td><td>Galactokinase</td><td>1.44E-06</td><td>3.94</td></tr><tr><td>BCO26_0623</td><td>UDP-glucose 4-epimerase</td><td>3.77E-05</td><td>3.28</td></tr><tr><td>BCO26_0624</td><td>galactose-1-phosphate uridylyltransferase</td><td>1.80E-04</td><td>2.96</td></tr><tr><td>BCO26_0635</td><td>N-acetylglucosamine-6-phosphate deacetylase</td><td>1.84E-07</td><td>4.35</td></tr><tr><td>BCO26_0636</td><td>glucosamine-6-phosphate isomerase</td><td>5.23E-08</td><td>4.61</td></tr><tr><td>BCO26_1444</td><td>UDP-N-acetylenolpyruvoylglucosamine reductase</td><td>4.85E-02</td><td>1.54</td></tr><tr><td>BCO26_1699</td><td>ROK family glucokinase</td><td>4.25E-04</td><td>2.77</td></tr><tr><td>BCO26_2463</td><td>N-acylglucosamine-6-phosphate 2-epimerase</td><td>3.29E-09</td><td>5.08</td></tr><tr><td>BCO26_2818</td><td>UDP-N-acetylglucosamine 1-carboxyvinyltransferase</td><td>1.28E-03</td><td>2.51</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4398400_table_4",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    720.7,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4398400_table_4.png",
+   "html": "<table><tr><td>Gene ID</td><td>Description</td><td>FDR</td><td>Fold change</td></tr><tr><td>BCO26_0186</td><td>NAD(P)(+)-protein-arginine ADP-ribosyltransferase</td><td>3.19E-02</td><td>1.82</td></tr><tr><td>BCO26_0255</td><td>glucosamine/fructose-6-phosphate aminotransferase</td><td>2.02E-02</td><td>1.96</td></tr><tr><td>BCO26_0622</td><td>Galactokinase</td><td>1.68E-03</td><td>2.64</td></tr><tr><td>BCO26_0623</td><td>UDP-glucose 4-epimerase</td><td>4.24E-02</td><td>1.72</td></tr><tr><td>BCO26_0635</td><td>N-acetylglucosamine-6-phosphate deacetylase</td><td>5.19E-03</td><td>2.36</td></tr><tr><td>BCO26_0636</td><td>glucosamine-6-phosphate isomerase</td><td>4.01E-02</td><td>1.78</td></tr><tr><td>BCO26_2126</td><td>PTS system glucose subfamily transporter subunit IIA</td><td>7.25E-03</td><td>2.27</td></tr><tr><td>BCO26_2463</td><td>N-acylglucosamine-6-phosphate 2-epimerase</td><td>1.51E-02</td><td>2.06</td></tr><tr><td>BCO26_0354</td><td>nucleotide sugar dehydrogenase</td><td>2.71E-02</td><td>-1.87</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4398400_table_5",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    657.6,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4398400_table_5.png",
+   "html": "<table><tr><td>Gene ID</td><td>Description</td><td>FDR</td><td>Fold change</td></tr><tr><td>BCO26_0204</td><td>PTS system glucose subfamily transporter subunit IIA</td><td>1.73E-03</td><td>2.90</td></tr><tr><td>BCO26_0492</td><td>glycoside hydrolase</td><td>1.22E-02</td><td>2.09</td></tr><tr><td>BCO26_0507</td><td>phosphoglucomutase/phosphomannomutase alpha/beta/alpha domain I</td><td>3.58E-02</td><td>1.63</td></tr><tr><td>BCO26_0625</td><td>aldose 1-epimerase</td><td>8.69E-03</td><td>2.19</td></tr><tr><td>BCO26_0962</td><td>pyruvate dehydrogenase E1 component subunit alpha</td><td>9.62E-04</td><td>2.76</td></tr><tr><td>BCO26_0963</td><td>transketolase central region</td><td>7.31E-04</td><td>2.85</td></tr><tr><td>BCO26_0964</td><td>hypothetical protein BCO26_0964</td><td>1.21E-03</td><td>2.70</td></tr><tr><td>BCO26_0965</td><td>dihydrolipoamide dehydrogenase</td><td>9.46E-04</td><td>2.76</td></tr><tr><td>BCO26_1409</td><td>dihydrolipoamide dehydrogenase</td><td>1.52E-02</td><td>2.30</td></tr><tr><td>BCO26_1699</td><td>ROK family glucokinase</td><td>4.72E-02</td><td>1.68</td></tr><tr><td>BCO26_1901</td><td>alcohol dehydrogenase GroES domain-containing protein</td><td>5.33E-04</td><td>2.95</td></tr><tr><td>BCO26_2235</td><td>enolase</td><td>1.68E-02</td><td>1.86</td></tr><tr><td>BCO26_2817</td><td>fructose-1,6-bisphosphatase</td><td>3.96E-03</td><td>2.24</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_020",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The following table presents the results of a study examining the effects of soaking samples in deionized distilled water (ddw) for a duration of 24 hours."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "This methodology was employed to assess the changes in specific metrics, notably the **pH levels** and **conductivity** of the samples post-soaking."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    422.0
+   ],
+   "ocr": "Protocol step Group\nI II III IV V\nSoaking in ddw for 24 h √ √ √ √ √\nFrozen at −80 °C and thawed twice √ √ √ √ √\nSoaking: 75% ethanolSolvent:tissue ratio: 20:1 (v/w)Total duration: 72 hSolvent replacement at 1, 3, 6, 12, 24, 72 h √ √ √ √ √\nSoaking in ddw for 24 h √ √ √ √ √\nDigestion on an orbital shaker using a tissue:enzyme ratio (g/ml) of 1:15 0.125% pepsin 0.125% pepsin 0.125% pepsin 0.125% pepsin 0.125% pepsin\nSolvent 1× EDTA 2× EDTA 1× EDTA 1× EDTA 2× EDTA\nDuration (h) 1.5 1 2 2 1.5\nPBS washing for 30 min; shaking √ √ √ √ √\nDNase and RNase for 6 h; shaking √ √ √ √ √\nRinsing solution ddw ddw Triton ddw Triton\nDuration (h) 1 1 2 1 2\nUltraviolet irradiation for 30 min √ √",
+   "table_id": "img_021713_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    438,
+    580,
+    512
+   ],
+   "ocr": "The analysis aimed to elucidate the impact of prolonged exposure to ddw on the chemical properties of various materials, which is critical for applications in fields such as materials science and environmental engineering. In the first column, labeled \"I,\" we provide the identification of the materials tested, which includes a variety of substrates known for their distinct chemical characteristics. The subsequent columns, \"II\" through \"V,\" detail the observed changes in the aforementioned metrics, allowing for a comparative analysis across different samples."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    500,
+    580,
+    558
+   ],
+   "ocr": "The results indicate a trend in both pH and conductivity that suggests significant interactions between the ddw and the sample materials. Understanding these interactions not only contributes to the body of knowledge surrounding material behavior in aqueous environments but also informs practical applications in industries that rely on the compatibility and stability of materials when exposed to water."
+  }
+ }
+}

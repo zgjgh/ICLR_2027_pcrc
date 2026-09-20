@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_031",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in the table offers a comprehensive overview of the relationship between population metrics and disease prevalence across various regions, with a specific focus on Germany."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "In particular, the column labeled \"Population\" provides critical context for understanding the size of the demographic under study, which is essential for interpreting the subsequent metrics."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    350.0
+   ],
+   "ocr": "S. No Population Cases Controls Association Disease\n1 Germany - 68 No Obesity\n2 Japan 228 813 Yes MI + chronic kidney disease\n3 Japan 636 1106 Yes Chronic kidney disease + T2DM\n4 Japan 313 971 Yes Atherothrombic cerebral infarction\n5 Brazil 72 37 Yes T2DM + microalbminuria\n6 Mexico - 131 No Lipid metabolism\n7 Brazil 513 529 Yes Renal disease + T2DM\n8 Brazil 26 529 Yes Postprandial fatty acids + T2DM\n9 Spain 108 101 Yes Hypercholesterolemic\n10 Present Study 438 460 No T2DM",
+   "table_id": "img_034974_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    366,
+    580,
+    408
+   ],
+   "ocr": "For instance, the \"Cases\" column outlines the number of reported instances of the disease, whereas the \"Controls\" column reflects the number of individuals without the disease, facilitating a comparative analysis. The association between these metrics is pivotal for researchers aiming to identify potential risk factors and correlations."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    396,
+    580,
+    470
+   ],
+   "ocr": "Notably, the entry for Germany indicates that, despite a population base associated with a significant number of cases, the reported association with the disease is categorized as \"No.\" This finding suggests a lack of correlation between the population metrics and the disease in this instance, raising important questions for further investigation. Such insights are vital for public health officials and researchers as they develop strategies to address disease prevalence and inform future studies in epidemiology."
+  }
+ }
+}

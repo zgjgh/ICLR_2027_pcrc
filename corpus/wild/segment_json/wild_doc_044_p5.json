@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_044",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "In Table 1, the dataset includes the following columns: Patient, Chromosome location, Marker, Location start, Location stop, Patient, Mother, Father, and Associated OMIM disease (gene). The first row details Patient 1 with Chromosome location 15q23q24.1, Marker D15S204, Location start 72300758, Location stop 72300879, and values of 123/123 for Patient, 123/125 for Mother, 123/125 for Father, associated with MIM #209900, Bardet-Biedl Syndrome (BBS4). The second row, with no Patient, Chromosome location, or Marker, shows D15S124, Location start 73092468, Location stop 73092572, and values of 104/106 for Patient, 106/106 for Mother, 104/106 for Father, with no associated disease."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    232
+   ],
+   "ocr": "The third row details Patient 17 with Chromosome location 6q16.3, Marker D6S468, Location start 101630330, Location stop 101630479, and values of 155/159 for Patient, 159/159 for Mother, 155/155 for Father, associated with MIM #611092, Mental retardation (GRIK2). The last rows include various markers with respective values and no associated diseases. In Table 2, the columns are Samples, Men, %, Women, and %. Cervix has 0 Men and 77 Women, Pharynx has 22 Men and 11 Women, Anus has 88 Men and 10 Women, Urethra has 437 Men and 27 Women, Conjunctiva has 1 Man and 0 Women, totaling 548 Men and 125 Women, with percentages indicating their respective distributions."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    250.0,
+    580.0,
+    559.0
+   ],
+   "ocr": "Patient Chromosome location Marker Location start Location stop Patient Mother Father Associated OMIMdisease(gene)\n1 15q23q24.1 D15S204 72300758 72300879 123/123 123/125 123/125 MIM #209900, Bardet-Biedl Syndrome (BBS4)\nD15S124 73092468 73092572 104/106 106/106 104/106\n17 6q16.3 D6S468 101630330 101630479 155/159 159/159 155/155 MIM #611092, Mental retardation (GRIK2)\nD6S2418 101352425 101352639 222/230 222/248 230/238\n32 11q13.4 DS11S4140 71945684 71945874 195/195 195/197 195/197 MIM #270400, Smith-Lemli-Opitz syndrome (DHCR7)\n28 17p13.2p13.1 D17S578 6824007 6824153 173/173 173/173 155/173 MIM #201475, AcylCoA dehydrogenase deficiency (ACADVL)\nD17S1832 5972677 5972867 173/185 173/185 171/173/185/193\nD17S1828 3810467 3810673 220/220 214/220 214/220",
+   "table_id": "img_049588_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    574.0,
+    580.0,
+    721.0
+   ],
+   "ocr": "Samples Men % Women %\nCervix 0 0 77 61.6\nPharynx 22 4.0 11 8.8\nAnus 88 16.1 10 8.0\nUrethra 437 79.7 27 21.6\nConjunctiva 1 0.2 0 0\nTotal 548 100 125 100",
+   "table_id": "img_049588_t1"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_342",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3031560_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    665.0,
+    289.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3031560_table_0.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Total proteins All runs</td><td rowspan=\"2\">Iter 1</td><td colspan=\"2\">Additional proteins</td><td rowspan=\"2\">Common to all iterations</td><td colspan=\"2\">Additional</td><td rowspan=\"2\">Common Common to all iterations</td></tr><tr><td></td><td>Iter 2</td><td>Iter 3</td><td>Iter 2/1</td><td>Iter 3/1+2</td></tr><tr><td>Set 1</td><td>888</td><td>787</td><td>40</td><td>61</td><td>122</td><td>5.1%</td><td>7.4%</td><td>15.5%</td></tr><tr><td>Set 2</td><td>635</td><td>434</td><td>122</td><td>79</td><td>162</td><td>28.1%</td><td>14.2%</td><td>37.3%</td></tr><tr><td>Set 3</td><td>520</td><td>408</td><td>14</td><td>98</td><td>136</td><td>3.4%</td><td>23.2%</td><td>33.3%</td></tr><tr><td>Set 4</td><td>207</td><td>148</td><td>51</td><td>8</td><td>48</td><td>34.5%</td><td>4.0%</td><td>32.4%</td></tr><tr><td>Set 5</td><td>263</td><td>161</td><td>49</td><td>53</td><td>91</td><td>30.4%</td><td>25.2%</td><td>56.5%</td></tr><tr><td>Set 6</td><td>558</td><td>227</td><td>265</td><td>66</td><td>141</td><td>116.7%</td><td>13.4%</td><td>62.1%</td></tr><tr><td rowspan=\"2\">Set 7</td><td>554</td><td>412</td><td>81</td><td>61</td><td>190</td><td>19.7%</td><td>12.4%</td><td>46.1%</td></tr><tr><td></td><td></td><td></td><td></td><td>Average:</td><td>34.0%</td><td>14.3%</td><td>40.5%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3031560_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    121.8,
+    694.6,
+    763.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3031560_table_1.png",
+   "html": "<table><tr><td>Accession Number</td><td>Protein Name</td><td>EmCa tissues</td><td>Normal tissues</td><td>p-value</td><td>PPV</td><td>AUC</td></tr><tr><td>P62851</td><td>40S ribosomal protein S25</td><td>1.91</td><td>1.06</td><td>0.01</td><td>0.71</td><td>0.74</td></tr><tr><td>P07108</td><td>Diazepam binding inhibitor</td><td>1.60</td><td>0.97</td><td>0.002</td><td>0.88</td><td>0.81</td></tr><tr><td>P23526</td><td>Adenosylhomocysteinase</td><td>1.62</td><td>0.99</td><td>0.002</td><td>0.80</td><td>0.74</td></tr><tr><td>P01009</td><td>Alpha-1 antitrypsin</td><td>0.56</td><td>0.99</td><td>0.00</td><td>0.89</td><td>0.85</td></tr><tr><td>P02765</td><td>Alpha-2-HS-glycoprotein</td><td>0.56</td><td>0.99</td><td>0.01</td><td>0.71</td><td>0.77</td></tr><tr><td>P01023</td><td>Alpha-2-macroglobulin</td><td>0.59</td><td>0.92</td><td>0.002</td><td>0.75</td><td>0.79</td></tr><tr><td>O95994</td><td>Anterior gradient protein 2 homolog</td><td>1.82</td><td>1.04</td><td>0.025</td><td>0.71</td><td>0.60</td></tr><tr><td>P02647</td><td>Apolipoprotein A-I</td><td>0.67</td><td>0.99</td><td>0.025</td><td>0.83</td><td>0.88</td></tr><tr><td>P02652</td><td>Apolipoprotein A-II</td><td>0.55</td><td>0.92</td><td>0.025</td><td>0.71</td><td>0.74</td></tr><tr><td>Q15121</td><td>Astrocytic phosphoprotein PEA-15</td><td>1.98</td><td>0.76</td><td>0.01</td><td>0.80</td><td>0.73</td></tr><tr><td>P02749</td><td>Beta-2-glycoprotein 1</td><td>0.50</td><td>1.01</td><td>0.005</td><td>0.67</td><td>0.69</td></tr><tr><td>Q13938</td><td>Calcyphosine</td><td>1.60</td><td>0.95</td><td>0.00</td><td>0.89</td><td>0.85</td></tr><tr><td>O43852</td><td>Calumenin (Crocalbin)</td><td>0.45</td><td>0.93</td><td>0.002</td><td>1.00</td><td>1.00</td></tr><tr><td>P07858</td><td>Cathepsin B</td><td>1.61</td><td>1.05</td><td>0.002</td><td>0.88</td><td>0.84</td></tr><tr><td>P00450</td><td>Ceruloplasmin</td><td>0.62</td><td>1.12</td><td>0.002</td><td>0.83</td><td>0.86</td></tr><tr><td>Q99832</td><td>Chaperonin containing TCP1, subunit 7 (Eta)</td><td>1.59</td><td>0.95</td><td>0.025</td><td>1.00</td><td>0.67</td></tr><tr><td>P02452</td><td>Collagen, type I, alpha 1</td><td>0.52</td><td>0.99</td><td>0.002</td><td>0.73</td><td>0.75</td></tr><tr><td>P08123</td><td>Collagen, type I, alpha 2</td><td>0.56</td><td>1.02</td><td>0.002</td><td>0.73</td><td>0.81</td></tr><tr><td>Q16555</td><td>Dihydropyrimidinase-like 2</td><td>0.64</td><td>1.01</td><td>0.00</td><td>0.80</td><td>0.80</td></tr><tr><td>P05198</td><td>Eukaryotic translation initiation factor 2 subunit 1</td><td>1.90</td><td>1.03</td><td>0.05</td><td>0.83</td><td>0.77</td></tr><tr><td>P47756</td><td>F-actin capping protein subunit beta (CapZ beta)</td><td>1.57</td><td>0.88</td><td>0.005</td><td>0.75</td><td>0.63</td></tr><tr><td>P02671</td><td>Fibrinogen alpha chain</td><td>0.54</td><td>0.89</td><td>0.005</td><td>0.62</td><td>0.65</td></tr><tr><td>P02675</td><td>Fibrinogen beta chain</td><td>0.50</td><td>0.93</td><td>0.005</td><td>0.64</td><td>0.71</td></tr><tr><td>P02679</td><td>Fibrinogen gamma chain</td><td>0.36</td><td>0.75</td><td>0.025</td><td>0.75</td><td>0.77</td></tr><tr><td>P23142</td><td>Fibulin-1</td><td>0.47</td><td>0.97</td><td>0.01</td><td>0.80</td><td>0.73</td></tr><tr><td>Q14315</td><td>Filamin-C</td><td>0.53</td><td>0.95</td><td>0.025</td><td>0.67</td><td>0.63</td></tr><tr><td>P00738</td><td>Haptoglobin</td><td>0.58</td><td>0.87</td><td>0.025</td><td>0.75</td><td>0.79</td></tr><tr><td>P69905</td><td>Hemoglobin subunit alpha</td><td>0.55</td><td>0.93</td><td>0.005</td><td>0.58</td><td>0.60</td></tr><tr><td>P19823</td><td>Inter-alpha (Globulin) inhibitor, H2 polypeptide</td><td>0.56</td><td>0.92</td><td>0.025</td><td>0.67</td><td>0.76</td></tr><tr><td>Q12906</td><td>Interleukin enhancer-binding factor 3</td><td>1.79</td><td>1.18</td><td>0.05</td><td>0.75</td><td>0.69</td></tr><tr><td>P05787</td><td>Keratin, type II cytoskeletal 8</td><td>1.98</td><td>1.01</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>P40121</td><td>Macrophage capping protein (CAP-G)</td><td>1.67</td><td>0.91</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>P29966</td><td>Myristoylated alanine-rich C-kinase substrate (MARCKS)</td><td>0.65</td><td>1.08</td><td>0.00</td><td>1.00</td><td>0.87</td></tr><tr><td>O94788</td><td>Retinal dehydrogenase 2</td><td>0.41</td><td>0.91</td><td>0.00</td><td>0.80</td><td>0.87</td></tr><tr><td>P06703</td><td>S100 calcium-binding protein A6 (Calcyclin)</td><td>1.56</td><td>0.93</td><td>0.005</td><td>0.83</td><td>0.70</td></tr><tr><td>Q6FHJ7</td><td>Secreted frizzled-related protein 4</td><td>0.43</td><td>0.72</td><td>0.01</td><td>0.67</td><td>0.77</td></tr><tr><td>P50454</td><td>Serpin H1 (47 kDa heat shock protein)</td><td>0.34</td><td>0.96</td><td>0.005</td><td>0.78</td><td>0.80</td></tr><tr><td>P02768</td><td>Serum albumin</td><td>0.54</td><td>0.97</td><td>0.001</td><td>0.80</td><td>0.80</td></tr><tr><td>P02787</td><td>Transferrin</td><td>0.56</td><td>0.99</td><td>0.00</td><td>0.80</td><td>0.80</td></tr><tr><td>P02774</td><td>Vitamin D-binding protein</td><td>0.58</td><td>1.02</td><td>0.00</td><td>0.86</td><td>0.89</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3031560_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    121.3,
+    690.2,
+    395.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3031560_table_2.png",
+   "html": "<table><tr><td>Accession Number</td><td>Protein Name</td><td>EmCa No. of samplesb</td><td>EmCa mean iTRAQ ratio</td><td>Normal No. of samplesb</td><td>Normal mean iTRAQ ratio</td></tr><tr><td>Q01518</td><td>Adenylyl cyclase-associated protein 1 (CAP 1)</td><td>5</td><td>1.43</td><td>7</td><td>1.05</td></tr><tr><td>P04217</td><td>Alpha-1-B glycoprotein</td><td>6</td><td>0.69</td><td>6</td><td>1.07</td></tr><tr><td>P04083</td><td>Annexin A1</td><td>10</td><td>1.49</td><td>10</td><td>1.07</td></tr><tr><td>O00299</td><td>Chloride intracellular channel protein 1</td><td>5</td><td>1.47</td><td>7</td><td>1.05</td></tr><tr><td>P0C0L4</td><td>Complement component 4A</td><td>7</td><td>0.68</td><td>8</td><td>1.03</td></tr><tr><td>P12277</td><td>Creatine kinase B-type</td><td>10</td><td>0.69</td><td>10</td><td>1.00</td></tr><tr><td>P21333</td><td>Filamin A, alpha</td><td>10</td><td>0.67</td><td>10</td><td>0.90</td></tr><tr><td>P04792</td><td>Heat-shock protein beta-1 (HSP 27)</td><td>10</td><td>0.68</td><td>10</td><td>0.96</td></tr><tr><td>P02790</td><td>Hemopexin (Beta-1B-glycoprotein)</td><td>5</td><td>0.70</td><td>7</td><td>1.04</td></tr><tr><td>P09651</td><td>Heterogeneous nuclear ribonucleoprotein A1</td><td>8</td><td>1.42</td><td>9</td><td>0.85</td></tr><tr><td>P05783</td><td>Keratin, type I cytoskeletal 18</td><td>9</td><td>1.43</td><td>6</td><td>0.87</td></tr><tr><td>P00338</td><td>L-lactate dehydrogenase A chain</td><td>10</td><td>1.45</td><td>10</td><td>1.01</td></tr><tr><td>P19338</td><td>Nucleolin (Protein C23)</td><td>7</td><td>1.42</td><td>5</td><td>0.85</td></tr><tr><td>P14618</td><td>Pyruvate kinase isozymes M1/M2</td><td>10</td><td>1.43</td><td>10</td><td>1.00</td></tr><tr><td>Q8NBS9</td><td>Thioredoxin domain-containing protein 5</td><td>9</td><td>0.70</td><td>9</td><td>0.99</td></tr><tr><td>Q6NUR7</td><td>Villin 2</td><td>7</td><td>1.47</td><td>8</td><td>1.08</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3031560_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    828.6,
+    664.3,
+    871.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3031560_table_3.png",
+   "html": "<table><tr><td>Time</td><td>Start</td><td>2 min.</td><td>58 min.</td><td>60 min.</td><td>65 min.</td><td>75 min.</td><td>80 min.</td><td>90 min.</td></tr><tr><td>%B</td><td>0%</td><td>0%</td><td>100%</td><td>100%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>%C</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>100%</td><td>100%</td><td>0%</td><td>0%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3031560_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    121.8,
+    675.9,
+    149.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3031560_table_4.png",
+   "html": "<table><tr><td>Time</td><td>Start</td><td>5 min.</td><td>10 min.</td><td>120 min.</td><td>140 min.</td><td>145 min.</td><td>155 min.</td><td>157 min.</td><td>189 min.</td></tr><tr><td>%B</td><td>5%</td><td>5%</td><td>10%</td><td>35%</td><td>60%</td><td>80%</td><td>80%</td><td>5%</td><td>5%</td></tr></table>"
+  }
+ ]
+}

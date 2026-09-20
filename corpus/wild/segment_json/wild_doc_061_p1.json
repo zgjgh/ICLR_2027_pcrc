@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_061",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    93,
+    580,
+    182
+   ],
+   "ocr": "The analysis of the data table provides valuable insights into the relationship between sensory abilities and autonomy, particularly in the context of various activities and social participation. One of the key metrics highlighted is the R value of 0.491, which suggests a moderate positive correlation between autonomy and sensory abilities. This correlation indicates that as individuals experience greater autonomy, their sensory capabilities may also improve or be perceived more positively. Additionally, the p-value of 0.006 demonstrates statistical significance, suggesting that the observed relationship is unlikely to be due to chance."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    170,
+    580,
+    259
+   ],
+   "ocr": "The implications of these findings are particularly relevant for practitioners and researchers focused on enhancing the quality of life for individuals with sensory impairments. By fostering autonomy, it may be possible to improve not only sensory abilities but also overall participation in past, present, and future activities. Understanding these dynamics can guide interventions aimed at increasing social engagement and improving the well-being of affected individuals, especially as they navigate challenges related to death and dying. Overall, the data underscores the importance of considering autonomy in therapeutic practices."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    297.0,
+    580.0,
+    448.0
+   ],
+   "ocr": "Sensory abilities Autonomy Past, present and future activities Social participation Death and dying\nAutonomy 0.491***\nPast, present and future activities 0.466*** 0.900***\nSocial participation 0.487*** 0.808*** 0.907***\nDeath and dying 0.180*** 0.202*** 0.323*** 0.229***\nIntimacy 0.323*** 0.576*** 0.705*** 0.557*** 0.252***",
+   "table_id": "img_067047_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    483.0,
+    580.0,
+    610.0
+   ],
+   "ocr": "CD3ζ\nR value p Value df\nSWAP IgA −0.292 0.006 85\nSWAP IgE −0.182 0.092 85\nSWAP IgG4 0.109 0.322 82\nSWAP IgE:IgG4 −0.254 0.022 80",
+   "table_id": "img_067047_t1"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    650.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "rs13181 (ERCC2)\nAllele Frequencies\nNormal SCCHN\nW (A) 505 0.656 324 0.589\nM (C) 265 0.344 226 0.411\n770 550",
+   "table_id": "img_067047_t2"
+  }
+ }
+}

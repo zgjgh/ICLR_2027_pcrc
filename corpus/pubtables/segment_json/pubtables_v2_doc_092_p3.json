@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_092",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.7,
+    64.4
+   ],
+   "ocr": "BMC Biotechnology 2005, 5:24"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6750/5/24"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    395.5,
+    118.9
+   ],
+   "ocr": "Table 3: Genotype Quality (GQ) scores of concordant STR genotypes"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    648.2,
+    463.6
+   ],
+   "ocr": "gDNA Input (ng) GQ1Category, Heterozygotes\nI II III Total\ngDNA 5 53 580 6382\n1 43 137 256 4363\n10 27 140 451 618\n25 26 126 463 615\n50 21 130 474 625\n100 25 110 482 617\n200 78 31 537 646\nTotal 225 727 3243 4195\ngDNA Input (ng) GQ Category, Homozygotes\nI II III Total\ngDNA 0 9 204 2134\n1 9 25 168 2025\n10 2 8 202 212\n25 1 8 199 208\n50 4 11 196 211\n100 8 10 191 209\n200 8 20 184 212\nTotal 32 91 1344 1467",
+   "table_id": "PMC1249558_table_2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    478.8,
+    390.8,
+    550.1
+   ],
+   "ocr": "1Category I = GQ scores, originally ≥ 0.25 and <0.40, that have been GQ scores ≥ 0.79 and ≤ 0.90. 2GQ score distribution, heterozygote heterozygote genotypes, wgaDNA produced from 1 ng gDNA input versus genotypes, gDNA versus wgaDNA produced from 1, 100, 200 ng gDNA homozygote genotypes, wgaDNA produced from 1 ng gDNA input versus respectively."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    363.5,
+    478.8,
+    690.4,
+    538.4
+   ],
+   "ocr": "successfully edited; Category II = GQ scores ≥ 0.40 and ≤ 0.50; Category III = genotypes, gDNA versus all wgaDNA, p < 0.0001. 3GQ score distribution, other gDNA inputs, p < 0.0001.4GQ score distribution, homozygote input, p < 0.0001, 0.01, 0.0001, respectively. 5GQ score distribution, 10, 25, 50, 100 ng gDNA inputs, p = 0.0003, 0.0001, 0.009, 0.02,"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    596.7,
+    372.6,
+    922.4
+   ],
+   "ocr": "concordance rate\", in order to identify WGA reaction, wgaDNA yield and STR genotyping performance factors that are significantly associated with wgaDNA SNP geno- typing performance. Independent variables included: gDNA input, STR completion rate, concordance rate, GQ score, peak height, and RT-PCR wgaDNA yield. \"STR com- pletion rate\" was a highly significant factor in both SNP rate models (p < 0.0001), and \"STR concordance rate\" and \"GQ score\" were significant factors in the SNP concordance rate model (p = 0.0008 and 0.045, respec- tively). The variable \"gDNA input\" into the WGA reaction was significant only in those models incorporating the 1 ng gDNA input strata. WGA yield and genotyping performance with no template control (NTC) samples No template control (NTC) input samples, i.e., where no gDNA was used in the WGA reaction, yielded substantial amounts of wgaDNA, similar in quantity to the total wgaDNA obtained with gDNA inputs, but with a substan- tially higher proportion of ssDNA than with gDNA inputs (Table 5). The wgaDNA produced from the NTC samples"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    596.7,
+    698.4,
+    922.4
+   ],
+   "ocr": "in the 1, 50 and 100 ng gDNA input strata exhibited mean RT-PCR results that were greater than zero (Table 5). We observed N = 35 STR peaks with a signal strength > 50 RFUs that fell within the expected base-pair range of an AmpFlSTR® Identifiler™ locus allele from the wgaDNA produced from the NTC gDNA and wgaDNA samples for an overall false positive STR genotyping rate of 4.2% (Table 5). While these false positive STR peaks fulfill the criteria for valid AmpFlSTR® Identifiler™ STR alleles, they are characterized by low heterozygosity (2 observed versus 26 expected heterozygote genotypes), moderate signal strength (median amplitude = 357 RFUs), and representa- tion of 12 out of 15 AmpFlSTR® Identifiler™ STR loci. The 50 and 100 ng gDNA input strata (Table 5) and three STR loci (D2S1338, D8S1179 and FGA)account for the majority (66% and 51%, respectively) of the wgaDNA false positive STR genotypes produced from the NTC samples. In N = 7056 TaqMan SNP genotype attempts with wgaDNA produced from the NTC samples, 80%, 14.5% and 5.5% of the resulting datapoints were incorporated"
+  },
+  "p3_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 11 (page number not for citation purposes)"
+  }
+ }
+}

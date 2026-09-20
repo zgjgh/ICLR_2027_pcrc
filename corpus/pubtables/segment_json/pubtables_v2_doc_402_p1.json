@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_402",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    377.8,
+    66.0
+   ],
+   "ocr": "Younesi et al. BMC Medical Informatics and Decision Making 2012, 12:148 http://www.biomedcentral.com/1472-6947/12/148"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 6 of 13"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    385.9,
+    730.2
+   ],
+   "ocr": "abstracts (the most recent publications), only the first ten abstracts were taken into account. Subsequently, and after manually checking of abstracts, the number of true positive and false positive biomarker abstracts was determined. Results Development of biomarker retrieval terminology The training corpus containing cancer or drug-related biomarker information was pre-annotated using gene protein and disease named entity recognition. In the next step, we investigated if we could identify additional terminology relevant to biomarkers from the abstracts. Initially two annotators highlighted relevant parts in 10 abstracts and discussed the annotations. As a result, six terminology classes were defined representing the rele- vant content for biomarker identification (Table 1). Abstracts containing information about potential gene biomarkers most often comprise evidence of gene or protein alteration as well as indication words for the clinical management or investigation. Moreover, diag- nostic methods and prognostic terms are found frequently in these abstracts. Statistic evaluations strengthen the relevance of biomarkers and in some cases antecedents are strong indicators for disease status or therapy decisions (see Figure 2). Based on those ter- minology classes and a simple annotation guideline, all 10 abstracts were again annotated and discrepancies were discussed until a common understanding was reached between annotators. In the next step, the two annotators annotated 50 abstracts and the inter- annotator agreement was calculated. The kappa value of 0.81 showed that both annotators were in good agree- ment when annotating concepts represented by the six classes. Inconsistencies were mainly because of missed annotations (e.g. the concept ‘patient’ was annotated 3 times instead of 4 times in one abstract), boundary dif- ferences (e.g. annotation of ‘management of patients’ versus annotation of ‘patients’) and some differences in Table 1 Biomarker retrieval terminology classes and coverage"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.7,
+    730.2
+   ],
+   "ocr": "the annotation of diagnostic terms (e.g. the concept ‘Child’s score’ was only annotated by one annotator). Those differences were discussed and one annotator annotated the remaining abstracts. All annotated terms in the training corpus were auto- matically extracted and integrated into a seed biomarker retrieval dictionary by manually assigning them to the six main classes. In the next step, the seed set was struc- tured, forming a seed terminology containing 76 entity classes with 1132 different synonyms. After extension of the terminology with similar classes and synonyms from MeSH and UMLS as well as expert knowledge for diag- nostic tests (after the analysis of larger disease- and biomarker-related text corpora), the biomarker retrieval terminology contained 119 entity classes with 1890 dif- ferent synonyms. Distribution analysis of different biomarker classes in relevant text corpora (annotations in abstracts) showed that every training abstract contains at least one bio- marker retrieval term. Moreover, Clinical Management and Prognosis terms were found most frequently in the corpora, followed by Diagnostic, Evidence and Statistics terms (see Table 1, last column). The Antecedent class plays a minor role in the selected training data (recall of 20%), which might be quite different for diseases in which antecedents play a role in biomarker search. The six terminology classes are integrated into the SCAIView Demo server and can be accessed through http://www. scaiview.com/scaiview-academia.html. Non-small cell lung carcinoma (NSCLC) as use case scenario As a base line for biomarker candidate retrieval, selec- tion of the disease NSCLC in combination with the automated recognition of gene names in our retrieval system returns 10790 Medline abstracts mentioning at least one gene concept (2663 different gene entities in total). Without further specification, these numbers are far too high to inspect and the resulting abstracts and of the terminology in the annotated corpora"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    735.0,
+    671.4,
+    919.2
+   ],
+   "ocr": "Terminology Description Examples Annotation found\nclass in abstracts\nClinical Terms indicating clinical investigations on patients Patient; Cohort study 96%\nManagement\nDiagnostics Terms representing clinical as well as molecular diagnostics Immunohistochemistry; Emission 85%\nTomography; Microarray\nPrognosis Terms indicating the prediction for a patient /kind of biomarker/ Surrogate end point; clinical response; 88%\noutcome of therapies biomarker; predictor\nStatistics Statistical methods indicating the strength of the biomarker Chi(2) test; mean +/− SD; univariate 48%\nrelationship analysis; Kaplan-Meier Analysis\nEvidence Terms describing genetic/ molecular evidence for activity of a Mutation; gene amplification; 82%\ngene polymorphism; expression\nAntecedent Terms expressing exposure to hazardous agents and risk factors Smoker; susceptibility; exposure 20%",
+   "table_id": "PMC3541249_table_0"
+  }
+ }
+}

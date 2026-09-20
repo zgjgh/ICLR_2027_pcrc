@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_367",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    708,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3231141_table_0",
+   "page_num": 1,
+   "bbox": [
+    74.8,
+    179.8,
+    636.3,
+    574.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3231141_table_0.png",
+   "html": "<table><tr><td colspan=\"4\">Processor</td><td colspan=\"5\">RF Transceiver</td></tr><tr><td>Platforms</td><td>Program Space</td><td>External Space</td><td>Current Draw</td><td>Frequency</td><td>Current Draw</td><td>Indoor Range</td><td>Tx speed</td><td>Cost</td></tr><tr><td>MICA2</td><td>128 kB</td><td>512 kB</td><td>8 mA</td><td>868/916 MHz</td><td>S: 27 mA at 5 dbm R: 10 mA</td><td>&#8211;&#8211;</td><td>38.4 kbps</td><td>$125</td></tr><tr><td>TelosB</td><td>48 kB</td><td>1,024 kB</td><td>1.8 mA</td><td>2,400 MHz</td><td>S: &#8211;&#8211; R: 23 mA</td><td>20&#8211;30m</td><td>250 kbps</td><td>$134</td></tr><tr><td>MICAZ</td><td>128 kB</td><td>512 kB</td><td>8 mA</td><td>2,400 MHz</td><td>S: 17.4 mA at 0 dbm R: 19.7 mA</td><td>20&#8211;30m</td><td>250 kbps</td><td>$99</td></tr><tr><td>Imote2</td><td>32 MB</td><td>32 MB</td><td>66 mA</td><td>2,400 MHz</td><td>&#8211;&#8211;</td><td>&lt;30 m</td><td>250 kbps</td><td>$299</td></tr><tr><td>Tmote Sky</td><td>48 kB</td><td>1,024 kB</td><td>2 mA</td><td>2,400 MHz</td><td>17 mA</td><td>&#8211;&#8211;</td><td>250 kbps</td><td>$78</td></tr><tr><td>Tmote Mini</td><td>48 kB</td><td>1,024 kB</td><td>2 mA</td><td>2,400 MHz</td><td>17 mA</td><td>&lt;30 m</td><td>250 kbps</td><td>&#8211;&#8211;</td></tr><tr><td>Btnode</td><td>128 kB</td><td>128 kB</td><td>8 mA</td><td>433/868/ 916 MHz</td><td>S: 14.8 mA at 0 dbm R: 7.4 mA</td><td>20 m</td><td>76.8 kbps</td><td>$120</td></tr><tr><td>EMMNet</td><td>128 kB</td><td>4/8 MB</td><td>8 mA/ 30 uA</td><td>433/470/ 868/916 MHz</td><td>S: 20 mA at 6 dbm R:13 mA</td><td>180 m</td><td>50 kbps</td><td>$40</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3231141_table_1",
+   "page_num": 2,
+   "bbox": [
+    216.9,
+    650.4,
+    482.1,
+    793.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3231141_table_1.png",
+   "html": "<table><tr><td>Port</td><td>Function</td></tr><tr><td>PB0-PB6</td><td>Connected to RF module</td></tr><tr><td>PD0-PD3</td><td>Connected to IrDA</td></tr><tr><td>PD4-PD7</td><td>LED</td></tr><tr><td>PE0-PE2</td><td>Connected to RS485 transceiver</td></tr><tr><td>PE3-PE7</td><td>Connected to RF module</td></tr><tr><td>PF0-PF3</td><td>Connected to external flash</td></tr><tr><td>PF4-PF7</td><td>JTAG test interface</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3231141_table_2",
+   "page_num": 3,
+   "bbox": [
+    180.6,
+    629.3,
+    498.2,
+    732.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3231141_table_2.png",
+   "html": "<table><tr><td>Chip</td><td>Tx current at 10 dbm</td><td>Rx current</td><td>Sleep</td></tr><tr><td>ATmega128L</td><td>8 mA</td><td>8 mA</td><td>30 uA</td></tr><tr><td>nRF905</td><td>29 mA</td><td>13 mA</td><td>0</td></tr><tr><td>SP485E</td><td>1 mA</td><td>1 mA</td><td>0</td></tr><tr><td>AT45DB041D</td><td>25 uA</td><td>27 uA</td><td>25 uA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3231141_table_3",
+   "page_num": 4,
+   "bbox": [
+    65.9,
+    775.6,
+    630.8,
+    896.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3231141_table_3.png",
+   "html": "<table><tr><td>Concentrator address</td><td>Num. of concentrator</td><td>Num. of hand- held devices</td><td>Num. of collectors</td><td>Num. of electricity meters</td><td>Location</td></tr><tr><td>320100091</td><td>1</td><td>2</td><td>45</td><td>368</td><td>Huaian City, China</td></tr><tr><td>320100092</td><td>1</td><td>2</td><td>35</td><td>439</td><td>Huaian City, China</td></tr><tr><td>320100093</td><td>1</td><td>1</td><td>23</td><td>284</td><td>Huaian City, China</td></tr><tr><td>320100088</td><td>1</td><td>2</td><td>29</td><td>517</td><td>Yangzhou City, China</td></tr><tr><td>320100089</td><td>1</td><td>2</td><td>36</td><td>416</td><td>Yangzhou City, China</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3231141_table_4",
+   "page_num": 5,
+   "bbox": [
+    193.6,
+    121.9,
+    502.4,
+    260.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3231141_table_4.png",
+   "html": "<table><tr><td>Data Collector</td><td>Data Concentrator</td></tr><tr><td>ATMEGA128L</td><td>ATMEGA128L</td></tr><tr><td>ADL5320</td><td>ADL5320</td></tr><tr><td>nRF905</td><td>nRF905</td></tr><tr><td>sp6201</td><td>sp6201</td></tr><tr><td>PS2051</td><td>PS2051</td></tr><tr><td>--</td><td>SIM300C</td></tr><tr><td>AT45DB041D-SU</td><td>AT45DB642D</td></tr></table>"
+  }
+ ]
+}

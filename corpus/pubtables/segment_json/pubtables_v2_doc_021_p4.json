@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_021",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    517.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Computational Models of Consumer Confidence"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    95.4,
+    542.6,
+    113.3
+   ],
+   "ocr": "Table 5. Results of Granger Test of CCI vs. DC1 and C{1, 2, 9}. � � �,"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    114.8,
+    726.6,
+    289.0
+   ],
+   "ocr": "Equation Excluded χ2 df p > χ2\nCCI DC1 0.093 2 0.595\nCCI C2 1.037 2 0.018*\nCCI C3 8.072 2 0.964\nCCI C4 0.073 2 0.111\nCCI C5 4.393 2 0.143\nCCI C6 3.892 2 0.431\nCCI C7 1.685 2 0.378\nCCI C8 1.945 2 0.991\nCCI C9 0.017 2 0.955\nCCI ALL 25.088 18 0.123",
+   "table_id": "PMC4380490_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    301.6,
+    727.2,
+    690.5
+   ],
+   "ocr": "P-values marked * indicate the variable is Granger causative of the CCI at the 5% signiﬁcance level. doi:10.1371/journal.pone.0120039.t005 A normalization of CCI data in reference to 1996 data [17] ended in November 2009 leading to an apparent discontinuity in the CCI data in 2009–2010 as shown in Fig 1. To determine whether our CCI data is biased by structural changes or not, we conduct as Structural Change test [29]. The results are summarized in Table 6; the null-hypothesis that no structural change occurred must be rejected. In other words, the results indicate a structural change is likely to have occurred in November 2009 possibly because of the use of new survey or normalization methods [17]. As indicated in Table 6, all three tests imply there is a structural change in the time series, which may have resulted from the NBSC standardization in November 2009. We therefore add dummy variable D to all the independent variables of our model, where the first time period comprises 47 months and the second time period comprises 42 months. ( t t0 � 0; ð1Þ Dt ¼ 1; t > t0 Then, our transitional model (i.e. Model 2 in Fig 4) can be written as follows: P ("
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    308.9,
+    647.0,
+    727.3,
+    671.7
+   ],
+   "ocr": "ða þ Dtg0Þ þ ðb0 þ DtdÞCCIt�1 þ ðb1 þ Dtg1ÞDC1 þ i¼f2�9g ðbi þ DtgiÞCi;t ð2Þ"
+  },
+  "p4_b5": {
+   "type": "title",
+   "bbox": [
+    258.1,
+    664.0,
+    293.1,
+    686.9
+   ],
+   "ocr": "C3It ¼"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    315.0,
+    671.8,
+    587.4,
+    707.1
+   ],
+   "ocr": "þðb10 þ Dtg10ÞC2;t�1 þ X ðbi þ DtgiÞCj;t�2 þ"
+  },
+  "p4_b7": {
+   "type": "title",
+   "bbox": [
+    448.5,
+    678.5,
+    597.5,
+    700.5
+   ],
+   "ocr": "�t i ¼ f 11 ; 12 g"
+  },
+  "p4_b8": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    697.3,
+    479.3,
+    770.9
+   ],
+   "ocr": "j ¼ f2; 3g where t0 = 47. Table 6. Results of Structural Change Tests. −"
+  },
+  "p4_b9": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    770.9,
+    726.7,
+    833.7
+   ],
+   "ocr": "Structural Change Test: Y = X + D0 + DX H0: no structural change\nChow Test [K, N 2 * K] = 5.585 p > F(14, 60) 0.000**\nWald Test = 114.669 p > χ2(43) 0.000**\nLikelihood Ratio Test = 73.413 p > χ2(43) 0.000**",
+   "table_id": "PMC4380490_table_5"
+  },
+  "p4_b10": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    846.1,
+    721.5,
+    895.4
+   ],
+   "ocr": "Structural Change Tests indicate that we can reject the null-hypothesis of no structural change in CCI time series. P-values marked ** mean rejecting H0 at the 1% level. doi:10.1371/journal.pone.0120039.t006"
+  },
+  "p4_b11": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120039 March 31, 2015 10 / 18"
+  }
+ }
+}

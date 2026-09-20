@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_028",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "In the study of Apodemus flavicollis, a key focus is the analysis of genetic variations that may contribute to our understanding of this species' ecological adaptability and evolutionary history."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "The accompanying data table presents a comprehensive overview of the oligonucleotide sequences utilized in polymerase chain reaction (PCR) assays designed to amplify specific genomic regions of interest."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    471.0
+   ],
+   "ocr": "Oligo Sequence (5′→3′) Concentration (nmol/L) Amplicon length (bp)\nApodemus flavicollis\nForward GCCGAGACGTAAATTATGGATGAT 150\nReverse TCCTACGTGTAGAAATAAGCAAATGAA 150 89\nProbe FAM‐AATTCGATATTTACACGCAAACGGAGCCTC‐TAMRA 150\nApodemus sylvaticus\nForward ATCATGATGAAACTTCGGCTCAT 200\nReverse AGTCAGCCATAATTTACGTCTCGAC 200 150\nProbe JOE‐ATCCAAATCCTCACAGGCTTATTTCTAGCAATACA‐TAMRA 200\nApodemus alpicola\nForward AATCAAAGACATTCTAGGAGTACTCATAATAATC 600\nReverse AGTATTTAGTGGGTTGGCAGGC 600 118\nProbe FAM‐TCATTCCTTATAATACTAGTACTCTTCTTCCCAGACCTTC‐TAMRA 250",
+   "table_id": "img_030989_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    487,
+    580,
+    545
+   ],
+   "ocr": "Two critical metrics are highlighted: the \"Concentration (nmol/L)\" of each oligonucleotide and the corresponding \"Amplicon length (bp),\" which together provide insights into the efficiency of the amplification process and the targeted genomic regions. Accurate determination of oligonucleotide concentration is essential for optimizing PCR conditions, ensuring successful amplification while minimizing non-specific binding."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    533,
+    580,
+    622
+   ],
+   "ocr": "Meanwhile, the amplicon length serves as an important parameter for assessing the complexity of the genomic regions being studied, as shorter amplicons may indicate simpler genomic structures or less repetitive sequences. This data not only facilitates the replication of experiments but also enhances the reliability of genetic analyses performed on Apodemus flavicollis, ultimately contributing to broader ecological and evolutionary research within the rodent family. Such insights are invaluable for conservation efforts and understanding potential adaptations to changing environments."
+  }
+ }
+}

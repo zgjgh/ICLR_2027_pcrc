@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_038",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The assessment of hypocalcemia detection in patients is critical for optimizing treatment strategies and improving patient outcomes. The accompanying data table presents an analysis of various detection methods, highlighting key metrics such as the number of patients (N) and the corresponding detection percentages (%). Notably, the table indicates that out of 121 patients, 43.2% were accurately identified as having hypocalcemia, underscoring the efficacy of the employed detection methodologies."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "The incremental yield metrics also provide valuable insights; specifically, the incremental yield over the baseline detection method (D) reveals a significant improvement in detection rates, with analysis showing an increase in the number of cases detected. Furthermore, the rule description column illustrates that the medication entity is accurately detected, with both class and boundary divisions correctly applied. This comprehensive evaluation not only emphasizes the importance of precise diagnostic tools but also sets the stage for further research aimed at enhancing detection rates and ensuring timely interventions for patients suffering from hypocalcemia."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "Electroyte imbalance Cases\nN Percent (%)\nHypocalcemia 47 23.38\nHypomagnesemia 28 13.93\nHypokalemia 18 8.96\nHyperkalemia 0 0",
+   "table_id": "img_042501_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    484.0
+   ],
+   "ocr": "Score Rule description\n1 Medication entity is accurately detected, and divisions of class and boundary are both correct\n0.8 Only one error is detected at the start position of the ME boundary\n0.6 Only one error is detected at the end position of the ME boundary\n0.4 Two errors are detected at the start and end positions of ME boundaries, respectively\n0 ME is not detected, or the detected phrase is not a drug name entity annotated in the gold standard",
+   "table_id": "img_042501_t1"
+  },
+  "p8_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    499.0,
+    580.0,
+    667.0
+   ],
+   "ocr": "Case definition of one smear Case definition of two smears\nN detected (% of all patients) Incremental yield over D alone: N (%; 95% CI) N detected (% of all patients) Incremental yield over D alone: N (%; 95% CI)\nD 121 (43.2%)* - 118 (42.1%) -\nD+SCA 122 (43.6%) 1 (0.8%; 0-4.5) 118 (42.1%) 0\nB 134 (47.9%)† 14 (11.6%; 6.5-18.6) 123 (43.9%) 5 (4.2%; 1.4-9.6)\nB+SCA 135 (48.6%)‡ 15(12.4%; 7.1-19.6) 125 (44.6%) 7 (5.9%; 2.4-11.8)",
+   "table_id": "img_042501_t2"
+  }
+ }
+}

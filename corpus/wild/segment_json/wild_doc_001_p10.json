@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_001",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The table presents a comprehensive overview of various Contig IDs alongside their corresponding annotations. The first row, labeled CGI 10003647, is annotated as EGF-like calcium-binding protein."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "The second row, CGI 10005120, corresponds to NHL repeat containing protein-binding. In the third row, CGI 10011377 is designated as glucose/ribitol dehydrogenase, while the fourth row, CGI 10012546, has no annotation."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    369.0
+   ],
+   "ocr": "Contig ID Annotation\nCGI 10003647 EGF-like calcium-binding protein\nCGI 10005120 NHL repeat containing protein-binding\nCGI 10011377 Glucose/ribitol dehydrogenase\nCGI 10012546 No annotation\nCGI 10018671 Strictosidine synthase\nCGI 10018819 Transient receptor potential cation channel\nCGI 10018820 Similar to transient receptor potential cation channel\nCGI 10022617 No annotation\nCGI 10024194 Follistatin-like, protease inhibitor, Kazal-type\nCGI_10028176 No annotation\nCGI_10028233 Transient receptor potential cation channel",
+   "table_id": "img_001557_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    385,
+    580,
+    458
+   ],
+   "ocr": "CGI 10018671, found in the fifth row, is identified as strictosidine synthase. The sixth row, CGI 10018819, is annotated as a transient receptor potential cation channel, and the next row, CGI 10018820, is noted for being similar to a transient receptor potential cation channel. The eighth row, CGI 10022617, again has no annotation. In the ninth row, CGI 10024194 is described as follistatin-like, protease inhibitor, Kazal-type. The tenth row, CGI_10028176, is listed with no annotation, while the final row, CGI_10028233, is also classified as a transient receptor potential cation channel."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    446,
+    580,
+    520
+   ],
+   "ocr": "The content of this table provides critical insights into the gene annotations associated with each Contig ID, highlighting both specific functions and instances of unannotated entries, which could indicate areas for future research or analysis within the genomic context. This detailed enumeration of both annotated and unannotated contig entries serves as a valuable resource for understanding protein functions and their potential implications in biological processes."
+  }
+ }
+}

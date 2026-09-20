@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_266",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    359.7,
+    64.4
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2005, 5:37"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/5/37"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    377.8,
+    118.9
+   ],
+   "ocr": "Table 6: Tabulation of answers and mode scores from user survey"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    380.6,
+    107.2,
+    416.9,
+    118.9
+   ],
+   "ocr": "(n = 18)"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    91.4,
+    129.9,
+    678.4,
+    322.5
+   ],
+   "ocr": "Statements Answers/Total Respondents Mode Score\n1 SD 2 D 3 N 4 A 5 SA\n1 The new interface with slider controls is more user- 1/18 3/18 4/18 7/18 3/18 4\nfriendly than traditional search interfaces.\n2 The Web-based application is stable. 0/18 0/18 5/18 9/18 4/18 4\n3 The speed of search and results display is acceptable. 0/18 0/18 1/18 8/18 9/18 5\n4 The new interface is easy-to-use with minimal confusion 0/18 2/18 5/18 8/18 3/18 4\non how controls work.\n5 I'd like to see similar interactive features in other 1/18 1/18 5/18 4/18 7/18 5\nMEDLINE search engines.\n6 Seeing mapped MeSH terms and unmapped keywords in 0/18 3/18 4/18 5/18 6/18 5\nthe information box is a useful feature.\n7 I like the feature where I can hide and display abstracts. 0/18 1/18 3/18 5/18 9/18 5",
+   "table_id": "PMC1318459_table_5"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    338.5,
+    372.6,
+    922.4
+   ],
+   "ocr": "1 – Strongly disagree (SD) 2 – Disagree (D) 3 – Neutral (N) 4 – Agree (A) 5 – Strongly agree (SA) were expanded to include descriptions of the slider set- tings. A tutorial page was also suggested. Limitations of the study The study has several limitations. First, the search inter- face omits several limits existing in the PubMed limits page like subsets and non-English languages. The devel- opers continue to look into integrating currently available filters in newer versions of the application. Second, only eighteen physicians interested in Medical Informatics projects participated in the beta-testing phase. A broad mix of PubMed researchers is a target for future usability studies. Third, the retrieval performance to measure sensi- tivity and specificity of the methodology filters was not tested. Review of Clinical Study Category filters not incor- porated in the application, e.g. diagnosis and prognosis, is in process. Ongoing efforts to improve the application include evaluating search algorithms for accuracy and pre- cision and adopting validated PubMed filters from previ- ous published studies. The developers continue to monitor advancements in Web technology and add new interactive features in the application. The goal of the project was to create a PubMed search application that allows users of all levels to easily go beyond basic keyword searches and move towards evi- dence-based principles. This is consistent with the practice of evidence-based medicine which advocates the formula- tion of effective search strategies to find current evidence. With increasing access to the Internet, online biblio- graphic databases have become important real-time resources for current evidence at the point-of-care. Although tools to control search parameters are available, these often require advanced familiarity with the search"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    418.7,
+    698.3,
+    907.5
+   ],
+   "ocr": "interface elusive to beginners. By exploring progressive Web technologies and creating an interactive search inter- face, the application may prove valuable in bridging the gap between expert and non-expert users of PubMed. Conclusion The Web-based application offers an alternative search interface to facilitate MEDLINE/PubMed searches. JavaS- cript slider bars control search limits, add filters or modify search terms with ease. Textual link controls can hide or display abstracts with a mouse. Initial qualitative testing and user feedback were positive which reinforced the approach of enhancing user interaction to improve online research. SLIM can be an interactive time-saving tool for online medical literature research that improves user con- trol and capability to instantly refocus search strategies. With continued development and by integrating search limits, methodology filters, MeSH terms and levels of evi- dence, SLIM may be useful in the practice of evidence- based medicine. Availability and requirements Project name: SLIM (Slider Interface for MEDLINE/ PubMed searches) Project home page: http://pmi.nlm.nih.gov/slide Operating systems: Platform independent Programming language: PHP, JavaScript Other requirements: JavaScript-enabled browsers, e.g. Fire Fox 1.0 or higher, IE 5 or higher"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 9 (page number not for citation purposes)"
+  }
+ }
+}

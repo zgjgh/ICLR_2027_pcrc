@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_058",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    93,
+    580,
+    151
+   ],
+   "ocr": "The report details two tables encompassing pharmaceutical products and metabolic pathways. In Table 1, the headers are Product, Strength (mg), BCSclass, Dissolution method with one liter vessel, Releasemechanism, and Tablets types. The first entry is Prednisone Batch :POE203, with a Strength of 10 mg, BCSclass of 1, a Dissolution method of 500 mL using Paddle at 50 rpm, a Releasemechanism classified as IR, and Tablets types as Disintegrating."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    139,
+    580,
+    182
+   ],
+   "ocr": "The second entry, Salicylic acid Batch :Q0D200, has a Strength of 300 mg, BCSclass of 3, a Dissolution method of 900 mL with Paddle at 100 rpm, an ER Releasemechanism, and Non-disintegrating Tablets types."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    225.0,
+    580.0,
+    388.0
+   ],
+   "ocr": "Product Strength (mg) BCSclass Dissolution method with one liter vessel Releasemechanism Tablets types\nPrednisone Batch :POE203 10 mg 1 500 mL Paddle 50 rpm IR Disintegrating\nSalicylic acid Batch :Q0D200 300 mg 3 900 mL Paddle 100 rpm ER Non-disintegrating\nER4H / ER8H 1 mg 2* 500 mL Paddle 50 rpm ER Erosion-Diffusion\nIR(1) 0.075 mg 1 500 mL Paddle 50 rpm IR Disintegrating\nIR(2) 50 mg 2* 900 mL Paddle 50 rpm IR Disintegrating",
+   "table_id": "img_065503_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    426.0,
+    580.0,
+    567.0
+   ],
+   "ocr": "Pathway ID KEGG Pathway Number of Genes Q-Value\nko01110 Biosynthesis of secondary metabolites 123 0.003588954\nko01100 Metabolic pathways 255 0.003588954\nko00630 Glyoxylate and dicarboxylate metabolism 18 0.008545071\nko00260 Glycine, serine and threonine metabolism 25 0.039994923\nko00100 Steroid biosynthesis 17 0.039994923\nko00061 Fatty acid biosynthesis 11 0.039994923",
+   "table_id": "img_065503_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    596,
+    580,
+    685
+   ],
+   "ocr": "The third entry, ER4H / ER8H, lists a Strength of 1 mg, BCSclass of 2*, a Dissolution method of 500 mL using Paddle at 50 rpm, an ER Releasemechanism, and Erosion-Diffusion Tablets types. The fourth entry, IR(1), indicates a Strength of 0.075 mg, BCSclass of 1, a Dissolution method of 500 mL with Paddle at 50 rpm, an IR Releasemechanism, and Disintegrating Tablets types. The fifth entry, IR(2), lists a Strength of 50 mg, BCSclass of 2*, a Dissolution method of 900 mL using Paddle at 50 rpm, an IR Releasemechanism, and Disintegrating Tablets types. In Table 2, the headers are Pathway ID, KEGG Pathway, Number of Genes, and Q-Value."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    762
+   ],
+   "ocr": "The first entry has Pathway ID ko01110, KEGG Pathway as Biosynthesis of secondary metabolites, Number of Genes totaling 123, and a Q-Value of 0.003588954. The second entry, ko01100, represents Metabolic pathways with 255 genes and a Q-Value of 0.003588954. The third entry, ko00630, identifies Glyoxylate and dicarboxylate metabolism with 18 genes and a Q-Value of 0.008545071. The fourth entry, ko00260, relates to Glycine, serine and threonine metabolism, has 25 genes, and a Q-Value of 0.039994923. The fifth entry, ko00100, indicates Steroid biosynthesis with 17 genes and a Q-Value of 0.039994923. The final entry, ko00061, pertains to Fatty acid biosynthesis, has 11 genes, and a Q-Value of 0.039994923."
+  }
+ }
+}

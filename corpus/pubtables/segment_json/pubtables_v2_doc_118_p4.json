@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_118",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    57.3,
+    285.5,
+    81.3
+   ],
+   "ocr": "Hackenberg et al. BMC Genomics 2010, 11:327 http://www.biomedcentral.com/1471-2164/11/327"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    626.5,
+    57.4,
+    677.7,
+    68.8
+   ],
+   "ocr": "Page 7 of 14"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    121.2,
+    373.1,
+    134.2
+   ],
+   "ocr": "Table 5: Overlap of different CGIs with 3,465 domains bound"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    375.4,
+    121.2,
+    605.9,
+    134.2
+   ],
+   "ocr": "by the polycomb repressive complex 2 (PRC2)."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    76.4,
+    145.4,
+    653.7,
+    366.0
+   ],
+   "ocr": "Method Number of predicted Number of islands Number of PRC2 domains SN PPV\nislands overlapping PRC2 domains 'touched' by the prediction\nTJ 37,293 3,523 3,033 0.891 0.094\nUCSC 27,639 3,179 2,790 0.825 0.115\nCpGproD 76,886 3,321 3,159 0.916 0.043\nCpGcluster:\nrelaxed set* 198,702 9,097 3,097 0.961 0.046\nstrict set** 25,454 3,424 2,372 0.758 0.135",
+   "table_id": "PMC2887419_table_4"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    76.4,
+    372.3,
+    215.8,
+    383.7
+   ],
+   "ocr": "*p-value ≤ 1E-5; **p-value ≤ 1E-20"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    410.3,
+    365.9,
+    489.0
+   ],
+   "ocr": "average 1 kb long [1]. Frequently, more than one CpG- cluster island can be found within the promoter region and furthermore, several CpGcluster islands are often embedded within one single conventional, SWA island. For instance, around 53% of all TJ islands host more than"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    410.3,
+    678.3,
+    428.5
+   ],
+   "ocr": "reported 37.8% of genes with more than one CpGcluster"
+  },
+  "p4_b8": {
+   "type": "title",
+   "bbox": [
+    383.8,
+    425.4,
+    569.9,
+    443.6
+   ],
+   "ocr": "island might look not so inadequate."
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    440.5,
+    678.4,
+    594.8
+   ],
+   "ocr": "Conversely, this finding might indicate that the TJ algo- rithm artificially joins several functional islands into one single longer island. To further investigate this possibility, we estimated the number of islands simultaneously over- lapping multiple TSSs annotated in the DBTSS database. Table 6 shows that the CpGcluster sets, both relaxed and strict, overlap a higher fraction of unique, and a lower fraction of multiple TSSs than the islands predicted by other programs, thus making CpGcluster predictions much more specific in overlapping individual TSSs."
+  },
+  "p4_b10": {
+   "type": "title",
+   "bbox": [
+    71.3,
+    485.8,
+    239.7,
+    504.1
+   ],
+   "ocr": "one CpGcluster island (Figure 6)."
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    500.9,
+    365.9,
+    579.7
+   ],
+   "ocr": "Given these facts, it might be that either conventional SWA predictions erroneously merge smaller islands into longer ones, or that CpGcluster erroneously fragments longer islands into many smaller ones. Next, we use alter- native TSSs and single CpG resolution methylation data"
+  },
+  "p4_b12": {
+   "type": "title",
+   "bbox": [
+    71.3,
+    576.5,
+    236.3,
+    594.8
+   ],
+   "ocr": "to shed light on these questions."
+  },
+  "p4_b13": {
+   "type": "paragraph",
+   "bbox": [
+    393.9,
+    591.6,
+    678.3,
+    609.9
+   ],
+   "ocr": "Figure 7 shows a particular example of a bidirectional"
+  },
+  "p4_b14": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    592.6,
+    366.0,
+    881.9
+   ],
+   "ocr": "Alternative promoters Frequently, CpGcluster predicts more than one island within the promoter region. It has been shown [22] that 37.8% of all RefSeq genes have more than one CpGcluster island, while only 3.2% have more than one TJ island. Fol- lowing the premise \"one promoter one CpG island\", this observation was interpreted as a disadvantage of CpG- cluster [22]. However, in recent years, new insights into the regulation of gene expression became available, show- ing among other things a frequent use of alternative TSSs. The existence of alternative TSSs opens the possibility that more than one island per gene might exist. There- fore, the high percentage of genes with more than one CpGcluster island might instead indicate a more specific relation of CpGcluster islands to alternative promoters or TSSs. To check this possibility, we used the DBTSS data- base [31]. Out of 15,194 RefSeq genes annotated in the latest DBTSS release, 7,895 (52%) have at least one alter- native TSS. With such scenario, one might expect up to"
+  },
+  "p4_b15": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    606.7,
+    678.4,
+    625.0
+   ],
+   "ocr": "promoter region. The TSSs of the two genes, UFD1L and"
+  },
+  "p4_b16": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    621.9,
+    678.4,
+    640.1
+   ],
+   "ocr": "CDC45L, are overlapped by the same TJ or UCSC island,"
+  },
+  "p4_b17": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    637.0,
+    678.3,
+    788.7
+   ],
+   "ocr": "while CpGcluster predicts separate islands. This is inter- 0.5 0.4 0.3 Percent"
+  },
+  "p4_b18": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    855.8,
+    670.1,
+    930.2
+   ],
+   "ocr": "0.0 1 2 3 4 5 6 7 8 9 10 Number of CpGcluster islands included within some SWA (TJ) island Figure 6 Distribution of the number of CpGcluster islands includ- ed within SWA (TJ) islands."
+  },
+  "p4_b19": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    878.8,
+    365.8,
+    897.0
+   ],
+   "ocr": "52% of all promoters having more than one island in its"
+  },
+  "p4_b20": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    893.9,
+    366.0,
+    912.2
+   ],
+   "ocr": "promoter (one for each TSS). Given these numbers, the"
+  }
+ }
+}

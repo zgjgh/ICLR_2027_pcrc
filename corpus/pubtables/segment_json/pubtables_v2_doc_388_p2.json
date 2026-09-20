@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_388",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    627.1,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "lncRNAs in Maize"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.6,
+    405.3,
+    92.9
+   ],
+   "ocr": "Table 2. Homology of miRNA precursors with previously classified"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    409.2,
+    81.6,
+    546.8,
+    92.9
+   ],
+   "ocr": "miRNA precursor sequences."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    651.5,
+    448.7
+   ],
+   "ocr": "Full-length cDNA ID Sequence with highest scoring alignment % coverage % identity direction\nZ27kG1_18025 gb|GQ905509.1| Zea mays clone zma-miR159a-2 precursor 99% 100% sense\nZ27kG1_17060 gb|GQ905546.1| Zea mays clone zma-miR168b precursor 90% 99% sense\nZ27kG1_17126 b|GQ905514.1| Zea mays clone zma-miR160a precursor 82% 100% sense\nZ27kG1_06696 gb|GQ905605.1| Zea mays clone zma-miR394b-2 precursor 71% 99% sense\nZ27kG1_12681 gb|GQ905528.1| Zea mays clone zma-miR166b-2 precursor 59% 100% sense\nZ27kG1_16032 gb|GQ905515.1| Zea mays clone zma-miR160b precursor 57% 100% sense\nZ27kG1_17306 gb|GQ905546.1| Zea mays clone zma-miR168b precursor 49% 99% sense\nZ27kG1_09597 b|GQ905553.1| Zea mays clone zma-miR169c precursor 47% 100% sense\nZ27kG1_08877 gb|GQ905563.1| Zea mays clone zma-miR169j-4 precursor 46% 100% antisense\nZ27kG1_22830 gb|GQ905563.1| Zea mays clone zma-miR169j-4 precursor 36% 100% antisense\nZ27kG1_23905 gb|GQ905575.1| Zea mays clone zma-miR171j_5prime-1 precursor 27% 100% sense\nZ27kG1_15711 gb|GQ905520.1| Zea mays clone zma-miR162-2 precursor 21% 100% sense\nZ27kG1_02106 gb|GQ905557.1| Zea mays clone zma-miR169h_3prime precursor 18% 100% antisense\nZ27kG1_02804 gb|GQ905543.1| Zea mays clone zma-miR167g_5prime precursor 17% 100% sense\nZ27kG1_08524 gb|GQ905590.1| Zea mays clone zma-miR319b_5prime-1 precursor 16% 100% sense\nZ27kG1_22328 gb|GQ905572.1| Zea mays clone zma-miR171f_3prime-1 precursor 12% 99% sense\nZ27kG1_19659 gb|GQ905533.1| Zea mays clone zma-miR166k/m precursor 10% 83% sense\nZ27kG1_02711 gb|GQ905546.1| Zea mays clone zma-miR168b precursor 7% 94% sense\nZ27kG1_09008 No hit to precursor n/a n/a n/a\nZ27kG1_07922 Zea mays indeterminate spikelet 1 (ids1) mRNA 92% 99% sense",
+   "table_id": "PMC3420876_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    462.0,
+    225.1,
+    470.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0043047.t002"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    489.0,
+    375.7,
+    805.9
+   ],
+   "ocr": "associated FGS gene. The locations of the ncRNAs were based on the highest alignment score within the gene, and sorted further into the following categories: spliced over a gene, spans a gene from both the up and downstream region, spans a gene from both the 59 and 39 UTR, within 500 bp up or downstream of a gene, within a UTR, within an intron, and within the coding sequence of a gene (Figure S7). In addition, a distinction between the directionality of the ncRNA relative to its respective gene model, sense or antisense, was made. To understand the relationship between ncRNAs and the associated filtered gene set gene models, the ncRNAs were separated into three groups based upon their subgenic localization and percent of gene model covered. The first group contained 541 noncoding transcripts that covered more than 98 percent of a gene model and those that are spliced over a gene; the former may span from the upstream to the downstream or from the 59 to 39 UTRs, the latter was not localized further. The second group contained 118 noncoding transcripts that covered a gene model between 50 and 98 percent; with this group it was determined whether the lncRNA candidates spanned to include a particular region. The third group included 481 ncRNAs with less than 50 percent Table 3. ncRNAs with homology to multiple small RNAs."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    489.0,
+    700.7,
+    756.7
+   ],
+   "ocr": "coverage over a gene model; with this group a distinction was made between the lncRNA candidates located completely within a specific feature from those that spanned more than one feature. This analysis detected 470 sense transcripts with over 98 percent coverage of a predicted protein coding gene in the filtered gene set (Figure 5). Ten of these were randomly selected and manually analyzed. All ten of these gene models consisted of a single exon and had ORFs less than 120 aa with no significant homology to known proteins (data not shown). It is therefore likely that these transcripts have been mischaracterized as protein coding genes by genome annotation efforts. Spliced transcripts in the sense direction may also be associated with mischaracterized protein coding gene models. Both the high-coverage and spliced lncRNA candidates could therefore be intergenic functional lncRNAs. There is an established precedent for spliced, functional, lncRNAs. The long noncoding RNA database lists 40 of 178 lncRNAs as spliced transcripts, and two different search parameters to select for spliced and non-spliced transcripts on NRED (ncRNA Expression Database) revealed roughly 50 percent of the transcripts in the database as spliced [64,65]."
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    834.8,
+    692.3,
+    904.7
+   ],
+   "ocr": "No. transcripts with homology to more than one small\nncRNA type No. transcripts RNA\nmiRNA precursor 19 14\nshRNA precursor 237 207\nsiRNA precursor 1225 724",
+   "table_id": "PMC3420876_table_2"
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    917.9,
+    225.1,
+    926.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0043047.t003"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.1,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p2_b10": {
+   "type": "header_footer",
+   "bbox": [
+    384.4,
+    953.5,
+    700.7,
+    963.6
+   ],
+   "ocr": "7 August 2012 | Volume 7 | Issue 8 | e43047"
+  }
+ }
+}

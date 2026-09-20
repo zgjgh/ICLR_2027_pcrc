@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_345",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    311.0,
+    65.8
+   ],
+   "ocr": "Ongenae et al. BMC Health Services Research 2011, 11:26 http://www.biomedcentral.com/1472-6963/11/26"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 11 of 28"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.6,
+    678.7,
+    906.7
+   ],
+   "ocr": "The nurse call algorithm A new algorithm was designed to find the correct staff member to handle a call. It uses the information stored in the ontology. It first determines which kind of calls has been made as can be seen in Figure 6. Normal, sanitary, service and (sanitary) assistance calls employ the same basic algorithm which is visualized in Figure 7. The difference is that for normal, sanitary and (sanitary) assistance calls only nurses can be called. For service calls caretakers can also be called. It is also made sure that the nurse that made the (sanitary) assis- tance call, cannot be called to answer this call. The common algorithm first checks if the responsible nurse or caretaker can be called. Note that this respon- sible staff member can also be called if he/she is busy with a task that has a lower priority than the current call. If the responsible nurse or caretaker cannot be called, all the helpers who work on the department where the patient who the call is for lies are investi- gated. It is assumed that a nurse, who works on a department where the patient lies on, has more back- ground information about the illnesses and concerns of this patient. Only for calls with the highest or high priority helpers are considered that are busy with a task with a lower priority. Otherwise these helpers will never be able to finish the work for the patients they are responsible for. If this option still does not offer a solu- tion, the search is widened beyond the scope of the department and the helpers in the whole hospital are taken into account. If the result is empty again, this means that there are no available nurses in the direct vicinity. The distance becomes a deciding factor at this moment, so the closest nurse with right properties is selected, e.g. free, willing and qualified. If this still does not offer a solution, all the nurses in the hospital are considered and the one who is closest to the patient is called. Note that the characteristics are only used to choose among different available nurses. They are never used to decide that a nurse cannot handle a patient. The algorithm has a time-out procedure. If a staff member has not indicated that he/she is going to handle the call within the time-out time that is specified for this type of call in the ontology, another staff member is selected to handle the call by running the algorithm again. Urgency, medical and technical calls each have their own algorithm as can be seen in Figure 6. For urgency calls, the priority lies on finding a person who is near instead of a person who is free. This is necessary because lives are at stake when an urgency call is issued. A time-out procedure is not needed here, as an urgency call will always be immediately answered. The algo- rithms for the technical and medical calls are rather"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    365.1,
+    137.7
+   ],
+   "ocr": "Table 2 The probabilistic assignment of calls to a priority category"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    366.1,
+    272.4
+   ],
+   "ocr": "Above Below\nNormal Highest High Normal Normal Normal Low Lowest\ncall made\nby\nHigh risk 0.2 0.6 0.2\npatient\nMedium 0.3 0.6 0.1\nrisk\nLow risk 0.6 0.3 0.1\npatient",
+   "table_id": "PMC3045288_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    304.2,
+    366.2,
+    905.2
+   ],
+   "ocr": "algorithm Subsection of the Algorithms Section. To resolve this issue, the following threshold algorithm was employed on the lower bound of the probabilistic inter- vals. If the probabilistic value for the highest priority class is higher than or equal to the threshold for the highest priority class, it gets the highest priority. If not, the same condition is checked for high, above normal, normal, below normal, low and lowest priority classes. The thresholds can be determined based on the specific characteristics, e.g. number of calls, needs and prefer- ences of the department or hospital. The threshold that were used for the simulations are detailed in the Col- lected data Subsection of the Evaluation set-up Section. If the thresholds are 0.21, 0.3, 0.24, 0, 0.05, 0 and 0, ordered from the Highest to the Lowest priority, than the Normal call of Patient1 from the previous example gets the Above Normal priority according to this threshold algorithm. Although, the 0.2 release of Pronto increases the per- formance of the reasoning tasks over a single probabilis- tic statement, scalability is still a problem [29]. Currently Pronto can handle about 15 probabilistic statements in reasonable time. As a result, Pronto can- not currently handle all the probabilistic statements that were added to the ontology in reasonable time. The following optimization was used in the oNCS sys- tem to speed up the probabilistic reasoning. First, during down-time, the probabilistic values that indicate that this patient is a high, medium or low risk patient are calculated and stored as known facts in the ontology. This does not have to be repeated often as risk factors do not change a lot during a patients stay in the hospi- tal. Next, when a call is made, all the probabilistic state- ments that are needed to calculate the priority of this call are extracted from the ontology. Each time, at most 12 probabilistic statements will be extracted, namely the statements about the probabilistic assignment of this patient to the risk groups (3 statements) and the state- ments about the generic probabilistic assignment of this kind of call to the priority groups (9 statements)."
+  }
+ }
+}

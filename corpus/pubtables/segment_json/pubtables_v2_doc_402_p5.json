@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_402",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    377.8,
+    66.0
+   ],
+   "ocr": "Younesi et al. BMC Medical Informatics and Decision Making 2012, 12:148 http://www.biomedcentral.com/1472-6947/12/148"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 12 of 13"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    373.2,
+    124.4
+   ],
+   "ocr": "Table 5 Evaluation of genes not found in AD gold standard"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    376.6,
+    111.4,
+    615.8,
+    124.4
+   ],
+   "ocr": "but retrieved using the biomarker terminology"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    667.3,
+    168.6
+   ],
+   "ocr": "No. of genes/ proteins retrieved by SCAIView No. of genes with at least one No. of abstracts with lack of relevance either to\nbut not contained in gold standard biomarker evidence in Medline the disease or to being a biomarker\n400 158 241",
+   "table_id": "PMC3541249_table_4"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    186.7,
+    366.1,
+    925.6
+   ],
+   "ocr": "However, this might lead to a decline in retrieval preci- sion. Additionally, some medical diagnosis scores are very specific and often do not occur in the large publicly available resources such as MeSH and UMLS. The flexibility of the biomarker terminology in relation to different query formulations and different biomarker classes should be tested in future investigations. Conclusions The work presented in this paper is a first step towards developing a search engine for literature-based retrieval and in-silico validation of biomarker candidates. It was shown that the development and application of a dedi- cated biomarker terminology could enhance the retrieval performance significantly through combined search for genes and selected classes of the biomarker retrieval ter- minology. The experimental results, obtained in the course of this study, demonstrate the effectiveness of the proposed approach that provides a foundation in seman- tic indexing and retrieval. Additional file Additional file 1: List of the PMIDs of the abstracts used for evaluation of the system. Abbreviations MeSH: Medical Subject Headings; NER: Names Entity Recognition; OMIM: Online Mendelian Inheritance in Man; UMLS: Unified Medical Language System; NSCLC: Non-Small-Cell Lung Carcinoma; AD: Alzheimer’s Disease; MS: Multiple Sclerosis; PMID: PubMed Identifier. Competing interests The authors declare that they have no competing interests. Authors’ contributions EY carried out text annotations, participated in the terminology design, contributed to evaluations and drafted the manuscript. LT contributed to the study conception and design as well as data acquisition and analysis. BM carried out statistical analyses and maintained the softwares. CMF revised the results critically. NN participated in the design of the study, coordinated the expert annotations, and provided the use case scenario. AS conceived of the study. MHA participated in the design of the study, verified the terminology and revised the paper critically. JF participated in the design of the study and analysis of the results, coordinated the study, participated in evaluations and helped to draft the manuscript. All authors read and approved the final manuscript. Acknowledgements We wish to thank Caroline Kant from Merck Serono for her support and discussion in the generation of the terminology and Merck Serono experts for delivering the annotations. We would like to acknowledge Heinz Theodor Mevissen from Fraunhofer SCAI for ProMiner support, BIOBASE KL for disclosure of details in the article, and Dr. Karl Kirschner for proofreading the manuscript."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    189.1,
+    678.2,
+    925.6
+   ],
+   "ocr": "Author details 1Department of Bioinformatics, Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), Schloss Birlinghoven, Sankt Augustin 53754, Germany. 2Bonn-Aachen International Center for Information Technology (B-IT), University of Bonn, Bonn, Germany. 3Knowledge Management, Operational Excellence & Site Coordination, Merck Serono, Merck KGaA, Darmstadt, Germany. 4Informatics & Knowledge Management, Merck Serono, Merck KGaA, Geneva, Switzerland. 5Department of Computer Science, University of Applied Science and Arts, Dortmund, Germany. Received: 3 February 2012 Accepted: 10 December 2012 Published: 18 December 2012 References 1. Ghosh D, Poisson LM: Omics data and levels of evidence for biomarker discovery. Genomics 2009, 93:13–16. 2. Group BDW: Biomarkers and surrogate endpoints: preferred definitions and conceptual framework. Clin Pharmacol Ther 2001, 69:89–95. 3. Perera FP, Weinstein IB: Molecular epidemiology: recent advances and future directions. Carcinogenesis 2000, 21:517–524. 4. Mayeux R: Biomarkers: potential uses and limitations. NeuroRx 2004, 1:182–188. 5. Timbrell J: Types of biomarker and challenges for new biomarkers. Toxicol Lett 2006, 164(Suppl 1):S315. 6. Altar CA: The biomarkers consortium: on the critical path of drug discovery. Clin Pharmacol Ther 2008, 83:361–364. 7. Wagner JA: Strategic approach to fit-for-purpose biomarkers in drug development. Annu Rev Pharmacol Toxicol 2008, 48:631–651. 8. Marrer E, Dieterle F: Impact of biomarker development on drug safety assessment. Toxicol Appl Pharmacol 2010, 243:167–179. 9. Bakhtiar R: Biomarkers in drug discovery and development. J Pharmacol Toxicol Methods 2008, 57:85–91. 10. Hurko H, Jones GK: Valuation of biomarkers. Nat Rev Drug Discov 2011, 10:253–254. 11. Ongenaert M, Dehaspe L: Integrating automated literature searches and text mining in biomarker discovery. BMC Bioinforma 2010, 11(Suppl 5):O5. 12. Krallinger M, Valencia A: Text-mining and information-retrieval services for molecular biology. Genome Biol 2005, 6:224. 13. Harsha HC, Kandasamy K, Ranganathan P, Rani S, Ramabadran S, Gollapudi S, Balakrishnan L, Dwivedi SB, Telikicherla D, Selvan LDN, Goel R, Mathivanan S, Marimuthu R, DeCaprio JA, Srivastava S, Hanash SM, Htuban RH, Pandey A: A compendium of potential biomarkers of pancreatic cancer. PLoS Med 2009, 6:e1000046. 14. BioCreAtIvE workshop. [http://www.biocreative.org]. 15. Blaschke C, Hirschman L, Valencia A, Yeh A: A critical assessment of text mining methods in molecular biology. BMC Bioinforma 2004, 6(Suppl 1):S1–S23. 16. Hirschman L, Krallinger M, Wilbur J, Valencia A: The BioCreAtIvE II - critical assessment for information extraction in biology challenge. Genome Biol 2008, 9(Suppl 2):S1–S14. 17. Pennings JL, Koster MP, Rodenburg W, Schielen PC, de Vries A: Discovery of novel serum biomarkers for prenatal down syndrome screening by integrative data mining. PLoS One 2009, 4:e8010. 18. Deng X, Geng H, Bastola DR, Ali HH: Link test–a statistical method for finding prostate cancer biomarkers. Comput Biol Chem 2006, 30:425–433. 19. Bundschus M, Dejori M, Stetter M, Tresp V, Kriegel HP: Extraction of semantic biomedical relations from text using conditional random fields. BMC Bioinforma 2008, 9:207. 20. Elkin PL, Tuttle MS, Trusko BE, Brown HB: BioProspecting: novel marker discovery obtained by mining the bibleome. BMC Bioinforma 2009, 10(Suppl 2):S9. 21. Islam MT, Shaikh M, Nayak A, Ranganathan S: Biomarker Information Extraction Tool (BIET) development using natural language processing and machine learning. In Proceedings of the International Conference and Workshop on Emerging Trends in Technology: 26–27 February 2010. Edited by"
+  }
+ }
+}

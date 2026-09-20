@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_452",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4480911_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    157.1,
+    678.6,
+    555.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4480911_table_0.png",
+   "html": "<table><tr><td>Gene Symbol</td><td>Score</td><td>Local FDR</td><td></td></tr><tr><td colspan=\"4\">(a)</td></tr><tr><td>RAB11FIP1</td><td>0.934</td><td>0.00044</td><td></td></tr><tr><td>KRT80</td><td>0.933</td><td>0.00045</td><td>Localization around desmosomal plaques in earlier stages of differentiation [PMID:20843789]</td></tr><tr><td>ID4</td><td>0.915</td><td>0.00052</td><td>Lack of the protein in parakeratotic cells at upper skin layer [PMID:21663940]</td></tr><tr><td>PPL</td><td>0.911</td><td>0.00053</td><td>A component of desmosomes and of the cornified envelope [PMID:9412476]</td></tr><tr><td>KRT1</td><td>0.911</td><td>0.00054</td><td>Specifically expressed in the spinous and granular layers [PMID:10511477]</td></tr><tr><td>BCL6</td><td>0.900</td><td>0.00058</td><td>Expression at the terminal differentiation stage [PMID:8912662]</td></tr><tr><td>ERBB3</td><td>0.897</td><td>0.00059</td><td>Skin biopsy expressed more than the cultured cells [PMID:11571634]</td></tr><tr><td>PLAC2</td><td>0.896</td><td>0.00059</td><td>lncRNA controlling terminal differentiation [PMID:23201690]</td></tr><tr><td>PKP1</td><td>0.896</td><td>0.00059</td><td>Localization around desmosomal plaques and nuclei [PMID:16632867]</td></tr><tr><td>KRT10</td><td>0.894</td><td>0.00060</td><td>Specifically expressed in the spinous and granular layers [PMID:10511477]</td></tr><tr><td colspan=\"4\">(b)</td></tr><tr><td>PRDX3</td><td>&#8722;0.922</td><td>0.00044</td><td>Mitochondrial [PMID:17893648]</td></tr><tr><td>SEC61G</td><td>&#8722;0.914</td><td>0.00045</td><td></td></tr><tr><td>NDUFB3</td><td>&#8722;0.914</td><td>0.00052</td><td>Mitochondrial [PMID:12611891]</td></tr><tr><td>FXC1</td><td>&#8722;0.913</td><td>0.00053</td><td>Mitochondrial [PMID:14726512]</td></tr><tr><td>ATP5J</td><td>&#8722;0.911</td><td>0.00054</td><td>Mitochondrial [PMID:12110673]</td></tr><tr><td>GNG10</td><td>&#8722;0.911</td><td>0.00058</td><td></td></tr><tr><td>TXNDC9</td><td>&#8722;0.911</td><td>0.00059</td><td></td></tr><tr><td>MRPS23</td><td>&#8722;0.910</td><td>0.00059</td><td>Mitochondrial ribosomal protein</td></tr><tr><td>ENY2</td><td>&#8722;0.910</td><td>0.00059</td><td></td></tr><tr><td>PSMB2</td><td>&#8722;0.909</td><td>0.00060</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4480911_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    171.0,
+    678.6,
+    591.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4480911_table_1.png",
+   "html": "<table><tr><td>Name</td><td>SIZE</td><td>NES</td><td>FDR q-val</td></tr><tr><td colspan=\"4\">(a)</td></tr><tr><td>PEREZ_TP53_AND_TP63_TARGETS</td><td>198</td><td>2.967</td><td>0</td></tr><tr><td>SMID_BREAST_CANCER_NORMAL_LIKE_UP</td><td>449</td><td>2.908</td><td>0</td></tr><tr><td>BOQUEST_STEM_CELL_CULTURED_VS_FRESH_DN</td><td>31</td><td>2.774</td><td>0</td></tr><tr><td>KRAS.LUNG_UP.V1_DN</td><td>128</td><td>2.774</td><td>0</td></tr><tr><td>ABATES_COLORECTAL_ADENOMA_DN</td><td>248</td><td>2.760</td><td>0</td></tr><tr><td>WU_SILENCED_BY_METHYLATION_IN_BLADDER_CANCER</td><td>53</td><td>2.758</td><td>0</td></tr><tr><td>PEREZ_TP63_TARGETS</td><td>334</td><td>2.742</td><td>0</td></tr><tr><td>WINNEPENNINCKX_MELANOMA_METASTASIS_DN</td><td>46</td><td>2.735</td><td>0</td></tr><tr><td>KEGG_ASTHMA</td><td>23</td><td>2.689</td><td>0</td></tr><tr><td>KEGG_ALLOGRAFT_REJECTION</td><td>33</td><td>2.663</td><td>0</td></tr><tr><td colspan=\"4\">(b)</td></tr><tr><td>YAO_TEMPORAL_RESPONSE_TO_PROGESTERONE_CLUSTER_13</td><td>172</td><td>3.060</td><td>0</td></tr><tr><td>MOOTHA_VOXPHOS</td><td>86</td><td>3.038</td><td>0</td></tr><tr><td>WONG_EMBRYONIC_STEM_CELL_CORE</td><td>332</td><td>3.028</td><td>0</td></tr><tr><td>REACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTH ESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_ BY_UNCOUPLING_PROTEINS_</td><td>81</td><td>3.016</td><td>0</td></tr><tr><td>FOURNIER_ACINAR_DEVELOPMENT_LATE_2</td><td>276</td><td>3.005</td><td>0</td></tr><tr><td>KEGG_OXIDATIVE_PHOSPHORYLATION</td><td>111</td><td>2.954</td><td>0</td></tr><tr><td>PENG_LEUCINE_DEPRIVATION_DN</td><td>186</td><td>2.947</td><td>0</td></tr><tr><td>GSE22886_UNSTIM_VS_IL15_STIM_NKCELL_DN</td><td>199</td><td>2.947</td><td>0</td></tr><tr><td>WONG_MITOCHONDRIA_GENE_MODULE</td><td>216</td><td>2.943</td><td>0</td></tr><tr><td>REACTOME_RESPIRATORY_ELECTRON_TRANSPORT</td><td>65</td><td>2.924</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4480911_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    143.3,
+    678.6,
+    376.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4480911_table_2.png",
+   "html": "<table><tr><td>Gene Symbol</td><td>Loading</td><td>Z-score</td><td></td></tr><tr><td>HLF</td><td>1.059</td><td>3.690</td><td>Inhibitor of cell death response [PMID:23415677]</td></tr><tr><td>ZBTB16</td><td>1.039</td><td>3.621</td><td></td></tr><tr><td>HOPX</td><td>1.022</td><td>3.558</td><td>Controlling differentiation-dependent genes [PMID:20226564]</td></tr><tr><td>EGR3</td><td>0.999</td><td>3.477</td><td></td></tr><tr><td>ID4</td><td>0.986</td><td>3.436</td><td>Lack of the protein in parakeratotic cells at upper skin layer [PMID:21663940]</td></tr><tr><td>MNDA</td><td>0.968</td><td>3.369</td><td></td></tr><tr><td>HCLS1</td><td>0.947</td><td>3.297</td><td></td></tr><tr><td>SOX5</td><td>0.947</td><td>3.295</td><td>Genes coding SOX5 binding sites at the promoters were PC1 positive correlation (V$SOX5_01; q-value FDR ~ 0)</td></tr><tr><td>SOX21</td><td>0.937</td><td>3.261</td><td>Master regulator of hair shaft cuticle differentiation [PMID:19470461]</td></tr><tr><td>ETV7</td><td>0.928</td><td>3.227</td><td></td></tr><tr><td>POU3F1</td><td>0.920</td><td>3.200</td><td>Transactivator for FLG (a.k.a. profilaggrin; PC1 positive correlation, Local- FDR = 7.34 &#215; 10-4; [PMID:10809764])</td></tr><tr><td>POU2F3</td><td>0.906</td><td>3.151</td><td>10-4; [PMID:10809764] &amp; [PMID:7682011]); repressor for KRT14 (PC1 negative correlation, Local-FDR ~ 0; [PMID:11429405])</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4480911_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    721.4,
+    366.1,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4480911_table_3.png",
+   "html": "<table><tr><td>Gene symbol</td><td>Score</td><td>Local FDR</td><td>polyA + RNA binding [PMID: 22658674]</td></tr><tr><td>HNRNPH1</td><td>0.855</td><td>0.00000</td><td>&#10003;</td></tr><tr><td>SCAF11</td><td>0.829</td><td>0.00002</td><td>&#10003;</td></tr><tr><td>HNRNPA3</td><td>0.823</td><td>0.00003</td><td>&#10003;</td></tr><tr><td>BCLAF1</td><td>0.802</td><td>0.00008</td><td>&#10003;</td></tr><tr><td>OXCT1</td><td>0.800</td><td>0.00008</td><td>&#10003;</td></tr><tr><td>ODF2L</td><td>0.798</td><td>0.00008</td><td>&#10003;</td></tr><tr><td>HNRNPAB</td><td>0.789</td><td>0.00010</td><td>&#10003;</td></tr><tr><td>PNN</td><td>0.788</td><td>0.00011</td><td>&#10003;</td></tr><tr><td>UBE2G2</td><td>0.787</td><td>0.00011</td><td>&#10003;</td></tr><tr><td>SPARC</td><td>0.787</td><td>0.00011</td><td>&#10003;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4480911_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    226.4,
+    366.1,
+    494.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4480911_table_4.png",
+   "html": "<table><tr><td>Name</td><td>SIZE</td><td>NES</td><td>FDR q-val</td></tr><tr><td colspan=\"4\">(a)</td></tr><tr><td>PUJANA_BRCA_CENTERED_NETWORK</td><td>117</td><td>1.909</td><td>0.00492</td></tr><tr><td>ZHANG_TLX_TARGETS_UP</td><td>89</td><td>1.875</td><td>0.00885</td></tr><tr><td>BURTON_ADIPOGENESIS_PEAK_AT_16H</td><td>40</td><td>1.873</td><td>0.00590</td></tr><tr><td>PUJANA_XPRSS_INT_NETWORK</td><td>168</td><td>1.869</td><td>0.00467</td></tr><tr><td>ZHANG_TLX_TARGETS_36HR_DN</td><td>185</td><td>1.868</td><td>0.00394</td></tr><tr><td>EGUCHI_CELL_CYCLE_RB1_TARGETS</td><td>23</td><td>1.856</td><td>0.00476</td></tr><tr><td>REACTOME_TRANSPORT_OF_MATURE_ TRANSCRIPT_TO_CYTOPLASM</td><td>52</td><td>1.846</td><td>0.00436</td></tr><tr><td>ABRAMSON_INTERACT_WITH_AIRE</td><td>44</td><td>1.845</td><td>0.00394</td></tr><tr><td>GOLUB_ALL_VS_AML_UP</td><td>24</td><td>1.841</td><td>0.00383</td></tr><tr><td>ZHANG_TLX_TARGETS_60HR_DN</td><td>275</td><td>1.839</td><td>0.00374</td></tr><tr><td colspan=\"4\">(b)</td></tr><tr><td>MIKKELSEN_ES_HCP_WITH_H3K27ME3</td><td>35</td><td>2.441</td><td>0.00000</td></tr><tr><td>REACTOME_XENOBIOTICS</td><td>15</td><td>2.345</td><td>0.00851</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4480911_table_5",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    721.4,
+    366.1,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4480911_table_5.png",
+   "html": "<table><tr><td>Gene symbol</td><td>Score</td><td>Local FDR</td><td>polyA + RNA binding [PMID: 22658674]</td></tr><tr><td>PRPF8</td><td>&#8722;0.885</td><td>0.00006</td><td>&#10003;</td></tr><tr><td>APOL6</td><td>&#8722;0.826</td><td>0.00018</td><td></td></tr><tr><td>CCDC15</td><td>&#8722;0.826</td><td>0.00018</td><td></td></tr><tr><td>TTF1</td><td>&#8722;0.823</td><td>0.00019</td><td></td></tr><tr><td>ZC3H11A</td><td>&#8722;0.813</td><td>0.00021</td><td>&#10003;</td></tr><tr><td>NUCKS1</td><td>&#8722;0.809</td><td>0.00021</td><td>&#10003;</td></tr><tr><td>PCBP2</td><td>&#8722;0.808</td><td>0.00021</td><td>&#10003;</td></tr><tr><td>H2AFV</td><td>&#8722;0.804</td><td>0.00022</td><td></td></tr><tr><td>RBBP7</td><td>&#8722;0.500</td><td>0.00023</td><td></td></tr><tr><td>HMGN2</td><td>&#8722;0.798</td><td>0.00023</td><td>&#10003;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4480911_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    268.0,
+    366.1,
+    712.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4480911_table_6.png",
+   "html": "<table><tr><td>Name</td><td>SIZE</td><td>NES</td><td>FDR q-val</td></tr><tr><td colspan=\"4\">(a)</td></tr><tr><td>REACTOME_OLFACTORY_SIGNALING_PATHWAY</td><td>36</td><td>2.967</td><td>0</td></tr><tr><td>DAZARD_UV_RESPONSE_CLUSTER_G28</td><td>20</td><td>2.908</td><td>0</td></tr><tr><td>DAZARD_UV_RESPONSE_CLUSTER_G24</td><td>27</td><td>2.774</td><td>0</td></tr><tr><td>PID_CONE_PATHWAY</td><td>16</td><td>2.774</td><td>0</td></tr><tr><td>MAHADEVAN_RESPONSE_TO_MP470_DN</td><td>19</td><td>2.760</td><td>0</td></tr><tr><td>WANG_TNF_TARGETS</td><td>23</td><td>2.758</td><td>0</td></tr><tr><td>BURTON_ADIPOGENESIS_1</td><td>33</td><td>2.742</td><td>0</td></tr><tr><td>AMIT_EGF_RESPONSE_60_MCF10A</td><td>38</td><td>2.735</td><td>0</td></tr><tr><td>VOLTAGE_GATED_POTASSIUM_CHANNEL_COMPLEX</td><td>29</td><td>2.689</td><td>0</td></tr><tr><td>RORIE_TARGETS_OF_EWSR1_FLI1_FUSION_UP</td><td>30</td><td>2.663</td><td>0</td></tr><tr><td colspan=\"4\">(b)</td></tr><tr><td>REACTOME_G2_M_CHECKPOINTS</td><td>41</td><td>1.865</td><td>0.00029</td></tr><tr><td>REACTOME_MITOTIC_PROMETAPHASE</td><td>85</td><td>1.822</td><td>0.00064</td></tr><tr><td>REACTOME_MITOTIC_M_M_G1_PHASES</td><td>167</td><td>1.783</td><td>0.00114</td></tr><tr><td>REACTOME_G0_AND_EARLY_G1</td><td>23</td><td>1.732</td><td>0.00241</td></tr><tr><td>REACTOME_CELL_CYCLE</td><td>392</td><td>1.710</td><td>0.00314</td></tr><tr><td>REACTOME_CELL_CYCLE_CHECKPOINTS</td><td>111</td><td>1.690</td><td>0.00428</td></tr><tr><td>REACTOME_S_PHASE</td><td>106</td><td>1.660</td><td>0.00596</td></tr><tr><td>REACTOME_M_G1_TRANSITION</td><td>78</td><td>1.646</td><td>0.00706</td></tr><tr><td>REACTOME_REGULATION_OF_MITOTIC_CELL_CYCLE</td><td>77</td><td>1.621</td><td>0.00908</td></tr><tr><td colspan=\"4\">(c)</td></tr><tr><td>GEORGES_CELL_CYCLE_MIR192_TARGETS</td><td>62</td><td>1.726</td><td>0.00272</td></tr><tr><td>TOYOTA_TARGETS_OF_MIR34B_AND_MIR34C</td><td>449</td><td>1.675</td><td>0.00501</td></tr></table>"
+  }
+ ]
+}

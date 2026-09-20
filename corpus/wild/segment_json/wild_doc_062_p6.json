@@ -1,0 +1,64 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_062",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    145.0,
+    580.0,
+    176.0
+   ],
+   "ocr": "The evaluation of the therapeutic effects of various dosages on experimental animals is crucial for understanding their potential applications in clinical settings."
+  },
+  "p6_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    361.0
+   ],
+   "ocr": "Experimental Animals Dosages mg/kg % Increase 1 h % Increase 2 h % Increase 4 h\nNL No treatment 0.24 ± 0.12 0.62 ± 0.18 0.36 ± 0.24\nIC No treatment 2.1 ± 0.47 a 6.2 ± 0.54 a 9.4 ± 1.76 a\nIC + LBME 100 9.3 ± 0.65 NS 14.2 ± 2.17 a 29.6 ± 4.62 b\nIC + HBME 200 13.7 ± 1.75 NS 31.3 ± 4.13 b 62.71 ± 4.98 b\nIC + Diclofenac 10 52.3 ± 6.89 b 60.1 ± 8.90 b 71.57 ± 7.32 b",
+   "table_id": "img_068299_t0"
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    441.0,
+    580.0,
+    582.0
+   ],
+   "ocr": "A549 THP-1\nNeutral Red MTT Neutral Red MTT\n3 hours 24 hours 3 hours 24 hours 3 hours 24 hours 3 hours 24 hours\nLab. A 1 (2.1%) 7 (14.9%) 7 (14.9%) 8 (17.0%) 5 (11.4%) 12 (26.7%) 8 (18.2%) 14 (31.1%)\nLab. B 2 (4.3%) 7 (14.9%) 6 (12.8%) 7 (14.9%) 5 (11.4%) 5 (11.1%) 13 (29.5%) 13 (28.9%)\nLab. C 2 (4.3%) 6 (12.8%) 5 (10.6%) 7 (14.9%) 9 (20.5%) 12 (26.7%) 6 (13.6%) 11 (24.4%)\nTotal 5 (10.6%) 20 (42.5%) 18 (38.3%) 22 (46.8%) 19 (43.2%) 29 (64.4%) 27 (61.4%) 38 (84.4%)",
+   "table_id": "img_068299_t1"
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    628,
+    580,
+    717
+   ],
+   "ocr": "The data presented in the table elucidates the impact of different dosages (mg/kg) on cell viability, as measured by both Neutral Red and MTT assays, across multiple time intervals—specifically 1 hour, 2 hours, and 4 hours post-treatment. Notably, the % Increase metrics across these time intervals provide insight into the dynamic response of the A549 and THP-1 cell lines to the administered treatments. For instance, the percentage increase in viability after 2 hours demonstrates a marked difference between the treatment groups and the no treatment control group (NL), highlighting the efficacy of specific dosages in promoting cell viability."
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "Additionally, the comparison of responses at varying time points allows for a comprehensive assessment of the treatment's temporal effects, which is essential for optimizing therapeutic strategies. As such, this data serves as a foundational reference for further investigations into dosage optimization and the biological mechanisms underlying the observed increases in cell viability, ultimately informing future research and development efforts in this domain."
+  }
+ }
+}

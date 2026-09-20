@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_065",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    149,
+    580,
+    192
+   ],
+   "ocr": "In Table 1, titled \"Iteration,\" the headers include \"Nominal,\" \"Duration [ms],\" \"Peak [μT],\" and \"NRMSE [%]\" for both GIRF and another unspecified category. The body reveals that for Iteration 1, the values are 10.39, 45.12, and 56 for the first category and 10.39, 30.94, and 8 for GIRF."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    180,
+    580,
+    207
+   ],
+   "ocr": "In Iteration 2, the values are 12.84, 13.08, and 18 for the first category and 11.78, 20.05, and 7 for GIRF. For Iteration 3, the statistics are 12.93, 11.38, and 18 for the first category and 12.21, 13.67, and 7 for GIRF."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    270.0,
+    580.0,
+    413.0
+   ],
+   "ocr": "Iteration Nominal GIRF\nDuration [ms] Peak [μT] NRMSE [%] Duration [ms] Peak [μT] NRMSE [%]\n1 10.39 45.12 56 10.39 30.94 8\n2 12.84 13.08 18 11.78 20.05 7\n3 12.93 11.38 18 12.21 13.67 7\n4 — — — 12.36 13.24 7\n5 — — — 12.42 11.40 7",
+   "table_id": "img_072396_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    494.0,
+    580.0,
+    616.0
+   ],
+   "ocr": "Treatment Dose (mg/kg) 1st h 2nd h 3rd h 4th h\nVehicle – 0.93 ± 0.19 1.65 ± 0.30 2.61 ± 0.21 2.83 ± 0.20\nPiroxicam 30 0.29 ± 0.11 ** 0.26 ± 0.04 ** 0.83 ± 0.14 ** 1.37 ± 0.24 *\nMethanolic extract 7.81 0.71 ± 0.12 0.83 ± 0.26 1.07 ± 0.25 * 1.92 ± 0.13\n15.62 0.30 ± 0.06 ** 0.40 ± 0.07 ** 0.88 ± 0.15 ** 1.76 ± 0.21 **\n31.25 0.38 ± 0.01 ** 0.50 ± 0.12 ** 0.59 ± 0.12 ** 1.01 ± 0.27 *",
+   "table_id": "img_072396_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    717
+   ],
+   "ocr": "Iteration 4 has no values listed for the first category, with GIRF showing 12.36, 13.24, and 7. Iteration 5 also has no values for the first category, while GIRF shows 12.42, 11.40, and 7. Table 2, titled \"Treatment,\" includes headers \"Dose (mg/kg),\" \"1st h,\" \"2nd h,\" \"3rd h,\" and \"4th h.\" The Vehicle treatment has a dose of – with 0.93 ± 0.19, 1.65 ± 0.30, 2.61 ± 0.21, and 2.83 ± 0.20 across the hours."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "Piroxicam at 30 mg/kg shows 0.29 ± 0.11 **, 0.26 ± 0.04 **, 0.83 ± 0.14 **, and 1.37 ± 0.24 *. The Methanolic extract at 7.81 mg/kg has 0.71 ± 0.12, 0.83 ± 0.26, 1.07 ± 0.25 *, and 1.92 ± 0.13. The 15.62 mg/kg dosage shows 0.30 ± 0.06 **, 0.40 ± 0.07 **, 0.88 ± 0.15 **, and 1.76 ± 0.21 **. Finally, the 31.25 mg/kg dosage displays 0.38 ± 0.01 **, 0.50 ± 0.12 **, 0.59 ± 0.12 **, and 1.01 ± 0.27 *."
+  }
+ }
+}

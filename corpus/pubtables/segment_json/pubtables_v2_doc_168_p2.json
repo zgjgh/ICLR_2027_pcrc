@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_168",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    42.8,
+    302.3,
+    67.0
+   ],
+   "ocr": "Saleem et al. Journal of Biomedical Semantics 2014, 5:47 http://www.jbiomedsem.com/content/5/1/47"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    622.6,
+    43.0,
+    679.1,
+    54.4
+   ],
+   "ocr": "Page 13 of 18"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    111.0,
+    366.7,
+    243.8
+   ],
+   "ocr": "rdf:type and the object o belongs to set C and either the star or path join between p and {D ∪ C} is true or the star and path join of p with {M ∪ B ∪ E ∪ F} is false, then all of the sources in the blue category are relevant. Listing 8 Predicate and class sets D = { seq_ {m} ean , reads_ { p } er_ {m} i l l i o n _ {m} irna_ {m} apped , scaled_ { e } stimate , protein_ { e } xpression_ { v } alue }"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    111.0,
+    679.1,
+    415.5
+   ],
+   "ocr": "as tcga:seq_mean is unique for the blue category end- points and the others triple patterns (3 to 5) has star join with it. We have only two endpoints in blue cate- gory, which is filtered to one using the tumour number given in triple pattern 1. FedX selects all of the 17 sources for tcga:chromosome, eight sources each for tcga:start, tcga:stop, and two sources for last triple pattern. In total, TopFed selects only six sources while FedX selects 52 to answer this query. Additionally, FedX also needs to send 102 (6*17) SPARQL ASK queries. We want to emphasize that we have replaced only source selection algorithm of FedX. The join order optimization and the join implemen- tation remains the same. Results and discussion Evaluation The goal of this evaluation is to support the claim that TopFed selects a significantly smaller number of sources for the same recall as FedX, thus achieving a good query execution performance for large datasets. We compare"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    76.1,
+    240.3,
+    333.2,
+    314.4
+   ],
+   "ocr": "C = { copy_ { n } umber_ { r } esult , snp_ { r } esult , expression_ { g } ene_ { r } esult , expression_ { p } rotein_ { r } esult , mirna_ { r } esult , C l i n i c a l } B = { dna_ {m} e t h y l a t i o n _ { r } e s u l t } M = { beta_ { v } alue , p o s i t i o n } F = { expression_ { e } xon_ { r } e s u l t }"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    77.8,
+    310.8,
+    131.5,
+    324.4
+   ],
+   "ocr": "E = {RPKM}"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    320.9,
+    366.7,
+    626.6
+   ],
+   "ocr": "A = { chromosome , r e s u l t , bcr_ { p } a t i e n t _ { b } arcode } G = { s t a r t , stop } Consider the third triple pattern of the query given in Listing 6: the predicate chromosome is set member of A, which means this predicate can be found in all of the endpoints. However, chromosome has a star join with seq_mean, which is unique for the blue category sources. Therefore, instead of selecting all of the sources (overes- timated as in FedX, SPLENDID etc.), TopFed will only select Dblue as relevant sources that can be further filtered, provided that the tumourNo given as input to Algorithm 1 is not null. Similarly, C-2 holds for Dpink and C-3 holds for Dgreen relevant source selection. It is important to note that more than one condition (C-1, C-2, C-3) can be true for a triple pattern, therefore we check each of the three conditions individually and make a union of the sources as given in line 24 of Algorithm 1. Further, if none of the condition is true then we need to query the blue category sources because we did not list many of the blue category"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    412.3,
+    679.0,
+    430.5
+   ],
+   "ocr": "TopFed with the state-of-the-art approach for query fed-"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    427.3,
+    679.0,
+    445.6
+   ],
+   "ocr": "eration (FedX) both in terms of the total number of"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    442.4,
+    679.1,
+    460.6
+   ],
+   "ocr": "sources selected and the execution time to achieve a"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    455.7,
+    678.4,
+    475.7
+   ],
+   "ocr": "100% recall, using 10 TCGA benchmark SPARQL queriesg"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    472.5,
+    679.0,
+    490.7
+   ],
+   "ocr": "of different shapes (i.e. star, path, and hybrid). A tex-"
+  },
+  "p2_b12": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    487.6,
+    679.1,
+    505.8
+   ],
+   "ocr": "tual description of all the benchmark queries is given in"
+  },
+  "p2_b13": {
+   "type": "caption",
+   "bbox": [
+    384.5,
+    502.6,
+    679.1,
+    565.2
+   ],
+   "ocr": "Table 4. FedX has been shown previously [36,45] to be the Table 4 Benchmark queries descriptions"
+  },
+  "p2_b14": {
+   "type": "table",
+   "bbox": [
+    384.3,
+    571.2,
+    678.7,
+    895.2
+   ],
+   "ocr": "Query Description\nQ1 Get the chromosome, start, stop and mean copy number\nvalues of the patient TCGA-18-4721 for genome locations\n554268 to 5994290\nQ2 Get the chromosome, start, stop and mean exon-expression\nvalues of all the TCGA patients\nQ3 Get the chromosome, position and mean methylation values\nof all the TCGA patients\nQ4 Get the chromosome, start and stop values of the TCGA patient\nTCGA-C4-A0F6\nQ5 Get the chromosome, start, stop values of all the TCGA patients\nQ6 Get the chromosome, start, stop and miRNA values of the 20th\nrecord of TCGA patient TCGA-AB-2821\nQ7 Get the chromosome, start and stop values of the TCGA patient\nTCGA-AB-2823 for mean sequence value of 0.0839\nQ8 Get the chromosome, start, stop, mean protein expression and\nmean exon-expression values of the TCGA patient\nTCGA-18-3410\nQ9 Get the chromosome, mean gene expression and mean\nmethylation values of the TCGA patient TCGA-C5-A1BF\nQ10 Get the chromosome, mean gene expression, mean exon\nexpression and mean methylation values of all the\nTCGA patients",
+   "table_id": "PMC4417511_table_3"
+  },
+  "p2_b15": {
+   "type": "title",
+   "bbox": [
+    72.1,
+    623.4,
+    239.8,
+    641.6
+   ],
+   "ocr": "predicates as they are numerous."
+  },
+  "p2_b16": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    638.4,
+    366.7,
+    732.0
+   ],
+   "ocr": "For a triple pattern with bound object, we send SPARQL ASK queries including the triple pattern to all of the sources and select sources that pass the test. This is sim- ilar to the source selection technique used in FedX for all the triple patterns. Along with Algorithm 1, Figure 3 also provides a visual demonstration of our triple pattern-wise"
+  },
+  "p2_b17": {
+   "type": "title",
+   "bbox": [
+    72.1,
+    728.8,
+    157.1,
+    747.0
+   ],
+   "ocr": "source selection."
+  },
+  "p2_b18": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    743.8,
+    366.7,
+    912.7
+   ],
+   "ocr": "As an example, consider the query of Listing 6 and the data distribution given in Figure 3. TopFed selects one source for the first triple pattern because we can obtain tumour number from the given patient barcode and this triple pattern only passes C-1. FedX selects three sources since every patient data can be found in each of the three colour categories exactly at one SPARQL end- point. For the second triple pattern, TopFed again selects only one source because C-1 only holds. However, FedX selects all of the 17 sources as predicate tcga:result can be found in all of the endpoints. For each of the remain-"
+  },
+  "p2_b19": {
+   "type": "caption",
+   "bbox": [
+    384.5,
+    902.5,
+    661.4,
+    923.1
+   ],
+   "ocr": "The corresponding SPARQL queries can be downloaded from http://goo.gl/ UxUEXk."
+  },
+  "p2_b20": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    909.5,
+    366.6,
+    927.7
+   ],
+   "ocr": "ing triple patterns (3 to 6), TopFex selects only one source"
+  }
+ }
+}

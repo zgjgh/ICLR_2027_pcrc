@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_054",
+  "page": 9,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    70,
+    580,
+    113
+   ],
+   "ocr": "The report outlines the parameters and settings of a neural network in Table 1, detailing the total number of network layers as 3 layers, the number of hidden layers as 1 hidden layer, the number of neurons in the hidden layer as 4 neurons, the training function as trainlm, and the learning rate as 0.001."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    101,
+    580,
+    128
+   ],
+   "ocr": "Table 2 provides a comprehensive analysis of various samples with specific compositions."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    160.0,
+    580.0,
+    283.0
+   ],
+   "ocr": "No. Parameters Setting\n1 Total number of network layers 3 layers\n2 Number of hidden layer 1 hidden layer\n3 Number of neurons in hidden layer 4 neurons\n4 Training function trainlm\n5 Learning rate 0.001",
+   "table_id": "img_059540_t0"
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    310.0,
+    580.0,
+    602.0
+   ],
+   "ocr": "Sample Composition\nPet Bi-Co 1st Quality Wool 2nd Quality Wool Density (Kg/m3) Weight (g/m2) Nominal Thickness (mm) Test Thickness (mm)\nS1 20 80 0 30 1500 50 43\nS2 20 40 40 30 1500 50 53\nS3 20 40 40 25 1250 50 43\nS4 20 40 40 30 1200 40 53\nS5 20 40 40 30 1800 60 55\nS6 20 40 40 40 2000 50 54\nS7 20 0 80 30 1500 50 44",
+   "table_id": "img_059540_t1"
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    618,
+    580,
+    707
+   ],
+   "ocr": "Sample S1 comprises 20 of 1st Quality Wool, 80 of 2nd Quality Wool, a density of 0 Kg/m3, a weight of 30 g/m2, a nominal thickness of 1500 mm, and a test thickness of 43 mm. Sample S2 consists of 20 of 1st Quality Wool, 40 of 2nd Quality Wool, a density of 40 Kg/m3, a weight of 30 g/m2, a nominal thickness of 1500 mm, and a test thickness of 53 mm. Sample S3 includes 20 of 1st Quality Wool, 40 of 2nd Quality Wool, a density of 40 Kg/m3, a weight of 25 g/m2, a nominal thickness of 1250 mm, and a test thickness of 43 mm. Sample S4 contains 20 of 1st Quality Wool, 40 of 2nd Quality Wool, a density of 40 Kg/m3, a weight of 30 g/m2, a nominal thickness of 1200 mm, and a test thickness of 53 mm."
+  },
+  "p9_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    695,
+    580,
+    768
+   ],
+   "ocr": "Sample S5 has 20 of 1st Quality Wool, 40 of 2nd Quality Wool, a density of 40 Kg/m3, a weight of 30 g/m2, a nominal thickness of 1800 mm, and a test thickness of 55 mm. Sample S6 includes 20 of 1st Quality Wool, 40 of 2nd Quality Wool, a density of 40 Kg/m3, a weight of 40 g/m2, a nominal thickness of 2000 mm, and a test thickness of 54 mm. Finally, Sample S7 consists of 20 of 1st Quality Wool, 0 of 2nd Quality Wool, a density of 80 Kg/m3, a weight of 30 g/m2, a nominal thickness of 1500 mm, and a test thickness of 44 mm."
+  }
+ }
+}

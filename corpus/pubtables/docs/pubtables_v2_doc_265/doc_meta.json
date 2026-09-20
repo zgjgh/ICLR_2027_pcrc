@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_265",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1182358_table_1",
+   "page_num": 1,
+   "bbox": [
+    431.8,
+    129.9,
+    678.6,
+    234.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1182358_table_1.png",
+   "html": "<table><tr><td>Time points</td><td>Caco-2</td><td>NHEK</td></tr><tr><td>1 hr (repressed)</td><td>8</td><td>16</td></tr><tr><td>12 hrs (repressed)</td><td>54</td><td>10</td></tr><tr><td>24 hrs (repressed)</td><td>86</td><td>171</td></tr><tr><td>1 hrs (induced)</td><td>1</td><td>26</td></tr><tr><td>12 hrs (induced)</td><td>69</td><td>28</td></tr><tr><td>24 hrs (induced)</td><td>35</td><td>163</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1182358_table_2",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.1,
+    673.5,
+    246.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1182358_table_2.png",
+   "html": "<table><tr><td>Time point</td><td>Regulation</td><td>Probe ID</td><td>Gene</td></tr><tr><td>1 hr</td><td>repressed</td><td>36618_g_at</td><td>Inhibitor of DNA binding 1, dominant negative helix-loop-helix protein</td></tr><tr><td>12 hrs</td><td>repressed</td><td></td><td>none</td></tr><tr><td>24 hrs</td><td>repressed</td><td>33720_at 1069_at</td><td>Putatative 28 kDa protein, Human cyclooxygenase-2 (hCox-2) gene, complete cds</td></tr><tr><td>1 hr</td><td>induced</td><td></td><td>none</td></tr><tr><td>12 hrs</td><td>induced</td><td>39809_at 36980_at 1585_at</td><td>HMG-box transcription factor 1 proline-rich nuclear receptor coactivator 1 v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)</td></tr><tr><td>24hrs</td><td>induced</td><td>39248_at</td><td>Aquaporin 3</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1182358_table_0",
+   "page_num": 3,
+   "bbox": [
+    69.6,
+    142.3,
+    697.4,
+    689.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1182358_table_0.png",
+   "html": "<table><tr><td colspan=\"13\">Caco-2</td></tr><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">Common</td><td rowspan=\"2\">Genbank</td><td colspan=\"2\">1h</td><td colspan=\"2\">12h</td><td colspan=\"2\">24h</td><td colspan=\"2\">48h</td><td></td><td></td></tr><tr><td>RT-PCR</td><td>Affymetrix</td><td>RT-PCR</td><td>Affymetrix</td><td>RT-PCR</td><td>Affymetrix</td><td>RT-PCR</td><td>Affymetrix</td><td></td><td></td></tr><tr><td>matrix metalloproteinase 9*</td><td>MMP9</td><td>J05070</td><td>na</td><td>nd</td><td>no change</td><td>up</td><td>na</td><td>up</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>aldo-keto reductase*</td><td>AKR1C3</td><td>D17793</td><td>na</td><td>nd</td><td>no change</td><td>up</td><td>up (2.8)</td><td>nd</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>aquaporin 3*</td><td>AQP3</td><td>N74607</td><td>no change</td><td>down</td><td>up (6.8)</td><td>up</td><td>up (5.0)</td><td>up</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>plasminogen activator, tissue*</td><td>PLAT</td><td>M15518</td><td>na</td><td>nd</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>HMG-box transcription factor 1*</td><td>HBP1</td><td>AF019214</td><td>no change</td><td>nd</td><td>up (2.6)</td><td>up</td><td>up (2.1)</td><td>nd</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>Cox-2*</td><td>PTGS2</td><td>U04636</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td><td>down (2.2)</td><td>down</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>v-erb-b2*</td><td>ERBB3</td><td>M34309</td><td>na</td><td>nd</td><td>up (3.7)</td><td>up</td><td>no change</td><td>nd</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>proline-rich nuclear receptor coactivator 1*</td><td>PNRC1</td><td>U03105</td><td>na</td><td>nd</td><td>no change</td><td>up</td><td>up (2.4)</td><td>nd</td><td>na</td><td>na</td><td></td><td></td></tr><tr><td>inhibitor of differentiation*</td><td>ID1</td><td>AA457158</td><td>down (3.8)</td><td>down</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td></td><td></td></tr><tr><td>E-cadherin**</td><td>CDH1</td><td>Z13009</td><td>na</td><td>nd</td><td>no change</td><td>nd</td><td>up</td><td>nd</td><td>no change</td><td>na</td><td></td><td></td></tr><tr><td>hsp27**</td><td>HSPB1</td><td>U90906</td><td>na</td><td>nd</td><td>up</td><td>nd</td><td>up</td><td>nd</td><td>no change</td><td>na</td><td></td><td></td></tr><tr><td>p53**</td><td>TP53</td><td>U94788</td><td>na</td><td>nd</td><td>up</td><td>nd</td><td>no change</td><td>nd</td><td>no change</td><td>na</td><td></td><td></td></tr><tr><td>N-myc downstream regulated gene 1**</td><td>NDRG1</td><td>D87953</td><td>na</td><td>nd</td><td>up</td><td>nd</td><td>up</td><td>up</td><td>up</td><td>na</td><td></td><td></td></tr><tr><td colspan=\"13\">NHEK</td></tr><tr><td></td><td></td><td></td><td colspan=\"2\">30 min</td><td colspan=\"2\">3h</td><td colspan=\"2\">12h</td><td colspan=\"2\">24h</td><td colspan=\"2\">48h</td></tr><tr><td>Gene</td><td>Common</td><td>Genbank</td><td>RT-PCR</td><td>Affymetrix 1 h</td><td>RT-PCR</td><td>Affymetrix</td><td>RT-PCR</td><td>Affymetrix</td><td>RT-PCR</td><td>Affymetrix</td><td>RT-PCR</td><td>Affymetrix</td></tr><tr><td>matrix metalloproteinase 9*</td><td>MMP9</td><td>J05070</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td><td>na</td><td>up</td><td>na</td><td>up</td><td>up (11.1)</td><td>nd</td></tr><tr><td>aldo-keto reductase*</td><td>AKR1C3</td><td>D17793</td><td>na</td><td>nd</td><td>down (4.0)</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>down (5.3)</td><td>nd</td></tr><tr><td>aquaporin 3*</td><td>AQP3</td><td>N74607</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>up</td><td>up (2.8)</td><td>nd</td></tr><tr><td>plasminogen activator, tissue*</td><td>PLAT</td><td>M15518</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>down</td><td>no change</td><td>nd</td></tr><tr><td>HMG-box transcription factor 1*</td><td>HBP1</td><td>AF019214</td><td>down (6.3)</td><td>nd</td><td>down (4.0)</td><td>nd</td><td>na</td><td>up</td><td>na</td><td>nd</td><td>no change</td><td>nd</td></tr><tr><td>Cox-2*</td><td>PTGS2</td><td>U04636</td><td>down (7.7)</td><td>nd</td><td>down (6.3)</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>down</td><td>down (8.3)</td><td>nd</td></tr><tr><td>v-erb-b2*</td><td>ERBB3</td><td>M34309</td><td>na</td><td>nd</td><td>down (2.4)</td><td>nd</td><td>na</td><td>up</td><td>na</td><td>nd</td><td>down (4.5)</td><td>nd</td></tr><tr><td>proline-rich nuclear receptor coactivator 1*</td><td>PNRC1</td><td>U03105</td><td>na</td><td>nd</td><td>down (5.3)</td><td>nd</td><td>na</td><td>up</td><td>na</td><td>nd</td><td>no change</td><td>nd</td></tr><tr><td>inhibitor of differentiation*</td><td>ID1</td><td>AA457158</td><td>down (8.3)</td><td>down</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>na</td><td>nd</td></tr><tr><td>E-cadherin**</td><td>CDH1</td><td>Z13009</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>no change</td><td>nd</td><td>up</td><td>nd</td><td>up</td><td>nd</td></tr><tr><td>hsp27**</td><td>HSPB1</td><td>U90906</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>up</td><td>nd</td><td>up</td><td>nd</td><td>up</td><td>nd</td></tr><tr><td>p53**</td><td>TP53</td><td>U94788</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>no change</td><td>nd</td><td>up</td><td>nd</td><td>up</td><td>nd</td></tr><tr><td>N-myc downstream regulated gene 1**</td><td>NDRG1</td><td>D87953</td><td>na</td><td>nd</td><td>na</td><td>nd</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td><td>no change</td><td>nd</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1182358_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    129.9,
+    681.8,
+    608.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1182358_table_3.png",
+   "html": "<table><tr><td>Gene Category</td><td>Down (genes)</td><td>Up (genes)</td><td>Combined list Affy probes</td><td>EASE score</td></tr><tr><td>mitotic cell cycle</td><td>41</td><td>4</td><td>49</td><td>1.96E-14</td></tr><tr><td>cell cycle</td><td>52</td><td>12</td><td>76</td><td>2.03E-12</td></tr><tr><td>M phase</td><td>22</td><td>1</td><td>24</td><td>7.73E-09</td></tr><tr><td>DNA replication and chromosome cycle</td><td>22</td><td>1</td><td>24</td><td>7.73E-09</td></tr><tr><td>cell proliferation</td><td>56</td><td>22</td><td>100</td><td>0.000000024</td></tr><tr><td>nuclear division</td><td>20</td><td>1</td><td>22</td><td>7.23E-08</td></tr><tr><td>M phase of mitotic cell cycle</td><td>19</td><td>1</td><td>21</td><td>0.000000217</td></tr><tr><td>DNA replication</td><td>19</td><td>1</td><td>21</td><td>0.000000217</td></tr><tr><td>S phase of mitotic cell cycle</td><td>19</td><td>1</td><td>21</td><td>0.000000217</td></tr><tr><td>mitosis</td><td>19</td><td>1</td><td>21</td><td>0.000000217</td></tr><tr><td>DNA metabolism</td><td>29</td><td>6</td><td>41</td><td>0.000000403</td></tr><tr><td>DNA dependent DNA replication</td><td>13</td><td>0</td><td>13</td><td>0.00000641</td></tr><tr><td>cytokinesis</td><td>12</td><td>0</td><td>12</td><td>0.0000199</td></tr><tr><td>metabolism</td><td>100</td><td>79</td><td>256</td><td>0.000126</td></tr><tr><td>regulation of cell cycle</td><td>26</td><td>11</td><td>48</td><td>0.00137</td></tr><tr><td>cell growth and/or maintenance</td><td>79</td><td>62</td><td>202</td><td>0.00241</td></tr><tr><td>nucleobase\\, nucleoside\\, nucleotide and nucleic acid metabolism</td><td>53</td><td>36</td><td>124</td><td>0.00262</td></tr><tr><td>biosynthesis</td><td>15</td><td>5</td><td>24</td><td>0.00475</td></tr><tr><td>protein metabolism</td><td>43</td><td>29</td><td>101</td><td>0.00992</td></tr><tr><td>physiological process</td><td>132</td><td>130</td><td>389</td><td>0.0103</td></tr><tr><td>obsolete biological process</td><td>17</td><td>7</td><td>31</td><td>0.0125</td></tr><tr><td>macromolecule biosynthesis</td><td>11</td><td>4</td><td>18</td><td>0.0267</td></tr><tr><td>protein modification</td><td>22</td><td>14</td><td>50</td><td>0.0639</td></tr><tr><td>cytoplasm organization and biogenesis</td><td>12</td><td>6</td><td>23</td><td>0.0693</td></tr><tr><td>cell organization and biogenesis</td><td>17</td><td>13</td><td>42</td><td>0.211</td></tr><tr><td>phosphorus metabolism</td><td>16</td><td>12</td><td>40</td><td>0.244</td></tr><tr><td>phosphate metabolism</td><td>16</td><td>12</td><td>40</td><td>0.244</td></tr><tr><td>protein amino acid phosphorylation</td><td>12</td><td>9</td><td>30</td><td>0.326</td></tr><tr><td>phosphorylation</td><td>12</td><td>10</td><td>32</td><td>0.424</td></tr><tr><td>macromolecule catabolism</td><td>10</td><td>8</td><td>26</td><td>0.435</td></tr><tr><td>protein catabolism</td><td>10</td><td>8</td><td>26</td><td>0.435</td></tr><tr><td>proteolysis and peptidolysis</td><td>10</td><td>8</td><td>26</td><td>0.435</td></tr><tr><td>cell adhesion</td><td>4</td><td>16</td><td>36</td><td>1</td></tr><tr><td>cell motility</td><td>2</td><td>6</td><td>14</td><td>0.995</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1182358_table_4",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    129.9,
+    694.2,
+    570.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1182358_table_4.png",
+   "html": "<table><tr><td>Gene Category</td><td>Down (genes)</td><td>Up (genes)</td><td>Combined list Affy probes</td><td>EASE score</td></tr><tr><td>cell motility</td><td>8</td><td>1</td><td>10</td><td>0.0459</td></tr><tr><td>cytoplasm organization and biogenesis</td><td>8</td><td>1</td><td>10</td><td>0.0459</td></tr><tr><td>muscle development</td><td>7</td><td>1</td><td>9</td><td>0.0872</td></tr><tr><td>morphogenesis</td><td>18</td><td>7</td><td>33</td><td>0.0879</td></tr><tr><td>development</td><td>22</td><td>10</td><td>43</td><td>0.107</td></tr><tr><td>cell adhesion</td><td>11</td><td>3</td><td>18</td><td>0.112</td></tr><tr><td>cell surface receptor linked signal transduction</td><td>11</td><td>3</td><td>18</td><td>0.112</td></tr><tr><td>organelle organization and biogenesis</td><td>6</td><td>1</td><td>8</td><td>0.158</td></tr><tr><td>cytoskeleton organization and biogenesis</td><td>6</td><td>1</td><td>8</td><td>0.158</td></tr><tr><td>cell organization and biogenesis</td><td>11</td><td>4</td><td>19</td><td>0.159</td></tr><tr><td>organogenesis</td><td>16</td><td>7</td><td>31</td><td>0.179</td></tr><tr><td>response to stress</td><td>8</td><td>3</td><td>14</td><td>0.282</td></tr><tr><td>macromolecule biosynthesis</td><td>9</td><td>4</td><td>17</td><td>0.331</td></tr><tr><td>cell-cell signaling</td><td>6</td><td>2</td><td>10</td><td>0.346</td></tr><tr><td>signal transduction</td><td>19</td><td>5</td><td>30</td><td>0.0118</td></tr><tr><td>immune response</td><td>9</td><td>1</td><td>11</td><td>0.0233</td></tr><tr><td>protein metabolism</td><td>15</td><td>4</td><td>23</td><td>0.0235</td></tr><tr><td>cellular process</td><td>58</td><td>34</td><td>126</td><td>0.0316</td></tr><tr><td>defense response</td><td>10</td><td>2</td><td>14</td><td>0.0467</td></tr><tr><td>transcription\\, DNA-dependent</td><td>17</td><td>10</td><td>37</td><td>0.358</td></tr><tr><td>transcription</td><td>17</td><td>10</td><td>37</td><td>0.358</td></tr><tr><td>response to biotic stimulus</td><td>10</td><td>5</td><td>20</td><td>0.374</td></tr><tr><td>nucleobase\\, nucleoside\\, nucleotide and nucleic acid metabolism</td><td>24</td><td>16</td><td>56</td><td>0.434</td></tr><tr><td>regulation of transcription\\, DNA-dependent</td><td>16</td><td>10</td><td>36</td><td>0.442</td></tr><tr><td>regulation of transcription</td><td>16</td><td>10</td><td>36</td><td>0.442</td></tr><tr><td>cell cycle</td><td>9</td><td>5</td><td>19</td><td>0.486</td></tr><tr><td>nucleotide metabolism</td><td>3</td><td>2</td><td>7</td><td>0.835</td></tr><tr><td>nuclear division</td><td>3</td><td>3</td><td>9</td><td>0.927</td></tr><tr><td>mitosis</td><td>3</td><td>3</td><td>9</td><td>0.927</td></tr><tr><td>mitotic cell cycle</td><td>5</td><td>3</td><td>11</td><td>0.691</td></tr><tr><td>cytokinesis</td><td>2</td><td>2</td><td>6</td><td>0.952</td></tr></table>"
+  }
+ ]
+}

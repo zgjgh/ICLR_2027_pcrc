@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_013",
+  "page": 1,
+  "page_size": [
+   687,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.3,
+    64.3,
+    620.7,
+    235.5
+   ],
+   "ocr": "1608 A. Saxena et al. / Data in Brief 20 (2018) 1607–1619 constant of 10–12 M. The most abundant polyproline-rich peptides were derived from acrosin, homeobox protein HoxB4, lysine- speciﬁc demethylase 6B, proline-rich protein 12, and proline-rich membrane anchor 1 (PRiMA). The research article associated with the data in this report can be found in Saxena et al. (2018). The Data in Brief report lists all the polyproline-rich peptides identiﬁed in PoBChE tetramers. & 2018 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    75.9,
+    281.7,
+    189.2,
+    296.2
+   ],
+   "ocr": "Speciﬁcations table"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    67.0,
+    318.4,
+    611.5,
+    686.4
+   ],
+   "ocr": "Subject area Biology\nMore speciﬁc subject area Tetramer organizing polyproline-rich peptides of\nbutyrylcholinesterase\nType of data Amino acid sequences of polyproline-rich peptides released from\npure PoBChE\nHow data was acquired Liquid chromatography tandem mass spectrometry (LC–MS/MS) on\nthe 6600 Triple-TOF mass spectrometer (AB Sciex).\nData format Analyzed\nExperimental factors Pure PoBChE tetramers were deglycosylated with PNGaseF, dena-\ntured in a boiling water bath to release noncovalently bound\npolyproline-rich peptides, and digested with trypsin. Peptides were\nseparated by Ultra High Performance Liquid Chromatography and\nanalyzed by MS/MS. Peptide data were searched against the NCBInr\n15Sep2014 database for Sus scrofa proteins using the Paragon algo-\nrithm from Protein Pilot v 5.01 (AB Sciex).\nExperimental features The amino acid sequence of the 574 amino acid PoBChE protein was\ndetermined by LC-MS/MS of trypsin-digested PoBChE.\nData source location Omaha, Nebraska, USA\nData accessibility The NCBI accession number for the PoBChE protein amino acid\nsequence is NP_001344438.1. https://www.ncbi.nlm.nih.gov/pro\ntein/NP_001344438.1\nRelated research article Saxena A, Belinskaya T, Schopfer LM, Lockridge O. Characterization\nof butyrylcholinesterase from porcine milk. Arch Biochem Biophys\n2018, 652:38-49",
+   "table_id": "PMC6157292_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    58.0,
+    711.1,
+    177.1,
+    766.1
+   ],
+   "ocr": "Value of the data �"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    58.0,
+    741.9,
+    620.8,
+    843.0
+   ],
+   "ocr": "The ﬁnding that PoBChE is abundant in porcine milk [1] and in human milk [2,3] leads to new questions. What is the function of BChE in milk? Does the infant beneﬁt from BChE in mother's milk as a consequence of the inactivation of octanoyl-ghrelin by BChE, thus reducing the infant's anxiety and stress [4]? Ghrelin has a role in regulation of neural circuits and body growth during neonatal development [5]. Is BChE in milk involved in these ghrelin-related effects? �"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    72.7,
+    818.9,
+    620.6,
+    925.5
+   ],
+   "ocr": "The set of polyproline-rich peptides in PoBChE tetramers is different from the set in human BChE tetramers [6,7]. PoBChE was puriﬁed from milk. Human BChE was puriﬁed from plasma. Porcine plasma has a very low amount of BChE. Since incorporation of a polyproline-rich peptide stabilizes the BChE tetramer, is the limiting factor for the level of BChE the availability of polyproline-rich peptides? Does it mean the cells in the porcine mammary gland (source of milk BChE) undergo a higher rate of degradation and therefore produce more polyproline-rich peptides than cells in porcine liver (source of plasma BChE)?"
+  }
+ }
+}

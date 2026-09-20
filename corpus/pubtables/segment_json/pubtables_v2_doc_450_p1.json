@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_450",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    689.6,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "QuorUM"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.5,
+    724.4,
+    155.3
+   ],
+   "ocr": "Table 1. Percent of false 31-mers remaining and true 31-mers missing in error corrected reads. The numbers for “false remain” and “true missing” in the table are percentages. We list the denominators used for the percentages in the headers of each of these columns. For the “false remain”, this denomina- tor is the number of the false 31-mers in the original reads and for the “true missing”, it is the number of 31-mers in the reference. The “score” π = the product of the “false remain” and “true missing” columns. QuorUM’s π score is the best with a factor of 30, 15, and 3.5 better than the second best for Rhodobacter, Staphylococcus and Mouse C16 data sets respectively."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    164.1,
+    719.4,
+    386.4
+   ],
+   "ocr": "Corrector Rhodobacter Staphylococcus Mouse C16\nFalse remain True missing Score False remain True missing Score False remain True missing Score\n(55 M) (4:6 M) π (33 M) (2:9 M) π (410 M) (87 M) π\nnone 100 0.36 40 100 0.037 4 100 0.069 7\ntrim20B 55 0.39 20 64 0.085 5 50 0.076 4\ntrimQual5 9.4 0.71 7 96 0.039 4 34 0.10 3\nCoral 69 0.38 30 56 0.13 7 52 0.22 10\nEcho 60 0.36 20 55 0.029 2 - -\nHiTec 42 1.1 50 33 0.23 8 - -\nQuake 8.3 0.71 6 3.3 0.24 0.8 4.6 0.16 0.7\nSGA 2.3 1.5 3 0.49 0.61 0.3 7.1 0.16 1\nRacer 40 0.93 40 35 0.26 9 30 0.27 8\nMusket 40 0.52 20 44 0.067 3 29 0.15 4\nQuorUM 0.29 0.40 0.1 0.22 0.087 0.02 2.0 0.11 0.2",
+   "table_id": "PMC4471408_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    394.5,
+    186.2,
+    405.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0130821.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    446.1,
+    726.7,
+    898.4
+   ],
+   "ocr": "is the number of missing 31-mers as a percentage of the number of 31-mers in the reference. The numbers of true 31-mers missing from the original reads are 16452, 1047, and 59322 respectively for rhodobacter, staphylococcus, and mouse. Effectiveness of error reduction We have found that low counts for both false and missing k-mers correlates well with better assembly quality. Intuitively, having many false k-mers in a set of reads makes the creation of contigs more difficult for an assembler while missing many k-mers leads to a fragmented assembly. In our view, a corrector is effective on a genome if both metrics are small. In either case, QuorUM does better than the other programs on all 3 species. QuorUM consistently has low counts for both the false and missing k-mer values while other correctors have less bal- anced results: either the false or missing k-mer value is high. Surprisingly, Echo’s staphylococ- cus corrected reads have even fewer missing k-mers than the original reads (0.029% vs. 0.037%), i.e. it recovers some true k-mers which are not present in the original reads. This is possible because Echo does a multiple alignment. But it is not aggressive in its correction and leaves many false k-mers. On the other hand, Quake usually leaves few false k-mers but is so rigorous in its trimming, that many true k-mers are missing from its corrected reads. We intro- duced a score π, which is equal to the product of the “false remain” and “true missing” percent- ages of k-mers listed in Table 1. This statistic π is introduced to measure only how successful an error corrector is at achiev- ing our design goal of minimizing both the “false remain” and “true missing”. The π score is introduced for comparing how different error correctors perform on our design idea. For example, if for a given pair of error correctors “false remain” percentages differ by a factor of 2, but “true missing” percentages are the same, then the π scores would differ by a factor of two. Table 2 gives an evaluation of how good the corrected reads might be for creating an assem- bly. Important metrics of the quality of an assembly include the statistics on the length of the contigs generated, such as the N50 size and the E-size [5]. In general, the Nx size is defined as"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0130821 June 17, 2015 6 / 13"
+  }
+ }
+}

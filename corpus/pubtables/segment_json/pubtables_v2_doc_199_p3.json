@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_199",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    404.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    528.6,
+    724.6,
+    572.0
+   ],
+   "ocr": "Fig 9. The AUC values for the large kdd99 dataset for 0 < k < 100. It can be easily seen that the performance of local anomaly detection algorithms is poor for this global anomaly detection challenge. doi:10.1371/journal.pone.0152173.g009"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    626.4,
+    723.5,
+    639.1
+   ],
+   "ocr": "Table 3. The results of the clustering-based algorithms showing the AUC and the standard deviation for different initial k (10 k 50). The last row"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    623.1,
+    628.4,
+    648.6,
+    645.9
+   ],
+   "ocr": "� �"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    638.9,
+    373.2,
+    650.4
+   ],
+   "ocr": "shows a comparison with the best nearest-neighbor method for the dataset."
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    659.2,
+    712.3,
+    868.6
+   ],
+   "ocr": "Alg. b-cancer pen-global pen-local letter speech satellite thyroid shuttle aloi kdd99\nCBLOF 0.2983 0.3190 0.6995 0.6792 0.5021 0.5539 0.5825 0.9037 0.5393 0.6589\n±0.1492 ±0.1155 ±0.1407 ±0.0386 ±0.0680 ±0.0692 ±0.0384 ±0.1263 ±0.0154 ±0.2098\nuCBLOF 0.9496 0.8721 0.9555 0.8192 0.4692 0.9627 0.5469 0.9716 0.5575 0.9964\n±0.0390 ±0.0511 ±0.0109 ±0.0231 ±0.0029 ±0.0038 ±0.0212 ±0.0324 ±0.0061 ±0.0016\nLDCOF 0.7645 0.5948 0.9593 0.8107 0.4366 0.9522 0.5703 0.8076 0.5726 0.9873\n±0.1653 ±0.0825 ±0.0145 ±0.0244 ±0.0099 ±0.0325 ±0.0232 ±0.1814 ±0.0146 ±0.0034\nCMGOS-Red 0.9140 0.5693 0.9727 0.7711 0.5077 0.9054 0.4395 0.5425 0.5852 0.7265\n±0.0815 ±0.1000 ±0.0141 ±0.0614 ±0.0158 ±0.0233 ±0.0402 ±0.2446 ±0.0161 ±0.1027\nCMGOS-Reg 0.8992 0.6994 0.9449 0.8902 0.5081 0.9056 0.6587 0.5679 0.5855 0.9797\n±0.0643 ±0.0681 ±0.0510 ±0.0200 ±0.0161 ±0.0233 ±0.0268 ±0.2402 ±0.0161 ±0.0080\nCMGOS-MCD 0.9196 0.6265 0.9038 0.7848 — 0.9120 0.8014 0.6903 0.5547 0.9696\n±0.0830 ±0.0969 ±0.0511 ±0.0485 ±0.0520 ±0.0436 ±0.1670 ±0.0160 ±0.0416\nBest NN 0.9816 0.9872 0.9877 0.9068 0.5347 0.9701 0.6893 0.9474 0.7899 0.9796\n±0.0024 ±0.0055 ±0.0016 ±0.0078 ±0.0343 ±0.0007 ±0.0149 ±0.0379 ±0.0093 ±0.0035",
+   "table_id": "PMC4836738_table_2"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    876.8,
+    186.2,
+    888.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0152173.t003"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0152173 April 19, 2016 23 / 31"
+  }
+ }
+}

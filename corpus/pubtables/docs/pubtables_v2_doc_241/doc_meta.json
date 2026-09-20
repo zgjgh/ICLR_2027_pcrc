@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_241",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5764243_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    714.0,
+    703.3,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5764243_table_0.png",
+   "html": "<table><tr><td>Study Location (Sample Size)</td><td>Sampling Device</td><td>Water Depth</td><td>RPD</td><td>LOI</td><td>Grain Size Reference</td><td>Surficial Percent Cover</td><td>Acoustic Province Reference</td></tr><tr><td>Kingston-Saugerties &#8217;01 (44)</td><td>Petite PONAR grab</td><td>&#10004;</td><td>-------</td><td>&#10004;</td><td>[41]</td><td>-------</td><td>[36]</td></tr><tr><td>Kingston-Saugerties &#8217;02 (44)</td><td>Petite PONAR grab</td><td>&#10004;</td><td>-------</td><td>&#10004;</td><td>[41]</td><td>-------</td><td>[36]</td></tr><tr><td>Haverstraw (53)</td><td>Modified van Veen grab</td><td>&#10004;</td><td>&#10004;</td><td>-------</td><td>[40]</td><td>-------</td><td>[38]</td></tr><tr><td>Tappan Zee (100)</td><td>Modified van Veen grab</td><td>&#10004;</td><td>-------</td><td>-------</td><td>[40]</td><td>&#10004;</td><td>[36]</td></tr><tr><td>Robins (60)</td><td>Modified van Veen grab</td><td>&#10004;</td><td>-------</td><td>-------</td><td>[40]</td><td>&#10004;</td><td>[39]</td></tr><tr><td>Shelter (70)</td><td>Modified van Veen grab</td><td>&#10004;</td><td>-------</td><td>-------</td><td>[40]</td><td>&#10004;</td><td>[39]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5764243_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    727.2,
+    716.0,
+    880.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5764243_table_1.png",
+   "html": "<table><tr><td>Term</td><td>Symbol</td><td>Variogram Definition</td><td>Ecological Interpretation</td></tr><tr><td>Nugget</td><td>c0</td><td>The y-intercept of a variogram at distance h = 0.</td><td>Variance that occurs at a spatial scale smaller than the sampling interval. Estimates the community variance that is below the resolution of a survey.</td></tr><tr><td>Sill</td><td>c0 + c1</td><td>The value of the variance where the variogram levels off.</td><td>Community variance of pairs of samples that are separated at large enough geographic distances that they are spatially independent.</td></tr><tr><td rowspan=\"3\">Range</td><td>a for Eqs 4 &amp; 5</td><td rowspan=\"3\">The geographic distance where the sill is reached.</td><td rowspan=\"3\">The geographic distance beyond which community structure in pairs of samples are spatially independent. Spatial structure is present at distances below the range.</td></tr><tr><td>h such that</td></tr><tr><td>&#611;(h) = 0.95(c0 + c1) for Eqs 2, 3, &amp; 6</td></tr><tr><td>Maximum Extent</td><td>hmax</td><td>The largest geographic distance between two samples in a study.</td><td>Identical to the variogram definition; this simply refers to the maximum geographic distance between two samples in a study.</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5764243_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    774.0,
+    699.0,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5764243_table_2.png",
+   "html": "<table><tr><td>Study Location</td><td>Number of samples</td><td>Mean abundance</td><td>Mean species density</td><td>Species richness</td></tr><tr><td>Kingston-Saugerties &#8217;01</td><td>44</td><td>5776</td><td>10</td><td>47</td></tr><tr><td>Kingston-Saugerties &#8217;02</td><td>44</td><td>3849</td><td>12</td><td>54</td></tr><tr><td>Haverstraw Bay</td><td>51</td><td>2643</td><td>9</td><td>25</td></tr><tr><td>Tappan Zee</td><td>100</td><td>2575</td><td>11</td><td>40</td></tr><tr><td>Robins Island</td><td>60</td><td>7063</td><td>25</td><td>71</td></tr><tr><td>Shelter Island</td><td>70</td><td>18534</td><td>24</td><td>95</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5764243_table_3",
+   "page_num": 4,
+   "bbox": [
+    31.8,
+    128.3,
+    696.9,
+    233.1
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5764243_table_3.png",
+   "html": "<table><tr><td>Study Location</td><td>Water Depth (m)</td><td>% Gravel</td><td>% Sand</td><td>% Mud (Silt-Clay)</td><td>RPD (cm)</td><td>LOI (%)</td></tr><tr><td>Kingston-Saugerties &#8217;01</td><td>9.9 (1.3&#8211;22.0)</td><td>-------</td><td>67.8 (11.6&#8211;99.8)</td><td>32.2 (0.2&#8211;88.5)</td><td>-------</td><td>2.9 (0.6&#8211;6.6)</td></tr><tr><td>Kingston-Saugerties &#8217;02</td><td>9.7 (1.1&#8211;22.0)</td><td>-------</td><td>66.3 (11.6&#8211;99.8)</td><td>33.1 (0.2&#8211;88.5)</td><td>-------</td><td>3.0 (0.6&#8211;6.6)</td></tr><tr><td>Haverstraw</td><td>6.4 (2.8&#8211;19.9)</td><td>14.2 (0&#8211;92.3)</td><td>19.39 (1.5&#8211;65.7)</td><td>66.0 (3.3&#8211;98.1)</td><td>1.0 (0&#8211;5.0)</td><td>-------</td></tr><tr><td>Tappan Zee</td><td>7.0 (2.7&#8211;12.2)</td><td>9.1 (0&#8211;64.4)</td><td>13.0 (1.1&#8211;60.8)</td><td>77.9 (3.4&#8211;98.9)</td><td>-------</td><td>-------</td></tr><tr><td>Robins</td><td>9.5 (3.6&#8211;18.3)</td><td>0.5 (0&#8211;8.5)</td><td>54.2 (11.4&#8211;98.6)</td><td>45.3 (1.3&#8211;88.4)</td><td>-------</td><td>-------</td></tr><tr><td>Shelter</td><td>5.7 (2.6&#8211;11.1)</td><td>14.2 (0&#8211;63.8)</td><td>77.0 (4.3&#8211;99.0)</td><td>8.8 (0.2&#8211;83.8)</td><td>-------</td><td>-------</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5764243_table_4",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    600.4,
+    694.3,
+    879.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5764243_table_4.png",
+   "html": "<table><tr><td rowspan=\"3\">Percent Cover Class</td><td rowspan=\"3\">Abbreviation</td><td colspan=\"3\">Study Location (number of classes)</td></tr><tr><td rowspan=\"2\">Tappan Zee (5) Mean % &#177; 1 SD</td><td rowspan=\"2\">Robins Island (9) Mean % &#177; 1 SD</td><td rowspan=\"2\">Shelter Island (14) Mean % &#177; 1 SD</td></tr><tr></tr><tr><td>Sand</td><td>PCSa</td><td>-</td><td>-</td><td>40.19 &#177; 43.17</td></tr><tr><td>Mud</td><td>PCMu</td><td>97.60 &#177; 9.63</td><td>81.88 &#177; 37.11</td><td>3.17 &#177; 14.2</td></tr><tr><td>Shell Fragment</td><td>PCShFg</td><td>-</td><td>1.65 &#177; 3.12</td><td>1.58 &#177; 2.91</td></tr><tr><td>Shell</td><td>PCSh</td><td>0.08 &#177; 0.61</td><td>0.26 &#177; 1.17</td><td>7.10 &#177; 20.68</td></tr><tr><td>Rock</td><td>PCR</td><td>-</td><td>-</td><td>0.67 &#177; 2.85</td></tr><tr><td>Pebble</td><td>PCPb</td><td>-</td><td>-</td><td>1.19 &#177; 8.18</td></tr><tr><td>Seaweed</td><td>PCSw</td><td>-</td><td>0.44 &#177; 2.35</td><td>4.94 &#177; 8.74</td></tr><tr><td>Silty Shell</td><td>PCSiSh</td><td>0.97 &#177; 8.36</td><td>0.66 &#177; 2.41</td><td>4.85 &#177; 16.01</td></tr><tr><td>Shell Pebble</td><td>PCShPb</td><td>-</td><td>-</td><td>10.53 &#177; 25.53</td></tr><tr><td>Muddy Sand</td><td>PCMuSa</td><td>-</td><td>14.74 &#177; 33.51</td><td>13.5 &#177; 28.00</td></tr><tr><td>Silty Material</td><td>PCSiCovered</td><td>1.07 &#177; 3.61</td><td>-</td><td>-</td></tr><tr><td>Anthropogenic</td><td>Anthro</td><td>-</td><td>-</td><td>0.004 &#177; .040</td></tr><tr><td>Unknown</td><td>Unk</td><td>0.21 &#177; 1.16</td><td>0.01 &#177; 0.05</td><td>0.09 &#177; 0.67</td></tr><tr><td>Microciona prolifera</td><td>Mpor</td><td>-</td><td>0.02 &#177; 0.10</td><td>0.14 &#177; 0.32</td></tr><tr><td>Crepidula spp.</td><td>Crep</td><td>-</td><td>0.15 &#177; 0.84</td><td>11.87 &#177; 27.28</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5764243_table_5",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    149.2,
+    715.2,
+    293.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5764243_table_5.png",
+   "html": "<table><tr><td>Study Location</td><td>Fitted Model</td><td>s2</td><td>c0</td><td>c1</td><td>a (km)</td><td>Sill (c0 + c1)</td><td>Range (km)</td><td>Maximum Extent (km)</td><td>Scaled Nugget (c0/s2)</td><td>Scaled Range (Range/ Maximum Extent)</td></tr><tr><td>Kingston-Saugerties &#8217;01</td><td>Linear</td><td>0.30</td><td>0.16</td><td>0.16</td><td>3.87</td><td>0.32</td><td>3.87</td><td>18.01</td><td>0.54</td><td>0.22</td></tr><tr><td>Kingston-Saugerties &#8217;02</td><td>Spherical</td><td>0.44</td><td>0.25</td><td>0.22</td><td>4.39</td><td>0.46</td><td>4.39</td><td>18.01</td><td>0.57</td><td>0.24</td></tr><tr><td>Haverstraw</td><td>Exponential</td><td>0.51</td><td>0.21</td><td>0.32</td><td>0.89</td><td>0.53</td><td>2.22</td><td>9.64</td><td>0.42</td><td>0.23</td></tr><tr><td>Tappan Zee</td><td>Spherical</td><td>0.43</td><td>0.18</td><td>0.27</td><td>0.57</td><td>0.45</td><td>0.57</td><td>4.02</td><td>0.42</td><td>0.14</td></tr><tr><td>Robins</td><td>Linear</td><td>0.44</td><td>0.16</td><td>0.32</td><td>0.79</td><td>0.48</td><td>0.79</td><td>3.00</td><td>0.36</td><td>0.26</td></tr><tr><td>Shelter</td><td>Spherical</td><td>0.51</td><td>0.19</td><td>0.32</td><td>0.62</td><td>0.51</td><td>0.62</td><td>3.89</td><td>0.37</td><td>0.16</td></tr></table>"
+  }
+ ]
+}

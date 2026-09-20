@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_193",
+  "page": 3,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    203.7,
+    61.3,
+    444.8,
+    721.8
+   ],
+   "ocr": "Lower Upper\nlimit limit\nOdds of 95% of 95%\nMortality outcome Ratio CI CI P > t\nCorticosteroids 1.18 0.81 1.71 0.396\nFemale (male as\n0.86 0.60 1.22 0.393\nreference)\nLocation\nSICU 0.81 0.30 2.14 0.666\nCardiac SICU 1.13 0.15 8.72 0.908\nCCU 0.89 0.15 5.16 0.898\nNeuro ICU 0.75 0.16 3.65 0.726\nBurn 2.05 0.36 11.55 0.418\nTrauma 0.64 0.16 2.60 0.531\nMICU/SICU 1.20 0.79 1.81 0.402\nOthers 1.42 0.30 6.70 0.656\nOther ethnic\n(Hispanic or Latino as 1.28 0.72 2.26 0.406\nreference)\nInfection site\nAbdomen 0.88 0.47 1.64 0.691\nSkin or soft tissue 0.53 0.17 1.66 0.276\nBacterial meningitis 2.26 0.26 19.78 0.461\nUrinary tract 0.83 0.41 1.69 0.613\nCentral line 1.79 0.11 29.82 0.685\nOsteomyelitis 1.61 0.20 12.63 0.652\nConfirmed Swine\n1\nInfluenza A\nOthers 0.89 0.45 1.77 0.744\nSuspected infection\n4.19 0.22 78.35 0.338\n(no site specified)\nAPACHE III 1.02 1.02 1.03 <0.001\nVasopressor use 1.04 0.71 1.54 0.829\nCVP .98 0.94 1.02 0.419\nNumber of quadrats\nwith infiltrates (with 1.22 0.93 1.60 0.142\neach one increase)\nCK 0.999 0.998 0.9998 0.009\nALT 1.001 0.996 1.006 0.816\nCRP 1.00 0.99 1.005 0.713\nUrine output 1.00 1.00 1.00 0.843\nPaO2 1.00 0.99 1.01 0.839\nConstant term 0.03 0.01 0.12 <0.001",
+   "table_id": "PMC4667272_table_3"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    737.6,
+    708.9,
+    840.3
+   ],
+   "ocr": "Table 4. Adjustment of confounding factors with multivariate regression model. Abbreviation: APACHE: acute physiology and chronic health evaluation; CVP: central venous pressure; CK: creatine kinase; CRP: C-reactive protein; PaO2: partial pressure of arterial oxygen. variables with STATA command codebook, which showed that APACHE III, CVP, the number of quad- rats of infiltrates, CRP, CK and urine output contained missing values."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    214.3,
+    837.3,
+    708.9,
+    853.7
+   ],
+   "ocr": "We followed several steps to perform the MI procedure: (1) the dataset was declared as marginal"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    850.8,
+    709.0,
+    867.1
+   ],
+   "ocr": "long style, because it was a memory-efficient style. (2) All variables with missing values were registered"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    864.2,
+    708.9,
+    880.6
+   ],
+   "ocr": "as imputed variable. (3) multivariate normal regression model was used for the imputation procedure."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    877.6,
+    708.9,
+    894.0
+   ],
+   "ocr": "Variables employed for imputation were those obtained within 24 hours after initiation of the study"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    891.0,
+    708.9,
+    907.4
+   ],
+   "ocr": "including mortality outcome, age, gender, source of admission, type of patients, chronic dialysis, vaso-"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    904.4,
+    708.9,
+    920.8
+   ],
+   "ocr": "pressor use, temperature, blood pressure, heart rate, respiratory rate and infection site. There were no"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    917.8,
+    708.9,
+    934.2
+   ],
+   "ocr": "missing values for these variables. We created 20 imputations to reduce the simulation (Monte Carlo)"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    967.3,
+    708.9,
+    980.1
+   ],
+   "ocr": "Scientific RepoRts | 5:17654 | DOI: 10.1038/srep17654 5"
+  }
+ }
+}

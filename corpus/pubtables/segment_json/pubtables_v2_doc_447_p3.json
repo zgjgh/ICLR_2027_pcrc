@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_447",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    556.7,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Checking STEP-Associated Trafficking"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    347.4,
+    727.2,
+    682.9
+   ],
+   "ocr": "Fig 2. shows the %age of molecules filtered using SMARTs filter. doi:10.1371/journal.pone.0129370.g002 amino acid, the residue involved in the active site, and the O2 atom of ligand_874. Two other hydrogen bonds were formed between the NZ of Lys 439 and the O1 of ligand_874 (2.83 Å) and the NE2 of Gln 520 and the O2 of ligand_874 (3.06 Å). The ligand was also observed to have many hydrophobic contacts involving the residues Tyr 304, Asn376, Glu378, Glu379, Trp435, Pro436, Asp437 and Gln516. The compound, ligand_874, also passed the Lipinski fil- ter with a molecular weight of 390.52 g/mol, two donor hydrogen bonds, 3.5 acceptor hydrogen bonds and a partition coefficient (log P) value of 3.93. The interactions as well as the predicted physical properties suggest the compound (1-benzyl-2, 5-dimethyl-4-({[(2S)-1-phenylbutan- 2-yl] azaniumyl} methyl)-1H-pyrrole-3-carboxylate, Ligand_874) to be a very promising can- didate to fight Alzheimer’s disease. The chemical structure of the ligand is shown in Fig 4(A). Molecular Dynamics Simulation Studies of the Docked Complex To further evaluate the stability of the docked complex, the MD simulation of the Ligand_874 complex docked into the active site of STEP was carried out using the Desmond Molecular Dy- namics system implemented in Schrodinger. As evident from Fig 5, the complex (backbone) Table 3. Binding affinity scores, energies, molecular interactions as well as H-bond distances of the docked compounds."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    691.7,
+    726.5,
+    877.9
+   ],
+   "ocr": "Compound Glide score Interacting residues Distance (H- Glide energy\n(XP) (kcal/ bond, Å) (kcal/mol)\nmol)\nLigand_874 (1-benzyl-2, 5-dimethyl-4-({[(2S)- -8.11 Lys439, Arg478, Gln520, Tyr 304, 2.82, 2.84, 3.06 -42.44\n1-phenylbutan-2-yl] azaniumyl} methyl)-1H-pyrrole- Asn376, Glu378, Glu379, Trp435,\n3-carboxylate, Ligand_874) (AID 588621 dataset) Pro436, Asp437, Gln516\nLigand_7 (Sigma-Aldrich compounds) -5.95 Lys439, Arg478, Gln520, Tyr 304, 2.59, 2.68, 3.26 -32.80\nTrp435, Scy472, Gln516\nAdenosine triphosphate (ATP) -9.34 Lys439, Arg478, Gln520, Trp435, 3.01, 2.80, 2.90; -53.39\nAsn376, Pro436, Asp437, Scy472, 2.99, 3.13; 2.94\nSer473, Gly477, Gln516\nFolic Acid -6.03 Lys439, Arg478, Gln520, Trp435, 3.03, 2.81, 3.15, -50.97\nArg303, Tyr304, Glu382, Scy472, 2.95, 2.87, 2.68\nSer473, Gln516, Thr517",
+   "table_id": "PMC4466797_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129370.t003"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129370 June 12, 2015 9 / 20"
+  }
+ }
+}

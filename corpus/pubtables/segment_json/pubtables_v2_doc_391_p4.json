@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_391",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.2,
+    67.5,
+    382.4,
+    78.0
+   ],
+   "ocr": "Molecular Vision 2012; 18:2338-2351 <http://www.molvis.org/molvis/v18/a247>"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    607.1,
+    67.5,
+    704.6,
+    78.0
+   ],
+   "ocr": "© 2012 Molecular Vision"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    74.1,
+    114.5,
+    404.9,
+    139.4
+   ],
+   "ocr": "TABLE 5. GENE SET ENRICHMENT ANALYSES (GSEA) OF RETINAL EXPRESSION (HFD) OR BILBERRIES (BB)"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    382.7,
+    114.5,
+    698.6,
+    139.4
+   ],
+   "ocr": "IN C57BL MICE FED NORMAL CONTROL DIET (NCD), HIGH FAT DIET IN THESE DIETS FOR 12 WEEKS."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    75.1,
+    152.1,
+    691.6,
+    564.4
+   ],
+   "ocr": "Limit1 Term Count Fold enrichment p-value2\nHFD versus NCD\nupregulated (n=431, 2 unknown)\nDilated cardiomyopathy 7 3.5 0.01\nHypertrophic cardiomyopathy (HCM) 6 3.3 0.03\nMAPK signaling pathway 11 1.9 0.06\ndown regulated (n=374, 3 unknown)\nApoptosis 11 6.2 0\nCalcium signaling pathway 10 2.6 0.02\nMelanogenesis 6 2.9 0.05\nLong-term potentiation 5 3.5 0.05\nHFD+BB versus NCD\nupregulated (n=395, 2 unknown)\nSystemic lupus erythematosus 7 3.5 0.01\nColorectal cancer 6 3.6 0.02\ndown regulated (n=410, 3 unknown)\nApoptosis 10 5 0\nCalcium signaling pathway 10 2.3 0.03\nGap junction 6 3.2 0.05\nHFD+BB versus HFD\nupregulated (n=393, 1 unknown)\nSystemic lupus erythematosus 7 3.4 0.02\ndown regulated (n=412, 4 unknown)\nApoptosis 9 4.7 0\nNCD+BB versus NCD\nupregulated (n=416, 2 unknown)\nSystemic lupus erythematosus 8 3.6 0.01\ndown regulated (n=389, 3 unknown)\nApoptosis 9 5.1 0\nMAPK signaling pathwway 11 2 0.04\nCalcium signaling pathway 9 2.3 0.04",
+   "table_id": "PMC3444297_table_4"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    369.4,
+    571.3,
+    704.7,
+    884.9
+   ],
+   "ocr": "determined by over-representation analysis in DAVID.1 limits in regulated probes. Log ratio (LR) determined by subtracting the values. multiple testing (DAVID). HFD downregulated genes that were upregulated in HFD +BB versus HFD (222, 12), the apoptosis pathway (four genes, p=0.081, 3.9 fold enrichment) was shown with a probe for tumor necrosis factor-alpha (TNF-α) also recognized in the SLE pathway. HFD downregulated and HFD+BB versus NCD upregulated only a low number of genes (128, 0) that were enriched within two pathways: colorectal cancer (four genes, p=0.022, 6.5 fold enriched) and melanogenesis (four genes, p=0.032, 5.6 fold enriched). The apoptosis pathway (4 genes, p=0.021, 6.6 fold enriched) was enriched with HFD down- and BB in NCD upregulated genes to NCD (123, 1), but surprisingly it was also enriched within the downregulated genes in the mouse retina of NCD +BB to NCD (Table 5) indicating that NCD+BB may influence multiple genes via increased and decreased expression in this pathway."
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    93.8,
+    573.0,
+    401.1,
+    626.1
+   ],
+   "ocr": "The gene expression enrichment results for KEGG pathways search criteria up: p<0.05 AND LR> 0 OR down: LR<0 denominator groups from numerator groups’ natural log-expression 2"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.2,
+    618.0,
+    399.0,
+    932.4
+   ],
+   "ocr": "p values from F-test statistics with Bonferroni’s correction for enrichment of genes displayed no previously shown pathways but pointed to the molecular functions of the structural constituents of the eye lens as being significant (13 genes, p=4.9E-18, 46.7 fold enriched), including 12 crystallins (Table 2) and the major intrinsic protein of eye lens fiber (Mip). These genes were also found within the biologic process of eye development (12 genes, p=4.4E-6, 6.1 fold enriched). These molecular functions and biologic processes were furthermore found in HFD upregulated genes when compared to genes downregulated by HFD+BB versus NCD (161, 77). Altogether, the HFD+BB group showed similar genes (crystallins) differentially regulated compared to either background diet, and six of these genes were expressed with ≥2.5 FC in the HFD (Figure 2, Table 6). Bilberry induced gene expression changes in high-fat- diet downregulated genes in the retina: If one examines the 2344"
+  }
+ }
+}

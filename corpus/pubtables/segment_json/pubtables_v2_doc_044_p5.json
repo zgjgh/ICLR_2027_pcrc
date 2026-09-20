@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_044",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    506.2,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Novel SNPs Associated with Autism Subtypes"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    397.1,
+    92.8
+   ],
+   "ocr": "Table 5. Social development QTL associated with ASD subtypes."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    120.1,
+    680.3,
+    700.6
+   ],
+   "ocr": "SNP SNP Position Band Location Gene UNADJ P FDR_BHa BONFb Subtype\nrs12266938 chr10:3852940 10p15.1 CNV* 0.0001 0.0023 0.0023 Mild\nrs10519124 chr2:67819501 2p14 - 0.0002 0.0040 0.0081 \"\nrs2297172 chr9:71563166 9q21.11 Intron PTAR1 0.0006 0.0082 0.0245 \"\nrs2255313 chr12:102773924 12q23.3 CNV 0.0014 0.0150 0.0613 \"\nrs6698676 chr1:84528583 1p31.1 Promoter SAMD13 0.0017 0.0150 0.0760 \"\nrs2519866 chr17:27859883 17q11.2 Intron MYO1D 0.0020 0.0150 0.0900 \"\nrs10305860 chr4:148625337 4q31.23 Intron EDNRA 0.0028 0.0176 0.1229 \"\nrs13205238 chr6:413597 6p25.3 CNV 0.0033 0.0182 0.1456 \"\nrs4873815 chr8:144796206 8q24.3 Promoter ZNF623 0.0042 0.0182 0.1836 \"\nrs4832481 chr2:16986218 2p24.3 CNV 0.0045 0.0182 0.1959 \"\nrs30746 chr5:135366157 5q31.1 CNV 0.0046 0.0182 0.2006 \"\nrs10997162 chr10:67906707 10q21.3 Intron CTNNA3 0.0054 0.0196 0.2357 \"\nrs3809282 chr12:110192180 12q24.11 Intron CUTL2 0.0061 0.0205 0.2664 \"\nrs12115722 chr9:133418328 9q34.13 CNV 0.0069 0.0218 0.3049 \"\nrs10874468 chr2:96959718 2q11.2 CNV 0.0099 0.0277 0.4361 \"\nrs4809918 chr20:50734607 20q13.2 - 0.0106 0.0277 0.4642 \"\nrs12962411 chr18:27645521 18q12.1 CNV 0.0107 0.0277 0.4712 \"\nrs4959923 chr6:412773 6p25.3 CNV 0.0129 0.0316 0.5679 \"\nrs721087 chr2:4942340 2p25.2 CNV 0.0166 0.0385 0.7312 \"\nrs9479482 chr6:150399705 6q25.1 - 0.0180 0.0397 0.7937 \"\nrs10788819 chr1:150161717 1q21.3 - 0.0198 0.0414 0.8690 \"\nrs4646421 chr15:72803245 15q24.1 Intron CYP1A1 0.0251 0.0502 1.0000 \"\nrs11138895 chr9:82693023 9q21.31 CNV 0.0265 0.0507 1.0000 \"\nrs11138885 chr9:82678684 9q21.31 - 0.0300 0.0550 1.0000 \"\nrs4905110 chr14:93432083 14q32.13 - 0.0329 0.0570 1.0000 \"\nrs2627468 chr8:3812607 8p23.2 Intron CSMD1 0.0349 0.0570 1.0000 \"\nrs17192980 chr5:7030768 5p15.31 CNV 0.0350 0.0570 1.0000 \"\nrs10886048 chr10:118928872 10q25.3 CNV 0.0426 0.0660 1.0000 \"\nrs4811895 chr20:55639715 20q13.31 - 0.0435 0.0660 1.0000 \"\nrs13384439 chr2:187500106 2q32.1 CNV 0.0462 0.0678 1.0000 \"\nrs4416176 chr2:26536150 2p23.3 Intron OTOF 0.0507 0.0708 1.0000 \"\nrs11627027 chr14:93440170 14q32.13 - 0.0529 0.0708 1.0000 \"\nrs12183587 chr6:150396301 6q25.1 - 0.0531 0.0708 1.0000 \"\nrs2151206 chr9:14844072 9p22.3 Intron FREM1 0.0562 0.0727 1.0000 \"\nrs6022029 chr20:50708572 20q13.2 CNV 0.0606 0.0762 1.0000 \"\nrs1996893 chr9:14880268 9p22.3 Intron FREM1 0.0726 0.0887 1.0000 \"",
+   "table_id": "PMC3083416_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    711.9,
+    375.8,
+    919.8
+   ],
+   "ocr": "ap-value adjusted using Benjamini-Hochberg False Discovery Rate method; bBonferroni-adjusted p-value. *CNV located in Chromosomal band as reported by Pinto et al. [15]. doi:10.1371/journal.pone.0019067.t005 controls across 2 independent datasets in the ‘‘discovery’’ phase, identified 1 SNP that reached genome-wide significance and 5 additional SNPs of nominal significance in one intergenic region on chr5p14.1 that was located between 2 cadherin genes [9]. In this study, we replicated the association of 2 of the SNPs but only in the ‘‘Moderate’’ subtype of ASDs which consisted of only 363 cases (Table 7). Neither the other 3 subtypes (with 387–639 cases per subgroup) nor the combined cases group (consisting of 1867 cases) showed any association with these 6 SNPs. Furthermore, while none of the 6 SNPs identified in the published study correlated with expression level of either cadherin (CDH9 or"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    773.7,
+    700.8,
+    919.8
+   ],
+   "ocr": "CDH10) in the cortical brain of 93 genotyped human subjects, we note that 2 of the SNP-associated genes identified in the current study, HTR4 and CCL25, were found to be differentially expressed (FDR,5%) in lymphoblastoid cell lines from individuals with ASDs in a previous study by our laboratory [14]. This overlap of differentially expressed genes with those associated with at least some of the novel SNPs lends support to the potential functional relevance of these SNPs. Aside from the SNPs located within the promoter or intron regions of genes, seven of the other eight significant SNPs (Table 6) are located in intergenic regions that are linked by band position to rare copy number variants (CNVs) that"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "7 April 2011 | Volume 6 | Issue 4 | e19067"
+  }
+ }
+}

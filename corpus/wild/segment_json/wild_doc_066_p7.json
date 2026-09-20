@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_066",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    71,
+    580,
+    98
+   ],
+   "ocr": "The following table presents a comprehensive overview of various topographic data structures utilized within the context of VTK (Visualization Toolkit) classification."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    86,
+    580,
+    114
+   ],
+   "ocr": "Each entry delineates specific objects associated with the vtkDelaunay2D class type, highlighting their respective data file structures and corresponding metrics."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    145.0,
+    580.0,
+    338.0
+   ],
+   "ocr": "Object VTK Class Type Data File Structure\nTopographic map vtkDelaunay2D Line 1: 1 (Classification code)Line 2: UnusedLine 3: UnusedLine 4: (x, y, z) of point 1Line 5: (x, y, z) of point 2...\nDrift or shaft vtkLineSourcevtkTubeFilter Line 1: 2 (Classification code)Line 2: Radius of tubeLine 3: UnusedLine 4: (x, y, z) of start point 1 / end point 1Line 5: (x, y, z) of start point 2 / end point 2...\nBorehole vtkLineSourcevtkTubeFilter Line 1: 3 (Classification code)Line 2: Radius of tubeLine 3: Number of classLine 4: (x, y, z) of point 1 / label / classLine 5: (x, y, z) of point 2 / label / class...\nGoaf vtkPolygonvtkLinearExtrusionFilter Line 1:4 (Classification code)Line 2: Extrusion lengthLine 3: UnusedLine 4: (x, y, z) of point 1 / polygon numberLine 5: (x, y, z) of point 2 / polygon number...\nGroundwater level vtkCylinderSource Line 1: 5 (Classification code)Line 2: Number of pondsLine 3: Radius of each pondLine 4: Number of time stepsLine 5: Pond number / time step / (x, y, z) of water level...",
+   "table_id": "img_073873_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    362.0,
+    580.0,
+    482.0
+   ],
+   "ocr": "Pv-210 Pv-247 Pf\nELISA PCR ELISA PCR ELISA PCR\nUnfed mosquitoes detected negative 16 16 8 8 8 8\nUnfed mosquitoes detected positive 0 0 0 0 0 0\nBlood fed mosquitoes detected negative 0 3 11 14 12 14\nBlood fed mosquitoes detected positive 30 27 19 16 18 16",
+   "table_id": "img_073873_t1"
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    507.0,
+    580.0,
+    630.0
+   ],
+   "ocr": "Variable WHR WC AG FPG DD\nGender (GE) 0.73∗∗ 0.36∗∗ 0.15∗∗ −0.01 −0.16∗∗\nWHR (WHR) 0.56∗∗ 0.21∗∗ 0.01 0.06\nWC (WC) 0.50∗∗ 0.05 −0.01\nAge (AG) −0.33∗∗ 0.01\nFPG (FPG) −0.02",
+   "table_id": "img_073873_t2"
+  },
+  "p7_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    646,
+    580,
+    704
+   ],
+   "ocr": "Notably, the columns titled \"Pv-210\" and \"Pv-247\" provide insight into the isotopic composition relevant to the spatial analysis of the topographic features represented. Such isotopic data are critical in environmental studies, where understanding the geological and hydrological characteristics of an area is essential for effective resource management and ecological assessments."
+  },
+  "p7_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    692,
+    580,
+    766
+   ],
+   "ocr": "The inclusion of metrics such as \"Variable\" and \"WHR\" further enriches the dataset, allowing for nuanced interpretations of the topographic variations captured in the analysis. By systematically organizing these variables, the table serves as a valuable resource for researchers and practitioners seeking to leverage VTK for advanced modeling and visualization of topographic landscapes. The structured data empowers informed decision-making and facilitates deeper exploration of the underlying geospatial phenomena."
+  }
+ }
+}

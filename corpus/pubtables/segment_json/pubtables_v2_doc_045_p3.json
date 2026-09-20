@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_045",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Thompson et al. BMC Bioinformatics 2011, 12:393 http://www.biomedcentral.com/1471-2105/12/393"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.0,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 10 of 18"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    852.8
+   ],
+   "ocr": "infinitive forms (e.g., to investigate) as clues seems to be a particular feature of the Investigation category. Whilst most clues are verbal forms, words with other parts of speech can sometimes constitute reliable clues (e.g., thus for Analysis, and detectable for Observation). Certainty Level (CL) The distribution of CL annotations is shown in Table 5. Despite the relative scarcity of CL marking on events, it should be noted that this dimension is only applicable when the KT = Analysis. Taking this into consideration, the need for this dimension becomes more apparent: whilst over half of Analysis events (54.7%) are stated with no uncertainty, this also means that almost half of these events do express some kind of uncertainty. In fact, approximately one third (33.7%) of all Analysis events are annotated as CL = L2, whilst 11.6% are reported with less certainty (CL = L1). The very nature of abstracts means that the high proportion of events with no uncertainty is to be expected. As authors aim to “sell” the most positive aspects of their work in abstracts, it makes sense that the majority of analyses should be presented in a confident manner. However, the marking of slight uncertainty is some- times necessary. The author’s analyses of experimental results may have produced important outcomes, but yet they are not confident that their analysis is completely reliable. As stated in [24], “Scientists gain credibility by stating the strongest claims they can for their evidence, but they also need to insure against overstatement.” (p. 257). Such insurance can often be achieved by the use of slight hedging (CL = L2). Greater speculation (CL = L1) is less common, as such credibility is reduced in this case. As part of the original GENIA event annotation, Uncertainty was annotated as an event attribute. The default value is Certain and the other two values are Probable and Doubtful. In the GENIA event annotation guidelines, these attributes do not have clear definitions. However, Probable can be defined loosely as something that is hypothesized by the author, while Doubtful is something that is investigated. Probable has more in common with our CL dimension, while Doubtful is more closely linked to the Investigation category of our KT dimension. Therefore, the GENIA Uncertainty attri- bute does not distinguish between degrees of uncer- tainty in the same way as our meta-knowledge scheme. Table 5 Distribution of annotated categories for Certainty Level (CL)"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    660.8
+   ],
+   "ocr": "of their parent event, have no specific KT interpretation. The total number of Other events is very similar to the combined total of Investigation, Analysis and Method events. This is to be expected, given the high proportion (44%) of complex events present in the corpus. The proportion of Analysis events is much smaller but still quite significant, since most abstracts contain at least some analysis of the experimental results obtained. The usual inclusion of a small amount of background factual information to put the current study into context accounts for the average of 3 events per abstract (8% of all events) that are assigned the Fact category. Even briefer are the descriptions of what is to be investigated, with an average of 2 Investigation events per abstract (5% of all events). The scarcity of events describing methods (2.6% of events, or less than 1 event per abstract) shows that providing details of experimental setup is very rare within abstracts. Table 4 shows the most commonly annotated clue expressions for the KT categories of Analysis, Investiga- tion and Observation. Clues were also annotated for the Fact category, if they were present. However, only 139 of the 2998 Fact events (4.6%) have a clue expression annotated. Of these annotated clue expressions, 106 (76%) correspond to the word known. Clue expression annotation was also optional for the Observation cate- gory, in which only 937 (7.3%) of the total number of events are accompanied by a clue. For the Investigation and Analysis categories, all annotated events have a clue expression. For both Investigation and Observation, the top three most common clue expressions are past tense verbs, while the use of the present tense appears to be more dominant for describing Analysis events. The use of Table 4 Most common KT clue expressions"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    665.7,
+    366.1,
+    916.0
+   ],
+   "ocr": "Analysis Freq Investigation Freq Observation Freq\nClue Clue Clue\nsuggest 408 examined 207 found 361\nshow 353 investigated 205 observed 226\ndemonstrate 335 analyzed 119 detected 141\ndemonstrated 332 studied 94 detectable 48\nshowed 246 to determine 50 seen 32\nshown 244 tested 39 noted 17\nmay 242 measured 25 find 11\ncan 232 monitored 25 detect 11\nassociated 215 to investigate 23 findings 11\nindicate 211 to examine 21 observations 9\nrevealed 196 to study 21 finding 9\nsuggesting 140 analysis 20 show 6\nreport 114 studies 20 report 6\nidentified 112 to identify 16 exhibit 5\nthus 108 investigate 15",
+   "table_id": "PMC3222636_table_3"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    406.4,
+    857.8,
+    656.2,
+    915.9
+   ],
+   "ocr": "Category Freq % of total events\nL3 (default) 33876 91.9%\nL2 2216 6.0%\nL1 766 2.1%",
+   "table_id": "PMC3222636_table_4"
+  }
+ }
+}

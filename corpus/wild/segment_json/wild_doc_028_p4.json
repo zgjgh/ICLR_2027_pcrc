@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_028",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The table presents data comparing Trinity assembly and Digital normalization, Oases-Velvet, across various metrics. The total fragments for both methods are 87,209,130 (100.00%). For aligned concordantly 0 times, Trinity assembly shows 23,101,349 (26.49%), while Digital normalization has 35,552,373 (40.77%). In aligned concordantly 1 time, Trinity assembly has 28,325,506 (32.48%) compared to 30,552,963 (35.03%) for Digital normalization."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "There are no values reported for the row of reads aligning concordantly or discordantly 0 times. In aligned discordantly 1 time, Trinity assembly records 1,826,073 (7.90%), while Digital normalization significantly increases to 7,539,150 (21.21%). The total mates are 42,550,552 for Trinity assembly and 56,026,446 for Digital normalization."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    394.0
+   ],
+   "ocr": "Trinity assembly Digital normalization, Oases-Velvet\nTotal fragments 87,209,130 (100.00%) 87,209,130 (100.00%)\nAligned concordantly 0 times 23,101,349 (26.49%) 35,552,373 (40.77%)\nAligned concordantly 1 time 28,325,506 (32.48%) 30,552,963 (35.03%)\nOf reads aligning concordantly or discordantly 0 times:\nAligned discordantly 1 time 1,826,073 (7.90%) 7,539,150 (21.21%)\nTotal mates 42,550,552 56,026,446\nAligned 0 times 24,594,154 (57.80%) 31,100,316 (55.51%)\nAligned exactly 1 time 4,660,328 (10.95%) 11,909,789 (21.26%)\nAligned >1 times 13,296,070 (31.25%) 13,016,341 (23.23%)\nOverall alignment rate 85.90% 82.17%",
+   "table_id": "img_031347_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    410,
+    580,
+    468
+   ],
+   "ocr": "For aligned 0 times, Trinity assembly indicates 24,594,154 (57.80%) while Digital normalization shows 31,100,316 (55.51%). In aligned exactly 1 time, Trinity assembly has 4,660,328 (10.95%), and Digital normalization presents 11,909,789 (21.26%). The aligned >1 times category reveals Trinity assembly at 13,296,070 (31.25%) and Digital normalization at 13,016,341 (23.23%)."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    456,
+    580,
+    483
+   ],
+   "ocr": "Finally, the overall alignment rate is reported as 85.90% for Trinity assembly and 82.17% for Digital normalization, illustrating the comparative performance of these assembly methods based on the provided data."
+  }
+ }
+}

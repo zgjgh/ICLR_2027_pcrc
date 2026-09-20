@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_085",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC6110516_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.3,
+    667.7,
+    195.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC6110516_table_0.png",
+   "html": "<table><tr><td></td><td>Underlying representation (before the rule application)</td><td>Surface representation (after the rule application)</td></tr><tr><td>a. Underlying lax stop</td><td>/porasEk/ # /puri/ purple-color # beak</td><td>POT applies [porasEk] # [p&#65533;uri]</td></tr><tr><td>b. Underlying tense stop</td><td>/porasEk/ # /p&#65533;uri/ purple-color # root</td><td>POT n.a. [porasEk] # [p&#65533;uri]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6110516_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    128.3,
+    710.2,
+    226.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6110516_table_1.png",
+   "html": "<table><tr><td></td><td></td><td>phonological context</td><td>boundary</td><td>target word</td><td>disambiguating shape</td><td></td></tr><tr><td>Korean instruction</td><td>Hwamyeon-eseo</td><td>pora-sek</td><td rowspan=\"2\">#</td><td>puri-wi</td><td>semo-lul</td><td>nureuseyo</td></tr><tr><td>Gloss</td><td>screen-on</td><td>purple-color</td><td>beak-above</td><td>triangle-ACC</td><td>click</td></tr><tr><td>Translation</td><td colspan=\"6\">&#8216;On the screen, click on the triangle above the purple beak.&#8217;</td></tr><tr><td colspan=\"7\">Phonological Context (color terms) before the target: - Tensifying (with final /k/): porasEk (&#8216;purple&#8217;), y}ndusEk (&#8216;light green&#8217;) - Non-tensifying (with final /N/): y}nnoraN (&#8216;light yellow&#8217;), y}npunhoN (&#8216;light pink&#8217;)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6110516_table_2",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    742.4,
+    664.9,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC6110516_table_2.png",
+   "html": "<table><tr><td>Effect</td><td>B (SE)</td><td>T</td><td>p</td></tr><tr><td>Intercept</td><td>0.272 (0.313)</td><td>0.871</td><td>0.393</td></tr><tr><td>Boundary</td><td>1.463 (0.159)</td><td>9.220</td><td>&lt;0.001</td></tr><tr><td>Context</td><td>-0.412 (0.113)</td><td>-3.661</td><td>&lt;0.001</td></tr><tr><td>Target</td><td>-0.305 (0.176)</td><td>-1.731</td><td>0.096</td></tr><tr><td>Boundary:Context</td><td>1.157 (0.225)</td><td>5.138</td><td>&lt;0.001</td></tr><tr><td>Boundary:Target</td><td>0.404 (0.243)</td><td>1.663</td><td>0.112</td></tr><tr><td>Context:Target</td><td>-1.204 (0.260)</td><td>-4.628</td><td>&lt;0.001</td></tr><tr><td>Boundary:Context:Target</td><td>1.996 (0.450)</td><td>4.432</td><td>&lt;0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6110516_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    726.6,
+    669.5,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC6110516_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">time window</td><td colspan=\"3\">/N/+lax</td><td colspan=\"3\">/N/+tense</td></tr><tr><td>b (SE)</td><td>t</td><td>p</td><td>b (SE)</td><td>t</td><td>P</td></tr><tr><td>200&#8211;300</td><td>-0.069 (0.174)</td><td>-0.399</td><td>0.690</td><td>-0.410 (0.174)</td><td>-2.353</td><td>0.019</td></tr><tr><td>300&#8211;400</td><td>0.127 (0.179)</td><td>0.709</td><td>0.479</td><td>-0.425 (0.180)</td><td>-2.366</td><td>0.018</td></tr><tr><td>400&#8211;500</td><td>0.613 (0.221)</td><td>2.778</td><td>0.010</td><td>-0.307 (0.183)</td><td>-1.676</td><td>0.094</td></tr><tr><td>500&#8211;600</td><td>1.009 (0.179)</td><td>5.640</td><td>&lt; .001</td><td>-0.249 (0.214)</td><td>-1.160</td><td>0.251</td></tr><tr><td>600&#8211;700</td><td>1.426 (0.176)</td><td>8.120</td><td>&lt; .001</td><td>-0.091 (0.213)</td><td>-0.426</td><td>0.672</td></tr><tr><td>700&#8211;800</td><td>1.507 (0.175)</td><td>8.636</td><td>&lt; .001</td><td>-0.347 (0.197)</td><td>-1.766</td><td>0.082</td></tr><tr><td>800&#8211;900</td><td>1.553 (0.180)</td><td>8.613</td><td>&lt; .001</td><td>-0.717 (0.195)</td><td>-3.669</td><td>0.001</td></tr><tr><td>900&#8211;1000</td><td>1.528 (0.218)</td><td>6.998</td><td>&lt; .001</td><td>-0.970 (0.234)</td><td>-4.147</td><td>&lt; .001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6110516_table_4",
+   "page_num": 5,
+   "bbox": [
+    252.3,
+    774.0,
+    664.8,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC6110516_table_4.png",
+   "html": "<table><tr><td>Effect</td><td>b</td><td>Z</td><td>p</td></tr><tr><td>Intercept</td><td>-0.169 (0.279)</td><td>-0.606</td><td>0.545</td></tr><tr><td>&#8220;/N/+lax&#8221;</td><td>6.873 (0.929)</td><td>7.398</td><td>&lt; .001</td></tr><tr><td>&#8220;/N/+tense&#8221;</td><td>-2.653 (0.271)</td><td>-9.799</td><td>&lt; .001</td></tr><tr><td>Experiment</td><td>-0.363 (0.149)</td><td>-2.432</td><td>0.015</td></tr><tr><td>&#8220;/N/+lax&#8221; x Experiment</td><td>-3.862 (1.085)</td><td>-3.559</td><td>&lt; .001</td></tr><tr><td>&#8220;/N/+tense&#8221; x Experiment</td><td>1.106 (0.278)</td><td>3.980</td><td>&lt; .001</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_241",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    553.1,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Quantifying scale-variance relationships"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    94.5,
+    727.3,
+    143.7
+   ],
+   "ocr": "Table 6. Fitted variogram models, total variance estimates (s2), variogram parameter estimates (c0, c1, and a), and other variogram relationships for each study loca- tion. c0 is an estimate of the nugget effect and c0/s2 is an estimate of the fraction of the total variance represented by small-scale variability. The sum c0 + c1 is the sill, and a defines the rate and, in the case of the spherical and piecewise linear models, the range at which the sill is reached. For the exponential model, the range was estimated as the distance where the variogram model reached 95% of the sill. The maximum extent is the largest geographic distance between two sampling locations in a study."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    149.2,
+    715.2,
+    293.1
+   ],
+   "ocr": "Study Location Fitted Model s2 c0 c1 a (km) Sill Range Maximum Extent Scaled Nugget Scaled Range (Range/ Maximum\n(c0 + c1) (km) (km) (c0/s2) Extent)\nKingston-Saugerties Linear 0.30 0.16 0.16 3.87 0.32 3.87 18.01 0.54 0.22\n’01\nKingston-Saugerties Spherical 0.44 0.25 0.22 4.39 0.46 4.39 18.01 0.57 0.24\n’02\nHaverstraw Exponential 0.51 0.21 0.32 0.89 0.53 2.22 9.64 0.42 0.23\nTappan Zee Spherical 0.43 0.18 0.27 0.57 0.45 0.57 4.02 0.42 0.14\nRobins Linear 0.44 0.16 0.32 0.79 0.48 0.79 3.00 0.36 0.26\nShelter Spherical 0.51 0.19 0.32 0.62 0.51 0.62 3.89 0.37 0.16",
+   "table_id": "PMC5764243_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    301.2,
+    727.2,
+    898.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0189313.t006 areas. There was no relationship between scaled values of the nugget and range (product- moment correlation, r = 0.23, p = 0.66). Nonspatial RDA results The forward selection process in RDA resulted in the selection of 5 to 7 explanatory variables and r2 values representing 42 to 52% of the total variance (Fig 4; Table 7). Acoustic provinces dominated the analysis at all sites, but other environmental variables identified in forward selection and subsequently retained by the AICc model selection criterion were water depth (Kingston-Saugerties’01, Haverstraw Bay, Robins Island, and Shelter Island), percent sand (Kingston-Saugerties’01 and ‘02, Haverstraw Bay, and Shelter Island), percent mud (Tappan Zee) and the percent cover classes from image analysis including % shell fragment cover at Tappan Zee, and % mud cover, % shell fragment cover, and % M. porifera cover at Robins Island. LOI and RPD were not selected in the RDA. Multiscale ordination MSO results indicated that the spatial dependence in the faunal data was captured by the explanatory variables selected in the RDA, and that the residuals contained no detectible spa- tial structure (Fig 5). Variograms formed from RDA predictions γfit(h) had evident spatial structure at all sites and strongly paralleled the shape of the empirical variograms, suggesting that the functional form of the RDA model was not misspecified. Points in the variograms formed by the sum γfit(h)+γres(h) lay within the Bonferroni-corrected point confidence interval around γ(h), indicating that there were no problems with scale dependence in the biotic-envi- ronmental relationships. The variogram of γres(h) quickly reached a sill and did not continue to increase with distance class, indicating that the stationarity assumption was met and no unknown environmental factor(s) was present influencing the spatial structure of the residu- als. In addition, Bonferroni-adjusted Mantel tests between residuals and a geographic distance matrix at each distance class interval were non-significant, excluding the possibility of autocor- related residuals. RDA performance at local vs. habitat-level scales Subtracting the nugget estimates of small-scale variability from RDA regression residuals altered the perception of RDA model performance both overall and at local vs. habitat levels (Fig 6). With small-scale variability removed from the residuals, the nonspatial RDA explained"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0189313 January 11, 2018 13 / 25"
+  }
+ }
+}

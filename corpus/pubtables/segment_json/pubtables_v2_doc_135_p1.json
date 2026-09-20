@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_135",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Chen et al. BMC Bioinformatics 2011, 12:311 Page 7 of 14 http://www.biomedcentral.com/1471-2105/12/311"
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    142.7,
+    670.6,
+    411.7
+   ],
+   "ocr": "Features P R F1 AUC\nASA 0.67 0.70 0.68 0.72\nBC 0.64 0.36 0.46 0.61\nPhy 0.66 0.63 0.64 0.72\nECS 0.60 0.23 0.33 0.59\nSE 0.72 0.69 0.70 0.76\nPSSM 0.72 0.63 0.67 0.75\nECS+SE 0.62 0.54 0.58 0.63\nPSSM+ECS 0.78 0.74 0.76 0.86\nPSSM+SE 0.84 0.71 0.77 0.88\nPhy+ECS+SE 0.67 0.75 0.71 0.77\nPSSM+ECS+SE 0.87 0.78 0.82 0.93\nPhy+PSSM+ECS+SE 0.88 0.87 0.88 0.96\nASA+BC 0.63 0.61 0.62 0.69\nPhy+ASA 0.65 0.73 0.69 0.75\nPhy+BC 0.67 0.62 0.64 0.73\nPhy+ASA+BC 0.68 0.67 0.68 0.77\nPhy+ASA+BC+PSSM+ECS+SE 0.83 0.85 0.84 0.91",
+   "table_id": "PMC3176265_table_1"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    418.7,
+    666.1,
+    428.6
+   ],
+   "ocr": "ASA denotes accessible surface area; BC denotes biochemical contacts; Phy"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    426.6,
+    678.6,
+    455.3
+   ],
+   "ocr": "based features, and physicochemical features [48,50,87]. means physicochemical features; ECS denotes evolutionary conservation score; SE means sequence entropy; and PSSM is the abbreviation of Position-Specific Following above mentioned publications, we combine"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    450.8,
+    439.3,
+    460.7
+   ],
+   "ocr": "Scoring Matrix."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    456.7,
+    678.7,
+    862.0
+   ],
+   "ocr": "different features to train predictive models. Moreover, we compare single feature models to illustrate the dis- It can be seen that evolutionary conservation score crimination performance of each feature. In total the plays a less important role in predicting hot spots. training set comprises 377 mutations, of which 182 When compared with other features or feature combi- mutations correspond to hot spots. We train different nations, the results obtained only from this feature are SVM classifiers with different feature combinations. As the least successful, with F1 = 0.33 and AUC = 0.59 we know, the structure information sometimes cannot with self-consistency test on training set. And on 10- be obtained since many structures of proteins have not fold cross-validation test, the F1 is 0.34 and the AUC is been resolved. In PDB, there are 68,840 structures until 0.51. However, when evolutionary conservation score is Oct 26th, 2010. On the other hand, the evolutionary combined with physicochemical features, PSSM, and information is also unavailable if homologous proteins don’t exist. To handle this problem of incomplete infor- mation, we construct two models: sequence-based SVM model and structure-based SVM model. The sequence- based model utilizes physicochemical features, PSSM, evolutionary conservation score, and sequence entropy, which comprises no structure information. And the structure-based model uses physicochemical features, ASA, and biochemical contacts without sequence infor- mation. The prediction results are compared by preci- sion (P), recall (R), F1-score (F1), and AUC (area under ROC curve). In our work, F1 and AUC bear importance, since F1 score measures the balance precision and recall rates and AUC is independent of any decision threshold. The detailed results of self-consistency test on training set are listed in Table 2, and the ROC curves are dis- played in Figure 6. The results of 10-fold cross-valida-"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    852.9,
+    670.7,
+    902.1
+   ],
+   "ocr": "Figure 6 ROC curves for different models on self-consistency tion test are reported in Table 3, and the ROC curves test. The curves indicate the AUC obtained from different models are displayed in Figure 7. On 10-fold cross-validation for different feature combinations with self-consistency test on training set. Each abbreviation is explained simply in Table 2"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    893.5,
+    366.0,
+    907.2
+   ],
+   "ocr": "test, we try many other feature combinations, but only"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    391.8,
+    903.5,
+    596.8,
+    914.7
+   ],
+   "ocr": "caption. All indicates that all features are included."
+  },
+  "p1_b9": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    908.6,
+    186.1,
+    922.3
+   ],
+   "ocr": "give the better results."
+  }
+ }
+}

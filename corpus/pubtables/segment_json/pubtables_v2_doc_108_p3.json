@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_108",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    251.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9(Suppl 2):S4"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    445.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/S2/S4"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    359.2,
+    130.9
+   ],
+   "ocr": "Table 4: Summary of the predicted disorder rates in influenza viral protein."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.3,
+    907.5
+   ],
+   "ocr": "can easily be explained by the increased likelihood of colocalization of the RNA-binding proteins and the genomic RNA in the viral core. This trend is also seen for HIV proteins with the exception for the several enzymes, which are located in the close proximity to the core (see Figure 2). But of course enzymes need to be structured so the active site can provide a catalytic surface, and so this result is entirely consistent with previous work [24-26]. Hemagglutinin versus gp120 Data in Tables 3 – 4 and Figure 2 show that the surface proteins are generally predicted to be ordered in both the influenza and HIV viruses. HA is crucial in the entry of the virus to the host. A cleavage at the disulfide bond between subunits, HA1 and HA2, has to occur before the viral entry can take place. The function of HA can be compared to that of gp120, as gp120 is also known to play a crucial role in mediating the entry of the virus into the host cell [1,27]. Neuraminidases, on the other hand, play enzymatic role at the other end of the viral process. This protein cleaves the sialic acid group from the oligosaccharide portion. This cleavage step is needed for the virion to be released into the extracellular region [28]. According to our analysis, gp120, like HA, is predicted to be quite ordered. There are however, observed differences in the prediction results for these two proteins: gp120 was consistently predicted to be ordered, whereas the levels of predicted order in influenza HA varied with the viral sub- type. A summary of this can be found in Table 5. It is also should be noted that both HA (HA2) and NA are trans- membrane proteins [28,29]. Transmembrane proteins are more ordered In HIV, a protein that spans the lipid membrane is the transmembrane (TM) protein, gp41. This protein acts as a fusion protein [30] and functions in membrane interac- tions. This integral membrane protein contains a TM anchor domain that holds this envelope protein in associ- ation with the lipid bilayer [31]. This TM protein is responsible for the fusion of the viral and cellular mem- branes via its fusion peptide located in its extracellular, N- terminal domain [32]. Previously transmembrane frag- ments of channels and pores were predicted to be highly ordered [24-26]. However, the situation might be quite different for membrane proteins with relatively large extra- and intracellular domains, e.g., for fusion proteins. We now have an opportunity to analyse the predicted dis- order rate of transmembrane proteins that are involved in the membrane fusion. Table 3 shows that the predicted disorder level for gp41 is quite sizeable (34% for PONDR® VLXT). In fact, the amount of disorder in this protein is significantly higher than that of the transmembrane pro- teins (HA, NA) of the influenza A virus. This might be also"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    142.1,
+    356.0,
+    310.2
+   ],
+   "ocr": "Protein Accessions %VLXT(VL3)a Method\nHA1 (H1) 1ruz.pdb, Subunit H 12 (0) X-ray\nHA2 (H1) 1ruz.pdb, Subunit:I 12 (0)\nHA1 (H3) 1mqn.pdb, Subunit: 25 (0) X-ray\nA\nHA2 (H3) 1mqn.pdb Subunit: B 19 (2)\nNA (N1) 2hu0.pdb,/Sunit: S 8 (0) X-ray\nM1 1ea3.pdb, Subunit: A 25 (0) X-ray\nNS1 1xeq.pdb, Subunit: A 69 (63) X-ray\nNS2 1pd3.pdb, Subunit: A 60 (23) X-ray\nPB1 2hn8.pdb, Subunit: A 47 (NA) NMR\nNP 2iqh.pdb, Subunit: A 44 (0) X-ray",
+   "table_id": "PMC2559894_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    326.5,
+    372.6,
+    922.4
+   ],
+   "ocr": "aThe percentage of residues that are predicted ordered by VLXT. The parenthesized values are those in VL3. RNA-binding proteins, are DNA-binding proteins. Single- span membrane proteins also contain significant intrinsic disorder, except for the segment that crosses the mem- brane, which is typically predicted to be ordered. Finally, various enzymes as well as transmembrane proteins (e.g. pores) are among the polypeptides with the least intrinsic disorder. Overall, the results in this table are consistent with previous studies on all of the SwissProt proteins, which were partitioned by functional annotation [24-26]. Figure 2 presents data for the disorder distribution within the major proteins from HIV and influenza viruses. The proteins are labeled as \"predicted to be ordered,\" \"moder- ately disordered,\" or \"very disordered.\" The qualitative values are assigned according to the PONDR® VLXT values by comparison to the mean values of Table 2. Here, the proteins whose percentages of predicted disordered resi- dues are between 30–40% were considered as moderately disordered. The proteins with the disorder scores above 40% and below 20% were considered as very disordered or as ordered, respectively. Figure 2 shows that the amount of predicted intrinsic disorder increases as the protein becomes located closer to the viral core, which is the site of the genomic RNA. In general, a comparison of Tables 3, 4 and Figure 2 with the Table 6 indicates that viral proteins follow the trend in the distribution of intrin- sic disorder among functional classes previously described for other proteins. Discussion Predicted disorder varies with protein type, protein location and function Predicted disorder varies with location of protein in virion There is an interesting correlation between the percentage disorder rate and the protein localization within the vir- ion. This phenomenon is especially clear for influenza virus (see Figure 2), where the closer the protein gets to the core, then higher the level of predicted disorder. This"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 14 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_106",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    281.5,
+    64.4
+   ],
+   "ocr": "Algorithms for Molecular Biology 2008, 3:8"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    522.9,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.almob.org/content/3/1/8"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    670.2
+   ],
+   "ocr": "quantile normalization (same as in RMA), and DFW sum- marization. The probeset summary scores for Datasets 1 and 2 are publicly available on-line [42]. Accordingly, a total of six datasets were produced from Datasets 1 and 2, i.e., Dataset x (MAS), Dataset x (RMA), Dataset x (DFW), where x = 1 or 2. Datasets 3–38 were produced from the Affymetrix HG- U133A array, which is currently the most used platform. All of the datasets consisted of two different states of sam- ples (e.g., cancerous vs. non-cancerous) and the number of samples in each state was > = 3. Each dataset had two or more true DEGs and these DEGs were originally detected on MAS- or RMA-preprocessed data. The raw (probe-level) data are also publicly available from the Gene Expression Omnibus (GEO) website [78]. One can preprocess the raw data using the MAS, RMA, and DFW algorithms. Detailed information on these datasets is given in the additional file [see Additional file 1]. Evaluation using spike-in datasets (Datasets 1 and 2) The AUC values for the eight methods for Datasets 1 and 2 are shown in Table 1. Overall, WAD outperformed the other methods. It performed the best for five of the six datasets and ranked no lower than fourth best for all data- sets. RP performed the best for Dataset 2 (RMA). The R- codes for analyzing these datasets are available in the additional files [see Additional files 2 and 3]. The largest difference between WAD and the other meth- ods was observed for Dataset 1 (MAS). Because MAS uses local background subtraction, MAS-preprocessed data tend to have extreme variances at low intensities. As shown in Table 2, increasing the floor values for the MAS- preprocessed data increased the AUC values for all meth- ods except WAD. Nevertheless, the AUC values for WAD at the four intensity thresholds were clearly higher than those for the other methods. These results indicate that"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    394.0,
+    107.2,
+    695.3,
+    130.9
+   ],
+   "ocr": "Table 2: AUC (percent) values for Dataset 1 (MAS) for different signal intensity thresholds"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    402.2,
+    142.1,
+    688.9,
+    300.7
+   ],
+   "ocr": "Signal intensity threshold\nMethod 1 5 10 15\nWAD 96.772(1) 99.052(1) 99.228(1) 98.506(1)\nAD 83.381(6) 89.215(6) 92.996(7) 94.915(6)\nFC 83.092(7) 88.353(8) 92.381(8) 94.455(7)\nRP 81.981(8) 88.516(7) 93.131(6) 95.456(5)\nmodT 93.257(4) 94.776(2) 95.284(3) 95.977(4)\nsamT 94.002(3) 94.731(4) 95.074(5) 96.028(3)\nshrinkT 92.379(5) 94.114(5) 95.537(2) 96.437(2)\nibmT 94.693(2) 94.770(3) 95.260(4) 94.318(8)",
+   "table_id": "PMC2464587_table_1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    317.0,
+    698.4,
+    685.0
+   ],
+   "ocr": "AUC values when floor signal values in MAS-preprocessed data were 1, 5, 10, and 15, corresponding to substitutions of 4.1, 24.7, 40.2, and 50.8% of signals. the advantage of WAD over the other methods is not merely due to a defect in the MAS algorithm. The basic assumption of WAD is that \"strong signals are better signals.\" This assumption may unfairly favorable when spike-in datasets are used for evaluation. One can only spike mRNA at rather high concentrations because of technical limitations such as mRNA stability and pipetting accuracy, meaning that spike-in transcripts tend to have strong signals [79]. The basic assumption is therefore nec- essarily true for spike-in data. Indeed, a statistic based on the relative average signal intensity (e.g., a statistic based on the \"weight\" term, w, in the WAD statistic; see Meth- ods) for Dataset 1 (MAS) could, for example, give a very high AUC value of 90.0%. We also observed high AUC values based on the w statistic for the RMA- (87.3% of AUC) and DFW-preprocessed data (80.4%). Evaluation using experimental datasets (Datasets 3–38) Nevertheless, we have seen that several well-known marker genes and experimentally validated DEGs tend to have strong signals, which supports our basic assumption."
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    705.2,
+    396.3,
+    716.9
+   ],
+   "ocr": "Table 1: AUC (percent) values for Datasets 1 and 2 for eight methods"
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    88.0,
+    728.0,
+    674.2,
+    886.6
+   ],
+   "ocr": "MAS RMA DFW\nMethod Dataset 1 Dataset 2 Dataset 1 Dataset 2 Dataset 1 Dataset 2\nWAD 96.772(1) 97.684(1) 99.980(1) 98.240(4) 100.00(1) 99.953(1)\nAD 83.381(6) 96.430(8) 99.897(6) 98.631(2) 100.00(1) 99.948(2)\nFC 83.092(7) 96.445(7) 99.655(8) 98.617(3) 100.00(1) 99.948(2)\nRP 81.981(8) 96.626(6) 99.757(7) 99.161(1) 99.993(4) 99.938(3)\nmodT 93.257(4) 97.561(4) 99.928(5) 98.109(7) 99.983(7) 98.459(6)\nsamT 94.002(3) 97.547(5) 99.944(3) 98.139(6) 99.988(5) 98.656(4)\nshrinkT 92.379(5) 97.617(3) 99.955(2) 97.846(8) 99.984(6) 98.558(5)\nibmT 94.693(2) 97.618(2) 99.941(4) 98.183(5) 99.983(7) 98.455(7)",
+   "table_id": "PMC2464587_table_0"
+  },
+  "p1_b8": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    902.9,
+    384.2,
+    926.4
+   ],
+   "ocr": "Numbers in parentheses show the rankings. Signal intensities smaller than the data could be taken."
+  },
+  "p1_b9": {
+   "type": "caption",
+   "bbox": [
+    387.1,
+    902.9,
+    685.8,
+    914.7
+   ],
+   "ocr": "1 in the MAS-preprocessed data were set to 1 so that the logarithm of"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 12 (page number not for citation purposes)"
+  }
+ }
+}

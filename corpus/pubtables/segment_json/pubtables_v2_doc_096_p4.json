@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_096",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2006, 7:482"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/7/482"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    246.1,
+    118.9
+   ],
+   "ocr": "Table 4: The transitions of the model."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    77.7,
+    130.1,
+    597.5,
+    910.3
+   ],
+   "ocr": "ID Transition name Biological event\n1 MATalpha_cell(surroundings) a near MATα cell secretes its mating pheromone\n2 binding_factor _to_receptor the α-factor binds to the Ste2 receptor\n3 receptor_synthesis synthesis of the cell surface receptor Sst2\n4 receptor _conformation_change conformation change of the receptor\n5 division(in_alpha_subunit:GDP->GTP) dissociation of the Gα subunit of the G-protein\n6 hydrolysis_GTP->GDP hydrolysis reassociates Gα with Gβγ\n7 interact_through_Far1 Gβγ interacts Far1 transmitted with Cdc24\n8 Cdc42:GDP->GTP Cdc24 supported activation of Cdc42\n9 active_Cdc42_constitutive_at_pm constitutive active Cdc42 attending the processes\n10 binding_to_Ste20 Gβγ binds Ste20\n11 Ste20_activated Cdc42 at plasma membrane activates Ste20\n12 binding_to_Ste5 Gβγ binds Ste5\n13 Ste5_binds_Ste11 Ste5 binds Ste11\n14 Fus3_synth synthesis of kinase Fus3\n15 Fus3_binds_Ste7 Ste7 binds Fus3\n16 complex-formation Ste5/Ste11 binds Ste7/Fus3\n17 Ste20_phos_Ste11 phosphorylation of Ste11 by Ste20\n18 Ste11_phos_Ste7 phosphorylation of Ste7 by Ste11\n19 Ste7_phos_Fus3 phosphorylation of Fus3 by Ste7\n20 Fus3PP-release release of activated Fus3 out of the MAPK complex\n21 binding_free_Fus3 remaining MAPK complex binds Fus3\n22 Ste12_inhibit _phos phosphorylation of Ste12 inhibitors Dig1/Dig2 by Fus3PP\n23 Ste12-release release of Ste12 out of the repression complex\n24 Ste12_phos phosphorylation of Ste12 by Fus3PP\n25 transcr_activation transcription activation of pheromone regulated genes\n26 Fus3PP_dephos dephosphorylation of Fus3PP by Msg5\n27 repression_through_Fus3 Ste12 repression through inactive Fus3 and Dig1/Dig2\n28 cell_fusion processes leading to the fusion of the two haploid cells\n29 transport_out_of_cell Bar1 transport into the cell environment\n30 factor _destruction Bar1 transmitted destruction of the α-factor\n31 Far1_phos phosphorylation of Far1 by Fus3PP\n32 cell_cycle_arrest in_G1 Far1 caused arrest in the cell cycle phase G1\n33 transport_out_of_nucleus Far1 transport out of the nucleus\n34 Sst2_phos phosphorylation of Sst2 by Fus3PP\n35 transport_out_of_nucleus Sst2 transport out of the nucleus\n36 accelerated_hydr_GTP->GDP accelerated hydrolysis reassociates the G-protein\n37 Ste11_neg_phos Fus3PP labels the MAPK complex at Ste11 for degradation\n38 degradation degradation of the MAPK complex\n39 Ste7_neg_phos Fus3PP labels the MAPK complex at Ste7 for degradation\n40 Ste7_phos_Kss1 phosphorylation of Kss1 by Ste7\n41 accelerated-dephos_Kss1 deactivation of phosphorylated Kss1 by Fus3PP\n42 Kss1_dephos dephosphorylation of phosphorylated Kss1 by Msg5\n43 repression_through_Kss1 Ste12 repression through inactive Kss1 and Dig1/Dig2\n44 techn_input technical: the repressed Ste12 complex assumed to be present\n45 Akr1_synthesis synthesis of Akr1\n46 Akr1_binds_Yck1/Yck2 Akr1 binds Yck1/Yck2\n47 receptor_phos labelling of Ste2 for degradation\n48 ubiquit_endocytosis ubiquitination and endocytosis of the receptor",
+   "table_id": "PMC1686943_table_2"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    927.9,
+    333.5,
+    939.7
+   ],
+   "ocr": "The transitions of the model, see Figure 7, each listed with its"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    336.4,
+    927.9,
+    698.4,
+    981.2
+   ],
+   "ocr": "name, its ID and the biological event represented by this node. Page 12 of 17 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_084",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Inference of competing endogenous RNA interaction networks"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    97.5,
+    715.2,
+    119.6
+   ],
+   "ocr": "Table 2. Number of selected miRNA-RNA interactions obtained after applying the variable selection procedure (output of Cancerin—Step 2)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    128.3,
+    666.3,
+    233.1
+   ],
+   "ocr": "BRCA KIRC HNSC\nNo. of miRNA-mRNA interactions 6,616 8,408 9,893\n1\nNo. of miRNAs 196 154 190\n1\nNo. of mRNAs 2,814 2,971 3,020\nNo. of miRNA-lncRNA interactions 502 217 467\n2\nNo. of miRNAs 134 93 141\n2\nNo. of lncRNAs 210 91 175",
+   "table_id": "PMC6072113_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    244.7,
+    726.8,
+    812.6
+   ],
+   "ocr": "1: included in the selected miRNA—mRNA interactions. 2: included in the selected miRNA—lncRNA interactions. https://doi.org/10.1371/journal.pcbi.1006318.t002 be considered, was refereed as “Cancerin (only_miRNA)”. Table 4 shows the number of miR- NA-RNA interactions and their constituent miRNAs and RNA targets selected in the two cases. While the two cases selected similar miRNAs that have at least one RNA target (row 2 in Table 4), many miRNA-RNA interactions and RNA targets could only be found in “Cancerin (original)” (row 1 and 3 in Table 4). To check how the additional regulatory factors besides miRNAs played a role in that distinction, we looked at the common RNA targets that were included in both “Cancerin (original)” and “Cancerin (only_miRNA)”, and compared them with the RNA targets that were uniquely found in “Cancerin (original)”. Among the common RNA targets, the percentage of RNAs that had at least one additional regulator in “Cancerin (original)” results was 78.2% (BRCA), 83.8% (KIRC), and 85.2% (HNSC). Among the RNA targets unique to “Cancerin (original)”, the percentage values increased to 97.6% (BRCA), 96.7% (KIRC), and 97.1% (HNSC). These results suggest that while “Cancerin (only_miRNA)” could still discover some RNA targets that were regulated by an additional regulatory factor besides miRNAs, there were RNAs that could only be found to be regulated by miRNAs when different types of regulatory factors were incorporated in the variable selection step. Hub miRNA regulators were known to be associated with cancer. In all three cancer types, there were miRNAs that regulated many RNA targets, which made those miRNAs com- mon mediators in multiple ceRNA interactions. The miRNA regulators with highest number of RNA targets in each cancer type were let-7a-5p (BRCA), miR-106b-5p (KIRC), and miR-9- 5p (HNSC), which contributed to 2.5%, 3.6%, and 2.5% of total miRNA-RNA interactions, respectively. Let-7a-5p was downregulated in the BRCA dataset (log fold change (FC) = -0.42, False Discovery Rate (FDR) = 7e-4). Known as a tumor-suppressor, let-7a-5p downregulation was shown to cause disruption of crucial signaling pathways including Janus protein tyrosine kinase (JAK) and signal transducer [57], which can lead to tumor cell migration and invasion in breast cancer [58, 59]. In the KIRC dataset, miR-106b-5p was upregulated (logFC = 1.5, FDR = 6e-19). Upregulation of this miRNA can enhance activation of PI3K signaling pathway and promote tumor cell metastasis in KIRC [60]. In the HNSC dataset, miR-9-5p was highly Table 3. Percentage of RNA targets regulated by miRNAs and also by at least one additional type of regulators."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    821.3,
+    707.2,
+    878.8
+   ],
+   "ocr": "BRCA KIRC HNSC\nPercentage of RNA targets under CNA regulation 76.2% 69.2% 77.2%\nPercentage of RNA targets under DNA Methylation regulation 30.4% 26.3% 35.0%\nPercentage of RNA targets under TF regulation 54.1% 59.3% 48.0%",
+   "table_id": "PMC6072113_table_2"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    887.0,
+    440.4,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pcbi.1006318.t003"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS Computational Biology | https://doi.org/10.1371/journal.pcbi.1006318 July 16, 2018 10 / 23"
+  }
+ }
+}

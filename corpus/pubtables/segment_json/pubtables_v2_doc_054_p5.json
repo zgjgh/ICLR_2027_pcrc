@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_054",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    451.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Time-Critical Adaptive Approach for Visualizing Natural Scenes"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    102.9,
+    429.3,
+    114.7
+   ],
+   "ocr": "Table 7. Conﬁguration of computer 2."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    124.9,
+    726.6,
+    203.1
+   ],
+   "ocr": "Device Name Conﬁguration\nGraphic card Nviidia Quadro 600, 1G\nMemory 4G (DDR3)\nCPU Intel(R) Xeon(R) CPU E5506 @2.13GHz quad-core\nOperating system Win 7 32bit",
+   "table_id": "PMC4344310_table_6"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    211.2,
+    392.8,
+    222.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t007"
+  },
+  "p5_b4": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    261.3,
+    419.9,
+    273.2
+   ],
+   "ocr": "Table 8. Conﬁguration of iPhone4s."
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    283.4,
+    726.7,
+    361.6
+   ],
+   "ocr": "Device Name Conﬁguration\nGraphic card Imagination PowerVR SGX543\nMemory 512M(RAM) 16G(ROM)\nCPU Apple A5 1GHz\nOperating system iOS 5.0",
+   "table_id": "PMC4344310_table_7"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    369.7,
+    392.8,
+    381.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t008"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    416.1,
+    727.2,
+    725.5
+   ],
+   "ocr": "Because of the better performance of computer 2 compared with computer 1, computer 2 reaches the average frame rate 16.14 fps before using the adaptive visualization approach. As shown in Fig. 11, the application in computer 2 has unstable fluctuations before using the adap- tive visualization approach. After using the time-critical adaptive visualization approach, the frame rate is much more stable. Comparing Table 10 with Table 11, the number of high level LODs on computer 2 is greater than on computer 1. This result is because the computing power of computer2 is better than that of computer 1. Computer 2 decreases the rendering rate by increasing the number of more elaborate models, which keeps the frame rate at the specified value. Table 14 is the frame rate of the adaptive visualization approach for different tree numbers (30, 50, and 80) tested on computer 1. When there are 30 trees in view frustum, the average frame rate is approximately 15 fps. When there are 50 or 80 trees in view frustum, the average frame rates are correspondingly improved, but they cannot reach 15 fps. There are two impor- tant factors that affect the frame rate. One factor is the importance threshold, which may not permit decreasing the LOD level of the trees for the essential visual effect; the other factor is the rendering time of tree models with the least detail. The rendering time of natural scenes must be equal to or greater than the value of the tree number multiplied by the rendering time of the least detailed model. Table 15, Table 16 and Table 17 display the frame rates of adaptive visuali- zation, which is tested on computer 2, the iPhone and the iPad."
+  },
+  "p5_b8": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    772.8,
+    402.2,
+    784.7
+   ],
+   "ocr": "Table 9. Conﬁguration of iPad4."
+  },
+  "p5_b9": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    794.8,
+    726.6,
+    873.1
+   ],
+   "ocr": "Device Name Conﬁguration\nGraphic card Imagination PowerVR SGX543MP4\nMemory 1G(DDR3) 32G(ROM)\nCPU Apple A6X 1.4GHz\nOperating system iOS 6.0",
+   "table_id": "PMC4344310_table_8"
+  },
+  "p5_b10": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    881.2,
+    392.8,
+    892.5
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t009"
+  },
+  "p5_b11": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0117586 February 27, 2015 18 / 26"
+  }
+ }
+}

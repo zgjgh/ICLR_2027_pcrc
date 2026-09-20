@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_337",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.6,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Seasonal and Diel Marine Bacterial Function"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    75.5,
+    700.8,
+    653.5
+   ],
+   "ocr": "4.2435u W. In April, an initial sample was taken at 1600 h at the L4 station and, following a Lagrangian drift, a second sample was taken at 2200 h (1.5 h after darkness) at 50.253uN: 4.1875uW. In August, four samples were taken over a 24 h period, again using a Lagrangian approach. Sampling began at 1600 h on the 27th at L4, 2200 h (2 h after sunset) at 50.2545uN: 4.199uW, at 0400 h (2- hours before sunrise) on the 28th at 50.2678uN: 4.1723uW, and at 1000 h at 50.2665uN: 4.1486uW. For each sample, 20 L of seawater were collected from the surface (0–2 m) and pre-filtered through a Whatman GF/A filter (,1.6 mm poresize). The filtrate was passed through a 0.22 mm Sterivex cartridge (Millipore) for a maximum of 30 minutes (approximately 10 L per Sterivex cartridge). Sterivex cartridges were pumped dry and then immediately snap-frozen in liquid nitrogen, transferred in liquid nitrogen back to the laboratory, barcoded [32], and stored at 280uC until nucleic acid extraction. Ambient water temperature, density, salinity, chlorophyll a, total organic nitrogen and carbon, nitrate, ammonia, silicate and phosphate concentration were also determined for each sampling occasion (Table 1). Methods used for determining these variables are available on the WCO website (http://www.westernchanne lobservatory.org.uk/all_parameters.html). Nucleic Acid Extraction DNA and RNA were isolated from each sample [25,33], barcoded [32] and then stored at 280uC. DNA and mRNA- enriched cDNA were purified from the same pool using the techniques described in detail in Gilbert et al. [25]. DNA was used for metagenomic and 16S rRNA V6 amplicon pyrosequencing analysis and mRNA-enriched cDNA was used for metatranscrip- tomic pyrosequencing analysis. All DNA and cDNA were pyrosequenced using the GS-FLX Titanium platform. All data are available on the CAMERA website under ‘Western Channel Observatory Microbial Metagenomic Study (http://web.camera. calit2.net) and MG-RAST under 4443360-63; 4443365-68 and 4444077, 4445065-68, 4445070, 4445081, 4444083 (http:// metagenomics.nmpdr.org/), as well as through the INSDC short reads archive under ERP000118 (http://www.ebi.ac.uk/ena/ data/view/ERP0001180). All submissions conform to the ‘‘Min- imum information standards’’ recommended by the Genomic Standards Consortium (Table 1; [34]; http://gensc.org/gc_wiki/ index.php/MIENS)."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    381.5,
+    687.4
+   ],
+   "ocr": "categories was higher at night. While previous genomic and metagenomic research has mainly focused on the diel rhythm in photosynthetic microorganisms [e.g. 18–20], we now extend this to the whole prokaryotic community, including the non-photo- synthetic microorganisms, by comparing night- and day-time samples collected within the same 24 hr period. Specifically, we test two hypotheses about the microbial community found at L4. Firstly, that bacterial and archaeal functional potential (genetic capacity) and functional actuality (tran- scriptional response) will track diversity (based on the 16S rRNA marker) and show similar seasonal patterns. Secondly, that within short time periods, metatranscriptomes will show more differences than 16S rRNA and metagenomic profiles, reflecting the relationship between expression of particular sets of genes and environmental variation, such as on a day/night cycle. To test these hypotheses, datasets were generated from pelagic water samples taken from the L4 station during the day and night at 3 sampling time points in 2008: January, April and August, representing winter, spring and summer. Samples were collected once during day time and once during night in January and April, while in August four samples, taken at six hourly intervals, were collected over a 24-hour period. Bacterial and archaeal 16S rRNA V6 amplicon-pyrosequenced taxonomic profiling was used, to allow direct comparison of additional time points and the existing six year time series [10,14] and to determine if Archaea show a similar seasonal trend to Bacteria. Shotgun sequencing of both DNA (metagenomes) and mRNA (metatranscriptomes) was employed to compare the taxonomic diversity with the functional potential (genetic capacity) and functional actuality (expressed genetic material) of the microbial community respectively, over time. Materials and Methods Water Sampling Surface water (0–2 m) samples were collected from the L4 sampling station (50.2518u N, 4.2089u W), part of the Western Channel Observatory (WCO, http://www.westernchannelobser vatory.org.uk), on January 28th, April 22nd, August 27th and August 28th 2008. In January a sample was taken at 1500 h at the L4 station. A minimal-impact surface buoy with a drogue at 7 m depth, was deployed to track the surface water mass on a Lagrangian sampling approach. At 1900 h, approximately 2 hours after total darkness, a second sample was taken at 50.2611u N: Table 1. Environmental variables for each sampling occasion."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    716.5,
+    697.1,
+    905.8
+   ],
+   "ocr": "28/01/2008 28/01/2008 22/04/2008 22/04/2008 26/08/2008 26/08/2008 27/08/2008 27/08/2008\nTime 14:00 22:00 14:00 22:00 16:00 22:00 04:00 10:00\nTemperature (6C) 10.1 10.05 9.7 9.6 15.9 15.8 15.7 15.8\nDensity (kg m22) 1025.6 1026.3 1027.2 1027.1 1023.5 1024.3 1024.5 1024.4\nSalinity (PSU) 33.3 34.2 35.12 35 32.1 33 33.3 33.2\nChlorophyll a (mg/L) 0.81 0.85 2.20 1.32 9.24 8.17 9.80 11.91\nTotal Organic Nitrogen (mmol L21) 1.331 3.453 2.897 2.773 2.837 2.329 3.018 4.145\nTotal Organic Carbon (mmol L21) 33.185 38.168 27.247 19.413 26.761 26.482 22.015 23.671\nNO2 + NO3 (mmol L21) 10.9 10.02 4.02 3.75 0.08 0.1 0.9 0.09\nAmmonia (mmol L21) 0 0 0.54 0.25 0.06 0.1 0.14 0.05\nSRP (mmol L21) 0.53 0.52 0.4 0.32 0.03 0.06 0.08 0.1\nSilicate (mmol L21) 6.01 5.75 2.6 2.7 0.12 0.22 0.33 0.15",
+   "table_id": "PMC2993967_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    918.8,
+    225.1,
+    927.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0015545.t001"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "2 November 2010 | Volume 5 | Issue 11 | e15545"
+  }
+ }
+}

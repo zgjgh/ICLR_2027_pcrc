@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_232",
+  "page": 5,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    330.2,
+    51.8
+   ],
+   "ocr": "D’haeseleer et al. Standards in Genomic Sciences (2017) 12:67"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    632.4,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 6 of 8"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    223.0,
+    123.1
+   ],
+   "ocr": "Table 7 Metagenome properties"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    315.4
+   ],
+   "ocr": "Label CD2A CD6A MD2A MD6A\nNumber of contigs 247,547 141,229 292,231 257,101\nGBp 152,203,650 90,602,774 173,570,670 178,522,206\nNumber of features identified 354,269 206,164 399,161 389,398\nCDS 351,921 204,616 396,301 386,642\nrRNA 673 577 834 805\nothers 1675 971 2026 1951\nCDSs with COG 156,087 86,041 199,065 173,132\nCDSs with Pfam 157,748 88,969 186,210 178,182\nCDS with SEED subsystem NA NA NA NA\nAlpha diversity NA NA NA NA",
+   "table_id": "PMC5688640_table_6"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    351.6,
+    367.4,
+    639.4
+   ],
+   "ocr": "Metagenome properties Metagenomes were sequenced and assembled into 141,229 (CD6A) to 292,231 (MD2A) contigs, covering 90.6 to 173.6Mbp. GC content of the metagenomes ranged from 46% to 52%. These metagenomes include between 206,164 and 399,161 genes each. More than 99% of these are protein coding, and around 40% have some level of function annotation. Metagenome proper- ties are summarized in Table 7. Taxonomic diversity The taxonomic diversity and phylogenetic structure of the metagenomes was determined based on the best BLASTp hits of assembled protein-coding genes with 60% or more identity to protein in the listed phyla, as calculated by the Phylogenetic Distribution of Genes fea- ture in IMG/M. The phylogeny reported is the one in use in IMG/M [33], which uses the phylogeny described as part of the genomic encyclopedia of Bacteria and"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    352.5,
+    681.1,
+    927.7
+   ],
+   "ocr": "Archaea (GEBA) project [34]. Taxonomic composition is summarized in Table 8. Gene copies are estimated based on the number of genes in the assembled metagenome, multiplied by the average read depth of each gene. This provides a better estimate for the total number of reads coming from each taxon, which is proportional to the abundance of those taxa in the microbial mats. Across the assembled metagenomes, the fraction of annotated genes (not accounting for gene copies) that are un- assigned at the 60% sequence identity level ranges be- tween 64% and 67%, with 7–13% mapping to phylum Bacteroidetes, 8–13% phylum Cyanobacteria, and 9–16% phylum Proteobacteria. However the estimated gene copies show that these samples are in fact dominated by Cyanobacteria sequences (27–49% of estimated gene copies), with smaller contributions from Proteobacteria, Bacteroidetes, and a variety of other bacterial phyla, and only 34–44% unassigned. The majority of cyanobacterial sequences map to Coleofasciculus chthonoplastes (19– 39% of the total estimated gene copies) and Lyngbya sp. PCC 8106 (3.5–5.5% of estimated gene copies). Other individual bacterial species that capture a large fraction of estimated gene copies at 60% identity include Erythro- bacter sp. NAP1 (Alphaproteobacteria; up to 3.6% in MD6A), Allochromatium vinosum (Gammaproteobac- teria; up to 3.3% in CD6A), and Marivirga tractuosa (Cytophagia; up to 2% in MD6A). There are noticeable differences in taxonomic compos- ition among the four metagenomes. For example, the mo- lybdate treated samples MD2A and MD6A contain fewer sequences from phylum Cyanobacteria and more from phylum Bacteroidetes than the control samples. Some of these differences may be due to spatial heterogeneity in the mat from which the samples were collected. Functional diversity The distribution of COG functional categories is very similar between the four genomes (Table 9), with Pearson"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    680.1,
+    222.7,
+    693.1
+   ],
+   "ocr": "Table 8 Taxonomic composition"
+  },
+  "p5_b7": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    698.1,
+    367.1,
+    920.7
+   ],
+   "ocr": "Phylum CD2A CD6A MD2A MD6A\nCyanobacteria 2,886,834 1,682,393 1,341,178 1,831,579\nProteobacteria 844,689 368,701 757,946 701,003\nBacteroidetes 279,447 117,112 512,734 645,277\nChloroflexi 11,158 7671 84,811 7443\nPlanctomycetes 32,641 3990 19,619 19,417\nFirmicutes 14,252 7592 17,425 13,233\nVerrucomicrobia 10,189 3125 7299 22,666\nGemmatimonadetes 13,305 7096 4257 7385\nChlorobi 8996 5188 6181 8539\nActinobacteria 8964 3794 8707 6873\nDeinococcus-Thermus 4724 1281 6013 2722\nUnassigned 2,133,807 1,191,276 2,206,260 2,140,978",
+   "table_id": "PMC5688640_table_7"
+  }
+ }
+}

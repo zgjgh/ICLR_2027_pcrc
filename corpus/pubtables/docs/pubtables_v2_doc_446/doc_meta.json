@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_446",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4466312_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    575.2,
+    712.7,
+    804.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4466312_table_0.png",
+   "html": "<table><tr><td>Target Name</td><td># .pdb tmpls</td><td># ChBL vals</td><td># ChBL vals useda</td><td># skelsb</td><td>SD, ChBL vals used</td><td>SD, TC pred, prtcl B</td><td>SD, LOO Xval, prtcl B</td><td>s, MW MR</td><td>SD, NN pred</td><td>r2, TC pred vs NN pred</td><td>ChEMBL Tgt ID</td></tr><tr><td>bace</td><td>13</td><td>4590</td><td>4070</td><td>519</td><td>1.23</td><td>0.87</td><td>0.87</td><td>1.21</td><td>0.88</td><td>0.289</td><td>4822</td></tr><tr><td>cdk2</td><td>20</td><td>2234</td><td>545</td><td>185</td><td>1.05</td><td>0.90</td><td>0.87</td><td>1.03</td><td>0.84</td><td>0.187</td><td>301</td></tr><tr><td>chk1</td><td>43</td><td>4340</td><td>1932</td><td>452</td><td>1.30</td><td>0.97</td><td>1.01</td><td>1.20</td><td>1.02</td><td>0.224</td><td>4630</td></tr><tr><td>CA-II</td><td>65</td><td>8623</td><td>5981</td><td>127</td><td>1.12</td><td>0.83</td><td>0.83</td><td>1.05</td><td>0.84</td><td>0.129</td><td>206</td></tr><tr><td>COX2</td><td>0</td><td>8919</td><td>3744</td><td>297</td><td>1.20</td><td>0.98</td><td>0.97</td><td>1.19</td><td>1.01</td><td>0.248</td><td>230</td></tr><tr><td>CYP3A4</td><td>0</td><td>7198</td><td>3224</td><td>957</td><td>0.94</td><td>0.79</td><td>0.79</td><td>0.91</td><td>0.85</td><td>0.313</td><td>340</td></tr><tr><td>D2A</td><td>0</td><td>8860</td><td>5750</td><td>307</td><td>1.09</td><td>0.82</td><td>0.87</td><td>1.06</td><td>0.92</td><td>0.214</td><td>217</td></tr><tr><td>ER</td><td>0</td><td>3246</td><td>1869</td><td>434</td><td>1.43</td><td>0.94</td><td>0.98</td><td>1.32</td><td>0.94</td><td>0.244</td><td>4296</td></tr><tr><td>facXa</td><td>12</td><td>6273</td><td>5471</td><td>1012</td><td>1.58</td><td>1.14</td><td>1.13</td><td>1.54</td><td>1.04</td><td>0.231</td><td>244</td></tr><tr><td>GABAa</td><td>0</td><td>3449</td><td>1691</td><td>7</td><td>1.33</td><td>0.99</td><td>1.00</td><td>1.28</td><td>0.97</td><td>0.256</td><td>1907607</td></tr><tr><td>hERG</td><td>0</td><td>7690</td><td>4871</td><td>1268</td><td>0.95</td><td>0.82</td><td>0.82</td><td>0.95</td><td>0.80</td><td>0.208</td><td>240</td></tr><tr><td>ptp1b</td><td>36</td><td>4682</td><td>2709</td><td>577</td><td>0.99</td><td>0.67</td><td>0.70</td><td>0.88</td><td>0.62</td><td>0.179</td><td>335</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466312_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    641.4,
+    726.6,
+    820.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4466312_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Input Data Protocol Code*</td><td colspan=\"5\">Model Derivation Metrics</td><td rowspan=\"2\">SE of Model Predictions</td></tr><tr><td>q2</td><td>SDEP</td><td># cp</td><td>r2</td><td>s</td></tr><tr><td>A</td><td>0.493</td><td>0.87</td><td>12</td><td>0.738</td><td>0.63</td><td>0.88</td></tr><tr><td>B</td><td>0.522</td><td>0.98</td><td>9</td><td>0.780</td><td>0.66</td><td>0.87</td></tr><tr><td>BallTrng</td><td>0.603</td><td>0.78</td><td>17</td><td>0.747</td><td>0.62</td><td>NA</td></tr><tr><td>BhalfTrng</td><td>0.358</td><td>0.99</td><td>7</td><td>0.720</td><td>0.65</td><td>0.75</td></tr><tr><td>C</td><td>0.511</td><td>0.86</td><td>12</td><td>0.744</td><td>0.62</td><td>0.88</td></tr><tr><td>D</td><td>0.245</td><td>1.07</td><td>4</td><td>0.426</td><td>0.93</td><td>1.26</td></tr><tr><td>E</td><td>0.232</td><td>1.08</td><td>4</td><td>0.469</td><td>0.90</td><td>1.15</td></tr><tr><td>F</td><td>0.764</td><td>0.93</td><td>12</td><td>0.880</td><td>0.66</td><td>0.87</td></tr><tr><td>G</td><td>0.248</td><td>1.08</td><td>4</td><td>0.428</td><td>0.93</td><td>1.13</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466312_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    779.4,
+    726.6,
+    889.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4466312_table_2.png",
+   "html": "<table><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td></td></tr><tr><td>Average of q2</td><td>0.346</td><td>0.392</td><td>0.408</td><td>0.360</td><td>0.190</td><td>0.406</td><td>0.098</td><td></td></tr><tr><td>Standard dev of q2</td><td>0.207</td><td>0.102</td><td>0.104</td><td>0.130</td><td>0.098</td><td>0.108</td><td>0.087</td><td></td></tr><tr><td>Protocol Comparison</td><td>A-B</td><td>A-F</td><td>B-C</td><td>B-D</td><td>B-E</td><td>B-F</td><td>D-E</td><td>E-G</td></tr><tr><td>Average q2 Difference</td><td>0.001</td><td>-0.025</td><td>-0.017</td><td>0.031</td><td>0.201</td><td>-0.014</td><td>0.164</td><td>0.094</td></tr><tr><td>Standard dev of q2 diffs</td><td>0.037</td><td>0.042</td><td>0.036</td><td>0.090</td><td>0.062</td><td>0.034</td><td>0.089</td><td>0.068</td></tr><tr><td>Z.test of q2 difference</td><td>0.478</td><td>0.926</td><td>0.947</td><td>0.113</td><td>0.000</td><td>0.924</td><td>0.000</td><td>0.000</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466312_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    391.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4466312_table_3.png",
+   "html": "<table><tr><td rowspan=\"3\">Target</td><td rowspan=\"3\">ChBL &gt;3.5 &lt;4.5</td><td colspan=\"4\">Template CoMFA (TC)</td><td colspan=\"4\">NN, Tanimoto Fgpt</td><td colspan=\"2\">Diff, TRUE Pred, (TC&#8212;NN)</td></tr><tr><td colspan=\"2\">Inactive</td><td colspan=\"2\">Active</td><td colspan=\"2\">Inactive</td><td colspan=\"2\">Active</td><td rowspan=\"2\">F Neg</td><td rowspan=\"2\">F Pos</td></tr><tr><td>n</td><td>TRUE</td><td>n</td><td>TRUE</td><td>n</td><td>TRUE</td><td>n</td><td>TRUE</td></tr><tr><td>bace</td><td>10</td><td>1923</td><td>0.982</td><td>144</td><td>0.951</td><td>1992</td><td>0.997</td><td>201</td><td>0.950</td><td>-0.015</td><td>0.001</td></tr><tr><td>cdk2</td><td>8</td><td>1900</td><td>0.973</td><td>101</td><td>0.861</td><td>1983</td><td>0.991</td><td>199</td><td>0.839</td><td>-0.018</td><td>0.022</td></tr><tr><td>chk1</td><td>9</td><td>1845</td><td>0.965</td><td>131</td><td>0.763</td><td>1993</td><td>0.988</td><td>196</td><td>0.842</td><td>-0.023</td><td>-0.078</td></tr><tr><td>CAII</td><td>6</td><td>1825</td><td>0.965</td><td>104</td><td>0.702</td><td>1973</td><td>0.990</td><td>219</td><td>0.781</td><td>-0.025</td><td>-0.079</td></tr><tr><td>COX2</td><td>9</td><td>1920</td><td>0.969</td><td>109</td><td>0.862</td><td>1988</td><td>0.991</td><td>200</td><td>0.850</td><td>-0.022</td><td>0.012</td></tr><tr><td>cyp3A4</td><td>5</td><td>2041</td><td>0.954</td><td>35</td><td>0.971</td><td>2000</td><td>0.976</td><td>177</td><td>0.729</td><td>-0.022</td><td>0.243</td></tr><tr><td>D2A</td><td>7</td><td>1861</td><td>0.960</td><td>105</td><td>0.771</td><td>1977</td><td>0.984</td><td>223</td><td>0.744</td><td>-0.025</td><td>0.027</td></tr><tr><td>ER</td><td>12</td><td>1880</td><td>0.969</td><td>102</td><td>0.873</td><td>1990</td><td>0.993</td><td>204</td><td>0.775</td><td>-0.025</td><td>0.098</td></tr><tr><td>facXa</td><td>12</td><td>1838</td><td>0.978</td><td>143</td><td>0.769</td><td>1993</td><td>0.988</td><td>196</td><td>0.842</td><td>-0.011</td><td>-0.073</td></tr><tr><td>GABAa</td><td>11</td><td>1700</td><td>0.971</td><td>165</td><td>0.606</td><td>1988</td><td>0.992</td><td>209</td><td>0.880</td><td>-0.021</td><td>-0.274</td></tr><tr><td>hERG</td><td>7</td><td>2028</td><td>0.949</td><td>34</td><td>0.912</td><td>2026</td><td>0.971</td><td>166</td><td>0.777</td><td>-0.022</td><td>0.135</td></tr><tr><td>ptp1b</td><td>10</td><td>2030</td><td>0.962</td><td>60</td><td>0.967</td><td>1989</td><td>0.990</td><td>174</td><td>0.839</td><td>-0.029</td><td>0.128</td></tr><tr><td>Average</td><td></td><td>1899</td><td>0.966</td><td>103</td><td>0.834</td><td>1991</td><td>0.988</td><td>197</td><td>0.821</td><td>-0.021</td><td>0.013</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466312_table_4",
+   "page_num": 5,
+   "bbox": [
+    252.3,
+    130.2,
+    726.7,
+    405.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4466312_table_4.png",
+   "html": "<table><tr><td rowspan=\"3\">Target</td><td colspan=\"2\">OR'd hit increase</td><td colspan=\"6\">AND'd Correct Prediction Increase</td></tr><tr><td rowspan=\"2\">n+</td><td rowspan=\"2\">n&gt;%</td><td colspan=\"2\">Inactive</td><td colspan=\"2\">Active</td><td colspan=\"2\">TC&amp;NN&#8212;NN</td></tr><tr><td>n</td><td>TRUE</td><td>n</td><td>TRUE</td><td>F Neg</td><td>F Pos</td></tr><tr><td>bace</td><td>3</td><td>30</td><td>1877</td><td>0.998</td><td>134</td><td>1.000</td><td>0.000</td><td>0.050</td></tr><tr><td>cdk2</td><td>4</td><td>13</td><td>1824</td><td>0.995</td><td>85</td><td>0.929</td><td>0.004</td><td>0.090</td></tr><tr><td>chk1</td><td>9</td><td>29</td><td>1770</td><td>0.989</td><td>93</td><td>0.978</td><td>0.000</td><td>0.137</td></tr><tr><td>CAII</td><td>4</td><td>8</td><td>1732</td><td>0.992</td><td>72</td><td>0.958</td><td>0.002</td><td>0.178</td></tr><tr><td>COX2</td><td>1</td><td>3</td><td>1845</td><td>0.991</td><td>94</td><td>0.989</td><td>0.000</td><td>0.139</td></tr><tr><td>cyp3A4</td><td>3</td><td>6</td><td>1921</td><td>0.978</td><td>31</td><td>1.000</td><td>0.002</td><td>0.271</td></tr><tr><td>D2A</td><td>10</td><td>18</td><td>1759</td><td>0.990</td><td>74</td><td>0.959</td><td>0.006</td><td>0.215</td></tr><tr><td>ER</td><td>4</td><td>15</td><td>1802</td><td>0.986</td><td>84</td><td>0.988</td><td>-0.008</td><td>0.214</td></tr><tr><td>facXa</td><td>7</td><td>23</td><td>1772</td><td>0.999</td><td>104</td><td>0.990</td><td>0.010</td><td>0.149</td></tr><tr><td>GABAa</td><td>1</td><td>4</td><td>1646</td><td>0.993</td><td>103</td><td>0.951</td><td>0.000</td><td>0.071</td></tr><tr><td>hERG</td><td>24</td><td>65</td><td>1926</td><td>0.993</td><td>45</td><td>1.000</td><td>0.022</td><td>0.223</td></tr><tr><td>ptp1b</td><td>6</td><td>21</td><td>1950</td><td>0.997</td><td>72</td><td>0.986</td><td>0.006</td><td>0.147</td></tr><tr><td>Average</td><td>6</td><td>20</td><td>1819</td><td>0.992</td><td>83</td><td>0.978</td><td>0.004</td><td>0.157</td></tr></table>"
+  }
+ ]
+}

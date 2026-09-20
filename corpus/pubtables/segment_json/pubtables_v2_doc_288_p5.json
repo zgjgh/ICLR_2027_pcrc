@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_288",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    210.9,
+    65.5
+   ],
+   "ocr": "BMC Genomics 2008, 9:102"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    49.8,
+    698.3,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/102"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    393.6,
+    131.1
+   ],
+   "ocr": "Table 5: Comparison of features associated with protein aggregation proteins. The high abundant group is defined as described in Material"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    394.3,
+    107.2,
+    679.9,
+    131.1
+   ],
+   "ocr": "between high abundant proteins and the remaining detected and Methods."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    142.1,
+    692.9,
+    232.7
+   ],
+   "ocr": "Property Low abundant proteins Mean (Median) High abundant proteins Mean (Median) P-value KS-, MW-test\nProtein length (in amino acids) 386 (327) 309 (252) 10-6, 10-7\nNumber of alternating hydrophobic-/ 11.7 (9.0) 9.5 (8.0) 0.03, 10-4\nhydrophilic stretches (> = 5aa)\npI distance from neutrality 1.52 (1.50) 1.69 (1,84) 0.003, 0.01\nHydrophobicity (Kyte-Doolite scale) -0.20 (-0.21) -0.25 (-0.24) 0.17, 0.08",
+   "table_id": "PMC2292177_table_4"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    255.5,
+    372.6,
+    922.4
+   ],
+   "ocr": "gene products are overwhelmingly non-essential while highly abundant gene products tend to be predominantly essential. Furthermore, abundant proteins tend to be shorter (Supplementary Figure S7 [see Additional file 1]), similar to the trends reported for highly expressed genes in yeast [48,49]. Protein abundance versus gene expression The extent to which protein abundance correlates with the level of gene expression has been the subject of intensive studies in the past, primarily based on available yeast data. Early studies made on relatively small sets of abun- dance measurements were either inconclusive [50] or reported only a weak correlation between protein and mRNA abundance due to different rates of translation and protein degradation as well as various post-translational modifications [39]. In a more recent study Beyer et al. [51] hypothesized that a stronger correlation between mRNA and protein abundance may exist within functional mod- ules such as \"Metabolism\", \"Energy\", and \"Protein synthe- sis\" and within cellular compartments. In this work we compare protein abundance with two computationally derived measures of gene expressivity. One of them, the codon adaptation index (CAI) as origi- nally defined by [52] and refined by [53], has been shown to correlate both with mRNA expression levels and pro- tein abundance in yeast [54]. The second expression measure is that of Karlin and co-workers [40] and is based on assessing codon usage difference between all genes and a subset of genes known to be highly expressed. Both CAI and the Karlin measure show a significant correlation with the emPAI values (Figures 7 and 8), although in the latter case the variance in the high abundance range was rather high. Furthermore, the abundance variance within operons is smaller than the variance of all proteins in more than 90% of all known operons (Figure 9). Thus a large majority of proteins within the same operon display similar abun- dance values. This result is in accordance with what would be expected, since mRNA expression in prokaryotes mainly depends on the rate of transcriptional initiation. Assuming similar mRNA levels of genes within operons and comparable translation rates protein concentration"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    255.5,
+    698.3,
+    447.6
+   ],
+   "ocr": "mainly depends on the half-live of the proteins. The fact that in 9% of the operons the abundance variation is higher than expected shows the existence of additional mechanisms which control the level of protein expres- sion. Conclusion In this study we have developed a scheme to maximize the coverage of a proteomic study of the 'shotgun approach' in a reasonable timeframe and number of experimental steps. A combination of both protein and peptide separa- tion methods before application to LC-MS/MS has proven to be the most efficient method to obtain a large and"
+  },
+  "p5_b7": {
+   "type": "title",
+   "bbox": [
+    423.3,
+    480.6,
+    433.5,
+    496.7
+   ],
+   "ocr": "106 1e+06"
+  },
+  "p5_b8": {
+   "type": "title",
+   "bbox": [
+    414.4,
+    530.0,
+    433.5,
+    596.0
+   ],
+   "ocr": "105 1e+05 cell per 104 1e+04"
+  },
+  "p5_b9": {
+   "type": "title",
+   "bbox": [
+    414.4,
+    588.0,
+    420.2,
+    607.3
+   ],
+   "ocr": "number"
+  },
+  "p5_b10": {
+   "type": "title",
+   "bbox": [
+    414.4,
+    604.1,
+    433.5,
+    645.4
+   ],
+   "ocr": "n Copy 103 1e+03"
+  },
+  "p5_b11": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    678.6,
+    693.3,
+    841.4
+   ],
+   "ocr": "102 1e+02 0.2 0.3 0.4 0.5 0.6 0.7 0.8 Codon Adaptation Index Figure Abundance 7 versus codon adaptation index (CAI) Abundance versus codon adaptation index (CAI). Each point on the plot corresponds to a protein character- ized by two values: abundance and CAI. The Spearman rank correlation coefficient rs between log-copy number and CAI"
+  },
+  "p5_b12": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    838.5,
+    692.5,
+    907.1
+   ],
+   "ocr": "is 0.5 and the Pearson correlation coefficient is 0.57 indicat- ing a good non-random (p-values both < 10-16) correlation with some variance. The dotted line is a linear regression between log(copy number) and CAI, the solid line a loess local fitting curve."
+  },
+  "p5_b13": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 11 of 17 (page number not for citation purposes)"
+  }
+ }
+}

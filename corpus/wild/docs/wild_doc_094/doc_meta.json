@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_094",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_103569_t0",
+   "page_num": 1,
+   "bbox": [
+    9.0,
+    73.0,
+    334.0,
+    727.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_103569_t0.png",
+   "html": "<table><tr><td>TelehealthMetrics</td><td>UtilizationRate(%)</td><td>Revenue(CAD)</td><td colspan=\"2\">PatientVisits</td><td>AverageRevenueperVisit</td><td colspan=\"4\">CostMetrics</td><td>TotalCosts(CAD)</td><td>ProfitMargin(%)</td></tr><tr><td>Q12023</td><td>70.5</td><td>2.5M</td><td>75</td><td colspan=\"2\">1.5M</td><td>150</td><td>Q22023</td><td>72.3</td><td colspan=\"3\">OperatingExpenses(CAD)</td><td>Q32023</td><td>73.8</td><td>78</td></tr><tr><td>Q42023</td><td>75.0</td><td>2.7M</td><td>80</td><td>1.6M</td><td>160</td><td>RevenueGrowth(%)</td><td>15.2</td><td>NetIncome(CAD)</td><td>500K</td><td>Year-to-Date</td><td>290K</td><td>RevenueperPatient</td><td>$125</td><td>TotalVisits</td></tr><tr><td>80.2</td><td>3.0M</td><td>85</td><td>1.8M</td><td>170</td><td>Q12023</td><td>15.5</td><td>600K</td><td>2.0M</td><td>140</td><td>Q22023</td><td>16.0</td><td>650K</td><td>2.2M</td><td>150</td></tr><tr><td>Q32023</td><td>16.8</td><td>700K</td><td>2.5M</td><td>155</td><td>Q42023</td><td>17.1</td><td>750K</td><td>2.8M</td><td>160</td><td>Year-to-Date</td><td>65.5</td><td>3.0M</td><td>80</td><td>1.5M</td></tr><tr><td>TotalCosts(CAD)</td><td>1.1M</td><td>Q12023</td><td>1.3M</td><td>Q22023</td><td>1.4M</td><td>Q32023</td><td>1.6M</td><td>Q42023</td><td>1.7M</td><td>Year-to-Date</td><td>5.1M</td><td>NetIncome(CAD)</td><td>500K</td><td>Q12023</td></tr><tr><td>600K</td><td>Q22023</td><td>700K</td><td>Q32023</td><td>800K</td><td>Q42023</td><td>900K</td><td>Year-to-Date</td><td>2.6M</td><td>ProfitMargin(%)</td><td>45</td><td>Q12023</td><td>46</td><td>Q22023</td><td>47</td></tr><tr><td>Q32023</td><td>48</td><td>Q42023</td><td>49</td><td>Year-to-Date</td><td>46.3</td><td>UtilizationRate(%)</td><td>Q12023</td><td>67.5</td><td>Q22023</td><td>69.0</td><td>Q32023</td><td>71.0</td><td>Q42023</td><td>74.0</td></tr><tr><td>Year-to-Date</td><td>70.3</td><td>AverageRevenueperVisit</td><td>Q12023</td><td>$120</td><td>Q22023</td><td>$125</td><td>Q32023</td><td>$130</td><td>Q42023</td><td>$135</td><td>Year-to-Date</td><td>$125</td><td>OperatingExpenses(CAD)</td><td>1.0M</td></tr><tr><td>Q12023</td><td>1.2M</td><td>Q22023</td><td>1.3M</td><td>Q32023</td><td>1.5M</td><td>Q42023</td><td>1.6M</td><td>Year-to-Date</td><td>5.6M</td><td>ProfitBeforeTax(CAD)</td><td>500K</td><td>Q12023</td><td>600K</td><td>Q22023</td></tr><tr><td>700K</td><td>Q32023</td><td>800K</td><td>Q42023</td><td>900K</td><td>Year-to-Date</td><td>2.6M</td><td>AverageCostperVisit</td><td>Q12023</td><td>$75</td><td>Q22023</td><td>$80</td><td>Q32023</td><td>$85</td><td>Q42023</td></tr><tr><td>$90</td><td>Year-to-Date</td><td>$82.5</td><td>PatientSatisfactionRate(%)</td><td>Q12023</td><td>88</td><td>Q22023</td><td>89</td><td>Q32023</td><td>90</td><td>Q42023</td><td>91</td><td>Year-to-Date</td><td>89.5</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_103793_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    237.0,
+    580.0,
+    559.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_103793_t0.png",
+   "html": "<table><tr><td>Category</td><td>Amount(CAD)</td></tr><tr><td>DomesticRoaming</td><td>$20M</td></tr><tr><td>InternationalRoaming</td><td colspan=\"2\">$15M</td></tr><tr><td>TotalRevenue</td><td colspan=\"2\">$35M</td><td colspan=\"3\">RevenueGrowth</td></tr><tr><td>Q32023</td><td>Q32022</td><td>GrowthRate</td><td>DomesticRoaming</td><td>$18M</td><td>11.1%</td></tr><tr><td>InternationalRoaming</td><td>$12M</td><td>25.0%</td><td>TotalRevenue</td><td>$30M</td><td>16.7%</td></tr><tr><td>MarketShare</td><td>Domestic</td><td>35%</td><td>International</td><td>25%</td><td>Competitors</td></tr><tr><td>Verizon</td><td>$40M</td><td>AT&amp;T</td><td>$30M</td><td>T-Mobile</td><td>$25M</td></tr><tr><td>RoamingTrends</td><td>IncreaseinTravel</td><td>Post-COVIDRecovery</td><td>UserGrowth</td><td>5%</td><td>AverageRevenue</td></tr><tr><td>PerUser</td><td>$5</td><td>ChurnRate</td><td>1.5%</td><td>ARPU</td><td>$50</td></tr><tr><td>FutureProjections</td><td>NextQuarter</td><td>$38M</td><td>NextYear</td><td>$160M</td><td>MarketExpansion</td></tr><tr><td>NewPartnerships</td><td>IncreasedNetworks</td><td>5GRoaming</td><td>LaunchPlans</td><td>2024</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_103865_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    314.0,
+    580.0,
+    567.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_103865_t0.png",
+   "html": "<table><tr><td>CropYieldTrends</td><td colspan=\"2\">ByCropType</td></tr><tr><td>CropType</td><td>Yield(tonnes/ha)</td><td>Change(%)</td></tr><tr><td>Wheat</td><td>5.2</td><td>3.5</td></tr><tr><td>Rice</td><td>6.8</td><td>2.0</td></tr><tr><td>Corn</td><td>7.5</td><td>4.5</td></tr><tr><td>Soybeans</td><td>3.9</td><td>1.2</td></tr><tr><td>Barley</td><td>4.1</td><td>2.8</td></tr><tr><td>Millets</td><td>2.5</td><td>5.0</td></tr><tr><td>Pulses</td><td>1.8</td><td>4.0</td></tr><tr><td>Sugarcane</td><td>9.0</td><td>3.9</td></tr><tr><td>TotalAverage</td><td>5.3</td><td>3.2</td></tr><tr><td>ForecastYield</td><td>ByRegion</td><td>Asia-Pacific</td></tr></table>"
+  },
+  {
+   "table_id": "img_103954_t0",
+   "page_num": 4,
+   "bbox": [
+    13.0,
+    123.0,
+    503.0,
+    695.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_103954_t0.png",
+   "html": "<table><tr><td colspan=\"4\">DefenseProcurementBudget</td><td colspan=\"2\">YearlyComparison</td><td>Currency:CHF</td></tr><tr><td>ReportingYear</td><td>UnitsSold</td><td>TotalBudget</td><td>PercentageChange</td><td>NumberofContracts</td><td>AverageContractValue</td><td>ContractorCount</td></tr><tr><td>2020</td><td>500</td><td>1.2BCHF</td><td>N/A</td><td>150</td><td>8MCHF</td><td>30</td></tr><tr><td>2021</td><td>600</td><td>1.5BCHF</td><td>25%</td><td>170</td><td>8.8MCHF</td><td>35</td></tr><tr><td>2022</td><td>650</td><td>1.6BCHF</td><td>7%</td><td>180</td><td>8.9MCHF</td><td>40</td></tr><tr><td>Total</td><td>1850</td><td>4.3BCHF</td><td>N/A</td><td>500</td><td>8.7MCHF</td><td>105</td></tr><tr><td>PercentageofGDP</td><td>0.75%</td><td>0.80%</td><td>0.85%</td><td>ContractGrowthRate</td><td>20%</td><td>10%</td></tr><tr><td>8%</td><td>ContractorDiversity</td><td>5%</td><td>7%</td><td>9%</td><td>TotalEmployees</td><td>3500</td></tr><tr><td>4000</td><td>4200</td><td>TotalProjects</td><td>50</td><td>55</td><td>60</td><td>TotalExpenditure</td></tr><tr><td>1.1BCHF</td><td>1.3BCHF</td><td>1.4BCHF</td><td>AverageProjectDuration</td><td>18months</td><td>16months</td><td>15months</td></tr><tr><td>BudgetAllocation</td><td>40%</td><td>45%</td><td>50%</td><td>R&amp;DInvestment</td><td>150MCHF</td><td>160MCHF</td></tr><tr><td>170MCHF</td><td>OperationalCosts</td><td>200MCHF</td><td>220MCHF</td><td>230MCHF</td><td>TrainingExpenses</td><td>50MCHF</td></tr><tr><td>55MCHF</td><td>60MCHF</td><td>MaintenanceCosts</td><td>100MCHF</td><td>110MCHF</td><td>120MCHF</td><td>LogisticsExpenses</td></tr><tr><td>80MCHF</td><td>85MCHF</td><td>90MCHF</td><td>TotalRevenue</td><td>1.2BCHF</td><td>1.4BCHF</td><td>1.5BCHF</td></tr><tr><td>ContractType</td><td>FixedPrice</td><td>CostPlus</td><td>TimeandMaterials</td><td>TotalContractors</td><td>300</td><td>320</td></tr><tr><td>340</td><td>ContractorRetentionRate</td><td>85%</td><td>87%</td><td>90%</td><td>ComplianceRate</td><td>95%</td></tr><tr><td>96%</td><td>97%</td><td>TotalAudits</td><td>10</td><td>12</td><td>15</td><td>AuditFindings</td></tr><tr><td>5</td><td>4</td><td>3</td><td>RiskAssessment</td><td>Low</td><td>Medium</td><td>Medium</td></tr><tr><td>FutureProjections</td><td>1.8BCHF</td><td>2.0BCHF</td><td>2.2BCHF</td><td>SustainabilityInitiatives</td><td>10%</td><td>12%</td></tr><tr><td>15%</td><td>InternationalCollaborations</td><td>20</td><td>22</td><td>25</td><td>TotalSavings</td><td>100MCHF</td></tr></table>"
+  },
+  {
+   "table_id": "img_104236_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    357.0,
+    580.0,
+    600.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_104236_t0.png",
+   "html": "<table><tr><td>Category</td><td>Cost(€M)</td></tr><tr><td>ComplianceType</td><td>YoYChange(%)</td></tr><tr><td>MarketShare(%)</td><td>TotalCosts(€M)</td></tr><tr><td>RegulatoryCosts</td><td colspan=\"2\">Legal&amp;Compliance</td></tr><tr><td>PersonnelCosts(€M)</td><td>20.3</td><td>15%</td></tr><tr><td>StaffTraining(€M)</td><td>5.0</td><td>10%</td></tr><tr><td>AuditFees(€M)</td><td>8.5</td><td>5%</td></tr><tr><td>LicensingFees(€M)</td><td>12.0</td><td>8%</td></tr><tr><td>OperationalCosts(€M)</td><td>3.5</td><td>7%</td></tr><tr><td>TechnologyCompliance(€M)</td><td>7.8</td><td>12%</td></tr><tr><td>TotalCompliance(€M)</td><td>57.1</td><td>9%</td></tr><tr><td>MarketOverview</td><td>TotalRevenue(€M)</td><td>500</td></tr></table>"
+  },
+  {
+   "table_id": "img_104373_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    317.0,
+    580.0,
+    570.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_104373_t0.png",
+   "html": "<table><tr><td colspan=\"2\">OpenSourceMetrics</td><td>Q12024Overview</td></tr><tr><td>TotalContributions</td><td>GrowthRate(%)</td><td>ActiveProjects(%)</td></tr><tr><td>12000</td><td>15.5</td><td>78</td></tr><tr><td>ContributorsCount</td><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>5000</td><td>20</td><td>35</td></tr><tr><td>NewRepositories</td><td>Change(%)</td><td>ForksCount</td></tr><tr><td>150</td><td>10</td><td>300</td></tr><tr><td>IssuesOpened</td><td>Change(%)</td><td>PullRequests</td></tr><tr><td>400</td><td>5</td><td>900</td></tr><tr><td>TopLanguages</td><td>ContributionRate(%)</td><td>CommunityGrowth</td></tr><tr><td>JavaScript</td><td>45</td><td>15</td></tr><tr><td>Python</td><td>30</td><td>5</td></tr></table>"
+  },
+  {
+   "table_id": "img_104404_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    524.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_104404_t0.png",
+   "html": "<table><tr><td>Year</td><td>YieldRatio</td></tr><tr><td colspan=\"2\">2020Data</td><td colspan=\"2\">2021Data</td></tr><tr><td>Q1Yield</td><td>Q2Yield</td><td>Q3Yield</td><td>Q4Yield</td></tr><tr><td>2020</td><td>85.5%</td><td>88.0%</td><td>87.2%</td></tr><tr><td>2021</td><td>90.1%</td><td>91.5%</td><td>89.8%</td></tr><tr><td>2022</td><td>92.0%</td><td>93.5%</td><td>91.7%</td></tr><tr><td>AverageYield</td><td>88.5%</td><td>90.3%</td><td>91.5%</td></tr><tr><td>ProductionCost</td><td>₹1500</td><td>₹1400</td><td>₹1350</td></tr><tr><td>TotalOutput</td><td>2000L</td><td>2200L</td><td>2500L</td></tr><tr><td>MarketShare</td><td>15.0%</td><td>16.5%</td><td>17.0%</td></tr><tr><td>CustomerSatisfaction</td><td>85%</td><td>87%</td><td>90%</td></tr><tr><td>NetProfit</td><td>₹300M</td><td>₹320M</td><td>₹350M</td></tr></table>"
+  },
+  {
+   "table_id": "img_104558_t0",
+   "page_num": 8,
+   "bbox": [
+    14.0,
+    171.0,
+    529.0,
+    715.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_104558_t0.png",
+   "html": "<table><tr><td>Year</td><td>LendingOriginations</td><td>DefaultRate</td><td colspan=\"2\">LoanAmount</td><td>ApprovalRate</td><td colspan=\"2\">RepaymentRate</td><td>Status</td></tr><tr><td colspan=\"2\">2019</td><td>$150M</td><td>2.5%</td><td colspan=\"2\">$10,000</td><td>80%</td><td colspan=\"2\">95%</td><td>Active</td></tr><tr><td colspan=\"2\">2020</td><td>$200M</td><td>3.0%</td><td>$12,000</td><td colspan=\"2\">85%</td><td>90%</td><td colspan=\"2\">Active</td><td>2021</td></tr><tr><td>$250M</td><td>3.5%</td><td>$11,500</td><td>82%</td><td>92%</td><td>Active</td><td>2022</td><td>$300M</td><td>2.8%</td><td>$13,000</td><td>87%</td></tr><tr><td>94%</td><td>Active</td><td>2023</td><td>$350M</td><td>3.1%</td><td>$14,000</td><td>88%</td><td>91%</td><td>Active</td><td>2024</td><td>$400M</td></tr><tr><td>2.9%</td><td>$15,000</td><td>90%</td><td>93%</td><td>Active</td><td>GrowthRate</td><td>NetRevenue</td><td>MarketShare</td><td>EmployeeCount</td><td>CustomerSatisfaction</td><td>Investment</td></tr><tr><td>2019</td><td>20%</td><td>$30M</td><td>5%</td><td>150</td><td>85%</td><td>$50M</td><td>2020</td><td>25%</td><td>$40M</td><td>6%</td></tr><tr><td>160</td><td>87%</td><td>$60M</td><td>2021</td><td>30%</td><td>$50M</td><td>7%</td><td>170</td><td>88%</td><td>$70M</td><td>2022</td></tr><tr><td>35%</td><td>$60M</td><td>6.5%</td><td>180</td><td>90%</td><td>$80M</td><td>2023</td><td>40%</td><td>$70M</td><td>7%</td><td>190</td></tr><tr><td>92%</td><td>$90M</td><td>2024</td><td>45%</td><td>$80M</td><td>5.5%</td><td>200</td><td>93%</td><td>$100M</td><td>LoanTypes</td><td>InterestRate</td></tr><tr><td>AverageTerm</td><td>RiskLevel</td><td>TotalLoans</td><td>BusinessLoans</td><td>2019</td><td>Fixed</td><td>5.0%</td><td>36months</td><td>Low</td><td>500</td><td>150</td></tr><tr><td>2020</td><td>Fixed</td><td>5.5%</td><td>36months</td><td>Low</td><td>600</td><td>200</td><td>2021</td><td>Fixed</td><td>6.0%</td><td>36months</td></tr><tr><td>Medium</td><td>700</td><td>250</td><td>2022</td><td>Variable</td><td>5.8%</td><td>24months</td><td>Medium</td><td>800</td><td>300</td><td>2023</td></tr><tr><td>Variable</td><td>6.2%</td><td>24months</td><td>High</td><td>900</td><td>350</td><td>2024</td><td>Variable</td><td>5.6%</td><td>24months</td><td>High</td></tr><tr><td>1000</td><td>400</td><td>CustomerSegments</td><td>SegmentSize</td><td>ApprovalRate</td><td>RepaymentRate</td><td>2023</td><td>SmallBusiness</td><td>20,000</td><td>85%</td><td>90%</td></tr><tr><td>2023</td><td>Individuals</td><td>50,000</td><td>85%</td><td>90%</td><td>2023</td><td>Startups</td><td>10,000</td><td>80%</td><td>85%</td><td>2023</td></tr><tr><td>Freelancers</td><td>15,000</td><td>90%</td><td>95%</td><td>2023</td><td>Corporates</td><td>5,000</td><td>95%</td><td>92%</td><td>FundingSources</td><td>SourceType</td></tr><tr><td>Amount</td><td>Percentage</td><td>Equity</td><td>$200M</td><td>50%</td><td>Debt</td><td>$150M</td><td>37.5%</td><td>Grants</td><td>$50M</td><td>12.5%</td></tr><tr><td>Partnerships</td><td>$100M</td><td>25%</td><td>Investments</td><td>$300M</td><td>Total</td><td>$400M</td><td>2024</td><td>Equity</td><td>$250M</td><td>62.5%</td></tr><tr><td>Debt</td><td>$150M</td><td>37.5%</td><td>Grants</td><td>$0M</td><td>0%</td><td>Partnerships</td><td>$100M</td><td>25%</td><td>Investments</td><td>$500M</td></tr></table>"
+  },
+  {
+   "table_id": "img_104596_t0",
+   "page_num": 9,
+   "bbox": [
+    13.0,
+    109.0,
+    501.0,
+    669.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_104596_t0.png",
+   "html": "<table><tr><td colspan=\"2\">LeaseExpirySchedule</td><td colspan=\"2\">LeaseMetrics</td><td colspan=\"2\">FinancialRatios</td><td>2022Trends</td></tr><tr><td colspan=\"2\">TotalLeases</td><td>AvgLeaseTerm</td><td colspan=\"2\">ExpiringLeases</td><td>RenewalRate</td><td colspan=\"2\">LeaseYield</td><td>P/ERatio</td><td colspan=\"3\">LiquidityRatios</td></tr><tr><td>Year</td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>TotalArea(sqft)</td><td>RentalIncome($M)</td><td>Debt/Equity</td><td>CurrentRatio</td><td>NetIncome($M)</td></tr><tr><td>2024</td><td>150</td><td>5.0years</td><td>40</td><td>85%</td><td>6.7%</td><td>18.5</td><td>2.0</td><td>10.5</td><td>1000</td><td>200</td><td>3.5</td></tr><tr><td>2023</td><td>160</td><td>4.8years</td><td>35</td><td>87%</td><td>6.5%</td><td>19.0</td><td>1.9</td><td>10.2</td><td>950</td><td>180</td><td>3.6</td></tr><tr><td>2022</td><td>170</td><td>5.2years</td><td>30</td><td>88%</td><td>6.3%</td><td>20.0</td><td>1.8</td><td>10.0</td><td>900</td><td>150</td><td>3.7</td></tr><tr><td>2021</td><td>180</td><td>5.1years</td><td>25</td><td>89%</td><td>6.1%</td><td>21.0</td><td>1.7</td><td>9.8</td><td>850</td><td>140</td><td>3.8</td></tr><tr><td>2020</td><td>190</td><td>5.3years</td><td>28</td><td>90%</td><td>5.9%</td><td>22.0</td><td>1.6</td><td>9.5</td><td>800</td><td>130</td><td>3.9</td></tr><tr><td>2019</td><td>200</td><td>5.4years</td><td>32</td><td>91%</td><td>5.7%</td><td>23.0</td><td>1.5</td><td>9.2</td><td>750</td><td>120</td><td>4.0</td></tr><tr><td>TotalLeases</td><td>850</td><td>4.5years</td><td>20</td><td>92%</td><td>5.5%</td><td>24.0</td><td>1.4</td><td>8.9</td><td>700</td><td>110</td><td>4.1</td></tr><tr><td>TotalArea(sqft)</td><td>700000</td><td>500</td><td>4.3years</td><td>15</td><td>93%</td><td>5.3%</td><td>25.0</td><td>1.3</td><td>8.6</td><td>650</td><td>100</td></tr><tr><td>TotalRevenue($M)</td><td>900</td><td>TotalExpenses($M)</td><td>400</td><td>NetOperatingIncome($M)</td><td>500</td><td>CashFlow($M)</td><td>450</td><td>OccupancyRate(%)</td><td>95%</td><td>AvgRentpersqft</td><td>$25</td></tr></table>"
+  },
+  {
+   "table_id": "img_104757_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    299.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_104757_t0.png",
+   "html": "<table><tr><td>TelehealthRevenue</td><td>HKD150M</td><td>ConsultationFees</td><td>HKD80M</td><td colspan=\"2\">UtilizationMetrics</td><td>PatientVisits</td></tr><tr><td>TotalPatients</td><td>50,000</td><td>RepeatPatients</td><td>30,000</td><td>NewPatients</td><td colspan=\"2\">20,000</td><td>UtilizationRate</td></tr><tr><td>40%</td><td>TelehealthServices</td><td>VideoConsults</td><td>HKD60M</td><td>PhoneConsults</td><td>HKD20M</td><td>ChatConsults</td><td>HKD10M</td></tr><tr><td>OperationalCosts</td><td>HKD90M</td><td>StaffSalaries</td><td>HKD50M</td><td>TechInfrastructure</td><td>HKD30M</td><td>MarketingExpenses</td><td>HKD10M</td></tr><tr><td>NetIncome</td><td>HKD60M</td><td>GrossMargin</td><td>40%</td><td>OperatingMargin</td><td>30%</td><td>EBITDA</td><td>HKD70M</td></tr><tr><td>CustomerSatisfaction</td><td>85%</td><td>ServiceAvailability</td><td>24/7</td><td>ResponseTime</td><td>5minutes</td><td>MarketShare</td><td>15%</td></tr><tr><td>FutureProjections</td><td>RevenueGrowth</td><td>20%</td><td>PatientGrowth</td><td>25%</td><td>NewServices</td><td>2</td><td>CAPEX</td></tr><tr><td>HKD30M</td><td>R&amp;DInvestment</td><td>HKD15M</td><td>ExpansionCosts</td><td>HKD10M</td><td>TechnologyUpgrades</td><td>HKD5M</td><td>ComplianceCosts</td></tr><tr><td>HKD5M</td><td>MarketAnalysis</td><td>CompetitorInsights</td><td>Top5Players</td><td>TelehealthCo.</td><td>25%</td><td>HealthTechLtd.</td><td>20%</td></tr><tr><td>MedTechInc.</td><td>15%</td><td>WellnessCorp.</td><td>10%</td><td>CareConnect</td><td>5%</td><td>RegulatoryLandscape</td><td>Evolving</td></tr><tr><td>FutureTrends</td><td>IncreasedDemand</td><td>Yes</td><td>TelehealthAdoption</td><td>Accelerating</td><td>PartnershipOpportunities</td><td>Expanding</td><td>InnovativeSolutions</td></tr><tr><td>InDevelopment</td><td>PatientEngagement</td><td>Improving</td><td>DigitalIntegration</td><td>KeyFocus</td><td>TelehealthEducation</td><td>Ongoing</td><td>Total</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_413",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    478.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Abnormality Assessment for Individual mTBI Patient"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    303.9,
+    92.8
+   ],
+   "ocr": "Table 5. Assessment of discriminatory ability."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    680.6,
+    399.5
+   ],
+   "ocr": "Mean and SD of the numbers of abnormal voxels across\nNumber of abnormal\nsubjects Significance of group difference (p-value)\nwhite matter voxels\nNormal Subjects (n = 21) mTBI Patients (n = 34) 2-group T W-M\nAll Abnormal Voxels\nEZ-MAP 6211 (6282) 14000(11108) 0.003 0.000\n‘‘1 vs. many’’ T test 3147 (4356) 8759 (8206) 0.003 0.000\nZ-score 11783(9393) 21603(14459) 0.004 0.002\nFWER-control 1136 (625) 1459 (1092) 0.112 0.164\nAbnormally Low Voxels\nEZ-MAP 2285(3189) 6489(7800) 0.012 0.077\n‘‘1 vs. many’’ T test 1058(2255) 4134(6559) 0.022 0.063\nZ-score 4315(4977) 9998(10661) 0.013 0.042\nFWER-control 756 (494) 941(753) 0.161 0.253\nAbnormally High Voxels\nEZ-MAP 3925(4463) 7512(6850) 0.019 0.007\n‘‘1 vs. many’’ T test 2089(2796) 4625(4763) 0.016 0.017\nZ-score 7468(6845) 11605(9232) 0.041 0.046\nFWER-control 380 (539) 518 (770) 0.478 0.184",
+   "table_id": "PMC3608654_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    412.7,
+    700.7,
+    569.8
+   ],
+   "ocr": "Note- Mean number of abnormal voxels and SD (in parentheses) detected by each analysis method from each group for each global metric (1) ‘‘All’’ - all abnormal white matter voxels across the whole brain, (2) ‘‘Low’’ - all white matter voxels where FA was significantly higher than normal and (3) ‘‘High’’ - all white matter voxels. Two- group t-test and Wilcox-Mann-Whitney test was conducted for each global metric to compare the numbers of abnormal voxels between normal subjects and mTBI patients. doi:10.1371/journal.pone.0059382.t005 Results these results are summarized in Table 3. All three methods showed maximal AUC scores at a1 = 0.05 (2-tails); a2 = 0.05 (corrected for Characteristics of the patient and control samples (Table 2) multiple comparisons). This pattern is opposite to that for FWER show that the range of age, gender, and years of education of control, where thresholds less strict for a1 but fairly strict for a2 controls fully encompasses those of patients. Furthermore, no yield optimal discrimination power. Table 4 shows the sensitivity significant difference in age (t-test; p = 0.289, 0.324) or gender and specificity achieved when applying optimized thresholds (a1 distribution (Chi-squared test; p = 0.864, 0.511) was found"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    398.4,
+    563.2,
+    515.8,
+    575.9
+   ],
+   "ocr": "and a2) for each method."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    571.6,
+    700.8,
+    656.0
+   ],
+   "ocr": "between each control group and the patient group. However, a Diagnostic utility of the different analysis methods were significant difference in years of education (t-test; p = 0.005, 0.004) compared for each of the three global metrics derived at the was found. 27,290 white matter voxels (4.5% of total white matter optimized thresholds [(a1 = 0.05 (2-tails); a2 = 0.05 (corrected for volume) met significance criteria for the effects of demographic multiple comparisons) for EZ-MAP, standard Z-score and one vs. covariates, dominated by the effect of education. Four axial slices many t-test, while FWER-control was tested at 5% for each tail with significant effects of demographic covariates on FA are shown area]. Overall, all of the three global metrics attained significant"
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    651.0,
+    127.7,
+    662.4
+   ],
+   "ocr": "in Figure 4."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    658.1,
+    700.8,
+    844.7
+   ],
+   "ocr": "power to discriminate mTBI patients from controls using EZ- Figure 5 shows example maps of abnormal FA from three MAP, standard Z-score or ‘‘one vs. many’’ t-test. However, the different mTBI patients, demonstrating multiple areas of abnor- discrimination power of the FWER control approach was not mally high and low FA with significant variation in the size and significant as shown in Table 5 and Figure 6. The first global spatial distribution of FA abnormalities across patients. The metric (all abnormal FA voxels) was somewhat more significantly determination of abnormality at this stage was defined using different between groups than the other two metrics (all thresholds (a1 = 0.05 (2-tails); a2 = 0.05 (corrected for multiple abnormally low FA voxels or all abnormally high FA voxels). comparisons)) determined from the ROC analysis (below). Two example axial slices from two different patients are presented In assessing diagnostic utility in individual patients, we initially in Figure 7. As shown in Table 5 and Figure 7, the standard Z- investigated three global metrics: (1) all abnormal white matter score approach identifies the largest number of voxels, while EZ- voxels across the whole brain, (2) all white matter voxels where FA MAP identifies fewer and the ‘‘one vs. many’’ T-test still fewer was significantly lower than normal and (3) all white matter voxels abnormalities. The FWER-control identified the fewest voxels as where FA was significantly higher than normal. Table 3 shows abnormal. Interestingly, the number of abnormal voxels from AUC and p-values (Wilcox-Mann-Whitney test, 1-tailed) calculat- standard Z-score was about 1.5 times greater than the number"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    836.4,
+    375.7,
+    849.1
+   ],
+   "ocr": "ed at various levels of the two thresholds, a1 and a2, for the first"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    846.9,
+    700.8,
+    858.2
+   ],
+   "ocr": "from EZMAP, and again the number from EZ-MAP was about"
+  },
+  "p4_b10": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    850.0,
+    700.8,
+    963.6
+   ],
+   "ocr": "global metric (all abnormal white matter voxels across the whole brain). Greatest efficacy in making the discrimination between 1.5 times greater than the number from ‘‘one vs. many’’ t-test. patients and controls, based on maximizing AUC, was found at Abnormal regions detected by the standard Z-score should contain lower thresholds for a1 and higher thresholds for a2. more false positives due to underestimation of variance in Similarly, ROC studies were conducted for the ‘‘one vs. many’’ comparison to EZ-MAP. Since 60% of voxels showed under- t-test and the standard Z-approach to find optimal thresholds; dispersion when compared to the expected theoretical variance of PLOS ONE | www.plosone.org 9 March 2013 | Volume 8 | Issue 3 | e59382"
+  }
+ }
+}

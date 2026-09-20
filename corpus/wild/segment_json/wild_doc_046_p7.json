@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_046",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    79,
+    580,
+    153
+   ],
+   "ocr": "The data presented in Table 1 provides a comprehensive overview of the behavioral responses observed in the MN group (n=24) following exposure to the trigger factor, a chaperone involved in protein export. The study specifically evaluates the effects of various methods—including the Livak method, ΔCT Method, and Pfaffi Method—on key behavioral metrics such as \"Withdrawal sign,\" \"Wet-dog shaking,\" and \"Stretching.\" These metrics are critical for assessing the physiological and psychological impact of the trigger factor on the subjects."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    141,
+    580,
+    230
+   ],
+   "ocr": "Notably, the mean response for the \"Withdrawal sign\" was recorded at 1.67 ± 1.23*, indicating a significant behavioral alteration in response to the trigger. In contrast, the \"Wet-dog shaking\" metric showed a mean of 1.22 ± 0.67*, suggesting a less pronounced effect. The variations in these behaviors underscore the importance of methodological approaches in understanding the underlying mechanisms of chaperone activity and its subsequent influence on animal welfare. The findings contribute to a broader understanding of the relationship between chaperone- mediated protein export and behavioral outcomes in experimental models."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    265.0,
+    580.0,
+    475.0
+   ],
+   "ocr": "Gene Identity Relative quantification against Unit mass Relative quantification normalized to a reference gene\nControl Healthy Livak method ΔCT Method Pfaffi Method\nSA1 Trigger factor (chaperone in protein export) 2.88 17.75 1.443C/7.727H 1.08C/1.74H 1.443C/7.727H\nSA2 A. thaliana calmodulin-binding receptor-like kinase 3.759 3.759 8.564 - 8.564\nSA3 Polyribonucleotide nucleotidyltransferase 1.32 1.70 0.664C/0.742H 0.790C/.837H 0.664C/0.742H\nSA4 Chromosomal replication initiator protein DnaA 0.659 0.882 0.329C/0.253H 0.674C/0.706H 0.329C/0.253H",
+   "table_id": "img_051722_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    501.0,
+    580.0,
+    624.0
+   ],
+   "ocr": "Withdrawal sign Wet-dog shaking Stretching Rearing Jumping Diarrhea\nMN group(n=24) 1.67±1.23* 1.22±0.67* 3.89±4.10 1.56±1.33* 22/24*\nMS group(n=24) 0.67±0.71 0.00±0.00 1.89±1.83 0.00±0.00 0/24\nSN group(n=24) 0.56±0.53 0.00±0.00 4.44±3.78 1.00±0.87 0/24\nF 4.764 30.250 1.414 6.637\nP 0.017 0.000 0.263 0.005",
+   "table_id": "img_051722_t1"
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    650.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "No. of trichome branches\n5 4 3 2\nMutant 1.4 a 89.3 a 8.7 b 0.7 a\nC3 0 b 3.4 b 94.9 a 1.7 a\nC7 0 b 4.0 b 94.4 a 1.7 a\nC10 0 b 6.4 b 93.0 a 0.9 a",
+   "table_id": "img_051722_t2"
+  }
+ }
+}

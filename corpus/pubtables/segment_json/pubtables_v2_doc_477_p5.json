@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_477",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    251.8,
+    53.4
+   ],
+   "ocr": "Tormey et al. BMC Genomics (2015) 16:754"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 10 of 14"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.2,
+    819.6
+   ],
+   "ocr": "Relative rate = (Average branch length for W. smithii across all taxa for an individual gene) ÷ (average branch length for all seven taxa across all genes). For a given protein, when this ratio is greater than 1.0, it indicates that the protein is evolving faster in W. smithii relative to other organisms; when this ratio less than 1.0, it indi- cates that the protein is evolving more slowly in W. smithii relative to other organisms. Relative divergence of W. smithii TTFL genes did not dif- fer from 1.0 but divergence of PTM genes was significantly less than 1.0 (Table 6). However, relative divergence of TTFL and PTM genes did not differ significantly from each other (Fig. 5a). There was a marginally non-significant negative correlation between relative rate of combined gene divergence and number of nucleotides in their respective contigs or singletons (Fig. 5b). To account for the possibility of Type II error, ANCOVA of core vs. PTM genes with number of nucleotides as the covariate revealed no signifi- cant treatment effect (t = 0.621, P = 0.545) and ANOVA of the residuals from regression of divergence on number of nucleotides also revealed no significant difference between core and PTM genes (Fig. 5c). Discussion Using the “black sheep” counting technique of universal, single copy genes to determine the completeness of the Wyeomyia smithii transcriptome, we estimated that the W. smithii transcriptome encompasses >94 % of its tran- scribed genome. This result is not surprising since we used as the basis for the transcriptome both developing and diapausing larvae, pupae, and adults sampled at dif- ferent times of the day and night and under long and short days (Table 1). In fact, the W. smithii transcriptome includes all of the 17 circadian clock genes we sought to identify (Fig. 1); its contigs and singletons translate into peptides of sufficient length to estimate comparative rates of evolution of both TTFL and PTM genes between the W. smithii and the six comparison taxa. Even if historical directional selection on the circadian clock has occurred among populations dispersing along a latitudinal gradient, stabilizing selection at any locality along that gradient is still important in maintaining daily time-keeping in concert with a 24-h world. Concordance between the circadian clock and the external 24-h world Table 6 Relative divergence of W. smithii TTFL and PTM clock genes from other insects"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.7,
+    926.1
+   ],
+   "ocr": "is an important component of fitness in organisms from prokaryotes to mammals [6, 7, 10], including W. smithii [101]. The motivation for our study was to compare the relative rates of evolutionary divergence of TTFL and PTM genes between a northern population of W. smithii that has experienced a continual northward dispersal into temperate regions of progressively longer summer day lengths, with both closely related mosquitoes and more distantly related insects, including Drosophila mel- anogaster, Danaus plexippus, and Nasonia vitripennis (Fig. 6). Overall, we found that W. smithii clock genes are not evolving faster than expected from other insects (Table 6) and the rate of evolution of TTFL genes does not differ from PTM genes (Fig. 5). The best models for amino acid substitution do not differ between TTFL and PTM genes, although six dif- ferent models provided the best fit within TTFL genes and five different models within PTM genes, (Table 4). Clearly, neither the TTFL nor the PTM proteins represent a uniform group in terms of their evolution. Conse- quently, no single substitution model would be appropri- ate for phylogenetic inference of circadian clock genes within either functional group or within the two groups combined. There is, however, greater retention of PTM than TTFL genes among the six insect taxa we considered. cry2 is dispensable in Drosophila (although present in lower Diptera) and tim and cry1 are dispensable in Hy- menoptera [17, 25, 27, 98, 99]. By contrast, all eight of the PTM genes are conserved in all six taxa. This obser- vation indicates that natural selection within and be- tween orders of insects has acted to conserve PTM genes more than TTFL genes. What importance then are the TTFL genes? To be a functional time-keeper of overt circadian expression, the circadian clockworks cannot work in isolation but must communicate circadian time to downstream clock-controlled genes. “Much is known about how in- formation is relayed to the Drosophila [melanogaster] clock and how the central clock itself functions, but less is understood about how information from the clock is relayed to the rest of the organism” ([102], p. 352) [103, 104]. Since all of the TTFL genes are transcription fac- tors or transcription regulators of gene expression, it is not surprising that the TTFL genes likely provide this communication to clock-controlled behavioral and physiological processes [37, 104–114]. The TTFL genes provide a cyclical expression of genes and a pleiotropic, time-specific signal to the rest of the organism; the PTMs maintain this cycle with a period of about 24 h. It is the genetic co-adaptation, i.e., the co-evolution within and between these functional groups that enables different organisms to maintain biochemical, physiological, and behavioral activities in concert with the external daily environment."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    823.1,
+    366.1,
+    887.7
+   ],
+   "ocr": "Categorya Mean StErr t df P = 1.0b\nTTFL & PTM combined 0.8 0.13 1.55 16 0.14\nTTFL only 0.99 0.2 0.49 8 0.96\nPTM only 0.58 0.16 2.6 7 0.04",
+   "table_id": "PMC4594641_table_5"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    892.7,
+    265.7,
+    925.4
+   ],
+   "ocr": "aTTFL, transcription-translation feedback loops; PTM: post-translational modifiers bProbability Mean differs from 1.0"
+  }
+ }
+}

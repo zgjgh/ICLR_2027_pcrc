@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_452",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    261.1,
+    53.4
+   ],
+   "ocr": "Katayama et al. BMC Genomics (2015) 16:476"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 8 of 14"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.4,
+    378.7,
+    166.0
+   ],
+   "ocr": "Table 2 Ten most significant gene sets enriched in PC1 correlating significantly (FDR q-value < 1 %) enriched in PC1 correlating genes Gene sets in positively correlated genes, which were upregulated were upregulated in KCs and HaCaTs. SIZE is number of genes"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    360.2,
+    111.8,
+    659.7,
+    166.0
+   ],
+   "ocr": "genes. Tables a and b are subsets of gene sets that were by PC-GSEA (for full data, see Additional file 10: Table S7). (a) in SGs, and (b) gene sets in negatively correlated genes, which belonging the gene set. NES is normalized enrichment score"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    171.0,
+    678.6,
+    591.9
+   ],
+   "ocr": "Name SIZE NES FDR q-val\n(a)\nPEREZ_TP53_AND_TP63_TARGETS 198 2.967 0\nSMID_BREAST_CANCER_NORMAL_LIKE_UP 449 2.908 0\nBOQUEST_STEM_CELL_CULTURED_VS_FRESH_DN 31 2.774 0\nKRAS.LUNG_UP.V1_DN 128 2.774 0\nABATES_COLORECTAL_ADENOMA_DN 248 2.760 0\nWU_SILENCED_BY_METHYLATION_IN_BLADDER_CANCER 53 2.758 0\nPEREZ_TP63_TARGETS 334 2.742 0\nWINNEPENNINCKX_MELANOMA_METASTASIS_DN 46 2.735 0\nKEGG_ASTHMA 23 2.689 0\nKEGG_ALLOGRAFT_REJECTION 33 2.663 0\n(b)\nYAO_TEMPORAL_RESPONSE_TO_PROGESTERONE_CLUSTER_13 172 3.060 0\nMOOTHA_VOXPHOS 86 3.038 0\nWONG_EMBRYONIC_STEM_CELL_CORE 332 3.028 0\nREACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTH 81 3.016 0\nESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_\nBY_UNCOUPLING_PROTEINS_\nFOURNIER_ACINAR_DEVELOPMENT_LATE_2 276 3.005 0\nKEGG_OXIDATIVE_PHOSPHORYLATION 111 2.954 0\nPENG_LEUCINE_DEPRIVATION_DN 186 2.947 0\nGSE22886_UNSTIM_VS_IL15_STIM_NKCELL_DN 199 2.947 0\nWONG_MITOCHONDRIA_GENE_MODULE 216 2.943 0\nREACTOME_RESPIRATORY_ELECTRON_TRANSPORT 65 2.924 0",
+   "table_id": "PMC4480911_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    640.3,
+    366.2,
+    926.2
+   ],
+   "ocr": "Interestingly, the positive loading genes APBB1 [31], ESPL1 [32], TCF19 [33] and ZNF300 [34] were known cell cycle regulators or contributors to cell proliferation. Moreover, one of the 137 positive loading genes and seven of the 111 negative ones were known lncRNAs (Fig. 5b). UCA1 was a negatively loading lncRNA, known as essential for bladder cancer cell proliferation via CREB- dependent pathway [35]. Interestingly, Cyclin D1 expres- sion in KCs is also under the CREB-dependent pathway [36]. In conclusion, the difference of G1/S-transition be- tween HaCaTs and EKCs is a possible interpretation for PC2, and again the fluctuation of transcription factors was highly associated to sample types. PC3 shows the contrast between HaCaTs and LKCs PC3 associated mostly with the variation between HaCaTs and LKCs (Fig. 4). We could not detect positively cor- related genes (upregulated in LKC) with PC3, although these samples had equivalent polyA+ RNA contents"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    640.3,
+    678.7,
+    926.2
+   ],
+   "ocr": "(Fig. 2a). In contrast, 2,992 correlated negatively refering to upregulation in HaCaT (Additional file 9: Table S6), and five of the top 10 negatively correlated genes codes polyA+ RNA binding protein (Table 6). In PC-GSEA, only 30 gene sets correlated positively with PC3, whereas 241 correlated negatively (Additional file 10: Table S7). As the interpretation of PC3, we found that it was associated with senescense, in accordance of KC senescence that does not apply to the continuously proliferating HaCaT cells. One explaining component was the positive cor- relation (upregulation in LKCs) of potassium channel genes (Table 7a). Potassium channel activation inhibits proliferation by activating a senescence program in breast cancer [37], and the G0/G1-arrest is accompanied by this activation. Consistently, not only the genes for G0 and early G1 phases, but also the other cell cycle associated genes were downregulated in LKCs (Table 7b). Further- more, miR-192 and miR-34 target genes were upregulated in HaCaTs (negative correlation with PC3; Table 7c)."
+  }
+ }
+}

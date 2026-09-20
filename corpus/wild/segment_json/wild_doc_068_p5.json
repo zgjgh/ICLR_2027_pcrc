@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_068",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    156.0,
+    580.0,
+    319.0
+   ],
+   "ocr": "Prescribing indicators (World Health Organization, 1993) All Hospital Health centre/clinic\nAverage number of medicines prescribed per encounter (SD) 4.01 (1.406) 3.27 (1.140) 4.25 (1.400)\n% of prescriptions with antibiotics 59.9 48.2 63.7\n% of medicines prescribed by generic name 79.2 61.4 83.7\n% of encounters with an injection prescribed 22.9 19.8 24.0\n% of medicines prescribed from EML 88.1 78.3 90.6\n% of prescriptions with drug combinations known to interact 4.9 2.5 5.7\nAverage number of diagnosis per clinical encounter (SD) 1.69 (0.739) 1.44 (0.600) 1.78 (0.765)",
+   "table_id": "img_075588_t0"
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    372.0,
+    580.0,
+    520.0
+   ],
+   "ocr": "Cause Smoothing Age selection regression Age selection regression RR < 1 → RR = 1 RR < 1 → RR = 1\nMen Women Men Women\nAll causes Age + age squared 35+ 40+; RR40–44 = 1 35–39\nCancers Age + age squared 35+; RR35–39 = 1 40+; RR40–44 = 1 35–39 35–39, 40–44\nVascular Age + age squared 35+ 40+ 80+\nRespiratory Age + age squared 40+ 40+ 35–39, 40–44 35–39\nExternal Age + age squared 35+ 40+",
+   "table_id": "img_075588_t1"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    566,
+    580,
+    686
+   ],
+   "ocr": "The first table presents prescribing indicators from the World Health Organization (1993), showing that the average number of medicines prescribed per encounter is 4.01 (1.406) overall, 3.27 (1.140) in hospitals, and 4.25 (1.400) in health centres/clinics, with 59.9% of prescriptions containing antibiotics, 48.2% in hospitals, and 63.7% in health centres/clinics. Furthermore, 79.2% of medicines are prescribed by generic name, with 61.4% in hospitals and 83.7% in health centres/clinics. The percentage of encounters with an injection prescribed is 22.9% overall, 19.8% in hospitals, and 24.0% in health centres/clinics, while 88.1% of medicines prescribed are from the Essential Medicines List (EML), comprising 78.3% in hospitals and 90.6% in health centres/clinics. Additionally, 4.9% of prescriptions include drug combinations known to interact, with 2.5% in hospitals and 5.7% in health centres/clinics."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    763
+   ],
+   "ocr": "The average number of diagnoses per clinical encounter is 1.69 (0.739) overall, 1.44 (0.600) in hospitals, and 1.78 (0.765) in health centres/clinics. The second table outlines causes of mortality with age selection regression, indicating that for all causes, the smoothing method is applied with age + age squared for men and women aged 35+; for cancers, the same method applies with RR35–39 = 1 for men aged 35+ and RR40–44 = 1 for women aged 40+. The vascular category uses age + age squared for men aged 35+ and women aged 40+. Respiratory causes apply age + age squared for both men and women aged 40+, while external causes use age + age squared with age selections of 35+ for men and 40+ for women."
+  }
+ }
+}

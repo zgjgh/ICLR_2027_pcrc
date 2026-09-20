@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_042",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "The data presented in the table offers a comprehensive overview of genetic variants associated with longevity and disease susceptibility, specifically focusing on the cohort of individuals under study. Notably, the Disease ID column allows for the identification of specific genetic conditions linked to the observed variants, while the Individuals with variants column highlights the prevalence of these genetic markers among the population. The analysis reveals that out of a total of 216 individuals, a significant 72.2% (156 individuals) carry variants classified as ONDRISeq variants, underscoring the genetic diversity within this cohort."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    217
+   ],
+   "ocr": "Furthermore, the metrics concerning Variants in disease gene as diagnosed and Variants in other ONDRISeq disease genes provide insight into potential correlations between these genetic factors and various health outcomes. For instance, the gene APOE, specifically the ε4* variant, is noted for its association with reduced longevity, reinforcing the need for further investigation into its role in age-related diseases. Overall, this table not only elucidates the genetic landscape of the studied population but also emphasizes the intricate relationship between genetic variants and their implications for health and longevity."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    489.0
+   ],
+   "ocr": "Disease ID Individuals with variants ONDRISeq variants Variants in disease gene as diagnosed Variants in other ONDRISeq disease genes Variants in disease databases Variants not found in disease databases\nTotal (n=216) 156 (72.2%) 266 107 (40.2%) 159 (59.8%) 62 (23.3%) 204 (76.7%)\nAD/MCI (n=40) 33 (82.5%) 55 19 (34.5%) 36 (65.5%) 12 (21.8%) 43 (78.2%)\nALS (n=22) 16 (72.7%) 28 17 (60.7%) 11 (39.2%) 10 (35.7%) 18 (64.3%)\nFTD (n=21) 17 (81.0%) 27 12 (44.4%) 15 (55.6%) 3 (11.1%) 24 (88.9%)\nPD (n=56) 40 (71.4%) 63 31 (49.2%) 32 (50.8%) 11 (17.5%) 52 (82.6%)\nVCI (n=77) 50 (64.9%) 93 28 (30.1%) 65 (69.9%) 26 (28.0%) 67 (72.0%)",
+   "table_id": "img_047721_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    504.0,
+    580.0,
+    715.0
+   ],
+   "ocr": "Gene Variant Occurrence in centenarians Previous disease correlations Potential role in longevity Ref.\nAPOE ε4* reduced Alzheimer’s and cardiovascular diseases Maintenance of vascular integrity [7]\nFOXO3A rs2802292* more present none Control of cell homeostasis [20]\nCAMK4 rs10491334† more present hypertension Modulation of CREB, SIRT and FOXO3A [21]\nATXN1 rs697739 more present amyotrophic lateral sclerosis (age of onset) Modulation of CREB [21]\nDCAMKL1 rs9315385 more present heart rate variability Modulation of CREB [21]",
+   "table_id": "img_047721_t1"
+  }
+ }
+}

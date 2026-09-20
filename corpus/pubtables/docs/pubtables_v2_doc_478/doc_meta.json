@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_478",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4595315_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    782.4,
+    678.6,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4595315_table_0.png",
+   "html": "<table><tr><td>Restriction enzyme</td><td>Plant materials</td><td>Total reads (M)</td><td>Total bases (Gb)</td><td>GC (%)</td><td>Q20 (%)</td><td>Coverage (&#215;)</td></tr><tr><td rowspan=\"3\">EcoRI</td><td>Jonathan</td><td>17.12</td><td>1.58</td><td>37.33</td><td>97.04</td><td>~2.13</td></tr><tr><td>Golden Delicious</td><td>19.04</td><td>1.80</td><td>37.15</td><td>96.95</td><td>~2.43</td></tr><tr><td>Progeny</td><td>3972.27</td><td>371.66</td><td>39.70</td><td>96.16</td><td>~1.57</td></tr><tr><td rowspan=\"3\">HindIII</td><td>Jonathan</td><td>22.33</td><td>2.10</td><td>39.32</td><td>96.78</td><td>~2.83</td></tr><tr><td>Golden Delicious</td><td>18.77</td><td>1.76</td><td>39.26</td><td>96.79</td><td>~2.38</td></tr><tr><td>Progeny</td><td>3164.47</td><td>296.27</td><td>39.37</td><td>96.86</td><td>~1.26</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4595315_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.6,
+    143.3,
+    363.4,
+    281.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4595315_table_1.png",
+   "html": "<table><tr><td>Restriction enzyme</td><td>Plant materials</td><td>No. of detected SNPs</td><td>No. of Homo loci /Homo rate (%)</td><td>No. of Hete loci /Hete rate (%)</td></tr><tr><td rowspan=\"3\">EcoRI</td><td>Jonathan</td><td>15,166</td><td>9917/65.39</td><td>5249/34.61</td></tr><tr><td>Golden Delicious</td><td>15,255</td><td>9899/64.89</td><td>5356/35.11</td></tr><tr><td>Progeny</td><td>14,094</td><td>8151/57.83</td><td>5943/42.17</td></tr><tr><td rowspan=\"3\">HindIII</td><td>Jonathan</td><td>37,861</td><td>28,531/75.36</td><td>9330/24.64</td></tr><tr><td>Golden Delicious</td><td>37,742</td><td>28,780/76.25</td><td>8962/23.75</td></tr><tr><td>Progeny</td><td>33,766</td><td>25,434/75.32</td><td>8332/24.68</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4595315_table_2",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    536.6,
+    678.6,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4595315_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Chromosome /linkage group</td><td colspan=\"2\">Jonathan</td><td colspan=\"2\">Golden Delicious</td><td colspan=\"2\">Consensus</td></tr><tr><td>No. of makers</td><td>Length(cM)</td><td>No. of makers</td><td>Length(cM)</td><td>No. of makers</td><td>Length(cM)</td></tr><tr><td>1</td><td>70</td><td>82.0</td><td>97</td><td>75.4</td><td>159</td><td>86.5</td></tr><tr><td>2</td><td>156</td><td>48.9</td><td>96</td><td>41.5</td><td>189</td><td>88.1</td></tr><tr><td>3</td><td>129</td><td>74.0</td><td>177</td><td>99.2</td><td>242</td><td>103.8</td></tr><tr><td>4</td><td>145</td><td>49.1</td><td>66</td><td>78.3</td><td>180</td><td>85.4</td></tr><tr><td>5</td><td>186</td><td>84.2</td><td>116</td><td>121.7</td><td>276</td><td>121.3</td></tr><tr><td>6</td><td>178</td><td>95.4</td><td>206</td><td>43.9</td><td>334</td><td>59.6</td></tr><tr><td>7</td><td>152</td><td>89.7</td><td>95</td><td>81.1</td><td>240</td><td>92.1</td></tr><tr><td>8</td><td>63</td><td>76.0</td><td>191</td><td>96.2</td><td>234</td><td>96.6</td></tr><tr><td>9</td><td>129</td><td>82.4</td><td>141</td><td>93.3</td><td>220</td><td>102.9</td></tr><tr><td>10</td><td>123</td><td>81.6</td><td>88</td><td>111.9</td><td>198</td><td>109.0</td></tr><tr><td>11</td><td>50</td><td>74.8</td><td>105</td><td>127.2</td><td>139</td><td>130.3</td></tr><tr><td>12</td><td>93</td><td>88.1</td><td>127</td><td>86.1</td><td>190</td><td>98.6</td></tr><tr><td>13</td><td>73</td><td>79.3</td><td>121</td><td>98.0</td><td>174</td><td>98.2</td></tr><tr><td>14</td><td>66</td><td>69.0</td><td>86</td><td>100.5</td><td>145</td><td>97.8</td></tr><tr><td>15</td><td>123</td><td>93.7</td><td>72</td><td>116.0</td><td>166</td><td>129.3</td></tr><tr><td>16</td><td>219</td><td>101.5</td><td>77</td><td>48.4</td><td>234</td><td>52.4</td></tr><tr><td>17</td><td>62</td><td>73.8</td><td>71</td><td>97.2</td><td>121</td><td>98.2</td></tr><tr><td>Total</td><td>2017</td><td>1343.4</td><td>1932</td><td>1516.0</td><td>3441</td><td>1650.2</td></tr><tr><td>Density (cM / maker)</td><td></td><td>0.67</td><td></td><td>0.78</td><td></td><td>0.48</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4595315_table_3",
+   "page_num": 3,
+   "bbox": [
+    383.9,
+    689.9,
+    675.3,
+    887.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4595315_table_3.png",
+   "html": "<table><tr><td>Cluster</td><td>Parent and linkage groups</td><td>Location on linkage maps (cM)</td><td>Number of makers</td><td>Anchored chromosome</td></tr><tr><td>1</td><td>J-LG01</td><td>19.16 ~ 19.40</td><td>5</td><td>Chr11</td></tr><tr><td>2</td><td>J-LG05</td><td>48.72 ~ 50.13</td><td>4</td><td>Chr10</td></tr><tr><td>3</td><td>J-LG06</td><td>27.54 ~ 27.66</td><td>3</td><td>Chr10</td></tr><tr><td>4</td><td>J-LG06</td><td>36.28 ~ 36.39</td><td>7</td><td>Chr14</td></tr><tr><td>5</td><td>J-LG09</td><td>47.41 ~ 53.92</td><td>20</td><td>Chr13</td></tr><tr><td>6</td><td>J-LG16</td><td>52.34 ~ 55.37</td><td>6</td><td>Chr04</td></tr><tr><td>7</td><td>G-LG01</td><td>15.53 ~ 15.63</td><td>5</td><td>Chr11</td></tr><tr><td>8</td><td>G-LG04</td><td>32.20 ~ 32.51</td><td>4</td><td>Chr06</td></tr><tr><td>9</td><td>G-LG05</td><td>88.51 ~ 90.74</td><td>6</td><td>Chr17</td></tr><tr><td>10</td><td>G-LG06</td><td>20.08 ~ 20.42</td><td>3</td><td>Chr10</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4595315_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    439.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4595315_table_4.png",
+   "html": "<table><tr><td colspan=\"2\">Trait</td><td>Year</td><td>Maximum</td><td>Minimum</td><td>Mean(&#177;SD)</td><td>Distribution</td></tr><tr><td colspan=\"2\" rowspan=\"4\">Fruit weight (g)</td><td>2008</td><td>253.80</td><td>56.80</td><td>128.77 (&#177;30.33)</td><td>non normal</td></tr><tr><td>2009</td><td>205.60</td><td>50.00</td><td>104.55 (&#177;23.67)</td><td>non normal</td></tr><tr><td>2010</td><td>193.60</td><td>52.00</td><td>110.94 (&#177;26.64)</td><td>non normal</td></tr><tr><td>2011</td><td>170.00</td><td>33.00</td><td>81.30 (&#177;30.36)</td><td>non normal</td></tr><tr><td colspan=\"2\" rowspan=\"2\">Firmness (kg cm&#8722;2)</td><td>2010</td><td>15.67</td><td>3.84</td><td>8.78 (&#177;1.81)</td><td>non normal</td></tr><tr><td>2011</td><td>12.16</td><td>5.49</td><td>8.71 (&#177;1.39)</td><td>normal</td></tr><tr><td>acidity</td><td>total acid</td><td>2011</td><td>11.547</td><td>2.118</td><td>6.887 (&#177;2.285)</td><td>normal</td></tr><tr><td rowspan=\"6\">(mg g&#8722;1)</td><td>malic acid</td><td>2011</td><td>11.211</td><td>1.653</td><td>6.452 (&#177;2.322)</td><td>normal</td></tr><tr><td>citric acid</td><td>2011</td><td>0.200</td><td>0.016</td><td>0.081 (&#177;0.039)</td><td>normal</td></tr><tr><td>tartaric acid</td><td>2011</td><td>0.310</td><td>0.010</td><td>0.109 (&#177;0.056)</td><td>non normal</td></tr><tr><td>oxalic acid</td><td>2011</td><td>0.099</td><td>0.048</td><td>0.070 (&#177;0.011)</td><td>normal</td></tr><tr><td>acetic acid</td><td>2011</td><td>1.021</td><td>0.000</td><td>0.169 (&#177;0.214)</td><td>non normal</td></tr><tr><td>succinic acid</td><td>2011</td><td>0.027</td><td>0.000</td><td>0.006 (&#177;0.004)</td><td>non normal</td></tr><tr><td>sugar content</td><td>total sugar</td><td>2011</td><td>127.175</td><td>79.564</td><td>104.737 (&#177;10.811)</td><td>normal</td></tr><tr><td rowspan=\"3\">(mg g&#8722;1)</td><td>fructose</td><td>2011</td><td>68.477</td><td>33.302</td><td>51.014 (&#177;6.854)</td><td>normal</td></tr><tr><td>glucose</td><td>2011</td><td>35.065</td><td>9.239</td><td>19.690 (&#177;6.176)</td><td>non normal</td></tr><tr><td>sucrose</td><td>2011</td><td>61.584</td><td>11.059</td><td>34.033 (&#177;9.765)</td><td>normal</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4595315_table_5",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    450.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4595315_table_5.png",
+   "html": "<table><tr><td>Trait</td><td>Year</td><td>QTL</td><td>Map/Linkage group</td><td>LOD</td><td>Exp (%)</td><td>Peak location (cM)</td><td>Intervals on maps (cM)</td><td>QTL-associated markers</td></tr><tr><td rowspan=\"2\">Malic acid</td><td>2011</td><td>qtlma.j8</td><td>J8</td><td>7.7</td><td>39.1</td><td>57.27</td><td>55.27 ~ 59.15</td><td>emC08.14121899</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>emC08.13666872</td></tr><tr><td rowspan=\"3\">Citric acid</td><td>2011</td><td>qtlc.g8</td><td>G8</td><td>3.7</td><td>19.4</td><td>46.58</td><td>46.13 ~ 47.98</td><td>huM001766.113.1072</td></tr><tr><td>2011</td><td>qtlc.j8</td><td>J8</td><td>5.5</td><td>27.2</td><td>59.15</td><td>55.27 ~ 62.15</td><td>emC08.14121899</td></tr><tr><td>2011</td><td>qtlc.j15</td><td>J15</td><td>3.6</td><td>20.2</td><td>64.01</td><td>63.42 ~ 64.97</td><td>huC15.29186826</td></tr><tr><td>Acetic acid</td><td>2011</td><td>qtla.j7</td><td>J7</td><td>3.7</td><td>20.1</td><td>59.83</td><td>59.13 ~ 60.83</td><td>euLG07_014</td></tr><tr><td rowspan=\"2\">Total acid</td><td>2011</td><td>qtlta.j8</td><td>J8</td><td>7.7</td><td>39.2</td><td>57.27</td><td>55.27 ~ 59.15</td><td>emC08.14121899</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>emC08.13666872</td></tr><tr><td rowspan=\"2\">Fructose</td><td>2011</td><td>qtlf.j1</td><td>J1</td><td>4.3</td><td>28.5</td><td>37.82</td><td>32.81 ~ 42.74</td><td>huC01.18233570</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>emC01.11115376</td></tr><tr><td>Sucrose</td><td>2011</td><td>qtls.g1</td><td>G1</td><td>3.5</td><td>17.5</td><td>49.57</td><td>48.60 ~ 50.57</td><td>huC01.18378291</td></tr><tr><td rowspan=\"2\">Fruit weight</td><td>2008</td><td>qtlfw.j3</td><td>J3</td><td>3.7</td><td>11.2</td><td>24.65</td><td>24.28 ~ 25.39</td><td>hmC03.5431144</td></tr><tr><td>2008</td><td>qtlfw.j5</td><td>J5</td><td>3.8</td><td>11</td><td>53.86</td><td>52.86 ~ 54.86</td><td>euC05.25996313</td></tr><tr><td rowspan=\"4\">Fruit firmness</td><td>2010</td><td>qtlff.j11a</td><td>J11</td><td>4.4</td><td>27.5</td><td>24.60</td><td>22.21 ~ 26.43</td><td>euC11.7408490</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>huC11.10309880</td></tr><tr><td>2010</td><td>qtlff.j11b</td><td>J11</td><td>3.9</td><td>21.6</td><td>11.48</td><td>10.48 ~ 13.30</td><td>euC11.5719084</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>hmC11.4173064</td></tr></table>"
+  }
+ ]
+}

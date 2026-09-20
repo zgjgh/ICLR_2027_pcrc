@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_280",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2007, 8:119"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/8/119"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    376.9,
+    118.9
+   ],
+   "ocr": "Table 6: THEMATICS predicted binding clusters for apo and holo"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    379.7,
+    107.2,
+    430.7,
+    118.9
+   ],
+   "ocr": "structures."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    693.0,
+    399.2
+   ],
+   "ocr": "Protein Ligand Apo Holo THEMATICS Result\nPDB ID\nATP:corrinoid ATP 1G5R K41 D127 E128 Y131 R161\nadenosyltransferase\n1G5T K41 D127 E128 Y131\nIntestinal Fatty Acid MYR 1IFB Y14 D34 Y70 R106 Y117 R126\nBinding Protein\n1ICM Y14 D34 R56 Y70 R106 Y117\nHPV11 regulatory protein ALQ, 434 1R6K H29 H32\n1R6N H29 H32\nProline 3-hydroxylase FE (II), sulfate 1E5R R97 H107 H135 H158 R168 H238 Y239 H244\n1E5S R97 H107 H135 H158 H238 Y239 H244\nGlyoxalase 1 Ni(II) 1FA8 H5 E56 Y72 H74 D115 D117 E122\n1F9Z H5 E56 Y72 H74 D115 Y119 E122\nβ-Amylase maltose 1B90 Y14 Y44 D49 H89 Y164 E172 R174 Y310 E367\n1B9Z Y14 Y44 D49 H89 Y164 E172 R174 Y178 K287 Y310 E367\nGlcAT-P UDP, Mn(II) 1V82 E101 R104 D195 D196 D197 Y200 D254\n1V83 E101 R104 D195 D196 D197 Y200 D254\nRetinol-binding protein II retinal 1OPA Y19 Y60 C95 C121\n1OPB Y19 C95 R104 C121",
+   "table_id": "PMC1877815_table_5"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    415.5,
+    377.4,
+    536.6
+   ],
+   "ocr": "For each protein, the predicted binding cluster for the apo form is given obtained using a Z score cut-off of 1.0. Residues that make contact with prediction, obtained using the preferred Z score cut-off value of 0.99, is a five-member positive cluster consisting of H19, D71, D91, H98, and D101. The Catalytic Site Atlas [60] lists H19, G66, D71, D91, H98, and D101 as the important residues. H19, D71, and H98 are the known catalytic residues, while D91 and D101 are"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    380.0,
+    415.5,
+    698.3,
+    907.5
+   ],
+   "ocr": "in the top row and for the holo form in the second row. Predictions the ligand are shown in bold. involved in substrate recognition [62-65]. The backbone amide group of G66 is also involved in substrate binding and is the only listed active residue that THEMATICS does not predict. The largest pocket for this structure, as com- puted by Computed Atlas of Surface Topography of Pro- teins (CASTp) [66,67], consists of a total of 20 residues and includes two of the six annotated residues, H19 and D91. The correctly predicted catalytic site overlaps with one corner of this largest pocket. Figure 4 shows three predictions for Adenylsuccinate syn- thase (E.C. 6.3.4.4; PDB: 1GIM) from E. coli obtained from Q-SiteFinder [57], THEMATICS, and SARIG [52]. The atoms of the predicted residues are shown as colored balls on the ribbon diagrams. Predicted residues listed in CatRes as catalytic residues, D13, H41, and Q224, are shown in red; other predicted residues are shown in green. The prediction shown for Q-SiteFinder consists of the top three sites. The THEMATICS predictions were obtained using the preferred Z score cut-off of 0.99 and a 9 Å dis- tance cutoff. The THEMATICS predicted cluster consists of a total of ten residues: [D13, K16, H41, H53, E82, E221, K267, Y269, R305, K331] and includes D13 and H41, two of the three CatRes-listed catalytic residues. Q-SiteFinder and SARIG both predict all three listed catalytic residues, but Q-SiteFinder predicts a total of 38 residues and SARIG predicts a total of 32 residues; these predictions extend over a larger region than the THEMATICS prediction, as is apparent in Figure 4. For this particular example, there are five common residues predicted by the three methods: D13, K16, H41, R305, and K331. All five of these residues"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    797.6,
+    369.7,
+    906.8
+   ],
+   "ocr": "Figure THEMATICS 3 predictions for Methylglyoxal synthase THEMATICS predictions for Methylglyoxal synthase. Ribbon diagram of one of the subunits of Methylglyoxal syn- thase (PDB: 1B93) with the side chains of the THEMATICS predicted catalytic residues H19, D71, D91, H98, and D101 shown explicitly in red; all of these are correctly predicted. Prediction was made using a Z score cut-off value of 0.99 and a 9 Å distance cutoff."
+  },
+  "p5_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 9 of 15 (page number not for citation purposes)"
+  }
+ }
+}

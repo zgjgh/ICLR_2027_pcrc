@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_124",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Mei et al. BMC Genetics 2010, 11:100 http://www.biomedcentral.com/1471-2156/11/100"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 2 of 12"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    922.4
+   ],
+   "ocr": "The resolution of QTL linkage mapping is generally low (typically ≥ 10 cM) [9]. Thus, a QTL linked to multiple traits may be a single QTL with pleiotropy or different QTLs within the mapping region that affect different traits. Association studies, in contrast, have much higher resolution, and are more feasible for iden- tifying gene pleiotropy. Lange [10] proposed a family- based association method that constructs an overall phenotype by finding a linear combination of traits to maximize heritability. Klei [11] extended this method to population samples. Both methods use principal components, reducing multiple phenotypes to only a single trait, which can cause loss of power. In addition, maximization of heritability and association testing in the same samples may inflate type I error. To address this issue, Klei [11] proposed to split the sample into training and testing data and apply cross-validation to control error inflation, but this further increases computational complexity. In contrast to reduction of phenotypes, direct multivariate regression examines pleiotropy by simultaneous analysis of multiple pheno- types [12]. In this study, we propose to integrate two common methods that test for association by analyzing multiple traits simultaneously: principal components and multi- variate regression. However, there are no comprehen- sive evaluations of this principal-component-based multivariate regression (PCBMR). In our study, we comprehensively evaluated the power and type I error of PCBMR using simulations that varied pleiotropic effects, linkage disequilibrium (LD), proportion of con- tributed correlation, and number of traits. We also used PCBMR to examine the pleiotropic effects of mul- tiple traits on human abdominal obesity-metabolic syndrome. Human abdominal obesity-metabolic syndrome [13], a cluster of syndrome phenotypes, increases the risk of developing both diabetes mellitus [14] and cardio- vascular disease [15,16]. The prevalence of metabolic syndrome varies with age and sex [17]. Kissebah [18] performed a genome-wide linkage scan with a marker density of 10 cM in 2,209 individuals from 507 Cauca- sian families. They found one QTL, on chromosome 3q27, that was strongly linked to six phenotypes: body mass index (BMI), waist circumference (WC), hip circumference (HC), weight, insulin, and insulin/ glucose (I/G). The results indicated possible pleiotro- pic effects. Francke replicated this result, finding the same locus on 3q27 through a genome-wide linkage scan of 99 families of northeastern Indian origin [19]. Here, we attempted to identify markers on 3q27 that are associated with the six traits above by using PCBMR to analyze data from the Bogalusa Heart Study [20]."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.7,
+    678.6,
+    471.7
+   ],
+   "ocr": "Results Simulation 1, differences in extent of QTL pleiotropic effect The correlation coefficients between traits Y1 and Y2 varied from -0.35 to 0.37, with means for traits increasing as effect b increases. PCBMR generated two canonical variables for all simulated data. Power and type I error for the PCBMR and single-trait association studies are summarized in Table 1. When b = 0, the QTL had no effect on Y1 and Y2 and the type I errors were 4.5%-5.6% for PCBMR, 4.9%-6.1% for single-trait association without Bonferroni adjustment (SATN), and 2.8%-3.0% for single-trait association with Bonfer- roni adjustment (SATB) for the different models (GEN, ADD, DOM, and REC). Power depends on the assumption of genetic model, with power in decreasing order for ADD, DOM, GEN, and REC. For each model, the following results were obtained: 1) power generally increased in PCBMR, SATN, and SATB as effect b got larger, and PCBMR generally had more power than SATB and SATN; 2) the binomial exact test showed that PCBMR was significantly more powerful than SATB for all b > 0 (results not shown), and more powerful than SATN for b > 0.2 (marked"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    514.2,
+    625.0,
+    540.9
+   ],
+   "ocr": "Table 1 Type 1 error and power of data sets of simulation 1"
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    545.8,
+    678.4,
+    841.2
+   ],
+   "ocr": "Effect (b) PCBMR Single-Trait Association\nGEN ADD DOM REC GEN ADD DOM REC\n0 5.1 4.5 5.3 5.6 5.7(2.8) 5.8(3.0) 6.1(2.9) 4.9(3.0)\n0.1 5.8 5.4 6.2 4.7 5.6(3.1) 5.8(3.3) 5.9(3.0) 5.3(2.8)\n0.2 10.8* 12 11.2 6.8 8.9(4.8) 10.9 10.9 6.4(3.4)\n(6.1) (5.7)\n0.3 14.1* 18.8* 18.3* 9.1* 12.2 14.4 14.6 7.3(4.4)\n(8.6) (9.2) (9.6)\n0.4 21.4* 26.8* 25.2* 11.3 15.9 20.5 19.9 10.4\n(10.0) (14.5) (13.1) (6.3)\n0.5 31.9* 41.9* 36.7* 15.7* 24.3 29.1 27.3 13.6\n(14.8) (20.3) (18.1) (8.7)\n0.6 45.4* 54.9* 50.1* 21.3* 31.6 39.9 36.1 17.2\n(23.2) (30.0) (26.7) (10.8)\n0.7 60.3* 71.4* 65.0* 26.5* 41.9 50.5 47.2 21.6\n(31.3) (40.1) (36.9) (14.1)\n0.8 71.9* 81.9* 77.3* 30.9* 53.3 63.6 58.2 24.2\n(43.6) (51.9) (46.9) (18.0)\n0.9 81.7* 90.8* 84.3* 41.7* 62.5 72.7 66.1 30.4\n(50.4) (62.2) (55.6) (21.5)\n1 91.4* 95.2* 92.8* 48.9* 72.8 82.0 76.7 36.7\n(62.8) (73.4) (67.3) (27.0)",
+   "table_id": "PMC2991276_table_0"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    848.3,
+    673.7,
+    922.2
+   ],
+   "ocr": "(The values outside the parentheses are the power (b > 0) or type I error (b = 0) of the single-trait association test without multiple-test adjustment (SATN) and the values inside the parentheses are the power (b > 0) or type I error (b = 0) of the single-trait association test with Bonferroni adjustment (SATB). * indicates that the power of PCBMR is significantly better than that of SATN; GEN: general model without assumption of genetic inheritance; ADD: additive effect model; DOM: dominant model and REC: recessive model)"
+  }
+ }
+}

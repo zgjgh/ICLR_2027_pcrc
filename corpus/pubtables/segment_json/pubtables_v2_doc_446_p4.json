@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_446",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    467.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Off Target Predictions from ChEMBL with Template CoMFA"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    626.3,
+    107.4
+   ],
+   "ocr": "Table 4. Comparison of Correct Prediction Rates, between Template CoMFA and Nearest Neighbor Tanimoto 2D Fingerprint."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    391.6
+   ],
+   "ocr": "ChBL >3.5 <4.5 Template CoMFA (TC) NN, Tanimoto Fgpt Diff, TRUE Pred,\n(TC—NN)\nInactive Active Inactive Active\nTarget n TRUE n TRUE n TRUE n TRUE F Neg F Pos\nbace 10 1923 0.982 144 0.951 1992 0.997 201 0.950 -0.015 0.001\ncdk2 8 1900 0.973 101 0.861 1983 0.991 199 0.839 -0.018 0.022\nchk1 9 1845 0.965 131 0.763 1993 0.988 196 0.842 -0.023 -0.078\nCAII 6 1825 0.965 104 0.702 1973 0.990 219 0.781 -0.025 -0.079\nCOX2 9 1920 0.969 109 0.862 1988 0.991 200 0.850 -0.022 0.012\ncyp3A4 5 2041 0.954 35 0.971 2000 0.976 177 0.729 -0.022 0.243\nD2A 7 1861 0.960 105 0.771 1977 0.984 223 0.744 -0.025 0.027\nER 12 1880 0.969 102 0.873 1990 0.993 204 0.775 -0.025 0.098\nfacXa 12 1838 0.978 143 0.769 1993 0.988 196 0.842 -0.011 -0.073\nGABAa 11 1700 0.971 165 0.606 1988 0.992 209 0.880 -0.021 -0.274\nhERG 7 2028 0.949 34 0.912 2026 0.971 166 0.777 -0.022 0.135\nptp1b 10 2030 0.962 60 0.967 1989 0.990 174 0.839 -0.029 0.128\nAverage 1899 0.966 103 0.834 1991 0.988 197 0.821 -0.021 0.013",
+   "table_id": "PMC4466312_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    399.7,
+    727.2,
+    886.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129307.t004 The results important for methodology comparison are in the two blocks of four columns (second through the ninth) in Table 4. Each block reports the critical elements from the contin- gency table for active/inactive predictions, the left block for template CoMFA and the right block for the Tanimoto method. Within each block, the four columns report, the first pair for “inactive” and the second for “active” classified structures, the count of predictions attempted and the fraction of those predictions that were correct. (The discrepancies between the perhaps expected prediction counts of 2000 and 200 and those actually reported have several causes. No prediction was made for structures whose ChEMBL_VAL is between 3.5 and 4.5, and ChEMBL_VALs less than 3.5 of course classify a structure as “inactive”, to be included with the 2000 ZINC structures. And predictions sometimes failed, particularly from template CoMFA when Concord did not produce the valence geometry needed as a starting point.) The final comparisons occupy the rightmost pair of columns. The first comparison shows that for “inac- tive” structures, for every target, the Tanimoto classification of the ~2000 structures is better than that from template CoMFA, with an average superiority of .0214 (+/-.0048; p >>99.9%). The second comparison, for the many fewer “active” structures, reports an inconclusive com- parison, the overall trend perhaps instead slightly favoring the template CoMFA classification, but by an average of .0134 (+/- .1331), not of any remotely statistical or practical significance. However, it is surely of more practical interest to investigate how productively these two methodologies might combine, rather than compete. The results of such studies are presented in Table 5. One of two obvious possibilities is that template CoMFA, as a fundamentally different methodology, will identify “active” structures that the Tanimoto methods overlook. The first two columns of Table 5 confirm this possibility. The first of these is the count of such addition- al “true active” structures among these ~200 predictions, as provided by template CoMFA, for each of these targets. The second converts this count into an incremental percentage of the count of true actives identified by the Tanimoto method. The average incremental percentage is 15%. To provide an impression of the structural diversity of such structures, the ten addition- al D2A binders re depicted in Fig 7."
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129307 June 12, 2015 13 / 22"
+  }
+ }
+}

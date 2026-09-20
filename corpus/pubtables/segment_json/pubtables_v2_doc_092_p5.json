@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_092",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.7,
+    64.4
+   ],
+   "ocr": "BMC Biotechnology 2005, 5:24"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6750/5/24"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    319.9,
+    118.9
+   ],
+   "ocr": "Table 5: Yield and STR genotypes from NTC samples"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    90.2,
+    129.9,
+    691.1,
+    422.5
+   ],
+   "ocr": "gDNA Input (ng) Yield\nN Mean RT-PCR (ng) Median ssDNA (%) Median total DNA (ng)\ngDNA - - - -\n1 4 135 51.5 12230\n10 4 0 50.8 11771\n25 4 0 55 12340\n50 4 24 45 12395\n100 4 220 48.6 12686\n200 4 0 54 14879\nSTR\ngDNA Input (ng) N False Positive Rate (%)1 Mean Height Allele 1 Mean Height Allele 2\ngDNA 64 6 93 93\n1 128 5 2185 2199\n10 128 0 - -\n25 128 0 - -\n50 128 92 375 393\n100 128 92 571 571\n200 128 2 2360 2360",
+   "table_id": "PMC1249558_table_4"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    438.8,
+    391.1,
+    485.7
+   ],
+   "ocr": "1The number of \"attempted\" AmpFlSTR® Identifiler™ panel genotypes using samples genotyped for gDNA in duplicate (64 possible genotype bins), and in duplicate (768 possible genotype bins)]. 2There were significantly more 100 ng gDNA inputs compared to the wgaDNA produced from 200 ng"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    376.5,
+    438.8,
+    690.8,
+    485.7
+   ],
+   "ocr": "gDNA NTCs and wgaDNA from NTC samples is 832 [two NTC DNA four wgaDNA samples from NTCs for each gDNA input level genotyped false positive STR genotypes in the wgaDNA produced from 50 ng and gDNA input (p = 0.01 and 0.02)."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    537.2,
+    698.3,
+    922.4
+   ],
+   "ocr": "False positive NTC sample SNP genotypes A non-zero RT-PCR yield and significantly increased num- bers of observed false positive genotypes in wgaDNA from NTC samples in the 1, 50 and 100 ng gDNA input strata are consistent with human gDNA contamination of these gDNA input strata. However, we also observed signifi- cantly more false positive and undetermined SNP assay genotypes in each of the 10, 25 and 200 ng gDNA input strata (the apparently uncontaminated strata) than in the gDNA strata (all p < 0.0001), concordant with the hypoth- esis that a portion of the NTC TaqMan® genotypes may be due to degradation of TaqMan® SNP assay reagents. Thus, contamination of NTC samples with gDNA and TaqMan® SNP assay probe oligonucleotide degradation during the genotyping of wgaDNA are both associated with false- positive TaqMan® SNP assay genotypes. Limitations This study is distinguished by the use of multiple assays to estimate wgaDNA yield and composition, the use of STR and SNP genotyping assays that have been validated by sequencing the same DNA samples used in this study, and the use of an adequate number of samples and assays to provide statistical power to detect small differences in the genotyping performance of wgaDNA and gDNA, when using 1–200 ng of gDNA as template in the WGA reaction."
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    537.4,
+    372.6,
+    922.4
+   ],
+   "ocr": "type analysis algorithms before application of the Amp- FlSTR® Identifiler™ panel to wgaDNA for forensic purposes, as has been recommended for the analysis of STR profiles from highly limited unamplified gDNA tem- plate [13], or to utilize analysis methods that incorporate STR genotyping error, as has been recommended for the analysis of STR linkage scan data [14]. wgaDNA is a suitable template for SNP genotyping wgaDNA produced from ≥ 10 ng of gDNA input into the WGA reaction exhibits robust wgaDNA TaqMan® SNP assay genotyping performance rates, similar to that of gDNA TaqMan® SNP assay genotyping performance rates. 1 ng of wgaDNA template into the TaqMan® SNP assay exhibits significantly reduced TaqMan® SNP assay geno- typing performance compared to both 4 and 20 ng wgaDNA templates into the TaqMan® SNP assay. 4 ng wgaDNA template into the TaqMan® SNP assay exhibits a significantly increased no amplification rate over both 1 and 20 ng wgaDNA templates, although no amplification rates are very low (all <0.01%) for all three wgaDNA tem- plate inputs into the TaqMan® SNP assay. These results suggest that optimal TaqMan® SNP assay genotyping per- formance, i.e., minimal wgaDNA TaqMan® no amplifica- tion and undetermined genotyping rates, should be expected for wgaDNA inputs greater than 4 ng."
+  },
+  "p5_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 11 (page number not for citation purposes)"
+  }
+ }
+}

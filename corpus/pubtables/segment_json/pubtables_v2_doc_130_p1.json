@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_130",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Exarchos et al. BMC Bioinformatics 2011, 12:142 http://www.biomedcentral.com/1471-2105/12/142"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.2
+   ],
+   "ocr": "Page 5 of 12"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    666.7
+   ],
+   "ocr": "patterns, FDR is quite high in the former case, especially given the large number of trans-nonPro peptide bonds (6.79% equals to 46560 trans-nonPro bonds). For the non-redundant set of patterns, FDR is kept in all types of pattern discovery below 1% ensuring low association of the retained patterns with trans-nonPro regions, while keeping the list of descriptive patterns relatively refined. Therefore, the proposed methodology could be employed as a basic preprocessing step towards the dis- crimination between cis-nonPro and trans-nonPro for- mations, as it is able to reduce the initial input of sequences by more than 99% and at the same time to maintain all the cis-nonPro regions of interest intact. As it is shown in Table 1 the non-redundant set for all types of pattern discovery contains around 200 pat- terns. The relatively high number of retained patterns is partially attributed to the fact that we wanted to formu- late a dataset able to achieve complete coverage of cis formations keeping at the same time false positives at a very low rate. Smaller sets of more generic patterns could be extracted, however, this could lead to much higher FDR values. The total number of retained asso- ciations is slightly less important than keeping patterns that precisely describe regions around cis-nonPro bonds and discriminate them from regions with trans-nonPro bonds. Table 2 contains an indicative subset of the highest scoring patterns extracted using each type of pattern discovery. The complete list of patterns is accessible via the web due to space limitations. The patterns have been sorted according to the sc_score metric. In addi- tion, the log-likelihood of each pattern is shown, deter- mining how generic each pattern is; we observe that for all reported patterns the log-likelihood is very low, Table 1 Overview of patterns maintained after each preprocessing step and for all types of pattern discovery"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    922.3
+   ],
+   "ocr": "It should be noted that the permutations of the CNP and TNP datasets are performed only in this step, in order to assess independently the performance of the pattern-based classification scheme. The list of patterns reported throughout the manuscript involved the entire CNP dataset, in order to get the most out of the initial set of available cis-nonPro peptide bonds. Results & Discussion The aforementioned methodological analysis has resulted in a list of patterns that are indicative of regions containing a cis-nonPro formation. The extrac- tion of patterns describing these regions is very impor- tant due to the scarcity of cis-nonPro peptide bonds; therefore, the elicitation of consensus patterns extrapo- lates the knowledge that can be gained from a limited amount of data that is currently available. Amino acid patterns Initially, after providing all the cis-nonPro regions as input to the TEIRESIAS algorithm, we extracted 4815 patterns using exact pattern discovery, whereas the employment of equivalency sets yielded 38904 and 32812 patterns when chemical and structural equivalen- cies were considered, respectively. Using eq. 1 the sc_score is calculated and attached to all extracted pat- terns; clearly sc_score ranges between 0 and 1 with values above 0.5 indicating propensity of a pattern towards cis configurations. However, as we are inter- ested in patterns with a strong preponderance for cis regions we set a threshold of 0.90, thus discarding pat- terns that have high representation in the trans regions. Subsequently, the retained patterns are significantly reduced, specifically 1622 patterns are maintained when no equivalency set is employed, 8251 for the case of chemical equivalency set and 7347 with the structural equivalency set. Afterwards, we aim to remove redun- dant patterns, so that eventually each region is matched by at most one pattern, i.e. patterns that match more or less with the same regions are scrutinized; the resulting set must ensure high coverage of the cis regions and at the same time low False Discovery Rate (FDR). As men- tioned in the previous section, for this purpose the pat- terns are sorted according to the sc_score which is a proportional indicator of cis and trans matches. An overview of the patterns maintained using all types of pattern discovery, after each filtering step as well as the respective coverage and FDR metrics is shown in Table 1. No metrics are provided for the second column as it is an unsorted superset of the last column. We observe that even though high coverage values can be achieved both by the patterns initially extracted from TEIRESIAS, without employing any of the proposed preprocessing steps, and by the non-redundant set of"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    386.1,
+    671.7,
+    676.3,
+    915.9
+   ],
+   "ocr": "Exact pattern discovery\nTEIRESIAS sc_score > 0.90 Non-redundant\nNumber of patterns 4815 1622 231\nCoverage (%) 100% - 100\nFDR (%) 3.58 - 0.25\nChemical equivalency set\nTEIRESIAS sc_score > 0.90 Non-redundant\nNumber of patterns 38904 8251 235\nCoverage 100 - 100\nFDR 6.79 - 0.03\nStructural equivalency set\nTEIRESIAS sc_score > 0.90 Non-redundant\nNumber of patterns 32812 7347 225\nCoverage 100 - 100\nFDR 6.69 - 0.02",
+   "table_id": "PMC3097163_table_0"
+  }
+ }
+}

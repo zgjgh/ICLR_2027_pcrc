@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_055",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    156
+   ],
+   "ocr": "The first table presents data on recombinant strains, with headers including Recombinant Strain, Breakpoints, Parental Sequence, and Detection Methods (p-Value). The strain SCcd16 has breakpoints ranging from 10,401 to 13,841, with a parental sequence of NADC30 and JXA1, displaying p-values of 2.120 × 10−51 for RDP, 1.358 × 10−13 for GENECONV, 2.281 × 10−52 for BootScan, 5.308 × 10−21 for MaxChi, 2.234 × 10−23 for Chimaera, 1.473 × 10−32 for SiScan, and 1.069 × 10−120 for 3Seq."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    144,
+    580,
+    233
+   ],
+   "ocr": "The next entry, 13,842 to 15,281, lists FJFS as the parental sequence, with p-values of 5.691 × 10−26 for RDP, NS for GENECONV, 5.511 × 10−16 for BootScan, 5.874 × 10−19 for MaxChi, 2.155 × 10−11 for Chimaera, 3.554 × 10−21 for SiScan, and 2.593 × 10−34 for 3Seq. The strain SCya17 spans 11,603 to 12,498 with NADC30 and JXA1 as parental sequences, showing p-values of 2.845 × 10−40 for RDP, 3.323 × 10−14 for GENECONV, and others. Lastly, from 12,690 to 14,777, XJzx1-2015 is the parental sequence, yielding p-values of 1.374 × 10−49 for RDP and NS for GENECONV. The second table lists names, accession numbers, lengths, and top blast hits."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    263.0,
+    580.0,
+    467.0
+   ],
+   "ocr": "Recombinant Strain Breakpoints Parental Sequence Detection Methods (p-Value)\nBeginning Ending Minor Major RDP GENECONV BootScan MaxChi Chimaera SiScan 3Seq\nSCcd16 10,401 13,841 NADC30 JXA1 2.120 × 10−51 1.358 × 10−13 2.281 × 10−52 5.308 × 10−21 2.234 × 10−23 1.473 × 10−32 1.069 × 10−120\n13,842 15,281 FJFS JXA1 5.691 × 10−26 NS 5.511 × 10−16 5.874 × 10−19 2.155 × 10−11 3.554 × 10−21 2.593 × 10−34\nSCya17 11,603 12,498 NADC30 JXA1 2.845 × 10−40 3.323 × 10−14 5.417 × 10−42 7.336 × 10−14 1.030 × 10−15 1.684 × 10−08 1.907 × 10−15\n12,690 14,777 XJzx1-2015 JXA1 1.374 × 10−49 NS 5.013 × 10−32 2.658 × 10−18 2.064 × 10−21 8.414 × 10−17 3.349 × 10−29",
+   "table_id": "img_060491_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    500.0,
+    580.0,
+    642.0
+   ],
+   "ocr": "Name Accession No. Length (bp) Top blast hit\nSatb2 AB689003 ENSPSIT00000020487 521 92% identical to chicken Satb2 (XM_421919)\nMef2c AB689005 ENSPSIT00000013823 601 93% identical to Green Anole Mef2c (XM_003216358)\nEr81 AB689006 ENSPSIT00000009495 547 93% identical to chicken Er81 (NM_204917)\nFezf2 AB689007 ENSPSIT00000010810 387 90% identical to chicken Fezf2 (XM_414411)\nTbr1 AB689004 ENSPSIT00000004703 532 87% identical to chicken Tbr1 (XR_026840)\nRorb AB689002 ENSPSIT00000006123 319 90% identical to Green Anole Rorb (XM_003216536)",
+   "table_id": "img_060491_t1"
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    716
+   ],
+   "ocr": "Satb2 has accession AB689003 ENSPSIT00000020487, a length of 521 bp, and is 92% identical to chicken Satb2 (XM_421919). Mef2c, accession AB689005 ENSPSIT00000013823, measures 601 bp with 93% identity to Green Anole Mef2c (XM_003216358). Er81, with accession AB689006 ENSPSIT00000009495, is 547 bp and 93% identical to chicken Er81 (NM_204917)."
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "Fezf2, accession AB689007 ENSPSIT00000010810, has a length of 387 bp and is 90% identical to chicken Fezf2 (XM_414411). Tbr1, accession AB689004 ENSPSIT00000004703, is 532 bp long, showing 87% identity to chicken Tbr1 (XR_026840). Rorb, with accession AB689002 ENSPSIT00000006123, measures 319 bp and is 90% identical to Green Anole Rorb (XM_003216536)."
+  }
+ }
+}

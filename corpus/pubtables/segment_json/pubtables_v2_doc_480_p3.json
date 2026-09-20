@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_480",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    589.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "AIx in Relation to PAD and AAA"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    326.9,
+    107.4
+   ],
+   "ocr": "Table 3. Comparison of cAIx by Diagnosis, Gender and Age."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    263.3
+   ],
+   "ocr": "Aneurysm PAD Aneurysm and PAD Kruskall-Wallis test\nmean cAIx @heart rate 75 (%) mean cAIx @heart rate 75(%) mean cAIx @heart rate 75 (%) p-value\nAll 27.28 ± 9.47 31.40 ± 7.80 28.84 ± 8.46 0.06\nFemale <65 31.71 ± 6.16 34.13 ± 7.60 n/a 1.00\n65–79 40.42 ± 6.16 36.00 ± 4.97 33.34 ± 6.47 0.37\n>80 n/a 35.43 ± 6.63 n/a n/a\nMale <65 23.90 ± 9.70 28.24 ± 8.00 22.92 ± 5.83 0.18\n65–79 27.23 ± 9.48 29.37 ± 7.60 30.02 ± 8.79 0.59\n>80 n/a 32.11 ± 7.58 n/a n/a",
+   "table_id": "PMC4599890_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    276.0,
+    727.3,
+    806.7
+   ],
+   "ocr": "Notes: The table shows the sample means of cAIx@75 (heart rate 75 bpm). The p-values refer to the Kruskal-Wallis test without ties, which was used to determine whether cAIx differed signiﬁcantly between diagnoses. doi:10.1371/journal.pone.0139887.t003 Analysis of cAIx according to diagnosis and comorbidities Table 4 summarises cAIx in our study population in regard to vascular comorbidities, with patients grouped according to the number of vascular territories affected by atherosclerosis: PAD and/or AAA, coronary artery disease (CAD), and cerebrovascular disease (CVD). The groupings were similar to those of the REACH Registry [21], but AAA was included in the PAD vascular territory. 95 patients (52%) had no known vascular comorbidity, 71 (38%) had either concomitant CAD or CVD, and 18 patients (10%) had all vascular beds affected. Differ- ences in cAIx between these 3 groups were not found to be significant. Multivariate analyses to explore factors influencing cAIx Our initial regression analysed differences between patients and a control group of healthy individuals, testing whether cAIx in the AAA, PAD and concurrent AAA & PAD patient groups was significantly different from cAIx in an unmatched control group of healthy individ- uals (Table 5). cAIx in all three patient groups was significantly different from the control group (p < 0.05 in all cases), with age, gender and heart rate taken into account. Age and gen- der had significant effects on cAIx. We adjusted cAIx for heart rate 75 using the above men- tioned transfer function [20], therefore heart rate was not significant and was omitted from subsequent analyses. Table 6 presents results of stepwise multivariate analyses of differences in cAIx between patient groups with differing diagnoses. Model 1 showed that when holding basic characteris- tics constant (age, gender, height and weight), the “diagnosis”—categorised as 1 (AAA), 2 (AAA & PAD) or 3 (PAD)—significantly influenced cAIx. Model 2 added controls for cardio- vascular risk factors to the ‘basic characteristics’, namely for hypertension, smoking habits and diabetes: the significant positive effect of the diagnosis remained robust. Model 3 included the ‘basic characteristics’ and focused on comorbidities. Coronary heart disease had a significant Table 4. Comparison of cAIx by Comorbidities."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    815.4,
+    726.7,
+    877.9
+   ],
+   "ocr": "cAIx@heart rate 75 (%) Number of patients\n(1): PAD and/or AAA 30.67 ± 8.86 95\n(2): PAD and/or AAA and CAD or CVD 30.99 ± 7.64 71\n(3): PAD and/or AAA and CAD and CVD 27.43 ± 6.28 18",
+   "table_id": "PMC4599890_table_3"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0139887.t004"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0139887 October 9, 2015 7 / 14"
+  }
+ }
+}

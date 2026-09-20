@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_429",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    444.7,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Optimization of HPLC Condition Response Surface Methodology"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    102.9,
+    352.6,
+    114.7
+   ],
+   "ocr": "Table 2. Optimal regression equation for each response variable."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    124.9,
+    726.7,
+    351.0
+   ],
+   "ocr": "Adapalene Benzoyl peroxide\nTF Ln(RT) TF RT\nb1(X1) 1.31 1.54 1.18 2.71\nb2(X2) 1.54 2.53 1.15 3.33\nb3(X3) 1.11 4.22 1.08 7.11\nb12(X1X2) -0.31 0.05\nb13(X1X3) 0.17 -2.93\nb23(X2X3) 0.25 -0.99\nF value 330.62 906.63 6.36 246.00\np-value < 0.0001 < 0.0001 0.0266 < 0.0001\nLOF(p) 0.1701 0.1724 0.7395 0.0832\nC.V. 0.40 1.38 1.35 1.4\nR2 0.9976 0.9962 0.6450 0.9968\nAdjusted R2 0.9946 0.9951 0.5436 0.9927",
+   "table_id": "PMC4368549_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    363.7,
+    727.3,
+    898.4
+   ],
+   "ocr": "TF: tailing factor, RT: retention time, LOF:Lack of Fit doi:10.1371/journal.pone.0120171.t002 conditions were far greater than the requirement of 4000–6000 and 1.5, so does not assess in this study. These responses and three independent variables (X1, X2 and X3) were statistically analyzed based on the response-surface methodology using a computer program (Design-Ex- pert software) [22,25]. The results of multiple regression analysis for all parameters studied are summarized in Table 2. The probability (p-value) of the model was less than 0.05, indicating that the fitted model could describe the relationship between the dependent and independent variables. The p-value for the lack of fit for all models were greater than 0.05, suggesting ab- sence of any lack of fit of the models, and that also strengthened the reliability of the models. The values of the coefficients X1, X2 and X3 were related to the effect of these variables on the response. The result showed that the aqueous phase (X3) had more influence degree on the RT, whereas organic phases (X1 and X2) had stronger effect on TF for both analytes. The phenome- na might be attribute to the reverse phase column was used for both hydrophobic analysts in this study. The increment of organic phase resulted in elution time and tailing factors of hydro- phobic compounds decrease. From the response surface plots (Fig. 2), it was found that the ap- propriate analytical method with lower TF and RT for both analysts could be reach at specific mobile phase composition. Hence, the RSM was used to optimize the multiple purposes. An optimized mobile phase composition was predicted to yield RT and TF values of 12.81 min and 1.31 for adapalene, as well as 3.68 min and 1.15 for benzoyl peroxide, respectively, when level of X1, X2 and X3 were 25%, 50% and 25%, respectively. To validate the predictive ability of the hypothesized model for each response, a new chromatography was performed with these levels of the independent variables to yield retention time and tailing factor values of 12.09 min and 1.18 for adapalene, as well as 3.54 min and 1.15 for, benzoyl peroxide, respectively. The ob- served values were remarkably close to the predicted values (predicted error < 11.1%), demon- strating that the RSM could be successfully used to optimize the proportion of mobile phase. 3.2. Method validation System suitability of the chromatographic analytical method was tested by estimating the re- peatability, retention time, tailing factor and theoretical plates of six replicate injections of stan- dard solution. The results listed in Table 3, the TF (1.27 and 1.12), TP (8307 and 8860), and the"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120171 March 20, 2015 5 / 9"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_008",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The data presented in the table offers valuable insights into the performance metrics observed within the specified timeframe of 19:00 to 20:00. During this period, a total of 426 observations were recorded, reflecting a significant engagement level. Notably, the analysis focuses on the statistical parameters of the dataset, particularly the Lower Bound and Upper Bound metrics. The Lower Bound, recorded at 21.074, provides a critical baseline for interpreting the data distribution, while the Upper Bound, at 23.58, indicates the maximum value observed within this timeframe."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "This range not only highlights the variability in the dataset but also assists in understanding the performance thresholds that were achieved. Furthermore, the reported value of 1.021 likely represents an additional metric such as an average or a rate, which contributes to a more nuanced understanding of the data trends during this hour. Collectively, these metrics are essential for stakeholders aiming to evaluate performance levels, assess operational efficiency, or identify areas for improvement. The observations captured in this timeframe set a foundation for further analysis and strategic decision-making in subsequent operational hours."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    522.0
+   ],
+   "ocr": "Hour interval 1N 2Mean Std. Deviation Std. Error 95% ConfidenceInterval for Mean\nLower Bound Upper Bound\n19:00~20:00 426 23.58 21.074 1.021 21.58 25.59\n20:00~21:00 494 26.98 20.735 0.933 25.14 28.81\n21:00~22:00 307 18.50 14.275 0.815 16.90 20.11\n22:00~23:00 286 19.55 19.555 1.156 17.27 21.82\n23:00~0:00 255 11.68 10.689 0.669 10.36 13.00\n0:00~1:00 218 9.61 6.513 0.441 8.74 10.47\n1:00~2:00 296 16.79 11.468 0.667 15.48 18.10\n2:00~3:00 311 16.38 11.034 0.626 15.15 17.61\n3:00~4:00 255 15.77 13.583 0.851 14.09 17.44\n4:00~5:00 315 20.20 13.693 0.772 18.68 21.72\n5:00~6:00 232 14.86 12.238 0.803 13.28 16.45\n6:00~7:00 313 16.97 12.395 0.701 15.60 18.35\nTotal 3,708 18.59 16.091 0.264 18.07 19.11",
+   "table_id": "img_007648_t0"
+  }
+ }
+}

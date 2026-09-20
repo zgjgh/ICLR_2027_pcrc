@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_161",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    432.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Platoon-Based Model for Performance Evaluation at Intersections"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.5,
+    725.7,
+    537.9
+   ],
+   "ocr": "6.5. Comparison of queues and average delays Simulated results of queues and average delays for all 20 scenarios from IM, TRANSYT, CTM and HCM2000 are compared for both under-saturated and oversaturated situations. Three performance indices namely the maximum end of red queue QMEOR, mean maximum queue QMM and average delays are compared to assess the feasibility of the IM. Table 4 shows a comparison of QMEOR. However, only QMEOR from IM, TRANSYT (notat- ed as TSYT in the respective tables) and CTM are compared as HCM2000 does not have any provision for calculation of QMEOR. Table 5 shows comparison of QMM between IM, TRANSYT and HCM2000 (notated as HCM in the respective tables) as CTM did not provide avenue for estimation of QMM. Table 6 displays the overall average delays simulated from all the models. The maximum end of red queue QMEOR (as shown in Table 4) for IM, TRANSYT and CTM are found to be in closer agreement under under-saturated situation (X = 0.58, 0.7 and 0.86). IM tends to estimate higher queues for oversaturated conditions compared to TRANSYT and CTM. This is most obvious when X = 1.2 for all arrival types. In TRANSYT, queue lengths are derived from cyclic flow profiles during each step of the typical cycle. ‘Uniform’ component of queue is derived from the cyclic flow profiles. Additional elements associated with random and oversaturated effects are added to it to derive queues for oversaturated situation. On the other hand, IM calculates both under-saturated and oversaturated queues directly from the arrived and departed profiles based on the input-output theory. Table 5 shows that QMM from TRANSYT and IM closely agree for all scenarios. The HCM2000 estimation have closer values with QMM from TRANSYT and IM for most under- saturated situations (X = 0.58, 0.7 and 0.86). However, QMM computed by the HCM2000 in- creased drastically when traffic becomes oversaturated. Table 4. Comparison of maximum end of red queues QMEOR (T = 15 min)."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    547.1,
+    726.6,
+    877.9
+   ],
+   "ocr": "Arrival Type DOS X TYST (vehs) IM (vehs) CTM (vehs)\nAT-1 0.58 28.38 27.86 32.50\n0.7 34.53 33.62 32.50\n0.86 43.51 41.68 39.39\n1.1 61.38 67.83 55.00\n1.2 69.96 87.61 60.00\nAT-2 0.58 22.83 22.84 27.50\n0.7 28.24 27.35 27.50\n0.86 35.48 33.94 30.00\n1.1 54.81 58.32 54.27\n1.2 63.38 77.29 53.62\nAT-4 0.58 15.56 16.82 10.00\n0.7 20.81 20.53 15.00\n0.86 26.48 25.39 17.50\n1.1 43.70 47.47 43.91\n1.2 52.28 54.42 44.28\nAT-5 0.58 4.20 5.66 5.00\n0.7 5.43 6.76 5.00\n0.86 8.10 8.51 8.00\n1.1 22.87 25.54 22.50\n1.2 31.44 41.58 28.56",
+   "table_id": "PMC4364894_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    392.8,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0114406.t004"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0114406 March 18, 2015 19 / 25"
+  }
+ }
+}

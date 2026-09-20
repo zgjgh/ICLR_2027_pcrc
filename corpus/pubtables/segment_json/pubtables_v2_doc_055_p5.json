@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_055",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparison of Methods for Recreating Individual Patient Data"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    713.6,
+    119.4
+   ],
+   "ocr": "Table 6. Simulation results of mean survival time, bias, and MSE at 0.26, 0.42 and 0.76 censoring rate with sample size = 100 from two shapes of hazard function (lognormal distribution)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    616.6
+   ],
+   "ocr": "lognormal parameter (σ, μ) Censoring rate Method Mean estimate Bias MSE\n1, 1.80 0.76 Actual IPD 10.4327 0.4327 0.2016\nGuyot et al. 10.8130 0.8130 0.6828\nHoyle and Henley 11.0261 1.0261 1.0759\nLeast Squares 11.6033 1.6033 2.6679\nGraphical Method 11.3256 1.3256 1.8004\n0.42 Actual IPD 10.2251 0.2251 0.0543\nGuyot et al. 10.2424 0.2424 0.0627\nHoyle and Henley 10.4322 0.4322 0.1911\nLeast Squares 10.2969 0.2969 0.0944\nGraphical Method 10.6083 0.6083 0.3757\n0.26 Actual IPD 10.0651 0.0651 0.0064\nGuyot et al. 10.1453 0.1453 0.0238\nHoyle and Henley 10.3488 0.3488 0.1246\nLeast Squares 10.0612 0.0612 0.0073\nGraphical Method 10.6728 0.6728 0.4574\n2, 0.30 0.76 Actual IPD 17.5418 7.5418 58.1389\nGuyot et al. 21.6860 11.6860 139.4465\nHoyle and Henley 26.5135 16.5135 274.3040\nLeast Squares 6936 6926 90206329\nGraphical Method 221.712 211.712 55210\n0.42 Actual IPD 11.3590 1.3590 1.9006\nGuyot et al. 11.6869 1.6869 2.9204\nHoyle and Henley 15.3891 5.3891 29.3930\nLeast Squares 26.8246 16.8246 415.537\nGraphical Method 23.5345 13.5345 267.124\n0.26 Actual IPD 11.0847 1.0847 1.2089\nGuyot et al. 11.2215 1.2215 1.5269\nHoyle and Henley 12.7159 2.7159 7.5270\nLeast Squares 13.2615 3.2615 10.9698\nGraphical Method 13.1601 3.1601 10.3016",
+   "table_id": "PMC4372344_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    624.8,
+    726.3,
+    881.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0121353.t006 survival time. As a result of the MLE bias, the Guyot et al. and Hoyle and Henley methods also overestimated the estimates. The Guyot et al. method performed noticeably better than the Hoyle and Henley method when σ = 2 and μ = 0.30 and the censoring rates = 0.76 and 0.42. Table 7 and Fig. 4 presents the results when the survival time followed a lognormal distribu- tion and the sample size was 500. When σ was 1 and μ was 1.80, all methods performed well. When σ was 2 and μ was 0.30, a greater bias was observed in the Hoyle and Henley method. The results demonstrated that the biases were also affected by the shape of the hazard func- tion and the level of censoring in both the lognormal and Weibull distributions, regardless of the sample size. For the same high censoring rate, a greater bias will be produced in the de- creasing hazard pattern compared with the other hazard patterns. The Fig. 5 and Fig. 6 presents the results when sample size was 1000 and survival time fol- lowed a Weibull distribution and lognormal distribution, respectively. The results showed that the performances of all methods in the cases of the larger trial were consistent with those in the cases of the sample size 500."
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121353 March 24, 2015 13 / 21"
+  }
+ }
+}

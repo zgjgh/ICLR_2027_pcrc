@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_451",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    1000,
+    750
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    1000,
+    750
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4478719_table_0",
+   "page_num": 1,
+   "bbox": [
+    76.8,
+    143.2,
+    886.7,
+    608.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4478719_table_0.png",
+   "html": "<table><tr><td rowspan=\"4\">Characteristic</td><td colspan=\"5\">Patients with WA eligibility</td><td colspan=\"5\">Patients with STD eligibility</td><td colspan=\"5\">Patients with WA and STD eligibility</td></tr><tr><td colspan=\"2\" rowspan=\"2\">With CVERP N = 5,808</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 5,808</td><td rowspan=\"3\">Std Diff (%)</td><td colspan=\"2\" rowspan=\"2\">With CVERP N = 21,006</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 21,006</td><td rowspan=\"3\">Std Diff (%)</td><td colspan=\"2\" rowspan=\"2\">With CVERP N = 3,362</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 3,362</td><td rowspan=\"3\">Std Diff (%)</td></tr><tr></tr><tr><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td></tr><tr><td>Age (mean, SD)</td><td>52.7</td><td>6.5</td><td>52.3</td><td>6.8</td><td>0.1</td><td>52.8</td><td>6.8</td><td>52.2</td><td>7.2</td><td>0.1</td><td>53.1</td><td>6.5</td><td>52.6</td><td>7.0</td><td>0.1</td></tr><tr><td colspan=\"16\">Age Group (years) (n, %)</td></tr><tr><td>18-44</td><td>643</td><td>11.1</td><td>615</td><td>10.6</td><td>1.6</td><td>2524</td><td>12.0</td><td>2528</td><td>12.0</td><td>0.1</td><td>346</td><td>10.3</td><td>335</td><td>10.0</td><td>1.1</td></tr><tr><td>45-54</td><td>2,632</td><td>45.3</td><td>2,632</td><td>45.3</td><td>0.0</td><td>9,012</td><td>42.9</td><td>9,100</td><td>43.3</td><td>0.8</td><td>1,472</td><td>43.8</td><td>1,458</td><td>43.4</td><td>0.8</td></tr><tr><td>55-64</td><td>2,533</td><td>43.6</td><td>2,561</td><td>44.1</td><td>1.0</td><td>9,470</td><td>45.1</td><td>9,378</td><td>44.6</td><td>0.9</td><td>1,544</td><td>45.9</td><td>1,569</td><td>46.7</td><td>1.5</td></tr><tr><td>Male (n, %)</td><td>4,974</td><td>85.6</td><td>5,012</td><td>86.3</td><td>1.9</td><td>17,294</td><td>82.3</td><td>17,085</td><td>81.3</td><td>2.6</td><td>2,883</td><td>85.8</td><td>2,917</td><td>86.8</td><td>2.9</td></tr><tr><td>Female (n, %)</td><td>834</td><td>14.4</td><td>796</td><td>13.7</td><td>1.9</td><td>3,712</td><td>17.7</td><td>3,921</td><td>18.7</td><td>2.6</td><td>479</td><td>14.2</td><td>445</td><td>13.2</td><td>2.9</td></tr><tr><td colspan=\"16\">Geographic Region (n, %)</td></tr><tr><td>Northeast</td><td>954</td><td>16.4</td><td>906</td><td>15.6</td><td>2.3</td><td>3428</td><td>16.3</td><td>3542</td><td>16.9</td><td>1.5</td><td>643</td><td>19.1</td><td>637</td><td>18.9</td><td>0.5</td></tr><tr><td>North Central</td><td>1,079</td><td>18.6</td><td>1,087</td><td>18.7</td><td>0.4</td><td>7,461</td><td>35.5</td><td>7,366</td><td>35.1</td><td>0.9</td><td>526</td><td>15.6</td><td>519</td><td>15.4</td><td>0.6</td></tr><tr><td>South</td><td>2,742</td><td>47.2</td><td>2,803</td><td>48.3</td><td>2.1</td><td>7,287</td><td>34.7</td><td>7,268</td><td>34.6</td><td>0.2</td><td>1,272</td><td>37.8</td><td>1,291</td><td>38.4</td><td>1.2</td></tr><tr><td>West</td><td>1,032</td><td>17.8</td><td>1,008</td><td>17.4</td><td>1.1</td><td>2,774</td><td>13.2</td><td>2,768</td><td>13.2</td><td>0.1</td><td>921</td><td>27.4</td><td>914</td><td>27.2</td><td>0.5</td></tr><tr><td>Unknown</td><td>1</td><td>0.0</td><td>4</td><td>0.1</td><td>2.5</td><td>56</td><td>0.3</td><td>62</td><td>0.3</td><td>0.5</td><td>0</td><td>0.0</td><td>1</td><td>0.0</td><td>n/a</td></tr><tr><td colspan=\"16\">Health Plan Type (n, %)</td></tr><tr><td>Preferred provider organization</td><td>3,042</td><td>52.4</td><td>3,080</td><td>53.0</td><td>1.3</td><td>13,199</td><td>62.8</td><td>13,254</td><td>63.1</td><td>0.5</td><td>1,942</td><td>57.8</td><td>1,913</td><td>56.9</td><td>1.7</td></tr><tr><td>Health maintenance organization</td><td>833</td><td>14.3</td><td>826</td><td>14.2</td><td>0.3</td><td>2,592</td><td>12.3</td><td>2,595</td><td>12.4</td><td>0.0</td><td>398</td><td>11.8</td><td>436</td><td>13.0</td><td>3.4</td></tr><tr><td>Point of Service</td><td>1,704</td><td>29.3</td><td>1,669</td><td>28.7</td><td>1.3</td><td>2,211</td><td>10.5</td><td>2,411</td><td>11.5</td><td>3.0</td><td>885</td><td>26.3</td><td>883</td><td>26.3</td><td>0.1</td></tr><tr><td>Other/Unknown</td><td>229</td><td>3.9</td><td>233</td><td>4.0</td><td>0.4</td><td>3,004</td><td>14.3</td><td>2,746</td><td>13.1</td><td>3.6</td><td>137</td><td>4.1</td><td>130</td><td>3.9</td><td>1.1</td></tr><tr><td colspan=\"16\">Length of Follow-up</td></tr><tr><td>Days (mean, SD)</td><td>650</td><td>392</td><td>717</td><td>374</td><td>0.2</td><td>559</td><td>370</td><td>602</td><td>369</td><td>0.1</td><td>560</td><td>374</td><td>622</td><td>364</td><td>0.2</td></tr><tr><td>&#8805;1 year (n, %)</td><td>3,905</td><td>67.2</td><td>4,332</td><td>74.6</td><td>16.2</td><td>12,632</td><td>60.1</td><td>13,527</td><td>64.4</td><td>8.8</td><td>2,030</td><td>60.4</td><td>2,249</td><td>66.9</td><td>13.6</td></tr><tr><td>&#8805;2 years (n, %)</td><td>2,672</td><td>46.0</td><td>3,053</td><td>52.6</td><td>13.1</td><td>7,196</td><td>34.3</td><td>8,038</td><td>38.3</td><td>8.3</td><td>1,184</td><td>35.2</td><td>1,364</td><td>40.6</td><td>11.1</td></tr><tr><td>&#8805;3 years (n, %)</td><td>1,826</td><td>31.4</td><td>2,101</td><td>36.2</td><td>10.0</td><td>3,984</td><td>19.0</td><td>4,635</td><td>22.1</td><td>7.7</td><td>622</td><td>18.5</td><td>759</td><td>22.6</td><td>10.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4478719_table_1",
+   "page_num": 2,
+   "bbox": [
+    76.8,
+    190.4,
+    886.7,
+    561.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4478719_table_1.png",
+   "html": "<table><tr><td rowspan=\"4\">Characteristic</td><td colspan=\"5\">Patients with WA eligibility</td><td colspan=\"5\">Patients with STD eligibility</td><td colspan=\"5\">Patients with WA and STD eligibility</td></tr><tr><td colspan=\"2\" rowspan=\"2\">With CVERP N = 5,808</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 5,808</td><td rowspan=\"3\">Std Diff (%)</td><td colspan=\"2\" rowspan=\"2\">With CVERP N = 21,006</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 21,006</td><td rowspan=\"3\">Std Diff (%)</td><td colspan=\"2\" rowspan=\"2\">With CVERP N = 3,362</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 3,362</td><td rowspan=\"3\">Std Diff (%)</td></tr><tr></tr><tr><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td></tr><tr><td>1-year Pre-Index Period Deyo Charlson Comorbidity Index (mean, SD)</td><td>0.6</td><td>1.1</td><td>0.6</td><td>1.3</td><td>0.004</td><td>0.7</td><td>1.2</td><td>0.7</td><td>1.4</td><td>0.043</td><td>0.7</td><td>1.1</td><td>0.7</td><td>1.4</td><td>0.01</td></tr><tr><td colspan=\"16\">1-year Pre-Index Period Comorbid Conditions (n, %)</td></tr><tr><td>Diabetes</td><td>1,108</td><td>19.1</td><td>989</td><td>17.0</td><td>5.3</td><td>4,172</td><td>19.9</td><td>4,035</td><td>19.2</td><td>1.6</td><td>690</td><td>20.5</td><td>689</td><td>20.5</td><td>0.1</td></tr><tr><td>Hypertension</td><td>2,207</td><td>38.0</td><td>2,223</td><td>38.3</td><td>0.6</td><td>8,153</td><td>38.8</td><td>7,980</td><td>38.0</td><td>1.7</td><td>1,345</td><td>40.0</td><td>1,351</td><td>40.2</td><td>0.4</td></tr><tr><td>Stable angina</td><td>343</td><td>5.9</td><td>313</td><td>5.4</td><td>2.2</td><td>1,152</td><td>5.5</td><td>1,098</td><td>5.2</td><td>1.1</td><td>173</td><td>5.1</td><td>154</td><td>4.6</td><td>2.6</td></tr><tr><td>Cancer</td><td>201</td><td>3.5</td><td>361</td><td>6.2</td><td>12.9</td><td>742</td><td>3.5</td><td>1,359</td><td>6.5</td><td>13.5</td><td>118</td><td>3.5</td><td>206</td><td>6.1</td><td>12.2</td></tr><tr><td>Respiratory disease</td><td>1,906</td><td>32.8</td><td>1,923</td><td>33.1</td><td>0.6</td><td>7,015</td><td>33.4</td><td>7,133</td><td>34.0</td><td>1.2</td><td>1,098</td><td>32.7</td><td>1,102</td><td>32.8</td><td>0.3</td></tr><tr><td>Renal disease</td><td>162</td><td>2.8</td><td>161</td><td>2.8</td><td>0.1</td><td>675</td><td>3.2</td><td>598</td><td>2.8</td><td>2.1</td><td>100</td><td>3.0</td><td>109</td><td>3.2</td><td>1.5</td></tr><tr><td>Liver disease</td><td>99</td><td>1.7</td><td>106</td><td>1.8</td><td>0.9</td><td>379</td><td>1.8</td><td>466</td><td>2.2</td><td>3.0</td><td>63</td><td>1.9</td><td>54</td><td>1.6</td><td>2.0</td></tr><tr><td>Peripheral vascular disease</td><td>159</td><td>2.7</td><td>87</td><td>1.5</td><td>8.6</td><td>733</td><td>3.5</td><td>551</td><td>2.6</td><td>5.0</td><td>93</td><td>2.8</td><td>47</td><td>1.4</td><td>9.6</td></tr><tr><td>Psychiatric disorders</td><td>641</td><td>11.0</td><td>580</td><td>10.0</td><td>3.4</td><td>2,735</td><td>13.0</td><td>2,850</td><td>13.6</td><td>1.6</td><td>405</td><td>12.0</td><td>392</td><td>11.7</td><td>1.2</td></tr><tr><td>Abdominal aortic aneurysm</td><td>20</td><td>0.3</td><td>17</td><td>0.3</td><td>0.9</td><td>109</td><td>0.5</td><td>96</td><td>0.5</td><td>0.9</td><td>14</td><td>0.4</td><td>14</td><td>0.4</td><td>0.0</td></tr><tr><td>Metabolic syndrome</td><td>21</td><td>0.4</td><td>20</td><td>0.3</td><td>0.3</td><td>74</td><td>0.4</td><td>119</td><td>0.6</td><td>3.2</td><td>10</td><td>0.3</td><td>17</td><td>0.5</td><td>3.3</td></tr><tr><td>Obesity of overweight</td><td>107</td><td>1.8</td><td>114</td><td>2.0</td><td>0.9</td><td>503</td><td>2.4</td><td>509</td><td>2.4</td><td>0.2</td><td>77</td><td>2.3</td><td>86</td><td>2.6</td><td>1.7</td></tr><tr><td>Arrhythmias</td><td>414</td><td>7.1</td><td>430</td><td>7.4</td><td>1.1</td><td>1,567</td><td>7.5</td><td>1,526</td><td>7.3</td><td>0.7</td><td>242</td><td>7.2</td><td>232</td><td>6.9</td><td>1.2</td></tr><tr><td colspan=\"16\">Baseline Hours Lost</td></tr><tr><td>Monthly hours lost due to WA/STD/WA and STD during the 1-year Pre-Index Period (mean, SD)</td><td>20.5</td><td>18.9</td><td>20.5</td><td>21.7</td><td>0.002</td><td>4.7</td><td>20.0</td><td>5.4</td><td>23.0</td><td>0.03</td><td>23.3</td><td>19.4</td><td>23.2</td><td>21.3</td><td>0.01</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4478719_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    524.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4478719_table_2.png",
+   "html": "<table><tr><td rowspan=\"4\">Measure</td><td colspan=\"5\">Patients with WA eligibility</td></tr><tr><td colspan=\"2\" rowspan=\"2\">With CVERP N = 5,808</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 5,808</td><td rowspan=\"3\">p-value</td></tr><tr></tr><tr><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td></tr><tr><td colspan=\"6\">During the 1st month of follow-up:</td></tr><tr><td>Patients reporting WA (n, %)</td><td>4,011</td><td>69.1</td><td>3,963</td><td>68.2</td><td>0.34</td></tr><tr><td>Monthly hours lost due to WA (mean, SD)</td><td>43.0</td><td>50.8</td><td>19.7</td><td>27.8</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with WA (mean, SD)</td><td>$1,267</td><td>$1,511</td><td>$585</td><td>$849</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 1 year of follow-up (n, %)</td><td>3,905</td><td>67.2</td><td>4,332</td><td>74.6</td><td></td></tr><tr><td colspan=\"6\">During the 1st year of follow-up:</td></tr><tr><td>Patients reporting WA (n, %)</td><td>3,370</td><td>86.3</td><td>3,742</td><td>86.4</td><td>0.92</td></tr><tr><td>Monthly hours lost due to WA (mean, SD)</td><td>23.1</td><td>21.2</td><td>19.8</td><td>17.3</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with WA (mean, SD)</td><td>$698</td><td>$666</td><td>$597</td><td>$548</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 2 years of follow-up (n, %)</td><td>2,672</td><td>46.0</td><td>3,053</td><td>52.6</td><td></td></tr><tr><td colspan=\"6\">During the 2nd year of follow-up:</td></tr><tr><td>Patients reporting WA (n, %)</td><td>2,255</td><td>84.4</td><td>2,643</td><td>86.6</td><td>0.02</td></tr><tr><td>Monthly hours lost due to WA (mean, SD)</td><td>19.2</td><td>16.1</td><td>19.4</td><td>16.5</td><td>0.62</td></tr><tr><td>Indirect costs associated with WA (mean, SD)</td><td>$565</td><td>$483</td><td>$573</td><td>$508</td><td>0.54</td></tr><tr><td>Patients with &#8805; 3 years of follow-up (n, %)</td><td>1,826</td><td>31.4</td><td>2,101</td><td>36.2</td><td></td></tr><tr><td colspan=\"6\">During the 3rd year of follow-up:</td></tr><tr><td>Patients reporting WA (n, %)</td><td>1,552</td><td>85.0</td><td>1,788</td><td>85.1</td><td>0.92</td></tr><tr><td>Monthly hours lost due to WA (mean, SD)</td><td>19.0</td><td>15.8</td><td>19.1</td><td>17.0</td><td>0.86</td></tr><tr><td>Indirect costs associated with WA (mean, SD)</td><td>$548</td><td>$465</td><td>$551</td><td>$491</td><td>0.84</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4478719_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    524.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4478719_table_3.png",
+   "html": "<table><tr><td rowspan=\"4\">Measure</td><td colspan=\"5\">Patients with STD Eligibility</td></tr><tr><td colspan=\"2\" rowspan=\"2\">With CVERP N = 21,006</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 21,006</td><td rowspan=\"3\">p-value</td></tr><tr></tr><tr><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td></tr><tr><td colspan=\"6\">During the 1st month of follow-up:</td></tr><tr><td>Patients reporting STD (n, %)</td><td>8,764</td><td>41.7</td><td>1,011</td><td>4.8</td><td>&lt;.001</td></tr><tr><td>Monthly hours lost due to STD (mean, SD)</td><td>57.7</td><td>74.6</td><td>6.0</td><td>29.7</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with STD (mean, SD)</td><td>$996</td><td>$1,309</td><td>$102</td><td>$506</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 1 year of follow-up (n, %)</td><td>12,632</td><td>60.1</td><td>13,527</td><td>64.4</td><td></td></tr><tr><td colspan=\"6\">During the 1st year of follow-up:</td></tr><tr><td>Patients reporting STD (n, %)</td><td>5,890</td><td>46.6</td><td>1,406</td><td>10.4</td><td>&lt;.001</td></tr><tr><td>Monthly hours lost due to STD (mean, SD)</td><td>16.3</td><td>30.8</td><td>3.6</td><td>16.7</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with STD (mean, SD)</td><td>$281</td><td>$529</td><td>$60</td><td>$278</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 2 years of follow-up (n, %)</td><td>7,196</td><td>34.3</td><td>8,038</td><td>38.3</td><td></td></tr><tr><td colspan=\"6\">During the 2nd year of follow-up:</td></tr><tr><td>Patients reporting STD (n, %)</td><td>1,031</td><td>14.3</td><td>734</td><td>9.1</td><td>&lt;.001</td></tr><tr><td>Monthly hours lost due to STD (mean, SD)</td><td>4.7</td><td>18.0</td><td>2.7</td><td>13.3</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with STD (mean, SD)</td><td>$79</td><td>$308</td><td>$45</td><td>$219</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 3 years of follow-up (n, %)</td><td>3,984</td><td>19.0</td><td>4,635</td><td>22.1</td><td></td></tr><tr><td colspan=\"6\">During the 3rd year of follow-up:</td></tr><tr><td>Patients reporting STD (n, %)</td><td>536</td><td>13.5</td><td>364</td><td>7.9</td><td>&lt;.001</td></tr><tr><td>Monthly hours lost due to STD (mean, SD)</td><td>4.4</td><td>17.9</td><td>2.1</td><td>10.8</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with STD (mean, SD)</td><td>$73</td><td>$298</td><td>$34</td><td>$177</td><td>&lt;.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4478719_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    524.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4478719_table_4.png",
+   "html": "<table><tr><td rowspan=\"4\">Measure</td><td colspan=\"5\">Patients with WA and STD Eligibility</td></tr><tr><td colspan=\"2\" rowspan=\"2\">With CVERP N = 3,362</td><td colspan=\"2\" rowspan=\"2\">Without CVERP N = 3,362</td><td rowspan=\"3\">p-value</td></tr><tr></tr><tr><td>n/mean</td><td>%/SD</td><td>n/mean</td><td>%/SD</td></tr><tr><td colspan=\"6\">During the 1st month of follow-up:</td></tr><tr><td>Patients reporting WA/STD (n, %)</td><td>2,980</td><td>88.6</td><td>2,591</td><td>77.1</td><td>&lt;.001</td></tr><tr><td>Monthly hours lost due to WA/STD (mean, SD)</td><td>78.7</td><td>63.5</td><td>22.4</td><td>30.3</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with WA/STD (mean, SD)</td><td>$1,744</td><td>$1,293</td><td>$624</td><td>$785</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 1 year of follow-up (n, %)</td><td>2,030</td><td>60.4</td><td>2,249</td><td>66.9</td><td></td></tr><tr><td colspan=\"6\">During the 1st year of follow-up:</td></tr><tr><td>Patients reporting WA/STD (n, %)</td><td>1,917</td><td>94.4</td><td>2,093</td><td>93.1</td><td>0.07</td></tr><tr><td>Monthly hours lost due to WA/STD (mean, SD)</td><td>35.0</td><td>29.3</td><td>21.4</td><td>14.1</td><td>&lt;.001</td></tr><tr><td>Indirect costs associated with WA/STD (mean, SD)</td><td>$847</td><td>$572</td><td>$610</td><td>$374</td><td>&lt;.001</td></tr><tr><td>Patients with &#8805; 2 years of follow-up (n, %)</td><td>1,184</td><td>35.2</td><td>1,364</td><td>40.6</td><td></td></tr><tr><td colspan=\"6\">During the 2nd year of follow-up:</td></tr><tr><td>Patients reporting WA/STD (n, %)</td><td>1,088</td><td>91.9</td><td>1,294</td><td>94.9</td><td>0.002</td></tr><tr><td>Monthly hours lost due to WA/STD (mean, SD)</td><td>22.2</td><td>18.0</td><td>21.2</td><td>13.7</td><td>0.12</td></tr><tr><td>Indirect costs associated with WA/STD (mean, SD)</td><td>$590</td><td>$389</td><td>$590</td><td>$337</td><td>0.99</td></tr><tr><td>Patients with &#8805; 3 years of follow-up (n, %)</td><td>622</td><td>18.5</td><td>759</td><td>22.6</td><td></td></tr><tr><td colspan=\"6\">During the 3rd year of follow-up:</td></tr><tr><td>Patients reporting WA/STD (n, %)</td><td>581</td><td>93.4</td><td>723</td><td>95.3</td><td>0.14</td></tr><tr><td>Monthly hours lost due to WA/STD (mean, SD)</td><td>21.3</td><td>16.2</td><td>20.7</td><td>12.9</td><td>0.44</td></tr><tr><td>Indirect costs associated with WA/STD (mean, SD)</td><td>$561</td><td>$359</td><td>$568</td><td>$305</td><td>0.68</td></tr></table>"
+  }
+ ]
+}

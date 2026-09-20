@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_226",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    482.9,
+    50.5,
+    727.3,
+    60.9
+   ],
+   "ocr": "Unit Root Testing and Estimation in Nonlinear ESTAR. . ."
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.6,
+    402.1,
+    107.7
+   ],
+   "ocr": "Table 4. The power of the test using Kapetanios t-statistics with theta = 0.05."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    75.4,
+    116.4,
+    692.8,
+    222.3
+   ],
+   "ocr": "Error disttn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.171 0.361 0.676 0.401 0.691 0.741\nN = 100 0.611 0.744 0.799 0.896 0.899 0.910\nN = 250 0.906 0.965 0.967 0.923 0.969 0.955\nN = 500 0.971 0.977 0.984 0.974 0.987 0.990\nN = 1000 0.999 1.00 1.00 0.988 0.998 1.00",
+   "table_id": "PMC5127548_table_3"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    230.9,
+    727.3,
+    447.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t004 The DGP used for the purpose of comparison between the quantile fit and the least square regression in the nonlinear models is as follows yt ¼ yt�1½expf�yðyt�1Þ 2g� þ εt ð13Þ Where εt is normally distributed with zero mean and a constant variance equals to 1 for Tables 10 and 11 and εt has a t-distribution with d.f equals 5 in Tables 12, 13 and 14. Additive outliers are included in the data before the comparison of the two above men- tioned methods. We consider the following contaminated model with the addition of outliers yc yt Wdt t ¼ þ ð14Þ Where yc denotes the response variable with contaminated data, δt = yt + ϑ for some constant ϑ"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    438.5,
+    718.6,
+    579.0
+   ],
+   "ocr": "t (theta used in the tables below) and δ equals 1 with probability “π” and “0” otherwise. This approach is also used by [26] and also by [27]. The difference here is that we are comparing it to the quantile fitting to the ESTAR model. We fit the following model with the parameter values a’s are predefined for the nonlinear least square. We are interested in a2 less than zero, here we took a3 = 1 as in most economic applications of first order ESTAR yt a1 a3 ðyt�1 a1Þ expfa2 ðyt�1 a1Þ 2g εt"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    410.5,
+    555.9,
+    519.4,
+    569.0
+   ],
+   "ocr": "� � �"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    557.2,
+    727.3,
+    633.0
+   ],
+   "ocr": "¼ þ � � þ ð15Þ and the following model with parameter values b’s are predefined for the nonlinear quantile fit yt b1 b3 ðyt�1 b1Þ expfb2 ðyt�1 b1Þ 2g εt"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    410.6,
+    609.8,
+    519.2,
+    622.9
+   ],
+   "ocr": "� � �"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    611.2,
+    727.3,
+    763.8
+   ],
+   "ocr": "¼ þ � � þ ð16Þ The results are shown in the following Tables 10 to 14. Tables 10 to 14 compares the power of the nonlinear least square fit and a type of robust fit called the quantile fit in the presence of outliers. In Tables 10 and 11 the error distribution in the data generation process is normal and in the other three tables the error is from t-distribu- tion with 5-d.f. General quantile fit performs better in the presence of outliers because quantile fits take into account the median of the process instead of the mean and the median is not Table 5. The power of the test for Kapetanios t-statistics with theta = 0.02."
+  },
+  "p3_b9": {
+   "type": "table",
+   "bbox": [
+    75.7,
+    772.5,
+    692.6,
+    878.4
+   ],
+   "ocr": "Error distn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.195 0.550 0.665 0.412 0.724 0.784\nN = 100 0.771 0.790 0.805 0.906 0.911 0.939\nN = 250 0.919 0.932 0.955 0.943 0.957 0.970\nN = 500 0.991 0.994 0.999 0.980 0.989 0.994\nN = 1000 1.00 1.00 1.00 1.00 1.00 1.00",
+   "table_id": "PMC5127548_table_4"
+  },
+  "p3_b10": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    195.2,
+    897.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t005"
+  },
+  "p3_b11": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0166990 November 29, 2016 6 / 11"
+  }
+ }
+}

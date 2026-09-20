@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_068",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    41.7,
+    678.7,
+    54.3
+   ],
+   "ocr": "Idri and Kadi SpringerPlus (2016) 5:81 Page 4 of 17"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    110.7,
+    601.8,
+    449.2
+   ],
+   "ocr": "In this paper, an experiment was conducted in the ANS unit of the Moroccan uni- versity hospital Avicenne. This unit is specialized on performing ANS tests to diagnose patients with cardiovascular dysautonomias and provides them appropriate treatments. For each test, the specialists analyze deeply the obtained results of HR and BP and pro- vide an interpretation for each result. These interpretations are called preliminary con- clusions. Hence, a set of preliminary conclusions is deduced in the first stage of the ANS procedure. Table 1 provides descriptions of HR and BP values extracted from the train- ing set, maximum and minimum values of HR and BP in each ANS test were measured using the training set. As can be seen, Table 1 contains very low and very high values of HR and BP that are considered in cardiology very dangerous and can be life threatening. For this reason, the ANS specialists perform these tests and measure the HR and BP val- ues for each patient in different positions to provide meaningful interpretations. The tests conducted by the ANS unit of the Moroccan university hospital Avicenne are: • Deep breathing (DB) (Shields 2009): it has a major interest in the determination of the vagal response (VR). It assesses autonomic function by measuring changes in HR in response to a deep breath. The calculation of VR is obtained by means of Eq. 1. HRmax − HRmin"
+  },
+  "p1_b2": {
+   "type": "title",
+   "bbox": [
+    173.3,
+    441.7,
+    335.1,
+    454.1
+   ],
+   "ocr": "VR 100"
+  },
+  "p1_b3": {
+   "type": "title",
+   "bbox": [
+    193.0,
+    445.1,
+    601.8,
+    459.3
+   ],
+   "ocr": "= × (1)"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    158.3,
+    450.5,
+    601.8,
+    589.3
+   ],
+   "ocr": "HRmin • Hand grip (HG) (Johansen et al. 1997): This is a manual effort contraction performed to determine changes in BP in static effort. In normal conditions, a muscle contrac- tion increases HR and BP. In this test, two values are measured: VR, by the same method as Deep breathing test, and Peripheral sympathetic alpha (PSR) activity by means of Eq. 2. BPmax − BPmin"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    172.9,
+    581.8,
+    601.8,
+    599.4
+   ],
+   "ocr": "PSR α = × 100 (2)"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    590.6,
+    601.8,
+    712.8
+   ],
+   "ocr": "BPmin • Mental stress (MS) (Johansen et al. 1997): The patient performs mental arithmetic calculations. The result is an increase in BP and HR by activating of the central sym- Table 1 Description and statistics of HR and BP values across the training set for each ANS test"
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    721.1,
+    601.2,
+    882.8
+   ],
+   "ocr": "ANS tests Measured values Heart rate Blood pressure\nMin Max Min Max\nDeep breathing VR 38 128 – –\nHand grip VR 36 120 – –\nPSR α – – 87 228\nMental stress test CSR α – – 74 203\nCSR β 36 129 – –\nOrthostatic test VR 39 144 – –\nSP_HR 18 165 – –\nSP_BP – – 85 139",
+   "table_id": "PMC4728159_table_0"
+  }
+ }
+}

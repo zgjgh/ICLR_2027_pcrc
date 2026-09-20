@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_001",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    416.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Conveyor Evaluation and Selection Using Fuzzy AHP and Fuzzy ARAS"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    420.6,
+    107.4
+   ],
+   "ocr": "Table 3. The pairwise comparison matrix of the criteria with respect to the goals."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    210.1
+   ],
+   "ocr": "Technical Cost Operational Strategic Ergonomic\nTechnical (1,1,1) (1/2,2/3,1) (2/5,1/2,2/3) (2,5/2,3) (3/2,2,5/2)\nCost (1,3/2,2) (1,1,1) (1,3/2,2) (2,5/2,3) (5/2,3,7/2)\nOperational (3/2,2,5/2) (1/2,2/3,1) (1,1,1) (1,3/2,2) (1/2,1,3/2)\nStrategic (1/3,2/5,1/2) (1/3,2/5,1/2) (1/2,2/3,1) (1,1,1) (1,3/2,2)\nErgonomic (2/5,1/2,2/3) (2/7,1/3,2/5) (2/3,1,2) (1/2,2/3,1) (1,1,1)",
+   "table_id": "PMC4829176_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    218.2,
+    727.3,
+    794.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0153222.t003 assists in the loading and unloading of the different parts at the beginning and end of the machining process. The material handling system in which the conveyor is used is thus critical to the implementation of new FMC systems due to its ability to link together CNC machines, robots, other workstations, and human workers. Decision making for conveyor selection is complex due to factors such as the facility layout, flexibility, reconfigurability, and the area of the shop floor. Therefore, to choose a suitable alter- native, many factors must be considered as qualitative and quantitative criteria in an uncertain manufacturing environment. The relevant criteria for making the right decision quickly are technical, economic, operational, strategic, and ergonomic, as shown in Fig 2. Therefore, care- ful consideration of the different factors in the MCDM model is essential. To verify the practical applicability of the proposed model, a case study is performed to eval- uate four conveyor alternatives (consisting of rollers and belt conveyors). Four experts in the fields of material handling systems and manufacturing systems are consulted in the multi-crite- ria evaluation process and assigned as the decision makers (DMs). Information describing the DMs is presented in Table 1. A questionnaire is designed to collect the DMs' judgments (see S1 File). The DMs are then asked to evaluate potential alternatives against the criteria and sub-cri- teria using linguistic variables, which are presented as triangular fuzzy numbers (Table 2). Lin- guistic variables are thus used in the questionnaire to convert the measured qualitative factors to fuzzy numbers. The linguistic variables chosen are the commonly used variables just equal (JE), equally important (EI), weakly more important (WMI), strongly more important (SMI), very strongly more important (VSMI), and absolutely more important (AMI). The pairwise comparison matrix between criteria is then formed based on the fuzzy numbers to evaluate the weights using the fuzzy AHP method. Additionally, the decision-making matrix (DMM) is composed using triangular fuzzy numbers, and the weights of the alternatives are determined based on fuzzy ARAS and criteria weights from AHP. In fuzzy AHP, the comparison matrix is built based on a portion of the questions prepared for the decision makers. For example, a question used in this case study to compare the criteria in Fig 2 is, “The flexibility is how many times as IMPORTANT as the reconfigurability?” The pairwise comparison matrix is formed from the linguistic scale of experts’ importance judg- ments. Tables 3–8 present the pairwise comparison matrices using the triangular fuzzy num- bers from Table 2. Table 4. The pairwise comparison matrix of sub-criteria with respect to the Technical criterion."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    802.9,
+    726.6,
+    896.8
+   ],
+   "ocr": "Convenience Maintainability Safety Risk Repeatability\nConvenience (1,1,1) (2/7,1/3,2/5) (2/5,1/2,2/3) (2/3,1,2) (2/5,1/2,2/3)\nMaintainability (5/2,3,7/2) (1,1,1) (1/2,1,3/2) (1,3/2,2) (2/5,1/2,2/3)\nSafety (3/2,2,5/2) (2/3,1,2) (1,1,1) (5/2,3,7/2) (1,3/2,2)\nRisk (1/2,1,3/2) (1/2,2/3,1) (2/7,1/3,2/5) (1,1,1) (2/3,1,2)\nRepeatability (3/2,2,5/2) (3/2,2,5/2) (1/2,2/3,1) (1/2,1,3/2) (1,1,1)",
+   "table_id": "PMC4829176_table_3"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    904.9,
+    186.2,
+    916.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0153222.t004"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0153222 April 12, 2016 12 / 26"
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_164",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    433.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Transcriptome and Expression Profile Analysis of Explant Browning"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.4,
+    385.0,
+    108.0
+   ],
+   "ocr": "Table 2. Homology analysis of Phalaenopsis proteome with other plants."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    711.1,
+    289.6
+   ],
+   "ocr": "Proteome of Sequences number Sequences number Sequences number Average Sequences\nPhalaenopsis (identity≧30) (identity≧70) (identity≧80) identity(≧30)\nArabidopsis 26565 1120(4.22%) 350(1.32%) 121(0.46%) 61.71%\nthaliana\nNicotiana tabacum 26565 2304(8.67%) 688(2.59%) 253(0.95%) 60.96%\nGlycine max 26565 4386(16.51%) 1555(5.85%) 639(2.41%) 63.45%\nLycopersicon 26565 2237(8.42%) 731(2.75%) 267(1.01%) 62.35%\nesculentum\nTriticum aestivum 26565 1197(4.51) 382(1.44%) 142(0.53%) 61.37%\nOryza sativa 26565 4735(17.82%) 1734(6.53%) 631(0.24%) 63.78%\nPhalaenopsis 26565 23050(86.78%) 17942(67.54%) 16951(63.81%) 85.66%\nequestris",
+   "table_id": "PMC4397044_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    297.7,
+    725.5,
+    423.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0123356.t002 sequences, we mapped the clean reads for each sample (0, 3, and 6 d) to the assembled refer- ence transcriptome of Phalaenopsis (Table 3). We used Bowtie (http://bowtie-bio.sourceforge.net/index.shtml) to map reads, used RSEM to assign reads to genes and isoforms, and used edgeR to standardize the reads. We refer to the normalized reads in fragments per kilobase of exon model per millions mapped reads (FPKM), and we used the number of genes with FPKM values"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    409.3,
+    727.2,
+    759.4
+   ],
+   "ocr": "to estimate the total number of genes expressed during Phalaenopsis explant browning(S6 Table). We found 19,156 expressed genes in the explants cultured for 0 d, representing almost 60% of the annotated transcriptome. We also found 22,185 genes (70%) were expressed in 3 d, and 22,902 (72%) in 6 d (Table 3). Identification of genes differentially expressed during Phalaenopsis explant browning We compared our three time points (0, 3, and 6 d) and identified 698 differentially expressed genes (DEGs) (Fig 1, S7 Table) with FDRs of <0.05. We identified 267 DEGs before Phalae- nopsis explant browning in the comparison of 3 d vs. 0 d, 169 (644 isoforms) up-regulated and 98 (523 isoforms) down-regulated. We identified 534 DEGs after explant Phalaenopsis brow- ning in the comparison of 6 d vs. 0 d, 314 (921 isoforms) up-regulated and 220 (641 isoforms) down-regulated. Finally, we only identified 159 DEGs in the comparison of 6 d vs. 3 d, 76 (748 isoforms) up-regulated and 83 (553 isoforms) down-regulated. These results showed that many more genes increased in expression before and after explant browning. Also, the propor- tion of DEGs was highest in the 0 d vs. 6 d comparison and lowest in the 3 d vs. 6 d comparison. To identify shared and unique DEGs during explant browning, we generated a Venn diagram based on the three comparisons (Fig 2). Only 11(44 isoforms) DEGs were shared in the three groups. Table 3. Assembly of Phalaenopsis expression profiles and mapping to transcriptome."
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    516.3,
+    409.3,
+    540.8,
+    432.2
+   ],
+   "ocr": "�0.5"
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    767.5,
+    707.8,
+    877.9
+   ],
+   "ocr": "Sample Number of Bases (bp) Number of sequences mapped to Ratio of sequences hit in Total number ofgenes\nsequences transcriptome transcriptome expressed\n0 d 7, 750, 687 741, 453, 5, 405, 788/6, 249, 646 86.50% 19,156\n474\n3 d 9, 085, 070 868, 764, 5, 560, 155/7, 379, 172 75.35% 22,185\n389\n6 d 9, 529, 153 912, 039, 5, 841, 384/7, 755, 354 75.32% 22,902\n691",
+   "table_id": "PMC4397044_table_2"
+  },
+  "p2_b7": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0123356.t003"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0123356 April 14, 2015 6 / 24"
+  }
+ }
+}

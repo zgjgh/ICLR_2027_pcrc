@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_396",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Online Adaptation of a c-VEP BCI"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    398.0,
+    384.1,
+    710.1
+   ],
+   "ocr": "Figure 7. Average ErrP waveform. Error-minus-correct time series at distribution at the time of the 2 peaks averaged over all subjects. The data doi:10.1371/journal.pone.0051077.g007 more pleasing and stated to prefer using it compared to the P300 Speller. For the free-spelling condition, the subjects stated that most mistakes were made, because they didn’t find the character in time, but they think that they could increase their accuracy in the free-spelling condition if they would have more time to practice and therefore know the positions of the letters better. Discussion With an average ITR of 136 bit/min during session 1 with unsupervised adaptation and 144 bit/min during session 2 with ErrP-based adaptation this online study shows the potential of a c- VEP BCI to achieve high-performance communication. With previous publications presenting a c-VEP BCI that achieved an average ITR of 108 bit/min [4] and an SSVEP system that showed one subject to reach a peak bitrate of 124 bit/min [19], to Table 7. Results from free-spelling."
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.8,
+    398.0,
+    700.8,
+    419.4
+   ],
+   "ocr": "electrode Cz for all subjects and the average as well as the topographical was corrected for EOG [18] and bandpass-filtered between 1 Hz and 16 Hz."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    449.9,
+    700.8,
+    963.6
+   ],
+   "ocr": "the best of our knowledge, the proposed system represents the fastest non-invasive BCI reported to date. It is also notable that 2 subjects achieved an accuracy of 100%, which is remarkable especially when considering the short trial time and the high number of targets. During the evaluation of the system with free-spelling in a normal-use scenario the subjects were able to write 21.3 error-free letters per minute, which corresponds to an average ITR of 116 bit/min. It has to be noted that the bitrate in the free-spelling is below the results reported for the copy-spelling, which may be attributed to the subjects not finding the correct letter on the matrix in time. Although practice with the system will limit this effect and therefore improve free-spelling performance, the time between trials could also be increased to give the subject additional time to find the letter. Nevertheless results from free-spelling with BCI are scarce in literature and the results presented here show that the proposed system can be used in free-spelling. Despite the performance drop, due to the transfer to free-spelling, the presented system still outperforms all other non-invasive BCI systems. Regarding the adaptation of the BCI system, the accuracy of the system could be significantly increased from an average of 95% without adaptation to an average accuracy of 96.18% with adaptation based on ErrPs, showing that online adaptation of the BCI improves performance. Although the adaptation based on ErrPs was a little bit better than unsupervised adaptation with 96.05%, it has to be noted that the accuracy with unsupervised adaptation was better for 4 subjects. Since the difference between the results is not statistically significant, it is unclear if adaptation of the BCI profits from the use of ErrPs in the presented system. But we have to point out that through the high general performance of the BCI there is little room for improvement and when comparing the results with unsupervised adaptation and ErrP-based adapta- tion, it seems that subjects with lower BCI performance tend to benefit more from ErrP-based adaptation, while subjects with higher BCI performance tend to benefit more from unsupervised 9 December 2012 | Volume 7 | Issue 12 | e51077"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    739.1,
+    369.8,
+    871.9
+   ],
+   "ocr": "Letters/\nSubject Written Deleted Trials Time [s] min Accuracy\nAA 24 6 36 69.57 20.70 83.33%\nAC 107 29 165 321.27 19.98 82.42%\nAD 88 14 116 224.60 23.51 87.93%\nAE 73 11 95 183.37 23.89 88.42%\nAG 101 14 129 282.80 21.43 89.15%\nAI 34 14 62 118.40 17.23 77.42%\naverage 71.2 14.7 100.5 200.00 21.35 85.40%",
+   "table_id": "PMC3517594_table_6"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    885.1,
+    375.7,
+    926.1
+   ],
+   "ocr": "Number of written (error-free) letters, number of deleted letters, total number of trials, time in seconds for all trials, average number of error-free letters per minute and average accuracy. doi:10.1371/journal.pone.0051077.t007"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  }
+ }
+}

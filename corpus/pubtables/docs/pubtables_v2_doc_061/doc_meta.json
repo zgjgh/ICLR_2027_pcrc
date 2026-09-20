@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_061",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4511553_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    741.4,
+    678.6,
+    925.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4511553_table_0.png",
+   "html": "<table><tr><td>Type of intervention (including)</td><td>2004</td><td>2006</td><td>2008</td><td>2010</td><td>2012</td></tr><tr><td>Complex esophageal interventions (partial/total esophagectomy, implant of magnetic antireflux device, gastrectomy with subtotal esophageal resection)</td><td>5</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>Complex pancreatic interventions (partial/total pancreatectomy, internal drainage of pancreas)</td><td>5</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>Kidney transplantation (re-transplantation)</td><td>20</td><td>25</td><td>25</td><td>25</td><td>25</td></tr><tr><td>Liver transplantation (re-transplantation, hepatectomy, partial hepatectomy from living donor)</td><td>10</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>Stem cell transplantation (transplantation of hematopoietic stem cells from bone marrow, transfusion of peripheral hematopoietic stem cells)</td><td>12</td><td>25</td><td>25</td><td>25</td><td>25</td></tr><tr><td>Total knee replacement</td><td>-</td><td>50</td><td>50</td><td>50</td><td>50</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4511553_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    143.3,
+    678.7,
+    899.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4511553_table_1.png",
+   "html": "<table><tr><td></td><td>2006</td><td>2008</td><td>2010</td><td>p</td></tr><tr><td>Hospitals with no. of cases &#8805; 1</td><td>437</td><td>444</td><td>461</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>+1,6 %</td><td>+5,5 %</td><td></td></tr><tr><td>Annual no. of cases</td><td>8258</td><td>8843</td><td>9180</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>+7,1 %</td><td>+11,2 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>1&#8211;384</td><td>1&#8211;395</td><td>1&#8211;427</td><td></td></tr><tr><td>Median</td><td>11,00</td><td>13,00</td><td>13,00</td><td></td></tr><tr><td>Mean (SD)</td><td>18,90 (31,6)</td><td>19,92 (29,3)</td><td>19,91 (29,6)</td><td></td></tr><tr><td>Hospitals complying MVS*: 10 per year</td><td>279 (63,8 %)</td><td>311 (70,0 %)</td><td>328 (71,1 %)</td><td></td></tr><tr><td>No. of cases in hospitals complying MVS</td><td>7534 (91,2 %)</td><td>8236 (93,1 %)</td><td>8576 (93,4 %)</td><td></td></tr><tr><td>Hospitals not complying MVS</td><td>158 (36,2 %)</td><td>133 (30,0 %)</td><td>133 (28,9 %)</td><td></td></tr><tr><td>No. of cases in hospitals not complying MVS</td><td>724 (8,8 %)</td><td>607 (6,9 %)</td><td>604 (6,6 %)</td><td></td></tr><tr><td>Quintile 1 hospitals</td><td>87</td><td>88</td><td>92</td><td></td></tr><tr><td>No. of cases</td><td>4794</td><td>4938</td><td>5087</td><td>0,735**</td></tr><tr><td>Percentage of annual cases</td><td>58,0 %</td><td>55,8 %</td><td>55,4 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>25&#8211;384</td><td>25&#8211;395</td><td>27&#8211;427</td><td></td></tr><tr><td>Median</td><td>38,00</td><td>40,00</td><td>39,00</td><td></td></tr><tr><td>Mean (SD)</td><td>55,10 (57,0)</td><td>56,11 (50,6)</td><td>55,29 (51,8)</td><td></td></tr><tr><td>Quintile 2 hospitals</td><td>87</td><td>89</td><td>92</td><td></td></tr><tr><td>No. of cases</td><td>1550</td><td>1682</td><td>1770</td><td>0,002**</td></tr><tr><td>Percentage of annual cases</td><td>18,8 %</td><td>19,0 %</td><td>19,3 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>14&#8211;25</td><td>15&#8211;25</td><td>15&#8211;26</td><td></td></tr><tr><td>Median</td><td>17,00</td><td>18,00</td><td>18,00</td><td></td></tr><tr><td>Mean (SD)</td><td>17,82 (3,4)</td><td>18,90 (2,5)</td><td>19,24 (3,2)</td><td></td></tr><tr><td>Quintile 3 hospitals</td><td>87</td><td>89</td><td>92</td><td></td></tr><tr><td>No. of cases</td><td>1010</td><td>1152</td><td>1182</td><td>&lt;0,001**</td></tr><tr><td>Percentage of annual cases</td><td>12,2 %</td><td>13,0 %</td><td>12,9 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>10&#8211;14</td><td>11&#8211;15</td><td>11&#8211;15</td><td></td></tr><tr><td>Median</td><td>12,00</td><td>13,00</td><td>13,00</td><td></td></tr><tr><td>Mean (SD)</td><td>11,61 (1,1)</td><td>12,94 (1,3)</td><td>12,85 (1,3)</td><td></td></tr><tr><td>Quintile 4 hospitals</td><td>88</td><td>89</td><td>92</td><td></td></tr><tr><td>No. of cases</td><td>673</td><td>802</td><td>860</td><td>&lt;0,001**</td></tr><tr><td>Percentage of annual cases</td><td>8,1 %</td><td>9,1 %</td><td>9,4 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>5&#8211;10</td><td>6&#8211;11</td><td>7&#8211;11</td><td></td></tr><tr><td>Median</td><td>8,00</td><td>10,00</td><td>10,00</td><td></td></tr><tr><td>Mean (SD)</td><td>7,65 (1,6)</td><td>9,01 (1,5)</td><td>9,35 (1,3)</td><td></td></tr><tr><td>Quintile 5 hospitals</td><td>88</td><td>89</td><td>93</td><td></td></tr><tr><td>No. of cases</td><td>231</td><td>269</td><td>281</td><td>0,295**</td></tr><tr><td>Percentage of annual cases</td><td>2,8 %</td><td>3,0 %</td><td>3,1 %</td><td>0,999#</td></tr><tr><td>Min. &#8211; max.</td><td>1&#8211;5</td><td>1&#8211;6</td><td>1&#8211;6</td><td></td></tr><tr><td>Median</td><td>3,00</td><td>3,00</td><td>3,00</td><td></td></tr><tr><td>Mean (SD)</td><td>2,63 (1,4)</td><td>3,02 (1,8)</td><td>3,02 (1,7)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4511553_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    143.3,
+    678.7,
+    899.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4511553_table_2.png",
+   "html": "<table><tr><td></td><td>2006</td><td>2008</td><td>2010</td><td>p</td></tr><tr><td>Hospitals with no. of cases &#8805; 1</td><td>271</td><td>275</td><td>283</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>+1,5 %</td><td>+4,4 %</td><td></td></tr><tr><td>Annual no. of cases</td><td>3315</td><td>3422</td><td>3576</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>+3,2 %</td><td>+7,9 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>1&#8211;150</td><td>1&#8211;124</td><td>1&#8211;112</td><td></td></tr><tr><td>Median</td><td>10,00</td><td>10,00</td><td>10,00</td><td></td></tr><tr><td>Mean (SD)</td><td>12,23 (13,8)</td><td>12,44 (14,1)</td><td>12,64 (14,2)</td><td></td></tr><tr><td>Hospitals complying MVS*: 10 per year</td><td>154 (56,8 %)</td><td>148 (53,8 %)</td><td>160 (56,5 %)</td><td></td></tr><tr><td>No. of cases in hospitals complying MVS</td><td>2809 (84,7 %)</td><td>2875 (84,0 %)</td><td>3066 (85,7 %)</td><td></td></tr><tr><td>Hospitals not complying MVS</td><td>117 (43,2 %)</td><td>127 (46,2 %)</td><td>123 (43,5 %)</td><td></td></tr><tr><td>No. of cases in hospitals not complying MVS</td><td>506 (15,3 %)</td><td>547 (16,0 %)</td><td>510 (14,3 %)</td><td></td></tr><tr><td>Quintile 1 hospitals</td><td>54</td><td>55</td><td>57</td><td></td></tr><tr><td>No. of cases</td><td>1636</td><td>1800</td><td>1857</td><td>0,302**</td></tr><tr><td>Percentage of annual cases</td><td>49,4 %</td><td>52,6 %</td><td>51,9 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>16&#8211;150</td><td>17&#8211;124</td><td>17&#8211;112</td><td></td></tr><tr><td>Median</td><td>22,50</td><td>24,00</td><td>23,00</td><td></td></tr><tr><td>Mean (SD)</td><td>30,30 (22,0)</td><td>32,73 (20,3)</td><td>32,58 (20,7)</td><td></td></tr><tr><td>Quintile 2 hospitals</td><td>54</td><td>55</td><td>56</td><td></td></tr><tr><td>No. of cases</td><td>696</td><td>687</td><td>729</td><td>0,165**</td></tr><tr><td>Percentage of annual cases</td><td>21,0 %</td><td>20,1 %</td><td>20,4 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>11&#8211;16</td><td>11&#8211;16</td><td>11&#8211;17</td><td></td></tr><tr><td>Median</td><td>12,50</td><td>12,00</td><td>12,00</td><td></td></tr><tr><td>Mean (SD)</td><td>12,89 (1,5)</td><td>12,49 (1,6)</td><td>13,02 (1,8)</td><td></td></tr><tr><td>Quintile 3 hospitals</td><td>55</td><td>55</td><td>57</td><td></td></tr><tr><td>No. of cases</td><td>557</td><td>537</td><td>569</td><td>0,040**</td></tr><tr><td>Percentage of annual cases</td><td>16,8 %</td><td>15,7 %</td><td>15,9 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>8&#8211;11</td><td>8&#8211;11</td><td>8&#8211;11</td><td></td></tr><tr><td>Median</td><td>10,00</td><td>10,00</td><td>10,00</td><td></td></tr><tr><td>Mean (SD)</td><td>10,13 (0,7)</td><td>9,76 (0,8)</td><td>9,98 (0,6)</td><td></td></tr><tr><td>Quintile 4 hospitals</td><td>54</td><td>55</td><td>56</td><td></td></tr><tr><td>No. of cases</td><td>321</td><td>297</td><td>325</td><td>0,092**</td></tr><tr><td>Percentage of annual cases</td><td>9,7 %</td><td>8,7 %</td><td>9,1 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>4&#8211;8</td><td>4&#8211;8</td><td>3&#8211;8</td><td></td></tr><tr><td>Median</td><td>6,00</td><td>5,00</td><td>6,00</td><td></td></tr><tr><td>Mean (SD)</td><td>5,94 (1,3)</td><td>5,40 (1,3)</td><td>5,80 (1,4)</td><td></td></tr><tr><td>Quintile 5 hospitals</td><td>54</td><td>55</td><td>57</td><td></td></tr><tr><td>No. of cases</td><td>105</td><td>101</td><td>96</td><td>0,405**</td></tr><tr><td>Percentage of annual cases</td><td>3,2 %</td><td>3,0 %</td><td>2,7 %</td><td>0,999#</td></tr><tr><td>Min. &#8211; max.</td><td>1&#8211;4</td><td>1&#8211;4</td><td>1&#8211;3</td><td></td></tr><tr><td>Median</td><td>2,00</td><td>2,00</td><td>2,00</td><td></td></tr><tr><td>Mean (SD)</td><td>1,94 (0,9)</td><td>1,84 (1,0)</td><td>1,68 (0,8)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4511553_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    143.3,
+    678.7,
+    899.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4511553_table_3.png",
+   "html": "<table><tr><td></td><td>2006</td><td>2008</td><td>2010</td><td>p</td></tr><tr><td>Hospitals with no. of cases &#8805; 1</td><td>855</td><td>905</td><td>949</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>+5,8 %</td><td>+11,0</td><td></td></tr><tr><td>Annual no. of cases</td><td>114852</td><td>139287</td><td>143593</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>+21,3 %</td><td>+25 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>1&#8211;979</td><td>1&#8211;1329</td><td>1&#8211;1367</td><td></td></tr><tr><td>Median</td><td>93,00</td><td>109,00</td><td>107,00</td><td></td></tr><tr><td>Mean (SD)</td><td>134,33 (126,7)</td><td>153,91 (144,1)</td><td>151,31 (140,4)</td><td></td></tr><tr><td>Hospitals complying MVS*: 50 per year</td><td>745 (87,1 %)</td><td>834 (92,2 %)</td><td>870 (91,7 %)</td><td></td></tr><tr><td>No. of cases in hospitals complying MVS</td><td>112305 (97,8 %)</td><td>137586 (98,8 %)</td><td>141597 (98,6 %)</td><td></td></tr><tr><td>Hospitals not complying MVS</td><td>110 (12,9 %)</td><td>71 (7,8 %)</td><td>79 (8,3 %)</td><td></td></tr><tr><td>No. of cases in hospitals not complying MVS</td><td>2547 (2,2 %)</td><td>1701 (1,2 %)</td><td>1996 (1,4 %)</td><td></td></tr><tr><td>Quintile 1 hospitals</td><td>171</td><td>181</td><td>190</td><td></td></tr><tr><td>No. of cases</td><td>56617</td><td>67795</td><td>69609</td><td>0,001**</td></tr><tr><td>Percentage of annual cases</td><td>49,3 %</td><td>48,7 %</td><td>48,5 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>191&#8211;979</td><td>215&#8211;1329</td><td>219&#8211;1367</td><td></td></tr><tr><td>Median</td><td>276,00</td><td>318,00</td><td>309,50</td><td></td></tr><tr><td>Mean (SD)</td><td>331,09 (153,4)</td><td>374,56 (181,9)</td><td>366,36 (177,0)</td><td></td></tr><tr><td>Quintile 2 hospitals</td><td>171</td><td>181</td><td>190</td><td></td></tr><tr><td>No. of cases</td><td>25650</td><td>30686</td><td>31322</td><td>&lt;0,001**</td></tr><tr><td>Percentage of annual cases</td><td>22,3 %</td><td>22,0 %</td><td>21,8 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>117&#8211;190</td><td>133&#8211;215</td><td>130&#8211;218</td><td></td></tr><tr><td>Median</td><td>147,00</td><td>168,00</td><td>163,50</td><td></td></tr><tr><td>Mean (SD)</td><td>150,00 (21,3)</td><td>169,54 (24,3)</td><td>164,85 (23,7)</td><td></td></tr><tr><td>Quintile 3 hospitals</td><td>171</td><td>181</td><td>189</td><td></td></tr><tr><td>No. of cases</td><td>16051</td><td>19870</td><td>20635</td><td>&lt;0,001**</td></tr><tr><td>Percentage of annual cases</td><td>14,0 %</td><td>14,3 %</td><td>14,4 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>75&#8211;116</td><td>89&#8211;153</td><td>91&#8211;130</td><td></td></tr><tr><td>Median</td><td>93,00</td><td>109,00</td><td>107,00</td><td></td></tr><tr><td>Mean (SD)</td><td>93,87 (11,9)</td><td>109,78 11,5)</td><td>109,18 (11,7)</td><td></td></tr><tr><td>Quintile 4 hospitals</td><td>171</td><td>181</td><td>190</td><td></td></tr><tr><td>No. of cases</td><td>10857</td><td>13302</td><td>14042</td><td>&lt;0,001**</td></tr><tr><td>Percentage of annual cases</td><td>9,5 %</td><td>9,6 %</td><td>9,8 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>53&#8211;75</td><td>60&#8211;89</td><td>59&#8211;91</td><td></td></tr><tr><td>Median</td><td>63,00</td><td>74,00</td><td>73,00</td><td></td></tr><tr><td>Mean (SD)</td><td>63,49 (6,7)</td><td>73,49 (8,1)</td><td>73,91 (9,2)</td><td></td></tr><tr><td>Quintile 5 hospitals</td><td>171</td><td>181</td><td>190</td><td></td></tr><tr><td>No. of cases</td><td>5677</td><td>7634</td><td>7985</td><td>&lt;0,001**</td></tr><tr><td>Percentage of annual cases</td><td>4,9 %</td><td>5,5 %</td><td>5,6 %</td><td>0,999#</td></tr><tr><td>Min. &#8211; max.</td><td>1&#8211;53</td><td>1&#8211;60</td><td>1&#8211;59</td><td></td></tr><tr><td>Median</td><td>40,00</td><td>51,00</td><td>51,00</td><td></td></tr><tr><td>Mean (SD)</td><td>33,20 (18,1)</td><td>42,18 (18,0)</td><td>42,03 (17,6)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4511553_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.4,
+    678.7,
+    685.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4511553_table_4.png",
+   "html": "<table><tr><td></td><td>2006</td><td>2008</td><td>2010</td><td>p</td></tr><tr><td>Hospitals with no. of cases &#8805; 1</td><td>40</td><td>40</td><td>37</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>0,0 %</td><td>&#8722;7,5 %</td><td></td></tr><tr><td>Annual no. of cases</td><td>2784</td><td>2784</td><td>2856</td><td></td></tr><tr><td>Change to 2006</td><td>-</td><td>0,0 %</td><td>+2,6 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>4&#8211;251</td><td>9&#8211;255</td><td>12&#8211;264</td><td></td></tr><tr><td>Median</td><td>57,50</td><td>60,50</td><td>69,00</td><td></td></tr><tr><td>Mean (SD)</td><td>69,60 (48,4)</td><td>69,60 (48,7)</td><td>77,19 (51,7)</td><td></td></tr><tr><td>Hospitals complying MVS*: 25 per year</td><td>38 (95 %)</td><td>36 (90,0 %)</td><td>35 (94,6 %)</td><td></td></tr><tr><td>No. of cases in hospitals complying MVS</td><td>2769 (99,5 %)</td><td>2721 (97,7 %)</td><td>2824 (98,9 %)</td><td></td></tr><tr><td>Hospitals not complying MVS</td><td>2 (5,0 %)</td><td>4 (10,0 %)</td><td>2 (5,4 %)</td><td></td></tr><tr><td>No. of cases in hospitals not complying MVS</td><td>15 (0,5 %)</td><td>63 (2,3 %)</td><td>32 (1,1 %)</td><td></td></tr><tr><td>Tercile 1 hospitals</td><td>13</td><td>13</td><td>12</td><td></td></tr><tr><td>No. of cases</td><td>1581</td><td>1597</td><td>1598</td><td>0,438**</td></tr><tr><td>Percentage of annual cases</td><td>56,8 %</td><td>57,3 %</td><td>56,0 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>85&#8211;251</td><td>86&#8211;255</td><td>96&#8211;264</td><td></td></tr><tr><td>Median</td><td>105,00</td><td>107,00</td><td>117,00</td><td></td></tr><tr><td>Mean (SD)</td><td>121,62 (48,3)</td><td>122,85 (47,5)</td><td>133,17 (51,0)</td><td></td></tr><tr><td>Tercile 2 hospitals</td><td>14</td><td>14</td><td>13</td><td></td></tr><tr><td>No. of cases</td><td>837</td><td>830</td><td>883</td><td>0,288**</td></tr><tr><td>Percentage of annual cases</td><td>30,1 %</td><td>29,8 %</td><td>30,9 %</td><td></td></tr><tr><td>Min. &#8211; max.</td><td>39&#8211;84</td><td>39&#8211;84</td><td>40&#8211;94</td><td></td></tr><tr><td>Median</td><td>57,50</td><td>60,50</td><td>69,00</td><td></td></tr><tr><td>Mean (SD)</td><td>59,79 (16,1)</td><td>59,29 (15,1)</td><td>67,92 (15,6)</td><td></td></tr><tr><td>Tercile 3 hospitals</td><td>13</td><td>13</td><td>12</td><td></td></tr><tr><td>No. of cases</td><td>366</td><td>357</td><td>375</td><td>0,433**</td></tr><tr><td>Percentage of annual cases</td><td>13,1 %</td><td>12,8 %</td><td>13,1 %</td><td>0,999#</td></tr><tr><td>Min. &#8211; max.</td><td>4&#8211;38</td><td>9&#8211;38</td><td>12&#8211;39</td><td></td></tr><tr><td>Median</td><td>32,00</td><td>30,00</td><td>33,50</td><td></td></tr><tr><td>Mean (SD)</td><td>28,15 (10,4)</td><td>27,46 (9,0)</td><td>31,25 (8,0)</td><td></td></tr></table>"
+  }
+ ]
+}

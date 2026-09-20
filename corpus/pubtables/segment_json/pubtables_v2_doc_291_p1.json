@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_291",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    210.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9:177"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/177"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    680.8
+   ],
+   "ocr": "the bottom-up approach is that it affords a straightfor- ward understanding of the underlying biological process behind the discovered gene signature [12]. Similarly, the recently developed gene set enrichment analysis (GSEA) and similar methods are promising tools for high- throughput data analysis. These methods enable research- ers to identify significantly changed biological themes and pathways from gene expression data by observing changes in expression using pre-defined gene sets [21,22]. Another method, named globaltest, was recently developed to test the association of a pathway with survival using gene expression data [23]. A gene signature is useless if it works well only on the dataset from which it was developed. Thus, recent work includes external validation of developed signatures as a necessary step that will reinforce the applicability of gene signatures to other datasets [14,15,24]. Here, we suggest a simple but very effective approach to identify gene signa- tures that are prognostic in multiple datasets. Rather than developing a signature from one dataset and validating it in other datasets, we suggest simultaneously testing mul- tiple pre-defined gene signatures on multiple datasets to identify signatures that are prognostic in as many inde- pendent datasets as possible. By exhaustively testing all combinations of gene sets and datasets, our approach guarantees that the best gene signature will be identified among a pool of pre-defined gene sets. Moreover, our approach will enable better understanding of the underly- ing biology of disease by observing the patterns of associ- ation between gene expression and clinical parameters at multiple gene set levels. In this work, we applied a bottom-up, gene sets approach to multiple datasets to determine gene signatures for prog- nosis of breast cancer patients. We chose breast cancer because there are several high-quality breast cancer gene Table 1: Breast cancer datasets analyzed in this study"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    655.3
+   ],
+   "ocr": "expression datasets with survival or recurrence informa- tion. Our goal was to identify prognostic gene signatures useful in as many independent datasets as possible. For this, we collected 12 different datasets comprising 1,756 tumor samples and prepared 2,411 gene sets from diverse sources including gene ontology, biological pathways, and previously identified prognostic gene signatures for breast cancer. For each gene set, we performed survival analysis to test if the gene set could classify patients into clinically distinct groups. We also evaluated each gene set for the accuracy of outcome prediction. Results Selection of gene sets for prognosis of survival or recurrence Analysis of 12 datasets (Table 1) with 2,411 gene sets (Table 2) including 32 gene sets previously identified as prognostic in breast and other cancers (Table 3) revealed that many of the gene sets related to cell cycle or prolifer- ation were best discriminating between good and poor prognosis groups. Table 4 presents the 20 most highly prognostic gene sets identified by two-means clustering of samples. Most of these top gene sets were related to cell cycle, mitosis, proliferation, and DNA replication as well as gene sets previously identified as prognostic in breast cancer such as 11823860_ST2, 17076897_ADF3, and 16478745_ST1 (Table 4). Kaplan-Meier plots of 12 data- sets showed that the 11823860_ST2 gene set classified patients into two groups (poor or good prognosis) accord- ing to differences in survival or recurrence in eight of 12 datasets (Figure 1). Because breast cancers are heterogene- ous and may comprise three to six subtypes [25-27], we also applied k-means clustering with k = 3, 4, 5, and 6 to each dataset to divide samples into three, four, five, and six subtypes respectively and performed log-rank test to infer the significance of differences in survival between the groups. Again, we found that gene sets related to cell"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    692.0,
+    410.5,
+    902.4
+   ],
+   "ocr": "Study Platform Samples Data source\nBild Affymetrix 169 *GSE3143\nMiller Affymetrix 251 GSE3494\nOh Oligos Agilent 67\nPawitan Affymetrix 159 GSE1456\nSorlie_1 Spotted cDNA 76 GSE3193\nSorlie_2 Spotted cDNA 39\nSotiriou_1 Spotted cDNA 99\nSotiriou_2 Affymetrix 187 GSE2990\nVan de Vijver oligos Agilent 295\nWang Affymetrix 286 GSE2034\nWeigelt Oligos Agilent 79\nWest Affymetrix 49\nTotal 1756",
+   "table_id": "PMC2364634_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    918.7,
+    382.8,
+    930.5
+   ],
+   "ocr": "*GSE: gene expression series number in GEO (gene expression omnibus)"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 2 of 11 (page number not for citation purposes)"
+  }
+ }
+}

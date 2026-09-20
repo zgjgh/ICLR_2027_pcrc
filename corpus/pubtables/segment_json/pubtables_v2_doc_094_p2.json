@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_094",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    219.7,
+    64.4
+   ],
+   "ocr": "BMC Plant Biology 2006, 6:17"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2229/6/17"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    369.8,
+    118.9
+   ],
+   "ocr": "Table 2: Basic characteristics of the Nandina and Platanus plastid"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    372.6,
+    107.2,
+    415.1,
+    118.9
+   ],
+   "ocr": "genomes"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    609.4,
+    273.5
+   ],
+   "ocr": "Nandina Platanus\ntotal genome length 156599 161791\nIR length 26062 25066\nSSC length 19002 19509\nLSC length 85473 92150\ntotal length of coding sequence (both IRs) 92284 91397\ntotal length of coding sequence (one IR) 75763 75716\ntotal length of noncoding sequence (both IRs) 64315 70394\ntotal length of noncoding sequence (one IR) 54774 61009\noverall G/C content 38.3% 38.0%",
+   "table_id": "PMC1564139_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    289.8,
+    394.7,
+    922.4
+   ],
+   "ocr": "Basic characteristics of the Nandina and Platanus plastid genomes. All lengths single-copy region; LSC = large single-copy region. insertion in Platanus) were directly associated with homopolymer runs (HRs). All HR-associated indel errors fell into two overall classes (summarized in Table 6). Approximately 85% of all errors associated with HRs involved length variation in the number of bases in a given HR. The remaining HR-associated errors involved the insertion of a base identical in composition with a given HR to a nearby, nonadjacent position. Because these insertions appear similar to transpositions, they are referred to as transposition-like insertions. An illustration of a transposition-like insertion is provided in Figure 3A. Substitution errors were not definitively observed in either genome, although two differences in base composi- tion between the conventional and GS 20 sequence were observed in the IR of Nandina. However, because the con- ventional IR sequence for Nandina was derived from a sep- arate individual than that used in the GS 20 sequencing, it is likely that both differences result from interindividual variation, especially given that both sites possessed high- quality phred scores (> 40) in the GS 20 sequence. These two putative substitutions were therefore not included in error calculations. Characteristics of the homopolymer runs associated with observed and estimated errors are also summarized in Table 6. More than 95% of all error-associated HRs in both genomes were A/T runs rather than C/G runs. A χ2 test indicated that this A/T HR-associated error bias was significantly higher than would be expected given the observed A/T content of both genomes (P < 0.01 for both genomes). Approximately half of all errors occurred in regions characterized by groups of HRs of identical base composition interrupted occasionally by a differing base (these will be termed homopolymer run sets; an example is illustrated in Figure 3B). The length distribution of HRs associated with the observed errors is shown in Figure 4. Approximately 60% of all errors were associated with runs of 5 nucleotides or greater in both genomes. Of those errors associated with runs less than 5 nucleotides, all"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    397.7,
+    289.8,
+    686.0,
+    301.6
+   ],
+   "ocr": "are given in base pairs (bp). IR = inverted repeat region; SSC = small"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    329.7,
+    698.4,
+    922.4
+   ],
+   "ocr": "were associated with homopolymer run sets in Platanus, as were 10 of 11 such errors in Nandina. All 10 of the HR set- associated errors in Nandina occurred in a single 100-bp extensive HR set within the trnV/rps12 spacer in the inverted repeat. HR-associated insertion errors occurred more frequently than deletion errors in both genomes (~5× more frequently in Nandina and ~2.5× more fre- quently in Platanus; Table 6). Nearly all insertion errors in both genomes occurred at sites with low or very low GS 20 quality scores (Table 7). Approximately 81% of all insertion errors had GS 20 phred-equivalent quality scores < 20, and approximately 93% of insertion errors had quality scores ≤ 40. However, one insertion error in each genome occurred at a site with a quality score > 40 (Table 7). Errors were not distributed uniformly throughout either plastid genome (Table 4). The combined error rate across both genomes was higher in the SC regions than in the IR regions (0.047% in the SC regions and 0.029% in the IR regions). Regions of putative noncoding sequence also exhibited a higher error rate (~2× higher) than regions of putative coding sequence across both genomes (hence- forth, putative coding and noncoding sequence will be referred to simply as coding and noncoding sequence). Similarly, error rates for noncoding sequence partitioned into IR and SC regions were higher than for coding sequence when pooled across both genomes (Table 4). The lowest overall error rates for both genomes were observed in the IR coding regions while the highest overall error rates were observed in the IR and SC noncoding regions. In both genomes at least one relatively small region contained a disproportionately large percentage of the total errors. A region of approximately 100 bp in the trnV/rps12 spacer of the Nandina genome contained 11 errors (representing 55.0% of all observed errors) in asso- ciation with an extensive homopolymer run set. Likewise, three errors were observed in the ycf1 gene in both genomes (representing 15.0% of all errors in Nandina and"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 13 (page number not for citation purposes)"
+  }
+ }
+}

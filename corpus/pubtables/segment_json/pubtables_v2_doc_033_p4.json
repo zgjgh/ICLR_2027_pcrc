@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_033",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2005, 6:205"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/6/205"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    380.0,
+    118.9
+   ],
+   "ocr": "Table 6: LOOCV errors for two-class classification with PGA data:"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    382.8,
+    107.2,
+    488.0,
+    118.9
+   ],
+   "ocr": "ischemic vs idiopathic."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    90.2,
+    130.1,
+    651.2,
+    325.3
+   ],
+   "ocr": "# of top genes PPLS PLS SC LASSO RF\n50 3 2 2 2 2\n100 1 1 2 1 1\n200 1 1 2 1 2\n400 1 1 1 2 1\n800 1 1 1 3 1\n1600 1 1 1 2 1\n3200 1 2 1 1 1\n6400 1 3 1 1 1\n9600 1 3 1 1 1\n12800 1 3 1 1 1\n16000 1 2 1 1 1\n19200 1 1 1 1 1\n22277 1 1 1 1 1",
+   "table_id": "PMC1224853_table_5"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    388.3,
+    374.6,
+    412.8
+   ],
+   "ocr": "Table 7: Genes selected by ≥ 4 methods in two-class classification total numbers of the genes in the final models."
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    377.5,
+    389.1,
+    695.4,
+    400.8
+   ],
+   "ocr": "(ischemic vs idiopathic) with Minnesota data. The last row gives the"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    424.0,
+    693.7,
+    825.9
+   ],
+   "ocr": "Probe Set Gene Rank PPLS PLS SC LSO RF\n215066_at PTPRF: protein tyrosine phosphatase, receptor type, F 1 X X X X\n212008_at UBXD2: UBX domain containing 2 X X X X\n217234_s_at VIL2: villin 2 (ezrin) 3 X X X X\n202092_s_at BART1: binder of Arl Two 5 X X X X\n218318_s_at NLK: nemo-like kinase 7 X X X X\n212062_at ATP9A: ATPase, Class II, type 9A 9 X X X X\n218208_at FLJ22378: hypothetical protein FLJ22378 13 X X X X\n212093_s_at MTSG1: mitochondrial tumor suppressor gene 1 14 X X X X\n214543_x_at QKI: quaking homolog, KH domain RNA binding (mouse) 24 X X X X\n209487_at RBPMS: RNA binding protein with multiple splicing 26 X X X X X\n202877_s_at C1QR1: complement component 1, q subcomponent, receptor 1 31 X X X X\n64438_at FLJ22222: hypothetical protein FLJ22222 40 X X X X\n221928_at LOC283445: hypothetical protein LOC283445 44 X X X X\n212556_at SCRIB: scribble 48 X X X X\n202641_at ARL3: ADP-ribosylation factor-like 3 50 X X X X\n201559_s_at CLIC4: chloride intracellular channel 4 64 X X X X\n216231_s_at Homo sapiens transcribed sequence with strong similarity to protein pdb:3HLA 73 X X X X X\n(H.sapiens) B Chain B, Human Class I Histocompatibility Antigen A2.1 (HLA-A2.1\nHuman Leucocyte Antigen)\n220477_s_at C20orf30: chromosome 20 open reading frame 30 76 X X X X\n208879_x_at C20orfl4: chromosome 20 open reading frame 14 88 X X X X\n207630_s_at CREM: cAMP responsive element modulator 107 X X X X\n212117_at ARHQ: ras homolog gene family, member Q 116 X X X X\n212904_at KIAA1185: KIAA1185 protein 121 X X X X\nM33197_5_at GAPD: glyceraldehyde-3-phosphate dehydrogenase 161 X X X X\n213507_s_at KPNB1: karyopherin (importin) beta 1 163 X X X X\n207627_s_at TFCP2: transcription factor CP2 208 X X X X\nTotal - - 275 22283 36 22 883",
+   "table_id": "PMC1224853_table_6"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    880.2,
+    372.6,
+    924.0
+   ],
+   "ocr": "It may be argued that a classification involving normal samples should be much easier because the normal class is very different from the other two classes. Correct diag-"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    880.2,
+    698.3,
+    924.0
+   ],
+   "ocr": "nosis between ischemic and idiopathic would be much more challenging. Hence we conducted a two-class classi- fication with 11 ischemic and 14 idiopathic samples. The"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 15 (page number not for citation purposes)"
+  }
+ }
+}

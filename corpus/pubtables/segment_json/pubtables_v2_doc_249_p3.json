@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_249",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    580.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Hybrid flower pollination algorithm"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    97.5,
+    509.1,
+    107.6
+   ],
+   "ocr": "Table 4. Parameters for meta-heuristic strategies of interests."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.3,
+    684.7,
+    711.5
+   ],
+   "ocr": "Algorithm Parameter Values\nGA Iteration 1000\nPopulation size 25\nBest cloned 1\nRandom crossover 0.75\nTournament selection 0.8\nMax stale period 3\nMutation rate 0.03\nEscape mutation 0.25\nSA Iteration 1000\nCooling schedule 0.9998\nStarting temperature 20\nACA Iteration 1000\nNumber of ants 20\nPheromone control 1.6\nPheromone persistence 0.5\nHeuristic control 0.2\nPheromone amount 0.01\nInitial pheromone 0.4\nMax stale period 5\nElite ants 2\nPSO Iteration 100\nPopulation size 80\nInertia weight 0.3\nAcceleration coefficients 1.375\nCS Iteration 100\nPopulation size 100\nProbability ep 0.25\nHS Improvisation 1000\nHarmony memory size 100\nHarmony memory consideration rate 0.7\nPitch adjustment rate 0.2\nHHH Iteration 100\nPopulation size 40\nTabumax 4\nInertia weight 0.3\nAcceleration coefficients (c1,c2) 1.375\nProbability p 0.25",
+   "table_id": "PMC5931463_table_3"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    718.6,
+    443.1,
+    729.2
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t004"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    753.9,
+    724.0,
+    897.8
+   ],
+   "ocr": "performance of lFPA, and the performance of FPA is close to that of the mFPA. However, the results of FPA and mFPA indicate very poor performance compared with those of eFPA and lFPA. We also study the convergence rate of hybrid FPA-based strategies, which is an important aspect of any hybridization endeavor. To evaluate the convergence rate of the hybrid variants of FPA, they are executed 20 times with different iteration values (i.e., 5, 10, 20, 30, 40, 50, 100, 200, 300, 500, and 1000). The average values of the 20 runs for the two well-known CAs, CA (N; 2, 105) and CA (N; 2, 46), are used to demonstrate the convergence speed of the proposed algorithms. As shown in Fig 7, employing the hybridization components in the FPA improves"
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195187 May 2, 2018 14 / 24"
+  }
+ }
+}

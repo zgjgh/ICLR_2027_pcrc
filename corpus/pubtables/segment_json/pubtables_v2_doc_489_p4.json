@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_489",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    479.8,
+    48.8,
+    727.4,
+    60.9
+   ],
+   "ocr": "Dispersal of Engineered Male Aedes aegypti Mosquitoes"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    262.3,
+    107.4
+   ],
+   "ocr": "Table 5. Malaysia model coefficient estimates."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    194.3
+   ],
+   "ocr": "Coefﬁcient Estimate Standard error t-value p-value\nIntercept -0.013 0.79 -0.016 0.98\nTransformed distance 96,300 17,500 5.50 <0.0001\nNumber of days post release -0.46 0.22 -2.10 0.036\nInteraction (Transformed distance × Days post release) -24420 6467 -3.78 0.0002",
+   "table_id": "PMC4640874_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    207.0,
+    725.9,
+    616.8
+   ],
+   "ocr": "GLM coefﬁcient estimates and associated standard errors, t-values and p-values from the optimal model for the Malaysia analysis. Distance was transformed using the exponential power kernel. doi:10.1371/journal.pntd.0004156.t005 larger release numbers. We have assumed throughout that aspiration will not remove all fluo- rescent dust from the marked individuals [38]. The dataset could also have been further improved with household-specific monitoring of climatic factors to give greater resolution to observations on the relationship between meteorological variables and recapture numbers. The standard errors of the GLM coefficients (Tables 3 and 5) were estimated conditional upon the MLEs for kernel parameters a and b whilst the confidence intervals for the kernel parameters were obtained conditional upon the MLE for the GLM coefficients. Thus the reported standard errors are likely to be smaller than if we had been able to compute the unconditional standard errors and confidence intervals for all of the parameters. Analysis of the residuals indicated lit- tle residual spatial autocorrelation with perhaps the exception of some under-estimation of recapture numbers at further distances (>150 m), potentially indicating the influence of long- distance dispersers [39], although, due to the small number of recaptures, this is difficult to verify. The optimal GLM associated with the Malaysia data also explained approximately 50% of the variation observed in the recapture data. For the optimal model only two covariates, num- ber of days post release and distance, plus their interaction term were included. The optimal model again used the exponential power dispersal kernel, with a corresponding MDT estimate of 58m (95% CI: 51.1m, 71.0m) that corroborated the MDT estimate of 52.4m (95% CI: 41.6m, 61.4m) from the previously published analysis of these data [12]. The FR50 estimate of 51.8m (95% CI: 47.9m, 58.7m) was substantially different from the previously published estimates of 16.2m (95% CI: 10.5m, 22.5m), a product of the different underlying models for dispersal with"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    834.1,
+    726.0,
+    901.4
+   ],
+   "ocr": "Fig 6. Dispersal kernel comparison. A comparison of the A) distance pdf and B) density with respect to distance for estimates using MRR data from Brazil (solid blue line) and Malaysia (dashed pink line). The comparison highlights the similarity in estimated kernels for experiments conducted on different continents, in different habitats. doi:10.1371/journal.pntd.0004156.g006"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0004156 November 10, 2015 14 / 18"
+  }
+ }
+}

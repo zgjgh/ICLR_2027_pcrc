@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_256",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    306.8,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Bayesian variable selection with graphical structure learning: Applications in integrative genomics"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    97.5,
+    726.7,
+    119.7
+   ],
+   "ocr": "Table 5. Analysis results for integrative genomics application for features having marginal inclusion probability greater than 0.5. MIP is marginal inclusion probabil- ity, and degree is the number of edges for a particular node."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.3,
+    705.0,
+    598.6
+   ],
+   "ocr": "Gene (platform) MIP Effect size Degree Gene name MIP Effect size Degree\nHRAS(CN) 0.91 -1.22 1 AKT2(METH) 0.55 0.04 4\nTP53(CN) 0.89 -0.39 1 PIK3R2(CN) 0.55 -0.09 1\nCCND1(CN) 0.81 -0.37 1 ARAF(METH) 0.55 0.004 2\nCDKN2C(CN) 0.74 0.22 2 IRS1(CN) 0.54 0.13 2\nGRB2(METH) 0.73 0.07 9 PIK3R1(CN) 0.54 0.04 2\nBRAF(CN) 0.73 -0.13 3 NF1(mRNA) 0.54 0.01 8\nMDM2(mRNA) 0.71 -0.07 7 AKT3(METH) 0.54 0.04 15\nERBB3(METH) 0.68 -0.07 9 IRS1(METH) 0.544 -0.03 8\nTP53(METH) 0.68 0.14 5 FGFR2(CN) 0.54 0.05 8\nCDK6(CN) 0.67 0.09 4 CDK4(CN) 0.53 -0.02 5\nIGF1R(mRNA) 0.66 -0.07 10 CDKN2A(CN) 0.53 -0.07 7\nTP53(mRNA) 0.65 0.07 5 CDK6(mRNA) 0.53 0.01 7\nMDM2(CN) 0.64 -0.01 2 PIK3CG(mRNA) 0.53 -0.04 6\nRAF1(mRNA) 0.63 -0.09 12 PIK3C2B(CN) 0.53 0.04 4\nAKT1(mRNA) 0.63 -0.08 6 NRAS(CN) 0.53 0.1 1\nSRC(mRNA) 0.63 0.06 6 FOXO3A(mRNA) 0.53 0.03 7\nERBB2(METH) 0.62 -0.07 15 CDKN2C(mRNA) 0.53 0.03 11\nPDGFRB(METH) 0.61 -0.06 11 AKT2(CN) 0.52 -0.07 1\nRB1(mRNA) 0.61 0.06 8 MLLT7(METH) 0.522 -0.04 3\nGRB2(CN) 0.60 0.14 2 RB1(CN) 0.52 -0.03 4\nNRAS(mRNA) 0.60 0.06 9 PIK3CB(mRNA) 0.51 -0.03 5\nPDGFRB(mRNA) 0.59 0.05 6 FOXO3A(METH) 0.51 0.01 12\nMDM2(METH) 0.59 -0.06 14 FGFR2(mRNA) 0.51 -0.01 3\nFOXO1A(CN) 0.58 0.07 5 SPRY2(mRNA) 0.51 0.01 11\nSPRY2(CN) 0.58 0.1 1 PIK3C2B(METH) 0.51 -0.05 6\nHRAS(mRNA) 0.58 -0.05 11 KRAS(METH) 0.50 -0.05 5\nERBB2(mRNA) 0.58 0.04 6 PTEN(mRNA) 0.50 0.03 5\nNF1(METH) 0.56 -0.04 4 SRC(CN) 0.50 -0.06 1\nEGFR(CN) 0.55 0.07 5 MET(METH) 0.50 -0.01 9",
+   "table_id": "PMC6066211_table_4"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    606.8,
+    236.2,
+    617.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195070.t005"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    643.3,
+    719.4,
+    692.9
+   ],
+   "ocr": "platforms, and is constructed so as to preserve the prior graphical structure G0,pr within the platforms, while allowing the data to infer interactions between two different platforms. Thus G0 G0,pr I3,"
+  },
+  "p5_b5": {
+   "type": "title",
+   "bbox": [
+    522.1,
+    678.0,
+    592.1,
+    699.9
+   ],
+   "ocr": "� �"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    678.3,
+    727.3,
+    889.3
+   ],
+   "ocr": "the prior graph can be concisely written as: = where represents the Kronecker product of the two matrices. Since we have strong prior knowledge about within platform interactions, we choose a high value for the belief parameter (κ = 50) within platforms. How- ever we are unsure of the between platform associations and hence we choose a near zero κ value corresponding to these interactions, so that we learn these interactions directly from the raw data without imposing a strict prior belief. Results for survival-time association: We first surveyed the main prognostic (multi-plat- form) markers that were associated with the survival time of the GBM patients. The marginal inclusion probabilities of the variables using our analysis are presented in Table 5, with a corre- sponding plot in Fig 7 in the manuscript. We select the posterior probability threshold to infer important features under a false discovery rate criteria controlled at a pre-specified level, simi- lar to the method described in [36]. In particular, we can choose a threshold ϕθ for posterior probabilities so as to control the average Bayesian FDR at level θ, which essentially implies that"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195070 July 30, 2018 22 / 29"
+  }
+ }
+}

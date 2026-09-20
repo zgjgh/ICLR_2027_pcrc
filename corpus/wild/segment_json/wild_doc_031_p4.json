@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_031",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The following table presents key serological and genetic markers related to hepatitis B virus (HBV) infection, specifically focusing on the metrics of Anti-HBs (mIU/mL) and Anti-HBc (s/CO) among a cohort with distinct genotypic variations. Understanding the serological landscape of HBV is crucial for assessing the immune response to infection and vaccination, as well as for evaluating the risk of developing chronic liver disease."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "In this dataset, the measured levels of Anti-HBs at 119.87 mIU/mL suggest a potential protective immunity, indicative of either successful vaccination or past infection resolution. Conversely, the Anti-HBc level of 4.15 s/CO indicates ongoing or past exposure to the virus, as this marker is typically associated with HBV infection history."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    601.0
+   ],
+   "ocr": "No Sample Code Hepatitis serology titer Sex Age (years) Nested PCR result (HBV ORF)* HBV titer (log copy/ml) Genotype/Sub Genotype\nAnti-HBs (mIU/mL) Anti-HBc (s/CO) Precore/Core Gene Surface Gene Polymerase Gene X Gene\n1 A026 119.87 4.15 Male 45 + + – + <2.9 (+) C1\n2 A084 558.91 0.12 Male 56 + + – + 2.9 B\n3 A138 0.4 11.04 Male 51 – – + + <2.4 (+) B3\n4 S032 504.67 0.07 Male 23 + – + <2.4 (+) B3\n5 S049 2084.76 0.09 Female 32 + + + + <2.4 (+) B3\n6 U064 0.72 7.97 Male 27 – + – + <2.4 (+) B3\n7 U075 132.41 0.39 Male 22 – – + + 2.4 B\n8 U110 14.81 0.09 Male 23 – + + + <2.4 (+) B\n9 U132 33.2 1.94 Male 50 – – + + <2.4 (+) B3\n10 U152 560.56 0.8 Male 24 – + – + <2.4 (+) B7\n11 U154 29.96 0.14 Female 24 – + + + <2.4 (+) B3\n12 U169 852.06 7.61 Male 24 + – – + <2.4 (+) B3\n13 U250 15.91 0.21 Male 18 – + + + <2.4 (+) B3\n14 U258 850.22 8.97 Male 50 – + – + <2.4 (+) B7\n15 U282 1.41 9.02 Male 31 – – + + <2.4 (+) B3\n16 U313 3.61 6.06 Female 46 – + – + <2.4 (+) C1\n17 U338 1.09 10.25 Male 54 – + – + 3.3 B3",
+   "table_id": "img_034399_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    617,
+    580,
+    644
+   ],
+   "ocr": "Additionally, the presence of specific genetic markers such as the Precore/Core Gene, Surface Gene, Polymerase Gene, and X Gene can provide insights into the viral load and mutation patterns that may affect treatment approaches."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    632,
+    580,
+    690
+   ],
+   "ocr": "The demographic details, including the sex of the participant (Male), further contextualize the interpretation of these serological and genetic findings within the broader epidemiological framework of HBV infection. This comprehensive analysis is essential for informing clinical decisions and public health strategies targeting HBV management."
+  }
+ }
+}

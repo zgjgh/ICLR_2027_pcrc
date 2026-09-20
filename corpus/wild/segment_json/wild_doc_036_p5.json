@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_036",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    234.0
+   ],
+   "ocr": "Test Cut-off with ROC curve Sensitivity(CI 95%) Specificity(CI 95%) LR+(CI 95%) LR−(CI 95%)\nNPC recovery ≥8.25 cm 0.85(0.69–1) 0.82(0.61–1) 4.79(1.69–14) 0.19(0.08–0.48)\nBAF ≤8.25 cpm 0.88(0.75–1) 0.79(0.63–0.94) 4.14(2.12–8.09) 0.15(0.06–0.39)\nNPC break ≥5.35 cm 0.73(0.56–0.89) 0.91(0.80–1) 8.00(2.67–24) 0.30(0.17–0.53)\nMAF ≤8.25 cpm 0.70(0.52–0.87) 0.94(0.84–1) 12.00(2.95–45) 0.32(0.19–0.55)\nVF ≤14.75 cpm 0.70(0.52–0.87) 0.70(0.52–0.87) 2.30(1.31–4.04) 0.25(0.25–0.76)\nMEM ≤0.63 D 0.73(0.56–0.89) 0.55(0.36–0.73) 1.60(1.04–2.46) 0.50(0.26–0.95)\nNRA ≤2.38 D 0.76(0.60–0.92) 0.52(0.33–0.70) 2.30(1.31–4.04) 0.43(0.25–0.76)",
+   "table_id": "img_040469_t0"
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    249.0,
+    580.0,
+    473.0
+   ],
+   "ocr": "Serum Retinol (μM/L) Serum α-tocopherol (μM/L) Plasma ascorbate (μM/L) Leukocyte ascorbate (μg/10^8 cells)\nControl HAD Control HAD Control HAD Control HAD\nBasal 2.0 ± 0.4 2.0 ± 0.3 14.2 ± 2.4 14.0 ± 1.8 62.7 ± 11.5 62.6 ± 10.3 27.8 ± 4.7 27.9 ± 4.8\n1st month 2.0 ± 0.3 2.1 ± 0.3 15.3 ± 2.3 15.8 ± 1.6* 62.8 ± 13.5 67.1 ± 9.9 28.0 ± 4.0 29.5 ± 4.1\n2nd month 2.1 ± 0.3 2.2 ± 0.2 14.4 ± 2.0 16.6 ± 1.8*# 65.6 ± 11.7 79.8 ± 10.6*# 26.1 ± 6.1 31.0 ± 3.9#\n3rd month 1.9 ± 0.4 2.3 ± 0.3*# 14.2 ± 2.2 18.1 ± 1.9*# 67.1 ± 11.4 96.9 ± 9.6*# 25.2 ± 9.9 35.8 ± 3.7*#\n4th month 2.1 ± 0.5 2.4 ± 0.4*# 14.3 ± 2.1 18.7 ± 1.7*# 67.5 ± 12.0 120.6 ± 9.8*# 28.7 ± 7.3 37.6 ± 3.9*#",
+   "table_id": "img_040469_t1"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    489,
+    580,
+    578
+   ],
+   "ocr": "In the assessment of nutritional status and recovery in patients with Non-Hodgkin Lymphoma (NHL), the data presented in the accompanying table offers critical insights into the relationship between various biomarkers and patient outcomes. Specifically, the columns labeled \"Sensitivity (CI 95%)\" and \"Specificity (CI 95%)\" provide a quantitative evaluation of how effectively different tests can identify individuals who are likely to recover based on their serum vitamin levels. The sensitivity values, which reflect the proportion of true positives correctly identified by the tests, underscore the importance of biomarkers such as Serum Retinol and Serum α-tocopherol in monitoring nutritional recovery."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    566,
+    580,
+    655
+   ],
+   "ocr": "The cut-off values derived from the Receiver Operating Characteristic (ROC) curve indicate thresholds that maximize both sensitivity and specificity, which are essential for clinicians to make informed decisions regarding patient care. Furthermore, the inclusion of likelihood ratios (LR+ and LR−) enhances the understanding of the predictive validity of these tests, providing a comprehensive overview of their potential utility in clinical settings. This analysis not only supports the ongoing evaluation of NHL recovery metrics but also emphasizes the need for targeted nutritional interventions in patient management strategies."
+  }
+ }
+}

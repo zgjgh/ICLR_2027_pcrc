@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_355",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Deng BMC Bioinformatics 2011, 12:267 http://www.biomedcentral.com/1471-2105/12/267"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 9 of 12"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    382.7,
+    124.0
+   ],
+   "ocr": "Table 5 Three novel missense somatic mutations of DNMT3A"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    386.5,
+    111.0,
+    641.9,
+    124.0
+   ],
+   "ocr": "identified in 23 samples using seqgene (cov > 10)"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    666.4,
+    301.2
+   ],
+   "ocr": "transcript position (hg19) position codon number amino acid change ref bl3 bm3 bl9 bm9 ex5\ntranscript\nNM_022552 chr2:25457197 2947 897 Val- > Asp A A A/T\nNM_175629 chr2:25457197 3028 897 Val- > Asp A A A/T\nNM_153759 chr2:25457197 2237 708 Val- > Asp A A A/T\nNM_022552 chr2:25467449 1884 543 Gly- > Cys C A/C\nNM_175629 chr2:25467449 1965 543 Gly- > Cys C A/C\nNM_153759 chr2:25467449 1174 354 Gly- > Cys C A/C\nNM_022552 chr2:25457242 2902 882 Arg- > His C C/T C\nNM_175629 chr2:25457242 2983 882 Arg- > His C C/T C\nNM_153759 chr2:25457242 2192 693 Arg- > His C C/T C",
+   "table_id": "PMC3148209_table_4"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    325.3,
+    366.1,
+    459.5
+   ],
+   "ocr": "by Zhao et al. [42]. Our goal of this integrated analysis is to estimate the correlation between the mutations identified using paired DNA and RNA sequencing of cancer samples. Exome-Seq was performed on Roche 454 platform and RNA-Seq was performed on Illumina GAII platform. The datasets were downloaded from the EBI Sequence Read Archive (ERA) with submission ID ERA010917 for exome-Seq data and ERA011762 for RNA-Seq data."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    325.3,
+    678.6,
+    459.5
+   ],
+   "ocr": "We applied Tophat [37] for the RNA-Seq spliced alignment and bwa-sw [19] for exome-Seq long reads alignment on Human hg19 assembly. We generated quality control reports using ‘exon_qc’ function on the two samples respectively. The exome-Seq alignment shows that 59.6% of the refseq exons were covered at ≥ 5 fold and the mean coverage on all exons is 24 fold; RNA-Seq yields 4.8% of the refseq exons with ≥ 5 fold coverage and the mean coverage on all exons is only 1.9"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    852.9,
+    383.8,
+    914.7
+   ],
+   "ocr": "Figure 6 IGV snapshot shows CNV identified using SeqGene CNV hg19 assembly displayed. (B). Copy number aggregated across 9 pair of deletion is displayed in blue bars; the height of color bars indicate the shows the predicted genomic segments (colored regions) and breakpoints signals with blue represents negative values and red represents positive"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    368.9,
+    853.0,
+    670.8,
+    914.7
+   ],
+   "ocr": "function on 9 pair of AML exome-Seq data. (A). Coordinates of Human samples, genomic amplification is displayed in red bars and genomic number of samples that displayed genomic aberrations. (C). Heatmap using seqgene’s cnv function; The colors indicate and mean marker values; (D) Density of refseq genes across genome."
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_178",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    525.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Colored Petri Net Based SHER Mobility Model"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    309.0,
+    107.4
+   ],
+   "ocr": "Table 1. Declaration of the color sets for the SHER page."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    368.2
+   ],
+   "ocr": "Line No. Color Name Color Type\n1. colset NO int with 1..tn timed;\n2. colset INT int;\n3. colset ART int;\n4. colset REAL real;\n5. colset STRING string;\n6. colset ID string;\n7. colset RCOR REAL;\n8. colset RCOOR product RCOR*RCOR;\n9. colset LCOOR list RCOOR;\n10. colset NODE product ID*ART timed;\n11. colset STA_HOME product NODE*LCOOR*LCOOR timed;\n12. colset PAUSE product INT*NODE*STRING*LCOOR timed;\n13. colset STHOME product INT*NODE*LCOOR*STRING*LCOOR timed\n14. colset IDxCORxCOR product INT*NODE*LCOOR*LCOOR;\n15. colset HSTRY product NODE*STRING*INT*LCOOR;",
+   "table_id": "PMC4534131_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    376.0,
+    723.8,
+    419.5
+   ],
+   "ocr": "doi:10.1371/journal.pone.0133634.t001 identity (ID) number of an MH with the form MH-(i) where 1 i tn. The color set RCOOR"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    566.5,
+    406.6,
+    594.8,
+    428.4
+   ],
+   "ocr": "� �"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    421.9,
+    726.9,
+    600.0
+   ],
+   "ocr": "(Real Coordinates) is defined as a product color set of the simple color set RCOR and LCOOR. In addition, the color set RCOOR is of a type list. The color set NODE denotes the MH ID number with its arrival time. The color set STA_HOME is used to model the node ID with home and destination coordinates for the next epoch. The place MONITOR has a color set STHOME whose elements are 5-tuples con- sisting of sequence number, node, home coordinates, hotspot, and destination. The color set PAUSE is used to model the pause time after completing every epoch based on the attraction point category. The place EVERYMOVE with color set IDxCORxCOR is used to keep track of the every move of an MH. The places PRIORITYCHK and PRIORITY4 with color set STRING are used in modeling the attraction point category. The place MAX PR has color set HSTRY whose elements are 4-tuples and shows top attraction points of n MH."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    632.8,
+    726.8,
+    819.3
+   ],
+   "ocr": "2.2 Hierarchical Pages of the CPN Model The Hierarchical START page is depicted in Fig 3 and is the sub-module of the substituting transition START in Fig 2. The functionality of this page is to produce an MH for simulation. This module contains four places and two ordinary transitions. The transition TimeofArival models the mobile node identity and its arrival time. The variable n is of type NO, and the vari- able id is of type NODE (see Table 1). In initial marking M0, this transition is enabled and after one token is fired, it moves to the place MH2 of color set NODE. The place VLCTYDEPND is a fusion place and is a member of fusion set VLDPNDY. A fusion set allows different places from multiple pages to be glued together and all member places always share the same tokens. The place ND in this module is called port place and represents the total number of MHs. Pin"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    805.3,
+    694.5,
+    819.3
+   ],
+   "ocr": "Place ND is an input socket port while place STA_HOM1 is an output socket port"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    437.2,
+    805.3,
+    451.2,
+    828.2
+   ],
+   "ocr": "ðtÞ"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    813.1,
+    549.1,
+    894.8
+   ],
+   "ocr": "sock Pout sock ðtÞ. Pin sock ðSTARTÞ ¼ fNDg Pout"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    880.8,
+    727.3,
+    956.7
+   ],
+   "ocr": "sock ðSTARTÞ ¼ fSTA HOM1g PLOS ONE | DOI:10.1371/journal.pone.0133634 August 12, 2015 7 / 30"
+  }
+ }
+}

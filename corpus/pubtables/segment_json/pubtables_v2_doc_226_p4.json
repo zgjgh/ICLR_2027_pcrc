@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_226",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    482.9,
+    50.5,
+    727.3,
+    60.9
+   ],
+   "ocr": "Unit Root Testing and Estimation in Nonlinear ESTAR. . ."
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    96.5,
+    407.6,
+    106.6
+   ],
+   "ocr": "Table 6. The power of the test using Kapetanios t-statistics with theta = 0.001."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    75.7,
+    115.3,
+    662.3,
+    221.2
+   ],
+   "ocr": "Error distn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.361 0.672 0.811 0.761 0.866 0.941\nN = 100 0.819 0.881 0.915 0.913 0.961 0.980\nN = 250 0.896 0.953 0.994 0.974 0.979 0.991\nN = 500 0.990 0.996 1.00 0.999 1.00 1.00\nN = 1000 1.00 1.00 1.00 1.00 1.00 1.00",
+   "table_id": "PMC5127548_table_5"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    229.8,
+    195.2,
+    240.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t006"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    272.6,
+    415.2,
+    282.7
+   ],
+   "ocr": "Table 7. The power of the test using wild bootstrap procedure with theta = 0.05."
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    75.4,
+    291.4,
+    692.8,
+    397.3
+   ],
+   "ocr": "Error disttn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.348 0.578 0.695 0.202 0.365 0.466\nN = 100 0.567 0.766 0.844 0.254 0.398 0.483\nN = 250 0.855 0.899 0.912 0.369 0.417 0.479\nN = 500 0.925 0.941 0.946 0.541 0.719 0.768\nN = 1000 0.933 0.952 0.992 0.607 0.727 0.802",
+   "table_id": "PMC5127548_table_6"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    405.9,
+    195.2,
+    416.5
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t007"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    449.4,
+    415.2,
+    459.5
+   ],
+   "ocr": "Table 8. The power of the test using wild bootstrap procedure with theta = 0.02."
+  },
+  "p4_b8": {
+   "type": "table",
+   "bbox": [
+    75.4,
+    468.2,
+    692.8,
+    574.1
+   ],
+   "ocr": "Error disttn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.450 0.686 0.809 0.336 0.553 0.658\nN = 100 0.754 0.904 0.951 0.469 0.628 0.716\nN = 250 0.981 0.996 0.999 0.587 0.678 0.737\nN = 500 0.998 1.00 1.00 0.641 0.719 0.768\nN = 1000 1.00 1.00 1.00 0.659 0.727 0.779",
+   "table_id": "PMC5127548_table_7"
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    582.7,
+    195.2,
+    593.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t008"
+  },
+  "p4_b10": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    624.1,
+    420.7,
+    634.2
+   ],
+   "ocr": "Table 9. The power of the test using wild bootstrap procedure with theta = 0.001."
+  },
+  "p4_b11": {
+   "type": "table",
+   "bbox": [
+    75.4,
+    642.9,
+    692.8,
+    748.8
+   ],
+   "ocr": "Error disttn. Random normal Random t-disttn.\nFractile 1% 5% 10% 1% 5% 10%\nN = 50 0.575 0.851 0.925 0.530 0.814 0.900\nN = 100 0.932 0.988 0.995 0.818 0.931 0.966\nN = 250 0.999 1.00 1.00 0.960 0.978 0.985\nN = 500 1.00 1.00 1.00 0.978 0.986 0.990\nN = 1000 1.00 1.00 1.00 0.982 0.989 0.990",
+   "table_id": "PMC5127548_table_8"
+  },
+  "p4_b12": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    757.4,
+    725.5,
+    881.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0166990.t009 effected by outliers. We have computed the power of nonlinear time series ESTAR model to check the correct fitting of the nonlinear model when the data is generated from a nonlinear process. We can see from the above four tables that the performance of the quantile fit has improved in most of the situation especially when the contamination is high. The difference in the power performance of the two methods of model fitting remains unchanged for different sample sizes."
+  },
+  "p4_b13": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0166990 November 29, 2016 7 / 11"
+  }
+ }
+}

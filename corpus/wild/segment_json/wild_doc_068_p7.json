@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_068",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    172,
+    580,
+    276
+   ],
+   "ocr": "The first table presents statistics with the headers Statistics term, IM, CM, and CMT, detailing various metrics regarding reads. For All reads, the values are 40,578,646 for IM, 45,391,430 for CM, and 32,329,976 for CMT. The Unmapped reads show 4,949,040 for IM, 5,702,066 for CM, and 4,154,466 for CMT. Mapped reads are reported as 35,629,606 for IM, 39,689,364 for CM, and 28,175,510 for CMT. The Mapping rate indicates values of 0.878 for IM, 0.874 for CM, and 0.871 for CMT. Unique mapping figures are 32,288,705 for IM, 36,243,263 for CM, and 25,183,689 for CMT, with Unique mapping rates at 0.796 for IM, 0.798 for CM, and 0.779 for CMT. Finally, Repeat mapping values are 3,340,701 for IM, 3,445,877 for CM, and 2,991,640 for CMT."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    264,
+    580,
+    353
+   ],
+   "ocr": "The second table features models with headers Model, Score, B0(Constant), B1(coefficient), 95% confidence interval, and P. Model 1 scores 53.27 with B0 at 6.92, B1 at 2.23, confidence interval from 2.23 to 11.61, and P at 0.004. Model 2 scores 7.31, B0 is 1.86, B1 is -0.01, confidence interval from -0.01 to 9.36, and P is 0.05. Model 3 scores 18.26 with B0 at 2.55, B1 at 0.73, confidence interval from 0.73 to 4.38, and P at 0.006. Model 4 scores 14.30 with B0 at 2.57, B1 at 1.01, confidence interval from 1.01 to 4.14, and P at 0.001. Model 5 scores 2.93 with B0 at 0.45, B1 at -0.08, confidence interval from -0.08 to 0.98, and P at 0.09."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    420.0,
+    580.0,
+    583.0
+   ],
+   "ocr": "Statistics term IM CM CMT\nAll reads 40578646 45391430 32329976\nUnmapped reads 4949040 5702066 4154466\nMapped reads 35629606 39689364 28175510\nMapping rate 0.878 0.874 0.871\nUnique mapping 32288705 36243263 25183689\nUnique mapping rate 0.796 0.798 0.779\nRepeat mapping 3340701 3445877 2991640",
+   "table_id": "img_075894_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    650.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "Model Score B0(Constant) B1(coefficient) 95% confidence interval P\n1 Sum symptoms 53.27 6.92 2.23 to 11.61 0.004\n2 CES-D 7.31 1.86 -0.01 to 9.36 0.05\n3 Neuropsychiatric symptoms 18.26 2.55 0.73 to 4.38 0.006\n4 Somatic symptoms 14.30 2.57 1.01 to 4.14 0.001\n5 Sleep symptoms 2.93 0.45 -0.08 to 0.98 0.09",
+   "table_id": "img_075894_t1"
+  }
+ }
+}

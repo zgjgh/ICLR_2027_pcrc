@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_051",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    55,
+    580,
+    98
+   ],
+   "ocr": "The analysis of genetic variations reveals key findings across two tables. In Table 1, the headers include Exon, Position, Amino acid change, Minor allele frequency (number), dbSNP, NNSplice, Human Splicing Finder, Score ratio of donor site (SNP versus normal), and Score ratio of acceptor site (SNP versus normal)."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    86,
+    580,
+    129
+   ],
+   "ocr": "The first row, Intron 19, shows c.2283 + 103C > T with a minor allele frequency of 0.1 (10), dbSNP rs17290371, NNSplice scores of 0.48:0.53, and a note on the creation of an intronic ESE site."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    147.0,
+    580.0,
+    416.0
+   ],
+   "ocr": "Exon Position Amino acid change Minor allele frequency (number) dbSNP NNSplice Human Splicing Finder\nScore ratio of donor site (SNP versus normal) Score ratio of acceptor site (SNP versus normal)\nIntron 19 c.2283 + 103C > T - 0.1 (10) rs17290371 0.48:0.53 - Creation of an intronic ESE site\n20 c.2361G > A Q787Q 0.18 (9) rs1050171 0:0.43 - Probably no impact on splicing\n20 c.2457G > A V819V 0.04 (1) rs56183713 0.53:0 0.89:0.65 1. Creation of an exonic ESS site\n2. Alteration of an exonic ESE site\nIntron 20 c.2470-68C > A - 0.02 (1) rs530416576 - - Creation of an intronic ESE site",
+   "table_id": "img_055751_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    433.0,
+    580.0,
+    580.0
+   ],
+   "ocr": "Protein (Accession number) Percentage of identity (Accession number)\nAedes aegypti Culex quinquefasciatus Anopheles gambiae Drosophila melanogaster\nIre-1 (XM_001655187.1) 77% (XP_001843113) 61% (XP_562694) 55% (NP_001097839)\nXbp-1 (XM_001651044.1) 66% (XP-001847153) 61% (XP-310116) 46% (NP-524722)\nCas-1 (XM_001655826.1) 94% (XP-001842236) 79% (XP-316795) 74% (CAA72937)\nScap (XM_001651241.1) 89% (XP_001863686) 74% (XP_309314) 54% (AAM20923)\nS2P (XM_001663618.1) 84% (XP_001663668) 68% (XP_320696) 46% (NP_610705)",
+   "table_id": "img_055751_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    596,
+    580,
+    654
+   ],
+   "ocr": "The second row, Exon 20, c.2361G > A, indicates an amino acid change of Q787Q, a minor allele frequency of 0.18 (9), dbSNP rs1050171, NNSplice scores of 0:0.43, and a probable lack of impact on splicing. The third row, Exon 20, c.2457G > A, has an amino acid change of V819V, a minor allele frequency of 0.04 (1), dbSNP rs56183713, NNSplice scores of 0.53:0 and 0.89:0.65, with a note on the creation of an exonic ESS site and alteration of an exonic ESE site."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    642,
+    580,
+    777
+   ],
+   "ocr": "The fourth row, Intron 20, c.2470-68C > A, is marked with a minor allele frequency of 0.02 (1), dbSNP rs530416576, and a note on the creation of an intronic ESE site. Table 2 presents protein sequences with headers Protein (Accession number) and Percentage of identity (Accession number) across Aedes aegypti, Culex quinquefasciatus, Anopheles gambiae, and Drosophila melanogaster. For Ire-1 (XM_001655187.1), the percentages are 77% (XP_001843113), 61% (XP_562694), and 55% (NP_001097839). Xbp-1 (XM_001651044.1) shows 66% (XP-001847153), 61% (XP-310116), and 46% (NP-524722). Cas-1 (XM_001655826.1) has 94% (XP_001842236), 79% (XP_316795), and 74% (CAA72937). Scap (XM_001651241.1) indicates 89% (XP_001863686), 74% (XP_309314), and 54% (AAM20923). Lastly, S2P (XM_001663618.1) shows 84% (XP_001663668), 68% (XP_320696), and 46% (NP_610705)."
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_495",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    707,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4661644_table_0",
+   "page_num": 1,
+   "bbox": [
+    79.5,
+    744.3,
+    626.8,
+    830.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4661644_table_0.png",
+   "html": "<table><tr><td>Province</td><td>Districts</td><td>Income Level</td><td>Participating Hospitals</td><td>Sample Size PHWs (%)</td><td>Total PHWs Size (%)</td></tr><tr><td rowspan=\"3\">Chongqing Municipality</td><td>Jiulongpo</td><td>Developed</td><td>9 township hospitals</td><td>100(31.85)</td><td>118(34.40)</td></tr><tr><td>Qianjiang</td><td>Middle economic level</td><td>9 township hospitals</td><td>107(34.08)</td><td>110(32.07)</td></tr><tr><td>Hechuan</td><td>Underdeveloped</td><td>9 township hospitals</td><td>107(34.08)</td><td>115(33.53)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661644_table_1",
+   "page_num": 2,
+   "bbox": [
+    61.2,
+    277.5,
+    643.2,
+    816.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4661644_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Characteristics</td><td colspan=\"2\">Total</td><td colspan=\"2\">Jiulongpo</td><td colspan=\"2\">Qianjiang</td><td colspan=\"2\">Hechuan</td><td rowspan=\"2\">p</td></tr><tr><td>N = 314</td><td>%</td><td>N = 100</td><td>%</td><td>N = 107</td><td>%</td><td>N = 107</td><td>%</td></tr><tr><td colspan=\"10\">Gender</td></tr><tr><td>Male</td><td>161</td><td>51.3%</td><td>53</td><td>53.0%</td><td>53</td><td>49.5%</td><td>55</td><td>51.4%</td><td rowspan=\"2\">0.883</td></tr><tr><td>Female</td><td>153</td><td>48.7%</td><td>47</td><td>47.0%</td><td>54</td><td>50.5%</td><td>52</td><td>48.6%</td></tr><tr><td colspan=\"10\">Age</td></tr><tr><td>20&#8211;30</td><td>73</td><td>23.2%</td><td>22</td><td>22.0%</td><td>25</td><td>23.4%</td><td>26</td><td>24.3%</td><td rowspan=\"4\">0.021 *</td></tr><tr><td>31&#8211;40</td><td>110</td><td>35.0%</td><td>45</td><td>45.0%</td><td>32</td><td>29.9%</td><td>33</td><td>30.8%</td></tr><tr><td>41&#8211;50</td><td>113</td><td>36.0%</td><td>30</td><td>30.0%</td><td>38</td><td>35.5%</td><td>45</td><td>42.1%</td></tr><tr><td>51&#8211;60</td><td>18</td><td>5.7%</td><td>3</td><td>3.0%</td><td>12</td><td>11.2%</td><td>3</td><td>2.8%</td></tr><tr><td colspan=\"10\">Years of working</td></tr><tr><td>1&#8211;10</td><td>107</td><td>34.1%</td><td>37</td><td>37.0%</td><td>41</td><td>38.3%</td><td>29</td><td>27.1%</td><td rowspan=\"4\">0.195</td></tr><tr><td>11&#8211;20</td><td>114</td><td>36.3%</td><td>39</td><td>39.0%</td><td>30</td><td>28.0%</td><td>45</td><td>42.1%</td></tr><tr><td>21&#8211;30</td><td>82</td><td>26.1%</td><td>22</td><td>22.0%</td><td>30</td><td>28.0%</td><td>30</td><td>28.0%</td></tr><tr><td>31&#8211;40</td><td>11</td><td>3.5%</td><td>2</td><td>2.0%</td><td>6</td><td>5.6%</td><td>3</td><td>2.8%</td></tr><tr><td colspan=\"10\">Educational background</td></tr><tr><td>Junior high school</td><td>107</td><td>34.1%</td><td>26</td><td>26.0%</td><td>41</td><td>38.3%</td><td>40</td><td>37.4%</td><td></td></tr><tr><td>Senior high school</td><td>119</td><td>37.9%</td><td>37</td><td>37.0%</td><td>40</td><td>37.4%</td><td>42</td><td>39.3%</td><td>0.369</td></tr><tr><td>College/University</td><td>88</td><td>28.0%</td><td>37</td><td>37.0%</td><td>26</td><td>24.3%</td><td>25</td><td>23.4%</td><td></td></tr><tr><td colspan=\"10\">Major</td></tr><tr><td>Clinic</td><td>85</td><td>27.1%</td><td>24</td><td>24.0%</td><td>29</td><td>27.1%</td><td>32</td><td>29.9%</td><td rowspan=\"5\">0.045 *</td></tr><tr><td>Nursing</td><td>81</td><td>25.8%</td><td>22</td><td>22.0%</td><td>28</td><td>26.2%</td><td>31</td><td>29.0%</td></tr><tr><td>Public health</td><td>76</td><td>24.2%</td><td>33</td><td>33.0%</td><td>24</td><td>22.4%</td><td>19</td><td>17.8%</td></tr><tr><td>Maternal</td><td>43</td><td>13.7%</td><td>11</td><td>11.0%</td><td>18</td><td>16.8%</td><td>14</td><td>13.1%</td></tr><tr><td>Others</td><td>29</td><td>9.2%</td><td>10</td><td>10.0%</td><td>8</td><td>7.5%</td><td>11</td><td>10.3%</td></tr><tr><td colspan=\"10\">Title</td></tr><tr><td>None</td><td>65</td><td>20.7%</td><td>12</td><td>12.0%</td><td>21</td><td>19.6%</td><td>32</td><td>29.9%</td><td rowspan=\"4\">0.142</td></tr><tr><td>Junior</td><td>134</td><td>42.7%</td><td>42</td><td>42.0%</td><td>47</td><td>43.9%</td><td>45</td><td>42.1%</td></tr><tr><td>Middle</td><td>102</td><td>32.5%</td><td>41</td><td>41.0%</td><td>34</td><td>31.8%</td><td>27</td><td>25.2%</td></tr><tr><td>Senior</td><td>13</td><td>4.1%</td><td>5</td><td>5.0%</td><td>5</td><td>4.7%</td><td>3</td><td>2.8%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661644_table_2",
+   "page_num": 3,
+   "bbox": [
+    65.3,
+    124.1,
+    641.3,
+    811.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4661644_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Aspects</td><td rowspan=\"2\">Questions</td><td colspan=\"2\">Jiulongpo &#9312;(High)</td><td colspan=\"2\">Qianjiang &#9313;(Middle)</td><td colspan=\"2\">Hechuan &#9314;(Low)</td><td rowspan=\"2\">p</td><td rowspan=\"2\">LSD</td></tr><tr><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td></tr><tr><td rowspan=\"3\">ACH</td><td>Inner motivation</td><td>3.60</td><td>0.49</td><td>3.64</td><td>0.48</td><td>3.67</td><td>0.47</td><td>0.549</td><td></td></tr><tr><td>High standard</td><td>3.72</td><td>0.45</td><td>3.71</td><td>0.46</td><td>3.68</td><td>0.47</td><td>0.826</td><td></td></tr><tr><td>Mean</td><td>7.32</td><td>0.72</td><td>7.36</td><td>0.66</td><td>7.36</td><td>0.77</td><td>0.922</td><td></td></tr><tr><td rowspan=\"3\">PMO</td><td>Performance be tracked</td><td>3.72</td><td>0.45</td><td>3.60</td><td>0.49</td><td>3.57</td><td>0.50</td><td>0.062</td><td rowspan=\"3\">&#9312;&gt;&#9314; **</td></tr><tr><td>performance be enhanced</td><td>3.18</td><td>0.39</td><td>3.18</td><td>0.47</td><td>3.07</td><td>0.54</td><td>0.131</td></tr><tr><td>Mean</td><td>6.90</td><td>0.61</td><td>6.78</td><td>0.73</td><td>6.64</td><td>0.74</td><td>0.026 **</td></tr><tr><td rowspan=\"3\">DTO</td><td>Details</td><td>3.50</td><td>0.50</td><td>3.22</td><td>0.42</td><td>3.38</td><td>0.49</td><td>0.000</td><td></td></tr><tr><td>Precise working</td><td>3.19</td><td>0.39</td><td>3.30</td><td>0.46</td><td>3.23</td><td>0.43</td><td>0.183</td><td></td></tr><tr><td>Mean</td><td>6.69</td><td>0.60</td><td>6.52</td><td>0.63</td><td>6.62</td><td>0.64</td><td>0.158</td><td></td></tr><tr><td rowspan=\"3\">ACT</td><td>Initiative</td><td>3.24</td><td>0.43</td><td>3.17</td><td>0.38</td><td>3.19</td><td>0.39</td><td>0.410</td><td rowspan=\"3\">&#9312;&gt;&#9313; ***,&#9314;&gt;&#9313; **</td></tr><tr><td>Impetus</td><td>3.81</td><td>0.39</td><td>3.58</td><td>0.50</td><td>3.76</td><td>0.43</td><td>0.001</td></tr><tr><td>Mean</td><td>7.05</td><td>0.61</td><td>6.75</td><td>0.60</td><td>6.94</td><td>0.64</td><td>0.002 **</td></tr><tr><td rowspan=\"3\">LRN</td><td>Summary of experience</td><td>3.84</td><td>0.37</td><td>3.79</td><td>0.41</td><td>3.76</td><td>0.43</td><td>0.336</td><td rowspan=\"3\">&#9312;&gt;&#9313; **,&#9312;&gt;&#9314; **</td></tr><tr><td>Gap analysis</td><td>3.80</td><td>0.40</td><td>3.60</td><td>0.49</td><td>3.67</td><td>0.47</td><td>0.007</td></tr><tr><td>Mean</td><td>7.64</td><td>0.58</td><td>7.39</td><td>0.67</td><td>7.43</td><td>0.67</td><td>0.013 **</td></tr><tr><td rowspan=\"3\">FAA</td><td>Decision making</td><td>3.47</td><td>0.50</td><td>3.43</td><td>0.50</td><td>3.50</td><td>0.50</td><td>0.550</td><td rowspan=\"3\">&#9312;&gt;&#9313; **,&#9312;&gt;&#9314; **</td></tr><tr><td>Frustration tolerance</td><td>3.86</td><td>0.38</td><td>3.55</td><td>0.57</td><td>3.56</td><td>0.54</td><td>0.000</td></tr><tr><td>Mean</td><td>7.33</td><td>0.59</td><td>6.98</td><td>0.81</td><td>7.07</td><td>0.80</td><td>0.002 **</td></tr><tr><td rowspan=\"3\">TMW</td><td>Role adjustment</td><td>3.32</td><td>0.47</td><td>3.28</td><td>0.45</td><td>3.20</td><td>0.42</td><td>0.126</td><td></td></tr><tr><td>Technical support</td><td>3.37</td><td>0.49</td><td>3.27</td><td>0.45</td><td>3.35</td><td>0.48</td><td>0.284</td><td></td></tr><tr><td>Mean</td><td>6.69</td><td>0.72</td><td>6.55</td><td>0.62</td><td>6.54</td><td>0.70</td><td>0.222</td><td></td></tr><tr><td rowspan=\"3\">PLR</td><td>Interpersonal influence</td><td>3.44</td><td>0.50</td><td>3.32</td><td>0.47</td><td>3.34</td><td>0.47</td><td>0.148</td><td rowspan=\"3\">&#9312;&gt;&#9313; **,&#9312;&gt;&#9314; **</td></tr><tr><td>Conflict management</td><td>3.49</td><td>0.50</td><td>3.31</td><td>0.46</td><td>3.38</td><td>0.49</td><td>0.027</td></tr><tr><td>Mean</td><td>6.93</td><td>0.66</td><td>6.63</td><td>0.68</td><td>6.72</td><td>0.70</td><td>0.005 **</td></tr><tr><td rowspan=\"3\">CMF</td><td>Concern service objects</td><td>3.72</td><td>0.45</td><td>3.56</td><td>0.50</td><td>3.55</td><td>0.50</td><td>0.021</td><td rowspan=\"3\">&#9312;&gt;&#9313; ***,&#9312;&gt;&#9314; ***</td></tr><tr><td>Develop service objects</td><td>3.88</td><td>0.33</td><td>3.64</td><td>0.48</td><td>3.68</td><td>0.47</td><td>0.000</td></tr><tr><td>Mean</td><td>7.60</td><td>0.55</td><td>7.21</td><td>0.74</td><td>7.23</td><td>0.67</td><td>0.000 ***</td></tr><tr><td rowspan=\"3\">CMC</td><td>Positive interaction</td><td>3.80</td><td>0.40</td><td>3.78</td><td>0.42</td><td>3.80</td><td>0.40</td><td>0.862</td><td rowspan=\"3\">&#9312;&gt;&#9313; **,&#9312;&gt;&#9314; **</td></tr><tr><td>Mechanism assurance</td><td>3.31</td><td>0.46</td><td>3.08</td><td>0.28</td><td>3.11</td><td>0.32</td><td>0.000</td></tr><tr><td>Mean</td><td>7.11</td><td>0.62</td><td>6.86</td><td>0.46</td><td>6.92</td><td>0.48</td><td>0.002 **</td></tr><tr><td rowspan=\"3\">RSP</td><td>Responsibility cognition</td><td>3.28</td><td>0.45</td><td>3.18</td><td>0.38</td><td>3.23</td><td>0.43</td><td>0.215</td><td></td></tr><tr><td>Consciousness</td><td>3.73</td><td>0.45</td><td>3.72</td><td>0.45</td><td>3.73</td><td>0.45</td><td>0.983</td><td></td></tr><tr><td>Mean</td><td>7.01</td><td>0.72</td><td>6.90</td><td>0.66</td><td>6.96</td><td>0.71</td><td>0.504</td><td></td></tr><tr><td colspan=\"2\">Total</td><td>78.27</td><td>2.67</td><td>75.92</td><td>3.35</td><td>76.42</td><td>2.50</td><td>0.000 ***</td><td>&#9312;&gt;&#9313; ***,&#9312;&gt;&#9314; ***</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661644_table_3",
+   "page_num": 4,
+   "bbox": [
+    127.3,
+    278.6,
+    579.2,
+    870.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4661644_table_3.png",
+   "html": "<table><tr><td>Items</td><td>n</td><td>Mean</td><td>SD</td><td>t/F Value</td><td>p</td><td>LSD</td></tr><tr><td colspan=\"7\">Sex</td></tr><tr><td>Male</td><td>161</td><td>76.88</td><td>2.91</td><td>t = 0.265</td><td>0.415</td><td></td></tr><tr><td>Female</td><td>153</td><td>76.79</td><td>3.16</td><td></td><td></td><td></td></tr><tr><td colspan=\"7\">Economic level</td></tr><tr><td>&#9312;Hechuan</td><td>107</td><td>76.42</td><td>2.499</td><td>F = 19.13 ***</td><td>0.000</td><td rowspan=\"3\">&#9314;&gt;&#9312;,&#9314;&gt;&#9313;</td></tr><tr><td>&#9313;Qianjiang</td><td>107</td><td>75.92</td><td>3.354</td><td></td><td></td></tr><tr><td>&#9314;Jiulongpo</td><td>100</td><td>78.27</td><td>2.666</td><td></td><td></td></tr><tr><td colspan=\"7\">Age</td></tr><tr><td>&#9312;20&#8211;30</td><td>73</td><td>75.22</td><td>3.42</td><td>F = 13.711 ***</td><td>0.000</td><td rowspan=\"4\">&#9315;&gt;&#9313;,&#9314;,&#9312;</td></tr><tr><td>&#9313;31&#8211;40</td><td>110</td><td>77.19</td><td>2.85</td><td></td><td></td></tr><tr><td>&#9314;41&#8211;50</td><td>113</td><td>77.12</td><td>2.45</td><td></td><td></td></tr><tr><td>&#9315;51&#8211;60</td><td>18</td><td>79.44</td><td>2.87</td><td></td><td></td></tr><tr><td colspan=\"7\">Years of working</td></tr><tr><td>&#9312;1&#8211;10</td><td>107</td><td>75.51</td><td>3.39</td><td>F = 15.507 ***</td><td>0.000</td><td rowspan=\"4\">&#9315;&gt;&#9313;,&#9314;,&#9312;</td></tr><tr><td>&#9313;11&#8211;20</td><td>114</td><td>77.46</td><td>2.71</td><td></td><td></td></tr><tr><td>&#9314;21&#8211;30</td><td>82</td><td>77.23</td><td>2.07</td><td></td><td></td></tr><tr><td>&#9315;31&#8211;40</td><td>11</td><td>80.27</td><td>3.17</td><td></td><td></td></tr><tr><td colspan=\"7\">Educational background</td></tr><tr><td>&#9312;Junior high school</td><td>107</td><td>77.37</td><td>2.36</td><td>F = 2.583</td><td>0.077</td><td>/</td></tr><tr><td>&#9313;Senior high school</td><td>119</td><td>76.53</td><td>2.99</td><td></td><td></td><td></td></tr><tr><td>&#9314;College/ University</td><td>88</td><td>76.60</td><td>3.68</td><td></td><td></td><td></td></tr><tr><td colspan=\"7\">Major</td></tr><tr><td>&#9312;Clinic</td><td>85</td><td>76.55</td><td>2.68</td><td>F = 3.907 ***</td><td>0.004</td><td rowspan=\"5\">&#9314;&gt;&#9315;,&#9312;,&#9316;,&#9313;</td></tr><tr><td>&#9313;Nursing</td><td>81</td><td>76.17</td><td>2.79</td><td></td><td></td></tr><tr><td>&#9314;Public health</td><td>76</td><td>77.93</td><td>3.17</td><td></td><td></td></tr><tr><td>&#9315;Maternal</td><td>43</td><td>76.95</td><td>2.92</td><td></td><td></td></tr><tr><td>&#9316;Others</td><td>29</td><td>76.48</td><td>3.78</td><td></td><td></td></tr><tr><td colspan=\"7\">Title</td></tr><tr><td>&#9312;None</td><td>65</td><td>75.49</td><td>2.94</td><td>F = 11.641 ***</td><td>0.000</td><td rowspan=\"4\">&#9315;&gt;&#9314;,&#9313;,&#9312;</td></tr><tr><td>&#9313;Junior</td><td>134</td><td>76.68</td><td>3.04</td><td></td><td></td></tr><tr><td>&#9314;Senior</td><td>102</td><td>77.51</td><td>2.68</td><td></td><td></td></tr><tr><td>&#9315;Advanced</td><td>13</td><td>79.92</td><td>2.50</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661644_table_4",
+   "page_num": 5,
+   "bbox": [
+    68.7,
+    333.2,
+    637.8,
+    583.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4661644_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Variables</td><td rowspan=\"2\">B</td><td rowspan=\"2\">Std. Error</td><td rowspan=\"2\">&#946;</td><td rowspan=\"2\">t value</td><td rowspan=\"2\">p</td><td colspan=\"2\">95.0% Confidence Interval for B</td><td rowspan=\"2\">R2</td><td rowspan=\"2\">F</td></tr><tr><td>Lower Bound</td><td>Upper Bound</td></tr><tr><td>Constant</td><td>71.725</td><td>0.608</td><td></td><td>118.047 ***</td><td>0.000</td><td></td><td></td><td>0.216 *</td><td>21.221 ***</td></tr><tr><td>Economic level</td><td>0.786</td><td>0.195</td><td>0.211</td><td>4.031 ***</td><td>0.000</td><td>0.403</td><td>1.170</td><td></td><td></td></tr><tr><td>Years of working</td><td>0.925</td><td>0.186</td><td>0.263</td><td>4.961 ***</td><td>0.000</td><td>0.558</td><td>1.291</td><td></td><td></td></tr><tr><td>Title</td><td>0.672</td><td>0.201</td><td>0.180</td><td>3.344 ***</td><td>0.001</td><td>0.276</td><td>1.067</td><td></td><td></td></tr><tr><td colspan=\"10\">Major</td></tr><tr><td>Nursing</td><td></td><td></td><td>&#8722;0.092</td><td>&#8722;1.710</td><td>0.088</td><td></td><td></td><td></td><td></td></tr><tr><td>public health</td><td>0.983</td><td>0.361</td><td>0.139</td><td>2.722 **</td><td>0.007</td><td>0.272</td><td>1.694</td><td></td><td></td></tr><tr><td>Maternal</td><td></td><td></td><td>0.068</td><td>1.288</td><td>0.199</td><td></td><td></td><td></td><td></td></tr><tr><td>Others</td><td></td><td></td><td>0.033</td><td>0.635</td><td>0.526</td><td></td><td></td><td></td><td></td></tr></table>"
+  }
+ ]
+}

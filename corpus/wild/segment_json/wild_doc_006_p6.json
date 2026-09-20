@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_006",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "In evaluating the impact of various treatments on body weight, the data presented in Table 1 provides crucial insights into the relationship between treatment modalities and physiological outcomes."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "The treatments assessed are categorized under distinct conditions, with corresponding measurements of body weight expressed in grams."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    364.0
+   ],
+   "ocr": "Treatments* GF Bifidobacteria P-value LSD\nBody weight (g) 39.8 ± 1.5 42.4 ± 1.0 0.1 4.4\nUterus weight (mg/g) 155 ± 14 188 ±13 0.2 54\nNumber of foetus 5.0 ± 0.4 6.6 ± 0.3 0.003 1.5\nFoetus weight (mg/g) 90 ± 6 126 ± 16 0.1 47\nSpleen weight (mg/g) 2.08 ± 0.04 2.02 ± 0.09 0.6 0.3\nLiver weight (mg/g) 4.3 ± 0.3 4.8 ± 0.2 0.4 1.1\nMLN weight (mg/g) 0.6 ± 0.1 0.5 ± 0.05 0.6 0.3\nGIT length (cm/g) 1.39 ± 0.04 1.30 ± 0.03 0.1 0.1\nGIT weight (mg/g) 147 ± 3 121 ± 6 0.02 19\nGoblet cells number 18.5 ± 1.1 22.3 ±1.2 0.07 4.3\nCrypt size (μm) 170.8 ± 2.6 184.3 ± 5.2 0.1 16.7",
+   "table_id": "img_006267_t0"
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    380,
+    580,
+    438
+   ],
+   "ocr": "Notably, the average body weight for the control group was recorded at 39.8 ± 1.5 g, while the treatment group exhibited a higher mean body weight of 42.4 ± 1.0 g. This difference suggests a potential influence of the administered treatments on weight dynamics. Additionally, the statistical significance of these findings is underscored by the P-value, which indicates the likelihood that the observed differences occurred by chance."
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    426,
+    580,
+    500
+   ],
+   "ocr": "A P-value of 0.1 implies that while there is some evidence of a discrepancy between groups, it may not reach conventional thresholds for statistical significance. Furthermore, the Least Significant Difference (LSD) analysis, which serves to establish the minimal detectable difference between group means, may provide additional context for interpreting the observed variances in body weight. Thus, the interplay between treatments and weight outcomes merits further investigation to elucidate the underlying mechanisms at work."
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_488",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    401.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparing Epidemics on ERGMs and Configuration Type Network Models"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    234.4,
+    107.4
+   ],
+   "ocr": "Table 2. Parameters for SIR Simulations."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    201.3
+   ],
+   "ocr": "HS75 HS60 HS6 Relationships PWID\nProbability of Transmission experimental variable\nNumber of seeds 1 1 1 10 10\nDuration of infection 1 1 1 1 1\n“Epidemic” min. size (Rmin) 12 15 18 40 20",
+   "table_id": "PMC4640514_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    212.9,
+    727.2,
+    707.5
+   ],
+   "ocr": "Parameters for SIR simulations. doi:10.1371/journal.pone.0142181.t002 At time 0 some initial number of seed nodes are explicitly infected. At each time epoch, trans- mission only occurs along network edges, independently for each infected-susceptible pair, according to a Bernoulli distribution with probability of infection that is fixed for each simula- tion. Infections are one time unit in duration. Simulations continue until there are no infectious nodes remaining. For each network, 1000 outbreak simulations are performed. As is usual, we choose a minimum outbreak size to define an “epidemic”. Across the three high school net- works the minimum outbreak size is about 2.2%, up to rounding. We report the final size, epi- demic durations and proportion of simulations yielding epidemics. Analysis ERGM parameter estimates, goodness-of-fit and network simulation were performed using PNet [38] (high school networks) or MPNet [35–37] (relationships network). Estimation and simulation for configuration-model type networks was performed using Matlab [39]. Maximal cliques were found using the clique.census command of the SNA package of statnet [40]. All SIR simulations and boxplots were completed using Matlab [39]. Confidence intervals use a Gaussian approximation. Results High School Contact Networks Configuration-type models and ERGMs were successfully fit to the HS75 network. Edge-trian- gle type models here use the node role sequence, which is not parsimonious, so we do not list the counts for the various node roles of each node here. On the other hand, ERGMs often have only a few parameters so the model is easily expressed. Table 3 shows the ERGM specification Table 3. HS75 Network ERGM Specification."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    716.2,
+    726.7,
+    826.0
+   ],
+   "ocr": "Statistic Estimates\nEdge -7.954149\nIsolates -10.994985\nAlt. k-star (λ = 1.50) 0.828329\nAlt. k-triangle (λ = 3.00) 1.392038\nAlt. k-2-path (λ = 3.00) -0.099633\nHomophily: person type 0.259939",
+   "table_id": "PMC4640514_table_2"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    838.7,
+    489.4,
+    872.9
+   ],
+   "ocr": "ERGM speciﬁcation for a model of the HS75 network. doi:10.1371/journal.pone.0142181.t003"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142181 November 10, 2015 14 / 36"
+  }
+ }
+}

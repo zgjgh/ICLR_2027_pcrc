@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_092",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.7,
+    64.4
+   ],
+   "ocr": "BMC Biotechnology 2005, 5:24"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6750/5/24"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    248.2,
+    118.9
+   ],
+   "ocr": "Table 1: STR genotyping performance"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    74.4,
+    130.0,
+    692.3,
+    255.3
+   ],
+   "ocr": "gDNA Input Completed1 % No GQ<0.252 Concordant % Discordant %\n(ng) Completion Amplification Concordance Genotypes Discordance\ngDNA 864 100.03 0 13 851 100.04 0 0.0\n1 821 95.0 43 70 638 80.1 150 19.0\n10 862 99.8 2 9 830 97.1 25 2.9\n25 863 99.9 1 22 823 97.7 19 2.3\n50 863 99.9 1 15 836 98.6 12 1.4\n100 861 99.7 3 11 826 96.8 27 3.2\n200 864 100.0 0 0 858 99.3 6 0.7",
+   "table_id": "PMC1249558_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.9,
+    271.5,
+    401.7,
+    330.0
+   ],
+   "ocr": "1N = 27 gDNA or wgaDNA samples were genotyped in duplicate using the 2A Genotype Quality Score (GQ) of <0.25 indicates a STR genotype with v3.0 software. 3gDNA exhibited significantly greater STR genotype completion significantly greater STR genotype concordance rates compared to wgaDNA gDNA input, p = 0.03)."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.6,
+    271.5,
+    692.8,
+    318.4
+   ],
+   "ocr": "AmpFlSTR® Identifiler® assay for N = 864 attempted genotypes/sample. a Genotype Quality Score beloew the calling threshold of GeneMapper rate than did 1 ng gDNA input (p < 0.001). 4gDNA exhibited (p < 0.0001, except for 50 ng gDNA input, with p = 0.001, and 200 ng"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    373.3,
+    372.6,
+    921.4
+   ],
+   "ocr": "composition and genotyping performance of wgaDNA produced from lymphoblast gDNA templates of 1, 10, 25, 50, 100 and 200 ng. Three DNA quantification methods, two genotyping methods, and adequate numbers of gen- otyping assays and DNA samples were used to detect sig- nificant differences in the yield, composition and genotyping performance of the wgaDNA produced from this range of gDNA inputs and to provide additional rec- ommendations on the amounts of gDNA template to be used in the MDA WGA reaction. Results WGA reaction yield The yield of H. sapiens PCR-amplifiable (hereafter \"RT- PCR\") DNA, ssDNA, dsDNA and total DNA in wgaDNA by gDNA input mass is presented in Figure 1. RT-PCR DNA yield increased significantly as gDNA input increased at each level (all p values ≤ 0.02), where the pro- portion of the total wgaDNA represented by the RT-PCR DNA increased from 20% to 46%, at 1 to 200 ng gDNA input into the WGA reaction, respectively. The yield of ssDNA decreased, and that of dsDNA increased, as the gDNA input into the WGA reaction was increased. The variability in wgaDNA yield by wgaDNA component was least for total DNA and dsDNA yield, greatest for RT-PCR yield, and intermediate for ssDNA yield. Genetic profiling with AmpFlSTR® Identifiler® assay (N = 15 STR and AMEL) gDNA exhibited STR genotype completion and concord- ance rates of 100%, which were significantly greater than the completion rate exhibited by wgaDNA produced from 1 ng gDNA input and the wgaDNA concordance produced from all gDNA inputs, respectively (Table 1). wgaDNA produced from 1 ng gDNA input exhibited significantly lower STR genotype completion and concordance rates than did wgaDNA produced from other gDNA inputs,"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    373.3,
+    698.3,
+    921.4
+   ],
+   "ocr": "while wgaDNA produced from 200 ng gDNA input exhib- ited STR genotyping completion and concordance rates similar, but not identical to gDNA. 98% of wgaDNA STR genotypes discordant with gDNA genotypes were homozygote genotypes, reflecting loss of heterozygosity. There was a trend for preferential loss of shorter alleles (129 short alleles/232 total alleles, p = 0.088), but only for wgaDNA produced from 1 ng of gDNA was this signif- icant (90 short alleles/145 total alleles, p = 0.0037). Peak heights were significantly and negatively correlated with discordance for all gDNA inputs, and for 1, 10 and 100 ng gDNA inputs separately (Spearman r = -0.58, -0.64, -0.55 and -0.62, with p values <0.0001, = 0.008, = 0.025 and = 0.001, respectively, data not shown), and peak height ratios of concordant heterozygote wgaDNA genotypes (from wgaDNA produced from 1 and 50 ng gDNA inputs) were significantly higher than those from gDNA geno- types (Wilcoxon's p values ≤ 0.03, data not shown). The rate of no amplification and discordant genotypes per STR locus was 0.8% and 4%, respectively. Five STR loci (TPOX, FGA, D7S820, D13S317 and D18S51) accounted for the majority of STR no amplification failures (82%) and discordant (56%) genotypes following WGA (Table 2). The discordance rate for AMEL genotypes for all wgaDNA strata was 0.15%, but was 0.73% for wgaDNA produced from 1 ng gDNA input (Table 2). Composite genotype quality (GQ) scores for gDNA heterozygote and homozygote concordant genotypes were significantly bet- ter (fewer genotypes in the poorer quality categories) than for concordant wgaDNA heterozygote genotypes at all gDNA input levels and for concordant wgaDNA homozy- gote genotypes produced from 1, 100 and 200 ng gDNA input levels, respectively (Table 3). wgaDNA heterozygote and homozygote concordant genotypes produced from 1 ng gDNA input exhibited significantly reduced GQ scores compared to wgaDNA heterozygote and homozygote"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 11 (page number not for citation purposes)"
+  }
+ }
+}

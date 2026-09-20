@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_419",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    678.6,
+    66.0
+   ],
+   "ocr": "Ben-Assuli et al. BMC Medical Informatics and Decision Making 2013, 13:49 Page 6 of 10 http://www.biomedcentral.com/1472-6947/13/49"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.4,
+    678.6,
+    507.4
+   ],
+   "ocr": "Table 5 Logistic regression on readmission within seven days for all DDs when viewing external medical history (Hypothesis 1a) Theory variables in the equation All DDs (N=115,719) GE (N=7,165) AP (N=21,579) UTI (N=6,950) CP (N=67,650) PO (N=12,375) a External history viewed 0.520 (<0.001) 0.318 (0.051) 0.256 (<0.001) 0.308 (0.021) 0.807 (0.176) 0.867 (0.714) Age 0.976 (<0.001) 0.998 (<0.001) 0.981 (<0.001) 0.982 (<0.001) 0.981 (<0.001) 0.971 (<0.001) c Gender 0.792 (<0.001) 1.102 (0.376) 0.638 (<0.001) 0.803 (0.222) 1.264 (<0.001) 1.138 (<0.001) β HMO 1.089 (0.031) 0.704 (0.003) 1.160 (0.012) 1.196 (0.363) 1.276 (<0.001) 1.149 (0.380) Constant 0.123 (<0.001) 0.091 (<0.001) 0.181 (<0.001) 0.066 (<0.001) 0.047 (<0.001) 0.063 (<0.001) The table reports a series of multiple regression analyses. Block 2 (control for type of department) and Block 3 (control for type of hospital) are not shown here, but were also included in the regression. Table entries represent the odd ratio, with p-values in parentheses. CP = chest pain; AP = abdominal pain; GE = a β gastroenteritis; UTI = urinary tract infection; PO = pneumonia organism; Coded 0= Medical history not viewed, 1=Medical history viewed. Coded 0 = other HMO, 1 = main HMO. c Coded 0 = female, 1= male. (all similar tables below use the same abbreviations). Viewed local information Hospital Indicates examination of medical information available This variable represented the specific hospital where the within the framework of local files available in a specific patient was evaluated. hospital. Patient age Continuous variable representing the age of the patient. Viewed external information (interoperability) Indicates the viewing of external integrative medical history, which was provided online by certain health suppliers. Patient gender External information concerned only HMO patients for Male/Female. whom both local and external types of information were available. The ethical approval and confidence The study was approved by the institutional review board at Tel Aviv University for meeting the requirements of the"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    501.0,
+    239.7,
+    514.1
+   ],
+   "ocr": "Health maintenance organization"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    508.8,
+    678.7,
+    660.1
+   ],
+   "ocr": "Ethics Committee. As for the data anonymity, the log files To control for major discrepancies in the quality and the that we used for this study didn't contain any personal de- amount of medical information between the main HMO tails on the patients including the patient id. This field was patients and other HMO patients, a dichotomous variable hushed before we received the file so it was anonymized. was created. Results Differential diagnosis We first present descriptive statistics regarding the distri- The DDs of ED referred patients were entered into the bution of ED referrals during the period of research. We database using the WHO International Classification of then present statistical tests performed to measure the Diseases (ICD/10) code. It should be noted that there relationship between the research variables. Finally, we"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    657.3,
+    366.2,
+    671.1
+   ],
+   "ocr": "could have been more than one DD per patient on a single"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    661.5,
+    678.7,
+    675.2
+   ],
+   "ocr": "present the main findings regarding the track log-file ana-"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    672.4,
+    366.1,
+    686.2
+   ],
+   "ocr": "referral. In this case we selected the main DD that was"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    676.6,
+    678.6,
+    690.4
+   ],
+   "ocr": "lysis using multivariate regression analyses. The presented"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    687.6,
+    205.8,
+    701.3
+   ],
+   "ocr": "assigned by the physicians."
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    691.7,
+    678.6,
+    815.8
+   ],
+   "ocr": "statistical analyses were consistently made on the admit- ted patients. ED department This variable represented the specific type of unit where Descriptive statistics the patient was evaluated in the ED such as internal medi- We present the data on referrals (consisting of admissions cine or surgical. and discharges) from the seven hospitals chosen for the Table 6 Logistic regression on single-day admissions for all DDs for external medical history (Hypothesis 2a)"
+  },
+  "p3_b10": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    820.7,
+    678.6,
+    919.2
+   ],
+   "ocr": "Theory variables in the equation All DDs (N=115,719) GE (N=7,165) AP (N=21,579) UTI (N=6,950) CP (N=67,650) PO (N=12,375)\nExternal history viewed 0.760 (<0.001) 0.648 (0.014) 0.649 (<0.001) 0.917 (0.590) 0.844 (<0.001) 0.876 (0.445)\nAge 0.979 (<0.001) 0.982 (<0.001) 0.977 (<0.001) 0.985 (<0.001) 0.968 (<0.001) 0.982 (<0.001)\nGender 0.960 (0.005) 1.004 (0.933) 0.967 (0.285) 0.904 (0.263) 0.822 (<0.001) 1.047 (0.478)\nHMO 0.859 (<0.001) 0.786 (<0.001) 0.936 (0.052) 0.864 (0.132) 0.891 (<0.001) 0.962 (0.609)\nConstant 1.029 (0.189) 0.986 (0.822) 1.224 (<0.001) 0.298 (<0.001) 2.547 (<0.001) 0.260 (<0.001)",
+   "table_id": "PMC3651728_table_5"
+  }
+ }
+}

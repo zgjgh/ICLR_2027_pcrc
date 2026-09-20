@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_280",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2007, 8:119"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/8/119"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    386.3,
+    769.6
+   ],
+   "ocr": "number of sites (i.e. less selective but more sensitive) pro- ceeding from lower left to upper right. Q-SiteFinder points are connected by a dashed line (- - - -). Performance across EC classes Table 5 shows performance of THEMATICS on the 169 CatRes/CSA proteins by E.C. class. For purposes of Table 5, a 0.99 Z score cut-off is used. The success rates, recall, and precision are determined using only the CatRes/CSA annotations as the reference set. Filtration ratios by class range from 3.1% to 3.5%, clustering closely around the average value of 3.3% for the full set of proteins. Success rates and recall rates by class differ by about 10% or less of the respective average values for the full set. Precision rates vary a little more widely, although we note that the lowest values are obtained for E.C. classes 5 and 6; the val- ues for these latter two classes should be regarded as approximate because of their small sample populations. Structures with a bound ligand versus unbound structures The CatRes/CSA database consists of a mixture of struc- tures, some of which are not in complex (apo form) and others contain a bound small molecule (holo form). Applications of THEMATICS to proteins of unknown function, including most Structural Genomics proteins, requires that the method perform well for apo structures, because the natural substrate or ligand is nearly always absent and generally its identity is not even known. Of the 169 proteins in the test set, 72 of them contain no bound inhibitor or substrate-like molecule. Thus the perform- ance of the method on this subset of unbound structures is compared with that of the full set. For purposes of these comparisons, a Z score cut-off of 0.99 is used and only the CatRes/CSA annotations are used as the reference set unless otherwise noted. For the 72 unbound structures, the average recall is 48.3%, compared to 50.4% for the full set of proteins. The average precision rate for the unbound subset is 19.1%, whereas 17.9% was obtained for the full set of proteins. The average filtration ratio was obtained as 3.3% for both the unbound subset and the full set. The overall success rate for the 72 unbound structures is 83% (60/72), based on CatRes/CSA annotations only; if addi- tional annotations are added to the reference set, the suc- Table 5: THEMATICS performance on the CatRes/CSA proteins by"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    389.2,
+    107.2,
+    698.4,
+    769.6
+   ],
+   "ocr": "cess rate increases to 92% (66/72). These rates are close to the values obtained for the full set of 169 proteins: 86%, 88%, and 93%, for reference sets 1, 2, and 3 respectively (see Table 3). THEMATICS performance on apo versus holo structures is further explored using pairs of structures in cases where both apo and holo structures are available for the same protein. Table 6 shows THEMATICS predictions for eight pairs of such structures. For each protein, results for the apo form are given in the first row and results for the holo form are given in the second row. The bound ligand and the PDB codes for each structure are also given. For each prediction, the residues that are in contact with the bound ligand, as determined with the holo structure and the LPC server [61], are shown in boldface. There are small differ- ences in the predicted clusters between the two forms for most of these proteins. However, clusters containing cor- rect ligand-binding residues are predicted for both the apo and holo structures for all eight proteins. For two of the eight proteins, the apo and holo structures yield identical predictions. For five of the eight proteins, the predicted clusters for the two forms contain the same set of residues in contact with the ligand, i.e. the set of residues in bold- face is the same for the two forms. For β-amylase from B. cereus, both the apo and holo forms predict four correct ligand-binding residues, D49, H89, E172, and E367, but the holo structure yields one more – K287 – that is missed by the apo structure. However, there are also two exam- ples in Table 6 where the apo form does a little bit better than the holo form. For the S. typhi ATP:corrinoid adeno- syltranferase, both structures return three correct predic- tions, K41, E128, and Y131, but the apo form also correctly predicts R161. Likewise for retinol-binding pro- tein II from rat, both the apo and holo structures predict Y19, but the apo form also correctly predicts Y60. Examples Some examples illustrate the localised nature of THEMAT- ICS predictions. Figure 3 shows a ribbon diagram of one of the subunits of Methylglyoxal synthase (E.C. 4.2.3.3; PDB: 1B93) from E. coli with the side chains of the THE- MATICS predicted residues shown explicitly in red. This E.C. class."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    780.5,
+    672.4,
+    898.3
+   ],
+   "ocr": "E.C. Class N Success Rate Recall Precision Filtration Ratio\n1 39 90% 55% 15% 3.1%\n2 39 92% 54% 23% 3.3%\n3 46 78% 45% 16% 3.4%\n4 28 79% 50% 21% 3.5%\n5 9 89% 45% 13% 3.2%\n6 8 100% 48% 14% 3.4%\nAll 169 86% 50% 18% 3.3%",
+   "table_id": "PMC1877815_table_4"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    914.6,
+    375.8,
+    926.4
+   ],
+   "ocr": "The Z score cut-off of 0.99 was used. Success rate, recall, and precision"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    378.7,
+    914.6,
+    563.3,
+    926.4
+   ],
+   "ocr": "are based on CatRes/CSA annotations only."
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 15 (page number not for citation purposes)"
+  }
+ }
+}

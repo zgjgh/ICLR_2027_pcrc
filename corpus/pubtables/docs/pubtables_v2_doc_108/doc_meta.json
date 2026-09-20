@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_108",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2559894_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    142.1,
+    692.9,
+    500.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2559894_table_0.png",
+   "html": "<table><tr><td colspan=\"3\">Major HIV proteins</td></tr><tr><td>Protein</td><td>Function of the Protein</td><td>Location</td></tr><tr><td>SU(gp120)</td><td>Binding of host's CD4 to itself</td><td>Virion Surface(SU)</td></tr><tr><td>TM (gp41)</td><td>Involved in fusion with host</td><td>Transmembrane (TM) at the Virion Envelope</td></tr><tr><td>MA (p17)</td><td>Matrix</td><td>Beneath the Enevelope</td></tr><tr><td>Vpua</td><td>Virion release</td><td></td></tr><tr><td>Vpr</td><td>Nucleus transportation of viral proteins</td><td>Within capsid and beneath matrix</td></tr><tr><td>CA (p24)</td><td>Main core protein</td><td>Nucleocapsid</td></tr><tr><td>PR (p11)</td><td>Protease.</td><td>Within the Core</td></tr><tr><td>RT (p66)</td><td>Reverse Transcriptase</td><td>Within th Core</td></tr><tr><td>IN (p32)</td><td>Integrase.</td><td>Within the Core</td></tr><tr><td>Tata</td><td>Transcription factor</td><td>NAa</td></tr><tr><td colspan=\"3\">Major influenza A virus proteins</td></tr><tr><td>Protein</td><td>Function/Description</td><td>Location</td></tr><tr><td>HA</td><td>Hemagglutinin allows the attachhment of host's CD4 to itself</td><td>Envelope</td></tr><tr><td>NA</td><td>Neuraminidase cleaves sialic acud group to allow virion release into the extracellular region.</td><td>Transmembrane (TM) at the Virion Envelope</td></tr><tr><td>MA (M1, M2)</td><td>Protein assembly with membrane binding and disassociation</td><td>Matrix: Beneath the Enevelope</td></tr><tr><td>NS1</td><td>Non-Structural Protein. Inhibits RNA splicing. RNA binding</td><td>Within capsid and beneath matrix</td></tr><tr><td>NS2</td><td>Transportation of RNPb to cytoplasm</td><td></td></tr><tr><td>NP</td><td>Nucleoprotein</td><td>Nucleocapsid</td></tr><tr><td>PB1</td><td>Main core protein</td><td>Binds to Nucleocapsid</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2559894_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.1,
+    644.0,
+    195.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2559894_table_1.png",
+   "html": "<table><tr><td>Protein</td><td>% Predicted Disordered X-raya</td><td>% Predicted Disordered NMR</td><td>% Predicted Disordered</td></tr><tr><td>PDBS90</td><td>24 &#177; 2 (14 &#177; 2)</td><td>34 &#177; 2 (32 &#177; 1)</td><td>24 &#177; 2 (15 &#177; 1)</td></tr><tr><td>HIV</td><td>27 &#177; 2 (16 &#177; 1)</td><td>50 &#177; 3 (41 &#177; 3)</td><td>34 &#177; 2 (19 &#177; 2)</td></tr><tr><td>Influenza</td><td>21 &#177; 2 (10 &#177; 2)</td><td>34 &#177; 3 (40 &#177; 3)</td><td>21 &#177; 2 (11 &#177; 2)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2559894_table_2",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    511.2,
+    639.4,
+    706.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2559894_table_2.png",
+   "html": "<table><tr><td>Protein</td><td>Accession numbers</td><td>%VLXT(VL3)a</td><td>Methodsb</td><td>Virus Type</td></tr><tr><td>SU</td><td>2i60.pdb, Subunit G</td><td>11 (0)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td colspan=\"5\">(gp120)</td></tr><tr><td>TM</td><td>2cmr.pdb, Subunit: S</td><td>34 (27)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td>(gp41) TM</td><td>1jek.pdb, Subunit: A</td><td>64 (0)</td><td>X-Ray</td><td>Visna</td></tr><tr><td>MA (p17)</td><td>1hiw.pdb, Subunit: A</td><td>61 (48)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td>VPR</td><td>1ceu.pdb, Subunit: A</td><td>39 (63)</td><td>NMR</td><td>HIV-1</td></tr><tr><td>VPUc</td><td>2goh.pdb, Subunit: A</td><td>26 (NA)d</td><td>NMR</td><td>HIV-1</td></tr><tr><td>CA (p24)</td><td>1afv.pdb, Subunit:A</td><td>48 (0)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td>PR (p11)e</td><td>1tcw.pdb, Subunit A</td><td>18 (0)</td><td>X-Ray</td><td>SIV</td></tr><tr><td>RT (p66)e</td><td>2hnz.pdb, Sunbunt: A</td><td>18 (10)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td>IN (p32)e</td><td>1k6y.pdb, Subunit: A</td><td>26 (7)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td>Nefc</td><td>1avz.pdb, Subunit: A</td><td>26 (31)</td><td>X-Ray</td><td>HIV-1</td></tr><tr><td>Tatc</td><td>1jfw.pdb, Subunit: A</td><td>100 (100)</td><td>NMR</td><td>HIV-1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2559894_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    142.1,
+    356.0,
+    310.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2559894_table_3.png",
+   "html": "<table><tr><td>Protein</td><td>Accessions</td><td>%VLXT(VL3)a</td><td>Method</td></tr><tr><td>HA1 (H1)</td><td>1ruz.pdb, Subunit H</td><td>12 (0)</td><td>X-ray</td></tr><tr><td>HA2 (H1)</td><td>1ruz.pdb, Subunit:I</td><td>12 (0)</td><td></td></tr><tr><td>HA1 (H3)</td><td>1mqn.pdb, Subunit: A</td><td>25 (0)</td><td>X-ray</td></tr><tr><td>HA2 (H3)</td><td>1mqn.pdb Subunit: B</td><td>19 (2)</td><td></td></tr><tr><td>NA (N1)</td><td>2hu0.pdb,/Sunit: S</td><td>8 (0)</td><td>X-ray</td></tr><tr><td>M1</td><td>1ea3.pdb, Subunit: A</td><td>25 (0)</td><td>X-ray</td></tr><tr><td>NS1</td><td>1xeq.pdb, Subunit: A</td><td>69 (63)</td><td>X-ray</td></tr><tr><td>NS2</td><td>1pd3.pdb, Subunit: A</td><td>60 (23)</td><td>X-ray</td></tr><tr><td>PB1</td><td>2hn8.pdb, Subunit: A</td><td>47 (NA)</td><td>NMR</td></tr><tr><td>NP</td><td>2iqh.pdb, Subunit: A</td><td>44 (0)</td><td>X-ray</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2559894_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    647.2,
+    437.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2559894_table_4.png",
+   "html": "<table><tr><td colspan=\"5\">Disorder prediction in various NA subtypes</td></tr><tr><td>Protein</td><td>Accessions</td><td></td><td>%VLXT(VL3)</td><td>Method</td></tr><tr><td>N1</td><td>2hu0.pdb, Subunit A</td><td></td><td>8 (0)</td><td>X-Ray</td></tr><tr><td>N2</td><td>2f10.pdb, Subunit: A</td><td></td><td>25 (13)</td><td>X-Ray</td></tr><tr><td>N4</td><td>2htw.pdb, Subunit A</td><td></td><td>4 (0)</td><td>X-Ray</td></tr><tr><td>N6</td><td>2w20.pdb, Subunit: A</td><td></td><td>15 (27)</td><td>X-Ray</td></tr><tr><td>N8</td><td>2htr.pdb, Subunit: A</td><td></td><td>4 (48)</td><td>X-Ray</td></tr><tr><td>N9</td><td>1jsn.pdb, Subunit S</td><td></td><td>15</td><td>X-Ray</td></tr><tr><td colspan=\"5\">Disorder predictions in various HA subtypes</td></tr><tr><td>Protein</td><td>Subunit</td><td>Accessions</td><td>%VLXT(VL3)</td><td></td></tr><tr><td rowspan=\"2\">H1</td><td>HA1</td><td>1ruz.pdb, Subunit H</td><td>12 (0)</td><td>X-Ray</td></tr><tr><td>HA2</td><td>1ruz.pdb, Subunit:I</td><td>12 (0)</td><td></td></tr><tr><td rowspan=\"2\">H3</td><td>HA1</td><td>1mqn.pdb, Subunit: A</td><td>25 (0)</td><td>X-Ray</td></tr><tr><td>HA2</td><td>1mqn.pdb, Subunit: B</td><td>19 (1)</td><td></td></tr><tr><td rowspan=\"2\">H5</td><td>HA1</td><td>2ibx.pdb, Subunit: A</td><td>12 (2)</td><td>X-RAY</td></tr><tr><td>HA2</td><td>2ibx.pdb Subunit: B</td><td>13 (0)</td><td></td></tr><tr><td rowspan=\"2\">H7</td><td>HA1</td><td>1ti8.pdb, Subunit: A</td><td>22 (11)</td><td>X-Ray</td></tr><tr><td>HA2</td><td>1ti8.Pdb, Subunit:: B</td><td>30 (0)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2559894_table_5",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    819.6,
+    567.4,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2559894_table_5.png",
+   "html": "<table><tr><td>Protein</td><td>Observed/Predicted Disorder</td></tr><tr><td>RNA Binding Proteins</td><td>Highly Disordered</td></tr><tr><td>DNA Binding Protein</td><td>Disordered</td></tr><tr><td>Enzymes (e.g. Proteases, Ribonucleases)</td><td>Ordered</td></tr><tr><td>Non-Multiply Spanning Membrane Proteins</td><td>Disordered</td></tr><tr><td>Transmembrane Proteins (e.g Pores)</td><td>Ordered</td></tr></table>"
+  }
+ ]
+}

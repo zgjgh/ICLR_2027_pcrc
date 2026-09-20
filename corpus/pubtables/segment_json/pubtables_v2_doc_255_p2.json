@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_255",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    236.1,
+    51.8
+   ],
+   "ocr": "Fan et al. BMC Genomics (2018) 19:489"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 3 of 12"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    382.7,
+    109.7,
+    681.0,
+    807.9
+   ],
+   "ocr": "markers of 1.05 cM (Fig. 1). The A subgenome was 1919.03 cM in length and contained 2500 markers; and the D subgenome was 1157.2 cM in length and con- tained 1057 markers. Thus, the A subgenome exceeded the D subgenome in map length and number of markers. The largest linkage group was LG10, and it contained 372 SNPs and spanned 392.76 cM. The shortest linkage group was LG24, and it contained 42 SNPs and spanned 22.66 cM. The average gap distance between linkage groups was 1.09 cM. The mean distance was 1–2.5 cM in 10 of 26 linkage groups and < 1 cM in the other 16 (Table 5). Comparisons of linkage groups with the G. hirsutum reference genome The 3557 SNP markers for the linkage group were analyzed by comparing the polymorphic markers using Scaffold version, with the polymorphic marker progeny genotype of G. hirsutum (Table 6) using a similarity > 85% as a standard. The results showed that 81.8% of the SNP markers in the linkage group can be assigned to chromosomes. There were 20 linkage groups that could each be found only in one corresponding chromosome. The linkage groups LG2, LG12 and LG13 were assigned to A01, and LG5 and LG17, LG9 and LG15, LG14 and LG25, and LG4 and LG23 were assigned to A02, A06, A10 and D08, respectively. Twelve linkage groups were assigned to the A subgroup, and 8 were assigned to the D sub- group. Five linkage groups (LG6, 7, 10, 20 and 22) were assigned to two chromosomes. LG7 and LG10 were assigned to the A subgroup, whereas one part of LG6, LG20 and LG22 was assigned to the A subgroup and the other was assigned to the D subgroup, with the A sub- group presenting more markers than the D subgroup. LG1 was assigned to six chromosomes: A05, A09, A13, D05, D07 and D11. Nineteen chromosomes contained linkage groups, of which 11 and 8 were in subgroup A and D, respectively. Chromosomes A04 and 11 and D1, 4, 9, 10 and 12 were not assigned any linkage groups. The map constructed in this study covers 73.1% of 26 chromosomes, indicat- ing that the quality of the constructed map was good and the subsequent traits were reliable. in RIL population"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    340.9,
+    123.1
+   ],
+   "ocr": "Table 2 The correlation analysis between seven fiber traits"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    367.1,
+    262.2
+   ],
+   "ocr": "FL FS MIC FU FE BW LP\nFL 1\nFS .273** 1\nMIC −.163 .242** 1\nFU .541** .440** −.037 1\nFE −.429** −.149 .131 −.055 1\nBW .94 .243** .153 .174* −.173* 1\nLP −.104 −.027 .165 −.177* −.19 −.127 1",
+   "table_id": "PMC6019718_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    268.6,
+    379.3,
+    807.9
+   ],
+   "ocr": "*significance at P = 0.05 **significance at P = 0.1 (34.22%) of which were polymorphic among whole markers. Of these, 15,891 SNP markers could be used for further analysis of the RIL population. No abnormal bases were found, indicating that the genotyping accur- acy was high. These markers were filtered at an integrity standard of 65%, and 12,848 markers remained. After filtering using a P-value threshold of 0.001 and the k-nearest neighbor algorithm, 3557 markers were ob- tained to construct the genetic map, and the QTLs were analyzed. Quality assessment of high-throughput markers Of the 3557 markers, 787 were segregation distortion markers (P < 0.05), and they were distributed among 24 linkage groups. Linkage groups LG8 and LG26 had no significant segregation distortion markers. The number of markers in the 24 linkage groups was unevenly distributed, with 352 markers in the A subgenome and 435 markers in the D subgenome. LG15 had the most markers (125), while LG12 and LG18 contained only two (Table 4). Eighty-one segregation distortion regions (SDRs) were distributed among 18 linkage groups. The A subgenome harbored 35 SDRs, and the D subgenome contained the rest. Construction of genetic maps based on the G. barbadense reference genome The genetic map of this population was constructed using the Sea Island cotton reference genome [35]. The genetic map contained 3557 SNPs, with a coverage of 3076.23 cM and an average distance between adjacent Table 3 ANOVA for seven fiber traits and a broad-sense heritability"
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    813.0,
+    680.5,
+    910.6
+   ],
+   "ocr": "Factor DF Sum of squares\nFL FU MIC FE FS BW LP\nGen 142 4.29** 2.82** 0.22** 0.69** 21.72** 0.53** 0.021**\nEnv 2 19.9** 115.89** 9.44** 31.90** 365.61** 9.23** 0.00322**\nGen*Env 256 2.31** 1.99** 0.14** 0.40** 12.14** 0.29** 0.0008**\nBroad-sense heritability .073 0.66 0.68 0.68 0.74 0.74 0.98",
+   "table_id": "PMC6019718_table_2"
+  },
+  "p2_b7": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    917.0,
+    298.0,
+    926.9
+   ],
+   "ocr": "*, ** Significant differences at P = 0.05 or P = 0.1, respectively"
+  }
+ }
+}

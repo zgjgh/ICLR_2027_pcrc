@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_387",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    296.8,
+    66.0
+   ],
+   "ocr": "Wilson et al. Journal of Inflammation 2012, 9:25 http://www.journal-inflammation.com/content/9/1/25"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    630.1,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 4 of 8"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    375.5,
+    385.6,
+    399.6
+   ],
+   "ocr": "Figure 2 Predictors of IGF-1. Both Age (Figure to Left) and Height (Figure Height did not differ between BTHS (open circles) and Controls (closed"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    370.0,
+    375.8,
+    659.8,
+    399.6
+   ],
+   "ocr": "to Right) were correlated with IGF-1 level. Changes across Age and boxes)."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    426.7,
+    678.8,
+    926.2
+   ],
+   "ocr": "presented in Figure 5. The R2 value for this model was 0.17 reflecting the inherent variability of the TNF:GH ratio induced by both TNF and GH values. Discussion Lower levels of two anabolic growth mediators, (IGF and GH), and a higher level of the catabolic cytokine IL-6 were observed in this study and point to an imbalance which could contribute to some of the myopathies and growth delays present in BTHS patients. Higher levels of IL-6 have been found in sedentary children and adolescents as well as in chronic diseases of childhood [11,12]. Indeed, the levels of IL-6 observed in this group of BTHS patients were similar to those reported in children with Type I diabetes mellitus [13], suggesting the contribution of a low-grade inflammatory process. Thus two potential explanations for the higher IL-6 levels in Barth Syndrome include the lower levels of physical activity resulting from exercise intoler- ance and low grade inflammatory processes in Barth Syn- drome. This study demonstrates, for the first time, a catabolic/anabolic imbalance, with a link to chronic inflam- mation, in BTHS patients which may explain the growth abnormalities and myopathies associated with this syndrome. The present case is a complex and sophisticated example of the importance of implementing regression modeling in the statistical analysis of IGF-1. While it appeared as if IGF-1 was lower in the BTHS patients (mean IGF-1 for Controls = 286.4 ng/mL and BTHS 197.90 ng/mL respect- ively, p = 0.05). This difference was found to be spurious with linear regression since it was driven by the underlying contribution of differences in the distributions of age and height between the two groups. After adjusting for height"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    428.6,
+    366.1,
+    833.5
+   ],
+   "ocr": "fluctuations can introduce variability, which was reflected in the R2 value of 0.19 for this model. With respect to IL-6:IGF-1 ratio, we found that there was no effect of age (both linear and nonlinear trends were considered and tested) and the only significant predictor was BTHS status (details given in Table 5). Our results show that on average, Barth Syndrome patients possessed significantly higher IL-6:GF-1 ratios (p = 0.03) throughout the age groups analyzed compared to the healthy controls with mean. IL-6:IGF-1 ratios of 0.003 and 0.034 respectively. Graph- ical comparison of the two distributions is presented in Figure 4. The R2 value for this model was 0.13 reflecting the inherent variability in the IGF-1 measurements induced by IL-6. Lastly, with respect to TNF:GH ratio, we found that there was no effect of age (both linear and nonlinear trends were considered and tested) and the only significant pre- dictor was Barth Syndrome status (details given in Table 6). Our results show that on average, the Barth Syndrome group possessed significantly lower (p = 0.02) TNF:GH ratios throughout their lives compared to the healthy con- trols with mean TNF:GH ratios of 0.004 and 0.019 respect- ively. Graphical comparison of the two distributions is Table 4 Model Summary of the Significant Predictors of GH"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    838.3,
+    366.1,
+    919.2
+   ],
+   "ocr": "Variable Estimate Standard Error t-value p-value\nIntercept 11602.30 3313.10 3.50 0.001\nGroup (BTHS vs. Control) −9216.00 3598.20 −2.56 0.02\nAge (years) −624.30 236.20 −2.64 0.01\nGroup * Age 639.90 256.60 2.49 0.01",
+   "table_id": "PMC3414836_table_3"
+  }
+ }
+}

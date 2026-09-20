@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_250",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "caption",
+   "bbox": [
+    248.5,
+    116.8,
+    717.4,
+    128.1
+   ],
+   "ocr": "Table 5 The MIDs for the C. glutamicum metabolic network calculated by FluxPyt and OpenFLUX."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    243.9,
+    137.4,
+    721.1,
+    697.6
+   ],
+   "ocr": "Measured MIDs FluxPyt OpenFLUX\n(Quek et al., 2009)\nAla 260 M+0 0.5085 0.5096 0.5095\nM+1 0.3529 0.3537 0.3538\nM+2 0.1058 0.1062 0.1063\nVal 288 M+0 0.3455 0.3472 0.3477\nM+1 0.3983 0.3979 0.3978\nM+2 0.1845 0.1840 0.1838\nThr 404 M+0 0.3330 0.3342 0.3341\nM+1 0.3764 0.3750 0.3758\nM+2 0.1957 0.1958 0.1957\nAsp 418 M+0 0.3343 0.3336 0.3334\nM+1 0.3732 0.3743 0.3750\nM+2 0.1955 0.1962 0.1961\nGlu 432 M+0 0.2469 0.2499 0.2493\nM+1 0.3648 0.3652 0.3657\nM+2 0.2412 0.2392 0.2396\nSer 390 M+0 0.4497 0.4483 0.4486\nM+1 0.3576 0.3582 0.3581\nM+2 0.1428 0.1437 0.1435\nPhe 336 M+0 0.2712 0.2736 0.2736\nM+1 0.3816 0.3812 0.3814\nM+2 0.2282 0.2282 0.2283\nGly 246 M+0 0.7407 0.7416 0.7416\nM+1 0.1845 0.1852 0.1852\nTyr 466 M+0 0.2344 0.2356 0.2356\nM+1 0.3530 0.3560 0.3561\nM+2 0.2423 0.2448 0.2448\nTre 361 M+0 0.0613 0.0618 0.0618\nM+1 0.6040 0.6059 0.6060\nM+2 0.2070 0.2071 0.2070\nSSR 690 701",
+   "table_id": "PMC5933345_table_4"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    235.9,
+    729.2,
+    729.9,
+    894.0
+   ],
+   "ocr": "familiar to scientists familiar with MATLAB interface. The IPython console in Spyder offers a more interactive environment than the command prompt. A print of FluxPyt for performing MFA of TCA network running in the Spyder console is provided in Data S3. The ﬂuxes calculated by MFA are dependent on the network chosen and the measurements used. In case of the C. glutamicum metabolic network, it was found that the MID data used by Quek et al. (2009) had measurement errors giving unacceptably high SSR for the MIDs calculated. Use of more recent MID data (Shupletsov et al., 2014) signiﬁcantly reduced the SSR to acceptable values."
+  },
+  "p5_b3": {
+   "type": "header_footer",
+   "bbox": [
+    42.7,
+    944.5,
+    729.9,
+    957.7
+   ],
+   "ocr": "Desai and Srivastava (2018), PeerJ, DOI 10.7717/peerj.4716 11/16"
+  }
+ }
+}

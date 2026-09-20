@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_038",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "In recent studies evaluating the impact of various treatment modalities on blood vessel injury, the data presented in the following table provides critical insights into the outcomes associated with different intervention strategies. The metrics of interest include the incidence of herniated nucleus pulposus (HNP) both with and without radiation, as indicated by the columns labeled \"HNP-No rad.\" and \"HNP-Rad.\" Furthermore, the severity of stenosis, categorized under the \"Stenosis\" column, plays a significant role in understanding the correlation between treatment types and vascular complications."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    186
+   ],
+   "ocr": "The results demonstrate a notable variation in outcomes between control and treatment groups over time, particularly when observed at the 1st and 3rd week intervals. For example, the very low incidence of blood vessel injury recorded at 0.2 in the treatment group suggests a favorable response to the therapeutic interventions applied. These findings are pivotal in guiding clinical decisions and optimizing treatment plans for patients at risk of vascular complications associated with herniated disc conditions."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    204.0,
+    580.0,
+    331.0
+   ],
+   "ocr": "DDD HNP-No rad. Stenosis HNP-Rad.\nBlood vessel injury 3 1 2 6\nUreter injury - 1 - -\nVertebral body injury - - 1 -\nDura lesion - - - 1\nTotal (%) 3 (1.8%) 2 (2.9%) 3 (4.1%) 7 (5.3%)",
+   "table_id": "img_042473_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    346.0,
+    580.0,
+    529.0
+   ],
+   "ocr": "Base values Overdispersed values (0 %—no overdispersion, 20 %—moderate overdispersion and 40 %—high overdispersion from these Median, 2.5 and 97.5 centilesdistributions)\nControl Treatment Control Treatment\nVery low 0.2 0.15 0.6 0.4\nLow 0.5 0.35 0.8 0.6\nMedium 2 1.5 3 2.5\nHigh 7 5 10 7",
+   "table_id": "img_042473_t1"
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    544.0,
+    580.0,
+    667.0
+   ],
+   "ocr": "Treatment Engrafted tumors\n1st week 3rd week\nveichle 2/10 9/10\nNT EVs 5/10 8/10\nsiCLIC1 EVs 1/10 2/10\nCLIC1 FLAG EVs 8/10 10/10",
+   "table_id": "img_042473_t2"
+  }
+ }
+}

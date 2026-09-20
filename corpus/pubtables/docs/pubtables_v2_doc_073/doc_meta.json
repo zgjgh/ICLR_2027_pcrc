@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_073",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    707,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4979649_table_0",
+   "page_num": 1,
+   "bbox": [
+    94.7,
+    633.0,
+    602.2,
+    767.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4979649_table_0.png",
+   "html": "<table><tr><td>entry</td><td>ligand</td><td>temp. (&#176;C)</td><td>conversion (%)a</td><td>yield (%)</td><td>erb</td></tr><tr><td>1</td><td>none</td><td>40</td><td>100</td><td>69</td><td>26.5:73.5</td></tr><tr><td>2</td><td>none</td><td>60</td><td>100</td><td>89</td><td>26.0:74.0</td></tr><tr><td>3</td><td>PPh3</td><td>60</td><td>0</td><td>n.r.</td><td>&#8211;</td></tr><tr><td>4</td><td>P(OPh)3</td><td>60</td><td>0</td><td>n.r.</td><td>&#8211;</td></tr><tr><td>5</td><td>(+)-(R)-methyl p-tolyl sulfoxide</td><td>60</td><td>100</td><td>74</td><td>28.0:72.0</td></tr><tr><td>6</td><td>(+)-(R)-methyl p-tolyl sulfoxide</td><td>40</td><td>50</td><td>22</td><td>41.5:58.5</td></tr><tr><td>7</td><td>(&#8722;)-(S)-methyl p-tolyl sulfoxide</td><td>40</td><td>0</td><td>N.R.</td><td>&#8211;</td></tr><tr><td>8</td><td>(&#177;)-N-(p-tosyl) methyl p-tolyl sulfimide</td><td>40</td><td>50</td><td>22</td><td>50.0:50.0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4979649_table_1",
+   "page_num": 2,
+   "bbox": [
+    122.2,
+    643.7,
+    593.0,
+    862.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4979649_table_1.png",
+   "html": "<table><tr><td>entry</td><td>solvent</td><td>conversion (%)a</td><td>yield (%)</td><td>erb</td></tr><tr><td>1</td><td>THF</td><td>100</td><td>69</td><td>26.5:73.5</td></tr><tr><td>2</td><td>acetone</td><td>100</td><td>72</td><td>67.0:33.0</td></tr><tr><td>3c</td><td>acetone</td><td>100</td><td>69</td><td>67.0:33.0</td></tr><tr><td>4d</td><td>acetone</td><td>91</td><td>n.d.e</td><td>66.0:34.0</td></tr><tr><td>5c</td><td>2,5-Me2THFf</td><td>50</td><td>17</td><td>26.5:73.5</td></tr><tr><td>6c</td><td>iPr Me ketone</td><td>70</td><td>47</td><td>57.5:42.5</td></tr><tr><td>7</td><td>DCE</td><td>100</td><td>66</td><td>60.5:39.5</td></tr><tr><td>8</td><td>toluene</td><td>59</td><td>n.d.e</td><td>31.5:68.5</td></tr><tr><td>9</td><td>EtOAc</td><td>100</td><td>65</td><td>37.0:63.0</td></tr><tr><td>10</td><td>MeOH</td><td>100</td><td>80</td><td>45.0:55.0</td></tr><tr><td>11</td><td>1,4-dioxane</td><td>100</td><td>59</td><td>32.0:68.0</td></tr><tr><td>12</td><td>DME</td><td>100</td><td>56</td><td>27.0:73.0</td></tr><tr><td>13</td><td>THFg</td><td>62</td><td>13</td><td>41.0:59.0</td></tr><tr><td>14</td><td>acetoneg</td><td>88</td><td>56</td><td>61.0:39.0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4979649_table_2",
+   "page_num": 3,
+   "bbox": [
+    103.9,
+    249.8,
+    602.2,
+    752.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4979649_table_2.png",
+   "html": "<table><tr><td>entry</td><td>R</td><td>solvent</td><td>conversion (%)a</td><td>yield (%)</td><td>erb</td></tr><tr><td>1</td><td>1</td><td>acetone THF</td><td>100 100</td><td>72 69</td><td>67.0:33.0 26.5:73.5</td></tr><tr><td>2</td><td>15</td><td>acetone THF</td><td>100 100</td><td>72 53</td><td>64.5:35.5 41.0:59.0</td></tr><tr><td>3</td><td>16</td><td>acetone THF</td><td>100 100</td><td>72 58</td><td>60.5:39.5 31.5:68.5</td></tr><tr><td>4</td><td>17</td><td>acetone THF</td><td>0 0</td><td>n.r. n.r.</td><td>&#8211; &#8211;</td></tr><tr><td>5</td><td>18</td><td>acetone THF</td><td>100 93</td><td>69 44</td><td>40.5:59.5 43.5:56.5</td></tr><tr><td>6</td><td>19</td><td>acetone THF</td><td>50 82</td><td>11 36</td><td>52.0:48.0 54.0:46.0</td></tr><tr><td>7c</td><td>20</td><td>acetone THF</td><td>100 63</td><td>50 30</td><td>27.5:72.5 22.0:78.0</td></tr><tr><td>8</td><td>21</td><td>acetone THF</td><td>100 100</td><td>70 57</td><td>73.5:26.5 47.5:52.5</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4979649_table_3",
+   "page_num": 4,
+   "bbox": [
+    136.0,
+    782.6,
+    593.2,
+    876.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4979649_table_3.png",
+   "html": "<table><tr><td>entry</td><td>[Ru]</td><td>ligand</td><td>conversion (%)a</td></tr><tr><td>1</td><td>1</td><td>none</td><td>54</td></tr><tr><td>2</td><td>CpRu(MeCN)3PF6</td><td>PPh3</td><td>15</td></tr><tr><td>3</td><td>CpRu(MeCN)3PF6</td><td>(R)-BINAP</td><td>0</td></tr><tr><td>4</td><td>CpRu(MeCN)3PF6</td><td>(S,S,R)-Feringa</td><td>0</td></tr><tr><td>5</td><td>CpRu(MeCN)3PF6</td><td>(S)-methyl p-tolyl sulfoxide</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4979649_table_4",
+   "page_num": 5,
+   "bbox": [
+    96.7,
+    267.2,
+    598.9,
+    667.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4979649_table_4.png",
+   "html": "<table><tr><td>entry</td><td>R</td><td>substrate</td><td>product</td><td>yield (%)</td><td>era,b</td></tr><tr><td>1</td><td></td><td>13</td><td>14</td><td>69</td><td>26.5:73.5</td></tr><tr><td>2</td><td></td><td>22</td><td>23</td><td>21</td><td>31.5:68.5</td></tr><tr><td>3</td><td></td><td>24</td><td>25</td><td>n.d.c</td><td>43.5:56.5</td></tr><tr><td>4</td><td></td><td>26</td><td>27</td><td>59</td><td>26.0:74.0</td></tr><tr><td>5</td><td></td><td>28</td><td>29</td><td>n.r.d</td><td>&#8211;</td></tr><tr><td>6</td><td></td><td>30</td><td>31</td><td>52</td><td>21.0:79.0</td></tr><tr><td>7</td><td></td><td>32</td><td>33</td><td>45e</td><td>26.5:73.5</td></tr><tr><td>8</td><td></td><td>34</td><td>35</td><td>56</td><td>15.0:85.0</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_063",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    138,
+    580,
+    165
+   ],
+   "ocr": "In recent years, the field of machine learning has seen substantial advancements, particularly in the application of various classifiers for predictive modeling in healthcare."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    153,
+    580,
+    181
+   ],
+   "ocr": "The data presented in the accompanying table elucidates the effectiveness of different classifiers, measuring key metrics such as sensitivity and specificity."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    233.0,
+    580.0,
+    415.0
+   ],
+   "ocr": "Paper Year Classifier Sensitivity Specificity\n[17] 2013 Naïve bayes 0.91 0.95\n[6] 2014 RF and LCA 0.72 0.78\n[57] 2013 LCR 0.66 0.89\n[58] 2013 ANN 0.60 0.67\n[20] 2012 SVM 0.73 0.76\n[59] 2012 WFSS 0.92 0.88\n[8] 2009 SI 0.90 0.75\n[60] 2010 SVM 0.70 0.78",
+   "table_id": "img_068917_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    457.0,
+    580.0,
+    584.0
+   ],
+   "ocr": "Review Mean difference 95% confidence interval of the difference t-value\nLower Upper\n0 week 3.1181 4.7903 1.4458 3.712*\n4 weeks 8.452 6.9091 9.9949 10.975*\n8 weeks 11.7847 10.4513 13.1181 17.603*\n12 weeks 15.7865 14.681 16.8921 18.659*",
+   "table_id": "img_068917_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    627,
+    580,
+    685
+   ],
+   "ocr": "For instance, a study published in 2013 demonstrated the application of the Naïve Bayes classifier, which achieved a sensitivity of 0.91 and a specificity of 0.95. These metrics are critical in evaluating the classifier's performance, especially in medical diagnostics where accurate predictions can significantly impact patient outcomes. The sensitivity metric indicates the classifier's ability to correctly identify positive cases, while specificity measures its capacity to accurately classify negative cases."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    762
+   ],
+   "ocr": "The robustness of the Naïve Bayes classifier is further supported by the reported confidence intervals, which range from 0 week to 3.1181 for the lower bound and up to 4.7903 for the upper bound. Such statistical insights are vital for practitioners and researchers alike, as they provide a clearer understanding of the classifier's reliability and potential limitations in real-world applications. Overall, the findings underscore the importance of classifier selection in enhancing predictive accuracy in clinical settings."
+  }
+ }
+}

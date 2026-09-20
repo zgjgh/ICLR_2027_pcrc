@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_288",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    210.9,
+    65.5
+   ],
+   "ocr": "BMC Genomics 2008, 9:102"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    49.8,
+    698.3,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/102"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    385.5,
+    143.1
+   ],
+   "ocr": "Table 2: Comparison of the experimental cytosolic sample with the of predicted transmembrane segments (TMS), cellular localization (EXP). Shown is the amount of unique proteins and the relation to"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    384.7,
+    107.2,
+    693.5,
+    143.1
+   ],
+   "ocr": "complete predicted E. coli proteome with respect to the number from the PSORT-database and experimental localization data the measured number of molecules in the cell."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    154.1,
+    693.1,
+    662.4
+   ],
+   "ocr": "Attributea E. coli complete Experimental cytosolic dataset\nProteins b % Proteinsc Proteinsb % Proteinsc % Abundance d\nTMS = 0 3202 75.66 940 89.5 97.6\nTMS = 1 265 6.26 50 4.8 1.7\nTMS = 2 117 2.76 10 1.0 0.2\nTMS = 3 54 1.28 7 0.7 0.1\nTMS = 4 82 1.94 7 0.7 6.2E-02\nTMS = 5 61 1.44 5 0.5 2.9E-02\nTMS = 6 81 1.91 5 0.5 4.0E-02\nTMS = 7 30 0.71 1 0.1 1.1E-02\nTMS = 8 52 1.23 3 0.3 2.6E-02\nPSORT = Cytoplasmic (C) 1574 36.51 554 52.8 65.3\nPSORT = CytoplasmicMembrane (CM) 851 19.74 93 8.9 1.2\nPSORT = Periplasmic (P) 142 3.29 61 5.8 1.6\nPSORT = OuterMembrane (OM) 91 2.11 25 2.4 2.3\nPSORT = Extracellular (E) 20 0.46 0 0.0\nPSORT = Unknown (U) 1577 36.58 288 27.4 29.0\nPSORT = Unknown (multiple sites) (UM) 56 1.30 14 1.3 0.4\nPSORT = C| CM | U | UM 4058 94.13 949 90.4 95.9\nPSORT = C | U 3054 71.21 842 80.2 94.3\nTMS = 0 & PSORT = C 1253 29.21 548 52.2 65.1\nTMS = 0 & PSORT = C | CM 1903 44.37 580 55.3 65.7\nTMS = 0 & PSORT = C | CM | U 3111 72.53 843 80.3 94.3\nTMS < = 1 & PSORT = C 1335 31.13 553 52.7 65.3\nTMS < = 1 & PSORT = C | CM 2033 47.40 592 56.4 65.8\nTMS < = 1 & PSORT = C | CM | U 3334 77.73 877 83.5 94.8\nTMS < = 1 & PSORT = C | U 2636 61.46 838 79.8 94.3\nEXP = C 370 18.57 279 26.6 63.0\nEXP = IM 76 3.82 46 4.4 4.7\nEXP = OM 62 3.11 40 3.8 2.1\nEXP = P 60 3.01 43 4.1 1.7\nTMS < = 1 & EXP = C 281 6.55 279 26.6 63.0\nTMS < = 1 & EXP = IM 62 1.45 42 4.0 4.6\nTMS < = 1 & EXP = OM 44 1.03 36 3.4 2.0\nTMS < = 1 & EXP = P 48 1.12 43 4.1 1.7\nTMS < = 1 & (PSORT = C|U | EXP = C) 2655 61.90 853 81.2 94.6\n(TMS < = 1 & PSORT = C|U) | EXP = C 2680 62.49 853 81.2 94.6",
+   "table_id": "PMC2292177_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    678.4,
+    403.5,
+    795.5
+   ],
+   "ocr": "a Annotated attributes of the proteins depicted as logical statements. An vertical line (|) indicates 'or'. The following abbreviations are used: TMS – number of predicted transmembrane segments PSORT – localization annotation from the PSORT database (C Cytoplasmic, Periplasmic, U Unknown, UM Unknown – this protein may have multiple EXP – experimental localization data from [71] (C Cytoplasmic, IM Inner b Number of unique proteins with the given attributes annotated c Percentage of the unique proteins relative to the sum of unique proteins respectively d Percentage of the actual number of protein copies found in the experimental"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    381.6,
+    678.4,
+    698.4,
+    981.8
+   ],
+   "ocr": "ampersand (&) indicates that both conditions must be fulfilled ('and'), a CM Cytoplasmic Membrane, E Extracellular, OM Outer Membrane, P localization sites) membrane, OM Outer Membrane, P Periplasmic) in the predicted E. coli proteome or in the experimental cytosolic sample, sample, i.e. fraction of the total protein copy number sum. bers of the fts-family are known to be constitutively expressed at a very low level [37,38]. Overall, the abun- dance measurements for 1050 E. coli proteins presented in this work represent the most complete study of protein abundance in a bacterial cell so far, accounting for around one fourth of all E. coli gene products with a specificity of nearly 100% for the targeted cytosolic protein set. Page 7 of 17 (page number not for citation purposes)"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    819.3,
+    372.6,
+    922.4
+   ],
+   "ocr": "of our sample preparation and almost all proteins in the sample by mass can be considered cytosolic. Our method is highly sensitive in identifying and quantifying proteins even if they occur only in very low copy numbers. We were able to identify many proteins which are present in low copy number and are hardly detectable by other tech- niques. For example, the adenylyl protein glnE and mem-"
+  }
+ }
+}

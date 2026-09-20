@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_108",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    251.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9(Suppl 2):S4"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    445.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/S2/S4"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    385.0,
+    118.9
+   ],
+   "ocr": "Table 5: Predicted intrinsic disorder in surface proteins of influenza"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    387.8,
+    107.2,
+    413.1,
+    118.9
+   ],
+   "ocr": "virus."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    647.2,
+    437.7
+   ],
+   "ocr": "Disorder prediction in various NA subtypes\nProtein Accessions %VLXT(VL3) Method\nN1 2hu0.pdb, Subunit A 8 (0) X-Ray\nN2 2f10.pdb, Subunit: A 25 (13) X-Ray\nN4 2htw.pdb, Subunit A 4 (0) X-Ray\nN6 2w20.pdb, Subunit: A 15 (27) X-Ray\nN8 2htr.pdb, Subunit: A 4 (48) X-Ray\nN9 1jsn.pdb, Subunit S 15 X-Ray\nDisorder predictions in various HA subtypes\nProtein Subunit Accessions %VLXT(VL3)\nH1 HA1 1ruz.pdb, Subunit H 12 (0) X-Ray\nHA2 1ruz.pdb, Subunit:I 12 (0)\nH3 HA1 1mqn.pdb, Subunit: A 25 (0) X-Ray\nHA2 1mqn.pdb, Subunit: B 19 (1)\nH5 HA1 2ibx.pdb, Subunit: A 12 (2) X-RAY\nHA2 2ibx.pdb Subunit: B 13 (0)\nH7 HA1 1ti8.pdb, Subunit: A 22 (11) X-Ray\nHA2 1ti8.Pdb, Subunit:: B 30 (0)",
+   "table_id": "PMC2559894_table_4"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    478.1,
+    372.6,
+    922.4
+   ],
+   "ocr": "correlated with the high level of predicted disorder in the HIV matrix. Similarly to gp41, HA is a transmembrane glycoprotein. Both, gp41 and HA, are members of the class I viral fusion proteins that mediate viral entry into cells. Class I viral fusion proteins are thought to fold into a prefusion, metastable conformation, which is then activated to undergo a large conformational rearrangement to a lower energy state, thereby providing the energy needed to accomplish membrane fusion [33-35]. The role of HA as a fusion protein and the associated large-scale conforma- tional changes may help to account for the slightly higher predicted disorder rates observed for HA in many sub- types (see Table 5). Analysis of the data in Table 3 revealed that transmem- brane viral proteins are, in general, characterized by rela- tively low predicted disorder rates. For instance, the Vpr protein which is present in HIV but is not expressed in SIV [36] and structure of which was determined by NMR is predicted to be rather disordered (39% by PONDR® VLXT and 64% by PONDR® VL3, Table 3). On the other hand, Vpu was predicted to be more ordered (26% by PONDR® VLXT) in agreement with the fact that this protein has a transmembrane domain [37]. More disorder at the core The matrix proteins, which form a layer below the lipid envelope, produced interesting data for both families of"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    478.1,
+    698.3,
+    922.4
+   ],
+   "ocr": "viruses. The matrices of both influenza and HIV viruses are relatively disordered (see Tables 3 and 4). The HIV matrix protein is predicted to be highly disordered, whereas the influenza virus matrix protein is predicted to be only moderately disordered (or somewhat ordered) by PONDR® VLXT. This peculiarity may highlight an impor- tant difference between the two families of viruses and may have important medical implications. For the influ- enza virus, the proteins that are even closer to the core include NS1, NP and PB1. All these proteins are predicted to be highly disordered. More disorder at the core unless proteins are enzymes While M1 is known to bind RNA, proteins that are located closer to the core are even more likely to interact with the viral RNA. This may account for the trend that, for pro- teins that are closer to the core, the amount of predicted disorder increases. This trend is clearly highlighted in Fig- ure 2. Interestingly, a number of RNA-binding proteins that are not viral have also been predicted to be disor- dered (Table 6). This trend can also be seen for HIV virus proteins, with the exception that enzymes are usually pre- dicted to be ordered. Intergrases (IN), Reverse Tran- scriptase (RT), and to some extent Protease (PR) exemplify the observation that enzymes are exceptions to the general trend. That is, all three of these proteins are enzymes, and they are all predicted to be relatively ordered. Reverse transcriptase and integrases, however, are also RNA-binding proteins, with the RT having an additional ability to bind DNA. In such cases, the proteins"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 14 (page number not for citation purposes)"
+  }
+ }
+}

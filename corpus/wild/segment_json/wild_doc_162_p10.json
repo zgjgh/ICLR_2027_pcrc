@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_162",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    11.0,
+    38.0,
+    441.0,
+    61.0
+   ],
+   "ocr": "In the pursuit of optimizing portfolio performance, the analysis of alternative investment returns within the Asia-Pacific region has garnered significant attention from institutional investors."
+  },
+  "p10_b1": {
+   "type": "table",
+   "bbox": [
+    11.0,
+    73.0,
+    441.0,
+    211.0
+   ],
+   "ocr": "InvestmentType Returns RiskLevel AUM\nPrivateEquity 12.3% High SGD2.5B HedgeFunds 8.4%\nMedium SGD1.8B RealEstate 6.5% Low SGD1.2B\nVentureCapital 15.0% High SGD900M Commodities 5.2%\nMedium SGD400M TotalReturns 47.4% N/A SGD6.8B\nMarketBenchmark 9.0% N/A SGD5.0B PerformanceFee 20%",
+   "table_id": "img_184409_t0"
+  },
+  "p10_b2": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    223,
+    441,
+    244
+   ],
+   "ocr": "This report provides a comprehensive examination of various alternative investment vehicles, highlighting their respective returns and associated risks through metrics such as the Sharpe ratio and tracking error."
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    235,
+    441,
+    268
+   ],
+   "ocr": "Notably, the table illustrates the performance of Private Equity, which has achieved a return of 12.3%, signifying its potential as a robust asset class in diversifying investment portfolios."
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    11.0,
+    281.0,
+    441.0,
+    545.0
+   ],
+   "ocr": "ETFName TrackingError ExpenseRatio SharpeRatio Beta\nFundA 0.15% 0.45% 1.2 0.95\nFundB 0.20% 0.50% 1.0 1.05\nFundC 0.10% 0.40% 1.5 0.90 FundD\n0.25% 0.55% 0.8 1.10 FundE 0.12%\n0.42% 1.3 0.97 FundF 0.18% 0.48%",
+   "table_id": "img_184409_t1"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    557,
+    441,
+    578
+   ],
+   "ocr": "The tracking error for Hedge Funds is also noteworthy, recorded at 0.10%, which reflects the degree of deviation from benchmark returns and highlights the effectiveness of active management strategies in this sector."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    569,
+    441,
+    601
+   ],
+   "ocr": "Additionally, the Sharpe ratios for different funds, including FundC and FundD, provide critical insights into risk-adjusted returns, enabling investors to gauge the relative merit of these investments."
+  },
+  "p10_b7": {
+   "type": "table",
+   "bbox": [
+    11.0,
+    615.0,
+    441.0,
+    760.0
+   ],
+   "ocr": "SharpeRatioComparison FundName SharpeRatio AnnualizedReturn RiskMetrics StandardDeviation\nFundA 1.25 8.5% 10.0% 5.0% 12.0% 0.75 FundB 1.10 7.0% 9.5%\n4.5% 11.0% 0.65 FundC 0.95 6.0% 8.0% 5.5% 10.5% 0.55 FundD\n1.40 9.0% 11.5% 3.5% 13.0% 0.80 FundE 1.05 5.5% 7.5% 6.0%\n9.0% 0.70 Average 1.11 7.8% 9.9% 4.9% 11.4% 0.69 BestPerformer FundA\nSharpeRatio 1.25 AnnualizedReturn 8.5% Total FundE 1.05 5.5% 7.5% 6.0% 9.0%",
+   "table_id": "img_184409_t2"
+  },
+  "p10_b8": {
+   "type": "paragraph",
+   "bbox": [
+    11.0,
+    771.0,
+    441.0,
+    795.0
+   ],
+   "ocr": "Overall, this analysis aims to equip asset managers and institutional investors with the necessary data to make informed decisions in an increasingly complex investment landscape."
+  }
+ }
+}

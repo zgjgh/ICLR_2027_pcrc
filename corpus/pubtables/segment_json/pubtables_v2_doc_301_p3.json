@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_301",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    49.8,
+    359.7,
+    65.5
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2008, 8:53"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    49.8,
+    698.1,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/8/53"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    396.2,
+    119.1
+   ],
+   "ocr": "Table 3: Simulation results for correction for over-fit: \"best estimate\""
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    399.0,
+    107.2,
+    627.7,
+    119.1
+   ],
+   "ocr": "of net benefit minus net benefit after correction."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    92.6,
+    130.1,
+    659.5,
+    569.6
+   ],
+   "ocr": "Threshold Number of events Correction method Bootstrap – 10-fold\n(Total sample size) Bootstrap 2-fold 10-fold\n15% 100 (385) 0.0001 0.0021 0.0005 -0.0004\n50 (193) 0.0032 0.0048 0.0013 0.0019\n40 (154) 0.0050 0.0073 0.0025 0.0025\n30 (116) 0.0080 0.0119 0.0045 0.0035\n20 (77) 0.0106 0.0249 0.0081 0.0025\n25% 100 (385) 0.0005 0.0007 0.0007 -0.0002\n50 (193) 0.0024 0.0038 0.0002 0.0022\n40 (154) 0.0036 0.0063 0.0012 0.0024\n30 (116) 0.0079 0.0109 0.0033 0.0046\n20 (77) 0.0098 0.0249 0.0069 0.0029\n35% 100 (385) 0.0024 0.0047 0.0024 0.0000\n50 (193) 0.0063 0.0083 0.0039 0.0024\n40 (154) 0.0075 0.0111 0.0057 0.0018\n30 (116) 0.0111 0.0158 0.0084 0.0027\n20 (77) 0.0145 0.0304 0.0118 0.0027\n60% 100 (385) 0.0049 0.0101 0.0052 -0.0003\n50 (193) 0.0114 0.0185 0.0106 0.0008\n40 (154) 0.0126 0.0231 0.0142 -0.0016\n30 (116) 0.0163 0.0292 0.0174 -0.0011\n20 (77) 0.0223 0.0465 0.0256 -0.0033\n80% 100 (385) 0.0049 0.0085 0.0050 -0.0001\n50 (193) 0.0089 0.0181 0.0089 0.0000\n40 (154) 0.0101 0.0250 0.0121 -0.0020\n30 (116) 0.0098 0.0349 0.0167 -0.0069\n20 (77) 0.0179 0.0623 0.0295 -0.0116",
+   "table_id": "PMC2611975_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    610.2,
+    372.6,
+    922.4
+   ],
+   "ocr": "4. Repeat steps (2) to (3) n times (we recommend n ≥ 1000). The 95% confidence interval for the net benefit is given by the 2.5th – 97.5th percentiles across n replications. It may be of interest to obtain the confidence interval for the difference in net benefit for two treatment strategies, for example, treating according to a model vs. treating all patients. In this case, in step 3 the difference in net benefit of those two treatment strategies should be computed. Data Logistic regression was used to estimate the predicted probability of a prostate cancer diagnosis. We fit one model with total PSA as the only predictor (the base model) and another model with total PSA, free-to-total PSA ratio, age and digital rectal exam result as the predic- tors (the full model). We used bootstrap methods to com- pute the confidence interval for three strategies: treat all patients, treat according to the base model, and treat according to the full model. We also computed the confi- dence interval around the difference in net benefit for the"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    611.6,
+    698.4,
+    981.8
+   ],
+   "ocr": "full model vs. treating all and full model vs. the base model. Results We obtained the confidence intervals for the net benefits associated with threshold probabilities of 15, 25, 35, 60, and 80% using bootstrap methods with 2000 replications (Table 4). Given are the point estimates of the net benefit for the three treatment strategies and the difference in full vs base and full vs all. The lower bound of the full model has a superior net benefit than both the base model and treating all for all threshold probabilities evaluated except 80%. We might therefore consider the value of the full model confirmed for the entire range of threshold proba- bilities that a man would typically require for a prostate biopsy. Application of decision curve analysis to censored data Calculation of net benefit for a decision curve requires an estimate of the rate of true and false positives. For survival time data, this requires that survival time must be con- Page 10 of 17 (page number not for citation purposes)"
+  }
+ }
+}

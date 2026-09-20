@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_052",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    129.0,
+    580.0,
+    252.0
+   ],
+   "ocr": "Ki67 cut-offs (%) p value HR 95% CI\n10 <0.001 2.953 1.967–4.432\n15 <0.001 1.984 1.451–2.714\n20 <0.001 2.050 1.521–2.763\n25 <0.001 1.970 1.479–2.623\n30 <0.001 1.843 1.392–2.442",
+   "table_id": "img_057032_t0"
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    300.0,
+    580.0,
+    421.0
+   ],
+   "ocr": "LGR5 expression\n(−) n = 5 (+) n = 4\nMedian OS 10.4 not reached\nHR (95% CI) 0.52 (0.08 − 2.99, P = 0.52)\nMedian DFS 5.4 not reached\nHR (95% CI) 0.13 (0.04 − 1.42, P = 0.13)",
+   "table_id": "img_057032_t1"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    464.0,
+    580.0,
+    591.0
+   ],
+   "ocr": "Grade Weight loss/% Stool consistency Occult/gross bleeding\n0 0 Normal N/A\n1 1–5 Mild soft –\n2 5–10 Soft and wet Hemoccult positive\n3 10–20 Half loose stool –\n4 >20 Loose stool Gross bleeding",
+   "table_id": "img_057032_t2"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    627,
+    580,
+    685
+   ],
+   "ocr": "In the evaluation of tumor proliferation as a prognostic indicator, the Ki67 cut-off percentages serve as a pivotal metric in distinguishing between varying degrees of tumor aggressiveness. As illustrated in Table 1, a cut-off of 10% for Ki67 shows a statistically significant association with median overall survival (OS) outcomes, with a p-value of less than 0.001. This suggests that higher Ki67 levels may correlate with poorer prognosis in patients."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    762
+   ],
+   "ocr": "The hazard ratio (HR) of 2.953 indicates that patients with a Ki67 score above this threshold are nearly three times more likely to experience diminished survival compared to those with lower scores. Furthermore, the accompanying 95% confidence interval (CI) of 1.967 to 4.432 reinforces the robustness of this association. These findings are critical for clinicians in stratifying patients based on tumor biology and in guiding treatment decisions. Additional patient metrics, such as weight loss percentage and stool consistency, can further contextualize the clinical implications of Ki67 levels, enhancing the overall assessment of patient health status and disease progression."
+  }
+ }
+}

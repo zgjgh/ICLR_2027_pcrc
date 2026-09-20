@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_144",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    264.2,
+    65.8
+   ],
+   "ocr": "Minoche et al. Genome Biology 2011, 12:R112 http://genomebiology.com/2011/12/11/R112"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 15"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.7,
+    922.3
+   ],
+   "ocr": "47B15 (109,563 bp), here called ‘ZR’, sequenced to fin- ished quality [8] and previously used in a study on the quality of Illumina reads produced on the GA I sequencing instrument [2]. We implemented filtering steps for sugar beet reads in order to exclude reads that mapped to ZR but originated from a different region of the genome (see Materials and methods). Such wrongly assigned reads could lead to erroneous conclusions on read coverage and read error rates - for instance, in the case of divergent repetitive regions. We obtained 53,101 reads covering ZR (26,495 pairs, 111 singletons). This read data set is referred to as Bv-95nt in the following. The Arabidopsis whole genome shotgun sequencing data were mapped against the entire Arabidopsis gen- ome sequence. Pairs were kept if they had passed the Illumina chastity filter and matched chromosome 1 uniquely with correct read orientation and expected mapping distance, resulting in 5,815,990 pairs (referred to as the At-100nt data set). Read distribution over the reference sequence For most sequencing applications it is desired to get an even distribution of reads along the reference. Improve- ments in the cluster generation and sequencing chemis- try may have led to a reduction of the previously observed biases [2,3]. However, we still observe high coverage variation over the ZR reference, and even in the deeply covered PhiX genome we observe variation by a factor of 2. In the sugar beet sample, the per-base coverage of ZR ranged from 0- to 159-fold, with an average of 49-fold (Figure 1a). The PhiX genome was covered, on average, 159,300-fold (range 106,500- to 224,000-fold) by PhiX-95nt data (Figure 1b), 34,710-fold (range 23,280- to 49,560-fold) by PhiX-100nt data, and 375,100-fold (range 162,100- to 508,300-fold) by PhiX- GAIIx data. Similar to previous reports, we found a positive correlation between %GC and read coverage for the two plant samples (Figures S1, S4a, b, and S6a in Additional file 1). PhiX, in contrast, did not show a sig- nificant correlation between %GC and coverage (Figures S4c-e, S5f, and S6b, c in Additional file 1). The PhiX genome differs from the plant reference sequences in its higher average %GC (PhiX, 44.7%; ZR, 34.8%; At, 35.9%) and its smaller %GC variation (1st and 99th percentiles of PhiX, 41 to 49%; of ZR, 24 to 47%; of At, 20 to 50%). Selecting ZR regions of %GC between 31% and 39% clearly showed a correlation but regions of %GC between 41% and 49% did not (data not shown). This finding suggests that the extent of the %GC-coverage correlation is dependent on the %GC range of the refer- ence sequence. No correlation between coverage and error rate (Fig- ure S7a in Additional file 1) or coverage and average"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    288.2,
+    124.0
+   ],
+   "ocr": "Table 2 Expected error rates after filtering"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.4,
+    363.0,
+    349.0
+   ],
+   "ocr": "Expected error ratea (percentage of bases\ndiscarded)\nFilter Bv + PhiX At + PhiX PhiX-GAIIx\nNo filter 7.093 (0.0%) 10.619 (0.0%) 16.434 (0.0%)\nChF 2.583 (10.2%) 4.819 (12.7%) 7.360 (17.8%)\nB-tail 0.163 (11.0%) 0.205 (16.6%) 0.229 (25.8%)\nN 5.943 (2.5%) 9.688 (2.3%) 8.601 (15.6%)\nC33 1.521 (14.3%) 2.907 (17.7%) 5.207 (21.7%)\nA30 1.802 (12.7%) 3.586 (15.5%) 5.457 (21.3%)\nB-tail + N 0.141 (11.4%) 0.187 (17.0%) 0.206 (26.8%)\nB-tail + ChF 0.118 (13.8%) 0.161 (19.2%) 0.204 (27.2%)\nB-tail + ChF + C33 0.083 (16.9%) 0.127 (22.1%) 0.174 (28.3%)\nB-tail + ChF + A30 0.093 (15.8%) 0.139 (21.0%) 0.176 (28.2%)\nB-tail + ChF + N + C33 0.077 (17.1%) 0.125 (22.2%) 0.168 (28.9%)\nB-tail + ChF + N + A30 0.085 (16.0%) 0.136 (21.1%) 0.171 (28.6%)",
+   "table_id": "PMC3334598_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    354.7,
+    366.2,
+    920.9
+   ],
+   "ocr": "aExpected error rate: average error probability of each base assigned by Illumina as quality scores. No filter, raw data prior to filtering; ChF, Illumina chastity filter; B-tail, B-tail trimming; N, removal of reads with at least one uncalled base; C33, removal of reads having less than two-thirds of bases with Q ≥ 30 within the first half of the read; A30, removal of reads that have an average Q-score < 30 in the first 30% of the read. Note that some quality filters discard partially the same reads (for instance, the chastity filter and the removal of reads containing at least one uncalled base). the %GC of 45.7% is much closer to the expected value of 44.7%. Mapping of raw reads against reference sequences We evaluated the actual quality of the sequencing reads by mapping the reads against high-quality reference sequences. We used the 5-kbp bacteriophage PhiX sequence, the 110-kbp insert sequence of a B. vulgaris BAC clone, and the 30 Mbp chromosome 1 of A. thali- ana as references (see Materials and methods). The small and gene-dense PhiX genome is commonly used in Illumina sequencing as quality control. Sugar beet has a highly repetitive genome, and from Arabidopsis we used the large sequence of an entire chromosome in order to include references of different lengths and properties in our study. We mapped the whole data set against the PhiX refer- ence genome (5,386 bp) and kept all read pairs that had passed the Illumina chastity filter, did not contain adapter sequence, and were matching the genome uniquely with correct read orientation and expected mapping distance. This resulted in 4,302,400 and 887,009 PhiX read pairs sequenced on the HiSeq (2 × 95 nucleotides together with sugar beet or 2 × 100 nucleotides together with Arabidpo- sis, respectively) and 6,405,298 PhiX read pairs sequenced on the GAIIx (2 × 150 nucleotides). To distinguish these three PhiX data sets in the following analysis, we use the terms PhiX-95nt, PhiX-100nt, and PhiX-GAIIx. The sugar beet sample is derived from a whole gen- ome shotgun library that was sequenced in three HiSeq lanes. The reference is the BAC insert ZR-"
+  }
+ }
+}

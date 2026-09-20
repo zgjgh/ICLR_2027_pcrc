@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_178",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    525.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Colored Petri Net Based SHER Mobility Model"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    418.0,
+    124.7,
+    657.4,
+    189.1
+   ],
+   "ocr": "i P sockðPAUSEÞ o MAX PR ¼ f g PAUSE; NEW DEST; PS CNTR2; PAUSE"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    166.1,
+    175.1,
+    727.3,
+    198.0
+   ],
+   "ocr": "MOINTORg P fPRIORTY3;"
+  },
+  "p3_b3": {
+   "type": "title",
+   "bbox": [
+    260.2,
+    175.1,
+    438.5,
+    189.1
+   ],
+   "ocr": "MAX PR2; PS CNTR; NEW DEST"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    176.9,
+    176.2,
+    356.4,
+    235.1
+   ],
+   "ocr": "¼ T"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    221.1,
+    727.2,
+    640.6
+   ],
+   "ocr": "¼ OUTPAUSEg The HIST2 transition fetches six tokens from the input places PRIORTY3, MAX PR2, PRIORTY4, MAX PR, HCNTR3, and PHIST2 and produces tokens to the output places PRIORTY3, PHIST2, MAX PR2, NEW DEST_PAUSE, MAX PR, and NEW DEST. We define four functions of prity(), prity2(), prityF(), and dstny to model the next destination after com- pleting one epoch of the previous history. Table 3 shows the declaration of polymorphic function dstny, which is used in the arcs expressions from the HIST2 transition to the NW DEST_PAUSE and NEW DEST output places. In order to model the history based destination, we first define the prity() function in line 4 of Table 3. When this function is called, it returns either true or false by evaluating the uniform (0.0,1.0) expression and produces a real number from the interval [0.0,1.0] where all numbers have the same selection probability. We define a constant <pr = 0.95> (line 1). If the number returned by the uniform function is less than or equal to the constant pr, then the prity() func- tion is considered as true; otherwise, it is false. In other words, there is 95% chance of the occur- rence of true and 5% chance of false: however, these parameters can be modified. The same logic can be applied to the prity2() and prityF() functions in the lines 5 and 6 of Table 3. To demonstrate a more realistic approach to find the destination, we selected the first fifty destina- tions to find five attraction points, out of which the first two attraction points are declared as hotspots (home and office). The destny polymorphic function has the objective to model the history based selection of the next destination of the MH. This procedure is defined in Algo- rithm-I. The destny function takes seven parameters as (id,dest,fp,bb,aa,pdest,mdest) and Table 3. Declaration of functions used in an arc expression to model the next destination in Fig 8."
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    374.1,
+    221.1,
+    417.7,
+    244.0
+   ],
+   "ocr": "fHIST2;"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    419.8,
+    221.1,
+    555.9,
+    235.1
+   ],
+   "ocr": "OUT PAUSE; OUT5; PRE"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    649.4,
+    713.4,
+    877.9
+   ],
+   "ocr": "Line Function\nNo.\n1. val pr = 0.95;\n2. valpr2 = 0.70;\n3. val prF = 0.50;\n4. fun prity () = uniform (0.0,1.0) < = pr;\n5. fun prity2 () = uniform (0.0,1.0) < = pr2;\n6. fun prityF () = uniform (0.0,1.0) < = prF;\n7. fun dstny(id:NODE,dest:LCOOR fp:STRING,bb:INT,aa:INT, pdest:LCOOR, mdest:LCOOR) =\n8. (id,dest, fp, if aa+1 = 6 andalso bb = 0 then pdest else if aa+1 = 6 andalso bb > 0 andalso\nbb < 51\n9. then if prity () then pdest else [(real(discrete(0,99)), real(discrete(0,99)))]\n10. else if aa+1 = 6 andalso bb > = 51 then if prity2 () then if prityF () then mdest else pdest\n11. else [(real(discrete(0,99)), real(discrete(0,99)))]\n12. else [(real(discrete(0,99)), real(discrete(0,99)))]);",
+   "table_id": "PMC4534131_table_2"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0133634.t003"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0133634 August 12, 2015 17 / 30"
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_266",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    359.7,
+    64.4
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2005, 5:37"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/5/37"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    391.1,
+    118.9
+   ],
+   "ocr": "Table 3: Study design slider bar limit descriptions and corresponding"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    393.9,
+    107.2,
+    462.5,
+    118.9
+   ],
+   "ocr": "PubMed filters"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    86.1,
+    129.9,
+    688.7,
+    368.2
+   ],
+   "ocr": "Slider Value Limit Description PubMed Filter\n0 Default No filters\n1–12 Case Reports AND (\"case reports\"[Publication Type] OR (case report[TIAB] OR case\nreported[TIAB] OR case reporting[TIAB] OR case reports[TIAB]))\n13–24 Cross-sectional Surveys AND (\"cross-sectional studies\"[TIAB] NOT Medline[SB]) OR \"cross-sectional\nstudies\"[MeSH Terms] OR (cross [TIAB] AND sectional [TIAB])\n25–36 Case-control studies, broad search AND ((case control stud*[TIAB] NOT Medline[SB]) OR \"case-control\nstudies\"[MeSH Terms] OR case-control stud* [TIAB])\n37–48 Case-control studies, narrow search AND (case control stud*[TIAB] OR \"case-control studies\"[MeSH Terms:noexp]\nOR \"case-control studies\"[MAJR])\n49–60 Cohort Studies, broad search AND (\"cohort studies\"[MeSH Terms] OR (cohort[TIAB] AND stud* [TIAB]))\n61–72 Cohort Studies, narrow search AND (\"cohort studies\"[MeSH Terms:noexp] OR \"cohort studies\"[MAJR])\n73–84 Randomized Controlled Trials, broad AND ((clinical[Title/Abstract] AND trial[Title/Abstract]) OR clinical trials[MeSH\nsearch [15] Terms] OR clinical trial[Publication Type] OR random*[Title/Abstract] OR\nrandom allocation[MeSH Terms] OR therapeutic use[MeSH Subheading])\n85–96 Randomized Controlled Trials, narrow AND (randomized controlled trial[Publication Type] OR (randomized[Title/\nsearch [15] Abstract] AND controlled[Title/Abstract] AND trial[Title/Abstract]))\n97–100 Systematic Reviews [16] AND systematic[sb]",
+   "table_id": "PMC1318459_table_2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    418.7,
+    372.6,
+    922.4
+   ],
+   "ocr": "value where it stops is matched against the range of num- bers assigned to a specific limit or filter. This scheme allows flexibility in designing the slider bar algorithms. Any changes (adding in or taking out filters) result in minor adjustments in the range of numbers in each sub- set. The first three slider bars control search limits. These lim- its are Publication Date, Journal Subset and Age Groups. The three limits are modified versions of the Limits tab of PubMed. For the publication date, the slider has 11 steps and allows the user to choose different date ranges from 10 years back to the current year. The second slider con- tains 11 journal subset filters. Users have the option to search within the PubMed database, the MEDLINE subset [11] or the Core Clinical Journals [12]. Within each sub- set, users can limit results to availability of abstracts, full text or free full text. Full text articles provide links to pub- lishers and may require subscription. Table 1 lists the journal subset descriptions and the corresponding PubMed limits. The age group slider is a reordered version of the age group drop-down menu in PubMed. It has 13 options starting with \"Newborn\" and ending with \"80 and over\". Table 2 lists the age group descriptions and the corresponding PubMed limits. The fourth slider bar is a study design filter based on pub- lication types, study designs or citation subsets. Although each filter within the slider functions independently, the slider values are listed according to the hierarchy of levels of evidence [13,14]. Three study designs, case-control studies, cohort studies and randomized controlled trials, are further divided into broad or narrow searches, giving a total of 9 slider levels. Research methodology filters for"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    418.7,
+    698.4,
+    892.7
+   ],
+   "ocr": "therapy [15] were adopted for randomized control trials. Other filters from the Clinical Studies Categories [15], e.g. diagnosis and prognosis, were not incorporated and will be evaluated for future versions of the application. The systematic reviews subset of PubMed was used unmodi- fied for systematic review searches [16]. Table 3 lists the study design levels and the corresponding PubMed filters used for the slider control. Search mapping is a slider bar designed for intermediate to advanced users of PubMed. The filters use search tags and MeSH term operations to modify the search query. Search tags and MeSH term operations are short words or phrases enclosed in square brackets and appended to the keywords to refine search strategies. Initial modification substitutes the \"[Text Word]\" search tag with the \"[TIAB]\" search tag that redirects the search to keywords in the Title or Abstract. Subsequent levels in the slider involve adding mapped MeSH terms as filters, with options to search MeSH terms as major topics, or exclude MeSH terms below the current term in the MeSH tree. Table 4 describes the search mapping algorithm. MeSH subheadings are topical qualifiers that describe a particular aspect of a subject such as etiology or therapeu- tic use. Users have the option to require these qualifiers through a checkbox. The MeSH subheadings are grouped and appended as a filter to the search query. This feature is closely linked with the search mapping algorithm. The subheading filter is only added if the search mapping algorithm requires MeSH terms, i.e. second level and above."
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 9 (page number not for citation purposes)"
+  }
+ }
+}

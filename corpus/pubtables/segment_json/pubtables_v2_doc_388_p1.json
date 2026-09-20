@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_388",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    627.1,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "lncRNAs in Maize"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    384.4,
+    77.1,
+    700.7,
+    963.6
+   ],
+   "ocr": "To validate the Python pipeline and compare it with CPC, a set of 199 lncRNAs from www.lncrnadb.com and the set of 248 protein coding transcripts from ChromDB were run through each method of noncoding RNA detection. The Python pipeline identified 121 of 199 lncRNAs as noncoding, equivalent to an accuracy of 61 percent. The Coding Potential Calculator identified 189 of 199 lncRNAs as noncoding, equivalent to an accuracy of 95 percent (Figure S3). The 10 lncRNAs identified as coding by CPC were also identified as coding by the Python pipeline. This result suggests that each method is able to discriminate some, but not all, noncoding transcripts. For some experiments, more stringent identification may be desirable. In such cases, it would be appropriate to focus exclusively on those RNAs designated as noncoding by both approaches. The protein coding transcript set was also analyzed with both computational tools. The Python pipeline identified all 248 transcripts as coding. The Coding Potential Calculator identified 198 of 248 as coding, equivalent to an accuracy of 80 percent (Figure S4). These two tests convey the difficulty in distinguishing between coding and noncoding transcripts, which stems from the complexity of the transcripts themselves. For example, both methods were unable to identify p53 as noncoding. The lncRNA p53 is a long transcript (2,586 bp) with a long complete ORF (393 aa). It is therefore clear that a number of noncoding RNA transcripts will require laboratory bench experimental techniques, or a more sophisticated computational analysis, to verify their coding capacity. Identification of Maize ncRNAs To identify potential noncoding RNAs in maize, a set of sequences from the maize full length cDNA sequencing project [52] was analyzed. The starting dataset included 18,668 transcripts, and was analyzed in parallel with the Python pipeline and CPC. Of the original 18,668 full-length cDNA from maize, 1,802 were designated as noncoding by the Python pipeline (Figure 1). The largest number of transcripts were excluded at the ORF size step, reinforcing the importance of this parameter. Using CPC, 1,913 full length cDNAs from maize were identified as noncoding (Figure 2). Combination of the Python Pipeline and CPC Datasets Among the potential lncRNAs identified by the Python pipeline and CPC, 1,223 were in common. These 1,223 potential lncRNAs may represent the most stringently selected dataset, and may be the most appropriate for intensive laboratory follow up. For our bioinformatic approach, we wanted to create a comprehensive set of potential lncRNAs for further analysis, so the two sets were combined, resulting in 2,492 lncRNA candidates (Figure 2). The 2,492 lncRNA candidates represent 13.3 percent of the total number of starting sequences. This value is relatively low compared to the number of noncoding transcripts identified in the analysis of 25,159 FANTOM 2 full-length cDNAs in mouse [1], at 48.7 percent. This relatively low number could reflect different biological requirements for lncRNAs in maize compared to mammals, or it could be a reflection of limitations in the starting dataset. For example, the mouse full-length cDNA sequences were based on analysis of 246 different libraries comprised of over 30 different tissues at different time points in development. Relatively few full length cDNA libraries have been sequenced from maize, and this analysis included two different libraries representing 27 different tissue types and stress treatments. This would exclude noncoding transcripts expressed in other tissue types or de- velopmental stages. The analysis in mouse was also able to capture 4 August 2012 | Volume 7 | Issue 8 | e43047"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.6,
+    350.5,
+    92.9
+   ],
+   "ocr": "Table 1. Known lncRNAs with ORF size in amino acids."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    328.6,
+    354.3
+   ],
+   "ocr": "lncRNA ORF in aa\nenod40 0\nCOLDAIR 34\nCOOLAIR_short 38\nCOOLAIR_long 43\nlinc1257 68\nNRON 71\nHOTTIP 86\nNEAT1 97\nRepA 105\nHOTAIR 106\nAIR 112\nXIST 136\nTSIX 151\nKCNQ1QT 289",
+   "table_id": "PMC3420876_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    367.5,
+    225.1,
+    376.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0043047.t001"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    394.6,
+    375.7,
+    922.2
+   ],
+   "ocr": "ORF size varied between 103 aa and 2,199 aa, with a mean of 381 aa in this protein coding data set (Figure S1). Fifteen protein coding transcripts fell below 120 aa in ORF size, all of which with an ORF size of 103 aa. To exclude these protein coding transcripts at this point in the pipeline, the amino acid size selection for the ORF would need to be 102. Considering the ORF results for known lncRNAs (Table 1), a size selection reduced to 102 aa would exclude 3 of the 14 transcripts. To determine the effect of changing the ORF size parameter,11 known lncRNAs with ORFs smaller than 120 amino acids were analyzed by a script that selected for specific ORF sizes in a stepwise manner. When the size of ORF selection is decreased, the number of lncRNAs that pass through selection is reduced (Figure S2). Therefore, to maintain a significant level of stringency without losing an excessive number of possible lncRNA tran- scripts, the 120 aa cut off was selected, with the assumption that later steps in the pipeline would further refine the dataset by selecting against conserved protein coding transcripts with ORFs lower than 120 aa. Criterion 3: Homology with known proteins. The pres- ence of an ORF does not necessarily indicate that a transcript is translated, so homology with known proteins was used as another indication of protein coding potential. Transcripts were aligned to the Swissprot database [51], a manually annotated non-redundant database of experimentally supported protein sequences. The Swissprot database was used to avoid false positive scoring due to translations of unsupported pseudogenes present in other protein databases. Comparison of the Python Pipeline and Coding Potential Calculator on Test Data Sets The Coding Potential Calculator (CPC) is a Support Vector Machine (SVM) that classifies transcripts into coding and noncoding groups based on 6 criteria of the input sequence [46]. These criteria are used to assess the quality, completeness, and homology of the ORF to proteins in UniProt Knowledgebase [51]. This tool was used in parallel with the described computational pipeline to identify the most inclusive set of noncoding RNAs."
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.1,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  }
+ }
+}

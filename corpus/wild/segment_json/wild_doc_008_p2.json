@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_008",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The table presents data on three purification steps: Crude extract, Heat-treatment, and Chelating SepharoseTM Fast Flow column, detailing Total protein (mg), Total activity (units), Specific activity (units/mg), and Yield (%). For the Crude extract, the total protein is 250 mg, the total activity is 796 units, the specific activity is 3.18 units/mg, and the yield is 100%. The subsequent purification step, Heat-treatment, shows a total protein of 198 mg, a total activity of 694 units, a specific activity of 3.51 units/mg, and a yield of 87.1%."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    171
+   ],
+   "ocr": "The last purification step, Chelating SepharoseTM Fast Flow column, records a total protein of 54.6 mg, a total activity of 423 units, a specific activity of 7.75 units/mg, and a yield of 53.1%. The data illustrates a progressive reduction in total protein from 250 mg in the Crude extract to 54.6 mg after the final purification step, while the total activity decreases from 796 units to 423 units."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    188.0,
+    580.0,
+    294.0
+   ],
+   "ocr": "Purification stepb Totalprotein Totalactivity Specificactivity Yield\nmg units units/mg %\nCrude extract 250 796 3.18 100\nHeat-treatment 198 694 3.51 87.1\nChelating SepharoseTM Fast Flow column 54.6 423 7.75 53.1",
+   "table_id": "img_007455_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    310,
+    580,
+    353
+   ],
+   "ocr": "However, the specific activity increases from 3.18 units/mg in the crude extract to 7.75 units/mg following column purification. The yields also decline through the steps, from 100% in the Crude extract to 53.1% in the Chelating SepharoseTM Fast Flow column."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    341,
+    580,
+    384
+   ],
+   "ocr": "This information is crucial for evaluating the efficiency and effectiveness of the purification process across the three steps, providing insights into the trade-offs between protein yield and specific activity enhancement throughout the purification protocol."
+  }
+ }
+}

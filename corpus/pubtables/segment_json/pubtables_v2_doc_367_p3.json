@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_367",
+  "page": 3,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.8,
+    616.3
+   ],
+   "ocr": "Sensors 2010, 10 6314 allocated in the general data SRAM, and consequently the stack size is only limited by the total SRAM size and the usage of the SRAM. Therefore, we have to reserve enough SRAM space. As mentioned before, the AT45DB041D contains two SRAM buffers of 264 bytes each, and the AT45DB642D also contains two SRAM buffers of 1,056 bytes each. Therefore, we can take full advantage of these parts of the space and treat them as external SRAM buffers. Thus, the available SRAM of the collector is increased by 12.89%, and that of the concentrator is increased by 50.10%. EEPROM in the ATmega128L is used for storing the device parameters and the routing table. Since each entry of the routing table occupies 5 bytes, the EEPROM can record about 800 entries, which is sufficient for this type of application. The external flash is a type of non-volatile storage that can be electrically erased and reprogrammed. No power is needed to maintain the information stored in the chip. Therefore, all the data obtained from the electricity meters are kept in external flash. The data concentrator is required to record hourly electricity meter data in last fifteen days and daily electricity meter data in last sixty days. And the flash memory size used in a concentrator is 69,206,016 bits, so a single data concentrator can monitor at most 2,300 electricity meters, which is sufficient for the application of the automatic electricity meter monitoring. 4.4. Energy Consumption Minimizing the energy consumption of our platform is essential, so a dynamic power-management technique is a feature of our system. This technique dynamically reconfigures the system to provide the requested services and performance levels with a minimum number of active components or a minimum activity level on such components. We chose the SP6201 to dynamically control the RF module. The SP6201 is CMOS low dropout regulator (LDO), which offers an extremely low quiescent current. The current of the nRF905 and the SP485E is zero in the sleep mode using the SP6201. Table 3 shows the average current of a data collector under different modes. Table 3. Average current of the data collector"
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    180.6,
+    629.3,
+    498.2,
+    732.5
+   ],
+   "ocr": "Tx current Rx\nChip Sleep\nat 10 dbm current\nATmega128L 8 mA 8 mA 30 uA\nnRF905 29 mA 13 mA 0\nSP485E 1 mA 1 mA 0\nAT45DB041D 25 uA 27 uA 25 uA",
+   "table_id": "PMC3231141_table_2"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    753.8,
+    648.8,
+    925.5
+   ],
+   "ocr": "4.5. Protection Measure The design of an automatic electricity monitoring system needs to consider lightning and fire protection as well as waterproofness. Therefore, transient voltage suppressors are added to protect devices from damage due to lightning strikes by intercepting such strikes and safely passing their extremely high voltage. Thermistors are also included in our design. A thermistor is a type of resistor whose resistance varies with temperature. Thermistors are widely used as inrush current limiters, temperature sensors, overcurrent protectors, and self-regulating heating elements. In addition, waterproof sealing is also needed for collectors and concentrators."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_348",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "MRCs in Virtual Ligand Screening"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    81.0,
+    81.4,
+    282.7,
+    92.8
+   ],
+   "ocr": "Table 1. The complete MRC-VLS test set."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    695.9,
+    711.3
+   ],
+   "ocr": "Ratio\nTARGET Conformers Binders Decoys Total Ligands Binders/Non Binders Binders Chemotypes\nACE_HUMAN 7 46 996 1042 0.046 18\nACES_TORCA 21 99 3859 3958 0.025 18\nADA_BOVIN 13 23 927 950 0.024 8\nALDR_HUMAN 15 46 1796 1842 0.025 14\nAMPC_COLI 16 21 786 807 0.026 6\nANDR_HUMAN 29 68 2848 2916 0.023 10\nCDK2_HUMAN 30 47 2070 2117 0.022 32\nCOMT_RAT 3 11 468 479 0.023 2\nDHFR_HUMAN 6 190 8350 8540 0.023 14\nEGFR_HUMAN 6 365 15560 15925 0.023 40\nESR1_AG_HUMAN 4 63 2568 2631 0.024 10\nESR1_ANT_HUMAN 13 18 1058 1076 0.017 8\nF10A_HUMAN 20 64 2092 2156 0.030 19\nFGFR1_HUMAN 4 71 3462 3533 0.020 12\nGCR_HUMAN 4 32 2585 2617 0.012 9\nHMDH_HUMAN 9 25 1423 1448 0.017 4\nHS9A_HUMAN 20 23 975 998 0.023 4\nINHA_MYCTU 14 57 2707 2764 0.021 23\nKITH_HHV11 19 22 891 913 0.025 7\nMCR_HUMAN 11 13 636 649 0.020 2\nMK14_MOUSE 19 137 6779 6916 0.020 20\nNRAM_INBBE 11 49 1713 1762 0.028 7\nPARP1_CHICK 6 31 1350 1381 0.023 7\nPDE5A_HUMAN 11 26 1698 1724 0.015 22\nPGH1_SHEEP 2 23 910 933 0.025 11\nPGH2_MOUSE 2 212 7632 7844 0.027 44\nPNPH_BOVIN 19 25 1036 1061 0.024 4\nPOL_HV1RT 18 34 1494 1528 0.022 17\nPRGR_HUMAN 6 22 920 942 0.024 4\nPUR3_COLI 3 8 155 163 0.051 5\nPYGM_RABIT 20 52 2135 2187 0.024 10\nRXRA_HUMAN 15 18 575 593 0.031 3\nSRC_HUMAN 14 98 5679 5777 0.017 21\nTHRB_HUMAN 20 23 1148 1171 0.020 14\nTRY1_BOVIN 19 9 718 727 0.012 7\nVGFR2_HUMAN 8 48 2712 2760 0.017 31",
+   "table_id": "PMC3098722_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    724.6,
+    225.1,
+    733.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0018845.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    754.8,
+    375.8,
+    963.6
+   ],
+   "ocr": "was not only unable to rank known binders in the top scoring fraction but that these molecules ended up ranking lower than an average decoy. This behavior was mainly due to the fact that some receptor conformations could lodge certain ligands remarkably well but could dump those which required a different binding site rearrangement. For example, type I protein kinase inhibitor 1 (5,7 diphenylpyrrolo[2,3-d]pyrimidine, Figure 1B) ranked 6th when screened using a conformation of the proto-oncogene tyrosine protein kinase SRC (SRC_HUMAN) co-crystallized in complex with a ligand very similar to 1 (PDBid: 1YOL, see also Figure S1A in the Supporting Information). Conversely, 1 ranked only 5,118th when docked at the inactive, DFG-out conformation of the same protein when it is complexed with Imatinib (PDBid: 2OIQ). This PLoS ONE | www.plosone.org"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    754.8,
+    700.8,
+    963.6
+   ],
+   "ocr": "first example clearly shows the fundamental role of taking into account several receptor conformations for relatively flexible protein families (such as kinases). In a further case study, a selective modulator (2) of the progesterone receptor (PRG_HUMAN) was ranked 2nd when docked using the conformation solved in complex with Asoprisnil (PDBid: 2OVH). The exceptionally high score could be achieved since the N,N-dimethylanilino substituent of 2 could almost perfectly fill an accessory pocket created by the conformational rearrangement of Met909 side chain. Remarkably, in this case too, 2 and the ligand co-crystallized in 2OVH were structurally very similar (see also Figure S1B in the Supporting Information). When using a conformer lacking the Met909-based pocket (PDBid: 1ZUC), 2 could only be placed in position 920. 4 May2011 | Volume 6 | Issue 5 | e18845"
+  }
+ }
+}

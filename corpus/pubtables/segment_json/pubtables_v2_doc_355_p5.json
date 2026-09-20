@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_355",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Deng BMC Bioinformatics 2011, 12:267 http://www.biomedcentral.com/1471-2105/12/267"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 10 of 12"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    366.5,
+    124.0
+   ],
+   "ocr": "Table 6 Computing performance of major functions using"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    370.3,
+    111.0,
+    657.5,
+    124.0
+   ],
+   "ocr": "23 exome sequencing samples on a 16 CPU workstation"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    649.2,
+    317.8
+   ],
+   "ocr": "Script Function #CPU Peak RAM Time Notes\n(Gb)\nexon_qc quality control 1 6 10-20 min Per sample\nsam2wig generate wig file 1 2 20-50 min Per sample\nsam2pileup generate pileup file 1 3-7 1-4 hours Per sample\nsnp annotate and filter snp and indels 1 4 2-8 min Per sample\nrpkm quantify coverage on gene model 1 4 4-16 min Per sample\ncnv copy number variation 1 4 5 min Per sample\ngenotyping genotyping file across samples 1 8 4 hour Across 23 samples\nphenotyping coverage (expression) across samples 1 5 10 min Across 23 samples\neqtl -m cis Cis- EQTL 1 3 1 hour 1000 genome data\neqtl -m trans Trans-EQTL 16 * 3 7 days 1000 genome data",
+   "table_id": "PMC3148209_table_5"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    351.9,
+    366.1,
+    922.2
+   ],
+   "ocr": "fold. Quality control of the RNA sample shows that 3.4% of the 48 million aligned reads were located on intergenic regions or introns, indicating possible con- tamination of the RNA sample. We then performed mutation discovery on the paired samples using Seq- Gene. After applying quality control filtering to obtain SNPs that passed quality control in both exome and RNA samples, we identified 29 the SNPs on coding regions and UTRs. We then compared the genotypes of the 29 SNPs between exome and RNA for genotyping consistency. The results were summarized in Table 7. The total number of matched mutations between exome and RNA samples is 20 out of the 29 SNPs. Five hetero- zygous SNPs (called from DNA) showing homozygous expression pattern from RNA are ASE candidates. Three homozygous SNPs (called from DNA) showing heterozygous expression on RNA sample are obvious genotyping inconsistencies. The lower than expected number of SNPs and low genotyping consistency between exome and RNA genotyping may be due to a number of factors such as biased exome sequence cap- ture, possible contamination of RNA sample, misplaced alignment, and sequencing errors. Conclusion We developed an open-source software tool, SeqGene, to support massively parallel exome-Seq and RNA-Seq data analysis. SeqGene supports functions of base-reso- lution read coverage, quality control, SNP/indel Table 7 Number of SNPs between paired RNA-Seq and Exome-Seq samples RNA-hom RNA-het DNA-hom 17 (0)c 3a DNA-het 5b 3 (1)c a:genotyping inconsistency between DNA and RNA, b: candidate ASE, c: number of inconsistent genotypes"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    351.9,
+    678.7,
+    918.5
+   ],
+   "ocr": "identification and annotation, RNA and DNA depth quantification, ASE, CNV, eQTL, DEG, and KEGG pathway analysis. Among the many functions of Seq- Gene, we have also implemented novel methods for genotype-controlled differentially expressed genes (GCDEGs) identification, and SNP-DEG association test using KEGG pathways. We have demonstrated that Seq- Gene is a useful data mining tool to support a wide variety of analysis tasks in exome-Seq and RNA-Seq data. Availability and requirements The SeqGene software, annotation packages and user’s manual can be accessed at http://seqgene.sourceforge. net. SeqGene requires Python 2.6 or 2.7 and CNV, DEG, GCDEG, eQTL and KEGG pathway functions also require R and certain Bioconductor packages. SeqGene is cross-platform software and has been tested on Linux-, Macintosh- and Windows- based workstations. SeqGene is free for academic use and require a license from the author for commercial applications. Abbreviations AML: acute myeloid leukemia; ASE: allele specific expression; CBS: circular binary segmentation; CNV: copy number variation; DEG: differentially expressed gene; eQTL: expression quantitative trait locus; FDR: false discovery rate; GCDEG: genotype-controlled differentially expressed gene; GWA: genome-wide association; IGV: integrative genomics viewer; LCL: lymphoblastoid cell lines; miRNA: MicroRNA; QTL: quantitative trait locus; RPKM: reads per kilobase of exon model per million mapped reads; SNP: single nucleotide polymorphism; SVG: scalable vector graphics; UTR: untranslated regions. Acknowledgements The author would like to thank Dr. Harry Gao, Dr. Yate-Ching Yuan, Dr. Kun Qu and Dr. Richard Jove of City of Hope for providing testing data and computing facilities for the trio family exome-Seq study. The author would also like to thank the reviewers and software users for their comments. Authors’ contributions XD designed and implemented the SeqGene, performed the analysis and wrote the manuscript."
+  }
+ }
+}

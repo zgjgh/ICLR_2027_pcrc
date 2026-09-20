@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_488",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    401.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparing Epidemics on ERGMs and Configuration Type Network Models"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    457.0,
+    107.4
+   ],
+   "ocr": "Table 5. HS60 Network ERGM Specification."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.7,
+    225.8
+   ],
+   "ocr": "Statistic Estimates\nEdge -8.62622\nIsolates -11.891\nAlt. k-star (λ = 1.50) 1.137897\nAlt. k-triangle (λ = 3.00) 1.250777\nAlt. k-2-path (λ = 3.00) -0.047\nHomophily: person type 0.092378",
+   "table_id": "PMC4640514_table_4"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    238.6,
+    489.4,
+    272.8
+   ],
+   "ocr": "ERGM speciﬁcation for a model of the HS60 network. doi:10.1371/journal.pone.0142181.t005"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    310.5,
+    726.4,
+    882.5
+   ],
+   "ocr": "networks from the “ER” model are rejected. As expected, no degree distributions from configu- ration-type networks are rejected. Fig 8 shows results for various graph statistics, and are qualitatively similar to those for the HS75 network. Fig 9 shows results for the final size from the SIR simulations. In contrast to the HS75 results, there is little difference between the configuration-type models, the ERGM and the empirical network. As with the HS75 network, the random networks (“ER”) overestimate the final size for larger probabilities of transmission. The maximum difference in the mean final size is about 8%. In results for the epidemic duration (not shown for brevity) the configuration-type models are indistinguishable, but do have shorter epidemics than the observed network for probabili- ties of transmission above 0.2 (e.g., 20.1 vs. 23.3 when the probability of transmission is 0.25). Results for the ERGM are similar, but the differences with the observed network are smaller (e.g., 20.7 vs. 23.3 when the probability of transmission is 0.25). Results for the “ER” model are quite different qualitatively, and show the largest differences with the observed network over a range of probabilities of transmission. Conclusions on the time to Rmin and the times from Rmin to epidemic peak and epidemic end are qualitatively similar to those for the HS75 net- work, with the exception of the “ER” model which shows notable differences with the other models for probabilities of transmission below 0.5. The HS6 network is the densest network modelled here, and has mean node degree of 57. Because edge-triangle type models cannot have overlapping subgraphs, we would expect diffi- culty for these models to capture network features. In χ2 goodness-of-fit tests with 5% signifi- cance, the degree distribution of all simulated edge-triangle type networks is rejected. A key reason is surely the number of multiple edges deleted. While the network has 22675 edges, approximately 1100 to 1200 edges are removed because they are multiple edges. A number of graph statistics show little variation across networks. Because of the large density, the edge-tri- angle type networks are all composed of five isolates and one large component with all the remaining nodes and there is little variation in this large component. For the ERGM, which is computationally intensive, the large numbers of nodes and edges also make model fitting difficult. In fact, attempts to fit ERGMs were not successful. While fit- ting a model with a few configurations (e.g., edge + alternating star (λ = 1.2) + homophily) was successful in capturing some network features, such models did not sufficiently capture a num- ber of network features not explicitly modelled to a standard common in social network analy- sis. Fitting models with additional configurations, to improve model fit, appears computationally infeasible. Thus, we cannot report results for an ERGM. Fig 10 shows results for various graph statistics for the edge-triangle type models. We do not report alternating"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142181 November 10, 2015 20 / 36"
+  }
+ }
+}

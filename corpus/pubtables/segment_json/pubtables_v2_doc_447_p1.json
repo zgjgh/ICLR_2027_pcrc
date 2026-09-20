@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_447",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    556.7,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Checking STEP-Associated Trafficking"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    96.0,
+    726.5,
+    806.7
+   ],
+   "ocr": "STEP inhibition class, Ntotal is the total number of compounds, Nfragment_total is the total num- ber of compounds containing the fragment, and Nclass is the number of compounds in the inhibition class. Results and Discussion The present study was carried out to identify inhibitors of striatal-enriched phosphatase (STEP) enzyme, which may prove therapeutic for Alzheimer's disease (AD). The high- throughput assay used in the study was conducted on a total of 359,231 compounds using fluorogenic phosphatase substrate and resulted in a total of 887 hit compounds that were cate- gorized as actives while the remaining 358,344 were considered as inactive compounds. Molecular Descriptors Analysis The 179 2D molecular descriptors calculated using PowerMV were processed using the Remo- veUseless filter in Weka. The resultant 154 attributes included 122 Pharmacophore finger- prints, 24 weighted burden number descriptors and 8 property descriptors. Further, the BestFirst search algorithm of Weka was applied on the non-redundant set of 154 descriptors. The BestFirst search selected a set of 10 descriptors, which included 6 Pharmacophore finger- prints and 4 weighted burden number descriptors. The list of the 154 non-redundant attributes and 10 BestFirst descriptors is given in S2 table. Performance of the Machine Learning Models The machine learning models were generated using both sets of descriptors: all 154 descriptors and 10 BestFirst descriptors using the classification algorithms NB, RF and SMO. The analysis was performed using a 5-fold cross validation. S3 table lists the performance of the classifiers using 5-fold cross validation. All the models using 154 descriptors correctly predicted >75% of the test set compounds. NB was found to be the least sensitive, with a sensitivity of 52%, while RF and SMO showed a sensitivity of 64.9% and 69.4% respectively. All the models showed around 79% specificity. However, since sensitivity and specificity do not provide a balanced classification, the G-mean was calculated. SMO performed the best and had a G-mean value of 0.74 (Table 1). NB had an AUC value of 0.72, RF had an AUC value of 0.79 and SMO had a value 0.81 (Fig 1(A)). The models based on the BestFirst descriptors showed better accuracy and a specificity of around 80%. However, they also showed a high rate of false positives. NB was again found to be the least sensitive (Sn = 32.8%), followed by SMO (Sn = 36.7%), with RF being 57.6% sensi- tive. RF performed best in terms of G-mean value at 0.68 (Table 2). The AUC values from the ROC plot are 0.58, 0.74 and 0.57 for NB, RF and SMO respectively (Fig 1(B)). Since the models based on both levels of descriptors showed similar accuracy, the RF model based on the BestFirst descriptors was used for further analyses owing to its higher accuracy. Table 1. Evaluation of generated models based on 154 attributes obtained using RemoveUseless filter."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    815.4,
+    726.7,
+    878.2
+   ],
+   "ocr": "Models True positives True negatives False positives False negatives Sensitivity (%) Speciﬁcity (%) Accuracy (%) G-mean\nNB 92 57215 14454 85 52 79.8 79.7 0.64\nRF 115 56697 14972 62 64.9 79.1 79 0.71\nSMO 123 56903 14766 54 69.4 79.3 79.3 0.74",
+   "table_id": "PMC4466797_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129370.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129370 June 12, 2015 7 / 20"
+  }
+ }
+}

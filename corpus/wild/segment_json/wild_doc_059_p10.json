@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_059",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    122,
+    580,
+    180
+   ],
+   "ocr": "This report examines the prevalence of mold in various bread brands across different regions, as reflected in the provided data table. The metrics presented, specifically the \"Adjusted for age and sub-cohort OR (95% CI)\" and \"Adjusted for age, sub-cohort and energy intake OR (95% CI),\" serve to quantify the odds ratios associated with mold presence in bread samples measured per 100 grams."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    168,
+    580,
+    196
+   ],
+   "ocr": "The analysis reveals that the odds of detecting mold vary significantly across brands and regions, indicating a potential influence of both manufacturing practices and environmental factors on bread quality."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    252.0,
+    580.0,
+    470.0
+   ],
+   "ocr": "Adjusted for age and sub-cohort OR (95% CI) Adjusted for age, sub-cohort and energy intake OR (95% CI)\nBread (per 100 g) 1.78 (1.74–1.83) 1.19 (1.15–1.23)\nFish (per 100 g) 2.07 (2.01–2.14) 1.62 (1.57–1.67)\nMeat (per 100 g) 1.42 (1.38–1.47) 0.94 (0.91–0.98)\nVegetables (per 100 g) 1.00 (0.98–1.02) 0.87 (0.86–0.89)\nPasta/rice (per 25 g) 0.67 (0.66–0.68) 0.57 (0.56–0.58)\nMilk (per 200 g) 1.19 (1.17–1.20) 1.05 (1.03–1.06)\nCoffee (per 200 g) 1.11 (1.10–1.12) 1.10 (1.09–1.11)\nAlcohol (per 3 g) 0.89 (0.88–0.89) 0.87 (0.86–0.88)",
+   "table_id": "img_066036_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    517.0,
+    580.0,
+    644.0
+   ],
+   "ocr": "Parameters Brand Years Regions\nMold 0.448 0.544 0.177\nYeast 0.998 0.014 0.920\nHPC 0.001 0.001 0.008\ntotal coliform 0.999 0.087 0.964\nthermotolerant coliform 0.998 0.003 0.998",
+   "table_id": "img_066036_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    717
+   ],
+   "ocr": "For instance, the data shows an odds ratio of 1.78 (1.74–1.83) when adjusted solely for age and sub-cohort, suggesting a notable correlation between demographic factors and mold occurrence. When further adjusted for energy intake, this figure lowers to 1.19 (1.15–1.23), highlighting the complexity of the relationships among these variables."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "Additionally, the variation in mold parameters, with values such as 0.448 and 0.544, underscores the importance of continuous monitoring and assessment of bread quality to ensure consumer safety. This report aims to inform stakeholders about these findings and their implications for public health and food safety regulations."
+  }
+ }
+}

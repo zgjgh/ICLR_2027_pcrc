@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_358",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3161824_table_0",
+   "page_num": 1,
+   "bbox": [
+    405.9,
+    479.0,
+    700.6,
+    871.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3161824_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">ORF</td><td rowspan=\"2\">Gene</td><td colspan=\"2\">Fold increase in Rluc expression</td></tr><tr><td>Pass 1</td><td>Pass 2</td></tr><tr><td>YLR359W</td><td>ADE13</td><td>46</td><td>57</td></tr><tr><td>YBR070C</td><td>ALG14</td><td>11</td><td>14</td></tr><tr><td>YDL132W</td><td>CDC53</td><td>8.4</td><td>6.3</td></tr><tr><td>YOR204W</td><td>DED1</td><td>180</td><td>140</td></tr><tr><td>YKL078W</td><td>DHR2</td><td>8.3</td><td>8.0</td></tr><tr><td>YLR129W</td><td>DIP2</td><td>440</td><td>160</td></tr><tr><td>YMR128W</td><td>ECM16</td><td>12</td><td>7.4</td></tr><tr><td>YLR274W</td><td>MCM5</td><td>33</td><td>19</td></tr><tr><td>YGR103W</td><td>NOP7</td><td>46</td><td>78</td></tr><tr><td>YGR119C</td><td>NUP57</td><td>30</td><td>19</td></tr><tr><td>YOR122C</td><td>PFY1</td><td>7.9</td><td>7.5</td></tr><tr><td>YLR196W</td><td>PWP1</td><td>11</td><td>28</td></tr><tr><td>YOL094C</td><td>RFC4</td><td>21</td><td>14</td></tr><tr><td>YNL207W</td><td>RIO2a</td><td>16</td><td>12</td></tr><tr><td>YGL044C</td><td>RNA15</td><td>41</td><td>12</td></tr><tr><td>YOR340C</td><td>RPA43</td><td>17</td><td>6.3</td></tr><tr><td>YKR008W</td><td>RSC4</td><td>250</td><td>310</td></tr><tr><td>YPL124W</td><td>SPC29</td><td>13</td><td>10</td></tr><tr><td>YGR116W</td><td>SPT6</td><td>45</td><td>17</td></tr><tr><td>YKL018W</td><td>SWD2</td><td>48</td><td>9.1</td></tr><tr><td>YDR324C</td><td>UTP4</td><td>12</td><td>11</td></tr><tr><td>YJL069C</td><td>UTP18</td><td>11</td><td>50</td></tr><tr><td>YGR251W</td><td>N/Ab</td><td>33</td><td>150</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3161824_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    148.3,
+    375.8,
+    478.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3161824_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">ORF</td><td rowspan=\"2\">Gene</td><td colspan=\"2\">Fold decrease in Rluc expression</td></tr><tr><td>Pass 1</td><td>Pass 2</td></tr><tr><td>YKL112W</td><td>ABF1</td><td>15</td><td>9.1</td></tr><tr><td>YER168C</td><td>CCA1</td><td>7.7</td><td>7.6</td></tr><tr><td>YFR028C</td><td>CDC14a</td><td>12; 9.2</td><td>6.0; 7.8</td></tr><tr><td>YNR038W</td><td>DBP6</td><td>26</td><td>9.9</td></tr><tr><td>YPL266W</td><td>DIM1</td><td>36</td><td>70</td></tr><tr><td>YDR141C</td><td>DOP1</td><td>6.2</td><td>46</td></tr><tr><td>YJR017C</td><td>ESS1</td><td>22</td><td>22</td></tr><tr><td>YOL133W</td><td>HRT1</td><td>7.2</td><td>6.2</td></tr><tr><td>YGL073W</td><td>HSF1b</td><td>37</td><td>17</td></tr><tr><td>YGL018C</td><td>JAC1</td><td>15</td><td>45</td></tr><tr><td>YAL033W</td><td>POP5</td><td>17</td><td>12</td></tr><tr><td>YER012W</td><td>PRE1a</td><td>21; 8.4</td><td>13; 19</td></tr><tr><td>YML046W</td><td>PRP39</td><td>9.4</td><td>49</td></tr><tr><td>YGL048C</td><td>RPT6</td><td>15</td><td>52</td></tr><tr><td>YKL125W</td><td>RRN3</td><td>13</td><td>76</td></tr><tr><td>YGR245C</td><td>SDA1</td><td>22</td><td>14</td></tr><tr><td>YDR472W</td><td>TRS31</td><td>7.5</td><td>22</td></tr><tr><td>YDR327W</td><td>N/Ac</td><td>460</td><td>160</td></tr><tr><td>YOR262W</td><td>N/Ab, c</td><td>9.8</td><td>13</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3161824_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    146.0,
+    354.4,
+    470.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3161824_table_2.png",
+   "html": "<table><tr><td>ORF</td><td>Gene</td><td>(+)RNA4 (average % untreated)</td><td>q-value</td></tr><tr><td>YJL069C</td><td>UTP18</td><td>8336312</td><td>0.011</td></tr><tr><td>YNL207W</td><td>RIO2</td><td>6356190</td><td>0.003</td></tr><tr><td>YKL018W</td><td>SWD2</td><td>3896153</td><td>0.006</td></tr><tr><td>YOR204W</td><td>DED1</td><td>282661</td><td>0.003</td></tr><tr><td>YPL124W</td><td>SPC29</td><td>261693</td><td>0.006</td></tr><tr><td>YLR359W</td><td>ADE13</td><td>2586126</td><td>0.034</td></tr><tr><td>YOR122C</td><td>PFY1</td><td>232646</td><td>0.009</td></tr><tr><td>YOR340C</td><td>RPA43</td><td>227676</td><td>0.010</td></tr><tr><td>YDL132W</td><td>CDC53</td><td>222613</td><td>3.24E-04</td></tr><tr><td>YGR119C</td><td>NUP57</td><td>194619</td><td>0.006</td></tr><tr><td>YMR128W</td><td>ECM16</td><td>190641</td><td>0.011</td></tr><tr><td>YGR251W</td><td>N/Aa</td><td>189645</td><td>0.014</td></tr><tr><td>YDR324C</td><td>UTP4</td><td>180649</td><td>0.003</td></tr><tr><td>YLR196W</td><td>PWP1</td><td>165641</td><td>0.011</td></tr><tr><td>YKL078W</td><td>DHR2</td><td>161665</td><td>0.036</td></tr><tr><td>YGR103W</td><td>NOP7</td><td>155621</td><td>0.011</td></tr><tr><td>YBR070C</td><td>ALG14</td><td>153620</td><td>0.006</td></tr><tr><td>YGL044C</td><td>RNA15</td><td>153616</td><td>0.003</td></tr><tr><td>YGR116W</td><td>SPT6</td><td>152612</td><td>0.003</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3161824_table_3",
+   "page_num": 4,
+   "bbox": [
+    80.4,
+    123.3,
+    626.7,
+    625.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3161824_table_3.png",
+   "html": "<table><tr><td>Genea</td><td>Gene Descriptiona,b</td></tr><tr><td colspan=\"2\">Protein Homeostasis</td></tr><tr><td>ESS1</td><td>Peptidylprolyl-cis/trans-isomerase; regulates phosphorylation of the RNA polymerase II large subunit</td></tr><tr><td>HSF1</td><td>Trimeric heat shock transcription factor</td></tr><tr><td>JAC1</td><td>Hsp40/DnaJ family J-protein that functions with Hsp70 in Fe-S cluster biogenesis in mitochondria</td></tr><tr><td>PRE1</td><td>Beta 4 subunit of the 20S core of the 26S proteasome</td></tr><tr><td>RPT6</td><td>One of six ATPases of the 19S regulatory particle of the 26S proteasome</td></tr><tr><td>PFY1</td><td>Binds profilin, actin and phosphatidylinositol 4,5-bisphosphate; cytoskeleton organization</td></tr><tr><td colspan=\"2\">Translation</td></tr><tr><td>DED1</td><td>ATP-dependent DEAD-box RNA helicase, required for translation initiation of all yeast mRNAs</td></tr><tr><td colspan=\"2\">Trafficking</td></tr><tr><td>NUP57</td><td>Nucleoporin essential for trafficking nucleic acids, proteins, and RNA through the nuclear pore complex</td></tr><tr><td colspan=\"2\">Lipid synthesis</td></tr><tr><td>ALG14</td><td>Component of UDP-GlcNAc transferase required for dolichyl-linked oligosaccharide synthesis</td></tr><tr><td colspan=\"2\">Ribosome Biosynthesis</td></tr><tr><td>DHR2</td><td>DEAH-box ATP-dependent RNA helicase, required for 18S rRNA synthesis</td></tr><tr><td>ECM16</td><td>DEAH-box ATP-dependent RNA helicase specific to the U3 snoRNP, required for 18S rRNA synthesis</td></tr><tr><td>NOP7</td><td>Required for large ribosomal subunit maturation; required for exit from G0</td></tr><tr><td>PWP1</td><td>Protein with WD-40 repeats involved in rRNA processing</td></tr><tr><td>RIO2</td><td>Serine kinase involved in the processing of the 20S pre-rRNA into mature 18S rRNA</td></tr><tr><td>RPA43</td><td>RNA polymerase I subunit A43</td></tr><tr><td>UTP4</td><td>Subunit of U3-contaning complexes involved in production of 18S rRNA</td></tr><tr><td>UTP18</td><td>Possible U3 snoRNP protein involved in maturation of pre-18S rRNA</td></tr><tr><td>YGR251w</td><td>Required for 18S rRNA maturation</td></tr><tr><td colspan=\"2\">mRNA Metabolism</td></tr><tr><td>RNA15</td><td>Component involved in the cleavage and polyadenylation of mRNA 39 ends</td></tr><tr><td>SPT6</td><td>Transcription elongation factor required for the maintenance of chromatin structure during transcription</td></tr><tr><td>SWD2</td><td>Required for methylation of histone H3 and RNA polymerase II transcription termination</td></tr><tr><td colspan=\"2\">Cell Cycle/DNA Maintenance</td></tr><tr><td>ADE13</td><td>Adenylosuccinate lyase involved in the purine nucleotide synthesis</td></tr><tr><td>CDC53</td><td>A scaffolding subunit (cullin) for multiple E3 ubiquitin-ligase complexes; regulates G1-S cell cycle progression</td></tr><tr><td>SPC29</td><td>Inner plaque spindle pole body (SPB) component; required for SPB duplication</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3161824_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    801.1,
+    351.5,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3161824_table_4.png",
+   "html": "<table><tr><td>ORF</td><td>Gene</td><td>(+)RNA4 (average % untreated)</td><td>q-value</td></tr><tr><td>YGL048C</td><td>RPT6</td><td>1268</td><td>0.024</td></tr><tr><td>YGL073W</td><td>HSF1</td><td>1664</td><td>0.004</td></tr><tr><td>YER012W</td><td>PRE1</td><td>30613</td><td>0.024</td></tr><tr><td>YGL018C</td><td>JAC1</td><td>57613</td><td>0.029</td></tr><tr><td>YJR017C</td><td>ESS1</td><td>8165</td><td>0.024</td></tr></table>"
+  }
+ ]
+}

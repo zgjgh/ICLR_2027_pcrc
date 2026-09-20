@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_165",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    436.7,
+    48.8,
+    727.4,
+    60.9
+   ],
+   "ocr": "Transcriptome Analysis of Bacillus coagulans Response to Lactate"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    94.5,
+    726.5,
+    696.3
+   ],
+   "ocr": "GO and pathway functional enrichment analysis of DEGs GO function and pathway enrichment analyses were performed on all DEGs. According to GO functional enrichment analysis between CA and GY, the GO term ‘response to stress’ was rep- resented the most and included 96 unigenes and 41 significantly differentially expressed uni- genes. Analysis between NA and GY revealed one significantly enriched GO term. This GO term was ‘biological process’ (GO: 0008150), which involved 1813 unigenes and 793 signifi- cantly differentially expressed unigenes. No significantly enriched GO term was found between NA and CA. Kyoto Encyclopaedia of Genes and Genomes (KEGG) enrichment analysis showed that the DEGs between the CA and GY groups were significantly involved in the ‘ATP-binding cassette (ABC) transporters’ (KEGG: ko02010) pathway, which included 96 unigenes and 37 signifi- cantly differentially expressed unigenes. The DEGs between the NA and GY groups were sig- nificantly involved in the ‘amino sugar and nucleotide sugar metabolism’ pathway, which included 35 unigenes and 26 significantly differentially expressed unigenes. The DEGs between the NA and CA groups were significantly involved in the ‘amino sugar and nucleotide sugar metabolism’ (KEGG: ko00520) pathway, which included 35 unigenes and 22 significantly dif- ferentially expressed unigenes. Identification and comparison of DEGs involved in ‘ABC transporters’ ‘ABC transporters’, which are also called traffic ATPases, use the binding and hydrolysis of ATP to power the translocation of a diverse assortment of substrates across biological mem- branes, ranging from ions to macromolecules [20]. ‘ABC transporters’ either import or export substrates with relative specificity for a given substrate. Dozens of ABC transporters were iden- tified by genome analysis in Escherichia coli [21] and Bacillus subtilis [22]. KEGG pathway enrichment analysis revealed that ‘ABC transporters’ was significantly affect- ed by calcium lactate stress. A total of 10 significantly upregulated genes (Table 2) and 27 signifi- cantly down-regulated genes (S2 Table) were involved in ‘ABC transporters’ under calcium lactate stress condition (CA group), compared with those under non-stress condition (GY group). Fourteen significantly upregulated genes (Table 3) and 35 significantly down-regulated genes (S3 Table) were involved in ‘ABC transporters’ under sodium lactate stress condition (NA group) compared with those under non-stress condition (GY group). Six genes, namely, glycine betaine/L-proline ABC transporter ATPase (BCO26_0425), binding-protein-dependent trans- port system inner membrane protein (BCO26_0553), NMT1/THI5 like domain-containing pro- tein (BCO26_0554), ABC transporter-like protein (BCO26_0555), periplasmic solute binding Table 2. Significantly upregulated genes involved in ‘ABC transporters’ under calcium lactate stress."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    705.0,
+    726.7,
+    877.9
+   ],
+   "ocr": "Gene ID Description FDR Fold change\nBCO26_0425 glycine betaine/L-proline ABC transporter ATPase 6.01E-03 2.30\nBCO26_0553 binding-protein-dependent transport system inner membrane protein 3.04E-03 2.55\nBCO26_0554 NMT1/THI5 like domain-containing protein 1.80E-02 2.03\nBCO26_0555 ABC transporter-like protein 2.38E-02 1.94\nBCO26_0705 phosphate binding protein 2.62E-06 4.16\nBCO26_0706 phosphate ABC transporter permease 8.04E-04 2.98\nBCO26_0707 phosphate ABC transporter permease 6.70E-03 2.40\nBCO26_0743 ABC transporter-like protein 5.19E-03 2.36\nBCO26_2084 periplasmic solute binding protein 1.52E-02 2.05\nBCO26_2523 ABC transporter 9.44E-03 2.25",
+   "table_id": "PMC4398400_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0124316.t002"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0124316 April 15, 2015 7 / 16"
+  }
+ }
+}

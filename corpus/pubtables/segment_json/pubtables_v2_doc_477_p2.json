@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_477",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    251.8,
+    53.5
+   ],
+   "ocr": "Tormey et al. BMC Genomics (2015) 16:754"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 6 of 14"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.1,
+    465.6
+   ],
+   "ocr": "used to perform a local BLAST (tblastx) of each Aedes aegypti ortholog against the entire W. smithii transcrip- tome. This procedure identified all possible homolo- gous genes as contigs/singletons coding for W. smithii clock proteins, except for five groups of related genes that required additional analysis (Table 2): Clk vs. cyc, tim vs. tim2 (timeout), cry1 vs. cry2 vs. phr6-4, and dbt vs. Ck1α. The contigs/singletons were then each evalu- ated as representing full gene transcripts, partial gene transcripts (including split genes), orthologs or para- logs, based on the alignments of their translated amino acids to those from the other six species, including their relative positions within the resulting phylogen- etic gene trees (Figs. 3 and 4; Additional file 1 and Additional file 2). Alignment processing and gene tree assembly The orthologous groups of amino acid sequences were gathered into their respective gene families for each clock gene, including the translated W. smithii represen- tative sequences. The 5’ and 3’ UTRs of each W. smithii amino acid sequence were removed based on start and Table 2 Circadian clock gene acronyms, names, and function"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.6,
+    442.4
+   ],
+   "ocr": "stop codon positions. Each gene family was then aligned using MUSCLE [88] (Additional file 3) The protein alignments were then subjected to Gblock editing in order to identify conserved regions for phylogenetic ana- lysis [89, 90] (Additional file 4 and Additional file 5). In order to be processed by ProtTest and Phyml, the align- ments were converted into Phylip format. This conver- sion involved truncation of the identifiers for certain species' sequences. The identifiers were truncated in such a way to preserve the associated gene number, while changing the organism text identifier (Additional file 6). The best fit models of amino acid replacement for the Gblock edited alignments were determined using ProtTest [91, 92]. Maximum likelihood gene trees were then assembled using the phylogenetic software Phyml [93] and the best model of amino acid substitution ac- cording to the ProtTest results (Additional file 2). Results Transcriptome Quality filtering of the reads was performed before as- sembly by applying default parameters using methods"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    470.6,
+    678.5,
+    919.2
+   ],
+   "ocr": "Abbreviation Gene name Clock function (See Fig. 1) Reference\nCkIα casein kinase Iα paralog of dbt Fig. 4b\nCkIIα casein kinase IIα promotes nuclear localization of PER-DBT-TIM via phosphorylation of TIM [25–27]\nClk Clock transcription factor promoting transcription of per, tim, cry2, vri, PDP1, cwo [25–27, 118]\nCul3 Cullin 3 ubiquitinates TIM leading to its degradation [30]\ncwo clockwork orange acts synergisticly with PER to inhibit CLK-mediated gene activation [25, 119, 120]\ncry cryptochrome 1, cry1, dcry photoreceptor; complexes with SGG & TIM to mediate light-input pathway into the clock [25, 26]\ncry2 cryptochrome 2, mcry transcription regulator of Clk & cyc in insects other than Drosophila [25, 27]\ncyc cycle transcription factor promoting transcription of per, tim, cry2, Pdp1, vri [25–27]\ndbt doubltime = dco, discs major regulator of PER & CLK through phosphorylation [25–27, 31]\novergrown\njet jetlag promotes light-induced proteosomal degradation of TIM & CRY1 [27, 33, 121]\nkayα kayakα Inhibits VRI suppression of Clk promoter; represses CLK activity [127]\nnmo nemo phosphorylates PER, enhances action of DBT; phosphorylates CLK [25, 29, 31, 123]\nPdp1 PAR-domain protein 1 Likely in combination with VRI enhances Clk transcription and clk mRNA amplitude [25–27, 118]\nper period negative transcription regulator of Clk & cyc transcription after transport to nucleus as [25, 27]\nphosphorylated PER-TIM-DBT complex\nphr6-4 (6–4)-photolyase paralog of cry1 & cry2 [17], Fig. 3\nPP2A-B’ protein phosphatase 2A, regulates phosphorylation of PER; counter-balances PER & TIM phosphorylation by DBT [25–27, 31]\nregulatory B subunit\nsgg shaggy phosphorylates TIM, in concert with CRY1 & light; regulates PER phosphorylation- [25–27, 31]\ndephosphorylation; promotes PER nuclear localization\nslimb supernumerary limbs phosphorylates PER & TIM, leading to their degradation [25–27, 124]\ntim timeless binds to & facilitates transport of heterodimeric PER into the nucleus; interacts with JET, [25, 125]\nSGG & CRY to regulate the input of light; increases CKIIα phosphorylation of PER\ntim2 timeout paralog of TIM; necessary for laval survivorshiop; promotes chromosomal stability; [122, 126]\nenhancs photoreception.\nvri vrille transcription inhibitor of Clk [25–27, 118]",
+   "table_id": "PMC4594641_table_1"
+  }
+ }
+}

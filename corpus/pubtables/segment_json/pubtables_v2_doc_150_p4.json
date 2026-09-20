@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_150",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    465.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "HPIV-1 Genome Sequencing and Phylogenetic Analysis"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    388.9,
+    92.8
+   ],
+   "ocr": "Table 4. Amino Acid substitutions of the Seven Regions of HN"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    392.7,
+    81.4,
+    694.3,
+    92.8
+   ],
+   "ocr": "Gene (calculated using all available sequences from GenBank)."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    699.3,
+    254.7
+   ],
+   "ocr": "Length of the region No. of Substitutions in\nRegion Name Location of region (Residues) each region Ratio of substitution/residue\nCytoplasmic tail 1–35 35 4 0.114\nTransmembrane region 36–60 25 4 0.160\nStalk region 61–191 131 9 0.069\nHigh structural homology region I 192–341 150 5 0.033\nNon-structural assignment region 342–457 116 12 0.103\nHigh structural homology region II 458–504 47 3 0.064\nCarboxyl terminal 505–575 71 11 0.155",
+   "table_id": "PMC3459887_table_3"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    267.9,
+    225.1,
+    276.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0046048.t004"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    295.0,
+    700.8,
+    963.6
+   ],
+   "ocr": "reading frame (ORF) of each gene. Except for a few singleton mutations, most amino acid substitutions are clade-scale changes (substitutions occur in all strains within a clade). We observed substitutions in 1 of 525 (0.2%) amino acids of the N protein, 25 of 569 (4.4%) amino acids of the P protein, 0 of 349 (0.0%) amino acids of the M protein, 6 of 556 (1.1%) amino acids of the F protein, 36 of 576 (6.3%) amino acids of the HN protein, and 13 of 2224 (0.6%) amino acids of the L protein. The clade-scale amino acid substitutions are listed in Table 3 (complete genome sequences from this study) and shown graphically in Figure 3 (HN gene sequences from this study and those found in GenBank). When using the 40 new HN gene sequences in addition to those available in GenBank we found that 48 of 576 amino acids in the HN gene were variable (8.3%) (Table 4). The HN protein is comprised of seven regions [30]. Across these seven regions, the cytoplasmic tail (residues 1–35), the transmembrane region (residues 35–60), the stalk region (residues 60–191), the high structural homology region I (residues 191–341), the non- structural assignment region (residues 341–457), the high struc- tural homology region II (residues 457–504) and the carboxyl terminus (residues 504–575) showed 4, 4, 9, 5, 12, 3, and 11 amino acid substitutions, respectively. The transmembrane and carboxy terminal regions showed the highest substitution rates (0.160 and 0.155 substitutions/residue, respectively), while the high structural homology regions I and II were the most conserved [0.033 and 0.064 substitutions/residue, respectively (Figure 3, Table 4)]. Analysis of Sequence Variability The nucleotide diversity (p) is 0.018 across the entire genome (using the 35 complete genomes obtained in this study and the one complete genome previously available in GenBank). Nucleotide diversity was also calculated for important genetic elements of HPIV-1 including: 59 and 39 non-coding regions (NCRs), intergenic sequences, gene terminators, and open reading frames (ORFs). All of the non-coding regions were well conserved with the exception of the 59 NCR of the F gene (p = 0.050) and 39 NCR of the HN gene (p = 0.050), which were the most diverse regions of the genome. A 6 nt addition was found in the 59 NCR of the F gene of HPIV-1/WI/629-D01575/2009. Among the six ORFs of the HPIV-1 genome, the P gene is the most variable (p = 0.023) and the L gene is the most conserved (p = 0.014) (Table 5). The complete results of the sliding scale analysis of nucleotide diversity can be seen in Figure 4. The 100 bp regions containing the 59 NCR plus the first 5 nt of the F gene (nt 4983–5082) and the 39 NCR of the HN gene (nt 8609–8709) showed the greatest nucleotide diversity (p = 0.066, p = 0.058) across the entire genome. The most diverse region of each open reading frame is 9 September 2012 | Volume 7 | Issue 9 | e46048"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    295.5,
+    375.8,
+    963.6
+   ],
+   "ocr": "Phylogenetic analysis of HPIV-1 in Milwaukee, WI since 1997 The Bayesian Markov Chain Monte Carlo (MCMC) analysis of 39 HPIV-1 genome sequences from viruses collected in Milwau- kee, WI during 1997–2010 identified three major HPIV-1 clades, referred to as Clades 1, 2, and 3 (Figure 1). Clade 1 includes viruses from 1997–1999, Clade 2 includes viruses from 2005– 2009, and Clade 3 includes the majority of 2009 viruses and all of the 2010 viruses. It is interesting to note that the HPIV-1 viruses in clade 2 are more closely related genetically to viruses from clade 1 (collected in 1997–1999), despite being closer temporally to the viruses from clade 3.The Bayesian MCMC analysis indicates that the Time to the Most Recent Common Ancestor (TMRCA) is 66.7–72.0 years (95% HPD). The rate of evolutionary change for these viral genomes is 7.6161024 nt substitutions per site per year (95% HPD, 6.9361024 to 8.2961024 nt/site-year), which is within the range typically observed for negative-sense RNA viruses [28]. A second MCMC tree was made using 36 of the 40 newly identified HN gene sequences (four were excluded because they were incomplete) plus 221 HN gene sequences deposited in GenBank from previous studies [7,12–14,29] (Figure 2). The phylogeny was structured both by time and by location of isolation. Clades 1 and 3 identified during the whole genome phylogeny were also evident on the HN phylogeny. However, the viruses belonging to clade 2 (as defined by whole genome phylogeny in Figure 1) were interspersed with viruses from Japan on the HN gene tree. The TMRCA for the HN gene is estimated to be 58.3–66.2 (95% HPD), which is similar to the estimate for the complete genomes from Milwaukee 1997–2010. The rate of evolution for the HN gene is 1.3761023 nt substitutions per site per year (95% HPD: 1.1661023 nt/site-year to 1.5961023 nt/ site-year, similar to the rest of the genome. In an effort to confirm the results of the BEAST analysis we also used the maximum likelihood method available in PAUP (version 4.0) [17]. The phylogenies created using the 40 newly identified HPIV-1 whole genomes and the N, P, M, F, HN and L gene sequences (Figures S1, S2, S3, S4, S5, S6, S7, S8) all look very similar to the MCMC tree created with complete HPIV-1 genomes in BEAST (Figure 1). The viruses are grouped in the same clade regardless of which gene is being analyzed. Figures S1, S2, S3, S4, S5, S6, S7, S8). Amino Acid Substitutions Amino acid substitutions were identified using the 40 newly sequenced genomes and the MacClade program (Maddison and Maddison, 2000) for each HPIV-1 protein by translating the open PLOS ONE | www.plosone.org"
+  }
+ }
+}

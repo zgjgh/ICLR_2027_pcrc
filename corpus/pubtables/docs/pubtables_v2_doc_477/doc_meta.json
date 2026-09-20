@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_477",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4594641_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    141.7,
+    678.6,
+    365.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4594641_table_0.png",
+   "html": "<table><tr><td>Sample</td><td>Stage</td><td>Daylengtha</td><td>Hours after lights-on</td></tr><tr><td>1</td><td>larvae</td><td>Short</td><td>5</td></tr><tr><td>2</td><td>larvae</td><td>Short</td><td>13</td></tr><tr><td>3</td><td>larvae</td><td>Short</td><td>21</td></tr><tr><td>4</td><td>larvae</td><td>Long</td><td>5</td></tr><tr><td>5</td><td>larvae</td><td>Long</td><td>13</td></tr><tr><td>6</td><td>larvae</td><td>Long</td><td>21</td></tr><tr><td>7</td><td>pupae</td><td>Long</td><td>5</td></tr><tr><td>8</td><td>pupae</td><td>Long</td><td>13</td></tr><tr><td>9</td><td>pupae</td><td>Long</td><td>21</td></tr><tr><td>10</td><td>adult</td><td>Long</td><td>5</td></tr><tr><td>11</td><td>adult</td><td>Long</td><td>13</td></tr><tr><td>12</td><td>adult</td><td>Long</td><td>21</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4594641_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    470.6,
+    678.5,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4594641_table_1.png",
+   "html": "<table><tr><td>Abbreviation</td><td>Gene name</td><td>Clock function (See Fig. 1)</td><td>Reference</td></tr><tr><td>CkI&#945;</td><td>casein kinase I&#945;</td><td>paralog of dbt</td><td>Fig. 4b</td></tr><tr><td>CkII&#945;</td><td>casein kinase II&#945;</td><td>promotes nuclear localization of PER-DBT-TIM via phosphorylation of TIM</td><td>[25&#8211;27]</td></tr><tr><td>Clk</td><td>Clock</td><td>transcription factor promoting transcription of per, tim, cry2, vri, PDP1, cwo</td><td>[25&#8211;27, 118]</td></tr><tr><td>Cul3</td><td>Cullin 3</td><td>ubiquitinates TIM leading to its degradation</td><td>[30]</td></tr><tr><td>cwo</td><td>clockwork orange</td><td>acts synergisticly with PER to inhibit CLK-mediated gene activation</td><td>[25, 119, 120]</td></tr><tr><td>cry</td><td>cryptochrome 1, cry1, dcry</td><td>photoreceptor; complexes with SGG &amp; TIM to mediate light-input pathway into the clock</td><td>[25, 26]</td></tr><tr><td>cry2</td><td>cryptochrome 2, mcry</td><td>transcription regulator of Clk &amp; cyc in insects other than Drosophila</td><td>[25, 27]</td></tr><tr><td>cyc</td><td>cycle</td><td>transcription factor promoting transcription of per, tim, cry2, Pdp1, vri</td><td>[25&#8211;27]</td></tr><tr><td>dbt</td><td>doubltime = dco, discs overgrown</td><td>major regulator of PER &amp; CLK through phosphorylation</td><td>[25&#8211;27, 31]</td></tr><tr><td>jet</td><td>jetlag</td><td>promotes light-induced proteosomal degradation of TIM &amp; CRY1</td><td>[27, 33, 121]</td></tr><tr><td>kay&#945;</td><td>kayak&#945;</td><td>Inhibits VRI suppression of Clk promoter; represses CLK activity</td><td>[127]</td></tr><tr><td>nmo</td><td>nemo</td><td>phosphorylates PER, enhances action of DBT; phosphorylates CLK</td><td>[25, 29, 31, 123]</td></tr><tr><td>Pdp1</td><td>PAR-domain protein 1</td><td>Likely in combination with VRI enhances Clk transcription and clk mRNA amplitude</td><td>[25&#8211;27, 118]</td></tr><tr><td>per</td><td>period</td><td>negative transcription regulator of Clk &amp; cyc transcription after transport to nucleus as phosphorylated PER-TIM-DBT complex</td><td>[25, 27]</td></tr><tr><td>phr6-4</td><td>(6&#8211;4)-photolyase</td><td>paralog of cry1 &amp; cry2</td><td>[17], Fig. 3</td></tr><tr><td>PP2A-B&#8217;</td><td>protein phosphatase 2A, regulatory B subunit</td><td>regulates phosphorylation of PER; counter-balances PER &amp; TIM phosphorylation by DBT</td><td>[25&#8211;27, 31]</td></tr><tr><td>sgg</td><td>shaggy</td><td>phosphorylates TIM, in concert with CRY1 &amp; light; regulates PER phosphorylation- dephosphorylation; promotes PER nuclear localization</td><td>[25&#8211;27, 31]</td></tr><tr><td>slimb</td><td>supernumerary limbs</td><td>phosphorylates PER &amp; TIM, leading to their degradation</td><td>[25&#8211;27, 124]</td></tr><tr><td>tim</td><td>timeless</td><td>binds to &amp; facilitates transport of heterodimeric PER into the nucleus; interacts with JET, SGG &amp; CRY to regulate the input of light; increases CKII&#945; phosphorylation of PER</td><td>[25, 125]</td></tr><tr><td>tim2</td><td>timeout</td><td>paralog of TIM; necessary for laval survivorshiop; promotes chromosomal stability; enhancs photoreception.</td><td>[122, 126]</td></tr><tr><td>vri</td><td>vrille</td><td>transcription inhibitor of Clk</td><td>[25&#8211;27, 118]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4594641_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    764.8,
+    678.6,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4594641_table_2.png",
+   "html": "<table><tr><td>Sequencing results</td><td>Total</td><td>Aligned</td><td>Assembled</td></tr><tr><td>Number of readsa</td><td>1,081,284</td><td>999,150</td><td>936,525</td></tr><tr><td>Number of bases</td><td>432,542,060</td><td>401,519,734</td><td>380,523,665</td></tr><tr><td>Assembly statistics</td><td>Singletons</td><td>Number of Contigs (Contigs &gt;500 bp)</td><td>Isotigs</td></tr><tr><td>Number of sequences</td><td>54,418</td><td>25,904 (14,459)</td><td>21,233</td></tr><tr><td>Number of bases</td><td>20,109,580</td><td>19,120,348 (16,952,075)</td><td>32,183,643</td></tr><tr><td>Average sequence size (bp)</td><td>355</td><td>738 (1,172)</td><td>1,515</td></tr><tr><td>Length of N50 sequence (bp)b</td><td>451</td><td>1,249 (1,373)</td><td>1,373</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4594641_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    141.7,
+    678.6,
+    453.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4594641_table_3.png",
+   "html": "<table><tr><td>Genea</td><td>Transcriptb</td><td>A. aegypti AAEL- c</td><td>E-valued</td><td>ProtTest Model</td><td>FBgn-</td><td>Ortho DB EOG7-e</td><td>Nucleo- tides</td><td>Relative Rate</td></tr><tr><td>CkII&#945;</td><td>15735</td><td>012094</td><td>0</td><td>Dayhoff+G+F</td><td>0264492</td><td>4RCF1</td><td>451</td><td>0.102</td></tr><tr><td>Clk</td><td>2GK8YT</td><td>012562</td><td>0</td><td>JTT+G+F</td><td>0023076</td><td>NSNR1</td><td>1,865</td><td>0.679</td></tr><tr><td>cry2</td><td>05165</td><td>002602</td><td>4E-173</td><td>LG+G</td><td>&#8212;</td><td>P64PH</td><td>634</td><td>0.298</td></tr><tr><td>Cul3</td><td>07535</td><td>006291 007187</td><td>0</td><td>LG+G</td><td>0261268</td><td>TN9FJ</td><td>1,771</td><td>0.348</td></tr><tr><td>cwo</td><td>15437</td><td>010513</td><td>0</td><td>LG+G+F</td><td>0259938</td><td>XDP58</td><td>2,313</td><td>1.792</td></tr><tr><td>cyc</td><td>17314</td><td>002049</td><td>7 E-86</td><td>JTT+G</td><td>0023094</td><td>7TBTD</td><td>851</td><td>0.390</td></tr><tr><td>dbt</td><td>08662</td><td>002226</td><td>1E-144</td><td>JTT+G</td><td>0002413</td><td>2CGPS</td><td>527</td><td>0.866</td></tr><tr><td>jet</td><td>03197</td><td>012126</td><td>1 E-93</td><td>LG+G+F</td><td>0031652</td><td>NSNRX</td><td>1,004</td><td>1.572</td></tr><tr><td>kay&#945;</td><td>13013</td><td>008953</td><td>8 E-145</td><td>LG+G+F</td><td>0001297</td><td>06BFN</td><td>1,162</td><td>1.625</td></tr><tr><td>nmo</td><td>17870</td><td>004797</td><td>0</td><td>JTT+G</td><td>0011817</td><td>JF2MQ</td><td>2,130</td><td>0.254</td></tr><tr><td>Pdp1</td><td>02480</td><td>005255</td><td>8 E-145</td><td>LG+I</td><td>0016694</td><td>2RZNP</td><td>3,083</td><td>0.602</td></tr><tr><td>per</td><td>1A331S</td><td>008141</td><td>1 E-76</td><td>JTT+G</td><td>0003068</td><td>MHBMZ</td><td>2,670</td><td>1.500</td></tr><tr><td>PP2A-B'</td><td>04554</td><td>014031</td><td>0</td><td>LG+G</td><td>0042693</td><td>S57VZ</td><td>721</td><td>0.463</td></tr><tr><td>sgg</td><td>17080</td><td>005238</td><td>0</td><td>Dayhoff + G</td><td>0003371</td><td>D2S3R</td><td>2641</td><td>0.455</td></tr><tr><td>slimb</td><td>03120</td><td>003371</td><td>0</td><td>JTT+G</td><td>0023423</td><td>WHV0D</td><td>2,355</td><td>0.559</td></tr><tr><td>tim</td><td>06527</td><td>006411</td><td>1 E-61</td><td>JTT+G+F</td><td>0014396</td><td>DG81S</td><td>2,752</td><td>0.793</td></tr><tr><td>vri</td><td>08372</td><td>011371</td><td>7 E-133</td><td>JTT+I+G+F</td><td>0173452</td><td>HXQF6</td><td>2,465</td><td>1.234</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4594641_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    793.1,
+    678.6,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4594641_table_4.png",
+   "html": "<table><tr><td>Related gene</td><td>W. smithii Contig</td><td>A. aegypti AAEL-</td><td>E-value</td><td>Clock gene</td><td>FBgn</td><td>Ortho DB EOG7-</td><td>Nucleotides</td></tr><tr><td>CkI&#945;</td><td>08154</td><td>007662</td><td>0</td><td>dco</td><td>0015024</td><td>2CGPS</td><td>483</td></tr><tr><td>cry1</td><td>07972</td><td>004146</td><td>0</td><td>cry2, phr6-4</td><td>0025680</td><td>9SRM2</td><td>1,228</td></tr><tr><td>phr6-4</td><td>00499</td><td>001175</td><td>0</td><td>cry1, cry2</td><td>0016054</td><td>P64PH</td><td>1,134</td></tr><tr><td>tgo</td><td>06945</td><td>010343</td><td>0</td><td>cyc</td><td>0264075</td><td>Q2ZVC</td><td>940</td></tr><tr><td>tim2</td><td>18589</td><td>009518</td><td>7 E-45</td><td>tim</td><td>0038118</td><td>2RZMT</td><td>589</td></tr><tr><td>wbt</td><td>13912</td><td>003015 008194</td><td>1 E-165</td><td>PP2A-B'</td><td>0027492</td><td>S57VZ</td><td>4,552</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4594641_table_5",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    823.1,
+    366.1,
+    887.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4594641_table_5.png",
+   "html": "<table><tr><td>Categorya</td><td>Mean</td><td>StErr</td><td>t</td><td>df</td><td>P = 1.0b</td></tr><tr><td>TTFL &amp; PTM combined</td><td>0.8</td><td>0.13</td><td>1.55</td><td>16</td><td>0.14</td></tr><tr><td>TTFL only</td><td>0.99</td><td>0.2</td><td>0.49</td><td>8</td><td>0.96</td></tr><tr><td>PTM only</td><td>0.58</td><td>0.16</td><td>2.6</td><td>7</td><td>0.04</td></tr></table>"
+  }
+ ]
+}

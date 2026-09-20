@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_475",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    538.3,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Stream Vulnerability to Emergent Stressors"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    709.6,
+    119.4
+   ],
+   "ocr": "Table 2. Variables included in cluster analysis and vulnerability index calculations as indicated by an * and data sources. NLCD–National Land Cover Database."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.1,
+    725.3,
+    638.4
+   ],
+   "ocr": "Variable Type Variable Description Data Source\nGeneral watershed Catchment area (km2) HUC12 area from the NHD; http://datagateway.nrcs.usda.gov/\ncharacteristics\nAverage elevation in each HUC12 (m) 100 m digital elevation model; http://nationalatlas.gov/atlasftp.html#elev48i\nCharacteristics that Average slope in each HUC12 Slope raster calculated from the 100 m DEM in ArcGIS.\nincrease watershed (percent)*\nsensitivity\nPrecipitation (mm)* PRISM 30 year normals; http://www.prism.oregonstate.edu/normals/\nSoil erodibility factor * STATSCO soils data for the Conterminous United States; http://water.usgs.gov/\nGIS/metadata/usgswrd/XML/ussoils.xml\nDrainage density of NHDplus ﬂowlines NHDplus data; http://www.horizon-systems.com/nhdplus/\nin each HUC12 watershed (km/km2)*\n% Wetlands * (NLCD class 90 + 95) 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php\n% Forest + %Grassland* (NLCD class 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php\n41 + 42 + 43)\nProportion of loose sediment* http://tin.er.usgs.gov/geology/state/ Sum of LITH6 categories “sand”, “gravel”, and\n“dune sand”, “alluvium”, “alluvial terrace”, “glacial drift”,\n“unconsolidated sediments”\nPotential stressors Well density (all, wells/km2) Well data came from each states oil and gas website; we only selected wells that\nwere labeled as \"oil or gas well\", \" that were drilled post 1 January 2000, that\nWell density (vertical, wells/km2)*\nwere \"active\" or \"Abandoned.\" See Appendix 1 for a detailed description of well\nWell density (non-vertical, wells/km2)*\ndata sources and selection procedures.\nWell count (all)\nWell count (vertical)\nWell count (non-vertical)\nDam Density (#/km2)* NID database: http://geo.usace.army.mil/pgis/f?p=397:12\nMine Density (#/km2)* USGS Mineral Resources Database: http://tin.er.usgs.gov/mrds/\nRoad density (km/km2)* TIGER 2010 Streets; http://datagateway.nrcs.usda.gov/GDGOrder.aspx?order=\nQuickState\n% Impervious surface* 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php\n% Developed (NLCD class 21 + 22 + 23 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php\n+ 24)\n% High-intensity Developed (NLCD 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php\nclass 24)\n% Pasture * (NLCD class 81) 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php\n% Cultivated crops* (NLCD class 82) 2006 NLCD datasets; http://www.mrlc.gov/nlcd06_data.php",
+   "table_id": "PMC4580492_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    646.2,
+    727.2,
+    889.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0137416.t002 agriculture and impervious surface cover whose rankings were taken from published literature [36]. Well proximity to NHDPlus flowlines were scored with lower values corresponding to a higher exposure. Zeros were included as a potential score for all variables except proximity of wells to flowlines. Total exposure was then calculated for each HUC12 as the sum of each parameter’s exposure score. Data sources for all variables used to rank sensitivity and exposure are summarized in Table 2. Vulnerability for each HUC12 was estimated by multiplying total sensitivity and exposure [35]. The above sensitivity, exposure and vulnerability analysis provides a useful framework to rank individual HUC12s and average shale play vulnerability to UOG development; however, it does not directly rank each play’s average vulnerability to the three main postulated effects of UOG on streams: altered natural flow regime, sedimentation, and chemical contamination [17,42]. To make these more direct connections, we developed an average shale play severity- weighted index following the methods of [7, 36]. Briefly, authors ranked each exposure variable"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0137416 September 23, 2015 7 / 28"
+  }
+ }
+}

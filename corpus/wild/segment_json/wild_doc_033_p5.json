@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_033",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    213.0
+   ],
+   "ocr": "Primer Forward reverse\nβ-Actin AAGCCACCCCACTTCTCTCTAA AATGCTATCACCTCCCCTGTGT\nBcl-2 ATGTGTGTGGAGAGCGTCAA ACAGTTCCACAAAGGCATCC\nSurvivin GTTGCGCTTTCCTTTCTGTC TCTCCGCAGTTTCCTCAAAT\nXIAP CACTTGAGGTTCTGGTTGCAG TGCAAAGCTTCTCCTCTTGC\nSTAT1 AATGCTGGCACCAGAACGAA ATCACCACAACGGGCAGAGA\nIFNB GCAATTGAATGGGAGGCTTG GGCGTCCTCCTTCTGGAACT",
+   "table_id": "img_037015_t0"
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    228.0,
+    580.0,
+    349.0
+   ],
+   "ocr": "Viscosity model Flow rate Healthy vessel Diseased vessel\nWSST WSST\nPower Law Re 1 0.0147 0.0147\nRe 2 0.0127 0.0187\nRe 3 0.0094 0.0085\nQuemada Re 3 0.0122 0.0101",
+   "table_id": "img_037015_t1"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    365,
+    580,
+    454
+   ],
+   "ocr": "The data presented in the accompanying table provides a comprehensive analysis of the amplification efficiency and specificity of β-Actin primers, utilizing metrics derived from Power Law calculations. Specifically, the columns labeled \"Forward\" and \"Reverse\" denote the sequences of the primers used in this study: AAGCCACCCCACTTCTCTCTAA for the forward primer and AATGCTATCACCTCCCCTGTGT for the reverse primer. These primers were selected based on their ability to yield consistent and reproducible results in quantitative PCR assays. The WSST (Weighted Sum of Squared T-values) values indicate the performance of each primer set, with a focus on their respective amplification efficiencies."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    442,
+    580,
+    531
+   ],
+   "ocr": "In this context, the calculated Re value of 0.0147 suggests a notable level of precision in the amplification process, highlighting the reliability of the β-Actin gene as a reference standard in gene expression studies. This data underscores the importance of meticulous primer design and optimization in molecular biology, as the accuracy of quantitative PCR results heavily relies on the effectiveness of the primer pairs employed. Overall, the insights gleaned from this data are vital for advancing our understanding of gene expression dynamics in various biological contexts."
+  }
+ }
+}

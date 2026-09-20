@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_035",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    294.2,
+    64.4
+   ],
+   "ocr": "BMC Medical Genetics 2007, 8(Suppl 1):S12"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    439.0,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2350/8/S1/S12"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    398.7,
+    118.9
+   ],
+   "ocr": "Table 1: Description of hemostatic factors, hematological phenotypes,"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    401.5,
+    107.2,
+    525.9,
+    118.9
+   ],
+   "ocr": "and covariates adjustment"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.3,
+    690.9,
+    477.6
+   ],
+   "ocr": "Phenotype Number of adjusted Offsrping cohort Sample size Covariates adjusted\nphenotypes exam cycles† (min-max)\nHemostatic factors:\nfibrinogen 4 5, 6, 7 and average 986–1073 age (and its squared and cubic terms), sex, body mass\nindex, prevalent cardiovascular disease, current cigarette\nsmoking, hypertension treatment, systolic blood\npressure, diastolic blood pressure, estrogen therapy\n(women only), alcohol intake, triglycerides, diabetes,\ntotal cholesterol, and the ratio of total cholesterol to\nhigh-density lipoprotein cholesterol.\nPAI-1 3 5, 6 and average 788–1037\ntPA 1 5 786\nvWF 1 5 883\nFVII 1 5 886\nD-dimer 1 5 987\nHematological and\nrheological phenotypes\nplatelet aggregation (ADP- 1 5 724\ninduced)\nplatelet aggregation (collagen- 1 5 702\ninduced)\nplatelet aggregation (Epi-induced) 1 5 719\nViscosity 1 5 832\nHgb 3 1, 2, and average 903–1066 age, sex, height, weight, high-density lipoprotein\ncholesterol, total serum protein, alcohol intake,\ntriglycerides, and current cigarette smoking\nRBCC 3 1, 2, and average 903–1062\nMCH 3 1, 2, and average 903–1062\nHematocrit* 3 1, 2, and average 903–1062\nMCV 3 1, 2, and average 903–1062\nWBC* 3 1, 2, and average 903–1062",
+   "table_id": "PMC1995619_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    493.8,
+    384.2,
+    922.4
+   ],
+   "ocr": "*Results for these two phenotypes are not reported in this manuscript. The www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?id=phs000007 taking aspirin were excluded from the analyses for platelet aggregation phenotypes as well as PAI-1 and tPA. HCT was measured by the Wintrobe method [29]. Blood was collected and spun at 5000 rpm for 20 minutes in a balanced oxalate tube. The percent of total blood volume that was due to red blood cells was determined visually against a calibrated scale. MCV is the average volume of an individual's red blood cells determined as the ratio of HCT to RBCC. MCH is the average amount of hemo- globin of an individual's red cell determined as the ratio of Hgb to RBCC. Statistical methods Standardized multivariable adjusted residuals of the hemostatic and hematological phenotypes were com- puted and used in all the linkage and association analyses. Covariates used in the adjustments were determined based upon what has been reported in the literature as potential risk factors for hemostatic factors or hematolog- ical phenotypes. Hardy-Weinberg equilibrium was exam- ined using an exact chi-square test statistic [30]. Association between each SNP and each hemostatic or hematological phenotype was examined using a popula- tion based association method via generalized estimating equations (GEE) [31] and family-based association test (FBAT) [32], assuming an additive genetic model. Vari-"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    387.0,
+    493.8,
+    698.4,
+    981.2
+   ],
+   "ocr": "complete results of all the phenotypes listed above can be found at http:// ance components linkage analyses were conducted using a subset of SNPs with pairwise r2 < 0.5. Details of both association and linkage methods are described in the overview of this project [25]. In secondary analyses, we combined the GEE association tests results across multiple phenotypes that may share the common pathway to reduce the type I error rates, and pos- sibly detect SNPs of smaller effect sizes. We ranked SNPs by the number of GEE test p-values less than 0.01, and then by the geometric mean of the GEE test p-values. We also examined the β coefficient from the GEE regression that is the change in the phenotype in one standardized deviation unit with an increment of a copy of the alpha- betically second allele (for example, allele G for a SNP with alleles A and G). This analysis was conducted for a phenotype assessed using multiple measurement meth- ods such as the platelet aggregation with ADP-, collagen-, and Epi-induced platelet aggregation; or for a phenotype with serial measurements such as fibrinogen level meas- ured at examination cycles 5, 6 and 7. We attempted to identify association of 100K SNPs in or within 60 kilo base pairs (kbp) of selected candidate genes previously reported to be associated with hemostatic fac- tors or hematological phenotypes. For hemostatic factors and platelet aggregation phenotypes, we included the fol- Page 3 of 11 (page number not for citation purposes)"
+  }
+ }
+}

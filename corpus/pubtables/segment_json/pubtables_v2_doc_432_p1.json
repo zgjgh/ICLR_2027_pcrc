@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_432",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    422.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Classification of Different Imaginary Movements within the Same Limb"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    96.0,
+    727.2,
+    699.1
+   ],
+   "ocr": "Next, Deng et al. [22] and Zhou et al. [23] attempt to classify the intention of executing shoulder abduction and elbow flexion, which is used in a BCI system to overcome the abnor- mal coupling that exists between the shoulder abduction and elbow flexion following stroke. In these papers, the intention is defined as the time window of 1800 to 60ms prior to the onset of a voluntary shoulder or elbow torque. These two studies have demonstrated promising results, with accuracies above 70% for stroke patients and 80% for healthy volunteers. Finally, Chakra- borti et al. [24] propose to use a multi-class BCI to control the motion and orientation of a robot. For each left and right hands, the execution of shoulder, elbow, and finger movements are classified using only 2-channel EEG signals. The classification of these same limb move- ments results in surprisingly high classification accuracies (i.e., in the range of 56%—93%). In this paper, the research effort is focused in the classification of upper-limb movements within the same limb. We propose a 3-class BCI system that discriminates EEG signals corre- sponding to rest, imaginary grasp movements, and imaginary elbow movements. Motor imag- ery of grasp and elbow movements are chosen due to their potential use in controlling the robotic arm [25] developed in our lab and an FES. This rehabilitation system is designed to help stroke patients perform task-specific rehabilitation exercises and eventually improve their upper-extremity functions. The three classification tasks employed in this study are different from those listed in Table 1. Even though Chakraborti et al. [24] also look into the classification of elbow and finger movements, but their work focuses on real movements and resting states are not considered in their study. In contrast, both imaginary movements and a rest state are included in our classification problem. In the present study, we also investigate the differences between simple motor imagery and goal-oriented motor imagery in terms of their topographi- cal distributions and classification accuracies. To the best of our knowledge, the classification combination employed in this study as well as the difference between simple and goal-oriented motor imagery have not been explored in the BCI literature. In addition, all BCIs designed for stroke rehabilitation only classify two clas- ses (left vs right motor imagery or mostly rest vs motor imagery), as shown in Table 2. A 3-class BCI system for stroke rehabilitation has some advantages over the state-of-the-art 2-class BCIs designed for stroke rehabilitation. First, it has an additional dimension to operate a robotic system when performing task-specific exercises. For example, the user can imagine elbow movements to move the robotic device close to a cup, and then imagine grasp move- ments to activate the FES, which in turn close the user’s fingers to grab the cup. Such control is more intuitive than that derived from a BCI system that identifies the motor imagery of differ- ent limbs (i.e., left/right hand and foot). The second advantage of the 3-class BCI system is that the users can perform mental practice on two different joint movements using the same device. Table 1. BCI studies that classify different same limb movements."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    708.4,
+    726.5,
+    833.4
+   ],
+   "ocr": "Bibliography # EEG Real/MI BCI Classes Accuracy (%)\nLiao et al. [18] 128 Real 2-class: Different Pairs of Thumb, Index, Middle, Ring, Little Fingers 77.11% (11 Healthy)\nNavarro et al. [19] 21 Real, MI 4-Class: Wrist Flexion, Extension, Pronation, Supination 35%, 34%, 35%, 32% (4 Healthy)\nVuckovic et al. [20] 64 Real, MI 2-Class: Different Pairs of wrist Flexion, Extension, Pronation, Supination 63%–82% (10 Healthy)\nGhani et al. [21] 64 Real 2-Class: different pairs of wrist Flexion, Extension, Pronation, Supination 61%–75% (3 Healthy)\nDeng et al. [22] 163 Real (*Intention*) 2-Class: Shoulder Abduction, Elbow Flexion 89% (4 Healthy), 76% (1 Stroke)\nZhou et al. [23] 163 Real (*Intention*) 2-Class: Shoulder Abduction, Elbow Flexion 92% (4 Healthy), 75% (2 Stroke)\nChakraborti et al. [24] 2 Real 3-Class: Shoulder, Elbow, Finger 56%–93% (8 Healthy)",
+   "table_id": "PMC4382224_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    846.0,
+    295.9,
+    880.3
+   ],
+   "ocr": "BCI studies that classify different same limb movements. doi:10.1371/journal.pone.0121896.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121896 April 1, 2015 3 / 24"
+  }
+ }
+}

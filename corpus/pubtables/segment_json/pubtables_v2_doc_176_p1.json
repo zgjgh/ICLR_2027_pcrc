@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_176",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    510.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterozygous Mapping Strategy for GBS Markers"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    407.1,
+    727.2,
+    708.6
+   ],
+   "ocr": "Fig 2. Relatedness to parents and Mendelian errors in the F1 family 'Horizon' x Illinois 547–1. A) Analysis of progeny relatedness to parents demonstrated that most progeny had expected relatedness values near (0,0), whereas 8 individuals were more related to ‘Horizon’ (emasculated hermaphrodite parent) and less related to Illinois547-1 (pollen parent) and were thus removed for downstream analysis. B) Mendelian error analysis indicated that 7 of these same individuals were enriched for male incompatible genotypes. doi:10.1371/journal.pone.0134880.g002 Markers from each LG were phased using hierarchical clustering and dendrogram cutting, with a static cut height of 0.9 and minimum cluster size of 30. For all LGs, markers resolved well into 2 phases (S4 Fig). No markers were removed at this stage. Following phasing, and prior to ordering, LGs with markers from same physical chromosome were identified and joined, using the parental and physical information (S3 File). In all cases it was possible to reconstruct 19 LGs per parental map. Each LG was assigned to the parent in which segregation of the minor allele was observed for the majority of the markers, as shown in the tables ‘GEN- OvsPARENT’ (S3 File), where the sum of heterozygous (het) alleles should be much greater than the sum of homozygous (hom) alleles. Markers resulting from the synteny pipeline can simply retain their physical position on the reference genome [36] or can be ordered genetically. Here, we take both approaches and Table 1. Number of SNPs after each stage of pseudo-testcross (Pt) marker identification for four F1 families."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    716.2,
+    709.3,
+    877.9
+   ],
+   "ocr": "Stage V. rupestris B38 x ‘Horizon’ x Illinois ‘Chardonnay’ x V. ‘Horizon’ x V.\n‘Horizon’ 547–1 cinerea B9 cinerea B9\nInitial 337,365 449,840 300,773 331,356\nLow genotyping rate 119,850 (36%) 177,955 (40%) 116,467 (39%) 130,042 (39%)\nMonomorphic after sequencing error 115,865 (34%) 160,424 (36%) 84,141 (28%) 92,409 (28%)\ncorrection\nIncorrect segregation patterns 45,381 (13%) 43,938 (10%) 51,775 (17%) 47,630 (14%)\nLow genotyping rate after genotype error 41,141 (12%) 50,169 (11%) 36,084 (12%) 45,757 (14%)\ncorrection\nHigh error rate 290 (0.09%) 352 (0.08%) 187 (0.06%) 181 (0.05%)\nHetMappS Pt Markers Output 14,838 (4.4%) 17,002 (3.8%) 12,089 (4.0%) 15,337 (4.6%)",
+   "table_id": "PMC4526651_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0134880.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0134880 August 5, 2015 11 / 31"
+  }
+ }
+}

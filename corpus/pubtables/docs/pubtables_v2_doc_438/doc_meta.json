@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_438",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4411120_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    116.1,
+    716.4,
+    395.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4411120_table_0.png",
+   "html": "<table><tr><td>Parameters</td><td>Subscore, 0&#8211;3</td></tr><tr><td rowspan=\"4\">Stool frequency</td><td>0 = Normal number of stools for this patient</td></tr><tr><td>1 = 1&#8211;2 stools more than normal</td></tr><tr><td>2 = 3&#8211;4 stools more than normal</td></tr><tr><td>3 = 5 or more stools more than normal</td></tr><tr><td rowspan=\"4\">Rectal bleeding</td><td>0 = No blood seen</td></tr><tr><td>1 = Streaks of blood with stool less than one-half of the time</td></tr><tr><td>2 = Obvious blood with stool most of the time</td></tr><tr><td>3 = Blood alone passes</td></tr><tr><td rowspan=\"4\">Findings on endoscopy</td><td>0 = Normal or inactive disease</td></tr><tr><td>1 = Mild disease (erythema, decreased vascular pattern, and mild friability)</td></tr><tr><td>2 = Moderate disease (marked erythema, lack of vascular pattern, friability, and erosions)</td></tr><tr><td>3 = Severe disease (spontaneous bleeding and ulcerations)</td></tr><tr><td rowspan=\"4\">Physician&#8217;s global assessment</td><td>0 = Normal</td></tr><tr><td>1 = Mild disease</td></tr><tr><td>2 = Moderate disease</td></tr><tr><td>3 = Severe disease</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    683.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4411120_table_1.png",
+   "html": "<table><tr><td>Parameters</td><td>All patients (n = 224)</td><td>Mild (n = 110)</td><td>Moderate (n = 114)</td><td>P value</td></tr><tr><td colspan=\"5\">Demographics</td></tr><tr><td>Age (years)</td><td></td><td></td><td></td><td>0.11</td></tr><tr><td>Median (IQR)</td><td>38.00(29.00&#8211;47.00)</td><td>37.00(38.00&#8211;45.00)</td><td>39.00(32.00&#8211;49.00)</td><td></td></tr><tr><td>Range</td><td>19&#8211;65</td><td>19&#8211;63</td><td>19&#8211;65</td><td></td></tr><tr><td>Gender, n (%)</td><td></td><td></td><td></td><td>0.39</td></tr><tr><td>Male</td><td>130(58.0%)</td><td>67(60.9%)</td><td>63(55.3%)</td><td></td></tr><tr><td>Female</td><td>94(42.0%)</td><td>43(39.1%)</td><td>51(44.7%)</td><td></td></tr><tr><td colspan=\"5\">Disease characteristics</td></tr><tr><td>Disease distribution, n (%)</td><td></td><td></td><td></td><td>0.04</td></tr><tr><td>Proctitis</td><td>89(39.7%)</td><td>50(45.5%)</td><td>39(34.2%)</td><td></td></tr><tr><td>Left-sided</td><td>87(38.8%)</td><td>44(40.0%)</td><td>43(37.7%)</td><td></td></tr><tr><td>Extensive</td><td>48(21.5%)</td><td>16(14.5%)</td><td>32(28.1%)</td><td></td></tr><tr><td>Endoscopic grade, n (%)</td><td></td><td></td><td></td><td>0.00</td></tr><tr><td>Mild findings on endoscopy</td><td>56(25.0%)</td><td>47(42.7%)</td><td>9(7.9%)</td><td></td></tr><tr><td>Moderate findings on endoscopy</td><td>97(43.3%)</td><td>31(28.2%)</td><td>66(57.9%)</td><td></td></tr><tr><td>Severe findings on endoscopy</td><td>71(31.7%)</td><td>32(29.1%)</td><td>39(34.2%)</td><td></td></tr><tr><td>Extra-intestinal manifestations, n (%)</td><td>3(1.3%)</td><td>1(0.9%)</td><td>2(1.8%)</td><td>1.00</td></tr><tr><td>Disease duration</td><td></td><td></td><td></td><td>0.98</td></tr><tr><td>&lt;1 year</td><td>36(16.1%)</td><td>18(16.4%)</td><td>18(15.8%)</td><td></td></tr><tr><td>1&#8211;5 years</td><td>140(62.5%)</td><td>68(61.8%)</td><td>72(63.1%)</td><td></td></tr><tr><td>&gt;5 years</td><td>48(21.4%)</td><td>24(21.8%)</td><td>24(21.1%)</td><td></td></tr><tr><td>Range (years)</td><td>0.5&#8211;30</td><td>0.5&#8211;30</td><td>0.5&#8211;20</td><td></td></tr><tr><td>Inpatient or outpatient, n (%)</td><td></td><td></td><td></td><td>0.44</td></tr><tr><td>Hospitalized</td><td>21(9.4%)</td><td>12(10.9%)</td><td>9(7.9%)</td><td></td></tr><tr><td>Outpatient</td><td>203(90.6%)</td><td>98(89.1%)</td><td>105(92.1%)</td><td></td></tr><tr><td colspan=\"5\">Laboratory examination</td></tr><tr><td>Leukocytes (109/L)</td><td>6.24&#177;1.85</td><td>5.78&#177;1.55</td><td>6.68&#177;2.02</td><td>0.00</td></tr><tr><td>Hemoglobin (g/L)</td><td>134.03&#177;20.24</td><td>135.32&#177;19.74</td><td>132.78&#177;20.71</td><td>0.35</td></tr><tr><td>CRP (mg/L)</td><td>5.26&#177;5.09a</td><td>4.34&#177;3.88b</td><td>6.10&#177;5.89c</td><td>0.03</td></tr><tr><td colspan=\"5\">Medications, n (%)</td></tr><tr><td>5-aminosalicylates</td><td>89</td><td>53</td><td>36</td><td></td></tr><tr><td>5-aminosalicylates+corticosteroids</td><td>32</td><td>5</td><td>27</td><td></td></tr><tr><td>5-aminosalicylates+azathioprine</td><td>5</td><td>0</td><td>5</td><td></td></tr><tr><td>5-aminosalicylates+Chinese herbs</td><td>75</td><td>32</td><td>43</td><td></td></tr><tr><td>Chinese herbs</td><td>23</td><td>20</td><td>3</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_2",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    116.1,
+    726.7,
+    210.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4411120_table_2.png",
+   "html": "<table><tr><td>Item</td><td>Mild (n = 110)</td><td>Moderate (n = 114)</td><td>P Value</td></tr><tr><td>Bowel symptoms</td><td>48.82&#177;8.37</td><td>44.84&#177;8.96</td><td>0.001</td></tr><tr><td>Systemic symptoms</td><td>22.47&#177;4.61</td><td>21.13&#177;5.20</td><td>0.042</td></tr><tr><td>Emotional function</td><td>58.84&#177;9.94</td><td>54.36&#177;11.50</td><td>0.002</td></tr><tr><td>Social function</td><td>27.00(23.75&#8211;30.00)</td><td>24.00(18.00&#8211;30.00)</td><td>0.011</td></tr><tr><td>Total score</td><td>156.20&#177;24.99</td><td>143.94&#177;28.10</td><td>0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_3",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    762.2,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4411120_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Item</td><td colspan=\"3\">Mayo score</td></tr><tr><td>r</td><td>r2</td><td>P Value</td></tr><tr><td>Bowel symptoms</td><td>-0.326</td><td>-0.106</td><td>0.000</td></tr><tr><td>Systemic symptoms</td><td>-0.210</td><td>-0.044</td><td>0.002</td></tr><tr><td>Emotional function</td><td>-0.202</td><td>-0.041</td><td>0.002</td></tr><tr><td>Social function</td><td>-0.160</td><td>-0.026</td><td>0.017</td></tr><tr><td>Total score</td><td>-0.263</td><td>-0.069</td><td>0.000</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_4",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    116.1,
+    726.7,
+    383.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4411120_table_4.png",
+   "html": "<table><tr><td>Variables</td><td>&#946;</td><td>t</td><td>P Value</td></tr><tr><td colspan=\"4\">IBDQ total score</td></tr><tr><td>Mayo score</td><td>-0.213</td><td>-2.535</td><td>0.012</td></tr><tr><td>Gender</td><td>-0.193</td><td>-2.953</td><td>0.003</td></tr><tr><td>Age</td><td>-0.65</td><td>-0.994</td><td>0.322</td></tr><tr><td>Hospital admission</td><td>-0.33</td><td>-0.512</td><td>0.609</td></tr><tr><td>Extra-intestinal manifestations</td><td>-0.76</td><td>-1.160</td><td>0.247</td></tr><tr><td colspan=\"4\">Disease duration</td></tr><tr><td>1&#8211;5 years vs. &lt;1 year</td><td>-0.017</td><td>-0.188</td><td>0.851</td></tr><tr><td>&gt;5 years vs. &lt;1 year</td><td>-0.003</td><td>-0.039</td><td>0.969</td></tr><tr><td colspan=\"4\">Endoscopic grade</td></tr><tr><td>Moderate vs. abnormal</td><td>0.020</td><td>0.256</td><td>0.798</td></tr><tr><td>Severe vs. abnormal</td><td>-0.074</td><td>-0.840</td><td>0.402</td></tr><tr><td colspan=\"4\">Disease distribution</td></tr><tr><td>Left-sided vs. proctitis</td><td>-0.031</td><td>-0.434</td><td>0.665</td></tr><tr><td rowspan=\"2\">Extensive vs. proctitis</td><td>0.079</td><td>1.103</td><td>0.271</td></tr><tr><td colspan=\"2\">Adjusted R2 0.092</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_5",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    457.5,
+    726.7,
+    551.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4411120_table_5.png",
+   "html": "<table><tr><td>Item</td><td>Male (n = 130)</td><td>Female (n = 94)</td><td>P Value</td></tr><tr><td>Bowel symptoms</td><td>47.95&#177;8.63</td><td>45.19&#177;9.03</td><td>0.021</td></tr><tr><td>Systemic symptoms</td><td>22.45&#177;4.74</td><td>20.88&#177;5.12</td><td>0.019</td></tr><tr><td>Emotional function</td><td>59.50(52.00&#8211;65.00)</td><td>54.00(45.00&#8211;63.00)</td><td>0.002</td></tr><tr><td>Social function</td><td>27.00(21.75&#8211;30.00)</td><td>24.00(18.00&#8211;29.00)</td><td>0.018</td></tr><tr><td>Total score</td><td>158.37&#177;24.32</td><td>142.91&#177;29.45</td><td>0.002</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_6",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    783.9,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4411120_table_6.png",
+   "html": "<table><tr><td>Item</td><td>Proctitis (n = 89)</td><td>Left-side (n = 87)</td><td>Extensive (n = 48)</td><td>P Value</td></tr><tr><td>Bowel symptoms</td><td>46.76&#177;8.39</td><td>47.02&#177;9.18</td><td>46.44&#177;9.38</td><td>0.935</td></tr><tr><td>Systemic symptoms</td><td>21.93&#177;4.67</td><td>22.26&#177;5.18</td><td>20.67&#177;4.97</td><td>0.188</td></tr><tr><td>Emotional function</td><td>56.06&#177;10.57</td><td>57.61&#177;11.74</td><td>54.65&#177;11.59</td><td>0.326</td></tr><tr><td>Social function</td><td>26.00(21.00&#8211;29.50)</td><td>26.00(21.00&#8211;30.00)</td><td>25.50(16.00&#8211;30.00)</td><td>0.598</td></tr><tr><td>Total score</td><td>152.00(129.00&#8211;166.50)</td><td>154.00(138.00&#8211;169.00)</td><td>160.50(132.50&#8211;177.50)</td><td>0.183</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4411120_table_7",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    210.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4411120_table_7.png",
+   "html": "<table><tr><td>Item</td><td>5-aminosalicylates (n = 36)</td><td>5-aminosalicylates+corticosteroids (n = 27)</td><td>P Value</td></tr><tr><td>Bowel symptoms</td><td>46.92&#177;6.85</td><td>40.33&#177;5.29</td><td>0.000</td></tr><tr><td>Systemic symptoms</td><td>21.67&#177;4.21</td><td>19.52&#177;3.12</td><td>0.029</td></tr><tr><td>Emotional function</td><td>55.75&#177;8.46</td><td>50.26&#177;6.31</td><td>0.005</td></tr><tr><td>Social function</td><td>24.22&#177;6.14</td><td>22.04&#177;5.96</td><td>0.162</td></tr><tr><td>Total score</td><td>148.56&#177;20.81</td><td>132.15&#177;15.38</td><td>0.001</td></tr></table>"
+  }
+ ]
+}

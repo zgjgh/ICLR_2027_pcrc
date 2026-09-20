@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_295",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:310"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/310"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    377.6,
+    118.9
+   ],
+   "ocr": "Table 1: The 31 informative physicochemical properties mined by"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    380.4,
+    107.2,
+    409.9,
+    118.9
+   ],
+   "ocr": "IPMA."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    685.7,
+    558.3
+   ],
+   "ocr": "AAindex identity Description MED\nNADH010102 Hydropathy scale based on self-information values in the two-state model of 9% accessibility 31.79\nBROC820102 Retention coefficient in HFBA 29.80\nMEIH800102 Average reduced distance for side chain 28.48\nLEVM780101 Normalized frequency of alpha-helix, with weights 25.17\nGUYH850104 Apparent partition energies calculated from Janin index 23.84\nCORJ870101 NNEIG index 23.18\nRACS770102 Average reduced distance for side chain 22.52\nGEOR030108 Linker propensity from helical (annotated by DSSP) dataset 22.52\nHARY940101 Mean volumes of residues buried in protein interiors 21.85\nGRAR740102 Polarity 19.87\nGUYH850105 Apparent partition energies calculated from Chothia index 19.87\nMEIH800103 Average side chain orientation angle 17.88\nKRIW790102 Fraction of site occupied by water 17.88\nLEVM780106 Normalized frequency of reverse turn, unweighted 14.57\nBULH740102 Apparent partial specific volume 13.25\nFAUJ880101 Graph shape index 11.92\nPUNT030102 Knowledge-based membrane-propensity scale from 3D_Helix in MPtopo databases 10.60\nHUTJ700103 Entropy of formation 9.93\nEISD840101 Consensus normalized hydrophobicity scale 8.61\nCEDJ970105 Composition of amino acids in nuclear proteins (percent) 7.28\nZIMJ680102 Bulkiness 7.28\nCEDJ970103 Composition of amino acids in membrane proteins (percent) 5.96\nCHOC760103 Proportion of residues 95% buried 5.30\nCEDJ970102 Composition of amino acids in anchored proteins (percent) 5.30\nROSM880102 Side chain hydropathy, corrected for solvation 4.64\nBROC820101 Retention coefficient in TFA 4.64\nFAUJ830101 Hydrophobic parameter pi 1.99\nNAKH920101 AA composition of CYT of single-spanning proteins 1.99\nZHOH040102 The relative stability scale extracted from mutation experiments 1.99\nNAKH900101 AA composition of total proteins 1.32\nQIAN880129 Weights for coil at the window position of -4 1.32",
+   "table_id": "PMC2488362_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    581.9,
+    372.6,
+    922.4
+   ],
+   "ocr": "For comparisons with UbiPred, the same LOOCV per- formances of SVM using the three kinds of features: all physicochemical properties, amino acid identity, and evo- lutionary information are also evaluated using their corre- sponding best parameter settings obtained from the previous learning results, shown in Table 3. Four measurements were used for evaluation of predic- tion performances including sensitivity (SEN), specificity (SPE), accuracy (ACC), and Matthew's correlation coeffi- cient (MCC), defined as follows: SEN = TP/(TP + FN), SPE = TN/(TN + FP), ACC = (TP + TN)/(TP + FP + TN + FN), and MCC = ((TP × TN)-(FN × FP))/((TP + FN)(TN + FP)(TP + FP)(TN + FN)), where TP, TN, FP and FN are the numbers of true positive, true negative, false positive and false negative, respectively. UbiPred performs well with a prediction accuracy of 84.44%, compared with the SVMs with physicochemical property (72.19%), amino acid identity (65.67%) and evolutionary information (66.33%). The SEN, SPE and MCC performances of UbiPred are 83.44%, 85.43% and 0.69, respectively. To compare UbiPred with other meth-"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    581.9,
+    698.3,
+    922.4
+   ],
+   "ocr": "ods in terms of robustness abilities, the nonparametric method of using a ROC curve is utilized by using the deci- sion value of SVM as a tuning parameter. The area under the ROC curve (AUC) is calculated, as shown in Fig. 7. UbiPred with AUC = 0.85 performs well, compared with the SVM-based methods using all physicochemical prop- erties (0.74), amino acid identity (0.70) and evolutionary information (0.71). The problem of sequence redundancy may result in over- estimation of prediction performance. To address this issue, six thresholds of sequence identity (90%, 80%,..., 40%) were applied to construct six additional datasets from the dataset of w = 21 by using CD-HIT [29]. The numbers of positive and negative samples of datasets with various sequence identity thresholds are shown in Table 4. By using the strictest threshold 40%, there are only 36 redundant samples and the resulting dataset consists of 145 negative samples and 121 positive samples. By apply- ing LOOCV to evaluate prediction accuracies on these datasets, good performance (> 79%) was obtained by using SVM with the mined 31 informative physicochemi- cal properties and SVM parameters (shown in Table 4)."
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 15 (page number not for citation purposes)"
+  }
+ }
+}

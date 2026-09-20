@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_021",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    517.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Computational Models of Consumer Confidence"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    471.4,
+    702.0,
+    506.0
+   ],
+   "ocr": "Fig 4. Methodological overview. (a) We study the relationship between China’s official CCI data (Y) and Google Trends Data (X). (b) We PCA−1 use a PCA to"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    493.9,
+    719.2,
+    537.1
+   ],
+   "ocr": "determine the principal components of X, followed by a Granger test and VAR to determine the lead or lag relations between X and Y. (c) denotes the inverse operation of PCA to obtain the fitted values of our original model. doi:10.1371/journal.pone.0120039.g004"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    633.7,
+    691.4,
+    657.6
+   ],
+   "ocr": "Table 1. Principal Components of our 34 Google trends time series with proportion of variance covered."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    666.3,
+    726.6,
+    839.2
+   ],
+   "ocr": "Component Proportion Cumulative\n1 0.310 0.310\n2 0.219 0.529\n3 0.088 0.616\n4 0.071 0.687\n5 0.047 0.734\n6 0.033 0.767\n7 0.030 0.797\n8 0.027 0.824\n9 0.021 0.845\n10 0.018 0.863",
+   "table_id": "PMC4380490_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    847.3,
+    393.3,
+    858.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0120039.t001"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120039 March 31, 2015 6 / 18"
+  }
+ }
+}

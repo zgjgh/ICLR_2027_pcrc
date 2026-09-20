@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_065",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    150,
+    580,
+    177
+   ],
+   "ocr": "In Table 1, the analysis of the percent of damaged edges reveals critical performance metrics across various conditions. For 10% damaged edges, the AUC of GD is 0.852, the AUC of GA is 0.864, and the P-value is 1.80e-03."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    165,
+    580,
+    193
+   ],
+   "ocr": "At 30% damaged edges, the AUC of GD drops to 0.844, the AUC of GA is 0.860, with a P-value of 2.10e-03."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    268.0,
+    580.0,
+    389.0
+   ],
+   "ocr": "Percent of damaged edges AUC of GD AUC of GA P-value\n10% 0.852 0.864 1.80e-03\n30% 0.844 0.860 2.10e-03\n50% 0.816 0.836 1.91e-04\n70% 0.760 0.816 2.38e-04\n90% 0.648 0.784 2.36e-05",
+   "table_id": "img_073235_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    471.0,
+    580.0,
+    619.0
+   ],
+   "ocr": "SAX hh hu hud ud hh2 hu2\nhh 49\nhu 43\nhud 2 52\nud 1 48\nhh2 52\nhu2 51",
+   "table_id": "img_073235_t1"
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    716
+   ],
+   "ocr": "With 50% damaged edges, the AUC of GD further decreases to 0.816, and the AUC of GA is 0.836, accompanied by a P-value of 1.91e-04. At 70% damaged edges, the AUC of GD is 0.760, the AUC of GA falls to 0.816, and the P-value is 2.38e-04. Finally, for 90% damaged edges, the AUC of GD is 0.648, the AUC of GA is 0.784, and the P-value is 2.36e-05."
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "Table 2 presents a summary of SAX data, where for hh, values are 49 in the hh column, with all other entries marked as —; for hu, it shows 43, with others as —; the hud row contains 2 in hh and 52 in hu, while ud has 1 in hud and 48 in ud; hh2 has 52 in hh2, and hu2 has 51 in hu2, with all other entries as —."
+  }
+ }
+}

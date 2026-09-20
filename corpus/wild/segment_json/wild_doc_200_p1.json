@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_200",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    66.0,
+    580.0,
+    97.0
+   ],
+   "ocr": "In the competitive landscape of the European professional services sector, understanding the dynamics of employee attrition and its correlation with revenue generation is crucial for strategic management."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    120.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "EmployeeMetrics AttritionRates TotalEmployees NewHires\nDepartment Q12024 Q22024 Q32024 Q42024\nConsulting 8.5% 7.9% 1500 200 Technology\nDigitalServices 6.2% 5.8% 1200 180 Operations\n9.1% 8.3% 900 100 HRServices 4.5%\n4.2% 400 50 Finance 5.0% 4.7%\n600 70 Marketing 7.0% 6.5% 500\n60 TotalAttrition 6.5% 6.0% 4000 600\nOverallHeadcount 4000 4000 4000 4000 AnnualTotals",
+   "table_id": "img_228402_t0"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    362,
+    580,
+    420
+   ],
+   "ocr": "The table presented herein offers a detailed analysis of employee attrition rates alongside revenue per consultant metrics across various segments, specifically focusing on the Consulting and Technology divisions. With attrition rates recorded at 8.5% for Consulting and 7.9% for Technology, these figures underscore the importance of retention strategies to maintain productivity and foster a stable workforce."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    408,
+    580,
+    466
+   ],
+   "ocr": "Furthermore, the Revenue per Consultant metric, which highlights the financial contributions of individual consultants, serves as a vital indicator of operational efficiency. For instance, the reported Revenue Amount of £1,500 demonstrates the economic impact of each consultant, while the Utilization Rate and Performance Rating provide insights into the effectiveness of resource management and employee performance."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    494.0,
+    580.0,
+    698.0
+   ],
+   "ocr": "ConsultantPerformanceOverview TotalRevenue\nConsultantName RevenueBreakdown AverageRevenue\nConsultantID Region RevenueAmount UtilizationRate PerformanceRating Status\nC001 London £250,000 75% 5Stars Active\nC002 Manchester £200,000 80% 4Stars Active\nC003 Birmingham £150,000 70% 3Stars Inactive\nC004 Edinburgh £300,000 85% 5Stars Active\nC005 Glasgow £180,000 65% 4Stars Active\nC006 Cardiff £220,000 78% 5Stars Active",
+   "table_id": "img_228402_t1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    713.0,
+    580.0,
+    759.0
+   ],
+   "ocr": "As organizations navigate the complexities of talent management and financial sustainability, this data becomes instrumental in identifying areas for improvement and enhancing overall business outcomes within the professional and business services industry."
+  }
+ }
+}

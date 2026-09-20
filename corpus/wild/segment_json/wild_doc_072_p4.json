@@ -1,0 +1,95 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_072",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    57.0,
+    580.0,
+    88.0
+   ],
+   "ocr": "The data presented in Table 1 offers a comprehensive overview of the impact of varying time intervals on the measured effects within the specified scenarios."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    106.0,
+    580.0,
+    275.0
+   ],
+   "ocr": "Group Dose (mg/kg) Reaction time in (sec)\n0 min 15 min 30 min 60 min 90 min\nControl — 3.02 ± 0.12 2.98 ± 0.17 2.85 ± 0.10 3.08 ± 0.14 3.06 ± 0.11\nStandard 5 (i.p) 3.06 ± 0.14 a* 5.23 ± 0.04 a@ 7.58 ± 0.12 a@ 9.72 ± 0.12 a@ 9.15 ± 0.13 a@\nMENA250 250 (p.o) 3.04 ± 0.05 a*b* 3.74 ± 0.13 a@b@ 4.26 ± 0.11 a@b@ 5.34 ± 0.18 a@b@ 5.67 ± 0.20 a@b@\nMENA500 500 (p.o) 2.98 ± 0.21 a*b*cns 3.89 ± 0.05 a@b@c* 5.44 ± 0.10 a@b@c@ 6.71 ± 0.15 a@b@c@ 7.52 ± 0.16 a@b@c@",
+   "table_id": "img_080715_t0"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    290.0,
+    580.0,
+    321.0
+   ],
+   "ocr": "Specifically, the metrics for \"Nb of QTL\" and \"Type of effect\" are critical in understanding the genetic architecture being studied."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    339.0,
+    580.0,
+    462.0
+   ],
+   "ocr": "Scenario Nb of QTL Type of effect MAF Linkage disequilibrium*\n1 1 Additive 0.3 0.8\n2 1 Additive 0.3 0.4\n3 1 Additive 0.1 0.8\n4 1 Dominant 0.3 0.8\n5 2 Additive 0.3 0.8",
+   "table_id": "img_080715_t1"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    477.0,
+    580.0,
+    507.0
+   ],
+   "ocr": "The results indicate that as time progresses from 0 to 90 minutes, there is a noticeable decrease in the observed effects, as reflected in the values of 3.02 ± 0.12 at 0 minutes, tapering to 2.85 ± 0.10 by 90 minutes."
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    525.0,
+    580.0,
+    676.0
+   ],
+   "ocr": "Vendor CASS Street Offset Corner Inset Street Data Files Scheduled Data File Updates Original Datuma Manual Address Cleaningb\nTIGER USPS Other\nA Yes 40 ft Yes 2002 2004 Yes 4×/yr WGS84 No\nB No 5 ft Yes 2002 2004 Yes 4×/yr NAD83 No\nC Yes 50 ft No 2002 2004 Yes 6×/yr NAD83 Yes\nD No 0 ft No 2002 2003 No 2×/yr NAD83 No",
+   "table_id": "img_080715_t2"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    692,
+    580,
+    735
+   ],
+   "ocr": "This trend suggests a potential time-dependent decay in the additive effects of quantitative trait loci (QTL), which could have implications for the interpretation of genetic influence over time. Furthermore, the data highlights the varying levels of minor allele frequency (MAF) across different scenarios, underscoring the importance of genetic variation in the observed effects."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    723,
+    580,
+    766
+   ],
+   "ocr": "The insights gleaned from this table may inform future research directions and enhance our understanding of the dynamic interplay between genetic factors and temporal variables in various biological contexts."
+  }
+ }
+}

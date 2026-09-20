@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_023",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    465,
+    63
+   ],
+   "ocr": "The table presents diagnostic metrics for various anthropometric measurements in men and women."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "For men, the Body mass index (kg/m2) has an AUC of 0.676, a SE of 0.008, a 95% CI of 0.660 - 0.691, an optimal cutoff of 28.7, a sensitivity of 66.7%, and a specificity of 59.9%."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    334.0
+   ],
+   "ocr": "AUC SE 95% CI Optimal cutoff1 Sensitivity Specificity\nMEN\nBody mass index (kg/m2) 0.676 0.008 0.660 - 0.691 28.7 66.7% 59.9%\nWaist circumference (cm) 0.672 0.008 0.657 - 0.687 99.4 69.5% 55.8%\nWaist-to-hip ratio 0.646 0.008 0.631 - 0.661 0.95 68.9% 53.2%\nWaist-to-height ratio 0.687 0.008 0.673 - 0.702 0.60 66.1% 61.2%\nWOMEN\nBody mass index (kg/m2) 0.759 0.006 0.746 - 0.771 29.2 71.8% 66.9%\nWaist circumference (cm) 0.773 0.006 0.760 - 0.785 90.4 74.5% 67.6%\nWaist-to-hip ratio 0.722 0.007 0.708 - 0.735 0.84 71.0% 61.9%\nWaist-to-height ratio 0.776 0.006 0.764 - 0.788 0.58 76.6% 65.6%",
+   "table_id": "img_025762_t0"
+  },
+  "p9_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    350,
+    580,
+    439
+   ],
+   "ocr": "The Waist circumference (cm) shows an AUC of 0.672, a SE of 0.008, a 95% CI of 0.657 - 0.687, with an optimal cutoff of 99.4, a sensitivity of 69.5%, and a specificity of 55.8%. The Waist-to-hip ratio yields an AUC of 0.646, a SE of 0.008, a 95% CI of 0.631 - 0.661, an optimal cutoff of 0.95, a sensitivity of 68.9%, and a specificity of 53.2%. The Waist-to-height ratio has an AUC of 0.687, a SE of 0.008, a 95% CI of 0.673 - 0.702, an optimal cutoff of 0.60, a sensitivity of 66.1%, and a specificity of 61.2%. For women, the Body mass index (kg/m2) presents an AUC of 0.759, a SE of 0.006, a 95% CI of 0.746 - 0.771, an optimal cutoff of 29.2, a sensitivity of 71.8%, and a specificity of 66.9%."
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    427,
+    580,
+    501
+   ],
+   "ocr": "The Waist circumference (cm) shows an AUC of 0.773, a SE of 0.006, a 95% CI of 0.760 - 0.785, an optimal cutoff of 90.4, a sensitivity of 74.5%, and a specificity of 67.6%. The Waist-to-hip ratio has an AUC of 0.722, a SE of 0.007, a 95% CI of 0.708 - 0.735, an optimal cutoff of 0.84, a sensitivity of 71.0%, and a specificity of 61.9%. Lastly, the Waist-to-height ratio has an AUC of 0.776, a SE of 0.006, a 95% CI of 0.764 - 0.788, an optimal cutoff of 0.58, a sensitivity of 76.6%, and a specificity of 65.6%."
+  }
+ }
+}

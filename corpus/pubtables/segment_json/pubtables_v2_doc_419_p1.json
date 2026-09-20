@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_419",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    382.7,
+    66.0
+   ],
+   "ocr": "Ben-Assuli et al. BMC Medical Informatics and Decision Making 2013, 13:49 http://www.biomedcentral.com/1472-6947/13/49"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 10"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.7,
+    457.4
+   ],
+   "ocr": "from the other healthcare information systems at the HMO’s fourteen hospitals, fifteen community clinics and thousands other points of care such as labs, imaging institutions, etc. The data included patients’ demographics, chronic medica- tion, adverse reactions, sensitivities, detailed lab and imaging results, past diagnoses, healthcare procedures etc. Although the system aimed to serve all kind of potential users - clinical and administrative staff, the physicians are the main users of the system. The log-file used for this study analysis con- tains documentation of the activities of physicians. The interoperable systems enable the physician at the point care to retrieve within seconds a patient’s medical histo- rical data available from all points care of healthcare pro- viders that connected to the HIE network. In terms of current policies, external data are available only to the HMO insured patients. Other HMO insured patients that visit one of the main HMO hospitals will only have local files; these include all the information that relates to previous encounters and hospitalizations at this hospital. In addition, the database for this study covered 2004 to 2007 (after the EHR IS had been integrated into all hospitals)."
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    347.5,
+    138.3
+   ],
+   "ocr": "Table 1 Types of patient medical histories available to physicians via the EHR"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    141.6,
+    366.1,
+    343.7
+   ],
+   "ocr": "a\nSpecifics Type of medical history\nPrevious encounters and hospitalizations Encounters\nInformation regarding the patient's Diagnoses\nprevious diagnoses\nA list of the permanent medications Medications\ntaken by the patient\nPrevious lab tests including blood tests, Labs\npathology history\nA list of the patient's known allergies Allergy Problems\nThe patient's medical record, generated Community Clinics\nby family physicians\nInformation regarding the demography Demography Details\nof the patient\nA list of previous surgeries Surgical History",
+   "table_id": "PMC3651728_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    348.8,
+    374.7,
+    579.0
+   ],
+   "ocr": "Note. a Data are fully available for HMO patients, while for non-HMO patients the information was limited to the specific hospital where they were seen last. seven general hospitals (all surveyed in this research), and many community clinics. In 2004, the HMO deployed an EHR IS (analyzed here) and established a HIE network. The EHR IS and HIE net- work retrieves data from many medical systems – clinical systems such as electronic medical record and administrative systems. This unique data retrieval architecture furnished a comprehensive, integrated and real time virtual patient rec- ord available at all points of care of the HMO. The system gathers historical patient clinical and administrative data Table 2 Patient characteristics: Comparison of HMO insured the admission subset)"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    378.1,
+    488.4,
+    678.6,
+    565.1
+   ],
+   "ocr": "The research method and statistical tools The research method selected for this study was track log- file analysis, which incorporates various statistical tools. patients vs. other HMO insured patients (All sample and"
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    583.8,
+    678.6,
+    887.7
+   ],
+   "ocr": "Characteristics The main HMO Other HMOs Total study sample\nData on all referrals (Admissions and Discharges) – All Sample\nNumber of Referrals n = 210,568 n = 71,182 n = 281,750\nAge (years) 48.6 (Quartiles: 27.6, 39.2 (Quartiles: 20.5, 46.3 (Quartiles: 25.4,\n51.6, 69.9) 36.5, 55.7) 47.8, 67.3)\nMale (%) 99,951 (47.5%) 35,683 (50.1%) 135,634 (48.1%)\nReferrals when EHR IS Viewed (%) 68,851 (32.7%) 18,991 (26.7%) 87,842 (31.2%)\nReferrals when EHR IS Viewed [Divided by Interoperability] Local: 58,468 (27.8%) Local: 17,197 (24.2%) [Local: 75,665 (26.9%)\nExternal: 10,383 (4.9%) External: 1,794 (2.5%)] External: 12,177 (4.3%)]\nAdmissions (%) 89,473 (42.5%) 26,246 (36.9%) 115,719 (41.1%)\nAdditional Data Only on the Admissions' subset\nNumber of Admissions n = 89,473 n = 26,246 n = 115,719\nAdmissions When EHR IS Was Viewed (% from All admissions) 34,313 (38.4%) 8,717 (33.2%) 43,030 (37.2%)\nAdmissions When EHR IS Was Not Viewed (% from All Admissions) 55,160 (61.6%) 17,529 (66.8%) 72,689 (62.8%)\nReadmission within seven Days (% from Admissions) 2,830 (3.2%) 911 (3.5%) 3,741 (3.2%)\nReadmission within 30 Days (% from Admissions) 6,802 (7.6%) 1,823 (6.95%) 8,625 (7.45%)\nSingle-Day Admissions (% from Admissions) 18,449 (20.6%) 6,859 (26.1%) 25,308 (21.9%)\nAdmission Period (days) 4.4 (Quartiles: 2, 3, 5) 3.8 (Quartiles: 2, 3, 4) 4.3 (Quartiles: 2, 3, 5)",
+   "table_id": "PMC3651728_table_1"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    894.1,
+    379.2,
+    925.4
+   ],
+   "ocr": "Data are mean (and Quartiles) or number of subjects (proportion); all univariate column itself (the 100% for each column appears in the first line labelled \"Number Admissions\" for the 'Additional Data Only on the Admissions' subset' part of the"
+  },
+  "p1_b9": {
+   "type": "caption",
+   "bbox": [
+    370.2,
+    894.1,
+    668.7,
+    925.4
+   ],
+   "ocr": "comparisons were significant at 0.001. Percentages at each column relate to the of Referrals\" for the 'Data On all Referrals' part in the Table, and \"Number of Table)."
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_305",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2695361_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    141.9,
+    332.6,
+    521.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2695361_table_0.png",
+   "html": "<table><tr><td colspan=\"3\">MAP</td></tr><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>Abstract</td><td>0.163</td><td>0.129</td></tr><tr><td>Article</td><td>0.146 (-11%)&#176;</td><td>0.235 (+82%)**</td></tr><tr><td>Span (max)</td><td>0.240 (+47%)**</td><td>0.206 (+60%)**</td></tr><tr><td>Span (sum)</td><td>0.192 (+18%)*</td><td>0.198 (+54%)**</td></tr><tr><td colspan=\"3\">P20</td></tr><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>Abstract</td><td>0.322</td><td>0.293</td></tr><tr><td>Article</td><td>0.158 (-51%)**</td><td>0.353 (+20%)*</td></tr><tr><td>Span (max)</td><td>0.357 (+11%)&#176;</td><td>0.332 (+13%)&#176;</td></tr><tr><td>Span (sum)</td><td>0.314 (-3%)&#176;</td><td>0.317 (+8%)*</td></tr><tr><td colspan=\"3\">IP@R50</td></tr><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>Abstract</td><td>0.110</td><td>0.090</td></tr><tr><td>Article</td><td>0.163 (+48%)&#176;</td><td>0.222 (+146%)**</td></tr><tr><td>Span (max)</td><td>0.212 (+93%)**</td><td>0.189 (+109%)**</td></tr><tr><td>Span (sum)</td><td>0.149 (+36%)*</td><td>0.159 (+77%)**</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2695361_table_1",
+   "page_num": 1,
+   "bbox": [
+    399.1,
+    845.5,
+    644.8,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2695361_table_1.png",
+   "html": "<table><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>MAP</td><td>p &lt; 0.01</td><td>n.s.</td></tr><tr><td>P20</td><td>p &lt; 0.01</td><td>n.s.</td></tr><tr><td>IP@R50</td><td>n.s.</td><td>n.s.</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2695361_table_2",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    164.4,
+    351.2,
+    504.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2695361_table_2.png",
+   "html": "<table><tr><td colspan=\"3\">MAP</td></tr><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>Span (max)</td><td>0.240</td><td>0.206</td></tr><tr><td>Span (max) + Abstract</td><td>0.257 (+7%)&#176;</td><td>0.216 (+5%)&#176;</td></tr><tr><td>Span (max) + Article</td><td>0.257 (+7%)&#176;</td><td>0.262 (+27%)**</td></tr><tr><td colspan=\"3\">P20</td></tr><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>Span (max)</td><td>0.357</td><td>0.332</td></tr><tr><td>Span (max) + Abstract</td><td>0.382 (+7%)&#176;</td><td>0.349 (+5%)&#176;</td></tr><tr><td>Span (max) + Article</td><td>0.343 (-4%)&#176;</td><td>0.404 (+22%)**</td></tr><tr><td colspan=\"3\">IP@R50</td></tr><tr><td></td><td>Ivory (bm25)</td><td>Ivory (Lucene)</td></tr><tr><td>Span (max)</td><td>0.212</td><td>0.189</td></tr><tr><td>Span (max) + Abstract</td><td>0.215 (+1%)&#176;</td><td>0.190 (+1%)&#176;</td></tr><tr><td>Span (max) + Article</td><td>0.257 (+21%)&#176;</td><td>0.244 (+29%)**</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2695361_table_3",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    778.5,
+    497.3,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2695361_table_3.png",
+   "html": "<table><tr><td>Model</td><td>Metric</td><td>Comparison</td></tr><tr><td rowspan=\"3\">bm25</td><td>MAP</td><td>Span (max) + Article, Span (max) &gt;&gt; Abstract, Article</td></tr><tr><td>P20</td><td>Span (max) + Article, Span (max), Abstract &gt;&gt; Article</td></tr><tr><td>IP@R50</td><td>Span (max) + Article &gt;&gt; Abstract, Article; Span (max) &gt;&gt; Abstract</td></tr><tr><td rowspan=\"3\">Lucene</td><td>MAP</td><td>Span (max) + Article &gt;&gt; Span (max), Article &gt;&gt; Abstract</td></tr><tr><td>P20</td><td>Span (max) + Article &gt; Span (max), Article; Article &gt; Abstract</td></tr><tr><td>IP@R50</td><td>Span (max) + Article &gt; Span (max), Article &gt;&gt; Abstract</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2695361_table_4",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    845.5,
+    367.5,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2695361_table_4.png",
+   "html": "<table><tr><td></td><td>Lucene (1 core)</td><td>Ivory (10 cores)</td><td>Ivory (20 cores)</td></tr><tr><td>Abstract</td><td>1 h 00 m 58 s</td><td>1 m 32 s</td><td>1 m 07 s</td></tr><tr><td>Article</td><td>19 h 09 m 23 s</td><td>17 m 21 s</td><td>9 m 57 s</td></tr><tr><td>Span</td><td>27 h 10 m 46 s</td><td>39 m 58 s</td><td>24 m 56 s</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2695361_table_5",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    693.0,
+    195.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2695361_table_5.png",
+   "html": "<table><tr><td></td><td>Lucene (1 core)</td><td>Ivory (10 cores)</td><td>Ivory (20 cores)</td></tr><tr><td>Abstract (1000 hits)</td><td>1 m 42 s</td><td>51 s</td><td>40 s</td></tr><tr><td>Article (1000 hits)</td><td>7 m 00 s</td><td>1 m 51 s</td><td>1 m 09 s</td></tr><tr><td>Span (5000 hits)</td><td>21 m 32 s</td><td>11 m 57 s</td><td>8 m 25 s</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2695361_table_6",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    834.7,
+    621.1,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2695361_table_6.png",
+   "html": "<table><tr><td>200</td><td>What serum [PROTEINS] change expression in association with high disease activity in lupus?</td></tr><tr><td>201</td><td>What [MUTATIONS] in the Raf gene are associated with cancer?</td></tr><tr><td>202</td><td>What [DRUGS] are associated with lysosomal abnormalities in the nervous system?</td></tr><tr><td>203</td><td>What [CELL OR TISSUE TYPES] express receptor binding sites for vasoactive intestinal peptide (VIP) on their cell surface?</td></tr><tr><td>204</td><td>What nervous system [CELL OR TISSUE TYPES] synthesize neurosteroids in the brain?</td></tr><tr><td>205</td><td>What [SIGNS OR SYMPTOMS] of anxiety disorder are related to coronary artery disease?</td></tr></table>"
+  }
+ ]
+}

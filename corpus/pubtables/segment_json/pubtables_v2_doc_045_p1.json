@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_045",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Thompson et al. BMC Bioinformatics 2011, 12:393 http://www.biomedcentral.com/1471-2105/12/393"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 18"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    379.9,
+    751.8
+   ],
+   "ocr": "distinguish between events that can be attributed to the current study, and those that are attributed to other stu- dies. Information about knowledge source has been demonstrated to be important through its annotation in both the Gene Ontology [18] and in the corpora pre- sented in [38] and [43]. This dimension can help in dis- tinguishing new experimental knowledge from previously reported knowledge. Two possible values are distinguished, as follows: • Other: The event is attributed to a previous study. In this case, explicit clues are normally present, and can be indicated either by the use of clue words such as pre- viously, recent studies, etc., or by the presence of citations. • Current: The event makes an assertion that can be attributed to the current study. This is the default cate- gory, and is assigned in the absence of explicit lexical or contextual clues, although explicit clues such as the pre- sent study may be encountered. Hyper-Dimensions A defining feature of our annotation scheme is the fact that, in addition to the explicitly annotated dimensions, further information can be inferred by considering com- binations of some of these dimensions. We refer to these additional types of information as the hyper- dimensions of our scheme, of which we have identified two. • New Knowledge - The isolation of events describing new knowledge is, as we have described earlier, impor- tant for certain tasks undertaken by biologists. However, it is not possible to determine whether an event repre- sents new knowledge by considering only a single anno- tation dimension. For example, events that have been assigned KT = Observation could correspond to new knowledge, but only if they represent observations from the current study, rather than observations cited from elsewhere. In a similar way, a KT = Analysis event drawn from experimental results in the current study could be treated as new knowledge, but generally only if it represents a straightforward interpretation of results, Table 1 Inference table for New Knowledge hyper-dimension"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    711.4
+   ],
+   "ocr": "rather than something more speculative. Thus, we con- sider New Knowledge to be a hyper-dimension, whose value (either Yes or No) can be inferred by considering a combination of the values assigned to the KT, Source and CL dimensions. Table 1 is an inference table that can be used to obtain the appropriate value for New Knowledge, based on the values assigned to the three dimensions mentioned above. • Hypothesis - The binary value of this hyper-dimen- sion can be inferred by considering the values of the KT and CL dimensions. Events with a KT value of Investiga- tion can always be assumed to be a hypothesis. How- ever, if the KT value is Analysis, then only those events with a CL value of L1 or L2 (speculative inferences made on the basis of results) should be considered as hypotheses, to be matched with more definite experi- mental evidence when available. A value of L3 in this instance would normally be classed as an instance of new knowledge, as indicated in Table 1. The cases in which an event can be assumed to be a hypothesis are summarised in Table 2. Annotation software The original annotation of the GENIA event corpus was performed using the X-Conc suite [47]. This is a collec- tion of XML-based tools that are integrated to support the development and annotation of corpora, running as a Java plug-in within the Eclipse software development platform [48]. Customising the information to be anno- tated and the way in which it is displayed is controlled completely through XML DTD and stylesheet (CSS) files. We decided to use this tool to carry out meta- knowledge annotation of events in the GENIA event corpus, as only minimal customisation of the existing DTD and CSS files would be required. Testing of annotation scheme Prior to annotation of the full GENIA event corpus, a small annotation experiment was conducted to verify the feasibility and soundness of the meta-knowledge"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    756.8,
+    615.3,
+    905.2
+   ],
+   "ocr": "Source (Annotated) KT (Annotated) CL (Annotated) New Knowledge (Inferred)\nOther X X No\nX X L2 No\nX X L1 No\nCurrent Observation L3 Yes\nCurrent Analysis L3 Yes\nX Fact X No\nX Method X No\nX Other X No\nX Investigation X No",
+   "table_id": "PMC3222636_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    367.8,
+    922.2
+   ],
+   "ocr": "The symbol ‘X’ indicates a “don’t care condition”, meaning that this value does"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    370.8,
+    912.3,
+    499.2,
+    922.2
+   ],
+   "ocr": "not have any impact on the result"
+  }
+ }
+}

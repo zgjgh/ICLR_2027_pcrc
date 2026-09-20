@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_153",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3521389_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    142.7,
+    664.6,
+    262.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3521389_table_0.png",
+   "html": "<table><tr><td>T. circumcincta ESTs</td><td>Numbers (percentage)</td></tr><tr><td>Raw sequences obtained</td><td>407357</td></tr><tr><td>Cleaned sequences</td><td>366897 (90.06)</td></tr><tr><td>Clusters of multiple sequences (contigs)</td><td>22382 (5.4)</td></tr><tr><td>Clusters of singletons</td><td>17470 (4.2)</td></tr><tr><td>Total rESTs</td><td>39852 (9.7)</td></tr><tr><td>Putative peptides</td><td>24013 (60.25 % rESTs)</td></tr><tr><td>E/S proteins (cut-off: 0.5)</td><td>112</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3521389_table_2",
+   "page_num": 2,
+   "bbox": [
+    383.9,
+    142.7,
+    652.3,
+    607.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3521389_table_2.png",
+   "html": "<table><tr><td>KEGG PATHWAY</td><td>PROTEINS</td></tr><tr><td>Huntington&#8217;s disease</td><td>91</td></tr><tr><td>Oxidative phosphorylation</td><td>84</td></tr><tr><td>Ribosome</td><td>80</td></tr><tr><td>Spliceosome</td><td>79</td></tr><tr><td>Alzheimer&#8217;s disease</td><td>72</td></tr><tr><td>Parkinson&#8217;s disease</td><td>70</td></tr><tr><td>Purine metabolism</td><td>56</td></tr><tr><td>Pyrimidine metabolism</td><td>51</td></tr><tr><td>Cell cycle</td><td>34</td></tr><tr><td>Ubiquitin mediated proteolysis</td><td>33</td></tr><tr><td>Proteasome</td><td>33</td></tr><tr><td>Lysosome</td><td>33</td></tr><tr><td>Endocytosis</td><td>32</td></tr><tr><td>Cell cycle - yeast</td><td>31</td></tr><tr><td>Peroxisome</td><td>30</td></tr><tr><td>Glycolysis/Gluconeogenesis</td><td>29</td></tr><tr><td>Pathways in cancer</td><td>28</td></tr><tr><td>Aminoacyl-tRNA biosynthesis</td><td>28</td></tr><tr><td>DNA replication</td><td>26</td></tr><tr><td>Valine, leucine and isoleucine degradation</td><td>25</td></tr><tr><td>Regulation of actin cytoskeleton</td><td>25</td></tr><tr><td>Citrate cycle (TCA cycle)</td><td>25</td></tr><tr><td>Vibrio cholerae infection</td><td>23</td></tr><tr><td>Fatty acid metabolism</td><td>23</td></tr><tr><td>Amino sugar and nucleotide sugar metabolism</td><td>23</td></tr><tr><td>RNA degradation</td><td>22</td></tr><tr><td>Nucleotide excision repair</td><td>21</td></tr><tr><td>Lysine degradation</td><td>21</td></tr><tr><td>RNA polymerase</td><td>20</td></tr><tr><td>Meiosis - yeast</td><td>20</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3521389_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    451.1,
+    357.4,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3521389_table_1.png",
+   "html": "<table><tr><td>KEGG PATHWAY</td><td>SEQUENCE COUNT</td></tr><tr><td>Peptidases</td><td>254</td></tr><tr><td>Ribosome</td><td>220</td></tr><tr><td>Oxidative phosphorylation</td><td>187</td></tr><tr><td>Other enzymes</td><td>168</td></tr><tr><td>Chaperones and folding catalysts</td><td>144</td></tr><tr><td>Cytoskeleton proteins</td><td>109</td></tr><tr><td>Protein kinases</td><td>108</td></tr><tr><td>Purine metabolism</td><td>102</td></tr><tr><td>Translation factors</td><td>96</td></tr><tr><td>Ubiquitin enzymes</td><td>90</td></tr><tr><td>Proteasome</td><td>89</td></tr><tr><td>Starch and sucrose metabolism</td><td>86</td></tr><tr><td>Pyruvate metabolism</td><td>86</td></tr><tr><td>Glycolysis/Gluconeogenesis</td><td>83</td></tr><tr><td>Fatty acid metabolism</td><td>83</td></tr><tr><td>Lysine degradation</td><td>78</td></tr><tr><td>Valine, leucine and isoleucine degradation</td><td>76</td></tr><tr><td>Tryptophan metabolism</td><td>72</td></tr><tr><td>Aminoacyl-tRNA biosynthesis</td><td>69</td></tr><tr><td>Insulin signaling pathway</td><td>68</td></tr><tr><td>GTP-binding proteins</td><td>68</td></tr><tr><td>Citrate cycle (TCA cycle)</td><td>68</td></tr><tr><td>Regulation of actin cytoskeleton</td><td>65</td></tr><tr><td>Propanoate metabolism</td><td>64</td></tr><tr><td>Cell cycle</td><td>64</td></tr><tr><td>Carbon fixation</td><td>64</td></tr><tr><td>Focal adhesion</td><td>62</td></tr><tr><td>Ubiquitin mediated proteolysis</td><td>60</td></tr><tr><td>Fructose and mannose metabolism</td><td>60</td></tr><tr><td>Butanoate metabolism</td><td>59</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3521389_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    496.3,
+    609.3,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3521389_table_3.png",
+   "html": "<table><tr><td>Description</td><td>InterProscan ID</td><td>Protein sequences</td></tr><tr><td>Protein kinase-like domain</td><td>IPR011009</td><td>138</td></tr><tr><td>SCP-like extracellular</td><td>IPR014044</td><td>126</td></tr><tr><td>NAD(P)-binding domain</td><td>IPR016040</td><td>96</td></tr><tr><td>Allergen V5/Tpx-1 related</td><td>IPR001283</td><td>95</td></tr><tr><td>Transthyretin-like</td><td>IPR001534</td><td>88</td></tr><tr><td>C-type lectin fold</td><td>IPR016187</td><td>85</td></tr><tr><td>C-type lectin</td><td>IPR001304</td><td>78</td></tr><tr><td>C-type lectin-like</td><td>IPR016186</td><td>71</td></tr><tr><td>Nucleotide-binding, alpha-beta plait</td><td>IPR012677</td><td>71</td></tr><tr><td>Serine/threonine-protein kinase-like domain</td><td>IPR017442</td><td>69</td></tr><tr><td>Metridin-like ShK toxin</td><td>IPR003582</td><td>67</td></tr><tr><td>RNA recognition motif, RNP-1</td><td>IPR000504</td><td>64</td></tr><tr><td>Peptidase C1A, papain</td><td>IPR013128</td><td>59</td></tr><tr><td>Thioredoxin-like fold</td><td>IPR012336</td><td>57</td></tr><tr><td>WD40 repeat, subgroup</td><td>IPR019781</td><td>56</td></tr><tr><td>WD40 repeat-like-containing domain</td><td>IPR011046</td><td>56</td></tr><tr><td>WD40/YVTN repeat-like-containing domain</td><td>IPR015943</td><td>54</td></tr><tr><td>Thioredoxin fold</td><td>IPR012335</td><td>53</td></tr><tr><td>Pyridoxal phosphate-dependent transferase, major domain</td><td>IPR015424</td><td>52</td></tr><tr><td>Heat shock protein Hsp20</td><td>IPR002068</td><td>51</td></tr><tr><td>Protein-tyrosine phosphatase, receptor/non-receptor type</td><td>IPR000242</td><td>50</td></tr><tr><td>EF-hand-like domain</td><td>IPR011992</td><td>49</td></tr><tr><td>Peptidase A1</td><td>IPR001461</td><td>48</td></tr><tr><td>Tyrosine-protein kinase</td><td>IPR020685</td><td>47</td></tr><tr><td>Peptidase C1A, papain C-terminal</td><td>IPR000668</td><td>47</td></tr><tr><td>Peptidase aspartic</td><td>IPR021109</td><td>45</td></tr><tr><td>Short-chain dehydrogenase/reductase SDR</td><td>IPR002198</td><td>45</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3521389_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    436.0,
+    338.2,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3521389_table_4.png",
+   "html": "<table><tr><td>KEGG PATHWAY</td><td>ES Proteins</td></tr><tr><td>Protein kinases</td><td>3</td></tr><tr><td>Oxidative phosphorylation</td><td>3</td></tr><tr><td>Long-term depression</td><td>3</td></tr><tr><td>Glycerophospholipid metabolism</td><td>3</td></tr><tr><td>Arachidonic acid metabolism</td><td>3</td></tr><tr><td>VEGF signaling pathway</td><td>2</td></tr><tr><td>Purine metabolism</td><td>2</td></tr><tr><td>Protein folding and associated processing</td><td>2</td></tr><tr><td>Peptidases</td><td>2</td></tr><tr><td>MAPK signaling pathway</td><td>2</td></tr><tr><td>Linoleic acid metabolism</td><td>2</td></tr><tr><td>GnRH signaling pathway</td><td>2</td></tr><tr><td>Glycolysis/Gluconeogenesis</td><td>2</td></tr><tr><td>Glutathione metabolism</td><td>2</td></tr><tr><td>Fc epsilon RI signaling pathway</td><td>2</td></tr><tr><td>Ether lipid metabolism</td><td>2</td></tr><tr><td>Cytoskeleton proteins</td><td>2</td></tr><tr><td>CAM ligands</td><td>2</td></tr><tr><td>alpha-Linolenic acid metabolism</td><td>2</td></tr><tr><td>Wnt signalling pathway</td><td>1</td></tr><tr><td>Urea cycle and metabolism of amino groups</td><td>1</td></tr><tr><td>Ubiquitin mediated proteolysis</td><td>1</td></tr><tr><td>Ubiquitin enzymes</td><td>1</td></tr><tr><td>Tyrosine metabolism</td><td>1</td></tr><tr><td>Type II diabetes mellitus</td><td>1</td></tr><tr><td>Translation factors</td><td>1</td></tr><tr><td>Transcription factors</td><td>1</td></tr><tr><td>Tight junction</td><td>1</td></tr><tr><td>TGF-beta signaling pathway</td><td>1</td></tr><tr><td>Signal transduction mechanisms</td><td>1</td></tr><tr><td>Other enzymes</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3521389_table_5",
+   "page_num": 4,
+   "bbox": [
+    383.9,
+    451.1,
+    649.9,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3521389_table_5.png",
+   "html": "<table><tr><td>KEGG PATHWAY</td><td>ES Proteins</td></tr><tr><td>Glycerophospholipid metabolism</td><td>3</td></tr><tr><td>Oxidative phosphorylation</td><td>3</td></tr><tr><td>Vascular smooth muscle contraction</td><td>3</td></tr><tr><td>Long-term depression</td><td>3</td></tr><tr><td>Arachidonic acid metabolism</td><td>3</td></tr><tr><td>Alzheimer&#8217;s disease</td><td>3</td></tr><tr><td>Wnt signaling pathway</td><td>2</td></tr><tr><td>VEGF signaling pathway</td><td>2</td></tr><tr><td>Tight junction</td><td>2</td></tr><tr><td>TGF-beta signaling pathway</td><td>2</td></tr><tr><td>Parkinson&#8217;s disease</td><td>2</td></tr><tr><td>Oocyte meiosis</td><td>2</td></tr><tr><td>Meiosis - yeast</td><td>2</td></tr><tr><td>MAPK signaling pathway</td><td>2</td></tr><tr><td>Lysosome</td><td>2</td></tr><tr><td>Linoleic acid metabolism</td><td>2</td></tr><tr><td>Huntington&#8217;s disease</td><td>2</td></tr><tr><td>GnRH signaling pathway</td><td>2</td></tr><tr><td>Glutathione metabolism</td><td>2</td></tr><tr><td>Fc epsilon RI signaling pathway</td><td>2</td></tr><tr><td>Ether lipid metabolism</td><td>2</td></tr><tr><td>Cell cycle - yeast</td><td>2</td></tr><tr><td>Axon guidance</td><td>2</td></tr><tr><td>alpha-Linolenic acid metabolism</td><td>2</td></tr><tr><td>Pyruvate metabolism</td><td>1</td></tr><tr><td>Glycolysis/Gluconeogenesis</td><td>1</td></tr><tr><td>Carbon fixation in photosynthetic organisms</td><td>1</td></tr><tr><td>Citrate cycle</td><td>1</td></tr><tr><td>Vibrio cholerae infection</td><td>1</td></tr><tr><td>Ubiquitin mediated proteolysis</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3521389_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    128.9,
+    630.2,
+    443.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3521389_table_6.png",
+   "html": "<table><tr><td>Description</td><td>ES sequences</td><td>Type</td><td>Interproscan ID</td></tr><tr><td>Metridin-like ShK toxin</td><td>14</td><td>Domain</td><td>IPR003582</td></tr><tr><td>Transthyretin-like</td><td>11</td><td>Family</td><td>IPR001534</td></tr><tr><td>SCP-like extracellular</td><td>7</td><td>Domain</td><td>IPR014044</td></tr><tr><td>Saposin-like</td><td>7</td><td>Domain</td><td>IPR011001</td></tr><tr><td>C-type lectin</td><td>7</td><td>Domain</td><td>IPR001304</td></tr><tr><td>C-type lectin fold</td><td>6</td><td>Domain</td><td>IPR016187</td></tr><tr><td>C-type lectin-like</td><td>6</td><td>Domain</td><td>IPR016186</td></tr><tr><td>Proteinase inhibitor I2, Kunitz metazoa</td><td>5</td><td>Domain</td><td>IPR002223</td></tr><tr><td>Protein kinase-like domain</td><td>4</td><td>Domain</td><td>IPR011009</td></tr><tr><td>Major facilitator superfamily, general substrate transporter</td><td>4</td><td>Domain</td><td>IPR016196</td></tr><tr><td>Destabilase</td><td>3</td><td>Family</td><td>IPR008597</td></tr><tr><td>Allergen V5/Tpx-1 related</td><td>3</td><td>Family</td><td>IPR001283</td></tr><tr><td>Tyrosine-protein kinase</td><td>3</td><td>Region</td><td>IPR020685</td></tr><tr><td>Phospholipase A2</td><td>2</td><td>Family</td><td>IPR016090</td></tr><tr><td>Thioredoxin-like fold</td><td>2</td><td>Domain</td><td>IPR012336</td></tr><tr><td>Thioredoxin fold</td><td>2</td><td>Domain</td><td>IPR012335</td></tr><tr><td>Globin</td><td>2</td><td>Domain</td><td>IPR012292</td></tr><tr><td>Serine/cysteine peptidase, trypsin-like</td><td>2</td><td>Domain</td><td>IPR009003</td></tr><tr><td>Saposin B</td><td>2</td><td>Domain</td><td>IPR008139</td></tr><tr><td>Protein of unknown function DUF148</td><td>2</td><td>Domain</td><td>IPR003677</td></tr></table>"
+  }
+ ]
+}

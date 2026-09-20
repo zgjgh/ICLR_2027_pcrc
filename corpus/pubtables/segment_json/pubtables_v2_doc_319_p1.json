@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_319",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    571.7,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "A New Auditory BCI Paradigm"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    686.5
+   ],
+   "ocr": "reduced to the frontal five to make the task easier. Thus, the target was presented with 20% probability and non-targets with 80% probability. It has been shown that this is rare enough to produce a P300 response [4]. All five speakers were given a unique, complex 40 ms stimulus, build from band-pass filtered white noise with a tone overlay (see Table 1 and File S1). The discriminating cues were now both the physical properties and the spatial location of the stimulus. Latency jitter was omitted. In order to explore the boundaries of the paradigm, three different conditions were tested. The first two conditions differed in their ISI (300 ms for condition C300, 175 ms for condition C175). A trial consisted of 75 subtrials, 15 for each location. For condition C300, we recorded 50 of such trials, making a total of 3750 subtrials. For condition C175, 40 such trials were recorded making a total of 3000 subtrials. The third condition (C300s) also had a 300 ms ISI. However, all stimuli were now presented through a single speaker (front), thereby leaving the pitch properties of the stimulus the only discriminating cue. Only 20 trials of 75 subtrials were recorded for this condition, making a total of 1500 subtrials. Blocks of the three conditions were mixed to prevent time biases. Stimuli order now had the extra constraint that there were at least two other directions between presentations of the same direction, to prevent too much overlap of target time frames. If necessary, an initial round of stimuli was given before recording to familiarize the subject with the stimuli. Artifact rejection For artifact rejection, a simple threshold method was used. The epoched data was first detrended to avoid slow drifts from reaching the threshold. Then, subtrials with a deflection greater than 70 mV over the ocular channels, compared to baseline, were marked as artifacts. These subtrials were then rejected from the original data and excluded from further analysis. This method excludes mainly eye artifacts. Data acquisition EEG was recorded monopolarly using a varying number of Ag/ AgCl electrodes. Channels were referenced to the nose. Electro- oculogram (EOG) was recorded with two bipolar channels over the eyes. The signals were amplified using a Brain Products 128- channel amplifier, sampled at 1 kHz and filtered by an analog bandpass filter between 0.1 and 250 Hz before being digitized and stored for offline analysis. Further analyzes were done in Matlab (The Mathworks, Version 7.4)."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    77.1,
+    700.8,
+    963.6
+   ],
+   "ocr": "For visual inspection, the raw data was low-pass filtered with an order 8 Chebyshev II filter (30 Hz pass-frequency, 42 Hz stop- frequency, 50 dB damping) to remove obvious 50 Hz artifacts from external sources. The filter was applied to the data both forward and backward to minimize phase-shifts. After filtering, the data was down sampled to 100 Hz and epoched between -150 ms and 800 ms relative to stimulus onset, using the first 150 ms as baseline. Artifacts were disregarded by the simple method described before. P300 latencies and amplitudes were calculated on the 1000 Hz data directly, using the same filters as described above. For classification purposes the same filter was used before down sampling to 100 Hz. However, the filter was applied causally (only forward) to ensure portability to the online setting, where no future samples are available. Data was epoched in the same way as described above. The same artifact rejection method was used. Analysis We use a measure derived from the receiver operating characteristic (ROC, [34]) to quantify the separability of two one-dimensional distributions. While ROC curves and derived measures are often used to characterize the performance of classifiers [35], they can as well be used to quantify the discriminability of feature distributions. The advantage over methods like Fisher score [36,37], Student’s t-statistic [37,38] or pointwise biserial correlation coefficient, is that it does not rely on the assumption that the distributions are Gaussian. The ROC curve of perfectly mixed distributions is (approxi- mately) the diagonal line (no-discrimination line), and the ROC curve of perfectly separated distributions is a right angle going from (0,0) either through (1,0) or through (0,1) to (1,1). As separability index, we use the signed area (as in the definite integral) between the ROC curve and the no-discrimination line multiplied by two, such that the range of this scoring is between 21 and 1. So, if all values of class 1 are strictly larger than the maximum value of class 2, the ROC-separability-index is 1; if all values of class 1 are smaller than the minimum value of class 2 the index is 21. Accordingly, this separability index is similar to the point biserial correlation coefficient, but does not rely on the assumption that the classes obey Gaussian distributions. For condition C1000, grand averages were computed for the channels with the highest (P300, interval 300–650 ms) and lowest (N2, interval 100–300 ms) signed ROC value, as well as scalp topographies for the intervals where these peak ROC values were found. Furthermore, response times and errors from condition Cr were computed. For the BCI experiments grand averages were computed for the channel with the highest signed ROC values only. Scalp topographies were only computed for the C175 condition, again in the interval where the high peak ROC values were found. Due to the temporal aspect of the P300 response, the EEG trace itself was used as a feature for classification. The 20 channels that accounted for most of the difference between the two classes were automatically selected within each fold of the crossvalidation. For this, the ROC values were calculated for each channel and sample. The 10 channels with the highest positive ROC peak and those 10 with the lowest negative ROC peak were used. Data from these channels were decimated by taking the mean of five samples, effectively reducing the data to 16 post-baseline samples per channel. Samples from all 20 channels were then concatenated to form a 320 dimensional feature vector. The feature vector of the training set was normalized to zero mean and unit variance for every dimension independently and the normalization vector stored to normalize subtrials of the test set. 4 April 2010 | Volume 5 | Issue 4 | e9813"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    720.1,
+    332.7,
+    731.5
+   ],
+   "ocr": "Table 1. Cue properties in BCI experimental round."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    760.6,
+    363.9,
+    851.1
+   ],
+   "ocr": "Direction Nr Lower bound (Hz) Upper bound (Hz) Tone (Hz)\nLeft 7 320 2500 440 (a)\nFront-left 8 416 3250 494 (b)\nFront 1 540 4225 554 (cis)\nFront-right 2 703 5493 622 (dis)\nRight 3 914 7140 699 (f)",
+   "table_id": "PMC2848564_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    864.4,
+    375.8,
+    926.7
+   ],
+   "ocr": "Nr refers to the speakers labels given in Figure 1. Lower- and Upper bound are the boundary frequencies for the band pass filter that is applied to the white noise. Tone is the fundamental frequency of the tone overlay. Seven harmonics were used, with decaying amplitude. Tone frequencies are chosen to have a full note in between adjacent stimuli. doi:10.1371/journal.pone.0009813.t001"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  }
+ }
+}

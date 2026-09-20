@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_396",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Online Adaptation of a c-VEP BCI"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    315.7,
+    405.2,
+    674.1
+   ],
+   "ocr": "Figure 6. Accuracy for the c-VEP classification during the ErrP-based better presentation, the data is smoothed. The colored lines depict the line is the average over all calibrations. The black dashed line is the average calibrations simulated with supervised adaptation. doi:10.1371/journal.pone.0051077.g006 training the classifier and the sensitivity of the ErrP-detection (spearman r~{0:7681, pv0:05). It should be mentioned, that with a subject-wise cross- validation, where the ErrP for one subject is classified based on the data of the remaining subjects, an average accuracy of 93.67% with a sensitivity of 57.57% and a specificity of 95.11% was achieved. For none of the subjects the performance was increased by the subject-wise cross-validation. Figure 7 shows the average error-minus-correct plot for the electrodes Fz, Cz, Cpz, Pz as well as the topographic distribution of the ErrP at two time points. It can be seen that the ErrP has two main components: a small negative peak at around 310 ms and a positive peak at 420 ms. Both peaks are most prominent between electrodes Fz and Cz. Free-spelling Results The results from the 6 subjects who participated in the free- spelling can be seen in table 7. In total 603 trials were used to spell Table 5. Results for the ErrP detection during ErrP-based adaptation."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    377.3,
+    315.7,
+    700.8,
+    348.4
+   ],
+   "ocr": "calibration. The plot shows the accuracy over the first 64 trials. For smoothed accuracy for each of the 6 ErrP-based calibrations. The black solid over all calibrations excluding AD001. The gray line is the average over all"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    389.5,
+    700.8,
+    732.1
+   ],
+   "ocr": "427 error-free letters. 88 characters were wrong and the delete- character therefore has been chosen 88 times. The delete- character has never been selected erroneously and was selected with an accuracy of 100%. Considering all errors were deleted and considering the time needed to write a letter an average of 21.35 correct letters could be written per minute. Due to the fact that these results were obtained in a free-spelling condition, in which each error was corrected by the user, it is best to look at the performance in an application-centered manner like error-free letters per minute. But to make the results comparable with the ones presented before, it is worth mentioning that the average accuracy during the free-spelling was 85.4%, which would correspond to an ITR of 115.65 bit/min. Reception of the c-VEP BCI by the Subjects The subjects’ reception of the c-VEP BCI was positive. Although some of them expressed concerns when they first saw the flickering stimuli prior to using it, none of them stated the c- VEP BCI to be annoying when asked at the end of the sessions. None of the subjects reported fatigue or feeling uncomfortable while using the BCI. The three subjects who had previous experience with a P300 Speller, found the c-VEP BCI system Table 6. Results for the ErrP detection during ErrP-based calibration."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    703.2,
+    340.3,
+    872.6
+   ],
+   "ocr": "Subject Sensitivity Specificity Accuracy\nAA 53.33% 99.11% 99.12%\nAB 90.57% 93.33% 93.85%\nAC 64.71% 97.05% 98.96%\nAD – 100.00% 100.00%\nAE 100.00% 95.65% 95.66%\nAF 36.36% 99.26% 95.66%\nAG 0.00% 98.25% 97.74%\nAH 74.14% 94.98% 92.88%\nAI 77.27% 99.28% 98.44%\naverage 69.31% 97.77% 96.67%",
+   "table_id": "PMC3517594_table_4"
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    761.1,
+    665.2,
+    883.3
+   ],
+   "ocr": "Subject Sensitivity Specificity Accuracy\nAA001 25.00% 96.55% 89.84%\nAA002 100.00% 97.62% 97.66%\nAD001 0.00% 100.00% 43.75%\nAG001 50.00% 100.00% 98.44%\nAG002 66.67% 98.36% 96.88%\nAI001 33.33% 96.55% 90.63%\naverage 45.83% 98.18% 86.20%",
+   "table_id": "PMC3517594_table_5"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    885.8,
+    375.8,
+    926.7
+   ],
+   "ocr": "Sensitivity, specificity and accuracy of the ErrP detection during the ErrP-based adaptation. Since the BCI worked with 100% accuracy for subject AD there is no sensitivity to report. doi:10.1371/journal.pone.0051077.t005"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    406.0,
+    896.5,
+    700.7,
+    926.7
+   ],
+   "ocr": "Sensitivity, specificity and accuracy of the ErrP detection during the ErrP-based calibration. doi:10.1371/journal.pone.0051077.t006"
+  },
+  "p4_b8": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    389.7,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org 8"
+  },
+  "p4_b9": {
+   "type": "header_footer",
+   "bbox": [
+    486.4,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "December 2012 | Volume 7 | Issue 12 | e51077"
+  }
+ }
+}

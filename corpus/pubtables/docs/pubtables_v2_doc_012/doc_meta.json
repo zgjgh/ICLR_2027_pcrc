@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_012",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    753,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5899355_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    279.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5899355_table_0.png",
+   "html": "<table><tr><td>Tissue</td><td>GEO Accession</td><td>Sample Size(control/PD)</td><td>Platform</td><td>PMID</td></tr><tr><td rowspan=\"3\">Blood</td><td>GSE99039</td><td>PD = 205; HC = 233</td><td>GPL570: Affymetrix Human Genome U133 Plus 2.0 Array</td><td>28,916,538 [90]</td></tr><tr><td>GSE6613</td><td>PD = 50; HC = 22</td><td>GPL96: Affymetrix Human Genome U133A Array</td><td>17,215,369 [91]</td></tr><tr><td>GSE72267</td><td>PD = 40; HC = 19</td><td>GPL571: Affymetrix Human Genome U133A 2.0 Array</td><td>26,510,930 [92]</td></tr><tr><td rowspan=\"5\">SN</td><td>GSE7621</td><td>PD = 16; HC = 9</td><td>GPL570: Affymetrix Human Genome U133 Plus 2.0 Array</td><td>17,571,925 [93]</td></tr><tr><td>GSE8397-GPL96</td><td>PD = 24; HC = 15</td><td>GPL96: Affymetrix Human Genome U133A Array;</td><td rowspan=\"2\">16,344,956 [94]</td></tr><tr><td>GSE8397-GPL97</td><td>PD = 24; HC = 15</td><td>GPL97: Affymetrix Human Genome U133B Array</td></tr><tr><td>GSE20141</td><td>PD = 10; HC = 8</td><td>GPL570: Affymetrix Human Genome U133 Plus 2.0 Array</td><td>20,926,834 [95]</td></tr><tr><td>GSE20163</td><td>PD = 8; HC = 9</td><td>GPL96: Affymetrix Human Genome U133A Array</td><td>20,926,834 [95]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5899355_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.6,
+    142.0,
+    680.4,
+    835.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5899355_table_1.png",
+   "html": "<table><tr><td>Expression</td><td>Gene symbol</td><td>Gene name</td><td>Corresponding neurodegenerative disease other than PD</td></tr><tr><td rowspan=\"28\">Down-regulated</td><td>ABCA1a</td><td>ATP binding cassette subfamily A member 1</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>ABHD5</td><td>abhydrolase domain containing 5</td><td></td></tr><tr><td>ADGRG3</td><td>adhesion G protein-coupled receptor G3</td><td></td></tr><tr><td>AKAP13a</td><td>A-kinase anchoring protein 13</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>APMAPa</td><td>adipocyte plasma membrane associated protein</td><td>Multiple sclerosis; Alzheimer&#8217;s disease</td></tr><tr><td>ARG1</td><td>arginase 1</td><td></td></tr><tr><td>BAZ1Aa</td><td>bromodomain adjacent to zinc finger domain 1A</td><td>Huntington disease</td></tr><tr><td>BMXa</td><td>BMX non-receptor tyrosine kinase</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>CDKL5a</td><td>cyclin dependent kinase like 5</td><td></td></tr><tr><td>CEBPDa</td><td>CCAAT/enhancer binding protein delta</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>CSF2RAa</td><td>colony stimulating factor 2 receptor alpha subunit</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>CTBP2a</td><td>C-terminal binding protein 2</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>FAM120Aa</td><td>family with sequence similarity 120A</td><td>Multiple sclerosis</td></tr><tr><td>HLA-Ca</td><td>major histocompatibility complex, class I, C</td><td>Multiple sclerosis</td></tr><tr><td>HSPA6b</td><td>heat shock protein family A (Hsp70) member 6</td><td></td></tr><tr><td>IRS2</td><td>insulin receptor substrate 2</td><td></td></tr><tr><td>LILRB1</td><td>leukocyte immunoglobulin like receptor B1</td><td></td></tr><tr><td>LRRFIP1a</td><td>LRR binding FLII interacting protein 1</td><td>Multiple sclerosis; Huntington disease</td></tr><tr><td>MAP2K6b</td><td>mitogen-activated protein kinase kinase 6</td><td></td></tr><tr><td>MAP2K7</td><td>mitogen-activated protein kinase kinase 7</td><td></td></tr><tr><td>MGAM</td><td>maltase-glucoamylase</td><td></td></tr><tr><td>NCAM1</td><td>neural cell adhesion molecule 1</td><td></td></tr><tr><td>NCOA3</td><td>nuclear receptor coactivator 3</td><td></td></tr><tr><td>PMLa</td><td>promyelocytic leukemia</td><td>Polyglutamine diseases</td></tr><tr><td>SRPK2b</td><td>SRSF protein kinase 2</td><td></td></tr><tr><td>SUPT20Ha</td><td>SPT20 homolog, SAGA complex component</td><td>Cerebellar Purkinje cell degeneration</td></tr><tr><td>THOC2a</td><td>THO complex 2</td><td>Multiple sclerosis</td></tr><tr><td>TMX4a</td><td>thioredoxin related transmembrane protein 4</td><td>Motor neuron disease</td></tr><tr><td rowspan=\"8\">Up-regulated</td><td>ATM</td><td>ATM serine/threonine kinase</td><td></td></tr><tr><td>BCL2a</td><td>BCL2, apoptosis regulator</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>FAM102Aa</td><td>family with sequence similarity 102 member A</td><td>Neurodegenerative disease</td></tr><tr><td>LRRN3</td><td>leucine rich repeat neuronal 3</td><td></td></tr><tr><td>NOL7b</td><td>nucleolar protein 7</td><td></td></tr><tr><td>TCF3</td><td>transcription factor 3</td><td></td></tr><tr><td>TP73-AS1</td><td>TP73 antisense RNA 1</td><td></td></tr><tr><td>YME1L1a</td><td>YME1 like 1 ATPase</td><td>Alzheimer&#8217;s disease</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5899355_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.6,
+    142.0,
+    680.4,
+    510.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5899355_table_2.png",
+   "html": "<table><tr><td>Expression</td><td>Gene symbol</td><td>Gene name</td><td>Corresponding neurodegenerative disease other than PD</td></tr><tr><td rowspan=\"11\">Down-regulated</td><td>CARHSP1a</td><td>calcium regulated heat stable protein 1</td><td>Multiple sclerosis</td></tr><tr><td>GARTa</td><td>phosphoribosylglycinamide formyltransferase phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>MUC4</td><td>mucin 4, cell surface associated</td><td></td></tr><tr><td>NIN</td><td>ninein</td><td></td></tr><tr><td>NRF1a</td><td>nuclear respiratory factor 1</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>PRELPa</td><td>proline and arginine rich end leucine rich repeat protein</td><td>Nervous system disease; Neurodegenerative disease</td></tr><tr><td>RGS12</td><td>regulator of G-protein signaling 12</td><td></td></tr><tr><td>RNF130a</td><td>ring finger protein 130</td><td>Motor neuron disease</td></tr><tr><td>SNAP23a</td><td>synaptosome associated protein 23</td><td>Nervous system disease</td></tr><tr><td>SNTB2</td><td>syntrophin beta 2</td><td></td></tr><tr><td>TBX1</td><td>T-box 1</td><td></td></tr><tr><td rowspan=\"6\">Up-regulated</td><td>ACSL6a</td><td>acyl-CoA synthetase long-chain family member 6</td><td>Nervous system disease</td></tr><tr><td>ATP5Sa</td><td>ATP synthase, H+ transporting, mitochondrial Fo complex subunit s (factor B)</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>CADPS</td><td>calcium dependent secretion activator</td><td></td></tr><tr><td>DCLK1a</td><td>doublecortin like kinase 1</td><td>Alzheimer&#8217;s disease</td></tr><tr><td>PPFIA2</td><td>PTPRF interacting protein alpha 2</td><td></td></tr><tr><td>SNCAb</td><td>synuclein alpha</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC5899355_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.6,
+    141.8,
+    680.3,
+    870.1
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5899355_table_3.png",
+   "html": "<table><tr><td>PD specific genes</td><td>miRNAs associated with genes</td><td>lncRNAs associated with the miRNAs</td></tr><tr><td rowspan=\"2\">HSPA6</td><td>hsa-miR-204-3pb</td><td>LINC00999</td></tr><tr><td>hsa-miR-548o-3p</td><td>CASC7, GABPB1-AS1, NEAT1, XIST</td></tr><tr><td rowspan=\"8\">MAP2K6</td><td>hsa-miR-33a-5pa</td><td>KCNQ1OT1, MCF2L-AS1</td></tr><tr><td>hsa-miR-590-3pa</td><td>CASC7, CTA-292E10.9, CTB-89H12.4, HCG11, LINC00657, LOC100507577, NEAT1, OIP5-AS1, OTUD6B-AS1, RP11-834C11.4, XIST</td></tr><tr><td>hsa-miR-145-5pa</td><td>KCNQ1OT1,TUG1</td></tr><tr><td>hsa-miR-425-5p</td><td>C1orf132, CTD-3025 N20.3, KCNQ1OT1, RP11-15H20.7, SNHG14, TTTY15, ZNRD1-AS1</td></tr><tr><td>hsa-miR-1306-5p</td><td>KCNQ1OT1, SENP3-EIF4A1</td></tr><tr><td>hsa-miR-148a-3pa</td><td>CASC7, KCNQ1OT1, OIP5-AS1, SNHG14</td></tr><tr><td>hsa-miR-130a-3pa</td><td>CASC7, H19, SNHG14</td></tr><tr><td>hsa-miR-148b-3pa</td><td>CASC7, OIP5-AS1, SLMO2-ATP5E, SNHG14</td></tr><tr><td rowspan=\"19\">SRPK2</td><td>hsa-miR-3200-3p</td><td>BLOC1S5-TXNDC5, KCNQ1OT1, XIST</td></tr><tr><td>hsa-miR-1292</td><td></td></tr><tr><td>hsa-miR-155-5p</td><td>CTD-2561 J22.5, RP11-175O19.4, XIST</td></tr><tr><td>hsa-miR-15b-3pa</td><td></td></tr><tr><td>hsa-miR-17-3pb</td><td>RP3-323A16.1, XIST</td></tr><tr><td>hsa-miR-181a-5pb</td><td>AC000403.4, CASC7, CTB-89H12.4, KCNQ1OT1, LINC00506, N4BP2L2-IT2, RP11-10E18.7, RP11-1134I14.8, RP11-147 L13.14, RP11-314B1.2, RP11-361F15.2, RP11-707A18.1, RP1-309I22.2, ZNF883, ZNRD1-AS1</td></tr><tr><td>hsa-miR-181b-5pb</td><td>CASC7, CTB-89H12.4, KCNQ1OT1, RP11-1134I14.8, XIST</td></tr><tr><td>hsa-miR-181c-5pb</td><td>CTB-89H12.4, KCNIP4-IT1, KCNQ1OT1, RP11-1134I14.8</td></tr><tr><td>hsa-miR-181db</td><td></td></tr><tr><td>hsa-miR-183-3pa</td><td></td></tr><tr><td>hsa-miR-1976</td><td>HNRNPUL2-BSCL2, KCNQ1OT1, LOC100129917, NEAT1, TSIX</td></tr><tr><td>hsa-miR-19a-3pb</td><td>FAM201A, H19, KCNA3, KCNQ1OT1, LINC00094, RP11-337C18.8, RP11-523G9.3, SNHG14</td></tr><tr><td>hsa-miR-19b-3pb</td><td>CASC7, FAM201A, H19, KCNA3, KCNQ1OT1, LINC00094, RP11-337C18.8, RP11-523G9.3, SNHG14</td></tr><tr><td>hsa-miR-21-5pa</td><td></td></tr><tr><td>hsa-miR-320a</td><td>ALMS1-IT1, CASC7, CTB-36H16.2, CTB-89H12.4, KCNIP4-IT1, LINC00663, LMCD1-AS1, MALAT1, NEAT1, RP11-145P16.3, XIST</td></tr><tr><td>hsa-miR-3685</td><td>KCNQ1OT1</td></tr><tr><td>hsa-miR-3689a-3p</td><td>TTTY15</td></tr><tr><td>hsa-miR-4518</td><td></td></tr><tr><td>hsa-miR-944</td><td></td></tr><tr><td rowspan=\"8\">NOL7</td><td>hsa-miR-199b-3pa</td><td>CTB-89H12.4, ERVK3&#8211;1, XIST</td></tr><tr><td>hsa-miR-199a-3pb</td><td>CTB-89H12.4, ERVK3&#8211;1, XIST</td></tr><tr><td>hsa-miR-328</td><td></td></tr><tr><td>hsa-miR-129-5pa</td><td>CASC7, ERVK3&#8211;1, KCNQ1OT1, MALAT1, NEAT1,</td></tr><tr><td>hsa-miR-374a-5pa</td><td>CTC-444 N24.11, CTD-2561 J22.5, RP11-613D13.5, TRG-AS1, XIST, ZNRD1-AS1</td></tr><tr><td>hsa-miR-744-5p</td><td>FLJ16779,</td></tr><tr><td>hsa-miR-374b-5pa</td><td>CTA-292E10.9, CTC-444 N24.11, OIP5-AS1, RP11-221 J22.1, RP11-38P22.2, XIST,</td></tr><tr><td>hsa-miR-548o-3p</td><td>CASC7, GABPB1-AS1, NEAT1, XIST,</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5899355_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.6,
+    142.0,
+    680.4,
+    350.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5899355_table_4.png",
+   "html": "<table><tr><td>Genes associated with PD</td><td>miRNAs associated with genes</td><td>lncRNAs associated with the miRNAs</td></tr><tr><td rowspan=\"8\">SNCA</td><td>hsa-miR-93-3pb</td><td>AC012065.7,KCNQ1OT1, LINC00342</td></tr><tr><td>hsa-miR-153b</td><td></td></tr><tr><td>hsa-miR-23b-3pb</td><td>CASC7,CTC-459F4.3, KCNQ1OT1, RP11-215G15.5, SNHG14, TOB1-AS1, XIST, ZNRD1-AS1</td></tr><tr><td>hsa-miR-500a-5p</td><td>SNHG22</td></tr><tr><td>hsa-miR-34a-5pb</td><td>AC004951.6, AC092535.3, KCNQ1OT1, LINC00662, PCBP2-OT1, RP11-693 J15.5</td></tr><tr><td>hsa-miR-29a-3pa</td><td>AC005154.6, H19, KCNQ1OT1, LINC00674, MIR4697HG, NEAT1, RP11-314B1.2, RP11-582E3.6, RP4-630A11.3, THUMPD3-AS1, TTTY15, TUG1</td></tr><tr><td>hsa-miR-7-5pb</td><td>AC005154.6, DLX6-AS1, KCNQ1OT1, LINC01233, LINC01314, RP11-679B19.1, XIST</td></tr><tr><td>hsa-miR-181a-2-3p</td><td>KCNQ1OT1, NEAT1</td></tr></table>"
+  }
+ ]
+}

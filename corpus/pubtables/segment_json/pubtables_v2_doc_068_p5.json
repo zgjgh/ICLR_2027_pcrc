@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_068",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    41.7,
+    678.7,
+    54.3
+   ],
+   "ocr": "Idri and Kadi SpringerPlus (2016) 5:81 Page 12 of 17"
+  },
+  "p5_b1": {
+   "type": "title",
+   "bbox": [
+    288.5,
+    113.4,
+    306.3,
+    140.5
+   ],
+   "ocr": "�"
+  },
+  "p5_b2": {
+   "type": "title",
+   "bbox": [
+    173.8,
+    123.0,
+    601.8,
+    138.7
+   ],
+   "ocr": "Mean error rate = ERi (5)"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    141.1,
+    601.8,
+    187.7
+   ],
+   "ocr": "i=1 With ERi = (TP + TN)/(TP + FP + FN + TN) is the error rate of each ith trial. Note that:"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    182.1,
+    601.8,
+    759.7
+   ],
+   "ocr": "True positive rate (TP), false positive rate (FP), true negative rate (TN) and false true negative rate (FN) are provided by the used C4.5 software. According to the results of Table 4, the mean values of the error rate are low, which contributes to the increase of the accuracy rate up to 98.54  %. These results may be explained by the fact that input features required for the construction of each decision tree did not include a lot of input attributes. In fact, as shown in “Results and discussion” section, the number of input attributes did not exceed four attributes which help to pro- duce classifiers with high accuracy rates (Quinlan 1993; Han and Kamber 2001). Test phase The generated decision trees were tested using test sets as aforementioned in “Medical dataset collection and description” and “Learning phase” sections. The error rates meas- ured for these sets were recorded. Table 5 summarizes all the results obtained regarding the test phase and presents the mean value of error rates obtained in the 10 trials for each generated decision tree. The results obtained in the test phase were also encourag- ing and the values of the error rates recorded were low. Thereby, the classifiers achieved an accuracy rate of 97.76 % for test subset. Comparison with other classifiers After evaluating the decision trees generated using test subsets, a comparison between the accuracy rates obtained using C4.5 algorithm, K-NN (Altman 1992) and Naïve Bayes (NB) classifiers (Domingos and Pazzani 1997) was carried out in order to assess the performance of our prediction system. The K-NN and NB classifiers were performed using the Tanagra 1.4 software (www.eric.univ-lyon2.fr, 2015). Table 6 shows the results obtained when applying K-NN and NB classifiers on our data sets. These classifiers were applied on training and test subsets. The mean, max and min values of accuracy rates for each classifier were recorded. In fact, when running the predefined classifiers, sev- eral trials were conducted for each ANS test to identify the appropriate neighborhood size for K-NN and the Lambda parameter for Naïve Bayes. Thus, the best results were obtained using a neighborhood size between 3 and 10 for K-NN, and a default Lambda Table 5 Error rates of the generated classifiers in test set"
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    768.0,
+    601.2,
+    909.7
+   ],
+   "ocr": "ANS tests Phase Mean error rate (%)\nDeep Breathing Vagal response 0.38\nHand Grip Vagal response 2.15\nPSR α 3.01\nMental stress CSR α 0\nCSR β 1.72\nOrthostatic Vagal response 0\nSP_FC 8.96\nSP_TA 1.66",
+   "table_id": "PMC4728159_table_4"
+  }
+ }
+}

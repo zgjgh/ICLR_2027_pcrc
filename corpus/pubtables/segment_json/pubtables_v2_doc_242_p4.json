@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_242",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    337.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Evaluation and optimization of the hydropower system operation in the Upper Yellow River"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    97.3,
+    724.5,
+    290.6
+   ],
+   "ocr": "observed values (the coefficients of determination are close to 1.0). The annual average power generation is estimated to be 356.8×108 KWh for the 13-reservoir system and 306.0×108 KWh for the 12-reservoir system, with power generation values of 267.7, 357.5, and 358.3×108 KWh for the dry, normal, and wet years, respectively. The results indicate the following conclusions. 1) The parameters selected for use within the formulated model are reasonable, and the model can be used for evaluation and optimization of the UYR hydropower system operation; 2) the LINGO-based integrated solution can be used for accurate simulations other than optimiza- tions, and the comprehensive benefits of operation of hydropower systems can be estimated once decision variables (i.e., releases) are given; 3) the simulation can be seen as the baseline scenario (each storage reservoir in the system is operated individually rather than jointly) for getting know the energy production potential by comparison with the joint optimal operation of the system."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    323.3,
+    724.6,
+    749.2
+   ],
+   "ocr": "Optimization As mentioned previously, the optimization can be performed once all of the data, except for the releases from reservoirs, have been given. The optimization model is highly nonlinear and non-convex because of the complex conversion from potential energy to kinetic energy and then to electrical energy in the objective function [40]. Additionally, because of the large num- ber of reservoirs, as well as the extended time period covered, the computational dimension is extremely high: a total of 51,480 variables (15,480 of which are nonlinear variables) and 42,134 constraints (6120 of which are nonlinear constraints) are involved in the optimization. It is due to these mathematical characteristics that three NLP solvers embedded in LINGO–Gen- eral Solver, Global Solver, and Multi-start Solver are selected for solution verification. Table 4 shows comparison of various NLP solvers for S1 of Table 5. The General Solver gains the solu- tion fastest with a single thread, and its runtime is 180 s. On the other hand, the Global Solver runs for a very long time, and although 2 threads are used, it could only be confirmed that the maximum objective bound is 3690.03 until the runtime is terminated (~1 hour). The Multi- start Solver searches the same solution with the General Solver, although it employs various numbers of starting points. Generally, the solution quality of the Multi-start Solver will improve as the number of starting points increases. There should be a half dozen or so distinct local optima; however, they are all alternate optima with a same objective value. The coinci- dence is probably due to some sort of symmetry in the problem. Furthermore, it can witness the obvious decrease in runtime once the option for multi-thread computing is activated. However, several reasons exist that explain why using n threads gives substantially less than n times speed up, such as load balancing, memory congestion, clock speed reduction, and algo- rithmic inefficiencies. In any case, the reliability of the identified solutions to the large-scale nonlinear hydropower system optimization can be verified through comparing these NLP Table 4. Comparison of various NLP solvers for S1."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    48.8,
+    757.9,
+    723.8,
+    851.3
+   ],
+   "ocr": "Solver General Global Solver Multi-start Solver\nsettings Solver\nThread(s) = 2 Starting point(s) Starting point(s) Starting point(s) Starting point(s) Starting point(s) Starting point(s)\n= 2, Thread(s) = 1 = 2, Thread(s) = 2 = 4, Thread(s) = 1 = 4, Thread(s) = 2 = 6, Thread(s) = 2 = 6, Thread(s) = 3\nRuntime 180 3600a 304 201 994 465 949 1036\n(s)\nObjective 3649.02 Objective 3649.02 3649.02 3649.02 3649.02 3649.02 3649.02\nbound = 3690.03",
+   "table_id": "PMC5784971_table_3"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    863.0,
+    48.8,
+    869.7
+   ],
+   "ocr": "a"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    864.9,
+    265.4,
+    897.6
+   ],
+   "ocr": "The termination time is set to 3600 seconds (1 hour). https://doi.org/10.1371/journal.pone.0191483.t004"
+  },
+  "p4_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0191483 January 25, 2018 16 / 25"
+  }
+ }
+}

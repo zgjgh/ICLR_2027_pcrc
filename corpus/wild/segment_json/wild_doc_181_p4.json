@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_181",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    107.0,
+    580.0,
+    228.0
+   ],
+   "ocr": "ProductLine YieldRate Revenue(€M)\nWaferTypes Change(%) MarketShare(%)\n300mmWafers 92.5% 150.0\n200mmWafers 89.0% 120.0\n150mmWafers 85.5% 80.0\nTotalWafers 90.3% 350.0",
+   "table_id": "img_205417_t0"
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    270.0,
+    580.0,
+    495.0
+   ],
+   "ocr": "Quarter Revenue NetIncome\nQ12024 EUR450M EUR120M QoQChange(%)\nProcessNode MarketShare(%) YoYChange(%) 5nm 45.0 15.0 7nm\n3nm EUR200M EUR60M 50.0 20.0 15nm EUR100M\nEUR30M 25.0 10.0 Total EUR450M EUR120M 35.0\nMarketGrowth(%) 2023vs2024 15.0 20.0 25.0 30.0 Total",
+   "table_id": "img_205417_t1"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    539.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "FinancialMetrics Q12024 Year-over-YearChange\nRevenue GrossMargin OperatingIncome\nNetIncome EPS DebtMetrics\nCurrentRatio QuickRatio Debt/EquityRatio Long-termDebt LiquidityRatios CashRatio WorkingCapital\nValuationRatios P/ERatio P/BRatio EV/EBITDA MarketCap ReturnRatios ROE ROA ROIC\n€1.2B 45% €300M €250M 1.5 1.2 0.8 €2.5B €5.0B",
+   "table_id": "img_205417_t2"
+  }
+ }
+}

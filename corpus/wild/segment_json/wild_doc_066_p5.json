@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_066",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    126,
+    580,
+    153
+   ],
+   "ocr": "In recent analyses of cancer-related gene expression across various tumor types, the expression levels of MACROD2 have emerged as a significant parameter of interest."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    141,
+    580,
+    184
+   ],
+   "ocr": "The data presented in Table 1 highlights the correlation between MACROD2 expression and clinical outcomes in multiple cancers, including KIRP (Kidney Renal Papillary Cell Carcinoma) and LIHC (Liver Hepatocellular Carcinoma)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    244.0,
+    580.0,
+    434.0
+   ],
+   "ocr": "KIRP LIHC UCEC KICH HNSC THCA BLCA LUSC\nKIRP - 31 10 49 41 28 6 2\nLIHC 31 - 3 3 12 3 1 3\nUCEC 10 3 - 0 2 3 3 0\nKICH 49 3 0 - 7 4 2 0\nHNSC 41 12 2 7 - 11 6 1\nTHCA 28 3 3 4 11 - 5 1\nBLCA 6 1 3 2 6 5 - 0\nLUSC 2 3 0 0 1 1 0 -",
+   "table_id": "img_073703_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    490.0,
+    580.0,
+    612.0
+   ],
+   "ocr": "Parameter HR (95% CI) P-value\nMACROD2 expression 0.6 (0.3-1.0) 0.046\nTumor location 1.8 (1.0-3.1) 0.041\nT-stage 1.8 (1.0-3.1) 0.038\nAngioinvasion 2.5 (1.4-4.2) 0.001\nPerforation 1.4 (1.0-2.0) 0.042",
+   "table_id": "img_073703_t1"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    701
+   ],
+   "ocr": "Notably, the hazard ratio (HR) for MACROD2 expression in KIRP is reported at 0.6 with a 95% confidence interval (CI) ranging from 0.3 to 1.0, accompanied by a P-value of 0.046. This suggests a potential protective effect of MACROD2 expression in this cancer type, indicating that higher levels may be associated with improved survival outcomes."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "In contrast, the analysis across other cancers such as UCEC (Uterine Corpus Endometrial Carcinoma) and HNSC (Head and Neck Squamous Cell Carcinoma) reveals varying levels of significance and association, underscoring the complexity of gene expression impacts across different malignancies. These findings warrant further investigation into the biological mechanisms underlying MACROD2’s role in cancer progression and patient prognosis."
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_034",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The data presented in the table provides a comprehensive overview of the demographics and treatment modalities associated with various patient groups diagnosed with breast cancer. Specifically, it delineates the distribution of patients by gender, with separate columns for Male and Female patients, and further categorizes them by age ranges, including those under 20, 21–30, 31–40, 41–50, and those aged 50 and above."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    186
+   ],
+   "ocr": "Notably, the table highlights the total number of patients with early breast cancer (EBC), metastatic breast cancer (MBC), and brain metastases (BM), with respective counts of 118, 556, and 126. Additionally, it features the application of various antimicrobial dressings, including Urgotul SSD®, Bactigras®, Acticoat®, and Askina Calgitrol Ag®, facilitating a discussion on treatment outcomes in relation to the types of microorganisms present. Understanding these metrics is essential for evaluating the efficacy of treatment options and the impact of demographic factors on patient outcomes in breast cancer management."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    204.0,
+    580.0,
+    331.0
+   ],
+   "ocr": "Gender Age classes\nMale Female <20 21–30 31–40 41–50 ≥50\nTotal 409 586 155 358 251 133 98\nHBV (+)(%) 7618.58 6811.60 1912.25 5715.92 4116.33 1511.27 1212.24\nOR (95% IC) 1.7 (1.2–2.4) 1 — — — — —\nP values 0.002 —",
+   "table_id": "img_037609_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    346.0,
+    580.0,
+    529.0
+   ],
+   "ocr": "IHC subtype No. (%) p Value†\nPatients with EBC (n = 118) Patients with MBC* (n = 556) Patients with BM (n = 126)\nLuminal A (ER or PR+/HER2-) 68 (57.6) 254 (46.7) 23 (18.3) < 0.0001\nLuminal B (ER or PR+/HER2+) 16 (13.6) 73 (13.1) 19 (15.1)\nHER2+/ER- (ER-/PR-/HER2+) 15 (12.7) 91 (16.4) 37 (29.4)\nTriple-negative (ER-/PR-/HER2-) 19 (16.1) 138 (24.8) 47 (37.3)",
+   "table_id": "img_037609_t1"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    544.0,
+    580.0,
+    671.0
+   ],
+   "ocr": "Microorganism Urgotul SSD® Bactigras® Acticoat® Askina Calgitrol Ag® Aquacel Ag® Mepitel®\nS. aureus 1.41 ± 0.86 1.13 ± 0.42 13.30 ± 0.78 24.33 ± 3.12 12.97 ± 0.85 0.00\nMRSA 0.19 ± 0.11 0.36 ± 0.33 6.69 ± 0.14 8.11 ± 4.33 1.84 ± 0.95 0.00\nB. subtilis 2.39 ± 2.11 7.12 ± 1.24 10.98 ± 0.49 5.62 ± 1.48 6.69 ± 1.39 0.00\nP. aeruginosa 9.05 ± 3.34 0 17.62 ± 4.82 21.08 ± 0.89 22.56 ± 1.77 0.00\nE. coli 6.44 ± 1.22 0.78 ± 0.16 15.98 ± 0.84 12.42 ± 0.69 10.58 ± 0.47 0.00",
+   "table_id": "img_037609_t2"
+  }
+ }
+}

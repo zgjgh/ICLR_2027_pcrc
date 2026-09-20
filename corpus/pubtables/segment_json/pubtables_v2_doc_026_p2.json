@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_026",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Ren et al. BMC Bioinformatics 2015, 16(Suppl 18):S12 http://www.biomedcentral.com/1471-2105/16/S18/S12"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 15"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.7,
+    922.1
+   ],
+   "ocr": "the two steps both use weighted SVM, their optimiza- tion objectives are slightly different. In the first step, the true negative predictions (i.e., unlabeled residues pre- dicted as negative) are selected as RN, with the optimi- zation objective that the recall of the predictor is as high as 95% and the F-score is optimized. The 5% bal- ance in recall is reserved to tolerate noise in positive samples induced by computational definitions and the mapping process. In the second step, the PUPre model is developed with the objective of optimizing the F-score. The function of weighted SVM can vary when the optimization function function is adjusted. In addi- tion, adjusting the weights assigned to different classes can help to deal with the issue of data imbalance between positive residues and a huge amount of unlabeled resi- dues. Both the parameter penalty factor and weight used in the two steps were selected by maximizing the optimi- zation goals. The parameter determination process was conducted under internal complex-based 5-fold cross- validation to avoid over-fitting. To study which factor contributes to this major improve- ment, we also designed two baseline algorithms using linear SVM. In the baseline algorithms, we simply use weight = 10 on the rare epitope data to handle the issue of data imbal- ance, and calibrate the penalty factor cc in linear SVM to obtain optimum performance. The penalty factor controls the trade-off between the margin and the training errors [25]. The raw baseline algorithm is trained and evaluated on all the epitope and unlabeled residues. It is used to investi- gate whether selected features are effective. The prepro- cessing baseline algorithm was designed on the basis of the following observation. Many of the unbound struc- tures are multimeric, and in most cases PDB files only record parts of the symmetric units. Clearly, the interfaces between target chains and other chains in symmetric units cannot become epitopes. Thus, a preprocessing procedure is deployed to enhance the performance: we first calculate the complete structure according to the PDB file and then detect and remove the interfaces with other chains. With- out loss of generality, we assume an antigen structure has two chains A and B. A residue on chain A is defined as an internally interacting residue if a heavy atom of this resi- due is within 4Å distance of any heavy atom of chain B. In a training process, those internal interactions are excluded from the training data, taken as neither positive nor unla- beled residues; in a testing process, they are labeled as negative. The internal interactions on our data set are pro- vided in Additional File 3. In the performance comparison and evaluation, complex- based 10-fold cross-validation was used. By this process, the 92 unbound structures were randomly divided into 10 groups. Our PUPre model was trained on the complexes from nine groups, and tested on the remaining group. Com- plex-based 10-fold cross-validation is an excellent indicator"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    827.1
+   ],
+   "ocr": "final winning features were selected by majority voting. The procedure helps to identify highly useful features for discovering unknown epitopes. Eighty-nine basic features were ultimately selected. Sequence window features and structure window features were also added to the vector to reflect the impact of sequential or structural adjacent residues on epitope residues. Please refer to [10] for detailed steps to derive these sequence window features and structure window features. PU learning PU learning has been already explored for text mining [19,20,22], disease gene identification [29-31], and protein function identification [32]. However, this advanced learning approach has not been explored for the prediction of epitopes. As mentioned, some conventional PU learning algo- rithms share a two-step framework. The difference between them lies in the unique strategies used in the first or the second step. Table 2 summarizes the differ- ences. The spy strategy [19] randomly selects several positive samples as spies and puts them into the unla- beled data set; then it determines the boundary of RN (reliable negative samples) under the rule that most of the spies are classified as positive. The 1-DNF algorithm [22] identifies the reliable positive features, and then selects RN which consist of none of the reliable positive features. Rocchio [22] calculates the representative posi- tive/unlabeled vectors and selects those samples more similar to the representative unlabeled vector as RN. We introduce a novel two-step PU learning algorithm (i.e., PUPre) based on weighted SVM with linear kernel [25]. For easy reference, we list three groups of terms and notations which can be used interchangeably: (1) P, positive samples and epitope residues, (2) U, unlabeled samples and unlabeled residues, (3) RN, reliable negative samples and reliable non-epitope residues. Figure 1(a) shows the two main steps of PUPre: identify RN and construct a weighted SVM from P and RN. Figure 1(b) details the step ‘identify RN’, where a high recall (e.g., >95%) for the weighted SVM is highlighted. The high recall requires that the majority of epitope residues should be correctly identified. Thus if an unlabeled resi- due is predicted as negative, it would have a high prob- ability of being a nonepitope residue. Note that although Table 2. Typical two-step PU learning algorithms"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    832.0,
+    344.4,
+    905.2
+   ],
+   "ocr": "Algorithms Step1 Step2 SEL\nS-EM [19] Spy EM Y\nPEBL [22] 1-DNF SVM N\nRoc-SVM [23] Rocchio SVM Y\nBiased SVM [24] Naïve Bayesian Biased SVM N",
+   "table_id": "PMC4682424_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    320.6,
+    922.2
+   ],
+   "ocr": "SEL: whether to select the final model from the iterated classifiers."
+  }
+ }
+}

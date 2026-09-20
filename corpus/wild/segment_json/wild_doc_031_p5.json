@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_031",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The data presented in the following table provides a comprehensive analysis of the relationship between age and the associated odds ratios (OR) for specific outcomes. The analysis reveals two distinct odds ratios, each accompanied by their respective 95% confidence intervals (CI) and P-values, indicating the statistical significance of the findings."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    109
+   ],
+   "ocr": "The first odds ratio for age is reported as 1.12, with a confidence interval ranging from 1.05 to 1.18, and a P-value of less than 0.001."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    490.0
+   ],
+   "ocr": "Variable DM type I DM type II\nOR CI (95 %) P-value OR CI (95 %) P value\nAge 1.12 (1.05–1.18) <0.001 1.16 (1.08–1025) 0.001\nSex (Female) 0.53 (0.21–1.32) 0.16 1.71 (0.78–3.7) 0.17\nDuration 1.21 (1.10–1.32) 0.001 1.22 (1.12–1.32) 0.001\nHTN 3.8 (0.95–15.5) 0.058 2.8 (1.4–5.7) 0.04\nBMI 1.14 (1.02–1.27) 0.02 1.012 (0.193–1.09) 0.77\nCigarette 3.5 (0.67–19.00) 0.13 5.01 (1.04–24) 0.044\nFPG 0.99 (0.99–1.00) 0.65 1.005 (1–1.01) 0.05\nHbA1c 1.01 (0.18–1.26) 0.92 1.49 (1.19–1.86) 0.001\nTriglyceride 1.06 (0.33–3.4) 0.91 1.46 (0.72–2.9) 0.28\nCholestrol 1.37 (0.152–3.630) 0.51 1.37 (0.67–2.7) 0.37\nUrine Albumin 1.13 (0.198–1.3) 0.078 1.09 (0.99–1.19) 0.07\nUrine Creatinine 1.03 (0.999–1.007) 0.16 0.995 (0.992–0.998) 0.001\nMicroalbuminuria 2.02 (0.74–21.3) 0.16 1.34 (0.68–2.62) 0.39\nUrine Protein 7.2 (2.4–21.3) 0.001 1.23 (0.59–2.55) 0.57\nIgM Index 1.05 (0.97–1.13) 0.20 1.003 (0.992–1.015) 0.57\nIgM 4.6 (0.49–43.2) 0.18 1.72 (0.74–4.01) 0.20",
+   "table_id": "img_034642_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    506,
+    580,
+    548
+   ],
+   "ocr": "This suggests that for each additional year of age, the likelihood of the outcome increases significantly, underscoring the importance of age as a critical factor in this context. The second odds ratio, appearing in the subsequent metric, is slightly higher at 1.16, with a confidence interval of 1.08 to 1.25 and a P-value of 0.001."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    536,
+    580,
+    595
+   ],
+   "ocr": "This consistent trend reinforces the notion that age plays a significant role in the assessed outcomes, warranting further investigation into the underlying mechanisms driving this correlation. Overall, the results underscore the necessity of considering age-related factors in the analysis and interpretation of health-related data."
+  }
+ }
+}

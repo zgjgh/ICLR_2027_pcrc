@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_320",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    56.3,
+    285.5,
+    81.3
+   ],
+   "ocr": "Xu et al. BMC Genomics 2010, 11:246 http://www.biomedcentral.com/1471-2164/11/246"
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    626.5,
+    56.7,
+    677.7,
+    68.8
+   ],
+   "ocr": "Page 6 of 17"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    125.2,
+    354.5,
+    139.2
+   ],
+   "ocr": "Table 2: Potential novel miRNA genes from sweet orange"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    76.4,
+    149.5,
+    668.4,
+    554.8
+   ],
+   "ocr": "miRNA ID Sequences (5'-3') Fold change Precursor Start, end miRNA star\nWT counta MT counta\nUnigene ID\ncsi-novel-01 UUUUUCGGCAACAU 2.8 0.0 EY671768 607, 764 Yes\nGAUUUCU\ncsi-novel-02 UGGAGGCAGCGGUU 4.5 3.3 1.4 EY681703 286,417 Yes\nCAUCGAUC\ncsi-novel-03 UAGAUAAAGAUGAG 220.1 1248.5 5.7 EY683731 19,166 Yes\nAGAAAAA\ncsi-novel-04 UUCAAGAAAUCUGU 8.9 0.0 EY714194 255, 397 Yes\nGGGAAG\ncsi-novel-05 UGAAGGGCCUUUCU 90.5 29.6 3.1 CN182895 123, 285 Yes\nAGAGCAC\ncsi-novel-06 UUCCCUAGUCCCCCU 11.2 1.5 7.5 CX051199 168, 263 Yes\nAUUCCUA\ncsi-novel-07 GGAAUGUUGUCUGG 12.3 4.8 2.6 EY672989 141, 318 Yes\nCUCGAGG\ncsi-novel-08 AGUGGGAGCGUGGG 287.1 369.1 1.3 EY676411 137, 282 Yes\nGUAAGAAG\ncsi-novel-09 UUGAGUUCUGCAAG 0.0 2.7 EY712260 398, 498 Yes\nCCGUCGA\ncsi-novel-10 AGGUCAUCUUGCAGC 27.9 4.5 6.2 EY739655 272, 634 Yes\nUUCAAU\ncsi-novel-11 UGGACAGAGAAAUCA 591.5 132.7 4.5 TC19570 105, 191 Yes\nCGGUCA\ncsi-novel-12 GCAGCGUCCUCAAGA 15.1 4.5 3.4 TC23189 300, 444 Yes\nUUCACA",
+   "table_id": "PMC2864249_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    76.4,
+    560.3,
+    306.9,
+    572.4
+   ],
+   "ocr": "a count was normalized as transcripts per million (TPM)."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    597.9,
+    366.0,
+    839.1
+   ],
+   "ocr": "sis of the qRT-PCR products confirmed the size and expression of these novel miRNAs (Figure 4C). Moreover, we analyzed the expression of three miRNA*s (csi-novel- 03, -05, -06); and results showed that two miRNA*s had different expression pattern from those of corresponding mature miRNAs (Figure 4A). miRNA-targets associated small RNAs To compare the frequency of small RNAs located in miRNA-target genes with other genes, we mined the unique small RNAs (sRNAs) that matched perfectly to miRNA-target genes in sense or antisense strands according to Luo et al. [62]. Target prediction of the 85 known and 12 novel miRNAs produced a total of 555 miRNA-target genes. Then all the 555 miRNA-target genes were searched against the unigenes on which"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    597.9,
+    678.4,
+    808.9
+   ],
+   "ocr": "antisense (Table 3). For MT sample, 18,142 and 10,651 sRNAs were mapped in sense and antisense, respectively (Table 1; Additional file 2). Similar analysis revealed that 97 miRNA-target genes match sRNAs perfectly, with 20 in sense strand, 27 in antisense and 50 in both strand (Table 3; detail in Additional file 10). This study showed that 13.7% and 17.5% of the miRNA-target genes in WT and MT could be the precursors of sRNAs. The high fre- quency of miRNA-targets associated sRNAs suggests that miRNA-target genes are hotspots for generation of sRNAs. Differentially expressed miRNAs between WT and MT The frequency of each miRNAs in the small RNA library"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    805.7,
+    678.4,
+    824.0
+   ],
+   "ocr": "could serve as an index for the estimation of the relative"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    820.8,
+    678.3,
+    839.1
+   ],
+   "ocr": "expression abundance of miRNAs. To investigate the"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    835.9,
+    365.8,
+    854.2
+   ],
+   "ocr": "sRNAs were mapped. This analysis in WT showed that"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    835.9,
+    678.4,
+    854.2
+   ],
+   "ocr": "expression change of miRNAs between WT and MT, the"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    851.0,
+    365.8,
+    869.3
+   ],
+   "ocr": "13,811 sRNAs in sense and 8,281 sRNAs in antisense"
+  },
+  "p2_b12": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    851.0,
+    678.4,
+    869.3
+   ],
+   "ocr": "abundance of each miRNA was normalized as transcripts"
+  },
+  "p2_b13": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    866.2,
+    365.9,
+    884.4
+   ],
+   "ocr": "were mapped perfectly on orange unigenes (Table 1;"
+  },
+  "p2_b14": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    866.2,
+    678.4,
+    884.4
+   ],
+   "ocr": "per million (TPM). A total of 51 known miRNA genes"
+  },
+  "p2_b15": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    881.3,
+    366.0,
+    899.5
+   ],
+   "ocr": "Additional file 1). Of the mapped unigenes in WT, 76"
+  },
+  "p2_b16": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    881.3,
+    678.3,
+    899.5
+   ],
+   "ocr": "and 9 novel miRNAs were up- or down-regulated signifi-"
+  },
+  "p2_b17": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    896.4,
+    365.8,
+    914.7
+   ],
+   "ocr": "were miRNA-target genes: 21 of them produced sRNAs"
+  },
+  "p2_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    896.4,
+    678.3,
+    914.7
+   ],
+   "ocr": "cantly at 0.01 level based on Z-score statistics (Table 2"
+  },
+  "p2_b19": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    911.5,
+    365.8,
+    929.8
+   ],
+   "ocr": "in sense strand, 11 in antisense and 44 in both sense and"
+  },
+  "p2_b20": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    911.5,
+    678.2,
+    929.8
+   ],
+   "ocr": "and Additional file 5). Among these 60 differentially"
+  }
+ }
+}

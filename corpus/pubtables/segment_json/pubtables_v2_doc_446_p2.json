@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_446",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    467.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Off Target Predictions from ChEMBL with Template CoMFA"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    96.0,
+    727.2,
+    632.6
+   ],
+   "ocr": "values from the correlation of the predicted CHEMBL_VALUEs with molecular weight. Com- parison of these SDEPs with those in the fifth column does suggest slight molecular weight cor- relations for perhaps three of the twelve targets. However, comparisons with the sixth or seventh column indicate the 3D-QSAR, shape-specific, components of these template CoMFA correlations to be far more significant (p>99.9% according to a one-sided T-test). A more meaningful comparison of template CoMFA is with the dominant methodology for off-target prediction, the degree of structural similarity as expressed by the Tanimoto coeffi- cient of structural fragment occurrences [25, 26]. For this comparison, as described within Ma- terials and Methods, each unknown CHEMBL_VALUE was “predicted” to be that of its most Tanimoto-similar structure (or “nearest neighbor”) having a known CHEMBL_VALUE. The SDEPs from applying this process to each of the twelve targets, appearing in the ninth column of Table 1, are hardly distinguishable from the template CoMFA SDEPs in column six or seven shows, with an average “superiority” of the template CoMFA SDEPs being a statistically mean- ingless .005 log units. However, despite this resemblance in overall statistical quality, because the methodological foundations of the methods differ, the two methods often make different predictions for indi- vidual structures. An attempt to quantify this observation appears in the tenth column of Table 1. These values are the r2 values from the correlation of the SDEPs from template CoMFA with those from this expression of Tanimoto fingerprint coefficients. The average of these values is .227 (+/-.048), which can be compared with the average of .664 (+/- .110) for the r2 values from the twelve protocol B models, suggesting that differences between the affinity predictions of the two methods are substantive and numerous. The rightmost column of Table 1 reports the degree of similarity between the best and the 100th best Surflex-Sim alignments (protocols B and C), as the RMS of distances between corre- sponding heavy atoms, after a rigid-body fit of the two alignments. Though of course highly variable, and also upward biased, for example by ignoring alternative topological mappings from symmetry, the average difference of 4.6 Angstrom in these twelve RMS values surely indi- cates that statistical similarities between the models from the B and C protocols are not simply a matter of conformational similarity in their underlying alignments. Table 2 provides supporting statistical metrics for one of the—template CoMFA models de- rived by applying the seven protocols to the CHEMBL_VALUEs for the facXa target. Table 2. BACE (Beta-secretase 1): Template CoMFA model properties."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    641.4,
+    726.6,
+    820.1
+   ],
+   "ocr": "Input Data Protocol Code* Model Derivation Metrics SE of Model Predictions\nq2 SDEP # cp r2 s\nA 0.493 0.87 12 0.738 0.63 0.88\nB 0.522 0.98 9 0.780 0.66 0.87\nBallTrng 0.603 0.78 17 0.747 0.62 NA\nBhalfTrng 0.358 0.99 7 0.720 0.65 0.75\nC 0.511 0.86 12 0.744 0.62 0.88\nD 0.245 1.07 4 0.426 0.93 1.26\nE 0.232 1.08 4 0.469 0.90 1.15\nF 0.764 0.93 12 0.880 0.66 0.87\nG 0.248 1.08 4 0.428 0.93 1.13",
+   "table_id": "PMC4466312_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    832.7,
+    715.9,
+    897.3
+   ],
+   "ocr": "*A = Xray templates; B = three Surﬂex SIM best scoring templates (standard protocol); Balltrng = B trained on all structures; B = halfTrng = B trained on quarter of structures; C = as B for 100th best Surﬂex-SIM alignment; D = Concord templates; E = no templates (Concord only); F = as B, separated templates; G = as E, Concord then randomized. doi:10.1371/journal.pone.0129307.t002"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129307 June 12, 2015 8 / 22"
+  }
+ }
+}

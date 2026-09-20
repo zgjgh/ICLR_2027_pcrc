@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_051",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3527520_table_1",
+   "page_num": 1,
+   "bbox": [
+    80.9,
+    122.0,
+    692.5,
+    191.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3527520_table_1.png",
+   "html": "<table><tr><td>Species</td><td>Number of UTR-related ncRNAs</td><td>Number of intergenic ncRNAs</td><td>Number of intronic ncRNAs</td><td>Number of overlapped ncRNAs</td></tr><tr><td>Human</td><td>3,438</td><td>20,268</td><td>55,601</td><td>10,724</td></tr><tr><td>Mouse</td><td>2,179</td><td>9,490</td><td>21,541</td><td>4,414</td></tr><tr><td>Zebrafish</td><td>2,031</td><td>4,464</td><td>2,514</td><td>1,010</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3527520_table_2",
+   "page_num": 2,
+   "bbox": [
+    80.9,
+    122.0,
+    669.1,
+    324.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3527520_table_2.png",
+   "html": "<table><tr><td>Dataset</td><td>Number of intronic ncRNAs</td><td>Number of overlapped ncRNAs</td><td>Number of UTR-related RNAs</td><td>Number of intergenic ncRNAs (Percentage**)</td><td>In total</td></tr><tr><td>Chromatin-based lincRNAs (human)</td><td>21</td><td>8</td><td>15</td><td>391/1.93%</td><td>435</td></tr><tr><td>Enhancer-like long ncRNAs (human)</td><td>22</td><td>10</td><td>32</td><td>945/4.66%</td><td>1,009</td></tr><tr><td>RNA-seq-based lincRNAs (human)</td><td>11</td><td>19</td><td>83</td><td>1,484/7.32%</td><td>1,597</td></tr><tr><td>LincRNAs from ES (mouse)</td><td>26</td><td>13</td><td>15</td><td>108/1.14%</td><td>162</td></tr><tr><td>lincRNAs from MLF (mouse)</td><td>40</td><td>9</td><td>11</td><td>70/0.74%</td><td>130</td></tr><tr><td>LincRNAs from NPC (mouse)</td><td>30</td><td>14</td><td>15</td><td>125/1.32%</td><td>184</td></tr><tr><td>Chromatin-based lincRNAs (mouse)</td><td>27</td><td>87</td><td>59</td><td>293/3.09%</td><td>466</td></tr><tr><td>RNA-seq-based long ncRNAs (zebrafish)</td><td>16</td><td>12</td><td>28</td><td>105/2.36%</td><td>161</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3527520_table_3",
+   "page_num": 3,
+   "bbox": [
+    80.9,
+    122.0,
+    687.1,
+    793.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3527520_table_3.png",
+   "html": "<table><tr><td>Official_gene symbol</td><td>Expression in brain (Human)*</td><td>Aliases &amp; Descriptions</td><td>Diseases disorders*</td><td>Related ncRNAs</td></tr><tr><td>MAN1A1</td><td>Yes</td><td>Processing alpha-1,2-mannosidase IA | MAN9 | processing alpha-1,2-mannosidase IA | mannosyl- oligosaccharide 1,2-alpha-mannosidase IA | mannosidase, alpha, class 1A, member 1 | Man(9)- alpha-mannosidase | man(9)-alpha-mannosidase | Mannosidase alpha class 1A member 1 |HUMM3 | alpha-1,2-mannosidase IA | Alpha-1,2-mannosidase IA | Man9-mannosidase | HUMM9 |EC 3.2.1.113</td><td>Mannosidase deficiency disease</td><td>N/A</td></tr><tr><td>MAN1A2</td><td>Yes</td><td>mannosidase, alpha, class 1A, member 2 |alpha-1, 2-mannosidase IB | Mannosidase alpha class 1A member 2 | mannosyl-oligosaccharide 1,2-alpha-mannosidase IB | alpha1,2-mannosidase | Processing alpha-1,2- mannosidase IB | processing alpha-1,2-mannosidase IB | MAN1B | Alpha-1,2-mannosidase IB |EC 3.2.1.113</td><td>N/A</td><td>N/A</td></tr><tr><td>ONECUT2</td><td>Yes</td><td>OC2 | hepatocyte nuclear factor 6-beta |ONECUT-2 homeodomain transcription factor | HNF6B | One cut homeobox 2 | HNF-6-beta | Hepatocyte nuclear factor 6-beta | onecut 2 | OC-2 | one cut domain, family member 2 | transcription factor ONECUT-2 | one cut domain family member 2 | Transcription factor ONECUT-2 | one cut homeobox 2</td><td>Oral cancer</td><td>Target of miR-9</td></tr><tr><td>PANK2</td><td>Yes</td><td>hPanK2 | pantothenate kinase 2 | FLJ11729 | neurodegeneration with brain iron accumulation 1 (Hallervorden-Spatz syndrome) | NBIA1 |Hallervorden- Spatz syndrome | HARP | HSS | Pantothenic acid kinase 2 | C20orf48 | pantothenic acid kinase 2 | PKAN | pantothenate kinase 2, mitochondrial |EC 2.7.1.33</td><td>Hallervorden-Spatz syndrome |dementia |dystonia</td><td>Host of miR-103</td></tr><tr><td>KCNJ4</td><td>Yes</td><td>IRK-3 | hIRK2 | IRK3 | inward rectifier K(+) channel Kir2.3 | Potassium channel, inwardly rectifying subfamily J member 4 | HRK1 | HIRK2 | potassium channel, inwardly rectifying subfamily J member 4 |hippocampal inward rectifier potassium channel | potassium inwardly- rectifying channel, subfamily J, member 4 | Hippocampal inward rectifier | inward rectifier K+ channel Kir2.3 | HIR | inward rectifier potassium channel 4 | Kir2.3 | Inward rectifier K(+) channel Kir2.3</td><td>N/A</td><td>N/A</td></tr><tr><td>PDCD6IP</td><td>Yes</td><td>apoptosis-linked gene 2-interacting protein X | dopamine receptor interacting protein 4 | ALIX | programmed cell death 6 interacting protein | ALG-2- interacting protein 1 | programmed cell death 6- interacting protein | PDCD6-interacting protein | Hp95 | KIAA1375 | Alix | HP95 | AIP1 |ALG-2 interacting protein 1 | DRIP4</td><td>N/A</td><td>Target of miR-1225-5P</td></tr><tr><td>SNX14</td><td>Yes</td><td>sorting nexin 14 | RGS-PX2 |sorting nexin-14</td><td>N/A</td><td>N/A</td></tr><tr><td>TUBB2B</td><td>Yes</td><td>tubulin beta-2B chain | tubulin, beta polypeptide paralog | MGC8685 | bA506K6.1 | tubulin, beta 2B class IIb | DKFZp566F223 | tubulin, beta 2B | class IIb beta-tubulin |class II beta-tubulin isotype</td><td>Lissencephaly</td><td>N/A</td></tr><tr><td>ZNF41</td><td>Yes</td><td>TUBB |class IIa beta-tubulin | tubulin, beta 2A class IIa | TUBB2 | tubulin, beta polypeptide 2 | tubulin, beta 2 | TUBB2B | dJ40E16.7 | tubulin beta-2A chain | tubulin, beta polypeptide | tubulin, beta 2A</td><td>Aland Island eye disease | mental disorder |intellectual disability</td><td>N/A</td></tr><tr><td>ZNF595</td><td>Yes</td><td>MRX89 |MGC8941 | zinc finger protein 41</td><td>N/A</td><td>N/A</td></tr><tr><td>ZNF676</td><td>Yes</td><td>FLJ31740 | zinc finger protein 595</td><td>N/A</td><td>N/A</td></tr><tr><td>ZNF761</td><td>No</td><td>zinc finger protein 676</td><td>N/A</td><td>N/A</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3527520_table_4",
+   "page_num": 4,
+   "bbox": [
+    80.9,
+    122.0,
+    655.6,
+    690.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3527520_table_4.png",
+   "html": "<table><tr><td>Category</td><td>Term</td><td>*P value (human)</td><td>P value (mouse)</td><td>P value (zebrafish)</td></tr><tr><td>Molecular Function</td><td>GO:0003700,transcription factor activity</td><td>6.88E-07</td><td>0.001685935</td><td>0.002045234</td></tr><tr><td>Molecular Function</td><td>GO:0030528,transcription regulator activity</td><td>2.80E-06</td><td>2.50E-05</td><td>0.001720193</td></tr><tr><td>Biological Process</td><td>GO:0006355,regulation of transcription, DNA-dependent</td><td>4.53E-06</td><td>0.000108619</td><td>0.02130028</td></tr><tr><td>Biological Process</td><td>GO:0051252,regulation of RNA metabolic process</td><td>7.91E-06</td><td>0.000178503</td><td>0.023870388</td></tr><tr><td>Biological Process</td><td>GO:0010556,regulation of macromolecule biosynthetic process</td><td>8.37E-06</td><td>4.96E-07</td><td>0.000915362</td></tr><tr><td>Biological Process</td><td>GO:0060255,regulation of macromolecule metabolic process</td><td>5.89E-05</td><td>7.41E-06</td><td>0.00691373</td></tr><tr><td>Biological Process</td><td>GO:0045449,regulation of transcription</td><td>6.20E-05</td><td>2.37E-06</td><td>0.001790827</td></tr><tr><td>Biological Process</td><td>GO:0031326,regulation of cellular biosynthetic process</td><td>8.41E-05</td><td>1.10E-06</td><td>0.001054761</td></tr><tr><td>Biological Process</td><td>GO:0009889,regulation of biosynthetic process</td><td>0.000119902</td><td>1.33E-06</td><td>0.001088173</td></tr><tr><td>Biological Process</td><td>GO:0080090,regulation of primary metabolic process</td><td>0.000146447</td><td>6.89E-07</td><td>0.002903755</td></tr><tr><td>Biological Process</td><td>GO:0010468,regulation of gene expression</td><td>0.000154686</td><td>1.42E-06</td><td>0.002943972</td></tr><tr><td>Biological Process</td><td>GO:0031323,regulation of cellular metabolic process</td><td>0.00015819</td><td>4.08E-06</td><td>0.002422663</td></tr><tr><td>Biological Process</td><td>GO:0019219,regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</td><td>0.000321532</td><td>7.14E-06</td><td>0.002751033</td></tr><tr><td>Biological Process</td><td>GO:0051171,regulation of nitrogen compound metabolic process</td><td>0.000343647</td><td>6.14E-06</td><td>0.002831208</td></tr><tr><td>Biological Process</td><td>GO:0019222,regulation of metabolic process</td><td>0.000349372</td><td>1.09E-05</td><td>0.011044253</td></tr><tr><td>Biological Process</td><td>GO:0050794,regulation of cellular process</td><td>0.001348476</td><td>0.000766239</td><td>0.009737321</td></tr><tr><td>Biological Process</td><td>GO:0050789,regulation of biological process</td><td>0.00433817</td><td>0.001382295</td><td>0.033481278</td></tr><tr><td>Biological Process</td><td>GO:0065007,biological regulation</td><td>0.022428992</td><td>0.002031998</td><td>0.031603795</td></tr><tr><td>Biological Process</td><td>GO:0007275,multicellular organismal development</td><td>0.035916788</td><td>0.000243142</td><td>0.043621824</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3527520_table_5",
+   "page_num": 5,
+   "bbox": [
+    80.9,
+    122.0,
+    692.8,
+    765.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3527520_table_5.png",
+   "html": "<table><tr><td>Category</td><td>Term</td><td>*P value (human)</td><td>P value (mouse)</td><td>P value (zebrafish)</td></tr><tr><td>Molecular Function</td><td>GO:0003677,DNA binding</td><td>2.52E-07</td><td>0.001016369</td><td>0.022517442</td></tr><tr><td>Biological Process</td><td>GO:0019222,regulation of metabolic process</td><td>5.94E-06</td><td>0.001833053</td><td>0.007240134</td></tr><tr><td>Biological Process</td><td>GO:0031323,regulation of cellular metabolic process</td><td>7.06E-06</td><td>0.001932015</td><td>0.002531781</td></tr><tr><td>Biological Process</td><td>GO:0080090,regulation of primary metabolic process</td><td>8.71E-06</td><td>0.000746433</td><td>0.001635905</td></tr><tr><td>Biological Process</td><td>GO:0060255,regulation of macromolecule metabolic process</td><td>1.52E-05</td><td>0.001021052</td><td>0.015088588</td></tr><tr><td>Cellular Component</td><td>GO:0044464,cell part</td><td>2.64E-05</td><td>0.005138983</td><td>0.021192768</td></tr><tr><td>Cellular Component</td><td>GO:0005623,cell</td><td>2.75E-05</td><td>0.005138983</td><td>0.021192768</td></tr><tr><td>Biological Process</td><td>GO:0009889,regulation of biosynthetic process</td><td>4.64E-05</td><td>0.00153235</td><td>0.001998668</td></tr><tr><td>Biological Process</td><td>GO:0010556,regulation of macromolecule biosynthetic process</td><td>5.07E-05</td><td>0.001133669</td><td>0.004636373</td></tr><tr><td>Biological Process</td><td>GO:0031326,regulation of cellular biosynthetic process</td><td>5.93E-05</td><td>0.001770385</td><td>0.002769539</td></tr><tr><td>Biological Process</td><td>GO:0010468,regulation of gene expression</td><td>6.05E-05</td><td>0.001153647</td><td>0.019089475</td></tr><tr><td>Biological Process</td><td>GO:0019219,regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</td><td>7.45E-05</td><td>0.002835006</td><td>0.006403442</td></tr><tr><td>Biological Process</td><td>GO:0045449,regulation of transcription</td><td>9.02E-05</td><td>0.001133423</td><td>0.009147674</td></tr><tr><td>Biological Process</td><td>GO:0051171,regulation of nitrogen compound metabolic process</td><td>0.000115522</td><td>0.003953563</td><td>0.006560818</td></tr><tr><td>Molecular Function</td><td>GO:0003700,transcription factor activity</td><td>0.000701959</td><td>0.006403948</td><td>0.003113804</td></tr><tr><td>Biological Process</td><td>GO:0051252,regulation of RNA metabolic process</td><td>0.002751656</td><td>0.012593576</td><td>0.006423226</td></tr><tr><td>Biological Process</td><td>GO:0006355,regulation of transcription, DNA-dependent</td><td>0.002836401</td><td>0.008313995</td><td>0.007792617</td></tr><tr><td>Molecular Function</td><td>GO:0030528,transcription regulator activity</td><td>0.003105196</td><td>0.00782068</td><td>0.001014153</td></tr><tr><td>Biological Process</td><td>GO:0031328,positive regulation of cellular biosynthetic process</td><td>0.007428451</td><td>0.007226598</td><td>0.033533698</td></tr><tr><td>Biological Process</td><td>GO:0009891,positive regulation of biosynthetic process</td><td>0.007469104</td><td>0.008740921</td><td>0.033533698</td></tr><tr><td>Biological Process</td><td>GO:0010557,positive regulation of macromolecule biosynthetic process</td><td>0.009196945</td><td>0.003489005</td><td>0.028269774</td></tr><tr><td>Biological Process</td><td>GO:0010628,positive regulation of gene expression</td><td>0.010415711</td><td>0.009098997</td><td>0.021490484</td></tr><tr><td>Biological Process</td><td>GO:0045941,positive regulation of transcription</td><td>0.011143783</td><td>0.00569233</td><td>0.021490484</td></tr><tr><td>Molecular Function</td><td>GO:0005515,protein binding</td><td>0.017163574</td><td>0.000809527</td><td>1.60E-06</td></tr><tr><td>Biological Process</td><td>GO:0045893,positive regulation of transcription, DNA- dependent</td><td>0.02105859</td><td>0.004978895</td><td>0.012497621</td></tr><tr><td>Molecular Function</td><td>GO:0008270,zinc ion binding</td><td>0.022962024</td><td>0.003010259</td><td>0.036242576</td></tr><tr><td>Biological Process</td><td>GO:0048869,cellular developmental process</td><td>0.024154786</td><td>0.006314016</td><td>9.66E-07</td></tr><tr><td>Biological Process</td><td>GO:0051254,positive regulation of RNA metabolic process</td><td>0.024566919</td><td>0.005669422</td><td>0.014428949</td></tr><tr><td>Biological Process</td><td>GO:0030154,cell differentiation</td><td>0.02953709</td><td>0.007655265</td><td>1.65E-06</td></tr><tr><td>Biological Process</td><td>GO:0045935,positive regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process</td><td>0.03326329</td><td>0.011738803</td><td>0.039427105</td></tr><tr><td>Biological Process</td><td>GO:0048468,cell development</td><td>0.033319932</td><td>0.007737614</td><td>0.003006631</td></tr><tr><td>Biological Process</td><td>GO:0051173,positive regulation of nitrogen compound metabolic process</td><td>0.033319932</td><td>0.012196797</td><td>0.04261773</td></tr><tr><td>Biological Process</td><td>GO:0044267,cellular protein metabolic process</td><td>0.042639534</td><td>0.003735008</td><td>0.011732507</td></tr><tr><td>Biological Process</td><td>GO:0001655,urogenital system development</td><td>0.048304941</td><td>0.012438853</td><td>0.04591464</td></tr></table>"
+  }
+ ]
+}

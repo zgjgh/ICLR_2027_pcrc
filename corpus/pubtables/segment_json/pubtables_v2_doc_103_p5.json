@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_103",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    217.1,
+    64.4
+   ],
+   "ocr": "BMC Microbiology 2008, 8:59"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2180/8/59"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    291.9,
+    118.9
+   ],
+   "ocr": "Table 5: emm types associated with distant STs."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    694.9,
+    260.3
+   ],
+   "ocr": "emm No. of emm No. of emm No. of HGT Average no. of Average no. of Average no. of No. of HGT No. of emm\npattern types types involved events HGT events isolates countries events types\nexamined * in HGT involving emm per emm type sampled per sampled per involving the restricted to 1\ntype emm type emm type same emm ST or CC\nallele\nA-C 18 3 3 0.17 7.94 2.78 2 14\nD 40 19^ 24^ 0.60 3.90 2.18 15 15\nE 44 27 33 0.75 5.09 2.28 15 12\nother 3 3 3 1.00 2.67 1.67 0 0\nTotal 105 52 63 n/a n/a n/a 32 41",
+   "table_id": "PMC2359762_table_4"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    276.6,
+    395.1,
+    308.3
+   ],
+   "ocr": "* emm types examined are those whereby 2 or more isolates are present in ^ One emm type (emm93) may not be involved in HGT based on identification Abbreviations: n/a, applicable; CC, clonal complex; HGT, horizontal gene"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    374.9,
+    276.6,
+    694.2,
+    308.3
+   ],
+   "ocr": "the sample set (i.e., sample set of 531 isolates, excluding the 51 singletons). of an intermediate ST in another study [49] transfer; ST, sequence type"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    329.7,
+    372.6,
+    922.4
+   ],
+   "ocr": "– 4 each from the pattern D and E groups – were found in association with ≥ 3 distant STs of distinct CCs, indicative of multiple HGT events involving these emm types. The average mean number of HGT events per emm type is cal- culated as 0.17, 0.60 and 0.75 for the pattern A-C, D and E groups, respectively. Using a 2 × 2 test for independence (Fisher's exact, 2- tailed) with Table 5 data, the difference between the emm pattern A-C and D strain groups in terms of the number of emm types having undergone HGT, versus restriction to a single ST or CC, is significant (p = 0.015). The difference is highly significant between the emm pattern A-C and E strain groups (p < 0.005), but not significant when pattern D and E strains are compared. The strikingly higher number of HGT events uncovered for pattern D and E emm types is not likely a consequence of sampling bias (Table 5). If there was sampling bias, it is expected that more extensive sampling of a given emm type would result in an increase in the number of HGT events detected simply by chance. Yet, the mean average number of isolates sampled per emm type was highest for pattern A-C strains, the group which displayed the fewest HGT events. The average number of countries sampled per emm type was slightly higher for the pattern A-C group as compared to the other subsets (Table 5) and therefore, geographic distance does not appear to explain the higher levels of HGT observed for the pattern D and E groups. For emm types with no HGT detected, irrespective of emm pat- tern group, an average of 2.25 (s.d., 1.24) countries were sampled per emm type, whereas for emm types displaying ≥ 1 HGT event, a similar average of 2.38 (s.d., 0.796) countries were sampled per emm type (data not shown). The findings on HGT of emm indicate that recovery of the same emm type on distant STs is most probable for isolates belonging to the skin specialist (pattern D) and generalist (pattern E) groups. Importantly, the data also show that emm type can be a poor marker for clone (i.e., ST) or"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    329.7,
+    698.4,
+    922.4
+   ],
+   "ocr": "clonal complex (CC). The higher prevalence of HGT of emm type among the pattern D and E groups may be a consequence of higher intrinsic recombination rates, dif- ferent selection pressures and/or a combination of both genetic change and selection effects. Estimate of relative levels of recombination based on housekeeping genes Recovery of STs associated with multiple emm types was highest for throat specialists (Table 4), whereas recovery of emm types associated with multiple STs was highest for generalists (Table 5). Estimates of the relative levels of recombination among housekeeping genes for the emm pattern-defined groups might help to discern between the contribution of genetic change and the effects of selection. The Ka to Ks ratios for each of the 7 housekeeping genes is less than one (range, 0.033 to 0.493; data not shown), and lower than the values obtained for emm type sequences (Table 3). eBURST is a clustering algorithm that has been widely used to assess the mechanisms of genetic change within a bacterial population, based on MLST of housekeeping genes [38]. An estimate of the number of recombination versus mutations events can be made based on the nature of the nt differences between the mismatched allele of a single locus variant (SLV) pair. In a previous report on S. pyogenes, ≥ 28 of the 48 SLVs were attributed to recombi- nation in accordance with a count-based method that was conservative for scoring recombination [23]. In this larger strain sample set of 582 isolates, the same approach used in the prior study was applied; 56 SLVs were detected by eBURST, wherein ≥ 33 genetic changes were estimated to have arisen following recombination (Table 6). The minimum number of recombination events per housekeeping locus per ST was calculated as 0.007, 0.025 and 0.017 for emm pattern groups A-C, D and E, respec- tively (Table 6). These findings are in agreement with the general trend from previous estimates of recombination"
+  },
+  "p5_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 12 (page number not for citation purposes)"
+  }
+ }
+}

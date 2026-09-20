@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_029",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The relationship between nevus count and the risk of developing melanoma has garnered significant attention in recent dermatological research. The data presented in the accompanying table elucidates this link by examining the hazard ratios (HR) associated with high nevus counts, specifically those exceeding 50."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    140
+   ],
+   "ocr": "The findings indicate a hazard ratio of 0.47, which suggests that individuals with a nevus count greater than 50 may have a reduced risk of melanoma compared to those with fewer nevi. This association is further supported by a p-value of 0.03, indicating that the results are statistically significant and unlikely to have occurred by random chance."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    452.0
+   ],
+   "ocr": "Univariable Multivariable\nHR p‐Value 95% CI HR p‐Value 95% CI\nNevus count >50 0.47 0.03 0.24–0.93 0.43 0.02 0.21–0.89\nAge Linear 1.03 <0.001 1.02–1.05 1.02 0.02 1.00–1.04\nBreslow thickness (mm) 1.15 <0.001 1.10–1.19 1.07 0.02 1.01–1.14\nSex (Male vs. female) 1.76 0.02 1.10–2.81 1.60 0.07 0.96–2.65\nSite of primary Head and neck 1 1\nTrunk 0.31 <0.001 0.16–0.56 0.23 <0.001 0.12–0.44\nLimbs 0.45 0.01 0.25–0.81 0.46 0.01 0.25–0.84\nThe presence of ulceration (Yes vs. no) 2.90 <0.001 1.85–4.53 1.30 0.29 0.79–2.14\nTumor mitotic rate (≥5 vs. <5) 4.14 0.000 2.62–6.53 3.00 0.000 1.81–4.97\nSLN status Positive vs. negative 4.41 <0.001 3.38–5.75 3.72 <0.001 2.29–6.04\nCountries United Kingdom 1 1\nSpain 1.20 0.53 0.67–2.14 1.10 0.76 0.59–2.04",
+   "table_id": "img_032178_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    468,
+    580,
+    511
+   ],
+   "ocr": "The 95% confidence interval (CI) ranging from 0.24 to 0.93 reinforces the reliability of this estimate, suggesting that the protective effect of a high nevus count could be meaningful within the studied population. Such insights are crucial for developing targeted screening strategies and informing clinical practices surrounding melanoma risk assessment."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    499,
+    580,
+    542
+   ],
+   "ocr": "Overall, the table serves as a critical resource for understanding the nuanced interplay between nevus count and melanoma incidence, highlighting the importance of continued research in this area to refine our preventive approaches."
+  }
+ }
+}

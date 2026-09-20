@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_305",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.0,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2009, 10:46"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/10/46"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    834.3
+   ],
+   "ocr": "with dual processor packages, a 20-core cluster is within the means of most research groups. Running times for index construction for the three differ- ent configurations are shown in Table 5. Lucene, which was not designed to run on a cluster, takes over a day to build the span index (containing 12.6 million spans). With either cluster configurations, indexing takes less than an hour. These figures should be interpreted with the caveat that Lucene builds a richer index that supports complex query operators and that I am comparing a single core to clusters. However, the point is that Lucene cannot be easily adapted to run on multiple machines and thus indexing speed is fundamentally bound by the disk band- width of one machine. A cluster can take advantage of the aggregate disk bandwidth of many machines, and MapRe- duce provides a convenient model for organizing these disk operations (see Section 5.3). The speedup demonstrated by Ivory is important because time for inverted index construction places an upper bound on how fast a researcher can explore the solution space for algorithms that require manipulating the index. Since research in information retrieval is fundamentally empirical in nature, progress is driven by iterative experi- mentation. Thus, exceedingly long experimental cycles represent a potential impediment to advances in the state of the art. In terms of retrieval, running times on the entire set of 36 topics from the TREC 2007 genomics track are shown in Table 6. The gains in efficiency are not quite as dramatic, but still substantial. In its present implementation, Ivory was designed for batch-style experiments, not real-time retrieval (see Section 5.3 for more discussion). These numbers are therefore only presented for reference, and should not be taken as indicative of efficiency in opera- tional settings (where techniques such as caching can greatly reduce retrieval latency). My experiments prima- rily focus on indexing efficiency, which is more important for the issues explored in this study. Taking advantage of full-text content requires more com- putational resources to cope with the increased quantities of data. Inevitably, full-text collections will outgrow retrieval systems designed to run on single machines – Table 5: Time required for index construction, comparing Lucene to different Ivory configurations."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    892.7
+   ],
+   "ocr": "necessitating the development of distributed algorithms. The MapReduce framework provides a practical solution for distributed text retrieval. Discussion Is searching full text more effective than searching abstracts? The answer appears to be yes. Furthermore, experimental results suggest that span-level analysis pro- vides a promising strategy for taking advantage of full-text content. Whereas simply treating entire articles as index- ing units yields mixed results, span retrieval consistently outperforms abstract retrieval. Combining span- and arti- cle-level evidence yields the highest effectiveness across a range of experimental conditions. Why does span retrieval work? Further analysis of results in Section 2.5 reveals some interesting observations. Focusing on the \"max\" strategy, Table 1 shows that, over- all, span retrieval has a relatively small effect on precision (seen in the P20 scores), but a large impact on recall (seen in the IP@R50 scores). This makes sense: key ideas in an article are likely reinforced multiple times, often in slightly different ways. This potentially alleviates mis- matches between query terms and terms used by authors – in essence, span indexing gives a retrieval algorithm multiple opportunities to identify a relevant article. This enhanced recall leads to higher overall effectiveness in terms of MAP. In general, the \"max\" strategy for generating article rank- ings from span rankings appears to be more effective than the \"sum\" strategy. Why is this so? One possibility is the issue of length normalization. In the current implementa- tion, longer articles tend to have higher scores simply because they contain more spans; thus, there is an inher- ent bias in the \"sum\" strategy. Length normalization plays an important role in text retrieval [37,38], but I leave a thorough exploration of this issue for future work. The findings in this article pave the way for future advances in full-text retrieval algorithms for the life sci- ences, which can draw from a wealth of previous work in the information retrieval literature on passage retrieval, XML retrieval, etc. In fact, the effectiveness of span retrieval confirms a well-known finding: ranking algo- rithms benefit from techniques that exploit document structure, particularly for longer documents. Remaining focused on the problem of using full-text con- tent to improve article ranking, how in general can article structure be exploited? Within the space of \"bag of words\" models, strategies can be organized in terms of two ques- tions:"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    845.5,
+    367.5,
+    911.3
+   ],
+   "ocr": "Lucene (1 core) Ivory (10 cores) Ivory (20 cores)\nAbstract 1 h 00 m 58 s 1 m 32 s 1 m 07 s\nArticle 19 h 09 m 23 s 17 m 21 s 9 m 57 s\nSpan 27 h 10 m 46 s 39 m 58 s 24 m 56 s",
+   "table_id": "PMC2695361_table_4"
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 15 (page number not for citation purposes)"
+  }
+ }
+}

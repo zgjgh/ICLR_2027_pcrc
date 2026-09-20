@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_396",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Online Adaptation of a c-VEP BCI"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.6,
+    375.8,
+    659.5
+   ],
+   "ocr": "Details on Code-modulated VEPs To see, on which channel the c-VEP is strongest and can be classified best, classification accuracies were estimated by using only one channel. The accuracies have been estimated for each subject separately with a leave-one-out cross-validation without the use of CCA by just using the classical correlation approach [4] for classification. It shows that the accuracy is highest at electrodes P4 and PO3 with an average accuracy of 73.2% and 72.6%, respectively. The average accuracy for each channel is shown in figure 5. The average c-VEP waveform on the subject’s individual best channel is also shown in figure 5. To estimate the delay of the c-VEP, the cross-correlation of the average c-VEP with the modulation sequence was computed. It was highest for a 36 ms delay of the c-VEP with r~0:41. ErrP-based Calibration Normally, calibration is done supervised and therefore no accuracies and bitrates are presented. But in contrast to a supervised calibration, the user can transfer information during a ErrP-based calibration and therefore classification accuracies and corresponding information transfer rates are of interest. During the ErrP-based calibration, on average 85.94% of the targets were classified correctly, which corresponds to an average bitrate of 18.28 bit/min (taking into account that only 2 targets can be chosen). For subject AD no ErrPs were detected and therefore she achieved an average accuracy of 43.75%, which is below chance level (50%). An overview of the results for the c-VEP classification during the ErrP-based calibration is shown in table 4. In figure 6 the c-VEP classification accuracy over the course of the 64 trials of the calibration is shown. For better viewing the data was smoothed. It can be seen, that during 3 calibrations (AA02, AG001, AG002) a near perfect accuracy was reached with no errors being made after the 10th trial. With exception of subject AD, sufficient accuracy was reached after 25 trials, which takes less than 1 minute. The dashed bold black line in figure 6 depicts the average accuracy excluding subject AD. It can be seen that this average accuracy is close to the average accuracy obtained by the simulated calibrations with supervised adaptation (depicted by the gray line in figure 6), showing that an ErrP-based calibration can reach similar accuracies as a supervised calibration. The ErrP-based calibration was also tested with the subject’s being instructed to freely choose the letters, but due to the nature of this instruction, we can not show accuracies for calibrations with"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    406.0,
+    81.4,
+    698.3,
+    106.0
+   ],
+   "ocr": "Table 4. Results for the c-VEP classification during the ErrP- based calibration."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    135.1,
+    684.7,
+    267.9
+   ],
+   "ocr": "ITR [bit/\nSubject Errors Correct Trials Accuracy min]\nAA001 12 116 128 90.63% 17.24\nAA002 2 126 128 98.44% 27.42\nAD001 72 56 128 43.75% 0\nAG001 2 62 64 96.88% 25.21\nAG002 3 61 64 95.31% 22.56\nAI001 12 116 128 90.63% 17.25\naverage 85.94% 18.28",
+   "table_id": "PMC3517594_table_3"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    281.1,
+    700.8,
+    663.2
+   ],
+   "ocr": "Number of erroneus, correct and total trials, accuracy and corresponding bitrate for the c-VEP classification during the 6 ErrP-based calibrations. For 2 subjects (AA, AG) 2 ErrP-based calibrations were performed. doi:10.1371/journal.pone.0051077.t004 this instruction. It still should be mentioned that the subjects perceived no difference in the accuracy of both methods. The classifier obtained during the ErrP-based calibration was not tested with 32 targets, but due to the design of the c-VEP BCI with its circular-shifted code, the calibration on two targets is enough to use the c-VEP BCI system with 32 targets. Prior to this study, we tested the a classifier based on a supervised calibration with 2 targets on a system with 32 targets. One subject participated in this non-representative test, and achieved an accuracy of 100% over 64 trials, which shows that calibration on 2 targets is sufficient to use the system with 32 targets. Details on Error-related Potentials The accuracies for detecting the ErrPs during the ErrP-based adaptation can be seen in table 5, with an average accuracy of 96.67% and an average sensitivity of 69.31%. The sensitivity refers to the percentage of ErrPs correctly identified, while specificity refers to the percentage of trials without ErrP that are classified correctly. The accuracies for detecting ErrPs during the ErrP- based calibration can be seen in table 6, where an average accuracy of 86.2% was achieved with a sensitivity of 45.83%. It should be noted that for subject AD no ErrP was classified although 43.75% of the trials were erroneus. There is a negative correlation between the number of ErrP trials in the data used for"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    882.5,
+    403.0,
+    926.5
+   ],
+   "ocr": "Figure 5. Average c-VEP waveform for target T0 A: Average waveform depicted by the colored lines. The average c-VEP over all subjects is shown over all subjects. Accuracy was estimated with the same method that was doi:10.1371/journal.pone.0051077.g005"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    396.0,
+    882.5,
+    700.8,
+    916.0
+   ],
+   "ocr": "of the elicited c-VEP at electrode P4. The subjects’ average c-VEP are by the black bold line. B: Estimated accuracy for one channel averaged previously used for finding the best channel Cb."
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p3_b8": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "7 December 2012 | Volume 7 | Issue 12 | e51077"
+  }
+ }
+}

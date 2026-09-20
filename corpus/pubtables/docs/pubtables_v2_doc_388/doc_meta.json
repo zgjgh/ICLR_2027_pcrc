@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_388",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3420876_table_0",
+   "page_num": 1,
+   "bbox": [
+    80.9,
+    122.0,
+    328.6,
+    354.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3420876_table_0.png",
+   "html": "<table><tr><td>lncRNA</td><td>ORF in aa</td></tr><tr><td>enod40</td><td>0</td></tr><tr><td>COLDAIR</td><td>34</td></tr><tr><td>COOLAIR_short</td><td>38</td></tr><tr><td>COOLAIR_long</td><td>43</td></tr><tr><td>linc1257</td><td>68</td></tr><tr><td>NRON</td><td>71</td></tr><tr><td>HOTTIP</td><td>86</td></tr><tr><td>NEAT1</td><td>97</td></tr><tr><td>RepA</td><td>105</td></tr><tr><td>HOTAIR</td><td>106</td></tr><tr><td>AIR</td><td>112</td></tr><tr><td>XIST</td><td>136</td></tr><tr><td>TSIX</td><td>151</td></tr><tr><td>KCNQ1QT</td><td>289</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3420876_table_1",
+   "page_num": 2,
+   "bbox": [
+    80.9,
+    122.0,
+    651.5,
+    448.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3420876_table_1.png",
+   "html": "<table><tr><td>Full-length cDNA ID</td><td>Sequence with highest scoring alignment</td><td>% coverage</td><td>% identity</td><td>direction</td></tr><tr><td>Z27kG1_18025</td><td>gb|GQ905509.1| Zea mays clone zma-miR159a-2 precursor</td><td>99%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_17060</td><td>gb|GQ905546.1| Zea mays clone zma-miR168b precursor</td><td>90%</td><td>99%</td><td>sense</td></tr><tr><td>Z27kG1_17126</td><td>b|GQ905514.1| Zea mays clone zma-miR160a precursor</td><td>82%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_06696</td><td>gb|GQ905605.1| Zea mays clone zma-miR394b-2 precursor</td><td>71%</td><td>99%</td><td>sense</td></tr><tr><td>Z27kG1_12681</td><td>gb|GQ905528.1| Zea mays clone zma-miR166b-2 precursor</td><td>59%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_16032</td><td>gb|GQ905515.1| Zea mays clone zma-miR160b precursor</td><td>57%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_17306</td><td>gb|GQ905546.1| Zea mays clone zma-miR168b precursor</td><td>49%</td><td>99%</td><td>sense</td></tr><tr><td>Z27kG1_09597</td><td>b|GQ905553.1| Zea mays clone zma-miR169c precursor</td><td>47%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_08877</td><td>gb|GQ905563.1| Zea mays clone zma-miR169j-4 precursor</td><td>46%</td><td>100%</td><td>antisense</td></tr><tr><td>Z27kG1_22830</td><td>gb|GQ905563.1| Zea mays clone zma-miR169j-4 precursor</td><td>36%</td><td>100%</td><td>antisense</td></tr><tr><td>Z27kG1_23905</td><td>gb|GQ905575.1| Zea mays clone zma-miR171j_5prime-1 precursor</td><td>27%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_15711</td><td>gb|GQ905520.1| Zea mays clone zma-miR162-2 precursor</td><td>21%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_02106</td><td>gb|GQ905557.1| Zea mays clone zma-miR169h_3prime precursor</td><td>18%</td><td>100%</td><td>antisense</td></tr><tr><td>Z27kG1_02804</td><td>gb|GQ905543.1| Zea mays clone zma-miR167g_5prime precursor</td><td>17%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_08524</td><td>gb|GQ905590.1| Zea mays clone zma-miR319b_5prime-1 precursor</td><td>16%</td><td>100%</td><td>sense</td></tr><tr><td>Z27kG1_22328</td><td>gb|GQ905572.1| Zea mays clone zma-miR171f_3prime-1 precursor</td><td>12%</td><td>99%</td><td>sense</td></tr><tr><td>Z27kG1_19659</td><td>gb|GQ905533.1| Zea mays clone zma-miR166k/m precursor</td><td>10%</td><td>83%</td><td>sense</td></tr><tr><td>Z27kG1_02711</td><td>gb|GQ905546.1| Zea mays clone zma-miR168b precursor</td><td>7%</td><td>94%</td><td>sense</td></tr><tr><td>Z27kG1_09008</td><td>No hit to precursor</td><td>n/a</td><td>n/a</td><td>n/a</td></tr><tr><td>Z27kG1_07922</td><td>Zea mays indeterminate spikelet 1 (ids1) mRNA</td><td>92%</td><td>99%</td><td>sense</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3420876_table_2",
+   "page_num": 2,
+   "bbox": [
+    80.9,
+    834.8,
+    692.3,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3420876_table_2.png",
+   "html": "<table><tr><td>ncRNA type</td><td>No. transcripts</td><td>No. transcripts with homology to more than one small RNA</td></tr><tr><td>miRNA precursor</td><td>19</td><td>14</td></tr><tr><td>shRNA precursor</td><td>237</td><td>207</td></tr><tr><td>siRNA precursor</td><td>1225</td><td>724</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3420876_table_3",
+   "page_num": 3,
+   "bbox": [
+    80.9,
+    798.4,
+    645.2,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3420876_table_3.png",
+   "html": "<table><tr><td>ncRNA type</td><td>No. transcripts with homology to Mop1-sensitive siRNAs</td></tr><tr><td>Genic miRNA precursor</td><td>1</td></tr><tr><td>Genic shRNA precursor</td><td>26</td></tr><tr><td>Genic siRNA precursor</td><td>46</td></tr><tr><td>Intergenic miRNA precursor</td><td>2</td></tr><tr><td>Intergenic shRNA precursor</td><td>97</td></tr><tr><td>Integenic siRNA precursor</td><td>110</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3420876_table_4",
+   "page_num": 4,
+   "bbox": [
+    80.9,
+    608.1,
+    674.2,
+    893.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3420876_table_4.png",
+   "html": "<table><tr><td></td><td>miRNA</td><td>shRNA</td><td>siRNA</td><td>lncRNA</td></tr><tr><td>Sequences</td><td>3</td><td>60</td><td>505</td><td>572</td></tr><tr><td>Total length (bp)*</td><td>4013</td><td>72968</td><td>511621</td><td>476532</td></tr><tr><td>GC level</td><td>49.84%</td><td>53.52%</td><td>53.14%</td><td>54.73%</td></tr><tr><td rowspan=\"2\">Base pairs masked (% of total)</td><td>140 (3.49%)</td><td>9464 (12.97%)</td><td>28070 (5.49%)</td><td>12458 (2.61%)</td></tr><tr><td># elements (bases masked)</td><td># elements (bases masked)</td><td># elements (bases masked)</td><td># elements (bases masked)</td></tr><tr><td>SINEs</td><td>0 (0)</td><td>0 (0)</td><td>3 (238)</td><td>3 (354)</td></tr><tr><td>LINEs</td><td>0 (0)</td><td>2 (659)</td><td>2 (599)</td><td>3 (1098)</td></tr><tr><td>LTRs</td><td>0 (0)</td><td>20 (5750)</td><td>52 (13320)</td><td>9 (1431)</td></tr><tr><td>DNA transposons</td><td>0 (0)</td><td>10 (1957)</td><td>34 (6013)</td><td>8 (1484)</td></tr><tr><td>Unclassified</td><td>0 (0)</td><td>1 (60)</td><td>8 (1100)</td><td>4 (563)</td></tr><tr><td>Small RNA</td><td>0 (0)</td><td>0 (0)</td><td>3 (238)</td><td>3 (354)</td></tr><tr><td>Satellites</td><td>0 (0)</td><td>0 (0)</td><td>0 (0)</td><td>0 (0)</td></tr><tr><td>Simple repeats</td><td>4 (115)</td><td>11 (418)</td><td>88 (4237)</td><td>81 (4100)</td></tr><tr><td rowspan=\"2\">Low complexity</td><td>1 (25)</td><td>16 (620)</td><td>68 (2563)</td><td>112 (3248)</td></tr><tr><td>Bases masked (% of total)</td><td>Bases masked (% of total)</td><td>Bases masked (% of total)</td><td>Bases masked (% of total)</td></tr><tr><td>Total interspersed repeats</td><td>0 (0)</td><td>8426 (11.6)</td><td>21270 (4.2)</td><td>4930 (1)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3420876_table_5",
+   "page_num": 5,
+   "bbox": [
+    80.9,
+    122.0,
+    674.2,
+    407.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3420876_table_5.png",
+   "html": "<table><tr><td></td><td>miRNA</td><td>shRNA</td><td>siRNA</td><td>lncRNA</td></tr><tr><td>Sequences</td><td>16</td><td>177</td><td>720</td><td>439</td></tr><tr><td>Total length (bp)*</td><td>25993</td><td>258071</td><td>928982</td><td>434240</td></tr><tr><td>GC level</td><td>46.84%</td><td>51.6%</td><td>50.73%</td><td>51.39%</td></tr><tr><td rowspan=\"2\">Bases masked (% of total)</td><td>2065 (7.94%)</td><td>88239 (34.19%)</td><td>117546 (12.65%)</td><td>16876 (3.89%)</td></tr><tr><td># elements (bases masked)</td><td># elements (bases masked)</td><td># elements (bases masked)</td><td># elements (bases masked)</td></tr><tr><td>SINEs</td><td>0 (0)</td><td>1 (96)</td><td>2 (125)</td><td>2 (241)</td></tr><tr><td>LINEs</td><td>2 (204)</td><td>3 (344)</td><td>25 (9950)</td><td>9 (1377)</td></tr><tr><td>LTRs</td><td>4 (1325)</td><td>124 (70873)</td><td>174 (70266)</td><td>23 (5325)</td></tr><tr><td>DNA transposons</td><td>2 (350)</td><td>43 (10507)</td><td>115 (25314)</td><td>18 (3739)</td></tr><tr><td>Unclassified</td><td>0 (0)</td><td>12 (1016)</td><td>21 (5302)</td><td>9 (995)</td></tr><tr><td>Small RNA</td><td>0 (0)</td><td>5 (3431)</td><td>2 (125)</td><td>2 (241)</td></tr><tr><td>Satellites</td><td>0 (0)</td><td>0 (0)</td><td>10 (1453)</td><td>2 (156)</td></tr><tr><td>Simple repeats</td><td>5 (186)</td><td>23 (1088)</td><td>78 (4041)</td><td>57 (2410)</td></tr><tr><td rowspan=\"2\">Low complexity</td><td>0 (0)</td><td>29 (980)</td><td>82 (3218)</td><td>78 (2633)</td></tr><tr><td>Bases masked (% of total)</td><td>Bases masked (% of total)</td><td>Bases masked (% of total)</td><td>Bases masked (% of total)</td></tr><tr><td>Total interspersed repeats</td><td>1879 (7.23%)</td><td>82836 (32.1%)</td><td>110957 (11.9%)</td><td>11677 (2.7%)</td></tr></table>"
+  }
+ ]
+}

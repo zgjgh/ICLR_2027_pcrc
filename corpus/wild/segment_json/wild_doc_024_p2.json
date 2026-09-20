@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_024",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The analysis presented in the accompanying table examines the impact of varying correlation coefficients on the behavior of normally distributed errors. Specifically, the columns labeled ρ = 0, ρ = .2, ρ = .5, and ρ = .7 illustrate different scenarios of correlation among the error terms, providing insights into how these relationships influence the overall outcome of statistical models."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "For instance, as the correlation coefficient increases, one can observe notable changes in the variance and standard deviation of the error terms, which are critical metrics for evaluating the reliability and accuracy of predictive models. The table underscores the importance of understanding correlation in the context of normal errors, as it directly affects the assumptions underlying many statistical techniques."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    552.0
+   ],
+   "ocr": "Test Design 1 (D1) Design 2 (D2)\nρ = 0 ρ = .2 ρ = .5 ρ = .7 ρ = 0 ρ = .2 ρ = .5 ρ = .7\nNormal errors\nWald .0674 .0728 .0854 .0808 .0612 .0697 .1000 .1130\nParametric bootstrap\nB = 100 .0503 .0503 .0522 .0500 .0513 .0510 .0529 .0540\nB = 200 .0513 .0522 .0507 .0544 .0460 .0489 .0508 .0537\nSemi‐parametric bootstrap\nB = 100 .0513 .0519 .0522 .0541 .0457 .0462 .0465 .0510\nB = 200 .0494 .0479 .0505 .0499 .0508 .0475 .0458 .0561\nContaminated normal errors\nWald .0522 .0625 .0820 .0917 .0547 .0688 .1071 .1223\nParametric bootstrap\nB = 100 .0434 .0483 .0475 .0559 .0411 .0448 .0615 .0698\nB = 200 .0382 .0411 .0494 .0612 .0391 .0425 .0552 .0677\nSemi‐parametric bootstrap\nB = 100 .0442 .0436 .0506 .0508 .0392 .0446 .0544 .0577\nB = 200 .0428 .0432 .0464 .0518 .0408 .0456 .0587 .0584",
+   "table_id": "img_026048_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    568,
+    580,
+    595
+   ],
+   "ocr": "With ρ = 0 representing a scenario of no correlation, the subsequent values demonstrate how increasing levels of correlation can lead to more complex dependencies among the errors, ultimately impacting model performance."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    583,
+    580,
+    641
+   ],
+   "ocr": "This analysis is essential for practitioners seeking to refine their modeling approaches and ensure robust interpretations of data. As the field advances, recognizing the implications of these varying correlation coefficients will be crucial for enhancing the validity of statistical inferences drawn from empirical research."
+  }
+ }
+}

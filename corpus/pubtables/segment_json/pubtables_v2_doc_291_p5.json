@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_291",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    210.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9:177"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/177"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    372.7,
+    118.9
+   ],
+   "ocr": "Table 7: Top 20 gene sets with high prediction accuracy (analysis"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    375.6,
+    107.2,
+    457.3,
+    118.9
+   ],
+   "ocr": "with six datasets)"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    687.8,
+    416.0
+   ],
+   "ocr": "Gene set category GTG GTP PTG PTP accurary sensitivity specificity\n11823860_ST2 br 3175 1325 559 746 0.6755 0.7056 0.5716\ntransferase activity mf 3264 1236 658 647 0.6737 0.7253 0.4958\nligase activity mf 3204 1296 633 672 0.6677 0.712 0.5149\n11823860_ST3 br 3200 1300 632 673 0.6672 0.7111 0.5157\ntranscription factor activity mf 3268 1232 701 604 0.667 0.7262 0.4628\n16141321_SDC2 br 3169 1331 607 698 0.6661 0.7042 0.5349\noxidoreductase activity mf 3209 1291 648 657 0.666 0.7131 0.5034\n14737219_CSR br 3165 1335 606 699 0.6656 0.7033 0.5356\n12917485_ST9 br 3162 1338 611 694 0.6643 0.7027 0.5318\ncatalytic activity mf 3209 1291 661 644 0.6637 0.7131 0.4935\nRNA polymerase II transcription factor activity mf 3235 1265 689 616 0.6634 0.7189 0.472\ntransport bp 3186 1314 645 660 0.6625 0.708 0.5057\ntranscription bp 3241 1259 701 604 0.6624 0.7202 0.4628\ntransporter activity mf 3171 1329 631 674 0.6624 0.7047 0.5165\n14737219_USR br 3094 1406 555 750 0.6622 0.6876 0.5747\n12917485_ST7 br 3140 1360 602 703 0.662 0.6978 0.5387\nATP binding mf 3185 1315 647 658 0.662 0.7078 0.5042\nkinase activity mf 3205 1295 669 636 0.6617 0.7122 0.4874\nmetabolism bp 3199 1301 666 639 0.6612 0.7109 0.4897\nregulation of progression through cell cycle bp 3108 1392 575 730 0.6612 0.6907 0.5594",
+   "table_id": "PMC2364634_table_6"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    432.2,
+    395.8,
+    699.6
+   ],
+   "ocr": "*category: br – breast and other cancer gene set; mf – molecular functions; **GTG – Good prognosis group predicted as Good; GTP – Good prognosis Good; PTP – Poor prognosis group identified as Poor ^ accuracy = (GTG+ PTP)/(GTP+GTP+PTG+PTP); sensitivity = Our gene sets approach is fundamentally different from previous methods in that our method doesn't try to build a single gene set from gene expression and clinical data as previous methods did [2,3,13]. Instead, our method begins from multiple gene sets and datasets and exhaus- tively searches for the best gene set among the given gene 2500 P = 1.34 x 10-5 2000 size 1500 set"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    344.4,
+    432.2,
+    698.4,
+    892.7
+   ],
+   "ocr": "bp – biological processes group predicted as Poor; PTG – Poor prognosis group identified as GTG/(GTG+GTP); specificity = PTP/(PTG+PTP) sets. As more gene sets and datasets accumulate, our method always finds out a better gene set than before. Another advantage of our gene sets approach is that it assists us to understand the underlying biology of the clin- ical outcome because many gene sets are prepared using biological knowledge such as pathways, gene ontology, and protein domains [12,21,22]. In the analysis of breast cancer datasets, cell cycle or proliferation gene sets were the best for prognosis of survival or recurrence as judged by the log-rank test (Table 4). This result is in agreement with many previous studies showing that cell prolifera- tion signatures are the best predictors of prognosis of breast cancer patients [1,2,12-16,18,24,29,30]. Because poor overlap among independently developed prognostic gene sets has raised concerns over this type of diagnostic tool [10,11], we examined the degree of over- lap among the top 20 prognostic gene sets identified in our study. Again, we found relatively poor overlap among them, thus confirming previous results (data not shown). However, poor overlap among gene sets may not be as serious a problem as previously thought if different gene sets represent similar biological pathways and are congru- ent on outcome prediction [30-32]. This point was recently emphasized by Fan et al. [26] who showed con- gruence among four different gene expression-based pre- dictors for breast cancer."
+  },
+  "p5_b7": {
+   "type": "title",
+   "bbox": [
+    71.5,
+    690.0,
+    116.0,
+    732.9
+   ],
+   "ocr": "1000 Gene"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    719.5,
+    369.4,
+    912.2
+   ],
+   "ocr": "500 0 PROG PRED Figure sets Comparison (group 2 1) of and gene best set gene sizes predictive between best sets prognostic (group 2) gene Comparison of gene set sizes between best prognos- tic gene sets (group 1) and best gene predictive sets (group 2). The number of genes in top 20 gene sets for group discrimination (PROG) and top 20 gene sets for pre- diction accuracy (PRED) is box plotted. P-value was inferred from an unpaired t-test."
+  },
+  "p5_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 11 (page number not for citation purposes)"
+  }
+ }
+}

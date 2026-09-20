@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_289",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    272.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9(Suppl 3):S2"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    445.3,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/S3/S2"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    239.9,
+    118.9
+   ],
+   "ocr": "Table 2: Statistics of the dictionaries"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    132.6,
+    663.1,
+    231.6
+   ],
+   "ocr": "Dictionary #Concept IDs #Terms Ambiguity Variability\nGene/protein name dictionary (original) 14,893 205,909 5.715 13.826\nGene/protein name dictionary (reduced) 14,882 174,162 1.000 11.703\nDisease dictionary (original) 48,391 148,531 1.005 3.069\nDisease dictionary (reduced) 48,391 147,859 1.000 3.056",
+   "table_id": "PMC2352870_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    270.4,
+    372.6,
+    912.3
+   ],
+   "ocr": "nonsensical (e.g. IDs for other databases). The resulting dictionary consisted of 14,893 concept IDs and 205,909 terms. The disease dictionary was created from UMLS Metathe- saurus [23], which is a large multi-lingual vocabulary database that contains biomedical and health related con- cepts and their various names. We extracted all entries that were associated with the semantic type “Disease or Syn- drome.” The resulting dictionary consisted of 48,391 con- cept IDs and 148,531 terms. Table 2 shows statistics of the dictionaries. Note that the terms in the gene/protein dictionary are highly ambigu- ous in the first place. For evaluation purpose, we also cre- ated a reduced version for each dictionary by removing all ambiguous terms. Evaluation using held-out terms As discussed in the Methods section, we create normaliza- tion rules in such a way that they minimize the variability and ambiguity of the terms in the dictionary. We thus know that they are “good” rules for the terms included in the dictionary. It is, however, not clear if those rules are also appropriate for the terms that are not included in the dictionary. In other words, we need to evaluate how the discovered rules will help map unseen terms with their cor- rect concept IDs. One way of evaluating such performance is to use a held- out data set for evaluation. Before executing a rule discov- ery process, we remove some randomly selected terms from the dictionary and keep them as separate data. We then execute the rule discovery process. The mapping per- formance is then evaluated by applying the discovered rules also to the held-out terms and looking them up in the dictionary, where the lookup system produces, for each heldout term, zero or more concept IDs by exact string matching. The overall lookup performance can be evaluated in terms of precision and recall. Precision is given by n"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    270.4,
+    698.3,
+    348.5
+   ],
+   "ocr": "where nm is the total number of concept IDs output by the lookup system, and nc is the total number of correct con- cept IDs output by the system. Recall is given by n"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    507.1,
+    338.4,
+    698.4,
+    357.3
+   ],
+   "ocr": "( recall )= c , (5)"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    350.3,
+    698.4,
+    981.2
+   ],
+   "ocr": "nh where nh is the number of heldout terms. With these performance measures, we carried out several sets of experiments for automatic rule discovery. Through- out all experiments reported in this paper, we set the tradeoff parameter α in Equation 3 to 0.1. All capital let- ters in the terms are converted to lower case before apply- ing our rule discovery algorithm. Table 3 shows the result for the human gene/protein dic- tionary. We used the reduced version of the dictionary in this experiment in order to make clear how normalization affects the precision of lookup performance (i.e. the lookup precision without normalization is ensured to be 100%). We used 1,000 heldout terms for evaluation. The first column shows the iteration counts of the rule discov- ery process. The second column shows the values of ambi- guity and variability in the dictionary. The third column shows the rules discovered. The fourth column shows the lookup performance evaluated using the heldout terms. The table clearly shows that the recall of lookup improved as we applied the discovered rules to the terms. More importantly, the degradation of precision was kept mini- mal. The discovered rules indicate that some technical words such as ‘protein’, ‘precursor’, ‘variant’ and ‘hypo- thetical’ are not important in conceptually characterizing a term and thus can be safely removed. The 14th rule is concerned with the acronym ‘il’. The rule effectively con- verts its long form ‘interleukin’ into the acronym. Some of the rules capture synonymous expressions. For example, the 25th rule replaces the word ‘subunit’ with ‘chain’. Table 4 shows the result for the (reduced) disease diction- ary. Again, the discovered rules improved the recall of lookup performance without causing a significant deteri- oration of precision. The rules discovered were very differ- Page 5 of 10 (page number not for citation purposes)"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    171.9,
+    903.1,
+    372.6,
+    920.6
+   ],
+   "ocr": "( precision )= c , (4)"
+  },
+  "p2_b9": {
+   "type": "title",
+   "bbox": [
+    247.8,
+    914.1,
+    255.6,
+    930.6
+   ],
+   "ocr": "n"
+  },
+  "p2_b10": {
+   "type": "title",
+   "bbox": [
+    255.3,
+    923.6,
+    260.9,
+    931.9
+   ],
+   "ocr": "m"
+  }
+ }
+}

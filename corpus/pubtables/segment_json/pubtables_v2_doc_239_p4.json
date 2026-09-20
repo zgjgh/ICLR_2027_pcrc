@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_239",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    529.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Integrated predictor of coronary heart disease"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    97.9,
+    727.3,
+    749.6
+   ],
+   "ocr": "Table 4. Testing of integrated genetic-epigenetic ensemble. The confusion matrix of the integrated genetic-epige- netic ensemble of eight models on the test dataset consisting of 142 individuals. Predicted TRUE CHD absent CHD present CHD absent 57 14 CHD present 18 53 https://doi.org/10.1371/journal.pone.0190549.t004 CHD. Of the 142 individuals (71 with and 71 without symptomatic CHD) in the test dataset, the CHD status of 110 individuals was predicted correctly, resulting in a test accuracy of 77.5%. The confusion matrix of the prediction is shown in Table 4. The test set sensitivity and specificity of the ensemble was 0.75 and 0.80, respectively. When the ensemble was tested on the full test set of n = 669, the sensitivity held and the specificity increased to 0.82. To understand the variance of each of the four CpG sites captured by the conventional risk factors, using training set data, regression analysis was performed and the results are summa- rized in S2 File. Briefly, as shown in this supporting file, these four CpG sites are significantly associated with age, gender, total cholesterol, cg05575921 smoking or HbA1c. This suggests that each CpG site can be linked to risk factors that commonly assessed. Furthermore, to deter- mine if relatedness may have contributed to the observed performance of the models, addi- tional analysis and results are described in S3 File. Results provided in the form of visualization and logistic regression in this supporting file suggest that relatedness did not influence the pre- diction accuracy of the model in the test set. Additionally, the list of genome-wide DNA methylation signatures associated with statin use, controlling for age, gender, batch and CHD status, which was obtained using training set data was compared to the list of the four CpG sites. As shown in Table 5, after correction for multiple comparisons, statin use was significantly associated with seven CpG sites. However, this list did not include any of the four CpGs contained within the integrated genetic-epige- netic model. The nominal p-values prior to correction for multiple comparisons of the four CpG sites were 0.002, 0.908, 0.109 and 0.015 for cg26910465, cg11355601, cg16410464 and cg12091641, respectively. Conventional CHD risk factor model To compare the performance of our integrated genetic-epigenetic model to the performance of conventional CHD risk factors in predicting CHD status, another eight RF models were built using age, gender, SBP, HbA1c, total cholesterol, self-reported smoking and HDL choles- terol as predictors. Again, using tuned parameters, the eight RF models were built on the training dataset and tested on the test dataset. The performance metrics (mean and standard Table 5. DNA methylation and statin use. All significant methylation sites associated with statin use after Bonferroni correction for multiple comparisons using training set data."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    68.3,
+    758.2,
+    700.0,
+    878.8
+   ],
+   "ocr": "CpG Beta Gene Chr Position Island Status Corrected p-value\ncg17901584 -4.59E-01 DHCR24 1 TSS1500 S_Shore 3.53E-12\ncg06500161 4.43E-01 ABCG1 21 Body S_Shore 9.30E-11\ncg05119988 -3.30E-01 SC4MOL 4 5’UTR S_Shelf 5.22E-04\ncg19751789 -3.23E-01 LDLR 19 TSS200 N_Shore 1.54E-03\ncg27243685 3.01E-01 ABCG1 21 Body S_Shelf 1.87E-02\ncg01185530 -2.58E-01 DNAJC3 13 5’UTR Island 2.81E-02\ncg11072882 -2.74E-01 FAM47E 4 Body Island 4.97E-02",
+   "table_id": "PMC5749823_table_4"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    236.2,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190549.t005"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190549 January 2, 2018 10 / 18"
+  }
+ }
+}

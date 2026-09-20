@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_375",
+  "page": 4,
+  "page_size": [
+   758,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    64.1,
+    55.0,
+    176.5,
+    68.4
+   ],
+   "ocr": "Autoimmune Diseases"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    64.1,
+    100.4,
+    387.6,
+    404.7
+   ],
+   "ocr": "SLE SS T1D AITD RA MS SSc SLE: systemic lupus erithematosus SS: sjogrens syndrome T1D: type 1 diabetes AITD: autoimmune thyroid disease Figure 2: Clustering of seven autoimmune diseases. SLE: systemic lupus autoimmune thyroid disease, RA: rheumatoid arthritis, MS: multiple Table 4: Signiﬁcance of"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    493.6,
+    111.3,
+    528.2,
+    128.2
+   ],
+   "ocr": "P = 0.02"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    362.0,
+    165.6,
+    693.0,
+    404.7
+   ],
+   "ocr": "P = 0.02 P = 0.03 RA: rheumatoid arthritis MS: multiple sclerosis SSc: systemic sclerosis erithematosus, SS: Sj¨ogren’s syndrome, T1D: type 1 diabetes, AITD: sclerosis, SSc: systemic sclerosis. intermediates sorted by z-score."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    66.5,
+    419.7,
+    687.0,
+    809.5
+   ],
+   "ocr": "Gene name Link Link in background Links to seed Links in subnetwork z-score\nHLA-DQA2 3 11429 2 60 15,852\nDARC 4 11429 2 60 13,692\nLCK 67 11429 6 60 9,548\nPRTN3 9 11429 2 60 9,007\nAPCS 10 11429 2 60 8,522\nFN1 62 11429 5 60 8,215\nIGFBP7 11 11429 2 60 8,103\nPTPN13 12 11429 2 60 7,737\nCASP1 18 11429 2 60 6,215\nA2M 24 11429 2 60 5,293\nDCN 25 11429 2 60 5,171\nNCL 30 11429 2 60 4,655\nC3 31 11429 2 60 4,566\nJAK2 116 11429 4 60 4,356\nPTPRC 35 11429 2 60 4,248\nTHBS1 37 11429 2 60 4,108\nARRB1 44 11429 2 60 3,690\nTRADD 63 11429 2 60 2,910\nPIK3R1 133 11429 3 60 2,761\nFYN 153 11429 3 60 2,457",
+   "table_id": "PMC3303588_table_3"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    64.1,
+    838.7,
+    367.4,
+    938.1
+   ],
+   "ocr": "a contribution higher than 0.1% and that were shared by more than one cluster. The ﬁrst was made up of HLA-DQB1, CD4, CTLA4 and FASLG that were genes connected through only one internode (TNFRSF25 is also connected through three internodes with FASLG) and the second subnetwork was made up of IL1B and IL10 that was connected to TNF, the gene with the highest contribution to the cluster made by RA"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    389.7,
+    838.7,
+    693.0,
+    938.1
+   ],
+   "ocr": "and MS. There was also another subnetwork made with the directly connected C1QA, CR1, and CR2 genes that belonged to the cluster made by SLE and SS (Figure 3). We also observed that some of the genes with a contribu- tion higher than 0.1% to only one cluster belonged to three little separate networks. The ﬁrst little network had the genes GAD1 and GAD2 from the cluster of T1D-AITD, the second"
+  }
+ }
+}

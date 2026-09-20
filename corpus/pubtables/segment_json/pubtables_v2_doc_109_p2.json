@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_109",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    217.9,
+    64.4
+   ],
+   "ocr": "Proteome Science 2009, 7:19"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    480.7,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.proteomesci.com/content/7/1/19"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    922.4
+   ],
+   "ocr": "As with Ciphergen pre-processing, we used three different peak detection settings with increasing stringency for S/N. We used S/N settings of 1, 3, and 5 (Cromwell A-C). This way we covered a broad range of detected peaks, going from about 100 (setting C) to 200–500 (setting A). Note that a signal-to-noise ratio of 3–5 has been recommended by the developers of Cromwell [14]. Datasets For the ovarian cancer dataset, CM10 and Q10 Protein- Chip array data were analyzed with three different pre- processing settings for both Cromwell and Ciphergen (12 configurations). For each pre-processing method and set- tings we also made a combined CM10/Q10 dataset by tak- ing the union of the CM10 and Q10 peak intensities for each sample (6 configurations). In total we therefore used 18 configurations for investigation of differential expres- sion and prediction of patient status for cancer versus con- trol. For the Gaucher dataset, CM10 ProteinChip array data was analyzed with three different pre-processing set- tings for both Cromwell and Ciphergen (6 configura- tions). Statistical Analysis T-tests were used to identify differentially expressed peaks between patient and control groups. Analysis of variance (ANOVA) was also used to assess the importance of label (patient versus control), chip (array), and interaction effects between label and chip within the dataset. Result- ing p-values were corrected for multiple testing using the Benjamini-Hochberg False Discovery Rate (FDR) adjust- ment [27]. Tests were considered to be significant if the adjusted p-values were < 0.2. Classification To test whether patient status (control/diseased) can be predicted from the peak profiles obtained, five classifica- tion methods often used for microarray and proteomics data were compared. The models are classification trees, linear support vector machines (SVM), DLDA (Diagonal Linear Discriminant Analysis), naive Bayes with Gaussian class-conditional densities (Diagonal Quadratic Discrimi- nant Analysis (DQDA)) [28] and PCDA (Principal Com- ponent Discriminant Analysis) [29]. The models were validated with repeated random sam- pling methodology as advocated by Michiels et al. [30]. Random splits of each dataset of N samples were per- formed to generate 1000 (ovarian cancer dataset) or 500 (Gaucher dataset) different training sets (size n) and 1000 respectively 500 associated test sets (size N-n). In each of the random splits, the number of samples for both classes was balanced in both training and test set. The accuracy of the resulting classifier was assessed on the corresponding test set. We report average accuracy on the test sets and its"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    685.0
+   ],
+   "ocr": "corresponding confidence interval. To investigate the influence of the training set size on the accuracy of the classifier, we also varied the training set size (n = 6,8,...,26 for the ovarian cancer dataset, n = 9,11,...,37 for Gaucher). Estimation of the optimal values for hyperparameters of the models was done with 5-fold cross-validation on the training set. Such a double cross-validation scheme pro- vides an almost unbiased estimate of the true error [31]. Hyperparameters to be estimated and their possible val- ues were: complexity parameter (classification trees), cost parameter (0.5,1,...,3; SVMs), number of principal com- ponents (1–10; PCDA) All classifiers were used under three different regimes. In the first regime, all peaks are used to estimate the model parameters. The second regime uses feature selection to extract the peaks most informative for predicting patient status. For each training set, an optimal classifier was iden- tified from the 10, 20,...,50 peaks for which expression was most highly correlated with disease as determined by the t-statistics between the two classes. The optimal number of peaks was again selected with 5-fold cross-val- idation on the training set. In the third regime, class labels were permuted to obtain an estimate of the performance of the classifiers on random data. Statistical comparisons for classifiers over multiple configurations were per- formed with a non-parametric Friedman test for repeated measures and the Wilcoxon-Nemenyi-McDonald- Thompson post-hoc test [32]. Statistical analyses were performed using Bioconductor packages and in-house scripts in the statistical software package R [33]. Results Peak detection: comparison of Ciphergen and Cromwell For both Ciphergen and Cromwell pre-processing, three different peak detection settings were chosen. More strin- gent peak detection parameters indeed resulted in a decrease in the number of peaks selected (Table 2). First, we will illustrate differences in peak detection between"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    394.0,
+    718.1,
+    611.6,
+    729.8
+   ],
+   "ocr": "Table 2: Number of peaks after peak selection"
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    399.0,
+    740.9,
+    679.0,
+    886.6
+   ],
+   "ocr": "Ovarian cancer Gaucher\nCM10 Q10 CM10/Q10\nCiphergen A 776 742 1518 579\nCiphergen B 268 182 450 201\nCiphergen C 155 79 234 90\nCromwell A 383 226 609 501\nCromwell B 193 113 306 250\nCromwell C 118 70 188 162",
+   "table_id": "PMC2689848_table_1"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    399.1,
+    902.9,
+    687.2,
+    926.4
+   ],
+   "ocr": "Three different settings (A, B, C) were used for both Ciphergen and Cromwell pre-processing."
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 17 (page number not for citation purposes)"
+  }
+ }
+}

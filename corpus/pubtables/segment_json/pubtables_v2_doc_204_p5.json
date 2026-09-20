@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_204",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    305.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Identification of Highly Variable Supernumerary Chromosome Segments in an Asexual Pathogen"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    94.2,
+    420.0,
+    107.4
+   ],
+   "ocr": "Table 6. Breadth of coverage of the transposon at a minimum depth of 25 reads1."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    114.2,
+    700.9,
+    474.6
+   ],
+   "ocr": "Percent coverage (%) of the transposon by reads from each isolate\nTransposon2 Fv Clinton-1B Fv LL0009 Fv 34551 Fc 31157 Fp 31156 Fb 31757\nR_mc28.3 0 5 100 20 20 19\nM_mc41.12 88 0 100 95 97 0\nH_mc54.4 15 100 100 100 13 0\nH_mc58.2 0 100 100 54 0 0\nT_mc98.3 0 100 100 4 4 0\nN1_cc61.1 100 0 0 0 100 0\nN1_cc116.1 98 0 0 89 99 95\nH_cc168.1 100 94 0 0 0 0\nM_cc367.1 100 69 80 87 0 0\nF_cc390.1 100 98 63 57 75 58\nM_cc435.1 100 0 0 100 100 0\nT_cc487.1 100 60 8 100 100 0\nN1_cc513.1 99 17 0 26 84 16\nN1_cc541.1 98 0 0 99 99 57\nP_cc749.1 99 19 0 98 99 99\nH_cc781.1 100 100 0 100 98 0\nN2_cc837.1 99 69 2 0 0 0\nM_cc1408.1 100 68 66 0 0 0\nP_cc3473.1 98 55 23 94 67 98\nM_cc4313.1 100 100 0 100 100 98\nM_cc7644.1 100 0 92 100 100 0",
+   "table_id": "PMC4920403_table_5"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    486.7,
+    699.2,
+    523.3
+   ],
+   "ocr": "The minimum depth was set to a value such that the read depths at over 95% of all covered reference genome positions were above the value (25 reads). 2"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    517.0,
+    725.3,
+    799.9
+   ],
+   "ocr": "Each transposon is denoted by its family name initial, an underscore and the name of the reference contig containing it. The initials for transposon family names: F, FOLYT1; H, Hop; M, MarCry-1_FO; N1, NHT1; N2, NHT2_I; P, PiggyBac-1_Nha; R, Restless; T, TFO1_FO. doi:10.1371/journal.pone.0158183.t006 We also observed significantly higher SNP rates in or around 20 of the 54 transposons between some of the four F. virguliforme isolates Fv Mont-1, Fv Clinton-1B, Fv LL0009 and Fv 34551. The two most significant examples were a SNP rate of 0.004 in contig mc28.3 with the Restless transposon between Fv Mont-1 and Fv LL0009, and a SNP rate of 0.006 in contig cc32.1 with an NHT1 transposon between Fv Clinton-1B and Fv LL0009. Supernumerary segment in scaffold 28 was most highly expressed We examined the expression levels of supernumerary segments because they contained RVT genes, which polymerize DNA via an RNA intermediate. The expression level of each contig in the Fv Mont-1 reference assembly was estimated by totaling the coverage depths of each contig position by short transcriptomic reads and dividing the sum by the contig length. The 11 most highly expressed contigs of 1 kb were mc66.3 (at an average depth of 144), mc4.6 (137),"
+  },
+  "p5_b5": {
+   "type": "title",
+   "bbox": [
+    389.8,
+    787.0,
+    399.5,
+    808.8
+   ],
+   "ocr": "�"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    802.3,
+    727.2,
+    898.4
+   ],
+   "ocr": "mc28.4 (130), mc28.8 (95), mc420.2 (88), mc79.8 (83), mc28.7 (81), mc54.5 (80), mc28.10 (74), mc28.12 (72), and mc28.2 (70). All the contigs except mc4.6 were supernumerary. Moreover, 6 of them came from scaffold 28, and 3 of the rest (mc66.3, mc420.2, mc79.8) were linked to scaf- fold 28 by a significant number of read pairs. In addition, we estimated the expression level of each gene in the same reference assembly. Half of the top 12 most highly expressed genes were located in the contigs mc66.3 (3 genes) or mc28.4 (3 genes); the rest were located in different"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158183 June 24, 2016 19 / 23"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_116",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2851616_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    682.1,
+    231.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2851616_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Subtype</td><td rowspan=\"2\">Grade 1</td><td rowspan=\"2\">2</td><td rowspan=\"2\">3</td><td rowspan=\"2\">NK</td><td rowspan=\"2\">FIGO Stage 1</td><td rowspan=\"2\">2</td><td rowspan=\"2\">3</td><td rowspan=\"2\">NK</td></tr><tr></tr><tr><td>Clear Cell (9)</td><td>2</td><td>2</td><td>3</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td></tr><tr><td>Endometrioid (14)</td><td>2</td><td>4</td><td>8</td><td>0</td><td>8</td><td>2</td><td>4</td><td>0</td></tr><tr><td>Mucinous (7)</td><td>5</td><td>2</td><td>0</td><td>0</td><td>4</td><td>0</td><td>2</td><td>1</td></tr><tr><td>Serous (37)</td><td>3</td><td>11</td><td>20</td><td>3</td><td>3</td><td>10</td><td>17</td><td>7</td></tr><tr><td>Undifferentiated (1)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2851616_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    121.8,
+    696.9,
+    533.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2851616_table_1.png",
+   "html": "<table><tr><td>Region ID</td><td>Chr</td><td>Start1</td><td>End</td><td>Samples &#8216;&#8216;G&#8217;&#8217;2</td><td>Samples &#8216;&#8216;N&#8217;&#8217;2</td><td>DE Probesets (%)3</td><td>Most significant DE Genes4</td></tr><tr><td>3_1</td><td>3</td><td>157.223</td><td>157.972</td><td>30</td><td>37</td><td>3 (60)</td><td>SSR3; TIPARP; KCNAB1</td></tr><tr><td>3_2</td><td>3</td><td>158.260</td><td>159.895</td><td>31</td><td>36</td><td>8 (62)</td><td>MLF1; GFM1; RSRC1; CCNL1; PTX3; VEPH1; LXN; SHOX2</td></tr><tr><td>3_3</td><td>3</td><td>159.895</td><td>159.959</td><td>30</td><td>37</td><td>2 (100)</td><td>RARRES1</td></tr><tr><td>3_4</td><td>3</td><td>159.959</td><td>161.006</td><td>32</td><td>35</td><td>2 (50)</td><td>MFSD1; SCHIP1</td></tr><tr><td>3_5</td><td>3</td><td>161.006</td><td>161.392</td><td>30</td><td>37</td><td>3 (75)</td><td>SCHIP1;IL12A</td></tr><tr><td>3_7</td><td>3</td><td>161.392</td><td>168.660</td><td>33</td><td>35</td><td>8 (24)</td><td>KPNA4; SMC4; B3GALNT1; NMD3; TRIM59; hCG_16001; IFT80</td></tr><tr><td>3_8</td><td>3</td><td>168.697</td><td>168.916</td><td>37</td><td>31</td><td>1 (50)</td><td>PDCD10</td></tr><tr><td>3_9</td><td>3</td><td>168.916</td><td>169.209</td><td>38</td><td>30</td><td>2 (100)</td><td>PDCD10; SERPINI1</td></tr><tr><td>3_10</td><td>3</td><td>169.209</td><td>172.478</td><td>41</td><td>27</td><td>12 (40)</td><td>MYNN; PHC3; SKIL; MDS1; ARPM1;TLOC1; PRKCI; EVI1; EIF5A2; SLC7A14</td></tr><tr><td>3_12</td><td>3</td><td>172.586</td><td>177.095</td><td>39</td><td>29</td><td>2 (8)</td><td>ECT2; AADACL1</td></tr><tr><td>3_14</td><td>3</td><td>177.366</td><td>180.518</td><td>39</td><td>29</td><td>4 (27)</td><td>TBL1XR1; PIK3CA</td></tr><tr><td>3_15</td><td>3</td><td>180.518</td><td>180.608</td><td>35</td><td>33</td><td>3 (100)</td><td>ZNF639; MFN1;GNB4</td></tr><tr><td>3_17</td><td>3</td><td>180.608</td><td>181.970</td><td>36</td><td>32</td><td>6 (43)</td><td>ACTL6A; MRPL47; NDUFB5; GNB4; LOC442098; TTC14</td></tr><tr><td>3_18</td><td>3</td><td>181.971</td><td>184.153</td><td>34</td><td>34</td><td>4 (57)</td><td>FXR1; DNAJC19; DCUN1D1; ATP11B</td></tr><tr><td>3_19</td><td>3</td><td>184.153</td><td>184.291</td><td>35</td><td>33</td><td>2 (100)</td><td>DCUN1D1;MCCC1</td></tr><tr><td>3_20</td><td>3</td><td>184.291</td><td>185.996</td><td>34</td><td>34</td><td>18 (50)</td><td>ABCF3*; PSMD2; AP2M1; EIF4G1; PARL; ALG3; KLHL24; POLR2H; EIF2B5*; DVL3*; YEATS2; MAGEF1; MCCC1; LAMP3; ABCC5</td></tr><tr><td>3_22</td><td>3</td><td>186.007</td><td>187.399</td><td>36</td><td>32</td><td>5 (31)</td><td>SENP2; TMEM41A*; SFRS10; VPS8;EHHADH</td></tr><tr><td>3_24</td><td>3</td><td>187.519</td><td>189.379</td><td>35</td><td>33</td><td>10 (42)</td><td>RFC4*; RPL39L*; DNAJB11; EIF4A2; TBCCD1; SNORA4; ST6GAL1; BCL6; RTP4</td></tr><tr><td>3_25</td><td>3</td><td>189.379</td><td>189.430</td><td>38</td><td>30</td><td>2 (100)</td><td>LPP; FLJ42393</td></tr><tr><td>3_27</td><td>3</td><td>193.766</td><td>193.936</td><td>35</td><td>33</td><td>1 (50)</td><td>FGF12</td></tr><tr><td>3_28</td><td>3</td><td>193.936</td><td>199.337</td><td>31</td><td>37</td><td>36 (46)</td><td>WDR53*; FBXO45*; NCBP2; LSG1; PIGX; RNF168; SENP5; OPA1; FYTTD1; CENTB2; UBXD7; PCYT1A; ATP13A3; KIAA0226*; DLG1</td></tr><tr><td>7_1</td><td>7</td><td>141.416</td><td>141.431</td><td>34</td><td>33</td><td>1 (100)</td><td>MGAM</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2851616_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    121.8,
+    698.5,
+    696.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2851616_table_2.png",
+   "html": "<table><tr><td>Region ID</td><td>Chr</td><td>Start1</td><td>End</td><td>Samples &#8216;&#8216;G&#8217;&#8217;2</td><td>Samples &#8216;&#8216;N&#8217;&#8217;2</td><td>DE Probesets (%)3</td><td>Most significant DE Genes4</td></tr><tr><td>8_1</td><td>8</td><td>53.390</td><td>55.545</td><td>29</td><td>39</td><td>11 (73)</td><td>ATP6V1H*; MRPL15; TCEA1; LYPLA1; RB1CC1; RGS20; NPBWR1; SOX17; UNQ9433</td></tr><tr><td>8_5</td><td>8</td><td>60.387</td><td>61.696</td><td>35</td><td>32</td><td>6 (60)</td><td>XKR4; TGS1*; TMEM68*; RP1</td></tr><tr><td>8_7</td><td>8</td><td>61.696</td><td>61.817</td><td>35</td><td>32</td><td>2 (100)</td><td>RAB2A; CHD7</td></tr><tr><td>8_13</td><td>8</td><td>62.549</td><td>65.928</td><td>33</td><td>33</td><td>3 (21)</td><td>RLBP1L1*; YTHDF3</td></tr><tr><td>8_15</td><td>8</td><td>66.237</td><td>68.051</td><td>33</td><td>33</td><td>14 (67)</td><td>ARMC1; VCPIP1; C8orf44; RRS1; SGK3; C8orf45; MYBL1; ADHFE1; MTFR1; C8orf46</td></tr><tr><td>8_16</td><td>8</td><td>68.051</td><td>68.292</td><td>29</td><td>36</td><td>6 (100)</td><td>COPS5; ARFGEF1; CSPP1</td></tr><tr><td>8_19</td><td>8</td><td>70.815</td><td>73.993</td><td>32</td><td>35</td><td>9 (41)</td><td>KCNB2; NCOA2; TRPA1; TRAM1; MSC</td></tr><tr><td>8_21</td><td>8</td><td>74.016</td><td>78.270</td><td>34</td><td>33</td><td>8 (32)</td><td>TMEM70; STAU2; PXMP3; TERF1; UBE2W; TCEB1</td></tr><tr><td>8_25</td><td>8</td><td>80.419</td><td>84.683</td><td>36</td><td>31</td><td>10 (40)</td><td>CHMP4C; ZNF704; ZBTB10; SNX16; ZFAND1</td></tr><tr><td>8_27</td><td>8</td><td>85.122</td><td>87.055</td><td>34</td><td>33</td><td>16 (67)</td><td>C8orf59; REXO1L2P; REXO1L1; E2F5</td></tr><tr><td>8_30</td><td>8</td><td>87.250</td><td>89.422</td><td>34</td><td>33</td><td>5 (50)</td><td>WWP1; FAM82B; CPNE3; WDR21C; CNGB3</td></tr><tr><td>8_31</td><td>8</td><td>89.426</td><td>93.278</td><td>37</td><td>29</td><td>7 (35)</td><td>OTUD6B; NBN; TMEM55A; SLC26A7; RUNX1T1; TMEM64</td></tr><tr><td>8_33</td><td>8</td><td>93.587</td><td>98.637</td><td>38</td><td>28</td><td>17 (53)</td><td>UQCRB; TP53INP1; C8orf38; MTERFD1; PLEKHF2; PTDSS1; KIAA1429; RBM35A; INTS8; TSPYL5</td></tr><tr><td>8_34</td><td>8</td><td>98.637</td><td>99.159</td><td>35</td><td>32</td><td>7 (88)</td><td>MTDH; LAPTM4B; MATN2; RPL30</td></tr><tr><td>8_36</td><td>8</td><td>99.159</td><td>100.102</td><td>37</td><td>30</td><td>9 (82)</td><td>POP1*; NPAL2; STK3; VPS13B; HRSP12; OSR2; KCNS2</td></tr><tr><td>8_37</td><td>8</td><td>100.112</td><td>101.579</td><td>37</td><td>30</td><td>6 (55)</td><td>COX6C; RNF19A; POLR2K; VPS13B; FBXO43</td></tr><tr><td>8_38</td><td>8</td><td>101.579</td><td>101.675</td><td>36</td><td>31</td><td>2 (100)</td><td>ANKRD46; MGC39715</td></tr><tr><td>8_39</td><td>8</td><td>101.675</td><td>105.906</td><td>39</td><td>28</td><td>25 (50)</td><td>YWHAZ; WDSOF1; FLJ45248; ATP6V1C1; ZNF706; UBR5; FZD6; PABPC1; AZIN1; MGC39715</td></tr><tr><td>8_43</td><td>8</td><td>107.681</td><td>110.578</td><td>39</td><td>28</td><td>4 (31)</td><td>ENY2; TTC35; NUDCD1; OXR1</td></tr><tr><td>8_45</td><td>8</td><td>110.578</td><td>110.700</td><td>38</td><td>29</td><td>2 (67)</td><td>EBAG9; GOLSYN</td></tr><tr><td>8_52</td><td>8</td><td>113.663</td><td>117.487</td><td>40</td><td>27</td><td>1 (25)</td><td>TRPS1</td></tr><tr><td>8_54</td><td>8</td><td>117.713</td><td>119.186</td><td>42</td><td>25</td><td>8 (89)</td><td>RAD21; C8orf53; MED30; EXT1; EIF3H; SLC30A8</td></tr><tr><td>8_56</td><td>8</td><td>119.298</td><td>121.983</td><td>44</td><td>23</td><td>6 (35)</td><td>MTBP;DCC1; TAF2; MRPL13; SAMD12; MAL2</td></tr><tr><td>8_59</td><td>8</td><td>122.661</td><td>122.935</td><td>40</td><td>27</td><td>1 (100)</td><td>HAS2</td></tr><tr><td>8_60</td><td>8</td><td>122.935</td><td>127.209</td><td>44</td><td>23</td><td>24 (60)</td><td>C8orf76*; RNF139; DERL1; ATAD2; TRMT12; NDUFB9; ZNF572; TMEM65; C8orf32; SQLE</td></tr><tr><td>8_63</td><td>8</td><td>127.320</td><td>129.639</td><td>46</td><td>21</td><td>2 (25)</td><td>FAM84B</td></tr><tr><td>8_66</td><td>8</td><td>129.735</td><td>131.499</td><td>47</td><td>20</td><td>4 (50)</td><td>FAM49B; MLZE; DDEF1</td></tr><tr><td>8_69</td><td>8</td><td>131.596</td><td>135.232</td><td>44</td><td>23</td><td>9 (45)</td><td>TG; OC90; KCNQ3; NDRG1; KIAA0143; PHF20L1; WISP1; SLA</td></tr><tr><td>8_72</td><td>8</td><td>135.435</td><td>136.466</td><td>43</td><td>24</td><td>2 (67)</td><td>ZFAT1*</td></tr><tr><td>8_76</td><td>8</td><td>137.616</td><td>139.944</td><td>42</td><td>25</td><td>2 (100)</td><td>COL22A1; FAM135B</td></tr><tr><td>8_78</td><td>8</td><td>140.056</td><td>146.269</td><td>43</td><td>24</td><td>89 (74)</td><td>ZC3H3*; PUF60; GPR172A; CYHR1; SCRIB; HSF1 ; ZNF7*; MAF1; SHARPIN; BOP1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2851616_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    121.8,
+    699.4,
+    519.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2851616_table_3.png",
+   "html": "<table><tr><td>Region ID</td><td>Chr</td><td>Start1</td><td>End</td><td>Samples &#8216;&#8216;G&#8217;&#8217;2</td><td>Samples &#8216;&#8216;N&#8217;&#8217;2</td><td>DE Probesets (%)3</td><td>Most significant DE Genes4</td></tr><tr><td>20_1</td><td>20</td><td>29.299</td><td>31.465</td><td>34</td><td>34</td><td>34 (62)</td><td>POFUT1; PDRG1; PLAGL2 ;ASXL1; TM9SF4; TPX2; CDK5RAP1; MAPRE1; COMMD7; KIF3B; C20orf112; RP11-49G10.8; DEFB118; DUSP15; DNMT3B</td></tr><tr><td>20_2</td><td>20</td><td>31.466</td><td>31.648</td><td>29</td><td>39</td><td>2 (100)</td><td>CBFA2T2; SNTA1</td></tr><tr><td>20_4</td><td>20</td><td>31.649</td><td>33.694</td><td>31</td><td>37</td><td>34 (74)</td><td>PIGU; DYNLRB1; GGTL3; RBM12; RALY; NCOA6*;CEP250*; APBA2BP; TRPC4AP; EIF6; EDEM2; GSS; UQCC; PXMP4; EIF2S2</td></tr><tr><td>20_5</td><td>20</td><td>33.696</td><td>33.760</td><td>36</td><td>32</td><td>5 (100)</td><td>RBM12; NFS1; RBM39; C20orf52</td></tr><tr><td>20_6</td><td>20</td><td>33.958</td><td>37.049</td><td>29</td><td>39</td><td>38 (64)</td><td>CTNNBL1*; LOC388796; KIAA0406P; DHX35*; C20orf77; ACTR5; MANBAL; FAM83D; DSN1; RBL1; C20orf198; RPN2; SCAND1; C20orf117; C20orf24</td></tr><tr><td>20_7</td><td>20</td><td>37.107</td><td>41.095</td><td>29</td><td>37</td><td>11 (65)</td><td>PLCG1; CHD6; LPIN3; TOP1; PTPRT; LOC149692; ZHX3; EMILIN3; MAFB</td></tr><tr><td>20_8</td><td>20</td><td>41.095</td><td>41.113</td><td>30</td><td>36</td><td>1 (100)</td><td>PTPRT</td></tr><tr><td>20_9</td><td>20</td><td>41.124</td><td>41.226</td><td>28</td><td>38</td><td>2 (100)</td><td>PTPRT</td></tr><tr><td>20_10</td><td>20</td><td>42.962</td><td>45.772</td><td>30</td><td>37</td><td>45 (62)</td><td>PIGT; UBE2C; ZSWIM1; TOMM34; DNTTIP1*; NCOA5; SLC35C2; ACOT8; NEURL2; KCNS1; C20orf67; SNX21; ELMO2; ZMYND8; TP53RK;</td></tr><tr><td>20_12</td><td>20</td><td>45.850</td><td>49.180</td><td>29</td><td>38</td><td>23 (61)</td><td>TMEM189*; MOCS3*; DPM1; STAU1; DDX27; CSE1L; ARFGEF2; ADNP; SPATA2*; PTPN1; SLC9A8*; C20orf199; PARD6B; ZNF313; KCNG1</td></tr><tr><td>20_14</td><td>20</td><td>49.222</td><td>54.379</td><td>30</td><td>37</td><td>10 (42)</td><td>ZFP64*; AURKA; PFDN4; ATP9A; MC3R; TSHZ2; SUMO1P1</td></tr><tr><td>20_15</td><td>20</td><td>54.379</td><td>54.417</td><td>27</td><td>41</td><td>2 (100)</td><td>CSTF1; AURKA</td></tr><tr><td>20_16</td><td>20</td><td>54.417</td><td>55.828</td><td>31</td><td>36</td><td>8 (32)</td><td>C20orf43; RAE1; BMP7; RBM38; GCNT7</td></tr><tr><td>20_18</td><td>20</td><td>55.991</td><td>57.887</td><td>33</td><td>34</td><td>12 (57)</td><td>VAPB; TUBB1; RAB22A; TH1L; SLMO2; STX16; ATP5E; GNAS; SYCP2; PPP4R1L; NPEPL1</td></tr><tr><td>20_20</td><td>20</td><td>57.901</td><td>62.427</td><td>33</td><td>34</td><td>38 (45)</td><td>LSM14B*; YTHDF1; SS18L1; DIDO1; GTPBP5; PSMA7; TAF4; C20orf11; C20orf20; TCFL5; C20orf177; MYT1; PCMTD2; DNAJC5; TPD52L2;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2851616_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    120.1,
+    700.6,
+    507.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2851616_table_4.png",
+   "html": "<table><tr><td>Chr</td><td>Start (Mb)</td><td>End (Mb)</td><td>Length (bp)</td><td>No. samples</td><td>Genes1</td></tr><tr><td>3</td><td>170.040</td><td>170.248</td><td>208141</td><td>6</td><td>None</td></tr><tr><td>3</td><td>178.305</td><td>178.589</td><td>283690</td><td>5</td><td>TBL1XR1</td></tr><tr><td>3</td><td>180.121</td><td>180.410</td><td>288435</td><td>5</td><td>PIK3CA; ZMAT3</td></tr><tr><td>8</td><td>55.208</td><td>55.528</td><td>319922</td><td>5</td><td>MRPL15*</td></tr><tr><td>8</td><td>62.495</td><td>63.491</td><td>995369</td><td>6</td><td>RLBP1L1*;NKAIN3;ASPH</td></tr><tr><td>8</td><td>102.003</td><td>102.062</td><td>58823</td><td>5</td><td>YWHAZ</td></tr><tr><td>8</td><td>123.144</td><td>123.746</td><td>601615</td><td>6</td><td>None</td></tr><tr><td>8</td><td>123.856</td><td>124.369</td><td>513120</td><td>6</td><td>DERL1; ZHX2; WDR67*; ZHX1*; C8orf76*; FAM83A</td></tr><tr><td>8</td><td>124.369</td><td>125.825</td><td>1455953</td><td>6</td><td>ATAD2; C8orf32*; FBXO32; ANXA13; KLHL38; FAM91A1; FER1L6; MTSS1; NDUFB9; RNF139; TATDN1; TMEM65; TRMT12*</td></tr><tr><td>8</td><td>125.828</td><td>127.764</td><td>1936500</td><td>7</td><td>KIAA0196; NSMCE2; SQLE; ZNF572*; TRIB1; FAM84B*</td></tr><tr><td>8</td><td>127.764</td><td>128.973</td><td>1208920</td><td>7</td><td>MYC; POU5F1P1</td></tr><tr><td>8</td><td>128.973</td><td>130.166</td><td>1193146</td><td>8</td><td>PVT1{, TMEM75*</td></tr><tr><td>8</td><td>130.166</td><td>138.988</td><td>8821634</td><td>7</td><td>ADCY8; DDEF1; EFR3A; FAM49B; KCNQ3; MLZE; OC90; LRRC6; NDRG1; PHF20L1; SLA; TG*; TMEM71; WISP1; ST3GAL1; ZFAT*; KHDRBS3; CCDC26</td></tr><tr><td>8</td><td>138.988</td><td>144.000</td><td>5382420</td><td>7</td><td>FAM135B; COL22A1; KCNK9; NIBP*; CHRAC1*; EIF2C2; PTK2; DENND3*; SLC45A4; FLJ43860; GPR20; PTP4A3; ARC; BAI1; C8orf55; CYP11B1; CYP11B2; GML; JRK; LY6D; LY6K; LYNX1; LYPD2; PSCA; SLURP1; TSNARE1</td></tr><tr><td>17</td><td>35.104</td><td>35.105</td><td>529</td><td>5</td><td>ERBB2*</td></tr><tr><td>19</td><td>34.125</td><td>34.639</td><td>513414</td><td>5</td><td>UQCRFS1*</td></tr><tr><td>19</td><td>34.639</td><td>35.610</td><td>971542</td><td>6</td><td>C19orf12*; PLEKHF1; POP4*; CCNE1; C19orf2; ZNF536*</td></tr><tr><td>19</td><td>35.968</td><td>36.703</td><td>734619</td><td>6</td><td>TSHZ3*</td></tr><tr><td>19</td><td>37.459</td><td>38.011</td><td>552023</td><td>5</td><td>ANKRD27*; PDCD5*; RGS9BP; ECAT8; DPY19L3*; ZNF507*</td></tr><tr><td>19</td><td>38.372</td><td>39.140</td><td>767924</td><td>5</td><td>CEBPA; LRP3; SLC7A10; CHST8; KCTD15; CEBPG*; PEPD*; FLJ12355</td></tr><tr><td>20</td><td>29.427</td><td>29.849</td><td>421241</td><td>5</td><td>BCL2L1; COX4I2; DEFB119; DEFB121; DEFB123; DEFB124; HM13; ID1; REM1; TPX2</td></tr></table>"
+  }
+ ]
+}

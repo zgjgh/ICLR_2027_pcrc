@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_006",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    545,
+    63
+   ],
+   "ocr": "The table presents enzyme activity (nkat mg−1) across various substrates with specific measurements for each enzyme."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "For the substrate NodSm-V(C16 : 2, S), the enzyme activity for MtNFH1b is recorded at 154.1 ± 28.2, while the other enzymes (MtCHIT5a, MtCHIT5b, MtCRA1, MtCRA2, and LjCHIT5) show ND values, with the assay method being reverse-phase HPLC analysis (C18 column)."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    484.0
+   ],
+   "ocr": "substrate enzyme activity (nkat mg−1)a\nMtNFH1b MtCHIT5a MtCHIT5b MtCRA1 MtCRA2 LjCHIT5 assay\nNodSm-V(C16 : 2, S) 154.1 ± 28.2 ND ND ND ND ND reverse-phase HPLC analysis (C18 column)\nNodSm-IV(C16 : 2, S) 116.7 ± 3.4 ND ND ND ND ND\nNodRlv-V(C18 : 4, Ac) ND ND ND ND ND ND\nNodRlv-IV(C18 : 4, Ac) ND ND ND ND ND ND\n(GlcNAc)6 ND 368.2 ± 7.5c 138.4 ± 19.3c ND ND 375.2 ± 5.1c reverse-phase HPLC analysis (amino column)\ncolloidal chitin ND 0.013 ± 0.009 0.007 ± 0.006 ND ND 0.046 ± 0.015 Ehrlich's reagent\nglycol chitin ND 12.2 ± 0.3 4.4 ± 0.3 ND ND 14.2 ± 0.7 Lever assay\nCM–chitin–RBV ND 0.80 ± 0.12d 1.44 ± 0.02 ND ND 0.75 ± 0.06 colorimetric assay\nM. lysodeikticus cells ND ND ND ND ND ND lysozyme assay",
+   "table_id": "img_006376_t0"
+  },
+  "p9_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    500,
+    580,
+    558
+   ],
+   "ocr": "The substrate NodSm-IV(C16 : 2, S) shows an enzyme activity of 116.7 ± 3.4 for MtNFH1b, with all other enzymes reporting ND. The substrates NodRlv-V(C18 : 4, Ac) and NodRlv-IV(C18 : 4, Ac) show ND across all enzyme activities. The substrate (GlcNAc)6 exhibits enzyme activities of 368.2 ± 7.5 for MtCHIT5a, 138.4 ± 19.3 for MtCHIT5b, and 375.2 ± 5.1 for LjCHIT5, with other enzymes reporting ND, using reverse-phase HPLC analysis (amino column)."
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    546,
+    580,
+    635
+   ],
+   "ocr": "Colloidal chitin shows enzyme activities of 0.013 ± 0.009 for MtCHIT5a, 0.007 ± 0.006 for MtCHIT5b, and 0.046 ± 0.015 for LjCHIT5, with ND for the others, assessed via Ehrlich's reagent. Glycol chitin indicates 12.2 ± 0.3 for MtCHIT5a, 4.4 ± 0.3 for MtCHIT5b, and 14.2 ± 0.7 for LjCHIT5, while CM–chitin–RBV shows 0.80 ± 0.12 for MtCHIT5a, 1.44 ± 0.02 for MtCHIT5b, and 0.75 ± 0.06 for LjCHIT5, assessed by a colorimetric assay. Lastly, M. lysodeikticus cells show ND across all enzyme activities, determined through a lysozyme assay."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_004",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    471.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Accurate and Robust Classifier for Expression Recognition"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    533.4,
+    107.4
+   ],
+   "ocr": "Table 3. Recognition rate of the proposed FER system using MUG dataset of facial expressions (Unit: %)."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    114.2,
+    694.0,
+    236.6
+   ],
+   "ocr": "Expressions Happy Anger Sad Surprise Fear Disgust\nHappy 96 1 1 1 1 0\nAnger 0 98 0 1 0 1\nSad 0 0 99 1 0 0\nSurprise 1 1 2 96 0 0\nFear 0 3 0 0 97 0\nDisgust 1 0 0 2 0 97\nAverage 97.20",
+   "table_id": "PMC5026367_table_2"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    244.1,
+    186.2,
+    255.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0162702.t003"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    121.2,
+    839.0,
+    717.6,
+    882.3
+   ],
+   "ocr": "Fig 6. 3D-feature plot of the proposed FER system for the six facial expressions using MUG dataset. It can be seen that the system clearly classified the expressions classes. doi:10.1371/journal.pone.0162702.g006"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0162702 September 16, 2016 13 / 23"
+  }
+ }
+}

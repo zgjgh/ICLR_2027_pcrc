@@ -1,0 +1,203 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_252",
+  "page": 4,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    108.4,
+    46.7
+   ],
+   "ocr": "Lassiter et al."
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    565.8,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Macro Conditions for Marginalization"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    78.1,
+    372.2,
+    223.3
+   ],
+   "ocr": "value for i. Note that AB = ∪Ai for all i of a breed B. A = ∪ AB B for all breeds B. • CP(Ai B)t indicate the primary traits of agent i who is a member of breed B at time t. CS(Ai B)t indicates the secondary traits of agent i at t. And C(Ai B)t = CP(Ai B)t ∪ CS(Ai B)t • en be an arbitrary element of C(Ai B)t, indicated en ∈ C(Ai B)t 3.3.2.1. Interaction This submodel has been sketched above. Here we ﬁll out the details. From A, the submodel selects some Ai and identiﬁes en ∈"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    78.1,
+    704.5,
+    92.7
+   ],
+   "ocr": "1,000 interactions, Ai dies and is replaced by another agent Ao"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    493.7,
+    86.4,
+    705.5,
+    95.6
+   ],
+   "ocr": "B B"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    92.8,
+    706.1,
+    107.4
+   ],
+   "ocr": "of the same culture (o for ‘oﬀspring’). Though Ao is of the same"
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    629.2,
+    101.1,
+    634.6,
+    110.3
+   ],
+   "ocr": "B"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    107.5,
+    706.1,
+    831.1
+   ],
+   "ocr": "breed as Ai B, C(Ao B)t is populated by e1...en ∈ C(Ai B)t where n ≤ 8, and the value of n is determined randomly. And the remaining values for C(Ao B)t are also chosen randomly. 4. RESULTS We said in section 3.1.3 that we tracked population proportions, cultural change, and similarity across culture. To test our above stated hypotheses with respect to changes in population of diﬀerent classes of agents, an RTC(3) by Diversity(3) ANOVA was performed on population of deviants, population of conformists, and population of rebels. Results for population of quiet mavericks will be examined for exploratory purposes only. In addition to testing our hypotheses with respect to the population variables, the RTC by Diversity ANOVA was also performed on cultural change and similarity to test the hypotheses that the higher the RTC and/or the higher the Diversity level(s), (1) the greater the degree of cultural change among conformists, and (2) the greater that change will occur to become more similar to deviants and rebels than the other way around. Here too, results for similarity to quiet mavericks will be examined for exploratory purposes only. 4.1. Population Proportions Figure 2 describes changes in population proportions among the subcultures. 4.1.1. Population Proportions of Deviants As expected, the population of deviants was smallest in the Low RTC condition (M = 0.2615, SD = 0.0211) and largest in the High RTC condition (M = 0.3400, SD = 0.0339) with the Moderate RTC condition (M = 0.3032, SD = 0.0254) falling in between, as indicated by F(2, 216) = 243.32, p < 0.001, η2 = 0.693. Post-hoc pairwise comparisons conﬁrm that all three RTC conditions were signiﬁcantly diﬀerent from each other with respect to the population proportions of deviants. Also as expected, the population of deviants was smallest in the High Diversity condition (M = 0.2836, SD = 0.0279) and largest in the Low Diversity condition (M = 0.3180, SD = 0.0507) with Moderate Diversity condition (M = 0.3031, SD = 0.0377) falling in between, as indicated by F(2, 216) = 46.9, p < 0.001, η2 = 0.303. Post-hoc pairwise comparisons conﬁrm that all three Diversity conditions were signiﬁcantly diﬀerent from each other with respect to the population proportions of deviants. Finally, the interaction between RTC and Diversity conﬁrmed the expectation that population of deviants was largest when RTC was high and Diversity was low, while the population of deviants was smallest when RTC was low and Diversity was high, as indicated by F(4, = 9.5, p < 0.001, η2 = 0.150 (see"
+  },
+  "p4_b8": {
+   "type": "title",
+   "bbox": [
+    274.7,
+    216.0,
+    280.1,
+    225.2
+   ],
+   "ocr": "B"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    221.9,
+    372.2,
+    241.6
+   ],
+   "ocr": "C(Ai B)t. Then the submodel searches A for some Ap for which"
+  },
+  "p4_b10": {
+   "type": "title",
+   "bbox": [
+    311.8,
+    231.5,
+    319.1,
+    242.2
+   ],
+   "ocr": "B′"
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    238.9,
+    372.3,
+    316.2
+   ],
+   "ocr": "en ∈ C(Ap B)t (where i ̸= p), and it may or may not be the case that B = B′. If there is some Ap B, then a random ﬂoating point number r is selected. If r is below the threshold for interaction—which is determined by the level of resistance chosen at initialization and by the breeds of Ai and Ap (speciﬁed in Table 4)—then some"
+  },
+  "p4_b12": {
+   "type": "title",
+   "bbox": [
+    151.8,
+    309.9,
+    198.2,
+    319.1
+   ],
+   "ocr": "B B"
+  },
+  "p4_b13": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    316.3,
+    372.2,
+    767.1
+   ],
+   "ocr": "em such that em ∈ C(Ai B)t is replaced with some em such that em′ ∈ C(Ap B)t. As a result of the interaction em′ ∈ C(Ai B)t as well as em′ ∈ C(Ap B)t, that is ∃e(e ∈ {C(Ai B)t ∩ C(Ap B)t)}. 3.3.2.2. Analyzing cultures This submodel discovers the most common values found among all agents of a breed and then identiﬁes a new set of eight primary traits that deﬁne the breed. It ﬁrst compiles T = {en|en ∈ (C(Ai B)t} for each (Ai B)t ∈ AB. Then the submodel identiﬁes the eight most frequently occurring values in T. The resulting list a new C(AB)t+1, is the updated list of primary traits for membership in AB. This submodel runs at every time step. For any times t and t + n, it is sometimes the case that C(AB)t = C(AB)t+n. 3.3.2.3. Switching breeds Each en ∈ C(Ai B)t is compared against each en ∈ C(AB) for each breed. If more than seven en ∈ C(Ai B)t show up in C(AB)t for a breed B, then Ai becomes a member of the breed B. Sometimes B the agent’s breed at time t+ 1 will be the same as its breed at t. Our rationale for requiring agents’ primary and secondary traits to match on all eight values of a breed’s culture instead of requiring (say) a simple majority is that people can change in many ways and yet still be identiﬁed as a member of that culture. This is part of how cultures evolve over time: members make a number of small changes, which contribute to the evolution of the subculture, until they are recognizably a part of a diﬀerent culture. 3.3.2.4. New generations Each Ai has two variables: one tracks the number of interactions B an agent has had and the other tracks the agent’s generation. After"
+  },
+  "p4_b14": {
+   "type": "caption",
+   "bbox": [
+    57.5,
+    811.0,
+    185.1,
+    819.9
+   ],
+   "ocr": "TABLE 6 | Initialization of agents."
+  },
+  "p4_b15": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    821.9,
+    706.1,
+    915.7
+   ],
+   "ocr": "216) Figure 2A). 4.1.2. Population Proportion of Conformists As expected, the population of conformists was largest in the Low RTC condition (M = 0.4409, SD = 0.0597) relative to the other RTC conditions. However, contrary to expectations, the"
+  },
+  "p4_b16": {
+   "type": "table",
+   "bbox": [
+    57.5,
+    834.3,
+    371.6,
+    913.7
+   ],
+   "ocr": "Culture Number Primary traits\nConformist 120 { 1 2 3 4 5 16 19 20}\nQuiet Maverick 2 {1 2 3 7 10 13 17 18}\nRebels 8 {4 15 7 8 9 14 17 18}\nDeviant 70 {6 8 9 11 12 13 21 22}",
+   "table_id": "PMC5992435_table_5"
+  },
+  "p4_b17": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    384.3,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 8"
+  },
+  "p4_b18": {
+   "type": "header_footer",
+   "bbox": [
+    574.2,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "June 2018 | Volume 9 | Article 812"
+  }
+ }
+}

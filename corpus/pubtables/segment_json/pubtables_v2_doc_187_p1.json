@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_187",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    423.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Sex and STEM Occupation Predict AQ Scores in Half a Million People"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    727.3,
+    822.5
+   ],
+   "ocr": "addition of a disclaimer—at the request of our research team—that the AQ is not a diagnostic test for autism. However, the AQ itself remained unchanged in its content during these changes in the website design. All data was anonymous. Data extraction After the original broadcast, the research team contacted the show producer to request access to the anonymized data. Ethical approval for use of the anonymized data was obtained from the Psychology Research Ethics Committee (PREC), University of Cambridge, UK. Consent was obtained online when participants agreed to Channel 4’s terms and conditions before beginning the questionnaire. These terms and conditions included a description of how the anonymized data would be used for research, explicitly stating: “What will your data be used for? In future, anonymized test results may be available through a public API which will allow access to the anonymized data for analysis by approved third parties.” As the data were col- lected anonymously, the participants did not have any direct contact with the investigators, and no personally identifiable information at any stage was available to either the investigating team or the Channel 4 website hosting the questionnaire. Data were extracted and transferred to the research team on 5th June 2014, effectively restricting the sample size to this date. Data transferred included an anonymized ID number for each questionnaire taken, the date each entry was created (ranging from 28th March 2014 to 5th June 2014), AQ total score (using the standard scoring method out of 50), and the respondent’s sex, age, occupation, and UK region of residence, selected by the participant via dropdown menus. In addition, participants were asked to respond to a question about perceived autism prevalence. Importantly, participants were not asked about whether they, or a family member, had a diagnosis of ASC, a limitation that we return to discuss later. We have requested this item be added to the website, so that a future replication of the current study compare AQ scores of those with and without ASC. Even without this variable, the large dataset presents a rare opportunity to test our predictions. Participant characterization The original dataset transferred by Channel 4 consisted of 514,972 entries. Entries were excluded if participants reported their age to be under 16 or over 89 years old. These age limits were used because the AQ is designed as a self-report instrument for adults; 16 years old was selected based on the lower age limit of the original AQ sample [1]. The upper range from the Channel 4 dataset was 120 years old; 89 was selected as an upper age limit to correspond with other recommended upper age limits in other cognitive tests, such as the Wechsler Abbreviated Scale of Intelligence (WASI) [27]. In addition, individuals who selected the response “Prefer not to say” in response to the questions about sex, occupation, and region of residence were removed, to assist later data interpretation. There was no meaningful difference in mean AQ scores between the data that were excluded and the retained data. The final sample was n = 450,394. To contextualize the data [5] we characterized the distributions of each of the demographic variables in relation to the general population prior to any analysis of AQ scores, using R [28]. Age and sex. Number of individuals stratified by sex and mean age are shown in Table 1. Table 1. Participant characteristics."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    831.2,
+    726.6,
+    877.9
+   ],
+   "ocr": "N (%) Mean age (SD)\nFemale 298,084 (66.2) 36.69 (13.61)\nMale 152,310 (33.8) 37.73 (14.10)",
+   "table_id": "PMC4619566_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0141229.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0141229 October 21, 2015 4 / 15"
+  }
+ }
+}

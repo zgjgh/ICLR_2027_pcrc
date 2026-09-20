@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_337",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2993967_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    716.5,
+    697.1,
+    905.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2993967_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Time</td><td rowspan=\"2\">28/01/2008 14:00</td><td rowspan=\"2\">28/01/2008 22:00</td><td rowspan=\"2\">22/04/2008 14:00</td><td rowspan=\"2\">22/04/2008 22:00</td><td rowspan=\"2\">26/08/2008 16:00</td><td rowspan=\"2\">26/08/2008 22:00</td><td rowspan=\"2\">27/08/2008 04:00</td><td rowspan=\"2\">27/08/2008 10:00</td></tr><tr></tr><tr><td>Temperature (6C)</td><td>10.1</td><td>10.05</td><td>9.7</td><td>9.6</td><td>15.9</td><td>15.8</td><td>15.7</td><td>15.8</td></tr><tr><td>Density (kg m22)</td><td>1025.6</td><td>1026.3</td><td>1027.2</td><td>1027.1</td><td>1023.5</td><td>1024.3</td><td>1024.5</td><td>1024.4</td></tr><tr><td>Salinity (PSU)</td><td>33.3</td><td>34.2</td><td>35.12</td><td>35</td><td>32.1</td><td>33</td><td>33.3</td><td>33.2</td></tr><tr><td>Chlorophyll a (mg/L)</td><td>0.81</td><td>0.85</td><td>2.20</td><td>1.32</td><td>9.24</td><td>8.17</td><td>9.80</td><td>11.91</td></tr><tr><td>Total Organic Nitrogen (mmol L21)</td><td>1.331</td><td>3.453</td><td>2.897</td><td>2.773</td><td>2.837</td><td>2.329</td><td>3.018</td><td>4.145</td></tr><tr><td>Total Organic Carbon (mmol L21)</td><td>33.185</td><td>38.168</td><td>27.247</td><td>19.413</td><td>26.761</td><td>26.482</td><td>22.015</td><td>23.671</td></tr><tr><td>NO2 + NO3 (mmol L21)</td><td>10.9</td><td>10.02</td><td>4.02</td><td>3.75</td><td>0.08</td><td>0.1</td><td>0.9</td><td>0.09</td></tr><tr><td>Ammonia (mmol L21)</td><td>0</td><td>0</td><td>0.54</td><td>0.25</td><td>0.06</td><td>0.1</td><td>0.14</td><td>0.05</td></tr><tr><td>SRP (mmol L21)</td><td>0.53</td><td>0.52</td><td>0.4</td><td>0.32</td><td>0.03</td><td>0.06</td><td>0.08</td><td>0.1</td></tr><tr><td>Silicate (mmol L21)</td><td>6.01</td><td>5.75</td><td>2.6</td><td>2.7</td><td>0.12</td><td>0.22</td><td>0.33</td><td>0.15</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2993967_table_1",
+   "page_num": 2,
+   "bbox": [
+    80.4,
+    746.6,
+    691.3,
+    871.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2993967_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Bacteria 16S tags Time</td><td colspan=\"2\">January</td><td colspan=\"2\">April</td><td colspan=\"2\">August 27th</td><td colspan=\"2\">August 28th</td><td rowspan=\"2\">Total</td></tr><tr><td>15:00</td><td>19:30</td><td>16:00</td><td>22:00</td><td>16:00</td><td>22:00</td><td>04:00</td><td>10:00</td></tr><tr><td>Original Sequences</td><td>5,945</td><td>5,294</td><td>7,064</td><td>4,970</td><td>6,956</td><td>6,914</td><td>10,413</td><td>9,782</td><td>57,338</td></tr><tr><td>Clustered Sequences</td><td>4,534</td><td>4,070</td><td>6,219</td><td>6,211</td><td>9,534</td><td>8,759</td><td>5,913</td><td>4,133</td><td>49,373</td></tr><tr><td colspan=\"10\">Resampled sequencing effort (4070)</td></tr><tr><td>OTUs (4070)</td><td>331</td><td>558</td><td>177</td><td>199</td><td>189</td><td>174</td><td>192</td><td>189</td><td>999*</td></tr><tr><td>Number of singletons (4070) (%)</td><td>138 (42)</td><td>307 (55)</td><td>74 (42)</td><td>86 (43)</td><td>76 (40)</td><td>67 (39)</td><td>87 (45)</td><td>83 (44)</td><td>523* (52)</td></tr><tr><td>Good&#8217;s Coverage (4070)</td><td>96.61</td><td>92.46</td><td>98.18</td><td>97.89</td><td>98.13</td><td>98.35</td><td>97.86</td><td>97.96</td><td>98.39</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2993967_table_2",
+   "page_num": 3,
+   "bbox": [
+    80.4,
+    121.8,
+    699.2,
+    310.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2993967_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Archaea 16S rDNA Time</td><td colspan=\"2\">January</td><td colspan=\"2\">April</td><td colspan=\"2\">August 27th</td><td colspan=\"2\">August 28th</td><td rowspan=\"2\">Total</td></tr><tr><td>15:00</td><td>19:30</td><td>16:00</td><td>22:00</td><td>16:00</td><td>22:00</td><td>04:00</td><td>10:00</td></tr><tr><td>Original Sequences</td><td>57,030</td><td>25,075</td><td>nr</td><td>nr</td><td>17,822</td><td>27,882</td><td>nr</td><td>nr</td><td>127,809</td></tr><tr><td>Sequences following de-noising</td><td>54,058</td><td>23,900</td><td>nr</td><td>nr</td><td>16,771</td><td>26,317</td><td>nr</td><td>nr</td><td>121,046</td></tr><tr><td colspan=\"10\">Resampled sequencing effort (16,771)</td></tr><tr><td>OTUs (16,771)</td><td>46</td><td>70</td><td>nr</td><td>nr</td><td>22</td><td>27</td><td>nr</td><td>nr</td><td>111*</td></tr><tr><td>Number of singletons (16,771) (%)</td><td>25 (54)</td><td>33 (47)</td><td>nr</td><td>nr</td><td>9 (41)</td><td>14 (52)</td><td>nr</td><td>nr</td><td>64* (58)</td></tr><tr><td>Good&#8217;s Coverage (16,771)</td><td>99.85</td><td>99.80</td><td>nr</td><td>nr</td><td>99.95</td><td>99.92</td><td>nr</td><td>nr</td><td>99.90</td></tr><tr><td colspan=\"10\">Resampled sequencing effort (4070)</td></tr><tr><td>OTUs (4070)</td><td>24</td><td>46</td><td>nr</td><td>nr</td><td>14</td><td>13</td><td>nr</td><td>nr</td><td>63*</td></tr><tr><td>Number of singletons (4070) (%)</td><td>7 (29)</td><td>20 (43)</td><td>nr</td><td>nr</td><td>2 (14)</td><td>5 (38)</td><td>nr</td><td>nr</td><td>31* (49)</td></tr><tr><td>Good&#8217;s Coverage (4070)</td><td>99.83</td><td>99.51</td><td>nr</td><td>nr</td><td>99.95</td><td>99.88</td><td>nr</td><td>nr</td><td>99.81</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2993967_table_3",
+   "page_num": 3,
+   "bbox": [
+    80.4,
+    461.2,
+    698.1,
+    883.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2993967_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Metagenomes Time</td><td colspan=\"2\">January</td><td colspan=\"2\">April</td><td colspan=\"2\">August 27th</td><td colspan=\"2\">August 28th</td><td rowspan=\"2\">Total</td></tr><tr><td>15:00</td><td>19:30</td><td>16:00</td><td>22:00</td><td>16:00</td><td>22:00</td><td>04:00</td><td>10:00</td></tr><tr><td>No. Original DNA Sequences</td><td>616,793</td><td>784,823</td><td>637,801</td><td>493,003</td><td>620,759</td><td>524,953</td><td>500,117</td><td>326,475</td><td>4,504,724</td></tr><tr><td>Predicted ORFs (.40aa pORFs)</td><td>862,695</td><td>1,287,412</td><td>1,003,799</td><td>745,305</td><td>986,269</td><td>846,209</td><td>779,951</td><td>491,330</td><td>7,002,970</td></tr><tr><td>No. of pORF clusters (95%)</td><td>615,374</td><td>1,123,829</td><td>779,342</td><td>588,387</td><td>881,113</td><td>703,712</td><td>675,210</td><td>444,729</td><td>5,380,725** (7,002,970 seqs)</td></tr><tr><td>No. of pORF singletons (95%)</td><td>546,463</td><td>1,031,865</td><td>682,586</td><td>526,233</td><td>805,284</td><td>634,042</td><td>608,785</td><td>410,616</td><td>4,658,405** (4,658,405 seqs)</td></tr><tr><td>No. of pORF &#8216;families&#8217; (60%)</td><td>423,674</td><td>1,031,904</td><td>678,547</td><td>528,213</td><td>801,760</td><td>637,542</td><td>620,403</td><td>419,461</td><td>4,418,324** (5,380,725 seqs)</td></tr><tr><td>No. of pORF singletons (60%)</td><td>352,938</td><td>962,073</td><td>609,351</td><td>486,712</td><td>740,032</td><td>589,839</td><td>577,027</td><td>398,202</td><td>3,822,888** (3,822,888 seqs)</td></tr><tr><td colspan=\"10\">Resampled pORFs (66529)</td></tr><tr><td>No. of pORF clusters (95%) (66529)</td><td>56337</td><td>64446</td><td>61187</td><td>59904</td><td>65601</td><td>63032</td><td>64729</td><td>65075</td><td>488903** (532232 seqs)</td></tr><tr><td>No. of pORF singletons (95%) (66529)</td><td>52891</td><td>63378</td><td>58691</td><td>57779</td><td>64818</td><td>61068</td><td>63359</td><td>63945</td><td>468,449</td></tr><tr><td>Good&#8217;s Coverage (66529)</td><td>20.50</td><td>4.74</td><td>11.78</td><td>13.15</td><td>2.57</td><td>8.21</td><td>4.76</td><td>3.88</td><td>4.18</td></tr><tr><td>No. DNA seqs with functional annotation</td><td>122,936</td><td>291,953</td><td>258,658</td><td>164,249</td><td>283,761</td><td>196,369</td><td>196,972</td><td>126,392</td><td>1,641,290</td></tr><tr><td>No. DNA seqs without functional annotation (%)</td><td>493,857 (80)</td><td>492,870 (63)</td><td>379,143 (59)</td><td>328,754 (67)</td><td>336,998 (54)</td><td>328,584 (63)</td><td>303,145 (61)</td><td>200,083 (61)</td><td>2,863,434 (64)</td></tr><tr><td>No. DNA seqs with taxonomic annotation</td><td>190,326</td><td>417,920</td><td>349,888</td><td>241,541</td><td>379,911</td><td>288,356</td><td>304,003</td><td>186,421</td><td>2,358,366</td></tr><tr><td colspan=\"10\">Resampled sequencing effort (186,421)</td></tr><tr><td>Number of archaeal sequences (186,421)</td><td>19,055</td><td>15,150</td><td>777</td><td>561</td><td>1,370</td><td>1,093</td><td>1,585</td><td>1,244</td><td>40,835</td></tr><tr><td>Number of bacterial sequences (186,421)</td><td>161,899</td><td>146,911</td><td>182,850</td><td>180,674</td><td>182,717</td><td>176,825</td><td>180,725</td><td>182,332</td><td>1,394,933</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2993967_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    397.8,
+    697.9,
+    861.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2993967_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Metatranscriptomes Time</td><td colspan=\"2\">January</td><td colspan=\"2\">April</td><td colspan=\"2\">August 27th</td><td colspan=\"2\">August 28th</td><td rowspan=\"2\">Total</td></tr><tr><td>15:00</td><td>19:30</td><td>16:00</td><td>22:00</td><td>16:00</td><td>22:00</td><td>04:00</td><td>10:00</td></tr><tr><td>No. Original cDNA Sequences</td><td>139,880</td><td>130,826</td><td>124,925</td><td>147,492</td><td>139,375</td><td>193,254</td><td>154,865</td><td>nr</td><td>1,030,617</td></tr><tr><td>No. of sequences following filtering***</td><td>94,024</td><td>106,864</td><td>84,916</td><td>109,577</td><td>87,799</td><td>118,360</td><td>111,568</td><td>nr</td><td>713,108</td></tr><tr><td>No. mRNA following removal of rRNA</td><td>61,831</td><td>96,026</td><td>41,378</td><td>53,413</td><td>33,149</td><td>51,829</td><td>55,006</td><td>nr</td><td>392,632</td></tr><tr><td>Predicted ORFs (.40aa pORFs)</td><td>143,169</td><td>211,374</td><td>81,642</td><td>107,699</td><td>77,985</td><td>66,529</td><td>159,909</td><td>nr</td><td>848,307</td></tr><tr><td>No. of pORF clusters (95%)</td><td>98,871</td><td>78,278</td><td>35,648</td><td>51,088</td><td>28,167</td><td>24,136</td><td>68,080</td><td>nr</td><td>350335** (848,370 seqs)</td></tr><tr><td>No. of pORF singletons (95%)</td><td>82,464</td><td>54,870</td><td>25,925</td><td>38,960</td><td>19,600</td><td>17,177</td><td>50,246</td><td>nr</td><td>262,767** (262,767 seqs)</td></tr><tr><td>No. of pORF &#8216;families&#8217; (60%)</td><td>84,598</td><td>45,049</td><td>19,131</td><td>37,628</td><td>15,146</td><td>12,735</td><td>41,480</td><td>nr</td><td>230,505** (350,335 seqs)</td></tr><tr><td>No. of pORF singletons (60%)</td><td>76,655</td><td>30,720</td><td>13,869</td><td>30,919</td><td>9,857</td><td>9,134</td><td>32,662</td><td>nr</td><td>187,083** (187083 seqs)</td></tr><tr><td colspan=\"10\">Resampled pORFs (66529)</td></tr><tr><td>No. of pORF clusters (95%) (66529)</td><td>31026</td><td>50354</td><td>30334</td><td>34217</td><td>24848</td><td>24136</td><td>33191</td><td>nr</td><td>205368** (465703 seqs)</td></tr><tr><td>No. of pORF singletons (95%) (66529)</td><td>23038</td><td>43687</td><td>22394</td><td>26840</td><td>17373</td><td>17177</td><td>25636</td><td>nr</td><td>157658</td></tr><tr><td>Good&#8217;s Coverage (66529)</td><td>65.37</td><td>34.33</td><td>66.34</td><td>59.66</td><td>73.89</td><td>74.18</td><td>61.47</td><td>nr</td><td>66.15</td></tr><tr><td>No. mRNA seqs with functional annotation</td><td>11,513</td><td>31,990</td><td>8,845</td><td>16,315</td><td>11,720</td><td>5,907</td><td>15,384</td><td>nr</td><td>101,674</td></tr><tr><td>No. mRNA seqs without functional annotation (%)</td><td>50,318 (81)</td><td>64,036 (67)</td><td>32,533 (79)</td><td>37,098 (69)</td><td>21,429 (65)</td><td>45,922 (89)</td><td>39,622 (72)</td><td>nr</td><td>290,958 (74)</td></tr><tr><td>No. mRNA seqs with taxonomic annotation</td><td>29,521</td><td>30,778</td><td>20,899</td><td>26,398</td><td>15,456</td><td>29,605</td><td>38,304</td><td>nr</td><td>190,961</td></tr><tr><td colspan=\"10\">Resampled sequencing effort (15,456)</td></tr><tr><td>Number of archaeal sequences (15,456)</td><td>625</td><td>49</td><td>1</td><td>16</td><td>4</td><td>4</td><td>11</td><td>nr</td><td>710</td></tr><tr><td>Number of bacterial sequences (15,456)</td><td>13,633</td><td>11,926</td><td>13,702</td><td>8,449</td><td>14,469</td><td>15,071</td><td>14,803</td><td>nr</td><td>92,053</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2993967_table_5",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    135.1,
+    370.6,
+    291.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2993967_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Sample</td><td colspan=\"3\">Bacteria</td><td colspan=\"3\">Archaea</td></tr><tr><td>S</td><td>d</td><td>1-l&#8217;</td><td>S</td><td>d</td><td>1-l&#8217;</td></tr><tr><td>January day</td><td>331</td><td>39.7</td><td>0.8901</td><td>24</td><td>2.767</td><td>0.8271</td></tr><tr><td>January night</td><td>558</td><td>67.02</td><td>0.9577</td><td>46</td><td>5.414</td><td>0.798</td></tr><tr><td>April day</td><td>177</td><td>21.18</td><td>0.8289</td><td></td><td></td><td></td></tr><tr><td>April night</td><td>199</td><td>23.82</td><td>0.8745</td><td></td><td></td><td></td></tr><tr><td>August day 4pm</td><td>189</td><td>22.62</td><td>0.9355</td><td>14</td><td>1.564</td><td>0.6347</td></tr><tr><td>August night 10pm</td><td>174</td><td>20.81</td><td>0.9341</td><td>13</td><td>1.444</td><td>0.628</td></tr><tr><td>August night 4am</td><td>192</td><td>22.98</td><td>0.9265</td><td></td><td></td><td></td></tr><tr><td>August day 10am</td><td>189</td><td>22.62</td><td>0.9247</td><td></td><td></td><td></td></tr></table>"
+  }
+ ]
+}

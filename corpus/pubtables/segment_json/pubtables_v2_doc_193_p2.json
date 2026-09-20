@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_193",
+  "page": 2,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    204.0,
+    60.9,
+    567.7,
+    255.5
+   ],
+   "ocr": "Survivors Non-Survivors\nMedian IQR Median IQR P value\nAge 53 41–63 60 50–70 <0.001\nAPACHE III 86.5 69–106 103 89–124 <0.001\nCVP 11 8.5–11.0 11 8–15 0.63\nCK 103 39–265 66 31–138 0.01\nALT 27 17–44 25 17–38 0.91\nCRP 22.5 12.6–30.8 21.4 12.9–31.6 0.90\nUrine output (24 hours) 1388 799–2217 1062 579–2050 0.02\nNumber of quadrants\n4 3–4 4 3–4 0.018\nwith infiltrates\nPaO2 84 70–106 82 69–104 0.62",
+   "table_id": "PMC4667272_table_1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    271.3,
+    707.6,
+    329.4
+   ],
+   "ocr": "Table 2. Comparison between survivors and non-survivors for continuous variables. Abbreviations: SD: standard deviation; APACHE: acute physiology and chronic health evaluation; CVP: central venous pressure; CK: creatine kinase; CRP: C-reactive protein; ALT: alanine aminotransferase; PaO2: partial pressure of arterial oxygen; IQR: interquartile range."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    199.0,
+    561.0,
+    699.0,
+    605.0
+   ],
+   "ocr": "Figure 1. Graphical presentation of patients receiving corticosteroids, those without receiving corticosteroids and those with missing data. The proportion of patients with missing data increased from day 1 to day 7, which was attributable to ICU discharge or death (the end of follow up)."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    203.9,
+    636.4,
+    447.1,
+    806.0
+   ],
+   "ocr": "Observations per m\nVariables Complete Incomplete Imputed Total\nAPACHE III 707 38 38 745\nCVP 456 289 289 745\nNumber of\nquadrats with 560 185 185 745\ninfiltrates\nCK 743 2 2 745\nCRP 699 46 46 745\nPaO2 733 12 12 745\nUrine output 741 4 4 745",
+   "table_id": "PMC4667272_table_2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    821.8,
+    700.0,
+    908.0
+   ],
+   "ocr": "Table 3. The result of multivariate imputation by using multivariate normal regression model. Abbreviations: APACHE: acute physiology and chronic health evaluation; CVP: central venous pressure; CK: creatine kinase; CRP: C-reactive protein; PaO2: partial pressure of arterial oxygen. Note: right-hand- side variables (variables used for multiple imputation) have missing values; model parameters estimated using listwise deletion. Complete + incomplete = total; imputed is the minimum across m of the number of filled-in observations."
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    967.3,
+    708.9,
+    980.1
+   ],
+   "ocr": "Scientific RepoRts | 5:17654 | DOI: 10.1038/srep17654 4"
+  }
+ }
+}

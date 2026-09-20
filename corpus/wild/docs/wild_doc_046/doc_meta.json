@@ -1,0 +1,354 @@
+{
+ "doc_id": "wild_doc_046",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_050754_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    240.0,
+    580.0,
+    388.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_050754_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Experimental group</td><td colspan=\"2\">Antibody titers against H1 virus (HI)</td></tr><tr><td>Day 7</td><td>Day 14</td></tr><tr><td>rLH5-H1N1</td><td>&lt;40</td><td>&lt;40</td></tr><tr><td>rLH5 + IL-2-H1N1</td><td>&lt;40</td><td>&lt;40</td></tr><tr><td>H1N1-H1N1</td><td>320</td><td>640</td></tr><tr><td>PBS-H1N1</td><td>n.d.</td><td>n.d.</td></tr><tr><td>IL-2-H1N1</td><td>&lt;40</td><td>n.d.</td></tr></table>"
+  },
+  {
+   "table_id": "img_050754_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    443.0,
+    580.0,
+    632.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_050754_t1.png",
+   "html": "<table><tr><td>GI conditions</td><td>Patients</td><td>Percent</td></tr><tr><td>LM</td><td>94</td><td>21.4</td></tr><tr><td>FM</td><td>31</td><td>7.1</td></tr><tr><td>LM + FM</td><td>27</td><td>6.2</td></tr><tr><td>HI</td><td>100</td><td>22.8</td></tr><tr><td>LM + HI</td><td>52</td><td>11.8</td></tr><tr><td>FM + HI</td><td>23</td><td>5.2</td></tr><tr><td>LM + FM + HI</td><td>14</td><td>3.2</td></tr><tr><td>Total</td><td>341</td><td>77.7</td></tr></table>"
+  },
+  {
+   "table_id": "img_050841_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    150.0,
+    580.0,
+    355.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_050841_t0.png",
+   "html": "<table><tr><td colspan=\"2\" rowspan=\"2\">Treatment and Time</td><td colspan=\"2\">Synergism of BaP and PCB</td><td colspan=\"2\">Antagonism of BaP and PCB</td></tr><tr><td>↓↓</td><td>↑↑</td><td>↓↑</td><td>↑↓</td></tr><tr><td>BaP and PCB118</td><td>Time 1</td><td>PPARγ **Glut-4 ***Lipin-1a *Lipin-1b **ATGL **FABP-4 **FAS **HSL ***SREBP *CXCL-10 **Adiponectin ***Leptin ****</td><td>CYP1A1 **Glut-1 **</td><td></td><td></td></tr><tr><td>BaP and PCB118</td><td>Time 2</td><td>PPARγ *Glut-4 **Lipin-1a *Lipin-1b *HSL *PAI-1 **</td><td>CYP1A1 *</td><td>Leptin **</td><td>Adiponectin **</td></tr><tr><td>BaP and PCB153</td><td>Time 1</td><td>PPARγ ***Glut-4 ***Lipin-1a **Lipin-1b ***ATGL ***FABP-4 ****FAS ***HSL **CXCL-10 **Adiponectin ***</td><td>CYP1A1 **TNFα ***IL6 **</td><td></td><td>Glut-1 ***MCP-1 ***</td></tr><tr><td>BaP and PCB153</td><td>Time 2</td><td>Glut-1 *Glut-4 **Lipin-1a *Lipin-1b *FAS *HSL *PAI-1 **</td><td></td><td>Leptin**</td><td>MCP-1 **CXCL-10 **Adiponectin **</td></tr></table>"
+  },
+  {
+   "table_id": "img_050841_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    372.0,
+    580.0,
+    499.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_050841_t1.png",
+   "html": "<table><tr><td>Included SNOMED CT concepts</td><td>Excluded SNOMED CT concepts</td></tr><tr><td>123,979,008 Abnormal body temperature (finding)</td><td>85,623,003 Ineffective thermoregulation (finding)</td></tr><tr><td>248,062,006 Self-injurious behaviour (finding)</td><td>130,968,006 Self-mutilation (finding)</td></tr><tr><td>284,905,001 Difficulty performing toileting activities (finding)</td><td>284,905,001 Self-toileting deficit (finding)</td></tr><tr><td>247,592,009 Poor short-term memory (finding)|</td><td>423,698,005 Limited recall of recent event (finding)</td></tr><tr><td>714,884,000 Difficulty transferring location (finding)</td><td>714,914,005 Impaired ability to transfer location (finding)</td></tr></table>"
+  },
+  {
+   "table_id": "img_050841_t2",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    517.0,
+    580.0,
+    638.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_050841_t2.png",
+   "html": "<table><tr><td>RWI</td><td>DF</td><td>SS</td><td>MS</td><td>F</td><td>P</td></tr><tr><td>Species</td><td>3</td><td>12946.210</td><td>4315.403</td><td>498.696</td><td>&lt;0.001</td></tr><tr><td>Treatment</td><td>3</td><td>21873.760</td><td>7291.253</td><td>842.592</td><td>&lt;0.001</td></tr><tr><td>Species x Treatment</td><td>9</td><td>11335.663</td><td>1259.518</td><td>145.552</td><td>&lt;0.001</td></tr><tr><td>Residual</td><td>476</td><td>4119.002</td><td>8.653</td><td></td><td></td></tr><tr><td>Total</td><td>491</td><td>49394.429</td><td>100.600</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_050846_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    300.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_050846_t0.png",
+   "html": "<table><tr><td></td><td>Target 1</td><td>Target 2</td><td>Target 3</td><td>Target 4</td></tr><tr><td>Target 1</td><td>0.76</td><td>0.04</td><td>0.07</td><td>0.13</td></tr><tr><td>Target 2</td><td>0.01</td><td>0.83</td><td>0.06</td><td>0.10</td></tr><tr><td>Target 3</td><td>0.06</td><td>0.05</td><td>0.75</td><td>0.14</td></tr><tr><td>Target 4</td><td>0.12</td><td>0.07</td><td>0.03</td><td>0.78</td></tr><tr><td colspan=\"5\">Average recognition rate: 0.78</td></tr></table>"
+  },
+  {
+   "table_id": "img_050846_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    331.0,
+    580.0,
+    457.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_050846_t1.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Average glycaemia (mg/dL) ± SD</td></tr><tr><td>Group</td><td>Week 2</td><td>Week 10</td><td>Week 16</td></tr><tr><td>W</td><td>73.20 ± 4.30</td><td>72.80 ± 4.10</td><td>70.80 ± 3.80</td></tr><tr><td>DM</td><td>376.55 ±116.82</td><td>551.55 ± 166.66</td><td>658.44 ± 199.26</td></tr><tr><td>DM + P</td><td>329.66 ± 112.07</td><td>501.66 ± 172.10</td><td>529.44 ± 177.74</td></tr><tr><td>P</td><td>73.40 ± 4.40</td><td>71.80 ± 3.90</td><td>70.60 ± 3.70</td></tr></table>"
+  },
+  {
+   "table_id": "img_050846_t2",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    498.0,
+    580.0,
+    621.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_050846_t2.png",
+   "html": "<table><tr><td></td><td></td><td colspan=\"5\">Time period</td></tr><tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>Group/Step</td><td>1 (six wards)</td><td>0</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td></td><td>2 (six wards)</td><td>0</td><td>0</td><td>X</td><td>X</td><td>X</td></tr><tr><td></td><td>3 (six wards)</td><td>0</td><td>0</td><td>0</td><td>X</td><td>X</td></tr><tr><td></td><td>4 (seven wards)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>X</td></tr></table>"
+  },
+  {
+   "table_id": "img_050884_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    267.0,
+    580.0,
+    394.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_050884_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">HaplotypeMyD88 -938C&gt;A SNP1-SNP2</td><td colspan=\"2\">Estimated frequencies</td><td rowspan=\"2\">p value</td><td rowspan=\"2\">p value global</td></tr><tr><td>Patients</td><td>Controls</td></tr><tr><td>A-C</td><td>0.199</td><td>0.029</td><td>&lt;0.01</td><td rowspan=\"4\">&lt;0.01</td></tr><tr><td>A-G</td><td>0.086</td><td>0.059</td><td>0.33</td></tr><tr><td>C-C</td><td>0.699</td><td>0.841</td><td>&lt;0.01</td></tr><tr><td>C-G</td><td>0.011</td><td>0.065</td><td>0.01</td></tr></table>"
+  },
+  {
+   "table_id": "img_050884_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    435.0,
+    580.0,
+    648.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_050884_t1.png",
+   "html": "<table><tr><td>Observer</td><td>FOV</td><td>mA</td><td>DeterministicSensitivity</td><td>Probabilistic Sensitivity</td><td>Deterministic Specificity</td><td>ProbabilisticSpecificity</td></tr><tr><td>First</td><td>13×14.5</td><td>4</td><td>0.286</td><td>0.715</td><td>0.056</td><td>0.667</td></tr><tr><td>Second</td><td>13×14.5</td><td>4</td><td>0.357</td><td>0.643</td><td>0.111</td><td>0.667</td></tr><tr><td>First</td><td>13×14.5</td><td>13</td><td>0.214</td><td>0.643</td><td>0.0</td><td>0.278</td></tr><tr><td>Second</td><td>13×14.5</td><td>13</td><td>0.071</td><td>0.785</td><td>0.0</td><td>0.278</td></tr><tr><td>First</td><td>7.5×10</td><td>13</td><td>0.444</td><td>0.777</td><td>0.0</td><td>0.313</td></tr><tr><td>Second</td><td>7.5×10</td><td>13</td><td>0.556</td><td>0.778</td><td>0.188</td><td>0.313</td></tr></table>"
+  },
+  {
+   "table_id": "img_051117_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    312.0,
+    580.0,
+    433.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_051117_t0.png",
+   "html": "<table><tr><td>Experimental factor</td><td>df</td><td>Estimate</td><td>Standard Error</td><td>χ2</td><td>p</td><td>Hazard Ratio</td></tr><tr><td>Casein</td><td>1</td><td>−0.30</td><td>0.04</td><td>66.31</td><td>&lt; 0.001</td><td>0.739 ***</td></tr><tr><td>Quercetin</td><td>1</td><td>−0.20</td><td>0.04</td><td>27.93</td><td>&lt; 0.001</td><td>0.823 ***</td></tr><tr><td>p-Coumaric acid</td><td>1</td><td>−0.09</td><td>0.04</td><td>5.93</td><td>0.015</td><td>0.914 *</td></tr><tr><td>β-cyfluthrin</td><td>1</td><td>0.30</td><td>0.05</td><td>42.16</td><td>&lt; 0.001</td><td>1.345 ***</td></tr><tr><td>Bifenthrin</td><td>1</td><td>2.22</td><td>0.05</td><td>1741.64</td><td>&lt; 0.001</td><td>9.171 ***</td></tr></table>"
+  },
+  {
+   "table_id": "img_051117_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    483.0,
+    580.0,
+    610.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_051117_t1.png",
+   "html": "<table><tr><td colspan=\"4\">Different amount of alcohol consumption (%)</td></tr><tr><td></td><td>All the subjects</td><td>≥ 40 g/day</td><td>≥ 60 g/day</td></tr><tr><td rowspan=\"2\">Sensitivity (95% CI)</td><td>13.5</td><td>26.8</td><td>46.3</td></tr><tr><td>8.3-20.2</td><td>16.9-38.6</td><td>30.7-62.6</td></tr><tr><td>Sensitivity (95% CI)</td><td>99.9</td><td>99.9</td><td>99.8</td></tr><tr><td></td><td>99.1-100</td><td>99.1-100</td><td>99.1-100</td></tr></table>"
+  },
+  {
+   "table_id": "img_051378_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    290.0,
+    580.0,
+    452.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_051378_t0.png",
+   "html": "<table><tr><td>Serious adverse events (13 SAE in 12/31 patients)</td><td>n</td></tr><tr><td>Necrotizing leukoencephalopathy (causing therapy discontinuation)</td><td>1</td></tr><tr><td>Radiogenic gliosis</td><td>1</td></tr><tr><td>Sepsis (Ommaya infection n=2, post‐op n=1)</td><td>7</td></tr><tr><td>Recurrent infections (causing therapy discontinuation)</td><td>1</td></tr><tr><td>Coxitis with candida</td><td>1</td></tr><tr><td>Pneumonia (causing discontinuation of maintenance)</td><td>1</td></tr><tr><td>Shunt insufficiency causing death (not due to disease)</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "img_051378_t1",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    513.0,
+    580.0,
+    636.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_051378_t1.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">INTEGRA(n = 6)</td><td colspan=\"2\">Flap(n = 5)</td></tr><tr><td>Type of cost</td><td>Mean (DS)</td><td>Median (IQR)</td><td>Mean (DS)</td><td>Median (IQR)</td></tr><tr><td>Hospital stay</td><td>9572.5 (3030.8)</td><td>8205.0 (7658.0–13,128.0)</td><td>17,066.4 (9939.8)</td><td>19,692.0 (8205.0–21,333.0)</td></tr><tr><td>Surgery costs</td><td>3066.2 (583.4)</td><td>2880.1 (2693.9–3418.6)</td><td>6305.0 (4174.5)</td><td>5609.3 (3113.4–9143.4)</td></tr><tr><td>Outpatient costs</td><td>287.8 (305.8)</td><td>184.3 (124.1–222.3)</td><td>353.4 (108.4)</td><td>389.62 (231.6–439.1)</td></tr><tr><td>Total costs</td><td>12,926.5 (3210.9)</td><td>11,825.0 (10,694.9–15,751.1)</td><td>23,583.5 (12,675.0)</td><td>23,244.5 (17,348.4–26,942.3)</td></tr></table>"
+  },
+  {
+   "table_id": "img_051722_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    265.0,
+    580.0,
+    475.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_051722_t0.png",
+   "html": "<table><tr><td>Gene</td><td>Identity</td><td colspan=\"2\">Relative quantification against Unit mass</td><td colspan=\"3\">Relative quantification normalized to a reference gene</td></tr><tr><td></td><td></td><td>Control</td><td>Healthy</td><td>Livak method</td><td>ΔCT Method</td><td>Pfaffi Method</td></tr><tr><td>SA1</td><td>Trigger factor (chaperone in protein export)</td><td>2.88</td><td>17.75</td><td>1.443C/7.727H</td><td>1.08C/1.74H</td><td>1.443C/7.727H</td></tr><tr><td>SA2</td><td>A. thaliana calmodulin-binding receptor-like kinase</td><td>3.759</td><td>3.759</td><td>8.564</td><td>-</td><td>8.564</td></tr><tr><td>SA3</td><td>Polyribonucleotide nucleotidyltransferase</td><td>1.32</td><td>1.70</td><td>0.664C/0.742H</td><td>0.790C/.837H</td><td>0.664C/0.742H</td></tr><tr><td>SA4</td><td>Chromosomal replication initiator protein DnaA</td><td>0.659</td><td>0.882</td><td>0.329C/0.253H</td><td>0.674C/0.706H</td><td>0.329C/0.253H</td></tr></table>"
+  },
+  {
+   "table_id": "img_051722_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    501.0,
+    580.0,
+    624.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_051722_t1.png",
+   "html": "<table><tr><td>Withdrawal sign</td><td>Wet-dog shaking</td><td>Stretching</td><td>Rearing</td><td>Jumping</td><td>Diarrhea</td></tr><tr><td>MN group(n=24)</td><td>1.67±1.23*</td><td>1.22±0.67*</td><td>3.89±4.10</td><td>1.56±1.33*</td><td>22/24*</td></tr><tr><td>MS group(n=24)</td><td>0.67±0.71</td><td>0.00±0.00</td><td>1.89±1.83</td><td>0.00±0.00</td><td>0/24</td></tr><tr><td>SN group(n=24)</td><td>0.56±0.53</td><td>0.00±0.00</td><td>4.44±3.78</td><td>1.00±0.87</td><td>0/24</td></tr><tr><td>F</td><td>4.764</td><td>30.250</td><td>1.414</td><td>6.637</td><td></td></tr><tr><td>P</td><td>0.017</td><td>0.000</td><td>0.263</td><td>0.005</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_051722_t2",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    650.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_051722_t2.png",
+   "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"4\">No. of trichome branches</td></tr><tr><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr><td>Mutant</td><td>1.4 a</td><td>89.3 a</td><td>8.7 b</td><td>0.7 a</td></tr><tr><td>C3</td><td>0 b</td><td>3.4 b</td><td>94.9 a</td><td>1.7 a</td></tr><tr><td>C7</td><td>0 b</td><td>4.0 b</td><td>94.4 a</td><td>1.7 a</td></tr><tr><td>C10</td><td>0 b</td><td>6.4 b</td><td>93.0 a</td><td>0.9 a</td></tr></table>"
+  },
+  {
+   "table_id": "img_051882_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    242.0,
+    580.0,
+    423.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_051882_t0.png",
+   "html": "<table><tr><td></td><td>AM group</td><td>ACT group</td></tr><tr><td>No need for 2nd line treatment</td><td>89.3% (84.1 – 93.2)</td><td>95% (88.8 – 98.3)</td></tr><tr><td>T &lt;37.5°C (**) at day 14</td><td>93.9 (89.3 - 96.7)</td><td>97.0 (91.6 – 99.4)</td></tr><tr><td>T &lt;37.5°C at day 28</td><td>96.9 (93.5 – 98.9)</td><td>99.0 (94.6 – 100.0)</td></tr><tr><td>Severe malaria &gt;5yo</td><td>0 (0 - 1.83)</td><td>0 (0 - 3.62)</td></tr><tr><td>Severe malaria (0-5 yo)</td><td>1.9% (0.2 – 6.7)</td><td>1.9% (0.05 – 10.3)</td></tr><tr><td>Severe malaria (all ages) - Coma / convulsions</td><td>0 (0 - 1.83)</td><td>0 (0 - 3.62)</td></tr><tr><td>Adverse effects</td><td>14.2% (9.7 - 19.9)*</td><td>18.8% (11.7 - 27.8)*</td></tr><tr><td>New episode (day 15-28) (parasite positive)</td><td>12.8% (8.4 – 18.3)</td><td>9.9% (4.9 – 17.5)</td></tr></table>"
+  },
+  {
+   "table_id": "img_051882_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    486.0,
+    580.0,
+    629.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_051882_t1.png",
+   "html": "<table><tr><td>Antimicrobial films</td><td>Antimicrobial coatings</td></tr><tr><td>Control (plain LDPE films)</td><td>Plain MC/HPMC</td></tr><tr><td>Nis (25000 IU/mL)</td><td>Nis (25000 IU/mL)</td></tr><tr><td>Nis (25000 IU/mL) + SD (0.25%)</td><td>Nis (25000 IU/mL) + SD (0.25%)</td></tr><tr><td>Nis (25000 IU/mL) + SB (0.1%)</td><td>Nis (25000 IU/mL) + SB (0.1%)</td></tr><tr><td>Nis (25000 IU/mL) + SL (0.3%)</td><td>Nis (25000 IU/mL) + SL (0.3%)</td></tr><tr><td>Nis (25000 IU/mL) + PS (0.3%)</td><td>Nis (25000 IU/mL) + PS (0.3%)</td></tr></table>"
+  },
+  {
+   "table_id": "img_051949_t0",
+   "page_num": 9,
+   "bbox": [
+    13.0,
+    178.0,
+    507.0,
+    504.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_051949_t0.png",
+   "html": "<table><tr><td>Study</td><td>Year</td><td>Sample size</td><td>Design/population</td><td>Method</td><td>Outcome</td></tr><tr><td>Ekangaki and Chung [5]</td><td>2005</td><td>450</td><td>Cancer patients under chemotherapy in two various age-gender groups</td><td>Case-control</td><td>The application of histamines, phenothiazines, butyrophenones, and anticholinergics to cope with CINV in chemotherapy brings about side effects</td></tr><tr><td>Sirin and Flynn [6]</td><td>2013</td><td>52</td><td>Cancer patients under chemotherapy in two various age-gender groups</td><td>Case-control</td><td>CINV was reduced by about %13.8 in the group receiving dimenhydrinate as compared to placebo</td></tr><tr><td>Pierce and Lin [7]</td><td>2013</td><td>85</td><td>Over 30-year-old men with prostate cancer under chemotherapy</td><td>Case-control</td><td>Prescribing dimenhydrinate for men with prostate cancer under chemotherapy has reduced their CINV as compared to control group</td></tr><tr><td>Sheanakul et al. [8]</td><td>2011</td><td>30</td><td>Below 60-year-old cancer patients under chemotherapy in two gender groups</td><td>Case-control</td><td>The continuous injection of midazolam has reduced pain and CINV in test group as compared to control group</td></tr><tr><td>Apfel et al. [9]</td><td>2012</td><td>23</td><td>15–50 years of age cancer patients under chemotherapy in two gender groups</td><td>Case-control</td><td>Cinnarizine controls and reduces CINV in cancer patients under chemotherapy as compared to placebo group through hindering histaminic H1 receptor</td></tr><tr><td>Rosenthal et al. [10]</td><td>2010</td><td>64</td><td>Over 12-year-old cancer patients under chemotherapy in two various gender groups</td><td>Clinical trial</td><td>Metoclopramide reduces CINV in cancer patients under chemotherapy through enhancing the activity threshold of CTZ chemical receptors</td></tr><tr><td>Denehy et al. [11]</td><td>2011</td><td>85</td><td>Cancer patients under chemotherapy in two various age-gender groups</td><td>Case-control</td><td>CINV is less in cancer patients under chemotherapy receiving metoclopramide as compared to the group receiving placebo</td></tr></table>"
+  },
+  {
+   "table_id": "img_051949_t1",
+   "page_num": 9,
+   "bbox": [
+    13.0,
+    517.0,
+    507.0,
+    640.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_051949_t1.png",
+   "html": "<table><tr><td>Sample</td><td>n</td><td>Fat %</td><td>PBDE (ng/g ww)</td><td>PBDE (ng/g lw)</td></tr><tr><td>Baltic herring</td><td>12</td><td>9.5 (3.2) 6.0–19.0</td><td>0.4 (0.7) 0.0–2.0</td><td>12.2 (7.0) 4.2–26.3</td></tr><tr><td>Grey seal</td><td>6</td><td>4.6 (3.8) 0.7–9.5</td><td>5.2 (4.8) 0.74–13.4</td><td>115.0 (59.4) 47.6–212</td></tr><tr><td>Mallard</td><td>1 (sub-n = 2)</td><td>19.5</td><td>0.17</td><td>0.88</td></tr><tr><td>Reindeer</td><td>14</td><td>3.4 (1.34) 1.4–5.8</td><td>0.06 (0.11) 0.004–0.44</td><td>1.85 (2.52) 0.12–7.57</td></tr><tr><td>Moose</td><td>3</td><td>2 (0.96) 1.0–3.3</td><td>0.017 (0.006) 0.01–0.03</td><td>1.24 (0.94) 0.36–2.55</td></tr><tr><td>European hare</td><td>1</td><td>3.3</td><td>0.06</td><td>103</td></tr></table>"
+  },
+  {
+   "table_id": "img_052090_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    323.0,
+    580.0,
+    449.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_052090_t0.png",
+   "html": "<table><tr><td>Trauma</td><td>Number (out of a total of 119 babies)</td></tr><tr><td>Scalp loss</td><td>5</td></tr><tr><td>Laceration over eye</td><td>3</td></tr><tr><td>NNU admission</td><td>1</td></tr><tr><td>Neonatal death (sepsis)</td><td>1</td></tr><tr><td>Total</td><td>10 (8.4%)</td></tr></table>"
+  },
+  {
+   "table_id": "img_052090_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    520.0,
+    580.0,
+    668.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_052090_t1.png",
+   "html": "<table><tr><td rowspan=\"2\">Administration</td><td colspan=\"2\">Virus titer (log10 PFU/organ)</td></tr><tr><td>Skin</td><td>Brain</td></tr><tr><td>Control</td><td>6.1 ± 0.07</td><td>2.2 ± 0.02</td></tr><tr><td>AF-06</td><td>6.3 ± 0.11</td><td>1.6 ± 0.48</td></tr><tr><td>AF-07</td><td>5.7 ± 0.09*</td><td>&lt;1.0 ± 0.00**</td></tr><tr><td>AF-08</td><td>6.1 ± 0.04</td><td>&lt;1.0 ± 0.00**</td></tr><tr><td>ACV (5 mg/kg)</td><td>5.4 ± 0.14*</td><td>&lt;1.0 ± 0.00**</td></tr></table>"
+  }
+ ]
+}

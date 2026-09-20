@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_218",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    70.7,
+    42.7,
+    677.6,
+    54.4
+   ],
+   "ocr": "Xing et al. BioData Mining (2016) 9:31 Page 10 of 18"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    108.3,
+    596.3,
+    149.0
+   ],
+   "ocr": "Table 5 Numbers of redundant is-a relations in 10 different versions of Gene Ontology regarding to the length of the indirect path. li represents the number of redundant is-a relations in length of i regarding to the indirect path"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    147.7,
+    154.3,
+    600.9,
+    320.0
+   ],
+   "ocr": "Version l2 l3 l4 l5 l6 l7 Total\n2014-08-01 421 40 23 11 1 1 497\n2014-09-01 419 44 24 13 1 1 502\n2014-10-01 512 72 29 15 2 1 631\n2014-11-01 771 164 64 27 4 1 1,031\n2014-12-01 921 174 63 27 7 1 1,193\n2015-01-01 980 202 62 24 8 1 1,277\n2015-02-01 1,098 220 68 24 8 2 1,420\n2015-03-01 1,119 237 72 25 8 2 1,463\n2015-04-01 1,198 238 78 29 7 2 1,552\n2015-05-01 1,238 255 78 29 7 2 1,609",
+   "table_id": "PMC5057496_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    354.7,
+    601.3,
+    703.7
+   ],
+   "ocr": "Based on our experiment, the concept graph in terms of AUI is acyclic, and FEDRR completes the exhaustive search for all the sources in our experiments. Six sources were found to have redundant is-a relations (see Table 6): SNOMEDCT_US (2015_09_01), SNOMEDCT_VET (2015_04_01), GO (2015_04_04), NCI (1502D), HPO (2015_04_20), and UMD (2015AA). For instance, in HPO, there were 18,175 AUIs, 14,762 is-a rela- tions, 117,366 transitive closure pairs, and 101 redundant is-a relations. Moreover, it took FEDRR less than 30 seconds to detect redundant is-a relations for each of these source vocabularies. As can be seen from Table 6, SNOMEDCT_US in the UMLS shows the same number (372) of redundant is-a relations compared to the result obtained based on its original source (version 2015_09_01 in Table 2). GO in the UMLS has slightly more redundant is- a relations (1,576 v.s. 1,552) compared to the result obtained based on its original source of GO (version 2015_04_01 in Table 4). This difference may be caused by the a different version of GO (version 2015_04_04) integrated in the 2015AB release of the UMLS. Redundant is-a relations in randomly generated ontology We have also tested FEDRR on randomly generated ontologies. There are two goals in testing FEDRR on randomly generated ontologies. • To test the efficiency of FEDRR on arbitrarily large ontologies, and"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    157.9,
+    698.6,
+    581.9,
+    721.4
+   ],
+   "ocr": "• To compare the ratio of redundancy relations in real world biomedical ontologies"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    147.8,
+    717.3,
+    587.4,
+    787.7
+   ],
+   "ocr": "with random ontologies with similar properties. Table 6 Summary of the results for source vocabularies in UMLS (2015AB release) with redundant relations"
+  },
+  "p4_b6": {
+   "type": "table",
+   "bbox": [
+    147.7,
+    793.0,
+    600.9,
+    897.5
+   ],
+   "ocr": "Version # AUIs # is-a Relations TC RR RR% T(ms)\nSNOMEDCT_US 846,444 476,055 5,511,334 372 0.00675 28,977\nSNOMEDCT_VET 85,939 19,832 29,688 7 0.024 954\nGO 148,900 71,687 554,859 1,576 0.2840 9,128\nNCI 270,618 119,707 701,986 20 0.0028 5,881\nHPO 18,175 14,762 117,366 101 0.0861 502\nUMD 34,124 10,750 37,732 20 0.0530 1,906",
+   "table_id": "PMC5057496_table_5"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    147.8,
+    903.5,
+    590.4,
+    924.0
+   ],
+   "ocr": "AUI: Atom Unique Identifier, TC: number of transitive closure pairs, RR: number of redundant is-a relations, T(ms): time taken in milliseconds"
+  }
+ }
+}

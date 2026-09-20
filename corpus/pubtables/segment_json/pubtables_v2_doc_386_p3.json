@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_386",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    514.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prokaryotic Glycosylated-Residue Prediction"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    369.8,
+    92.8
+   ],
+   "ocr": "Table 3. An analysis of experimentally observed secondary"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    373.5,
+    81.4,
+    543.6,
+    92.8
+   ],
+   "ocr": "structures in prokaryotic glycosites."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    693.2,
+    686.1
+   ],
+   "ocr": "Validated Glycosites\nProtein Name (Source Presence of glycan in full length protein Position of Glycosites\norganism) PDB ID in structure sequence in PDB entry sequence SS\nN-Glycosylated Proteins\nTetrabrachion 1YBK, – N44, N605, N641, N44 (N1279*) H1\n(Staphylothermus marinus) 1FE6 N685, N708, N1279,\nN1402\nChondroitinase ABC 1HN0 – N282, N338, N345, N282, N963 & N675 FR1 H1 B1\n(Proteus vulgaris) N515, N675, N856, N338, N345 & N515\nN963 N856\nPotD (Escherichia coli) 1POT, – N26, N62 N26 FR3 FR1 (at beginning of\n1POY N62 helix)\nAcrA (Campylobacter jejuni) 2K32, Heptasaccharide N123, N273 N42 (N123*) FR1\n2K33\n(NMR)\nPEB3 (Campylobacter jejuni) 2HXW - N90 N90 FR1 (between helices)\nHmcA (Desulfovibrio gigas) 1Z1N Trisaccharide (NAG,NAA, N290 N261 FR2 (between beta-sheets)\nany epimer of NAG),\nO-Glycosylated Proteins\nChondroitinase-AC 1CB8, Tetrasaccharide Man- S328, S455 S328 S455 FR1 (just after helix)\n(Pedobacter heparinus) 1HM2, (Rha)-GlcUA-Xyl, FR1 (between beta-sheets)\n1HM3,\n1HMU,\n1HMW\nChondroitinase-B 1DBG, Heptasaccharide galactose- S234 S234 FR1 (between beta-strands)\n(Pedobacter heparinus) 1DBO, b(1–4)[galactose-a(1–3)]\n1OFL, (2-O-Me)fucose-b(1–4)\n1OFM xylose-b (1–4)glucuronic\nacid-a(1–2)[rhamnose-a\n(1–4)]mannose-a(1-\nHeparinase II 2FUQ, Tetrasaccharide Man- T134 T134 H3\n(Pedobacter heparinus) 2FUT (Rha)-GlcUA-Xyl (xylose-b\n(1–4)glucuronic acid-a\n(1–2)[rhamnose-a(1–4)]\nmannose-a(1-\nFimbrial protein 2HI2, Disaccharides a-D- S70 S63 H1 (before helix)\n(Neisseria gonorrhoeae) 2HIL, galactopyranosyl-(1R3)-2,\n2PIL, 4-diacetamido-2,4-dideoxy-\n1AY2 b-D-glucopyranoside\n(bacillosamine, Bac);\nGal-DADDGlc; and\nGlcNAc-a1,3-Gal\nGlycocin F 2KUY Two N-Acetylglucosamines S39 S18 FR3\n(Lactobacillus plantarum) (NMR)\nEndo-b-N-acetylglucosaminidase F3 1EOM, - T88 T49 FR1\n(Flavobacterium meningosepticum) 1EOK",
+   "table_id": "PMC3392279_table_2"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    374.0,
+    697.4,
+    680.9,
+    729.6
+   ],
+   "ocr": "are at a resolution of 1.4 A˚ or above. protein sequence, F: flexible Regions with turns/loops/coils/bends or no assigned assigned domain."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    699.3,
+    387.5,
+    853.7
+   ],
+   "ocr": "Footnotes: All crystal structures are obtained from www.rcsb.org. All structures Symbols used: - : No sugar detected, *: Corresponding position in full length secondary structure, H: helix, B: beta sheet, 1: Intra domain, 2: Interdomain, 3: no doi:10.1371/journal.pone.0040155.t003 Composition profile of patterns (CPP). Composition profile of patterns is the percentage frequencies of each amino acid in a fixed length sequence pattern. The fractions of all 20 natural amino acids of fixed length sequence patterns were calculated using the following equation [30]: Ri"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    758.1,
+    700.8,
+    917.8
+   ],
+   "ocr": "PSSM profile of patterns (PPP). In addition to composi- tional information, PSSM provides important information of evolutionary significance about residue conservation at a given position in a protein sequence. The multiple sequence alignment information in the form of position specific scoring matrix (PSSM) has been used here to develop learning model where each glycosylated protein sequence was first searched against ‘SWISS- PROT’ database followed by generation of alignment profiles or position specific scoring matrices (PSSM) using PSI-BLAST v 2.2.20 program (ftp://ftp.ncbi.nlm.nih.gov/blast/executables/ blast+/LATEST/). Three iterations of PSI-BLAST were run for each protein with cut off e-value 0.001. We have normalized each"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    177.6,
+    849.8,
+    271.6,
+    861.4
+   ],
+   "ocr": "Comp(i)~ |100"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    857.8,
+    375.8,
+    917.5
+   ],
+   "ocr": "N Where Comp(i) is the percent composition of amino acid residue of type i; Ri is number of amino acid residues of type i, and N is the total number of residues in the fixed length sequence pattern."
+  },
+  "p3_b9": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    389.7,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 4"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    518.8,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "July 2012 | Volume 7 | Issue 7 | e40155"
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_200",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    59.0,
+    580.0,
+    90.0
+   ],
+   "ocr": "In recent years, the intersection of Learning Management System (LMS) platform adoption and student loan default rates has garnered significant attention from educational institutions and policymakers alike."
+  },
+  "p10_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    110.0,
+    580.0,
+    281.0
+   ],
+   "ocr": "LMSPlatform AdoptionMetrics Amount($M) YoYChange(%) MarketShare(%)\nPlatformA 30.5 15.2 25.5 12.5 40.0 UserGrowth(%) 10.0 RetentionRate(%) 85.0\nPlatformB 25.0 8.0 20.0 5.0 30.0 UserGrowth(%) 7.0 RetentionRate(%) 80.0\nPlatformC 15.0 12.0 15.0 -2.0 15.0 UserGrowth(%) 5.0 RetentionRate(%) 75.0\nPlatformD 10.0 5.0 10.0 3.0 10.0 UserGrowth(%) 2.0 RetentionRate(%) 70.0",
+   "table_id": "img_229947_t0"
+  },
+  "p10_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    296.0,
+    580.0,
+    311.0
+   ],
+   "ocr": "The increasing reliance on digital education tools, such as those offered by various platforms, is reflected in user metrics."
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    331.0,
+    580.0,
+    462.0
+   ],
+   "ocr": "LoanDefaultRate Percentage(%)\nOverallRates ByLoanType\nFederalLoans PrivateLoans TotalDefaults DefaultRate(%) TotalAmount(USD)\n2023 6.2% 4.5% $1.2B 15.0%\n2022 5.8% 3.9% $1.1B AverageRate(%)",
+   "table_id": "img_229947_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    477.0,
+    580.0,
+    493.0
+   ],
+   "ocr": "For instance, PlatformD reported a user growth rate of 10.0%, indicating a robust engagement strategy."
+  },
+  "p10_b5": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    514.0,
+    580.0,
+    643.0
+   ],
+   "ocr": "FundingSource TotalAmount GrantTypes\nFederal $15M State $5M Private $10M\nYear TotalGrants AverageGrantSize AllocationPercentage TotalProjects FundedInstitutions Headcount GrantSuccessRate\n2021 100 $150K 60% 25 50 300 80%\n2022 120 $125K 55% 30 60 350 82%",
+   "table_id": "img_229947_t2"
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    701
+   ],
+   "ocr": "However, it is critical to note that the retention rate for this platform was only 85.0%, suggesting challenges in maintaining long-term user commitment. Concurrently, student loan default rates remain a pressing concern, with total defaults reaching 4.5% in 2023, and the federal loans issued during this period totaling $1.1B."
+  },
+  "p10_b7": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "This financial strain is exacerbated by the allocation of research grant funding, where institutions achieved a grant success rate of 82%, with 60 funded institutions benefiting from these resources. Moreover, the total amount allocated for educational grants stood at 15.0%, reflecting the ongoing investment in enhancing educational outcomes. As stakeholders consider strategic improvements, understanding the dynamics between LMS usage and financial aid outcomes will be vital for future policy formulation."
+  }
+ }
+}

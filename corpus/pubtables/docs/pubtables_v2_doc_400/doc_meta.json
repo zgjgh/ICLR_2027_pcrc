@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_400",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3532161_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    604.4,
+    691.3,
+    871.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3532161_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Farm size</td><td></td><td rowspan=\"2\">Addis Ababa</td><td rowspan=\"2\">Debre Zeit</td><td rowspan=\"2\">Sebeta</td><td rowspan=\"2\">Holeta</td><td rowspan=\"2\">Sululta</td><td rowspan=\"2\">Sendafa</td><td rowspan=\"2\">Total</td></tr><tr><td></td></tr><tr><td rowspan=\"5\">Small#</td><td>Farm number</td><td>6</td><td>6</td><td>5</td><td>6</td><td>5</td><td>6</td><td>34</td></tr><tr><td>Animal number</td><td>40</td><td>25</td><td>37</td><td>36</td><td>34</td><td>46</td><td>218</td></tr><tr><td>Indiv. prev. (%)</td><td>0</td><td>16</td><td>16.2</td><td>13.9</td><td>11.8</td><td>2.2</td><td>9.2</td></tr><tr><td>Herd prev. (%)</td><td>0</td><td>33</td><td>40</td><td>16.7</td><td>40</td><td>17</td><td>23.5</td></tr><tr><td>PPD-A resp. (%)*</td><td>0 (0)</td><td>11 (0)</td><td>2.7 (0)</td><td>0 (0)</td><td>6.2 (0)</td><td>2.2 (0)</td><td>3.2 (0)</td></tr><tr><td rowspan=\"5\">Medium#</td><td>Farm number</td><td>5</td><td>5</td><td>7</td><td>6</td><td>5</td><td>5</td><td>33</td></tr><tr><td>Animal number</td><td>187</td><td>106</td><td>177</td><td>181</td><td>154</td><td>137</td><td>942</td></tr><tr><td>Indiv. prev. (%)</td><td>0.5</td><td>20.7</td><td>38.4</td><td>14.9</td><td>47.4</td><td>1.5</td><td>20.5</td></tr><tr><td>Herd prev. (%)</td><td>20</td><td>100</td><td>71</td><td>67</td><td>80</td><td>40</td><td>63.6</td></tr><tr><td>PPD-A resp. (%)*</td><td>3.2 (0.5)</td><td>1.9 (0)</td><td>8.5 (1.1)</td><td>2.8 (0)</td><td>22.7 (0.6)</td><td>0.7 (0)</td><td>6.8 (0.4)</td></tr><tr><td rowspan=\"5\">Large#</td><td>Farm number</td><td>5</td><td>5</td><td>2</td><td>2</td><td>4</td><td>3</td><td>21</td></tr><tr><td>Animal number</td><td>531</td><td>518</td><td>235</td><td>144</td><td>210</td><td>158</td><td>1796</td></tr><tr><td>Indiv. prev. (%)</td><td>36.2</td><td>23.5</td><td>72.8</td><td>1.4</td><td>53.8</td><td>89.9</td><td>41.3</td></tr><tr><td>Herd prev. (%)</td><td>80</td><td>100</td><td>100</td><td>100</td><td>100</td><td>67</td><td>90.5</td></tr><tr><td>PPD-A resp. (%)*</td><td>17.1 (0.2)</td><td>11 (1.3)</td><td>11.1 (0)</td><td>9 (0.7)</td><td>10 (0.5)</td><td>24.7 (0.6)</td><td>13.8 (0.6)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3532161_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    587.9,
+    664.2,
+    883.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3532161_table_1.png",
+   "html": "<table><tr><td>Variable</td><td>Category</td><td>Animal No.*</td><td>BTB reactors*</td><td>OR (95%CI)</td><td>p-value</td></tr><tr><td rowspan=\"3\">Herd size</td><td>Small</td><td>216 (7.3)</td><td>20 (2.1)</td><td></td><td></td></tr><tr><td>Medium</td><td>942 (31.9)</td><td>193 (20.2)</td><td>2.5 (0.91; 6.85)</td><td>0.07</td></tr><tr><td>Large</td><td>1796 (60.8)</td><td>742 (77.7)</td><td>5.9 (2.06; 16.84)</td><td>0.001</td></tr><tr><td rowspan=\"4\">Breed</td><td>Crossbreed</td><td>1837 (62.8)</td><td>351 (37.2)</td><td></td><td></td></tr><tr><td>Holstein</td><td>1011 (34.6)</td><td>582 (61.8)</td><td>1.2 (0.69; 2.23)</td><td>0.47</td></tr><tr><td>Zebu</td><td>45 (1.5)</td><td>3 (0.3)</td><td>1.1 (0.89; 1.33)</td><td>0.39</td></tr><tr><td>Jersey</td><td>33 (1)</td><td>7 (0.7)</td><td>1.1 (0.73; 1.71)</td><td>0.59</td></tr><tr><td rowspan=\"2\">Sex</td><td>Female</td><td>2783 (94)</td><td>919 (96.3)</td><td></td><td></td></tr><tr><td>Male</td><td>170 (6)</td><td>35 (3.7)</td><td>0.9 (0.76; 1.23)</td><td>0.8</td></tr><tr><td rowspan=\"3\">Body condition score</td><td>Poor</td><td>212 (7.2)</td><td>62 (7)</td><td></td><td></td></tr><tr><td>Medium</td><td>1454 (49.5)</td><td>409 (43)</td><td>0.8 (0.57; 1.06)</td><td>0.1</td></tr><tr><td>Good</td><td>1272 (43.3)</td><td>481 (50)</td><td>0.8 (0.58; 1.13)</td><td>0.2</td></tr><tr><td rowspan=\"4\">Age class</td><td>,12 months</td><td>139 (5.2)</td><td>27 (3)</td><td></td><td></td></tr><tr><td>$12 mo - 3 yrs</td><td>823 (31)</td><td>225 (24.3)</td><td>2.2 (0.91; 5.51)</td><td>0.07</td></tr><tr><td>.3 yrs - 10 yrs</td><td>1642 (61.8)</td><td>656 (71)</td><td>3.6 (1.43; 9.30)</td><td>0.007</td></tr><tr><td>.10 yrs</td><td>54 (2)</td><td>16 (1.7)</td><td>4.1 (1.59; 10.56)</td><td>0.003</td></tr><tr><td rowspan=\"2\">PPD-A status</td><td>Negative</td><td>2636 (89.2)</td><td>755 (79)</td><td></td><td></td></tr><tr><td>Positive</td><td>318 (10.8)</td><td>200 (21)</td><td>1.6 (1.01; 2.60)</td><td>0.04</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3532161_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    617.1,
+    664.2,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3532161_table_2.png",
+   "html": "<table><tr><td>Variable</td><td>Category</td><td>Farm No.</td><td>BTB+ farms</td><td>OR (95% CI)</td><td>p-value</td></tr><tr><td rowspan=\"3\">Herd size</td><td>Small</td><td>32 (40.5)</td><td>9 (19.6)</td><td></td><td></td></tr><tr><td>Medium</td><td>31 (39.2)</td><td>21 (45.6)</td><td>5.4 (1.82; 15.76)</td><td>0.002</td></tr><tr><td>Large</td><td>16 (20.3)</td><td>16 (34.8)</td><td>-</td><td>-</td></tr><tr><td rowspan=\"4\">Owner education level</td><td>No school</td><td>11 (14)</td><td>3 (6.7)</td><td></td><td></td></tr><tr><td>Primary school</td><td>9 (11.6)</td><td>5 (11)</td><td>3.3 (0.51; 21.58)</td><td>0.2</td></tr><tr><td>Secondary school</td><td>31 (39.8)</td><td>20 (44.5)</td><td>4.8 (1.06; 22.10)</td><td>0.04</td></tr><tr><td>Diploma and degrees</td><td>27 (34.6)</td><td>17 (37.8)</td><td>4.5 (0.97; 21.14)</td><td>0.05</td></tr><tr><td rowspan=\"2\">BTB knowledge</td><td>Yes</td><td>57 (71.2)</td><td>36 (76.6)</td><td></td><td></td></tr><tr><td>No</td><td>23 (28.8)</td><td>11 (23.4)</td><td>0.5 (0.20; 1.42)</td><td>0.21</td></tr><tr><td rowspan=\"2\">Owner gender</td><td>Male</td><td>62 (78.5)</td><td>39 (84.8)</td><td></td><td></td></tr><tr><td>Female</td><td>17 (21.5)</td><td>7 (15.2)</td><td>0.4 (0.13; 1.23)</td><td>0.11</td></tr><tr><td rowspan=\"5\">Source of cattle purchase</td><td>Dairy farms</td><td>55 (71.4)</td><td>31 (67.4)</td><td></td><td></td></tr><tr><td>Markets, unknown origin</td><td>12 (15.6)</td><td>8 (17.4)</td><td>1.5 (0.41; 5.75)</td><td>0.51</td></tr><tr><td>Gift</td><td>2 (2.6)</td><td>1 (2.2)</td><td>0.8 (0.04; 13.02)</td><td>0.85</td></tr><tr><td>Research stations</td><td>5 (6.5)</td><td>3 (6.5)</td><td>1.2 (0.17; 7.51)</td><td>0.87</td></tr><tr><td>Dairy farms and markets</td><td>3 (3.9)</td><td>3 (6.5)</td><td>-</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3532161_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    121.8,
+    700.5,
+    780.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3532161_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Study area</td><td rowspan=\"2\">Farm ID: Animal ID</td><td rowspan=\"2\">CIDT (Dmm)</td><td rowspan=\"2\">PM score</td><td rowspan=\"2\">Type of TB</td><td rowspan=\"2\">Type of lesion</td><td rowspan=\"2\">AFB</td><td rowspan=\"2\">Strain ID</td><td rowspan=\"2\">M. bovis Spoligotype</td><td rowspan=\"2\">24-loci MIRU-VNTR type*</td></tr><tr></tr><tr><td>Addis Ababa</td><td>1:A</td><td>24</td><td>4</td><td>localized</td><td>caseous</td><td>Yes</td><td>BTB-2269</td><td>SB0134</td><td>35223 40554 21415 24222 2XXX</td></tr><tr><td>Addis Ababa</td><td>1:B</td><td>26</td><td>15</td><td>localized</td><td>calcified</td><td>No</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Addis Ababa</td><td>2:A</td><td>22</td><td>23</td><td>generalized</td><td>calcified/caseous</td><td>Yes</td><td>BTB-2850</td><td>SB1477</td><td>36223 32454 21445 24222 3213</td></tr><tr><td>Addis Ababa</td><td>2:B</td><td>18</td><td>23</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2840</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Holeta</td><td>3:A</td><td>30</td><td>10</td><td>generalized</td><td>caseous</td><td>Yes</td><td>BTB-2352</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Holeta</td><td>3:B</td><td>26</td><td>0</td><td>-</td><td>-</td><td>No</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Holeta</td><td>3:C</td><td>12</td><td>29</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2400</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Holeta</td><td>4:A</td><td>29</td><td>5</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2349</td><td>SB0134</td><td>-</td></tr><tr><td>Holeta</td><td>5:A</td><td>11</td><td>20</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2350</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sululta</td><td>6:A</td><td>16</td><td>14</td><td>localized</td><td>calcified/caseous</td><td>Yes</td><td>BTB-2762</td><td>SB0133</td><td>23223 32454 21425 24222 3323</td></tr><tr><td>Sululta</td><td>6:B</td><td>18</td><td>21</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2822</td><td>SB0133</td><td>23X23 32454 21425 24222 3323</td></tr><tr><td>Sululta</td><td>7:A</td><td>15</td><td>46</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2466</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Sululta</td><td>7:B</td><td>28</td><td>12</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2785</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Sululta</td><td>7:C</td><td>14</td><td>43</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2469</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Sululta</td><td>8:A</td><td>38</td><td>5</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2465</td><td>SB1176</td><td>35223 32554 21435 24222 3323</td></tr><tr><td>Sululta</td><td>8:B</td><td>24</td><td>1</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2461</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sendafa</td><td>9:A</td><td>21</td><td>14</td><td>generalized</td><td>calcified/caseous</td><td>Yes</td><td>BTB-2847</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sendafa</td><td>9:B</td><td>13</td><td>8</td><td>localized</td><td>caseous</td><td>Yes</td><td>BTB-2849</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sendafa</td><td>10:A</td><td>17</td><td>2</td><td>localized</td><td>caseous</td><td>Yes</td><td>BTB-2862</td><td>SB0133</td><td>-</td></tr><tr><td>Sendafa</td><td>10:B</td><td>41</td><td>4</td><td>localized</td><td>calcified/caseous</td><td>Yes</td><td>BTB-2861</td><td>SB0133</td><td>23223 32454 2X425 24222 3X23</td></tr><tr><td>Debre Zeit</td><td>11:A</td><td>17</td><td>20</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2266</td><td>SB1176</td><td>-</td></tr><tr><td>Debre Zeit</td><td>11:B</td><td>16</td><td>19</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2261</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Debre Zeit</td><td>12:A</td><td>4</td><td>9</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2260</td><td>SB1176</td><td>35223 32552 21435 24222 3323</td></tr><tr><td>Debre Zeit</td><td>13:A</td><td>23</td><td>19</td><td>generalized</td><td>calcified</td><td>No</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Debre Zeit</td><td>13:B</td><td>11</td><td>8</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2257</td><td>SB0133</td><td>23223 32454 21425 24222 3323</td></tr><tr><td>Sebeta</td><td>14:A</td><td>6</td><td>2</td><td>localized</td><td>calcified</td><td>No</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Sebeta</td><td>14:B</td><td>20</td><td>12</td><td>localized</td><td>caseous</td><td>Yes</td><td>BTB-2813</td><td>SB1176</td><td>3522X 32554 2X435 24X22 3323</td></tr><tr><td>Sebeta</td><td>15:A</td><td>18</td><td>37</td><td>generalized</td><td>calcified</td><td>Yes</td><td>BTB-2803</td><td>SB1176</td><td>35223 32552 21435 24222 3323</td></tr><tr><td>Sebeta</td><td>15:B</td><td>18</td><td>6</td><td>localized</td><td>caseous</td><td>Yes</td><td>BTB-2805</td><td>SB1176</td><td>35223 32552 21435 24222 3323</td></tr><tr><td>Sebeta</td><td>16:A</td><td>20</td><td>0</td><td>-</td><td>-</td><td>No</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Sebeta</td><td>16:B</td><td>22</td><td>4</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2768</td><td>SB1176</td><td>-</td></tr><tr><td>Sebeta</td><td>17:A</td><td>21</td><td>8</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2838</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sebeta</td><td>17:B</td><td>16</td><td>8</td><td>localized</td><td>calcified/caseous</td><td>Yes</td><td>BTB-2765</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sebeta</td><td>18:A</td><td>13</td><td>6</td><td>localized</td><td>caseous</td><td>Yes</td><td>BTB-2757</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sebeta</td><td>19:A</td><td>22</td><td>9</td><td>localized</td><td>calcified</td><td>Yes</td><td>BTB-2773</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr><tr><td>Sebeta</td><td>19:B</td><td>20</td><td>13</td><td>localized</td><td>calcified/caseous</td><td>Yes</td><td>BTB-2766</td><td>SB0134</td><td>35223 40554 21415 24222 2332</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3532161_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    121.8,
+    664.6,
+    354.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3532161_table_4.png",
+   "html": "<table><tr><td>Spoligotype</td><td>Region</td><td>Collection site</td><td>24 loci MIRU-VNTR type*</td><td>Frequency</td></tr><tr><td rowspan=\"8\">SB0133</td><td>North Ethiopia</td><td>Woldiya</td><td>23223 32454 21425 24222 3323</td><td>1</td></tr><tr><td>Central Ethiopia</td><td>This study</td><td>23223 32454 21425 24222 3323</td><td>3</td></tr><tr><td>Central Ethiopia</td><td>Addis Ababa</td><td>23223 32454 21435 24222 3323</td><td>1</td></tr><tr><td>South-East Ethiopia</td><td>Negelle</td><td>23223 32454 21425 24222 3223</td><td>1</td></tr><tr><td>South-East Ethiopia</td><td>Negelle</td><td>23223 32454 21425 24222 3323</td><td>2</td></tr><tr><td>South Ethiopia</td><td>Jinka</td><td>36223 22534 21436 24222 4323</td><td>1</td></tr><tr><td>South Ethiopia</td><td>Jinka</td><td>36223 22544 21436 24222 4323</td><td>4</td></tr><tr><td>West Ethiopia</td><td>Ghimbi</td><td>36223 22544 21436 24222 4323</td><td>1</td></tr><tr><td rowspan=\"4\">SB1176</td><td>North Ethiopia</td><td>Woldiya</td><td>35223 32554 21434 24222 3323</td><td>2</td></tr><tr><td>Central Ethiopia</td><td>This study</td><td>35223 32554 21435 24222 3323</td><td>8</td></tr><tr><td>Central Ethiopia</td><td>This study</td><td>35223 32552 21435 24222 3323</td><td>3</td></tr><tr><td>South Ethiopia</td><td>Jinka</td><td>35223 33574 31223 24222 3373</td><td>1</td></tr><tr><td rowspan=\"2\">SB0134</td><td>North Ethiopia</td><td>Gondar</td><td>35223 40554 21415 24222 2332</td><td>1</td></tr><tr><td>Central Ethiopia</td><td>This study</td><td>35223 40554 21415 24222 2332</td><td>11</td></tr></table>"
+  }
+ ]
+}

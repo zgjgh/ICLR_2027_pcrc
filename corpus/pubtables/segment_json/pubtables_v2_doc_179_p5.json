@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_179",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    411.0,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "The Comprehensive Allied Telemetry Experiment on Soil and Vegetation"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    351.8,
+    107.4
+   ],
+   "ocr": "Table 5. The major parameters jointly measured by the IE groups."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    720.5,
+    353.4
+   ],
+   "ocr": "Scale Observation Items Key Instruments\nSite Atmosphere: multilayer air temperature, wind speed/direction, humidity, AMS, radio soundings, time domain reﬂectometry, EC\nheat ﬂux, pressure, four component radiation, PAR, LST, precipitation, system,\nsnow depth;Soil: Multilayer moisture/temperature, roughness roughness,\nreﬂectance; EC.\nVegetation Size, density, defoliation ratio, inclination angle distribution, tree core, water ASD, total station, integrating sphere, canopy\ncontent, clumping index, spectroradiometer\ncomponent spectral reﬂectance and transmittance, orientation, chlorophyll and C/N SPAD,\nratio,\nIndividual Species, position, DBH, height, ﬁrst Total station, holometer,\nplant live branch height, crown shape and size ground-based LiDAR\nVegetation Position, dominant tree species, tree density, LAI, LAD, albedo, FAPAR, GPS, LAI 2000, LAI2002, Hemiview, TRAC, LAINet, LAINet,\nproductivity, brightness temperature, forest canopy quantum meter,\nplot coverage fraction, underlying vegetation coverage fraction,woody-to-total albedometer, TMMR, UAV camera, imaging spectrometer,\narea ratio, multi-component spectrum, canopy spectroradiometer and ground-based LiDAR,\nLarge Land cover types, terrain information quasi-real virtual 3-D scene of forest GPS, airborne CCD/ LiDAR/ SAR and computer simulation\nscale",
+   "table_id": "PMC4557998_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    361.5,
+    727.3,
+    897.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0137545.t005 structural parameters in order to calibrate and validate the spatial scale transformation models. Specifically, the SSEE provided calibration and validation data for the development of general conceptual scaling models, the development of parameterized physical scaling models, and an analysis of the optimal scale for analyzing scaling effects and scaling calibrations for indirect ground measurements on real vegetation structural parameters, as well as for the development and validation of scale transformation models for retrieving vegetation structural parameters. In collaboration with additional field experiments (RTME, TSEE, and SIE) and various sam- pling schemes (different observational elements and sampling schemes), the SSEE collected measurements that were comparable or proportional to the pixel size of multi-scale remote sensing data. In the context of complex land surfaces distributed over comparative slopes (the shady and sunny slopes) of the KEG, two types of forest plots were designed. One was designed for ground-based LiDAR scanning and intensive forest inventory (hereafter referred to as LF plots) and the other was designed for general forest inventory in regions with highly complex terrains (hereafter referred to as GF plots) (Fig 10). The plots contained particular land surface conditions (with various forest types, stand ages, stand densities, canopy closures, aspects, gra- dients, etc.) of the same size, 45 × 45 m2 and was equally divided into nine subplots. Vegetation parameters, including LAI, FAPAR, FVC, clumping index, woody-to-total area ratio, spectral reflectance, and transmittance were intensively observed at leaf, crown, plot, and large scales. Such structural and biogeophysical parameters of vegetation are critical for improving scaling models. The spatial scale gap between ground measurements and satellite remote sensing was expected to be bridged by use of very high resolution airborne data (SAR, LiDAR+CCD) and the digital camera image from unmanned missions. The temporal scale was also a key issue of the scaling transformation. Designed for explor- ing temporal scale transformation methods, the TSEE is largely based on time-continuous observations consisting of an automatic data collection network. The network provides time- series observing data that supports the model dynamic characteristics of vegetation parameters and improves methods for extracting the temporal characteristics of typical vegetation parame- ters and the dynamic knowledge base. Jointly conducted with additional experiments, the TSEE was performed over the Huailai site, KEY, and KEG during 2013. We measured vegetation structural parameters (such as LAI, height, etc.), and surface albedo and reflectance using automatic data collection systems. LAI"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0137545 September 2, 2015 17 / 27"
+  }
+ }
+}

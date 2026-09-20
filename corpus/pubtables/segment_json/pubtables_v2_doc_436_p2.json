@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_436",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    53.4,
+    296.3,
+    65.0
+   ],
+   "ocr": "Jimeno Yepes et al. BMC Bioinformatics (2015) 16:113"
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    627.8,
+    53.6,
+    679.1,
+    65.0
+   ],
+   "ocr": "Page 7 of 12"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    121.8,
+    102.0,
+    346.1,
+    147.8
+   ],
+   "ocr": "� � �"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    111.0,
+    679.1,
+    460.6
+   ],
+   "ocr": "than AdaBoostM1 and SVM, which is significant. Using SVM optimized for F-measure improves the performance over other learning algorithms on the same set of fea- tures, usually improving recall at the cost of precision for the configuration of the algorithm, which is not signif- icantly better compared to AdaBoostM1 with oversam- pling. AdaBoostM1 improves when using oversampling on the data set before the training. Feature sets Concerning the feature sets, it can be observed from Table 2 that the best performance is obtained when simple and traditional features such as unigrams and bigrams are used; the difference is significant except for AdaBoostM1. Note that, in this table, binary represen- tation is used. More specifically, bigrams are the best performing individual features. Just as a reminder, in our implementation bigrams include unigrams as well. Bigrams boost the precision at the cost of some recall, even though the average performance does not change. A close look at the results by MeSH heading (see Additional file 1: Extended results) shows that bigrams perform bet- ter on the most frequent MeSH headings, but perfor-"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    111.4,
+    366.7,
+    220.2
+   ],
+   "ocr": "TPmicro = TPi FPmicro = FPi FNmicro = FNi i∈C i∈C i∈C (4) TPmicro TPmicro precisionmicro = recallmicro ="
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    143.3,
+    207.4,
+    365.2,
+    227.8
+   ],
+   "ocr": "TPmicro + FPmicro TPmicro + FNmicro"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    221.5,
+    366.7,
+    461.2
+   ],
+   "ocr": "(5) Macro averages are calculated averaging the precision and recall calculated for each individual category. F- measure is then calculated based on this average. Results Table 2 shows the average classification performance for several learning algorithms and several feature sets, in terms of F-measure. Unless otherwise specified, macro average values are used since very frequent categories will have more relevance in micro averaging. Extended results are available from Additional file 1: Extended results (including results per MeSH heading, recall and preci- sion and micro and macro averages). Statistical signifi- cance of the results was computed using a randomization"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    457.4,
+    580.5,
+    475.6
+   ],
+   "ocr": "mance drops in the less frequent ones."
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    458.1,
+    366.7,
+    521.5
+   ],
+   "ocr": "version of the two sample t-test [55]. Machine learning algorithms Concerning the ML algorithms, our experiments provided"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    394.6,
+    471.5,
+    679.1,
+    491.5
+   ],
+   "ocr": "Our results corroborate previous claims that the use of"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    486.5,
+    679.1,
+    506.6
+   ],
+   "ocr": "noun phrases as classification features causes a signifi-"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    502.6,
+    679.1,
+    520.8
+   ],
+   "ocr": "cant decrease in performance compared with the use of"
+  },
+  "p2_b12": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    517.6,
+    679.0,
+    535.9
+   ],
+   "ocr": "unigrams [17]. This is in fact one of the worst performing"
+  },
+  "p2_b13": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    518.3,
+    366.7,
+    536.6
+   ],
+   "ocr": "some interesting conclusions (see Table 2). Overall we can"
+  },
+  "p2_b14": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    532.7,
+    679.0,
+    550.9
+   ],
+   "ocr": "classification features we have tested. Lewis [17] suggested"
+  },
+  "p2_b15": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    533.4,
+    366.6,
+    551.6
+   ],
+   "ocr": "see that AdaBoostM1 with oversampling and SVM opti-"
+  },
+  "p2_b16": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    547.7,
+    679.1,
+    566.0
+   ],
+   "ocr": "that the main reasons for these results are that phrase-"
+  },
+  "p2_b17": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    548.5,
+    366.7,
+    598.6
+   ],
+   "ocr": "mized for multi-variate measures perform much better Table 2 Feature comparison over all results"
+  },
+  "p2_b18": {
+   "type": "table",
+   "bbox": [
+    72.1,
+    604.6,
+    678.7,
+    884.5
+   ],
+   "ocr": "Feature SVMLight SVM-perf AdaBoostM1 Ada Over\nUnigram 0.418 0.492† 0.420 0.471†\nBigram 0.406 0.513*† 0.420 0.477*†\nArgumentative 0.403 0.479† 0.415 0.464†\nNoun phrases 0.222 0.329† 0.222 0.271†\nConcepts 0.409 0.497*† 0.427 0.480*†\nCUIs 0.398 0.496 0.422 0.475†\nMTI predictions 0.513* 0.531*† 0.478* 0.501*†\nMTI MMI 0.398 0.454† 0.367 0.382†\nMTI PRC 0.481* 0.502† 0.430 0.453†\nFirst level taxonomy 0.300 0.456† 0.351 0.429†\nSecond level taxonomy 0.222 0.424† 0.329 0.393†\nThird level taxonomy 0.173 0.383 0.285 0.341†\nJournal 0.115 0.193† 0.126 0.208†\nAffiliation 0.046 0.064 0.045 0.044†\nAuthor 0.062 0.137† 0.081 0.084†",
+   "table_id": "PMC4407321_table_1"
+  },
+  "p2_b19": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    891.8,
+    390.0,
+    923.1
+   ],
+   "ocr": "Results are reported in F-measure. Binary representation of features is used. Several and AdaBoostM1 with oversampling of positive instances (Ada Over). For each column, each pair of methods (SVMLight/SVM-perf and AdaBoostM1/Ada Over), statistical"
+  },
+  "p2_b20": {
+   "type": "caption",
+   "bbox": [
+    371.0,
+    891.8,
+    672.9,
+    923.1
+   ],
+   "ocr": "learning algorithms have been used including SVMLight, SVM-perf, AdaBoostM1 results significantly better than unigram (p>0.05) are indicated with *. For differences are highlighted using †."
+  }
+ }
+}

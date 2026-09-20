@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_012",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    260.5,
+    51.8
+   ],
+   "ocr": "Su et al. BMC Medical Genomics (2018) 11:40"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 4 of 22"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    270.1,
+    123.1
+   ],
+   "ocr": "Table 1 Datasets used in the meta-analysis"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    279.9
+   ],
+   "ocr": "Tissue GEO Accession Sample Size(control/PD) Platform PMID\nBlood GSE99039 PD = 205; HC = 233 GPL570: Affymetrix Human Genome U133 Plus 2.0 Array 28,916,538 [90]\nGSE6613 PD = 50; HC = 22 GPL96: Affymetrix Human Genome U133A Array 17,215,369 [91]\nGSE72267 PD = 40; HC = 19 GPL571: Affymetrix Human Genome U133A 2.0 Array 26,510,930 [92]\nSN GSE7621 PD = 16; HC = 9 GPL570: Affymetrix Human Genome U133 Plus 2.0 Array 17,571,925 [93]\nGSE8397-GPL96 PD = 24; HC = 15 GPL96: Affymetrix Human Genome U133A Array; 16,344,956 [94]\nGSE8397-GPL97 PD = 24; HC = 15 GPL97: Affymetrix Human Genome U133B Array\nGSE20141 PD = 10; HC = 8 GPL570: Affymetrix Human Genome U133 Plus 2.0 Array 20,926,834 [95]\nGSE20163 PD = 8; HC = 9 GPL96: Affymetrix Human Genome U133A Array 20,926,834 [95]",
+   "table_id": "PMC5899355_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    286.3,
+    229.1,
+    296.3
+   ],
+   "ocr": "PD Parkinson’s disease, HC healthy control"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    323.4,
+    367.5,
+    792.3
+   ],
+   "ocr": "miRNA interactions using DIANA-LncBase Experi- mental v.2 [26]. This database contains more than 70,000 low and high-throughput, (in)direct miRNA: lncRNA experimentally supported interactions, de- rived from manually curated publications and the analysis of 153 AGO CLIP-Seq libraries [26]. Experi- mentally validated (prediction score ≥ 0.90) lncRNAs were selected in our study. To study molecular regulator interactions, we built a regulatory network comprising common PD-specific genes, TFs associated with the genes, miRNAs associated with the genes and TFs associated with the miRNAs. In- formation on TFs binding site that were associated with the genes was obtained from TRANSFAC [27] based on the Match™ algorithm. The TRANSFAC database con- tains data from a wide variety of eukaryotic organisms, ranging from human to yeast and comprising data on transcription factors, their target genes and regulatory binding sites [27]. In our study, the search algorithm uses two score values, the matrix similarity score (MSS) and the core similarity score (CSS), to estimate the re- sult. Finally, the inclusion criteria was score = 1 for the MSS and CSS. The gene-miRNA interaction information was analyzed using DIANA-Tarbase [25]. Regulatory in- formation on the TFs associated with these miRNAs was obtained from the TransmiR database [28]. We then gen- erated the network using Cytoscape software v. 3.4.0 [24]. PD-specific and other neurodegenerative diseases re- lated miRNAs identified from miRNAs associated with the PD-specific genes were filtered from miRdSNP v.11. 03 online database [29]."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    323.4,
+    681.1,
+    927.7
+   ],
+   "ocr": "were selected in our study. Regulatory information on the TFs that were associated with these miRNAs was obtained from the TransmiR v.1.2 database [26]. We then got a regulatory pattern involving the TFs, lncRNAs and com- mon PD-specific genes associated with the PD-specific miRNAs. Regulatory analysis of the common non-PD-specific genes To study the molecular regulator interactions with the common non-PD-specific genes, we perform regulatory analysis including TFs associated with the genes, miR- NAs associated with the genes and TFs associated with the miRNAs. Information on the TFs that were associ- ated with the genes was obtained from TRANSFAC [27] and the inclusion criteria was score = 1for the MSS and CSS. The gene-miRNA interaction information was ana- lyzed using DIANA-Tarbase v.7.0 [25], miRWalk data- base v.3.0 [20] and TargetScan human v.7.1 [30]. Regulatory information on the TFs that were associated with these miRNAs was obtained from the TransmiR v. 1.2 database [28]. PD-specific miRNAs identified from miRNAs associ- ated with the common non-PD-specific genes were fil- tered from miRdSNP v.11.03 online database [29]. SNP analysis of the common PD-specific and other neurodegenerative disease-specific genes To identify PD-associated SNPs, the common genes in our study were subjected to SNP analysis. SNPs corre- sponding to these genes were identified from the MirSNP online database (http://bioinfo.bjmu.edu.cn/ mirsnp/search/) [31]. We obtained a large number of SNPs related to the genes. To identify the PD-specific or neurodegenerative disease-specific SNPs from this large number of SNPs, we screened the SNPs in miRdSNP v. 11.03 [29] and LincSNP v.2.0 [32]. Chromosome locus and allele gene information corresponding to each of the SNPs were searched using the dbSNP database(https:// www.ncbi.nlm.nih.gov/snp/?term=)."
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    823.3,
+    367.4,
+    927.9
+   ],
+   "ocr": "The analysis of lncRNAs and mTFs associated with these PD-specific miRNAs related to the PD-specific genes To identify possible lncRNA-mediated regulation of the PD-specific miRNAs associated with common PD- specific genes of our study, we collected regulatory in- formation in the lncbase module of DIANA-LncBase v.2 [26]. The experimentally validated lncRNAs (score ≥ 0.90)"
+  }
+ }
+}

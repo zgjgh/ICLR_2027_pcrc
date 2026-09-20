@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_305",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.0,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2009, 10:46"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/10/46"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    386.2,
+    107.2,
+    698.3,
+    767.3
+   ],
+   "ocr": "retrospective conversion; more recently, this figure is closer to 20 k articles per month. Nevertheless, full-text collections will inevitably outgrow the capabilities of indi- vidual machines – the only practical recourse is to distrib- ute computations across multiple machines in a cluster. I have been exploring the requirements of scaling to larger datasets with Ivory, a toolkit for distributed text retrieval implemented in Java using Hadoop, which is an open- source implementation of the MapReduce framework [4]. Section 5.3 describes Ivory in more detail, but an evalua- tion of its efficiency is presented here. Specifically, I com- pare the original implementation of Lucene with the Ivory implementation of the Lucene ranking algorithm (to fac- tor out the effects of different retrieval algorithms). All experiments were conducted with Amazon's Elastic Compute Cloud (EC2) service, which allows one to dynamically provision clusters of different sizes. EC2 is an example of a \"utility computing\" service, where anyone can \"rent\" computing cycles at a reasonable cost. For this work, EC2 provided a homogeneous computing environ- ment that supports easy comparison of different cluster configurations. The basic unit of computing resource in EC2 is the small instance-hour, the virtualized equivalent of a processor core with 1.7 GB of memory, running for an hour. I experimented with the following configurations: • Lucene (version 2.0), running on a single EC2 instance. Default settings \"out of the box\" were used for all experi- ments. • Ivory (with Hadoop version 0.17.0), running on an EC2 cluster with 10 slave instances (plus 1 instance for the master). This is comparable to a cluster with 10 cores. • Same as above, except with 20 slave instances, compara- ble to a cluster with 20 cores. As an aside, note that physical equivalents of these clusters are quite modest by today's standards. Quad-core proces- sors are widely available in server-class machines, and and the Lucene ranking algorithm."
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    68.3,
+    117.7,
+    369.9,
+    153.4
+   ],
+   "ocr": "Table 3: Effectiveness of bm25 and the Lucene ranking algorithm combining evidence from spans with evidence from abstracts and articles."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    164.4,
+    351.2,
+    504.7
+   ],
+   "ocr": "MAP\nIvory (bm25) Ivory (Lucene)\nSpan (max) 0.240 0.206\nSpan (max) + Abstract 0.257 (+7%)° 0.216 (+5%)°\nSpan (max) + Article 0.257 (+7%)° 0.262 (+27%)**\nP20\nIvory (bm25) Ivory (Lucene)\nSpan (max) 0.357 0.332\nSpan (max) + Abstract 0.382 (+7%)° 0.349 (+5%)°\nSpan (max) + Article 0.343 (-4%)° 0.404 (+22%)**\nIP@R50\nIvory (bm25) Ivory (Lucene)\nSpan (max) 0.212 0.189\nSpan (max) + Abstract 0.215 (+1%)° 0.190 (+1%)°\nSpan (max) + Article 0.257 (+21%)° 0.244 (+29%)**",
+   "table_id": "PMC2695361_table_2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    520.9,
+    383.3,
+    767.3
+   ],
+   "ocr": "For all metrics, relative improvements over baseline are shown; ** = statistically significant (p < 0.01); * = statistically significant (p < 0.05); ° = not significant. Open-source text retrieval systems available today, designed to run on individual machines, would have no difficulty handling the Highwire collection and even col- lections that are much larger. However, these articles rep- resent only a small fraction of the material already available or soon to be available. Based on recent esti- mates, records are added to MEDLINE at a rate of approx- imately 65 k per month. A lower bound on the growth of available full-text content can be estimated by examining the growth of PubMed Central. Over the past two years, the digital archive has grown by approximately 40 k arti- cles per month. However, the growth rate is uneven due to Table 4: Comparison of different experimental conditions for bm25"
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    778.5,
+    497.3,
+    898.3
+   ],
+   "ocr": "Model Metric Comparison\nbm25 MAP Span (max) + Article, Span (max) >> Abstract, Article\nP20 Span (max) + Article, Span (max), Abstract >> Article\nIP@R50 Span (max) + Article >> Abstract, Article; Span (max) >> Abstract\nLucene MAP Span (max) + Article >> Span (max), Article >> Abstract\nP20 Span (max) + Article > Span (max), Article; Article > Abstract\nIP@R50 Span (max) + Article > Span (max), Article >> Abstract",
+   "table_id": "PMC2695361_table_3"
+  },
+  "p2_b7": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    914.6,
+    399.0,
+    926.4
+   ],
+   "ocr": "A >> B indicates that A is significantly better than B (p < 0.01); A > B indicates"
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    401.9,
+    914.6,
+    591.8,
+    926.4
+   ],
+   "ocr": "that A is significantly better than B (p < 0.05);"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 15 (page number not for citation purposes)"
+  }
+ }
+}

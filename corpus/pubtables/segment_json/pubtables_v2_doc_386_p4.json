@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_386",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    514.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prokaryotic Glycosylated-Residue Prediction"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    380.2,
+    106.0
+   ],
+   "ocr": "Table 4. Combined performance statistics of SVM employing (using balanced dataset)."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    81.4,
+    687.5,
+    92.8
+   ],
+   "ocr": "solo features and hybrid approaches in predicting N-glycosites"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    662.2,
+    336.4
+   ],
+   "ocr": "Feature Sensitivity (%) Specificity (%) Accuracy (%) MCC (%) AUC (%)\nCPP 59.81 64.49 62.15 0.24 0.65019\nCPP+SS 63.55 69.16 66.36 0.33 0.68731\nCPP+ASA 71.03 69.16 70.09 0.40 0.77203\nCPP+SS+ASA 70.09 67.29 68.69 0.37 0.71159\nBPP 79.44 80.37 79.91 0.60 0.88322\nBPP+SS 82.24 80.37 81.31 0.63 0.88453\nBPP+ASA 84.11 81.31 82.71 0.65 0.89807\nBPP+SS+ASA 84.11 80.37 82.24 0.65 0.88497\nPPP 76.42 69.81 73.11 0.46 0.76833\nPPP+SS 75.70 71.03 73.36 0.47 0.78880\nPPP+ASA 77.57 71.03 74.30 0.49 0.78636\nPPP+SS+ASA 75.70 71.96 73.83 0.48 0.79334",
+   "table_id": "PMC3392279_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    349.2,
+    376.4,
+    652.8
+   ],
+   "ocr": "Footnotes: BPP- Binary profile of patterns, CPP- Composition profile of patterns, curve, SS-secondary structure and ASA- Accessible surface area. doi:10.1371/journal.pone.0040155.t004 value of prediction by 2.5 fold (Table S1, Figure S4) indicating that surface accessibility alone could indeed be a useful criterion in glycosites prediction models discussed here. Further, the observed poorer performance of SVM with realistic datasets than with the balanced datasets of course is due to the inherent learning biases of realistic datasets. However, overall our SVM models optimized with realistic datasets fared reasonably well in predicting both N- and O- glycosites from realistic datasets (Table S1). Prediction Performance on Independent Datasets Finally, the performance of best-optimized models as discussed before (Table 4, Table 5) were evaluated and compared with performances of NetOGlyc v 3.0, NetNGlyc, EnsembleGly against an independent set of experimentally verified prokaryotic glyco- proteins (Table 6). Models developed and discussed in this study Table 5. Combined performance statistics of SVM classifiers glycosites (using balanced dataset)."
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    378.8,
+    349.2,
+    700.7,
+    358.0
+   ],
+   "ocr": "PPP- PSSM profile of patterns, MCC- Matthews correlation coefficient, AUC- Area under"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    377.3,
+    398.3,
+    700.8,
+    639.5
+   ],
+   "ocr": "not only provided reasonably high accuracy (86.84% for N- glycosites with maximum MCC of 0.74 and 76.23% for O- glycosites with maximum MCC value of 0.53, respectively) but have convincingly outperformed performances of at least three of the well-known existing glycosites prediction tools as detailed in Table 6 in the context of prokaryotic glycosites prediction. Description of Web-server The overall best performing models described in Table 6 are implemented in the form of a web-server GlycoPP available freely at http://www.imtech.res.in/raghava/glycopp/. The common gateway interface of GlycoPP is written using CGI/PERL script. This server allows for prediction of N- and O-glycosites in prokaryotic protein sequences. Predictions can be performed by the users at any of the user-defined thresholds ranging from 21.0 employing solo features and hybrid approaches in predicting O-"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    681.8,
+    656.1,
+    883.1
+   ],
+   "ocr": "Feature Sensitivity (%) Specificity (%) Accuracy (%) MCC (%) AUC (%)\nCPP 68.10 72.41 70.26 0.41 0.74071\nCPP+SS 70.69 71.55 71.12 0.42 0.75743\nCPP+ASA 67.24 75.00 71.12 0.42 0.75780\nCPP+SS+ASA 72.41 75.00 73.71 0.47 0.76955\nBPP 66.38 67.24 66.81 0.34 0.73023\nBPP+SS 69.83 68.10 68.97 0.38 0.74160\nBPP+ASA 77.59 61.21 69.40 0.39 0.71143\nBPP+SS+ASA 65.52 72.41 68.97 0.38 0.73766\nPPP 75.00 71.55 73.28 0.47 0.81250\nPPP+SS 73.28 73.28 73.28 0.47 0.76806\nPPP+ASA 74.14 71.55 72.84 0.46 0.77341\nPPP+SS+ASA 77.59 69.83 73.71 0.48 0.76925",
+   "table_id": "PMC3392279_table_4"
+  },
+  "p4_b8": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    895.9,
+    376.4,
+    926.1
+   ],
+   "ocr": "Footnotes: BPP- Binary profile of patterns, CPP- Composition profile of patterns, curve, SS-secondary structure and ASA- Accessible surface area. doi:10.1371/journal.pone.0040155.t005"
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    378.8,
+    895.9,
+    700.7,
+    904.7
+   ],
+   "ocr": "PPP- PSSM profile of patterns, MCC- Matthews correlation coefficient, AUC- Area under"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    392.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 10"
+  },
+  "p4_b11": {
+   "type": "header_footer",
+   "bbox": [
+    518.8,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "July 2012 | Volume 7 | Issue 7 | e40155"
+  }
+ }
+}

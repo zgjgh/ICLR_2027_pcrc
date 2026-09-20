@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_337",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.6,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Seasonal and Diel Marine Bacterial Function"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    390.5,
+    76.8,
+    700.8,
+    368.7
+   ],
+   "ocr": "representing the scaled similarity between samples. Similarity profiles analysis, SIMPROF [49] was used to test for multivariate structure. Nonmetric multidimensional scaling was used to ordinate similarities between samples. For the SEED annotations, similarities percentages breakdown, SIMPER [47] was used to determine which functional categories and SEED subsystems contributed most to differences between groups of samples (grouped by day/night and season). Good’s coverage estimates (see above) were also calculated for metagenomic and metatran- scriptomic pORFs as for 16S rRNA V6 sequences, where ni is the number of singleton pORFs. Results and Discussion The bacterial community at the L4 site in the Western English Channel is seasonally structured, cycling through Winter, Summer, Autumn and Spring communities, and diversity shows a relationship with day-length [10,14]. Here, we address whether metagenomic and metatranscriptomic profiles follow a similar pattern, extend our study of L4 to include time points taken at and night samples in January, April and August."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    386.6,
+    368.7
+   ],
+   "ocr": "clustered at 60% amino acid identity over 80% of the length of the longest sequence to group these sequences by protein families [e.g. 25,11]. The relative abundance of each sample in a cluster was used to create an abundance matrix using the output cluster files from the CD-HIT program, the files containing the original fasta sequences and headers for each sample (abundanceMatrix-twoStep.pl). Subsequently, all protein clusters with #2 representative pORFs were removed from the pORF matrix (MatrixParser.pv). To allow direct comparison all samples were randomly re-sampled (Dai- sychopper.pl) to the same number of pORFs or sequences across the clusters or functional/taxonomic SEED annotations, to equalize the sequencing effort. The abundance of each pORF cluster and functional/taxonomic SEED annotation was then analysed using non-parametric multivariate analyses [47,48]. Firstly, all data were transformed by square root; then a separate Bray-Curtis similarity matrix was calculated for the protein clusters and SEED annotations for both the metagenomes and metatranscriptomes. The matrices were then clustered using hierarchical agglomerative clustering with group- average linkage to produce a dendrogram Table 5. Comparison of metatranscriptomic datasets from day"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    397.8,
+    697.9,
+    861.8
+   ],
+   "ocr": "Metatranscriptomes January April August 27th August 28th Total\nTime 15:00 19:30 16:00 22:00 16:00 22:00 04:00 10:00\nNo. Original cDNA Sequences 139,880 130,826 124,925 147,492 139,375 193,254 154,865 nr 1,030,617\nNo. of sequences following 94,024 106,864 84,916 109,577 87,799 118,360 111,568 nr 713,108\nfiltering***\nNo. mRNA following removal 61,831 96,026 41,378 53,413 33,149 51,829 55,006 nr 392,632\nof rRNA\nPredicted ORFs (.40aa pORFs) 143,169 211,374 81,642 107,699 77,985 66,529 159,909 nr 848,307\nNo. of pORF clusters (95%) 98,871 78,278 35,648 51,088 28,167 24,136 68,080 nr 350335**\n(848,370 seqs)\nNo. of pORF singletons (95%) 82,464 54,870 25,925 38,960 19,600 17,177 50,246 nr 262,767**\n(262,767 seqs)\nNo. of pORF ‘families’ (60%) 84,598 45,049 19,131 37,628 15,146 12,735 41,480 nr 230,505**\n(350,335 seqs)\nNo. of pORF singletons (60%) 76,655 30,720 13,869 30,919 9,857 9,134 32,662 nr 187,083**\n(187083 seqs)\nResampled pORFs (66529)\nNo. of pORF clusters (95%) 31026 50354 30334 34217 24848 24136 33191 nr 205368**\n(66529) (465703 seqs)\nNo. of pORF singletons (95%) 23038 43687 22394 26840 17373 17177 25636 nr 157658\n(66529)\nGood’s Coverage (66529) 65.37 34.33 66.34 59.66 73.89 74.18 61.47 nr 66.15\nNo. mRNA seqs with 11,513 31,990 8,845 16,315 11,720 5,907 15,384 nr 101,674\nfunctional annotation\nNo. mRNA seqs without 50,318 (81) 64,036 (67) 32,533 (79) 37,098 (69) 21,429 (65) 45,922 (89) 39,622 (72) nr 290,958 (74)\nfunctional annotation (%)\nNo. mRNA seqs with 29,521 30,778 20,899 26,398 15,456 29,605 38,304 nr 190,961\ntaxonomic annotation\nResampled sequencing\neffort (15,456)\nNumber of archaeal 625 49 1 16 4 4 11 nr 710\nsequences (15,456)\nNumber of bacterial 13,633 11,926 13,702 8,449 14,469 15,071 14,803 nr 92,053\nsequences (15,456)",
+   "table_id": "PMC2993967_table_4"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    875.1,
+    402.6,
+    926.7
+   ],
+   "ocr": "**Number of protein clusters found when combining all datasets together: therefore, datasets. ***filtering out any sequence with .10% Ns; ,75 bp; .60% any single base; sequences)) x 100. Nr – not recorded. doi:10.1371/journal.pone.0015545.t005"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    377.0,
+    875.1,
+    699.4,
+    905.3
+   ],
+   "ocr": "protein clusters from combined dataset, not a sum of clusters from individual absolute duplicates. Coverage = (12(number of singletons/number of resampled"
+  },
+  "p4_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "5 November 2010 | Volume 5 | Issue 11 | e15545"
+  }
+ }
+}

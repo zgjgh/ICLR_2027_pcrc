@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_095",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_104801_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    274.0,
+    580.0,
+    587.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_104801_t0.png",
+   "html": "<table><tr><td colspan=\"3\">CentralBankReserves</td><td>inJPY</td></tr><tr><td colspan=\"3\">TotalHoldings</td><td>YearlyChange</td></tr><tr><td colspan=\"3\">ReservesRatio</td><td>InflationRate</td></tr><tr><td colspan=\"3\">AssetsUnderManagement</td><td>CurrencyExposure</td><td colspan=\"3\">InvestmentIncome</td><td>ExchangeRateIndex</td></tr><tr><td>2020</td><td>2021</td><td>2022</td><td>Growth%</td><td>CurrentRatio</td><td>Debt/Equity</td><td>P/ERatio</td><td>NetInterestMargin</td></tr><tr><td>150trillion</td><td>160trillion</td><td>170trillion</td><td>6.67%</td><td>1.5</td><td>0.25</td><td>12.3</td><td>1.75%</td></tr><tr><td>20trillion</td><td>22trillion</td><td>24trillion</td><td>10%</td><td>1.7</td><td>0.30</td><td>11.5</td><td>1.80%</td></tr><tr><td>100trillion</td><td>110trillion</td><td>120trillion</td><td>10%</td><td>1.6</td><td>0.20</td><td>10.8</td><td>2.00%</td></tr><tr><td>80trillion</td><td>90trillion</td><td>95trillion</td><td>5.56%</td><td>1.4</td><td>0.15</td><td>9.3</td><td>1.50%</td></tr><tr><td>70trillion</td><td>72trillion</td><td>75trillion</td><td>4.17%</td><td>1.3</td><td>0.10</td><td>8.5</td><td>1.25%</td></tr><tr><td>60trillion</td><td>65trillion</td><td>68trillion</td><td>4.62%</td><td>1.2</td><td>0.05</td><td>7.8</td><td>1.10%</td></tr><tr><td>AnnualGrowth</td><td>TotalRatio</td><td>MarketTrends</td><td>FiscalPolicy</td><td>LiquidityIndex</td><td>MonetaryPolicy</td><td>RiskAssessment</td><td>FutureOutlook</td></tr></table>"
+  },
+  {
+   "table_id": "img_104833_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    202.0,
+    575.0,
+    705.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_104833_t0.png",
+   "html": "<table><tr><td>Region</td><td>UnitsSold</td><td>DefaultRate</td><td>TotalVolume</td><td>ActiveUsers</td><td>PaymentPlans</td><td colspan=\"2\">DefaultAnalysis</td><td>TotalDefaults</td></tr><tr><td>NorthAmerica</td><td>100,000</td><td>5.1%</td><td>$500M</td><td>1,200,000</td><td>250,000</td><td>HighRisk</td><td>TotalHighRisk</td><td>5,100</td></tr><tr><td>Canada</td><td>40,000</td><td>4.9%</td><td>$200M</td><td>500,000</td><td>100,000</td><td>ModerateRisk</td><td>TotalModerateRisk</td><td>2,000</td></tr><tr><td>USA</td><td>60,000</td><td>5.3%</td><td>$300M</td><td>700,000</td><td>150,000</td><td>LowRisk</td><td>TotalLowRisk</td><td>3,100</td></tr><tr><td>PaymentType</td><td>UnitsSold</td><td>DefaultRate</td><td>TotalVolume</td><td>ActiveUsers</td><td>PaymentPlans</td><td>DefaultAnalysis</td><td>TotalDefaults</td><td>InstallmentPlans</td></tr><tr><td>70,000</td><td>3.8%</td><td>$350M</td><td>900,000</td><td>200,000</td><td>RevolvingCredit</td><td>30,000</td><td>7.2%</td><td>$150M</td></tr><tr><td>300,000</td><td>50,000</td><td>Pay-in-Four</td><td>20,000</td><td>6.5%</td><td>$100M</td><td>150,000</td><td>20,000</td><td>PaymentFrequency</td></tr><tr><td>UnitsSold</td><td>DefaultRate</td><td>TotalVolume</td><td>ActiveUsers</td><td>PaymentPlans</td><td>DefaultAnalysis</td><td>TotalDefaults</td><td>Monthly</td><td>80,000</td></tr><tr><td>4.0%</td><td>$400M</td><td>1,000,000</td><td>150,000</td><td>Bi-Weekly</td><td>20,000</td><td>6.0%</td><td>$100M</td><td>100,000</td></tr><tr><td>Weekly</td><td>10,000</td><td>8.0%</td><td>$50M</td><td>70,000</td><td>5,000</td><td>TotalPortfolio</td><td>UnitsSold</td><td>DefaultRate</td></tr><tr><td>TotalVolume</td><td>ActiveUsers</td><td>PaymentPlans</td><td>TotalDefaults</td><td>TotalUsers</td><td>30,000</td><td>5.5%</td><td>$200M</td><td>500,000</td></tr><tr><td>100,000</td><td>YearlyComparison</td><td>UnitsSold</td><td>DefaultRate</td><td>TotalVolume</td><td>ActiveUsers</td><td>PaymentPlans</td><td>TotalDefaults</td><td>Increase/Decrease</td></tr></table>"
+  },
+  {
+   "table_id": "img_104839_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    496.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_104839_t0.png",
+   "html": "<table><tr><td>TrainingCosts(INR)</td><td>CertificationCosts(INR)</td><td>TotalCosts(INR)</td><td>5-YearCAGR(%)</td></tr><tr><td>Year1</td><td>500000</td><td>300000</td><td>800000</td></tr><tr><td>Year2</td><td>550000</td><td>320000</td><td>870000</td></tr><tr><td>Year3</td><td>600000</td><td>340000</td><td>940000</td></tr><tr><td>Year4</td><td>650000</td><td>360000</td><td>1010000</td></tr><tr><td>Year5</td><td>700000</td><td>380000</td><td>1080000</td></tr><tr><td>AverageCost(INR)</td><td>610000</td><td>340000</td><td>950000</td></tr><tr><td>TrainingGrowth(%)</td><td>6.5</td><td>CertificationGrowth(%)</td><td>5.5</td></tr><tr><td>OverallGrowth(%)</td><td>6.0</td><td>TotalInvestment(INR)</td><td>5000000</td></tr><tr><td>ReturnonInvestment(%)</td><td>20</td><td>EmployeeCount</td><td>2000</td></tr><tr><td>TrainingSessions</td><td>150</td><td>CertificationsIssued</td><td>1800</td></tr><tr><td>TotalExpenditure(INR)</td><td>20000000</td><td>BudgetAllocation(%)</td><td>15</td></tr></table>"
+  },
+  {
+   "table_id": "img_104871_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    302.0,
+    580.0,
+    583.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_104871_t0.png",
+   "html": "<table><tr><td>Product</td><td>UnitsSold</td><td>AveragePrice</td><td>Revenue</td><td>GrossMargin</td><td colspan=\"2\">OperationalMetrics</td></tr><tr><td>Headcount</td><td>NumberofSites</td><td>ProductionVolume</td><td>RefinedMetal</td><td>SmeltingCost</td><td>RefiningCost</td><td>NetMargin</td></tr><tr><td>Copper</td><td>200,000</td><td>$3.50</td><td>$700M</td><td>25%</td><td>1,500</td><td>5</td></tr><tr><td>180,000</td><td>Gold</td><td>100,000</td><td>$1,800</td><td>$180M</td><td>30%</td><td>800</td></tr><tr><td>3</td><td>90,000</td><td>Nickel</td><td>70,000</td><td>$9.00</td><td>$630M</td><td>20%</td></tr><tr><td>600</td><td>2</td><td>65,000</td><td>Zinc</td><td>150,000</td><td>$1.20</td><td>$180M</td></tr><tr><td>35%</td><td>1,000</td><td>4</td><td>140,000</td><td>Lead</td><td>50,000</td><td>$2.00</td></tr><tr><td>$100M</td><td>40%</td><td>300</td><td>1</td><td>45,000</td><td>Platinum</td><td>25,000</td></tr><tr><td>$1,000</td><td>$25M</td><td>50%</td><td>200</td><td>1</td><td>24,000</td><td>Silver</td></tr><tr><td>30,000</td><td>$25</td><td>$750K</td><td>15%</td><td>150</td><td>1</td><td>29,000</td></tr><tr><td>Lithium</td><td>10,000</td><td>$15,000</td><td>$150M</td><td>45%</td><td>100</td><td>1</td></tr><tr><td>12,000</td><td>Cobalt</td><td>8,000</td><td>$30,000</td><td>$240M</td><td>60%</td><td>50</td></tr></table>"
+  },
+  {
+   "table_id": "img_105107_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    199.0,
+    580.0,
+    509.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_105107_t0.png",
+   "html": "<table><tr><td>ServiceType</td><td colspan=\"2\">RateTrends</td><td>Change(%)</td></tr><tr><td>Quarter</td><td colspan=\"2\">AverageRate</td><td>Notes</td></tr><tr><td>DryContainer</td><td>CAD2,500</td><td>5.3%</td><td>Stabledemand</td></tr><tr><td>2025Q2</td><td>CAD2,700</td><td>4.8%</td><td>Increasedcapacity</td></tr><tr><td>ReeferContainer</td><td>CAD3,200</td><td>7.2%</td><td>Seasonalspike</td></tr><tr><td>FlatRack</td><td>CAD2,800</td><td>6.0%</td><td>Growingexport</td></tr><tr><td>OpenTop</td><td>CAD2,600</td><td>3.5%</td><td>Stablerates</td></tr><tr><td>TankContainer</td><td>CAD3,500</td><td>8.4%</td><td>Increaseddemand</td></tr><tr><td>PerDiemCharges</td><td>CAD150</td><td>2.0%</td><td>Consistent</td></tr><tr><td>FuelSurcharge</td><td>CAD500</td><td>10.0%</td><td>Volatileprices</td></tr><tr><td>TotalRevenue</td><td>CAD100M</td><td>5.0%</td><td>Overallgrowth</td></tr><tr><td>TotalVolume</td><td>40,000TEU</td><td>6.5%</td><td>Increasedshipments</td></tr></table>"
+  },
+  {
+   "table_id": "img_105246_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    378.0,
+    580.0,
+    619.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_105246_t0.png",
+   "html": "<table><tr><td>PropertyType</td><td>Amount(EUR)</td></tr><tr><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td colspan=\"2\">DispositionsOverview</td><td>TotalDispositions</td></tr><tr><td colspan=\"2\">ByRegion</td><td>ByType</td><td>OverallSummary</td></tr><tr><td>DataCenters</td><td>50M</td><td>5.0</td><td>20.0</td></tr><tr><td>Colocation</td><td>30M</td><td>3.0</td><td>12.0</td></tr><tr><td>Wholesale</td><td>20M</td><td>10.0</td><td>8.0</td></tr><tr><td>Europe</td><td>40M</td><td>4.5</td><td>16.0</td></tr><tr><td>Asia</td><td>10M</td><td>0.0</td><td>4.0</td></tr><tr><td>NorthAmerica</td><td>25M</td><td>2.0</td><td>10.0</td></tr><tr><td>Residential</td><td>15M</td><td>6.0</td><td>6.0</td></tr><tr><td>Total</td><td>100M</td><td>3.5</td><td>100.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_105430_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    245.0,
+    580.0,
+    665.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_105430_t0.png",
+   "html": "<table><tr><td>InvestmentType</td><td>ReturnonInvestment</td></tr><tr><td>Liquidity</td><td colspan=\"2\">RiskMetrics</td></tr><tr><td>RealEstate</td><td>8.5%</td><td>Moderate</td></tr><tr><td>PrivateEquity</td><td>12.3%</td><td>Low</td></tr><tr><td>HedgeFunds</td><td>9.7%</td><td>Moderate</td></tr><tr><td>Commodities</td><td>5.0%</td><td>High</td></tr><tr><td>Infrastructure</td><td>7.8%</td><td>Low</td></tr><tr><td>VentureCapital</td><td>15.2%</td><td>Moderate</td></tr><tr><td>Cryptocurrencies</td><td>25.0%</td><td>High</td></tr><tr><td>ArtInvestments</td><td>6.0%</td><td>Low</td></tr><tr><td>TotalAlternatives</td><td>8.9%</td><td>Moderate</td></tr><tr><td>Debt/Equity</td><td>1.5</td><td>CurrentRatio</td></tr><tr><td>2.1</td><td>P/ERatio</td><td>18.0</td></tr><tr><td>SharpeRatio</td><td>1.2</td><td>Beta</td></tr><tr><td>0.8</td><td>Alpha</td><td>3.5%</td></tr><tr><td>Volatility</td><td>10.5%</td><td>MaxDrawdown</td></tr><tr><td>-15.0%</td><td>InformationRatio</td><td>0.9</td></tr><tr><td>AverageHoldingPeriod</td><td>5years</td><td>LiquidityRatio</td></tr><tr><td>1.8</td><td>ReturnonEquity</td><td>11.5%</td></tr><tr><td>GrowthRate</td><td>6.0%</td><td>TotalReturns</td></tr></table>"
+  },
+  {
+   "table_id": "img_105654_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    203.0,
+    580.0,
+    615.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_105654_t0.png",
+   "html": "<table><tr><td colspan=\"4\">RareDiseaseFranchise</td><td>2020</td><td>2021</td><td>2022</td><td>Change(%)</td></tr><tr><td colspan=\"3\">Therapeutics</td><td colspan=\"2\">Revenue($M)</td><td colspan=\"3\">MarketShare(%)</td><td>2020</td><td>2021</td><td>2022</td><td>2020</td><td>2021</td></tr><tr><td>DrugA</td><td>50.0</td><td>60.5</td><td>75.0</td><td>21.0</td><td>22.5</td><td>23.0</td><td>40.0</td><td>42.0</td><td>45.0</td><td>DrugB</td><td>30.0</td><td>35.0</td></tr><tr><td>40.0</td><td>15.0</td><td>16.5</td><td>17.5</td><td>10.0</td><td>11.0</td><td>12.0</td><td>20.0</td><td>21.0</td><td>22.0</td><td>DrugC</td><td>20.0</td><td>25.0</td></tr><tr><td>30.0</td><td>8.0</td><td>9.0</td><td>10.0</td><td>5.0</td><td>5.5</td><td>6.0</td><td>12.0</td><td>12.5</td><td>13.0</td><td>DrugD</td><td>15.0</td><td>18.0</td></tr><tr><td>22.0</td><td>6.0</td><td>6.5</td><td>7.0</td><td>3.0</td><td>3.2</td><td>3.5</td><td>7.0</td><td>7.5</td><td>8.0</td><td>DrugE</td><td>10.0</td><td>12.0</td></tr><tr><td>15.0</td><td>4.0</td><td>4.5</td><td>5.0</td><td>2.0</td><td>2.1</td><td>2.2</td><td>5.0</td><td>5.5</td><td>6.0</td><td>DrugF</td><td>8.0</td><td>10.0</td></tr><tr><td>12.0</td><td>3.0</td><td>3.5</td><td>4.0</td><td>1.5</td><td>1.6</td><td>1.8</td><td>4.0</td><td>4.2</td><td>4.5</td><td>DrugG</td><td>5.0</td><td>6.0</td></tr><tr><td>7.0</td><td>2.0</td><td>2.2</td><td>2.5</td><td>1.0</td><td>1.1</td><td>1.3</td><td>2.5</td><td>2.8</td><td>3.0</td><td>DrugH</td><td>3.0</td><td>4.0</td></tr><tr><td>5.0</td><td>1.0</td><td>1.2</td><td>1.5</td><td>0.5</td><td>0.6</td><td>0.7</td><td>1.5</td><td>1.7</td><td>1.8</td><td>TotalRevenue</td><td>255.0</td><td>295.0</td></tr><tr><td>355.0</td><td>YoYChange(%)</td><td>15.7</td><td>20.3</td><td>MarketShare(%)</td><td>TotalMarket</td><td>13.5</td><td>14.1</td><td>15.0</td><td>GrowthRate(%)</td><td>10.0</td><td>12.0</td><td>14.0</td></tr><tr><td>NetProfitMargin(%)</td><td>25.0</td><td>27.5</td><td>30.0</td><td>R&amp;DInvestment($M)</td><td>30.0</td><td>35.0</td><td>40.0</td><td>SalesGrowth(%)</td><td>8.0</td><td>9.5</td><td>11.0</td><td>TotalRevenueGrowth(%)</td></tr></table>"
+  },
+  {
+   "table_id": "img_105695_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    164.0,
+    580.0,
+    613.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_105695_t0.png",
+   "html": "<table><tr><td colspan=\"2\">PortCallAnalysis</td><td>PortName</td><td>CallFrequency</td><td>AverageDwellTime</td><td>CargoVolume</td><td>RevenueGenerated</td><td>CostperCall</td><td>NetProfitMargin</td></tr><tr><td>PortA</td><td>8</td><td>2.5days</td><td>20000tons</td><td>$1.5M</td><td>$187.5K</td><td>12.5%</td><td>PortB</td><td>10</td></tr><tr><td>3days</td><td>25000tons</td><td>$2.0M</td><td>$200K</td><td>10%</td><td>PortC</td><td>15</td><td>1.8days</td><td>30000tons</td></tr><tr><td>$3.0M</td><td>$200K</td><td>15%</td><td>PortD</td><td>5</td><td>4days</td><td>15000tons</td><td>$1.0M</td><td>$200K</td></tr><tr><td>5%</td><td>PortE</td><td>12</td><td>2days</td><td>28000tons</td><td>$2.5M</td><td>$208.3K</td><td>12%</td><td>PortF</td></tr><tr><td>7</td><td>3.5days</td><td>22000tons</td><td>$1.8M</td><td>$257.1K</td><td>14%</td><td>PortG</td><td>9</td><td>2.2days</td></tr><tr><td>26000tons</td><td>$2.1M</td><td>$233.3K</td><td>11%</td><td>PortH</td><td>11</td><td>1.9days</td><td>24000tons</td><td>$2.3M</td></tr><tr><td>$209.1K</td><td>13%</td><td>PortI</td><td>6</td><td>3.8days</td><td>17000tons</td><td>$1.3M</td><td>$216.7K</td><td>9%</td></tr><tr><td>PortJ</td><td>14</td><td>2.1days</td><td>29000tons</td><td>$2.8M</td><td>$200K</td><td>10%</td><td>Total</td><td>100</td></tr><tr><td>2.5days</td><td>250000tons</td><td>$21.4M</td><td>$214.3K</td><td>11.6%</td><td>Average</td><td>10</td><td>2.5days</td><td>24000tons</td></tr><tr><td>$2.14M</td><td>$214.3K</td><td>11.6%</td><td>Year-over-Year</td><td>15%</td><td>5%</td><td>8%</td><td>12%</td><td>10%</td></tr><tr><td>GrowthRate</td><td>3%</td><td>2%</td><td>4%</td><td>5%</td><td>6%</td><td>OperationalEfficiency</td><td>80%</td><td>75%</td></tr></table>"
+  },
+  {
+   "table_id": "img_106208_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    137.0,
+    580.0,
+    587.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_106208_t0.png",
+   "html": "<table><tr><td>ProgramEnrollmentRate</td><td>LoyaltyMembers</td><td>TotalGuests</td><td>EnrollmentGrowth</td></tr><tr><td>2023Q1</td><td>2023Q2</td><td>2023Q3</td><td>2023Q4</td></tr><tr><td>Europe</td><td>UK</td><td>Germany</td><td colspan=\"5\">France</td></tr><tr><td>MembershipConversion</td><td>ActiveMembers</td><td>InactiveMembers</td><td>MemberRetention</td><td>RewardsRedemption</td><td>PointsEarned</td><td>PointsUsed</td><td>PointsExpired</td></tr><tr><td>12.5%</td><td>250,000</td><td>2,000,000</td><td>15.0%</td><td>10.0%</td><td>260,000</td><td>1,980,000</td><td>14.5%</td></tr><tr><td>10.1%</td><td>300,000</td><td>1,800,000</td><td>13.0%</td><td>15.5%</td><td>275,000</td><td>1,950,000</td><td>12.0%</td></tr><tr><td>9.8%</td><td>320,000</td><td>1,700,000</td><td>11.5%</td><td>16.5%</td><td>290,000</td><td>1,800,000</td><td>13.5%</td></tr><tr><td>8.0%</td><td>350,000</td><td>1,600,000</td><td>10.0%</td><td>17.0%</td><td>310,000</td><td>1,750,000</td><td>12.5%</td></tr><tr><td>7.5%</td><td>400,000</td><td>1,500,000</td><td>9.0%</td><td>18.0%</td><td>330,000</td><td>1,600,000</td><td>11.0%</td></tr><tr><td>6.5%</td><td>450,000</td><td>1,400,000</td><td>8.0%</td><td>19.5%</td><td>340,000</td><td>1,500,000</td><td>10.5%</td></tr><tr><td>5.5%</td><td>500,000</td><td>1,300,000</td><td>7.0%</td><td>20.0%</td><td>360,000</td><td>1,400,000</td><td>9.5%</td></tr><tr><td>4.0%</td><td>550,000</td><td>1,200,000</td><td>6.0%</td><td>21.0%</td><td>370,000</td><td>1,300,000</td><td>8.5%</td></tr></table>"
+  }
+ ]
+}

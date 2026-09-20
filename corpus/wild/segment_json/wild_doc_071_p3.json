@@ -1,0 +1,95 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_071",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    79,
+    580,
+    106
+   ],
+   "ocr": "This report presents a detailed analysis of the comparative effects of various methanolic extracts on different cell lines, specifically focusing on the MCF-7, HeLa, and Chang liver cell lines as outlined in the accompanying data table."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    94,
+    580,
+    137
+   ],
+   "ocr": "The findings are contextualized within the framework of the Yuman–Takic, Aztecan–Shoshone, and WMono–Eudeve/Òpata scenarios, which serve to highlight the diverse biological responses elicited by the extracts at concentrations of 27.5 a and 56.4 a."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    174.0,
+    580.0,
+    295.0
+   ],
+   "ocr": "Tree, network, and penalty costs\nData set Scenario Yuman–Takic Aztecan–Shoshone WMono–Eudeve/Òpata\nUto-Aztecan Tree 10120 10120 10120\nSoftwired 10063 10118 10113\nPenalty 21.833 0.94 4.23\nNetwork 10084.83 10118.94 10117.23",
+   "table_id": "img_079110_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    312.0,
+    580.0,
+    342.0
+   ],
+   "ocr": "Notably, the table includes critical metrics such as the “Identities” and “Score (Bits),” which provide insights into the alignment quality and similarity between the extracted compounds and known biological markers."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    371.0,
+    580.0,
+    492.0
+   ],
+   "ocr": "Sample CC50 value (μg/mL)\nMCF-7 HeLa Chang liver cell\nMethanolic extract 27.5 a 56.4 a 63.9 a\nTamoxifen 17.3 b 8.89 b 33.6 b\n* S.E.M 0.35 0.42 0.64\nP value 0.0001 0.0001 0.0001",
+   "table_id": "img_079110_t1"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    507.0,
+    580.0,
+    523.0
+   ],
+   "ocr": "These metrics are essential for understanding the potential efficacy and specificity of the extracts under investigation."
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    555.0,
+    580.0,
+    681.0
+   ],
+   "ocr": "Accession Identities Positives Gaps Score (Bits) E value\nEMCV P3304 65 78 0 627 0.E + 00\nFMDV P3305 41 62 2 370 3.E − 106\nHRV P3303 32 53 5 237 4.E − 66\nPV P3300 31 52 6 234 2.E − 65\nEV71 Q66478 29 50 4 207 4.E − 57",
+   "table_id": "img_079110_t2"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    696.0,
+    580.0,
+    742.0
+   ],
+   "ocr": "By examining the interactions and effects across the selected cell lines, this analysis aims to contribute to the broader understanding of the biological impacts of these extracts, thereby informing future research directions and potential therapeutic applications."
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_165",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    436.7,
+    48.8,
+    727.4,
+    60.9
+   ],
+   "ocr": "Transcriptome Analysis of Bacillus coagulans Response to Lactate"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    650.4,
+    107.4
+   ],
+   "ocr": "Table 4. Significantly upregulated genes involved in ‘amino sugar and nucleotide sugar metabolism’ under sodium lactate stress."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    367.8
+   ],
+   "ocr": "Gene ID Description FDR Fold change\nBCO26_0036 UDP-N-acetylglucosamine pyrophosphorylase 3.31E-03 2.29\nBCO26_0177 phosphoglucosamine mutase 8.52E-03 2.04\nBCO26_0186 NAD(P)(+)-protein-arginine ADP-ribosyltransferase 9.44E-07 4.03\nBCO26_0204 PTS system glucose subfamily transporter subunit IIA 9.03E-03 2.16\nBCO26_0255 glucosamine/fructose-6-phosphate aminotransferase 2.00E-09 5.17\nBCO26_0507 phosphoglucomutase/phosphomannomutase alpha/beta/alpha domain I 3.58E-02 1.63\nBCO26_0622 Galactokinase 1.44E-06 3.94\nBCO26_0623 UDP-glucose 4-epimerase 3.77E-05 3.28\nBCO26_0624 galactose-1-phosphate uridylyltransferase 1.80E-04 2.96\nBCO26_0635 N-acetylglucosamine-6-phosphate deacetylase 1.84E-07 4.35\nBCO26_0636 glucosamine-6-phosphate isomerase 5.23E-08 4.61\nBCO26_1444 UDP-N-acetylenolpyruvoylglucosamine reductase 4.85E-02 1.54\nBCO26_1699 ROK family glucokinase 4.25E-04 2.77\nBCO26_2463 N-acylglucosamine-6-phosphate 2-epimerase 3.29E-09 5.08\nBCO26_2818 UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1.28E-03 2.51",
+   "table_id": "PMC4398400_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    376.0,
+    724.1,
+    712.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0124316.t004 (P)(+)-protein-arginine ADP-ribosyltransferase (BCO26_0186), glucosamine/fructose- 6-phosphate aminotransferase (BCO26_0255), galactokinase (BCO26_0622), UDP-glucose 4-epimerase (BCO26_0623), N-acetylglucosamine-6-phosphate deacetylase (BCO26_0635), glucosamine-6-phosphate isomerise (BCO26_0636) and N-acylglucosamine-6-phosphate 2-epimerase (BCO26_2463). Eight genes were significantly upregulated specifically under sodium lactate stress, namely, UDP-N-acetylglucosamine pyrophosphorylase (BCO26_0036), phosphoglucosamine mutase (BCO26_0177), PTS system glucose subfamily transporter subunit IIA (BCO26_0204), phosphoglucomutase/phosphomannomutase alpha/beta/alpha do- main I (BCO26_0507), galactose-1-phosphate uridylyltransferase (BCO26_0624), UDP-N- acetylenolpyruvoylglucosamine reductase (BCO26_1444), ROK family glucokinase (BCO26_1699) and UDP-N-acetylglucosamine 1-carboxyvinyltransferase (BCO26_2818). More genes were significantly down-regulated under sodium lactate stress than under calcium lactate stress (11 to 1). The four subunits of phosphoenolpyruvate-dependent sugar phospho- transferase system (PTS) mannose/fructose/sorbose family transporter (i.e., BCO26_0540, BCO26_0541, BCO26_0542 and BCO26_0543) were significantly down-regulated under sodi- um lactate stress (S4 Table), whereas the PTS system glucose subfamily transporter subunit IIA (BCO26_0204) was significantly upregulated (Table 4). Table 5. Significantly regulated genes involved in ‘amino sugar and nucleotide sugar metabolism’ under calcium lactate stress."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    720.7,
+    726.7,
+    877.9
+   ],
+   "ocr": "Gene ID Description FDR Fold change\nBCO26_0186 NAD(P)(+)-protein-arginine ADP-ribosyltransferase 3.19E-02 1.82\nBCO26_0255 glucosamine/fructose-6-phosphate aminotransferase 2.02E-02 1.96\nBCO26_0622 Galactokinase 1.68E-03 2.64\nBCO26_0623 UDP-glucose 4-epimerase 4.24E-02 1.72\nBCO26_0635 N-acetylglucosamine-6-phosphate deacetylase 5.19E-03 2.36\nBCO26_0636 glucosamine-6-phosphate isomerase 4.01E-02 1.78\nBCO26_2126 PTS system glucose subfamily transporter subunit IIA 7.25E-03 2.27\nBCO26_2463 N-acylglucosamine-6-phosphate 2-epimerase 1.51E-02 2.06\nBCO26_0354 nucleotide sugar dehydrogenase 2.71E-02 -1.87",
+   "table_id": "PMC4398400_table_4"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0124316.t005"
+  },
+  "p4_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0124316 April 15, 2015 9 / 16"
+  }
+ }
+}

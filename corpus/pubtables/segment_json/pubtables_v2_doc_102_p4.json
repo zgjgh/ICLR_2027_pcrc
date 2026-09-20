@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_102",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.8,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:87"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/87"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    401.0,
+    118.9
+   ],
+   "ocr": "Table 4: Proportion of genes showing more than the indicated number"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    403.9,
+    107.2,
+    500.2,
+    118.9
+   ],
+   "ocr": "of literature support"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    694.1,
+    530.5
+   ],
+   "ocr": "Informative genes not in pathway cluster (Table 2) of top 22 pathways for LymphNode BC ER PR\n≥ 1 0.44 0.33 0.20\n≥ 2 0.31 0.27 0.18\n≥ 5 0.24 0.20 0.09\nLymphNode (pathway cluster) BC ER PR\n≥ 1 0.42 0.42 0.33\n≥ 2 0.42 0.42 0.25\n≥ 5 0.25 0.33 0.17\nInformative genes not in pathway cluster (Table 2) of top 22 pathways for p53 BC ER PR\n≥ 1 0.41 0.35 0.20\n≥ 2 0.33 0.28 0.13\n≥ 5 0.24 0.24 0.11\np53 (pathway cluster) BC ER PR\n≥ 1 1.00 1.00 0.75\n≥ 2 1.00 0.75 0.63\n≥ 5 0.63 0.63 0.25\nInformative genes not in pathway cluster (Table 2) of top 22 pathways for Consort BC ER PR\n≥ 1 0.50 0.22 0.16\n≥ 2 0.44 0.38 0.25\n≥ 5 0.34 0.28 0.13\nConsort (pathway cluster) BC ER PR\n≥ 1 0.88 0.75 0.63\n≥ 2 0.75 0.63 0.50\n≥ 5 0.50 0.50 0.25",
+   "table_id": "PMC2335306_table_3"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    546.8,
+    386.7,
+    744.3
+   ],
+   "ocr": "BC = breast cancer, ER = estrogen receptor, PR = progesterone receptor Shortest Path Analyses To investigate the possibility of pathway crosstalk further, we searched for the shortest path between GATA3 and CA12 with other top informative genes in the network of all links in the database of GeneGo's MetaCore. This tool assists in finding regulatory paths between two or more genes of interest. The results are shown in Tables 7 and 8. For both GATA3 and CA12, they are the genes with the least number of gene steps to the gene ESR1, with 2 and 3 Table 5: Breast Cancer Citations"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    581.9,
+    698.3,
+    714.7
+   ],
+   "ocr": "steps, respectively. It furthers strengthens our belief that the pathways GATA3 and Nitrogen Metabolism are closely tied with the other four pathways within the path- way cluster. The number of links with a distance of two between GATA3 and ESR1 is 6, which is much larger than ESR1 and EGFR or IKBKB both with just one gene con- necting between them. The gene, MUC1, connects ESR1 and EGFR. IKK-alpha is the gene which connects ESR1 and IKBKB. These two genes are a subset of the 6 between"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    755.4,
+    686.2,
+    916.3
+   ],
+   "ocr": "LymphNode In citation Not in citation p-value\nGenes in pathway cluster (Table 2) 8 4\nInformative genes not in pathway cluster (Table 2) of top 22 pathways 20 25 0.149\np53 In citation Not in citation p-value\nGenes in pathway cluster (Table 2) 8 0\nInformative genes not in pathway cluster (Table 2) of top 22 pathways 19 27 0.002\nConsort In citation Not in citation p-value\nGenes in pathway cluster (Table 2) 7 1\nInformative genes not in pathway cluster (Table 2) of top 22 pathways 16 16 0.061",
+   "table_id": "PMC2335306_table_4"
+  },
+  "p4_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 12 (page number not for citation purposes)"
+  }
+ }
+}

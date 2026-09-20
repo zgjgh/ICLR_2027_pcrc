@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_063",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    93,
+    580,
+    182
+   ],
+   "ocr": "In the first table, titled \"Histological examination result,\" the Pap test results include \"WNL,\" \"LSIL,\" \"HSIL,\" and \"SCC/Adeno-Ca\" with a total of 400 cases. The row for \"Negative/clinically negative\" shows values of 154 for WNL, 16 for LSIL, 3 for HSIL, and 0 for SCC/Adeno-Ca, totaling 173 (43.3%). The \"CIN1\" row indicates 21 for WNL, 97 for LSIL, 11 for HSIL, and 0 for SCC/Adeno-Ca, resulting in 129 (32.2%). For \"CIN2/3,\" the values are 2 for WNL, 18 for LSIL, 62 for HSIL, and 0 for SCC/Adeno-Ca, culminating in 82 (20.5%). The \"SCC/Adeno-Ca\" row presents 0 for WNL, 1 for LSIL, 6 for HSIL, and 9 for SCC/Adeno-Ca, aggregating to 16 (4.0%)."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    170,
+    580,
+    244
+   ],
+   "ocr": "The total column shows 177 (44.2%) for WNL, 132 (33.0%) for LSIL, 82 (20.5%) for HSIL, and 9 (2.3%) for SCC/Adeno-Ca. In the second table, \"SPT vs BAT,\" \"SPT vs FEIA,\" \"BAT vs FEIA,\" \"BAT sensitivity,\" \"FEIA sensitivity,\" \"BAT specificity,\" and \"FEIA specificity\" are analyzed across five subjects: Cat, Dog, DP, Timothy, and Birch. The Cat row shows R = .42P < .001 for SPT vs BAT, R = .61P < .001 for SPT vs FEIA, R = .44P < .001 for BAT vs FEIA, with sensitivity and specificity both at .84, .84, .73, and .83 respectively."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    282.0,
+    580.0,
+    442.0
+   ],
+   "ocr": "Pap test result Total\nWNL LSIL HSIL SCC/Adeno-Ca\nHistological examination result\nNegative/clinically negative 154 16 3 0 173 (43.3%)\nCIN1 21 97 11 0 129 (32.2%)\nCIN2/3 2 18 62 0 82 (20.5%)\nSCC/Adeno-Ca 0 1 6 9 16 (4.0%)\nTotal 177 (44.2%) 132 (33.0%) 82 (20.5%) 9 (2.3%) 400",
+   "table_id": "img_069020_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    480.0,
+    580.0,
+    687.0
+   ],
+   "ocr": "SPT vs BAT SPT vs FEIA BAT vs FEIA BAT sensitivity FEIA sensitivity BAT specificity FEIA specificity\nCat R = .42P < .001 R = .61P < .001 R = .44P < .001 .84 .84 .73 .83\nDog R = .37P = .001 R = .59P < .001 R = .32P = .007 .57 .64 .81 .92\nDP R = .38P = .001 R = .42P < .001 R = .33P = .005 .63 .63 .76 .87\nTimothy R = .54P < .001 R = .77P < .001 R = .53P < .001 .80 .80 .80 .82\nBirch R = .43P < .001 R = .52P < .001 R = .35P = .003 .57 .61 .76 .93",
+   "table_id": "img_069020_t1"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    732
+   ],
+   "ocr": "The Dog row presents R = .37P = .001, R = .59P < .001, R = .32P = .007, with sensitivities of .57 and .64. DP has R = .38P = .001, R = .42P < .001, and R = .33P = .005, both sensitivities at .63."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Timothy displays R = .54P < .001, R = .77P < .001, R = .53P < .001, and both sensitivities at .80. The Birch row has R = .43P < .001, R = .52P < .001, and R = .35P = .003, with sensitivities of .57 and .61."
+  }
+ }
+}

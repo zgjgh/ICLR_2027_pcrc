@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_009",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "In the analysis of various parameters, the results indicate the following: for Age, the coefficient is 0.113 with a standard error (S.E.) of 0.176, a Wald statistic of 0.410, a significance level (Sig.) of 0.522, an Exp(B) of 1.120, and a 95.0% confidence interval (CI) for Exp(B) ranging from 0.792 to 1.582. For Gender, the coefficient is −0.233, S.E."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "of 0.201, Wald of 1.349, Sig. of 0.245, Exp(B) of 0.792, and a CI from 0.534 to 1.174. Histological types show a coefficient of 0.201, S.E. of 0.170, Wald of 1.408, Sig. of 0.235, Exp(B) of 1.223, with a CI from 0.877 to 1.706. LNM status has a coefficient of 0.402, S.E."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    373.0
+   ],
+   "ocr": "Parameter B S.E. Wald Sig. Exp(B) 95.0%CI for Exp(B)\nLower Upper\nAge 0.113 0.176 0.410 0.522 1.120 0.792 1.582\nGender −0.233 0.201 1.349 0.245 0.792 0.534 1.174\nHistological types 0.201 0.170 1.408 0.235 1.223 0.877 1.706\nLNM status 0.402 0.196 4.207 0.040* 1.495 1.018 2.194\nTreatment strategy 0.026 0.190 0.019 0.891 1.026 0.708 1.489\nClinical stages 0.691 0.197 12.331 0.000* 1.996 1.357 2.936\nPathological grades 0.435 0.168 6.696 0.010* 1.545 1.111 2.148\np-Mnk1 0.443 0.211 4.432 0.035* 1.558 1.031 2.353\np-eIF4E 0.027 0.185 0.153 0.696 1.075 0.748 1.546",
+   "table_id": "img_008298_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    389,
+    580,
+    447
+   ],
+   "ocr": "of 0.196, Wald of 4.207, Sig. of 0.040*, Exp(B) of 1.495, and a CI from 1.018 to 2.194. Treatment strategy presents a coefficient of 0.026, S.E. of 0.190, Wald of 0.019, Sig. of 0.891, Exp(B) of 1.026, with a CI from 0.708 to 1.489. Clinical stages yield a coefficient of 0.691, S.E. of 0.197, Wald of 12.331, Sig. of 0.000*, Exp(B) of 1.996, and a CI from 1.357 to 2.936. Pathological grades show a coefficient of 0.435, S.E."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    435,
+    580,
+    493
+   ],
+   "ocr": "of 0.168, Wald of 6.696, Sig. of 0.010*, Exp(B) of 1.545, with a CI from 1.111 to 2.148. For p-Mnk1, the coefficient is 0.443, S.E. of 0.211, Wald of 4.432, Sig. of 0.035*, Exp(B) of 1.558, and a CI from 1.031 to 2.353. Lastly, p-eIF4E has a coefficient of 0.027, S.E. of 0.185, Wald of 0.153, Sig. of 0.696, Exp(B) of 1.075, with a CI ranging from 0.748 to 1.546."
+  }
+ }
+}

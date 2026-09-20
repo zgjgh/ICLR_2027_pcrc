@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_134",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.8,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Predicting Infection with Simple Parameters"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    429.3,
+    92.8
+   ],
+   "ocr": "Table 6. Comparison of ANN and LR in Internal Validation, % (N = 461)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    120.1,
+    680.8,
+    369.9
+   ],
+   "ocr": "Models Accuracy Sens. Spec. PPV NPV AUCa p valueb p valuec p valued\nGroup 1\nANN 90.24 96.64 85.96 70.6 98.7 0.96460.012 - -\nLR 91.54 92.44 91.52 79.1 97.2 0.96960.011 0.507 -\nGroup 2\nANN 90.02 90.76 86.55 70.1 96.4 0.94960.014 - 0.177\nLR 87.64 90.76 86.55 70.1 96.4 0.95260.014 0.574 0.024\nGroup 3\nANN 91.54 92.44 86.84 71.0 97.1 0.94960.014 - 0.205\nLR 91.76 96.64 85.96 70.6 98.7 0.95960.013 0.095 0.295\nGroup 4\nANN 86.98 81.51 89.18 72.4 93.3 0.87360.022 - ,0.001\nLR 87.64 80.67 90.06 73.8 93.1 0.87660.022 0.553 ,0.001\nGroup 5\nANN 85.47 71.43 90.35 72.0 90.1 0.82960.025 - ,0.001\nLR 85.47 71.43 90.35 72.0 90.1 0.82960.025 1.000 ,0.001",
+   "table_id": "PMC3160843_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    381.2,
+    700.8,
+    881.6
+   ],
+   "ocr": "aMean6SE, bcomparison with same variables set, ccomparison with ANN model, dcomparison with LR model. Group 1: all variables. Group 2: high odds ratio variables (Foley, nasogastric tube and steroids). Group 3: medical devices as variables (Foley, CVC catheter, arterial line and nasogastric tube). Group 4: low odds ratio variables (CVC catheter, arterial line and stress ulcer prophylaxes). Group 5: underlying condition and medications as variables (hemodialysis, stress ulcer prophylaxes and steroids). Abbreviations: ANN = artificial neural network, LR = logistic regression, Sens. = sensitivity, Spec. = specificity, PPV = positive predictive value, NPV = negative predictive value, AUC = area under the receiver operating characteristic curve. doi:10.1371/journal.pone.0023137.t006 met the diagnostic criteria of CDC were collected by infection control professionals as infection group. Good performance could be obtained from Scoring, LR and ANN (AUC: 0.87160.043, 0.87060.043 and 0.85060.045, respectively). The overall accu- racy, sensitivity, specificity and AUC of each model for variable groups are shown in table 7 and figure 4. The results indicated that using different variable combination as predictive models could be applied on an external independent population. Discussion The scoring system, with ANN and LR developed excellent prediction models for HAI form EHR. The ANN showed no statistical significance for all variable combinations compared to LR. The discriminatory power of both models was comparable with previous study [15]. On August 1, 2007, The Centers for Medicare and Medicaid Services (CMS) announced that it will not pay for few HAIs, including catheter-related urinary tract infection and vascular catheter-related infection [25], because some of these infections are common, expensive, and ‘‘preventable’’. Such rules have not been applied in Taiwan or some other countries yet, but it will be soon regarded as an important principal for the reimbursement and benchmarking. Figure 3. Comparison of The Area Under the Receiver There are several types of device-associated infection (DAI) such Operating Characteristic Curves (AUCs) in Internal Validation as CVC-associated infection, or catheter-related bloodstream Set (N = 461). The comparison of AUCs between different variable"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    875.2,
+    700.7,
+    886.5
+   ],
+   "ocr": "infection (CRBSI), catheter-related urinary tract infection"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    882.9,
+    375.8,
+    893.0
+   ],
+   "ocr": "groups of artificial neural network (ANN-1, ANN-3, ANN-5 for Group 1, 3,"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    888.7,
+    700.7,
+    900.0
+   ],
+   "ocr": "(CAUTI), and ventilator-associated pneumonia, VAP [7]. The"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    894.2,
+    375.7,
+    904.3
+   ],
+   "ocr": "5 respectively) and logistic regression (LR-1, LR-2, LR-3 respectively) in"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    902.2,
+    700.8,
+    927.0
+   ],
+   "ocr": "internal validation. prevalence varies by settings and countries. A Turkish survey in 13 doi:10.1371/journal.pone.0023137.g003 medical-surgical ICUS from 12 hospitals, all members of"
+  },
+  "p5_b9": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 7 August 2011 | Volume 6 | Issue 8 | e23137"
+  }
+ }
+}

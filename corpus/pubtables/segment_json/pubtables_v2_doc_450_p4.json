@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_450",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    689.6,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "QuorUM"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    330.7,
+    107.4
+   ],
+   "ocr": "Table 4. Number of chimeric reads per 10000 after correction."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    304.7
+   ],
+   "ocr": "Corrector Rhodobacter Staphylococcus Mouse C16\nnone 11 7.3 59\ntrim20B 7.9 4.9 46\ntrimQual5 2.9 7.1 26\nCoral 11 9.3 52\nEcho 9.6 7.6 -\nHiTec 35 12 -\nQuake 0.100 5.2 11\nSGA 3.8 5.7 14\nRacer 18 8.8 65\nMusket 15 8.6 40\nQuorUM 0.17 7.2 13",
+   "table_id": "PMC4471408_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    312.9,
+    186.2,
+    324.2
+   ],
+   "ocr": "doi:10.1371/journal.pone.0130821.t004"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    358.5,
+    724.8,
+    684.1
+   ],
+   "ocr": "Quake performs best at reducing the number of chimeric reads, although, this often comes at the cost of very aggressive trimming. Musket and HiTec increase the number of chimeric reads. Computation time of the error corrector programs Table 5 reports the runtime to error correct reads for each program, on all three data sets using 16 AMD 8389 cores. QuorUM is significantly faster than all the other programs. Fig 1 shows the runtime on Rhodobacter while varying the number of threads used. To measure the run- time with different number of threads, we use the ‘numactl’ command of Linux to restrict at the system level the number of execution cores available to the programs. HiTec is not multi- threaded and it does not benefit from the availability of multiple cores. Echo is multi-threaded, but it is written in Python, and the Python interpreter does not scale over multiple cores, thus the speed-up is limited. The other programs benefit from multiple cores, with Racer and Quo- rUM having a speed-up closest to the theoretical linear limit. Using 16 threads QuorUM is sig- nificantly faster than the other error correctors on all data sets. QuorUM was used in error correcting the 15 billion read data set used for assembling the 2Gb Loblolly Pine genome [24]. The peak memory usage was 480Gb. Table 5. Runtime of each program in hours:minutes:seconds, using 16 threads, and memory usage in giga-bytes. The number of bases in each genome is reported in each column."
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    692.8,
+    726.6,
+    855.7
+   ],
+   "ocr": "Corrector Rhodobacter 4:6Mb Staphylococcus 2:9Mb Mouse C16 98:2Mb\nTime Mem Time Mem Time Mem\nCoral 0:09:46 35 0:06:18 33 - -\nEcho 2:10:46 58 1:06:11 39 - -\nHiTec 0:41:51 4.0 0:22:09 2.3 - -\nQuake 0:03:01 0.37 0:04:18 1.3 1:13:30 5.7\nSGA 0:05:14 0.34 0:03:23 0.28 0:32:33 2.1\nRacer 0:01:58 2.0 0:01:01 1.4 0:34:35 11\nMusket 0:06:54 0.23 0:01:49 0.22 0:58:11 0.38\nQuorUM 0:00:53 0.44 0:00:17 0.74 0:23:12 8.8",
+   "table_id": "PMC4471408_table_4"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    863.9,
+    186.2,
+    875.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0130821.t005"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0130821 June 17, 2015 9 / 13"
+  }
+ }
+}

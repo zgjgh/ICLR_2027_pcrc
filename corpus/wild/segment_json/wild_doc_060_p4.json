@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_060",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    13.0,
+    42.0,
+    493.0,
+    69.0
+   ],
+   "ocr": "The data table presents a comprehensive analysis of the willingness to use Electron Beam Lithography (EBL) among various stakeholders in the field of advanced manufacturing."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    81.0,
+    493.0,
+    317.0
+   ],
+   "ocr": "Help seeking behaviours Group* Baseline Post intervention 3-month follow-up F-statistic P-value\nN Mean SE CI N Mean SE CI N Mean SE CI\nWillingness to use EAP I 155 0.676 0.063 0.543-0.786 117 0.681 0.067 0.537-0.797 89 0.596 0.079 0.436-0.738 F (2,334) =0.77 P = 0.46\nC 136 0.673 0.061 0.545-0.780 99 0.559 0.078 0.406-0.702 90 0.589 0.079 0.431-0.732\nLikelihood of encouraging a co-worker to use the EAP I 143 0.753 0.056 0.753-0.056 114 0.796 0.053 0.796-0.053 86 0.720 0.070 0.720-0.070 F (2,350) =1.40 P = 0.24\nC 141 0.790 0.049 0.790-0.049 96 0.694 0.067 0.694-0.067 84 0.730 0.066 0.730-0.066",
+   "table_id": "img_066313_t0"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    329.0,
+    493.0,
+    556.0
+   ],
+   "ocr": "Technique Advantages Limitations Highest Resolution\nElectron beam lithography (EBL) Maskless, Stampless, High-resolution, Arbitrary patterning with different shapes and sizes Slow (serial process), Complicated, Expensive (Requiring equipment, clean room and vacuum condition), Small area patterning ∼30 nm [89]\nNanocontact printing (NCP) Simple (direct patterning), Parallel, Cheap, Fast process, Large area patterning Preparing nanoscale stamp with high feature density, Mechanical stability of stamp, Diffusion of SAM inks ∼70 nm [90]\nNanoimprint lithography (NIL) Large area patterning with a high-throughput and low-cost, Parallel Stress and wear of mold, Use of polymer, Slow (molding, demolding, and etching process) ∼75 nm [91]\nNanografting/ Nanoshaving High-resolution, Ambient, Quick change of fabricated patterns Small area patterning ∼10 nm [92]\nDip-pen nanolithography (DPN) High-resolution, Ambient, Variety of inks usable, Parallelization possible Slow (serial process), Small area patterning ∼30 nm [93]",
+   "table_id": "img_066313_t1"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    569.0,
+    493.0,
+    672.0
+   ],
+   "ocr": "MnAs bulk Sample A Sample B Sample C Sample D\na (Å) 5.71 5.78 5.71 5.67 5.69\nb (Å) 3.72 3.69 3.73 3.72 3.72\nc (Å) 6.45 6.41 6.43 6.45 6.45\nTt (Å) 313 325 335 350 350\nV (Å3) 137.06 136.71 136.95 136.05 136.53",
+   "table_id": "img_066313_t2"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    685,
+    493,
+    748
+   ],
+   "ocr": "With a total sample size (N) of 155, the mean willingness score is recorded at 0.676, accompanied by a standard error (SE) of 0.063, indicating a moderate inclination towards the adoption of this technique. The confidence interval (CI) further elucidates the precision of this mean, providing critical insights into the variability of responses. EBL is recognized for its maskless and stampless capabilities, allowing for high-resolution patterning and the creation of arbitrary shapes and sizes, which are significant advantages in precision engineering."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    738,
+    493,
+    787
+   ],
+   "ocr": "However, the technique also presents notable limitations, including a slow serial processing speed, complexity in operation, and high costs associated with the necessary equipment, cleanroom environments, and vacuum conditions. Understanding these factors is essential for stakeholders considering the integration of EBL into their manufacturing processes, as they balance the benefits against the operational challenges."
+  }
+ }
+}

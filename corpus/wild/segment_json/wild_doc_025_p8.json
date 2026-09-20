@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_025",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "In evaluating the effectiveness of various methodologies for data analysis, the presented table highlights the performance metrics across four distinct datasets: the ED dataset, TH dataset, CC dataset, and AF dataset."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "Each method's outcomes are crucial for understanding how different analytical approaches influence results in diverse scenarios."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    385.0
+   ],
+   "ocr": "method ED dataset TH dataset CC dataset AF dataset\nKULL MA 3.17/3.23 4.24/4.23 2.60/2.55 3.18/3.19\nKULL MA-DOW 3.26/3.04 4.23/4.09 2.26/2.26 2.83/2.80\nKULL MA-WK 3.21/3.23 4.02/4.23 2.58/2.55 3.08/3.19\nKULL MA-WK-DOW 3.21/3.04 4.03/4.09 2.41/2.26 2.82/2.80\nEBP MA 2.48/2.50 3.28/3.29 3.42/4.16 3.90/3.99\nEBP MA-DOW 2.49/2.53 3.57/3.44 3.14/4.10 4.20/4.36\nEBP MA-WK 2.67/2.50 3.64/3.40 3.08/2.70 4.62/3.92\nEBP MA-WK-DOW 2.92/2.59 4.02/3.75 2.90/2.47 4.53/4.00\nEBG MA 2.84/2.91 4.00/4.19 4.52/4.43 4.35/4.63\nEBG MA-DOW 3.05/3.01 4.92/4.66 4.67/4.50 4.83/4.79\nEBG MA-WK 2.91/2.87 4.20/4.24 3.25/3.16 4.51/4.43\nEBG MA-WK-DOW 2.95/3.04 4.99/4.73 3.08/2.96 4.46/4.56",
+   "table_id": "img_027937_t0"
+  },
+  "p8_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    401,
+    580,
+    459
+   ],
+   "ocr": "For instance, the KULL MA metric demonstrates significant variations across the datasets, with values ranging from 2.60 in the CC dataset to 4.24 in the TH dataset, indicating that certain methods may yield more reliable results depending on the characteristics of the underlying data. Furthermore, the comparison of the 3.17/3.23 and 4.24/4.23 metrics across these datasets provides insight into the robustness of the methodologies employed."
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    447,
+    580,
+    536
+   ],
+   "ocr": "It is essential to recognize that the choice of method can substantially impact the findings, which underscores the importance of selecting the appropriate analytical framework tailored to the specific dataset. As organizations continue to prioritize data-driven decision-making, understanding these nuances becomes increasingly vital for optimizing outcomes and ensuring the integrity of analyses across various applications. The implications of these results will be further explored in subsequent sections, providing a comprehensive overview of methodology selection and its effects on data interpretation."
+  }
+ }
+}

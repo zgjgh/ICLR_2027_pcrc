@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_025",
+  "page": 2,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    104.1,
+    46.7
+   ],
+   "ocr": "Frazier et al."
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    598.2,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Reﬂexive antecedent search"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    57.5,
+    81.5,
+    325.2,
+    90.4
+   ],
+   "ocr": "TABLE 2 | Combined ANOVA and LME results for Experiment 1."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    57.5,
+    102.7,
+    363.9,
+    545.6
+   ],
+   "ocr": "Region Effect Estimate Std error χ2 (df) p-value\nFIRST FIXATION\nCritical wh−NP −12.71 6.30 3.71 (1) 0.054\nlocal NP −4.15 6.21 0.44 (1) >0.1\ninteraction 16.09 12.11 1.69 (1) >0.1\nSpillover wh−NP −4.23 7.03 0.36 (1) >0.1\nlocal NP −8.17 6.01 1.80 (1) >0.1\ninteraction −10.05 13.80 0.52 (1) >0.1\nFIRST PASS\nCritical wh−NP −19.55 8.32 6.65 (1) 0.010\nlocal NP −6.15 8.84 1.36 (1) >0.1\ninteraction 9.58 16.83 0.36 (1) >0.1\nSpillover wh-NP −10.00 14.34 0.47 (1) >0.1\nlocal NP −21.83 13.83 2.32 (1) >0.1\ninteraction −19.29 25.59 0.56 (1) >0.1\nREGRESSION PATH\nCritical wh−NP −59.88 30.65 3.43 (1) 0.064\nlocal NP −24.55 24.95 0.94 (1) >0.1\ninteraction 90.75 49.05 3.40 (1) 0.065\nSpillover wh-NP −159.70 72.40 4.33 (1) 0.037\nlocal NP −102.67 78.77 1.62 (1) >0.1\ninteraction 121.97 115.73 1.09 (1) >0.1\nRE-READ TIME\nCritical wh-NP −39.57 27.45 2.00 (1) >0.1\nlocal NP 24.80 27.82 0.78 (1) >0.1\ninteraction 91.31 51.72 2.87 (1) 0.090\nSpillover wh-NP −29.80 34.60 0.71 (1) >0.1\nlocal NP 26.54 34.26 0.59 (1) >0.1\ninteraction 27.19 68.70 0.16 (1) >0.1",
+   "table_id": "PMC4599314_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    397.2,
+    685.5,
+    406.2
+   ],
+   "ocr": "FIGURE 1 | Experiment 1 spillover region regression path durations."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    450.7,
+    706.1,
+    915.0
+   ],
+   "ocr": "the parser would attempt to associate the reﬂexive with all possible candidate antecedents in parallel and experience extra diﬃculty when no gender-congruent antecedent is found in its memory store. In the absence of a signiﬁcant eﬀect, this is of course a purely speculative suggestion. The main eﬀect we observe in the spillover region is consistent with the eﬀect at the critical region and supports the hypothesis that the parser represents the tail of the wh-dependency and is thus able to connect the wh-phrase and the reﬂexive pronoun. This suggests that the presence of the WhFGD is accessible to the process of RD resolution. In other words, since the parser has already linked the wh-phrase with the gap, the search for the RD does not allow the parser to consider the interpretation in which the linearly closest antecedent (i.e., the proper name) is linked with the gap. The eﬀect of gender mismatch of the wh-phrase in the absence of an eﬀect of the linearly local but grammatically inaccessible candidate antecedent supports the hypothesis that the reﬂexive antecedent retrieval system is constrained to consider only grammatically accessible antecedents. However, the marginal interaction with the gender-match/mismatch of the linearly local candidate antecedent suggests a possible signature of a cue-based retrieval system that is not constrained to consider only grammatically accessible antecedents, which forms much of the motivation for Experiment 2. In addition to the reﬂexive interpretation proper, the English pronouns ending in -self have at least two other interpretations which are subject to diﬀerent syntactic constraints8. In an emphatic reading of a -self -type pronoun in English, the pronoun, though formally reﬂexive, does not have a properly reﬂexive 8Thanks to Dave Kush (personal communication) for pointing out the possibility of this reading for the stimuli in Experiment 1."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    579.1,
+    372.2,
+    915.7
+   ],
+   "ocr": "2.1.6. Results In the critical region, i.e., at the reﬂexive pronoun, we found a signiﬁcant main eﬀect of gender congruency between the wh- phrase and the reﬂexive, with matched gender read faster than mismatched gender, for ﬁrst pass reading time [β = −19.55, S.E. = 8.32, χ2(1) = 6.65, p = 0.010]. This suggests that the parser is trying to form a dependency between the wh- phrase and the reﬂexive pronoun. When it successfully forms the dependency in the wh-phrase gender match condition, the reading time at the critical region is faster than when it is unsuccessful in the wh-phrase gender mismatch condition. In the spillover region, we observe a signiﬁcant main eﬀect of gender congruency between the wh-phrase and the reﬂexive, with matched gender read faster than mismatched gender for regression path duration [β = −159.70, S.E. = 72.40, χ2(1) = 4.33, p = 0.037], (Figure 1). No other eﬀects reached signiﬁcance. There were, however, marginal interactions of wh-phrase gender congruence with local NP congruence in the regression path duration and re-reading time in the critical region, such that the mismatch-mismatch condition was read more slowly. Although this interaction was not statistically signiﬁcant it is consistent with the predictions of some unconstrained cue-based models of antecedent retrieval. On an explanation of this kind,"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    384.3,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 9"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    556.4,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "October 2015 | Volume 6 | Article 1504"
+  }
+ }
+}

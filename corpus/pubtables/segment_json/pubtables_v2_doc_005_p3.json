@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_005",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    70.7,
+    42.7,
+    677.6,
+    54.4
+   ],
+   "ocr": "Rabbi and Mazzuco Genus (2018) 74:18 Page 12 of 28"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    155.7,
+    430.5,
+    576.1,
+    467.2
+   ],
+   "ocr": "Fig. 1 Observed mortality rates of Russia (1970–2014) and Ukraine (1970–2013). Years are plotted using a rainbow palette so the earlier years are shown in red, followed by orange, yellow, green, blue, and indigo with the most recent years plotted in violet"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    497.8,
+    601.3,
+    752.5
+   ],
+   "ocr": "using the other two HU variants (see the country-specific example of Hungary for more details). It should be noted that although we tried to utilize all available data from the HMD, it was not possible for all these countries. Due to caution notes from the HMD, we started the fitting period only from the best available years mentioned in the HMD (Table 1), making data quality a restriction for the application of the models. BMS also has some flaws regardless of providing the optimistic forecast for the Baltic counties. BMS considers only the best fitting period instead of taking into account all the observed data. For all nine countries, the data of the last 20 years was found to be more significant for forecasting during model fitting. To determine the forecast accuracy of the methods (except for the UN forecast), we ana- lyzed the MAE and the MSE during the out-of-sample evaluation period. One-step-ahead MAE and MSE for the LC and HU variants are given in Tables 3 and 4, respectively. As mentioned previously, the models failing to forecast e0 higher than the last observed e0 of Table 3 One-step-ahead forecast bias of the fitted models in terms of MAE"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    147.7,
+    757.8,
+    600.9,
+    908.2
+   ],
+   "ocr": "Country LC LCP LM BMS HU HUR HUW LL\nBelarus – – 0.144 – – – 0.102 –\nBulgaria 0.160 0.144 0.128 0.122 0.137 0.131 0.110 0.131\nEstonia 0.248 0.246 0.322 0.259 0.324 0.292 0.273 0.267\nHungary 0.181 0.164 0.146 0.132 0.119 0.118 0.115 0.157\nLatvia 0.186 0.185 0.204 0.186 0.174 0.196 0.175 0.146\nLithuania 0.330 0.167 0.209 0.187 0.167 0.177 0.168 0.210\nRussia – – – – – 0.079 – –\nSlovakia 0.181 0.177 0.257 0.186 0.200 0.212 0.195 0.214\nUkraine – – – – – 0.087 0.066 –",
+   "table_id": "PMC6223892_table_2"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    148.4,
+    914.2,
+    441.3,
+    924.8
+   ],
+   "ocr": "A blank place means the forecast of e0 was lower than the last observed value of e0."
+  }
+ }
+}

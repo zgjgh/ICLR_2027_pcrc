@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_078",
+  "page": 5,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "caption",
+   "bbox": [
+    64.5,
+    41.0,
+    370.9,
+    83.4
+   ],
+   "ocr": "3250 Table 9 Test phases and weighting factors for test cycle D, G1, G2, G3"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    373.5,
+    41.0,
+    688.2,
+    82.9
+   ],
+   "ocr": "Environ Sci Pollut Res (2018) 25:3243–3259 (Journal of Laws from 2014, No. 0, item 588)"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    64.5,
+    95.2,
+    667.9,
+    421.9
+   ],
+   "ocr": "Cycle D\nNumber of phase 1 2 3 4 5\nRotational speed of engine Rated rotational speed Intermediate rotational speed Rotational speed of idle running\nLoad* (%) 100 75 50 25 10\nWeighting factor 0.05 0.25 0.3 0.3 0.1\nCycle G1\nNumber of phase 1 2 3 4 5 6\nRotational speed of engine Rated rotational speed Intermediate rotational speed Rotational speed of idle running\nLoad (%) 100 75 50 25 10 0\nWeighting factor 0.09 0.2 0.29 0.3 0.07 0.05\nCycle G2\nNumber of phase 1 2 3 4 5 6\nRotational speed of engine Rated rotational speed Intermediate rotational speed Rotational speed of idle running\nLoad (%) 100 75 50 25 10 0\nWeighting factor 0.09 0.2 0.29 0.3 0.07 0.05\nCycle G3\nNumber of phase 1 2\nRotational speed of engine Rated rotational speed Intermediate rotational speed Rotational speed of idle running\nLoad (%) 100 0\nWeighting factor 0.85** 0.15**",
+   "table_id": "PMC5811570_table_8"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    64.5,
+    435.9,
+    389.5,
+    779.3
+   ],
+   "ocr": "*Load values are expressed as percentage values of torque which corresponds during variable power sequence—it can be received during unlimited number environmental conditions; maintenance is done according to producer’s data **For Stage I, the following values can be taken 0.90 and 0.10 instead of – for the case of engines which work in range of rota- tional speed on the moment curve at full load, the intermediate rotational speed should be taken as de- clared rotational speed of maximal moment—if this moment exists between 60 and 75% of rated rotation- al speed, – if the declared rotational speed of maximal moment is less than 60% of rated rotational speed, then intermediate ro- tational speed should be equal to 60% of rated rotational speed, – if the declared rotational speed of maximal moment is higher than 75% of rated rotational speed, then interme- diate rotational speed should be equal to 75% of rated rotational speed, – for the case of engines which are assigned to tests accord- ing to cycle G1, the rotational speed should be equal to 85% of rated rotational speed."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    373.3,
+    435.9,
+    688.3,
+    905.3
+   ],
+   "ocr": "to the basic value of the power defined as the maximal power obtained of hours in the year between the defined service periods and for the given 0.85 and 0.15 – Cycle D: generating sets with intermittent load including generating sets on board ships and trains (not for propul- sion), refrigerating units, welding sets, gas compressors. – Cycle G1: front or rear engines riding lawn mowers, golf carts, lawn sweepers, pedestrian-controlled rotary, or cyl- inder lawn mowers, snow-removal equipment, waste disposers. – Cycle G2: portable generators, pumps, welders, and air compressors may also include lawn and garden equip- ment, which operate at engine rated speed. – Cycle G3: blowers, chain saws, hedge trimmers, portable saw mills, rotary tillers, sprayers, string trimmers, vacu- um equipment. The valid homologation regulations of combustion engines of non-road mobile machinery during research tests allow to represent the real service conditions of the engines. The inves- tigations performed in 2017 show that the measured emission of HC and CO generated (in real operation conditions) by selected non-road mobile machinery equipped with spark ig- nition engines are higher than the allowable values. This fact results from different service conditions of engine than de- fined ones by standards of homologation tests. Additionally, these investigations show that the applied research method and PEMS apparatus (Portable Emission Measurement"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    64.5,
+    812.9,
+    365.6,
+    905.3
+   ],
+   "ocr": "The selection of a proper test cycle, when we know the last application of engine model, can be done on the basis of the below presented examples. If the last application of engine is unknown, then test cycle should be done on the basis of tech- nical data of the engine. Typical examples of test cycles for the following applications:"
+  }
+ }
+}

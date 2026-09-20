@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_190",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Grassland and Alien Plants on Power Line Corridors"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    727.2,
+    119.4
+   ],
+   "ocr": "Table 3. The final models for common grassland and grassland indicator species number in the study corridors. q-values indicate FDR-corrected p- values [41]."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    550.3
+   ],
+   "ocr": "Response: Number of common grassland species\nPredictors Estimate Std. Error z value Pr (>|z|) q-value\nIntercept 3.27 0.023 139.987 < 0.001\nHistory: Open areas and pasture 0.106 0.023 4.639 < 0.001 < 0.001\nHistory: Grassland - 0.123 0.029 - 4.18 < 0.001 < 0.001\nSoil productivity 0.103 0.028 3.647 < 0.001 0.001\nSlope steepness 0.063 0.025 2.554 0.011 0.015\nSlope direction 0.042 0.026 1.585 0.113 0.113\nShrub density - 0.041 0.026 - 1.59 0.112 0.113\nNull deviance / df.: 234.80 / 70\nResidual deviance / df.: 162.27 / 63\nAIC: 537.88\nResponse: Number of grassland indicator species\nPredictors Estimate Std. Error z value Pr (>|z|) q-value\nIntercept 1.208 0.069 17.479 < 0.001\nHistory: Open areas and pasture 0.255 0.055 4.644 < 0.001 < 0.001\nSoil moisture - 0.303 0.077 - 3.923 < 0.001 < 0.001\nCorridor age 0.242 0.074 3.254 0.001 0.003\nSlope steepness 0.169 0.068 2.504 0.012 0.03\nTime since management 0.203 0.092 2.197 0.028 0.05\nCover of surrounding forests - 0.141 0.066 - 2.142 0.032 0.05\nCover of surrounding agricultural areas - 0.148 0.077 - 1.925 0.054 0.07\nShrub density - 0.172 0.094 - 1.84 0.066 0.07\nAmount of debris 0.128 0.086 1.487 0.137 0.14\nNull deviance / df.: 140.151 / 70\nResidual deviance / df.: 47.076 / 61\nAIC: 281.36",
+   "table_id": "PMC4643934_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    558.5,
+    186.2,
+    569.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0142236.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    629.3,
+    726.6,
+    881.3
+   ],
+   "ocr": "Determinants for species composition In distance-based redundancy analysis the entire environmental data explained 52% of the var- iation in grassland species composition and 42% in alien species composition in the study cor- ridors (Table 5). Permutation tests reduced the number of variables in the model to six (for grassland species) and seven (for alien species) (Table 6, Fig 3.). When only these variables were included in the model, the proportion of explained variance dropped to 36% and 25%, respectively (Table 5). In the ordination graph the species groups formed slightly different pat- terns concerning the environmental constraints, with plots presenting more clustering accord- ing to alien species composition (Fig 3). When analyzed individually, the environmental variables explaining the largest amount of variation were soil calcium concentration (for grassland species) and soil productivity (for alien species) (Table 7). However, if a variable explained a large amount of variance in grass- land species composition, it was likely to do the same with alien species, and vice versa. Indeed, Spearman correlation between the amount of variation the variables could explain in the two study groups was 0.541 (p-value 0.015)."
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142236 November 13, 2015 8 / 16"
+  }
+ }
+}

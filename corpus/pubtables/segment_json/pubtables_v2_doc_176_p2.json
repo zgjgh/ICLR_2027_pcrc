@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_176",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    510.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterozygous Mapping Strategy for GBS Markers"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    701.8,
+    108.3
+   ],
+   "ocr": "Table 2. Number of SNPs at each stage of correlation based chromosome assignment for four F1 families analyzed with the synteny pipeline."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.0,
+    708.4,
+    258.0
+   ],
+   "ocr": "Stage V. rupestris B38 x ‘Horizon’ x Illinois ‘Chardonnay’ x V. ‘Horizon’ x V.\n‘Horizon’ 547–1 cinerea B9 cinerea B9\nInitial 14,838 17,002 12,089 15,337\nMarkers on random chromosomes 902 (6%) 1,060 (6%) 731 (6%) 897 (6%)\nIn linkage with another chromosome 979 (7%) 1,196 (7%) 664 (5%) 901 (6%)\n(“Disagree”)\nIn linkage with multiple chromosomes 1,344 (9%) 773 (5%) 1,378 (11%) 1,466 (10%)\n(“Unresolved”)\nIn linkage with aligned chromosome 11,613 (78%) 13,973 (82%) 9,316 (77%) 12,073 (79%)\n(“Agree”)",
+   "table_id": "PMC4526651_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    266.1,
+    723.7,
+    358.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0134880.t002 additionally convert tag alignment and SNP coordinates from the 12x.0 assembly [52] used for SNP call, to the more recent 12x.2 assembly [50]. Genetic ordering was performed with MSTmap [48]. After the first round of ordering, at each genetic position the marker with the most information was retained. The total number of"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    833.3,
+    710.5,
+    888.6
+   ],
+   "ocr": "Fig 3. Separation of chromosomes into linkage groups (LGs) in the HetMappS synteny pipeline. This dendrogram was created from hierarchical clustering of a topological overlap matrix (as implemented by WGCNA) for markers on chromosome 2 in the F1 family ‘Horizon’ x Illinois 547–1. LGs result from cutting the dendrogram with height 0.9 and minimum cluster size 30, creating one LG for each parent. doi:10.1371/journal.pone.0134880.g003"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0134880 August 5, 2015 12 / 31"
+  }
+ }
+}

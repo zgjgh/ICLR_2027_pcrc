@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_345",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3045288_table_0",
+   "page_num": 1,
+   "bbox": [
+    388.9,
+    863.9,
+    673.6,
+    907.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3045288_table_0.png",
+   "html": "<table><tr><td>Patient has risk factor</td><td>High Risk</td><td>Medium Risk</td><td>Low Risk</td></tr><tr><td>Diabetes</td><td>[0.5,1]</td><td>[0,0.3]</td><td>[0,0.2]</td></tr><tr><td>Heart disease</td><td>[0.5,1]</td><td>[0,0.4]</td><td>[0,0.1]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3045288_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    142.7,
+    366.1,
+    272.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3045288_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Normal call made by</td><td rowspan=\"2\">Highest</td><td rowspan=\"2\">High</td><td rowspan=\"2\">Above Normal</td><td rowspan=\"2\">Normal</td><td rowspan=\"2\">Below Normal</td><td rowspan=\"2\">Low</td><td rowspan=\"2\">Lowest</td></tr><tr></tr><tr><td>High risk patient</td><td></td><td>0.2</td><td>0.6</td><td>0.2</td><td></td><td></td><td></td></tr><tr><td>Medium risk</td><td></td><td></td><td>0.3</td><td>0.6</td><td>0.1</td><td></td><td></td></tr><tr><td>Low risk patient</td><td></td><td></td><td></td><td>0.6</td><td>0.3</td><td>0.1</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3045288_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    142.7,
+    302.7,
+    455.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3045288_table_2.png",
+   "html": "<table><tr><td colspan=\"2\">Number of patients with:</td></tr><tr><td>0 risk factors</td><td>10</td></tr><tr><td>1 risk factor</td><td>10</td></tr><tr><td>2 risk factors</td><td>8</td></tr><tr><td>&gt; 2 risk factors</td><td>2</td></tr><tr><td colspan=\"2\">Risk factor weights (%):</td></tr><tr><td>High age (a)</td><td>50</td></tr><tr><td>Diabetes (b)</td><td>10</td></tr><tr><td>Heart disease (c)</td><td>3</td></tr><tr><td>High fall risk (d)</td><td>5</td></tr><tr><td>Neurologic problem (e)</td><td>3</td></tr><tr><td>Tracheotomy (f)</td><td>10</td></tr><tr><td>COPD (g)</td><td>3</td></tr><tr><td>Paraplegia (h)</td><td>3</td></tr><tr><td>Pneumonia (i)</td><td>3</td></tr><tr><td>Disoriented/confused (j)</td><td>5</td></tr><tr><td>Gastric Bleeding within 48 h (k)</td><td>3</td></tr><tr><td>Transferred from ICU (l)</td><td>1</td></tr><tr><td>Transferred from ICU within 72 h (m)</td><td>0</td></tr><tr><td>Reanimated (n)</td><td>1</td></tr><tr><td>Reanimated within 72 h (o)</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3045288_table_3",
+   "page_num": 4,
+   "bbox": [
+    83.1,
+    797.5,
+    666.9,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3045288_table_3.png",
+   "html": "<table><tr><td rowspan=\"3\">Nr. of nurses in the department</td><td colspan=\"4\" rowspan=\"2\">Workload distribution Place-oriented system:</td><td colspan=\"4\" rowspan=\"2\">Workload distribution oNCS system:</td></tr><tr></tr><tr><td>Max.</td><td>Min.</td><td># 0%</td><td>Std. Err.</td><td>Max.</td><td>Min.</td><td># 0%</td><td>Std. Err.</td></tr><tr><td>1</td><td>100</td><td>100</td><td>0</td><td>0</td><td>100</td><td>100</td><td>0</td><td>0</td></tr><tr><td>2</td><td>70.97</td><td>29.03</td><td>0</td><td>11.90</td><td>57.14</td><td>42.86</td><td>0</td><td>5.12</td></tr><tr><td>3</td><td>58.33</td><td>12.12</td><td>0</td><td>12.65</td><td>60.98</td><td>6.98</td><td>0</td><td>14.74</td></tr><tr><td>4</td><td>62.50</td><td>0</td><td>1</td><td>12.26</td><td>50</td><td>0</td><td>1</td><td>10.24</td></tr><tr><td>5</td><td>54.84</td><td>0</td><td>2</td><td>12.63</td><td>42.50</td><td>2.56</td><td>0</td><td>7.90</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3045288_table_5",
+   "page_num": 5,
+   "bbox": [
+    383.9,
+    451.1,
+    675.0,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3045288_table_5.png",
+   "html": "<table><tr><td>Call &amp; algorithm</td><td>Average time (ms)</td><td>CI-95%</td><td>CI-99%</td></tr><tr><td colspan=\"4\">Normal call:</td></tr><tr><td>Assign nurse</td><td>42.38</td><td>0.53</td><td>0.69</td></tr><tr><td>Answer call</td><td>49.79</td><td>0.50</td><td>0.65</td></tr><tr><td>Treat call</td><td>12.78</td><td>0.25</td><td>0.33</td></tr><tr><td>Finish call</td><td>65.07</td><td>0.55</td><td>0.72</td></tr><tr><td>Relaunch call</td><td>24.27</td><td>0.18</td><td>0.23</td></tr><tr><td colspan=\"4\">Sanitary call:</td></tr><tr><td>Assign nurse</td><td>49.87</td><td>2.87</td><td>3.78</td></tr><tr><td>Answer call</td><td>54.47</td><td>3.36</td><td>4.42</td></tr><tr><td>Treat call</td><td>16.17</td><td>1.67</td><td>2.19</td></tr><tr><td>Finish call</td><td>66.71</td><td>3.97</td><td>5.21</td></tr><tr><td>Relaunch call</td><td>31.24</td><td>0.86</td><td>1.13</td></tr><tr><td colspan=\"4\">Assistance call:</td></tr><tr><td>Assign nurse</td><td>57.33</td><td>2.72</td><td>3.58</td></tr><tr><td>Answer call</td><td>58.44</td><td>3.46</td><td>4.55</td></tr><tr><td>Treat call</td><td>13.18</td><td>1.57</td><td>2.07</td></tr><tr><td>Finish call</td><td>68.07</td><td>3.59</td><td>4.71</td></tr><tr><td>Relaunch call</td><td>/</td><td>/</td><td>/</td></tr><tr><td colspan=\"4\">Sanitary assistance call:</td></tr><tr><td>Assign nurse</td><td>68.25</td><td>30.96</td><td>40.69</td></tr><tr><td>Answer call</td><td>54.63</td><td>12.80</td><td>16.82</td></tr><tr><td>Treat call</td><td>11.88</td><td>5.09</td><td>6.68</td></tr><tr><td>Finish call</td><td>52.63</td><td>39.11</td><td>51.40</td></tr><tr><td>Relaunch call</td><td>/</td><td>/</td><td>/</td></tr><tr><td colspan=\"4\">Urgency call:</td></tr><tr><td>Assign nurse</td><td>33.83</td><td>8.69</td><td>11.42</td></tr><tr><td>Answer call</td><td>103.07</td><td>8.39</td><td>11.03</td></tr><tr><td>Treat call</td><td>7.40</td><td>3.54</td><td>4.65</td></tr><tr><td>Finish call</td><td>139.40</td><td>6.20</td><td>8.15</td></tr><tr><td>Relaunch call</td><td>/</td><td>/</td><td>/</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3045288_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    827.6,
+    362.6,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3045288_table_4.png",
+   "html": "<table><tr><td>Probabilistic Reasoning Task</td><td>Average (ms)</td><td>CI 95%</td><td>CI 99%</td></tr><tr><td>Consistency</td><td>2165.43</td><td>91.18</td><td>119.83</td></tr><tr><td>Satisfiability</td><td>473.80</td><td>5.02</td><td>6.59</td></tr><tr><td>Entail Generic Stated</td><td>3030.87</td><td>107.73</td><td>141.58</td></tr><tr><td>Entail Generic Unstated</td><td>3995.70</td><td>82.26</td><td>108.11</td></tr><tr><td>Entail A-Box Stated</td><td>2508.80</td><td>38.16</td><td>50.15</td></tr></table>"
+  }
+ ]
+}

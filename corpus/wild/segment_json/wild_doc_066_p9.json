@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_066",
+  "page": 9,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    88,
+    580,
+    131
+   ],
+   "ocr": "The data presented in the table elucidates the treatment parameters and outcomes associated with the Gross Tumor Volume of the neck (GTVnx) in patients undergoing radiotherapy. A critical target for radiation dose delivery is established at 68 Gy, which serves as the benchmark for evaluating therapeutic effectiveness."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    119,
+    580,
+    177
+   ],
+   "ocr": "Notably, the median volume of the tumor, measured at 2.47 cm³, is indicative of the size and potential complexity of treatment planning. Furthermore, the median minimal dose recorded is 65.57 Gy, while the median maximal dose reaches 81.24 Gy, reflecting the variability in dose distribution that may be encountered during treatment."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    210.0,
+    580.0,
+    378.0
+   ],
+   "ocr": "Target Goal (Gy) Median below goal (%) Median minimal dose (Gy) Median maximal dose (Gy) Median mean dose (Gy) Median volume (cm3)\nGTVnx 68 0.18 65.57 81.24 74.82 33.62\nCTV1 60 0.33 55.67 79.88 70.35 68.25\nCTV2 54 2.07 39.25 78.21 63.52 322.97\nGTVnd(L) 60-64 0.00 62.01 72.20 68.46 4.98\nGTVnd(R) 60-64 0.00 61.95 72.15 68.02 5.96",
+   "table_id": "img_074260_t0"
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    405.0,
+    580.0,
+    532.0
+   ],
+   "ocr": "Control Group Spider Phobics Social Phobics\nQuestionnaire M SD M SD M SD One-way ANOVA\nSPQ 2.47 1.78 20.61 2.66 2.58 1.95 F(2,53) = 430.97, p < .001*‡\nSPAI 33.53 16.89 44.41 15.51 126.81 18.17 F(2,53) = 171.72, p < .001†‡\nBDI 2.68 2.71 4.94 4.76 9.42 7.09 F(2,53) = 8.52, p = .001†‡\nSTAI-T 30.79 5.92 33.50 8.05 50.47 6.61 F(2,53) = 45.27, p < .001*‡",
+   "table_id": "img_074260_t1"
+  },
+  "p9_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    566.0,
+    580.0,
+    688.0
+   ],
+   "ocr": "Genea p Value Test Genea p Value Test\nKRTAP21-2 1.00E-04 CAPL-SKAT UBE2Q2 5.00E-04 CAPL-SKAT\nGPRC5C 1.29E-04 CAPL-burden TVP23C-CDRT4 7.00E-04 CAPL-SKAT\nTAS2R38 2.00E-04 CAPL-SKAT ELMO1 7.00E-04 CAPL-SKAT\nCCND1 4.00E-04 CAPL-SKAT EXT2 8.00E-04 CAPL-burden\nANXA2 5.00E-04 CAPL-SKAT CYFIP1 1.00E-03 CAPL-burden",
+   "table_id": "img_074260_t2"
+  },
+  "p9_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    732
+   ],
+   "ocr": "The accompanying data on median values and standard deviations for various metrics, including the questionnaire responses, provides insight into patient-reported outcomes and quality of life post-treatment."
+  },
+  "p9_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "The statistical analysis, as indicated by the One-way ANOVA, allows for a robust examination of differences among various treatment cohorts, facilitating a deeper understanding of the correlation between dose parameters and patient outcomes in this clinical setting."
+  }
+ }
+}

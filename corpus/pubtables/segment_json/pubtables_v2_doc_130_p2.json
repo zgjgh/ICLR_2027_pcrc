@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_130",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Exarchos et al. BMC Bioinformatics 2011, 12:142 http://www.biomedcentral.com/1471-2105/12/142"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 12"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    386.8,
+    124.0
+   ],
+   "ocr": "Table 2 The 20 highest scoring patterns sorted in descending"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    390.6,
+    111.0,
+    478.8,
+    124.0
+   ],
+   "ocr": "order by sc_score"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    671.4,
+    523.4
+   ],
+   "ocr": "Exact pattern discovery Chemical equivalency set Structural equivalency set\nPattern sc_score Log- Pattern sc_score Log- Pattern sc_score Log-\nlikelihood likelihood likelihood\nKPGKGRRK 1 -37.67 KPGKGRRK 1 -37.67 KPGKGRRK 1 -37.67\nEDGTKEPLL 1 -42.25 G.[AG][DE].K..SL 1 -23.91 S.S[ITV]H..N 1 -19.73\nHAESGEYGL 1 -44.51 [ILMV][ILMV].[AG].D.AT 1 -21.70 E.V[DLN].[KMR]P 1 -18.28\nLGTVINQL 1 -36.61 G[AG].[DE][ILMV]K.[ILMV]S 1 -31.33 MLQ...[ITV].[KMR] 1 -19.03\n[ILMV]\nADEAT 1 -20.01 G..[FY]W[QN]..D[ST] 1 -25.89 [EQ].GYT.R 1 -20.32\nALNALKLVT 1 -41.86 LGTVINQL 1 -36.61 [KMR]..QGY..R 1 -20.23\nYFT...I 1 -14.57 EDGTKEPLL 1 -42.25 EDGTKEPLL 1 -42.25\nCLA..VN 1 -20.96 GA.D[DE]A[ST] 1 -24.88 LGTVINQL 1 -36.61\nR..DP....VV 1 -20.01 ADEAT 1 -20.01 HAESGEYGL 1 -44.51\nH.YSQ 1 -15.76 [ST]..A[DE]G.A 1 -18.38 ADEAT 1 -20.01\nVYL..L...Y 1 -20.29 [AG][ILMV]..L[KR]L..D 1 -20.11 ALNALKLVT 1 -41.86\nNAW..D 1 -15.89 T.R.E..A.[ILMV] 1 -18.48 GG...[KMR]M..L 1 -19.48\nA...KHF.G.G 1 -26.56 [ST].LN.LK[ILMV] 1 -23.04 [DLN]L.EL..E[EQ] 1 -20.75\nL..SRGF 1 -19.77 [AG].HF[ILMV]GD 1 -24.32 [EQ]..P..[FHWY]P.E 1 -19.33\nREPDP 1 -21.25 MLQ[QN]...[ILMV][KR] 1 -23.90 QL...N.L.[KMR][DLN] 1 -23.32\nG.MFW 1 -16.96 [AG]KHF.G.G 1 -25.89 A[FHWY].[FHWY]E...EN 1 -24.56\nL.G..VVP..S 1 -24.86 HAESGEYGL 1 -44.51 M[FHWY].[EQ][FHWY].D 1 -23.90\n[ITV]\nMDHSNY 1 -28.88 [KR][ILMV].P.[ILMV][ST]..[FY] 1 -21.32 [ITV]..G[ITV].T.[ITV].V 1 -22.12\nVL.G..TNI 1 -25.03 [AG][ST].D..GP 1 -18.86 [KMR]Y...N.V[CS] 1 -19.41\nL..A..V.SS 1 -18.77 G...M.C..I 1 -16.47 [FHWY]..KG.[ITV].R[ITV] 1 -23.29",
+   "table_id": "PMC3097163_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.0,
+    547.4,
+    678.7,
+    922.5
+   ],
+   "ocr": "discovery and much lower when equivalency sets are employed. Another important observation is that certain patterns appear to be common, either unaltered or with slight variations, in all three types of pattern discovery; some example patterns of this kind are “KPGKGRRK”, “EDGTKEPLL”, “HAESGEYGL” and “ADEAT” which are all among the top 20 highest scoring patterns thus constituting good descriptors of cis formations. In order to facilitate the discussion that follows, we provide an overview of the amino acids’ distribution among the most important physicochemical properties (Figure 4). From the assessment of the retained patterns (partially shown in Table 2) several important corollaries can be deduced, some of which have been previously reported, subsequently supporting the rest of the assertions. For this purpose we provide in Table 3 the distribution of the amino acids among the retained patterns for each type of patterns discovery. In order to calculate the indi- vidual frequencies we have divided the occurrences of each residue by the total number of literals (i.e. all char- acters and character classes excluding wild characters). The frequencies of the character classes are also shown in the lower part of Table 3. Regarding the column with the exact pattern discovery we observe that the obtained patterns are replete mainly"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    547.5,
+    366.2,
+    922.6
+   ],
+   "ocr": "denoting that the patterns under consideration are highly unlikely to occur by chance. The patterns in Table 2 follow certain common con- ventions of regular expressions; specifically the dot (”.”) stands for any of the 20 amino acids and residues in square brackets belong to the same character class and are considered equivalent. Underlined amino acids con- stitute the residue where the cis peptide bond is detected within the pattern; it should be noted that some patterns do not capture the cis peptide bond itself but rather a sequential patterns in its neighborhood, therefore some patterns might have no underlined resi- dues at all. From Table 2 we observe that all patterns in the top 20 list have yielded quite high values for sc_score, but the situation is also very similar for the entire list of retained associations. Especially for the cases where equivalency sets are employed all reported scores are even above 0.99, indicating that certain chemical and structural properties of the amino acids facilitate the discrimination between the two conformations. Such high score values denote high correlation of the main- tained patterns with cis regions and low correlation with trans regions; this is also expressed by the values of FDR which are quite low for all types of patterns"
+  }
+ }
+}

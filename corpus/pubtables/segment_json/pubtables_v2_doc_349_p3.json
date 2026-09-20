@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_349",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    298.1,
+    65.8
+   ],
+   "ocr": "Benton et al. BMC Bioinformatics 2011, 12(Suppl 3):S2 http://www.biomedcentral.com/1471-2105/12/S3/S2"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 10"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    373.7,
+    385.1,
+    473.1
+   ],
+   "ocr": "Figure 2 Performance of our system over development and test precision and recall of our system over the development set, while varying threshold ranged from 0.5 to 0.005 and are displayed for major intervals to yield the highest recall without unnecessarily sacrificing precision over performance of our system, using the chosen threshold value of 0.05, over performance over the development set. The red curve corresponds to has a similar trajectory to the performance over the BC development set similar precision/recall trade-off as the development curve."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    368.3,
+    373.8,
+    670.7,
+    460.5
+   ],
+   "ocr": "sets, varying the likelihood threshold The blue curve displays the the likelihood threshold. In this figure, the values for the likelihood on the curve. The threshold value of 0.05 was chosen, since it seemed the development set. The red isolated point corresponds to the the arthritis corpus test set, while the blue point corresponds to its our system’s performance over the arthritis test set. Note that this curve and that the point of 0.05 likelihood threshold on it corresponds to a"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    498.3,
+    678.7,
+    852.8
+   ],
+   "ocr": "ambiguous names, and finally by appending all of those usernames to the list of unambiguous names instead. The system was first judged only on its ability to iden- tify proper names and then on its ability to identify both proper names and usernames. The system’s ability to identify usernames was poor in all cases (9.0%, 18.3%, and 67.0% recall for each of the three conditions respec- tively over the development set, and similarly over the test set) and the system’s precision under the final con- dition was prohibitively low. We also evaluated the Stanford NER trained on a col- lection of US and UK newswire over both these sets. Table 5 only displays both systems’ ability to identify proper names since neither the Deid system nor the Stanford NER were designed to identify usernames, so it was unfair to evaluate their performance over these. Even adding the entire set of author names to the Deid system’s unambiguous name list resulted in a recall of only 67.0% of usernames and a drop to 11.1% precision over the development set. The poor performance of Table 4 Breakdown of the tokens that were incorrectly tagged as names by our system"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    498.4,
+    366.1,
+    783.1
+   ],
+   "ocr": "Institutions” refers to tokens referring to a location or organization. “Medical” tokens were tokens that referred to a drug, supplement, procedure, or some other medi- cal concept and could be useful to researchers investi- gating these posts. “Other” tokens could not be placed in any of the previous four categories and would prob- ably not be very useful to researchers. Some examples of these are: “kiddo”, “june”, “april”, “morning”, “crispy”, and “sweetie”. In order to compare our system’s performance against a currently available de-identification system, we also ran the “Deid system” [9,16] (http://www.physionet.org/ physiotools/deid/) over our development and test sets. The Deid system consists of a single Perl script that relies on a combination of heuristics, regular expression, and word lists to remove identifiers. We ran the system under several conditions. The system was run first with- out altering any of its word lists, then by appending all the usernames on the message board to its list of"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    814.8,
+    354.0,
+    841.5
+   ],
+   "ocr": "Table 3 Breakdown of the names that were not tagged as names by our system"
+  },
+  "p3_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    846.5,
+    366.1,
+    915.9
+   ],
+   "ocr": "Set Ambig. common Prop. Abbr./ Missp. Total\nwords names Acr. users N\nDEV 50.0% 20.0% 30.0% 0.0% 10\nTEST 48.1% 7.4% 33.3% 11.1% 27",
+   "table_id": "PMC3111588_table_2"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    387.0,
+    857.8,
+    678.6,
+    915.9
+   ],
+   "ocr": "Set People Places/ Institutions Medical Other Total N\nDEV 35.3% 13.5% 6.3% 44.9% 207\nTEST 32.9% 18.8% 2.9% 42.0% 200",
+   "table_id": "PMC3111588_table_3"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_090",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1175991_table_0",
+   "page_num": 1,
+   "bbox": [
+    397.5,
+    159.5,
+    658.4,
+    429.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1175991_table_0.png",
+   "html": "<table><tr><td>Tissue</td><td>Sequence reads</td></tr><tr><td>Placenta</td><td>12,033</td></tr><tr><td>Brain</td><td>10,511</td></tr><tr><td>PBMC</td><td>7,056</td></tr><tr><td>Spleen</td><td>6,658</td></tr><tr><td>Jejunum</td><td>3,840</td></tr><tr><td>Liver</td><td>3,744</td></tr><tr><td>Ileum</td><td>2,112</td></tr><tr><td>Lung</td><td>1,152</td></tr><tr><td>Ovary</td><td>672</td></tr><tr><td>Testis</td><td>480</td></tr><tr><td>Duodenum</td><td>384</td></tr><tr><td>M. mulatta</td><td>46,626</td></tr><tr><td>M. nemestrina</td><td>1,152</td></tr><tr><td>M. fascicularis</td><td>864</td></tr><tr><td>Total</td><td>48,642</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1175991_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.9,
+    159.9,
+    700.6,
+    485.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1175991_table_1.png",
+   "html": "<table><tr><td>Gene</td><td>Name</td><td>RefSeq ID*</td><td>Amino-acid identity (%)&#8224;</td><td>Unigene ID*</td><td>LocusLink/ Gene ID*</td></tr><tr><td>PSG11</td><td>Pregnancy specific beta-1-glycoprotein 11</td><td>NM_203287.1</td><td>68.04</td><td>Hs.502097</td><td>5680</td></tr><tr><td>PSG5</td><td>Pregnancy specific beta-1-glycoprotein 5</td><td>NM_002781.2</td><td>73.71</td><td>Hs.534030</td><td>5673</td></tr><tr><td>ANG</td><td>Angiogenin, ribonuclease, RNase A family, 5</td><td>NM_001145.2</td><td>75.17</td><td>Hs.283749</td><td>283</td></tr><tr><td>PIP</td><td>Prolactin-induced protein</td><td>NM_002652.2</td><td>75.86</td><td>Hs.99949</td><td>5304</td></tr><tr><td>GNLY</td><td>Granulysin</td><td>NM_006433.2</td><td>76.55</td><td>Hs.105806</td><td>10578</td></tr><tr><td>LAIR2</td><td>Leukocyte-associated Ig-like receptor 2</td><td>NM_002288.3</td><td>80.13</td><td>Hs.43803</td><td>3904</td></tr><tr><td>CRYL1</td><td>Crystallin, lambda 1</td><td>NM_015974.1</td><td>80.31</td><td>Hs.370703</td><td>51084</td></tr><tr><td>ARP10</td><td>ARP10 protein</td><td>NM_181773.2</td><td>82.58</td><td>Hs.440515</td><td>164668</td></tr><tr><td>LOC151174</td><td>Hypothetical protein LOC151174</td><td>XM_371605.1</td><td>83.04</td><td>Hs.424165</td><td>151174</td></tr><tr><td>GH2</td><td>Growth hormone 2</td><td>NM_022558.2</td><td>84.56</td><td>Hs.406754</td><td>2689</td></tr><tr><td>APOBEC3C</td><td>Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3C</td><td>NM_014508.2</td><td>85.26</td><td>Hs.441124</td><td>27350</td></tr><tr><td>NDUFC2</td><td>NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2</td><td>NM_004549.3</td><td>85.71</td><td>Hs.407860</td><td>4718</td></tr><tr><td>SAA4</td><td>Serum amyloid A4</td><td>NM_006512.1</td><td>85.94</td><td>Hs.512677</td><td>6291</td></tr><tr><td>SEPP1</td><td>Selenoprotein P, plasma, 1</td><td>NM_005410.1</td><td>86.07</td><td>Hs.275775</td><td>6414</td></tr><tr><td>GZMB</td><td>Granzyme B (cytotoxic T-lymphocyte-associated serine esterase 1)</td><td>NM_004131.3</td><td>86.64</td><td>Hs.1051</td><td>3002</td></tr><tr><td>IFITM1</td><td>Interferon induced transmembrane protein 1</td><td>NM_003641.2</td><td>87.2</td><td>Hs.458414</td><td>8519</td></tr><tr><td>GH1</td><td>Growth hormone 1</td><td>NM_000515.3</td><td>87.56</td><td>Hs.500468</td><td>2688</td></tr><tr><td>TMEM14B</td><td>Transmembrane protein 14B</td><td>NM_030969.2</td><td>87.72</td><td>Hs.273077</td><td>81853</td></tr><tr><td>PRG2</td><td>Proteoglycan 2</td><td>NM_002728.4</td><td>88.35</td><td>Hs.512633</td><td>5553</td></tr><tr><td>MRPL40</td><td>Mitochondrial ribosomal protein L40</td><td>NM_003776.2</td><td>88.94</td><td>Hs.431307</td><td>64976</td></tr><tr><td>GKN1</td><td>Gastrokine 1</td><td>NM_019617.2</td><td>89.07</td><td>Hs.69319</td><td>56287</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1175991_table_2",
+   "page_num": 3,
+   "bbox": [
+    68.3,
+    159.5,
+    632.1,
+    829.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1175991_table_2.png",
+   "html": "<table><tr><td>Biological process group</td><td>Mean identity (%)*</td><td>Standard deviation</td></tr><tr><td>Pregnancy</td><td>80.8</td><td>11.7</td></tr><tr><td>Cell proliferation</td><td>92.7</td><td>3</td></tr><tr><td>Immune response</td><td>93.9</td><td>4.1</td></tr><tr><td>Negative regulation of cell proliferation</td><td>94</td><td>6.2</td></tr><tr><td>Regulation of cell cycle</td><td>94.3</td><td>5.9</td></tr><tr><td>Response to oxidative stress</td><td>94.3</td><td>6.7</td></tr><tr><td>Inflammatory response</td><td>94.4</td><td>4.3</td></tr><tr><td>Transport</td><td>95</td><td>3.1</td></tr><tr><td>Cell-cell signaling</td><td>95.5</td><td>3.6</td></tr><tr><td>Apoptosis</td><td>95.6</td><td>5.3</td></tr><tr><td>Proteolysis and peptidolysis</td><td>96.1</td><td>4.5</td></tr><tr><td>Positive regulation of cell proliferation</td><td>96.2</td><td>2.4</td></tr><tr><td>G-protein coupled receptor protein signaling pathway</td><td>96.3</td><td>5.5</td></tr><tr><td>Electron transport</td><td>96.3</td><td>2.3</td></tr><tr><td>Development</td><td>96.4</td><td>4.1</td></tr><tr><td>Carbohydrate metabolism</td><td>96.7</td><td>3.2</td></tr><tr><td>Metabolism</td><td>96.9</td><td>2.4</td></tr><tr><td>Signal transduction</td><td>97</td><td>4</td></tr><tr><td>Cell growth and/or maintenance</td><td>97.2</td><td>3.8</td></tr><tr><td>Angiogenesis</td><td>97.3</td><td>2</td></tr><tr><td>Regulation of transcription from Pol II promoter</td><td>97.7</td><td>2.4</td></tr><tr><td>Mitosis</td><td>97.7</td><td>1.8</td></tr><tr><td>Ubiquitin cycle</td><td>97.7</td><td>3.8</td></tr><tr><td>Antimicrobial humoral response (sensu Vertebrata)</td><td>97.8</td><td>1.9</td></tr><tr><td>Ribosome biogenesis</td><td>98</td><td>1.9</td></tr><tr><td>Ion transport</td><td>98.1</td><td>0.6</td></tr><tr><td>Cell adhesion</td><td>98.3</td><td>2.9</td></tr><tr><td>Anti-apoptosis</td><td>98.5</td><td>1.7</td></tr><tr><td>Ubiquitin-dependent protein catabolism</td><td>98.7</td><td>1.3</td></tr><tr><td>Regulation of transcription, DNA-dependent</td><td>98.7</td><td>1.4</td></tr><tr><td>Protein folding</td><td>98.8</td><td>1.5</td></tr><tr><td>Translational initiation</td><td>99</td><td>1.7</td></tr><tr><td>Protein biosynthesis</td><td>99.1</td><td>1.7</td></tr><tr><td>Response to stress</td><td>99.4</td><td>0.5</td></tr><tr><td>Intracellular protein transport</td><td>99.4</td><td>0.7</td></tr><tr><td>Glycolysis</td><td>99.6</td><td>0.3</td></tr><tr><td>Nuclear mrna splicing, via spliceosome</td><td>99.6</td><td>0.3</td></tr><tr><td>Small gtpase mediated signal transduction</td><td>99.7</td><td>0.5</td></tr><tr><td>Protein transport</td><td>99.9</td><td>0.3</td></tr><tr><td>Intracellular signaling cascade</td><td>100</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1175991_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.9,
+    158.5,
+    673.3,
+    586.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1175991_table_3.png",
+   "html": "<table><tr><td>Gene</td><td>Comparative length</td><td>Number of animals</td><td>Nucleotide diversity (&#960;)</td></tr><tr><td>ACTB</td><td>1,067</td><td>5</td><td>0.00110</td></tr><tr><td>ACTG1</td><td>708</td><td>6</td><td>0.00290</td></tr><tr><td>APOA1</td><td>746</td><td>2</td><td>0.00200</td></tr><tr><td>APOA2</td><td>431</td><td>2</td><td>0.00350</td></tr><tr><td>ATF4</td><td>469</td><td>4</td><td>0.00160</td></tr><tr><td>B2M</td><td>439</td><td>7</td><td>0.00000</td></tr><tr><td>C15orf15</td><td>860</td><td>3</td><td>0.00117</td></tr><tr><td>CAP1</td><td>667</td><td>5</td><td>0.00127</td></tr><tr><td>CCNI</td><td>547</td><td>4</td><td>0.00000</td></tr><tr><td>CDC10</td><td>693</td><td>3</td><td>0.00190</td></tr><tr><td>CTSB</td><td>967</td><td>4</td><td>0.00078</td></tr><tr><td>EEF1A1</td><td>865</td><td>7</td><td>0.00235</td></tr><tr><td>EEF1G</td><td>771</td><td>6</td><td>0.00000</td></tr><tr><td>ENO1</td><td>793</td><td>5</td><td>0.00100</td></tr><tr><td>FTH1</td><td>775</td><td>5</td><td>0.00100</td></tr><tr><td>PPID</td><td>891</td><td>3</td><td>0.00148</td></tr><tr><td>RPL14</td><td>657</td><td>5</td><td>0.00457</td></tr><tr><td>RPL15</td><td>631</td><td>4</td><td>0.00264</td></tr><tr><td>RPL3</td><td>796</td><td>6</td><td>0.00339</td></tr><tr><td>RPS20</td><td>483</td><td>4</td><td>0.00155</td></tr><tr><td>SLC25A5</td><td>749</td><td>3</td><td>0.00088</td></tr><tr><td>TPT1</td><td>740</td><td>7</td><td>0.00000</td></tr><tr><td>TXNIP</td><td>614</td><td>3</td><td>0.00000</td></tr><tr><td rowspan=\"3\">UBC</td><td>824</td><td>6</td><td>0.00281</td></tr><tr><td></td><td>Mean</td><td>0.00158</td></tr><tr><td></td><td>SD</td><td>0.00125</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1175991_table_4",
+   "page_num": 5,
+   "bbox": [
+    68.3,
+    159.5,
+    672.1,
+    588.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1175991_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td rowspan=\"2\">Alignment length</td><td colspan=\"3\">Number of reads</td><td colspan=\"3\">Frequency per kilobase</td></tr><tr><td>M f.</td><td>M.m.</td><td>M.n.</td><td>m vs n*</td><td>m vs f*</td><td>n vs f*</td></tr><tr><td>ADH1B</td><td>819</td><td>8</td><td>5</td><td>14</td><td>0.00</td><td>0.00</td><td>2.44</td></tr><tr><td>AFP</td><td>537</td><td>1</td><td>3</td><td>1</td><td>11.17</td><td>7.45</td><td>3.72</td></tr><tr><td>ALB</td><td>2047</td><td>&gt; 20</td><td>&gt; 20</td><td>&gt; 20</td><td>0.00</td><td>0.49</td><td>0.49</td></tr><tr><td>AMBP</td><td>731</td><td>1</td><td>5</td><td>4</td><td>4.10</td><td>1.37</td><td>5.47</td></tr><tr><td>ANGPTL3</td><td>371</td><td>1</td><td>1</td><td>2</td><td>2.70</td><td>0.00</td><td>2.70</td></tr><tr><td>APOA1</td><td>746</td><td>10</td><td>76</td><td>2</td><td>10.72</td><td>4.02</td><td>5.36</td></tr><tr><td>APOA2</td><td>431</td><td>3</td><td>4</td><td>5</td><td>6.96</td><td>4.64</td><td>2.32</td></tr><tr><td>APOC4</td><td>312</td><td>3</td><td>1</td><td>1</td><td>16.03</td><td>12.82</td><td>16.03</td></tr><tr><td>APOE</td><td>217</td><td>2</td><td>2</td><td>2</td><td>4.61</td><td>4.61</td><td>0.00</td></tr><tr><td>APOH</td><td>1007</td><td>4</td><td>14</td><td>14</td><td>2.98</td><td>0.00</td><td>2.98</td></tr><tr><td>B2M</td><td>587</td><td>1</td><td>90</td><td>1</td><td>0.00</td><td>11.93</td><td>11.93</td></tr><tr><td>EEF1A1</td><td>920</td><td>7</td><td>&gt;20</td><td>7</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>FGA</td><td>379</td><td>3</td><td>6</td><td>1</td><td>7.92</td><td>0.00</td><td>7.92</td></tr><tr><td>FGB</td><td>407</td><td>3</td><td>43</td><td>11</td><td>2.46</td><td>0.00</td><td>2.46</td></tr><tr><td>FGG</td><td>694</td><td>3</td><td>24</td><td>9</td><td>1.44</td><td>1.44</td><td>2.88</td></tr><tr><td>HPR</td><td>567</td><td>2</td><td>20</td><td>12</td><td>3.53</td><td>1.76</td><td>1.76</td></tr><tr><td>RPL9</td><td>680</td><td>1</td><td>35</td><td>1</td><td>4.41</td><td>4.41</td><td>0.00</td></tr><tr><td>SERPINC1</td><td>787</td><td>1</td><td>3</td><td>1</td><td>1.27</td><td>2.54</td><td>1.27</td></tr><tr><td>TTR</td><td>599</td><td>5</td><td>2</td><td>6</td><td>5.01</td><td>3.34</td><td>5.01</td></tr><tr><td>UBC</td><td>460</td><td>1</td><td>40</td><td>1</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"4\">UGT2B7</td><td>228</td><td>1</td><td>13</td><td>1</td><td>8.77</td><td>0.00</td><td>8.77</td></tr><tr><td></td><td></td><td></td><td>Mean</td><td>5.88</td><td>3.80</td><td>5.22</td></tr><tr><td></td><td></td><td></td><td>Median</td><td>3.53</td><td>1.44</td><td>2.70</td></tr><tr><td></td><td></td><td></td><td>SD</td><td>4.38</td><td>3.80</td><td>4.19</td></tr></table>"
+  }
+ ]
+}

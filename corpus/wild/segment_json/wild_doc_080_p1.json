@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_080",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    148,
+    580,
+    191
+   ],
+   "ocr": "In the analysis of cybersecurity incidents from 2019 to 2024, data reveals significant trends across various incident types. In 2019, there were 5,000 phishing incidents, resulting in a total cost of ¥1.2B, with an average loss of ¥240K and a response time of 3 days."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    179,
+    580,
+    222
+   ],
+   "ocr": "The following year, 2020, recorded 4,500 malware incidents, costing ¥1.5B, with an average loss of ¥333K and a response time of 4 days. The trend continued in 2021 with 6,000 ransomware incidents, totaling ¥2.0B in costs, an average loss of ¥333K, and a response time of 5 days."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    281.0,
+    580.0,
+    617.0
+   ],
+   "ocr": "Year IncidentType IncidentCounts TotalCost AverageLoss ResponseTime\n2019 Phishing 5000 ¥1.2B ¥240K 3days\n2020 Malware 4500 ¥1.5B ¥333K 4days 2021 Ransomware\n6000 ¥2.0B ¥333K 5days 2022 DataBreach 7000 ¥2.5B\n¥357K 6days 2023 DDoSAttack 3000 ¥800M ¥267K 2days\n2024 InsiderThreat 4000 ¥1.0B ¥250K 4days Total 30000\n¥7.0B ¥233K 4days 2019 Phishing 10% ¥120M 80%\n2020 Malware 15% ¥150M 85% 2021 Ransomware 20%\n¥400M 90% 2022 DataBreach 25% ¥625M 95% 2023\nDDoSAttack 5% ¥40M 70% 2024 InsiderThreat 10% ¥100M\n75% Average 15% ¥207M 85% Trend Increasing ¥1.5B\nStable Increasing ¥300M Decreasing Stable ¥150M Increasing ¥1.0B",
+   "table_id": "img_088087_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    716
+   ],
+   "ocr": "In 2022, data breaches surged to 7,000 incidents, incurring a total cost of ¥2.5B, with an average loss of ¥357K and a response time of 6 days. In 2023, there were 3,000 DDoS attacks, costing ¥800M, with an average loss of ¥267K and a response time of 2 days. Lastly, 2024 saw 4,000 insider threats, leading to a total cost of ¥1.0B, an average loss of ¥250K, and a response time of 4 days."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "Cumulatively, from 2019 to 2024, the total incident count reached 30,000, with an overall cost of ¥7.0B and an average loss of ¥233K, accompanied by an average response time of 4 days. Notably, the average loss per incident trend indicates an increasing pattern, with total costs projected at ¥1.5B by 2024. The overall trend reflects a stable yet increasing frequency of incidents, highlighting the critical need for enhanced cybersecurity measures in the Asia-Pacific region."
+  }
+ }
+}

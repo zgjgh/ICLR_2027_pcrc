@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_106",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    281.5,
+    64.4
+   ],
+   "ocr": "Algorithms for Molecular Biology 2008, 3:8"
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    522.9,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.almob.org/content/3/1/8"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    477.3
+   ],
+   "ocr": "If there is no correlation between differential expression and expression level, the AUC value based on the w statis- tic should be approximately 0.5. Actually, of the 36 exper- imental datasets, 34 had AUC values > 0.5 when the w statistic was used (Figure 1, light blue circle) and the aver- age AUC value was high (72.7%). These results demon- strate the validity of our assumption. This high AUC value may not be due to the microarray technology because any technology is unreliable at the low intensity/expression end. Inevitably, genes that can be confirmed as DEGs using a particular technology tend to have high signal intensity. That is, it is difficult to confirm candidate genes having low signal intensity [48,80]. Whether a candidate is a true DEG must ultimately be decided subjectively. Therefore, many candidates having low signal intensity should not be considered true DEGs. Apart from the above discussion, a good method should produce high AUC values for real experimental datasets. The analysis of Datasets 3–38 showed that the average AUC value for WAD (96.737%) was the highest of the eight methods when the preprocessing algorithms were selected following the original studies (Table 3). WAD performed the best for 12 of the 36 experimental datasets."
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    394.0,
+    107.2,
+    647.0,
+    118.9
+   ],
+   "ocr": "Table 3: Results for Dataset 3–38 using eight methods"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    401.6,
+    130.1,
+    684.5,
+    260.6
+   ],
+   "ocr": "Method Average AUC (%) No. of datasets best performed\nWAD 96.737 12\nAD 94.758 1\nFC 94.659 4\nRP 93.182 2\nmodT 95.541 1\nsamT 95.866 7\nshrinkT 95.439 4\nibmT 96.060 5",
+   "table_id": "PMC2464587_table_2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    276.8,
+    698.3,
+    477.3
+   ],
+   "ocr": "Analyses of Datasets 3–26 and Datasets 27–38 were performed using MAS- and RMA-preprocessed data, respectively, following the choice of preprocessing algorithm in the original papers. Accordingly, the average AUC value was calculated from those for Datasets 3–26 (MAS) and Datasets 27–38 (RMA). The best performing methods for each dataset is given in the additional file [see Additional file 1]. The 36 experimental datasets can be divided into two groups: One group (Datasets 3–26) had originally been analyzed using MAS-preprocessed data and the other (Datasets 27–38) had originally been analyzed using RMA-preprocessed data. Table 4 shows the average AUC values for MAS-, RMA-, and DFW-preprocessed data for the two groups (Datasets 3–26 and Datasets 27–38). The values for the MAS- (RMA-) preprocessed data for the first"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    824.7,
+    391.1,
+    906.8
+   ],
+   "ocr": "Effect Figure of 1 the weight (w) term in WAD statistic for 36 real Effect of the weight (w) term in WAD statistic for 36 real the weight term (w, light blue circle) in WAD, AD (black circle), and Datasets 27–38 were performed using MAS- and essing algorithm in the original papers. The average AUC values shown in Table 3. Note that WAD statistics (AD with the w"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    336.1,
+    825.0,
+    695.3,
+    906.8
+   ],
+   "ocr": "experimental datasets (Datasets 3–38) experimental datasets (Datasets 3–38). AUC values for and WAD (red circle) are shown. Analyses of Datasets 3–26 RMA-preprocessed data, respectively, following the choice of preproc- for their respective methods as well as the other methods are term) can overall give higher AUC values than AD statistics."
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 12 (page number not for citation purposes)"
+  }
+ }
+}

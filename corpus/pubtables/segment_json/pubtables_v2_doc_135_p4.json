@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_135",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Chen et al. BMC Bioinformatics 2011, 12:311 http://www.biomedcentral.com/1471-2105/12/311"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 10 of 14"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.6,
+    747.4
+   ],
+   "ocr": "different training sets. Because of many differences, these methods can not be compared directly on the basis of the obtained results alone. Nonetheless, for completeness we compare our approach with two recent publications [50,64], Robetta and FOLDEF. The results are reported in Table 7. On the 2 kcal.mol-1 training set, for the balance of data set we train our sequence-based method on the training set containing 84 hot spots and 84 selected non-hot spot with a lower ΔΔG. The predic- tive performance of our method has been estimated to be P = 0.78, R = 0.80 and F1 = 0.79 on 10-fold cross- validation test. On training set, the sequence-based SVM achieves the best results (F1 = 0.79). While on independent test set, Tuncbag’s method [64] obtains a better performance with F1 = 0.65. The results for sequence-based method appear comparable to those reported in Tuncbag’s paper. While Cho’s method per- forms better than two energy-based methods both on training set and independent test set. Through comparisons of the results for different mod- els, the sequence-based method has been found that its predictive performance is comparable to that of all fea- tures used method. However, the sequence-based model comprises only physicochemical features, position speci- fic scoring matrix (PSSM), evolutionary conservation score, and sequence entropy without structure informa- tion. These features may be complementary, contain more hot spots’ information, and depict the nature of hot spot residues. Thus, they can predict hot spots with better predictive performance. In a recent study [93], Westhead et al have shown that simple sequence-based features contain insufficient information and do not pre- dict protein-protein interactions. However, these sequence features used in our work are not simple amino acid sequence, and they are derived from sequences. We note that the evolutionary conservation score may not be a better predictor in distinguishing hot spots from non-hot spots by itself. In Ab+ dataset (all Table 7 Predictive results of different methods when ΔΔG ≥ 2 kcal.mol-1 is defined as a threshold"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    250.1,
+    366.2,
+    921.9
+   ],
+   "ocr": "Figure 8 Examples of hot spot prediction. (a) Erythropoietin receptor/erythropoietin mimetic peptide (PDB ID: 1EBP, chain A). Red residues are actual hot spots predicted correctly. Blue residues are actual non-hot spots predicted correctly. Green residue indicates the residue that is an actual hot spot predicted as non-hot spot. Rasmol is used to graphically visualize the protein complexes in this study. (b) Adenomatous polyposis coli tumor suppressor protein/ beta-catenin (PDB: 1JPP, chain B). Red residues are actual hot spots predicted correctly; green residue indicates the residue is an actual hot spot predicted as non-hot spot. Yellow residue is actual non-hot spot predicted as hot spot. (APC) tumor suppressor protein plays a critical role in regulating cellular levels of the oncogene product beta- catenin [92]. Beta-catenin has six experimentally identi- fied hot spots (K345, W383, R386, K435, R469, and H470) and one non-hot spot (K354). Among seven resi- dues, K345, K354, W383, and R386 form a cluster; K435, R469, and H470 form another cluster. Five of the six residues as hot spots (K345, W383, R386, K435, and R469) are predicted correctly, and one hot spot is incor- rectly predicted as non-hot spot (H470). Whereas, one non-hot spot residue are incorrectly predicted as a hot spot (K354) (see Figure 8b). Our approach achieves a result with P = 0.83, R = 0.83, and F1 = 0.83. Robetta identifies all seven residues as non-hot spots. FOLDEF predicts K435 as a hot spot correctly and the rest as non-hot spots. Discussion Many studies on the same problem of hot spots predic- tion have been published in the past years [20,40,48,50,64]. In these publications, hot spots are defined as those alanine mutations for which ΔΔG ≥2 kcal.mol-1. With this definition, our original training set comprises 84 hot spots and 293 non-hot spots. As men- tioned above, comparing different approaches based on the quoted results is problematic as the definition of hot spots, data sets and evaluation measures used differ. It is not entirely fair to assess which methods perform better. Taking the Robetta for example, this method achieves F1 = 0.47 on our new training set (a threshold of ΔΔG ≥ 2 kcal.mol-1). The reported F1 score of Robetta in [20,48,50] and [64] on their respective training set are 0.49, 0.49, 0.55 and 0.59, respectively. This suggests that there will be different results with the same method on"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    752.3,
+    670.3,
+    915.9
+   ],
+   "ocr": "Method Dataset P R F1\nRobetta Training set 0.49 0.44 0.47\nTest set 0.71 0.25 0.37\nFOLDEF Training set 0.45 0.54 0.49\nTest set 0.60 0.26 0.37\nCho’s method Training set 0.58 0.73 0.65\nTest set 0.44 0.65 0.52\nTuncbag’s method Training set 0.64 0.52 0.57\nTest set 0.73 0.59 0.65\nSequence-based SVM Training set 0.78 0.80 0.79\nTest set 0.65 0.64 0.64",
+   "table_id": "PMC3176265_table_6"
+  }
+ }
+}

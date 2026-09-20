@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_044",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    155
+   ],
+   "ocr": "The first table presents a comparative analysis of helpful and hindering factors for Panic Disorder and Dysthymia, with relevant factors categorized under therapist roles and techniques. For Panic Disorder, the helpful factors include \"Therapist as coach\" linked to \"Phobias*\", \"Relaxation techniques\" associated with \"Fear of anxiety*\", \"Awareness and handling of feelings\" addressing \"Difficult handling bodily sensations and feelings*\", and \"Exposure gave confidence\" with no hindrances listed. In contrast, the hindering factors include \"Therapist as parent\" with \"Mistrust of others*\", \"Experiential and creative techniques\" coupled with \"Sensitive to confirmation*\", \"Self-acceptance and compassion\" hindered by \"Blaming self or others*\", and \"Feedback from others in group\" alongside \"Difficulties in close relations*\"."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    143,
+    580,
+    232
+   ],
+   "ocr": "The table also notes unresolved dynamics with two entries under Dysthymia, wherein \"Resolved relational problems\" and \"Several therapies important\" lack hindering factors. The second table details the correlation of various parameters with k values ranging from 1 to 5, where for k=1, Ntrain is 311,540, Ntest is 77,993, and correlation is 0.895; for k=2, Ntrain is 311,463, Ntest is 78,070, and correlation is 0.891; for k=3, Ntrain is 311,652, Ntest is 77,881, and correlation is 0.898; for k=4, Ntrain is 311,565, Ntest is 77,968, and correlation is 0.901; and for k=5, Ntrain is 311,454, Ntest is 78,079, and correlation is 0.903."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    250.0,
+    580.0,
+    453.0
+   ],
+   "ocr": "Panic disorder Dysthymia\nHelpful factors Hindering factors Helpful factors Hindering factors\nTherapist as coach Phobias* Therapist as parent Mistrust of others*\nRelaxation techniques Fear of anxiety* Experiential and creative techniques Sensitive to confirmation*\nAwareness and handling of feelings Difficult handling bodily sensations and feelings* Self-acceptance and compassion Blaming self or others*\nExposure gave confidence Feedback from others in group Difficulties in close relations*\nResolved relational problems\nSeveral therapies important",
+   "table_id": "img_049198_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    468.0,
+    580.0,
+    595.0
+   ],
+   "ocr": "k Ntrain Ntest Correlation\n1 311,540 77,993 0.895\n2 311,463 78,070 0.891\n3 311,652 77,881 0.898\n4 311,565 77,968 0.901\n5 311,454 78,079 0.903",
+   "table_id": "img_049198_t1"
+  }
+ }
+}

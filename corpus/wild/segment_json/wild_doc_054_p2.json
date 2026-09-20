@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_054",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    131,
+    580,
+    189
+   ],
+   "ocr": "The analysis presents two tables detailing diagnostic parameters and gene ontology (GO) terms. In Table 1, the parameters include Sensitivity at 84.0% with a 95% confidence interval (CI) of 79.5–88.5, Specificity at 61.0% with a 95% CI of 55.0– 67.1, Positive Predictive Value at 35.0% with a 95% CI of 29.1–40.9, Negative Predictive Value at 93.8% with a 95% CI of 91.1–96.9, and Accuracy at 65.6% with a 95% CI of 60.1–71.9."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    177,
+    580,
+    205
+   ],
+   "ocr": "Table 2 lists various GO terms alongside their respective P- values, genes, and involved miRNAs."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    259.0,
+    580.0,
+    380.0
+   ],
+   "ocr": "Parameter Percent (%) 95% CI\nSensitivity 84.0 79.5–88.5\nSpecificity 61.0 55.0–67.1\nPositive predictive Value 35.0 29.1–40.9\nNegative Predictive Value 93.8 91.1–96.9\nAccuracy 65.6 60.1–71.9",
+   "table_id": "img_058570_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    431.0,
+    580.0,
+    627.0
+   ],
+   "ocr": "GO Term P-Value Genes Involved miRNAs\nactin cytoskeleton organization 0.023554309 RND3, CALD1, LIMCH1, MYH11 miR-802, miR-1322\nactin filament-based process 0.027802287 RND3, CALD1, LIMCH1, MYH11 miR-802, miR-1322\npositive regulation of apoptosis 0.029075368 SERINC3, CDKN2A, ALDH1A3, IGFBP3, CASP2 miR-802, miR-4319, miR-933, miR-1322, miR-3176, miR-1469\npositive regulation of programmed cell death 0.029725847 SERINC3, CDKN2A, ALDH1A3, IGFBP3, CASP2 miR-802, miR-4319, miR-933, miR-1322, miR-3176, miR-1469\npositive regulation of cell death 0.030164333 SERINC3, CDKN2A, ALDH1A3, IGFBP3, CASP2 miR-802, miR-4319, miR-933, miR-1322, miR-3176, miR-1469",
+   "table_id": "img_058570_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    732
+   ],
+   "ocr": "The term actin cytoskeleton organization has a P-value of 0.023554309, associated with genes RND3, CALD1, LIMCH1, MYH11, and miRNAs miR-802, miR-1322. Similarly, actin filament-based process has a P-value of 0.027802287 with the same genes and miRNAs. The positive regulation of apoptosis is represented by a P-value of 0.029075368, involving genes SERINC3, CDKN2A, ALDH1A3, IGFBP3, CASP2, and miRNAs miR-802, miR-4319, miR-933, miR-1322, miR-3176, miR- 1469."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    762
+   ],
+   "ocr": "The positive regulation of programmed cell death shows a P-value of 0.029725847 with identical gene and miRNA involvement, while the positive regulation of cell death has a P-value of 0.030164333, maintaining the same list of genes and miRNAs."
+  }
+ }
+}

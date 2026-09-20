@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_255",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    236.1,
+    51.8
+   ],
+   "ocr": "Fan et al. BMC Genomics (2018) 19:489"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 2 of 12"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    108.9,
+    367.5,
+    927.7
+   ],
+   "ocr": "Background Genetic maps play an important role in evaluating the evolution of cotton chromosomes and the discovery of Gossypium genetic resources to improve the world’s most prominent natural fiber [1]. Previous quantitative trait locus (QTLs) studies on fiber and lint yield traits involved diploid cotton populations [2–6], upland cotton popula- tions [7–12] and interspecific populations [13–16], al- though few studies have been conducted on intraspecific populations of Gossypium barbadense to identify fiber and lint yield QTLs [17, 18]. Previous studies of fiber quality and lint yield traits were primarily based on molecular markers with low polymorphic rates [19–21]. The genetic maps were severely unsaturated and contained large gaps, leading to fine mapping of the QTLs underlying the traits of interest difficult. Without increased numbers and improved types of markers, a high-density genetic map cannot be constructed. Recently, with the development of genetic markers, single-nucleotide polymorphism (SNP) markers rich in polymorphisms were found to be dis- tributed throughout the cotton genome. Many com- plexity reduction approaches are available, such as genotyping-by-sequencing (GBS) [22–24], restriction site-associated DNA (RAD) sequencing [25–29] and specific locus-amplified fragment (SLAF) sequencing [30–34]. These technologies have been applied to many crops to construct genetic maps for QTL mapping. Diouf et al. [22] constructed an ultra-high-density genetic map of intraspecific upland cotton using GBS technology that spanned 4768.098 cM, with an average distance of 0.92 cM, and contained 5178 SNP markers. Wang et al. [29] used RAD technology to construct a gen- etic map of intraspecific Gossypium hirsutum. The map included 4153 loci and spanned 3500 cM, with an average distance between two adjacent markers of 0.83 cM. Zhang et al. [33] constructed an intraspecific high-density genetic map of upland cotton using SLAF sequencing technology. The resulting genetic map contained 5521 markers span- ning 3259.37 cM, and the average distance between adja- cent markers was 0.78 cM. However, a high-density map within G. barbadense is currently unavailable. In this study, a recombinant inbred line (RIL) popula- tion consisting of 143 accessions was constructed using Chinese G. barbadense 5917 and American Pima S-7 as parents. The genetic map using GBS was constructed in reference to the scaffold map of G. barbadense [35]. A total of 3557 SNP markers were used to construct a high-density genetic map for detection of QTLs based on fiber quality and yield trait data collected over 3 years. Results Analysis of fiber trait performance in the RIL population The two parents exhibit unique characteristics with re- gard to fiber quality traits. The population derived from"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.1,
+    753.7
+   ],
+   "ocr": "the parental strains had transgressive inheritance traits and characteristics with normal distributions. A distinct separation was observed among the populations despite the small differences between the two parents. The results of one-way ANOVA showed no significant differences in seven traits between the two parents except for fiber strength (FS) and lint percentage (LP) (Table 1). The maximum and minimum values in the population were higher than those in the parents, indicating trans- gressive inheritance. The absolute values of kurtosis and skewness were all < 1, except for the kurtosis values for micronaire (MIC) and LP, which were 1.04 and 1.02, respectively. The fiber elongation (FE) and LP showed little difference between the parents, although large varia- tions in these traits were observed in the progeny because of interactions between genes. Correlations were detected among the seven traits (Table 2). Positive correlations were detected for fiber length (FL) with FS and fiber uniformity (FU); FS with MIC; FU with boll weight (BW). Negative correlations were detected between FL and FE, FE and BW, and FU and LP. The broad-sense heritability values ranged from 0.66– 0.98. FL, FS and MIC had values of 0.73, 0.74 and 0.68, respectively (Table 3). LP had the highest broad-sense heritability values among all traits, indicating that it was primarily controlled by genotype. Analysis of GBS data and markers The clean base data for cultivar 5917 were 2.262 G, and the GC content was 38.3%. The clean base data for culti- var PimaS-7 were 2.656 G, and the GC content was 37.78%. In this study, the scaffold of G. barbadense was used as the reference genome. Cultivars 5917 and PimaS-7 yielded 7,785,604 and 9,127,821 reads, respect- ively, and the average sequencing depth was 24.54. A total of 175,365 polymorphic SNP markers were detected between 5917 and PimaS-7. After filtering out missing sites in the parental infor- mation, 175,365 SNP markers were found, and 60,003 Table 1 The results of the overall analysis of parental and population data"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    384.9,
+    758.8,
+    680.4,
+    910.6
+   ],
+   "ocr": "Traits Parents Population\n5917 PimaS-7 Range MIN MAX MEAN Kurt Skew\nFL 35.68 34 1.68 32.53 40.13 35.51 0.52 0.3\nFU 88.52 87.31 1.21 84.51 90.3 87.64 −0.19 −0.25\nFS 46.84 39.21 7.64* 33.38 54.85 43.9 0.81 −0.13\nFE 6.18 6.26 −0.08 5.12 8.1 6.36 −0.25 0.27\nMIC 4.11 4.39 −0.28 3.22 4.9 4.2 1.04 −0.08\nBW 3.12 2.95 0.17 2.14 4.68 3.49 −0.04 −0.11\nLP 0.33 0.38 −0.05* 0.29 0.47 0.36 1.02 2.86",
+   "table_id": "PMC6019718_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    385.3,
+    917.0,
+    474.2,
+    926.9
+   ],
+   "ocr": "*significance at P = 0.05"
+  }
+ }
+}

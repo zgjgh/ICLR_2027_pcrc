@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_052",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    104,
+    580,
+    147
+   ],
+   "ocr": "In the context of evaluating the efficacy of feature selection techniques in predictive modeling, particularly within the framework of the C5.0 algorithm, the accompanying data table presents a comparative analysis of the model's performance under varying conditions."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    135,
+    580,
+    178
+   ],
+   "ocr": "The table delineates scenarios with and without feature selection, allowing for a nuanced understanding of how these techniques influence key metrics such as Absorbance and Prevention of lysis (%). Notably, the C5.0 model achieved an impressive accuracy rate of 99.31% in both conditions, indicating a robust predictive capability."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    480.0
+   ],
+   "ocr": "Different decision tree models % Correctness % Wrongness Performance evaluation (T) Performance evaluation (F) The most important feature (protein attribute) in build the decision tree\nWithout feature selection With feature selection Without feature selection With feature selection Without feature selection With feature selection Without feature selection With feature selection\nC5.0 99.31 99.31 0.69 0.69 0.053 0.053 2.833 2.833 Count of hydrogen\nC5.0 (10-fold val.) 99.31 99.31 0.69 0.69 - 0.053 - 2.833 Count of hydrogen\nCR&T 99.31 98.97 0.61 1.03 - 0.057 - 2.725 Count of hydrogen\nQUEST 98.97 99.31 1.03 0.69 - 0.053 - 2.833 Frequency of Leu - Leu\nCHAID 99.66 99.31 0.34 0.69 - 0.053 - 2.833 Frequency of oxygen\nExhaustive CHAID 99.66 99.31 0.34 0.69 - 0.053 - 2.833 Frequency of oxygen",
+   "table_id": "img_057435_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    516.0,
+    580.0,
+    643.0
+   ],
+   "ocr": "Concentration (μg/mL) Absorbance Prevention of lysis (%)\n300 0.162 33\n200 0.175 27.68\n100 0.183 24.38\nAspirin 0.148 38.84\nNegative control 0.242 0",
+   "table_id": "img_057435_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    732
+   ],
+   "ocr": "However, examining the Absorbance values reveals a significant differentiation in the data, with the feature selection approach yielding a lower Absorbance reading of 0.162 at a concentration of 300 μg/mL, as opposed to higher values recorded without feature selection. This discrepancy underscores the potential impact of feature selection on model interpretability and outcome reliability."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Furthermore, the Prevention of lysis, which is critical for assessing the overall effectiveness of the treatment, also merits attention as it provides insight into the biological relevance of the results. The implications of these findings highlight the importance of feature selection in enhancing model performance and data clarity within the scope of biochemical analysis."
+  }
+ }
+}

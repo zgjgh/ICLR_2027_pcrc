@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_075",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "caption",
+   "bbox": [
+    61.3,
+    50.7,
+    275.9,
+    98.8
+   ],
+   "ocr": "700 Table 3. Screening of Default Liquid Classes."
+  },
+  "p3_b1": {
+   "type": "title",
+   "bbox": [
+    499.5,
+    50.7,
+    689.7,
+    65.5
+   ],
+   "ocr": "Journal of Laboratory Automation 21(5)"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    61.3,
+    109.1,
+    689.1,
+    584.5
+   ],
+   "ocr": "Water-Free Serum-Free DMSO-Free Ethanol-Free System Liquid-Free\nSolvent Dispense Dispense Dispense Dispense Dispense\nAP Mean volume 291.7 295.4 298.5 298.9 288.9\nMin volume 290.7 294.6 296.6 296.6 287.8\nMax volume 293.7 296.6 299.5 300.5 289.8\nDEV (%) –2.76 –1.54 –0.49 –0.37 –3.70\nCV (%) 0.31 0.23 0.35 0.46 0.28\nSucrose Mean volume 287.4 292.6 294.6 296.6 284.1\nMin volume 285.7 290.8 294.1 295.8 282.4\nMax volume 289.1 294.1 295.8 297.5 285.7\nDEV (%) –4.20 –2.45 –1.79 –1.12 –5.29\nCV (%) 0.35 0.37 0.21 0.21 0.37\nβ-Casein Mean volume 297.7 301.3 305.4 305.2 287.0\nMin volume 295.7 299.6 303.6 303.4 283.5\nMax volume 299.9 302.6 307.1 306.6 289.9\nDEV (%) –0.75 0.45 1.81 1.74 –4.33\nCV (%) 0.48 0.41 0.43 0.38 0.72\nPBS Mean volume 298.5 302.1 305.3 305.8 291.3\nMin volume 297.1 300.0 303.9 302.9 286.3\nMax volume 300.0 303.9 306.9 308.8 298.0\nDEV (%) –0.49 0.69 1.76 1.92 –2.90\nCV (%) 0.30 0.40 0.34 0.58 1.56\nAH Mean volume 291.5 296.9 299.2 300.6 289.3\nMin volume 290.8 295.7 297.6 299.6 287.8\nMax volume 291.7 297.6 300.6 301.6 290.8\nDEV (%) –2.83 –1.03 –0.25 0.20 –3.57\nCV (%) 0.16 0.29 0.35 0.30 0.36\nNaCl Mean volume 292.1 295.9 299.2 298.9 286.6\nMin volume 290.2 294.4 297.7 297.7 285.1\nMax volume 292.7 296.9 300.3 299.4 287.6\nDEV (%) –2.65 –1.35 –0.27 –0.37 –4.47\nCV (%) 0.30 0.32 0.29 0.21 0.38",
+   "table_id": "PMC5030733_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    61.3,
+    596.2,
+    370.1,
+    918.8
+   ],
+   "ocr": "AH, aluminum hydroxide adjuvant; AP, aluminium phosphate adjuvant; CV, phosphate buffer saline. also impact the slope and offset values, and thus can modify accuracy, leading to a new time-consuming step to adjust these calibrating parameters. The novel aspect of the methodology discussed here is, for each liquid to be set up, to screen predefined EVOware liquid classes to identify which one has the optimal parameters for a precise pipetting (Fig. 5). For each relevant predefined liquid class, mean, minimum and maximum volumes, %DEV, and %CV are presented for each reagent (Table 3, lowest in bold). The liquid class selection is not automatically defined with the best CV because different liquid classes could have a similar precision. However, in case of a very close accuracy, the low- est CV will be preferred. Results from ethanol and liquid sys- tem are presented for information due to the lack of different subclasses (Tables 1 and 3). Based on acceptance criteria (Table 2), serum was selected for AP and β-casein. DMSO was preferred for sucrose 50% (m/v), AH, and NaCl 1 M, and water for PBS."
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    373.0,
+    596.2,
+    654.4,
+    608.1
+   ],
+   "ocr": "coefficient of variation; % DEV, deviation expressed in percent; PBS,"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    387.0,
+    643.2,
+    689.7,
+    919.1
+   ],
+   "ocr": "Adjusting Accuracy Each subclass of liquid class, defined by the screening step, must be adjusted for a specific volume range determined by the VB application. The precisions obtained after the first adjustments are presented in Tables 4 and 5 for a single deliv- ery of AP. Two adjustments of factor and offset parameters were sufficient to optimize the precision and accuracy in all subclasses for each reagent tested, except in the case of β-casein for subclasses 1, 2, and 3 and PBS for subclass 2, where only one adjustment was sufficient to reach the target accuracy and number of adjustment attempts (Tables 4 and 5). For subclass 1, the %DEV values for AP, sucrose, and β-casein were in accordance with the criteria of accep- tance described in Table 2, except for 3 and 9 µL of PBS and all volumes for AH and NaCl 1 M. The %CV values were in agreement with the acceptance criteria, except for all volumes of PBS and 9 µL for NaCl 1 M, even if they"
+  }
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_291",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    210.9,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9:177"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/177"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    381.7,
+    106.9,
+    698.3,
+    446.0
+   ],
+   "ocr": "Unadjusted and adjusted hazard ratios We then calculated unadjusted hazard ratios for three selected gene sets within the 12 datasets (Table 5). These three gene sets showed significant (P < 0.05) unadjusted hazard ratios in six or seven of the 12 datasets irrespective of microarray platforms. For example, the Sotiriou_2, Wang, and Pawitan datasets used the Affymetrix U133A platform, the van de Vijver dataset used Agilent oligomers, and the Sorlie_1 dataset used cDNA arrays. This confirms that many gene sets related to cell cycle and proliferation are prognostic irrespective of the microarray platform. We also calculated adjusted hazard ratios for the 11823860_ST2 gene set in the three datasets (Sotiriou_2, van de Vijver, and Sorlie_1) for available clinical parame- ters such as grade, lymph node status, tumor size, age, and estrogen receptor (ER) status (Additional data file 2, Sup- plementary Table 5, 6 and 7). The 11823860_ST2 gene set proved significant even after adjustment for other clinical parameters in the three datasets, verifying that the 11823860_ST2 gene set contains additional prognostic value over existing prognostic clinical parameters. reports"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    287.5,
+    118.9
+   ],
+   "ocr": "Table 2: Number of gene sets in each category"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    367.5,
+    249.9
+   ],
+   "ocr": "Category Number\nGO Biological Process (BP) 735\nGO Molecular Functions (MF) 648\nBiological Pathways 198\nInterPro Domains 798\nBreast and other Cancer Signatures 32\nTotal 2411",
+   "table_id": "PMC2364634_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    285.2,
+    372.6,
+    403.1
+   ],
+   "ocr": "cycle or proliferation were best discriminating between groups with different clinical outcomes (Additional data file 1, Supplementary Table 1, 2, 3, and 4). The 11823860_ST2 gene set, which was ranked as the first in two-means clustering analysis (Table 4), was ranked as the first in four (Supplementary Table 2) and the fifth in three (Supplementary Table 1) and the tenth in five and six- means clustering (Supplementary Table 3 and 4)."
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    434.4,
+    378.8,
+    446.0
+   ],
+   "ocr": "Table 3: Thirty-two prognostic gene sets prepared from published"
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    457.1,
+    623.4,
+    898.3
+   ],
+   "ocr": "Gene set Number (reported) Number (unique) Reference\n*11823860_ST2 231 164 van't Veer et al. [13]\n11823860_ST3 2,460 1,818 van't Veer et al. [13]\n11823860_ST4 430 314 van't Veer et al. [13]\n12490681_70 70 50 van de Vijver [1]\n12747878_ST2 177 144 Huang et al. [52]\n12747878_ST3 168 160 Huang et al. [52]\n12917485_ST6 606 564 Sotiriou et al. [18]\n12917485_ST7 137 126 Sotiriou et al. [18]\n12917485_ST8 706 635 Sotiriou et al. [18]\n12917485_ST9 485 402 Sotiriou et al. [18]\n14737219_CSR 512 459 Chang et al. [3]\n14737219_USR 677 611 Chang et al. [3]\n15034139_T2 45 31 Zhao et al. [53]\n15073102_4 4 4 Glinsky et al. [54]\n15073102_6 6 6 Glinsky et al. [54]\n15073102_13 12 12 Glinsky et al. [54]\n15073102_14 14 14 Glinsky et al. [54]\n15591335_F1 21 21 Paik et al. [6]\n15721473_T3 76 68 Wang et al. [2]\n15931389_T3_stem 11 11 Glinsky et al. [55]\n15931389_ST2_14 14 14 Glinsky et al. [55]\n15931389_ST2_CNS 11 11 Glinsky et al. [55]\n16141321_SDC2 500 398 Miller et al. [19]\n16273092_catenin 98 76 Bild et al. [20]\n16273092_E2F3 298 238 Bild et al. [20]\n16273092_myc 332 192 Bild et al. [20]\n16273092_RAS 348 248 Bild et al. [20]\n16273092_SRC 75 58 Bild et al. [20]\n16280042_AF1 64 61 Pawitan et al. [16]\n16478745_ST1 242 207 Sotiriou et al. [15]\n16707453_ST3 101 86 Schuetz et al. [56]\n17076897_ADF3 52 52 Teschendorff et al. [24]",
+   "table_id": "PMC2364634_table_2"
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    914.6,
+    312.6,
+    926.4
+   ],
+   "ocr": "*Eight-digit number represents PubMed id of a reference"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 11 (page number not for citation purposes)"
+  }
+ }
+}

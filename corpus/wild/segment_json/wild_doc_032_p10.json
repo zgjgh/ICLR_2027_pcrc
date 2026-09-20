@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_032",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data presented in the accompanying table provides a comprehensive overview of genetic variability associated with varying levels of dabigatran exposure, specifically focusing on post-trauma conditions."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "The metrics of gene coverage and minor allele frequency (MAF) in controls are particularly noteworthy, as they offer insights into the extent of genetic representation and variability among the study population."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    254.0
+   ],
+   "ocr": "Low dabigatran High dabigatran Post-trauma\nControl 380 ± 106 1423 ± 432 1021 ± 238\nPCC (30; 60 U/kg) 299 ± 101; 302 ±115 1276 ± 443; 1273 ± 479 814 ± 81; 801 ± 185\naPCC (30; 60 U/kg) 291 ± 108; 288 ± 107 1199 ± 452; 1188 ±449 785 ± 166; 795 ± 159\nrFVIIa (90; 180 μg/kg) 270 ± 86; 267 ± 87 1266 ± 500; 1295 ± 496 766 ± 194; 797 ± 161\naDabi-Fab (30; 60 mg/kg) 0.0 ± 0.0; 0.0 ± 0.0 0.0 ± 0.0; 0.0 ± 0.0 0.0 ± 0.0; 0.0 ± 0.0",
+   "table_id": "img_036206_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    269.0,
+    580.0,
+    406.0
+   ],
+   "ocr": "Assay Gene coverage Shannon entropy L2-norm deviation\nMetagenome 0.63 (0.27–0.98)ab 0.91 (0.81–0.98)abc 0.987 (0.968–0.996)abc\nMetagenome-UMI 0.57 (0.22–0.98)ab 0.90 (0.78–0.98)abc 0.985 (0.962–0.996)abc\nResistome 0.76 (0.32–0.99)cd 0.91 (0.81–0.96)abc 0.984 (0.966–0.992)abc\nResistome-UMI 0.83 (0.34–1.00)cd 0.94 (0.83–0.97)d 0.989 (0.971–1.000)d\nCoefficients for sample type random effects Beef 0.66Poultry 0.76Swine 0.75WWTP 0.59 Beef 0.89Poultry 0.91Swine 0.91WWTP 0.87 Beef 0.979Poultry 0.983Swine 0.983WWTP 0.975",
+   "table_id": "img_036206_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    421.0,
+    580.0,
+    544.0
+   ],
+   "ocr": "Gene Chromosome SNP Base change Call rates (%) HWE MAF in controls Pa Pb\nHas-miR-149 2q37.3 rs2292832 A>G 99.77 0.092 0.322 0.349 0.436\nPre-miR-146a 5q34 rs2910164 G>C 99.81 0.468 0.429 0.558 0.558\nHas-miR-605 10q21.1 rs2043556 A>G 99.77 0.753 0.281 0.004 0.020\nHas-miR-608 10q25.1 rs4919510 G>C 99.85 0.835 0.425 0.245 0.408\nPre-miR-196a 12q13.13 rs11614913 A>G 99.91 0.796 0.432 0.019 0.048",
+   "table_id": "img_036206_t2"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    560,
+    580,
+    587
+   ],
+   "ocr": "With a gene coverage of 0.63 (0.27–0.98)ab reported for low dabigatran levels and an impressive 0.91 (0.81–0.98)abc for high dabigatran levels, the data underscores the differential genetic landscape influenced by therapeutic drug levels."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    575,
+    580,
+    649
+   ],
+   "ocr": "Additionally, the reported MAF in controls serves as a critical benchmark for understanding the prevalence of specific alleles within the population, which may have implications for pharmacogenetic responses in patients undergoing treatment. This analysis not only highlights the importance of genetic factors in clinical outcomes but also emphasizes the need for further investigation into the interplay between anticoagulant therapy and genetic predispositions."
+  }
+ }
+}

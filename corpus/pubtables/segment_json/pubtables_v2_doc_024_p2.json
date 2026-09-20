@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_024",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    269.4,
+    53.5
+   ],
+   "ocr": "El-Saadi et al. In Silico Pharmacology (2015) 3:6"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 6 of 20"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    391.9,
+    124.4
+   ],
+   "ocr": "Table 2 Approved drugs and corresponding targets used to generate"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    395.3,
+    111.8,
+    487.1,
+    124.4
+   ],
+   "ocr": "2D specificity matrix"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    333.7
+   ],
+   "ocr": "No. Biological target Corresponding drug\n1 Lymphocyte function-associated antigen LFA-1 (CD11A) Lovastatin\n2 Human Coagulation Factor 5-dimethyl amino 1-naphthalene sulfonic acid\n3 Retinol-Binding Protein Fenretinide\n4 Human cardiac troponin C Bepridil\n5 DNA {d(CGCGAATTCGCG)} Propamidine (TNT)\n6 Progesterone receptor Mometasone furoate\n7 Platelet receptor for fibrinogen Tirofiban\n8 Human phosphodiesterase 4B Roflumilast\n9 Cyclooxygenase-2 enzyme Indomethacin\n10 Estrogen receptor 4-hydroxytamoxifen\n11 ADP/ATP Translocase-1 Carboxyatractyloside",
+   "table_id": "PMC4464579_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    339.9,
+    377.4,
+    360.6
+   ],
+   "ocr": "Drugs and their corresponding targets are numbered from top to bottom in same is currently on the market"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    380.1,
+    339.9,
+    676.2,
+    349.8
+   ],
+   "ocr": "order as presented in specificity matrix. Each drug has been FDA approved and"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    383.3,
+    366.1,
+    502.8
+   ],
+   "ocr": "The structure of FC101a and both reference compounds were prepared using SYBYL-X Sketch Mode. FC101a was saved as FC101_a_04.mol2; FC101b was saved as FC101b_inactive.mol2; and kynurenine was saved as kynurenine_z.mol2. FC101b, the anti anti-cancer analog served as the negative control. This set of small mole- cules was saved collectively as leadset4_multi3.mol2 and underwent energy minimization using default settings."
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    383.8,
+    678.6,
+    502.8
+   ],
+   "ocr": "Molecular docking of ligands to potential FC101a targets We created a docking setup file for each protein of inter- est. Protomols were generated using MCS mode and surface one was selected each time; if no channels were present, automatic mode was selected. Ligand source was set to MOL2 and leadset4_multi3.mol2 was used as the ligand source file and the job name format was: Dockingrun_pdbID_ligand source_000. Additional file 4"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    868.5,
+    374.3,
+    917.9
+   ],
+   "ocr": "Fig. 6 Bar graph summarizing properties of FC101a and SA in relation to to Lipinski’s RO5. RO5 is perhaps the most used computational filter in violated more than one of Lipinski’s rules (Lipinski et al. 1997). a MW, b red line. FC101a is highlighted in blue"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    367.1,
+    868.8,
+    669.3,
+    905.2
+   ],
+   "ocr": "Lipinski’s RO5. Bar graphs displays the distribution of properties related drug candidate screening. Only 8.3 % of drugs within the focused WDI S+ logP, c HBD, d HBA. All properties meet Lipinski’s RO5, denoted by the"
+  }
+ }
+}

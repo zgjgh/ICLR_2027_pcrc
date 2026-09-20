@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_035",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "BMC Medical Genetics 2007, 8(Suppl 1):S12 http://www.biomedcentral.com/1471-2350/8/S1/S12"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    106.5,
+    599.9,
+    118.9
+   ],
+   "ocr": "Table 4: Maximum LOD scores (≥2) on each chromosomes for hemostatic factors and hematological phenotypes"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    694.6,
+    441.8
+   ],
+   "ocr": "Phenotype* SNP CHR Physical Position (bp)† LOD 1.5 LOD Support Interval\nFibrinogen rs1273819 2 227,307,918 2.4 221,455,139 234,213,322\nFVII rs1542535 3 138,548,560 2.8 128,478,856 147,720,726\nFVII rs2400107 10 15,113,999 3.3 13,834,912 21,013,729\nPAI1 143xd8 8 2,117,752 2.3 181,076 5,519,520\nvWF rs10514670 3 18,544,296 2.1 9,261,438 25,964,778\nplatelet aggregation (ADP-induced) rs4148751 7 86,787,804 2.0 81,841,699 94,233,832\nplatelet aggregation (collagen-induced) rs17310225 X 41,973,417 2.1 30,937,095 81,367,217\nHgb rs2412522 4 54,779,471 3.4 41,552,790 57,899,713\nHgb rs10514838 9 120,826,350 2.5 113,537,965 133,903,932\nMCVavg12 rs38993 7 153,013,905 2.2 149,613,755 154,729,817\nMCVavg12 rs9299952 11 19,075,037 3.3 12,241,666 21,560,867\nMCVavg12 rs10522006 X 32,347,187 2.3 27,553,388 40,183,712\nRBCC rs956275 4 57,108,334 2.5 44,437,719 74,935,678\nRBCC rs2023048 6 162,441,307 2.9 156,253,205 165,513,097\nRBCC rs10500769 11 12,975,794 3.2 9,335,581 15,231,734\nRBCC rs10500770 11 13,053,050 3.2 9,335,581 15,231,734\nRBCC rs2178692 12 6,706,312 2.8 4,817,859 9,212,944\nRBCC rs10498633 14 91,996,705 2.6 74,270,406 93,717,052\nRBCC GATA27A03 15 100,152,332 2.3 98,566,644 100,152,332\nRBCC rs2271090 17 76,861,200 2.3 73,915,579 78,166,561\nRBCC rs486633 18 555,760 3.3 156,277 4,009,209\nRBCC rs20037 22 27,802,395 2.2 25,095,430 42,711,182",
+   "table_id": "PMC1995619_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    458.0,
+    691.9,
+    505.0
+   ],
+   "ocr": "* For Hgb, MCH and RBCC reported here, multivariable adjusted residuals from average of measurements over exam cycles 1 and 2 were used; for all platelet aggregation phenotypes, fibrinogen, FVII, PAI1, vWF reported here, multivariable adjusted residuals from measurements at examination cycle 5 were used. †Physical position is in base pair (bp) and based on the May 2004 human reference sequence (NCBI Build 35)."
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    578.3,
+    655.2,
+    601.9
+   ],
+   "ocr": "Table 5: Top 10 ranked SNPs in combining GEE association tests of ADP-induced, Collagen-induced and Epi-induced platelet aggregation levels"
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    613.4,
+    694.6,
+    888.7
+   ],
+   "ocr": "GEE P-value of individual\nphenotypes\nSNP MAF CHR Physical Mean GEE Range of Beta Coeffi- Number of Gene ADP Collagen Epi\nPosition (bp)* p-value cient† (min, max) Phenotypes with within 60\nGEE P-value < 0.01 Kb\nrs10500631 0.13 11 4,882,639 6.6 × 10-3 0.19 0.24 3 OR51S1; 9.7 × 10-3 7.8 × 10-3 3.8 × 10-3\nOR51T1;\nOR51A7;\nOR51G2;\nOR51G1;\nOR51A4;\nOR51A2\nrs930323 0.18 1 221,172,525 1.9 × 10-3 -0.26 -0.16 2 CNIH3 3.8 × 10-2 1.6 × 10-3 1.2 × 10-4\nrs7033457 0.25 9 7,383,934 2.6 × 10-3 0.15 0.24 2 2.5 × 10-3 3.7 × 10-2 2.0 × 10-4\nrs2974490 0.11 5 113,433,775 2.7 × 10-3 0.07 0.28 2 4.2 × 10-1 8.7 × 10-5 5.2 × 10-4\nrs10517543 0.13 4 40,332,115 3.2 × 10-3 0.13 0.27 2 AF262323; 5.8 × 10-3 1.0 × 10-1 5.2 × 10-5\nFLJ20273\nrs2916601 0.13 5 89,556,637 3.5 × 10-3 0.11 0.29 2 9.7 × 10-2 3.2 × 10-4 1.4 × 10-3\nrs4350297 0.18 10 106,463,038 3.9 × 10-3 -0.24 -0.10 2 SORCS3 3.5 × 10-4 1.0 × 10-1 1.7 × 10-3\nrs7956194 0.42 12 108,340,545 4.3 × 10-3 0.09 0.20 2 FLJ37587; 3.6 × 10-3 1.1 × 10-1 2.0 × 10-4\nKCTD10;\nBC040062;\nAK056912;\nBC051266;\nUBE3B",
+   "table_id": "PMC1995619_table_4"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    904.8,
+    524.5,
+    916.3
+   ],
+   "ocr": "* Physical position is in base pair (bp) and based on the May 2004 human reference sequence (NCBI Build 35)."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    914.0,
+    651.3,
+    926.5
+   ],
+   "ocr": "†β coefficient is the change in the phenotype in one standardized deviation unit with an increment of a copy of the alphabetically higher allele."
+  },
+  "p4_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 11 (page number not for citation purposes)"
+  }
+ }
+}

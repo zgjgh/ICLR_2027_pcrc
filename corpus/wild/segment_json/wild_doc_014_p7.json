@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_014",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    339.0
+   ],
+   "ocr": "Models Variables B SE Wald Sig. Odds Ratio Low CI High CI\nModel 1 Constant −4.30 0.74 33.31 0.00 0.01 0.00 0.06\nAge Time 1 0.04 0.01 18.62 0.00 1.05 1.02 1.06\nGender Time 1 0.07 0.22 0.11 0.74 1.08 0.70 1.65\nEducation Time 1 −0.13 0.06 5.25 0.02 0.88 0.78 0.99\nIncome Time 1 0.08 0.05 2.45 0.12 1.09 0.98 1.19\nPsychosocial Safety Climate Time 1 −0.02 0.01 4.22 0.04 0.98 0.96 1.00\nModel 2 Constant −3.08 0.98 9.81 0.00 0.05 0.01 0.31\nAge Time 1 0.04 0.01 12.99 0.00 1.04 1.02 1.06\nEducation Time 1 −0.13 0.06 4.84 0.03 0.87 0.78 0.99\nEffort-Reward Imbalance Time 1 0.51 0.47 1.18 0.28 1.66 0.66 4.18\nJCQ Job Strain Time 1 −0.47 0.45 1.08 0.30 0.62 0.26 1.51\nPsychosocial Safety Climate Time 1 −0.02 0.01 4.34 0.04 0.98 0.96 1.00",
+   "table_id": "img_014299_t0"
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    355,
+    580,
+    444
+   ],
+   "ocr": "In the evaluation of the predictive capabilities of various models, the data presented in Table 1 offers a comprehensive overview of Model 1, which elucidates the relationship between the independent variables and the dependent outcome. Notably, the constant for this model is recorded at −4.30, indicating a significant baseline effect on the probability of the outcome occurring. The standard error (SE) associated with this estimate is 0.74, which provides insight into the precision of the constant estimate. The Wald statistic, with a value of 33.31, further underscores the significance of this parameter within the model, hinting at the robustness of the findings."
+  },
+  "p7_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    432,
+    580,
+    506
+   ],
+   "ocr": "Additionally, the odds ratio associated with the predictive variables will be critical for interpreting the practical implications of these results, particularly in understanding how changes in the variables influence the likelihood of the outcome. The confidence intervals (Low CI and High CI) offer further context by indicating the range within which the true odds ratio is expected to lie, thereby enhancing the interpretability of the results. Collectively, these metrics facilitate a deeper understanding of Model 1’s efficacy in predicting outcomes based on the specified variables."
+  }
+ }
+}

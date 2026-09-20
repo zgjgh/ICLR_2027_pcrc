@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_440",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.6,
+    185.7
+   ],
+   "ocr": "Sensors 2015, 15 8279 The acoustic velocity error has a big influence on the results. Table 5 gives the location results from the orientation results (as shown in Table 4) of the three different position arrays. Error d represents the distance between the estimated leakage position and the actual leakage hole. Table 5. Leakage location results."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    71.7,
+    199.4,
+    634.8,
+    282.5
+   ],
+   "ocr": "The Coordinate of Leakage Point(mm) The Coordinate of Estimate Leakage Point (mm) Error d (mm)\nNo.1 and No.2 array (0,0) (1.89,−9.67) 9.85\nNo.1 and No.3 array (0,0) (−1.64,8.00) 8.17\nNo.2 and No.3 array (0,0) (−5.51,1.22) 5.64\nComprehensive result (0,0) (−5.26,−0.45) 5.28",
+   "table_id": "PMC4431251_table_4"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    303.5,
+    648.6,
+    440.5
+   ],
+   "ocr": "As mentioned in [20], based on three array orientation results, the leakage was located with an error of 10.6 mm on a 1 m2 plate. Under these conditions, the proposed algorithm gives an error of 5.28 mm. Meanwhile, the location error is 9.85 mm when the worse-case from a geometric perspective (the distance between the two sensor arrays and the leak hole are both longer than in [20] as mentioned) is considered. According to the results, the leakage location accuracy can be further improved by integrating multiple acquisitions of different arrays positions to estimate the location area (the shadowed area of Figure 13)."
+  },
+  "p5_b3": {
+   "type": "title",
+   "bbox": [
+    240.7,
+    870.9,
+    466.8,
+    886.7
+   ],
+   "ocr": "Figure 13. The estimated location area."
+  }
+ }
+}

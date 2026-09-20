@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Environments / editors
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+
+# Run outputs and caches
+outputs/
+corpus/*/embeddings.json
+
+# Secrets
+*.key
+.env*

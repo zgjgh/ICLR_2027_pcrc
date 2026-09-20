@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_033",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2005, 6:205"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/6/205"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    106.4,
+    374.6,
+    130.9
+   ],
+   "ocr": "Table 8: Genes selected by ≥ 3 methods in two-class classification numbers of the genes in the final models."
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    377.5,
+    107.2,
+    694.5,
+    118.9
+   ],
+   "ocr": "(ischemic vs idiopathic) with PGA data, The last row gives the total"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    142.1,
+    693.7,
+    597.1
+   ],
+   "ocr": "Probe Set Gene Rank PPLS PLS SC LSO RF\n206375_s_at HSPB3: heat shock 27kDa protein 3 1 X X X X\n202430_s_at PLSCR1: phospholipid scramblase 1 2 X X X X\n209948_at KCNMB1: potassium large conductance calcium-activated channel, subfamily M, 3 X X X\nbeta member 1\nAFFX-TrpnX-5_at 4 X X X X\n212929_s_at KIAA0592: KIAA0592 protein 6 X X X X\n221415_s_at MYCBP: c-myc binding protein 7 X X X\n219099_at C12orf5: chromosome 12 open reading frame 5 8 X X X\n219383_at FLJ14213: hypothetical protein FLJ14213 10 X X X X\n208846_s_at VDAC3: voltage-dependent anion channel 3 11 X X X X\n205359_at AKAP6: A kinase (PRKA) anchor protein 6 12 X X X\n202324_s_at GOCAP1: golgi complex associated protein 1, 60 kDa 14 X X X X\n208736_at ARPC3: actin related protein 2/3 complex, subunit 3, 21 kDa 15 X X X\n215700_x_at CPNE6: copine VI (neuronal) 16 X X X\n207600_at KCNC3: potassium voltage-gated channel, Shaw-related subfamily, member 3 17 X X X\n217386_at 18 X X X\n200961_at SPS2: selenophosphate synthetase 2 19 X X X X\n211476_at MYOZ2: myozenin 2 21 X X X\n209682_at CBLB: Cas-Br-M (murine) ecotropic retroviral transforming sequence b 22 X X X\n208769_at EIF4EBP2: eukaryotic translation initiation factor 4E binding protein 2 23 X X X\n208162_s_at FLJ10232: hypothetical protein FLJ10232 25 X X X\n210500_at NICE-4: NICE-4 protein 26 X X X\n216721_at LOC253512: hypothetical protein LOC253512 27 X X X\n206475_x_at CSH1: chorionic somatomammotropin hormone 1 (placental lactogen) 28 X X X\n210561_s_at WSB1: SOCS box-containing WD protein SWiP-1 29 X X X\n206598_at INS: insulin 30 X X X\n219293_s_at PTD004: hypothetical protein PTD004 75 X X X\n207431_s_at DEGS: degenerative spermatocyte homolog, lipid desaturase (Drosophila) 139 X X X\n205207_at IL6: interleukin 6 (interferon, beta 2) 272 X X X\n221775_x_at RPL22: ribosomal protein L22 1043 X X X\n200897_s_at KIAA0992: palladin 1175 X X X\ntotal - - 32 22277 7 22 548",
+   "table_id": "PMC1224853_table_7"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    659.5,
+    372.6,
+    925.9
+   ],
+   "ocr": "results are shown in Table 6. The five methods perform almost perfectly: the misclassification errors range from 1 to 3 for all five methods in all models. Genes identified We consider genes remaining in a final model for each method. To save space, we restrict attention to models starting with all the genes for binary discrimination between ischemic and idiopathic samples. Briefly, LOOCV was first used to select any tuning parameters in a method (e.g. number of components in a PLS model), then a model with the selected parameters was fitted using all the samples. Except that all the genes are used in a final PLS model, for any of the other methods there may be fewer genes remaining in the final model. In particular, LASSO can select at most n genes with n the number of the samples. It turned out that random forest also used many of the genes."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    659.5,
+    698.3,
+    911.0
+   ],
+   "ocr": "Tables 7 and 8 lists the genes selected by at least four or three methods for the Minnesota data and PGA data respectively. It can be seen that there is no overlap at all between the two gene lists. Although the same genes are not identified from the two datasets, it is clear that the beta-adrenergic signalling pathway is likely a discrimina- tory pathway, given the inclusion of CREM in the Minne- sota data and AKAP6 in the PGA data. Furthermore, the inclusion of metabolic-related genes, such as ATPase and GAPD, is not surprising given the class of ischemic tissue. We also give the univariate ranks of the genes (based on the F-statistics for the two classes) in the above two tables. It shows that the two sets of genes (or more generally, the genes in a final model) may not include some genes ranked high in the univariate ranking while including some ranked low, highlighting a possible limitation of"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 15 (page number not for citation purposes)"
+  }
+ }
+}

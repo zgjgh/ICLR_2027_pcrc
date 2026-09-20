@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_036",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "In the context of evaluating the diverse training backgrounds that contribute to the understanding of immune system modulation, the data presented in the table serves as a critical resource. The responses to the question \"What training do you have?\" highlight the varying degrees of formal education, work experience, and life experience among participants. Notably, the metrics of \"First response\" and \"Receptor\" provide insight into how different educational and experiential backgrounds influence knowledge of specific biochemical pathways and their associated functions."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    217
+   ],
+   "ocr": "For example, respondents with formal education in immunology may demonstrate a more comprehensive understanding of the role of receptors like PAR-1 and signaling pathways involving CCL2, PKC/c-SRC/EGFR/MEK/ERK/AP-1. This knowledge is crucial for elucidating the activation mechanisms of monocytes, memory T cells, and dendritic cells within various therapeutic contexts. Understanding these relationships not only enhances academic discourse but also informs treatment strategies aimed at optimizing immune responses. The findings underscore the importance of diverse training in advancing both research and clinical applications in immunotherapy."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    361.0
+   ],
+   "ocr": "Questions First response Second response Third response\nWhat training do you have? Formal education Work experience Life experience\nWhat attributes make you effective? Communication Empathy Flexibility and personal awareness\nIn what ways do you feel supported? Financially Socially Mentally and emotionally\nWhat resources are available to you? Work space Training Case consultation\nWho do you collaborate with? Colleagues Health care providers Social services",
+   "table_id": "img_041364_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    376.0,
+    580.0,
+    555.0
+   ],
+   "ocr": "Receptor Regulation Pathway Function Reference\nPAR-1 CCL2 PKC/c-SRC/EGFR/MEK/ERK/AP-1 Monocytes, memory T cells, and dendritic cells activation [47, 48]\nPAR-1/-2 IL-1, TNF-α p38/p42/44 MMP expression [65]\nPAR-1/-3 HO-1 PKCδ/c-SRC/Nrf-2 Synovial fibroblasts inflammatory [70–72]\nPAR-1/-3 MMP-13 PKCδ/c-SRC/EGFR/pI3K/AKT/AP-1 Cartilage destruction [59, 60]\nPAR-1 COX-2 ? IL-6, CTGF, FGF1/2, VEGF, Tnc expression [51–54]",
+   "table_id": "img_041364_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    570.0,
+    580.0,
+    697.0
+   ],
+   "ocr": "Treatments\nCondition 1 Condition 2\nCtrl vs. T30\nCtrl vs. NBP14\nT30 vs. NBP14+T30\nCtrl vs. T15",
+   "table_id": "img_041364_t2"
+  }
+ }
+}

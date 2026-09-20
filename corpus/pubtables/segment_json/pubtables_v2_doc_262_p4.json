@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_262",
+  "page": 4,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    301.4,
+    51.8
+   ],
+   "ocr": "Goldsmith et al. Radiation Oncology (2018) 13:204"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 7 of 12"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    362.8,
+    123.1
+   ],
+   "ocr": "Table 5 Association of treatment factors and treatment toxicity"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    686.0
+   ],
+   "ocr": "Acute toxicity max grade (n = 37) Late toxicity max grade (n = 32)\n0 1–2 3 p-value 0 2 4 p-value\nNumber of fiducials†\n0–1 1 6 0 0.0002* 4 1 2 0.01*\n2–4 10 17 3 22 1 2\nTreatment days †\n3 11 20 3 0.37 25 2 2 0.012*\n4–7 0 3 0 1 0 2\nPrevious surgery†\nYes 1 5 0 0.47 4 0 1 0.68\nNo 10 18 3 22 2 3\nPrevious irradiation†\nYes 0 7 1 0.11 6 0 0 0.43\nNo 11 16 2 20 2 4\nMin dose to PTV†\n< 22.35Gy 5 10 2 0.75 9 2 2 0.17\n≥ 22.35Gy 6 11 1 17 0 2\nSABR purpose†\nSole primary 1 6 0 0.064 6 1 0 0.62\nAdjuvant 6 4 1 7 0 1\nConsolidation 4 6 1 8 1 1\nRetreat 0 5 2 5 0 2\nTreatment time (mins) 77.5 69.9 68.3 0.570 67.7 59.5 83.0 0.045*\nPTV (cc) ‡ 93.5 72.1 67.9 0.355 77.2 61.5 79.3 0.875\nPTV min dose (cGy) ‡ 2342.6 2227.6 2115.8 0.605 2317.7 1901.5 2332.4 0.396\nPTV max dose (cGy) ‡ 3951.3 3974.7 4149.2 0.8819 4120.6 3920.5 3861.9 0.622\nPTV mean dose (cGy) ‡ 3151.9 3118.0 3241.9 0.879 3225.4 3085.6 3015.0 0.493\nPrescription dose (cGy) ‡ 2736.4 2647.8 2700.0 0.735 2740.4 2700.0 2612.5 0.7067\nPrescription isodose (%) ‡ 69.6 67.5 65.3 0.554 67.0 69.0 68.3 0.882\nPercentage cover (%) ‡ 96.1 97.0 97.3 0.771 97.1 88.1 91.1 0.002*\nBED (Gy10) ‡ 52.3 49.2 52.0 0.650 52.1 51.0 49.0 0.811\nHI ‡ 1.44 1.50 1.54 0.523 1.51 1.46 1.47 0.833",
+   "table_id": "PMC6194644_table_4"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    692.3,
+    367.5,
+    927.7
+   ],
+   "ocr": "*Statistically significant at 0.05% level † Numbers are frequencies, tested for using ANOVA examine the influence of patient and planning factors on toxicity and outcome. The study was conducted in a ‘real-- world’ patient series, which is crucial for understanding treatment effectiveness and safety in everyday clinical practice. Our results support SABR as an encouraging modality for locally inoperable pancreatic cancer, with par- ticular benefits as a re-treatment, consolidation or salvage boost, or as an alternative treatment for patients with poor PS or co-morbidity. Although toxicity was low and sur- vival was better than expected — especially considering nearly half of patients were treated more than 6-months after primary treatment — both FFLP survival analysis and LQ modelling showed scope to improve local control"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    358.1,
+    692.3,
+    655.9,
+    702.3
+   ],
+   "ocr": "association using Chi-squared test; ‡ Numbers are means, tested for association"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    731.8,
+    681.1,
+    927.7
+   ],
+   "ocr": "through dose escalation. The few serious incidences of late duodenal toxicity indicate that this would need to be approached cautiously with increased stringency on duo- denal protection through highly detailed individualised planning. Low toxicity was obtained that was better than many other SABR studies [20–22, 25, 28, 36], despite larger PTVs and higher prescription doses in this study. This indicates planning methods and on-treatment dynamic targeting with Synchrony® were generally good and con- sistent with other studies [20, 25, 27–30, 32, 34, 36]. The main limitation when examining patient and treatment factors in relation to toxicity was the low incidence of"
+  }
+ }
+}

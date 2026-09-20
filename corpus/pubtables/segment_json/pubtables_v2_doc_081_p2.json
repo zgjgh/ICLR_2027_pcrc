@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_081",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    416.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Jointly learning word embeddings using a corpus and a knowledge base"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    699.3,
+    107.7
+   ],
+   "ocr": "Table 3. Examples of KB expansion using NNE and HNE on synonym relation type. The SKB column denotes the associated synonym words found in WordNet."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.3,
+    610.4,
+    539.2
+   ],
+   "ocr": "Word Associated Words\nSKB NNE HNE\nautopilot autopilots everything copilot\nland assist\ncopilot software\nassist\namerican\nimagination imagery art sight\nresource originality picture\nresourcefulness mind sense\nimaging unfettered\nimaginativeness fascinate\nvision\npineapple ananas soon fruit\nred pineapples\npineapples flowers\npecan\nmango\nmagyar hungarian culture romania\ngroup language\ncentral culture\nre\nenglish\nchina cathay amity beijing\ntaiwan europe shanghai\nchinaware beijing bhutan\nprc south\nshanghai\nsulfur sulphur fire oxide\ntest odor\noxide oxygen\nhydrogen\nreference",
+   "table_id": "PMC5847320_table_2"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    547.5,
+    236.2,
+    558.1
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0193094.t003"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    585.6,
+    726.4,
+    893.7
+   ],
+   "ocr": "Word analogy. The vector difference (offset) between embeddings for two words has shown to represent the relationship between those words [24]. Consequently, prior work on word embedding learning has evaluated the accuracy of the trained word embeddings by using them to solve word analogy problems. For this purpose, we use two benchmark datasets: Google dataset [24], and SemEval 2012 Task 2 dataset [45] (SemEval). Google dataset contains five semantic (sem) and nine syntactic (sen) analogy types where (sem) consists of 10,675 questions and (syn) consists of 8869 questions. SemEval dataset contains 3218 manually ranked word-pairs for 79 paradigms (categories). Given a proportional analogy a:b::c:d, we compute the cosine similarity between the b − a + c and each candidate word d, and select the most similar candidate word as the answer to the analogy question. We use binomial exact test with Clopper-Pearson confidence interval to test for the statistical significance. For SemEval, we report the MaxDiff scores using the official evaluation tool (https://sites.google.com/site/ semeval2012task2/). Validation set. We use the WS dataset as validation data for tuning λ in Eq 5 and the neighbourhood size K in Algorithms 2 and 3. Specifically, we vary the value of λ and K, use the proposed method for learning word embeddings, and measure the Spearman correlation on WS. Finally, we select the hyperparameter values that maximises the Spearman correlation. Overall, we observed that λ = 10,000 and K = 5 found to perform consistently well for all semantic relation types. The process was done for all word similarity and analogy benchmarks."
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0193094 March 12, 2018 12 / 26"
+  }
+ }
+}

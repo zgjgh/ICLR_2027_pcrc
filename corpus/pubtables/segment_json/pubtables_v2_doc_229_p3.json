@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_229",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    395.0,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Comparative Coastal Risk Index (CCRI) for Latin America and the Caribbean"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.3,
+    327.2,
+    107.4
+   ],
+   "ocr": "Table 4. Coastal hazards clusters (sorted by hazards score)."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    711.7,
+    316.1
+   ],
+   "ocr": "Cluster % of Coastal Coastal Length Coastal Most Relevant Attribute Top 3 Affected Countries (by Hazards\nSegments (km) Population population) Score\nH1 16% 10,312 2.2 million Strong El Niño Mexico, Ecuador, Peru 5\nH8 7% 4,673 1.0 million Strong winds Puerto Rico, Mexico, and Caribbean 5\nH3 7% 3,628 3.3 million High Waves Argentina, Uruguay, Brazil 4\nH4 8% 4,985 0.6 million Moderate El Niño Peru, Puerto Rico and the 3\nDominican Republic\nH6 11% 5,184 27,000 Moderate Waves Chile and Mexico 3\nH5 9% 4,147 3.4 million Weak Storm Surge Brazil, Argentina, and Chile 2\nH7 10% 6,213 2.1 million Moderate winds and weak Cuba, Dominican Republic, and Haiti 2\nEl Niño\nH9 8% 5,043 2.0 million Small waves and Weak El Mexico, Cuba and Haiti 2\nNiño\nH2 24% 15,119 8.3 million Weak El Niño Brazil, Venezuela, Colombia 1",
+   "table_id": "PMC5667813_table_3"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    324.7,
+    727.3,
+    898.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0187011.t004 average of Significant Wave Height and Wave Energy variables, after they were scaled from 0 to 1. Second, hazards scores were calculated (Eq 2), and range from 1 to 5, with 5 being the most severe. Clusters H1 and H8 received the maximum hazards score, and are characterized by El Niño induced sea levels, and strong cumulated winds, respectively (Table 4). As previously discussed, one of the benefits of applying clustering techniques, prior to the index calculation, is that drivers of coastal risks can be traced back to individual clusters for each category (hazards, exposure, and vulnerability). The spatial distribution of the hazards clusters (Fig 2) is consistent with recent studies of coastal hazards in the LAC region [26,27,41]. Geographic exposure–Clusters and scores First, geographic exposure data were clustered according to characteristics of: coastal popula- tion, GDP, urbanization, cropland, and ecosystems. Second, exposure scores were calculated (Eq 3), and range from 1 to 5, with 5 indicating the highest geographic exposure levels. Geo- graphic exposure clusters are not as geographically concentrated as the coastal hazards dis- cussed above. Clusters E1, E8, and E6 received the maximum exposure score. These three clusters include coastal segments with large population. However, E1 includes large urban areas while E8 and E6 are characterized by a more significant presence of ecosystems and crop- lands, respectively (Table 5, and Fig 3). Socioeconomic vulnerability–Clusters and scores First, socioeconomic vulnerability data were clustered according to characteristics of: GDP, Inequality, IMR, and malnutrition. Second, vulnerability scores were calculated as the sum of SWF, IMR, and malnutrition (Eq 4), and range from 1 to 5, with 5 indicating the highest socio- economic vulnerability. Clusters V1, V9 received the maximum vulnerability score, with high IRM, malnutrition, and low social welfare (Table 6, and Fig 4). Comparative Coastal Risk Index (CCRI)–Equal weights scenario Our results show that nearly 1.79 million people live in areas of high or very high CCRI (4.6 or 5, respectively) in LAC. This number represents almost 8% of the 23 million people population in the study area. Roughly 560,000 people live in areas of maximum CCRI value equal 5. These are areas where the maximum scores for hazards, exposure, and vulnerability (all equal 5)"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0187011 November 2, 2017 10 / 24"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_031",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    320.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Scalable preprocessing of high volume environmental acoustic data for bioacoustic monitoring"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    96.8,
+    482.5,
+    106.9
+   ],
+   "ocr": "Table 1. Computation times for each processing step in relation to split lengths with standard deviations."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    69.2,
+    115.6,
+    699.0,
+    268.8
+   ],
+   "ocr": "Processing Step Split Length (seconds)\n5 10 15 20 30\nSplitting 7.85±0.42 7.95±0.49 8.13±0.51 9.24±0.42 8.87±0.42\nDownsampling 10.18±0.42 9.59±0.68 9.30±0.30 9.29±0.52 9.57±0.19\nHigh-pass Filter 86.63±0.13 47.79±0.17 34.8±0.18 28.2±0.11 21.67±0.09\nFast Fourier transform 2.39±1.01 47.79±1.44 71.90±1.36 73.15±0.56 73.21±0.95\nRain Filter 41.11±0.20 40.46±0.20 39.86±0.15 39.94±0.18 42.67±1.16\nCicada Detection 30.47±0.20 31.58±0.20 32.04±0.08 32.32±0.26 31.36±0.60\nCicada Filter 103.48±0.56 64.30±0.18 51.94±0.22 45.27±0.23 37.46±0.52\nMMSE STSA 1020.57±6.49 1002.65±5.98 993.10±3.39 986.92±3.09 923.21±21.78",
+   "table_id": "PMC6075764_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    276.0,
+    236.2,
+    286.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0201542.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    319.0,
+    727.2,
+    577.8
+   ],
+   "ocr": "processing library Sound eXchange (SoX) [33]. This causes extra overhead with each call, and shorter split sizes require more calls to SoX. This is more of a problem for high-pass filtering than cicada filtering, as this is executed on every file, whereas cicada filtering only applies to parts of the recording where cicada choruses are detected, which, as determined by subsequent testing, is a small fraction of the total recording. The second observation is that the MMSE STSA filter takes much longer than the other pro- cessing steps combined. As such, execution time can be significantly saved by removing audio before the MMSE STSA filter is applied. The trend in high pass filter execution time gives rise to a potential improvement. If clips are split into larger chunks first, downsampled and high-pass filtered, and then split into smaller chunks, execution time can be improved. Testing an approach that performs this shows an improvement in execution time, as shown in Fig 2. Here, audio is split into 1-minute (2.5 MB) long chunks, downsampled, high-pass filtered, and then split to the target split length. Two hours of audio is tested against two approaches, one that splits audio to the target length immediately, and one that split files into 1-minute long chunks first, and then splits again."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    835.9,
+    719.1,
+    889.5
+   ],
+   "ocr": "Fig 2. High-pass filtering computation times. High-pass filtering computation times comparison, between splitting to the final length, downsampling, and then high-pass filtering (one split) and splitting to 1-minute (2.5 MB) chunks first, downsampling and high-pass filtering, then splitting to the final length (two splits). https://doi.org/10.1371/journal.pone.0201542.g002"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0201542 August 3, 2018 7 / 24"
+  }
+ }
+}

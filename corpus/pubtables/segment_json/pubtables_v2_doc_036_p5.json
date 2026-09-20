@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_036",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    198.3,
+    64.4
+   ],
+   "ocr": "BMC Genetics 2007, 8:85"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2156/8/85"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    408.2
+   ],
+   "ocr": "For Table 2, the total number of significant difference from the nominal level of 0.05 for X2* and T2 is 17 and 33, respectively. The pair (17, 33) can again be decomposed to (14, 14), (8, 13) and (6, 11) according to n = 50, 100 and 200. The decreasing rate of the number of empirical type I error rates which is significant different from the nominal level of 0.05 for X2* is 10/18-1/18 = 50.0% as n increases from 50 to 200. While the decreasing rate for T2 is 12/18-10/18 = 11.1%. The decreasing rate of our X2* is again more significant than that of T2. In Table 3 to 4, the strata increases from 3 to 5. However, the decreasing rates of the number of empirical type I error rates which is significant different from the nominal level of 0.05 for Tables 3 and 4 is very close to that of Tables 1 and 2, respectively. Therefore, we have reason to believe that this decreasing rate is not greatly affected by the number of strata. Table 5: Empirical powers for X2* and T2"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.3,
+    138.2
+   ],
+   "ocr": "Table 5 summarizes the empirical powers for X2* and T2. Here, {Dk} are specified under H1 and we set Dk = D0 + δ(k"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    135.4,
+    698.3,
+    153.0
+   ],
+   "ocr": "- 1). For K = 3, we consider: (i) D0 = -0.03, δ = 0.03 and (ii)"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    150.2,
+    698.4,
+    167.9
+   ],
+   "ocr": "D0 = -0.05, δ = 0.05. For K = 5, we consider: (i) D0 = -0.06,"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    393.1,
+    165.1,
+    698.3,
+    373.4
+   ],
+   "ocr": "δ = 0.03 and (ii) D0 = -0.1, δ = 0.05. From the simulation results, we observe both X2* and T2 perform similarly under the designed parameter settings. In general, powers increase with n and δ. In view of the above results, we prefer the proposed homogeneity test X2* to the traditional T2 which is based on the Fisher's test of homogeneity among correlation coefficient. Real and hypothetical examples It is reported that mutations at the cystic fibrosis trans- membrane conductance regulator gene (CFTR) cause cystic fibrosis, the most prevalent severe genetic disorder"
+  },
+  "p5_b7": {
+   "type": "table",
+   "bbox": [
+    81.4,
+    419.1,
+    667.8,
+    912.2
+   ],
+   "ocr": "n D p1+ p+1 X2* T2\n50, 50, 50 -0.03, 0.0, 0.03 0.5, 0.5, 0.5 0.5, 0.5, 0.5 0.205 0.210\n100, 100, 100 0.311 0.306\n200, 200, 200 0.560 0.558\n50, 50, 50 -0.03, 0.0, 0.03 0.5, 0.4, 0.3 0.5, 0.4, 0.3 0.196 0.203\n100, 100, 100 0.360 0.368\n200, 200, 200 0.630 0.641\n50, 50, 50 -0.03, 0.0, 0.03 0.5, 0.5, 0.5 0.5, 0.4, 0.3 0.197 0.187\n100, 100, 100 0.354 0.340\n200, 200, 200 0.612 0.612\n50, 50, 50 -0.05, 0.0, 0.05 0.5, 0.5, 0.5 0.5, 0.5, 0.5 0.430 0.421\n100, 100, 100 0.724 0.720\n200, 200, 200 0.958 0.958\n50, 50, 50 -0.05, 0.0, 0.05 0.5, 0.4, 0.3 0.5, 0.4, 0.3 0.474 0.483\n100, 100, 100 0.797 0.806\n200, 200, 200 0.980 0.981\n50, 50, 50 -0.05, 0.0, 0.05 0.5, 0.5, 0.5 0.5, 0.4, 0.3 0.457 0.446\n100, 100, 100 0.763 0.760\n200, 200, 200 0.973 0.973\n50, 50, 50, 50, 50 -0.06, -0.03, 0.0, 0.03, 0.06 0.5, 0.5, 0.5, 0.5, 0.5 0.5, 0.5, 0.5, 0.5, 0.5 0.523 0.512\n100, 100, 100, 100, 100 0.846 0.841\n200, 200, 200, 200, 200 0.993 0.993\n50, 50, 50, 50, 50 -0.06, -0.03, 0.0, 0.03, 0.06 0.5, 0.4, 0.3, 0.4, 0.5 0.5, 0.4, 0.3, 0.4, 0.5 0.526 0.526\n100, 100, 100, 100, 100 0.854 0.853\n200, 200, 200, 200, 200 0.995 0.995\n50, 50, 50, 50, 50 -0.06, -0.03, 0.0, 0.03, 0.06 0.5, 0.5, 0.5, 0.5, 0.5 0.5, 0.4, 0.3, 0.4, 0.5 0.535 0.522\n100, 100, 100, 100, 100 0.855 0.850\n200, 200, 200, 200, 200 0.994 0.994\n50, 50, 50, 50, 50 -0.1, -0.05, 0.0, 0.05, 0.1 0.5, 0.5, 0.5, 0.5, 0.5 0.5, 0.5, 0.5, 0.5, 0.5 0.957 0.953\n100, 100, 100, 100, 100 1.000 1.000\n200, 200, 200, 200, 200 1.000 1.000\n50, 50, 50, 50, 50 -0.1, -0.05, 0.0, 0.05, 0.1 0.5, 0.4, 0.3, 0.4, 0.5 0.5, 0.4, 0.3, 0.4, 0.5 0.960 0.960\n100, 100, 100, 100, 100 1.000 1.000\n200, 200, 200, 200, 200 1.000 1.000\n50, 50, 50, 50, 50 -0.1, -0.05, 0.0, 0.05, 0.1 0.5, 0.5, 0.5, 0.5, 0.5 0.5, 0.4, 0.3, 0.4, 0.5 0.957 0.954\n100, 100, 100, 100, 100 1.000 1.000\n200, 200, 200, 200, 200 1.000 1.000",
+   "table_id": "PMC2245972_table_4"
+  },
+  "p5_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 10 of 14 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_092",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.7,
+    64.4
+   ],
+   "ocr": "BMC Biotechnology 2005, 5:24"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6750/5/24"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    249.2,
+    118.9
+   ],
+   "ocr": "Table 4: SNP genotyping performance"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.7,
+    130.3,
+    695.9,
+    513.0
+   ],
+   "ocr": "gDNA Input Completed % Undeter. % Undeter. No Amp. % No Amp. Concordant % Discordant %\n(ng) Genotypes1 Completion Genotypes Genotypes Concordance Genotypes Discordance\n1 ng gDNA or wgaDNA input into TaqMan® SNP genotype assay2,3\ngDNA 2636 99.62 10 0.38 0 0 2636 100.00 0 0.00\n1 25524 96.45 945 3.55 0 0 2546 99.76 68 0.24\n10 2627 99.28 19 0.72 0 0 2627 100.00 0 0.00\n25 2636 99.62 10 0.38 0 0 2635 99.96 1 0.04\n50 2614 98.79 316 1.17 1 0.04 2614 100.00 0 0.00\n100 2620 99.02 256 0.94 1 0.04 2620 100.00 0 0.00\n200 2623 98.07 21 0.79 2 0.08 2622 99.96 1 0.04\n4 ng gDNA or wgaDNA into TaqMan® SNP genotype assay4\ngDNA 2634 99.55 12 0.45 0 0.00 2634 100.00 0 0.00\n1 25894 97.85 555 2.08 2 0.08 2586 99.88 3 0.12\n10 2628 99.32 17 0.64 1 0.04 2627 99.96 1 0.04\n25 2629 99.36 14 0.53 3 0.11 2629 100.00 0 0.00\n50 2621 99.06 235 0.87 2 0.08 2619 99.92 2 0.08\n100 2619 98.98 205 0.76 77 0.26 2617 99.92 2 0.08\n200 2635 99.4 10 0.38 1 0.04 2632 99.89 3 0.11\n20 ng gDNA or wgaDNA into TaqMan® SNP genotype assay\ngDNA 2637 99.66 9 0.34 0 0 2637 100.00 0 0.00\n1 25694 97.09 775 2.91 0 0 2566 99.88 3 0.12\n10 2633 99.51 13 0.49 0 0 2633 100.00 0 0.00\n25 2639 99.74 7 0.26 0 0 2638 99.96 1 0.04\n50 2633 99.51 13 0.49 0 0 2632 99.96 1 0.04\n100 2630 99.40 16 0.60 0 0 2629 99.96 1 0.04\n200 2635 99.55 11 0.42 0 0 2632 99.89 3 0.11",
+   "table_id": "PMC1249558_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.9,
+    529.1,
+    395.2,
+    611.0
+   ],
+   "ocr": "1There were N = 27 samples gentoyped in duplicate at N = 49 SNPs for N input, SNP genotyping rates: completion, p = 0.0178; undetermined, p = gDNA or wgaDNA input, SNP genotyping rates: completion, p = 0.0004; 44 versus 20 ng gDNA or wgaDNA input, SNP genotyping rates: completion, concordance, p = n.s. 5gDNA versus wgaDNA produced from 1 ng gDNA wgaDNA produced from 50 and 100 ng gDNA input, p ≤ 0.05. 7gDNA produced from 1 ng versus gDNA and wgaDNA produced from 10, 50 and"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    372.2,
+    529.1,
+    693.8,
+    611.7
+   ],
+   "ocr": "= 2,646 attempted genotypes/sample. 21 versus 4 ng gDNA or wgaDNA 0.0022; no amplification, p = 0.0139; concordance, p = n.s. 31 versus 20 ng undetermined, p = 0.0008; no amplification, p = n.s.; concordance, p = n.s. p = n.s.; undetermined, p = n.s.; no amplification, p = 0.0002; input, SNP genotype completion rates, p < 0.0001. 6gDNA versus versus wgaDNA produced from 100 ng gDNA input, p = 0.02. 8wgaDNA 100 ng of gDNA input, p ≤ 0.014."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    655.3,
+    698.3,
+    922.4
+   ],
+   "ocr": "Discussion wgaDNA may not be suitable for STR genotyping wgaDNA STR genotyping completion rates reach that of gDNA at the 10 ng gDNA input level into WGA. However, the wgaDNA STR concordance rate is significantly worse than that of gDNA, even with 200 ng of gDNA input into the WGA reaction (Table 1). Thus, the use of MDA wgaDNA for accurate STR genotyping will require larger amounts of input gDNA into the WGA than have been recommended in the past [8,10]. In the absence of suffi- cient gDNA template for MDA WGA, investigators face the tradeoff of no data, or data with increased loss of heterozygosity, such as that observed with MDA wgaDNA produced from low mass gDNA templates [11,12]. Development of laboratory and data analysis protocols optimized for STR genotyping of MDA wgaDNA may be required before MDA wgaDNA can be routinely used for STR genotyping. Thus, it might be prudent to adjust geno-"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    656.1,
+    372.6,
+    922.4
+   ],
+   "ocr": "into the no amplification (NTC) cluster, into a genotype cluster (\"false positive SNP genotypes\"), and into the undetermined genotype space of the two color TaqMan® SNP genotyping assay plot, respectively (Table 6). The number of false positive and undetermined SNP geno- types from the wgaDNA produced from the NTC samples increased significantly with increasing amounts of wgaDNA input into the TaqMan® SNP assay (Table 6). The majority (96.4%) of these false positive SNP genotypes from NTC samples were homozygotes (Table 6), signifi- cantly more allele 2 alleles were observed than allele 1 alleles (Table 6), and all N = 49 TaqMan® SNP assays exhibited false positive SNP genotypes (data not shown). wgaDNA NTC samples from the gDNA input strata of 1, 50 and 100 ng exhibited significantly greater numbers of false positive and undetermined SNP genotypes than did the wgaDNA NTC samples from the gDNA input strata of 10, 25 and 200 ng (Table 6)."
+  },
+  "p4_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 11 (page number not for citation purposes)"
+  }
+ }
+}

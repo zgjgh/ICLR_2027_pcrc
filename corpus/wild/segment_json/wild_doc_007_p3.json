@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_007",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The following data table provides an overview of gene characteristics associated with the SAR11 clade, a group of marine bacteria recognized for their ecological significance in oceanic nutrient cycling. Specifically, the focus is on the gene SAR11_0043, which has been classified as an unknown protein."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    140
+   ],
+   "ocr": "This classification underscores the ongoing challenges in annotating genes within this diverse group, where many proteins remain uncharacterized despite their potential functional importance. The table presents several key metrics, including the Gene number and Gene annotation, which are essential for understanding the genetic makeup and functional predictions of these organisms."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    557.0
+   ],
+   "ocr": "Gene number Gene annotation SSD NCBI HVR\nSAR11_0043 unknown protein* 4 None 1\nSAR11_0163 unknown protein* 1 × e-10 1.6\nSAR11_0414 unknown protein* 1 × e-4 None\nSAR11_0471 unknown protein* 3 × e-9 2.1\nSAR11_0542 unknown protein* 3 × e-10 5 × e-11 2\nSAR11_0544 unknown protein, possible viral origin 3 × e-6 3 × e-4 2\nSAR11_0548 unknown protein 8 × e-9 6 × e-5 2\nSAR11_0555 unknown protein 3 × e-8 6 × e-4 2\nSAR11_0631 unknown protein* 1.1 None\nSAR11_0788 unknown protein* 9 × e-5 None\nSAR11_0875 unknown protein 1 × e-10 None\nSAR11_0930 unknown protein* 0.47 1.2\nSAR11_0989 unknown protein 0.61 None\nSAR11_1165 unknown protein, possible exonuclease 4 × e-7 1.3 3\nSAR11_1170 unknown protein 1.8 2.8 3\nSAR11_1182 unknown protein 3 × e-10 2.2\nSAR11_1217 bacterial globin-like 4 × e-10 2 × e-8 4\nSAR11_1220 unknown protein 2 × e-4 6.2 4\nSAR11_1249 unknown protein 2 × e-6 3.7",
+   "table_id": "img_006856_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    573,
+    580,
+    616
+   ],
+   "ocr": "Notably, the SSD (similarity score) for SAR11_0043 is recorded as 4, indicating a moderate level of similarity with known sequences, while the NCBI (National Center for Biotechnology Information) reference shows no significant matches, highlighting the novelty of this gene within the existing databases."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    604,
+    580,
+    647
+   ],
+   "ocr": "Additionally, the HVR (high variability region) score of 1 suggests that this gene may exhibit variations that could be of interest for further research. Together, these metrics contribute valuable insights into the genetic diversity and functional potential of the SAR11 clade, warranting further exploration."
+  }
+ }
+}

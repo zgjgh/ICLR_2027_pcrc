@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_005",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The table presents data on ICC, detailing metrics of Centres per Group, Patients per Centre, Patients per Group, SD, and Detectable Difference. For ICC of 0.1, with 20 Centres per Group, there are 20 Patients per Centre resulting in 400 Patients per Group with an SD of 0.9 and a Detectable Difference of 0.312."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    109
+   ],
+   "ocr": "The same ICC of 0.1, with 20 Centres per Group, increases to 25 Patients per Centre, yielding 500 Patients per Group, maintaining an SD of 0.9 and a Detectable Difference of 0.302."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    347.0
+   ],
+   "ocr": "ICC Centres per Group Patients per Centre Patients per Group SD Detectable Difference\n0.1 20 20 400 0.9 0.312\n0.1 20 25 500 0.9 0.302\n0.1 20 30 600 0.9 0.295\n0.1 20 40 800 0.9 0.286\n0.1 20 50 1,000 0.9 0.281\n0.2 20 20 400 0.9 0.401\n0.2 20 25 500 0.9 0.394\n0.2 20 30 600 0.9 0.390\n0.2 20 40 800 0.9 0.384\n0.2 20 50 1,000 0.9 0.380",
+   "table_id": "img_005157_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    363,
+    580,
+    452
+   ],
+   "ocr": "Continuing with ICC of 0.1, 20 Centres per Group with 30 Patients per Centre results in 600 Patients per Group, again with an SD of 0.9 and a Detectable Difference of 0.295. For 40 Patients per Centre under the same ICC and number of Centres, there are 800 Patients per Group, an SD of 0.9, and a Detectable Difference of 0.286. Finally, with 50 Patients per Centre, this results in 1,000 Patients per Group with an SD of 0.9 and a Detectable Difference of 0.281. Shifting to ICC of 0.2, 20 Centres per Group with 20 Patients per Centre yields 400 Patients per Group, maintaining an SD of 0.9 and a Detectable Difference of 0.401."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    440,
+    580,
+    498
+   ],
+   "ocr": "Similar conditions with 25 Patients per Centre produce 500 Patients per Group, an SD of 0.9, and a Detectable Difference of 0.394. For 30 Patients per Centre, it results in 600 Patients per Group with an SD of 0.9 and a Detectable Difference of 0.390. With 40 Patients per Centre, there are 800 Patients per Group, an SD of 0.9, and a Detectable Difference of 0.384. Lastly, 50 Patients per Centre results in 1,000 Patients per Group, an SD of 0.9, and a Detectable Difference of 0.380."
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_189",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.5,
+    185.7
+   ],
+   "ocr": "Sensors 2015, 15 25916 Table 5. For the cluster associated with corona PD, this relationship is increased, but not very significantly (1.35) compared to the previous value obtained in Table 5 (1.10). Table 6. Results obtained of the standard deviation for each cluster associated with PD and noise, using f1L = 2 MHz, f2L =25 MHZ, f1H = 15 MHz, f2H = 38 MHz, fT = 60 MHz intervals."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    228.2,
+    196.8,
+    478.3,
+    265.5
+   ],
+   "ocr": "Indicator Noise Corona PD Internal PD\nσPRL 2.35 4.66 6.55\nσPRH 2.56 3.45 9.72\nσPRL/σPRH 0.91 1.35 0.67",
+   "table_id": "PMC4634465_table_5"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    285.9,
+    648.8,
+    917.9
+   ],
+   "ocr": "5. Conclusions In this paper, the clustering capacity and the dispersion of the clusters obtained by the application of the SPCT to the pulses measured with a Rogowski coil have been studied. Results indicate that with this simple and inexpensive sensor, without magnetic core, the separation of different types of pulse sources using PR maps can be made adequately, even when there are several PD sources acting simultaneously. Furthermore, this paper proposes using four different indicators, in order to find the separation intervals that allow a better separation of the PD sources and electrical noise present during the measurements. Three of these indicators (σPRL, σPRH and σPRL/σPRH) assist the operator of the classification tool to identify the intervals that enable to obtain those clouds of points more homogeneous. This allows an easier selection of the clusters on the PR maps for the further representation of the respective PRPD patterns. The fourth proposed indicator is based on a graphic tool that represents the average power spectrum density of the measured signals. This indicator allows selecting the bands of interest where the variability of the pulses is high and makes more feasible the separation between different groups of pulses. Analysing these indicators the manual selection of the PRL and PRH intervals can be easily improved, especially in those cases where the clusters obtained appear overlapped and/or there are suspicions of the presence of multiple sources during the measurements. The authors propose the use of these indicators, even when any other type of UHF sensor (ILS, HFCT, etc.) is employed. Acknowledgments This work was supported by Basal Project FB0008. The tests were carried out in the High-Voltage Research and Tests Laboratory at Universidad Carlos III de Madrid (LINEALT) and in the High-Voltage Research and Test Laboratory at Universidad Técnica Federico Santa Maria (LIDAT) de Santiago de Chile. Author Contributions The presented research was developed by the authors with the contribution of each one in a specific task. Jorge Ardila defined the test so as to be performed and carried out the experimental measurements. Besides, Jorge Ardila and Ricardo Albarracín were in charge of the programming and the instrumentation tools. Aldo Barrueto, designed the Rogowski coil sensor and studied its frequency"
+  }
+ }
+}

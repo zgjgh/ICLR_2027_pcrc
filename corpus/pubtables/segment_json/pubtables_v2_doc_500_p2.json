@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_500",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    258.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "DCE-MRI for Pre-Treatment Prediction and Post-Treatment Assessment of Treatment Response in HNSCC"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    727.3,
+    119.4
+   ],
+   "ocr": "Table 2. Pre-treatment mean DCE parameters in 43 primary sites and 40 nodal sites correlated with SF or SC at the same SCC site, based on a min- imum of 2 year clinical follow-up."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.0,
+    721.3,
+    444.9
+   ],
+   "ocr": "Parameter Pre-treatment for Pre-treatment SCC Pre-treatment SCC p-value comparing SCC sites Odds 95% CI\nall SCC sites sites with Site Failure sites with Site Control with SF & SC using Logistic Ratio for OR\n(SF) (SC) Regression (OR)\nPrimary n = 43 n = 16 n = 27\nTumor Sites\nKtrans (min-1) 0.38 ± 0.18 0.37 ± 0.16 0.39 ± 0.19 0.731 0.539 0.016–\n18.243\nkep (min-1) 0.69 ± 0.32 0.70 ± 0.30 0.69 ± 0.33 0.916 1.112 0.154–\n8.015\nve 0.57 ± 0.23 0.54 ± 0.20 0.59 ± 0.25 0.498 0.385 0.024–\n6.062\nAUGC\n(mM�s)\n2.44 ± 0.75 2.18 ± 0.60 2.59 ± 0.79 0.086 0.438 0.171–\n1.123\nNodal Tumor n = 40 n = 13 n = 27\nSites\nKtrans (min-1) 0.35 ± 0.20 0.28 ± 0.09 0.38 ± 0.24 0.157 0.047 0.001–\n3.250\nkep (min-1) 0.64 ± 0.29 0.27 ± 0.16 0.67 ± 0.33 0.301 0.251 0.018–\n3.445\nve 0.54 ± 0.19 0.51 ± 0.12 0.56 ± 0.22 0.416 0.220 0.006–\n8.464\nAUGC\n(mM�s)\n2.31 ± 0.84 2.12 ± 0.82 2.40 ± 0.84 0.324 0.655 0.282–\n1.520",
+   "table_id": "PMC4684338_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    457.6,
+    727.3,
+    885.0
+   ],
+   "ocr": "± Standard deviation. doi:10.1371/journal.pone.0144770.t002 outcome at a minimum of two years. Although SCC sites with control showed higher pre-treat- ment perfusivity and permeability (Ktrans, kep and AUGC) and higher extracellular extravascu- lar space (ve) compared to SCC sites with failure, none of these parameters proved to be significantly different between these two groups. On the other hand, treatment led to signifi- cantly lower tumor perfusivity (kep) and higher extracellular extravascular volume fraction (ve), and after treatment the perfusivity of a residual mass with SC was significantly lower than that of a residual mass with SF, based on the kep and AUGC results. The % change in the AUGC, from pre-treatment to post-treatment was also a predictor of response, SCCs with less reduction in the AUGC were more likely to have SF. Interestingly the mean % change in the SF group showed an AUGC increase, whereas for the SC group there was an AUGC decrease. This suggests an increase in the AUGC after treatment could be a marker for residual head and neck SCC. However, the optimum threshold for the % AUGC change (>19.78% increase for SF) produced a relatively low diagnostic performance for DCE-MRI, especially when compared to the current imaging standard of 18FDG- PET/ CT at 3 months [20]. Of note the negative pre- dictive value, which is valuable for excluding disease, was only 79% for DCE-MRI, compared to around 95% for 18FDG-PET/ CT [20]. Previous pre-treatment head and neck SCC DCE-MRI studies using pharmacokinetic mod- els have found high mean Ktrans [5, 7, 9,10], low Ktrans skewness [6] or high ve [9] to be predic- tors of a favorable outcome, based on prolonged disease free survival [5], progression free and overall survival in stage IV disease [6], non-response in nodes based on locoregional recurrence or death [7], neck control rates [9], and recurrence (primary, nodal or distant sites) [10]. How- ever, the focus of our research was to evaluate the ability of DCE-MRI to predict treatment response at specific primary or nodal SCC sites in the head and neck, so that this information"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0144770 December 10, 2015 7 / 15"
+  }
+ }
+}

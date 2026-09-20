@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_103",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2359762_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    653.9,
+    693.0,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2359762_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Location of surveillance</td><td rowspan=\"2\">No. of S. pyo- genes isolates</td><td colspan=\"3\">% of pharyngitis (or tonsillitis) isolates that are emm pattern:</td><td colspan=\"3\">% of impetigo isolates that are emm pattern:</td></tr><tr><td>A-C</td><td>D</td><td>E</td><td>A-C</td><td>D</td><td>E</td></tr><tr><td>Australia, tropical</td><td>125</td><td>NR</td><td>NR</td><td>NR</td><td>13</td><td>46</td><td>41</td></tr><tr><td>Rome (Italy)</td><td>114</td><td>50</td><td>1</td><td>48</td><td>n/a</td><td>n/a</td><td>n/a</td></tr><tr><td>Germany</td><td>216</td><td>51</td><td>0</td><td>49</td><td>n/a</td><td>n/a</td><td>n/a</td></tr><tr><td>Spain</td><td>520</td><td>32</td><td>1</td><td>68</td><td>n/a</td><td>n/a</td><td>n/a</td></tr><tr><td>Mexico</td><td>282</td><td>54</td><td>1</td><td>44</td><td>n/a</td><td>n/a</td><td>n/a</td></tr><tr><td>USA</td><td>&gt; 1,900</td><td>53</td><td>1</td><td>47</td><td>n/a</td><td>n/a</td><td>n/a</td></tr><tr><td>Ethiopia</td><td>104</td><td>26</td><td>28</td><td>35</td><td>0</td><td>32</td><td>47</td></tr><tr><td>Nepal</td><td>53</td><td>NR</td><td>NR</td><td>NR</td><td>19</td><td>30</td><td>51</td></tr><tr><td>Brazil</td><td>87</td><td>20</td><td>20</td><td>61</td><td>3</td><td>55</td><td>42</td></tr><tr><td>Brussels (Belgium)</td><td>163</td><td>55</td><td>0</td><td>45</td><td>NR</td><td>NR</td><td>NR</td></tr><tr><td>Australia, tropical</td><td>129</td><td>NR</td><td>NR</td><td>NR</td><td>13</td><td>53</td><td>35</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2359762_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    652.9,
+    693.1,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2359762_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Sample (sub)set</td><td rowspan=\"2\">Characteristic</td><td rowspan=\"2\">Total</td><td colspan=\"4\">Distribution according to emm pattern:</td></tr><tr><td>A-C</td><td>D</td><td>E</td><td>Undefined or other</td></tr><tr><td>Complete</td><td>Number of isolates</td><td>582</td><td>156</td><td>181</td><td>240</td><td>5</td></tr><tr><td>Complete</td><td>Number of STs represented</td><td>259</td><td>42</td><td>91</td><td>123</td><td>5</td></tr><tr><td>Complete</td><td>Number of emm types represented</td><td>156</td><td>29</td><td>62</td><td>61</td><td>4</td></tr><tr><td>Complete</td><td>Number of unique combinations of emm type and ST</td><td>280</td><td>47</td><td>104</td><td>124</td><td>5</td></tr><tr><td>Complete</td><td>Simpson's diversity index *</td><td>0.993</td><td>0.950</td><td>0.985</td><td>0.990</td><td>n.d.</td></tr><tr><td>Complete</td><td>Simpson's diversity index, 95% confidence intervals</td><td>0.992&#8211;0.995</td><td>0.938&#8211;0.963</td><td>0.979&#8211;0.991</td><td>0.987&#8211;0.992</td><td>n.d.</td></tr><tr><td>emm nt substitution</td><td>Number of isolates</td><td>520</td><td>137</td><td>155</td><td>220</td><td>8</td></tr><tr><td>emm nt substitution</td><td>Number of emm types represented</td><td>105</td><td>18</td><td>40</td><td>44</td><td>3</td></tr><tr><td>emm nt substitution</td><td>Number of emm alleles represented</td><td>188</td><td>54</td><td>57</td><td>71</td><td>6</td></tr><tr><td>emm HGT</td><td>Number of isolates</td><td>531</td><td>143</td><td>156</td><td>224</td><td>8</td></tr><tr><td>emm HGT</td><td>Number of emm types represented</td><td>105</td><td>18</td><td>40</td><td>44</td><td>3</td></tr><tr><td>emm HGT</td><td>Number of STs represented</td><td>219</td><td>34</td><td>75</td><td>108</td><td>2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2359762_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    724.9,
+    688.9,
+    863.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2359762_table_2.png",
+   "html": "<table><tr><td>emm pattern</td><td>No. of emm types (%)</td><td>No. of isolates analyzed</td><td>Average no. of nonsynonymous substitutions per nonsynonymous site (Ka) #</td><td>Average no. of synonymous substitutions per synonymous site (Ks)</td><td>Average ratio of Ka to Ks</td></tr><tr><td>A-C</td><td>18 (17)</td><td>137</td><td>0.02121</td><td>0.00431</td><td>4.92</td></tr><tr><td>D</td><td>40 (38)</td><td>155</td><td>0.00748</td><td>0.00488</td><td>1.53</td></tr><tr><td>E</td><td>44 (42) *</td><td>220</td><td>0.00732</td><td>0.00581</td><td>1.26</td></tr><tr><td>other^</td><td>3</td><td>8</td><td>0.02633</td><td>0.00721</td><td>3.65</td></tr><tr><td>All</td><td>105 (100)</td><td>520 $</td><td>0.01037</td><td>0.00526</td><td>1.96</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2359762_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    765.2,
+    687.0,
+    879.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2359762_table_3.png",
+   "html": "<table><tr><td>emm pattern</td><td>No, of isolates</td><td>No. of STs</td><td>No. of emm type- variable STs (%)</td><td>No. of emm types *</td><td>No. of emm types associated with emm type variable STs (%)</td><td>No. of recombinational events</td><td>No. of recombinational events per locus per ST</td></tr><tr><td>A-C</td><td>156</td><td>42</td><td>3 (7.1)</td><td>29</td><td>8 (27.6)</td><td>5</td><td>0.119</td></tr><tr><td>D</td><td>181</td><td>91</td><td>9 (9.9)</td><td>62</td><td>23 (37.1)</td><td>14</td><td>0.154</td></tr><tr><td>E</td><td>240</td><td>123</td><td>2 (1.6)</td><td>61</td><td>4 (6.6)</td><td>2</td><td>0.016</td></tr><tr><td>All</td><td>577</td><td>256</td><td>14</td><td>152</td><td>35</td><td>21</td><td>0.096 average</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2359762_table_4",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    694.9,
+    260.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2359762_table_4.png",
+   "html": "<table><tr><td>emm pattern</td><td>No. of emm types examined *</td><td>No. of emm types involved in HGT</td><td>No. of HGT events involving emm type</td><td>Average no. of HGT events per emm type</td><td>Average no. of isolates sampled per emm type</td><td>Average no. of countries sampled per emm type</td><td>No. of HGT events involving the same emm allele</td><td>No. of emm types restricted to 1 ST or CC</td></tr><tr><td>A-C</td><td>18</td><td>3</td><td>3</td><td>0.17</td><td>7.94</td><td>2.78</td><td>2</td><td>14</td></tr><tr><td>D</td><td>40</td><td>19^</td><td>24^</td><td>0.60</td><td>3.90</td><td>2.18</td><td>15</td><td>15</td></tr><tr><td>E</td><td>44</td><td>27</td><td>33</td><td>0.75</td><td>5.09</td><td>2.28</td><td>15</td><td>12</td></tr><tr><td>other</td><td>3</td><td>3</td><td>3</td><td>1.00</td><td>2.67</td><td>1.67</td><td>0</td><td>0</td></tr><tr><td>Total</td><td>105</td><td>52</td><td>63</td><td>n/a</td><td>n/a</td><td>n/a</td><td>32</td><td>41</td></tr></table>"
+  }
+ ]
+}

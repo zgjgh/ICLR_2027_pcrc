@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_037",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2689504_table_0",
+   "page_num": 1,
+   "bbox": [
+    75.5,
+    152.5,
+    695.2,
+    881.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2689504_table_0.png",
+   "html": "<table><tr><td></td><td>All</td><td>CRRT</td><td>IRRT</td><td>Mixed RRT</td><td>P CRRT vs IRRT</td><td>P (three groups)</td></tr><tr><td>n (%)</td><td>471</td><td>338 (72)</td><td>87 (18)</td><td>46 (10)</td><td></td><td></td></tr><tr><td>Male sex (%)</td><td>67.7</td><td>66.6</td><td>70.1</td><td>71.7</td><td>0.529</td><td>0.679</td></tr><tr><td>Age (years)</td><td>63.6 &#177; 16.2</td><td>62.1 &#177; 16.9</td><td>68.3 &#177; 13</td><td>65.8 &#177; 14.7</td><td>0.004</td><td>0.009</td></tr><tr><td>Body weight (kg)</td><td>79.3 &#177; 19.3</td><td>79.4 &#177; 19.7</td><td>77.9 &#177; 19.6</td><td>81.4 &#177; 15</td><td>0.269</td><td>0.229</td></tr><tr><td colspan=\"7\">ICU admission</td></tr><tr><td>SAPS II</td><td>50 &#177; 18</td><td>50 &#177; 17</td><td>50 &#177; 19</td><td>51 &#177; 21</td><td>0.508</td><td>0.788</td></tr><tr><td>SOFA</td><td>10 &#177; 4</td><td>10 &#177; 3</td><td>10 &#177; 3</td><td>11 &#177; 4</td><td>0.703</td><td>0.012</td></tr><tr><td>Creatinine (&#956;mol/L)</td><td>99(80 to 150)</td><td>100 (80 to 150)</td><td>106 (80 to 177)</td><td>97 (80 to 115)</td><td>0.277</td><td>0.278</td></tr><tr><td>Chronic kidney disease (%)</td><td>56.3</td><td>55.9</td><td>55.2</td><td>60.9</td><td>0.901</td><td>0.796</td></tr><tr><td colspan=\"7\">Diagnosis</td></tr><tr><td>Sepsis (%)</td><td>32.7</td><td>38.8</td><td>14.9</td><td>21.7</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td>Post-surgical (%)</td><td>29.7</td><td>21.9</td><td>51.7</td><td>45.7</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td colspan=\"7\">Admission department</td></tr><tr><td>Emergency (%)</td><td>30.4</td><td>33.4</td><td>19.5</td><td>28.3</td><td>0.012</td><td>0.040</td></tr><tr><td>Medicine (%)</td><td>21.0</td><td>24.0</td><td>12.6</td><td>15.2</td><td>0.022</td><td>0.041</td></tr><tr><td>Surgery (%)</td><td>48.6</td><td>42.6</td><td>67.8</td><td>56.5</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td>Hospital to ICU admission (days)</td><td>1 (0 to 5)</td><td>1 (0 to 4)</td><td>2 (0 to 7)</td><td>1 (0 to 5)</td><td>0.042</td><td>0.146</td></tr><tr><td colspan=\"7\">RRT</td></tr><tr><td>ICU admission to start RRT (days)</td><td>3 (1 to 7)</td><td>2 (1 to 7)</td><td>3.5 (1 to 8.5)</td><td>3 (2 to 5)</td><td>0.884</td><td>0.700</td></tr><tr><td colspan=\"7\">RIFLE class at RRT initiation</td></tr><tr><td>Risk (%)</td><td>11.3</td><td>12.7</td><td>5.8</td><td>10.9</td><td>0.067</td><td>0.186</td></tr><tr><td>Injury (%)</td><td>28.5</td><td>27.5</td><td>31.0</td><td>30.4</td><td>0.515</td><td>0.746</td></tr><tr><td>Failure (%)</td><td>57.3</td><td>56.8</td><td>60.9</td><td>54.3</td><td>0.489</td><td>0.759</td></tr><tr><td>Non-renal indication (%)</td><td>2.8</td><td>3.0</td><td>2.3</td><td>2.2</td><td>0.740</td><td>0.920</td></tr><tr><td>SOFA at RRT initiation</td><td>11 &#177; 3</td><td>12 &#177; 3</td><td>10 &#177; 2</td><td>13 &#177; 3</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td>Creatinine at RRT initiation (&#956;mol/L)</td><td>265 (177 to 368)</td><td>274 (177 to 380)</td><td>243 (203 to 301)</td><td>194 (141 to 309)</td><td>0.319</td><td>0.031</td></tr><tr><td>Start to end RRT (days)</td><td>3 (2 to 7)</td><td>3 (2 to 6)</td><td>4 (2 to 7)</td><td>13.5 (7 to 26.5)</td><td>0.113</td><td>&lt; 0.001</td></tr><tr><td colspan=\"7\">Indication for RRT initiation</td></tr><tr><td>Azotaemia</td><td>72.1</td><td>67.9</td><td>86.2</td><td>76.1</td><td>0.001</td><td>0.003</td></tr><tr><td>RIFLE class</td><td>64.4</td><td>64.9</td><td>60.9</td><td>67.4</td><td>0.495</td><td>0.715</td></tr><tr><td>Fluid overload</td><td>58.6</td><td>61.6</td><td>51.7</td><td>50.0</td><td>0.096</td><td>0.116</td></tr><tr><td>Oliguria</td><td>43.6</td><td>48.1</td><td>28.7</td><td>39.1</td><td>0.001</td><td>0.004</td></tr><tr><td colspan=\"7\">Outcome</td></tr><tr><td>ICU mortality (%)</td><td>47.6</td><td>54.1</td><td>22.1</td><td>44.7</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td>Mechanical ventilation (days)</td><td>10 (3 to 19)</td><td>10 (4 to 19)</td><td>8 (1 to 17)</td><td>16 (11 to 38)</td><td>0.037</td><td>0.002</td></tr><tr><td>ICU length of stay (days)</td><td>14 (7 to 27)</td><td>13 (6.5 to 26)</td><td>14 (6 to 23)</td><td>25 (15 to 42)</td><td>0.769</td><td>&lt; 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2689504_table_1",
+   "page_num": 2,
+   "bbox": [
+    75.5,
+    152.5,
+    695.3,
+    900.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2689504_table_1.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Less-intensive (&lt; 35 ml/kg/hour)</td><td rowspan=\"2\">More-intensive &#8805; 35 ml/kg/hour</td><td rowspan=\"2\">P</td></tr><tr><td></td><td>&#8804; 20 ml/kg/hour</td><td>21 to 34 ml/kg/hour</td></tr><tr><td>n (%)</td><td>61 (18)</td><td>202 (60)</td><td>75 (22)</td><td></td></tr><tr><td>Male sex (%)</td><td>73.8</td><td>67.8</td><td>58.1</td><td>0.139</td></tr><tr><td>Age (years)</td><td>59.05 &#177; 19.0</td><td>63.48 &#177; 15.9</td><td>61.01 &#177; 17.4</td><td>0.226</td></tr><tr><td>Body weight (kg)</td><td>91.66 &#177; 24.4</td><td>79.70 &#177; 18.0</td><td>68.81 &#177; 12.8</td><td>&lt; 0.001</td></tr><tr><td colspan=\"5\">ICU admission</td></tr><tr><td>SAPS II</td><td>46 &#177; 19</td><td>51 &#177; 17</td><td>52 &#177; 16</td><td>0.030</td></tr><tr><td>SOFA</td><td>9 &#177; 4</td><td>10 &#177; 3</td><td>11 &#177; 4</td><td>0.030</td></tr><tr><td>Creatinine (&#956;mol/L)</td><td>106 (88 to 150)</td><td>97 (80 to 150)</td><td>106 (80 to 150)</td><td>0.597</td></tr><tr><td>Chronic kidney disease (%)</td><td>47.5</td><td>58.9</td><td>55.4</td><td>0.290</td></tr><tr><td colspan=\"5\">Diagnosis</td></tr><tr><td>Sepsis (%)</td><td>31.2</td><td>40.1</td><td>40.5</td><td>0.419</td></tr><tr><td>Post-surgical (%)</td><td>24.6</td><td>21.3</td><td>21.6</td><td>0.859</td></tr><tr><td colspan=\"5\">Admission department</td></tr><tr><td>Emergency (%)</td><td>36.1</td><td>35.2</td><td>25.7</td><td>0.292</td></tr><tr><td>Medicine (%)</td><td>16.4</td><td>23.3</td><td>32.4</td><td>0.087</td></tr><tr><td>Surgery (%)</td><td>47.5</td><td>41.6</td><td>41.9</td><td>0.702</td></tr><tr><td>Hospital to ICU admission (days)</td><td>0.5 (0 to 4)</td><td>1 (0 to 4)</td><td>1 (0 to 3)</td><td>0.654</td></tr><tr><td colspan=\"5\">RRT</td></tr><tr><td>ICU admission to RRT (days)</td><td>2.5 (2 to 8)</td><td>3 (2 to 7)</td><td>2 (1 to 3)</td><td>0.005</td></tr><tr><td colspan=\"5\">RIFLE class at RRT initiation</td></tr><tr><td>Risk (%)</td><td>19.7</td><td>9.9</td><td>13.5</td><td>0.123</td></tr><tr><td>Injury (%)</td><td>18.0</td><td>27.7</td><td>35.1</td><td>0.086</td></tr><tr><td>Failure (%)</td><td>55.7</td><td>59.9</td><td>50.0</td><td>0.331</td></tr><tr><td>Non-renal indication (%)</td><td>6.6</td><td>2.5</td><td>1.4</td><td>0.168</td></tr><tr><td>SOFA at RRT initiation</td><td>11 &#177; 3</td><td>12 &#177; 3</td><td>12 &#177; 3</td><td>0.068</td></tr><tr><td>Creatinine at RRT initiation (&#956;mol/L)</td><td>283 (177 to 389)</td><td>283 (194 to 415)</td><td>221 (168 to 327)</td><td>0.052</td></tr><tr><td>CRRT dose (ml/kg/hour)</td><td>15.4 &#177; 4.2</td><td>26.9 &#177; 4.0</td><td>44.8 &#177; 9.4</td><td>&lt; 0.001</td></tr><tr><td>Start to end RRT (days)</td><td>3 (2 to 6)</td><td>4 (2 to 8)</td><td>2 (1 to 3)</td><td>&lt; 0.001</td></tr><tr><td colspan=\"5\">Indication for RRT initiation</td></tr><tr><td>Azotaemia</td><td>65.0</td><td>70.0</td><td>63.9</td><td>0.559</td></tr><tr><td>RIFLE class</td><td>56.7</td><td>70.0</td><td>56.9</td><td>0.048</td></tr><tr><td>Fluid overload</td><td>61.7</td><td>62.5</td><td>59.7</td><td>0.917</td></tr><tr><td>Oliguria</td><td>49.5</td><td>41.7</td><td>48.6</td><td>0.562</td></tr><tr><td colspan=\"5\">Outcome</td></tr><tr><td>ICU mortality (%)</td><td>50.8</td><td>53.0</td><td>60.8</td><td>0.426</td></tr><tr><td>Mechanical ventilation (days)</td><td>13 (3 to 23)</td><td>12 (5 to 20)</td><td>5 (2.5 to 13)</td><td>&lt; 0.001</td></tr><tr><td>ICU length of stay (days)</td><td>17 (7.5 to 29)</td><td>15 (9 to 27)</td><td>8 (4 to 18)</td><td>&lt; 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2689504_table_2",
+   "page_num": 3,
+   "bbox": [
+    75.5,
+    152.1,
+    695.3,
+    889.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2689504_table_2.png",
+   "html": "<table><tr><td></td><td>Frequency &lt; 6 days/week</td><td>Frequency &#8805; 6 days/week</td><td>P</td></tr><tr><td>n (%)</td><td>31 (36)</td><td>56 (64)</td><td></td></tr><tr><td>Male sex (%)</td><td>71.0</td><td>69.6</td><td>0.897</td></tr><tr><td>Age (years)</td><td>69.13 &#177; 11.7</td><td>67.84 &#177; 13.7</td><td>0.873</td></tr><tr><td>Body weight (kg)</td><td>79.52 &#177; 15.7</td><td>76.99 &#177; 21.6</td><td>0.246</td></tr><tr><td colspan=\"4\">ICU admission</td></tr><tr><td>SAPS II</td><td>49 &#177; 15</td><td>50 &#177; 20</td><td>0.958</td></tr><tr><td>SOFA</td><td>10 &#177; 3</td><td>9 &#177; 4</td><td>0.689</td></tr><tr><td>Creatinine (&#956;mol/L)</td><td>106 (80 to 186)</td><td>106 (80 to 177)</td><td>0.822</td></tr><tr><td>Chronic kidney disease (%)</td><td>54.8</td><td>55.4</td><td>0.963</td></tr><tr><td colspan=\"4\">Diagnosis</td></tr><tr><td>Sepsis (%)</td><td>3.2</td><td>21.4</td><td>0.023</td></tr><tr><td>Post-surgical (%)</td><td>64.5</td><td>44.6</td><td>0.076</td></tr><tr><td colspan=\"4\">Admission department</td></tr><tr><td>Emergency (%)</td><td>12.9</td><td>23.2</td><td>0.245</td></tr><tr><td>Medicine (%)</td><td>12.9</td><td>12.5</td><td>0.957</td></tr><tr><td>Surgery (%)</td><td>74.2</td><td>64.3</td><td>0.343</td></tr><tr><td>Hospital to ICU admission (days)</td><td>3 (0 to 8)</td><td>1 (0 to 6)</td><td>0.322</td></tr><tr><td colspan=\"4\">RRT</td></tr><tr><td>ICU admission to RRT (days)</td><td>5 (1 to 11)</td><td>3 (1 to 7)</td><td>0.351</td></tr><tr><td colspan=\"4\">RIFLE class at RRT initiation</td></tr><tr><td>Risk (%)</td><td>6.5</td><td>5.4</td><td>0.834</td></tr><tr><td>Injury (%)</td><td>41.9</td><td>25.0</td><td>0.102</td></tr><tr><td>Failure (%)</td><td>51.6</td><td>66.1</td><td>0.186</td></tr><tr><td>Non renal indication (%)</td><td>0.0</td><td>3.6</td><td>0.287</td></tr><tr><td>SOFA at RRT initiation</td><td>10 &#177; 2</td><td>10 &#177; 2</td><td>0.941</td></tr><tr><td>Creatinine at RRT initiation (&#956;mol/L)</td><td>247 (199 to 296)</td><td>234 (212 to 301)</td><td>0.880</td></tr><tr><td>Number of sessions per week</td><td>4.5 &#177; 0.8</td><td>6.9 &#177; 0.2</td><td>&lt; 0.001</td></tr><tr><td>Start to end RRT (days)</td><td>6 (5 to 12)</td><td>3 (1 to 5)</td><td>&lt; 0.001</td></tr><tr><td colspan=\"4\">Indication for RRT initiation</td></tr><tr><td>Azotaemia</td><td>96.8</td><td>80.4</td><td>0.033</td></tr><tr><td>RIFLE class</td><td>58.1</td><td>62.5</td><td>0.685</td></tr><tr><td>Fluid overload</td><td>41.9</td><td>57.1</td><td>0.174</td></tr><tr><td>Oliguria</td><td>22.6</td><td>32.1</td><td>0.345</td></tr><tr><td colspan=\"4\">Outcome</td></tr><tr><td>ICU mortality (%)</td><td>19.4</td><td>23.6</td><td>0.646</td></tr><tr><td>Mechanical ventilation (days)</td><td>14 (5 to 21)</td><td>6 (0 to 14)</td><td>0.030</td></tr><tr><td>ICU length of stay (days)</td><td>18 (13 to 31)</td><td>9.5 (6 to 18)</td><td>0.023</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2689504_table_3",
+   "page_num": 4,
+   "bbox": [
+    75.5,
+    152.5,
+    695.3,
+    317.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2689504_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">CRRT</td><td colspan=\"3\">Unadjusted analysis</td><td colspan=\"3\">Covariate adjusted analysis</td></tr><tr><td>OR</td><td>95% CI</td><td>P</td><td>OR</td><td>95% CI</td><td>P</td></tr><tr><td>Male sex</td><td>1.47</td><td>0.91 to 2.37</td><td>0.097</td><td>1.86</td><td>1.11 to 3.12</td><td>0.019</td></tr><tr><td>Age (10-year increments)</td><td>1.34</td><td>1.17 to 1.52</td><td>&lt; 0.001</td><td>1.42</td><td>1.22 to 1.64</td><td>&lt; 0.001</td></tr><tr><td>SOFA at RRT initiation</td><td>1.18</td><td>1.09 to 1.28</td><td>&lt; 0.001</td><td>1.20</td><td>1.10 to 1.30</td><td>&lt; 0.001</td></tr><tr><td>Creatinine at RRT initiation (&#956;mol/L)</td><td>0.85</td><td>0.76 to 0.95</td><td>0.005</td><td>0.79</td><td>0.69 to 0.90</td><td>0.001</td></tr><tr><td>Downtime</td><td>0.90</td><td>0.80 to 1.01</td><td>0.081</td><td>0.95</td><td>0.83 to 1.07</td><td>0.386</td></tr><tr><td>More-intensive (&#8805; 35 ml/kg/hour)</td><td>1.41</td><td>0.83 to 2.38</td><td>0.204</td><td>1.21</td><td>0.66 to 2.21</td><td>0.537</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2689504_table_4",
+   "page_num": 5,
+   "bbox": [
+    75.5,
+    152.5,
+    691.3,
+    654.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2689504_table_4.png",
+   "html": "<table><tr><td>CRRT dose expressed as</td><td>Unadjusted OR with 95% CI</td><td>P value</td><td>Adjusted OR with 95% CI</td><td>P value</td></tr><tr><td>Raw value (ml/kg/hour)</td><td>1.00 (0.98 to 1.02)</td><td>0.827</td><td>0.99 (0.97 to 1.02)</td><td>0.583</td></tr><tr><td>Increment of 10 ml/kg/hour</td><td>1.05 (0.87 to 1.26)</td><td>0.638</td><td>0.98 (0.79 to 1.23)</td><td>0.879</td></tr><tr><td colspan=\"5\">Literature cut-offs</td></tr><tr><td>&#8804; 20 ml/kg/hour (ref.)</td><td>1.00</td><td></td><td>1.00</td><td></td></tr><tr><td>21 to 34 ml/kg/hour</td><td>1.09 (0.61 to 1.93)</td><td>0.768</td><td>0.79 (0.40 to 1.55)</td><td>0.492</td></tr><tr><td>&#8805; 35 ml/kg/hour</td><td>1.50 (0.76 to 2.98)</td><td>0.245</td><td>1.00 (0.45 to 2.24)</td><td>0.995</td></tr><tr><td>Less-intensive (&lt; 35 ml/kg/hour) (ref.)</td><td>1.00</td><td></td><td>1.00</td><td></td></tr><tr><td>More-intensive (&#8805; 35 ml/kg/hour)</td><td>1.41 (0.83 to 2.38)</td><td>0.204</td><td>1.21 (0.66 to 2.21)</td><td>0.537</td></tr><tr><td colspan=\"5\">&#8804; 20 ml/kg/hour (ref.)</td></tr><tr><td>&gt; 20 ml/kg/hour</td><td>1.19 (0.68 to 2.07)</td><td>0.546</td><td>0.84 (0.43 to 1.61)</td><td>0.595</td></tr><tr><td colspan=\"5\">Tertiles</td></tr><tr><td>1st tertile (&#8804; 23.5 ml/kg/hour) (ref.)</td><td>1.00</td><td></td><td>1.00</td><td></td></tr><tr><td>2nd tertile (23.6 to 30.9 ml/kg/hour)</td><td>0.71 (0.42 to 1.20)</td><td>0.206</td><td>0.67 (0.37 to 1.23)</td><td>0.196</td></tr><tr><td>3rd tertile (&#8805; 31 ml/kg/hour)</td><td>1.32 (0.78 to 2.24)</td><td>0.306</td><td>1.11 (0.60 to 2.06)</td><td>0.734</td></tr><tr><td colspan=\"5\">1st+2nd tertiles (ref.)</td></tr><tr><td>3rd tertile</td><td>1.56 (0.98 to 2.48)</td><td>0.058</td><td>1.36 (0.79 to 2.32)</td><td>0.268</td></tr><tr><td colspan=\"5\">Median</td></tr><tr><td>&lt; Median (ref.)</td><td>1.00</td><td></td><td>1.00</td><td></td></tr><tr><td>&#8805; Median (&#8805; 27.1 ml/kg/hour)</td><td>0.99 (0.64 to 1.51)</td><td>0.945</td><td>0.82 (0.49 to 1.35)</td><td>0.433</td></tr><tr><td colspan=\"5\">CRRT dose in first 24 hours</td></tr><tr><td>Less-intensive (&lt; 35 ml/kg/hour) (ref.)</td><td>1.00</td><td></td><td>1.00</td><td></td></tr><tr><td>More-intensive (&#8805; 35 ml/kg/hour)</td><td>1.02 (0.65 to 1.62)</td><td>0.918</td><td>0.96 (0.57 to 1.60)</td><td>0.866</td></tr><tr><td colspan=\"5\">CRRT dose in first 48 hours</td></tr><tr><td>Less-intensive (&lt; 35 ml/kg/hour) (ref.)</td><td>1.00</td><td></td><td>1.00</td><td></td></tr><tr><td>More-intensive (&#8805; 35 ml/kg/hour)</td><td>1.08 (0.68 to 1.74)</td><td>0.737</td><td>1.03 (0.60 to 1.76)</td><td>0.915</td></tr></table>"
+  }
+ ]
+}

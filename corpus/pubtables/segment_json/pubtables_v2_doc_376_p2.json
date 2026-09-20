@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_376",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    596.9,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Dopamine Time-on-Task"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.1,
+    700.8,
+    554.7
+   ],
+   "ocr": "participants to exert maximum effort at all times, and by having an experimenter observe the subject throughout the study. We checked on this potential confound by correlating RRT slope with mean reaction time from the first minute of the PVT, and found a small but significant positive correlation between them (r = .13, p,.05). Having discovered this, we again looked for differences in genotype group based on this dependent variable, but found no differences in DAT1 or COMT. Furthermore, adding this variable as a covariate to the ANCOVAs reported above does not materially change our main results. Thus, the genetic differences observed seem to be exclusively related to TOT performance decrements. For the subjective data, the overall effect of the six dopamine polymorphisms was also significant (F7,308 = 3.43, p = .002); however, only the DRD4 VNTR (F1,325 = 13.71, p,.001, g2 = .044) was significantly related to changes in energy across the duration of the task (Table 6; Figure 4) after controlling for RRT slope. No significant associations were found between any of our candidate genes and subjective changes in mood. Discussion The results of this study demonstrate links between several functional dopaminergic alleles and the propensity to both decline in performance and feel mentally fatigued. Specifically, our data suggest that the dopamine transporter, DAT1, as well as COMT, may have an impact on the rate at which the vigilance decrement occurs, and that the dopamine receptor DRD4 may be related to subjective declines in mental energy. This is one of the first demonstrations that these polymorphisms play such a role in attention in non-clinical populations. For the two genes that were associated with TOT, alleles that typically confer risk of poorer cognitive performance (i.e. the Val/ Val allele [21,42] and the 10-repeat allele of the DAT1 VNTR [17,18,28]) were protective against TOT declines in our sample, although selective studies on healthy populations have also found"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    375.8,
+    106.0
+   ],
+   "ocr": "Table 2. Factor analysis (with varimax rotation) of the change in subjective variables from pre- to post-task."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    356.0,
+    257.2
+   ],
+   "ocr": "Variable Factor 1 (subjective energy) Factor 2 (mood)\nFatigue .659 .112\nStress .092 .843\nAnxiety 2.033 .883\nSleepiness .689 .136\nDepression .191 .557\nMotivation 2.702 .016\nEnergy 2.733 2.101",
+   "table_id": "PMC3306301_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    270.4,
+    298.9,
+    289.9
+   ],
+   "ocr": "Bold values indicate factor loaded on to by each variable. doi:10.1371/journal.pone.0033767.t002"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    316.4,
+    375.8,
+    587.7
+   ],
+   "ocr": "Given the effects of DAT1 and COMT on TOT, we wished to further probe the effect of these alleles on other common PVT parameters. Accordingly, we extracted the number of lapses (responses.500 ms) and false alarms, and computed a metric of attentional stability [40], the intra-individual coefficient of variation (ICV), by dividing the SD of reaction times by the mean [41]. As the distribution of ICV showed significant skewness, we normalized it by taking its inverse before performing further statistical tests on this variable. RRT slope was significantly correlated with lapses (r = 2.71, p,.001), false alarms (r = 2.33, p,.001) and ICV (r = 2.39, p,.001). After controlling for subjective change in energy, we found no differences between genotype groups in either DAT1 or COMT in any of these variables. When confronted with a vigilance task, it is possible that subjects may withhold effort at the beginning of the trial so as to conserve resources, and thus better maintain performance. As part of the study setup, we took steps to mitigate this issue by instructing Table 3. Allele counts and frequencies."
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    616.8,
+    681.7,
+    904.5
+   ],
+   "ocr": "Hardy-\nGenetic Weinberg\npolymorphism Genotype Allele frequencies equilibrium\nDAT1 VNTR 9/9 9/10 9/11 10-repeat 9-repeat 11-repeat Others Yes (p = .91)\n1 (0.3%) 40 (12.1%) 0 (0.0%) 631 (91.2%) 42 (6.1%) 14 (2.0%) 5 (0.7%)\n10/10 10/11 11/11\n287 (87.0%) 12 (3.6%) 1 (0.3%)\nDRD4 VNTR 2/2 2/4 2/5 4-repeat 2-repeat 5-repeat Others Yes (p = .11)\n12 (3.8%) 89 (27.9%) 5 (1.6%) 519 (74.8%) 140 (20.2%) 14 (2.0%) 21 (3.0%)\n4/4 4/5 5/5\n206 (64.6%) 6 (1.8%) 1 (0.3%)\nDRD4 -521C/T T/T T/C C/C T allele C allele Yes (p = .09)\n150 (45.2%) 131 (39.5%) 48 (14.5%) 431 (67.0%) 227 (33.0%)\nDRD2 TaqIA T/T T/C C/C T allele C allele Yes (p = .99)\n112 (33.7%) 158 (47.6%) 55 (16.6%) 382 (58.8%) 268 (41.2%)\nCOMT Val/Met G/G G/A A/A G allele A allele Yes (p = .99)\n183 (55.1%) 121 (36.4%) 20 (6.0%) 487 (75.2%) 161 (24.8%)\nDBH TaqI A/A A/G G/G A allele G allele Yes (p = .63)\n247 (74.4%) 70 (21.1%) 3 (0.9%) 566 (88.2%) 76 (11.8%)",
+   "table_id": "PMC3306301_table_2"
+  },
+  "p2_b7": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    917.8,
+    225.1,
+    926.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0033767.t003"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "5 March 2012 | Volume 7 | Issue 3 | e33767"
+  }
+ }
+}

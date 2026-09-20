@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_116",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    254,
+    580,
+    281
+   ],
+   "ocr": "In the Q1 2024 Fleet Fuel Efficiency Metrics report for Union Pacific, the analysis reveals critical data on fuel consumption and distance driven across different vehicle types."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    269,
+    580,
+    297
+   ],
+   "ocr": "The table categorizes metrics by Vehicle Type and Fuel Type, detailing the respective fuel efficiency outcomes."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    404.0,
+    580.0,
+    541.0
+   ],
+   "ocr": "FleetFuelEfficiencyMetrics UnitsConsumed TotalDistance AverageEfficiency\nVehicleType FuelType GallonsUsed MilesDriven MPG\nLocomotive Diesel 50000 100000 2.0\nTruck Diesel 30000 60000 2.0\nVan Gasoline 15000 30000 2.0\nTotal N/A 95000 190000 2.0",
+   "table_id": "img_128988_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    716
+   ],
+   "ocr": "For the Locomotive, which utilizes Diesel as its fuel type, 50,000 gallons were used to cover a total distance of 100,000 miles, resulting in an average efficiency of 2.0 MPG. The Truck, also using Diesel, consumed 30,000 gallons to drive 60,000 miles, maintaining an average efficiency of 2.0 MPG. The Van, powered by Gasoline, used 15,000 gallons to travel 30,000 miles, achieving the same average efficiency of 2.0 MPG."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    763
+   ],
+   "ocr": "The total metrics for all vehicle types combined indicate that 95,000 gallons were consumed, covering a cumulative distance of 190,000 miles, with an overall average efficiency of 2.0 MPG. This comprehensive overview of Fleet Fuel Efficiency Metrics underscores the performance and consumption patterns within Union Pacific's transportation and logistics framework, providing essential insights for operational assessments and strategic planning."
+  }
+ }
+}

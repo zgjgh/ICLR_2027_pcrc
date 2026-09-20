@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_478",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    236.0,
+    53.4
+   ],
+   "ocr": "Sun et al. BMC Genomics (2015) 16:747"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 5 of 15"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.1,
+    777.4
+   ],
+   "ocr": "410, MDP0000894463, and MDP0000599133. Among these genes, MDP0000247324 and MDP0000599133 failed to produce specific primers owing to their high homology with MDP0000894463 and MDP0000239624, respectively. The primers for the rest of the genes were designed using Primer Express 5.0 software (AuGCT, Beijing, China). Both β-actin and 18S-rRNA were ana- lyzed as reference genes. Because of the high expression level of 18S-rRNA, only β-actin, which showed a similar expression level with our genes, was used to calculate the relative quantitative expression of genes. All primer sequences are listed in Additional file 1: Table S1. Results Marker development Data from multiple Illumina/Solexa sequence channels was assorted by the appropriate 4–8 bp nucleotide multiplex identifier assigned to each sample. The raw data were modified by following two steps: first, the adapter and index sequences in reads were deleted, and then, the reads that contained more than 50 % low- quality bases (quality value ≤ 5) were removed. After fil- tering, the average Q20s of the samples were about 96 % (minimum 92.55 %), indicating the high quality of the data. Finally, 375.04 Gb of sequencing data were gener- ated using EcoRI to digest, including 1.58 Gb of ‘Jonathan’, 1.80 Gb of ‘Golden Delicious’, and 371.66 Gb of the 318 F1 seedlings. The GC content of the parents was ~37 %, while the average of the hybrid population was 39.70 %. However, HindIII digestion produced 300.13 Gb of sequencing data, consisting of 2.10 Gb, 1.76 Gb, and 296.27 Gb of ‘Jonathan’, ‘Golden Delicious’, and the 318 hybrid seedlings, respectively. The GC con- tent for both the parents and the progenies were almost 40 %. The average coverage levels of the F1 progeny were 1.57 (EcoRI) and 1.26 (HindIII). For ‘Jonathan’, the coverage levels were 2.13 (EcoRI) and 2.83 (HindIII), while they were 2.43 (EcoRI) and 2.38 (HindIII) for ‘Golden Delicious’ (Table 1). Based on the RAD tags, a high fidelity SNP dataset was generated. For each individual, two types of SNP were detected, one was the heterozygous loci itself, and Table 1 Quality evaluation of restriction-site associated DNA"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    351.2,
+    111.1,
+    678.7,
+    777.4
+   ],
+   "ocr": "the other was a homozygous loci but polymorphic amongst hybrid seedlings. Using EcoRI to digest, 15166 and 15255 SNPs were developed from ‘Jonathan’ and ‘Golden Delicious’, respectively. Among these SNPs, 9917 (‘Jonathan’, 65.39 %) and 9899 (‘Golden Delicious’, 64.89 %) were homozygous, while 5249 (‘Jonathan’, 34.61 %) and 5356 (‘Golden Delicious’, 35.11 %) were heterozygous loci. There were, in total, 14,094 SNPs detected amongst the hybrid seedlings, including 8151 (57.83 %) homozygous and 5943 (42.17 %) heterozygous loci. In contrast, 37,861 SNPs were obtained through HindIII digestion of ‘Jonathan’, including 28,531 homo- zygous and 9330 heterozygous loci, representing 75.36 % and 24.64 % of the total, respectively. In ‘Golden Deli- cious’, the total number of SNPs amounted to 37,742, 76.25 % of the total were homozygous and the rest, 23.75 %, were heterozygous loci. The number of SNPs generated from the progeny was 33,766 when subjected to HindIII digestion, more than twice the amount from EcoRI digestion, which indicated that the apple genome was rich in HindIII restriction sites. Meanwhile, the percentage of HindIII-digested homozygous SNP loci was higher, at 75.32 %, compared with heterozygous loci that only accounted for 24.68 % of the total (Table 2). Map construction and marker alignment SNP markers developed from RADseq cannot all be used in map construction. Because of the use of the F1 mapping population, homozygous markers with poly- morphisms between the two parents were removed owing to non-segregation in the F1 progeny. High miss- ing values affected the map orders and reduced the map accuracy [40]. To find appropriate missing values, groupings were calculated at different rates of missing data (10, 15, 20, and 25 %) with a LOD threshold of 6.0. With the 10 and 25 % missing values, the number of generated groupings was inconsistent with 17, the chromosome number of the diploid apple. However, we obtained 17 groupings with the 15 or 20 % missing values. There were 2312 valid markers with 15 % missing values and 3728 available markers with 20 % missing values, thus the 20 % missing value was chosen sequencing data in 318 hybrid seedlings and their parents"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    782.4,
+    678.6,
+    898.4
+   ],
+   "ocr": "Restriction enzyme Plant materials Total reads (M) Total bases (Gb) GC (%) Q20 (%) Coverage (×)\nEcoRI Jonathan 17.12 1.58 37.33 97.04 ~2.13\nGolden Delicious 19.04 1.80 37.15 96.95 ~2.43\nProgeny 3972.27 371.66 39.70 96.16 ~1.57\nHindIII Jonathan 22.33 2.10 39.32 96.78 ~2.83\nGolden Delicious 18.77 1.76 39.26 96.79 ~2.38\nProgeny 3164.47 296.27 39.37 96.86 ~1.26",
+   "table_id": "PMC4595315_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    904.8,
+    375.8,
+    925.4
+   ],
+   "ocr": "Data of progeny were collected from all 318 individuals derived from ‘Jonathan’ × genome size 742.3 Mb by Velasco et al. [4]"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    377.6,
+    904.8,
+    666.4,
+    914.7
+   ],
+   "ocr": "‘Golden Delicious’. The size of apple whole genome referenced the estimated"
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_044",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The following data table presents a comprehensive analysis of the impact of various compounds on the P-glycoprotein (P-gp) transport mechanism, focusing specifically on the regression coefficients, standard errors, and P values associated with each variable. The analysis examines the effects of different dosages of MEPH, including 2.5 mg/kg, 5 mg/kg, and 20 mg/kg, as well as a control with nor-MEPH at 5 mg/kg."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "A notable finding is the regression coefficient of -2.76 for the MEPH 5 mg/kg treatment, which suggests a significant negative influence on P-gp activity, although the P value of 0.061 indicates that this result approaches, but does not meet, conventional significance thresholds. Additionally, the standard error of 1.47 provides insight into the variability of this estimate."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    336.0
+   ],
+   "ocr": "Variable Regression coefficent Standard error P value\nP-gp −2.76 1.47 0.061\nTumor stage 0.84 2.13 0.693\nTumor grade −1.28 0.90 0.153\nAge 0.01 0.06 0.959\nGender −0.46 1.15 0.687\nPathological type 0.16 1.19 0.896\nGallstones 0.05 1.18 0.969",
+   "table_id": "img_049704_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    351.0,
+    580.0,
+    472.0
+   ],
+   "ocr": "Drug treatment\nMeasure Testing-onsets (min) VEH MEPH 2.5 mg/kg MEPH 5 mg/kg MEPH 20 mg/kg nor-MEPH 5 mg/kg\nASR 5 104.5 (14.3) 117.5 (17.4) 155.5 (32.7) 110.5 (14.2) 72.1 (11.5)\n40 137.2 (20.0) 140.8 (26.4) 144.6 (22.3) 173.9 (24.8) –\n% PPI 5 36.8 (5.4) 32.8 (5.6) 31.1 (6.2) 31.3 (4.1) 30.2 (6.5)\n40 41.3 (3.7) 41.1 (2.1) 25.1 (7.5) 28.4 (3.3) –",
+   "table_id": "img_049704_t1"
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    488,
+    521,
+    500
+   ],
+   "ocr": "The measure of testing-onsets, which is recorded at 5 minutes, further contextualizes the timing of these effects."
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    488,
+    580,
+    546
+   ],
+   "ocr": "Overall, this data underlines the complexity of interactions between these compounds and P-gp function, highlighting the need for further investigation into their pharmacological implications and the potential for different dosing regimens to modulate P-gp activity effectively."
+  }
+ }
+}

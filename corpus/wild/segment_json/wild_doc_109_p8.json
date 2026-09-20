@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_109",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    270,
+    580,
+    328
+   ],
+   "ocr": "In the report concerning hazardous waste disposal volumes for Beijing Enterprises Water, covering the period of December 2023 in EUR, the table delineates various waste types and their respective handling specifics. Under the header \"WasteType,\" the first entry is \"HazardousWaste,\" which totals a volume of 1500 tonnes, with the disposal method categorized as \"Incineration\" in the \"Central\" region, resulting in a total volume of 1500 tonnes."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    316,
+    580,
+    482
+   ],
+   "ocr": "The subsequent entries detail specific categories of hazardous waste: \"Batteries,\" which account for 200 tonnes, are processed through \"Recycling\" in the \"North\" region, with the total volume aligning at 200 tonnes and classified as \"Recyclable.\" Following this, \"Chemicals\" are recorded with a volume of 600 tonnes, allocated for \"Landfill\" disposal in the \"East\" region, culminating in a total of 600 tonnes, marked as \"Non-recyclable.\" The entry for \"ElectronicWaste\" reveals that this category also has a volume of 300 tonnes, designated for \"Recycling\" in the \"West\" region, leading to a total volume of 300 tonnes, further classified as \"Recyclable.\" Lastly, the report lists \"IndustrialWaste,\" which totals 300 tonnes, similarly utilizing \"Incineration\" as the disposal method within the \"South\" region, confirming a total of 300 tonnes categorized as \"Total.\" In summary, the comprehensive overview of hazardous waste disposal indicates a total volume of 1500 tonnes of hazardous waste, with distinct contributions from batteries, chemicals, electronic waste, and industrial waste, each processed through various methods across different regions, thus encapsulating the critical aspects of waste management practices within the specified timeframe."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    626.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "WasteType Volume(tonnes) DisposalMethod Region TotalVolumes\nHazardousWaste 1500 Incineration Central Total 1500\nBatteries 200 Recycling North 200 Recyclable\nChemicals 600 Landfill East 600 Non-recyclable\nElectronicWaste 300 Recycling West 300 Recyclable\nIndustrialWaste 300 Incineration South 300 Total",
+   "table_id": "img_120458_t0"
+  }
+ }
+}

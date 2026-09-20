@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_042",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Clennon et al. International Journal of Health Geographics 2010, 9:58 Page 10 of 13 http://www.ij-healthgeographics.com/content/9/1/58"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    438.1,
+    124.0
+   ],
+   "ocr": "Table 9 Predicting Anopheles presence compared to random using GLM"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    678.6,
+    273.3
+   ],
+   "ocr": "Model Data Source Variable Odds Ratio P > |z| 95% CI Lower 95% CI Upper\nLandSat-SRTM SRTM slope 0.47 0.005 0.27 0.80\nSRTM TPI500 0.58 <0.001 0.47 0.71\nSRTM TWI 1.36 0.002 1.05 1.76\nSRTM TPI2000 0.94 0.03 0.88 0.99\nLandSat-ASTER LandSat 3:1 2.40e - 06 <0.001 3.15e - 09 0.002\nASTER TPI2000 0.95 <0.001 0.92 0.97\nLandSat 2:4 316321.9 0.007 30.83 3.25e + 09",
+   "table_id": "PMC2993656_table_8"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    299.8,
+    453.9,
+    312.8
+   ],
+   "ocr": "Table 10 Predicting Anopheles presence compared to random using GLMM"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    317.7,
+    678.6,
+    429.7
+   ],
+   "ocr": "Model Data Source Variable Odds Ratio P > |z| 95% CI Lower 95% CI Upper\nLandSat-SRTM SRTM slope 0.3 0.004 0.13 0.67\nSRTM TPI500 0.46 <0.001 0.32 0.65\nSRTM TWI 1.66 0.02 1.1 2.5\nLandSat-ASTER ASTER TPI500 1.24 0.02 1.04 1.48\nASTER TPI2000 0.81 0.001 0.72 0.92",
+   "table_id": "PMC2993656_table_9"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    475.5,
+    463.2,
+    488.5
+   ],
+   "ocr": "Table 11 Predicting An. arabiensis presence compared to random using GLM"
+  },
+  "p5_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    493.4,
+    678.7,
+    654.5
+   ],
+   "ocr": "Model Data Source Variable Odds Ratio P > |z| 95% CI Lower 95% CI Upper\nLandSat-SRTM SRTM slope 0.08 <0.001 0.02 0.32\nSRTM TPI500 0.56 <0.001 0.41 0.77\nLandSat 5:7 93.9 0.03 18.9 2.06e + 20\nLandSat 2:4 6.24e + 10 <0.001 0.41 0.77\nLandSat-ASTER ASTER TPI500 1.24 0.005 1.07 1.43\nASTER TPI2000 0.83 0.001 0.74 0.92\nLandSat 5:7 66.00 0.004 3.89 1119.57\nLandSat 2:4 2.97e + 10 0.008 512.39 1.72e + 18",
+   "table_id": "PMC2993656_table_10"
+  },
+  "p5_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    687.0,
+    472.7,
+    699.9
+   ],
+   "ocr": "Table 12 Predicting An. arabiensis presence compared to random using GLMM"
+  },
+  "p5_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    704.8,
+    678.7,
+    865.9
+   ],
+   "ocr": "Model Data Source Variable Odds Ratio P > |z| 95% CI Lower 95% CI Upper\nLandSat-SRTM SRTM slope 0.08 <0.001 0.02 0.32\nSRTM TPI500 0.56 <0.001 0.41 0.77\nLandSat 5:7 93.9 0.02 2.37 3726.71\nLandSat 2:4 6.24e + 10 0.03 18.91 2.06e + 20\nLandSat-ASTER ASTER TPI500 1.23 0.02 1.04 1.47\nASTER TPI2000 0.83 0.004 0.72 0.94\nLandSat 5:7 99.09 0.006 3.67 2672.71\nLandSat 2:4 4.37e + 11 0.01 576.29 3.32e + 20",
+   "table_id": "PMC2993656_table_11"
+  }
+ }
+}

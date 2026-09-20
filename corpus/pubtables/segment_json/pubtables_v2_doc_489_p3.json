@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_489",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    479.8,
+    48.8,
+    727.4,
+    60.9
+   ],
+   "ocr": "Dispersal of Engineered Male Aedes aegypti Mosquitoes"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    248.0,
+    107.4
+   ],
+   "ocr": "Table 3. Brazil model coefficient estimates."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    273.1
+   ],
+   "ocr": "Coefﬁcient Estimate Standard error z-value p-value\nIntercept -1.35 1.18 -1.16 0.25\nTransformed distance 83,140 7,015 11.85 <0.0001\nNumber of days post release -0.62 0.11 -5.84 <0.0001\nWild other spp 0.021 0.0079 2.62 0.0088\nMaximum humidity -0.035 0.016 -2.22 0.027\nQuadrant* North 1 - - -\nSouth -1.88 0.80 -2.36 0.018\nEast 0.76 0.37 2.07 0.039\nWest 1.40 0.35 3.97 0.00071",
+   "table_id": "PMC4640874_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    285.9,
+    727.2,
+    715.3
+   ],
+   "ocr": "GLM coefﬁcient estimates and associated standard errors, z-value and p-values from the optimal model for the Brazil analysis. Distance was transformed using the exponential power kernel. *Overall signiﬁcance level p<0.0001 (χ2 = 46.50, 3df). doi:10.1371/journal.pntd.0004156.t003 biting females. It is however, important to note that for skewed distributions of dispersal dis- tances the MDT as a measure of central tendency should be interpreted with some caution. The number of non-Aedes mosquitoes was significantly positively correlated with the num- ber of recaptured ‘genetically sterile’ mosquitoes. This explanatory variable is thought to be a proxy for the house-attractiveness or accessibility of a house to mosquitoes; large numbers of other mosquito species may indicate that the household is situated in a favourable location or particularly amenable or attractive to mosquitoes. Clustering of Aedes mosquitoes at the house- hold level is a commonly observed phenomenon [29–31]. An alternative explanation could also lie in differences in the abilities of operators to sample mosquitoes. The humidity and directional quadrants were significantly associated with the number of recaptured ‘genetically sterile’ mosquitoes but had small effect sizes. It would be expected that any directional differences are attributable to site- and time-specific heterogeneities in terrain, habitat type, wind direction or other external factors [32–34]. Humidity was positively associ- ated with recapture number, which could be due to an increased tendency for Ae. aegypti to seek shelter with increasing humidity [35]. These explanatory variables must be interpreted with some caution as there is the potential for selection by AIC to overfit models [36,37]. The covariates may therefore be included in the final models despite their relatively small influence on model fit. Table 4. Malaysia model performance and kernel parameter estimates."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    724.0,
+    726.6,
+    820.1
+   ],
+   "ocr": "Model AIC Explained variance (%) Number of covariates* Kernel parameter estimates\n(95% CI)\na b\nUntransformed 728.7 7.9 3 - -\nNegative exponential 668.4 54.1 3 31.3 (27.7,34.9) -\nExponential power 668.0 46.8 3 48.1 (45.3, 52.1) 1.4 (1.3,1.5)",
+   "table_id": "PMC4640874_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    832.8,
+    691.2,
+    897.3
+   ],
+   "ocr": "The estimated model performance (minimum AIC indicated in bold) and kernel parameters for different transformations of the distance explanatory variable for the Malaysia analysis. *Including the interaction term. doi:10.1371/journal.pntd.0004156.t004"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0004156 November 10, 2015 12 / 18"
+  }
+ }
+}

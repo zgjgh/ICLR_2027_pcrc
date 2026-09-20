@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_061",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    53,
+    580,
+    96
+   ],
+   "ocr": "The following table presents the results of an ordinary least squares regression analysis examining the relationship between cathepsin B levels and various independent variables, measured in mg/mg protein. The analysis incorporates data from two distinct assessment methods: AT-AirView and King Vision, each with a sample size of 90 observations."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    84,
+    580,
+    157
+   ],
+   "ocr": "Notably, the coefficients and associated confidence intervals for each method are provided, highlighting the variation in cathepsin B levels across different conditions. For instance, the coefficient for the AT-AirView method indicates a significant negative association with a value of −0.0348 (95% CI: −0.0561, −0.0135), with a corresponding P value of 0.0014, suggesting that as the independent variable increases, cathepsin B levels decrease."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    176.0,
+    580.0,
+    299.0
+   ],
+   "ocr": "Half-lives (h) Content in lysosomes\n(mg/mg protein)\nCathepsin B 14 50 330 920\nCathepsin H 14 30 280 600\nCathepsin L 24 100 105 510\n(Control) (E-64) (Control) (E-64)",
+   "table_id": "img_067232_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    315.0,
+    580.0,
+    575.0
+   ],
+   "ocr": "90-day readmission Barthel index at discharge Log-transformed length of stay\nCoefficient (95% CI) P value Coefficient (95% CI) P value Coefficient (95% CI) P value\nOrdinary least square; −0.0348 (−0.0561, −0.0135) 0.0014 −0.0009 (−0.0204, 0.0187) 0.9298 −0.4134 (−0.4551, −0.3718) < 0.0001\nTwo-stage least square −0.039 (−0.1867, 0.1088) 0.6052 0.0664 (−0.0796, 0.2125) 0.3727 −0.9087 (−1.1725, −0.6450) < 0.0001\nF statistics 134.8 < 0.0001 117.2 < 0.0001 134.8 < 0.0001\nHausman specification test 0.956 0.339 < 0.0001",
+   "table_id": "img_067232_t1"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    591.0,
+    580.0,
+    718.0
+   ],
+   "ocr": "Ease of device insertion Ease of epiglottis visualisation Ease of intubation\nAT-AirViewn = 90 King Visionn = 90 AT-AirViewn = 90 King Visionn = 90 AT-AirViewn = 90 King Visionn = 90\n1 51 48 66 68 63 52\n2 33 34 24 20 22 15\n3 6 8 0 1 5 14\n4 0 0 0 1 0 9",
+   "table_id": "img_067232_t2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    734,
+    580,
+    761
+   ],
+   "ocr": "In contrast, the King Vision method presents a different coefficient, emphasizing the importance of assessing the method's impact on the interpretation of cathepsin B levels."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    749,
+    580,
+    777
+   ],
+   "ocr": "This analysis underscores the need for careful consideration of methodological differences when evaluating biomarker data in clinical and research settings."
+  }
+ }
+}

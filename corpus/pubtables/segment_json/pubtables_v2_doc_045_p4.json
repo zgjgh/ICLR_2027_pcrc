@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_045",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Thompson et al. BMC Bioinformatics 2011, 12:393 http://www.biomedcentral.com/1471-2105/12/393"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 11 of 18"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.7,
+    867.9
+   ],
+   "ocr": "it was seen that these verbs also rank amongst the most common Analysis clues, showing that it is common for analysis and slight speculation to be simultaneously expressed using a single clue word. For the indication of L1 certainty, modal auxiliary verbs are particularly com- mon, with may accounting for 67.4% of all annotated L1 clues, and might and could constituting a significant proportion of the remainder. The L1 category has a very small number of distinct clue expressions (23), com- pared to 121 distinct expressions for L2. Polarity As seen in Table 7, only a small number of events are negated (6.1%). However, it is vital that such informa- tion is detected, as negation completely alters the mean- ing of the event. In the GENIA event corpus, negation is an aspect of meta-knowledge that was annotated as part of the original annotation (via the assertion attri- bute). There is almost, but not complete agreement, between Polarity = Negative and assertion = non-exist, with a total of 2262 events (6.1% of all events) annotated with the former and 2351 (6.4% of all events) in the lat- ter case. The slightly fewer negative annotations pro- duced by our annotation are mainly due to the fact that some events annotated as negative in the original GENIA annotation actually convey low manner. An example is shown in sentence (5). In this and following examples, the event trigger is shown in small capitals and the clue expression is emboldened. (5) AP-1 but not NF-IL-6 DNA binding activity was also detected in C5a-stimulated PBMC; however, its delayed expression (maximal at 4 hours) suggested a less important ROLE in the rapid production of IL- 8. The event encodes the fact that the expression of AP- 1 only has a minor role in the rapid production of IL-8. As the GENIA annotation had no special means to encode that an event has low intensity or impact, the original annotator chose to annotate it as a negative event, even though this is not strictly correct. Our anno- tation scheme, with its Manner dimension, allows the subtle difference between an event having a low impact and an event not happening at all to be encoded. Our scheme annotates low impact events such as the above with Polarity = Positive but Manner = Low. In Table 8, we examine the distribution of negated events amongst the different KT categories. Although Table 7 Distribution of annotated categories for Polarity"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    747.4
+   ],
+   "ocr": "Comparison of results confirms this - of the events annotated with Uncertainty = Probable, there are similar proportions of events that have been annotated with CL = L1 (33.6% of Probable events) and CL = L2 (42.2% of Probable events). It is also worth noting that the total percentage of events identified with some degree of uncertainty using our scheme (CL = L1 or CL = L2) is 8.1%. This is almost double the percentage of events annotated as Probable (4.3% of all events), showing that our more detailed guidelines for CL annotation have helped to identify a far greater number of events expres- sing some degree of speculation. Discrepancies can also be found regarding the Doubt- ful category. Events annotated with this category consti- tute 3.7% of all events in the corpus. Whilst, as expected, the vast majority of these correspond to events that have been annotated as KT = Investigation in our meta-knowledge scheme (1022 out of a total of 1349 Doubtful events, i.e. 75.8%), some Doubtful events also correspond to events with other KT values (most notably Analysis with CL values of L3, L2 or L1, which can also occur within the Probable category). This pro- vides evidence that the boundary between Doubtful and Probable may not always have been clear to GENIA cor- pus annotators. In addition, our scheme identified 1948 events (5.3% of all events) with KT = Investigation, meaning that there were some 900 investigative events, i.e., 2.4% of all events, which were not identified during the original GENIA event annotation. Table 6 shows the most commonly annotated clue expressions for the L2 and L1 values. For L2, the most common expression is can, which normally expresses ability rather than speculation (together with the clues ability and able). If an event has the ability to occur, then there is no guarantee that it will occur all of the time, and hence it is sensible that the event should be annotated as having less than complete certainty. All of the other words in the L2 list express slight speculation or hedging, mostly corresponding to differ- ent forms of the verbs suggest and indicate. In Table 4, Table 6 Most common CL clue expressions"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    89.9,
+    752.3,
+    347.7,
+    915.9
+   ],
+   "ocr": "L2 Clue Freq L3 Clue Freq\ncan 407 may 516\nsuggest 285 might 75\nindicate 150 could 55\nsuggesting 112 possible 32\nability 108 potential 23\nindicated 99 possibility 10\nappears 88 possibly 10\nable 86 potentially 10\nindicating 72 perhaps 5\nlikely 52 propose 4",
+   "table_id": "PMC3222636_table_5"
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    402.8,
+    872.8,
+    659.7,
+    915.9
+   ],
+   "ocr": "Polarity Freq % of total events\nPositive (default) 34595 93.9%\nNegative 2263 6.1%",
+   "table_id": "PMC3222636_table_6"
+  }
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_319",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    571.7,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "A New Auditory BCI Paradigm"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    81.0,
+    81.4,
+    214.8,
+    92.8
+   ],
+   "ocr": "Table 5. Speaker loudness."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    364.5,
+    215.6
+   ],
+   "ocr": "Subject Exp Speaker location\n1 2 3 4 5 6 7 8\nVPzq Phys. - - - 60.8 60.2 59.7 - -\nVPig Phys. 61.4 61.1 61.2 60.1 60.2 60.1 61.2 60.4\nVPkj BCI - 56.9 56.2 x x X - -\nVPzq BCI 63.4 63.8 62.9 x x X 63.7 63.2",
+   "table_id": "PMC2848564_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    228.3,
+    375.7,
+    314.5
+   ],
+   "ocr": "Speakers were calibrated to equal loudness (*58 dB). Before each session, the subject could adjust this loudness for individual speakers to have subjectively equal loudness. Most subjects did not make changes; only those that did are reported here. Subjects are grouped according to experimental rounds. Exp refers to the experimental round. Speaker location refers to the speaker labels given in Figure 1. - = unchanged, x = unavailable. All values are in dB. doi:10.1371/journal.pone.0009813.t005"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    345.4,
+    375.8,
+    599.8
+   ],
+   "ocr": "subjects went up quickly for conditions C300 and C175. For control condition C300s, this increase could not be observed for most subjects (see Figure 10). In condition C300 (see Table 7a), four out of five subjects reached a selection score of 70% or higher already after using six iterations. The fifth subject reached this threshold after eight iterations. One subject had a selection score of 100% when using 12 or more iterations, all other subjects eventually scored 90% or higher. The average maximum selection score was 93.6%. Average maximum ITR scores were 9.60 and 6.58 for the 70% and 90% constraint, respectively. For condition C175 (see Table 7b), four out of five subjects had a selection score of 70% or higher when using four iterations. Subject VPkh only reached this threshold after using ten iterations. Subject VPzq reached a 100% selection score when using 12 iterations. All but subject VPkh eventually reached a 90% selection score with an average maximum score of 94.00%. Average maximum ITR scores were 17.39 and 15.91 for the 70% and 90% constraint, respectively."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    399.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "Figure 9. Polar sensitivity plot for condition Cr. The confusion matrices for condition Cr of all subjects are summed and represented as sensitivity plot. The black line indicates the sensitivity at each speaker location. Direction confusion is represented by the green (neighboring direction) and red (other) arrows. The length of the arrow indicates the amount of error in that direction. Speaker 1 (front) and 5 (back) are difficult to distinguish, as can be seen from their exclusive confusion. Direction labels correspond to those in Figure 1. doi:10.1371/journal.pone.0009813.g009 In condition C300s, both the classification- and selection scores were lower (see Table 7c). Subject VPzq reached the 70% threshold already after using 6 iterations and had a maximum score of 90% on this control condition. The subject reported to regularly sing in a choir. For all other subjects, selection scores did not rise above 70%. Because condition C300s contained less subtrials (1500 versus 3500 and 3000 in the C300 and C175 condition respectively), it could be argued that the lower classification- and selection scores are due to the lower number of training samples. However, running conditions C300 and C175 with only 1500 subtrials resulted in similar scores as those currently reported. Any difference between conditions is thus due to information added by the spatial localization of the stimuli. Cross validation was also performed on the data from the physiological experiments. Although both classification- and selection scores were comparable or better, we do not report on these results extensively here as the long ISI makes the system intrinsically slow. For comparison, Figure 10 does show these results. Note that the bad score for subject VPiz is due to the removal of over 50% of the trials. For all conditions and subjects, the classification score of target stimuli is lower than the overall classification score (see column ‘Target score’ in Table 7). The classifier favors the decision towards the non-targets, which is due to the bias that exists in the training set. Balancing of the training set might increase the classification score, but has not been applied here. Discussion We discuss here a new experimental paradigm for an auditory BCI. In contrast to most other auditory BCI setups, our setup April 2010 | Volume 5 | Issue 4 | e9813"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    643.3,
+    350.7,
+    667.9
+   ],
+   "ocr": "Table 6. Averaged performance for different directions (condition C1000)."
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    696.9,
+    359.7,
+    850.5
+   ],
+   "ocr": "Direction RT [ms] Hits False alarms Misses Error\nFront 483 (168) 67 8 1 11.8%\nFront-right 414 (121) 40 1 4 11.1%\nRight 431 (126) 84 3 0 3.5%\nBack-right 552 (211) 83 10 1 11.7%\nBack 518 (242) 57 1 3 6.6%\nBack-left 499 (184) 51 4 1 8.9%\nLeft 408 (100) 108 5 0 4.4%\nFront-left 403 (121) 75 1 1 2.6%\nAverage 463.5 (159.1) - - - 7.6%",
+   "table_id": "PMC2848564_table_5"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    863.8,
+    375.8,
+    926.1
+   ],
+   "ocr": "Reaction times (standard deviation in parentheses) and errors for all subjects were averaged according to direction of target stimulus. Types of errors made can be found in Figure 9. Due to random target assigning, not all directions are designated as a target equally often. The longest reaction times are found in the rear speakers 3 speakers and the frontal 1. doi:10.1371/journal.pone.0009813.t006"
+  },
+  "p4_b9": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    392.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 10"
+  }
+ }
+}

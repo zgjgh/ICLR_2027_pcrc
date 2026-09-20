@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_041",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The data presented in Table 1 provides a comprehensive overview of the effects of ACE inhibitors (ACEi) and angiotensin receptor blockers (ARB) on the AdiC transporter in *Escherichia coli*. This analysis is essential in understanding the broader implications of these pharmacological agents on various biological systems."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "Notably, the table includes metrics such as the number of studies that reported a “Reduced” effect, which accounted for 12% of the total observations, and the “Increased” effects, which constituted a significant 85%."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    322.0
+   ],
+   "ocr": "Change Pre-Fall to Post-Fall\nNa Stopped Reduced No Change Increased Started\nACEi/ARB 52 6 [12%] 0 [0%] 44 [85%] 0 [0%] 2 [4%]\nBeta blockers 53 4 [8%] 0 [0%] 46 [87%] 0 [0%] 3 [6%]\nCCBs 26 2 [8%] 0 [0%] 24 [92%] 0 [0%] 0 [0%]\nDiuretics 85 9 [11%] 3 [4%] 67 [79%] 1 [1%] 5 [6%]\nNitrates 41 0 [0%] 1 [2%] 39 [95%] 0 [0%] 1 [2%]\nOther 22 1 [5%] 0 [0%] 21 [95%] 0 [0%] 0 [0%]\nTotal 279 22 [8%] 4 [1%] 241 [86%] 1 [0%] 11 [4%]",
+   "table_id": "img_046085_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    337.0,
+    580.0,
+    505.0
+   ],
+   "ocr": "Ref./Year Template Organism PDB ID Resolution (Å) Conformation Protomeric Composition Substrate\n[44]/2013 AdiC E. coli 3L1L 3.0 Outward-occluded Monomer Arginine\n[44]/2013 ApcT M. jannaschii 3GI9 2.48 Inward-open Monomer -\n[51]/2013 AdiC E. coli 3L1L 3.0 Outward-occluded Monomer Arginine\n[51]/2013 ApcT E. coli 3GIA 2.32 Inward-open Monomer -\n[52]/2017 AdiC E. coli 3L1L 3.0 Outward-occluded Monomer Arginine\n[52]/2017 AdiC E. coli 3OB6 3.0 Outward-open Homodimer Arginine\n[52]/2017 AdiC E. coli 3LRB 3.61 Outward-open Homodimer -",
+   "table_id": "img_046085_t1"
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    521,
+    580,
+    564
+   ],
+   "ocr": "The predominant outcome indicated that the majority of studies (44 out of 52) observed no change in the activity of the transporter when exposed to these agents. Additionally, the resolution of the structural data, specified in angstroms (Å), provides critical insight into the conformational dynamics of the protein under study."
+  },
+  "p7_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    552,
+    580,
+    610
+   ],
+   "ocr": "The inclusion of the PDB ID and protomeric composition further enriches the understanding of the molecular context in which these effects are observed. These findings underscore the need for continued research into the interactions between ACEi/ARB and transport proteins, as they may have significant implications for therapeutic strategies targeting cardiovascular and renal disorders."
+  }
+ }
+}

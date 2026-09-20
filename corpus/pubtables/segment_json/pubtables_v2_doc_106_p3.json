@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_106",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    281.5,
+    64.4
+   ],
+   "ocr": "Algorithms for Molecular Biology 2008, 3:8"
+  },
+  "p3_b1": {
+   "type": "title",
+   "bbox": [
+    522.9,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.almob.org/content/3/1/8"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    342.3,
+    118.9
+   ],
+   "ocr": "Table 4: Average AUC values for Datasets 3–26 and 27–38"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    84.4,
+    130.1,
+    682.0,
+    316.8
+   ],
+   "ocr": "Datasets 3–26 Datasets 27–38\nMethod MAS RMA DFW MAS RMA DFW Average\nWAD 96.740(1) 91.373(6) 91.407(5) 92.416(1) 96.732(2) 94.090(4) 93.793\nAD 93.755(6) 93.098(2) 92.239(2) 87.411(7) 96.766(1) 94.222(2) 92.915\nFC 93.625(7) 93.117(1) 92.239(2) 88.230(6) 96.726(3) 94.221(3) 93.026\nRP 91.511(8) 92.540(3) 92.534(1) 84.552(8) 96.526(4) 94.665(1) 92.055\nmodT 95.673(5) 91.381(5) 90.109(7) 90.895(4) 95.277(7) 92.355(7) 92.615\nsamT 95.947(3) 91.231(8) 89.959(8) 90.305(5) 95.702(5) 92.052(8) 92.533\nshrinkT 95.733(4) 91.316(7) 91.451(4) 90.968(3) 94.851(8) 93.684(5) 93.001\nibmT 96.344(2) 91.771(4) 90.252(6) 91.921(2) 95.491(6) 92.427(6) 93.034\nAverage 94.916 91.978 91.274 89.587 96.009 93.465",
+   "table_id": "PMC2464587_table_3"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    333.0,
+    393.0,
+    922.4
+   ],
+   "ocr": "Analyses of Datasets 3–26 and Datasets 27–38 were performed using MAS- preprocessing algorithm in the original papers. (second) group were overall the best among the three pre- processing algorithms. This is reasonable because the best performing algorithms were practically used in the origi- nal papers [43-73]. The exception was for RP [12] in the first group: the average AUC values for RMA- (92.540) and DFW-preprocessed data (92.534) were higher than the value for MAS-preprocessed data (91.511). Interestingly, the FC-based methods (AD, WAD, FC, and RP) were generally superior to the t-statistic-based meth- ods (modT, samT, shrinkT, and ibmT) when RMA- or DFW-preprocessed data were analyzed. This is probably because the RMA and DFW algorithms simultaneously preprocess data across a set of arrays to improve the preci- sion of the final measures of expression [81] and include a variance stabilization step [38,40]. Accordingly, some variance estimation strategies employed in the t-statistic- based methods may be no longer necessary for such pre- processed data. Indeed, the t-statistic-based methods were clearly superior to the FC-based methods (except WAD) when the MAS-preprocessed data were analyzed: The MAS algorithm considers data on a per-array basis [77] and has been criticized for its exaggerated variance at low intensi- ties [82]. It should be noted that we cannot compare the three pre- processing algorithms with the results from the 36 real experimental datasets. One might think the RMA algo- rithm is the best among the three algorithms because (1) the average AUC values for the RMA (the average is 91.978) were higher than those for DFW (91.274) in the results for Datasets 3–26 and (2) the average AUC values for DFW (93.465) were also higher than those for MAS (89.587) in the results for Datasets 27–38 (Table 4). How- ever, the lower average AUC values for DFW compared with the RMA in the results for Datasets 3–26 were mainly due to the poor affinity between the t-statistic-based"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    396.0,
+    333.0,
+    672.5,
+    344.9
+   ],
+   "ocr": "and RMA-preprocessed data, respectively, following the choice of"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    374.2,
+    698.4,
+    922.4
+   ],
+   "ocr": "methods and the DFW algorithm. The average AUC values for DFW were quite similar to those for RMA only when the FC-based methods were compared. In addition, the higher average AUC values for DFW (93.465) than for MAS in the results for Datasets 27–38 were rather by virtue of the similarity of data processing to RMA: DFW employs the same background correction and normalization pro- cedures as RMA, and the only difference between the two algorithms is in their summarization procedure. It should also be noted that there must be many addi- tional DEGs in the 36 experimental datasets because the RT-PCR validation is performed only for a subset of top- ranked genes. Accordingly, we cannot compare the eight methods by using other evaluation metrics such as the false discovery rate (FDR) [83] or compare their abilities of identifying new genes that might have been missed in a previous analysis. Such comparisons could also produce different results with different parameters such as number of top ranked genes or different gene ranking methods used in the original study. For example, the FC-based methods (AD, WAD, FC, and RP) and the t-statistic-based methods (modT, samT, shrinkT, and ibmT) produce clearly dissimilar gene lists (see Table 5). This difference suggests that the FC-based methods should be advanta- geous for six datasets (Datasets 3–6 and 27–28) whose gene rankings were originally performed with only the FC- based methods. Likewise, the t-statistic-based methods should be advantageous for 15 datasets (Datasets 19–26 and 32–38). The RT-PCR validation for a subset of poten- tial DEGs were based on those gene ranking results. Indeed, the average rank (3.92) of AUC values for the FC- based methods on the six datasets and for the t-statistic- based methods on the 15 datasets was clearly higher than that (5.08) for the t-statistic-based methods on the six datasets and for the FC-based methods on the 15 datasets (p-value = 0.001, Mann-Whitney U test). This implies a"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 12 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_394",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    383.3,
+    66.0
+   ],
+   "ocr": "Wollmann et al. Journal of Cardiovascular Magnetic Resonance 2012, 14:67 http://www.jcmr-online.com/content/14/1/67"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 11"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    301.1,
+    124.4
+   ],
+   "ocr": "Table 2 MRI sequences for lumbar spine scan"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    670.4,
+    611.2
+   ],
+   "ocr": "Sequences for Philips MRI Scanner\nBody Region: Lumbar Spine, Patient Position: Supine, Patient Entry: Head First, Landmark on Trochanter\nLocalizer Sagittal T1 Sagittal T2 Axial T1 Axial T2 STIR\nLandmark on Landmark on Landmark on Landmark on Landmark on Landmark on\nTrochanter Trochanter Trochanter Trochanter Trochanter Trochanter\nName Anatomy Spine-lumbar Spine-lumbar Spine-lumbar Spine-lumbar Spine-lumbar Spine-lumbar\nPhilips\nSequence Name survey T1W_TSE_SAG T2W_TSE_SAG T1W_TSE(2)_TRA T2W_TSE(2)_TRA STIR_longTE_SAG\nPhilips\nplane ax/cor/sag sag sag ax ax sag\nScan time [min] 0:28 02:32 02:12 02:59 03:23 03:13\nstacks 3 1 1 3 3 1\nslices 3 each 9 9 5 5 9\nScan technique FFE SE SE SE SE IR\nFast imaging none TSE TSE TSE TSE TSE\nmode\n(EPI/Turbo) 5 21 4 18 17\nFactor\nTE [ms] 3.9 8 120 8 120 80\nTR [ms] 23 380 2825 325 3500 3400\nTI [ms] - - - - - 165\nFlip angle [deg] 45 90 90 90 90 -\nFOV [mm] 400 160 160 200 200 160\nScan [%] 74.6 72.3 72,7 77.7 76 70.5\nScan matrix 268 x 200 176 x 240 176 x 241 224 x 174 224 x 171 176 x 238\nSlice thickness 10 4 4 4 4 4\nSlice gap user defined default default default default user defined\nNSA / NEX 2 4 4 6 6 4\nBandwidth [Hz/ 285.9 196.6 324,7 198.4 139.9 297.1\npixel]",
+   "table_id": "PMC3482396_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    640.3,
+    366.1,
+    926.2
+   ],
+   "ocr": "Additionally patients were able to trigger manually an alarm in case of emergency. Emergency equipment was available onsite. After MR patients were asked for un- usual perceptions (e.g. local heating, pacemaker vibra- tion etc.) during MR scans. Primary study endpoints Primary endpoint #1: MRI and pacing system related serious adverse device effect (SADE) free-rate While all adverse events had to be recorded throughout the entire study, only the number of possibly pacing sys- tem and MRI related SADEs were the basis for endpoint calculation of the SADE rate. A SADE was pacing sys- tem related if it resulted from the presence or perform- ance of the pacing system. A SADE was MR related if it occurred due to the interaction of the pacing system with the MR procedure. This was the case if the patient was within the 5 Gauss line of the MR system or if the SADE occurred in the month following the MR"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    640.3,
+    678.6,
+    926.2
+   ],
+   "ocr": "procedure. SADE’s due to programming the pacemaker to MR mode were also classified as MR procedure related. Pocket and lead infections were described but not taken into account for the primary endpoint. The parameter of interest pSADE was the SADE free rate per patient, which was calculated by 100% - (number of SADE divided by the number of patients)* 100%. It was expected, that this SADE free rate will be greater than 90%. Primary endpoint #2: Pacing threshold rise (atrial and ventricular) The percentage of pacing leads with a pacing threshold rise between pre-MR follow-up (baseline FU) and 1- month follow-up (2nd FU) was investigated. The thresh- old behavior of the lead was defined as a success if the increase was not larger than or equal to 1.0 Volts. Only measurements of the same polarity (either uni- or bipo- lar) were taken into account. The proportion (pPT) of pacing threshold successes was calculated by dividing"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_167",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    260.5,
+    53.4
+   ],
+   "ocr": "Prielhofer et al. BMC Genomics (2015) 16:167"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 6 of 17"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    344.3,
+    371.6,
+    381.1
+   ],
+   "ocr": "Figure 4 Translationally-enriched and depleted genes. Bar chart excess glycerol, limiting glucose and methanol conditions related to the and adjusted p-values < 0.05)."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    357.8,
+    344.6,
+    664.1,
+    368.5
+   ],
+   "ocr": "representing the number of translationally enriched and depleted genes in excess glucose condition (cutoff ±50% change of the translational state"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    413.5,
+    366.2,
+    926.2
+   ],
+   "ocr": "This suggests that specific translational down-regulation reinforces the transcriptional down-regulation of these genes in response to excess glycerol. In methanol-grown cells, genes required for methanol utilization (MUT), were strongly up-regulated at the transcriptional level, but had a decreased translational state compared to excess glucose. Hence translational regulation appears to counteract the strong transcrip- tional up-regulation of most of these genes. Such \"post- transcriptional buffering\" has also been observed in two Saccharomyces species [31]. Neither significantly enriched GO terms nor other patterns could be found in the other gene groups with altered translational states. Translational states are linked to ORF length and transcript abundance We analyzed the translation states of individual tran- scripts compared to total mRNA for all growth condi- tions. Enriched gene groups were initially identified (Table 2); closer inspection revealed that the groups had closely correlated open reading frame (ORF) lengths, which has been reported previously for other organisms [32-34]. Liang et al. [2] identified P. pastoris gene ORFs, uORFs, UTRs and introns by sequencing, and found ORF lengths from 141 to 14853 bp, with an average of 1444 ± sd = 1032 bp (median of 1203 bp). We used this information to define three gene groups according to ORF length (Table 3): long and short genes, comprising the upper and lower quartile of all genes, and the remaining 50% of medium-length genes. Translation ef- ficiency is also known to be affected by codon usage, so we included synonymous codon usage order (SCUO), which was obtained from the CodonO platform [35];"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    413.5,
+    678.6,
+    563.3
+   ],
+   "ocr": "higher values indicate more codon bias, meaning less random codon use in a gene’s coding region. The three gene groups significantly differ in transcript level, trans- lational states, codon usage bias (SCUO) and 5´UTR frequency: Short genes are highly transcribed (as measured by transcript abundance) and translated (high translational states), rarely possess a 5´UTR and have an enhanced codon usage bias (Table 3). Statistical tests (Fishers exact test, chi square test and re- gression analysis) were used to verify these relationships."
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    593.7,
+    644.0,
+    634.4
+   ],
+   "ocr": "Table 2 Translational regulation of functional gene groups for P. pastoris cells grown in excess glucose conditions"
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    639.2,
+    678.6,
+    887.7
+   ],
+   "ocr": "Functional Genes in Significantly Average Average\ngroup group regulated translational ORF length\ngenes log2 ratio of of significantly\nsignificantly regulated\nregulated genes [bp]\ngenes\nSecretion: 79 31 0.225 885\nchaperones\nAntioxidant 21 7 0.160 476\nTransport(er) 60 22 0.137 1669\nPexophagy 23 9 −0.082 2302\nAutophagy 69 25 −0.117 1690\nVacuole 105 48 −0.151 1781\nMitochondria 110 23 −0.165 1541\nTCA 20 10 −0.339 1544\nSecretion: 46 28 −0.344 1884\nglycosylation",
+   "table_id": "PMC4408588_table_1"
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    894.1,
+    667.0,
+    925.4
+   ],
+   "ocr": "Average translational states and ORF length of functional gene groups for P. pastoris cells grown in excess glucose. Translational trends were similar in the other conditions."
+  }
+ }
+}

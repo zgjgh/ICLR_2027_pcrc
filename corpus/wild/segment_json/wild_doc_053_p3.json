@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_053",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    125,
+    580,
+    168
+   ],
+   "ocr": "The following data table provides a comprehensive overview of the metrics related to the thresholds applied to the number of linked instances from 2010 to 2013. Specifically, it delineates the variations observed under both conservative and relaxed thresholds, with distinct values for each year."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    156,
+    580,
+    214
+   ],
+   "ocr": "For instance, the conservative threshold of 21 in 2010 illustrates a starting point for analyzing linked instances, while the relaxed threshold of 20 offers a contrasting benchmark for comparison. Over the four- year period, a notable trend emerges, showcasing fluctuations in the number of linked instances, which are critical for assessing overall connectivity and engagement levels within the relevant dataset."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    270.0,
+    580.0,
+    475.0
+   ],
+   "ocr": "Bespoke algorithm ReclinkIII algorithm\nConservative threshold = 21 Relaxed threshold = 20 Conservative threshold = 12 Relaxed threshold = 10\nN linked 131 193 125 788\nN true links 123 132 102 114\nN false-matches 8 61 23 674\nN missed-matches 68 59 89 77\nSensitivity % (95% CI) 64.4 (57.2–71.2) 69.1 (62.0–75.6) 53.4 (46.1–60.6) 59.7 (52.4–66.7)\nPositive predictive value % (95% CI) 93.9 (86.6–96.3) 68.4 (61.3–74.8) 81.6 (73.7–87.9) 14.5 (12.1–17.1)",
+   "table_id": "img_057791_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    533.0,
+    580.0,
+    656.0
+   ],
+   "ocr": "Year Observed genotypes Pearson's correlation coefficient Shapiro-Wilks test\n2010 2011 2012 2013\n2010 117 1 p < 0.001\n2011 115 0.98 1 p < 0.001\n2012 88 0.97 0.98 1 p < 0.001\n2013 113 0.96 0.97 0.99 1 p < 0.001",
+   "table_id": "img_057791_t1"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    717
+   ],
+   "ocr": "The figures recorded under these thresholds highlight the dynamic nature of the data, with the conservative threshold revealing a peak of 131 linked instances in 2011, contrasted by a lower count of 117 in 2013."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "These variations underscore the importance of threshold selection in data analysis, as they significantly influence the interpretation of trends and patterns over time. This analysis is essential for stakeholders seeking to understand the implications of connectivity metrics and to make informed decisions based on the observed data."
+  }
+ }
+}

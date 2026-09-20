@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_162",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    406.0,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Evaluation of a Cochlear Implant Strategy Based on a “Phantom” Channel"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.0,
+    722.3,
+    108.1
+   ],
+   "ocr": "Table 1. Number of FFT bins related to each analysis band and its associated center frequencies in Hz. z is the band number, Nz is the number of bins"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    105.9,
+    292.3,
+    120.2
+   ],
+   "ocr": "in the zth band and fcenter is the center frequency in Hertz."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    127.7,
+    726.6,
+    254.4
+   ],
+   "ocr": "Band z 0 1 2 3 4 5 6 7\nBins Nz 4 2 2 1 2 2 2 3\nnstartz 1 5 7 9 10 12 14 16\nfcenter (Hz) 170 408 544 646 748 884 1020 1190\nBand z 8 9 10 11 12 13 14 15\nBins Nz 4 4 5 6 7 8 10 55\nnstartz 19 23 27 32 38 45 53 63\nfcenter (Hz) 1427 1700 2005 2379 2821 3330 3942 6491",
+   "table_id": "PMC4373925_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    261.3,
+    186.2,
+    272.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0120148.t001"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    302.3,
+    727.2,
+    611.7
+   ],
+   "ocr": "peak locator estimates the most important frequency in each analysis channel. A frequency weight map converts this frequency into a current weighting and carrier synthesis for the cur- rent steered electrode pair in each channel (see [36] for more details). For each stimulation cycle, the electrode pair associated with one analysis band is stimulated simultaneously. How- ever, different channels are stimulated sequentially in order to reduce undesired channel inter- actions. Furthermore, the order of stimulation is selected to maximize the distance between stimulation pairs to further reduce channel interaction. Fig. 4 illustrates the stimulation pattern for a complete Phantom strategy stimulation cycle. Because partial bipolar stimulation requires a larger charge per phase to produce the equivalent loudness of monopolar stimulation, a lon- ger phase duration is allocated to reduce the risk of stimulating at levels that are out of compli- ance. The Phantom phase duration was configured to be 6 times longer than that for the remaining electrode contacts, thus reducing the overall stimulation rate by 29% in comparison to a F120 strategy. No significant reduction in speech perception was expected from this rate reduction [39] given the relatively large stimulation rates used by the clinical strategies of the subjects (Table 2). The only difference between the Phantom and the subject’s clinical strategy (F120) is the ad- dition of the low frequency channel (transmitted through Phantom stimulation) and the conse- quent reduction of stimulation rate. All other aspects of the strategy remain the same for both strategies."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    657.6,
+    727.2,
+    860.4
+   ],
+   "ocr": "Subjects The study protocol was reviewed and approved by a registered board (Freiburger Ethik-Komis- sion International). Only adult CI users participated in the study. After explanation of the study protocol and the risks and benefits of participating, all subjects signed a consent form be- fore participating. The consent form was approved by the ethics board. 12 postlingually deaf German speaking users of the Advanced Bionics CII or HiRes90k im- plants and the F120 strategy participated in the study. Only Advanced Bionics devices were used because of the need to simultaneously stimulate several electrodes in or out of phase, re- quiring multiple independent current sources. All subjects were postlingually deafened users and were able to score at ceiling on the HSM [40] sentence test delivered without background noise. All subjects had experience in previous clinical evaluations. Subject demographics, in- cluding age, duration of deafness and implant experience can be found in Table 2."
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120148 March 25, 2015 6 / 25"
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_041",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "The analysis presented in Table 1 offers a comprehensive overview of the phenotypic correlations observed across various grades of selection. By examining the frequency of occurrences within the specified kHz ranges, we can better understand the relationship between different grades and their corresponding performance metrics. Specifically, the “Strong” and “Weak” columns provide insight into the positive and negative correlations that exist within the dataset, illustrating how these classifications impact the overall selection index. For instance, the presence of strong correlations may suggest that certain phenotypic traits are more desirable, thereby influencing breeding decisions."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    202
+   ],
+   "ocr": "Additionally, the “Total” column aggregates the data, highlighting the cumulative effects of these correlations on the relative response of the population. The inclusion of the “Cause of correlation” metric further enriches the analysis, as it elucidates the underlying factors contributing to the observed patterns. This table serves as a critical resource for stakeholders aiming to optimize selection strategies and enhance the overall efficacy of breeding programs, ultimately facilitating more informed decision-making processes in agricultural practices."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    339.0
+   ],
+   "ocr": "FREQUENCY (kHz) GRADE\n- 0\n8 1\n4 2\n2 3\n1 4",
+   "table_id": "img_045760_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    354.0,
+    580.0,
+    480.0
+   ],
+   "ocr": "Stage DKK-1expression\nStrong (++) Weak (+) Negative (-) Total\nI 1 2 2 5\nII 10 9 1 20\nIII 13 3 1 17\nIV 4 1 0 5",
+   "table_id": "img_045760_t1"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    495.0,
+    580.0,
+    618.0
+   ],
+   "ocr": "Phenotypic correlation Cause of correlation Selection index Relative responsea\n0.5 All genetic Select on Y + X 1.155\n0.5 All environmental Select on Y − X/2 1.155\n0.5 Genetic = environmental Select on Y 1.000\n0.0 No cause; genetic = environmental Select on Y 1.000\n0.0 Genetic = ‐ environmental = 0.5 Select on Y + X/2 1.118",
+   "table_id": "img_045760_t2"
+  }
+ }
+}

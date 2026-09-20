@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_445",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    463.0,
+    49.0,
+    727.4,
+    61.5
+   ],
+   "ocr": "Mexiletine and Lidocaine Block Nav1.5 and Nav1.7 Channels"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    469.7,
+    107.4
+   ],
+   "ocr": "Table 5. Parameters obtained from fitting the recovery curves by two-exponential function."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    333.4
+   ],
+   "ocr": "Nav1.5\nτ1 (ms) Fold change Relative weights τ2 (ms) Fold change Relative weights\ncontrol 5.3 ± 0.5 (n = 20) 84.1% 132.9 ± 27.9 15.9%\nmexiletine 0.3 mM 21.6 ± 3.3 (n = 9) *** 4.1 19.6% 768.2 ± 119.3*** 5.8 80.4%\nmexiletine 1.0 mM 111.0 ± 44.0 (n = 8) *** 20.9 0.5% 1716.3 ± 880.9*** 12.9 99.5%\nlidocaine 0.3 mM 9.1 ± 0.5 (n = 8) *** 1.7 16.6% 207.0 ± 12.0*** 1.6 83.4%\nlidocaine 1.0 mM 88.1 ± 9.00 (n = 7) *** 16.6 8.7% 297.2 ± 27.9*** 2.2 91.3%\nNav1.7\nτ1 (ms) Fold change Relative weights τ2 (ms) Fold change Relative weights\ncontrol 3.6 ± 0.2 (n = 23) 89.8% 70.1 ± 27.0 10.2%\nmexiletine 0.3 mM 10.8 ± 1.5 (n = 7) *** 3.0 48.2% 349.1 ± 23.1*** 5.0 51.8%\nmexiletine 1.0 mM 53.6 ± 6.1 (n = 17) *** 14.9 41.1% 551.0 ± 113.1*** 7.9 58.9%\nlidocaine 0.3 mM 6.4 ± 1.9 (n = 6) *** 1.8 27.7% 208.4 ± 23.4*** 3.0 72.3%\nlidocaine 1.0 mM 26.6 ± 9.3 (n = 6) *** 7.4 7.5% 220.4 ± 35.0*** 3.1 92.5%",
+   "table_id": "PMC4465899_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    345.9,
+    714.7,
+    425.5
+   ],
+   "ocr": "Note: Asterisk indicates values derived from ﬁtting two-exponential function that differs from the corresponding value in control (drug-free) condition with one-way ANOVA. ***p < 0.001 Error estimates on relative weights were not obtained due to the values calculated from averaged data. doi:10.1371/journal.pone.0128653.t005"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    469.5,
+    727.2,
+    898.4
+   ],
+   "ocr": "lidocaine that at both 0.3 mM and 1 mM only increased τ2 with about 2-fold (Table 5). For re- covery from inactivation of Nav1.7, mexiletine had small effects on both fast and slow time constants, as compared to Nav1.5. Mexiletine at 0.3 mM and 1 mM increased τ1 about 3- and 15-fold, respectively; and τ2 about 5-fold and 8-fold, respectively (Table 5). In comparison with mexiletine, lidocaine at 0.3 mM and 1.0 mM increased τ1 about 2- and 7-fold, respectively; and τ2 only about 3-fold for both concentrations (0.3 and 1.0 mM). The relative weights in slow phase for both Nav1.5 and Nav1.7 without drugs were about 15.9% and 10.2%, respectively. Raising the drug concentration increased the slow recovering fraction. For example, mexiletine at 0.3 and 1.0 mM increased the weights of Nav1.5 in the slow phase to about 80% and 99%, respectively, as compared to 52% and 59% for Nav1.7 (Table 5). For lidocaine, it had little differential effects on the relative weights between the two channels although it also increased values to 83.4% and 91.3% at 0.3 and 1.0 mM for Nav1.5, respectively, and 72.3% and 92.5% for Nav1.7 (Table 5). This suggests that gating properties coupled to slow inactivation might be key determinants of isoform-specific action of anti-arrhythmic drugs. Differential use/frequency-dependent inhibition of Nav1.5 by mexiletine and lidocaine The significant increase of slow inactivation in the presence of either mexiletine or lidocaine shows that some channels enter into a slow inactivated state during depolarization, thus result- ing in accumulation of channels in a drug-modified state and leading to use/frequency-depen- dent inhibition. To test use-dependent inhibition of Nav1.5 or Nav1.7 by mexiletine and lidocaine, we applied a series of 60- or 150–50 ms short depolarizing pulses at -20 mV with dif- ferent frequencies (1 Hz, 5 Hz and 10 Hz). In the absence of drugs, there was no discernable block of channel isoforms when stimulated at 1 Hz and also the currents at 5- and 10-Hz re- mained above 95% of their initial values (Fig 6A and 6B), indicating that tested channels were"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0128653 June 11, 2015 13 / 20"
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_100",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_110093_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    393.0,
+    580.0,
+    576.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_110093_t0.png",
+   "html": "<table><tr><td>EmployeeCount</td><td>AttritionRate(%)</td><td>NewHires</td><td>Departures</td><td colspan=\"3\">FinancialOverview</td></tr><tr><td>Revenue(GBP)</td><td>NetIncome(GBP)</td><td>OperatingIncome(GBP)</td><td>CAPEX(GBP)</td><td>Q12023</td><td>Q12024</td><td>Change(%)</td></tr><tr><td>5000</td><td>12.5</td><td>300</td><td>625</td><td>10M</td><td>1.5M</td><td>2.0M</td></tr><tr><td>4800</td><td>11.0</td><td>350</td><td>550</td><td>9M</td><td>1.2M</td><td>2.1M</td></tr><tr><td>5200</td><td>13.0</td><td>320</td><td>600</td><td>11M</td><td>1.8M</td><td>1.9M</td></tr><tr><td>5100</td><td>10.5</td><td>330</td><td>580</td><td>10.5M</td><td>1.6M</td><td>2.3M</td></tr><tr><td>4950</td><td>12.2</td><td>340</td><td>590</td><td>10.8M</td><td>1.4M</td><td>2.5M</td></tr><tr><td>5200</td><td>10.1</td><td>330</td><td>600</td><td>10.2M</td><td>1.5M</td><td>2.0M</td></tr></table>"
+  },
+  {
+   "table_id": "img_110190_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    511.0,
+    580.0,
+    612.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_110190_t0.png",
+   "html": "<table><tr><td>Commodity</td><td>Volume(MT)</td><td>Change(%)</td><td>Value(USD)</td><td>Status</td><td>Category</td><td>Notes</td></tr><tr><td>IronOre</td><td>1,200,000</td><td>5</td><td>$150M</td><td>Increased</td><td>Metdemand</td><td>Q12024</td></tr><tr><td>Coal</td><td>950,000</td><td>3</td><td>$120M</td><td>Stable</td><td>Steadysupply</td><td>Q12024</td></tr><tr><td>Grain</td><td>800,000</td><td>2</td><td>$90M</td><td>Decreased</td><td>Weatherimpact</td><td>Q12024</td></tr><tr><td>Bauxite</td><td>600,000</td><td>4</td><td>$70M</td><td>Increased</td><td>Newcontracts</td><td>Q12024</td></tr></table>"
+  },
+  {
+   "table_id": "img_110299_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    413.0,
+    580.0,
+    612.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_110299_t0.png",
+   "html": "<table><tr><td>ProductCategory</td><td>UnitsSold</td><td>Revenue(JPY)</td><td>MarketShare(%)</td><td colspan=\"4\">SalesPerformance</td><td>CustomerFeedback</td><td colspan=\"2\">RegionalBreakdown</td></tr><tr><td>Herbicides</td><td>5000</td><td>¥250M</td><td>30</td><td>TotalSales</td><td>50</td><td>NorthAsia</td><td>3000</td><td>SouthAsia</td><td>2000</td><td>Insecticides</td></tr><tr><td>3000</td><td>¥150M</td><td>20</td><td>TotalSales</td><td>30</td><td>NorthAsia</td><td>2000</td><td>SouthAsia</td><td>1000</td><td>Fungicides</td><td>2000</td></tr><tr><td>¥100M</td><td>15</td><td>TotalSales</td><td>25</td><td>NorthAsia</td><td>1500</td><td>SouthAsia</td><td>500</td><td>TotalUnits</td><td>10000</td><td>¥500M</td></tr><tr><td>OverallMarket</td><td>15</td><td>CustomerSatisfaction</td><td>85%</td><td>SalesGrowth</td><td>10%</td><td>TotalBranches</td><td>30</td><td>EmployeeHeadcount</td><td>200</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_110406_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    182.0,
+    580.0,
+    315.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_110406_t0.png",
+   "html": "<table><tr><td>LossReserves</td><td>ClaimsFiled</td><td colspan=\"2\">CatastropheEvents</td></tr><tr><td>TotalReserves</td><td colspan=\"2\">NaturalDisasters</td><td>FireIncidents</td><td>FloodClaims</td></tr><tr><td>ReservesAllocated</td><td>ClaimsPaid</td><td>ClaimsOutstanding</td><td colspan=\"2\">ProjectedLosses</td><td>ReinsuranceRecoveries</td></tr><tr><td>Region</td><td>NorthAmerica</td><td>Canada</td><td>USA</td><td>TotalClaims</td><td>PercentageofReserves</td></tr><tr><td>$500M</td><td>1200</td><td>15</td><td>$300M</td><td>$200M</td><td>60%</td></tr></table>"
+  },
+  {
+   "table_id": "img_110447_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    416.0,
+    580.0,
+    522.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_110447_t0.png",
+   "html": "<table><tr><td>EquipmentType</td><td>MaintenanceCost($M)</td><td>YoYChange(%)</td></tr><tr><td>DiagnosticDevices</td><td>15.2</td><td>5.0</td></tr><tr><td>SurgicalInstruments</td><td>12.5</td><td>3.5</td></tr><tr><td>TotalCosts</td><td>27.7</td><td>4.2</td></tr><tr><td>MarketShare(%)</td><td>25.0</td><td>NorthAmerica</td></tr></table>"
+  },
+  {
+   "table_id": "img_110541_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    378.0,
+    580.0,
+    539.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_110541_t0.png",
+   "html": "<table><tr><td>CommercialPipeline</td><td colspan=\"2\">Amount(CHF)</td><td colspan=\"2\">GrowthMetrics</td></tr><tr><td colspan=\"2\">CurrentProjects</td><td colspan=\"2\">FutureProjects</td><td>TotalProjects</td><td colspan=\"2\">MarketInsights</td><td>Trends</td></tr><tr><td>Q12024</td><td>CHF120M</td><td>10.5%</td><td>25%</td><td>Q22024</td><td>CHF140M</td><td>12.0%</td><td>30%</td></tr><tr><td>ProjectA</td><td>CHF30M</td><td>5.0%</td><td>15%</td><td>ProjectB</td><td>CHF50M</td><td>8.0%</td><td>20%</td></tr><tr><td>ProjectC</td><td>CHF40M</td><td>7.5%</td><td>10%</td><td>ProjectD</td><td>CHF60M</td><td>9.0%</td><td>25%</td></tr></table>"
+  },
+  {
+   "table_id": "img_110663_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    368.0,
+    580.0,
+    495.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_110663_t0.png",
+   "html": "<table><tr><td>PerformanceMetrics</td><td colspan=\"2\">InvestmentReturns</td></tr><tr><td>FundStatus</td><td colspan=\"2\">ActiveFunds</td></tr><tr><td>TotalAssets</td><td colspan=\"2\">ProjectedGrowth</td></tr><tr><td>RiskAssessment</td><td colspan=\"2\">RiskLevel</td></tr><tr><td>Rating</td><td>Status</td><td>Amount</td></tr><tr><td>8.5%</td><td>Stable</td><td>€50B</td></tr></table>"
+  },
+  {
+   "table_id": "img_110680_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    432.0,
+    580.0,
+    555.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_110680_t0.png",
+   "html": "<table><tr><td>Product</td><td>UnitsSold</td></tr><tr><td>Revenue</td><td>GrowthRate</td></tr><tr><td>OncologyPortfolio</td><td colspan=\"2\">Total</td></tr><tr><td>Immunotherapy</td><td colspan=\"2\">10,500</td><td colspan=\"2\">$450M</td></tr><tr><td>Chemotherapy</td><td>5,200</td><td>$220M</td><td>Radiotherapy</td><td>3,800</td></tr><tr><td>OncologyDrugA</td><td>4,000</td><td>$180M</td><td>12.5%</td><td>OncologyDrugB</td></tr></table>"
+  },
+  {
+   "table_id": "img_110687_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    243.0,
+    580.0,
+    460.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_110687_t0.png",
+   "html": "<table><tr><td>FranchiseName</td><td>Location</td><td>P/ERatio</td><td>CurrentRatio</td><td colspan=\"2\">FinancialRatios</td></tr><tr><td>TotalRevenue</td><td>NetIncome</td><td>Debt/Equity</td><td>GrossMargin</td><td colspan=\"2\">GrowthMetrics</td><td>MarketShare</td></tr><tr><td>FranchiseCount</td><td>SalesGrowth</td><td>StoreOpenings</td><td>CustomerRetention</td><td>FranchiseeSatisfaction</td><td>OperatingMargin</td><td>ReturnonEquity</td></tr><tr><td>ChocoDelight</td><td>London</td><td>25.5</td><td>1.8</td><td>0.5</td><td>35%</td><td>5%</td></tr><tr><td>CookieKingdom</td><td>Manchester</td><td>22.3</td><td>1.5</td><td>0.4</td><td>30%</td><td>4%</td></tr><tr><td>SnackHaven</td><td>Birmingham</td><td>27.8</td><td>2.1</td><td>0.6</td><td>40%</td><td>6%</td></tr><tr><td>CandyCorner</td><td>Liverpool</td><td>26.1</td><td>1.9</td><td>0.7</td><td>38%</td><td>7%</td></tr><tr><td>BeverageHub</td><td>Edinburgh</td><td>24.0</td><td>1.6</td><td>0.3</td><td>34%</td><td>5%</td></tr></table>"
+  },
+  {
+   "table_id": "img_111000_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    367.0,
+    580.0,
+    543.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_111000_t0.png",
+   "html": "<table><tr><td>Segment</td><td>Premiums</td><td>Claims</td><td>Expenses</td><td colspan=\"2\">ProfitMargin</td></tr><tr><td>LifeInsurance</td><td>200000000</td><td>120000000</td><td>50000000</td><td>10.0%</td><td>Stable</td></tr><tr><td>HealthInsurance</td><td>150000000</td><td>90000000</td><td>40000000</td><td>10.0%</td><td>Growing</td></tr><tr><td>PropertyInsurance</td><td>180000000</td><td>100000000</td><td>60000000</td><td>10.0%</td><td>Stable</td></tr><tr><td>CasualtyInsurance</td><td>120000000</td><td>70000000</td><td>30000000</td><td>10.0%</td><td>Stable</td></tr></table>"
+  }
+ ]
+}

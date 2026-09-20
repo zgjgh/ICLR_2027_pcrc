@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_280",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2007, 8:119"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/8/119"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    685.0
+   ],
+   "ocr": "Table 2 shows the values for the recall and the precision obtained for the predicted active site residues, averaged over the 169 proteins in the test set, for Z score cut-off val- ues ranging from 1.00 through 0.95. A Z score cut-off of 1.00, the value used by Ko [6], achieves a recall of CatRes/ CSA annotated catalytic residues of 41.1% and a precision of 19.4%. When the Z score cut-off is reduced to 0.99, the recall increases to 50.4%; there is only a small concomi- tant drop in the precision, to a value of 17.9%. A Z score cut-off of 0.98 increases the recall to 54.2%, while the pre- cision drops to 16.4%. Further reductions in the Z score cut-off return better sensitivities, up to 62.8% for a 0.95 cut-off, but always with some sacrifice in the precision. Figure 1 represents these data graphically, with precision plotted as a function of the recall for Z score cut-off values between 1.00 and 0.95. Thus a small reduction in the Z score cut-off, from 1.00 to 0.99 or to 0.98, leads to better recall with only a small reduction in precision. In particular, a Z score cut-off value of 0.99 yields a residue recall rate of better than 50% and at the same time gives a favourable precision rate of 17.9%. While THEMATICS is able to predict roughly half of all known catalytic residues, the success rate for the prediction of catalytic sites is much higher. Overall performance for sites First we compare the THEMATICS positive clusters against the CatRes/CSA annotations. The overwhelming majority of these enzymes have at least one ionisable residue labelled in the reference sets as catalytically active. Of the 169 enzymes in the test set, all but four contain one or more ionisable residue(s) annotated in the reference set as catalytically important. We therefore note that, if success is based solely on comparison with the specified reference labels, THEMATICS automatically fails for those four pro- teins, since THEMATICS in its present form only identifies"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    284.9,
+    698.4,
+    922.4
+   ],
+   "ocr": "Figure Precision 1 Versus Recall – THEMATICS predictions for CSA Precision Versus Recall – THEMATICS predictions for CSA. Precision (fraction of predicted residues that are known catalytic residues) as a function of recall (fraction of known catalytic residues that are predicted as positive) for THEMATICS predictions on the annotated set of 169 pro- teins. Known catalytic residues are defined here as only the CatRes/CSA annotated residues. Results are shown for Z score cut-off values of 1.0, 0.99, 0.98, 0.97, 0.96, and 0.95. ionisable residues. However, the percentage of proteins for which such automatic failure occurs is only 2.4%. Following designations used in previous work [51], a site prediction is considered correct if it includes half or more of the annotated catalytic residues. A prediction is consid- ered partially correct if it contains at least one, but less than half, of the annotated catalytic residues. The total success rate for the prediction of sites is the sum of the correct plus partially correct predictions. The success rates and the fil- tration ratio obtained for Z score cut-off values of 1.00, 0.99, and 0.98 are shown in Table 3 for the 169 CatRes enzymes. First our predictions are compared only with the CatRes/CSA annotations, which are the best available from a single source but incomplete. Then additional information about interaction sites from other reference sources is added for further comparison. Using only the CatRes/CSA lists of active site residues as the reference and using a Z score cut-off of 1.00, THEMAT- ICS returns a correct prediction of the active site for 82 out of the 169 enzymes, a partially correct prediction for 49 enzymes, and an incorrect prediction for 38 enzymes. Thus the prediction is correct or partially correct for 131 out of 169 enzymes, or 77.5%, using Ko's [6] Z score cut- off value. Further analysis was performed on the 38 enzymes where THEMATICS (with a Z score cut-off of 1.0) gave an incor- rect prediction, according to the CatRes/CSA annotations. For these enzymes, the list of functionally important resi- dues is augmented using additional information from the SITE field in the PDB file or from related journal articles."
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    722.2,
+    322.9,
+    733.9
+   ],
+   "ocr": "Table 2: Recall and precision of CSA labelled residues."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    744.9,
+    349.0,
+    849.7
+   ],
+   "ocr": "Z Score Cut-off Recall Precision\nZ = 1.00 41.1% 19.4%\nZ = 0.99 50.4% 17.9%\nZ = 0.98 54.2% 16.4%\nZ = 0.97 58.0% 15.5%\nZ = 0.96 61.0% 14.6%\nZ = 0.95 62.8% 13.6%",
+   "table_id": "PMC1877815_table_1"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    865.9,
+    365.4,
+    912.8
+   ],
+   "ocr": "Recall and Precision for THEMATICS predictions of catalytic residues as functions of Z score cut-off for the test set of 169 enzymes. Here only the CatRes/CSA annotations are used as the reference set. Values are averaged over the test set."
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 15 (page number not for citation purposes)"
+  }
+ }
+}

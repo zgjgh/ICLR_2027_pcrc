@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_090",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    38.8,
+    53.8,
+    374.4,
+    65.3
+   ],
+   "ocr": "R60.6 Genome Biology 2005, Volume 6, Issue 7, Article R60 Magness et al."
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    533.9,
+    53.9,
+    698.0,
+    65.3
+   ],
+   "ocr": "http://genomebiology.com/2005/6/7/R60"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.9,
+    107.2,
+    297.7,
+    142.7
+   ],
+   "ocr": "Table 4 Estimate of Macaca mulatta nucleotide diversity"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.9,
+    158.5,
+    673.3,
+    586.4
+   ],
+   "ocr": "Gene Comparative length Number of animals Nucleotide diversity (π)\nACTB 1,067 5 0.00110\nACTG1 708 6 0.00290\nAPOA1 746 2 0.00200\nAPOA2 431 2 0.00350\nATF4 469 4 0.00160\nB2M 439 7 0.00000\nC15orf15 860 3 0.00117\nCAP1 667 5 0.00127\nCCNI 547 4 0.00000\nCDC10 693 3 0.00190\nCTSB 967 4 0.00078\nEEF1A1 865 7 0.00235\nEEF1G 771 6 0.00000\nENO1 793 5 0.00100\nFTH1 775 5 0.00100\nPPID 891 3 0.00148\nRPL14 657 5 0.00457\nRPL15 631 4 0.00264\nRPL3 796 6 0.00339\nRPS20 483 4 0.00155\nSLC25A5 749 3 0.00088\nTPT1 740 7 0.00000\nTXNIP 614 3 0.00000\nUBC 824 6 0.00281\nMean 0.00158\nSD 0.00125",
+   "table_id": "PMC1175991_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.9,
+    641.1,
+    390.7,
+    967.1
+   ],
+   "ocr": "between macaque and human does not significantly deviate from the mean over all classes. Sequence divergence within and among macaque species Our dataset includes sequence data from nine M. mulatta, one M. fascicularis, and one M. nemestrina. The breadth of the dataset provides an opportunity to conduct a preliminary analysis of the polymorphism frequency within M. mulatta and the degree of nucleotide divergence between macaque species. We estimated the polymorphism frequency within M. mulatta by assembling sequencing reads from multiple ani- mals for the same gene using phrap [9]. Polymorphisms were identified by a modified version of phred that calls two alleles at each base in the assembly and assigns each allele a quality score based on combined phred quality values (C.M., unpub- lished work). High-scoring polymorphisms were manually verified and are presented in Table 4 for a sample of 24 genes. This analysis includes both coding and noncoding transcribed sequences. The average nucleotide diversity (π) for this gene Genome Biology"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    393.6,
+    641.1,
+    701.9,
+    967.1
+   ],
+   "ocr": "set in M. mulatta is 15.8 ± 12.5 × 10-4 [25]. A large standard deviation in nucleotide diversity across genes is consistent with reports from other primate species [26-28]. The animals included in this analysis were primarily bred from wild- caught parents of Indian origin. A more comprehensive determination of nucleotide diversity will require sequence data from a greater number of genes and animals from multi- ple geographic locations. We were also able to evaluate the degree of nucleotide sequence divergence between the three macaque species for a sample of 21 genes in this dataset (Table 5). Phred and phrap were again used to assemble overlapping sequences from multiple species and to identify species-specific variants that were then manually confirmed. Given the high degree of nucleotide similarity among the species and the small sample size, the three species did not differ beyond the measured standard deviations. However, M. mulatta and M. fascicula- ris appear more closely related to each other than either is to M. nemestrina, with an average sequence divergence between 2005, 6:R60"
+  }
+ }
+}

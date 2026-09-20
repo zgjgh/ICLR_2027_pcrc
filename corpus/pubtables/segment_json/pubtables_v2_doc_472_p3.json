@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_472",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    41.8,
+    288.5,
+    65.8
+   ],
+   "ocr": "Wen et al. BMC Systems Biology 2015, 9(Suppl 5):S4 http://www.biomedcentral.com/1752-0509/9/S5/S4"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.1,
+    42.0,
+    678.5,
+    53.3
+   ],
+   "ocr": "Page 5 of 11"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    372.1,
+    124.0
+   ],
+   "ocr": "Table 3 Top 10 genes of the combined signature and their"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    375.9,
+    111.0,
+    485.1,
+    124.0
+   ],
+   "ocr": "scores in all datasets."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    675.5,
+    292.5
+   ],
+   "ocr": "ProbeID GeneSymbol GSE21510S2*3 GSE41258S2*3 GSE21510S4 GSE41258S4 GSE49355S4 TotalScore OverallRank\n203908 at SLC4A4 -0.9933 -0.9847 0 -0.9895 -0.9883 -3.9557 1\n207502 at GUCA2B -0.9904 -0.9973 0 -0.9797 -0.9826 -3.9500 2\n207003 at GUCA2A -0.9627 -0.9989 0 -0.9822 -0.9513 -3.8951 3\n205480 s at UGP2 -0.9912 -0.9732 0 -0.9197 -0.9996 -3.8836 4\n205950 s at CA1 -0.9974 -0.8872 0 -0.9959 -0.9352 -3.8159 5\n212942 s at KIAA1199 0.9472 0.9962 0 0.8775 0.9926 3.8135 6\n203961 at NEBL 0.9788 0.9639 0 0.8508 0.9887 3.7821 7\n219909 at MMP28 -0.9332 -0.9995 0 -0.8856 -0.9613 -3.7796 8\n213766 × at GNA11 -0.9973 -0.9037 0 -0.9059 -0.9609 -3.7677 9\n202370 s at CBFB 0.9886 0.8933 0 0.9335 0.9522 3.7676 10",
+   "table_id": "PMC4565135_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    316.5,
+    366.1,
+    917.6
+   ],
+   "ocr": "4 Select the top m genes from the ranked list obtained from the differential expression analysis with multiple datasets discussed above. 5 Use the gene signature of the top m genes to query sscMap, and check how many drugs have significant connections to this query signature. As we are looking for potential drugs to inhibit the disease, we only con- sider compounds in the desirable direction of action, ie, those with negative connection scores. 6 If FDR = Efp/Ns > 0.10 , increase the number of genes m by 1 and go to step 5. 7 Until FDR becomes ≤ 0.10, or the ranked significant genes from differential expression analysis have been exhausted, the process is stopped. At this point, the optimal length of the gene signature and at least 10 top significant drugs will be obtained as the result of gene signature progression. Results Significant genes result Paired-sample T-tests were carried out on 5 subdatasets individually. The genes in each dataset were ranked and scored using the methods described. In dataset GSE21510S2*3, 4025 genes were identified as significant with a non-zero score. GSE41258S2*3 had 929 significant genes, GSE21510S4 had 7, GSE41258S4 had 663, and GSE49355S4 had 1323. The combined signature had 4757 significant genes with a non-zero score (Table 1). As a result of the ranking and progression procedures described above, the signature with the top 148 genes from the overall ranked list identified 10 significant drugs with a FDR ≤ 0.10, which was the pre-set FDR threshold. The supplementary information includes the full list of genes, their scores in individual datasets and their overall scores. SLC4A4, GUCA2B, KIAA1199 and MMP28 are among the top 10 significant genes in the combined sig- nature. Their differential expression in colorectal cancer have also been reported in the literature. SLC4A4 is the top gene in our combined signature, with the highest"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    316.5,
+    678.6,
+    917.6
+   ],
+   "ocr": "absolute overall score, but the sign of the score is nega- tive, which is in agreement with data from the Cancer Genome Atlas (TCGA) showing that SLC4A4 mRNA level is decreased in colon adenocarcinomas [19]. GUCA2B, a gene coding for uroguanylin, has been found to be down regulated by 8-fold in adenoma [20]. It has also been proposed as a noninvasive biomarker for early CRC detection [21]. Moreover, radio-labeled uroguanylin analogs have been used in vivo to detect CRC [22]. KIAA1199 is the sixth significant gene in the combined signature, which is significantly up-regulated in the colorectal cancer tumour sample. It has been found that suppression of KIAA1199 weakens Wnt- signalling and inhibits the proliferation of colon cancer cells [23]. MMP28 (Matrix metalloproteinase 28) is the 8th significant gene in the combined signature with a negative score as it is significantly down-regulated in the colorectal cancer tumour samples. Consistent with our finding here, the downregulation of MMP28 in colorec- tal cancers has been validated in detailed analysis of MMP gene expression patterns [24]. All these relevant findings suggest that the 148 genes selected from pro- gression procedure play important roles in colorectal cancer, therefore may be considered as potential thera- peutic targets for drug development. Significant drugs result The top 148 genes by the combined ranking formed the the optimal gene signature as determined by the gene signature progression method. This gene signa- ture represented an accurate characterization of colon cancer disease phenotype, which returned from con- nectivity mapping 10 potential drugs for CRC treat- ment. These include trichostatin A, vorinostat, HC toxin, sodium phenylbutyrate, mycophenolic acid, iri- notecan, etoposide, valproic acid, arachidonic acid, and rifabutin. Figure 1 shows the results of sscMapping using this CRC gene signature, where the significant drug hits are shown as solid red circles above the threshold blue line."
+  }
+ }
+}

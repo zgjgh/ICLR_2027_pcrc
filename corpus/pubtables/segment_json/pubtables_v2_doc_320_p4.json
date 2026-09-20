@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_320",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    56.3,
+    285.5,
+    81.3
+   ],
+   "ocr": "Xu et al. BMC Genomics 2010, 11:246 http://www.biomedcentral.com/1471-2164/11/246"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    626.5,
+    56.7,
+    677.7,
+    68.8
+   ],
+   "ocr": "Page 9 of 17"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    125.2,
+    413.8,
+    139.2
+   ],
+   "ocr": "Table 4: Top 20 differentially expressed miRNAs between WT and MT"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    83.9,
+    149.5,
+    665.4,
+    824.3
+   ],
+   "ocr": "miRNA Sequence Fold change p-value\nWT counta MT counta\nHigher expression in MT\ncsi-miR479 UGUGAUAUUGG 1341.6 1921.5 1.9 0\nUUCGGCUCAUC\ncsi-miR156a UGACAGAAGAGA 856.2 1656.1 2.6 0\nGUGAGCAC\ncsi-miR167a UGAAGCUGCCAG 759.6 1967.3 21.6 0\nCAUGAUCUA\ncsi-miR171b CGAGCCGAAUCA 28.5 615.4 4.5 0\nAUAUCACUC\ncsi-novel-08 UAGAUAAAGAU 220.1 1248.5 1.5 0\nGAGAGAAAAA\ncsi-miR166j UCUCGGACCAGG 1682.9 2078.5 3.1 2.85E-22\nCUUCAUUCC\nLower expression in MT\ncsi-miR482a UCUUCCCUAUGC 103.9 4.2 15.6 0\nCUCCCAUUCC\ncsi-miR162a UCGAUAAACCUC 401.0 25.7 12.4 0\nUGCAUCCAG\ncsi-miR159a UUUGGAUUGAA 307.8 24.8 3.5 0\nGGGAGCUCUA\ncsi-miR390a AAGCUCAGGAGG 822.2 235.8 2.5 0\nGAUAGCGCC\ncsi-miR164a UGGAGAAGCAG 1894.0 749.0 1.6 0\nGGCACGUGCA\ncsi-miR167d UGAAGCUGCCAG 1362.3 825.8 1.4 0\nCAUGAUCUGA\ncsi-miR172a AGAAUCUUGAU 4688.4 3299.7 1.4 0\nGAUGCUGCAU\ncsi-novel-11 UGGACAGAGAAA 591.5 132.7 5.7 0\nUCACGGUCA\ncsi-miR156b CUGACAGAAGAC 41.3 1.8 2.5 2.86E-27\nAGUGAGCAC\ncsi-miR473a ACUCUCCCUCAA 168.1 68.1 1.2 2.01E-26\nGGGCUUCGC\ncsi-novel-03 UGAAGGGCCUU 90.5 29.6 8.1 2.87E-20\nUCUAGAGCAC\ncsi-miR399a UGCCAAAGGAGA 36.3 4.5 13.8 3.14E-18\nAUUGCCCUG\ncsi-miR482c UCUUGCCCACCC 29.0 2.1 15.6 8.98E-18\nCUCCCAUUCC\nCsi-miR164d UGGAGAAGCAG 49.1 11.1 4.4 7.6E-17\nGGCACGUGCU",
+   "table_id": "PMC2864249_table_3"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    84.0,
+    829.8,
+    314.4,
+    841.9
+   ],
+   "ocr": "a count was normalized as transcripts per million (TPM)."
+  }
+ }
+}

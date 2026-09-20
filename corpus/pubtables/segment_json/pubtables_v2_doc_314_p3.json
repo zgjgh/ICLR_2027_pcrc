@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_314",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    226.1,
+    65.5
+   ],
+   "ocr": "BMC Plant Biology 2009, 9:135"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    49.8,
+    698.3,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2229/9/135"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    362.3,
+    131.1
+   ],
+   "ocr": "Table 3: Information for six markers that were analyzed in the approach."
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    365.1,
+    107.2,
+    685.1,
+    119.1
+   ],
+   "ocr": "(Valmaine × Salinas 88) × Salinas mapping population with the HRM"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    141.9,
+    692.8,
+    337.5
+   ],
+   "ocr": "Marker EST/Contig in CGPDB Primer (5' - 3') Ta (°C) Mg (mM) Amplicon size (bp)\nLK1457 QG_CA_Contig4638 F - AGGAGCAAAGGAAAGGCTTC 64 3 636-648\nR - TGCAACTTCTTCAGCCAATG\nCntg4252 CLS_S3_Contig4252 F - AGAACCAGGTCGAATCATGG 61 1.5 208\nR - TTCTCGCCGTTGAGAAGAAT\nProbe - AAGTGGCTATACAGCTTTGATCATAACGA\nCntg10192 CLS_S3_Contig10192 F - CTCGTTTTCAACACCGACAA 61 1.5 185\nR - TAGGTGGGTCCGACTTTGAG\nCLSM9959 CLSM9959.b1_N18.ab1 F - TGCTCAATTACACTCGAACCA 61 1.5 326\nR - CTTCATGGAGAGAAATACAAGGTC\nCLSZ1525 CLSZ1525.b1_J22.ab1 F - GAAGAAACTCATGAATCTGCTCAA 62 3 157-158\nR - TTTGCTCAAGAACTCTTAAACCATT\nCntg11275 CLS_S3_Contig11275 F - CCAAACCATAGGGACGAAAA 61 1.5 252-260\nR - GGAGGTATGTTGAGGTACATGAC",
+   "table_id": "PMC2789080_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    353.6,
+    397.4,
+    907.5
+   ],
+   "ocr": "Marker Cntg4252 was analyzed in combination with a probe. Polymorphisms electrophoresis. All information for these is the same as in Table 2. samples were subjected, after the final extension, to 95° for 30 s followed by cooling to 25° for 30 s. Simulation of a heterozygote was achieved by mixing equal amounts of DNA from the two parental homozygous cultivars before PCR amplification. Melting-curve analysis was performed in a 96-well plate (HSP-9665, Biorad, Hercules, CA) on a LightScanner System and with the LightScanner software v. 2.0.0.1331 (both from Idaho Technology). Melting curves were analyzed as described in the LightScanner software manual. Linkage mapping One hundred and ninety two RILs derived from a cross between an F1 of cv. Valmaine × cv. Salinas 88 and cv. Sali- nas were genotyped with EST-derived markers. Selection of markers for this first round of genotyping was based on the molecular linkage map developed from an interspe- cific cross between L. sativa cv. Salinas and Lactuca serriola accession UC96US23 [17,18]. Twenty markers were selected to evenly cover linkage group 2 in intervals of approximately 10 to 20 cM. After preliminary mapping of the resistance gene, the region containing Tvr1 was satu- rated with markers originating from a microarray-based study also carried out on the Salinas × UC96US23 popu- lation [17]. Marker polymorphism was tested with HRM analysis, unless the difference between segregating alleles could be visually observed using gel electrophoresis. If polymorphism could not be observed with HRM analysis, PCR products from the two parental genotypes were sequenced and new primers were designed for HRM. Sta- tistical analysis of the linkage between molecular markers and dieback resistance was performed by MapManager QTX software [19]. Dieback resistance for each RIL was considered as a bi-allelic qualitative trait (resistant or sus- ceptible) and used for linkage analysis."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    353.6,
+    698.4,
+    877.8
+   ],
+   "ocr": "for three markers that are not shown in the table were detected by Association mapping and assessment of population structure Association mapping was performed on a set of 68 acces- sions from seven horticultural types of lettuce (Table 1). In the first step, markers closely linked to the Tvr1 gene were amplified from each accession and sequenced. In the second step, the sequenced amplicons were analyzed for polymorphism with the CodonCode software and input- ted into Haploview v. 4.2 [20]. Intra-locus SNPs were tagged in Haploview with the Tagger function at r2 = 1. Untagged SNPs from all markers and a representative SNP for each tag were then entered into TASSEL v. 2.0.1 [21]. TASSEL was subsequently used to test for association between individual SNPs and resistance to dieback while accounting for the population structure. Both p-values for each SNP and percent of phenotypic variation explained by the model (R2) were calculated with TASSEL after 100,000 permutations. Prior to association analysis, the population structure in the set of 68 accessions was assessed with thirty EST-SSR markers distributed throughout the genome [14] using the computer program STRUCTURE 2.2 [22]. Ten runs of STRUCTURE were done by setting the number of popula- tions (K) from 1 to 15. For each run, the number of itera- tions and burn-in period iterations were both set to 200,000. The ad hoc statistic [23] was used to estimate the number of subpopulations. The optimum number of sub- populations (K = 5) was subsequently used to calculate the fraction of each individual's genome (qk) that origi- nates from each of the five subpopulations. The qk values obtained from STRUCTURE were used as covariates in the statistical model given by TASSEL."
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 6 of 16 (page number not for citation purposes)"
+  }
+ }
+}

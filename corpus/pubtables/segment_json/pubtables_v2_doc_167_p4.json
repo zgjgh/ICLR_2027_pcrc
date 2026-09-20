@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_167",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    260.5,
+    53.4
+   ],
+   "ocr": "Prielhofer et al. BMC Genomics (2015) 16:167"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 9 of 17"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    390.8,
+    124.4
+   ],
+   "ocr": "Table 4 Transcriptional regulation of transcriptional regulators"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    778.4
+   ],
+   "ocr": "Short name Pp Description G-D G-D M-D M-D X-D X-D\nlogFC adjPV logFC adjPV logFC adjPV\nPAS_chr4_0340 Fungal specific transcription factor domain; Zn2/Cys6 DNA-binding domain 0.35 * 0.72 *** 1.50 ***\nCAT8-2 Zinc cluster transcriptional activator; necessary for derepression of a variety −0.07 2.72 *** 5.27 ***\nof genes under non-fermentative growth conditions in S. cerevisiae\nYAP1 Basic leucine zipper (bZIP) transcription factor; required 0.27 1.13 *** 1.64 ***\nfor oxidative stress tolerance\nPAS_chr1-4_0516 Putative transcription factor 0.94 7.81 *** 7.86 ***\nMPP1 Fungal Zn2/Cys6 DNA-binding domain; homolog to Hansenula polymorpha 0.90 *** 6.34 *** 6.99 ***\ntranscription factor involved in peroxisome biogenesis/degradation\nAFT1 Transcription factor, possibly involved in carbohydrate metabolism 2.17 *** 3.68 *** 5.16 ***\nYPR022C-3 Putative transcription factor 1.57 *** 2.33 *** 4.55 ***\nPAS_chr3_0348 Helix-loop-helix DNA-binding domain 0.06 0.29 3.69 ***\nADR1/MXR1 Carbon source-responsive zinc-finger transcription factor, 1.34 *** 1.61 *** 2.16 ***\nrequired for transcription of the glucose-repressed gene ADH2,\nof peroxisomal protein genes, and of genes required for\nethanol, glycerol, and fatty acid utilization\nRSF2/ROP Zinc-finger protein; involved in transcriptional control of −0.10 1.85 *** −0.24\nboth nuclear and mitochondrial genes in S. cerevisiae\nPpTRM1 Zn(II)2Cys6-type transcription factor involved in the positive -0.14 0.74 *** 0.34 *\nregulation of methanol utilization genes in P. pastoris and C. boidinii\nSNF1 AMP-activated serine/threonine protein kinase; found in a complex 0.39 ** 0.61 ** 1.42 ***\ncontaining Snf4p and members of the Sip1p/Sip2p/Gal83p family;\nrequired for transcription of glucose-repressed genes, thermotolerance,\nsporulation, and peroxisome biogenesis in S. cerevisiae\nSNF2 Catalytic subunit of the SWI/SNF chromatin remodeling complex 0.13 0.40 ** −0.37 **\ninvolved in transcriptional regulation; contains DNA-stimulated\nATPase activity\nSNF4 Activating gamma subunit of the AMP-activated Snf1p kinase complex 0.19 0.35 0.76 ***\nMIG1-1 Transcription factor involved in glucose repression in S. cerevisiae; 0.57 * 1.09 ** 3.09 ***\nregulated by the Snf1p kinase and the Glc7p phosphatase;\nMIG1-2 Transcription factor involved in glucose repression in S. cerevisiae; −0.76 ** −1.23 *** −0.56 ***\nregulated by the Snf1p kinase and the Glc7p phosphatase;\nSIP2 One of three beta subunits of the Snf1 kinase complex in S. cerevisae 0.00 −0.14 0.65 ***\nRDS2 Transcription factor involved in regulating gluconeogenesis −0.07 0.20 0.83 ***\nand glyoxylate cycle genes; member of the zinc cluster family\nof proteins; confers resistance to ketoconazole in S. cerevisiae\nPAS_chr1-3_0274 Fungal specific transcription factor; Zn2/Cys6 0.11 0.29 0.90 ***\nDNA-binding domain\nPAS_chr4_0324 Fungal specific transcription factor; Zn2/Cys6 DNA-binding domain −3.07 *** −2.99 *** −3.47 ***\nCTH1 Member of the CCCH zinc finger family −2.54 *** −2.81 *** −2.92 ***\nPAS_chr1-1_0422 Myb/SANT-like DNA-binding domain −0.13 −0.57 −2.56 ***\nPAS_chr3_1209 Helix-loop-helix DNA-binding domain 0.16 −0.21 −2.56 ***\nPAS_chr1-1_0122 Helix-loop-helix DNA-binding domain −0.93 −0.57 −2.33 ***",
+   "table_id": "PMC4408588_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    784.7,
+    372.9,
+    926.2
+   ],
+   "ocr": "Log2 fold changes and adjusted P-values (* adjPV < 0.1; ** adjPV < 0.05; *** adjPV genes are in bold letters, down-regulated genes in bold and italics. S. cerevisiae, Crabtree-negative yeasts are dependent on respiratory processes even in excess glucose. Conse- quently, the expression of mitochondrial genes is not in- duced in the presence of non-fermentable carbon-sources in P. pastoris (Additional file 1: Table S4). However, sev- eral subunits of respiratory complex I [54], which is not present in S. cerevisiae, appear to be de-repressed."
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    374.7,
+    784.7,
+    675.7,
+    794.6
+   ],
+   "ocr": "< 0.01) are shown (see Additional file 1: Table S1 for detailed data). Up-regulated"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    822.2,
+    678.6,
+    926.2
+   ],
+   "ocr": "Methanol utilization and peroxisomal genes are subject to carbon substrate repression Unexpectedly, the transcript levels of most genes involved in methanol utilization (MUT) are not only highly induced in methanol-grown cells but also in glucose-limited cells (Table 6). The transcript level of AOX1 is almost equally high in both conditions. This observation correlates well"
+  }
+ }
+}

@@ -1,0 +1,5292 @@
+{
+  "docs": {
+    "ADS_2010": {
+      "conditions": [
+        {
+          "condition_id": "ADS_2010_c01",
+          "condition": "Is the company's income from continuing operations before income taxes consistently higher in 2009 compared to 2008?",
+          "gold_yes_tables": [
+            9195
+          ]
+        },
+        {
+          "condition_id": "ADS_2010_c02",
+          "condition": "Did the table report any credit card receivables restricted for securitization investors?",
+          "gold_yes_tables": [
+            9166
+          ]
+        },
+        {
+          "condition_id": "ADS_2010_c03",
+          "condition": "Did the total property and equipment exceed $400,000 at the end of 2009?",
+          "gold_yes_tables": [
+            9175
+          ]
+        },
+        {
+          "condition_id": "ADS_2010_c04",
+          "condition": "Did the table show detailed revenue data for each geographic area?",
+          "gold_yes_tables": [
+            9193
+          ]
+        },
+        {
+          "condition_id": "ADS_2010_c05",
+          "condition": "Did the accrued payroll and benefits increase between 2009 and 2010?",
+          "gold_yes_tables": [
+            9179
+          ]
+        },
+        {
+          "condition_id": "ADS_2010_c06",
+          "condition": "Was there any Principal receivables listed in the table?",
+          "gold_yes_tables": [
+            9167
+          ]
+        },
+        {
+          "condition_id": "ADS_2010_c07",
+          "condition": "Was there a decrease in the balance of unrecognized tax benefits from December 31, 2008 to December 31, 2009?",
+          "gold_yes_tables": [
+            9187
+          ]
+        }
+      ]
+    },
+    "AMZN_2003": {
+      "conditions": [
+        {
+          "condition_id": "AMZN_2003_c01",
+          "condition": "Does the table show that all amounts recorded as accounts receivable, including those associated with unearned revenue, are legally due and contractually enforceable?",
+          "gold_yes_tables": [
+            61901
+          ]
+        },
+        {
+          "condition_id": "AMZN_2003_c02",
+          "condition": "Did gross gains from the sales of available-for-sale marketable securities exceed $9 million in 2002?",
+          "gold_yes_tables": [
+            61899
+          ]
+        },
+        {
+          "condition_id": "AMZN_2003_c03",
+          "condition": "Are there different types of convertible notes listed in the table?",
+          "gold_yes_tables": [
+            61902
+          ]
+        },
+        {
+          "condition_id": "AMZN_2003_c04",
+          "condition": "Is the total amount in 'Total long-term capital lease obligations' $1,159?",
+          "gold_yes_tables": [
+            61905
+          ]
+        },
+        {
+          "condition_id": "AMZN_2003_c05",
+          "condition": "Does the estimated fair value of asset-backed and agency securities with various maturities exceed its amortized cost?",
+          "gold_yes_tables": [
+            61898
+          ]
+        }
+      ]
+    },
+    "AMZN_2004": {
+      "conditions": [
+        {
+          "condition_id": "AMZN_2004_c01",
+          "condition": "Did the table include antidilutive effects for restricted stock when calculating diluted loss per share?",
+          "gold_yes_tables": [
+            61948
+          ]
+        },
+        {
+          "condition_id": "AMZN_2004_c02",
+          "condition": "Did the company hold commercial paper and short-term obligations valued at $122,073 as of December 31, 2004?",
+          "gold_yes_tables": [
+            61939
+          ]
+        },
+        {
+          "condition_id": "AMZN_2004_c03",
+          "condition": "Did the company generate positive free cash flow in 2004?",
+          "gold_yes_tables": [
+            61938
+          ]
+        },
+        {
+          "condition_id": "AMZN_2004_c04",
+          "condition": "Is the estimated fair value greater than the amortized cost for investments due within one year?",
+          "gold_yes_tables": [
+            61951
+          ]
+        },
+        {
+          "condition_id": "AMZN_2004_c05",
+          "condition": "Did the table show any positive operating income?",
+          "gold_yes_tables": [
+            61937
+          ]
+        },
+        {
+          "condition_id": "AMZN_2004_c06",
+          "condition": "Was there a decrease in the total accumulated depreciation from 2003 to 2004?",
+          "gold_yes_tables": [
+            61952
+          ]
+        },
+        {
+          "condition_id": "AMZN_2004_c07",
+          "condition": "In 2004, was there a net income (loss) of $588,451 before adjusting for stock-based compensation?",
+          "gold_yes_tables": [
+            61947
+          ]
+        }
+      ]
+    },
+    "AMZN_2006": {
+      "conditions": [
+        {
+          "condition_id": "AMZN_2006_c01",
+          "condition": "Did the company report revenue growth in both its North America and International segments in 2006?",
+          "gold_yes_tables": [
+            61983
+          ]
+        },
+        {
+          "condition_id": "AMZN_2006_c02",
+          "condition": "Did the foreign-currency gain on remeasurement of 6.875% PEACS produce a positive result in any of the years 2004, 2005, or 2006?",
+          "gold_yes_tables": [
+            62017
+          ]
+        },
+        {
+          "condition_id": "AMZN_2006_c03",
+          "condition": "Did the Media segment in North America have a year-over-year percentage growth of more than 15%?",
+          "gold_yes_tables": [
+            61991
+          ]
+        },
+        {
+          "condition_id": "AMZN_2006_c04",
+          "condition": "Was there cash provided by operating activities in all three years?",
+          "gold_yes_tables": [
+            61985
+          ]
+        },
+        {
+          "condition_id": "AMZN_2006_c05",
+          "condition": "Did Shipping revenue increase year over year?",
+          "gold_yes_tables": [
+            61990
+          ]
+        },
+        {
+          "condition_id": "AMZN_2006_c06",
+          "condition": "Are there any entries for operating and capital commitments in the year 2009?",
+          "gold_yes_tables": [
+            61986
+          ]
+        },
+        {
+          "condition_id": "AMZN_2006_c07",
+          "condition": "Is there a positive change in net income from 2002 to 2006?",
+          "gold_yes_tables": [
+            61984
+          ]
+        }
+      ]
+    },
+    "AMZN_2007": {
+      "conditions": [
+        {
+          "condition_id": "AMZN_2007_c01",
+          "condition": "Did the diluted share computation for the year 2007 include assumptions regarding the exercise price of stock options?",
+          "gold_yes_tables": [
+            61730
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c02",
+          "condition": "Did the table report a restricted stock unit award in 2007?",
+          "gold_yes_tables": [
+            61740
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c03",
+          "condition": "Was the total number of units outstanding at the end of 2007 higher than at the end of 2005?",
+          "gold_yes_tables": [
+            61741
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c04",
+          "condition": "Does the table specify the total number of common stock shares issuable upon conversion?",
+          "gold_yes_tables": [
+            61743
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c05",
+          "condition": "Is the 'Notes to Consolidated Financial Statements' section listed?",
+          "gold_yes_tables": [
+            61727
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c06",
+          "condition": "Is the table listing long-term debt items?",
+          "gold_yes_tables": [
+            61735
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c07",
+          "condition": "Did the table indicate that the total long-term capital lease obligations were $62 million?",
+          "gold_yes_tables": [
+            61737
+          ]
+        },
+        {
+          "condition_id": "AMZN_2007_c08",
+          "condition": "Is the amortized cost for items due within one year exactly $1,818?",
+          "gold_yes_tables": [
+            61733
+          ]
+        }
+      ]
+    },
+    "AMZN_2016": {
+      "conditions": [
+        {
+          "condition_id": "AMZN_2016_c01",
+          "condition": "Did the 'International' segment include locations used for fulfillment, data centers, and other purposes?",
+          "gold_yes_tables": [
+            62053
+          ]
+        },
+        {
+          "condition_id": "AMZN_2016_c02",
+          "condition": "Did the total consolidated net sales growth in 2016 exceed 20%?",
+          "gold_yes_tables": [
+            62055
+          ]
+        }
+      ]
+    },
+    "ATO_2016": {
+      "conditions": [
+        {
+          "condition_id": "ATO_2016_c01",
+          "condition": "Was there a significant change in the benefit obligation at the end of the year?",
+          "gold_yes_tables": [
+            144278
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c02",
+          "condition": "Did the table include a row indicating a global security for the 4.125% Senior Notes due?",
+          "gold_yes_tables": [
+            144309
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c03",
+          "condition": "Did the table include the fair value of assets and liabilities that are part of the disposal group as of September 30, 2016?",
+          "gold_yes_tables": [
+            144303
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c04",
+          "condition": "Did the unbilled revenue increase between 2015 and 2016?",
+          "gold_yes_tables": [
+            144285
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c05",
+          "condition": "Does the table provide the total fair value of all investments?",
+          "gold_yes_tables": [
+            144282
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c06",
+          "condition": "Were there any Level 1 investments reported at fair value in the table?",
+          "gold_yes_tables": [
+            144283
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c07",
+          "condition": "Did the company increase its regulatory assets in 2016 compared to 2015?",
+          "gold_yes_tables": [
+            144287
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c08",
+          "condition": "Did the table explicitly list the service cost component for fiscal years 2016, 2015, and 2014?",
+          "gold_yes_tables": [
+            144280
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c09",
+          "condition": "Is the net property, plant and equipment equal to $13,000?",
+          "gold_yes_tables": [
+            144304
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c10",
+          "condition": "Does the 2016 fiscal year include a service cost in the net periodic pension cost?",
+          "gold_yes_tables": [
+            144275
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c11",
+          "condition": "Did the percentage of assets invested in diversified investment funds remain above 95% from 2015 to 2016?",
+          "gold_yes_tables": [
+            144277
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c12",
+          "condition": "Did the amount reclassified from accumulated other comprehensive income under operation and maintenance expense affect the line item in the statement of income?",
+          "gold_yes_tables": [
+            144267
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c13",
+          "condition": "Were any restricted stock units granted in 2015?",
+          "gold_yes_tables": [
+            144284
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c14",
+          "condition": "Did the company have a total negative impact on purchased gas cost?",
+          "gold_yes_tables": [
+            144298
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c15",
+          "condition": "Did the table report a positive gross profit for the quarter ended December 31 of Fiscal Year 2016?",
+          "gold_yes_tables": [
+            144305
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c16",
+          "condition": "Is there a value listed for the year 2017?",
+          "gold_yes_tables": [
+            144290
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c17",
+          "condition": "Does the table list both domestic and foreign equity mutual funds under the 'Gross Unrealized Gain' and 'Gross Unrealized Loss' columns?",
+          "gold_yes_tables": [
+            144302
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c18",
+          "condition": "Did the ending balance of unrecognized tax benefits increase from 2015 to 2016?",
+          "gold_yes_tables": [
+            144293
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c19",
+          "condition": "Was there an increase in the postretirement benefit obligation between the beginning and end of the year?",
+          "gold_yes_tables": [
+            144281
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c20",
+          "condition": "Does the table show the net periodic pension cost broken down into service cost, interest cost, expected return on assets, amortization of prior service credit, and recognized actuarial loss?",
+          "gold_yes_tables": [
+            144271
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c21",
+          "condition": "Does the total deferred tax assets exceed the total deferred tax liabilities for both years?",
+          "gold_yes_tables": [
+            144292
+          ]
+        },
+        {
+          "condition_id": "ATO_2016_c22",
+          "condition": "Did the table show a discount rate of 3.73% in 2016?",
+          "gold_yes_tables": [
+            144270
+          ]
+        }
+      ]
+    },
+    "BXP_2003": {
+      "conditions": [
+        {
+          "condition_id": "BXP_2003_c01",
+          "condition": "Is the Entity 'BP 140 Kendrick Street LLC' listed in the table with a 25% ownership?",
+          "gold_yes_tables": [
+            57191
+          ]
+        },
+        {
+          "condition_id": "BXP_2003_c02",
+          "condition": "Is there a revenue amount listed for Midtown Manhattan?",
+          "gold_yes_tables": [
+            57197
+          ]
+        },
+        {
+          "condition_id": "BXP_2003_c03",
+          "condition": "Did the company's revenue exceed $900,000 in 2005?",
+          "gold_yes_tables": [
+            57196
+          ]
+        },
+        {
+          "condition_id": "BXP_2003_c04",
+          "condition": "Did any segment report rental revenue of greater than $200,000?",
+          "gold_yes_tables": [
+            57198
+          ]
+        }
+      ]
+    },
+    "BXP_2008": {
+      "conditions": [
+        {
+          "condition_id": "BXP_2008_c01",
+          "condition": "Did the exchangeable senior notes issued by the company include provisions for adjusting the exchange rate due to dividends?",
+          "gold_yes_tables": [
+            57131
+          ]
+        },
+        {
+          "condition_id": "BXP_2008_c02",
+          "condition": "Does the table include the total amount of $2,038,899?",
+          "gold_yes_tables": [
+            57108
+          ]
+        },
+        {
+          "condition_id": "BXP_2008_c03",
+          "condition": "Does this table show multiple sources of net proceeds from asset sales?",
+          "gold_yes_tables": [
+            57104
+          ]
+        },
+        {
+          "condition_id": "BXP_2008_c04",
+          "condition": "Did net income available to common shareholders exceed $100,000 in 2008?",
+          "gold_yes_tables": [
+            57110
+          ]
+        },
+        {
+          "condition_id": "BXP_2008_c05",
+          "condition": "Is there a significant change in the total debt composition between 2007 and 2006?",
+          "gold_yes_tables": [
+            57102
+          ]
+        },
+        {
+          "condition_id": "BXP_2008_c06",
+          "condition": "Was there an increase in the total amount of debt outstanding between December 31, 2007 and December 31, 2008?",
+          "gold_yes_tables": [
+            57099
+          ]
+        },
+        {
+          "condition_id": "BXP_2008_c07",
+          "condition": "Does the table show the total contractual obligations for different years?",
+          "gold_yes_tables": [
+            57112
+          ]
+        }
+      ]
+    },
+    "CHD_2009": {
+      "conditions": [
+        {
+          "condition_id": "CHD_2009_c01",
+          "condition": "Did the increase in Consumer Domestic net sales in 2009 primarily result from higher volumes and prices rather than acquisitions?",
+          "gold_yes_tables": [
+            147768
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c02",
+          "condition": "Did the table accurately represent the total number of common stockholders of Church & Dwight as of December 31, 2009?",
+          "gold_yes_tables": [
+            147763
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c03",
+          "condition": "Was there a plant asset impairment charge of $6.9 million in the Specialty Products Division segment in 2009?",
+          "gold_yes_tables": [
+            147765
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c04",
+          "condition": "Is there a consistent format used for reporting the years in each line item?",
+          "gold_yes_tables": [
+            147770
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c05",
+          "condition": "Did Specialty Products report revenue in 2008?",
+          "gold_yes_tables": [
+            147781
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c06",
+          "condition": "Does this table list distinct segments by product category?",
+          "gold_yes_tables": [
+            147766
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c07",
+          "condition": "Are any tradenames included in the Fair Value of Assets Acquired?",
+          "gold_yes_tables": [
+            147782
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c08",
+          "condition": "Did the Household Products segment contribute more than 45% of net sales in 2009?",
+          "gold_yes_tables": [
+            147759
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c09",
+          "condition": "Did the table report any quarter with a dividend higher than $0.08?",
+          "gold_yes_tables": [
+            147762
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c10",
+          "condition": "Did the total Net Property, Plant and Equipment in 2009 exceed $450,000?",
+          "gold_yes_tables": [
+            147779
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c11",
+          "condition": "Was the antidilutive effect of stock options outstanding higher than 1,000 in 2007?",
+          "gold_yes_tables": [
+            147774
+          ]
+        },
+        {
+          "condition_id": "CHD_2009_c12",
+          "condition": "Is the 'Net Cash Provided by Operating Activities' amount explicitly given?",
+          "gold_yes_tables": [
+            147769
+          ]
+        }
+      ]
+    },
+    "CHD_2011": {
+      "conditions": [
+        {
+          "condition_id": "CHD_2011_c01",
+          "condition": "Did the Company provide a valuation allowance on the foreign net operating loss carryforwards?",
+          "gold_yes_tables": [
+            147677
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c02",
+          "condition": "Was there an increase in the balance of the Company's net periodic benefit cost during the year ending December 31, 2011?",
+          "gold_yes_tables": [
+            147692
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c03",
+          "condition": "Did the inventory valuation in the table use the last-in, first-out (LIFO) method?",
+          "gold_yes_tables": [
+            147666
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c04",
+          "condition": "Does the table include options exercisable within the range of $5.00 to $15.00, with an average exercise price of $13.17?",
+          "gold_yes_tables": [
+            147688
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c05",
+          "condition": "Did the transfer of the U.S. Pension Plan obligations and assets result in a significant change to the Company's pension plan obligations as reflected in the 2011 financial statements?",
+          "gold_yes_tables": [
+            147680
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c06",
+          "condition": "Does the 2011 discount rate for non-pension post-retirement plans fall within the range of 5.34% to 6.61%",
+          "gold_yes_tables": [
+            147684
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c07",
+          "condition": "Was there a positive gross increase in tax positions for the current period in 2009?",
+          "gold_yes_tables": [
+            147679
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c08",
+          "condition": "Are the fair values listed next to each carrying amount?",
+          "gold_yes_tables": [
+            147665
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c09",
+          "condition": "Are there two distinct categories listed under pension-related topics?",
+          "gold_yes_tables": [
+            147681
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c10",
+          "condition": "Was the Simply Saline acquisition funded entirely in cash?",
+          "gold_yes_tables": [
+            147671
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c11",
+          "condition": "Does this table show data for multiple segments?",
+          "gold_yes_tables": [
+            147696
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c12",
+          "condition": "Does the table show a breakdown of investments by specific fund types?",
+          "gold_yes_tables": [
+            147685
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c13",
+          "condition": "Did the company have a trade accounts payable balance greater than $200 million in 2010?",
+          "gold_yes_tables": [
+            147675
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c14",
+          "condition": "Did the discount rate for pension plans decrease between 2010 and 2011?",
+          "gold_yes_tables": [
+            147682
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c15",
+          "condition": "Is there an increase in the post-retirement benefit obligation when the health-care cost trend rate increases by 1%?",
+          "gold_yes_tables": [
+            147687
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c16",
+          "condition": "Is there a positive value listed for the Pension Plans column in any year?",
+          "gold_yes_tables": [
+            147686
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c17",
+          "condition": "Did the net periodic benefit cost include a service cost component?",
+          "gold_yes_tables": [
+            147683
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c18",
+          "condition": "Did SIMPLY SALINE acquired goodwill affect the Domestic segment?",
+          "gold_yes_tables": [
+            147673
+          ]
+        },
+        {
+          "condition_id": "CHD_2011_c19",
+          "condition": "Was any compensation expense recorded for stock options in 2011?",
+          "gold_yes_tables": [
+            147691
+          ]
+        }
+      ]
+    },
+    "CINF_2006": {
+      "conditions": [
+        {
+          "condition_id": "CINF_2006_c01",
+          "condition": "Did any month in 2006 show a non-zero number of shares purchased as part of publicly announced plans or programs?",
+          "gold_yes_tables": [
+            140569
+          ]
+        },
+        {
+          "condition_id": "CINF_2006_c02",
+          "condition": "Did the table list the high stock price for any quarter?",
+          "gold_yes_tables": [
+            140568
+          ]
+        }
+      ]
+    },
+    "CINF_2013": {
+      "conditions": [
+        {
+          "condition_id": "CINF_2013_c01",
+          "condition": "Did the consolidated property casualty underwriting profit in 2013 include a $96 million improvement compared to 2012?",
+          "gold_yes_tables": [
+            140627
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c02",
+          "condition": "In the table, did the 2013 accident year loss and loss expense ratio represent a significant improvement over 2012 and 2011?",
+          "gold_yes_tables": [
+            140641
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c03",
+          "condition": "Does this table list the accident years for each period?",
+          "gold_yes_tables": [
+            140651
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c04",
+          "condition": "Is the current accident year loss and loss expense ratio for 2013 lower than for 2012?",
+          "gold_yes_tables": [
+            140647
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c05",
+          "condition": "Is the table organized by accident year?",
+          "gold_yes_tables": [
+            140645
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c06",
+          "condition": "Did the 2013 accident year loss and loss expense ratio show a favorable development compared to the previous year?",
+          "gold_yes_tables": [
+            140630
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c07",
+          "condition": "Did the table report any row with value greater than $11,508 million for Total assets?",
+          "gold_yes_tables": [
+            140623
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c08",
+          "condition": "Was there a positive contribution to the value creation ratio from dividends declared to shareholders in all years?",
+          "gold_yes_tables": [
+            140626
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c09",
+          "condition": "Does this table show the quarterly closing stock prices?",
+          "gold_yes_tables": [
+            140621
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c10",
+          "condition": "Did the table display the annual value creation ratio for each of the three-year periods?",
+          "gold_yes_tables": [
+            140624
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c11",
+          "condition": "Did the 2013 total loss and loss expense ratio decrease from the 2012 ratio?",
+          "gold_yes_tables": [
+            140640
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c12",
+          "condition": "Does the total number of shares purchased match the number of shares available for repurchase?",
+          "gold_yes_tables": [
+            140622
+          ]
+        },
+        {
+          "condition_id": "CINF_2013_c13",
+          "condition": "Did Fitch Ratings affirm the company's rating?",
+          "gold_yes_tables": [
+            140617
+          ]
+        }
+      ]
+    },
+    "DGX_2016": {
+      "conditions": [
+        {
+          "condition_id": "DGX_2016_c01",
+          "condition": "Is Quest Diagnostics Incorporated included as a consolidated subsidiary in the financial statements?",
+          "gold_yes_tables": [
+            1533
+          ]
+        },
+        {
+          "condition_id": "DGX_2016_c02",
+          "condition": "Is there a collaboration involving IBM Watson® Health mentioned in the table?",
+          "gold_yes_tables": [
+            1543
+          ]
+        },
+        {
+          "condition_id": "DGX_2016_c03",
+          "condition": "Does the table include diagnostic testing insights?",
+          "gold_yes_tables": [
+            1545
+          ]
+        },
+        {
+          "condition_id": "DGX_2016_c04",
+          "condition": "Has the company introduced any new tests related to infectious diseases?",
+          "gold_yes_tables": [
+            1542
+          ]
+        },
+        {
+          "condition_id": "DGX_2016_c05",
+          "condition": "Is Diagnostic Information Services responsible for more than half of the 2016 net revenues?",
+          "gold_yes_tables": [
+            1546
+          ]
+        },
+        {
+          "condition_id": "DGX_2016_c06",
+          "condition": "Was the 2014 run-rate savings goal reached?",
+          "gold_yes_tables": [
+            1540
+          ]
+        }
+      ]
+    },
+    "DGX_2018": {
+      "conditions": [
+        {
+          "condition_id": "DGX_2018_c01",
+          "condition": "Did the company refund overpayments to Medicare and Medicaid due to non-compliance with healthcare reimbursement requirements?",
+          "gold_yes_tables": [
+            1280
+          ]
+        },
+        {
+          "condition_id": "DGX_2018_c02",
+          "condition": "Are patients paying greater attention to their healthcare experiences?",
+          "gold_yes_tables": [
+            1279
+          ]
+        },
+        {
+          "condition_id": "DGX_2018_c03",
+          "condition": "Does the table discuss regulations related to the practice of medicine?",
+          "gold_yes_tables": [
+            1281
+          ]
+        },
+        {
+          "condition_id": "DGX_2018_c04",
+          "condition": "Is there a laboratory in San Juan Capistrano, California, that is owned?",
+          "gold_yes_tables": [
+            1285
+          ]
+        },
+        {
+          "condition_id": "DGX_2018_c05",
+          "condition": "Did the table mention a situation where a hospital system is establishing or has established a health insurance plan?",
+          "gold_yes_tables": [
+            1277
+          ]
+        },
+        {
+          "condition_id": "DGX_2018_c06",
+          "condition": "Is the company's ability to manage potential new regulatory requirements highlighted as an essential part of its operations?",
+          "gold_yes_tables": [
+            1273
+          ]
+        }
+      ]
+    },
+    "DLR_2006": {
+      "conditions": [
+        {
+          "condition_id": "DLR_2006_c01",
+          "condition": "Is the unsecured credit facility debt due to mature in October 2008?",
+          "gold_yes_tables": [
+            21954
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c02",
+          "condition": "Were all series and types of dividends and distributions reported in this table classified as ordinary income for income tax purposes?",
+          "gold_yes_tables": [
+            21971
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c03",
+          "condition": "Did the increase in rental revenues and tenant reimbursement revenues in 2006 over 2005 primarily result from property acquisitions?",
+          "gold_yes_tables": [
+            21946
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c04",
+          "condition": "Did the purchases include one completed on January 5, 2007?",
+          "gold_yes_tables": [
+            21951
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c05",
+          "condition": "Does this table show total revenues for different years?",
+          "gold_yes_tables": [
+            21949
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c06",
+          "condition": "Did the table show any value over $65,000?",
+          "gold_yes_tables": [
+            21955
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c07",
+          "condition": "Did the company declare any dividends or distributions in February 2006?",
+          "gold_yes_tables": [
+            21952
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c08",
+          "condition": "Was the property acquired on April 13, 2006 located in Toronto, Canada?",
+          "gold_yes_tables": [
+            21950
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c09",
+          "condition": "Did same-store rental revenue increase in 2006 over 2005?",
+          "gold_yes_tables": [
+            21945
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c10",
+          "condition": "Does the table provide specific monetary changes in fair and interest values in response to assumed interest rate shifts?",
+          "gold_yes_tables": [
+            21958
+          ]
+        },
+        {
+          "condition_id": "DLR_2006_c11",
+          "condition": "Does the table include consolidated balance sheets?",
+          "gold_yes_tables": [
+            21959
+          ]
+        }
+      ]
+    },
+    "DLR_2008": {
+      "conditions": [
+        {
+          "condition_id": "DLR_2008_c01",
+          "condition": "Does the table include income from discontinued operations reported?",
+          "gold_yes_tables": [
+            21901
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c02",
+          "condition": "Does the table show a non-zero value for 2013?",
+          "gold_yes_tables": [
+            21902
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c03",
+          "condition": "Did income from continuing operations increase from 2006 to 2008?",
+          "gold_yes_tables": [
+            21896
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c04",
+          "condition": "Did the total revenue for all years sum up to over $1 billion?",
+          "gold_yes_tables": [
+            21894
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c05",
+          "condition": "Did the table list both in-place lease value and below market lease value?",
+          "gold_yes_tables": [
+            21889
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c06",
+          "condition": "Were there property sales in the years 2006 through 2007?",
+          "gold_yes_tables": [
+            21903
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c07",
+          "condition": "Is the balance at the end of the year higher than the beginning balance?",
+          "gold_yes_tables": [
+            21908
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c08",
+          "condition": "Does the table include information for the year 2008?",
+          "gold_yes_tables": [
+            21887
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c09",
+          "condition": "Was there a Loan Agreement with Countrywide Commercial Real Estate Finance, Inc. dated October 4, 2005?",
+          "gold_yes_tables": [
+            21910
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c10",
+          "condition": "Does an increase in interest rates lead to a positive change in the fair value of interest rate swaps?",
+          "gold_yes_tables": [
+            21886
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c11",
+          "condition": "Was there a loan associated with the property address 2334 Lundy Place?",
+          "gold_yes_tables": [
+            21895
+          ]
+        },
+        {
+          "condition_id": "DLR_2008_c12",
+          "condition": "Did the joint venture's net operating income exceed $2,315 in 2006?",
+          "gold_yes_tables": [
+            21893
+          ]
+        }
+      ]
+    },
+    "DOV_2013": {
+      "conditions": [
+        {
+          "condition_id": "DOV_2013_c01",
+          "condition": "Was there an increase in the ending balance from 2012 to 2013?",
+          "gold_yes_tables": [
+            149412
+          ]
+        },
+        {
+          "condition_id": "DOV_2013_c02",
+          "condition": "Are there entries listed for the weighted average remaining life in years?",
+          "gold_yes_tables": [
+            149422
+          ]
+        }
+      ]
+    },
+    "EXPE_2008": {
+      "conditions": [
+        {
+          "condition_id": "EXPE_2008_c01",
+          "condition": "Did the year-end December 31 operating income reflect a significant decline in 2008 due to asset impairment?",
+          "gold_yes_tables": [
+            116935
+          ]
+        },
+        {
+          "condition_id": "EXPE_2008_c02",
+          "condition": "Did the Operating Income Before Adjustments (OIBA) increase from 2007 to 2008?",
+          "gold_yes_tables": [
+            116931
+          ]
+        },
+        {
+          "condition_id": "EXPE_2008_c03",
+          "condition": "Was there a change in the effective tax rate from 2007 to 2008?",
+          "gold_yes_tables": [
+            116934
+          ]
+        },
+        {
+          "condition_id": "EXPE_2008_c04",
+          "condition": "Is this exhibit table listing documents filed with the SEC?",
+          "gold_yes_tables": [
+            116938
+          ]
+        }
+      ]
+    },
+    "FMC_2009": {
+      "conditions": [
+        {
+          "condition_id": "FMC_2009_c01",
+          "condition": "Was the guarantee provided to financial institutions on behalf of Agricultural Products customers recorded as ‘Guarantees of vendor financing’ in the balance sheets?",
+          "gold_yes_tables": [
+            77088
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c02",
+          "condition": "Does the table include the 'Chief Executive Officer Certification'?",
+          "gold_yes_tables": [
+            77093
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c03",
+          "condition": "Did FMC Corporation have a compensation plan for non-employee directors?",
+          "gold_yes_tables": [
+            77096
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c04",
+          "condition": "Did the revenue increase in any year between 2010 and 2015?",
+          "gold_yes_tables": [
+            77076
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c05",
+          "condition": "Is the FMC Corporation Executive Severance Plan listed among the exhibits?",
+          "gold_yes_tables": [
+            77092
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c06",
+          "condition": "Was there a geographic region with over $700 million in long-lived assets in 2009?",
+          "gold_yes_tables": [
+            77090
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c07",
+          "condition": "Is there a reported value for the U.S. qualified pension plan in millions?",
+          "gold_yes_tables": [
+            77075
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c08",
+          "condition": "Did the table report any row where net income exceeded $200 million?",
+          "gold_yes_tables": [
+            77081
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c09",
+          "condition": "Did the table show the expected dividend yield for 2009?",
+          "gold_yes_tables": [
+            77077
+          ]
+        },
+        {
+          "condition_id": "FMC_2009_c10",
+          "condition": "Was there a guarantee of $5.8 million for the foreign equity method investment?",
+          "gold_yes_tables": [
+            77085
+          ]
+        }
+      ]
+    },
+    "FMC_2018": {
+      "conditions": [
+        {
+          "condition_id": "FMC_2018_c01",
+          "condition": "Did the FMC Agricultural Solutions segment include Insecticides revenue in its annual report?",
+          "gold_yes_tables": [
+            77028
+          ]
+        },
+        {
+          "condition_id": "FMC_2018_c02",
+          "condition": "Was the total cash purchase price net amount of the transaction over $1,000 million?",
+          "gold_yes_tables": [
+            77029
+          ]
+        },
+        {
+          "condition_id": "FMC_2018_c03",
+          "condition": "Does the table show discount rates for different types of pensions and benefits?",
+          "gold_yes_tables": [
+            77032
+          ]
+        }
+      ]
+    },
+    "HAL_2015": {
+      "conditions": [
+        {
+          "condition_id": "HAL_2015_c01",
+          "condition": "In 2015, did the Oil segment include data for both land and offshore operations?",
+          "gold_yes_tables": [
+            125177
+          ]
+        },
+        {
+          "condition_id": "HAL_2015_c02",
+          "condition": "Is the Corporate and Other segment's total assets in 2015 greater than those in 2014?",
+          "gold_yes_tables": [
+            125181
+          ]
+        }
+      ]
+    },
+    "HAL_2017": {
+      "conditions": [
+        {
+          "condition_id": "HAL_2017_c01",
+          "condition": "Did the company have sufficient domestic and foreign tax-effected net operating loss carryforwards at December 31, 2017?",
+          "gold_yes_tables": [
+            125241
+          ]
+        },
+        {
+          "condition_id": "HAL_2017_c02",
+          "condition": "Did the finished products and parts inventory increase between 2016 and 2017?",
+          "gold_yes_tables": [
+            125238
+          ]
+        }
+      ]
+    },
+    "HOG_2013": {
+      "conditions": [
+        {
+          "condition_id": "HOG_2013_c01",
+          "condition": "Did the Motorcycles segment's revenue exceed $1,000 million in the second quarter of 2012?",
+          "gold_yes_tables": [
+            101312
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c02",
+          "condition": "Does this table show the projected healthcare cost trend rates for the next few years?",
+          "gold_yes_tables": [
+            101306
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c03",
+          "condition": "Did the table show an expected term greater than 6 years?",
+          "gold_yes_tables": [
+            101307
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c04",
+          "condition": "Is there a reference to a contract or plan concerning executive officers or directors?",
+          "gold_yes_tables": [
+            101316
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c05",
+          "condition": "Did the company adjust the expected term of its option awards starting in 2013?",
+          "gold_yes_tables": [
+            101309
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c06",
+          "condition": "Does the total amount of past due retail finance receivables exceed the total amount of past due wholesale finance receivables?",
+          "gold_yes_tables": [
+            101299
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c07",
+          "condition": "Is there a change in the expected return on plan assets over the years?",
+          "gold_yes_tables": [
+            101305
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c08",
+          "condition": "Is the principal amount issued in April 2013 $650,000?",
+          "gold_yes_tables": [
+            101301
+          ]
+        },
+        {
+          "condition_id": "HOG_2013_c09",
+          "condition": "Did the table list any document related to a credit agreement?",
+          "gold_yes_tables": [
+            101315
+          ]
+        }
+      ]
+    },
+    "HOG_2017": {
+      "conditions": [
+        {
+          "condition_id": "HOG_2017_c01",
+          "condition": "Does the table show different categories contributing to the provision for income taxes?",
+          "gold_yes_tables": [
+            101248
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c02",
+          "condition": "Did the revenue for motorcycles exceed $1,000 million in any quarter?",
+          "gold_yes_tables": [
+            101264
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c03",
+          "condition": "Is there more than one exhibit related to the 2014 Incentive Stock Plan?",
+          "gold_yes_tables": [
+            101268
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c04",
+          "condition": "Does the table contain an exhibit specifically referencing Officers' Certificates dated March 10, 2017?",
+          "gold_yes_tables": [
+            101266
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c05",
+          "condition": "Is the expected volatility within the range of 24% to 30%?",
+          "gold_yes_tables": [
+            101253
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c06",
+          "condition": "Does the table show the expected term for both 2017 and 2016?",
+          "gold_yes_tables": [
+            101256
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c07",
+          "condition": "Did the table report a healthcare cost trend rate for next year?",
+          "gold_yes_tables": [
+            101250
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c08",
+          "condition": "Is there a document listed for 'Asset Purchase Agreement, dated April 30, 2015'?",
+          "gold_yes_tables": [
+            101265
+          ]
+        },
+        {
+          "condition_id": "HOG_2017_c09",
+          "condition": "Did HDFS receive proceeds from the issuance of medium-term notes in the Consolidated Cash flows from financing activities?",
+          "gold_yes_tables": [
+            101263
+          ]
+        }
+      ]
+    },
+    "IT_2009": {
+      "conditions": [
+        {
+          "condition_id": "IT_2009_c01",
+          "condition": "Did the Research segment goodwill decrease due to a tax purchase accounting adjustment?",
+          "gold_yes_tables": [
+            78654
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c02",
+          "condition": "Does the company provide detailed notes to explain each of its financial statements?",
+          "gold_yes_tables": [
+            78646
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c03",
+          "condition": "Is the shortest useful life for any intangible asset specified in the table?",
+          "gold_yes_tables": [
+            78652
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c04",
+          "condition": "Does the table show two years of financial data?",
+          "gold_yes_tables": [
+            78638
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c05",
+          "condition": "Does the total amount of goodwill exceed $500 million in either 2009 or 2008?",
+          "gold_yes_tables": [
+            78647
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c06",
+          "condition": "Does the table show revenue for each quarter?",
+          "gold_yes_tables": [
+            78643
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c07",
+          "condition": "Was there a Security deposits row in the table for both 2009 and 2008?",
+          "gold_yes_tables": [
+            78657
+          ]
+        },
+        {
+          "condition_id": "IT_2009_c08",
+          "condition": "Does this table show separate columns for net income, other comprehensive income, and comprehensive income?",
+          "gold_yes_tables": [
+            78649
+          ]
+        }
+      ]
+    },
+    "IT_2012": {
+      "conditions": [
+        {
+          "condition_id": "IT_2012_c01",
+          "condition": "Did the company capitalize any net costs related to internal use software in its statement of financial position as of December 31, 2012?",
+          "gold_yes_tables": [
+            78704
+          ]
+        },
+        {
+          "condition_id": "IT_2012_c02",
+          "condition": "Is there a significant change in the total balance between 2010 and 2012?",
+          "gold_yes_tables": [
+            78705
+          ]
+        },
+        {
+          "condition_id": "IT_2012_c03",
+          "condition": "Did the company use the correct formula to calculate basic earnings per share?",
+          "gold_yes_tables": [
+            78708
+          ]
+        },
+        {
+          "condition_id": "IT_2012_c04",
+          "condition": "Was there a noticeable difference in the gross deferred tax asset between 2011 and 2012?",
+          "gold_yes_tables": [
+            78710
+          ]
+        },
+        {
+          "condition_id": "IT_2012_c05",
+          "condition": "Does the table show purchases for treasury shares?",
+          "gold_yes_tables": [
+            78707
+          ]
+        }
+      ]
+    },
+    "JNPR_2012": {
+      "conditions": [
+        {
+          "condition_id": "JNPR_2012_c01",
+          "condition": "Did the service provider market's net revenues decrease in 2012 compared to 2011?",
+          "gold_yes_tables": [
+            110728
+          ]
+        }
+      ]
+    },
+    "JNPR_2013": {
+      "conditions": [
+        {
+          "condition_id": "JNPR_2013_c01",
+          "condition": "Did the number of shares purchased through the ESPP exceed 3 million in any year?",
+          "gold_yes_tables": [
+            111056
+          ]
+        },
+        {
+          "condition_id": "JNPR_2013_c02",
+          "condition": "Is there a form of executive officer severance agreement?",
+          "gold_yes_tables": [
+            111060
+          ]
+        },
+        {
+          "condition_id": "JNPR_2013_c03",
+          "condition": "Does the table mention any intangible asset with a weighted average estimated useful life of 17.4 years?",
+          "gold_yes_tables": [
+            111052
+          ]
+        },
+        {
+          "condition_id": "JNPR_2013_c04",
+          "condition": "Is there a table listing the Notes to Consolidated Financial Statements?",
+          "gold_yes_tables": [
+            111050
+          ]
+        },
+        {
+          "condition_id": "JNPR_2013_c05",
+          "condition": "Does the table show the total number of shares before and after RSUs/PSAs grants and cancellations?",
+          "gold_yes_tables": [
+            111055
+          ]
+        }
+      ]
+    },
+    "JNPR_2017": {
+      "conditions": [
+        {
+          "condition_id": "JNPR_2017_c01",
+          "condition": "Did the company repurchase more than 20 million shares of its common stock in 2017?",
+          "gold_yes_tables": [
+            110919
+          ]
+        },
+        {
+          "condition_id": "JNPR_2017_c02",
+          "condition": "Did the sales and marketing expenses decrease from 2016 to 2017?",
+          "gold_yes_tables": [
+            110923
+          ]
+        },
+        {
+          "condition_id": "JNPR_2017_c03",
+          "condition": "Did the tax provision in 2017 increase from the previous year, specifically from 2016?",
+          "gold_yes_tables": [
+            110925
+          ]
+        },
+        {
+          "condition_id": "JNPR_2017_c04",
+          "condition": "Did the product gross margin decrease between 2017 and 2016?",
+          "gold_yes_tables": [
+            110922
+          ]
+        }
+      ]
+    },
+    "JNPR_2018": {
+      "conditions": [
+        {
+          "condition_id": "JNPR_2018_c01",
+          "condition": "Were the PSAs granted with a per share purchase price lower than 100% of the fair market value of the company's common stock counted towards the total number of shares available for grant under the 2015 Plan?",
+          "gold_yes_tables": [
+            110711
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c02",
+          "condition": "Did the net income of the company include a lower statutory tax rate due to the Tax Act and tax benefits unique to 2018?",
+          "gold_yes_tables": [
+            110715
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c03",
+          "condition": "Was there no impairment charge related to purchased intangible assets for the years 2018, 2017, and 2016?",
+          "gold_yes_tables": [
+            110710
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c04",
+          "condition": "Did the company use derivatives to hedge forecasted foreign currency transactions?",
+          "gold_yes_tables": [
+            110703
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c05",
+          "condition": "Is the estimated useful life of furniture and fixtures between 5 and 7 years?",
+          "gold_yes_tables": [
+            110704
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c06",
+          "condition": "Does the table list net revenues for multiple years?",
+          "gold_yes_tables": [
+            110713
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c07",
+          "condition": "Did the table show revenue for the States region in 2018?",
+          "gold_yes_tables": [
+            110714
+          ]
+        },
+        {
+          "condition_id": "JNPR_2018_c08",
+          "condition": "Was the unrealized loss for fixed income securities greater than zero?",
+          "gold_yes_tables": [
+            110708
+          ]
+        }
+      ]
+    },
+    "KEY_2014": {
+      "conditions": [
+        {
+          "condition_id": "KEY_2014_c01",
+          "condition": "Does the table include detailed data on nonowner-occupied retail properties?",
+          "gold_yes_tables": [
+            98238
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c02",
+          "condition": "Did the parent company, KEYCORP, have a credit rating of A-2 for Short-Term Borrowings and A-2 for Senior Long-Term Debt in its credit ratings as of December 31, 2014?",
+          "gold_yes_tables": [
+            98242
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c03",
+          "condition": "Did the nonperforming loans placed on nonaccrual status decrease by $339 million from 2013 to 2014?",
+          "gold_yes_tables": [
+            98250
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c04",
+          "condition": "Did Key Community Bank's net income attributable to Key increase for the year 2014?",
+          "gold_yes_tables": [
+            98225
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c05",
+          "condition": "Was the securities portfolio with available-for-sale securities valued at over $13 billion as of December 31, 2014?",
+          "gold_yes_tables": [
+            98240
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c06",
+          "condition": "Did the decrease in nonperforming loans in 2014 compared to 2013 involve loans placed on nonaccrual status?",
+          "gold_yes_tables": [
+            98249
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c07",
+          "condition": "Was there a significant reduction in the value of deposits in 2014 compared to 2013?",
+          "gold_yes_tables": [
+            98248
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c08",
+          "condition": "Did Key Community Bank report a net income attributable to Key that increased by $23 million in 2014?",
+          "gold_yes_tables": [
+            98235
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c09",
+          "condition": "Did Trust and investment services income grow by at least $8 million from 2013 to 2014?",
+          "gold_yes_tables": [
+            98236
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c10",
+          "condition": "Did the table report a total risk-weighted assets anticipated under the Regulatory Capital Rules greater than $85,100?",
+          "gold_yes_tables": [
+            98227
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c11",
+          "condition": "Was there a net income reported in 2014?",
+          "gold_yes_tables": [
+            98253
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c12",
+          "condition": "Is the Compound Annual Rate of Change (2010-2014) included in the table?",
+          "gold_yes_tables": [
+            98229
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c13",
+          "condition": "Does this table include notes to the consolidated financial statements?",
+          "gold_yes_tables": [
+            98252
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c14",
+          "condition": "Is the table structured to show the total loans charged off by different types?",
+          "gold_yes_tables": [
+            98246
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c15",
+          "condition": "Did the company experience an increase in interest income between the first and fourth quarters of 2014?",
+          "gold_yes_tables": [
+            98251
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c16",
+          "condition": "Was there a reduction in noninterest income in 2014 compared to 2013?",
+          "gold_yes_tables": [
+            98234
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c17",
+          "condition": "Is there a row in this table that lists 'Net income (loss)'?",
+          "gold_yes_tables": [
+            98254
+          ]
+        },
+        {
+          "condition_id": "KEY_2014_c18",
+          "condition": "Did the table show Interest income in 2014?",
+          "gold_yes_tables": [
+            98226
+          ]
+        }
+      ]
+    },
+    "KEY_2017": {
+      "conditions": [
+        {
+          "condition_id": "KEY_2017_c01",
+          "condition": "Did the total commercial real estate loans exceed $16 billion at the end of 2017?",
+          "gold_yes_tables": [
+            98391
+          ]
+        },
+        {
+          "condition_id": "KEY_2017_c02",
+          "condition": "Did the decrease in nonperforming assets in 2017 primarily result from improvements in the commercial and industrial loan portfolio?",
+          "gold_yes_tables": [
+            98390
+          ]
+        },
+        {
+          "condition_id": "KEY_2017_c03",
+          "condition": "Did the table show a nonperforming loan amount greater than zero?",
+          "gold_yes_tables": [
+            98386
+          ]
+        },
+        {
+          "condition_id": "KEY_2017_c04",
+          "condition": "Did the company's net income increase from the first quarter of 2017 to the fourth quarter of 2017?",
+          "gold_yes_tables": [
+            98392
+          ]
+        },
+        {
+          "condition_id": "KEY_2017_c05",
+          "condition": "Did the table show a subordinated long-term debt rating of BBB?",
+          "gold_yes_tables": [
+            98389
+          ]
+        },
+        {
+          "condition_id": "KEY_2017_c06",
+          "condition": "Did the 2017 amount for commercial real estate loans exceed $16.0 billion?",
+          "gold_yes_tables": [
+            98384
+          ]
+        },
+        {
+          "condition_id": "KEY_2017_c07",
+          "condition": "Was there a significant reduction in the number of common shares outstanding between 2016 and 2017?",
+          "gold_yes_tables": [
+            98387
+          ]
+        }
+      ]
+    },
+    "KEY_2018": {
+      "conditions": [
+        {
+          "condition_id": "KEY_2018_c01",
+          "condition": "Did the table report an expected return on plan assets of exactly $4.50?",
+          "gold_yes_tables": [
+            98210
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c02",
+          "condition": "In the table, was equity securities allocated 80% of the total asset allocation?",
+          "gold_yes_tables": [
+            98211
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c03",
+          "condition": "Is there an agreement mentioning the deferred fees of executives?",
+          "gold_yes_tables": [
+            98217
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c04",
+          "condition": "Does the total capital ratio exceed 10% for KeyBank (consolidated)?",
+          "gold_yes_tables": [
+            98212
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c05",
+          "condition": "Is the percentage of U.S. equity securities in the total allocation higher than zero?",
+          "gold_yes_tables": [
+            98207
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c06",
+          "condition": "Did the table show any row with a negative value in 'Net unrecognized losses (gains)'?",
+          "gold_yes_tables": [
+            98208
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c07",
+          "condition": "Did the bank's net interest income increase between 2016 and 2017?",
+          "gold_yes_tables": [
+            98213
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c08",
+          "condition": "Does the table include different years' discount rates?",
+          "gold_yes_tables": [
+            98206
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c09",
+          "condition": "Is there a reference to KeyCorp's Exhibits incorporated by reference?",
+          "gold_yes_tables": [
+            98215
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c10",
+          "condition": "Were significant unobservable inputs used for the valuation of commercial mortgage servicing assets?",
+          "gold_yes_tables": [
+            98204
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c11",
+          "condition": "Did the fair value of the commercial mortgage servicing assets at December 31, 2018, use expected defaults between 1.00% and 2.00%?",
+          "gold_yes_tables": [
+            98203
+          ]
+        },
+        {
+          "condition_id": "KEY_2018_c12",
+          "condition": "Did the postretirement benefit cost recognize the same negative amount in both 2018 and 2017?",
+          "gold_yes_tables": [
+            98209
+          ]
+        }
+      ]
+    },
+    "KMB_2005": {
+      "conditions": [
+        {
+          "condition_id": "KMB_2005_c01",
+          "condition": "Did the Personal Care segment include disposable diapers, training and youth pants, and swimpants in its product offerings?",
+          "gold_yes_tables": [
+            44274
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c02",
+          "condition": "Did the company use approximately $5 million for investing and financing activities related to discontinued operations in both 2004 and 2003?",
+          "gold_yes_tables": [
+            44281
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c03",
+          "condition": "Was the number of share equivalents higher in 2003 compared to both 2005 and 2004?",
+          "gold_yes_tables": [
+            44273
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c04",
+          "condition": "Is the Executive Officer Achievement Award Program mentioned in the table?",
+          "gold_yes_tables": [
+            44284
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c05",
+          "condition": "Did the Corporation's Share of Net Income increase in 2005 compared to 2004?",
+          "gold_yes_tables": [
+            44276
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c06",
+          "condition": "Did the projected benefit obligation (PBO) exceed $5 billion in 2005?",
+          "gold_yes_tables": [
+            44260
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c07",
+          "condition": "Is the total number of securities remaining available for future issuance under equity compensation plans included in the table?",
+          "gold_yes_tables": [
+            44283
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c08",
+          "condition": "Does the table show a significant decrease in net synthetic fuel benefit from 2004 to 2005?",
+          "gold_yes_tables": [
+            44268
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c09",
+          "condition": "Is there an amount listed for each year ending December 31?",
+          "gold_yes_tables": [
+            44257
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c10",
+          "condition": "Did the total net sales for the United States exceed $8,000 million in 2005?",
+          "gold_yes_tables": [
+            44275
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c11",
+          "condition": "Did the total income before income taxes decrease from $2,203.4 million in 2004 to $1,968.9 million in 2005?",
+          "gold_yes_tables": [
+            44269
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c12",
+          "condition": "Was the discount rate reported for all three years?",
+          "gold_yes_tables": [
+            44263
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c13",
+          "condition": "Does this table display pension benefits and other benefits side by side across years?",
+          "gold_yes_tables": [
+            44264
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c14",
+          "condition": "Was there any foreign currency transaction gain in the year 2005?",
+          "gold_yes_tables": [
+            44278
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c15",
+          "condition": "Is the minimum pension liability higher in 2005 than in 2004?",
+          "gold_yes_tables": [
+            44258
+          ]
+        },
+        {
+          "condition_id": "KMB_2005_c16",
+          "condition": "Does an increase of one percentage point in the assumed health care cost trend rates cause a higher effect on the postretirement benefit obligation?",
+          "gold_yes_tables": [
+            44265
+          ]
+        }
+      ]
+    },
+    "KMB_2013": {
+      "conditions": [
+        {
+          "condition_id": "KMB_2013_c01",
+          "condition": "Did the $309 amount recorded as unrecognized tax benefits at December 31, 2013, reduce the company's effective tax rate?",
+          "gold_yes_tables": [
+            44406
+          ]
+        },
+        {
+          "condition_id": "KMB_2013_c02",
+          "condition": "In 2013, did the average number of common shares outstanding exceed 400 million?",
+          "gold_yes_tables": [
+            44408
+          ]
+        }
+      ]
+    },
+    "KSU_2006": {
+      "conditions": [
+        {
+          "condition_id": "KSU_2006_c01",
+          "condition": "Did the net cash provided by operating activities exceed $100 million in 2005?",
+          "gold_yes_tables": [
+            28064
+          ]
+        },
+        {
+          "condition_id": "KSU_2006_c02",
+          "condition": "Did the total track miles increase from 2004 to 2006?",
+          "gold_yes_tables": [
+            28041
+          ]
+        },
+        {
+          "condition_id": "KSU_2006_c03",
+          "condition": "Did the revenues from General Commodities increase year over year?",
+          "gold_yes_tables": [
+            28053
+          ]
+        },
+        {
+          "condition_id": "KSU_2006_c04",
+          "condition": "Did the chemical and petroleum commodity group experience an increase in revenue in 2006?",
+          "gold_yes_tables": [
+            28050
+          ]
+        },
+        {
+          "condition_id": "KSU_2006_c05",
+          "condition": "Is there a difference in the average age of road locomotives across the three years?",
+          "gold_yes_tables": [
+            28042
+          ]
+        },
+        {
+          "condition_id": "KSU_2006_c06",
+          "condition": "Does the table list total capital expenditures for three consecutive years?",
+          "gold_yes_tables": [
+            28060
+          ]
+        },
+        {
+          "condition_id": "KSU_2006_c07",
+          "condition": "Was the total amount of current assets greater in 2006 than in 2005?",
+          "gold_yes_tables": [
+            28063
+          ]
+        }
+      ]
+    },
+    "LH_2009": {
+      "conditions": [
+        {
+          "condition_id": "LH_2009_c01",
+          "condition": "Does the table show a specific row for partners' equity?",
+          "gold_yes_tables": [
+            21477
+          ]
+        },
+        {
+          "condition_id": "LH_2009_c02",
+          "condition": "Is there a value for 'Goodwill, net' in the year 2008?",
+          "gold_yes_tables": [
+            21480
+          ]
+        }
+      ]
+    },
+    "LH_2012": {
+      "conditions": [
+        {
+          "condition_id": "LH_2012_c01",
+          "condition": "Were Federal tax loss carryovers fully utilized at December 31, 2012?",
+          "gold_yes_tables": [
+            21510
+          ]
+        },
+        {
+          "condition_id": "LH_2012_c02",
+          "condition": "Did the self-insurance reserves show an increase from 2011 to 2012?",
+          "gold_yes_tables": [
+            21507
+          ]
+        },
+        {
+          "condition_id": "LH_2012_c03",
+          "condition": "Did the table show a balance of $36.4 as of December 31, 2012?",
+          "gold_yes_tables": [
+            21512
+          ]
+        },
+        {
+          "condition_id": "LH_2012_c04",
+          "condition": "Is there a row in the table showing changes to goodwill?",
+          "gold_yes_tables": [
+            21495
+          ]
+        },
+        {
+          "condition_id": "LH_2012_c05",
+          "condition": "Did the total pre-tax income exceed $900 million in 2012?",
+          "gold_yes_tables": [
+            21509
+          ]
+        },
+        {
+          "condition_id": "LH_2012_c06",
+          "condition": "Does the table show cash received by the Company for option exercises?",
+          "gold_yes_tables": [
+            21496
+          ]
+        }
+      ]
+    },
+    "LH_2013": {
+      "conditions": [
+        {
+          "condition_id": "LH_2013_c01",
+          "condition": "Did the table show that stock options had a positive value in 2011?",
+          "gold_yes_tables": [
+            21662
+          ]
+        }
+      ]
+    },
+    "LH_2014": {
+      "conditions": [
+        {
+          "condition_id": "LH_2014_c01",
+          "condition": "Did the company offer oncology testing services among its specialty testing operations?",
+          "gold_yes_tables": [
+            21550
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c02",
+          "condition": "Did the company report pre-tax income from both domestic and foreign operations?",
+          "gold_yes_tables": [
+            21560
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c03",
+          "condition": "Does the table show revenue data for three consecutive years?",
+          "gold_yes_tables": [
+            21556
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c04",
+          "condition": "Is the total Federal current amount greater than the total State current amount?",
+          "gold_yes_tables": [
+            21561
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c05",
+          "condition": "Did the fair value of the plan assets increase between 2013 and 2014?",
+          "gold_yes_tables": [
+            21570
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c06",
+          "condition": "Did the table show a grant of shares in the fiscal year ending December 31, 2014?",
+          "gold_yes_tables": [
+            21566
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c07",
+          "condition": "Is the total assets figure higher than the total liabilities figure in both 2014 and 2013?",
+          "gold_yes_tables": [
+            21555
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c08",
+          "condition": "Is there a breakdown of investments by location in the table?",
+          "gold_yes_tables": [
+            21554
+          ]
+        },
+        {
+          "condition_id": "LH_2014_c09",
+          "condition": "Does the table display the quarterly net sales for the full year 2014?",
+          "gold_yes_tables": [
+            21575
+          ]
+        }
+      ]
+    },
+    "LH_2017": {
+      "conditions": [
+        {
+          "condition_id": "LH_2017_c01",
+          "condition": "Did Laboratory Corporation of America Holdings' cumulative total return outperform both the S&P 500 Index and the S&P 500 Health Care Index between December 2012 and December 2017?",
+          "gold_yes_tables": [
+            21584
+          ]
+        }
+      ]
+    },
+    "MGM_2009": {
+      "conditions": [
+        {
+          "condition_id": "MGM_2009_c01",
+          "condition": "Did the fair value of the Company’s Renaissance Pointe land holdings at December 31, 2009, include both Level 2 and Level 3 inputs?",
+          "gold_yes_tables": [
+            22816
+          ]
+        },
+        {
+          "condition_id": "MGM_2009_c02",
+          "condition": "Does the table show any debt maturing after 2014?",
+          "gold_yes_tables": [
+            22804
+          ]
+        },
+        {
+          "condition_id": "MGM_2009_c03",
+          "condition": "Was there a loss reported in 2009 related to unconsolidated affiliates?",
+          "gold_yes_tables": [
+            22818
+          ]
+        }
+      ]
+    },
+    "MGM_2010": {
+      "conditions": [
+        {
+          "condition_id": "MGM_2010_c01",
+          "condition": "Was the contribution to the joint venture made through a reduction in the Company's receivable from CityCenter?",
+          "gold_yes_tables": [
+            23118
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c02",
+          "condition": "Did the table report land worth more than $7,000,000 at December 31, 2010?",
+          "gold_yes_tables": [
+            23116
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c03",
+          "condition": "Did the company have payroll and related expenses in 2010?",
+          "gold_yes_tables": [
+            23124
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c04",
+          "condition": "Does the total revenue from CityCenter Holdings, LLC exceed $1,000,000?",
+          "gold_yes_tables": [
+            23117
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c05",
+          "condition": "Was there a significant increase in total interest incurred in 2010 compared to 2009?",
+          "gold_yes_tables": [
+            23126
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c06",
+          "condition": "Did net revenues increase from 2009 to 2010?",
+          "gold_yes_tables": [
+            23122
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c07",
+          "condition": "Does the table show the same Federal income tax statutory rate for each year listed?",
+          "gold_yes_tables": [
+            23130
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c08",
+          "condition": "Were there term loans and revolving loans under the senior credit facility?",
+          "gold_yes_tables": [
+            23125
+          ]
+        },
+        {
+          "condition_id": "MGM_2010_c09",
+          "condition": "Was there a net loss reported for domestic operations in 2010?",
+          "gold_yes_tables": [
+            23128
+          ]
+        }
+      ]
+    },
+    "MGM_2015": {
+      "conditions": [
+        {
+          "condition_id": "MGM_2015_c01",
+          "condition": "Was there a non-cash impairment charge on MGM China goodwill in 2015 that impacted the company's effective tax rate?",
+          "gold_yes_tables": [
+            22926
+          ]
+        },
+        {
+          "condition_id": "MGM_2015_c02",
+          "condition": "Did Casino revenue, net show a growth from 2014 to 2015?",
+          "gold_yes_tables": [
+            22923
+          ]
+        }
+      ]
+    },
+    "MPC_2015": {
+      "conditions": [
+        {
+          "condition_id": "MPC_2015_c01",
+          "condition": "Did the Midstream segment include an asset with a useful life between 10 and 42 years?",
+          "gold_yes_tables": [
+            2829
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c02",
+          "condition": "Did the weighted average exercise price per share exceed $40 during the year 2015?",
+          "gold_yes_tables": [
+            2845
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c03",
+          "condition": "Does this table list different health care cost trend rates for different categories?",
+          "gold_yes_tables": [
+            2840
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c04",
+          "condition": "Does the table include separate columns for 'Crude oil refined' and 'Other charge and blendstocks'?",
+          "gold_yes_tables": [
+            2847
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c05",
+          "condition": "Did MPC's net income attributable to the company increase over the three fiscal years?",
+          "gold_yes_tables": [
+            2824
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c06",
+          "condition": "Did the table report any revenue for 2020?",
+          "gold_yes_tables": [
+            2838
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c07",
+          "condition": "Does this table include revenue and segment income from operations?",
+          "gold_yes_tables": [
+            2827
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c08",
+          "condition": "Did Moody’s rate MPC with Baa2?",
+          "gold_yes_tables": [
+            2819
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c09",
+          "condition": "Did the table show any sales and operating revenues for 2014?",
+          "gold_yes_tables": [
+            2823
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c10",
+          "condition": "Was the total revenue for 2015 greater than $70 billion?",
+          "gold_yes_tables": [
+            2826
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c11",
+          "condition": "Is there a separate column for Other Benefits in the table?",
+          "gold_yes_tables": [
+            2842
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c12",
+          "condition": "Does the table provide data on refined product sales volumes?",
+          "gold_yes_tables": [
+            2846
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c13",
+          "condition": "Does the table list multiple items with their corresponding revenue figures?",
+          "gold_yes_tables": [
+            2832
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c14",
+          "condition": "Was there cash paid for share repurchases in 2015?",
+          "gold_yes_tables": [
+            2818
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c15",
+          "condition": "Was there revenue reported in 2016?",
+          "gold_yes_tables": [
+            2834
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c16",
+          "condition": "Does the table show the accumulated benefit obligations for 2015 and 2014?",
+          "gold_yes_tables": [
+            2839
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c17",
+          "condition": "Does this table show revenues from different years?",
+          "gold_yes_tables": [
+            2828
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c18",
+          "condition": "Is the table organized by year?",
+          "gold_yes_tables": [
+            2833
+          ]
+        },
+        {
+          "condition_id": "MPC_2015_c19",
+          "condition": "Did the table report any capital expenditure in 2015?",
+          "gold_yes_tables": [
+            2820
+          ]
+        }
+      ]
+    },
+    "NEE_2008": {
+      "conditions": [
+        {
+          "condition_id": "NEE_2008_c01",
+          "condition": "Does the sum of pension and other benefits exceed $200 million in any year?",
+          "gold_yes_tables": [
+            133938
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c02",
+          "condition": "Did the Fair value of plan assets at October 1 of prior year show an increase compared to the previous year?",
+          "gold_yes_tables": [
+            133934
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c03",
+          "condition": "Does the table include a row labeled 'property, plant and equipment'?",
+          "gold_yes_tables": [
+            133929
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c04",
+          "condition": "Does the table display data for the FPL Group's expected long-term rate of return on plan assets?",
+          "gold_yes_tables": [
+            133925
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c05",
+          "condition": "Did the electric utility plant have more net value in 2008 than in 2007?",
+          "gold_yes_tables": [
+            133931
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c06",
+          "condition": "Does the table list prepaid and accrued benefit costs for both 2008 and 2007?",
+          "gold_yes_tables": [
+            133935
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c07",
+          "condition": "Did the company achieve positive retained earnings in 2006?",
+          "gold_yes_tables": [
+            133933
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c08",
+          "condition": "Does the table list discount rates for both 2008 and 2007?",
+          "gold_yes_tables": [
+            133937
+          ]
+        },
+        {
+          "condition_id": "NEE_2008_c09",
+          "condition": "Does the table show regulatory assets or liabilities related to pensions?",
+          "gold_yes_tables": [
+            133940
+          ]
+        }
+      ]
+    },
+    "NFLX_2004": {
+      "conditions": [
+        {
+          "condition_id": "NFLX_2004_c01",
+          "condition": "Did the Company adopt the fair value recognition provisions of SFAS No. 123 for stock-based compensation plans as of 2003?",
+          "gold_yes_tables": [
+            72437
+          ]
+        },
+        {
+          "condition_id": "NFLX_2004_c02",
+          "condition": "Was the consolidated statement of stockholders' (deficit) equity and comprehensive income (loss) reported for 2002, 2003, and 2004?",
+          "gold_yes_tables": [
+            72427
+          ]
+        },
+        {
+          "condition_id": "NFLX_2004_c03",
+          "condition": "Did the total revenue for 2004 exceed $500,000?",
+          "gold_yes_tables": [
+            72429
+          ]
+        },
+        {
+          "condition_id": "NFLX_2004_c04",
+          "condition": "Was furniture and fixtures included in property and equipment, net, with a value of $1,040 in 2003?",
+          "gold_yes_tables": [
+            72433
+          ]
+        }
+      ]
+    },
+    "NFLX_2008": {
+      "conditions": [
+        {
+          "condition_id": "NFLX_2008_c01",
+          "condition": "Were there fully amortized content library assets with DVD's previously identified as no longer in circulation, offset in the fourth quarter of 2008?",
+          "gold_yes_tables": [
+            72368
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c02",
+          "condition": "Did the company fully amortize the DVD's content library balance of $224 million in the fourth quarter of 2008?",
+          "gold_yes_tables": [
+            72371
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c03",
+          "condition": "Is there an indication that the report includes consolidated financial statements?",
+          "gold_yes_tables": [
+            72362
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c04",
+          "condition": "Does the table show both basic and diluted earnings per share?",
+          "gold_yes_tables": [
+            72366
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c05",
+          "condition": "Does the table indicate that there are amounts due between one and five years?",
+          "gold_yes_tables": [
+            72361
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c06",
+          "condition": "Did the effective tax rate decrease from 2007 to 2008?",
+          "gold_yes_tables": [
+            72358
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c07",
+          "condition": "Is there an entry labeled 'Accrued state sales and use tax' in the table?",
+          "gold_yes_tables": [
+            72373
+          ]
+        },
+        {
+          "condition_id": "NFLX_2008_c08",
+          "condition": "Was there any intangible asset reported with a value greater than $1,366 thousand?",
+          "gold_yes_tables": [
+            72372
+          ]
+        }
+      ]
+    },
+    "NFLX_2011": {
+      "conditions": [
+        {
+          "condition_id": "NFLX_2011_c01",
+          "condition": "Was the obligation to license streaming content considered a long-term liability in the consolidated balance sheet?",
+          "gold_yes_tables": [
+            72120
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c02",
+          "condition": "Did the company report a risk-free interest rate between 2.05% and 3.42% in 2011?",
+          "gold_yes_tables": [
+            72125
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c03",
+          "condition": "Was the revenue from 2011 greater than the revenue from 2010?",
+          "gold_yes_tables": [
+            72114
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c04",
+          "condition": "Is the amount due within one year more than half of the total short-term investments?",
+          "gold_yes_tables": [
+            72119
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c05",
+          "condition": "Is there a row showing an unrealized gain greater than zero?",
+          "gold_yes_tables": [
+            72118
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c06",
+          "condition": "Did the table include a balance sheet section?",
+          "gold_yes_tables": [
+            72112
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c07",
+          "condition": "Was the basic earnings per share calculated for 2011?",
+          "gold_yes_tables": [
+            72116
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c08",
+          "condition": "Is the total assets figure for 2011 higher than the total assets figure for 2010?",
+          "gold_yes_tables": [
+            72113
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c09",
+          "condition": "Is there a breakdown of content obligations by time frame?",
+          "gold_yes_tables": [
+            72124
+          ]
+        },
+        {
+          "condition_id": "NFLX_2011_c10",
+          "condition": "Were there significantly more employee stock options granted in 2011 than in 2010?",
+          "gold_yes_tables": [
+            72117
+          ]
+        }
+      ]
+    },
+    "NSC_2004": {
+      "conditions": [
+        {
+          "condition_id": "NSC_2004_c01",
+          "condition": "Did the railway property in 2004 include $19,530 million under the Road category?",
+          "gold_yes_tables": [
+            135793
+          ]
+        },
+        {
+          "condition_id": "NSC_2004_c02",
+          "condition": "Does this table show different discount rates for different years?",
+          "gold_yes_tables": [
+            135798
+          ]
+        },
+        {
+          "condition_id": "NSC_2004_c03",
+          "condition": "Is there a value added to net income due to stock-based employee compensation expense included in reported net income, net of related tax effects?",
+          "gold_yes_tables": [
+            135789
+          ]
+        },
+        {
+          "condition_id": "NSC_2004_c04",
+          "condition": "Is the net deferred tax asset greater in 2004 than in 2003?",
+          "gold_yes_tables": [
+            135792
+          ]
+        }
+      ]
+    },
+    "NSC_2006": {
+      "conditions": [
+        {
+          "condition_id": "NSC_2006_c01",
+          "condition": "Did the revenue increase in 2006 and 2005 significantly benefit from fuel surcharges?",
+          "gold_yes_tables": [
+            135815
+          ]
+        },
+        {
+          "condition_id": "NSC_2006_c02",
+          "condition": "Did the increase in average revenues per unit include higher fuel surcharges in 2006?",
+          "gold_yes_tables": [
+            135827
+          ]
+        },
+        {
+          "condition_id": "NSC_2006_c03",
+          "condition": "Does the table provide data for both freight cars and locomotives?",
+          "gold_yes_tables": [
+            135818
+          ]
+        },
+        {
+          "condition_id": "NSC_2006_c04",
+          "condition": "Did NS install more than 2,000 million new crossties in 2006?",
+          "gold_yes_tables": [
+            135824
+          ]
+        },
+        {
+          "condition_id": "NSC_2006_c05",
+          "condition": "Does the table include the total miles of road operated, including trackage rights?",
+          "gold_yes_tables": [
+            135814
+          ]
+        },
+        {
+          "condition_id": "NSC_2006_c06",
+          "condition": "Was the 2006 coal revenue reported in millions?",
+          "gold_yes_tables": [
+            135822
+          ]
+        }
+      ]
+    },
+    "NSC_2015": {
+      "conditions": [
+        {
+          "condition_id": "NSC_2015_c01",
+          "condition": "Did the Utility segment show a decrease in coal tonnage of more than 3% between 2014 and 2013?",
+          "gold_yes_tables": [
+            135603
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c02",
+          "condition": "Did the Coal segment's revenue constitute more than 10% of the total railway operating revenues in 2015?",
+          "gold_yes_tables": [
+            135602
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c03",
+          "condition": "Were there any increases in purchased services expense in both 2015 and 2014?",
+          "gold_yes_tables": [
+            135611
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c04",
+          "condition": "Did the company have a positive net cash provided by operating activities in all three years?",
+          "gold_yes_tables": [
+            135614
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c05",
+          "condition": "Did the company install new crossties in millions in 2015?",
+          "gold_yes_tables": [
+            135601
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c06",
+          "condition": "Did the table show that the company spent over $1,300 million on purchased services in 2013?",
+          "gold_yes_tables": [
+            135605
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c07",
+          "condition": "Did the table report that the total number of operational miles was over 19,000?",
+          "gold_yes_tables": [
+            135597
+          ]
+        },
+        {
+          "condition_id": "NSC_2015_c08",
+          "condition": "Did the table report that the 2015 revenue ton miles were $200 billion?",
+          "gold_yes_tables": [
+            135598
+          ]
+        }
+      ]
+    },
+    "NSC_2016": {
+      "conditions": [
+        {
+          "condition_id": "NSC_2016_c01",
+          "condition": "Did the percentage of plan assets at December 31, 2016, include all major asset categories?",
+          "gold_yes_tables": [
+            135923
+          ]
+        },
+        {
+          "condition_id": "NSC_2016_c02",
+          "condition": "Is there any agreement entered into before the year 1987?",
+          "gold_yes_tables": [
+            135934
+          ]
+        },
+        {
+          "condition_id": "NSC_2016_c03",
+          "condition": "Is Amendment No. 5 incorporated by reference from Norfolk Southern Corporation’s Form 8-K filed on September 2, 2004?",
+          "gold_yes_tables": [
+            135933
+          ]
+        },
+        {
+          "condition_id": "NSC_2016_c04",
+          "condition": "Does the table display the per-share grant-date fair values of both LTIP and TSOP?",
+          "gold_yes_tables": [
+            135927
+          ]
+        }
+      ]
+    },
+    "NVR_2005": {
+      "conditions": [
+        {
+          "condition_id": "NVR_2005_c01",
+          "condition": "Did the company have a repurchase authorization for up to $300 million of its common stock?",
+          "gold_yes_tables": [
+            22531
+          ]
+        },
+        {
+          "condition_id": "NVR_2005_c02",
+          "condition": "Is the table showing the effect of stock-based compensation expense on pro forma net income?",
+          "gold_yes_tables": [
+            22545
+          ]
+        },
+        {
+          "condition_id": "NVR_2005_c03",
+          "condition": "Did the prices per share exceed $700 for the First Quarter of 2005?",
+          "gold_yes_tables": [
+            22535
+          ]
+        },
+        {
+          "condition_id": "NVR_2005_c04",
+          "condition": "Did settlements in the Washington region increase year over year?",
+          "gold_yes_tables": [
+            22537
+          ]
+        },
+        {
+          "condition_id": "NVR_2005_c05",
+          "condition": "Was the total backlog value greater in 2005 than in 2003?",
+          "gold_yes_tables": [
+            22538
+          ]
+        },
+        {
+          "condition_id": "NVR_2005_c06",
+          "condition": "Did the accounts payable in the Homebuilding segment increase from 2004 to 2005?",
+          "gold_yes_tables": [
+            22543
+          ]
+        },
+        {
+          "condition_id": "NVR_2005_c07",
+          "condition": "Is the total amount for 'Homebuilding' assets in 2005 greater than the total amount for 'Homebuilding' assets in 2004?",
+          "gold_yes_tables": [
+            22542
+          ]
+        }
+      ]
+    },
+    "NVR_2008": {
+      "conditions": [
+        {
+          "condition_id": "NVR_2008_c01",
+          "condition": "Is the Homebuilding Mid Atlantic depreciation expense for 2007 less than the consolidated depreciation expense for that year?",
+          "gold_yes_tables": [
+            22608
+          ]
+        },
+        {
+          "condition_id": "NVR_2008_c02",
+          "condition": "Did the Homebuilding Mid Atlantic division have revenues in 2008?",
+          "gold_yes_tables": [
+            22605
+          ]
+        }
+      ]
+    },
+    "NVR_2015": {
+      "conditions": [
+        {
+          "condition_id": "NVR_2015_c01",
+          "condition": "Did the total intrinsic value of the stock options exceed $600,000 at the end of 2015?",
+          "gold_yes_tables": [
+            22526
+          ]
+        },
+        {
+          "condition_id": "NVR_2015_c02",
+          "condition": "Does the table provide information about the weighted average grant-date fair value of options granted?",
+          "gold_yes_tables": [
+            22527
+          ]
+        },
+        {
+          "condition_id": "NVR_2015_c03",
+          "condition": "Did the table show any year-end income tax expense computed at the federal statutory rate?",
+          "gold_yes_tables": [
+            22523
+          ]
+        },
+        {
+          "condition_id": "NVR_2015_c04",
+          "condition": "Does the table list the number of shares authorized, outstanding, and available to issue for multiple equity-based compensation plans?",
+          "gold_yes_tables": [
+            22525
+          ]
+        },
+        {
+          "condition_id": "NVR_2015_c05",
+          "condition": "Does the table show additions and reductions for tax positions?",
+          "gold_yes_tables": [
+            22524
+          ]
+        }
+      ]
+    },
+    "NVR_2017": {
+      "conditions": [
+        {
+          "condition_id": "NVR_2017_c01",
+          "condition": "Does NVR, Inc.'s 2017 consolidated balance sheet include the reserves for losses on mortgage loans originated?",
+          "gold_yes_tables": [
+            22572
+          ]
+        },
+        {
+          "condition_id": "NVR_2017_c02",
+          "condition": "Does this table show detailed revenue figures broken down by geographic region?",
+          "gold_yes_tables": [
+            22578
+          ]
+        },
+        {
+          "condition_id": "NVR_2017_c03",
+          "condition": "Does the table list the Amended and Restated Employment Agreement of NVR, Inc.?",
+          "gold_yes_tables": [
+            22571
+          ]
+        },
+        {
+          "condition_id": "NVR_2017_c04",
+          "condition": "Did the company use stock options and restricted share units in calculating diluted earnings per share in 2017?",
+          "gold_yes_tables": [
+            22576
+          ]
+        },
+        {
+          "condition_id": "NVR_2017_c05",
+          "condition": "Is the average settlement unit price higher in 2017 compared to 2016?",
+          "gold_yes_tables": [
+            22567
+          ]
+        }
+      ]
+    },
+    "OXY_2017": {
+      "conditions": [
+        {
+          "condition_id": "OXY_2017_c01",
+          "condition": "Did the gain on sale of equity investments and other assets affect the segment results in the Chemical business?",
+          "gold_yes_tables": [
+            3329
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c02",
+          "condition": "Did the chemical segment achieve positive earnings in 2017?",
+          "gold_yes_tables": [
+            3327
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c03",
+          "condition": "Did the operating cash flows from continuing operations in 2017 exceed $4.9 billion?",
+          "gold_yes_tables": [
+            3334
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c04",
+          "condition": "Did the corporate income tax rate change during the years listed in the table affect the income taxes shown?",
+          "gold_yes_tables": [
+            3294
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c05",
+          "condition": "Did any of Occidental’s sites have an environmental reserve balance exceeding $10 million as of December 31, 2017?",
+          "gold_yes_tables": [
+            3336
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c06",
+          "condition": "Is the asset impairment charge of $825 million listed under the 'Asset impairments and related items' in the 2016 column of the table?",
+          "gold_yes_tables": [
+            3331
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c07",
+          "condition": "Did the company have more trade receivables, net, in 2017 compared to 2016?",
+          "gold_yes_tables": [
+            3333
+          ]
+        },
+        {
+          "condition_id": "OXY_2017_c08",
+          "condition": "Does the table list 'assets held for sale' under the current assets section?",
+          "gold_yes_tables": [
+            3292
+          ]
+        }
+      ]
+    },
+    "PEP_2007": {
+      "conditions": [
+        {
+          "condition_id": "PEP_2007_c01",
+          "condition": "Did the table show a reduction in the reserves for income taxes due to FIN 48 adoption?",
+          "gold_yes_tables": [
+            25252
+          ]
+        },
+        {
+          "condition_id": "PEP_2007_c02",
+          "condition": "Is there an item labeled 'Net loss' in the table?",
+          "gold_yes_tables": [
+            25254
+          ]
+        }
+      ]
+    },
+    "PHM_2004": {
+      "conditions": [
+        {
+          "condition_id": "PHM_2004_c01",
+          "condition": "Did the company have available credit lines exceeding $41,000 at year-end in 2004?",
+          "gold_yes_tables": [
+            128135
+          ]
+        },
+        {
+          "condition_id": "PHM_2004_c02",
+          "condition": "Does the table list both revenues and costs of sales for different regions?",
+          "gold_yes_tables": [
+            128134
+          ]
+        }
+      ]
+    },
+    "PHM_2007": {
+      "conditions": [
+        {
+          "condition_id": "PHM_2007_c01",
+          "condition": "Did the balance sheet show house and land inventories exceeding $7,000,000 for the year 2007?",
+          "gold_yes_tables": [
+            127961
+          ]
+        },
+        {
+          "condition_id": "PHM_2007_c02",
+          "condition": "Was there a loss before income taxes reported in 2007?",
+          "gold_yes_tables": [
+            127963
+          ]
+        },
+        {
+          "condition_id": "PHM_2007_c03",
+          "condition": "Did the interest capitalized into homebuilding inventory show an overall increase from 2005 to 2007?",
+          "gold_yes_tables": [
+            127964
+          ]
+        }
+      ]
+    },
+    "PNR_2012": {
+      "conditions": [
+        {
+          "condition_id": "PNR_2012_c01",
+          "condition": "Did the Federal segment report income from continuing operations before income taxes and noncontrolling interest?",
+          "gold_yes_tables": [
+            87023
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c02",
+          "condition": "Were the total capital lease obligations as of December 31, 2012, recorded as part of the Merger and CPT acquisition?",
+          "gold_yes_tables": [
+            87021
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c03",
+          "condition": "Did the table specify the range of useful lives for machinery and equipment?",
+          "gold_yes_tables": [
+            87014
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c04",
+          "condition": "Does this table compare recorded amounts and fair values for different types of debt?",
+          "gold_yes_tables": [
+            87022
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c05",
+          "condition": "Was there cash paid for interest and income taxes listed for three consecutive years?",
+          "gold_yes_tables": [
+            87020
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c06",
+          "condition": "Did the net interest expense show a significant increase between 2011 and 2012?",
+          "gold_yes_tables": [
+            87007
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c07",
+          "condition": "Was there a cash payment or other expenditure listed that was larger than the beginning balance?",
+          "gold_yes_tables": [
+            87018
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c08",
+          "condition": "Did the table report severance and related costs for all three years?",
+          "gold_yes_tables": [
+            87017
+          ]
+        },
+        {
+          "condition_id": "PNR_2012_c09",
+          "condition": "Is the pro forma net income (loss) from continuing operations attributable to Pentair Ltd. positive in 2012?",
+          "gold_yes_tables": [
+            87015
+          ]
+        }
+      ]
+    },
+    "PNR_2015": {
+      "conditions": [
+        {
+          "condition_id": "PNR_2015_c01",
+          "condition": "Does the total debt minus current maturities and short-term borrowings equal $4,710.0 million in 2015?",
+          "gold_yes_tables": [
+            87132
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c02",
+          "condition": "Was the gain on the 2019 Euro Notes included in the cumulative translation adjustment account?",
+          "gold_yes_tables": [
+            87134
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c03",
+          "condition": "Was there a negative net income (loss) for Pentair plc in both 2015 and 2014?",
+          "gold_yes_tables": [
+            87126
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c04",
+          "condition": "Is there a difference between the recorded amounts and the fair values for fixed-rate debt in both years?",
+          "gold_yes_tables": [
+            87136
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c05",
+          "condition": "Do buildings and leasehold improvements have a maximum useful life estimate of 50 years?",
+          "gold_yes_tables": [
+            87123
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c06",
+          "condition": "Did the net deferred tax liability increase between 2014 and 2015?",
+          "gold_yes_tables": [
+            87141
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c07",
+          "condition": "Did the table show severance and related costs exceeding $50 million in any year?",
+          "gold_yes_tables": [
+            87127
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c08",
+          "condition": "Does the table have separate columns for U.S. and non-U.S. pension plans?",
+          "gold_yes_tables": [
+            87143
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c09",
+          "condition": "Did the table state that the healthcare cost trend rate for the following year was greater than 6.8%?",
+          "gold_yes_tables": [
+            87145
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c10",
+          "condition": "Did the company pay more cash for income taxes in 2015 than in 2014?",
+          "gold_yes_tables": [
+            87133
+          ]
+        },
+        {
+          "condition_id": "PNR_2015_c11",
+          "condition": "Did the company recognize a significant loss on the sale of its Water Transport business in Australia?",
+          "gold_yes_tables": [
+            87124
+          ]
+        }
+      ]
+    },
+    "PNR_2017": {
+      "conditions": [
+        {
+          "condition_id": "PNR_2017_c01",
+          "condition": "Is the cash paid for income taxes, net included in the table?",
+          "gold_yes_tables": [
+            87210
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c02",
+          "condition": "Does the table reflect the accumulated benefit obligation for all defined benefit plans as of December 31, 2017?",
+          "gold_yes_tables": [
+            87218
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c03",
+          "condition": "Does the table include cash paid for interest and income taxes separately for each year?",
+          "gold_yes_tables": [
+            87206
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c04",
+          "condition": "Did the company's U.S. pension plans achieve the target percentages for both Fixed Income and Alternative asset classes in 2017 and 2016?",
+          "gold_yes_tables": [
+            87220
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c05",
+          "condition": "Is there a U.S. pension plan service cost reported in the table?",
+          "gold_yes_tables": [
+            87215
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c06",
+          "condition": "Does this table accurately reflect the recorded amounts and fair values of all debt components as presented?",
+          "gold_yes_tables": [
+            87208
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c07",
+          "condition": "Did the company record any gross unrecognized tax benefits in the Other current liabilities or Other non-current liabilities in the Consolidated Balance Sheets?",
+          "gold_yes_tables": [
+            87212
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c08",
+          "condition": "Did the gross rental expense reach $40 million in any year?",
+          "gold_yes_tables": [
+            87229
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c09",
+          "condition": "Did the table report any positive net income from continuing operations in 2015?",
+          "gold_yes_tables": [
+            87197
+          ]
+        },
+        {
+          "condition_id": "PNR_2017_c10",
+          "condition": "Did the consolidated segment income increase in 2017 compared to 2016?",
+          "gold_yes_tables": [
+            87226
+          ]
+        }
+      ]
+    },
+    "PPL_2007": {
+      "conditions": [
+        {
+          "condition_id": "PPL_2007_c01",
+          "condition": "Did the Western U.S. non-trading margins show a $30 million increase in 2007 over 2006, as explained by the coal generation increase?",
+          "gold_yes_tables": [
+            42754
+          ]
+        },
+        {
+          "condition_id": "PPL_2007_c02",
+          "condition": "Did the gains from PJM capacity contracts in Eastern U.S. non-trading margins increase due to the implementation of Reliability Pricing Model (RPM)?",
+          "gold_yes_tables": [
+            42755
+          ]
+        },
+        {
+          "condition_id": "PPL_2007_c03",
+          "condition": "Did the Domestic gross energy margins exceed $186 million in 2007?",
+          "gold_yes_tables": [
+            42760
+          ]
+        },
+        {
+          "condition_id": "PPL_2007_c04",
+          "condition": "Is the fair value of contracts outstanding at the end of 2007 greater in absolute value compared to 2006?",
+          "gold_yes_tables": [
+            42761
+          ]
+        },
+        {
+          "condition_id": "PPL_2007_c05",
+          "condition": "Did the PPL Electric Credit Facility have a capacity of $200 million?",
+          "gold_yes_tables": [
+            42746
+          ]
+        },
+        {
+          "condition_id": "PPL_2007_c06",
+          "condition": "Did the table report any year with construction expenditures greater than $500 million?",
+          "gold_yes_tables": [
+            42747
+          ]
+        },
+        {
+          "condition_id": "PPL_2007_c07",
+          "condition": "Did the sale of Latin American businesses result in a significant transaction amount?",
+          "gold_yes_tables": [
+            42759
+          ]
+        }
+      ]
+    },
+    "PPL_2008": {
+      "conditions": [
+        {
+          "condition_id": "PPL_2008_c01",
+          "condition": "Does the Fair Value of the Long-term debt of PPL Electric match its Carrying Amount as of December 31, 2008?",
+          "gold_yes_tables": [
+            42905
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c02",
+          "condition": "Did the equity method investments reported in the table include Bangor-Pacific Hydro Associates with 50.0% ownership?",
+          "gold_yes_tables": [
+            42846
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c03",
+          "condition": "Did the net cash provided by operating activities increase by 14% in 2008 compared to 2007?",
+          "gold_yes_tables": [
+            42892
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c04",
+          "condition": "Did the Eastern U.S. non-trading margins decrease by $106 million in 2008?",
+          "gold_yes_tables": [
+            42879
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c05",
+          "condition": "Did Fitch lower the PPL Electric preference stock rating from BBB+ to BBB?",
+          "gold_yes_tables": [
+            42895
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c06",
+          "condition": "Did the total income tax expense from continuing operations exceed $200 million in any year?",
+          "gold_yes_tables": [
+            42902
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c07",
+          "condition": "Does PPL Energy Supply have any operations in the U.S. (federal)?",
+          "gold_yes_tables": [
+            42904
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c08",
+          "condition": "Is there a separate column for short-term investments in this table?",
+          "gold_yes_tables": [
+            42882
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c09",
+          "condition": "Does this table show the actual and projected capital expenditures for construction, transmission and distribution facilities, and other categories over multiple years?",
+          "gold_yes_tables": [
+            42893
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c10",
+          "condition": "Did the table show a change in the discount rate resulting in a decrease in defined benefit liabilities?",
+          "gold_yes_tables": [
+            42888
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c11",
+          "condition": "Is there a 'Generating facilities' section in the table?",
+          "gold_yes_tables": [
+            42884
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c12",
+          "condition": "Is the table showing the income available to PPL for three consecutive years?",
+          "gold_yes_tables": [
+            42890
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c13",
+          "condition": "Did the Unrealized gains on available-for-sale securities show a positive value in 2007?",
+          "gold_yes_tables": [
+            42898
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c14",
+          "condition": "Did the Wholesale energy marketing revenue in 2008 exceed the 2007 revenue?",
+          "gold_yes_tables": [
+            42878
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c15",
+          "condition": "Did PPL Electric report recoverable transition costs in both 2008 and 2007?",
+          "gold_yes_tables": [
+            42897
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c16",
+          "condition": "Was there a deferred tax benefit recorded in 2007 related to the U.K. tax rate reduction effective April 1, 2008?",
+          "gold_yes_tables": [
+            42899
+          ]
+        },
+        {
+          "condition_id": "PPL_2008_c17",
+          "condition": "Does this table show a consistent impact of a specific discount rate on both defined benefit liabilities and regulatory assets?",
+          "gold_yes_tables": [
+            42896
+          ]
+        }
+      ]
+    },
+    "ROK_2018": {
+      "conditions": [
+        {
+          "condition_id": "ROK_2018_c01",
+          "condition": "Did the table report that common stock had a beginning balance of $181.4 million in all three years?",
+          "gold_yes_tables": [
+            14287
+          ]
+        },
+        {
+          "condition_id": "ROK_2018_c02",
+          "condition": "Is there a projected benefit obligation that exceeds the fair value of plan assets?",
+          "gold_yes_tables": [
+            14291
+          ]
+        }
+      ]
+    },
+    "SBAC_2008": {
+      "conditions": [
+        {
+          "condition_id": "SBAC_2008_c01",
+          "condition": "Does the 2007 Site leasing segment operating profit include revenue from the AAT Acquisition?",
+          "gold_yes_tables": [
+            8106
+          ]
+        },
+        {
+          "condition_id": "SBAC_2008_c02",
+          "condition": "Did the site leasing segment contribute more than $70.8 million to the total site leasing segment operating profit in 2007?",
+          "gold_yes_tables": [
+            8104
+          ]
+        },
+        {
+          "condition_id": "SBAC_2008_c03",
+          "condition": "Are there multiple rows of data representing different years?",
+          "gold_yes_tables": [
+            8095
+          ]
+        },
+        {
+          "condition_id": "SBAC_2008_c04",
+          "condition": "Was there an increase in site leasing segment operating profit?",
+          "gold_yes_tables": [
+            8091
+          ]
+        },
+        {
+          "condition_id": "SBAC_2008_c05",
+          "condition": "Was the risk-free interest rate between 2.10% and 2.97% for the year ended December 31, 2008?",
+          "gold_yes_tables": [
+            8107
+          ]
+        }
+      ]
+    },
+    "SYK_2006": {
+      "conditions": [
+        {
+          "condition_id": "SYK_2006_c01",
+          "condition": "Did the table show a decline in the reported value year-over-year?",
+          "gold_yes_tables": [
+            136780
+          ]
+        },
+        {
+          "condition_id": "SYK_2006_c02",
+          "condition": "Is 'Developed technology' listed among the amortized intangible assets at the end of 2006?",
+          "gold_yes_tables": [
+            136779
+          ]
+        },
+        {
+          "condition_id": "SYK_2006_c03",
+          "condition": "Is the fair value listed for the 'Due after one year through three years' category consistent with the estimated cost?",
+          "gold_yes_tables": [
+            136777
+          ]
+        },
+        {
+          "condition_id": "SYK_2006_c04",
+          "condition": "Did the company have finished goods inventory greater than the work-in-process inventory in both 2006 and 2005?",
+          "gold_yes_tables": [
+            136778
+          ]
+        },
+        {
+          "condition_id": "SYK_2006_c05",
+          "condition": "Was 2006 the first year shown in the net earnings table?",
+          "gold_yes_tables": [
+            136781
+          ]
+        }
+      ]
+    },
+    "SYK_2014": {
+      "conditions": [
+        {
+          "condition_id": "SYK_2014_c01",
+          "condition": "Does the Neurotechnology product segment include minimally invasive endovascular techniques in its offerings?",
+          "gold_yes_tables": [
+            136605
+          ]
+        },
+        {
+          "condition_id": "SYK_2014_c02",
+          "condition": "Were the dividends declared per share for all quarters in 2014 equal?",
+          "gold_yes_tables": [
+            136608
+          ]
+        },
+        {
+          "condition_id": "SYK_2014_c03",
+          "condition": "Did the cost of sales exceed 50% of the net sales for any fiscal year during the period from 2010 to 2014?",
+          "gold_yes_tables": [
+            136596
+          ]
+        },
+        {
+          "condition_id": "SYK_2014_c04",
+          "condition": "Is the table structured to display the market price range and dividends declared per share of common stock for each quarter?",
+          "gold_yes_tables": [
+            136609
+          ]
+        },
+        {
+          "condition_id": "SYK_2014_c05",
+          "condition": "Did the total amount of Instruments surpass $1,300 in 2014?",
+          "gold_yes_tables": [
+            136604
+          ]
+        },
+        {
+          "condition_id": "SYK_2014_c06",
+          "condition": "Does the table show any facility owned by the company?",
+          "gold_yes_tables": [
+            136607
+          ]
+        }
+      ]
+    },
+    "TDG_2007": {
+      "conditions": [
+        {
+          "condition_id": "TDG_2007_c01",
+          "condition": "Did the company report any identifiable intangible assets not subject to amortization in fiscal years 2007 and 2006?",
+          "gold_yes_tables": [
+            64890
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c02",
+          "condition": "Is there a row labeled 'Total' in the table?",
+          "gold_yes_tables": [
+            64895
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c03",
+          "condition": "Did the table report any deferred compensation obligation exceeding $1,888?",
+          "gold_yes_tables": [
+            64899
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c04",
+          "condition": "Are all listed assets included under 'Total assets'?",
+          "gold_yes_tables": [
+            64888
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c05",
+          "condition": "Did the company list more assets in 2007 than in 2006?",
+          "gold_yes_tables": [
+            64884
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c06",
+          "condition": "Did the compensation and benefits expense exceed the interest expense in 2007?",
+          "gold_yes_tables": [
+            64897
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c07",
+          "condition": "Was the Guarantee and Collateral Agreement initially dated June 23, 2006?",
+          "gold_yes_tables": [
+            64881
+          ]
+        },
+        {
+          "condition_id": "TDG_2007_c08",
+          "condition": "Is there a separate column for allowances in the table?",
+          "gold_yes_tables": [
+            64891
+          ]
+        }
+      ]
+    },
+    "TDG_2008": {
+      "conditions": [
+        {
+          "condition_id": "TDG_2008_c01",
+          "condition": "Does the table include properties subject to mortgage liens under TransDigm's Senior Secured Credit Facility?",
+          "gold_yes_tables": [
+            65081
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c02",
+          "condition": "Did any quarter during fiscal year 2007 have a high value exceeding $27.89?",
+          "gold_yes_tables": [
+            65082
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c03",
+          "condition": "Did the table report any row with the number of securities to be issued exceeding 4 million?",
+          "gold_yes_tables": [
+            65090
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c04",
+          "condition": "Did the company’s cash and cash equivalents increase from 2004 to 2007?",
+          "gold_yes_tables": [
+            65085
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c05",
+          "condition": "Does the table include data on cash flows provided by operating activities?",
+          "gold_yes_tables": [
+            65086
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c06",
+          "condition": "Did TransDigm Group Inc.'s cumulative total return surpass that of the S&P SmallCap 600 Aerospace & Defense Index between March 15, 2006, and March 15, 2009?",
+          "gold_yes_tables": [
+            65083
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c07",
+          "condition": "Does the table list any documents filed by TransDigm Group Incorporated?",
+          "gold_yes_tables": [
+            65092
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c08",
+          "condition": "Is there a registration rights agreement dated June 23, 2006?",
+          "gold_yes_tables": [
+            65096
+          ]
+        },
+        {
+          "condition_id": "TDG_2008_c09",
+          "condition": "Was the financial report structured to include a detailed statement of income for the fiscal years ending in 2008?",
+          "gold_yes_tables": [
+            65091
+          ]
+        }
+      ]
+    },
+    "TEL_2008": {
+      "conditions": [
+        {
+          "condition_id": "TEL_2008_c01",
+          "condition": "Were the U.S. and non-U.S. components of income from continuing operations before income taxes and minority interest reported in the table?",
+          "gold_yes_tables": [
+            50313
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c02",
+          "condition": "Did amortization of net actuarial loss occur in both U.S. and Non-U.S. Plans during fiscal 2008?",
+          "gold_yes_tables": [
+            50306
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c03",
+          "condition": "Did the adoption of SFAS No. 158 result in a change in the total assets of the company?",
+          "gold_yes_tables": [
+            50301
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c04",
+          "condition": "Did the table show any change in warranties during fiscal year 2008?",
+          "gold_yes_tables": [
+            50300
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c05",
+          "condition": "Is the net sales of the United States in fiscal 2008 greater than those in fiscal 2007?",
+          "gold_yes_tables": [
+            50327
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c06",
+          "condition": "Was Belgium open for business from 2006 through 2008?",
+          "gold_yes_tables": [
+            50318
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c07",
+          "condition": "Does the income from continuing operations before income taxes and minority interest exceed $1 billion for at least one year?",
+          "gold_yes_tables": [
+            50314
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c08",
+          "condition": "Were there any shares granted in the table?",
+          "gold_yes_tables": [
+            50321
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c09",
+          "condition": "Is the total number of exercisable shares greater than the number of forfeited shares?",
+          "gold_yes_tables": [
+            50322
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c10",
+          "condition": "Does the table indicate the health care cost trend rate for the next fiscal year?",
+          "gold_yes_tables": [
+            50311
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c11",
+          "condition": "Was there a non-zero amount reported for any fiscal year after 2008 in the given table?",
+          "gold_yes_tables": [
+            50310
+          ]
+        },
+        {
+          "condition_id": "TEL_2008_c12",
+          "condition": "Did the Electronic Components segment have more assets than the Network Solutions segment in all three fiscal years?",
+          "gold_yes_tables": [
+            50326
+          ]
+        }
+      ]
+    },
+    "TEL_2011": {
+      "conditions": [
+        {
+          "condition_id": "TEL_2011_c01",
+          "condition": "Is the $51 million allocation to goodwill reported in the Communications and Industrial Solutions segment?",
+          "gold_yes_tables": [
+            50035
+          ]
+        },
+        {
+          "condition_id": "TEL_2011_c02",
+          "condition": "Was there a net restructuring credit recorded during fiscal 2011 in the Transportation Solutions segment?",
+          "gold_yes_tables": [
+            50030
+          ]
+        },
+        {
+          "condition_id": "TEL_2011_c03",
+          "condition": "What is the minimum depreciation period for machinery and equipment?",
+          "gold_yes_tables": [
+            50023
+          ]
+        },
+        {
+          "condition_id": "TEL_2011_c04",
+          "condition": "Is the table organized to show all major categories of assets?",
+          "gold_yes_tables": [
+            50032
+          ]
+        },
+        {
+          "condition_id": "TEL_2011_c05",
+          "condition": "Does the table show the change in gross margin across the fiscal years?",
+          "gold_yes_tables": [
+            50021
+          ]
+        },
+        {
+          "condition_id": "TEL_2011_c06",
+          "condition": "Did the company report net income (loss) from continuing operations in fiscal year 2011?",
+          "gold_yes_tables": [
+            50022
+          ]
+        },
+        {
+          "condition_id": "TEL_2011_c07",
+          "condition": "Does the table show total contractual cash obligations by fiscal year?",
+          "gold_yes_tables": [
+            50020
+          ]
+        }
+      ]
+    },
+    "TMO_2010": {
+      "conditions": [
+        {
+          "condition_id": "TMO_2010_c01",
+          "condition": "Did flu tests and related diagnostic products significantly influence the quarterly variations in the Laboratory Products and Services segment revenue?",
+          "gold_yes_tables": [
+            38959
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c02",
+          "condition": "Was the common stock repurchase program authorized to purchase up to an additional $750 million of the company's common stock?",
+          "gold_yes_tables": [
+            38961
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c03",
+          "condition": "Did the table show a year-over-year revenue growth?",
+          "gold_yes_tables": [
+            38967
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c04",
+          "condition": "Does the table provide information on the number of shares purchased and their average price paid per share?",
+          "gold_yes_tables": [
+            38962
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c05",
+          "condition": "Did the change in revenues from 2009 to 2010 reflect a positive growth?",
+          "gold_yes_tables": [
+            38968
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c06",
+          "condition": "Is this document listing equity and incentive plans for Fisher Scientific International Inc?",
+          "gold_yes_tables": [
+            38979
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c07",
+          "condition": "Did the company's revenues exceed $10,000 million in 2010?",
+          "gold_yes_tables": [
+            38963
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c08",
+          "condition": "Did the operating income margin decrease between 2008 and 2009?",
+          "gold_yes_tables": [
+            38971
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c09",
+          "condition": "Did the Consolidated Revenues for 2010 increase compared to 2009?",
+          "gold_yes_tables": [
+            38966
+          ]
+        },
+        {
+          "condition_id": "TMO_2010_c10",
+          "condition": "Does this table list documents related to executive compensation and benefit plans?",
+          "gold_yes_tables": [
+            38978
+          ]
+        }
+      ]
+    },
+    "TMO_2011": {
+      "conditions": [
+        {
+          "condition_id": "TMO_2011_c01",
+          "condition": "Did the company report a provision for income taxes at the statutory rate in 2011?",
+          "gold_yes_tables": [
+            38709
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c02",
+          "condition": "Was there a significant amount of after-tax income associated with the company's discontinued operations?",
+          "gold_yes_tables": [
+            38712
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c03",
+          "condition": "In 2011, was there a pension plan with a projected benefit obligation exceeding its plan assets?",
+          "gold_yes_tables": [
+            38711
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c04",
+          "condition": "In 2011, did the projected benefit obligation exceed the fair value of plan assets?",
+          "gold_yes_tables": [
+            38695
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c05",
+          "condition": "Does the table correctly reflect the historical exercise patterns used to estimate the expected life of options?",
+          "gold_yes_tables": [
+            38698
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c06",
+          "condition": "Does the table show an increase of exactly $0.4 million in the effect of service and interest cost components?",
+          "gold_yes_tables": [
+            38705
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c07",
+          "condition": "Does the table specify the discount rate and the average rate of increase in employee compensation?",
+          "gold_yes_tables": [
+            38701
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c08",
+          "condition": "Does the table include data for multiple years?",
+          "gold_yes_tables": [
+            38700
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c09",
+          "condition": "Did the total value of inventory (Raw Materials + Work in Process + Finished Goods) increase from 2010 to 2011?",
+          "gold_yes_tables": [
+            38692
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c10",
+          "condition": "Did the pension plans have an accumulated benefit obligation exceeding the plan assets in both 2011 and 2010?",
+          "gold_yes_tables": [
+            38702
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c11",
+          "condition": "Does the table list the fair value of equity funds in millions?",
+          "gold_yes_tables": [
+            38706
+          ]
+        },
+        {
+          "condition_id": "TMO_2011_c12",
+          "condition": "Is there an acquisition activity listed in the table?",
+          "gold_yes_tables": [
+            38696
+          ]
+        }
+      ]
+    },
+    "TSN_2009": {
+      "conditions": [
+        {
+          "condition_id": "TSN_2009_c01",
+          "condition": "Did the company designate live cattle and lean hogs futures contracts as fair value hedges?",
+          "gold_yes_tables": [
+            144797
+          ]
+        },
+        {
+          "condition_id": "TSN_2009_c02",
+          "condition": "Was there a pretax loss recognized in OCI that was expected to be reclassified into earnings within the next 12 months?",
+          "gold_yes_tables": [
+            144799
+          ]
+        },
+        {
+          "condition_id": "TSN_2009_c03",
+          "condition": "Did the table show any quarter with negative operating income?",
+          "gold_yes_tables": [
+            144815
+          ]
+        },
+        {
+          "condition_id": "TSN_2009_c04",
+          "condition": "Is the notional volume associated with Live Cattle higher than that of Corn?",
+          "gold_yes_tables": [
+            144800
+          ]
+        },
+        {
+          "condition_id": "TSN_2009_c05",
+          "condition": "In 2009, the pension benefits' projected benefit obligation exceeded the fair value of plan assets in millions?",
+          "gold_yes_tables": [
+            144809
+          ]
+        },
+        {
+          "condition_id": "TSN_2009_c06",
+          "condition": "Did the Pork segment have sales totaling more than $300 million in any fiscal year?",
+          "gold_yes_tables": [
+            144814
+          ]
+        }
+      ]
+    },
+    "URI_2012": {
+      "conditions": [
+        {
+          "condition_id": "URI_2012_c01",
+          "condition": "Did the table show an increase in other income, net in 2012 compared to 2011?",
+          "gold_yes_tables": [
+            34506
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c02",
+          "condition": "Did the gross margin for equipment rentals in 2012 increase?",
+          "gold_yes_tables": [
+            34501
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c03",
+          "condition": "Is the Moody's credit rating stable?",
+          "gold_yes_tables": [
+            34508
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c04",
+          "condition": "Did the company report a loss from continuing operations in 2010?",
+          "gold_yes_tables": [
+            34496
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c05",
+          "condition": "Does this table show interest expense for subordinated convertible debentures?",
+          "gold_yes_tables": [
+            34505
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c06",
+          "condition": "Has the total assets of the company increased over the last five years?",
+          "gold_yes_tables": [
+            34495
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c07",
+          "condition": "Did equipment rentals in the 'General' segment represent more than half of the total revenue in 2012?",
+          "gold_yes_tables": [
+            34500
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c08",
+          "condition": "Did the SG&A expense increase year-over-year from 2011 to 2012?",
+          "gold_yes_tables": [
+            34503
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c09",
+          "condition": "Did sales of rental equipment increase more than 90% between 2011 and 2012?",
+          "gold_yes_tables": [
+            34499
+          ]
+        },
+        {
+          "condition_id": "URI_2012_c10",
+          "condition": "In 2012, did the company hold more cash and cash equivalents than in 2011?",
+          "gold_yes_tables": [
+            34511
+          ]
+        }
+      ]
+    },
+    "URI_2013": {
+      "conditions": [
+        {
+          "condition_id": "URI_2013_c01",
+          "condition": "Was the fixed price diesel swaps contract valued using observable market data as of December 31, 2013?",
+          "gold_yes_tables": [
+            34775
+          ]
+        },
+        {
+          "condition_id": "URI_2013_c02",
+          "condition": "Was the fair value of the 4 percent Convertible Senior Notes calculated using an effective interest rate of 6.6 percent?",
+          "gold_yes_tables": [
+            34776
+          ]
+        },
+        {
+          "condition_id": "URI_2013_c03",
+          "condition": "Does the table show that total revenue includes separate entries for 'Equipment rentals', 'Sales of rental equipment', 'Sales of new equipment', 'Contractor supplies sales', and 'Service and other revenues'?",
+          "gold_yes_tables": [
+            34764
+          ]
+        },
+        {
+          "condition_id": "URI_2013_c04",
+          "condition": "Did the Accounts Receivable Securitization Facility have a value of $430 in 2013?",
+          "gold_yes_tables": [
+            34777
+          ]
+        },
+        {
+          "condition_id": "URI_2013_c05",
+          "condition": "Did the total value for all years exceed $7,000?",
+          "gold_yes_tables": [
+            34778
+          ]
+        },
+        {
+          "condition_id": "URI_2013_c06",
+          "condition": "Did the company's rental equipment revenue in 2013 exceed $3,000?",
+          "gold_yes_tables": [
+            34766
+          ]
+        },
+        {
+          "condition_id": "URI_2013_c07",
+          "condition": "Does the table show the accrued compensation and benefit costs for the year 2013?",
+          "gold_yes_tables": [
+            34774
+          ]
+        }
+      ]
+    },
+    "URI_2014": {
+      "conditions": [
+        {
+          "condition_id": "URI_2014_c01",
+          "condition": "Was the total value of acquired assets calculated correctly, considering the provided intangible asset data?",
+          "gold_yes_tables": [
+            34574
+          ]
+        },
+        {
+          "condition_id": "URI_2014_c02",
+          "condition": "Did the Equipment rentals gross profit increase between 2012 and 2013?",
+          "gold_yes_tables": [
+            34576
+          ]
+        },
+        {
+          "condition_id": "URI_2014_c03",
+          "condition": "Does the total purchase consideration include any contingent consideration?",
+          "gold_yes_tables": [
+            34572
+          ]
+        },
+        {
+          "condition_id": "URI_2014_c04",
+          "condition": "Does the table show the remaining amortization period for non-compete agreements?",
+          "gold_yes_tables": [
+            34583
+          ]
+        },
+        {
+          "condition_id": "URI_2014_c05",
+          "condition": "Does the table provide revenue figures broken down by category?",
+          "gold_yes_tables": [
+            34578
+          ]
+        },
+        {
+          "condition_id": "URI_2014_c06",
+          "condition": "Does the table show a gross profit from equipment rentals?",
+          "gold_yes_tables": [
+            34577
+          ]
+        }
+      ]
+    },
+    "VRSK_2011": {
+      "conditions": [
+        {
+          "condition_id": "VRSK_2011_c01",
+          "condition": "Is the Technology-based intangible asset included among the reportable segments?",
+          "gold_yes_tables": [
+            105058
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c02",
+          "condition": "Was the intrinsic value of stock options outstanding and exercisable at December 31, 2011, calculated using the quoted price of Verisk's common stock?",
+          "gold_yes_tables": [
+            105071
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c03",
+          "condition": "Did the intrinsic value of the options exercised in 2011 exceed the aggregate intrinsic value of the options outstanding at the same time?",
+          "gold_yes_tables": [
+            105070
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c04",
+          "condition": "Was the Unrealized gains on investments greater than zero in 2011?",
+          "gold_yes_tables": [
+            105067
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c05",
+          "condition": "Does the table provide the range of exercise prices for both options outstanding and exercisable?",
+          "gold_yes_tables": [
+            105069
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c06",
+          "condition": "Is there a separate section for 'Other current assets' in this table?",
+          "gold_yes_tables": [
+            105065
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c07",
+          "condition": "Did the Federal and foreign income taxes for the current year exceed $133,043?",
+          "gold_yes_tables": [
+            105060
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c08",
+          "condition": "Does the total of all assets exceed the total liabilities assumed?",
+          "gold_yes_tables": [
+            105057
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c09",
+          "condition": "Did the Equity-partnerships table show a realized and unrealized loss for 2010?",
+          "gold_yes_tables": [
+            105080
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c10",
+          "condition": "Is the amortization of net actuarial loss in the 'Total' row greater than zero?",
+          "gold_yes_tables": [
+            105076
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c11",
+          "condition": "Does the table include data for both current and non-current deferred income tax assets?",
+          "gold_yes_tables": [
+            105062
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c12",
+          "condition": "Did the company report revenue in 2013?",
+          "gold_yes_tables": [
+            105066
+          ]
+        },
+        {
+          "condition_id": "VRSK_2011_c13",
+          "condition": "Is the sum of all amounts in the table equal to $87,072?",
+          "gold_yes_tables": [
+            105063
+          ]
+        }
+      ]
+    },
+    "VRSK_2012": {
+      "conditions": [
+        {
+          "condition_id": "VRSK_2012_c01",
+          "condition": "Did the payment due to the sellers for Bloodhound consist of $6,560?",
+          "gold_yes_tables": [
+            105175
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c02",
+          "condition": "Does the total assets listed for 2012 exceed the total liabilities and stockholders' deficit for that same year?",
+          "gold_yes_tables": [
+            105164
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c03",
+          "condition": "Is the total value of other long-term liabilities more than $2 million?",
+          "gold_yes_tables": [
+            105160
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c04",
+          "condition": "Does this table contain both pro forma revenues and pro forma net income?",
+          "gold_yes_tables": [
+            105174
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c05",
+          "condition": "In 2012, were there unbilled receivables reported?",
+          "gold_yes_tables": [
+            105168
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c06",
+          "condition": "Is the percentage change for the industry-standard insurance programs revenue listed in the table?",
+          "gold_yes_tables": [
+            105158
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c07",
+          "condition": "In 2012, was Furniture and office equipment's cost greater than $100,000?",
+          "gold_yes_tables": [
+            105171
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c08",
+          "condition": "Does a one percentage point increase in the discount rate affect the projected benefit cost?",
+          "gold_yes_tables": [
+            105161
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c09",
+          "condition": "Is the total intangible assets value listed?",
+          "gold_yes_tables": [
+            105173
+          ]
+        },
+        {
+          "condition_id": "VRSK_2012_c10",
+          "condition": "Was there a significant increase in cash provided by operations compared to previous years?",
+          "gold_yes_tables": [
+            105159
+          ]
+        }
+      ]
+    },
+    "VRSK_2013": {
+      "conditions": [
+        {
+          "condition_id": "VRSK_2013_c01",
+          "condition": "Did the company recognize any unrecognized compensation cost related to the 2009 Incentive Plan as of December 31, 2013?",
+          "gold_yes_tables": [
+            105415
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c02",
+          "condition": "Were the deferred income tax liabilities in 2013 directly associated with the pensions and depreciation mentioned in the shared paragraphs?",
+          "gold_yes_tables": [
+            105404
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c03",
+          "condition": "Did the company recognize deferred income tax liabilities in connection with the acquisition of MediConnect and Argus in 2012?",
+          "gold_yes_tables": [
+            105402
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c04",
+          "condition": "Is the total useful life of all intangible assets 11 years?",
+          "gold_yes_tables": [
+            105399
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c05",
+          "condition": "Is there a separate line item for state tax adjustments in the Deferred income tax asset section?",
+          "gold_yes_tables": [
+            105405
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c06",
+          "condition": "Does this table show the total amount for multiple years?",
+          "gold_yes_tables": [
+            105410
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c07",
+          "condition": "Is the table structured to show the changes in gross benefit amounts over the years?",
+          "gold_yes_tables": [
+            105419
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c08",
+          "condition": "Is the table grouped by categories?",
+          "gold_yes_tables": [
+            105418
+          ]
+        },
+        {
+          "condition_id": "VRSK_2013_c09",
+          "condition": "Is the table's first row labeled 'Net income'?",
+          "gold_yes_tables": [
+            105427
+          ]
+        }
+      ]
+    },
+    "VRSK_2018": {
+      "conditions": [
+        {
+          "condition_id": "VRSK_2018_c01",
+          "condition": "Were the potential shares of common stock excluded from the calculation of diluted EPS due to being anti-dilutive?",
+          "gold_yes_tables": [
+            105132
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c02",
+          "condition": "Did the company use cash from operations and borrowings from its Credit Facility to fund the repurchases of common stock in both 2018 and 2017?",
+          "gold_yes_tables": [
+            105135
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c03",
+          "condition": "Did the total accounts payable and accrued liabilities exceed $250 million in 2018?",
+          "gold_yes_tables": [
+            105129
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c04",
+          "condition": "Was there any positive amortization of prior service benefit cost (credit) in 2018?",
+          "gold_yes_tables": [
+            105141
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c05",
+          "condition": "Does the table include details about allowances and valuation allowances for income taxes?",
+          "gold_yes_tables": [
+            105147
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c06",
+          "condition": "Is the 2032-2038 period reported with an amount of $163.5?",
+          "gold_yes_tables": [
+            105127
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c07",
+          "condition": "In 2018, did the total income from continuing operations exceed $700 million?",
+          "gold_yes_tables": [
+            105125
+          ]
+        },
+        {
+          "condition_id": "VRSK_2018_c08",
+          "condition": "Did any PSUs have a grant date fair value per unit of $140.70?",
+          "gold_yes_tables": [
+            105138
+          ]
+        }
+      ]
+    },
+    "VRSN_2014": {
+      "conditions": [
+        {
+          "condition_id": "VRSN_2014_c01",
+          "condition": "Does the company have a total cost exceeding $655,751 as of December 31, 2014?",
+          "gold_yes_tables": [
+            90460
+          ]
+        },
+        {
+          "condition_id": "VRSN_2014_c02",
+          "condition": "Does this table list the net proceeds from the issuance of Subordinated Convertible Debentures?",
+          "gold_yes_tables": [
+            90464
+          ]
+        },
+        {
+          "condition_id": "VRSN_2014_c03",
+          "condition": "Is there a consistent listing of contractual interest amounts for Subordinated Convertible Debentures across all three years?",
+          "gold_yes_tables": [
+            90466
+          ]
+        },
+        {
+          "condition_id": "VRSN_2014_c04",
+          "condition": "Was there a contingent interest derivative associated with the Subordinated Convertible Debentures reported in the 2014 table?",
+          "gold_yes_tables": [
+            90458
+          ]
+        }
+      ]
+    },
+    "WAB_2013": {
+      "conditions": [
+        {
+          "condition_id": "WAB_2013_c01",
+          "condition": "Does Machinery and equipment's value exceed that of Buildings and improvements in both years?",
+          "gold_yes_tables": [
+            136483
+          ]
+        },
+        {
+          "condition_id": "WAB_2013_c02",
+          "condition": "Is there a document exhibit that filed as an exhibit to the Company’s Registration Statement on Form S-1?",
+          "gold_yes_tables": [
+            136482
+          ]
+        },
+        {
+          "condition_id": "WAB_2013_c03",
+          "condition": "Did the company disclose any legal proceedings?",
+          "gold_yes_tables": [
+            136477
+          ]
+        },
+        {
+          "condition_id": "WAB_2013_c04",
+          "condition": "Is there a separate section for Financing activities listed in the table?",
+          "gold_yes_tables": [
+            136481
+          ]
+        }
+      ]
+    },
+    "WDC_2010": {
+      "conditions": [
+        {
+          "condition_id": "WDC_2010_c01",
+          "condition": "Is there a breakdown of income before income taxes by domestic and foreign sources?",
+          "gold_yes_tables": [
+            69495
+          ]
+        },
+        {
+          "condition_id": "WDC_2010_c02",
+          "condition": "Are the ranges of exercise prices listed accurately?",
+          "gold_yes_tables": [
+            69493
+          ]
+        }
+      ]
+    },
+    "WDC_2011": {
+      "conditions": [
+        {
+          "condition_id": "WDC_2011_c01",
+          "condition": "Was there a change in weighted average shares outstanding from 2010 to 2011?",
+          "gold_yes_tables": [
+            69075
+          ]
+        },
+        {
+          "condition_id": "WDC_2011_c02",
+          "condition": "Did net cash flow provided by operating activities exceed $1,305 million in the fiscal year ended July 3, 2009?",
+          "gold_yes_tables": [
+            69067
+          ]
+        }
+      ]
+    },
+    "WU_2010": {
+      "conditions": [
+        {
+          "condition_id": "WU_2010_c01",
+          "condition": "Was the depreciation expense for property and equipment reported in line with the amount charged to expense for the year 2010?",
+          "gold_yes_tables": [
+            68268
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c02",
+          "condition": "Was there an expected actuarial loss of $8.1 million related to the pension plan participant's remaining life expectancy included in the Accumulated other comprehensive loss at December 31, 2010?",
+          "gold_yes_tables": [
+            68281
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c03",
+          "condition": "Was the Federal statutory rate consistent across all three years?",
+          "gold_yes_tables": [
+            68279
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c04",
+          "condition": "Did the table report foreign pre-tax income for all three years?",
+          "gold_yes_tables": [
+            68278
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c05",
+          "condition": "Does this table show the breakdown of future minimum lease payments?",
+          "gold_yes_tables": [
+            68290
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c06",
+          "condition": "Does the table show the percentage of plan assets at measurement dates for two consecutive years?",
+          "gold_yes_tables": [
+            68284
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c07",
+          "condition": "Did the capitalized contract costs have an initial cost of more than $350 million?",
+          "gold_yes_tables": [
+            68269
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c08",
+          "condition": "Does this table list deferred tax assets and liabilities separately?",
+          "gold_yes_tables": [
+            68280
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c09",
+          "condition": "Did the table report revenue for Q4?",
+          "gold_yes_tables": [
+            68303
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c10",
+          "condition": "Was there an Unrealized gain on investment securities reported in 2010?",
+          "gold_yes_tables": [
+            68292
+          ]
+        },
+        {
+          "condition_id": "WU_2010_c11",
+          "condition": "Does this table show amortized cost and fair value for different time periods?",
+          "gold_yes_tables": [
+            68276
+          ]
+        }
+      ]
+    },
+    "WU_2014": {
+      "conditions": [
+        {
+          "condition_id": "WU_2014_c01",
+          "condition": "Is the decrease in the Company's effective tax rate for 2014 primarily due to factors related to foreign currency fluctuations and tax contingency reserves?",
+          "gold_yes_tables": [
+            68054
+          ]
+        },
+        {
+          "condition_id": "WU_2014_c02",
+          "condition": "Did each international region account for less than 10% of consolidated revenue?",
+          "gold_yes_tables": [
+            68062
+          ]
+        },
+        {
+          "condition_id": "WU_2014_c03",
+          "condition": "Did the table report that equity investments constituted more than 15% of the Plan Assets in 2014?",
+          "gold_yes_tables": [
+            68056
+          ]
+        },
+        {
+          "condition_id": "WU_2014_c04",
+          "condition": "Does the table clearly show that equity investments constitute 20% of the total investments?",
+          "gold_yes_tables": [
+            68057
+          ]
+        },
+        {
+          "condition_id": "WU_2014_c05",
+          "condition": "Is there an Exhibit item that references a current report on Form 8-K?",
+          "gold_yes_tables": [
+            68064
+          ]
+        },
+        {
+          "condition_id": "WU_2014_c06",
+          "condition": "Do the acquired contracts have a weighted average amortization period exceeding 10 years?",
+          "gold_yes_tables": [
+            68052
+          ]
+        }
+      ]
+    },
+    "WU_2016": {
+      "conditions": [
+        {
+          "condition_id": "WU_2016_c01",
+          "condition": "Did the $9.7 million of deferred tax assets that cannot be fully offset by deferred tax liabilities in the US be reflected in the 'Other assets' category in the Company's Consolidated Balance Sheets?",
+          "gold_yes_tables": [
+            68223
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c02",
+          "condition": "Were options to purchase Western Union stock and unvested shares of restricted stock excluded from the basic shares outstanding calculation?",
+          "gold_yes_tables": [
+            68216
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c03",
+          "condition": "Was the carrying amount of the Company's borrowings reported accurately at fair value as of December 31, 2016?",
+          "gold_yes_tables": [
+            68219
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c04",
+          "condition": "Did 'Other assets' include any derivatives in 2016?",
+          "gold_yes_tables": [
+            68220
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c05",
+          "condition": "Did the Federal statutory rate remain constant across the years 2014 to 2016?",
+          "gold_yes_tables": [
+            68221
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c06",
+          "condition": "Is the Tax Allocation Agreement dated September 29, 2006, between First Data Corporation and The Western Union Company, included in the company's current report on Form 8-K?",
+          "gold_yes_tables": [
+            68231
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c07",
+          "condition": "Are there multiple forms of nonqualified stock option agreements listed in the table?",
+          "gold_yes_tables": [
+            68233
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c08",
+          "condition": "Did the Federal taxes under 'Current' show a positive amount in the 2016 row?",
+          "gold_yes_tables": [
+            68222
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c09",
+          "condition": "Did the table show revenue from the United States for any year?",
+          "gold_yes_tables": [
+            68228
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c10",
+          "condition": "Does this table show settlement assets and obligations separately?",
+          "gold_yes_tables": [
+            68217
+          ]
+        },
+        {
+          "condition_id": "WU_2016_c11",
+          "condition": "Does the amortization period for acquired contracts exceed 10 years?",
+          "gold_yes_tables": [
+            68218
+          ]
+        }
+      ]
+    },
+    "WU_2017": {
+      "conditions": [
+        {
+          "condition_id": "WU_2017_c01",
+          "condition": "Is the MEASA region listed under any of the regions described in the table?",
+          "gold_yes_tables": [
+            68138
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c02",
+          "condition": "Was there a significant settlement asset balance listed in 2017 compared to previous years?",
+          "gold_yes_tables": [
+            68132
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c03",
+          "condition": "Is the value for Q1 in 2017 greater than $0.155?",
+          "gold_yes_tables": [
+            68133
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c04",
+          "condition": "Does the table provide quarterly dividend information?",
+          "gold_yes_tables": [
+            68130
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c05",
+          "condition": "Does the table display regional revenues as percentages of the Consumer-to-Consumer segment revenue?",
+          "gold_yes_tables": [
+            68140
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c06",
+          "condition": "Is the revenue growth for LACA higher than the transaction growth in the same region?",
+          "gold_yes_tables": [
+            68139
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c07",
+          "condition": "Did the company report revenues over $5,000 million in 2017?",
+          "gold_yes_tables": [
+            68131
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c08",
+          "condition": "Does this table include consolidated financial statements?",
+          "gold_yes_tables": [
+            68144
+          ]
+        },
+        {
+          "condition_id": "WU_2017_c09",
+          "condition": "Did the company report any revenue growth in 2017 compared to 2016?",
+          "gold_yes_tables": [
+            68137
+          ]
+        }
+      ]
+    },
+    "ZBRA_2004": {
+      "conditions": [
+        {
+          "condition_id": "ZBRA_2004_c01",
+          "condition": "Did the table include a foreign exchange gain (loss) item for 2004?",
+          "gold_yes_tables": [
+            426
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c02",
+          "condition": "Did the average selling price of printers shipped increase by more than 3.0% in 2004 compared to 2003?",
+          "gold_yes_tables": [
+            424
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c03",
+          "condition": "Did the table report a pro forma net income for the year ended December 31, 2004?",
+          "gold_yes_tables": [
+            437
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c04",
+          "condition": "Did pro forma net income increase between 2003 and 2004?",
+          "gold_yes_tables": [
+            428
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c05",
+          "condition": "Did the net income increase from 2003 to 2004?",
+          "gold_yes_tables": [
+            423
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c06",
+          "condition": "Did the total assets value exceed $700 million in 2004?",
+          "gold_yes_tables": [
+            412
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c07",
+          "condition": "Is there a positive percentage change in total sales from 2003 to 2004?",
+          "gold_yes_tables": [
+            413
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c08",
+          "condition": "Does the table show trading prices for four quarters?",
+          "gold_yes_tables": [
+            458
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c09",
+          "condition": "Was there a significant increase in net income from 2002 to 2003?",
+          "gold_yes_tables": [
+            427
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c10",
+          "condition": "Does this table show the change in gains (losses) from foreign exchange derivatives over three years?",
+          "gold_yes_tables": [
+            431
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c11",
+          "condition": "Did the company achieve gross profit margins between 52.0% and 52.5% in the first quarter of 2005?",
+          "gold_yes_tables": [
+            429
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2004_c12",
+          "condition": "Does the table show investment income and interest expense for each year?",
+          "gold_yes_tables": [
+            422
+          ]
+        }
+      ]
+    },
+    "ZBRA_2005": {
+      "conditions": [
+        {
+          "condition_id": "ZBRA_2005_c01",
+          "condition": "Was the net unrealized loss on foreign currency hedging activities deferred in the income statement?",
+          "gold_yes_tables": [
+            323
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2005_c02",
+          "condition": "Did the amortization of capitalized software exceed $2,000 in any year?",
+          "gold_yes_tables": [
+            311
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2005_c03",
+          "condition": "Did the table list severance, stay bonuses, and other employee-related expenses?",
+          "gold_yes_tables": [
+            320
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2005_c04",
+          "condition": "Was the net change in unrealized gains from foreign currency derivatives negative in 2003?",
+          "gold_yes_tables": [
+            322
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2005_c05",
+          "condition": "Did the table list rent expenses for different years?",
+          "gold_yes_tables": [
+            318
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2005_c06",
+          "condition": "Is there a significant difference in the 'Life insurance policies related to the deferred compensation plan' between 2005 and 2004?",
+          "gold_yes_tables": [
+            314
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2005_c07",
+          "condition": "Does this table show the total minimum lease payments over several years?",
+          "gold_yes_tables": [
+            317
+          ]
+        }
+      ]
+    },
+    "ZBRA_2006": {
+      "conditions": [
+        {
+          "condition_id": "ZBRA_2006_c01",
+          "condition": "Did the company earn more investment income in 2005 than in 2004?",
+          "gold_yes_tables": [
+            475
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c02",
+          "condition": "Is there a row showing the percentage change in gross profit?",
+          "gold_yes_tables": [
+            498
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c03",
+          "condition": "Did the company's diluted earnings per share exceed $0.1 in the year ended December 31, 2006?",
+          "gold_yes_tables": [
+            469
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c04",
+          "condition": "Did the average selling price of printers shipped decrease by 2.9% in 2005?",
+          "gold_yes_tables": [
+            470
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c05",
+          "condition": "Did Zebra increase its research and development expenditures in 2006 compared to 2005?",
+          "gold_yes_tables": [
+            465
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c06",
+          "condition": "Did Selling and Marketing Expenses exceed 13% of total sales in 2005?",
+          "gold_yes_tables": [
+            471
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c07",
+          "condition": "Was the guidance for net sales set between $195,000 and $205,000 for the first quarter of 2007?",
+          "gold_yes_tables": [
+            476
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2006_c08",
+          "condition": "Is the 'Percent of sales' higher in 2006 compared to 2004?",
+          "gold_yes_tables": [
+            464
+          ]
+        }
+      ]
+    },
+    "ZBRA_2012": {
+      "conditions": [
+        {
+          "condition_id": "ZBRA_2012_c01",
+          "condition": "Did the effective tax rate decrease between 2011 and 2012?",
+          "gold_yes_tables": [
+            189
+          ]
+        },
+        {
+          "condition_id": "ZBRA_2012_c02",
+          "condition": "Was the balance at January 1, 2011, $4,000?",
+          "gold_yes_tables": [
+            188
+          ]
+        }
+      ]
+    }
+  }
+}

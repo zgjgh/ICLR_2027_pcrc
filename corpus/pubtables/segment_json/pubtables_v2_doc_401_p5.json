@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_401",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    278.6,
+    66.0
+   ],
+   "ocr": "Willmann et al. Malaria Journal 2012, 11:363 http://www.malariajournal.com/content/11/1/363"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    630.1,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 7 of 9"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    316.2,
+    124.4
+   ],
+   "ocr": "Table 7 Cut-off evaluation of predictive markers"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    678.7,
+    369.0
+   ],
+   "ocr": "Variable Cut-off Sensitivity (%) Specificity (%) PPV (%) NPV (%) Odds of severity\nParasite count (parasites/μl) ≥20000 70.59 79.57 27.74 96.05 0.63\nParasite count (parasites/μl) ≥35000 64.71 84.95 32.33 95.59 0.79\nParasite count (parasites/μl) ≥50000 58.82 87.1 33.6 95 0.83\nParasite count (parasites/μl) ≥100000 47.06 91.4 37.81 93.95 1\nParasite count (% IRBC) ≥0.5 88.24 65.59 22.17 98.05 0.47\nParasite count (% IRBC) ≥0.8 70.59 76.34 24.89 95.89 0.54\nParasite count (% IRBC) ≥1 64.71 78.49 25.05 95.24 0.55\nParasite count (% IRBC) ≥2 58.82 86.02 31.86 94.95 0.77\nParasite count (% IRBC) ≥3 47.06 89.25 32.72 93.82 0.8\nPlatelet count (x 103 platelets/μl) ≤60 88.24 55.91 18.19 97.72 0.37\nPlatelet count (x 103 platelets/μl) ≤50 76.47 68.82 21.41 96.34 0.45\nPlatelet count (x 103 platelets/μl) ≤45 70.59 72.04 21.91 95.66 0.46\nPlatelet count (x 103 platelets/μl) ≤40 58.82 76.34 21.64 94.35 0.46",
+   "table_id": "PMC3533741_table_6"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    375.2,
+    370.5,
+    756.0
+   ],
+   "ocr": "% IRBC % infected red blood cells. PPV positive predictive value. NPV negative predictive value. Bolded rows indicate the recommended cut-offs. parasitaemia on thick blood films has been shown to be a potential marker of severity in P. knowlesi malaria [8]. The authors of the same study revealed an inverse cor- relation between parasitaemia and platelet count and suggested that the latter could also be a predictive factor. The number of severe cases in that study was small and the findings were confirmed here, even if the platelet count seems to have a lower accuracy in predicting severe disease when compared with PCN counts and parasitaemia. Assessing cut-offs with a more predictive than reflective capability was based on an appropriate relationship be- tween positive and negative predictive values. Recom- mendation of a specific cut-off required a negative predictive value of at least 95% in the study. This would mean that one in 20 patients with a test result indicating non-severe disease or a low risk of developing complica- tions would have severe disease at the time of measure- ment. None of the severity markers could reach high Table 8 Risk of severe disease in patients with Plasmodium cut-offs – multivariate modeling"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    373.9,
+    428.6,
+    678.6,
+    742.2
+   ],
+   "ocr": "positive predictive values in the study, assuming a preva- lence of 10% severe cases among hospitalized patients with P. knowlesi malaria. A positive predictive value of about 33% as calculated for the recommended cut-off of 35,000 parasites/μl means that two of three patients with a positive test indicating a severe disease or a high risk of developing complications would not suffer from severe malaria at the time of measurement. Managing them according to the WHO guidelines for severe malaria might appear as an overtreatment and potential waste of resources in an often resource-limited setting. However, when using the recommended cut-offs in multivariate logistic regression analysis any tested severity marker is independently associated with high risk of severity (OR 5.27 – 9.93). Therefore, having a positive test result in accord with the recommended cut-offs categorizes a patient to be at high risk of severity regardless of the actual clinical status. Management for severe malaria should consecutively be accomplished to prevent a knowlesi malaria using the recommended"
+  },
+  "p5_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    759.5,
+    678.6,
+    877.0
+   ],
+   "ocr": "Variable Uncomplicated malaria n (%) Severe malaria n (%) Adjusted odds ratio (95c% CI) p-value†\nParasite count (parasites/μl) <35000 79 (71.8) 6 (35.3) 1 0.0001\n≥35000 14 (28.2) 11 (64.7) 9.93 (2.91 – 33.87)\nParasite count (% IRBC) <1 73 (78.5) 6 (35.3) 1 0.003\n≥1 20 (21.5) 11 (64.7) 5.72 (1.78 – 18.37)\nPlatelet count (x 103 platelets/μl) >45 67 (72) 5 (29.4) 1 0.004\n≤45 26 (28) 12 (70.6) 5.27 (1.59 – 17.41)*",
+   "table_id": "PMC3533741_table_7"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    883.4,
+    378.4,
+    925.4
+   ],
+   "ocr": "95% CI 95% confidence interval. % IRBC % infected red blood cells. †All p-values were obtained from likelihood ratio test. *The odds ratio was obtained by including the platelet count into one model with"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    381.1,
+    915.5,
+    582.6,
+    925.4
+   ],
+   "ocr": "parasite count (% IRBC) measured on thin blood films."
+  }
+ }
+}

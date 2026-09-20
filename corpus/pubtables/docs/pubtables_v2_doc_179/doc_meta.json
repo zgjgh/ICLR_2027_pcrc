@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_179",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4557998_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    689.2,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4557998_table_0.png",
+   "html": "<table><tr><td>Parameter</td><td>X-SAR Sensor</td><td>P-SAR Sensor</td></tr><tr><td>Operating frequency (GHz)</td><td>9.6</td><td>600</td></tr><tr><td>Available bandwidth (MHz)</td><td>400</td><td>200</td></tr><tr><td>PRF range (Hz)</td><td>1000&#8211;4000</td><td>500&#8211;800</td></tr><tr><td>Pulse peak power (kW)</td><td>4.0</td><td>1.0</td></tr><tr><td>Pulse width range (us)</td><td>8&#8211;22</td><td>15&#8211;70</td></tr><tr><td>Interferometric baseline (m)</td><td>2.198</td><td>N/A</td></tr><tr><td>Polarization mode</td><td>HH</td><td>HH, HV, VH, VV</td></tr><tr><td>Ground resolution (m)</td><td>0.5/1.0/2.5/5.0</td><td>1.0/2.5/5.0</td></tr><tr><td>Swath width (km)</td><td>~2-~12</td><td>~3-~11.5</td></tr><tr><td>Incidence angle (&#176;)</td><td>~37-~63</td><td>~33-~53</td></tr><tr><td>Onboard electronics</td><td>2 cabinets, 2 antennas</td><td>1 cabinet, 1 antenna</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4557998_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    692.3,
+    726.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4557998_table_1.png",
+   "html": "<table><tr><td colspan=\"4\">LiDAR: Leica ALS60</td></tr><tr><td>Wavelength</td><td>1064 nm</td><td>Laser beam divergence</td><td>0.3 mrad</td></tr><tr><td>Laser pulse length</td><td>3.5 ns</td><td>Scan angle range</td><td>&#177;30&#176;</td></tr><tr><td>Maximum laser pulse</td><td>200 KHz</td><td>Maximum scanning speed</td><td>200 lines/s</td></tr><tr><td colspan=\"4\">Repetition rate</td></tr><tr><td>Waveform sampling</td><td>1 ns</td><td>Vertical accuracy</td><td>0.15 m</td></tr><tr><td colspan=\"4\">CCD: LeicaRCD105</td></tr><tr><td>Pixel resolution</td><td></td><td>8964&#215;6716(60 million pixels)</td><td></td></tr><tr><td>Imaging sensor size</td><td></td><td>43.30mm&#215;53.78mm</td><td></td></tr><tr><td>Pixel size</td><td></td><td>6.8 um</td><td></td></tr><tr><td>Radiometric resolution</td><td></td><td>16 bits</td><td></td></tr><tr><td>Imaging focal length</td><td></td><td>50 mm</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4557998_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    364.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4557998_table_2.png",
+   "html": "<table><tr><td colspan=\"4\">LiDAR: Riegl LMS-Q680i</td></tr><tr><td>Wavelength</td><td>1550 nm</td><td>Laser beam divergence</td><td>0.3 mrad</td></tr><tr><td>Laser pulse length</td><td>3 ns</td><td>Scan angle range</td><td>&#177;30&#176;</td></tr><tr><td>Maximum laser pulse</td><td>400 KHz</td><td>Maximum scanning speed</td><td>200 lines/s</td></tr><tr><td colspan=\"4\">Repetition rate</td></tr><tr><td>Waveform sampling</td><td>1 ns</td><td>Vertical accuracy</td><td>0.15 m</td></tr><tr><td colspan=\"4\">CCD: DigiCAM-60</td></tr><tr><td>Pixel resolution</td><td></td><td>8964&#215;6716(60 million pixels)</td><td></td></tr><tr><td>Imaging sensor size</td><td></td><td>43.30mm&#215;53.78mm</td><td></td></tr><tr><td>Pixel size</td><td></td><td>6 um</td><td></td></tr><tr><td>Radiometric resolution</td><td></td><td>16 bits</td><td></td></tr><tr><td>Imaging focal length</td><td></td><td>50 mm</td><td></td></tr><tr><td colspan=\"4\">Hyperspectral:AISA Eagle II</td></tr><tr><td>Spectral range</td><td>400&#8211;970 nm</td><td>Spatial pixels</td><td>1024</td></tr><tr><td>Focal length</td><td>18.1mm</td><td>Spectral resolution</td><td>3.3nm</td></tr><tr><td>Field of View</td><td>37.7&#176;</td><td>Maximum bands</td><td>488</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4557998_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    752.3,
+    726.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4557998_table_3.png",
+   "html": "<table><tr><td>Instrument</td><td>Land Cover Type</td><td>Frequency</td><td>Observation Items</td></tr><tr><td>Camera</td><td>Crops</td><td>Two times/days</td><td>LAI</td></tr><tr><td>Bowen ratio</td><td>Wheat</td><td>Ten minutes/once</td><td>ET</td></tr><tr><td>Meteorologicalstation</td><td>Wheat</td><td>One hour/once</td><td>Multi-layer wind speed &amp; direction, temperature, humidity, soil temperature</td></tr><tr><td>CNR4</td><td>Corn</td><td>&lt;6s(63%); &lt;18s(95%)</td><td>Downwelling shortwave radiation, upward longwave radiation</td></tr><tr><td>Ultraviolet radiation meter</td><td>Corn</td><td>1s</td><td>Downwelling and upward radiation of UV</td></tr><tr><td>Infrared radiation thermometer</td><td>Corn</td><td>1.4s</td><td>Brightness temperature</td></tr><tr><td>FAPAR system</td><td>Corn</td><td>5s</td><td>FAPAR</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4557998_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    720.5,
+    353.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4557998_table_4.png",
+   "html": "<table><tr><td>Scale</td><td>Observation Items</td><td>Key Instruments</td></tr><tr><td>Site</td><td>Atmosphere: multilayer air temperature, wind speed/direction, humidity, heat flux, pressure, four component radiation, PAR, LST, precipitation, snow depth;Soil: Multilayer moisture/temperature, roughness roughness, reflectance; EC.</td><td>AMS, radio soundings, time domain reflectometry, EC system,</td></tr><tr><td>Vegetation</td><td>Size, density, defoliation ratio, inclination angle distribution, tree core, water content, clumping index,</td><td>ASD, total station, integrating sphere, canopy spectroradiometer</td></tr><tr><td>component</td><td>spectral reflectance and transmittance, orientation, chlorophyll and C/N ratio,</td><td>SPAD,</td></tr><tr><td>Individual</td><td>Species, position, DBH, height, first</td><td>Total station, holometer,</td></tr><tr><td>plant</td><td>live branch height, crown shape and size</td><td>ground-based LiDAR</td></tr><tr><td>Vegetation</td><td>Position, dominant tree species, tree density, LAI, LAD, albedo, FAPAR, productivity, brightness temperature, forest canopy</td><td>GPS, LAI 2000, LAI2002, Hemiview, TRAC, LAINet, LAINet, quantum meter,</td></tr><tr><td>plot</td><td>coverage fraction, underlying vegetation coverage fraction,woody-to-total area ratio, multi-component spectrum,</td><td>albedometer, TMMR, UAV camera, imaging spectrometer, canopy spectroradiometer and ground-based LiDAR,</td></tr><tr><td>Large scale</td><td>Land cover types, terrain information quasi-real virtual 3-D scene of forest</td><td>GPS, airborne CCD/ LiDAR/ SAR and computer simulation</td></tr></table>"
+  }
+ ]
+}

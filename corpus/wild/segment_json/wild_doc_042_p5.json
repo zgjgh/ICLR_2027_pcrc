@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_042",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The following table presents a comprehensive overview of the structural properties and reinforcement characteristics of various specimens analyzed for performance under specified conditions."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "Notably, the metrics of Height (mm) and Section Diameter (mm) are critical in understanding the geometric configurations of the samples, which directly influence their load-bearing capacity and overall stability."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    296.0
+   ],
+   "ocr": "Column ID Height (mm) Section Diameter (mm) Concrete Cover (mm) Long. Reinforcement[Number and Diameter (mm) of Bars] Transverse Reinforcement[Diameter (mm)/Spacing (mm)] Concrete f’c (MPa) Long. Reinforcement fy (MPa) Trans. Reinforcement fy (MPa)\n407 2438 609.6 33.4 11 Φ16 Φ6/32 43.4 471.6 668.1\n415 2438 609.6 33.4 22 Φ16 Φ6/32 43.4 471.6 668.1\n430 2438 609.6 33.4 44 Φ16 Φ6/32 43.4 471.6 668.1\n815 4877 609.6 33.4 22 Φ16 Φ6/32 43.4 471.6 668.1\n1015 6096 609.6 33.4 22 Φ16 Φ6/32 43.4 471.6 668.1",
+   "table_id": "img_046972_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    311.0,
+    580.0,
+    434.0
+   ],
+   "ocr": "Water Matrix (Ti-6Al-4V) Fiber (SCS-6)\nλ (GPa) 2.25 25.9 61.9\nμ (GPa) 10−4 32.8 177.0\nρ (kg/m3) 1000 2580 3000\nCL (m/s) 1500 5954 11774\nCS (m/s) 10 3566 7681",
+   "table_id": "img_046972_t1"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    449.0,
+    580.0,
+    572.0
+   ],
+   "ocr": "Methods Parallelization algorithm Acceleration (CPU/GPU)\nParallelization of the direct method Hybrid 16\nMemory access optimization Hybrid 50\nCoarse-grained 60\nAsynchronous data transfer Coarse-grained 90\nData compression Coarse-grained 130",
+   "table_id": "img_046972_t2"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    588,
+    580,
+    646
+   ],
+   "ocr": "For instance, the specimens exhibit a range of heights, with the highest measuring 2438 mm, and diameters varying accordingly to accommodate the selected reinforcement strategies. Additionally, the data on Concrete Cover (mm) and the specifications of Longitudinal Reinforcement, including the Number and Diameter (mm) of Bars, provide essential insights into the structural integrity and durability of the concrete elements."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    634,
+    580,
+    692
+   ],
+   "ocr": "The inclusion of parameters such as Concrete f’c (MPa) and Longitudinal Reinforcement fy (MPa) further enhances the understanding of the materials' performance characteristics under stress. This analysis serves as a foundational element in assessing the efficacy of various reinforcement methods and their corresponding impacts on structural resilience and longevity."
+  }
+ }
+}

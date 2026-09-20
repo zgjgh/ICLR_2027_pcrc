@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_355",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Deng BMC Bioinformatics 2011, 12:267 http://www.biomedcentral.com/1471-2105/12/267"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 5 of 12"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    383.0,
+    793.3
+   ],
+   "ocr": "was paired-end (80 × 80 bp) sequenced using Illumina Genome Analyzer IIx (Illumina Inc., San Diego, CA). The exome probes cover 38 Mb of human genome cor- responding to the exons and flanking intronic regions of 23,739 genes in the National Center for Biotechnology Information Consensus CDS database (September 2009 release) and also cover 700 miRNAs from the Sanger v13 database and 300 noncoding RNAs from Ensembl GRCh37.56. The sequencing reads were aligned to Human refer- ence genome (Ensembl GRCh37.56) using Novoalign [20] with default alignment parameters. Mutation identi- fication was performed using SeqGene, SAMtools [9], and VarScan [34] respectively. We used a family-wise SNP filter which ignores any mutations that failed geno- typing due to quality control on any of the family mem- bers. Table 1 showed the parameters that we used in SeqGene, SAMtools, and VarScan for mutation filters. Mendelian error rates of the identified SNPs were cal- culated as an indirect indication of genotyping quality. As demonstrated in Figure 2 and Table 2, SeqGene’s mutation identification algorithm had significant lower Mendelian error rates while maintaining similar muta- tion discovery power comparing with SAMtools. We compared the number of SNPs (after family-wise filter) between VarScan, SAMtools and SeqGene using cover- age > 10 and coverage > 20 for the three samples, and found that the number of SNPs that passed pedigree check by SeqGene are considerably higher than those by SAMtools for all cases, expect one (Father sample, cov- erage > 10) where SeqGene identified slightly lower number of SNPs. More importantly, the number of SNPs that failed pedigree check (Mendelian errors) was reduced by around 50% in SeqGene as compared to SAMtools. For example in Figure 2E, SAMtools identi- fied 72 mutations in the daughter which were not found in any of her parents, whereas SeqGene identified only 12 such Mendelian errors (Figure 2F). SeqGene also compares favorably to VarScan as shown in Table 2 and Figure 2. With similar numbers of identified SNPs, the Mendelian error rates are consistently lower in SeqGene than in VarScan. In addition, the performance of VarS- can is consistently better than that of SAMtools. Table 1 SNP and indel identification parameters for VarScan,"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    391.8,
+    337.7,
+    670.7,
+    424.5
+   ],
+   "ocr": "Figure 2 Distribution of SNP positions across the trio using VarScan, SAMtools and SeqGene. In the Venn diagrams, the numbers shown in the overlap indicate shared mutations between the family members. Numbers not in parentheses are the number of SNP positions that passed genotype pedigree check; numbers in parentheses are the number of SNPs positions that failed genotype pedigree check, i.e., Mendelian errors."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    458.0,
+    678.7,
+    793.3
+   ],
+   "ocr": "Using the same settings in Table 1, we generated the list of indels using VarScan, SAMtools, and SeqGene respectively and we compared their performance. SeqGene and VarScan consistently outperform SAM- tools in terms of Medelian error rates and the number of indels detected as shown in Table 3 and Figure 3. Mixed results were observed when comparing SeqGene and VarScan for indel filtering. Under coverage > 10, SeqGene generates slightly higher error rate than VarS- can. Under coverage > 20, SeqGene generates lower number of indels than VarScan. However the error rates (0.4%) of SeqGene are also lower than those from VarS- can (0.9%-1.2%). In addition, SeqGene’s ‘snp’ function can provide detailed annotations to the SNPs based on the gene model categorization (such as 5’ UTR, missense, nonsense, intron, splice site, 3’ UTR, intergenic, frame- shift, synonymous). The resultant annotation file can be aggregated into cross-sample format using ‘genotyping’ function. Other filtering and analysis with the SAMtools and SeqGene in the trio family analysis"
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    798.1,
+    667.3,
+    915.9
+   ],
+   "ocr": "VarScan SAMtools SeqGene\nSNP pileup SAMtools pileup (default, mapping quality > SAMtools pileup (default, mapping quality > SeqGene pileup (default)\n10) 10)\nSNP filter Coverage: > 20, 10 Default filter (SAMtools varfilter) Coverage: > 20, 10\nAverage quality: > 20 Coverage: > 20, 10 Bases Phred quality: > 10\nMutated bases frequency: > 25% SNP quality > 20 Mutated bases frequency: > 25%\np-value: < 1E-6 Minor sequenced strand: > 10%\nFamily- Ignore positions with at least one ‘quality Ignore positions with at least one ‘quality Ignore positions with at least one ‘quality\nwise filter control’ across the family control’ across the family control’ across the family",
+   "table_id": "PMC3148209_table_0"
+  }
+ }
+}

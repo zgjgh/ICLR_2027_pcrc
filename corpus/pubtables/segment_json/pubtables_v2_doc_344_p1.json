@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_344",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    251.8,
+    65.8
+   ],
+   "ocr": "Daniel et al. Nutrition Journal 2011, 10:12 http://www.nutritionj.com/content/10/1/12"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 5 of 13"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.7,
+    922.3
+   ],
+   "ocr": "that particular pattern (highest concordance) and the referent or lowest category represents the lowest concor- dance. Factor names were defined by carefully examining factor loadings for food items, as well as Spearman corre- lations for dietary patterns with broader food groups (e.g., total rice, total wheat, total fruit, etc.; Table 1) and macro- nutrients. We also examined factor analyses in men and women separately, but the dietary patterns were found to be nearly identical to each other and to the combined results presented. Using multiple logistic regression, we investigated cross-sectional associations between dietary patterns and cardio-metabolic markers of risk, including abdominal adiposity, impaired fasting blood glucose (pre-diabetes), dyslipidemia, diabetes, and hypertension. Multivariate models were adjusted for the following covariates (cate- gories defined in Table 2): age (continuous), gender, edu- cation, income, religion, marital status, history of tobacco use, history of alcohol use, and physical activity (modeled in region and gender-specific tertiles). We evaluated mul- tivariate models with and without a continuous covariate for total energy intake [36,37]. Inclusion of total energy intake tended to attenuate the effect estimates; thus, the more conservative, adjusted results are presented. If necessary to prevent issues with model fit, variable categories with small cells in some of the regions were collapsed [e.g., religion (Hindu/other), income (high/ low), education (high/low), tobacco use (any/none)]. Adjustment for other prevalent chronic conditions (e.g., diabetes models adjusted for hypertension and/or dislipi- demia, abdominal adiposity models adjusted for diabetes and/or hypertension, etc.) did not appreciably change the estimates. P values for linear trend were estimated by creating a continuous variable using the sex-specific median value within tertiles. We did not find any evidence of effect modification by gender. All statistical tests were considered statistically significant when two-sided P < 0.05. All analyses were conducted in SAS version 9.2 (SAS Institute Inc., Cary, NC). Results Table 2 presents the characteristics of the India Health Study participants by region. Delhi had the greatest pro- portion of participants with higher education and income. Based on BMI alone, approximately half of the participants across the regions were overweight or obese, while 80-90% met the criteria for abdominal adip- osity. By gender (data not shown), 4% of women and 6% of men had a BMI < 18.5, while 20% of women and 6% of men had a BMI ≥ 30 [25]. Across the regions, the prevalence of hypertension ranged from 46 to 51% and the prevalence of diabetes ranged from 10 to 28%. In Delhi, participants had the lowest physical activity levels and more than half were dyslipidemic. In Trivandrum,"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    717.2
+   ],
+   "ocr": "nutrient content (Table 1). These groups were similar to the level of detail found in a comprehensive FFQ. For example, vegetable items were classified according to their color or botanical group (e.g., red, orange, cruciferous, allium). Next, the reference group data was prepared to enter the factor analysis in a standard manner described elsewhere [19,35]. Very low consumption food groups were either dropped or combined (e.g., Western fast foods) for a total of 104 unique items across all regions. Additional items were dropped in region-specific analyses, as necessary; thus 71, 85, and 81 food items entered the analysis in Delhi, Trivandrum, and Mumbai, respectively. Each of the food items were adjusted for total energy intake using a caloric density approach (each individual’s food item frequency was divided by their total energy intake value). Then, by region and gender each energy- adjusted value was standardized to a mean of zero and a standard deviation of one (Z-score). In the initial analysis, each of the energy-adjusted and standardized frequency variables entered the principal components or factor ana- lysis (PROC FACTOR; SAS version 9.2; SAS Institute Inc., Cary, NC) allowing up to six factors per region. Following evaluation of scree plots, eigenvalues, the proportion of explained factor variance, and overall interpretability, we retained the first two components from the initial analysis for each region. In the final analyses limited to two com- ponents per region, we rotated each factor using the VAR- IMAX option in PROC FACTOR to obtain an orthogonal solution. For each subject within a region, we calculated factor scores for each of the rotated factors by summing the frequency of consumption multiplied by the factor loadings across all food items in that region. Mean scores for each of the region-specific primary and secondary fac- tors were categorized into sex-specific tertiles. Thus, for each regional factor or dietary pattern, the highest tertile represents persons whose diets conformed most closely to Table 1 Food groups and reference groups created from individual food items collected in the comprehensive Diet History, India Health Study"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    722.2,
+    341.9,
+    916.0
+   ],
+   "ocr": "Food Reference groups Food items\ngroups\nExample: Example of reference Examples of food items for the\ngroups for rice: reference group “plain rice\":\nRice Plain rice Basmati rice\nFermented rice White-milled rice\nFermented rice dish Brown rice\nwith\nPulses Rice Bhakri\nPlain rice dish with Oratti\npulses\nMixed rice dish Kanji Rice\nPuttu\nIdiappam",
+   "table_id": "PMC3042918_table_0"
+  }
+ }
+}

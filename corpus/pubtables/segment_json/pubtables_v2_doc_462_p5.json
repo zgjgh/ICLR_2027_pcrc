@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_462",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    58.9,
+    54.7,
+    648.5,
+    70.5
+   ],
+   "ocr": "Sensors 2015, 15 17345"
+  },
+  "p5_b1": {
+   "type": "title",
+   "bbox": [
+    83.9,
+    103.6,
+    389.9,
+    131.7
+   ],
+   "ocr": "35.693 WLS 35.6903 WLS (only LOS)"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    80.2,
+    134.0,
+    389.9,
+    241.7
+   ],
+   "ocr": "3D map method before RAIM FDE 35.6902 3D map method after RAIM FDE 35.6926 ground truth 35.6901 35.69 35.6924 35.6899 35.6922 35.6898 35.692 35.6897"
+  },
+  "p5_b3": {
+   "type": "title",
+   "bbox": [
+    365.3,
+    237.0,
+    562.3,
+    260.8
+   ],
+   "ocr": "WLS WLS (only LOS) 35.6896"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    80.2,
+    257.3,
+    616.2,
+    280.4
+   ],
+   "ocr": "35.6918 3D map method before RAIM FDE 3D map method after RAIM FDE 35.6895"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    92.6,
+    277.0,
+    614.9,
+    430.4
+   ],
+   "ocr": "ground truth 139.7578 139.758139.7582 139.7584 139.7586 139.7588139.759139.7592 139.7594 139.7596 139.6944 139.6946 139.6948 139.695 139.6952 139.6954 139.6956 (a) (b) Figure 17. Positioning Results of the static tests using different methods in the (a) middle and (b) deep urban canyons. Table 5. Horizontal positioning performance of the static tests using the proposed 3D map method before and after using the RAIM method."
+  },
+  "p5_b6": {
+   "type": "table",
+   "bbox": [
+    129.5,
+    441.4,
+    573.3,
+    510.5
+   ],
+   "ocr": "Middle Urban Deep Urban\nMethods\nMean (m) Std (m) Mean (m) Std (m)\n3D map method 3.62 2.44 11.60 4.18\n3D map method with RAIM FDE 3.20 1.27 3.82 3.23",
+   "table_id": "PMC4541937_table_4"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    531.1,
+    648.6,
+    932.7
+   ],
+   "ocr": "6. Conclusions This paper proposed a RAIM satellite selection method for the developed 3D building model based positioning method. This RAIM method is capable of excluding the measurements that are inconsistent with the simulated pseudorange measurements by the 3D building model and ray-tracing technique. These inconsistent pseudorange measurements usually suggest that the received raw pseudorange measurement is a double or multiple reflected NLOS signals or has strong multipath effects, as shown in the experimental results. By excluding the abnormal NLOS signals, the lateral positioning error mean of the proposed 3D map pedestrian positioning method can be reduce from about 3.97 to 2.96 m and 8.78 to 3.85 m in the middle and deep urban canyons, respectively. In addition, the RAIM satellite selection method can also reduce about 8.4% and 36.2% of the positioning solutions with large errors (points that estimated the wrong side of the road) in the middle and deep urban canyon environments, respectively. These results indicate that the proposed RAIM method is more efficient in the deep urban canyon because double reflected NLOS are more frequently observed. Finally, the lateral positioning errors are less than 3 m in around 60% of the solutions of the proposed 3D building model based positioning method in both middle and deep urban canyons. Acknowledgments The authors acknowledge the Grant-in-Aid for Japan Society for the Promotion of Science (JSPS) Postdoctoral Fellowship for Oversea Researchers. The authors also appreciate Japan National Institute"
+  }
+ }
+}

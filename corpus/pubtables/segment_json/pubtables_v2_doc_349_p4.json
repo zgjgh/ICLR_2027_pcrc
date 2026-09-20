@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_349",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    298.1,
+    65.8
+   ],
+   "ocr": "Benton et al. BMC Bioinformatics 2011, 12(Suppl 3):S2 http://www.biomedcentral.com/1471-2105/12/S3/S2"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 7 of 10"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    366.0,
+    137.7
+   ],
+   "ocr": "Table 5 Performance of Deid system and Stanford named only proper names"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    369.8,
+    111.0,
+    675.7,
+    124.0
+   ],
+   "ocr": "entity recognizer on development and test sets considering"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    678.7,
+    272.4
+   ],
+   "ocr": "Deid - Out of the Deid - Ambig. name list with Deid - Unambig. name list with Stanford\nbox usernames usernames NER\nDEV Precision 52.1% 51.2% 11.1% 61.7%\nRecall 86.3% 84.2% 86.3% 81.2%\nTEST Precision 41.2% 40.2% 7.6% 55.4%\nRecall 85.1% 84.2% 85.6% 85.4%",
+   "table_id": "PMC3111588_table_4"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    296.3,
+    678.7,
+    705.7
+   ],
+   "ocr": "tagged with a name tag. We used this definition of recall and precision, because the removal of identifying infor- mation is more important than the specific name tags they are replaced with. Discussion Our system performs as well over MMB text as some of the other de-identification systems perform over other medical documents. In a recent challenge to remove pri- vate health information from medical discharge records [13], out of the sixteen systems evaluated, two systems exhibited an F-score of less than 78.1% and eight sys- tems exhibited recall of less than 93.8% in identifying patient names. Given that MMB text is much noisier than discharge records, it is understandable that our sys- tem does not achieve state-of-the-art performance at de- identifying this text. However, it performs better over our MMB test sets than even the best of these systems (MIST). We believe that it is a great step forward in developing a system that can adequately de-identify medical message board text. We chose to directly compare our system’s perfor- mance against the Deid system over the same corpus, because it was one of the few de-identification systems that were freely available. The Deid system uses a very system against our system, over the development and"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    296.4,
+    387.0,
+    719.5
+   ],
+   "ocr": "these systems over our evaluation sets does not suggest that they are bad at identifying names. It simply high- lights the fact that current name identification systems must be developed for a specific domain in order to per- form well in it. Finally, we evaluated the performance of a freely avail- able state-of-the-art de-identification system, MIST (The MITRE Identification Scrubber Toolkit) [17]. Like our system, MIST relies on a CRF to perform automated tagging of identifiers, and achieved the highest overall score in the de-identification task of the 2006 American Medical Informatics Association (AMIA) Challenges in Natural Language Processing for Clinical Data [13]. Both of these facts make MIST an excellent system to evaluate our system against. We trained MIST on the same set of 1,000 breast cancer MMB posts that our system was trained on and also included the dictionaries listed in Table 1 as part of its lexicon. Table 6 exhibits MIST’s performance over the BC and arthritis validation sets against the performance of our system. In this table, recall is defined as the proportion of proper/user names that were tagged by the system with some name tag (either a proper or a user name tag, the only possible name tags) and precision was defined as the proportion of non-name tokens that the system Table 6 Performance of state-of-the-art MIST de-identification test sets"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    97.1,
+    724.4,
+    678.6,
+    915.9
+   ],
+   "ocr": "Development (BC) Test (Arthritis)\nRecall Precision Recall Precision\nMIST Proper names 79.9% 80.5% 72.2% 74.9%\nUsernames 49.5% 34.3%\nAll names 73.0% 54.6%\nProposed system Proper names 98.9% 67.4% 99.0% 61.4%\nUsernames 94.5% 90.3%\nAll names 98.1% 94.3%",
+   "table_id": "PMC3111588_table_5"
+  }
+ }
+}

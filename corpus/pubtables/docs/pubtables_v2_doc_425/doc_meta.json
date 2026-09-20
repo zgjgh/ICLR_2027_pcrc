@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_425",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4343276_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    767.7,
+    678.6,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4343276_table_0.png",
+   "html": "<table><tr><td>Immuno-phenotype</td><td>Cytogenetic abnormality</td><td>Fusion gene</td><td>N</td></tr><tr><td>T-ALL</td><td>Various</td><td>Various</td><td>101</td></tr><tr><td rowspan=\"7\">BCP ALL</td><td>HeH</td><td>-</td><td>189</td></tr><tr><td>t(12;21)</td><td>EVT6/RUNX1</td><td>161</td></tr><tr><td>11q23/MLL</td><td>MLL-r</td><td>27</td></tr><tr><td>t(1;19)</td><td>TCF3/PBX1</td><td>21</td></tr><tr><td>dic(9;20)</td><td>-</td><td>20</td></tr><tr><td>t(9;22)</td><td>BCR/ABL1</td><td>19</td></tr><tr><td>iAMP21</td><td>-</td><td>8</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4343276_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    127.7,
+    678.5,
+    316.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4343276_table_1.png",
+   "html": "<table><tr><td>Subtype group</td><td>Mean sensitivity &#177; SD</td><td>Mean specificity &#177; SD</td><td>Min CpGs (N)a</td><td>Max CpGs (N)a</td><td>Consensus CpGs (N)b</td></tr><tr><td>Reference</td><td>1.00 &#177; 0.01</td><td>0.99 &#177; 0.01</td><td>13</td><td>21</td><td>17</td></tr><tr><td>T-ALL</td><td>0.99 &#177; 0.02</td><td>1.00 &#177; 0.00</td><td>7</td><td>17</td><td>14</td></tr><tr><td>HeH</td><td>0.94 &#177; 0.04</td><td>0.95 &#177; 0.02</td><td>23</td><td>55</td><td>34</td></tr><tr><td>t(12;21)</td><td>0.97 &#177; 0.04</td><td>0.99 &#177; 0.01</td><td>28</td><td>2 263</td><td>42</td></tr><tr><td>11q23/MLL</td><td>0.95 &#177; 0.11</td><td>1.00 &#177; 0.00</td><td>16</td><td>27</td><td>28</td></tr><tr><td>t(1;19)</td><td>0.91 &#177; 0.13</td><td>1.00 &#177; 0.00</td><td>9</td><td>30</td><td>21</td></tr><tr><td>dic(9;20)</td><td>0.78 &#177; 0.16</td><td>0.99 &#177; 0.01</td><td>24</td><td>35</td><td>37</td></tr><tr><td>t(9;22)</td><td>0.70 &#177; 0.25</td><td>0.99 &#177; 0.01</td><td>17</td><td>41</td><td>23</td></tr><tr><td>iAMP21</td><td>0.81 &#177; 0.35</td><td>1.00 &#177; 0.00</td><td>11</td><td>19</td><td>16</td></tr><tr><td>Sex</td><td>0.98 &#177; 0.01</td><td>1.00 &#177; 0.01</td><td>8</td><td>12</td><td>14</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4343276_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    620.6,
+    678.6,
+    812.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4343276_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Methylation subtype</td><td colspan=\"4\">Confirmed subtypea</td><td colspan=\"5\">Subtype-likeb</td><td rowspan=\"2\">Unconfirmed subtypec N</td></tr><tr><td>N</td><td>Karyotyped</td><td>RT-PCRe</td><td>CNAf</td><td>N</td><td>Karyotyped</td><td>Negative for fusion geneg</td><td>Novel fusion geneh</td><td>CNAf</td></tr><tr><td>T-ALL*</td><td>0/1 (0%)</td><td>0</td><td>ND</td><td>ND</td><td>0/1 (0%)</td><td>0</td><td>NA</td><td>ND</td><td>ND</td><td>1/1 (100%)</td></tr><tr><td>HeH*</td><td>7/25 (28%)</td><td>0</td><td>ND</td><td>7</td><td>18/25 (72%)</td><td>8</td><td>NA</td><td>ND</td><td>13</td><td>0/25 (0%)</td></tr><tr><td>t(12;21)*</td><td>4/33 (12%)</td><td>1</td><td>4</td><td>ND</td><td>22/33 (67%)</td><td>0</td><td>19</td><td>3</td><td>ND</td><td>7/33 (21%)</td></tr><tr><td>11q23/MLL*</td><td>3/4 (75%)</td><td>1</td><td>ND</td><td>3</td><td>1/4 (25%)</td><td>0</td><td>1</td><td>ND</td><td>ND</td><td>0/4 (0%)</td></tr><tr><td>t(1;19)*</td><td>0/15 (0%)</td><td>0</td><td>ND</td><td>ND</td><td>9/15 (60%)</td><td>0</td><td>9</td><td>0</td><td>1</td><td>6/15 (40%)</td></tr><tr><td>dic(9;20)*</td><td>3/19 (16%)</td><td>0</td><td>ND</td><td>3</td><td>16/19 (84%)</td><td>5</td><td>NA</td><td>0</td><td>10</td><td>0/19 (0%)</td></tr><tr><td>t(9;22)*</td><td>0/5 (0%)</td><td>0</td><td>ND</td><td>ND</td><td>3/5 (60%)</td><td>0</td><td>3</td><td>ND</td><td>ND</td><td>2/5 (40%)</td></tr><tr><td>iAMP21*</td><td>4/4 (100%)</td><td>4</td><td>ND</td><td>4</td><td>0/4 (0%)</td><td>0</td><td>NA</td><td>ND</td><td>ND</td><td>0/4 (0%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4343276_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    127.7,
+    678.6,
+    439.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4343276_table_3.png",
+   "html": "<table><tr><td>Sample ID</td><td>Subtype</td><td>Methylation subtypea</td><td>FISH/PCR</td><td>Read pairs</td><td>Fusion gene</td></tr><tr><td>ALL_176</td><td>Non-recurrent</td><td>t(1;19)*</td><td>t(1;19) Not tested</td><td>84.3 M</td><td>No fusion detected</td></tr><tr><td>ALL_392</td><td>Normal</td><td>t(1;19)*</td><td>t(1;19) Negative</td><td>94.4 M</td><td>No fusion detected</td></tr><tr><td>ALL_390</td><td>Normal</td><td>t(1;19)*</td><td>t(1;19) Negative</td><td>102.6 M</td><td>No fusion detected</td></tr><tr><td>ALL_11</td><td>No result</td><td>t(12;21)*</td><td>t(12;21) Not tested</td><td>99.5 M</td><td>t(20;21)RUNX1/ASXL1</td></tr><tr><td>ALL_106</td><td>HeH</td><td>t(12;21)*</td><td>t(12;12) Negative</td><td>57.3 M</td><td>t(7;12)CBX3/ETV6</td></tr><tr><td>ALL_495</td><td>Normal</td><td>t(12;21)*</td><td>t(12;21) Negative</td><td>32.1 M</td><td>t(3;12)ETV6/AK125726</td></tr><tr><td>ALL_391</td><td>Non-recurrent</td><td>dic(9;20)*</td><td>NA</td><td>98.6 M</td><td>No fusion detected</td></tr><tr><td>ALL_58</td><td>Non-recurrent</td><td>Non-class</td><td>NA</td><td>89.0 M</td><td>No fusion detected</td></tr><tr><td>ALL_61</td><td>Normal</td><td>Non-class</td><td>NA</td><td>101.8 M</td><td>No fusion detected</td></tr><tr><td>ALL_Validation_20</td><td>HeH</td><td>Non-class</td><td>NA</td><td>19.0 M</td><td>t(5;15)BRD9/NUTM1</td></tr><tr><td>ALL_313</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>116.7 M</td><td>No fusion detected</td></tr><tr><td>ALL_619</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>84.3 M</td><td>t(9;14)PAX5/ESRRB</td></tr><tr><td>ALL_403</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>95.2 M</td><td>inv(9)PAX5/ZCCHC7</td></tr><tr><td>ALL_246</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>120.5 M</td><td>t(9;12)PAX5/ETV6</td></tr><tr><td>ALL_485</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>90.6 M</td><td>t(9;12)PAX5/ETV6</td></tr><tr><td>ALL_373</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>96.2 M</td><td>del(X)P2RY8/CRLF2</td></tr><tr><td>ALL_497</td><td>Non-recurrent</td><td>Multi-class</td><td>NA</td><td>89.7 M</td><td>No fusion detected</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4343276_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    127.7,
+    678.6,
+    479.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4343276_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Subtype</td><td rowspan=\"2\">N (%)a</td><td rowspan=\"2\">Sex M:F</td><td rowspan=\"2\">Age median (range)</td><td rowspan=\"2\">WBC median (range)</td><td rowspan=\"2\">CNS,b n/y/u</td><td rowspan=\"2\">CIRc</td><td colspan=\"4\">NOPHO protocold</td><td rowspan=\"2\">EsPhALLe</td><td rowspan=\"2\">Infantf</td><td rowspan=\"2\">Other/ NAg</td></tr><tr><td>SR</td><td>IR</td><td>HR</td><td>Ph+</td></tr><tr><td>T-ALL</td><td>101 (0.18)</td><td>2.9</td><td>9 (1&#8211;17)</td><td>138 (1&#8211;788)</td><td>89/12/0</td><td>0.20</td><td>0</td><td>2</td><td>86</td><td>1</td><td>0</td><td>0</td><td>12</td></tr><tr><td>T-ALL*</td><td>1 (0.00)</td><td>NA</td><td>11 (NA)</td><td>2 (NA)</td><td>1/0/0</td><td>0.00</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>HeH</td><td>189 (0.35)</td><td>1.2</td><td>3 (1&#8211;17)</td><td>9 (0&#8211;131)</td><td>187/2/0</td><td>0.16</td><td>82</td><td>79</td><td>22</td><td>0</td><td>0</td><td>0</td><td>6</td></tr><tr><td>HeH*</td><td>25 (0.12)</td><td>2.1</td><td>4 (1&#8211;14)</td><td>9 (1&#8211;91)</td><td>24/1/0</td><td>0.28</td><td>8</td><td>10</td><td>3</td><td>0</td><td>0</td><td>0</td><td>4</td></tr><tr><td>t(12;21)</td><td>161 (0.29)</td><td>1.1</td><td>4 (1&#8211;15)</td><td>14 (1&#8211;226)</td><td>159/0/2</td><td>0.22</td><td>68</td><td>65</td><td>24</td><td>0</td><td>0</td><td>0</td><td>4</td></tr><tr><td>t(12;21)*</td><td>33 (0.16)</td><td>1.1</td><td>4 (0&#8211;15)</td><td>11 (1&#8211;136)</td><td>33/0/0</td><td>0.24</td><td>12</td><td>11</td><td>6</td><td>0</td><td>0</td><td>1</td><td>3</td></tr><tr><td>11q23/MLL</td><td>27 (0.05)</td><td>0.7</td><td>0 (0&#8211;15)</td><td>193 (2&#8211;986)</td><td>25/1/0</td><td>0.41</td><td>0</td><td>1</td><td>11</td><td>0</td><td>0</td><td>14</td><td>1</td></tr><tr><td>11q23/MLL*</td><td>4 (0.02)</td><td>4.0</td><td>1 (0&#8211;1)</td><td>81 (38&#8211;1,255)</td><td>4/0/0</td><td>0.50</td><td>0</td><td>1</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>t(1;19)</td><td>21 (0.04)</td><td>0.8</td><td>11 (1&#8211;15)</td><td>35 (6&#8211;159)</td><td>20/1/0</td><td>0.14</td><td>0</td><td>3</td><td>17</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>t(1;19)*</td><td>15 (0.07)</td><td>0.9</td><td>7 (1&#8211;15)</td><td>10 (5&#8211;222)</td><td>14/1/0</td><td>0.07</td><td>1</td><td>9</td><td>3</td><td>0</td><td>0</td><td>0</td><td>2</td></tr><tr><td>dic(9;20)</td><td>20 (0.04)</td><td>0.4</td><td>2 (1&#8211;15)</td><td>50 (4&#8211;336)</td><td>19/1/0</td><td>0.25</td><td>4</td><td>5</td><td>10</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>dic(9;20)*</td><td>19 (0.09)</td><td>1.7</td><td>4 (1&#8211;18)</td><td>12 (1&#8211;164)</td><td>19/0/0</td><td>0.21</td><td>3</td><td>11</td><td>2</td><td>0</td><td>0</td><td>0</td><td>3</td></tr><tr><td>t(9;22)</td><td>19 (0.03)</td><td>2.2</td><td>10 (2&#8211;14)</td><td>61 (3&#8211;246)</td><td>17/2/0</td><td>0.47</td><td>0</td><td>0</td><td>1</td><td>6</td><td>12</td><td>0</td><td>0</td></tr><tr><td>t(9;22)*</td><td>5 (0.02)</td><td>4.0</td><td>12 (4&#8211;15)</td><td>102 (13&#8211;146)</td><td>5/0/0</td><td>0.40</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>4</td></tr><tr><td>iAMP21</td><td>8 (0.01)</td><td>7.0</td><td>9 (5&#8211;17)</td><td>5 (2&#8211;62)</td><td>8/0/0</td><td>0.38</td><td>2</td><td>3</td><td>1</td><td>0</td><td>0</td><td>0</td><td>2</td></tr><tr><td>iAMP21*</td><td>4 (0.02)</td><td>0.3</td><td>9 (7&#8211;16)</td><td>9 (4&#8211;23)</td><td>4/0/0</td><td>0.50</td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Multi-class</td><td>17 (0.03)</td><td>0.9</td><td>10 (3&#8211;17)</td><td>23 (1&#8211;106)</td><td>16/1/0</td><td>0.06</td><td>1</td><td>6</td><td>2</td><td>0</td><td>0</td><td>0</td><td>8</td></tr><tr><td>Non-class</td><td>83 (0.15)</td><td>1.5</td><td>9 (0&#8211;18)</td><td>20 (1&#8211;274)</td><td>80/3/0</td><td>0.23</td><td>13</td><td>30</td><td>25</td><td>0</td><td>0</td><td>3</td><td>11</td></tr></table>"
+  }
+ ]
+}

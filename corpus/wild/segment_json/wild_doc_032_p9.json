@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_032",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "In the context of the ongoing investigation into the genetic influences on metabolic functions, the accompanying data table presents a comprehensive analysis of selected biomarkers, specifically focusing on PGC-1beta, IL2, and ET1 across various patient profiles. The data are organized by patient number, gender, age, and post-mortem delay (PMD) in hours, providing a nuanced view of how these variables may correlate with the expression of the aforementioned genes. Notably, the results of the Welch t-Test indicate statistically significant differences in gene expression, as evidenced by the p-values reported for both PGC-1beta and IL2."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    217
+   ],
+   "ocr": "For instance, the data show a p-value of 7.08E-06 for PGC-1beta, suggesting a robust association between this gene and the observed metabolic parameters. Furthermore, the demographics captured in the table, including age and gender, may provide additional insights into patient-specific variations in gene expression. Such detailed stratification is critical for understanding the role of these genes in metabolic diseases and may inform future research directions aimed at therapeutic interventions. The implications of these findings underscore the importance of integrating genetic data with clinical characteristics in order to advance personalized medicine strategies."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    357.0
+   ],
+   "ocr": "LCI LBFS\nGene list PGC-1beta IL2 ET1 PGC-1beta IL2 ET1\nWelch t-Test 0.34 0.34 0.17 7.08E-06 0.0004 0.45\nMann-Whitney 0.2 0.2 0.13 0.118 0.0075 1\nStudent t-Test 0.38 0.38 0.1 1.24E-07 0.071 1\nEmpirical Bayes 0.4 0.19 0.05 1.36E-08 0.11 1",
+   "table_id": "img_036027_t0"
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    372.0,
+    580.0,
+    519.0
+   ],
+   "ocr": "Patient nr Gender Age PMD (hours)\n1 M 69 5–6\n2 F 65 Unknown\n3 F 55 3.5–4\n4 M 73 11\n5 M 62 4–8\n6 F 68 10",
+   "table_id": "img_036027_t1"
+  }
+ }
+}

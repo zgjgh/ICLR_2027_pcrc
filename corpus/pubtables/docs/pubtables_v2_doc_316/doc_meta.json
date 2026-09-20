@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_316",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2816682_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    546.4,
+    680.9,
+    905.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2816682_table_0.png",
+   "html": "<table><tr><td>SNP</td><td>Chromosome Position</td><td>Risk Allele</td><td>Case MAF</td><td>Control MAF</td><td>Trend p-Value</td></tr><tr><td>SNP-2 (New SNP)</td><td>124198539-124198544</td><td>del 6bp</td><td>0.40</td><td>0.27</td><td>5.9661025</td></tr><tr><td>rs11200630</td><td>124199674</td><td>C</td><td>0.39</td><td>0.25</td><td>8.9561026</td></tr><tr><td>ENSSNP6019764</td><td>124200359</td><td>A</td><td>0.39</td><td>0.21</td><td>5.8661026</td></tr><tr><td>rs10490924</td><td>124204438</td><td>T</td><td>0.41</td><td>0.23</td><td>4.9061027</td></tr><tr><td>SNP-3 (New SNP)</td><td>124204546-124204547</td><td>ins GT</td><td>0.49</td><td>0.37</td><td>3.7561025</td></tr><tr><td>rs36212731</td><td>124204966</td><td>T</td><td>0.30</td><td>0.20</td><td>2.4761023</td></tr><tr><td>rs36212732</td><td>124205188</td><td>G</td><td>0.42</td><td>0.26</td><td>6.6461026</td></tr><tr><td>rs36212733</td><td>124205201</td><td>C</td><td>0.41</td><td>0.25</td><td>4.8561027</td></tr><tr><td>rs3750848</td><td>124205305</td><td>G</td><td>0.41</td><td>0.23</td><td>1.2361026</td></tr><tr><td>rs3750847</td><td>124205411</td><td>T</td><td>0.35</td><td>0.24</td><td>6.4361024</td></tr><tr><td>rs3750846</td><td>124205555</td><td>C</td><td>0.45</td><td>0.24</td><td>5.8761023</td></tr><tr><td>SNP-4 (New SNP)</td><td>124206332-124206333</td><td>ins AT</td><td>0.69</td><td>0.61</td><td>0.02</td></tr><tr><td>in/del/Wt</td><td>124206811-124207253</td><td>ins 54bp, del 443bp</td><td>0.40</td><td>0.22</td><td>2.6661027</td></tr><tr><td>SNP-5 (New SNP)</td><td>124207752-124207753</td><td>ins G</td><td>0.48</td><td>0.33</td><td>5.8161025</td></tr><tr><td>rs3037985</td><td>124207893</td><td>del 7bp</td><td>0.68</td><td>0.59</td><td>0.03</td></tr><tr><td>rs3793917</td><td>124209265</td><td>G</td><td>0.40</td><td>0.22</td><td>3.2261026</td></tr><tr><td>rs3763764</td><td>124210051</td><td>C</td><td>0.41</td><td>0.21</td><td>2.3861027</td></tr><tr><td>rs3763764</td><td>124210051</td><td>G</td><td>0.46</td><td>0.30</td><td>4.2061026</td></tr><tr><td>rs11200638</td><td>124210534</td><td>A</td><td>0.41</td><td>0.22</td><td>2.1961027</td></tr><tr><td>rs1049331</td><td>124211260</td><td>T</td><td>0.43</td><td>0.29</td><td>2.6861023</td></tr><tr><td>rs2293870</td><td>124211266</td><td>T, C</td><td>0.53</td><td>0.32</td><td>5.5661027</td></tr><tr><td>rs58077526 or rs61871752</td><td>124220014</td><td>C</td><td>0.38</td><td>0.21</td><td>2.1761026</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2816682_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    684.9,
+    661.1,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2816682_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">SNP</td><td rowspan=\"2\">Case-control cohort Case # vs Control #</td><td rowspan=\"2\">Utah cohort 705 vs 650</td><td rowspan=\"2\">Hopkins cohort 442 vs 434</td><td rowspan=\"2\">Han Chinese cohort 138 vs 591</td></tr><tr></tr><tr><td rowspan=\"3\">rs2736911</td><td>Allelic p-value</td><td>6.4661025</td><td>1.8061023</td><td>0.011</td></tr><tr><td>Heterozygote OR (95% CI)</td><td>0.611(0.475&#8211;0.788)</td><td>0.655(0.471&#8211;0.909)</td><td>0.411(0.236&#8211;0.715)</td></tr><tr><td>Homozygote OR (95% CI)</td><td>0.497(0.2233&#8211;1.107)</td><td>0.254(0.052&#8211;1.232)</td><td>2.48(0.410&#8211;15.031)</td></tr><tr><td rowspan=\"3\">rs10490924</td><td>Allelic p-value</td><td>8.61610226</td><td>4.87610234</td><td>1.15610213</td></tr><tr><td>Heterozygote OR (95% CI)</td><td>2.069(1.645&#8211;2.603)</td><td>3.175(2.333&#8211;4.321)</td><td>2.664(1.284&#8211;5.527)</td></tr><tr><td>Homozygote OR (95% CI)</td><td>7.191(4.518&#8211;11.444)</td><td>10.311(6.474&#8211;16.422)</td><td>8.986(4.335&#8211;18.625)</td></tr><tr><td rowspan=\"3\">in/del/Wt</td><td>Allelic p-value Freq.</td><td>1.90610226</td><td>8.35610234</td><td>6.03610213</td></tr><tr><td>Heterozygote OR (95% CI)</td><td>2.305(1.827&#8211;2.908)</td><td>3.195(2.339&#8211;4.364)</td><td>2.395(1.189&#8211;4.825)</td></tr><tr><td>Homozygote OR (95% CI)</td><td>6.879(4.436&#8211;10.666)</td><td>7.998(5.255&#8211;12.173)</td><td>7.983(3.965&#8211;16.072)</td></tr><tr><td rowspan=\"3\">rs11200638</td><td>Allelic p-value</td><td>3.64610226</td><td>2.52610234</td><td>5.10610213</td></tr><tr><td>Heterozygote OR (95% CI)</td><td>2.413(1.922&#8211;3.031)</td><td>3.315(2.429&#8211;4.523)</td><td>4.087(1.602&#8211;10.425)</td></tr><tr><td>Homozygote OR (95% CI)</td><td>6.851(4.396&#8211;10.676)</td><td>10.246(6.550&#8211;16.026)</td><td>12.932(5.083&#8211;32.904)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2816682_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    121.8,
+    691.1,
+    308.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2816682_table_2.png",
+   "html": "<table><tr><td rowspan=\"3\">SNP</td><td rowspan=\"3\">Case-control cohort Groups Number</td><td colspan=\"2\">Utah case-control cohort</td><td colspan=\"2\">Hopkins case-control cohort</td><td colspan=\"2\">Han Chinese case-control cohort</td></tr><tr><td rowspan=\"2\">Case 705</td><td rowspan=\"2\">Control 650</td><td rowspan=\"2\">Case 442</td><td rowspan=\"2\">Control 434</td><td rowspan=\"2\">Case 138</td><td rowspan=\"2\">Control 591</td></tr><tr></tr><tr><td rowspan=\"2\">rs2736911</td><td>Protective Allele T Freq.</td><td>0.12</td><td>0.18</td><td>0.09</td><td>0.14</td><td>0.07</td><td>0.12</td></tr><tr><td>HWE</td><td>1.00</td><td>0.45</td><td>0.50</td><td>0.71</td><td>0.11</td><td>0.29</td></tr><tr><td rowspan=\"2\">rs10490924</td><td>Risk Allele T Freq.</td><td>0.38</td><td>0.20</td><td>0.25</td><td>0.24</td><td>0.74</td><td>0.49</td></tr><tr><td>HWE</td><td>0.05</td><td>0.34</td><td>0.66</td><td>0.80</td><td>0.07</td><td>0.99</td></tr><tr><td rowspan=\"2\">in/del/Wt</td><td>Risk Allele in/del Freq.</td><td>0.39</td><td>0.20</td><td>0.53</td><td>0.25</td><td>0.73</td><td>0.49</td></tr><tr><td>HWE</td><td>0.06</td><td>0.88</td><td>0.12</td><td>0.25</td><td>0.08</td><td>1.00</td></tr><tr><td rowspan=\"2\">rs11200638</td><td>Risk Allele A Freq.</td><td>0.41</td><td>0.22</td><td>0.53</td><td>0.25</td><td>0.77</td><td>0.52</td></tr><tr><td>HWE</td><td>0.38</td><td>0.22</td><td>0.10</td><td>1.00</td><td>0.05</td><td>0.28</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2816682_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    121.8,
+    663.3,
+    511.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2816682_table_3.png",
+   "html": "<table><tr><td>Case-control cohort</td><td>Haplotype</td><td>Case Freq.</td><td>Control Freq.</td><td>Chi Square</td><td>P Value</td></tr><tr><td rowspan=\"7\">Utah case-control cohort</td><td>C-G-Wt-G</td><td>0.450</td><td>0.590</td><td>50.455</td><td>1.22610212</td></tr><tr><td>C-T-in/del-A</td><td>0.340</td><td>0.160</td><td>120.883</td><td>4.05610228</td></tr><tr><td>T-G-Wt-G</td><td>0.110</td><td>0.150</td><td>12.723</td><td>4.0061024</td></tr><tr><td>C-G-Wt-A</td><td>0.028</td><td>0.024</td><td>0.559</td><td>0.455</td></tr><tr><td>C-T-in/del-G</td><td>0.014</td><td>0.018</td><td>0.602</td><td>0.438</td></tr><tr><td>T-G-Wt-A</td><td>0.009</td><td>0.019</td><td>4.621</td><td>0.032</td></tr><tr><td>C-T-Wt-A</td><td>0.003</td><td>0.009</td><td>3.576</td><td>0.059</td></tr><tr><td rowspan=\"7\">Hopkins case-control cohort</td><td>C-G-Wt-G</td><td>0.370</td><td>0.580</td><td>76.762</td><td>1.93610218</td></tr><tr><td>C-T-in/del-A</td><td>0.500</td><td>0.210</td><td>167.657</td><td>2.40610238</td></tr><tr><td>T-G-Wt-G</td><td>0.076</td><td>0.120</td><td>10.773</td><td>0.001</td></tr><tr><td>C-G-Wt-A</td><td>0.017</td><td>0.022</td><td>0.708</td><td>0.400</td></tr><tr><td>C-T-Wt-G</td><td>0.010</td><td>0.021</td><td>3.752</td><td>0.053</td></tr><tr><td>C-G-in/del-G</td><td>0.006</td><td>0.018</td><td>5.261</td><td>0.022</td></tr><tr><td>T-T-in/del-A</td><td>0.014</td><td>0.007</td><td>2.085</td><td>0.149</td></tr><tr><td rowspan=\"10\">Han Chinese case-control cohort</td><td>C-G-Wt-G</td><td>0.170</td><td>0.330</td><td>27.937</td><td>1.2561027</td></tr><tr><td>C-T-in/del-A</td><td>0.660</td><td>0.450</td><td>62.000</td><td>3.43610215</td></tr><tr><td>T-G-Wt-G</td><td>0.037</td><td>0.084</td><td>7.376</td><td>0.007</td></tr><tr><td>C-G-in/del-A</td><td>0.040</td><td>0.028</td><td>0.992</td><td>0.319</td></tr><tr><td>C-T-Wt-G</td><td>0.023</td><td>0.032</td><td>0.620</td><td>0.431</td></tr><tr><td>C-G-Wt-A</td><td>0.016</td><td>0.031</td><td>1.874</td><td>0.171</td></tr><tr><td>C-T-Wt-A</td><td>0.015</td><td>0.028</td><td>1.502</td><td>0.220</td></tr><tr><td>T-T-in/del-A</td><td>0.017</td><td>0.018</td><td>0.006</td><td>0.940</td></tr><tr><td>C-T-in/del-G</td><td>0.009</td><td>0.014</td><td>0.482</td><td>0.488</td></tr><tr><td>C-G-in/del-G</td><td>0.001</td><td>0.014</td><td>3.488</td><td>0.062</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2816682_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    807.7,
+    691.1,
+    904.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2816682_table_4.png",
+   "html": "<table><tr><td colspan=\"2\">Case-control cohort</td><td colspan=\"3\">Utah case-control cohort</td><td colspan=\"3\">Hopkins case-control cohort</td><td colspan=\"2\">Han Chinese case-control cohort</td></tr><tr><td></td><td></td><td rowspan=\"2\">GA 232</td><td rowspan=\"2\">CNV 473</td><td rowspan=\"2\">Controls 650</td><td rowspan=\"2\">GA 141</td><td rowspan=\"2\">CNV 301</td><td rowspan=\"2\">Controls 434</td><td rowspan=\"2\">CNV 138</td><td rowspan=\"2\">Controls 591</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"2\">Sex-Number (%)</td><td>Female</td><td>139 (60)</td><td>243 (50)</td><td>400 (62)</td><td>80 (57)</td><td>163 (54)</td><td>228 (53)</td><td>66 (48)</td><td>272 (46)</td></tr><tr><td>Male</td><td>93 (40)</td><td>230 (50)</td><td>250 (38)</td><td>61 (43)</td><td>138 (46)</td><td>206 (47)</td><td>72 (52)</td><td>319 (54)</td></tr><tr><td>Average Age-years</td><td></td><td>84.09</td><td>82.85</td><td>75.30</td><td>82.51</td><td>79.51</td><td>78.10</td><td>68.10</td><td>66.50</td></tr></table>"
+  }
+ ]
+}

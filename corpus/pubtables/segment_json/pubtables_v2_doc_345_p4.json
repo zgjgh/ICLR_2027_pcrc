@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_345",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    311.0,
+    65.8
+   ],
+   "ocr": "Ongenae et al. BMC Health Services Research 2011, 11:26 http://www.biomedcentral.com/1472-6963/11/26"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 22 of 28"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    79.3,
+    216.2,
+    89.2,
+    257.7
+   ],
+   "ocr": "calls of Nr."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    544.3,
+    226.9,
+    615.7,
+    289.9
+   ],
+   "ocr": "Priority 3 - Current Priority 4 - Current Priority 5 - Current Priority 7 - Current"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    366.0,
+    383.3,
+    670.7,
+    461.0
+   ],
+   "ocr": "Time in sec. nurse arrival times for different call priorities. This figure visualizes the times of these nurses (x-axis in seconds) for different call priorities for the place where the patient made the call. This allows evaluating (1) the distribution of the calls amongst the different priorities. Note that the has a time-step of 60 seconds. The two parts are separated by the"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    399.3,
+    383.4,
+    473.6
+   ],
+   "ocr": "Figure 16 Place-oriented system: number of calls as function of number of calls that have a nurse present (y-axis) as function of the arrival current, place-oriented system. This means that the nurse has arrived at influence of the priority of the call on the arrival time of the nurse (2) the first part of the x-axis has a time-step of 5 seconds, while the second part striped vertical line."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    498.8,
+    678.6,
+    753.5
+   ],
+   "ocr": "the same trend of having a nurse in place within a cer- tain time. Only calls with the above normal priority seem to be handled faster than the other calls. However, the calls with this priority also have the longest worst- case time. Table 4 gives an overview of the distribution of calls amongst the nurses present in the department. The first column indicates the number of nurses that were pre- sent in the department during the simulation. For both systems it is shown what the maximum and minimum percentage of calls was that a nurse handles during a shift. It is also indicated how many nurses handle zero calls during a shift. Finally, the standard deviation is given between the percentage of calls that nurses han- dles and the mean. The mean is of course the ideal per- centage of calls that a nurse should handle, for example 50% in the case there are 2 nurses in the department."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    498.9,
+    366.1,
+    792.6
+   ],
+   "ocr": "nurse in place within 60 seconds. The tails are longer, but still in the correct order: the worst-case time of the calls with above normal priority is lower than the worst- case time of calls with the normal priority which is in turn lower than the worst-case time of the calls with the below normal priority. However, the amount of time for a nurse to be place is not as logical in the place-oriented system. It is obvious that the place-oriented system does not take the priority of the call into account. The different peaks can be explained by the relaunch times of the calls. Every 180 seconds a call which does not have a nurse in place is relaunched. It can be seen that after these time points (0, 180, 360,...) a series of calls is answered. Even calls with the highest priority need to be relaunched up to 4 times before someone is in place. The calls with the above normal, normal and below normal priority have Table 4 Distribution of calls amongst the nurses"
+  },
+  "p4_b8": {
+   "type": "table",
+   "bbox": [
+    83.1,
+    797.5,
+    666.9,
+    915.9
+   ],
+   "ocr": "Nr. of nurses in the department Workload distribution Workload distribution\nPlace-oriented system: oNCS system:\nMax. Min. # 0% Std. Err. Max. Min. # 0% Std. Err.\n1 100 100 0 0 100 100 0 0\n2 70.97 29.03 0 11.90 57.14 42.86 0 5.12\n3 58.33 12.12 0 12.65 60.98 6.98 0 14.74\n4 62.50 0 1 12.26 50 0 1 10.24\n5 54.84 0 2 12.63 42.50 2.56 0 7.90",
+   "table_id": "PMC3045288_table_3"
+  }
+ }
+}

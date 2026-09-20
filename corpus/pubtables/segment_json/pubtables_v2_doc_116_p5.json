@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_116",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    590.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Ovarian Cancer Genomics"
+  },
+  "p5_b1": {
+   "type": "title",
+   "bbox": [
+    81.0,
+    81.4,
+    242.1,
+    92.8
+   ],
+   "ocr": "Table 5. Highly amplified genes."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    120.1,
+    700.6,
+    507.2
+   ],
+   "ocr": "Chr Start (Mb) End (Mb) Length (bp) No. samples Genes1\n3 170.040 170.248 208141 6 None\n3 178.305 178.589 283690 5 TBL1XR1\n3 180.121 180.410 288435 5 PIK3CA; ZMAT3\n8 55.208 55.528 319922 5 MRPL15*\n8 62.495 63.491 995369 6 RLBP1L1*;NKAIN3;ASPH\n8 102.003 102.062 58823 5 YWHAZ\n8 123.144 123.746 601615 6 None\n8 123.856 124.369 513120 6 DERL1; ZHX2; WDR67*; ZHX1*; C8orf76*; FAM83A\n8 124.369 125.825 1455953 6 ATAD2; C8orf32*; FBXO32; ANXA13; KLHL38; FAM91A1; FER1L6; MTSS1;\nNDUFB9; RNF139; TATDN1; TMEM65; TRMT12*\n8 125.828 127.764 1936500 7 KIAA0196; NSMCE2; SQLE; ZNF572*; TRIB1; FAM84B*\n8 127.764 128.973 1208920 7 MYC; POU5F1P1\n8 128.973 130.166 1193146 8 PVT1{, TMEM75*\n8 130.166 138.988 8821634 7 ADCY8; DDEF1; EFR3A; FAM49B; KCNQ3; MLZE; OC90; LRRC6; NDRG1;\nPHF20L1; SLA; TG*; TMEM71; WISP1; ST3GAL1; ZFAT*; KHDRBS3; CCDC26\n8 138.988 144.000 5382420 7 FAM135B; COL22A1; KCNK9; NIBP*; CHRAC1*; EIF2C2; PTK2; DENND3*;\nSLC45A4; FLJ43860; GPR20; PTP4A3; ARC; BAI1; C8orf55; CYP11B1;\nCYP11B2; GML; JRK; LY6D; LY6K; LYNX1; LYPD2; PSCA; SLURP1; TSNARE1\n17 35.104 35.105 529 5 ERBB2*\n19 34.125 34.639 513414 5 UQCRFS1*\n19 34.639 35.610 971542 6 C19orf12*; PLEKHF1; POP4*; CCNE1; C19orf2; ZNF536*\n19 35.968 36.703 734619 6 TSHZ3*\n19 37.459 38.011 552023 5 ANKRD27*; PDCD5*; RGS9BP; ECAT8; DPY19L3*; ZNF507*\n19 38.372 39.140 767924 5 CEBPA; LRP3; SLC7A10; CHST8; KCTD15; CEBPG*; PEPD*; FLJ12355\n20 29.427 29.849 421241 5 BCL2L1; COX4I2; DEFB119; DEFB121; DEFB123; DEFB124; HM13; ID1; REM1; TPX2",
+   "table_id": "PMC2851616_table_4"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    386.2,
+    520.2,
+    700.8,
+    540.0
+   ],
+   "ocr": "oncogenes (based on Cancer Gene Census [38]), *Genes that show a strong (r.0.6) Note that some regions encompass multiple smaller amplicons, only genes within"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    520.5,
+    393.9,
+    963.6
+   ],
+   "ocr": "1. Derived from Refseq annotation (September 2009). Genes in italics are known positive correlation of copy number with expression, {Not on expression microarray. regions (+/210 kb) defined by .5 samples are shown. doi:10.1371/journal.pone.0009983.t005 many thousands targeted by copy number change alone. We have identified many promising candidate genes not previously noted in ovarian cancer, particularly genes such as MYNN, TPX2 and PUF60. It should be noted, however, that our method of analysis is one of many that can be employed in the identification of novel cancer genes, and is unlikely to have identified all possible candidates. The example of MYC, not strongly expressed in our data but previously shown to have a functional effect in ovarian cancer cell lines [32], clearly indicates that our approach should be considered complementary to others such as functional screens and deep sequencing of primary cancer samples. Nevertheless our data provides an important platform from which to rationally pursue the validation of these potential dominant drivers of ovarian tumori- genesis. In addition, this list may include genes that are valid candidates for diagnostic or therapeutic purposes. Materials and Methods Ethics Statement All samples were collected with the donor’s written informed consent. This study was approved by the Peter MacCallum Cancer Centre Human Research Ethics Committee (Protocol number 01/38). Sample collection Tumour biopsies were obtained from 72 patients who were undergoing surgery for primary ovarian cancers (a) at hospitals in PLoS ONE | www.plosone.org 7"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    579.6,
+    700.8,
+    963.6
+   ],
+   "ocr": "the Wessex region of Southeast England, UK and (b) in hospitals in Victoria, Australia (accessed through the Peter MacCallum Cancer Centre Tissue Bank). Blood was collected from the same patients for matching lymphocytes. Fallopian tube samples were collected through the tissue bank from BRCA1 or BRCA2 mutation carriers undergoing prophylactic bilateral salpingo-oophorectomy in hospitals around Melbourne. The accrual and use of patient samples related to this project were approved by the relevant institutional ethics committees. Clinical and histopathological information about the samples are provided in Table 1 and Table S1. DNA and RNA extraction Fresh-frozen tissue was embedded in Optimal Cutting Tem- perature Compound (OCT, Sakura Finetek, Torrance, CA) and cut into 10 mm sections. Tumour DNA and tumour and fallopian tube RNA were extracted from identical regions after needle micro-dissection of .80% tumour epithelial cells. Sections for RNA were stained using Cresyl violet and RNA was extracted using Ambion mirVana total RNA extraction protocol (Applied Biosystems/Ambion, Austin, TX). Tissue sections used for DNA extraction were stained with haematoxylin and eosin and DNA was extracted using the Qiagen Blood and Tissue Kit (Qiagen, Valencia, CA, USA). DNA from matching normal lymphocytes for samples from the Peter MacCallum Cancer Centre Tissue Bank were extracted using the same kit. DNA from matching April 2010 | Volume 5 | Issue 4 | e9983"
+  }
+ }
+}

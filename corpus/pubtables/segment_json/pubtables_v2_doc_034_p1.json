@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_034",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    196.3,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2007, 7:109"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/7/109"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.3,
+    685.0
+   ],
+   "ocr": "cell library (32.9%). The distinct difference in annotatable rate between the melanocytic libraries and the embryonic libraries (especially the E14 stem cell) suggests that certain developmental pathways are presently uncharacterized and not available in the KEGG databases. Melanin de novo biosynthesis genes are highly expressed in the cells of melanocyte origin, but not in the embryonic cells The melanogenic potential is genetically endowed by two groups of genes encoding enzymes of Tyrosinase family and Pmel/Si family [31], which work in the up- and down-stream of the melanin biosynthesis pathway respec- tively. Members of the Tyrosinase family include tyrosi- nase precursor (encoded by Tyr gene), Dopachrome tautomerase precursor (Dct, or Tyrp2 gene), D- dopachrome tautomerase (Ddt gene), and DHICA oxidase precursor (Tyrp1 gene). The silver locus protein (Si) is the murine homolog of human Pmel 17 protein. As expected, melanin biosynthesis genes were predomi- nantly expressed in the melanocytic cells including the B16F1 melanoma cells and the Melan-a2 melanocytes, but not, or at extremely low levels, in the embryonic cells including E17.5 embryo cells and E14 embryonic stem cells (Table 2). Moreover, comparisons between melanoma cells and melanocytes revealed a pathway- wide, consistent transcriptional reduction of the major melanin biosynthesis genes in melanoma (p = 0.0018) especially for genes expressed at high level in melanocytic cells, indicating a coordinated transcriptional control for genes of the same metabolic pathway. This result thus sug- gests the feasibility of using PET counts for the pathway- wide quantification of gene expression levels. The most significantly upregulated pathways are diversely involved in various cellular activities A total of 7 pathways were found to be significantly upreg- ulated (p < 0.005) in melanoma cells, and these were"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    284.1,
+    372.6,
+    447.7
+   ],
+   "ocr": "Figure Expression thesis pathways 4 graph of oxidative phosphorylation and ATP syn- Expression graph of oxidative phosphorylation and ATP synthesis pathways. PET counts, in cpm (counts per million), of gene isoforms in the oxidative phosphorylation pathway (red) and the ATP synthesis pathway (blue) are plot- ted to show that both pathways are downregulated in B16F1 melanoma cells (library SMT001_32267nr2), compared with Melan-a2 melanocytes (SMN001_36623nr2). This function is implemented in a local KEGG-PET application for pathway analysis. As exemplified by the box in the lower-right corner, PET counts of each gene isoform (Cox8a in this case) for all libraries are accessible by using mouse-on method."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    478.1,
+    372.6,
+    715.0
+   ],
+   "ocr": "B16F1 melanoma library and Melan-a2 melanocyte library, respectively (Table 1). After mapping and further characterization, we identified 32,267 PET1 ditags from the melanoma transcriptome. Among these, 29,439 (91.2%) were associated with known genes, and 11,687 (36.2%) of the known gene-associated PET1 ditags were further annotated to KEGG pathways. The melanocyte transcriptome contained 36,623 PET1 ditags, 33,005 (90.1%) were associated with known genes, of which 13,348 (36.4%) were further annotated to KEGG path- ways. Overall, the melanocyte library scored the highest success rate (40.4%) for known gene-to-pathway associa- tion, followed by the melanoma library (39.7%), the E17.5 day old embryo library (37.8%), and the E14 stem Table 1: Library statistics."
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    726.2,
+    693.5,
+    875.0
+   ],
+   "ocr": "Library #Total PETs #uPETs #Mappable # PET1 #Known gene-asso. #Pathway-asso. PET1\n(% over uPETs) PET1 (% over PET1) (% over PET1)\n(% over known gene-asso. PET1)\nB16F1 melanoma (SMT001) 91977 45465 34146 (75.1%) 32267 29439 (91.2%) 11687\n(36.2%) (39.7%)\nMelan-a2 melanocyte (SMN001) 68880 51352 38640 (75.3%) 36623 33005 (90.1%) 13348\n(36.4%) (40.4%)\nE14 Stem Cell (MoEScom) 248234 135328 97295 (71.9%) 93384 86019 (92.1%) 28311\n(30.3%) (32.9%)\nE17.5 embryo (SME006) 81793 41595 30883 74.3% 28387 24656 (86.9%) 9314\n(32.8%) (37.8%)",
+   "table_id": "PMC1929113_table_0"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    891.2,
+    383.4,
+    926.4
+   ],
+   "ocr": "uPETs, PETs having unique sequences. Mappable ratio is the percentage of ratio refers to the percentage of mappable PETs that have unique targets can be assigned to KEGG pathways."
+  },
+  "p1_b7": {
+   "type": "caption",
+   "bbox": [
+    383.8,
+    891.2,
+    692.9,
+    914.7
+   ],
+   "ocr": "unique PETs that have one or more target locations in the genome. PET1 in the genome. Pathway-asso. PET1 is the percentage of PET1 ditags that"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 21 (page number not for citation purposes)"
+  }
+ }
+}

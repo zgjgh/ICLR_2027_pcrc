@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_026",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Ren et al. BMC Bioinformatics 2015, 16(Suppl 18):S12 http://www.biomedcentral.com/1471-2105/16/S18/S12"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 7 of 15"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.7,
+    922.4
+   ],
+   "ocr": "internally interacting residues for epitope sites. For exam- ple, DiscoTope 2.0 predicted two internally interacting resi- dues TRP-210 and ASP-234 as epitope residues (see blue spheres in Figure 3(c)). Prediction results for dihydrofolate reductase antigen PDB entry 4NX7 is an unbound structure of an antigen of dihydrofolate reductase. This structure has multiple epitopes that have been confirmed at six other PDB entries: 3K74, 4EJ1, 4EIG, 4EIZ, 4I1N and 4I13. Again, the PUPre classifier was trained on the remaining 91 unbound structures after 4NX7 was removed from the unbound structure data set. The best sequence similarity between 4NX7 and the remaining 91 structures is only 12.6%. Table 5 reports that PUPre achieves the best overall performance: the F-score is 0.49 and the MCC is 0.31, noticeably higher than the other prediction methods. It recognizes 71% of the confirmed epitope residues at a precision of 0.37. ElliPro shows a competitive recall of 0.69, but its precision 0.29 is worse than ours; SEPPA 2.0 shows a slightly higher precision performance (0.38), but its recall is quite low (0.17). A graphical visualization of the ground truth of the epitopes (total 35 residues) is given in Figure 4(a). Figure 4(b) shows the 25 correctly predicted residues by PUPre (magenta spheres) of the 35 epitope residues, and the 10 wrongly predicted epitope residues (magenta sticks). As a comparison, Figure 4(d) shows the 24 epi- tope residues correctly predicted by ElliPro, but ElliPro selected many more unlabeled residues (60, grey spheres) as being positive than PUPre (43 residues), thereby greatly reducing precision. SEPPA demonstrated a slightly higher precision than PUPre as it predicted only 10 unlabeled residues as epitope sites; however, it identified only six out of 35 epitope residues, implying limited ability to discover epitope sites compared to PUPre (Figure 4(e)). We also use this case study to illustrate the impact of non-standard components on epitope prediction. There are four non-standard components in 4NX7 (in yellow dots in Figure 4(b) and (d)): MN (Manganese), FOL (Folic acid), BME (Betamercaptoethanol) and NAP (NADP nicotinamide-adenine-dinucleotipe). The non- standard elements have a sophisticated impact on the folding of the protein as well as the binding with antibo- dies. As shown in Figure 4(b) and (d), the residues alongside the non-standard elements are unlikely to be epitope candidates since they are difficult to bind by antibodies. Predictors and most feature extraction meth- ods have failed to deal with this issue. Prediction results for beta-lactamase antigen Our third case study is on an unbound structure of an antigen of beta-lactamase obtained from Bacillus liche- niformis (PDB ID: 2WK0). The epitope site was mapped"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    837.8
+   ],
+   "ocr": "antibody 22NS1), which is the only bound structure of a similar antigen in PDB. The epitope consists of 21 resi- dues. PUPre was constructed on 91 structures of our data set to predict the epitopes of 4OIE after the unbound structure 4OIE was removed from the training data. The sequence similarity between 4OIE and each of the 91 training structures was calculated by BLAST; the highest sequence similarity is only at 11.0%, confirming they are not related. The prediction performance is listed in Table 4. We can see that PUPre outperforms the other three predic- tors in all cases. It has an F-score of 0.52 and an MCC of 0.49, both of which are significantly higher than the others. Its recall is high at 0.90, nearly twice as much as the best recall of the other predictors (ElliPro: 0.48). Its precision is also remarkably higher than all the others. The 0.90 recall means that 90% of the confirmed epi- tope residues have been correctly identified, and thus it can be inferred that most of the unknown epitope sites will probably also be predicted as positive. A high preci- sion means that the number of candidate epitope resi- dues is greatly reduced to ease the wet-lab burden of experiments. Figure 3 shows the 21 confirmed epitope residues in comparison with the predicted epitope results from the four computational methods. The confirmed epitope (ground truth, may be incomplete) is shown in Figure 3 (a) by the magenta spheres. The PUPre classifier made a correct prediction for 19 of the 21 epitope residues as highlighted by magenta spheres in Figure 3(b), except for PRO-258 and TYR-260 of chain A (shown by magenta sticks and labels). In addition, a total of 33 unla- beled residues were predicted as positive (shown as grey spheres). These residues are believed to be good candi- dates for currently unknown epitopes. As a close com- parison, ElliPro made a correct prediction for only 10 of the 21 epitope residues (magenta spheres in Figure 3(d)), and it selected 84 unlabeled residues as potential epitope residues. DiscoTope and SEPPA’s performance were worse than ElliPro’s. There are multiple symmetrical units in 4OIE. The foot- print of other symmetrical units on this chain (internal interactions, colored in blue) cannot be epitope candidates. The integrated preprocess allows PUPre to avoid recogniz- ing this area as an epitope site (there is no blue sphere in Figure 3(b)), while the other predictors all mistook Table 4. Prediction results on West Nile virus 4OIE"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    842.7,
+    347.6,
+    915.9
+   ],
+   "ocr": "Predictor Recall Precision F-score MCC\nPUPre 0.90 0.37 0.52 0.49\nDiscoTope 2.0 0.24 0.20 0.22 0.10\nElliPro 0.48 0.11 0.17 -0.05\nSEPPA 2.0 0.14 0.14 0.14 0.02",
+   "table_id": "PMC4682424_table_3"
+  }
+ }
+}

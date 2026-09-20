@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_450",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    689.6,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "QuorUM"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    95.5,
+    722.7,
+    131.3
+   ],
+   "ocr": "Table 6. The assembled NGA50 contig size in kilo-bases for SOAPdenovo. The “-d0” and “-d1” are parameters to SOAPdenovo instructing the assemblers to use all 31-mers or to ignore the 31-mers occurring only once. For MaSuRCA, which incorporates QuorUM, the result is in parentheses."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    140.1,
+    726.6,
+    334.6
+   ],
+   "ocr": "Corrector Rhodobacter Staphylococcus Mouse C16\n-d0 -d1 -d0 -d1 -d0 -d1\nnone 0. 2.7 0. 4.8 0.64 1.5\nCoral 0. 3.4 0.67 16 - -\nEcho 0. 3.1 0.92 9.1 - -\nHiTec 0.96 2.3 3.0 8.5 - -\nQuake 2.9 1.6 10 5.7 1.7 1.7\nSGA 3.4 2.3 8.4 5.9 1.4 1.7\nRacer 1.2 2.5 5.2 7.8 1.2 1.4\nMusket 0.53 2.9 2.1 9.5 1.2 1.4\nQuorUM 6.6 5.9 19 16.206 1.7 1.7\nMaSuRCA (19) (33) (5.7)",
+   "table_id": "PMC4471408_table_5"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    342.7,
+    393.3,
+    354.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0130821.t006"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    403.3,
+    725.8,
+    898.4
+   ],
+   "ocr": "Conclusion Our algorithm for correcting reads focuses on achieving our design idea of minimizing the number of distinct erroneous k-mers in the output reads, while preserving the most true k- mers. The algorithm is admittedly complex due to the complex nature of Illumina read data. It has been and remains our view that if we achieve this design idea, the π score will be low, and the QuorUM corrected reads will produce better assemblies. To assist the reader in evaluating how well we achieve this design idea we have created the statistic π, and we show the values of π in Table 1. The values of π are lowest for QuorUM by factors of 30, 15, and 3.5. Of course this reflects that the design ideas of the other correctors are different, not aimed at minimizing π. But, as we argue below, our reads are better for assemblies, and we leave it to the reader to determine if the low scores of π are the reason why our assemblies are good. From the point of view of using error correctors as aids in the assembly of whole genome shotgun reads, the most revealing criterion is the size of the idealized contigs (Table 2). We also illustrate that error correction with QuorUM can benefit in assembly using an indepen- dent third-party assembly tool that has not been optimized for use with QuorUM (Table 6). QuorUM produces a larger proportion of error-free reads (Table 3) and its reads yield the larg- est idealized contig size (Table 2). Chimeric reads can result in misassemblies of contigs and Quake is best at eliminating chimeric reads. Also, QuorUM is the fastest error corrector according to our timing statistics listed in Table 5. Overall, by most criteria in this paper, Quo- rUM is the best error corrector for the purpose of genome assembly. Supporting Information S1 Text. Corrector commands. List of all commands and parameters used to run the error correctors and assemblers. (PDF) S1 Table. NGA50 and NG50 for SOAPdenovo and MaSuRCA. Additional quality statistics the assemblies generated. (PDF)"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0130821 June 17, 2015 11 / 13"
+  }
+ }
+}

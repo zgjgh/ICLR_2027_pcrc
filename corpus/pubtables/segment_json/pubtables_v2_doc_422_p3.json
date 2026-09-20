@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_422",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    42.8,
+    281.2,
+    67.0
+   ],
+   "ocr": "Dias et al. BMC Bioinformatics 2012, 13:96 http://www.biomedcentral.com/1471-2105/13/96"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.8,
+    43.0,
+    679.1,
+    54.4
+   ],
+   "ocr": "Page 9 of 12"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    108.1,
+    331.4,
+    121.1
+   ],
+   "ocr": "Table 3 Average Performance (Correct Adjacencies)"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    111.0,
+    679.1,
+    264.8
+   ],
+   "ocr": "then the average (mean) over all 20 closest chromosomes. Performance of each program on each test set given by each column in the table. The numbers are percentages of correct adjacencies, averaged over all instances in each column. In bold are the best results. The table is sorted from best to worst in the ﬁrst column. In all cases the best performance was that of SIS (promer). If the median is used rather than the mean, then SIS (nucmer) is the best program for the closest case, Mauve is the best for the 10- closest case, and SIS (promer) is the best for the 20-closest"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    72.1,
+    127.1,
+    366.5,
+    315.1
+   ],
+   "ocr": "Programs Closest Top 10 Top 20\nSIS (promer) 60.96 50.01 37.27\nr2cat 59.72 44.19 30.30\nMauve 58.65 46.31 32.17\nSIS (nucmer) 56.39 43.95 28.55\nﬁllScaﬀolds (nucmer) 48.47 34.10 21.32\nOSLay 46.83 34.03 21.28\nﬁllScaﬀolds (promer) 44.19 32.94 21.63\nCONTIGuator 42.02 30.35 20.01\nProjector 2 36.89 25.35 15.51\nABACAS 33.80 23.95 13.20",
+   "table_id": "PMC3674793_table_2"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    261.6,
+    521.3,
+    279.8
+   ],
+   "ocr": "case (see Additional ﬁle 1)."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    276.7,
+    679.1,
+    475.6
+   ],
+   "ocr": "In order to evaluate the performance of the programs tested with increased distance from the reference chro- mosome we created the graphs shown in Figures 8 and 9. These graphs show that the performance of all pro- grams degrade with increased distance, but again here SIS (promer) stays above the others in all cases The results presented so far are averages. In Table 4 we present results concerning the fraction of the instances in which each program was the winner (provider of the best scaﬀold). In the table columns do not add up to 100% because of ties. Best results are shown in bold. The table is sorted from best to worst in the ﬁrst column. Using this measure SIS (promer) superiority over the other programs"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    352.2,
+    366.7,
+    596.3
+   ],
+   "ocr": "is the one most likely to yield best results. On the other hand, given the extremely small sample of the prokary- otic world that has been sequenced to date, it is perfectly possible that new strains will be sequenced in the future for which the closest reference genome will not be par- ticularly close. Therefore it is important to understand how the performance of a scaﬀolding program changes with increased distance between the query and possible reference genomes. Results and discussion We ran each scaﬀold program on each of the 23 query chromosomes using as reference each of the 20 closest chromosomes to the query chromosome. This resulted in 460 scaﬀold sets for each program. For a given program and a given set of reference chromosomes, we computed"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    472.4,
+    517.5,
+    490.6
+   ],
+   "ocr": "is even more pronounced."
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    487.4,
+    679.1,
+    535.8
+   ],
+   "ocr": "Tables 5 and 6 are analogous to Tables 3 and 4, respec- tively, but show the results in terms of coverage (see Test- ing Methodology). Also under this measure SIS (promer)"
+  },
+  "p3_b10": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    532.6,
+    497.3,
+    550.9
+   ],
+   "ocr": "was the best program."
+  },
+  "p3_b11": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    547.7,
+    679.1,
+    641.2
+   ],
+   "ocr": "It is important to note that the pairs of query-reference genomes tested were not selected for containing inver- sions. So any given pair query-reference could have any kind of rearrangement. The success of SIS in the cases tested suggests that inversions are indeed widespread in prokaryotic genomes (to the extent that genomes in"
+  },
+  "p3_b12": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    593.1,
+    318.1,
+    611.4
+   ],
+   "ocr": "average results over the 23 query chromosomes."
+  },
+  "p3_b13": {
+   "type": "paragraph",
+   "bbox": [
+    82.2,
+    608.2,
+    366.7,
+    626.4
+   ],
+   "ocr": "Table 3 shows average results for three cases: when"
+  },
+  "p3_b14": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    623.3,
+    366.7,
+    641.5
+   ],
+   "ocr": "the reference chromosome used was the closest available,"
+  },
+  "p3_b15": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    638.0,
+    569.9,
+    656.2
+   ],
+   "ocr": "Table 2 are a representative sample)."
+  },
+  "p3_b16": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    638.3,
+    366.7,
+    656.6
+   ],
+   "ocr": "then the average (mean) over the 10 closest chromosomes,"
+  },
+  "p3_b17": {
+   "type": "title",
+   "bbox": [
+    196.2,
+    695.7,
+    229.1,
+    791.0
+   ],
+   "ocr": "65% 60% 55% 50% Adjacencies"
+  },
+  "p3_b18": {
+   "type": "paragraph",
+   "bbox": [
+    369.6,
+    735.7,
+    661.0,
+    916.7
+   ],
+   "ocr": "SIS (promer) SIS (nucmer) Mauve r2cat OSLay fS (nucmer) fS (promer) CONTIGuator Projector2 ABACAS 12 13 14 15 16 17 18 19 20 Genomes adjacencies for each program as the reference genome changes from ﬁllScaﬀolds."
+  },
+  "p3_b19": {
+   "type": "title",
+   "bbox": [
+    196.2,
+    745.0,
+    229.1,
+    822.4
+   ],
+   "ocr": "45% 40% 35% 30% Correct"
+  },
+  "p3_b20": {
+   "type": "paragraph",
+   "bbox": [
+    80.0,
+    794.3,
+    379.4,
+    916.7
+   ],
+   "ocr": "25% 20% 15% 10% 5% 0% 1 2 3 4 5 6 7 8 9 10 11 Closest Reference Figure 8 Average of Correct Adjacencies. Variation in number of correct the closest to the most distant, in a total of 20 reference genomes. fS is"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_009",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The evaluation of user satisfaction across various search systems is critical for understanding their effectiveness in providing accurate information. In this context, the data presented in the table highlights the comparative performance of three distinct platforms: BioSearch, VFCT, and Sparklis. The reported metrics, particularly the average ratings for the statement \"This system provided me with accurate information,\" reveal significant differences in user perceptions."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    171
+   ],
+   "ocr": "BioSearch received the highest average rating of 4.50, indicating a strong consensus among users regarding its reliability. In contrast, both VFCT and Sparklis garnered lower ratings of 3.60 and 3.20, respectively, suggesting potential areas for improvement in their information accuracy. Additionally, the statistical analysis included in the table employs a P-value of 16.183, which underscores the relevance of these findings."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    188.0,
+    580.0,
+    583.0
+   ],
+   "ocr": "Questions Scores: Mean (SD) F(2, 87) LSD post-hoc\nBioSearch VFCT Sparklis (P-value) (P < 0.01)\nQ1. This system provided me with accurate information. 4.50 3.60 3.20 16.183 BioSearch > VFCT, Sparklis\n(0.63) (0.97) (1.06) (< 0.001) SW, BP, Both\nQ2. This system provided me with abundant information. 3.73 3.63 2.87 6.799 BioSearch, VFCT > Sparklis\n(0.94) (1.03) (1.01) (< 0.005) SW, BP, Both\nQ3. This system helped me easily find information of interest. 3.87 2.47 2.27 24.55 BioSearch > VFCT, Sparklis\n(1.01) (0.82) (1.05) (< 0.001) Both, SW > BP\nQ4. This system helped me clearly understand related information. 3.73 2.70 2.47 13.851 BioSearch > Sparklis, VFCT\n(0.91) (1.15) (0.90) (< 0.001) Both> BP\nQ5. This system rapidly responded to my queries. 3.70 3.90 2.53 14.441 VFCT, BioSearch > Sparklis\n(1.06) (0.99) (1.14) (< 0.001) SW, Both > BP",
+   "table_id": "img_008450_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    599,
+    580,
+    642
+   ],
+   "ocr": "Notably, the threshold of P < 0.01 indicates a statistically significant difference in user satisfaction levels among the three platforms. This information is essential for stakeholders aiming to enhance user experience and optimize search functionalities in their respective systems."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    630,
+    580,
+    657
+   ],
+   "ocr": "Overall, these insights provide a foundation for ongoing evaluation and development of search technologies to meet user demands effectively."
+  }
+ }
+}

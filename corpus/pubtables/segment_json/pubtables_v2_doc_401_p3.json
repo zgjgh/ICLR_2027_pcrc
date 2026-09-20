@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_401",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    678.6,
+    66.0
+   ],
+   "ocr": "Willmann et al. Malaria Journal 2012, 11:363 Page 5 of 9 http://www.malariajournal.com/content/11/1/363"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    375.6,
+    124.4
+   ],
+   "ocr": "Table 4 Linear regression analysis of the predictive markers"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.7,
+    678.6,
+    227.9
+   ],
+   "ocr": "Dependent variable Independent variable Coefficient (95% CI) p value R2\nPCN count (PCN/μl) Parasite count (% IRBC) 148.19 (95.1 – 201.27) <0.0001 0.75\nPCN count (PCN/μl) Parasite count (parasites/μl) 0.005 (0.004 – 0.006) 0.0003 0.65\nPlatelet count (x 103 platelets/μl) Parasite count (% IRBC) −2.24 (−3.79 – -0.7) 0.005 0.07\nPlatelet count (x 103 platelets/μl) Parasite count (parasites/μl) −0.00007 (−0.0001 – -0.00001) 0.002 0.05\nPlatelet count (x 103 platelets/μl) PCN count (PCN/μl) −0.01 (−0.19 – -0.0009) 0.031 0.04",
+   "table_id": "PMC3533741_table_3"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    234.1,
+    678.6,
+    533.1
+   ],
+   "ocr": "95% CI 95% confidence interval. PCN pigment-containing neutrophils. % IRBC % infected red blood cells. R2 square of correlation coefficient. Linear regression and multivariate logistic regression points of substantial changes in sensitivity and specificity of potential severity markers during ROC analysis. Positive and negative predictive Linear regression was performed on the potential sever- values were calculated by assuming a prevalence of 10% ity markers to investigate associations between them. severe cases among hospitalized patients with P. knowlesi The results indicate that peripheral parasitaemia mea- malaria. Such prevalence was reported from a prospect- sured on thick and thin blood films accounts for 75% ive survey in Sarawak, Malaysia [8]. A minimum negative and 65% (R2 = 0.75 and 0.65 respectively) of the total predictive value of 95% was required to be recommended variation in circulating pigment-containing neutrophils as suitable cut-off. Cut-offs can be used to categorize (Table 4). Since both variables might lie on the same patients into groups of higher and lower risk of severe causal pathway towards the outcome, they were not P. knowlesi malaria. For example, any patient having a included in the same multivariate logistic regression parasite count ≥35,000/μl or ≥1% parasitaemia can be model. However, the variation of the platelet count can- regarded to be at high risk of severe disease. Multivariate not be explained for the most part by the changes in risk assessment of severity markers when using the peripheral parasitaemia (R2 = 0.07 and 0.05 respectively) recommended cut-offs is shown in Table 8. Both or amount of circulating pigment-containing neutrophils (R2 = 0.04) and is thus unlikely to lie on the same causal"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    523.8,
+    674.5,
+    536.8
+   ],
+   "ocr": "Table 5 Risk of severe disease among adult patients with"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    554.1,
+    678.6,
+    877.0
+   ],
+   "ocr": "Model Variables Adjusted OR p value†\n(95% CI)\nModel 1 Platelet count ≥60 1\n(x 103 platelets/μl) 36-59 10.37 (1.79 – 59.98) 0.002\n≤35 12.28 (2.04 – 73.86)\nParasite count <100000 1 0.0006\n(parasites/μl) ≥100000 10.74 (2.63 – 43.94)\nModel 2 Platelet count ≥60 1\n(x 103 platelets/μl) 36-59 8.69 (1.59 – 47.48) 0.018\n≤35 5.59 (0.99 – 31.34)\nParasite count <2 1 0.003\n(% IRBC) ≥2 5.97 (1.79 – 19.88)\nModel 3 Platelet count ≥60 1\n(x 103 platelets/μl) 36-59 4.75 (0.74 – 30.36) 0.04\n≤35 9.29 (1.37 – 62.86)\nPCN count 0 1\n(PCN/μl) 1 – 139 0.54 (0.04 – 6.63) <0.0001\n140 – 415 4.8 (0.66 – 34.83)\n≥416 30.25 (4.74 – 193.22)",
+   "table_id": "PMC3533741_table_4"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    897.3,
+    366.0,
+    911.0
+   ],
+   "ocr": "thick and thin film parasite counts and for platelet"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    904.8,
+    511.8,
+    914.7
+   ],
+   "ocr": "% IRBC % infected red blood cells."
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    912.4,
+    583.0,
+    926.2
+   ],
+   "ocr": "counts (Table 7). Candidates for cut-offs were chosen at †All p-values were obtained from likelihood ratio test."
+  }
+ }
+}

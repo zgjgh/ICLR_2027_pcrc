@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_093",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    211.0,
+    580.0,
+    288.0
+   ],
+   "ocr": "In March 2025, Skanska AB's equipment fleet utilization report indicates a total of 180 units in the fleet, comprising 50 Excavators, 30 Bulldozers with a utilization rate of 80% and 1,200 total hours used, 20 Cranes with a utilization rate of 85% and 900 total hours used, 40 Forklifts with a utilization rate of 70% and 1,000 total hours used, 25 Dump Trucks with a utilization rate of 90% and 1,100 total hours used, and 15 Concrete Mixers with a utilization rate of 78% and 750 total hours used."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    379.0,
+    580.0,
+    646.0
+   ],
+   "ocr": "EquipmentType UnitsinFleet\nUtilizationRate TotalHoursUsed\nExcavators 50\n75% 1,500 Bulldozers 30\n80% 1,200 Cranes 20\n85% 900 Forklifts 40\n70% 1,000 DumpTrucks 25\n90% 1,100 ConcreteMixers 15\n78% 750 TotalEquipment 180\nTotalFleetHours 5,450 AverageUtilization 78%\nMaintenanceCosts $200K FuelConsumption 15,000L\nNewPurchases 10 RetiredEquipment 5",
+   "table_id": "img_103210_t0"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    492,
+    732
+   ],
+   "ocr": "The total fleet hours amount to 5,450, and the average utilization across all equipment stands at 78%."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Maintenance costs incurred total $200K, alongside fuel consumption of 15,000L. Furthermore, the company has made 10 new purchases while retiring 5 pieces of equipment."
+  }
+ }
+}

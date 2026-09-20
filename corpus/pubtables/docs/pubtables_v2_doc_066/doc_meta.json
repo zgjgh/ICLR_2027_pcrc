@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_066",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    707,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4661004_table_1",
+   "page_num": 1,
+   "bbox": [
+    129.0,
+    706.8,
+    605.6,
+    877.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4661004_table_1.png",
+   "html": "<table><tr><td>Substrate</td><td>Product</td><td>Catalyst (mol %)</td><td>Time (h)</td><td>Yield (%)a</td></tr><tr><td>70</td><td>71</td><td>67 (5) 68 (5) 69 (5)</td><td>24 24 24</td><td>74b 77b 38c</td></tr><tr><td>72</td><td>73</td><td>67 (2.5) 68 (2.5) 69 (2.5)</td><td>3.5 2.5 2.5</td><td>49 96 88</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661004_table_2",
+   "page_num": 2,
+   "bbox": [
+    110.4,
+    147.4,
+    612.7,
+    531.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4661004_table_2.png",
+   "html": "<table><tr><td>Substrateb</td><td>Productb</td><td>Solvent (M)</td><td>Catalyst (mol %)</td><td>Time (min)</td><td>Yield (%)c</td></tr><tr><td>29</td><td>30</td><td>DCM (0.05) DCM (0.05) EtOAc (0.1 M)d</td><td>76a (1) 76b (1) 76b (0.2)</td><td>60 30 60</td><td>94 98 &gt;99e</td></tr><tr><td>77</td><td>78</td><td>DCM (0.05) DCM (0.05)</td><td>76a (1) 76b (1)</td><td>150 60</td><td>97 96</td></tr><tr><td>46</td><td>47</td><td>DCM (0.05) toluene (0.1)f</td><td>76b (1) 76b (0.1)</td><td>20 60</td><td>&gt;98 94</td></tr><tr><td>79</td><td>80</td><td>DCM (0.05) toluene (0.1)f</td><td>76b (1) 76b (0.1)</td><td>40 60</td><td>&gt;98 96</td></tr><tr><td>55</td><td>56</td><td>DCM (0.05) DCM (0.05) toluene (0.1)</td><td>76a (1) 76b (1) 76b (0.5)</td><td>45 30 300</td><td>99 &lt;98 92</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661004_table_3",
+   "page_num": 3,
+   "bbox": [
+    99.9,
+    229.1,
+    610.8,
+    488.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4661004_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Catalyst</td><td rowspan=\"2\">T (&#176;C)</td><td colspan=\"5\">GC yield (%)</td></tr><tr><td>AcOEt</td><td>DMC</td><td>CPME</td><td>2-MeTHF</td><td>DCM/tolueneb</td></tr><tr><td rowspan=\"2\">15</td><td>40</td><td>97</td><td>98</td><td>80</td><td>35</td><td>92</td></tr><tr><td>70</td><td>98</td><td>98</td><td>97</td><td>95</td><td>67</td></tr><tr><td rowspan=\"2\">87</td><td>40</td><td>94</td><td>85</td><td>79</td><td>49</td><td>96</td></tr><tr><td>70</td><td>98</td><td>98</td><td>97</td><td>65</td><td>65</td></tr><tr><td rowspan=\"2\">88</td><td>40</td><td>66</td><td>79</td><td>20</td><td>37</td><td>98</td></tr><tr><td>70</td><td>99</td><td>98</td><td>60</td><td>65</td><td>61</td></tr><tr><td rowspan=\"2\">84</td><td>40</td><td>96</td><td>98</td><td>69</td><td>38</td><td>93</td></tr><tr><td>70</td><td>98</td><td>98</td><td>95</td><td>92</td><td>59</td></tr><tr><td rowspan=\"2\">89</td><td>40</td><td>88</td><td>98</td><td>85</td><td>84</td><td>91</td></tr><tr><td>70</td><td>99</td><td>98</td><td>92</td><td>97</td><td>98</td></tr><tr><td rowspan=\"2\">91</td><td>40</td><td>96</td><td>99</td><td>97</td><td>97</td><td>88</td></tr><tr><td>70</td><td>99</td><td>99</td><td>99</td><td>99</td><td>99</td></tr><tr><td rowspan=\"2\">92</td><td>40</td><td>98</td><td>99</td><td>97</td><td>97</td><td>91</td></tr><tr><td>70</td><td>99</td><td>99</td><td>99</td><td>98</td><td>99</td></tr><tr><td rowspan=\"2\">86</td><td>40</td><td>92</td><td>98</td><td>89</td><td>93</td><td>95</td></tr><tr><td>70</td><td>94</td><td>98</td><td>84</td><td>98</td><td>96</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661004_table_4",
+   "page_num": 4,
+   "bbox": [
+    103.3,
+    152.1,
+    603.7,
+    495.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4661004_table_4.png",
+   "html": "<table><tr><td>Substrate</td><td>Productb</td><td>Catalyst (mol %)</td><td>T (&#176;C)c</td><td>t (h)</td><td>Yield (%)d</td></tr><tr><td>29</td><td>30</td><td>85 (1) 93a (1) 93b (1) 93c (1) 93d (1) 93e (1) 93f (1) 94 (1)</td><td>30 30 30 30 30 30 30 30</td><td>0.4 1.7 1.7 1.7 1.8 1.7 1.9 0.9</td><td>42 96 93 7 92 97 17 90</td></tr><tr><td>77</td><td>78</td><td>85 (1) 93a (1) 93b (1) 93d (1) 93e (1)</td><td>30 30 30 30 30</td><td>1.7 1.7 1.5 1.7 1.5</td><td>23 87 72 72 86</td></tr><tr><td>95</td><td>96</td><td>85 (5) 93a (5) 93b (5) 93d (5) 93e (5)</td><td>30 30 30 30 30</td><td>0.4 0.4 0.4 0.4 0.4</td><td>40 41 38 36 35</td></tr><tr><td>55</td><td>56</td><td>85 (2) 93a (2) 93b (2)</td><td>30 30 30</td><td>6 5 8</td><td>94e 96e 96e</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661004_table_6",
+   "page_num": 5,
+   "bbox": [
+    105.8,
+    152.1,
+    621.0,
+    447.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4661004_table_6.png",
+   "html": "<table><tr><td>Substrateb</td><td>Productb</td><td>Solvent (substrate conc. [M])</td><td>Complex (mol %)</td><td>Time [h]</td><td>Conversion [%]c</td></tr><tr><td>29</td><td>30</td><td>C6D6 (0.1) C7D8 (0.05) CD3OD (0.025) C6D6 (0.05)</td><td>108a (5) 108b (5) 108b (5) 108c (5)</td><td>72 70 23 40</td><td>90 79 94 &gt;95</td></tr><tr><td>46</td><td>47</td><td>C6D6 (0.05) C7D8 (0.05) CD3OD (0.025) CD3OD (0.05) 2:1 CD3OD/D2O (0.025)</td><td>108a (5) 108b (5) 108b (5) 108c (5) 108c (5)</td><td>26 70 9 6 6</td><td>68 92 &gt;95 &gt;95 93</td></tr><tr><td>109</td><td>110</td><td>CD3OD (0.05) 2:1 CD3OD/D2O (0.025)</td><td>108c (5) 108c (10)</td><td>12 6</td><td>79 40</td></tr><tr><td>55</td><td>56</td><td>C7D8 (0.05) C7D8 (0.05) CD3OD (0.025) C6D6 (0.05) CD3OD (0.05)</td><td>108a (5) 108b (5) 108b (5) 108c (5) 108c (5)</td><td>36 18 2 5 2</td><td>93 &gt;95 90 &gt;95 &gt;95</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4661004_table_7",
+   "page_num": 5,
+   "bbox": [
+    376.9,
+    610.4,
+    611.4,
+    729.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4661004_table_7.png",
+   "html": "<table><tr><td rowspan=\"2\">Catalyst (0.5 mol %)</td><td colspan=\"3\">Yield over time</td></tr><tr><td>1 h</td><td>3 h</td><td>24 h</td></tr><tr><td>111a</td><td>18</td><td>37</td><td>51</td></tr><tr><td>111b</td><td>45</td><td>67</td><td>97</td></tr><tr><td>111c</td><td>14</td><td>37</td><td>87</td></tr><tr><td>111d</td><td>87</td><td>100</td><td>100</td></tr><tr><td>111e</td><td>36</td><td>68</td><td>97</td></tr><tr><td>111f</td><td>28</td><td>55</td><td>100</td></tr></table>"
+  }
+ ]
+}

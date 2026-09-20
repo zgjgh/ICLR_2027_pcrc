@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_051",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    506.4,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "Comparative Genomics of Vertebrate ncRNAs"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.3,
+    700.7,
+    92.9
+   ],
+   "ocr": "Table 5. GO terms in common from human, mouse and zebrafish neighbor genes within 5kb of proximate ncRNAs at their 59 end."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    655.6,
+    690.0
+   ],
+   "ocr": "Category Term *P value (human) P value (mouse) P value (zebrafish)\nMolecular Function GO:0003700,transcription factor 6.88E-07 0.001685935 0.002045234\nactivity\nMolecular Function GO:0030528,transcription 2.80E-06 2.50E-05 0.001720193\nregulator activity\nBiological Process GO:0006355,regulation of 4.53E-06 0.000108619 0.02130028\ntranscription, DNA-dependent\nBiological Process GO:0051252,regulation of RNA 7.91E-06 0.000178503 0.023870388\nmetabolic process\nBiological Process GO:0010556,regulation of 8.37E-06 4.96E-07 0.000915362\nmacromolecule biosynthetic\nprocess\nBiological Process GO:0060255,regulation of 5.89E-05 7.41E-06 0.00691373\nmacromolecule metabolic\nprocess\nBiological Process GO:0045449,regulation of 6.20E-05 2.37E-06 0.001790827\ntranscription\nBiological Process GO:0031326,regulation of 8.41E-05 1.10E-06 0.001054761\ncellular biosynthetic process\nBiological Process GO:0009889,regulation of 0.000119902 1.33E-06 0.001088173\nbiosynthetic process\nBiological Process GO:0080090,regulation of 0.000146447 6.89E-07 0.002903755\nprimary metabolic process\nBiological Process GO:0010468,regulation of 0.000154686 1.42E-06 0.002943972\ngene expression\nBiological Process GO:0031323,regulation of 0.00015819 4.08E-06 0.002422663\ncellular metabolic process\nBiological Process GO:0019219,regulation of 0.000321532 7.14E-06 0.002751033\nnucleobase, nucleoside,\nnucleotide and nucleic acid\nmetabolic process\nBiological Process GO:0051171,regulation of 0.000343647 6.14E-06 0.002831208\nnitrogen compound metabolic\nprocess\nBiological Process GO:0019222,regulation of 0.000349372 1.09E-05 0.011044253\nmetabolic process\nBiological Process GO:0050794,regulation of 0.001348476 0.000766239 0.009737321\ncellular process\nBiological Process GO:0050789,regulation of 0.00433817 0.001382295 0.033481278\nbiological process\nBiological Process GO:0065007,biological 0.022428992 0.002031998 0.031603795\nregulation\nBiological Process GO:0007275,multicellular 0.035916788 0.000243142 0.043621824\norganismal development",
+   "table_id": "PMC3527520_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    703.2,
+    700.6,
+    765.8
+   ],
+   "ocr": "*The GO terms were ordered by p-value in human. doi:10.1371/journal.pone.0052275.t005 3 Comparisons with Known Well-characterized Long human and mouse were downloaded from http://mendel. stanford.edu/SidowLab/downloads/gerp/. For zebrafish, the"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    756.9,
+    290.7,
+    769.5
+   ],
+   "ocr": "ncRNAs in Human, Mouse and Zebrafish"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    764.7,
+    700.7,
+    887.3
+   ],
+   "ocr": "GERP++ scores were calculated with GERP++ tool based on The sources and summary information for previously the multiple alignments of 7 genomes (hg19/GRCh37, mm9, characterized ncRNAs are shown in Table 7. For chromatin- xenTro2, tetNig2, fr2, gasAcu1, oryLat2) with danRer7 of based lincRNAs in human and mouse, we used the exons zebrafish. The phastCons scores and phyloP scores for human, instead of the long chromatin regions as the known lincRNAs. mouse and zebrafish were downloaded from UCSC based on The overlap of our EST-based ncRNAs with these known long genome assembly hg19/GRCh37 (human), mm9 (mouse) and ncRNA datasets were analyzed with the ‘‘GenomicFeatures’’ R danRer7 (zebrafish) respectively. The mean GERP++/phast- package. Cons/phyloP score for each ncRNA/RefSeq/control sequence was calculated by normalizing the sum of GERP++/phastCons/"
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    880.4,
+    263.3,
+    893.0
+   ],
+   "ocr": "4 Conservation Analyses of ncRNAs"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    84.7,
+    889.2,
+    700.7,
+    914.0
+   ],
+   "ocr": "phyloP scores against the length of the sequence. All RefSeqs Three different conservation scores were used to analyze the excluding ‘‘NR’’ and ‘‘XR’’ entries (non-coding transcripts) were"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    905.6,
+    375.7,
+    920.4
+   ],
+   "ocr": "sequence conservation of ncRNAs. The GERP++ scores for"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    916.1,
+    700.6,
+    927.5
+   ],
+   "ocr": "used as the protein-coding gene dataset. The same number of"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    700.7,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org 11 December 2012 | Volume 7 | Issue 12 | e52275"
+  }
+ }
+}

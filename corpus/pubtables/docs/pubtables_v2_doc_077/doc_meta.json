@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_077",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    761,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5807524_table_0",
+   "page_num": 1,
+   "bbox": [
+    202.7,
+    60.2,
+    518.6,
+    319.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5807524_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Variable code</td><td rowspan=\"2\">Variables</td><td colspan=\"2\">Levels</td></tr><tr><td>Low actual (&#8722;1)</td><td>High actual (1)</td></tr><tr><td>A</td><td>Cholesterol (g/L)</td><td>1</td><td>2</td></tr><tr><td>B</td><td>Starch (g/L)</td><td>7</td><td>10</td></tr><tr><td>C</td><td>Glucose (g/L)</td><td>10</td><td>15</td></tr><tr><td>D</td><td>Yeast extract (g/L)</td><td>4</td><td>6</td></tr><tr><td>E</td><td>Peptone (g/L)</td><td>3</td><td>5</td></tr><tr><td>F</td><td>(NH4)2SO4 (g/L)</td><td>6</td><td>8</td></tr><tr><td>G</td><td>K2HPO4 (g/L)</td><td>0.5</td><td>1</td></tr><tr><td>H</td><td>NaCl (g/L)</td><td>0.5</td><td>1</td></tr><tr><td>J</td><td>MgSO4.7H2O (g/L)</td><td>0.2</td><td>0.5</td></tr><tr><td>K</td><td>FeSO4.7H2O (g/L)</td><td>0.0</td><td>0.02</td></tr><tr><td>L</td><td>Temperature (&#176;C)</td><td>30</td><td>37</td></tr><tr><td>M</td><td>Incubation time (days)</td><td>5</td><td>7</td></tr><tr><td>N</td><td>Inoculum size (%, v/v)</td><td>2</td><td>4</td></tr><tr><td>O</td><td>Medium volume (mL/ 250 mL conical flask)</td><td>50</td><td>100</td></tr><tr><td>P</td><td>pH</td><td>7</td><td>9</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_1",
+   "page_num": 2,
+   "bbox": [
+    55.1,
+    60.2,
+    700.9,
+    403.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5807524_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Std</td><td rowspan=\"2\">Run no.</td><td colspan=\"19\">Coded values of the independent factors</td><td colspan=\"2\">Cholesterol oxidase activity (UmL&#8722;1)</td><td rowspan=\"2\">Residuals</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Dummy 1</td><td>Dummy 2</td><td>Dummy 3</td><td>Dummy 4</td><td>Actual value</td><td>Predicted value</td></tr><tr><td>4</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>3.861</td><td>4.051</td><td>&#8722;0.190</td></tr><tr><td>13</td><td>2</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>4.775</td><td>4.776</td><td>&#8722;0.001</td></tr><tr><td>15</td><td>3</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>0.837</td><td>0.715</td><td>0.123</td></tr><tr><td>7</td><td>4</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>4.174</td><td>4.242</td><td>&#8722;0.069</td></tr><tr><td>6</td><td>5</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1.412</td><td>1.465</td><td>&#8722;0.053</td></tr><tr><td>16</td><td>6</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>4.951</td><td>4.813</td><td>0.138</td></tr><tr><td>12</td><td>7</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2.670</td><td>2.480</td><td>0.190</td></tr><tr><td>17</td><td>8</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>2.716</td><td>2.839</td><td>&#8722;0.123</td></tr><tr><td>18</td><td>9</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>3.496</td><td>3.443</td><td>0.053</td></tr><tr><td>8</td><td>10</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>2.872</td><td>2.804</td><td>0.069</td></tr><tr><td>14</td><td>11</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>-1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>2.556</td><td>2.693</td><td>&#8722;0.138</td></tr><tr><td>5</td><td>12</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>3.799</td><td>3.798</td><td>0.001</td></tr><tr><td>9</td><td>13</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>4.825</td><td>4.894</td><td>&#8722;0.069</td></tr><tr><td>1</td><td>14</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>5.087</td><td>5.209</td><td>&#8722;0.123</td></tr><tr><td>2</td><td>15</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>4.808</td><td>4.946</td><td>&#8722;0.138</td></tr><tr><td>19</td><td>16</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>7.861</td><td>7.601</td><td>0.259</td></tr><tr><td>10</td><td>17</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>3.794</td><td>3.535</td><td>0.259</td></tr><tr><td>11</td><td>18</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>4.038</td><td>3.970</td><td>0.068</td></tr><tr><td>3</td><td>19</td><td>1</td><td>&#8722;1</td><td>1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td>6.431</td><td>6.499</td><td>&#8722;0.068</td></tr><tr><td>20</td><td>20</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td>4.019</td><td>4.209</td><td>&#8722;0.190</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_2",
+   "page_num": 2,
+   "bbox": [
+    202.7,
+    495.4,
+    438.6,
+    745.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5807524_table_2.png",
+   "html": "<table><tr><td>Term</td><td>Coefficient</td><td>Effect</td><td>% Contribution</td></tr><tr><td>Intercept</td><td>3.949</td><td></td><td></td></tr><tr><td>A</td><td>0.573</td><td>1.146</td><td>11.76</td></tr><tr><td>B</td><td>&#8722;0.441</td><td>&#8722;0.882</td><td>9.06</td></tr><tr><td>C</td><td>&#8722;0.223</td><td>&#8722;0.446</td><td>4.58</td></tr><tr><td>D</td><td>0.064</td><td>0.127</td><td>1.31</td></tr><tr><td>E</td><td>&#8722;0.001</td><td>&#8722;0.002</td><td>0.02</td></tr><tr><td>F</td><td>0.218</td><td>0.435</td><td>4.48</td></tr><tr><td>G</td><td>0.245</td><td>0.491</td><td>5.03</td></tr><tr><td>H</td><td>0.402</td><td>0.804</td><td>8.25</td></tr><tr><td>J</td><td>0.439</td><td>0.878</td><td>9.01</td></tr><tr><td>K</td><td>0.066</td><td>0.132</td><td>1.36</td></tr><tr><td>L</td><td>0.159</td><td>0.317</td><td>3.26</td></tr><tr><td>M</td><td>&#8722;0.562</td><td>&#8722;1.123</td><td>11.54</td></tr><tr><td>N</td><td>&#8722;0.431</td><td>&#8722;0.861</td><td>8.85</td></tr><tr><td>O</td><td>0.140</td><td>0.280</td><td>2.87</td></tr><tr><td>P</td><td>&#8722;0.908</td><td>&#8722;1.817</td><td>18.64</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_3",
+   "page_num": 3,
+   "bbox": [
+    202.7,
+    60.1,
+    626.4,
+    399.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5807524_table_3.png",
+   "html": "<table><tr><td>Item</td><td>Sum of squares</td><td>Df</td><td>Mean square</td><td>F-value</td><td>t -Stat</td><td>P-value</td><td>Confidence level&#160;(%)</td></tr><tr><td>Model</td><td>48.274</td><td>15</td><td>3.218</td><td>34.430</td><td>57.765</td><td>0.0018*</td><td>99.82</td></tr><tr><td>A</td><td>6.568</td><td>1</td><td>6.568</td><td>70.269</td><td>8.383</td><td>0.0011*</td><td>99.89</td></tr><tr><td>B</td><td>3.892</td><td>1</td><td>3.892</td><td>41.643</td><td>&#8722;6.453</td><td>0.0030*</td><td>99.7</td></tr><tr><td>C</td><td>0.993</td><td>1</td><td>0.993</td><td>10.621</td><td>&#8722;3.259</td><td>0.0311*</td><td>96.89</td></tr><tr><td>D</td><td>0.081</td><td>1</td><td>0.081</td><td>0.863</td><td>0.929</td><td>0.4055</td><td>59.45</td></tr><tr><td>E</td><td>0.000</td><td>1</td><td>0.000</td><td>0.000</td><td>&#8722;0.018</td><td>0.9865</td><td>1.35</td></tr><tr><td>F</td><td>0.946</td><td>1</td><td>0.946</td><td>10.126</td><td>3.182</td><td>0.0335*</td><td>96.65</td></tr><tr><td>G</td><td>1.205</td><td>1</td><td>1.205</td><td>12.891</td><td>3.590</td><td>0.0230*</td><td>97.7</td></tr><tr><td>H</td><td>3.234</td><td>1</td><td>3.234</td><td>34.595</td><td>5.882</td><td>0.0042*</td><td>99.58</td></tr><tr><td>J</td><td>3.856</td><td>1</td><td>3.856</td><td>41.252</td><td>6.423</td><td>0.0030*</td><td>99.7</td></tr><tr><td>K</td><td>0.087</td><td>1</td><td>0.087</td><td>0.929</td><td>0.964</td><td>0.3898</td><td>61.02</td></tr><tr><td>L</td><td>0.503</td><td>1</td><td>0.503</td><td>5.385</td><td>2.321</td><td>0.0811</td><td>91.89</td></tr><tr><td>M</td><td>6.307</td><td>1</td><td>6.307</td><td>67.477</td><td>&#8722;8.214</td><td>0.0012*</td><td>99.88</td></tr><tr><td>N</td><td>3.709</td><td>1</td><td>3.709</td><td>39.676</td><td>&#8722;6.299</td><td>0.0032*</td><td>99.68</td></tr><tr><td>O</td><td>0.393</td><td>1</td><td>0.393</td><td>4.206</td><td>2.051</td><td>0.1096</td><td>89.04</td></tr><tr><td>P</td><td>16.500</td><td>1</td><td>16.500</td><td>176.521</td><td>&#8722;13.286</td><td>0.0002*</td><td>99.98</td></tr><tr><td>Residual</td><td>0.374</td><td>4</td><td>0.093</td><td></td><td></td><td></td><td></td></tr><tr><td>Cor Total</td><td>48.648</td><td>19</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Std. Dev.</td><td colspan=\"2\">0.3057</td><td colspan=\"2\">R-Squared</td><td>0.9923</td><td></td><td></td></tr><tr><td>Mean</td><td colspan=\"2\">3.9491</td><td colspan=\"2\">Adj R-Squared</td><td>0.9635</td><td></td><td></td></tr><tr><td>C.V.%</td><td colspan=\"2\">7.7419</td><td colspan=\"2\">Pred R-Squared</td><td>0.8079</td><td></td><td></td></tr><tr><td>PRESS</td><td colspan=\"2\">9.3473</td><td colspan=\"2\">Adeq Precision</td><td>25.1830</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_4",
+   "page_num": 4,
+   "bbox": [
+    202.7,
+    60.2,
+    633.3,
+    459.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5807524_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Std</td><td rowspan=\"2\">Run</td><td rowspan=\"2\">Type</td><td colspan=\"3\">Variables</td><td colspan=\"3\">Cholesterol oxidase activity (U mL&#8722;1)</td><td rowspan=\"2\">Residuals</td></tr><tr><td>X1</td><td>X2</td><td>X3</td><td colspan=\"2\">Experimental</td><td>Predicted</td></tr><tr><td>5</td><td>1</td><td>Factorial</td><td>&#8722;1</td><td>&#8722;1</td><td>1</td><td colspan=\"2\">9.065</td><td>8.875</td><td>0.190</td></tr><tr><td>6</td><td>2</td><td>Factorial</td><td>1</td><td>&#8722;1</td><td>1</td><td colspan=\"2\">12.663</td><td>12.649</td><td>0.014</td></tr><tr><td>14</td><td>3</td><td>Axial</td><td>0</td><td>0</td><td>1</td><td colspan=\"2\">15.411</td><td>15.459</td><td>&#8722;0.048</td></tr><tr><td>3</td><td>4</td><td>Factorial</td><td>&#8722;1</td><td>1</td><td>&#8722;1</td><td colspan=\"2\">10.172</td><td>10.022</td><td>0.150</td></tr><tr><td>18</td><td>5</td><td>Center</td><td>0</td><td>0</td><td>0</td><td colspan=\"2\">14.710</td><td>14.940</td><td>&#8722;0.230</td></tr><tr><td>7</td><td>6</td><td>Factorial</td><td>&#8722;1</td><td>1</td><td>1</td><td colspan=\"2\">7.939</td><td>8.084</td><td>&#8722;0.145</td></tr><tr><td>12</td><td>7</td><td>Axial</td><td>0</td><td>1</td><td>0</td><td colspan=\"2\">14.808</td><td>14.777</td><td>0.031</td></tr><tr><td>11</td><td>8</td><td>Axial</td><td>0</td><td>&#8722;1</td><td>0</td><td colspan=\"2\">13.349</td><td>14.037</td><td>&#8722;0.688</td></tr><tr><td>4</td><td>9</td><td>Factorial</td><td>1</td><td>1</td><td>&#8722;1</td><td colspan=\"2\">8.823</td><td>8.848</td><td>&#8722;0.026</td></tr><tr><td>16</td><td>10</td><td>Center</td><td>0</td><td>0</td><td>0</td><td colspan=\"2\">15.390</td><td>14.940</td><td>0.450</td></tr><tr><td>1</td><td>11</td><td>Factorial</td><td>&#8722;1</td><td>&#8722;1</td><td>&#8722;1</td><td colspan=\"2\">6.193</td><td>6.018</td><td>0.175</td></tr><tr><td>2</td><td>12</td><td>Factorial</td><td>1</td><td>&#8722;1</td><td>&#8722;1</td><td colspan=\"2\">6.885</td><td>6.576</td><td>0.309</td></tr><tr><td>15</td><td>13</td><td>Center</td><td>0</td><td>0</td><td>0</td><td colspan=\"2\">15.074</td><td>14.940</td><td>0.134</td></tr><tr><td>8</td><td>14</td><td>Factorial</td><td>1</td><td>1</td><td>1</td><td colspan=\"2\">10.116</td><td>10.127</td><td>&#8722;0.011</td></tr><tr><td>10</td><td>15</td><td>Axial</td><td>1</td><td>0</td><td>0</td><td colspan=\"2\">10.310</td><td>10.597</td><td>&#8722;0.287</td></tr><tr><td>9</td><td>16</td><td>Axial</td><td>&#8722;1</td><td>0</td><td>0</td><td colspan=\"2\">8.926</td><td>9.297</td><td>&#8722;0.370</td></tr><tr><td>20</td><td>17</td><td>Center</td><td>0</td><td>0</td><td>0</td><td colspan=\"2\">15.074</td><td>14.940</td><td>0.134</td></tr><tr><td>19</td><td>18</td><td>Center</td><td>0</td><td>0</td><td>0</td><td colspan=\"2\">15.631</td><td>14.940</td><td>0.691</td></tr><tr><td>13</td><td>19</td><td>Axial</td><td>0</td><td>0</td><td>&#8722;1</td><td colspan=\"2\">12.781</td><td>13.391</td><td>&#8722;0.609</td></tr><tr><td>17</td><td>20</td><td>Center</td><td>0</td><td>0</td><td>0</td><td colspan=\"2\">15.074</td><td>14.940</td><td>0.134</td></tr><tr><td colspan=\"3\" rowspan=\"2\">Variable</td><td colspan=\"2\" rowspan=\"2\">Variable code</td><td colspan=\"3\">Coded and actual levels</td><td></td><td></td></tr><tr><td>&#8722;1</td><td>0</td><td>1</td><td></td><td></td></tr><tr><td colspan=\"3\">Cholesterol (g/L)</td><td colspan=\"2\">X1</td><td>2</td><td>3</td><td>5</td><td></td><td></td></tr><tr><td colspan=\"3\">Incubation time (days)</td><td colspan=\"2\">X2</td><td>4</td><td>5</td><td>6</td><td></td><td></td></tr><tr><td colspan=\"3\">pH</td><td colspan=\"2\">X3</td><td>5</td><td>6</td><td>7</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_5",
+   "page_num": 4,
+   "bbox": [
+    202.7,
+    527.5,
+    493.8,
+    757.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5807524_table_5.png",
+   "html": "<table><tr><td>Factor</td><td>Coefficient estimate</td><td>Standard error</td><td>95% CI Low</td><td>95% CI High</td></tr><tr><td>Intercept</td><td>14.940</td><td>0.156</td><td>14.592</td><td>15.287</td></tr><tr><td>X1 - (Cholesterol, g/L)</td><td>0.650</td><td>0.144</td><td>0.330</td><td>0.970</td></tr><tr><td>X2 - (Incubation time, days)</td><td>0.370</td><td>0.144</td><td>0.050</td><td>0.690</td></tr><tr><td>X3 - (pH)</td><td>1.034</td><td>0.144</td><td>0.714</td><td>1.354</td></tr><tr><td>X1 X2</td><td>&#8722;0.433</td><td>0.161</td><td>&#8722;0.790</td><td>&#8722;0.075</td></tr><tr><td>X1 X3</td><td>0.804</td><td>0.161</td><td>0.446</td><td>1.162</td></tr><tr><td>X2 X3</td><td>&#8722;1.199</td><td>0.161</td><td>&#8722;1.556</td><td>&#8722;0.841</td></tr><tr><td>X1 2</td><td>&#8722;4.992</td><td>0.274</td><td>&#8722;5.603</td><td>&#8722;4.382</td></tr><tr><td>X2 2</td><td>&#8722;0.532</td><td>0.274</td><td>&#8722;1.143</td><td>0.078</td></tr><tr><td>X3 2</td><td>&#8722;0.515</td><td>0.274</td><td>&#8722;1.125</td><td>0.095</td></tr><tr><td>Std. Dev.</td><td>0.454</td><td colspan=\"2\">R-Squared</td><td>0.9895</td></tr><tr><td>Mean</td><td>11.920</td><td colspan=\"2\">Adj R-Squared</td><td>0.9801</td></tr><tr><td>C.V.%</td><td>3.810</td><td colspan=\"2\">Pred R-Squared</td><td>0.9494</td></tr><tr><td>PRESS</td><td>9.971</td><td colspan=\"2\">Adeq Precision</td><td>29.4015</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_6",
+   "page_num": 5,
+   "bbox": [
+    202.7,
+    60.1,
+    490.4,
+    290.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5807524_table_6.png",
+   "html": "<table><tr><td>Source</td><td>Sum of Squares</td><td>Df</td><td>Mean Square</td><td>F-value</td><td>P-value Prob &gt; F</td></tr><tr><td>Model</td><td>194.84</td><td>9</td><td>21.65</td><td>104.99</td><td>&lt;0.0001*</td></tr><tr><td>X1 - (Cholesterol, g/L)</td><td>4.23</td><td>1</td><td>4.23</td><td>20.50</td><td>0.0011*</td></tr><tr><td>X2 - (Incubation time, days)</td><td>1.37</td><td>1</td><td>1.37</td><td>6.65</td><td>0.0275*</td></tr><tr><td>X3 - (pH)</td><td>10.69</td><td>1</td><td>10.69</td><td>51.85</td><td>&lt;0.0001*</td></tr><tr><td>X1 X2</td><td>1.50</td><td>1</td><td>1.50</td><td>7.27</td><td>0.0225*</td></tr><tr><td>X1 X3</td><td>5.17</td><td>1</td><td>5.17</td><td>25.09</td><td>0.0005*</td></tr><tr><td>X2 X3</td><td>11.49</td><td>1</td><td>11.49</td><td>55.74</td><td>&lt;0.0001*</td></tr><tr><td>X1 2</td><td>68.54</td><td>1</td><td>68.54</td><td>332.41</td><td>&lt;0.0001*</td></tr><tr><td>X2 2</td><td>0.78</td><td>1</td><td>0.78</td><td>3.78</td><td>0.0805</td></tr><tr><td>X3 2</td><td>0.73</td><td>1</td><td>0.73</td><td>3.53</td><td>0.0895</td></tr><tr><td>Residual</td><td>2.06</td><td>10</td><td>0.21</td><td></td><td></td></tr><tr><td>Lack of Fit</td><td>1.56</td><td>5</td><td>0.31</td><td>3.13</td><td>0.1182</td></tr><tr><td>Pure Error</td><td>0.50</td><td>5</td><td>0.10</td><td></td><td></td></tr><tr><td>Cor Total</td><td>196.90</td><td>19</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC5807524_table_7",
+   "page_num": 5,
+   "bbox": [
+    126.7,
+    364.0,
+    696.9,
+    614.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5807524_table_7.png",
+   "html": "<table><tr><td colspan=\"6\">Sequential Model Sum of Squares</td></tr><tr><td>Source</td><td>Sum of Squares</td><td>df</td><td>Mean Square</td><td>F-value</td><td>P-value Prob &gt;F</td></tr><tr><td>Linear vs Mean</td><td>16.2898</td><td>3</td><td>5.4299</td><td>0.4810</td><td>0.7000</td></tr><tr><td>Two factors interaction (2FI) vs Linear</td><td>18.1659</td><td>3</td><td>6.0553</td><td>0.4846</td><td>0.6988</td></tr><tr><td>Quadratic vs 2FI</td><td>160.3796</td><td>3</td><td>53.4599</td><td>259.2608</td><td>&lt; 0.0001*</td></tr><tr><td>Residual</td><td>1.4894</td><td>6</td><td>0.2482</td><td></td><td></td></tr><tr><td colspan=\"6\">Lack of Fit Tests</td></tr><tr><td>Source</td><td>Sum of Squares</td><td>df</td><td>Mean Square</td><td>F-value</td><td>P-value Prob &gt;F</td></tr><tr><td>Linear</td><td>180.1078</td><td>11</td><td>16.3734</td><td>163.8444</td><td>&lt; 0.0001*</td></tr><tr><td>Two factors interaction (2FI)</td><td>161.9419</td><td>8</td><td>20.2427</td><td>202.5633</td><td>&lt; 0.0001*</td></tr><tr><td>Quadratic</td><td>1.5623</td><td>5</td><td>0.3125</td><td>3.1268</td><td>0.1182</td></tr><tr><td>Pure Error</td><td>0.4997</td><td>5</td><td>0.0999</td><td></td><td></td></tr><tr><td colspan=\"6\">Model Summary Statistics</td></tr><tr><td>Source</td><td>Standard deviation</td><td>R-Squared</td><td>Adjusted R-Squared</td><td>Predicted R-Squared</td><td>PRESS</td></tr><tr><td>Linear</td><td>3.3598</td><td>0.0827</td><td>&#8722;0.0893</td><td>&#8722;0.6167</td><td>318.3173</td></tr><tr><td>Two factors interaction (2FI)</td><td>3.5349</td><td>0.1750</td><td>&#8722;0.2058</td><td>&#8722;4.2134</td><td>1026.4997</td></tr><tr><td>Quadratic</td><td>0.4541</td><td>0.9895</td><td>0.9801</td><td>0.9494</td><td>9.9712</td></tr></table>"
+  }
+ ]
+}

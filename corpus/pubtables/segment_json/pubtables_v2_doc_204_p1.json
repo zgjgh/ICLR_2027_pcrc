@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_204",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    305.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Identification of Highly Variable Supernumerary Chromosome Segments in an Asexual Pathogen"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    209.1,
+    107.4
+   ],
+   "ocr": "Table 1. Isolates used in this study."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    112.9,
+    619.9,
+    300.7
+   ],
+   "ocr": "Isolate1 Origin Year Abbreviation\nF. virguliforme Mont-1 USA, Illinois 1991 Fv Mont-1\nF. virguliforme Clinton-1B USA, Iowa 1993 Fv Clinton-1B\nF. virguliforme LL0009 USA, Iowa 2006 Fv LL0009\nF. virguliforme NRRL 34551 Argentina, Buenos Aires 2002 Fv 34551\nF. cuneirostrum NRRL 31157 USA, Michigan 1992 Fc 31157\nF. phaseoli NRRL 31156 USA, Michigan Unknown Fp 31156\nF. brasiliense NRRL 31757 Brazil, Distrito Federal 1992 Fb 31757\nF. tucumaniae NRRL 31096 Argentina, Tucumán 2001 Ft 31096\nF. tucumaniae NRRL 31781 Argentina, Tucumán Unknown Ft 31781\nF. tucumaniae NRRL 34546 Argentina, Buenos Aires 2000 Ft 34546\nF. azukicola NRRL 54364 Japan, Hokkaido 1997 Fa 54364",
+   "table_id": "PMC4920403_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    312.4,
+    727.2,
+    898.4
+   ],
+   "ocr": "NRRL = Agricultural Research Service Culture Collection, National Center for Agricultural Utilization Research, USDA-ARS, Peoria, IL. No NRRL number is known for some isolates. doi:10.1371/journal.pone.0158183.t001 RNA extraction from germinating conidial spores and mycelia samples The isolate Fv Mont-1 was maintained on Bilay media [(0.1% KH2PO4 (w/v), 0.1% KNO3 (w/ v), 0.05% MgSO4 (w/v), 0.05% KCl (w/v), 0.02% starch (w/v), 0.02% glucose (w/v), 0.02% sucrose (w/v) and 2% agar(w/v)] plates and grown on 1/3 PDA [0.04% potato starch (w/v), 0.2% glucose (w/v), 2% agar (w/v)] to harvest conidial spores. The 1/3 PDA grown Fv Mont-1 became blue two weeks later when masses spores were produced. Harvested conidial spores were grown for 12 h in liquid modified Septoria medium (MSM) to obtain germinated spores [31]. The germinated spores were also continued to grow in the same medium for two weeks to obtain mycelia. Total RNAs were isolated from the germinating conidial spores and mycelia using TRIzol Reagent (Invitrogen, Carlsbad, CA, USA). The quality of RNA samples was deter- mined by running RNAs on a denaturing agarose gel. cDNA library preparation for transcript sequencing Total RNAs, 10 μg each from germinating conidial spores and mycelia, were used to purify poly (A)+ RNAs using oligo (dT) attached to the magnetic beads (Promega, Madison, WI). RNA samples were reverse transcribed using a cDNA synthesis kit from Illumina (Illumina, Inc. San Diego, CA, USA), and cDNAs of an individual RNA sample were sequenced on Illu- mina Genome Analyzer II (Illumina, Inc. San Diego, CA, USA) at the DNA Facility, Iowa State University. Over 16 million single reads of 83 bp were generated using Solexa GA pipeline 1.6. No read trimming was performed; only reads with a high percent identity to the reference were selected in read mapping. Read mapping and SNP detection A SNP between the reference isolate and another isolate (query) has two or more alleles termed REF and ALT. The REF allele refers to the allele in the reference and ALT alleles refer to alternate non-reference alleles. A SNP is of type 2 if both the REF allele and the ALT allele are present in the query isolate, and of type 1 if only the ALT allele is present in the query isolate. Because all the isolates in the vegetative state have haploid nuclei, the presence of type-2 SNPs in any of them indicates the presence of paralogous sequences in it. Thus, in some cases, type-2 SNPs were excluded in the calculation of the SNP rate between the reference and each query isolate."
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158183 June 24, 2016 4 / 23"
+  }
+ }
+}

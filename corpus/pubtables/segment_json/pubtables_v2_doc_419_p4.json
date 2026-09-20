@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_419",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    382.7,
+    66.0
+   ],
+   "ocr": "Ben-Assuli et al. BMC Medical Informatics and Decision Making 2013, 13:49 http://www.biomedcentral.com/1472-6947/13/49"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 7 of 10"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    383.4,
+    138.3
+   ],
+   "ocr": "Table 7 Logistic regression on readmission within seven days (Hypothesis 1b)"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    386.8,
+    111.4,
+    623.1,
+    124.4
+   ],
+   "ocr": "for all DDs when viewing local medical history"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    143.1,
+    678.6,
+    241.7
+   ],
+   "ocr": "Theory variables in the equation All DDs (N=115,719) GE (N=7,165) AP (N=21,579) UTI (N=6,950) CP (N=67,650) PO (N=12,375)\nLocal history viewed 0.563 (<0.001) 0.249 (<0.001) 0.276 (<0.001) 0.246 (<0.001) 1.016 (0.789) 0.567 (0.001)\nAge 0.977 (<0.001) 0.991 (<0.001) 0.983 (<0.001) 0.983 (<0.001) 0.981 (<0.001) 0.972 (<0.001)\nGender 0.795 (<0.001) 1.114 (0.325) 0.642 (<0.001) 0.798 (0.211) 1.265 (<0.001) 1.149 (0.292)\nHMO 1.081 (0.048) 0.697 (0.003) 1.147 (0.021) 1.172 (0.421) 1.270 (<0.001) 1.155 (0.364)\nConstant 0.132 (<0.001) 0.10 (<0.001) 0.276 (<0.001) 0.079 (<0.001) 0.047 (<0.001) 0.067 (<0.001)",
+   "table_id": "PMC3651728_table_6"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    258.4,
+    372.3,
+    815.8
+   ],
+   "ocr": "research. The log-file consisted of 281,750 samples of re- ferrals. The names of the hospitals are not disclosed for reasons of confidentiality and privacy. Table 2 highlights a number of key variables that are implemented in the regression analyses, by HMO. The comparison of HMOs was done for reasons of information gathering in pursuing a better under- standing of the study population and not for casual conclusions. It is clear that viewing external history did not take place very often. In terms of the entire referral population, external information was viewed in only 4.3% of the ca-ses, compared to roughly 26.9% for viewing of local information. It is important to note that, patients’ medical history was viewed in only 31.2% of all hospital referrals. Hence, 68.8% of all referrals did not include any use of electronic medical history. There was greater use of medical history for patients who were members of the main HMO, for whom more extensive data had been collected (data were examined in 32.7% of the main HMO cases compared to 26.7% for the remaining patients). Yet, even among members of the main HMO, the extent of use of medical history was not exceptionally high. Statistical relationships between using EHR IS and the dependent variables Tables 3 and 4 show that for most DDs, there was a sub- stantial decrease in the rates of both readmissions and single-day admissions when EHR IS was viewed. The strongest decreases were observed for UTI, GE and AP. An exception was CP DD in which vie- wing of medical history had no effect on seven day readmissions. Table 8 Logistic regression on single-day admissions for all"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    375.7,
+    259.0,
+    678.6,
+    815.8
+   ],
+   "ocr": "Results for the multiple regression analysis The main findings regarding the track log-file analysis are summarized below. The results of each Table were ana- lyzed separately, showing the odds ratios (OR) (of the β co- efficients). Additionally, the results are adjusted to age, gender, HMO, control variables for type of ED and control variables for type of hospital. Finally, we tested all the readmissions' hypotheses also in thirty days timeframe (in addition to the seven days) and we gained similar results. Table 5 shows that viewing external medical history via the EHR IS was consistently associated with a reduced number of seven day readmissions. When external med- ical history was viewed, the likelihood of seven day readmissions decreased by 74% for AP and by 69% for UTI (OR = 0.256 and 0.308 respectively). For all DDs taken together, there was a significant reduction of 48% (OR = 0.520) in seven day readmissions. In addition, being a main HMO patient was positively correlated with higher odds for seven day readmission. This is not surprising, since the HMO owns all these hos- pitals, and it is likely that HMO patients will seek medical care at these hospitals more than patients belonging to other HMOs. The results of Table 6 mirror those in Table 5. In general external medical history viewed via the EHR IS was posi- tively and significantly correlated with reduced odds for single-day admissions. Viewing external medical history was associated with a substantial reduction of up to 35% in single-day admissions. Being a member of the main HMO was positively correlated with lower odds of single- day admission. Tables 7 and 8 report these same analyses but for view- ing local medical history via the EHR IS (rather than ex- ternal medical history). DDs explained when local medical history (Hypothesis 2b)"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    820.7,
+    678.6,
+    919.2
+   ],
+   "ocr": "Theory variables in the equation All DDs (N=115,719) GE (N=7,165) AP (N=21,579) UTI (N=6,950) CP (N=67,650) PO (N=12,375)\nLocal history viewed 0.785 (<0.001) 0.776 (<0.001) 0.617 (<0.001) 0.633 (<0.001) 0.846 (<0.001) 0.887 (0.094)\nAge 0.979 (<0.001) 0.983 (<0.001) 0.978 (<0.001) 0.985 (<0.001) 0.968 (<0.001) 0.982 (<0.001)\nGender 0.961 (0.007) 1.008 (0.885) 0.972 (0.364) 0.903 (0.256) 0.821 (<0.001) 1.050 (0.451)\nHMO 0.855 (<0.001) 0.782 (<0.001) 0.929 (0.031) 0.865 (0.133) 0.888 (<0.001) .962 (0.611)\nConstant 1.069 (0.002) 1.014 (0.824) 1.327 (<0.001) 0.326 (<0.001) 2.625 (<0.001) 0.264 (<0.001)",
+   "table_id": "PMC3651728_table_7"
+  }
+ }
+}

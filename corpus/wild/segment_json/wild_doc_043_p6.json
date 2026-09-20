@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_043",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The data presented in the table elucidates the effects of varying concentrations of organic acids and sulfate on the production of key metabolites, specifically focusing on the metrics for acetate and sulfide. In the context of a controlled experiment involving wild-type (WT) and mutant (Mut) variants, the introduction of 20 mM lactate and 21 mM sulfate serves as a critical variable influencing metabolic outcomes."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    155
+   ],
+   "ocr": "Notably, the mean acetate concentration observed in the WT variant was 10.3 mM, while the Mut variant exhibited a slightly lower mean of 10.0 mM, indicating potential differences in metabolic efficiency or pathway utilization between the two genotypes. Furthermore, the sulfide levels, measured in millimolar concentrations, provide insight into the sulfur metabolism under these experimental conditions."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    380.0
+   ],
+   "ocr": "Strain, genotype Initial culture medium Remaining substrate (mM) Product formed\nOrganic acid Sulfatea Sulfide (mM)a Acetate (mM)a Formate (mM) H2 (μmole)\nWT 20 mM lactate, 21 mM sulfate NDb 10.3 10.0 17.1 0.1 0.1\n34 mM pyruvate, 21 mM sulfate 0.6 15.7 (12.7) 6.2 (8.3) 31.2 (33.4) 0.2 0.1\nJW9087, ΔcycA 20 mM lactate, 21 mM sulfate NDb 12.0 8.3 18.5 1.6 79.5\n34 mM pyruvate, 21 mM sulfate 0.4 19.2 (12.6) 0.9 (8.4) 26.1 (33.6) BDLc 84.0",
+   "table_id": "img_048432_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    395.0,
+    580.0,
+    518.0
+   ],
+   "ocr": "VKORC1 SNP HGSV Haplotype\nWT variant Mut variant\n381 296C>T C = see 5808 T = see 9041\n5808 5723T>G T = H1 G = H2\n9041 8956G>A G = H9 A = see 861\n861 776C>A C = H7 A = H8",
+   "table_id": "img_048432_t1"
+  },
+  "p6_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    533.0,
+    580.0,
+    656.0
+   ],
+   "ocr": "Measurement Left Right p values\nN (number of hands) Mean Median SD N (number of hands) Mean Median SD\nMajor axis (mm) 50 4.45 4.52 0.76 50 4.20 4.14 0.77 0.09*\nMinor axis (mm) 50 2.60 2.65 0.45 50 2.57 2.57 0.60 0.79\nCross-sectional area (mm2) 50 8.39 7.88 2.78 50 8.30 7.37 3.15 0.82*\nNumber of bundles 50 16.84 17.00 3.29 50 17.44 17.5 4.90 0.47",
+   "table_id": "img_048432_t2"
+  },
+  "p6_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    672,
+    580,
+    699
+   ],
+   "ocr": "The inclusion of metrics such as the standard deviation (SD) and median values for each variant enhances the robustness of the data, allowing for a more nuanced interpretation of the metabolic dynamics at play."
+  },
+  "p6_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    687,
+    580,
+    715
+   ],
+   "ocr": "This comprehensive analysis is essential for understanding the metabolic adaptations associated with genetic variations in these organisms."
+  }
+ }
+}

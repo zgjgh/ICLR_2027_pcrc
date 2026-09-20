@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_139",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    485.9,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Genome Majority Vote Improves Gene Predictions"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    307.3,
+    92.8
+   ],
+   "ocr": "Table 3. Validation statistics for ortholog sets."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    700.6,
+    354.2
+   ],
+   "ocr": "5 genomes 10 genomes\nLow Medium High Very High Low Medium High Very High\n# of ortholog sets for which E. coli 833 683 457 274 800 618 414 129\nvalidation was available\n# of ortholog sets for which E. coli validation 825 (99.0%) 613 (89.8%) 382 (83.6%) 245 (89.4%) 787 (98.4%) 546 (88.3%) 329 (79.5%) 107 (82.9%)\nwas available and for which Prodigal\npredictions were already consistenta\n# of ortholog sets for which E. coli validation 8 (0.96%) 70 (10.2%) 75 (16.4%) 29 (10.6%) 13 (1.63%) 72 (11.7%) 85 (20.5%) 22 (17.1%)\nwas available and for which Prodigal\npredictions were inconsistenta\n# of ortholog sets with start sites matching a 799 (95.9%) 664 (97.2%) 444 (97.2%) 271 (98.9%) 769 (96.1%) 602 (97.4%) 406 (98.1%) 126 (97.7%)\nvalidated E. coli starta\n# of ortholog sets with start sites matching a 792 (96.0%) 609 (99.3%) 381 (99.7%) 245 (100%) 760 (96.6%) 544 (99.6%) 328 (99.7%) 107 (100%)\nvalidated E. coli start and for which Prodigal\npredictions were already consistentb\n# of ortholog sets with start sites matching a 7 (87.5%) 55 (78.6%) 63 (84.0%) 26 (89.7%) 9 (69.2%) 58 (80.6%) 78 (91.8%) 19 (86.3%)\nvalidated E. coli start and for which Prodigal\npredictions were inconsistentc",
+   "table_id": "PMC3219611_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    365.5,
+    384.6,
+    671.0
+   ],
+   "ocr": "aPercentage is with respect to total # of ortholog sets. bPercentage is with respect to # of ortholog sets for which E. coli validation was accuracy of the consistent subset. cPercentage is with respect to # of ortholog sets for which E. coli validation was of the inconsistent subset. doi:10.1371/journal.pcbi.1002284.t003 yield a larger number of ortholog sets that could be corrected, as we reported previously with Burkholderia genomes [7]. Consistency of GenBank versus Prodigal maps The impact of GMV estimated with Prodigal gene maps is likely to be conservative because Prodigal gene predictions (for orthologs) tend to be more consistent than extant Genbank data. By ‘‘Genbank data’’, we mean the owner-approved or ‘‘curated’’ maps that are accessed by default in Genbank. As described previously [6], the percentage of ortholog sets with inconsistent start sites among 5 Burkholderia genomes (representing a medium diversity set) was 53% and 35%, respectively, based on Genbank maps and Prodigal maps. Similar results were obtained in the current study with ortholog sets from the comparable 5-genome, Table 4. Validation statistics for GMV algorithm corrections to"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    377.6,
+    378.1,
+    700.7,
+    408.4
+   ],
+   "ocr": "available and for which all Prodigal predictions were already consistent. This represents available and for which Prodigal predictions were inconsistent. This represents accuracy"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    388.5,
+    448.0,
+    700.8,
+    671.0
+   ],
+   "ocr": "medium diversity E. coli test set (Table 6; Supplementary Table S3). In this test set, 2,289 ortholog sets were common to GenBank maps and Prodigal maps, enabling a direct comparison of consistency rates. Twice as many ortholog sets had inconsistent GenBank start sites (925, or 40.4%) as had inconsistent Prodigal start sites (455, or 19.9%). Prodigal made 60% (552) of the 925 GenBank ortholog sets consistent, and GMV made an additional 21% consistent. Together, Prodigal and GMV made 81% (746) of the GenBank ortholog sets consistent. This corresponds to an increase in consistency of I = 746/2289 = 0.326. The above conservative estimate suggests applying our pipeline could significantly increase consistency of GenBank gene maps, with Prodigal accounting for L and GMV accounting for J of the total impact. We also obtained an alternative, less conservative Prodigal gene maps."
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    700.1,
+    681.5,
+    872.7
+   ],
+   "ocr": "5 genomes 10 genomes\nLow Medium High Very High Low Medium High Very High\n# of ortholog sets with an incorrect E. coli start (GP) 34 19 13 3 31 16 8 3\n# of corrected validated starts in E. coli (TP) 0 9 11 3 1 8 7 3\n# of E. coli errors introduced (FP) 1 2 2 1 0 0 0 0\nError Rate (Ea) 1.00 0.182 0.154 0.25 0.5b 0.111b 0.125b 0.25b\nSensitivity (Sc) 0 0.474 0.846 1.0 0.032 0.5 0.875 1.00\nTotal # of changes in E. coli 13 51 41 12 9 38 21 4\nTotal # of changes in all genomes 92 357 252 88 169 522 363 40\nTotal # of changes that agree with a validated start 9 76 82 31 20 114 126 28\nTotal # of changes that disagree with a validated start 4 7 6 1 4 15 0 0",
+   "table_id": "PMC3219611_table_3"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    883.6,
+    396.2,
+    926.7
+   ],
+   "ocr": "aE = FP/(TP+FP), where TP = number of true positives (second row), and FP = number bEstimated by adding one additional false positive to obtain a nonzero value. cS = TP/GP, where TP = number of true positives (second row), and GP = number of doi:10.1371/journal.pcbi.1002284.t004"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    393.5,
+    885.8,
+    518.6,
+    916.0
+   ],
+   "ocr": "of false positives (third row). ground truth positives (first row)."
+  },
+  "p3_b9": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    336.7,
+    963.6
+   ],
+   "ocr": "PLoS Computational Biology | www.ploscompbiol.org"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.9,
+    963.6
+   ],
+   "ocr": "6 November 2011 | Volume 7 | Issue 11 | e1002284"
+  }
+ }
+}

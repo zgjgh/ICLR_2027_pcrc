@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_355",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3148209_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    798.1,
+    667.3,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3148209_table_0.png",
+   "html": "<table><tr><td></td><td>VarScan</td><td>SAMtools</td><td>SeqGene</td></tr><tr><td>SNP pileup</td><td>SAMtools pileup (default, mapping quality &gt; 10)</td><td>SAMtools pileup (default, mapping quality &gt; 10)</td><td>SeqGene pileup (default)</td></tr><tr><td>SNP filter</td><td>Coverage: &gt; 20, 10 Average quality: &gt; 20 Mutated bases frequency: &gt; 25% p-value: &lt; 1E-6</td><td>Default filter (SAMtools varfilter) Coverage: &gt; 20, 10 SNP quality &gt; 20</td><td>Coverage: &gt; 20, 10 Bases Phred quality: &gt; 10 Mutated bases frequency: &gt; 25% Minor sequenced strand: &gt; 10%</td></tr><tr><td>Family- wise filter</td><td>Ignore positions with at least one &#8216;quality control&#8217; across the family</td><td>Ignore positions with at least one &#8216;quality control&#8217; across the family</td><td>Ignore positions with at least one &#8216;quality control&#8217; across the family</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3148209_table_1",
+   "page_num": 2,
+   "bbox": [
+    75.0,
+    128.9,
+    675.0,
+    279.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3148209_table_1.png",
+   "html": "<table><tr><td></td><td></td><td colspan=\"3\">VarScan</td><td colspan=\"3\">SAMtools</td><td colspan=\"3\">SeqGene</td></tr><tr><td></td><td></td><td>Father</td><td>Mother</td><td>Daughter</td><td>Father</td><td>Mother</td><td>Daughter</td><td>Father</td><td>Mother</td><td>Daughter</td></tr><tr><td></td><td>After SNP Filter</td><td>26458</td><td>19814</td><td>20788</td><td>39657</td><td>24384</td><td>26971</td><td>23522</td><td>22776</td><td>24097</td></tr><tr><td rowspan=\"3\">Coverage &gt; 10</td><td>After Family Filter</td><td>16037 (235)</td><td>14392 (145)</td><td>15048 (194)</td><td>15775 (375)</td><td>13174 (324)</td><td>13556 (458)</td><td>15678 (131)</td><td>15541 (128)</td><td>15809 (191)</td></tr><tr><td>Mendelian Error Rate (%)</td><td>1.5</td><td>1.0</td><td>1.3</td><td>2.3</td><td>2.4</td><td>3.6</td><td>0.8</td><td>0.8</td><td>1.2</td></tr><tr><td>After SNP Filter</td><td>23444</td><td>16317</td><td>17639</td><td>27814</td><td>15797</td><td>18060</td><td>18805</td><td>16354</td><td>17889</td></tr><tr><td rowspan=\"2\">Coverage &gt; 20</td><td>After Family Filter</td><td>13992 (124)</td><td>12594 (93)</td><td>13244 (147)</td><td>9745 (90)</td><td>8522 (93)</td><td>8674 (140)</td><td>12001 (63)</td><td>11887 (53)</td><td>12202 (89)</td></tr><tr><td>Mendelian Error Rate (%)</td><td>0.9</td><td>0.7</td><td>1.1</td><td>0.9</td><td>1.1</td><td>1.6</td><td>0.5</td><td>0.4</td><td>0.7</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3148209_table_2",
+   "page_num": 2,
+   "bbox": [
+    75.0,
+    765.5,
+    675.0,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3148209_table_2.png",
+   "html": "<table><tr><td></td><td></td><td colspan=\"3\">VarScan</td><td colspan=\"3\">SAMtools</td><td colspan=\"3\">SeqGene</td></tr><tr><td></td><td></td><td>Father</td><td>Mother</td><td>Daughter</td><td>Father</td><td>Mother</td><td>Daughter</td><td>Father</td><td>Mother</td><td>Daughter</td></tr><tr><td></td><td>After SNP Filter</td><td>696</td><td>522</td><td>522</td><td>539</td><td>560</td><td>634</td><td>637</td><td>628</td><td>703</td></tr><tr><td rowspan=\"3\">Coverage &gt; 10</td><td>After Family Filter</td><td>356 (4)</td><td>330 (4)</td><td>331 (3)</td><td>279 (5)</td><td>279 (4)</td><td>278 (8)</td><td>320 (4)</td><td>318 (3)</td><td>322 (6)</td></tr><tr><td>Mendelian Error Rate (%)</td><td>1.1</td><td>1.2</td><td>0.9</td><td>1.8</td><td>1.4</td><td>2.9</td><td>1.2</td><td>0.9</td><td>1.9</td></tr><tr><td>After SNP Filter</td><td>690</td><td>503</td><td>506</td><td>389</td><td>355</td><td>413</td><td>478</td><td>416</td><td>472</td></tr><tr><td rowspan=\"2\">Coverage &gt; 20</td><td>After Family Filter</td><td>340 (4)</td><td>316 (4)</td><td>319 (3)</td><td>180 (2)</td><td>182 (2)</td><td>178 (1)</td><td>223 (1)</td><td>223 (1)</td><td>223 (1)</td></tr><tr><td>Mendelian Error Rate (%)</td><td>1.2</td><td>1.3</td><td>0.9</td><td>1.1</td><td>1.1</td><td>0.6</td><td>0.4</td><td>0.4</td><td>0.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3148209_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    777.4,
+    655.3,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3148209_table_3.png",
+   "html": "<table><tr><td></td><td>Blood1</td><td>Blood2</td><td>Blood3</td><td>Blood4</td><td>Blood5</td><td>Blood6</td><td>Blood7</td><td>Blood8</td><td>Blood9</td></tr><tr><td>mde</td><td>48</td><td>47</td><td>50</td><td>47</td><td>87</td><td>86</td><td>99</td><td>102</td><td>95</td></tr><tr><td>ec5 (%)</td><td>65</td><td>68</td><td>67</td><td>69</td><td>69</td><td>69</td><td>69</td><td>69</td><td>69</td></tr><tr><td rowspan=\"2\">ec10(%)</td><td>61</td><td>65</td><td>65</td><td>66</td><td>66</td><td>66</td><td>67</td><td>67</td><td>67</td></tr><tr><td>Bone1</td><td>Bone2</td><td>Bone3</td><td>Bone4</td><td>Bone5</td><td>Bone6</td><td>Bone7</td><td>Bone8</td><td>Bone9</td></tr><tr><td>mde</td><td>46</td><td>45</td><td>44</td><td>44</td><td>79</td><td>86</td><td>75</td><td>77</td><td>117</td></tr><tr><td>ec5 (%)</td><td>68</td><td>68</td><td>68</td><td>69</td><td>69</td><td>69</td><td>68</td><td>68</td><td>70</td></tr><tr><td>ec10(%)</td><td>65</td><td>65</td><td>65</td><td>65</td><td>67</td><td>66</td><td>66</td><td>65</td><td>68</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3148209_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    128.9,
+    666.4,
+    301.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3148209_table_4.png",
+   "html": "<table><tr><td>transcript</td><td>position (hg19)</td><td>position transcript</td><td>codon number</td><td>amino acid change</td><td>ref</td><td>bl3</td><td>bm3</td><td>bl9</td><td>bm9</td><td>ex5</td></tr><tr><td>NM_022552</td><td>chr2:25457197</td><td>2947</td><td>897</td><td>Val- &gt; Asp</td><td>A</td><td>A</td><td>A/T</td><td></td><td></td><td></td></tr><tr><td>NM_175629</td><td>chr2:25457197</td><td>3028</td><td>897</td><td>Val- &gt; Asp</td><td>A</td><td>A</td><td>A/T</td><td></td><td></td><td></td></tr><tr><td>NM_153759</td><td>chr2:25457197</td><td>2237</td><td>708</td><td>Val- &gt; Asp</td><td>A</td><td>A</td><td>A/T</td><td></td><td></td><td></td></tr><tr><td>NM_022552</td><td>chr2:25467449</td><td>1884</td><td>543</td><td>Gly- &gt; Cys</td><td>C</td><td></td><td></td><td></td><td></td><td>A/C</td></tr><tr><td>NM_175629</td><td>chr2:25467449</td><td>1965</td><td>543</td><td>Gly- &gt; Cys</td><td>C</td><td></td><td></td><td></td><td></td><td>A/C</td></tr><tr><td>NM_153759</td><td>chr2:25467449</td><td>1174</td><td>354</td><td>Gly- &gt; Cys</td><td>C</td><td></td><td></td><td></td><td></td><td>A/C</td></tr><tr><td>NM_022552</td><td>chr2:25457242</td><td>2902</td><td>882</td><td>Arg- &gt; His</td><td>C</td><td></td><td></td><td>C/T</td><td>C</td><td></td></tr><tr><td>NM_175629</td><td>chr2:25457242</td><td>2983</td><td>882</td><td>Arg- &gt; His</td><td>C</td><td></td><td></td><td>C/T</td><td>C</td><td></td></tr><tr><td>NM_153759</td><td>chr2:25457242</td><td>2192</td><td>693</td><td>Arg- &gt; His</td><td>C</td><td></td><td></td><td>C/T</td><td>C</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3148209_table_5",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    128.9,
+    649.2,
+    317.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3148209_table_5.png",
+   "html": "<table><tr><td>Script</td><td>Function</td><td>#CPU</td><td>Peak RAM (Gb)</td><td>Time</td><td>Notes</td></tr><tr><td>exon_qc</td><td>quality control</td><td>1</td><td>6</td><td>10-20 min</td><td>Per sample</td></tr><tr><td>sam2wig</td><td>generate wig file</td><td>1</td><td>2</td><td>20-50 min</td><td>Per sample</td></tr><tr><td>sam2pileup</td><td>generate pileup file</td><td>1</td><td>3-7</td><td>1-4 hours</td><td>Per sample</td></tr><tr><td>snp</td><td>annotate and filter snp and indels</td><td>1</td><td>4</td><td>2-8 min</td><td>Per sample</td></tr><tr><td>rpkm</td><td>quantify coverage on gene model</td><td>1</td><td>4</td><td>4-16 min</td><td>Per sample</td></tr><tr><td>cnv</td><td>copy number variation</td><td>1</td><td>4</td><td>5 min</td><td>Per sample</td></tr><tr><td>genotyping</td><td>genotyping file across samples</td><td>1</td><td>8</td><td>4 hour</td><td>Across 23 samples</td></tr><tr><td>phenotyping</td><td>coverage (expression) across samples</td><td>1</td><td>5</td><td>10 min</td><td>Across 23 samples</td></tr><tr><td>eqtl -m cis</td><td>Cis- EQTL</td><td>1</td><td>3</td><td>1 hour</td><td>1000 genome data</td></tr><tr><td>eqtl -m trans</td><td>Trans-EQTL</td><td>16 *</td><td>3</td><td>7 days</td><td>1000 genome data</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_056",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    90,
+    580,
+    117
+   ],
+   "ocr": "The data presented in Table 1 offers a comparative analysis of various models applied to the assessment of biological metrics, specifically focusing on the predicted values at different confidence intervals of 5%, 1%, and 0.10%."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    105,
+    580,
+    148
+   ],
+   "ocr": "This table serves to illustrate the discrepancies and similarities between experimental verification and predictions derived from orthologous relationships, particularly in the context of the human model (H."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    184.0,
+    580.0,
+    353.0
+   ],
+   "ocr": "Perfect transformation No transformation ENQT transformed Semiparametric QTL\nModel 5% 1% 0.10% 5% 1% 0.10% 5% 1% 0.10% 5% 1% 0.10%\naa 4.96 1.02 0.08 11.1 3.63 0.93 4.89 1.05 0.09 2.42 0.98 0.25\nb 13.97 3.71 0.51 15.9 5.58 1.62 14.06 3.81 0.51 8.85 3.87 1.32\nc 31.69 11.98 2.45 22.92 7.95 1.83 31.55 11.96 2.45 23.72 12.67 5.52\nda 4.69 0.48 0.01 4.68 1.14 0.3 4.71 0.5 0.02 1.94 0.45 0.09\ne 11.95 1.96 0.06 7.05 1.62 0.39 11.9 1.94 0.06 6.26 1.91 0.3\nf 24.54 6.02 0.39 10.2 2.56 0.67 24.58 5.88 0.38 15.75 5.95 1.67",
+   "table_id": "img_062269_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    387.0,
+    580.0,
+    640.0
+   ],
+   "ocr": "Organism Centrosome Kinetochore Midbody\nExperimental verification Predicted from orthologs Experimental verification Predicted from orthologs Experimental verification Predicted from orthologs\nH. sapiens 516 112 203 82 229 92\nM. musculus 131 477 33 249 22 289\nX. laevis 36 0 29 0 6 0\nC. elegans 35 227 59 129 20 148\nD. melanogaster 67 240 58 146 29 152\nS. cerevisiae 89 107 102 56 133 50\nS. pombe 48 145 91 66 38 108",
+   "table_id": "img_062269_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    717
+   ],
+   "ocr": "sapiens). For instance, the values associated with the metric \"aa\" demonstrate a measured prediction of 4.96 at a 5% confidence level, while the experimental verification provides a contrasting figure of 11.1, reflecting the inherent variability in biological data. Additionally, the columns detailing the respective predictions at 1% and 0.10% confidence intervals further illustrate the nuances in model accuracy and reliability."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "These distinctions are critical for researchers aiming to refine predictive models and enhance their applicability in biological research. By evaluating the performance of these models side by side, this analysis contributes to a deeper understanding of the predictive power of ortholog-based estimations and their potential implications for future studies in genomics and proteomics."
+  }
+ }
+}

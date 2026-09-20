@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_102",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.8,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:87"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/87"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    217.2,
+    118.9
+   ],
+   "ocr": "Table 3: Tight Cluster Results 2"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    666.9,
+    498.0
+   ],
+   "ocr": "LymphNode (A2iii in Additional file 1) OOB error(%) Number of probes\nbeta_Alanine_metabolism 16.08 42\nAlanine_and_aspartate_metabolism 16.78 42\nGlutamate_metabolism 16.08 50\nButanoate_metabolism 16.08 59\nPropanoate_metabolism 17.83 59\nValine_leucine_and_isoleucine_degradation 14.69 71\nGene Symbols of informative genes in this pathway cluster\nABAT, ALDH1A3, GLUL, GMPS, HMGCL, HSD17B4, MAP3K15, MCCC2, PDHA1\np53 (A3ii in Additional file 1)\nAlanine_and_aspartate_metabolism 17.53 42\nButanoate_metabolism 15.54 59\nPropanoate_metabolism 18.33 59\nGM-Glycolysis_and_Gluconeogenesis 23.11 66\nValine_leucine_and_isoleucine_degradation 15.54 71\nGene Symbols of informative genes in this pathway cluster\nABAT, ALDH1A3, HMGCL, HSD17B4, MAP3K15, MCCC2, PDHA1\nConsort (A1i in Additional file 1)\nGlycosphingolipid_biosynthesis 23.23 34\nBC-GATA3_participate_in_activating_the_Th2_cytokine 14.14 43\nButanoate_metabolism 15.15 82\nPropanoate_metabolism 21.21 85\nValine_leucine_and_isoleucine_degradation 17.17 25\nGene Symbols of informative genes in this pathway cluster\nABAT, GATA3, HSD17B4, MCCC2, PRKAR1B",
+   "table_id": "PMC2335306_table_2"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    514.3,
+    311.2,
+    526.1
+   ],
+   "ocr": "The bold pathways are those with low OOB error rates"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    552.0,
+    372.6,
+    922.4
+   ],
+   "ocr": "PubMatrix To more systematically study the biological significance of the results, we looked at the publications of the top informative genes (top two genes in each pathway) with keywords, like breast cancer, estrogen receptor, and pro- gesterone receptor, of interest. We examined the top informative genes from the pathway cluster in Table 2, which consists of 5 pathways, with two of them that do not have any overlapping probes with the rest. It is evident from PubMatrix search that the proportions of these informative genes in the pathway cluster do show a higher number of literature support compared with the informa- tive genes outside of the pathway cluster (Table 4). This is true for the informative genes for all three data sets and more so for the p53 data set. To assess the significance of these results, Fisher's Exact Test was performed. For breast cancer citations, the p-values were 0.149, 0.002, and 0.061 for data sets, LymphNode, p53, and Consort, respec- tively (Table 5). This indicates a significantly higher pro- portion of citations related to breast cancer for genes in pathway cluster of Table 2 compared to other informative genes in the top pathways for the p53 data set. The result for Consort just misses the significant cutoff of 0.05, and it is not significant for the LymphNode data set. It was not surprising to see more significant results for estrogen"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    552.3,
+    698.3,
+    892.7
+   ],
+   "ocr": "receptor citations, since we are specifically doing classifi- cation on the ER+/ER- status. All of the p-values are signif- icant; 0.048, 0.0006, and 0.0084 for data sets LymphNode, p53, and Consort, respectively (Table 6). Possible Pathway Crosstalk From the previous section, we have seen that even though there are no overlapping genes between both \"Nitrogen metabolism\" and \"GATA3 participate in activating Th2 cytokine genes expression\" pathways with other pathways containing ESR1, they appear to form a tight pathway cluster. In order to further understand the possible cross- talk between them, we looked at HPRD and GeneGo's MetaCore. We found connections between GATA3 path- way and CARM-1 pathway from HPRD. This is illustrated in Figure 4, where the dark grey oval genes GATA and junB in GATA3 pathway interacts with PPARBP and ESR1 in CARM-1 pathway. The gene PPARBP, Peroxisome prolif- erator-activated receptor binding protein, is determined to be at a high level of expression and amplified in breast cancer [28]. In Figure A5 in Additional file 1, it suggests how different proteins receive signals from ESR1 and act upon HIF-1 to regulate CA12."
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 12 (page number not for citation purposes)"
+  }
+ }
+}

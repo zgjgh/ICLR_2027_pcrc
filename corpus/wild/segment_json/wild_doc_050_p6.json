@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_050",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    107,
+    580,
+    134
+   ],
+   "ocr": "In the context of evaluating the effectiveness of various algorithms in a specific experimental study, the accompanying data table provides critical insights into the performance metrics associated with each algorithm."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    122,
+    580,
+    181
+   ],
+   "ocr": "The metrics displayed, specifically the f1 score and the treatment groups, offer a comparative analysis that is essential for understanding the algorithms' capabilities in relation to the defined objectives of the study. With a total of 145 animals involved in the investigation, the results indicate a significant variation in performance across different algorithms, as indicated by their respective f1 scores."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    226.0,
+    580.0,
+    352.0
+   ],
+   "ocr": "Algorithms f1 f5 f6 f7 f8\nS-S [−100, 100] [−600, 600] [−5.12, 5.12] [−10, 10] [−100, 100]\nF-D 10 10 10 2 2\nCBEA08 0 0 0 −186.7309088310227 −1\nSAPSO 0.04860173 5.7773e − 008 1.9425e − 004 — —\nCBA 0 0 0 −186.7309088310230 −1",
+   "table_id": "img_055120_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    397.0,
+    580.0,
+    520.0
+   ],
+   "ocr": "Diagnoses Controls Amnestic MCI Alzheimer's disease\nN = 145 N = 16 N = 42\nAge, year, Mean ± SD* 72.3 ± 8.0 75.7 ± 8.7 80.5 ± 8.1\nMMSE, Mean ± SD* 27.1 ± 2.6 26.4 ± 2.5 22.2 ± 3.3\nLog10 Amylin with Log10 Aß1-42 r = +0.06, p = 0.46 r = +0.73, p = 0.001 r = +0.52, p = 0.0004\nLog10 Amylin with Log10 Aß1-40 r = +0.02, p = 0.83 r = +0.58, p = 0.02 r = +0.29, p = 0.06",
+   "table_id": "img_055120_t1"
+  },
+  "p6_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    557.0,
+    580.0,
+    663.0
+   ],
+   "ocr": "Groups Treatment Animals\nPositive control (NT) Lucerne hay (Medicago sativa) 8 females + 8 males\nNegative treated control (T) Lucerne hay (Medicago sativa) + Albendazole drench 8 females + 8 males\nCarob (CAR) Carob pods (crushed) (Ceratonia siliqua) 8 females + 8 males\nSainfoin (S) Sainfoin hay (Onobrychis viciifolia) 8 females + 8 males",
+   "table_id": "img_055120_t2"
+  },
+  "p6_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    732
+   ],
+   "ocr": "These scores reflect the algorithms' accuracy and reliability in predicting outcomes based on the treatment administered. Additionally, the differentiation of groups based on N values—16 and 42—highlights the diverse sample sizes utilized, which may influence the generalizability of the findings."
+  },
+  "p6_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "The mean age of the subjects, recorded at 72.3 ± 8.0 years, further contextualizes the demographic characteristics of the subjects involved, providing a foundation for interpreting the efficacy of the treatments in relation to age-related factors."
+  }
+ }
+}

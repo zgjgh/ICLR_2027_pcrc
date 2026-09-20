@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_008",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The data includes sex, age in years, percentage predicted FEV1, the allergen inhaled, and the titration of inhaled allergen. The first row, labeled \"M,\" indicates a male aged 61 with a predicted FEV1 of 96%, inhaling a cat allergen at a titration of 1:32."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    94
+   ],
+   "ocr": "The second row, labeled \"F,\" represents a female aged 24 with a predicted FEV1 of 80%, exposed to ragweed at a titration of 1:16."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    354.0
+   ],
+   "ocr": "Sex Age (y) % Predicted FEV1 Allergen Inhaled Titration of Inhaled Allergen\nM 61 96 Cat 1:32\nF 24 80 Ragweed 1:16\nM 52 95 HDM 1:64\nF 40 104 Cat 1:128\nM 25 86 Ragweed 1:8\nF 24 93 HDM 1:8\nM 26 93 HDM 1:32\nM 20 94 Grass 1:4\nF 34 70 Cat 1:512\nM 26 96 Cat 1:8\nNo. M/F 6:4 Mean 33.2 ± 13.6 Mean 90.7 ± 9.6",
+   "table_id": "img_007381_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    370,
+    580,
+    444
+   ],
+   "ocr": "The third row, another male aged 52, has a predicted FEV1 of 95%, inhaling house dust mite (HDM) at a titration of 1:64. The fourth row shows a female aged 40 with a predicted FEV1 of 104%, inhaling a cat allergen at a titration of 1:128. The fifth row presents a male aged 25 with a predicted FEV1 of 86%, exposed to ragweed at a titration of 1:8. The sixth row features a 24- year-old female with a predicted FEV1 of 93%, inhaling HDM at a titration of 1:8. The seventh row identifies a male aged 26 with a predicted FEV1 of 93%, exposed to HDM at a titration of 1:32."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    432,
+    580,
+    505
+   ],
+   "ocr": "The eighth row indicates a 20-year-old male with a predicted FEV1 of 94%, inhaling grass at a titration of 1:4. The ninth row presents a female aged 34 with a predicted FEV1 of 70%, inhaling a cat allergen at a titration of 1:512. The tenth row shows a male aged 26 with a predicted FEV1 of 96%, exposed to a cat allergen at a titration of 1:8. The overall distribution of participants is 6 males and 4 females, with a mean age of 33.2 ± 13.6 years and a mean predicted FEV1 of 90.7 ± 9.6%."
+  }
+ }
+}

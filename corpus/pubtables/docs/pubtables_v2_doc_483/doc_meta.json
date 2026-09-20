@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_483",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4601798_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    306.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4601798_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Year</td><td rowspan=\"2\">Effort (km)</td><td rowspan=\"2\">Survey days (n)</td><td colspan=\"3\">Sighting events (n)</td></tr><tr><td>Fin whales</td><td>Striped dolphins</td><td>Blue fin tuna</td></tr><tr><td>2000</td><td>2876.1</td><td>6</td><td>2 (2)</td><td>14 (14)</td><td>49 (34)</td></tr><tr><td>2001</td><td>3933.5</td><td>8</td><td>11 (9)</td><td>-</td><td>59 (49)</td></tr><tr><td>2002</td><td>4425.0</td><td>9</td><td>11 (11)</td><td>22 (20)</td><td>48 (39)</td></tr><tr><td>2003</td><td>5512.1</td><td>11</td><td>8 (6)</td><td>28 (26)</td><td>100 (91)</td></tr><tr><td>2009</td><td>3692.3</td><td>8</td><td>6 (6)</td><td>20 (18)</td><td>178 (167)</td></tr><tr><td>2010</td><td>2417.2</td><td>6</td><td>10 (6)</td><td>25 (20)</td><td>86 (68)</td></tr><tr><td>2011</td><td>4304.7</td><td>9</td><td>13 (7)</td><td>43 (41)</td><td>235 (214)</td></tr><tr><td>2012</td><td>3709.4</td><td>5</td><td>9 (8)</td><td>28 (26)</td><td>267 (238)</td></tr><tr><td>2000&#8211;2012</td><td>30870.3</td><td>62</td><td>70 (60)</td><td>180 (165)</td><td>1022 (900)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4601798_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    128.1,
+    726.7,
+    387.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4601798_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Year</td><td colspan=\"4\">Schools</td><td rowspan=\"2\">Mean school size</td><td colspan=\"4\">Individuals</td></tr><tr><td>SR</td><td>D</td><td>%CV</td><td>95% CI</td><td>SR</td><td>D</td><td>%CV</td><td>95% CI</td></tr><tr><td>2000</td><td>0.0007</td><td>0.0005 (0.0017)</td><td>72.9 (67.6)</td><td>0.0001-0.0021 (0.0003- 0.0079)</td><td>1.0</td><td>0.0007</td><td>0.0005 (0.0017)</td><td>72.9 (67.6)</td><td>0.0001-0.0021 (0.0003- 0.0079)</td></tr><tr><td>2001</td><td>0.0020</td><td>0.0016 (0.0059)</td><td>42.2 (32.8)</td><td>0.0007-0.0037 (0.0028- 0.0123)</td><td>1.6</td><td>0.0033</td><td>0.0024 (0.0088)</td><td>47.6 (43.7)</td><td>0.0009-0.0065 (0.0033- 0.0235)</td></tr><tr><td>2002</td><td>0.0025</td><td>0.0017 (0.0063)</td><td>49.5 (46.0)</td><td>0.0006-0.0046 (0.0023- 0.0173)</td><td>1.1</td><td>0.0027</td><td>0.0018 (0.0068)</td><td>48.3 (44.7)</td><td>0.0007-0.0049 (0.0026- 0.0182)</td></tr><tr><td>2003</td><td>0.0011</td><td>0.0006 (0.0020)</td><td>67.6 (64.6)</td><td>0.0002-0.0022 (0.0005- 0.0073)</td><td>1.5</td><td>0.0016</td><td>0.0009 (0.0032)</td><td>80.0 (76.8)</td><td>0.0002-0.0043 (0.0007- 0.0146)</td></tr><tr><td>2009</td><td>0.0011</td><td>0.0008 (0.0031)</td><td>73.8 (60.5)</td><td>0.0002-0.0034 (0.0009- 0.0115)</td><td>1.2</td><td>0.0014</td><td>0.0012 (0.0044)</td><td>75.5 (63.1)</td><td>0.0003-0.0049 (0.0011- 0.0170)</td></tr><tr><td>2010</td><td>0.0025</td><td>0.0013 (0.0042)</td><td>52.8 (48.7)</td><td>0.0004-0.0039 (0.0013- 0.0134)</td><td>1.5</td><td>0.0037</td><td>0.0015 (0.0049)</td><td>49.6 (45.3)</td><td>0.0005-0.0044 (0.0016- 0.0145)</td></tr><tr><td>2011</td><td>0.0023</td><td>0.0012 (0.0044)</td><td>74.8 (71.8)</td><td>0.0003-0.0055 (0.0010- 0.0193)</td><td>1.4</td><td>0.0033</td><td>0.0018 (0.0063)</td><td>83.7 (80.4)</td><td>0.0003-0.0094 (0.0012- 0.0321)</td></tr><tr><td>2012</td><td>0.0019</td><td>0.0014 (0.0054)</td><td>34.1 (24.7)</td><td>0.0007-0.0029 (0.0029- 0.0103)</td><td>1.1</td><td>0.0022</td><td>0.0015 (0.0056)</td><td>34.3 (25.4)</td><td>0.0007-0.0031 (0.0029- 0.0109)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4601798_table_2",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    627.8,
+    726.7,
+    874.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4601798_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Year</td><td colspan=\"4\">Schools</td><td rowspan=\"2\">Mean school size</td><td colspan=\"4\">Individuals</td></tr><tr><td>SR</td><td>D</td><td>%CV</td><td>95% CI</td><td>SR</td><td>D</td><td>%CV</td><td>95% CI</td></tr><tr><td>2000</td><td>0.0049</td><td>0.0035 (0.0043)</td><td>41.5 (42.1)</td><td>0.0013-0.0091 (0.0016- 0.0118)</td><td>45.4</td><td>0.2211</td><td>0.1701 (0.1753)</td><td>81.0 (78.0)</td><td>0.0284-1.0198 (0.0308- 0.9975)</td></tr><tr><td>2001</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2002</td><td>0.0038</td><td>0.0024 (0.0031)</td><td>60.1 (59.7)</td><td>0.0007-0.0085 (0.0009- 0.0108)</td><td>38.2</td><td>0.1469</td><td>0.0916 (0.0953)</td><td>71.5 (70.8)</td><td>0.0213-0.3946 (0.0224- 0.4064)</td></tr><tr><td>2003</td><td>0.0042</td><td>0.0026 (0.0028)</td><td>35.6 (34.5)</td><td>0.0012-0.0054 (0.0013- 0.0057)</td><td>51.7</td><td>0.2159</td><td>0.1383 (0.1398)</td><td>44.0 (43.6)</td><td>0.0557-0.3439 (0.0567- 0.3450)</td></tr><tr><td>2009</td><td>0.0041</td><td>0.0031 (0.0040)</td><td>49.8 (47.3)</td><td>0.0011-0.0091 (0.0014- 0.0112)</td><td>24.1</td><td>0.0980</td><td>0.0812 (0.0878)</td><td>80.5 (77.3)</td><td>0.0156-0.4212 (0.0178- 0.4329)</td></tr><tr><td>2010</td><td>0.0079</td><td>0.0045 (0.0057)</td><td>49.9 (53.6)</td><td>0.0014-0.0144 (0.0016- 0.0200)</td><td>22.9</td><td>0.1804</td><td>0.0977 (0.1066)</td><td>30.0 (31.4)</td><td>0.0497-0.1922 (0.0518- 0.2197)</td></tr><tr><td>2011</td><td>0.0079</td><td>0.0057 (0.0069)</td><td>34.1 (33.4)</td><td>0.0027-0.0118 (0.0033- 0.0143)</td><td>27.4</td><td>0.2167</td><td>0.1415 (0.1492)</td><td>33.8 (32.4)</td><td>0.0679-0.2947 (0.0736- 0.3023)</td></tr><tr><td>2012</td><td>0.0067</td><td>0.0042 (0.0055)</td><td>45.3 (44.0)</td><td>0.0014-0.0128 (0.0018- 0.0168)</td><td>14.8</td><td>0.1000</td><td>0.0647 (0.0732)</td><td>46.3 (45.1)</td><td>0.0207-0.2022 (0.0237- 0.2258)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4601798_table_3",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    291.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4601798_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Year</td><td colspan=\"4\">Schools</td><td rowspan=\"2\">Mean school size</td><td colspan=\"4\">Individuals</td></tr><tr><td>SR</td><td>D</td><td>%CV</td><td>95% CI</td><td>SR</td><td>D</td><td>%CV</td><td>95% CI</td></tr><tr><td>2000</td><td>0.0136</td><td>0.0080</td><td>42.6</td><td>0.0031-0.0210</td><td>59.4</td><td>0.6611</td><td>0.2624</td><td>36.8</td><td>0.1163-0.5922</td></tr><tr><td>2001</td><td>0.0147</td><td>0.0055</td><td>50.9</td><td>0.0018-0.0167</td><td>72.8</td><td>0.8332</td><td>0.1974</td><td>43.9</td><td>0.0746-0.5227</td></tr><tr><td>2002</td><td>0.0099</td><td>0.0065</td><td>85.0</td><td>0.0012-0.0349</td><td>32.8</td><td>0.2895</td><td>0.1378</td><td>74.6</td><td>0.0305-0.6220</td></tr><tr><td>2003</td><td>0.0189</td><td>0.0051</td><td>34.6</td><td>0.0025-0.0107</td><td>100.7</td><td>1.5165</td><td>0.3186</td><td>31.1</td><td>0.1651-0.6148</td></tr><tr><td>2009</td><td>0.0636</td><td>0.0242</td><td>39.5</td><td>0.0101-0.0582</td><td>75.8</td><td>2.9974</td><td>0.9112</td><td>47.6</td><td>0.3191-2.6022</td></tr><tr><td>2010</td><td>0.0517</td><td>0.0172</td><td>69.9</td><td>0.0035-0.0852</td><td>171.1</td><td>3.9633</td><td>0.9083</td><td>75.2</td><td>0.1647-5.0081</td></tr><tr><td>2011</td><td>0.0757</td><td>0.0302</td><td>32.3</td><td>0.0149-0.0613</td><td>83.3</td><td>3.6554</td><td>1.0211</td><td>28.0</td><td>0.5511-1.8919</td></tr><tr><td>2012</td><td>0.0644</td><td>0.0326</td><td>26.3</td><td>0.0169-0.0630</td><td>32.2</td><td>2.0111</td><td>0.7248</td><td>31.4</td><td>0.3250-1.6164</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4601798_table_4",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    128.1,
+    726.7,
+    269.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4601798_table_4.png",
+   "html": "<table><tr><td>Survey year</td><td>Fin whales &amp; striped dolphins</td><td>Fin whales &amp; ABFT</td><td>Striped dolphins &amp; ABFT</td></tr><tr><td>2000</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2001</td><td>-</td><td>0</td><td>-</td></tr><tr><td>2002</td><td>0</td><td>18.3</td><td>4.7</td></tr><tr><td>2003</td><td>0.1</td><td>29.9</td><td>25.1</td></tr><tr><td>2009</td><td>0.6</td><td>0.8</td><td>3.2</td></tr><tr><td>2010</td><td>11.2</td><td>3.2</td><td>8.3</td></tr><tr><td>2011</td><td>0</td><td>0</td><td>16.4</td></tr><tr><td>2012</td><td>0</td><td>3.3</td><td>15.3</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4601798_table_5",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    212.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4601798_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Species</td><td colspan=\"6\">Sighting positions</td></tr><tr><td>Total (n)</td><td>Alone (%)</td><td>With fin whales (%)</td><td>With striped dolphins (%)</td><td>With ABFT (%)</td><td>With both other species (%)</td></tr><tr><td>Fin whales</td><td>70</td><td>77.1</td><td>-</td><td>7.1</td><td>12.9</td><td>2.9</td></tr><tr><td>Striped dolphins</td><td>180</td><td>73.3</td><td>2.8</td><td>-</td><td>22.8</td><td>1.1</td></tr><tr><td>ABFT</td><td>1022</td><td>91.9</td><td>1.2</td><td>6.6</td><td>-</td><td>0.3</td></tr></table>"
+  }
+ ]
+}

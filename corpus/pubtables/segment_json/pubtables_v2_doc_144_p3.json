@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_144",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    264.2,
+    65.8
+   ],
+   "ocr": "Minoche et al. Genome Biology 2011, 12:R112 http://genomebiology.com/2011/12/11/R112"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 7 of 15"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    348.7,
+    390.2,
+    397.9
+   ],
+   "ocr": "Figure 3 Alignment of reads before (a) and after (b) B-tail trimming 63,662). Uniquely mapped reads from the Bv-95nt data set were visualized grey, reverse matching reads are shown in blue, mismatch bases are accumulated in one region, and almost all mismatches are eliminated"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    362.2,
+    348.8,
+    670.7,
+    397.9
+   ],
+   "ocr": "in a selected region of the ZR reference (positions 63,633 to using the Tablet browser [17]. Forward matching reads are shown in shown in white. Long white stretches are uncalled bases. Mismatches after B-tail removal."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    423.1,
+    678.7,
+    753.0
+   ],
+   "ocr": "Bv-95nt reads (Figure 4b). For the At-100nt and PhiX- 100nt data sets the error rate was approximately doubled (read 1) or tripled (read 2) towards the 3’ end of reads (Figure S10a, b in Additional file 1), and the Phix-GAIIx data (length 150 nucleotides) showed an error rate increase of about five- to ten-fold (Figure S10c in Addi- tional file 1). Increased error rates up to 1.78% (about 16- fold) could be observed at 3’ ends of HiSeq data if no adapter trimming was performed (Figure S10d in Addi- tional file 1). Sequencing of library inserts smaller than the read length results in reads containing parts of the adapter. We removed reads containing adapter sequence prior to analysis (see Materials and methods). In the sequencing data, increased error rates were observed in some sequencing cycles (Figure 4; Figure S10 in Additional file 1). It turned out that only a fraction of the reads was affected by these peaks. When inspecting their spatial placement within the flow cell we found that they concentrated in certain regions (Figure S11 and text supplement T1 in Additional file 1). The increased error rates were consistently reflected in the average quality scores of the particular cycles and regions for HiSeq"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    423.2,
+    366.2,
+    753.1
+   ],
+   "ocr": "(reflecting the coverage difference between the three PhiX samples). This corresponds to a global average substitution error rate of 0.11% for the two HiSeq PhiX data sets and of 0.28% for the PhiX-GAIIx data set. The HiSeq read data sets from the two plant samples both had a global substitution error rate of 0.16%. Uncalled bases were not counted as sequencing errors. Within the B-tails of PhiX-95nt we find a greatly increased sub- stitution error rate of 6.5%. We determined the distribution of error rates within a read. In an Illumina sequencing cycle, elongation by exactly one base per molecule per cluster in the presence of all four nucleotides at the same time is taking place. We calculated the per-cycle error rate by dividing the number of base substitutions in a particular cycle by the number of all sequenced bases of that cycle. We generally observed lower per-cycle error rates in the first half of the reads, and lower error rates in read 1 compared to read 2. Per-cycle error rates ranged from 0.04 to 0.3% in PhiX-95nt reads and from 0.08 to 0.29% in Bv-95nt reads. Towards the 3’ end the error rate doubles for PhiX-95nt reads (Figure 4a) and does not increase in"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    783.5,
+    290.8,
+    796.4
+   ],
+   "ocr": "Table 3 Coverage drop after B-tail removal"
+  },
+  "p3_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    801.3,
+    677.3,
+    915.9
+   ],
+   "ocr": "Remaining per-base coverage Number of positions with this coverage in the ZR Number of positions with this coverage in the PhiX\nafter B-tail removal reference (Bv-95nt data) reference (PhiX-95nt data)\n90 to 100% 41,130 (40.26%) 4,016 (91.65%)\n80 to 90% 4,056 (3.97%) 266 (6.07%)\n60 to 80% 1,711 (1.67%) 100 (2.28%)\n40 to 60% 310 (0.30%) 0 (0.00%)\n20 to 40% 76 (0.07%) 0 (0.00%)\n0 to 20% 29 (0.03%) 0 (0.00%)",
+   "table_id": "PMC3334598_table_2"
+  }
+ }
+}

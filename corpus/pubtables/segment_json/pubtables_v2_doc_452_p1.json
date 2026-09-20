@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_452",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    261.1,
+    53.4
+   ],
+   "ocr": "Katayama et al. BMC Genomics (2015) 16:476"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 7 of 14"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.4,
+    381.1,
+    152.1
+   ],
+   "ocr": "Table 1 Ten most correlated genes with PC1. Tables a and b are skin lineage (for full data, see Additional file 9: Table S6). a Positively negatively correlated genes, which were upregulated in KCs and"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    369.4,
+    111.8,
+    672.9,
+    152.1
+   ],
+   "ocr": "subsets of significantly correlated genes with relevant functions in correlated genes, which were upregulated in SGs, and (b) HaCaTs"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    157.1,
+    678.6,
+    555.4
+   ],
+   "ocr": "Gene Symbol Score Local FDR\n(a)\nRAB11FIP1 0.934 0.00044\nKRT80 0.933 0.00045 Localization around desmosomal plaques in earlier stages of differentiation [PMID:20843789]\nID4 0.915 0.00052 Lack of the protein in parakeratotic cells at upper skin layer [PMID:21663940]\nPPL 0.911 0.00053 A component of desmosomes and of the cornified envelope [PMID:9412476]\nKRT1 0.911 0.00054 Specifically expressed in the spinous and granular layers [PMID:10511477]\nBCL6 0.900 0.00058 Expression at the terminal differentiation stage [PMID:8912662]\nERBB3 0.897 0.00059 Skin biopsy expressed more than the cultured cells [PMID:11571634]\nPLAC2 0.896 0.00059 lncRNA controlling terminal differentiation [PMID:23201690]\nPKP1 0.896 0.00059 Localization around desmosomal plaques and nuclei [PMID:16632867]\nKRT10 0.894 0.00060 Specifically expressed in the spinous and granular layers [PMID:10511477]\n(b)\nPRDX3 −0.922 0.00044 Mitochondrial [PMID:17893648]\nSEC61G −0.914 0.00045\nNDUFB3 −0.914 0.00052 Mitochondrial [PMID:12611891]\nFXC1 −0.913 0.00053 Mitochondrial [PMID:14726512]\nATP5J −0.911 0.00054 Mitochondrial [PMID:12110673]\nGNG10 −0.911 0.00058\nTXNDC9 −0.911 0.00059\nMRPS23 −0.910 0.00059 Mitochondrial ribosomal protein\nENY2 −0.910 0.00059\nPSMB2 −0.909 0.00060",
+   "table_id": "PMC4480911_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    592.8,
+    366.2,
+    926.2
+   ],
+   "ocr": "with PC1 (Score = 0.89, local-FDR = 6.00 × 10−4), and is also a known repressor for the basal layer marker KRT14 [28], which correlated negatively with PC1 (Score = −0.68, local-FDR ~ 0). To conclude, differenti- ation and the mitochondrial phenotypes are possible interpretations of the PC1 and can be explained by the fluctuation of transcription factors that were clearly as- sociated to sample types. PC2 depicts the contrast between EKCs and HaCaTs PC2 captured the second largest variation which mostly shows the contrast between HaCaTs and EKCs, with intermediate LKCs (Fig. 4). Three thousand nine hundred sixty nine genes correlated positively with PC2 and were thus expressed at higher level in EKCs (Additional file 9: Table S6), and six of the top 10 positively correlated genes were polyA+ RNA binding proteins (Table 4). In contrast, there were no negatively correlated genes that would ap- pear upregulated in HaCaT, which may depend on the fact that HaCaTs and LKCs had less polyA+ RNA than EKCs (Fig. 2a). Accordingly, PC-GSEA towards PC2 revealed 23 positively correlating and only two negatively correlating"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    594.9,
+    678.7,
+    926.2
+   ],
+   "ocr": "gene sets (Table 5 and Additional file 10: Table S7). When we investigated associations in the correlating genes and the gene sets as an interpretation of PC2, we found that the PC2 explained the difference of G1/S-transition between the EKCs and HaCaTs both through negative and positive correlation. First, the genes that bear H3K27me3 in ES cells and have high-CpG-density promoter, showed negative correlation (i.e. upregulation in HaCaTs; MIKKELSEN_ES_HCP_WITH_H3K27ME3; q-value FDR ~ 0) [29]; the genes with H3K27me3 marks have actually been shown to be transcribed at G1/S- and S-phases in HaCaTs. Second, target genes of RB1, which is known to be negative regulator of the S-phase entry, showed positive correlation (i.e. upregulation in EKCs; EGUCHI_ CELL_CYCLE_RB1_TARGETS, q-value FDR = 4.76 × 10−3) [30]. Then we proceeded to find genes that are the key regulators for the functional contrast on PC2. 137 genes showed high positive loading to PC2, and 111 genes showed negative loading (three sigma; Additional file 11: Table S8). Among them, five positive loading genes and nine negative ones were transcription factors (Fig. 5a)."
+  }
+ }
+}

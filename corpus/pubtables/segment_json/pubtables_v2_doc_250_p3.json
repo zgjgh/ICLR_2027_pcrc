@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_250",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "caption",
+   "bbox": [
+    248.5,
+    116.8,
+    717.4,
+    141.9
+   ],
+   "ocr": "Table 3 Comparison of the optimal ﬂux values for the TCA cycle model as calculated by FluxPyt and OpenFLUX."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    243.9,
+    151.2,
+    721.1,
+    484.0
+   ],
+   "ocr": "Reaction ID Reaction formula FluxPyt OpenFLUX\nV01 PYR_EX -> PYR 1.00 1.00\nV02 GLU_EX -> AKG 0.20 0.20\nV03 PYR -> ACCOA + CO2 + NADH 0.62 0.62\nV04 ACCOA + OAA -> ICI 0.62 0.62\nV05 ICI -> AKG + CO2 + NADH 0.62 0.62\nV06 AKG -> 0.5 SUC + 0.5 SUC + CO2 + NADH + ATP 0.59 0.59\nV07 SUC -> OAA + FADH2 + NADH 2.62 2.61\nV08 OAA + FADH2 + NADH -> 0.5 SUC + 0.5 SUC 2.02 2.02\nV09 OAA -> PYR + CO2 0.30 0.30\nV10 PYR + CO2 + ATP -> OAA 0.48 0.48\nV11 2 NADH + O2 -> 4 ATP 1.21 1.21\nV12 2 FADH2 + O2 -> 2 ATP 0.30 0.30\nV13 O2_EX -> O2 1.51 1.51\nV14 CO2 -> CO2_EX 1.65 1.65\nV15 ATP -> ATPM 5.56 5.54\nV16 PYR -> PYR_B 0.20 0.20\nV17 AKG -> AKG_B 0.23 0.23\nV18 OAA -> OAA_B 0.15 0.15",
+   "table_id": "PMC5933345_table_2"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    42.7,
+    508.6,
+    730.0,
+    957.7
+   ],
+   "ocr": "on the template, is shown in Fig. 2. The Monte-Carlo analysis suggested tight CIs for the TCA model (Fig. 3). The reversible reaction spanned the entire ﬂux range, as expected. The optimal values for all ﬂuxes lay within 2.5 and 97.5 percentile range, i.e., the 95% CI (Table 4). MFA of C. glutamicum metabolic network The C. glutamicum model (Quek et al., 2009) consisted of 67 reactions, 42 metabolites and 25 free ﬂuxes (see Data S1 for a detailed description of the model as well as a list of metabolites). The ﬂux measurements for 18 reactions were included in the model. The 24 variable parameters were ﬁt to the 29 data points of amino acid labeling pattern. Here too, the calculated ﬂuxes were similar to those calculated by OpenFLUX (Table S2). The SSR values for the measured vs. calculated MIDs were similar for FluxPyt (690) and OpenFLUX (701) (Table 5). However, the SSR values for both the software were higher than the maximum acceptable SSR value (11.07), suggesting that either the model used was incorrect or there were measurement errors. Use of a recent MID data (Shupletsov et al., 2014), reduced the SSR to 10.33 (Table 6), which is within the acceptable range (1.15–11.07). This showed that the MID data previously used had measurement errors. The Fig. 4 shows the ﬂux map for the C. glutamicum model for this data (see Table S3) for the list of ﬂux values. The CIs calculated with Monte-Carlo method are shown in Table S4. Our results show that FluxPyt can be used for performing MFA with real metabolic models. It is capable of ﬂux estimation when multiple labeled substrates are used Desai and Srivastava (2018), PeerJ, DOI 10.7717/peerj.4716 8/16"
+  }
+ }
+}

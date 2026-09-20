@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_365",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3224899_table_0",
+   "page_num": 1,
+   "bbox": [
+    157.4,
+    663.8,
+    593.2,
+    919.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3224899_table_0.png",
+   "html": "<table><tr><td colspan=\"2\">STARTING INSULIN INFUSION RATE SCALE</td></tr><tr><td>Glycemia</td><td>Starting insulin infusion rate</td></tr><tr><td>&lt;6.1 mmol/L</td><td>On hold</td></tr><tr><td>6.1&#8211;7.8 mmol/L</td><td>1 U/h</td></tr><tr><td>7.8&#8211;10.0 mmol/L</td><td>2 U/h</td></tr><tr><td>&gt;10.0 mmol/L</td><td>4 U/h</td></tr><tr><td colspan=\"2\">MAINTENANCE INFUSION RATE CHANGES</td></tr><tr><td>Glycemia</td><td>Incremental insulin infusion rate</td></tr><tr><td>&gt;16.7 mmol/L</td><td>+3 U/h</td></tr><tr><td>10.0&#8211;16.7 mmol/L</td><td>+2 U/h</td></tr><tr><td>7.8&#8211;10.0 mmol/L</td><td>+1 U/h</td></tr><tr><td>6.1&#8211;7.8 mmol/L</td><td>+0.5 U/h</td></tr><tr><td>4.4&#8211;6.1 mmol/L</td><td>+0 U/h (target range)</td></tr><tr><td>2.2&#8211;4.4 mmol/L</td><td>Stop insulin, Hourly measurement of glycemia until &gt;80 mg/dl</td></tr><tr><td>&lt;2.2 mmol/L</td><td>Stop insulin, 10 gr glucose IVD, Call physician immediately, Hourly measurement of glycemia until &gt;80 mg/dl</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3224899_table_1",
+   "page_num": 2,
+   "bbox": [
+    164.9,
+    156.5,
+    600.8,
+    412.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3224899_table_1.png",
+   "html": "<table><tr><td colspan=\"2\">STARTING INSULIN INFUSION RATE SCALE</td></tr><tr><td>Glycemia</td><td>Starting insulin infusion rate</td></tr><tr><td>&lt;10.0 mmol/L</td><td>On hold</td></tr><tr><td>10.0&#8211;13.9 mmol/L</td><td>1 U/h</td></tr><tr><td>13.9&#8211;16.7 mmol/L</td><td>2 U/h</td></tr><tr><td>&gt;16.7 mmol/L</td><td>4 U/h</td></tr><tr><td colspan=\"2\">MAINTENANCE INFUSION RATE CHANGES</td></tr><tr><td>Glycemia</td><td>Incremental insulin infusion rate</td></tr><tr><td>&gt;16.7 mmol/L</td><td>+3 U/h</td></tr><tr><td>13.9&#8211;16.7 mmol/L</td><td>+2 U/h</td></tr><tr><td>10.0&#8211;13.9 mmol/L</td><td>+1 U/h</td></tr><tr><td>7.8&#8211;10.0 mmol/L</td><td>+0 U/h (target range)</td></tr><tr><td>4.4&#8211;7.8 mmol/L</td><td>Decrease 50% rate insulin</td></tr><tr><td>2.2&#8211;4.4 mmol/L</td><td>Stop insulin, Hourly measurement of glycemia until &gt;80 mg/dl</td></tr><tr><td>&lt;2.2 mmol/L</td><td>Stop insulin, 10 gr glucose IVD, Call physician immediately, Hourly measurement of glycemia until &gt;80 mg/dl</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3224899_table_2",
+   "page_num": 3,
+   "bbox": [
+    148.2,
+    690.8,
+    591.6,
+    919.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3224899_table_2.png",
+   "html": "<table><tr><td>Cohort</td><td>A</td><td>B</td><td>P value</td></tr><tr><td colspan=\"4\">Baseline Variables</td></tr><tr><td>Number patients</td><td>142</td><td>69</td><td></td></tr><tr><td>Male percent (%)</td><td>64.8</td><td>56.5</td><td>0.25</td></tr><tr><td>Age</td><td>71 [61 - 80]</td><td>69 [53 - 77]</td><td>0.035</td></tr><tr><td>Weight</td><td>72 [62 - 85]</td><td>75 [68 - 81]</td><td>0.38</td></tr><tr><td>BMI</td><td>25.4 [22.6 - 29.3]</td><td>26.0 [23.2 - 29.3]</td><td>0.46</td></tr><tr><td>APACHE II</td><td>17 [14 - 22]</td><td>17 [14 - 21]</td><td>0.76</td></tr><tr><td>Initial BG (mmol/L)</td><td>6.6 [5.6 - 8.6]</td><td>6.6 [5.7 - 9.4]</td><td>0.58</td></tr><tr><td colspan=\"4\">Glucose Control</td></tr><tr><td>Total hours</td><td>16, 831</td><td>12, 946</td><td></td></tr><tr><td>BG measurements</td><td>4, 571</td><td>2, 820</td><td></td></tr><tr><td>BG (mmol/L)</td><td>6.3 [5.3 - 7.6]</td><td>8.2 [6.9 - 9.4]</td><td></td></tr><tr><td>Insulin rate (U/h)</td><td>1.5 [0.5 - 3.0]</td><td>0.7 [0.0 - 1.7]</td><td></td></tr><tr><td>Carbohydrate admin (all sources) (mmol/min)</td><td>0.30 [0.00 - 0.90]</td><td>0.60 [0.10 - 1.00]</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3224899_table_3",
+   "page_num": 4,
+   "bbox": [
+    148.2,
+    769.9,
+    597.1,
+    919.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3224899_table_3.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Clinical</td><td colspan=\"2\">Self validation</td><td rowspan=\"2\">Cross validation Per-Protocol</td></tr><tr><td></td><td>Actual Measurement</td><td>Per-Protocol</td></tr><tr><td>No. of patients</td><td>142</td><td>142</td><td>142</td><td>69</td></tr><tr><td colspan=\"5\">Per Patient Results</td></tr><tr><td>Insulin rate (U/h)</td><td>1.4 [0.9 - 2.1]</td><td>1.8 [1.1 - 2.9]</td><td>2.5 [1.5 - 4.1]</td><td>4.5 [2.3 - 6.5]</td></tr><tr><td>Glucose rate (g/h)</td><td>1.1 [0.5 - 7.6]</td><td>1.1 [0.5 - 7.6]</td><td>1.1 [0.5 - 7.6]</td><td>2.9 [0.7 - 7.4]</td></tr><tr><td>BG (mmol/L)</td><td>6.4 [5.9 - 6.9]</td><td>6.2 [5.7 - 6.8]</td><td>6.2 [5.7 - 6.8]</td><td>6.5 [6.0 - 6.9]</td></tr><tr><td>BG measures</td><td>4564</td><td>4564</td><td>9467</td><td>7259</td></tr><tr><td>Measurement frequency (measurement/patient/day)</td><td>6.52</td><td>6.52</td><td>13.54</td><td>13.48</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3224899_table_4",
+   "page_num": 5,
+   "bbox": [
+    148.2,
+    769.9,
+    597.1,
+    919.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3224899_table_4.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Clinical</td><td colspan=\"2\">Self validation</td><td rowspan=\"2\">Cross validation Per protocol</td></tr><tr><td></td><td>Actual measurement</td><td>Per protocol</td></tr><tr><td>No. of patients</td><td>69</td><td>69</td><td>69</td><td>142</td></tr><tr><td colspan=\"5\">Per Patient Results</td></tr><tr><td>Insulin rate (U/h)</td><td>0.6 [0.3 - 1.2]</td><td>0.5 [0.2 - 1.0]</td><td>0.6 [0.2 - 1.4]</td><td>0.2 [0.0 - 0.8]</td></tr><tr><td>Glucose rate (g/h)</td><td>2.9 [0.7 - 7.4]</td><td>2.9 [0.7 - 7.4]</td><td>2.9 [0.7 - 7.4]</td><td>1.1 [0.5 - 7.5]</td></tr><tr><td>BG (mmol/L)</td><td>8.3 [7.6 - 8.8]</td><td>8.4 [7.8 - 9.1]</td><td>8.7 [8.1 - 9.5]</td><td>8.3 [7.4 - 9.1]</td></tr><tr><td>BG measures</td><td>2820</td><td>2820</td><td>4448</td><td>5772</td></tr><tr><td>Measurement frequency (measurement/patient/day)</td><td>5.23</td><td>5.23</td><td>8.23</td><td>8.23</td></tr></table>"
+  }
+ ]
+}

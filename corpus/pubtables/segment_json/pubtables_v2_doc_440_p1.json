@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_440",
+  "page": 1,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    58.9,
+    54.7,
+    648.3,
+    70.5
+   ],
+   "ocr": "Sensors 2015, 15 8274"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    256.3,
+    396.9,
+    451.2,
+    412.8
+   ],
+   "ocr": "Figure 5. Gas leakage simulation."
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    75.8,
+    664.9,
+    512.1,
+    749.6
+   ],
+   "ocr": "Figure 6. Experimental apparatus (schematic diagram). Table 1 summarizes the main characteristics of the two plates. Table 1. Plates’ main characteristics."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    66.4,
+    760.1,
+    640.1,
+    811.3
+   ],
+   "ocr": "Material Modulus of Elasticity E (KN/mm2) Poisson’s Ratio σ Density ρ (g·cm−3)\n302 Stainless steel 210 0.305 7.93\nMagnesium aluminum alloy 40 0.275 <1.8",
+   "table_id": "PMC4431251_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    831.7,
+    648.6,
+    908.2
+   ],
+   "ocr": "The calculated values for the 302 stainless steel plate are 5826 m/s (c1) and 3115 m/s (cs) respectively. For the magnesium aluminum alloy plate, cl is 5991 m/s, and cs is 3266 m/s. By substituting these values into the dispersion equation [29], using the MATLAB® software, the c(f) of the two materials can be calculated. The c(f) curves are shown in Figure 7."
+  }
+ }
+}

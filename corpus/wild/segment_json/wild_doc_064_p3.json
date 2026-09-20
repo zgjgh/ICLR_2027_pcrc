@@ -1,0 +1,64 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_064",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    71.0,
+    580.0,
+    117.0
+   ],
+   "ocr": "The first table presents MIP and source data categorized under Assessable, NSVC, and Total, with Assessable showing values of 599 for MIP, 0 for NSVC, totaling 599; NSVC has values of 6 for MIP, 3 for NSVC, totaling 9; and the Total row indicates 605 for MIP, 3 for NSVC, totaling 608."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    143.0,
+    580.0,
+    291.0
+   ],
+   "ocr": "MIP and source data Total\nMIP Assessable NSVC\nAssessable 599 0 599\nNSVC 6 3 9\nTotal 605 3 608\nDifference in proportions (95% confidence intervals) -0.010 (-0.010 to -0.001)\nTwo-tailed p (McNemar) 0.031",
+   "table_id": "img_071242_t0"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    321.0,
+    580.0,
+    615.0
+   ],
+   "ocr": "1. Manually abstracted database, # of subjects 2. EHR extract-ion, # of subjects 3. Discrepancy (% and # of subjects) between the databases a 4. Manually abstracted database errors 5. EHR-extracted data errors 6. Median discrepancy 7. Discrepancy range\n1st WBC count b 1257 1437 3.2 % (40) 2.5 %(32) 0.6 % (8) c*** 0.75 k/mm3 0.01–109 k/mm3\n1st Hemoglobin 1333 1460 11.9 % (158) 5.8 % (77) 8.3 % (110) d * 1.4 g/dl 0.1–25.9 g/dl\nPeak total bilirubin 1565 1336 11.4 % (152) 6.9 % (92) 5.1 % (68) e * 1.45 mg/dl 0.1–15.2 mg/dl\nPeak direct bilirubin 681 674 4.9 % (33) 4.5 % (30) 0.9 % (6) f **** 0.5 mg/dl 0.1–16.4 mg/dl\nPDA 512 414 12.8 % (53) 12.8 %(53) 8.2 % (34) g *** NA NA",
+   "table_id": "img_071242_t1"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    631,
+    580,
+    705
+   ],
+   "ocr": "The difference in proportions is reported as -0.010 with a confidence interval from -0.010 to -0.001, while the two-tailed p value (McNemar) is 0.031. In the second table, the data covers various parameters with the first WBC count showing 1257 subjects from the manually abstracted database and 1437 from EHR extraction, presenting a discrepancy of 3.2% (40 subjects), with manually abstracted database errors at 2.5% (32) and EHR-extracted data errors at 0.6% (8), a median discrepancy of 0.75 k/mm3 and a discrepancy range of 0.01–109 k/mm3."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    693,
+    580,
+    766
+   ],
+   "ocr": "The 1st Hemoglobin counts 1333 and 1460 subjects respectively, with discrepancies at 11.9% (158), errors of 5.8% (77) and 8.3% (110) respectively, a median of 1.4 g/dl, range 0.1–25.9 g/dl. Peak total bilirubin has 1565 and 1336 subjects, with 11.4% (152) discrepancy, errors of 6.9% (92) and 5.1% (68), median 1.45 mg/dl, range 0.1–15.2 mg/dl. Peak direct bilirubin has 681 and 674 subjects with 4.9% (33) discrepancy and 4.5% (30) errors and PDA shows 512 and 414 subjects with 12.8% (53) discrepancies and errors at 12.8% (53)."
+  }
+ }
+}

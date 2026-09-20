@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_049",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    118,
+    580,
+    176
+   ],
+   "ocr": "The analysis presented in the accompanying table explores the relationship between various predictors and their corresponding regression coefficients, standard errors, and standardized coefficients over specified time intervals. This assessment is particularly relevant in understanding the impact of baseline indicators (BI) on outcomes measured at two weeks, three months, and six months."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    164,
+    580,
+    238
+   ],
+   "ocr": "Notably, the regression coefficient for the intercept is reported at −86.124, with a standard error of 17.761, indicating a statistically significant finding with a p-value of 0.000. These metrics suggest robust predictive power, underscoring the importance of the intercept in the model's overall fit. Additionally, the table highlights the measures recorded at various follow-up periods, specifically noting the values for the two weeks (n=26), three months (n=23), and six months (n=22) assessments."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    290.0,
+    580.0,
+    473.0
+   ],
+   "ocr": "Predictors Regression coefficient Standard error Standardized coefficient P\nIntercept −86.124 17.761 0.000\nSex −23.627 11.957 −0.780 0.055\nAge 0.940 0.196 0.602 0.000\nSDI at peak dose −4.265 1.374 −0.606 0.004\nlogNT-proBNP −0.154 0.044 −0.295 0.001\nLVMI −0.082 0.117 −0.333 0.488\nSWS −0.009 0.043 −0.023 0.827\nR2=0.815",
+   "table_id": "img_054597_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    513.0,
+    580.0,
+    682.0
+   ],
+   "ocr": "Change from baseline OT—control (SE) 95% CI\nMeasure 2 weeks(n=26) 3 months(n=23) 6 months(n=22)\nBI 0.7 (1.08)−1.52 to 2.93 −0.13 (1.33)−2.91 to 2.65 0.28 (1.12)−2.06 to 2.61\nNEADL −2.43 (4.59)−11.92 to 7.07 3.72 (4.58)−5.83 to 13.27 1.58 (5.28)−9.47 to 12.64\nEQ5D 0.06 (0.17)−0.30 to 0.42 −0.03 (0.15)−0.35 to 0.28 0.23 (0.22)−0.23 to 0.69\nASCOT 0.07 (0.08)−0.09 to 0.23 0.06 (0.11)−0.18 to 0.30 0.04 (0.10)−0.17 to 0.25\nSF-36 PCS 3.63 (3.38)−3.36 to 10.64 1.52 (4.75)−8.43 to 11.47 0.09 (5.33)−11.06 to 11.24\nSF-36 MCS 6.60 (4.53)−2.80 to 16.00 7.84 (3.17)1.17 to 14.51* 3.39 (4.90)−6.88 to 13.66",
+   "table_id": "img_054597_t1"
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Such longitudinal data provide valuable insights into the temporal dynamics of the predictors' effects. The standardized coefficient further elucidates the relative strength of these predictors, allowing for a comparative analysis across different time points."
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    47,
+    751,
+    544,
+    763
+   ],
+   "ocr": "Collectively, these metrics form a critical foundation for interpreting the effectiveness of interventions over time."
+  }
+ }
+}

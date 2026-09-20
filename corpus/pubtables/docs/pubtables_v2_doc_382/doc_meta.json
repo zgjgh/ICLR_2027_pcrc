@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_382",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3364341_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    687.5,
+    231.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3364341_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Model</td><td colspan=\"2\">SE (RF/SVM)</td><td colspan=\"2\">SP (RF/SVM)</td><td colspan=\"2\">CO (RF/SVM)</td><td colspan=\"2\">AUC (RF/SVM)</td></tr><tr><td>Training</td><td>Test</td><td>Training</td><td>Test</td><td>Training</td><td>Test</td><td>Training</td><td>Test</td></tr><tr><td>Model I</td><td>79.58%/76.31%</td><td>80.99%/77.50%</td><td>84.11%/85.85%</td><td>84.66%/85.91%</td><td>81.84%/81.08%</td><td>82.83%/81.71%</td><td>89.50/88.97</td><td>90.55/89.91</td></tr><tr><td>Model II</td><td>81.18%/77.66%</td><td>73.66%/74.11%</td><td>83.89%/86.11%</td><td>83.52%/85.49%</td><td>82.50%/81.78%</td><td>79.09%/80.38%</td><td>90.31/89.79</td><td>86.50/87.19</td></tr><tr><td>Model III</td><td>81.33%/77.56%</td><td>52.20%/55.17%</td><td>83.22%/85.35%</td><td>92.15%/93.62%</td><td>82.25%/81.34%</td><td>74.53%/76.66%</td><td>89.81/89.04</td><td>82.77/84.90</td></tr><tr><td>Model IV</td><td>71.90%/66.41%</td><td>32.52%/36.48%</td><td>90.25%/88.07%</td><td>91.21%/92.42%</td><td>82.46%/78.88%</td><td>66.09%/68.48%</td><td>88.99/85.62</td><td>72.64/75.47</td></tr><tr><td>Average</td><td>78.50%/74.49%</td><td>59.84%/60.82%</td><td>85.37%/86.35%</td><td>87.89%/89.36%</td><td>82.26%/80.77%</td><td>75.64%/76.81%</td><td>89.65/88.36</td><td>83.13/83.93</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3364341_table_1",
+   "page_num": 2,
+   "bbox": [
+    405.9,
+    814.1,
+    700.1,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3364341_table_1.png",
+   "html": "<table><tr><td>Dataset</td><td>SE (RF/BGL)</td><td>SP(RF/BGL)</td><td>CO(RF/BGL)</td><td>AUC(RF/BGL)</td></tr><tr><td>Enzyme</td><td>35.82%/57.40%</td><td>82.70%/99.50%</td><td>59.26%/&#8211;&#8211;</td><td>67.43/90.40</td></tr><tr><td>GPCR</td><td>80.31%/23.40%</td><td>55.64%/99.90%</td><td>67.98%/&#8211;&#8211;</td><td>72.95/89.90</td></tr><tr><td>Ion channel</td><td>54.09%/27.10%</td><td>73.38%/99.60%</td><td>63.73%/&#8211;&#8211;</td><td>66.58/85.10</td></tr><tr><td>Nuclear receptor</td><td>91.57%/14.80%</td><td>39.76%/99.90%</td><td>65.66%/&#8211;&#8211;</td><td>82.29/84.30</td></tr><tr><td>Average</td><td>47.51%/&#8211;&#8211;</td><td>74.93%/&#8211;&#8211;</td><td>61.64%/&#8211;&#8211;</td><td>66.68/&#8211;&#8211;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3364341_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    735.3,
+    660.0,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3364341_table_2.png",
+   "html": "<table><tr><td>Protein name (UniProt ID)</td><td>Drug generic name (DrugBank ID)</td><td>Binding score</td></tr><tr><td>NAD(P)H dehydrogenase [quinone] 1 (P15559)</td><td>Flavin-N7 protonated-adenine dinucleotide (DB02332)</td><td>0.996</td></tr><tr><td>NAD(P)H dehydrogenase [quinone] 1 (P15559)</td><td>NADH (DB00157)</td><td>0.994</td></tr><tr><td>Alcohol dehydrogenase [NADP+] (P14550)</td><td>NADH (DB00157)</td><td>0.992</td></tr><tr><td>Prostaglandin G/H synthase 1 (P23219)</td><td>Bromfenac (DB00963)</td><td>0.992</td></tr><tr><td>Prostaglandin G/H synthase 1 (P23219)</td><td>D-allopyranose (DB03989)</td><td>0.990</td></tr><tr><td>Cholinesterase (P06276)</td><td>Beta-D-Glucose (DB02379)</td><td>0.988</td></tr><tr><td>Cholinesterase (P06276)</td><td>D-Allopyranose (DB03989)</td><td>0.986</td></tr><tr><td>Asparagine synthetase [glutamine-hydrolyzing] (P08243)</td><td>Indomethacin (DB00328)</td><td>0.984</td></tr><tr><td>Prostaglandin G/H synthase 1 (P23219)</td><td>Oxyphenbutazone (DB03585)</td><td>0.982</td></tr><tr><td>Prostaglandin G/H synthase 2 (P35354)</td><td>Oxyphenbutazone (DB03585)</td><td>0.982</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3364341_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    577.9,
+    635.3,
+    904.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3364341_table_3.png",
+   "html": "<table><tr><td>Protein name</td><td>UniProt ID</td><td>Binding score</td></tr><tr><td>Beta-1 adrenergic receptor</td><td>P08588</td><td>0.820</td></tr><tr><td>Carbonic anhydrase 2</td><td>P00918</td><td>0.810</td></tr><tr><td>Prothrombin</td><td>P00734</td><td>0.804</td></tr><tr><td>Alpha-2A adrenergic receptor</td><td>P08913</td><td>0.802</td></tr><tr><td>Prostaglandin G/H synthase 2</td><td>P35354</td><td>0.800</td></tr><tr><td>Dipeptidyl peptidase 4</td><td>P27284</td><td>0.798</td></tr><tr><td>Acetylcholinesterase</td><td>P22303</td><td>0.796</td></tr><tr><td>Nitric-oxide synthase, endothelial</td><td>P29474</td><td>0.794</td></tr><tr><td>Beta-2 adrenergic receptor</td><td>P07550</td><td>0.794</td></tr><tr><td>Prostaglandin G/H synthase 1</td><td>P23219</td><td>0.784</td></tr><tr><td>Gag-Pol polyprotein</td><td>P12497</td><td>0.778</td></tr><tr><td>Nitric oxide synthase, inducible</td><td>P35228</td><td>0.770</td></tr><tr><td>Glutamate receptor 2</td><td>P42262</td><td>0.770</td></tr><tr><td>Alpha-2C adrenergic receptor</td><td>P18825</td><td>0.768</td></tr><tr><td>5-hydroxytryptamine 2A receptor</td><td>P28223</td><td>0.766</td></tr><tr><td>Alpha-1A adrenergic receptor</td><td>P35348</td><td>0.764</td></tr><tr><td>cAMP-dependent protein kinase catalytic subunit alpha</td><td>P17612</td><td>0.760</td></tr><tr><td>Gag-Pol polyprotein</td><td>P03366</td><td>0.758</td></tr><tr><td>Gamma-aminobutyric-acid receptor subunit alpha-1</td><td>P14867</td><td>0.754</td></tr><tr><td>Gag-Pol polyprotein</td><td>P03367</td><td>0.752</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3364341_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    724.4,
+    373.3,
+    904.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3364341_table_4.png",
+   "html": "<table><tr><td>Drug generic name</td><td>DrugBank ID</td><td>Binding score</td><td>Cluster</td></tr><tr><td>NADH</td><td>DB00157</td><td>0.870</td><td>A</td></tr><tr><td>Nicotinamide-Adenine-Dinucleotide</td><td>DB01907</td><td>0.848</td><td>A</td></tr><tr><td>Adenosine-59-Diphosphate</td><td>DB03431</td><td>0.844</td><td>A</td></tr><tr><td>Guanosine-59-Diphosphate</td><td>DB04315</td><td>0.808</td><td>A</td></tr><tr><td>Acetate Ion</td><td>DB04184</td><td>0.792</td><td>B</td></tr><tr><td>Mesoheme</td><td>DB02577</td><td>0.786</td><td>C</td></tr><tr><td>Heme</td><td>DB03014</td><td>0.786</td><td>C</td></tr><tr><td>Idoxuridine</td><td>DB00249</td><td>0.762</td><td>B</td></tr><tr><td>Pentostatin</td><td>DB00552</td><td>0.656</td><td>D</td></tr><tr><td>1-Beta-Ribofuranosyl-1,3-Diazepinone</td><td>DB03185</td><td>0.622</td><td>D</td></tr></table>"
+  }
+ ]
+}

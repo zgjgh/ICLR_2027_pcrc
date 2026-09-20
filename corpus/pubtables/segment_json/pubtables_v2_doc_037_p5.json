@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_037",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    455.6,
+    50.6,
+    700.5,
+    62.6
+   ],
+   "ocr": "Available online http://ccforum.com/content/13/2/R57"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    70.5,
+    105.2,
+    328.7,
+    140.9
+   ],
+   "ocr": "Table 5 Sensitivity analysis for ICU mortality in CRRT patients"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    75.5,
+    152.5,
+    691.3,
+    654.8
+   ],
+   "ocr": "CRRT dose expressed as Unadjusted OR with 95% CI P value Adjusted OR with 95% CI P value\nRaw value (ml/kg/hour) 1.00 (0.98 to 1.02) 0.827 0.99 (0.97 to 1.02) 0.583\nIncrement of 10 ml/kg/hour 1.05 (0.87 to 1.26) 0.638 0.98 (0.79 to 1.23) 0.879\nLiterature cut-offs\n≤ 20 ml/kg/hour (ref.) 1.00 1.00\n21 to 34 ml/kg/hour 1.09 (0.61 to 1.93) 0.768 0.79 (0.40 to 1.55) 0.492\n≥ 35 ml/kg/hour 1.50 (0.76 to 2.98) 0.245 1.00 (0.45 to 2.24) 0.995\nLess-intensive (< 35 ml/kg/hour) (ref.) 1.00 1.00\nMore-intensive (≥ 35 ml/kg/hour) 1.41 (0.83 to 2.38) 0.204 1.21 (0.66 to 2.21) 0.537\n≤ 20 ml/kg/hour (ref.)\n> 20 ml/kg/hour 1.19 (0.68 to 2.07) 0.546 0.84 (0.43 to 1.61) 0.595\nTertiles\n1st tertile (≤ 23.5 ml/kg/hour) (ref.) 1.00 1.00\n2nd tertile (23.6 to 30.9 ml/kg/hour) 0.71 (0.42 to 1.20) 0.206 0.67 (0.37 to 1.23) 0.196\n3rd tertile (≥ 31 ml/kg/hour) 1.32 (0.78 to 2.24) 0.306 1.11 (0.60 to 2.06) 0.734\n1st+2nd tertiles (ref.)\n3rd tertile 1.56 (0.98 to 2.48) 0.058 1.36 (0.79 to 2.32) 0.268\nMedian\n< Median (ref.) 1.00 1.00\n≥ Median (≥ 27.1 ml/kg/hour) 0.99 (0.64 to 1.51) 0.945 0.82 (0.49 to 1.35) 0.433\nCRRT dose in first 24 hours\nLess-intensive (< 35 ml/kg/hour) (ref.) 1.00 1.00\nMore-intensive (≥ 35 ml/kg/hour) 1.02 (0.65 to 1.62) 0.918 0.96 (0.57 to 1.60) 0.866\nCRRT dose in first 48 hours\nLess-intensive (< 35 ml/kg/hour) (ref.) 1.00 1.00\nMore-intensive (≥ 35 ml/kg/hour) 1.08 (0.68 to 1.74) 0.737 1.03 (0.60 to 1.76) 0.915",
+   "table_id": "PMC2689504_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.5,
+    663.1,
+    386.1,
+    904.9
+   ],
+   "ocr": "CI = confidence interval; CRRT = continuous renal replacement therapy; clinical trials [4,7-9]. Whether having several patients in this 'intermediate' zone served to dilute the true clinical effect of RRT dose remains unclear. It has been suggested that only major changes in the application of dose can be reasonably expected to have a discernible clinical effect [28]. For exam- ple, the difference between a delivered CRRT dose of 30 and 35 ml/kg/hour may be too subtle, or could be criticised for being within a calculation error. However, we performed a vari- ety of analyses which included expressing dose in increments of 10 ml/kg/hour (arbitrarily considered a 'significant' incre- ment), or as categories based on cut-offs from the literature or on statistical spread (e.g. tertiles, median), and failed to find a significant effect on ICU mortality (Table 5). It is also possible that therapy in the first 24 to 48 hours is more crucial with respect to patient outcome. We therefore performed a post-"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    388.8,
+    663.1,
+    700.6,
+    919.7
+   ],
+   "ocr": "ICU = intensive care unit; OR = odds ratio. hoc sensitivity analysis looking at CRRT dose during these periods (Table 5), and this did not significantly alter the results. It has been suggested that septic patients may be a specific population which could benefit from higher RRT dose [4,11]. In our post-hoc analysis, the effect of RRT dose on mortality was similar in both septic and non-septic patients (Table 6). It is also possible that more-intensive RRT only benefits patients with an intermediate severity of illness, as suggested by Paganini and colleagues [29]. We performed two sensitivity analyses to address this. First, we limited the analysis only to patients with SAPS scores between 45 and 60, in whom the predicted mortality ranges from 35 to 60%. In five studies eval- uating the effects of CRRT dose, mean acute physiology and chronic health evaluation (APACHE) II scores ranged from 22 to 26, giving predicted mortality rates of 42 to 57% in this"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    549.4,
+    954.5,
+    700.4,
+    978.8
+   ],
+   "ocr": "Page 9 of 14 (page number not for citation purposes)"
+  }
+ }
+}

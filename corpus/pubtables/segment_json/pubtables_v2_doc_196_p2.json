@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_196",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    241.7,
+    51.8
+   ],
+   "ocr": "Yang et al. Molecular Autism (2016) 7:11"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 4 of 14"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.0,
+    927.7
+   ],
+   "ocr": "scans for ghosting and blurring. The inspection was per- formed with only the subject’s ID number, so that the raters were blind to information regarding diagnostic group, age, and IQ. Seven scans (6 ASD and 1 TD) were excluded because of severe ghosting/blurring due to head motion. Analytic approach We performed group comparisons via GLM analyses using FreeSurfer in a two-step, step-down analytical ap- proach. Age was demeaned in all analyses to ensure that results of the between-group difference refer to anatomy at mean age of the sample rather than age = 0 years. In the first step, we tested an age-by-diagnosis linear age interaction model using the DODS (“different offset, dif- ferent slope”) method and the following GLM equation at every vertex: measure = b0 + b1 × age + b2 × diagno- sis + b3 × age × diagnosis + error. The goal of the first step is to identify clusters of significant age-by-diagnosis interaction (that is, b3). In the second step, we screened out the clusters identified in the first step (if any) and tested everywhere else in the cortex using a simpler, between-group main effect model (that is, without the interaction term), the DOSS (“different offset, same slope”) method, and the following GLM equation: measure = b0 + b1 × age + b2 × diagnosis + error. The goal of the second step is to identify clusters of signifi- cant between-group difference independent of age (that is, b2). This step-down approach ensures that the clus- ters of significant between-group difference would not confound age-by-diagnosis interaction and thus in- creases the interpretability of the results. The DOSS method was used to ensure that no interaction term was erroneously included in the second step. The dependent variables were the four cortical structural measures: CT, SA, CV, and CG, respectively. For CT, SA, and CV, a smoothing kernel of 15-mm FWHM was implemented. For CG, because the LGI as implemented in FreeSurfer is already smooth by default, no smoothing kernel (FWHM = 0 mm) was implemented. All analyses were performed on each hemisphere separately. To correct for multiple comparisons and identify significant clus- ters, a cluster analysis (Monte Carlo null-Z simulation) [74] was implemented at a threshold of p < 0.05, two- sided. The statistics for the surviving clusters were reported (e.g., size of the cluster, cluster p value, peak vertex t-statistic, peak vertex coordinates in the Talairach space), while scatterplots (for age-by-diagnosis inter- action effects) or boxplots (for diagnosis main effects) were generated to facilitate interpretation of the effects. Within the ASD group, we performed similar two- step, step-down GLM analyses with the SRS total raw score as a continuous measure of autistic traits. Age and SRS total raw scores were demeaned in all analyses."
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    229.3,
+    123.1
+   ],
+   "ocr": "Table 2 ASD group characteristics"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    367.1,
+    386.1
+   ],
+   "ocr": "Variable Mean (SD)\nADI-R (n = 56)\nSocial 20.50 (5.86)\nVerbal communication 16.55 (4.59)\nRepetitive 5.95 (2.32)\nADOS Module 2 (n = 2)\nSocial affect 13.00 (2.83)\nRepetitive behaviors 5.00 (0.00)\nTotal 18.00 (2.83)\nADOS Module 3 (n = 58)\nSocial affect 10.07 (3.47)\nRepetitive behaviors 2.74 (1.74)\nTotal 12.81 (4.12)\nADOS Calibrated Severity score (n = 60) 7.43 (1.74)\nSRS-parent total raw score (n = 58) 94.98 (30.30)",
+   "table_id": "PMC4727390_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    413.2,
+    367.5,
+    927.7
+   ],
+   "ocr": "white surface to the pial surface at each surface vertex. SA is measured by assigning an area to each vertex equal to the average of its surrounding triangles on the white sur- face [67]. CV is measured by the amount of gray matter volume that lies between the white surface and the pial surface [68]. CG is measured by the amount of cortex bur- ied within the sulcal folds as compared with the amount of cortex on the outer visible cortex. As computed in FreeSurfer with additional flags [39], CG is quantified by a local gyrification index (LGI) in a 3D space, which is an extension of the 2D gyrification index originally proposed by Ziilles et al. [69]. For example, a LGI of 2.7 means that there is 2.7 times more cortical surface invaginated within the sulci in the surrounding area than the amount of vis- ible cortical surface, while a LGI of 1 means that the cor- tex is flat in the surrounding area [70]. Most of the reconstruction procedure is automated and has been vali- dated against histological analysis [71] and manual meas- urement [72]. The structural measures are created using spatial intensity gradients across tissue classes (not re- stricted to the voxel resolution of the original data) and are capable of detecting sub-millimeter differences. Quality assurance In order to prevent any biases or confounds due to Free- Surfer version (workstation type or operating system version) [73], all reconstruction and segmentation com- putations were performed using computers of exactly the same workstation type and operating system (Dell PowerEdge M610 running CentOS 5.4) on the Yale High-Performance Computing cluster. Quality assurance of the reconstruction was achieved by visually inspecting the data from every participant. Two of the authors (DY and RJ) independently examined the structural MRI"
+  }
+ }
+}

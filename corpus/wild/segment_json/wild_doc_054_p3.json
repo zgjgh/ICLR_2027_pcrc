@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_054",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    10.0,
+    34.0,
+    394.0,
+    55.0
+   ],
+   "ocr": "The data presented in the accompanying table provides insights into the comparative performance of various G-protein alpha subunits across multiple organisms, including *Saccharomyces cerevisiae* and *Aspergillus*."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    10.0,
+    65.0,
+    394.0,
+    518.0
+   ],
+   "ocr": "Best hit overall S. cerevisiae S. pombe Animal Plant (Viridiplantae limited) Neurospora Aspergillus Fusarium Magnaporthe Cryphonectria\nGNA1 Hypocrea virens G-protein alpha subunit, 0.0, 100% (AA018659.1) Gpa2p, 2e-75, 43%, (NP_010937.1) gpa1, 2e-71, 42%, (CAA21150.1) Rattus norvegicus Gnai2, 4e-105, 55%, (NP_112297.1) Oryza sativa GPA-1, 2e-52, 37% (AAV43839.1) Neurospora crassa GNA-1, 0.0, 96%, (AAA02560.1) Aspergillus fumigatus GpaA, 0.0, 94% (EAL90646.1) Gibberella zeae PH-1, GBA1, 0.0, 98% (EAA75079.1) Magnaporthe grisea MAGB, 0.0, 97%, (AAB65426.1) Cryphonectria parasitica GPA1, 0.0, 98%, (Q00580)\nGNA2 Hypocrea virens G-protein alpha subunit, 0.0, 94% (AAN65182.1) Gpa2p, 3e-66, 41%, (NP_010937.1) gpa1, 7e-82, 47%, (CAA21150.1) Canis familiaris Guanine nucleotide-binding protein G(t), alpha-3 subunit, 8e-89, 48%, (XP849666.1) Pisum sativum GPA2, 3e-52, 35%, (AAM97353.1) Neurospora crassa GNA-2, 4e-163, 78% (CAD71253.1) Aspergillus fumigatus GanA, 3e-105, 53% (EAL92343.1) Gibberella zeae PH-1, hypothetical protein FG09988.1, 1e-169, 79% (EAA69333.1) Magnaporthe grisea MAGC, 9e-162, 77%, (AAB65427.1) Cryphonectria parasitica CPG-3, 6e-163, 77%, (AAM14395)\nGNA3 Trichoderma atroviride Tga3, 0.0, 96% (AAM69919.1) Gpa2p, 8e-105, 53%, (NP_010937.1) gpa2, 2e-83, 45%, (Q04665) Drosophila melanogaster GNA1, 4e-88, 48%, (P20353) Glycine max GPA-2, 5e-54, 33% (P93163) Neurospora crassa GNA-3, 0.0, 91% (EAA76506.1) Aspergillus fumigatus GpaB, 1e-154, 75% (EAL90625.1) Fusarium oxysporum fga1, 0.0, 90% (BAD44729.1) Magnaporthe grisea MAGA, 0.0, 87%, (AAB65425.1) Cryphonectria parasitica GPA1, 1e-93, 49%, (Q00580)\nGNB1 Trichoderma atroviride TGB1, 0.0, 98%, (AA037685.1) Ste4, G-protein beta subunit, 1e-72, 37% (P18851) gpb1, 3e-73, 44%, (Q10282) Caenorhabditis elegans gpb-1, 2e-137, 69% (P17343) Oryza sativa GBB, 1e-97, 48% (Q40687) Neurospora crassa GNB-1, 0.0, 91% (AAM53552.1) Aspergillus nidulans GBB, 5e-174, 84% (XP_657685.1) Fusarium oxysporum fgb1, 0.0, 98%, (AA091808.1) Magnaporthe grisea Mgb1, 0.0, 95% (BAC01165.1) Cryphonectria parasitica GB-1, 0.0, 94% (O14435)\nGNG1 Gibberella zeae PH-1, conserved hypothetical protein, 2e-35, 95% (EAA77833.1) None None None None Neurospora crassa GBG1, 5e-25, 81% (Q7RWTO) Aspergillus nidulans hypothetical protein AN2742.2, 2e-17, 67% (XP_660346.1) Gibberella zeae PH-1, conserved hypothetical protein, 2e-35, 95% (EAA77833.1) Magnaporthe grisea hypothetical protein MG10193.4, 6e-32, 84% (XP_365973.1) None",
+   "table_id": "img_058649_t0"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    10.0,
+    528.0,
+    394.0,
+    609.0
+   ],
+   "ocr": "Normal controls Deaf adolescents\nNumber 15 15\nMale/female 8/7 8/7\nMean age (years) 14.81 14.32\nStandard deviation (SD) age (years) 2.07 2.24\nAge range (years) 10~18 10~18",
+   "table_id": "img_058649_t1"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    10.0,
+    620.0,
+    394.0,
+    706.0
+   ],
+   "ocr": "Fasting and/or predinner SMBG PG value (mmol/L) Adjustment\n<5.0 -2 U\n5.0 to 7.0 No adjustment\n7.1 to 7.7 +2 U\n7.8 to 10 +4 U\n>10 +6 U",
+   "table_id": "img_058649_t2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    10,
+    717,
+    394,
+    756
+   ],
+   "ocr": "Notably, the column titled \"Best hit overall\" highlights the most significant matches, which are essential for understanding evolutionary relationships and functional similarities among these proteins. For instance, the G-protein alpha subunit of *Hypocrea virens*, identified as GNA1, demonstrates a remarkable 100% similarity with the reference sequence AA018659.1, underscoring its potential functional relevance in cellular signaling pathways."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    10,
+    748,
+    394,
+    798
+   ],
+   "ocr": "Additionally, the \"Fasting and/or predinner SMBG PG value (mmol/L)\" column offers a pertinent metric for assessing metabolic responses in the context of animal studies, particularly in relation to the Rattus norvegicus Gnai2, which exhibits an impressive statistical significance of 4e-105. This multifaceted analysis not only enhances our understanding of G-protein function across diverse taxa but also sets the stage for further exploration of their roles in metabolic regulation and disease."
+  }
+ }
+}

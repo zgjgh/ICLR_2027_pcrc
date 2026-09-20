@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_395",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    678.6,
+    66.0
+   ],
+   "ocr": "Mentz et al. BMC Health Services Research 2012, 12:312 Page 8 of 11 http://www.biomedcentral.com/1472-6963/12/312"
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    155.4,
+    366.1,
+    570.9
+   ],
+   "ocr": "Clinical HBP1\nSelf-reported = Yes Self-reported = NO\nEstimate (StErr) Estimate (StErr)\nIntercept −0.3(1.36) −2.52(0.6)\nAge2 0.12(0.03) 0.04(0.01)\nGender\nFemales 0.41(0.64) −0.52(0.21)\nMales (reference) 1 1\nMarital Status\nMarried −0.36(0.61) 0.04(0.25)\nNot Married (reference) 1 1\nRace/ethnicity\nLatino * −0.46(0.42)\nWhite 0.03(0.84) −0.43(0.31)\nBlack (reference)\nEducation\n<12 0.51(1.36) 0.02(0.27)\n12 0.67(0.84) 0.2(0.29)\n12 + (reference)\nAnnual Household Income\n<$10,000 0.20(0.99) 0.53(0.37)\n$10,000-19,999 −0.48(1.09) −0.04(0.33)\n$20,000-34,999 −0.75(0.65) 0.4(0.51)\n$35,000 + (reference)",
+   "table_id": "PMC3483283_table_5"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    579.8,
+    678.5,
+    593.5
+   ],
+   "ocr": "urban sample to data from the HEP community sample"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    587.9,
+    257.3,
+    597.8
+   ],
+   "ocr": "2: Continuous age was used in prediction models."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    594.9,
+    678.6,
+    925.4
+   ],
+   "ocr": "resulted in re-adjusted estimates of sensitivity and speci- ficity. These adjusted estimates were then used to obtain national rates, or the use of corrections derived from improved estimates of the probability if hypertension national samples, may not be appropriate to estimate that more closely correspond to clinically measured hypertension prevalence in some urban communities. levels of HBP in this community. Final re-calibrated Table 7 Comparison of predicted and measured high blood pressure for different threshold values (HEP sample) Threshold (p)3 Method 11 Method 22 Sensitivity Pr(CH = 1|SR = 1) Specificity Pr(CH = 0|SR = 0) Sensitivity Pr(CH = 1|SR = 1) Specificity Pr(CH = 0|SR = 0) 0.5 0.90 0.78 0.92 0.78 0.6 0.89 0.75 0.91 0.77 0.7 0.85 0.66 0.90 0.76 0.8 0.79 0.62 0.89 0.74 1: Method 1. a) For individuals who reported never being told they had HBP (SR = 0), we estimate the probability of having clinically measured HBP using one minus the specificity estimate described in Equation (1). b) For individuals who reported having been told they had HBP (SR = 1), we estimate the probability of having clinically measured HBP using the sensitivity estimate described in Equation (2). 2: Method 2. a) Estimates of the probability of self-reported HBP within the HEP sample, using weighted logistic regression models adjusting for the same set of covariates used to calculate sensitivity and specificity. b )Estimate of the probability of clinically measured HBP as a weighted average of re-calibrated sensitivity and specificity. 3: Threshold values of the estimated probability of clinically measured HBP which were used to classify each individual into one of two groups, Clinical Hypertensive or not."
+  }
+ }
+}

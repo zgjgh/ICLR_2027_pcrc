@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_156",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    775,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    775,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    775,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    775,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    775,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3614608_table_0",
+   "page_num": 1,
+   "bbox": [
+    399.9,
+    308.9,
+    714.2,
+    886.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3614608_table_0.png",
+   "html": "<table><tr><td>compound</td><td>sample</td><td>sensitivity</td><td>ref.</td></tr><tr><td>Digoxin</td><td>Serum</td><td>0.52 ng/ml</td><td>(71)</td></tr><tr><td>Digitoxin</td><td>Serum</td><td>5 ng/ml</td><td>(72)</td></tr><tr><td>Oubain</td><td>Plasma</td><td>5 pmol</td><td>(73)</td></tr><tr><td>Tetracycline</td><td>Serum, urine</td><td>1 ng/ml</td><td>(74)</td></tr><tr><td>Isepamicin</td><td>Plasma</td><td>0.1 &#956;g/ml</td><td>(75)</td></tr><tr><td>Acyclovir</td><td>Plasma</td><td>7 ng/ml</td><td>(76)</td></tr><tr><td>Tipredane</td><td>Plasma</td><td>1 ng/ml</td><td>(77)</td></tr><tr><td>Zopiclone</td><td>Urine</td><td>10 pg/ml</td><td>(78)</td></tr><tr><td>Imidapril</td><td>Plasma, urine</td><td>0.1 ng/ml</td><td>(79)</td></tr><tr><td>Hydroxyfluphenazine</td><td>Plasma</td><td>0.1 ng/ml</td><td>(80)</td></tr><tr><td>Benzotropine</td><td>Plasma</td><td>0.16 ng/ml</td><td>(81)</td></tr><tr><td>Trihexyphenidyl</td><td>Plasma</td><td>39 pg/ml</td><td>(82)</td></tr><tr><td>Zidovudine</td><td>Dried blood spot</td><td>24 pg/ml</td><td>(83)</td></tr><tr><td>Zolpidem</td><td>Serum, urine</td><td>0.1 ng/ml</td><td>(84)</td></tr><tr><td>Morphine</td><td>Urine</td><td>7.9 ng/ml</td><td>(85)</td></tr><tr><td>Cocaine</td><td>Hair, urine</td><td>0.1 ng/ml</td><td>(86)</td></tr><tr><td>Methadone</td><td>Hair</td><td>0.1 ng/ml</td><td>(87)</td></tr><tr><td>Thyroxine</td><td>Hair</td><td>31.47 pg/mg</td><td>(88)</td></tr><tr><td>Insulin</td><td>Serum</td><td>11 pmol</td><td>(89)</td></tr><tr><td>Estradiol</td><td>Saliva</td><td>0.25 pg/ml</td><td>(90)</td></tr><tr><td>Ethinylestradiol</td><td>Plasma</td><td>43 pg/ml</td><td>(56)</td></tr><tr><td>Estrone sulphate</td><td>Plasma</td><td>1.21 nmol</td><td>(91)</td></tr><tr><td>Androstenedione</td><td>Serum</td><td>0.5 nmol</td><td>(92)</td></tr><tr><td>Progesterone</td><td>Saliva</td><td>48 pmol</td><td>(93)</td></tr><tr><td>Pregnenolone</td><td>Plasma</td><td>0.15 nmol</td><td>(94)</td></tr><tr><td>1,25-Dihydroxy vitamin D</td><td>Plasma</td><td>0.2 pg/ml</td><td>(95)</td></tr><tr><td>Angiotensin II</td><td>Plasma</td><td>2.3 pg/ml</td><td>(96)</td></tr><tr><td>Prostaglandin</td><td>Plasma</td><td>100 pg/ml</td><td>(97)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_1",
+   "page_num": 2,
+   "bbox": [
+    70.0,
+    178.7,
+    710.7,
+    473.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3614608_table_1.png",
+   "html": "<table><tr><td>compound</td><td>sample</td><td>Enzyme</td><td>substrate</td><td>Detection</td><td>sensitivity</td><td>ref.</td></tr><tr><td>Digoxin</td><td>Serum</td><td>&#946;-GAL</td><td>DMAG</td><td>Photometric</td><td>0.2 ng/ml</td><td>(98)</td></tr><tr><td>Methamphetamine</td><td>Blood, Urine</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>2 ng/ml</td><td>(99)</td></tr><tr><td>Benzodiazepine, morphine</td><td>Blood, urine</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>5, 1 ng/ml</td><td>(99)</td></tr><tr><td>Phencyclidine, cannabinoids</td><td>Blood, urine</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>25, 1 ng/ml</td><td>(99)</td></tr><tr><td>Metanephrine, normetanephrine</td><td>Urine</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>0.3 &#181;mol</td><td>(100)</td></tr><tr><td>Zonisamide</td><td>Serum</td><td>&#946;-GAL</td><td>NPGP</td><td>Photometric</td><td>&#181;g/ml</td><td>(101)</td></tr><tr><td>Clenbuterol</td><td>Hair</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>12 pg/well</td><td>(102)</td></tr><tr><td>Dihydrostreptomycin</td><td>Milk</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>0.01 &#181;g/ml</td><td>(103)</td></tr><tr><td>Neomycin</td><td>Milk</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>0.01 &#181;g/ml</td><td>(103)</td></tr><tr><td>25-Hydroxy vitamin D3</td><td>Serum</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>4.4 ng/ml</td><td>(104)</td></tr><tr><td>Medroxyprogesterone</td><td>Serum</td><td>ALP</td><td>ADP</td><td>Chemiluminescence</td><td>0.83 pg/well</td><td>(105)</td></tr><tr><td>17-&#946;-Estradiol</td><td>Serum</td><td>HRP</td><td>TMB</td><td>Electrochemical</td><td>20 pg/ml</td><td>(106)</td></tr><tr><td>Oxytocin</td><td>Serum</td><td>ACE</td><td>ACI/DTNBA</td><td>Photometric</td><td>1.5 pg/ml</td><td>(107)</td></tr><tr><td>Osteocalcin</td><td>Serum</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>4.45 ng/ml</td><td>(108)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_2",
+   "page_num": 2,
+   "bbox": [
+    81.1,
+    575.7,
+    706.9,
+    830.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3614608_table_2.png",
+   "html": "<table><tr><td>Analyte</td><td>sample</td><td>Enzyme</td><td>substrate</td><td>Detection</td><td>sensitivity</td><td>ref.</td></tr><tr><td>Streptomycin</td><td>milk</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>1.6 ng/ml</td><td>(109)</td></tr><tr><td>Spectinomycin</td><td>Kidney extract</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>0.5 ng/ml</td><td>(110)</td></tr><tr><td>Spectinomycin</td><td>Plasma</td><td>&#946;-GAL</td><td>MUG</td><td>Photometric</td><td>2 ng/ml</td><td>(111)</td></tr><tr><td>Gentamicin</td><td>Serum</td><td>HRP</td><td>OPD</td><td>Fluorimetric</td><td>0.5 ng/ml</td><td>(112)</td></tr><tr><td>Oxacillin</td><td>milk</td><td>GOD</td><td>Glucose</td><td>Photometric</td><td>10 ng/ml</td><td>(113)</td></tr><tr><td>Dicloxacillin</td><td>milk</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>30 ng/ml</td><td>(113)</td></tr><tr><td>Scopolamine</td><td>Plant extract, serum</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>0.1, 0.5 ng/ml</td><td>(114)</td></tr><tr><td>Ractopamine</td><td>Urine</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>2.6 ng/ml</td><td>(115)</td></tr><tr><td>Fenoterol</td><td>Urine</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>1.3 ng/ml</td><td>(115)</td></tr><tr><td>Dexamethasone</td><td>Urine</td><td>ALP</td><td>BCIP/NBT</td><td>Photometric</td><td>0.4 pg/ml</td><td>(116)</td></tr><tr><td>Digoxin</td><td>Serum</td><td>&#946;-GAL</td><td>GPDA</td><td>Photometric</td><td>0.5 ng/ml</td><td>(117)</td></tr><tr><td>Oxazepam</td><td>Urine</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>0.3 &#956;g/ml</td><td>(118)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_3",
+   "page_num": 3,
+   "bbox": [
+    55.3,
+    113.1,
+    710.2,
+    367.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3614608_table_3.png",
+   "html": "<table><tr><td>compound</td><td>sample</td><td>Enzyme</td><td>substrate&gt;</td><td>Detection</td><td>sensitivity</td><td>ref.</td></tr><tr><td colspan=\"7\">Non-Competitive Assays</td></tr><tr><td>Tobramycin</td><td>Standard solution</td><td>ALP</td><td>PNPP</td><td>Photometric</td><td>0.05 &#181;g/ml</td><td>(119)</td></tr><tr><td>Epinephrine, norepinephrine</td><td>Plasma</td><td>ALP</td><td>NADPH</td><td>Photometric</td><td>10; 20 pg/ml</td><td>(120)</td></tr><tr><td>Parathyroid hormone</td><td>Plasma</td><td>&#946;-GAL</td><td>MUG</td><td>Fluorimetric</td><td>1 pg/ml</td><td>(121)</td></tr><tr><td>Thyroid stimulating hormone</td><td>Serum</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>0.1 &#181;IU</td><td>(122)</td></tr><tr><td>Insulin</td><td>Serum</td><td>ALP</td><td>SAV</td><td>Chemiluminescence</td><td>5 pmole</td><td>(123)</td></tr><tr><td>Low density lipoprotein</td><td>Blood</td><td>HRP</td><td>TMB</td><td>Photometric</td><td>1 U/ml</td><td>(124)</td></tr><tr><td colspan=\"7\">Homogenous Assays</td></tr><tr><td>Thyroxine</td><td>Serum</td><td>GPb</td><td>Glycogen</td><td>Fluorimetric</td><td>10 ng/ml</td><td>(126)</td></tr><tr><td>triiodothyroxine</td><td>Serum</td><td>GPb</td><td>Glycogen</td><td>Fluorimetric</td><td>0.3 ng/ml</td><td>(127)</td></tr><tr><td>Theophylline</td><td>Serum</td><td>ALP</td><td>NAD</td><td>Electrochemical</td><td>6.3 &#181;g/ml</td><td>(128)</td></tr><tr><td>Cyclosporins</td><td>Whole blood</td><td>G6PDH</td><td>G6P</td><td>Photometric</td><td>24.9 ng/ml</td><td>(129)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_4",
+   "page_num": 4,
+   "bbox": [
+    399.9,
+    196.1,
+    708.8,
+    618.1
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3614608_table_4.png",
+   "html": "<table><tr><td>compound</td><td>sample</td><td>ref.</td></tr><tr><td colspan=\"3\">tricyclic antidepressants</td></tr><tr><td>Amitryptylene, clomipramine, clothiepin, doxepin</td><td>Urine</td><td>(136)</td></tr><tr><td colspan=\"3\">Antiepileptics</td></tr><tr><td>Phenytoin, carbamazepine, phenobarbitone</td><td>Serum</td><td>(137)</td></tr><tr><td>Topiramate</td><td>Plasma</td><td>(138)</td></tr><tr><td colspan=\"3\">Antibiotics</td></tr><tr><td>Amikacin, tobramycin</td><td>Serum</td><td>(139)</td></tr><tr><td>Vancomycin</td><td>Urine</td><td>(140)</td></tr><tr><td colspan=\"3\">Chemotherapeutics</td></tr><tr><td>Cytosine arabinoside, nimustine</td><td>CSFa</td><td>(141)</td></tr><tr><td>Methotrexate</td><td>CSF</td><td>(142)</td></tr><tr><td colspan=\"3\">Stimulants for central nervous system</td></tr><tr><td>Amphetamine, methamphetanmine</td><td>Urine</td><td>(143)</td></tr><tr><td colspan=\"3\">Pschycoactive drugs</td></tr><tr><td>Nordizepam</td><td>Serum, urine</td><td>(144)</td></tr><tr><td>lorazepam</td><td>Serum, urine</td><td>(145)</td></tr><tr><td>Adinazolam</td><td>Serum</td><td>(146)</td></tr><tr><td>Methadone, benzoylecgonine</td><td>Blood</td><td>(147)</td></tr><tr><td>Cannabinoids</td><td>Urine</td><td>(148)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_5",
+   "page_num": 4,
+   "bbox": [
+    414.6,
+    732.7,
+    711.3,
+    886.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3614608_table_5.png",
+   "html": "<table><tr><td>compund</td><td>sample</td><td>sensitivity</td><td>ref.</td></tr><tr><td>Chloropromazine</td><td>Serum</td><td>10 ng/ml</td><td>(55)</td></tr><tr><td>Desipramine</td><td>Serum</td><td>10 ng/ml</td><td>(55)</td></tr><tr><td>Methamphetamine</td><td>Serum</td><td>1 ng/ml</td><td>(55)</td></tr><tr><td>Zeranol</td><td>Urine</td><td>0.16 ng/ml</td><td>(150)</td></tr><tr><td>Thyroxine</td><td>Serum</td><td>1.07 pmol</td><td>(151)</td></tr><tr><td>Testosterone</td><td>Saliva</td><td>16 pmol</td><td>(152)</td></tr><tr><td>Estradiol fatty acid esters</td><td>Serum</td><td>36 pmol</td><td>(153)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_6",
+   "page_num": 5,
+   "bbox": [
+    55.0,
+    114.5,
+    367.9,
+    548.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3614608_table_6.png",
+   "html": "<table><tr><td>compound</td><td>sample</td><td>sensitivity</td><td>ref.</td></tr><tr><td colspan=\"4\">Antiepileptics</td></tr><tr><td>Carbamazepine</td><td>Serum</td><td>0.13 &#181;g/ml</td><td>(155)</td></tr><tr><td>phenobarbital</td><td>Serum</td><td>0.3 &#181;g/ml</td><td>(155)</td></tr><tr><td>Phenytoin</td><td>Serum</td><td>0.45 &#181;g/ml</td><td>(155)</td></tr><tr><td>Valproic acid</td><td>Serum</td><td>0.68 &#181;g/ml</td><td>(155)</td></tr><tr><td colspan=\"4\">Bronchodilators</td></tr><tr><td>Salbutamol, clenbuterol</td><td>Tissue</td><td>2 pg/well</td><td>(156)</td></tr><tr><td colspan=\"4\">Vitamins</td></tr><tr><td>vitamin B12</td><td>Sea food</td><td>0.1 ng/ml</td><td>(157)</td></tr><tr><td colspan=\"4\">Hormones</td></tr><tr><td>Insulin</td><td>Serum</td><td>2 &#181;U/ml</td><td>(158)</td></tr><tr><td>Thyroxin</td><td>Serum</td><td>5.5 pmol</td><td>(159)</td></tr><tr><td>Estradiol</td><td>Saliva</td><td>3.8 pmol</td><td>(160)</td></tr><tr><td>Estrone</td><td>Serum</td><td>55 pmol</td><td>(161)</td></tr><tr><td>Testosterone</td><td>Serum</td><td>0.13 nmol</td><td>(162)</td></tr><tr><td>19-Nortestosterone</td><td>Urine</td><td>0.03 ng/ml</td><td>(163)</td></tr><tr><td>Medroxprogesterone acetate</td><td>Serum</td><td>0.83 pg/well</td><td>(164)</td></tr><tr><td colspan=\"4\">Phytoestrogens</td></tr><tr><td>daidzein</td><td>Serum</td><td>10 pg/well</td><td>(165)</td></tr><tr><td colspan=\"4\">Tumor markers</td></tr><tr><td>Prostat-specific antigen</td><td>Serum</td><td>1.7 pg/ml</td><td>(166)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3614608_table_7",
+   "page_num": 5,
+   "bbox": [
+    62.6,
+    630.2,
+    711.0,
+    804.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3614608_table_7.png",
+   "html": "<table><tr><td>compound</td><td>Liposome composition</td><td>Marker: (inside) outside</td><td>Lytic agent</td><td>sample</td><td>sensitivity</td><td>ref.</td></tr><tr><td>Digoxin</td><td>PC-COL</td><td>FAD-GOD, CL reagent</td><td>Mellitin</td><td>Serum</td><td>10 pmol</td><td>(167)</td></tr><tr><td>Gentamycin</td><td>DMPC-COL</td><td>(Calcein)</td><td>Phospholipase C</td><td>Buffer</td><td>2.5 pg/ml</td><td>(168)</td></tr><tr><td>Biotin</td><td>lecithin, COL</td><td>(ALP) PNPP</td><td>Mellitin</td><td>Buffer</td><td>2 nmol</td><td>(169)</td></tr><tr><td>Carbamazepine</td><td>DMPC, DMPG, COL, PE</td><td>(PNPP) ALP</td><td>Guinea pig serum</td><td>Serum</td><td>4 ng/ml</td><td>(170)</td></tr><tr><td>Phenobarbital</td><td>DMPC, DMPG, COL, DMPE</td><td>(G6PDH) G6P, NAD</td><td>Guinea pig serum</td><td>Serum</td><td>15 &#181;g/ml</td><td>(170)</td></tr><tr><td>Phenytoin</td><td>DMPC, DMPG, COL, DMPE</td><td>(G6PDH) G6P, NAD</td><td>Guinea pig serum</td><td>Serum</td><td>5 &#181;g/ml</td><td>(170)</td></tr><tr><td>Theophylline</td><td>PC, PG, COL, &#945;-tocopherol</td><td>(G6PDH + G6P)</td><td>Guinea pig serum</td><td>Serum</td><td>2.5 &#181;g/ml</td><td>(171)</td></tr><tr><td>Interferon-&#947;</td><td>DPPC, DPPG, COL, BX-DHPE</td><td>Carboxyfluorescin</td><td>triton-X</td><td>Serum</td><td>0.5 U/ml</td><td>(172)</td></tr></table>"
+  }
+ ]
+}

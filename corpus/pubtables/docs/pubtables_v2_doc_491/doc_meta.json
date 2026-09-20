@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_491",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    761,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4650654_table_0",
+   "page_num": 1,
+   "bbox": [
+    204.0,
+    296.9,
+    444.8,
+    671.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4650654_table_0.png",
+   "html": "<table><tr><td>Bond lengths</td><td>4</td><td>8</td></tr><tr><td>N(1)-C(1)</td><td>1.345(2)</td><td>1.368(4)</td></tr><tr><td>N(1)-N(2)</td><td>1.3270(16)</td><td>1.308(4)</td></tr><tr><td>N(2)-N(3)</td><td>1.3222(17)</td><td>1.366(3)</td></tr><tr><td>N(3)-C(2)</td><td>1.3528(19)</td><td>1.353(4)</td></tr><tr><td>C(1)-C(2)</td><td>1.364(2)</td><td>1.353(4)</td></tr><tr><td>N(4)-C(4)/ N(3)-C(3)</td><td>1.3321(18)</td><td>1.413(4)</td></tr><tr><td>N(5)-C(4)/ N(4)-C(3)</td><td>1.3490(17)</td><td>1.304(4)</td></tr><tr><td>N(7)-C(4)/ N(5)-C(3)</td><td>1.3448(18)</td><td>1.310(4)</td></tr><tr><td>N(5)-C(5)/ N(5)-C(4)</td><td>1.3124(18)</td><td>1.327(4)</td></tr><tr><td>N(6)-C(5)/ N(6)-C(4)</td><td>1.1624(18)</td><td>1.153(4)</td></tr><tr><td colspan=\"3\">Bond angles</td></tr><tr><td>C(1)-N(1)-N(2)</td><td>112.80(12)</td><td>109.5(3)</td></tr><tr><td>N(3)-C(2)-C(1)</td><td>105.08(13)</td><td>104.6(3)</td></tr><tr><td>N(1)-C(1)-C(2)</td><td>105.70(13)</td><td>108.8(3)</td></tr><tr><td>N(3)-N(2)-N(1)</td><td>103.45(11)</td><td>106.0(2)</td></tr><tr><td>C(2)-N(3)-N(2)</td><td>112.96(12)</td><td>111.0(2)</td></tr><tr><td>N(5)-C(4)-N(7)/N(5)-C(3)-N(4)</td><td>122.88(12)</td><td>129.6(3)</td></tr><tr><td>C(5)-N(5)-C(4)/C(4)-N(5)-C(3)</td><td>116.79(11)</td><td>120.5(3)</td></tr><tr><td>N(4)-C(4)-N(7)/N(3)-C(3)-N(4)</td><td>113.96(12)</td><td>117.8(3)</td></tr><tr><td>N(4)-C(4)-N(5)/N(3)-C(3)-N(5)</td><td>123.17(12)</td><td>112.6(2)</td></tr><tr><td>N(6)-C(5)-N(5)/N(6)-C(4)-N(5)</td><td>175.06(15)</td><td>171.0(3)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4650654_table_1",
+   "page_num": 2,
+   "bbox": [
+    204.0,
+    61.3,
+    447.1,
+    332.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4650654_table_1.png",
+   "html": "<table><tr><td colspan=\"4\">Bond lengths</td></tr><tr><td>N(1)-C(1)</td><td>1.3863(16)</td><td>N(4)-C(1)</td><td>1.3212(17)</td></tr><tr><td>N(1)-N(2)</td><td>1.4085(15)</td><td>N(5)-C(2)</td><td>1.3733(18)</td></tr><tr><td>N(3)-C(1)</td><td>1.3279(17)</td><td>N(6)-C(3)</td><td>1.3135(18)</td></tr><tr><td>N(2)-C(2)</td><td>1.3220(18)</td><td>N(7)-C(4)</td><td>1.3203(17)</td></tr><tr><td>N(3)-C(2)</td><td>1.3608(17)</td><td>N(7)-C(3)</td><td>1.3244(17)</td></tr><tr><td>N(1)-C(3)</td><td>1.3803(17)</td><td>N(8)-C(4)</td><td>1.1585(18)</td></tr><tr><td colspan=\"4\">Bond angles</td></tr><tr><td>C(1)-N(1)-N(2)</td><td>109.14(10)</td><td>N(4)-C(1)-N(3)</td><td>125.75(12)</td></tr><tr><td>C(2)-N(2)-N(1)</td><td>101.17(10)</td><td>N(4)-C(1)-N(1)</td><td>125.20(12)</td></tr><tr><td>C(1)-N(3)-C(2)</td><td>104.03(11)</td><td>N(2)-C(2)-N(5)</td><td>122.54(13)</td></tr><tr><td>N(3)-C(1)-N(1)</td><td>109.05(11)</td><td>N(3)-C(2)-N(5)</td><td>120.81(12)</td></tr><tr><td>N(2)-C(2)-N(3)</td><td>116.60(12)</td><td>N(6)-C(3)-N(7)</td><td>127.69(12)</td></tr><tr><td>C(3)-N(1)-C(1)</td><td>130.01(11)</td><td>N(6)-C(3)-N(1)</td><td>116.99(12)</td></tr><tr><td>C(3)-N(1)-N(2)</td><td>120.77(11)</td><td>N(7)-C(3)-N(1)</td><td>115.32(12)</td></tr><tr><td>C(4)-N(7)-C(3)</td><td>119.45(11)</td><td>N(8)-C(4)-N(7)</td><td>172.79(14)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4650654_table_2",
+   "page_num": 3,
+   "bbox": [
+    57.1,
+    61.3,
+    689.2,
+    470.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4650654_table_2.png",
+   "html": "<table><tr><td>Crystal</td><td>4</td><td>8</td><td>11&#183;H2O</td></tr><tr><td>Empirical formula</td><td>C4H4N6</td><td>C5H7N7</td><td>C4H8N8O1</td></tr><tr><td>Temperature (K)</td><td>173(2)K</td><td>153(2)K</td><td>153(2)K</td></tr><tr><td>Wavelength (&#506;)</td><td>0.71073 A</td><td>0.71073 A</td><td>0.71073 A</td></tr><tr><td>Crystal system</td><td>Monoclinic</td><td>Monoclinic</td><td>Monoclinic</td></tr><tr><td>Space group</td><td>P2 (1) /n</td><td>P2 (1)/c</td><td>P2 (1) /n</td></tr><tr><td rowspan=\"3\">Unit cell dimensions</td><td>a = 3.7428(17) &#506;, &#945;= 90.00&#176;</td><td>a = 9.378(4) &#506;, &#945; = 90.00&#176;</td><td>a = 6.7142(15) &#506;, &#945; = 90.00&#176;</td></tr><tr><td>b = 19.927(8) &#506;, &#946; = 100.296(7)&#176;</td><td>b= 10.135(4)&#506;, &#946; = 113.553(4)&#176;</td><td>b = 7.0332(16) &#506;, &#946; = 91.557(4)&#176;</td></tr><tr><td>c = 7.875(4) &#506;, &#947; = 90.00&#176;</td><td>c = 8.824(4) &#506;, &#947; = 90.00&#176;</td><td>c = 16.589(4) &#506;, &#947; = 90.00&#176;</td></tr><tr><td>Volume</td><td>577.9(4)</td><td>768.8(5) &#506;3</td><td>783.1(3) &#506;3</td></tr><tr><td>Z</td><td>4</td><td>4</td><td>4</td></tr><tr><td>Calculated density (g&#183;cm&#8722;3)</td><td>1.565 g&#183;cm&#8722;3</td><td>1.427 g&#183;cm&#8722;3</td><td>1.562 g&#183;cm&#8722;3</td></tr><tr><td>Absorption coefficient (mm&#8722;1)</td><td>0.115 mm&#8722;1</td><td>0.104 mm&#8722;1</td><td>0.123 mm&#8722;1</td></tr><tr><td>F(000)</td><td>280</td><td>344</td><td>384</td></tr><tr><td>Crystal size (mm)</td><td>0.44 &#215; 0.19 &#215; 0.15 mm</td><td>0.45 &#215; 0.26 &#215; 0.23 mm</td><td>0.28 &#215; 0.20 &#215; 0.08 mm</td></tr><tr><td>Theta range for data collection (&#176;)</td><td>2.82&#176; to 27.49&#176;</td><td>3.11&#176; to 27.99&#176;</td><td>3.15&#176; to 29.12&#176;</td></tr><tr><td>Limiting indices</td><td>&#8722; 4&#8804; h&#8804; 4, &#8722; 25&#8804; k&#8804; 19, &#8722; 10&#8804; l&#8804; 10</td><td>&#8722; 12&#8804; h&#8804; 12, &#8722; 11&#8804; k&#8804; 13, &#8722; 11&#8804; l&#8804; 11</td><td>&#8722; 8&#8804; h&#8804; 9, &#8722; 9&#8804; k&#8804; 9, &#8722; 17&#8804; l&#8804; 22</td></tr><tr><td>Reflections collected / unique</td><td>4529/1314 [R(int) = 0.0543]</td><td>6014/1799 [R(int) = 0.0280]</td><td>6793/2100 [R(int) = 0.0309]</td></tr><tr><td>Completeness to theta = 25.03</td><td>99.2%</td><td>96.7%</td><td>99.3%</td></tr><tr><td>Reflections with I&gt; 2&#963; (I)</td><td>953</td><td>1424</td><td>1719</td></tr><tr><td>Goodness-of-fit on F2</td><td>1.002</td><td>1.001</td><td>1.001</td></tr><tr><td>Final R indices (I&gt; 2sigma(I))</td><td>R1 = 0.0800, wR2 = 0.1944</td><td>R1 = 0.0400, wR2 = 0.0959</td><td>R1 = 0.0426, wR2 = 0.1060</td></tr><tr><td>R indices (all data)</td><td>R1 = 0.0981, wR2 = 0.2059</td><td>R1 = 0.0530, wR2 = 0.1015</td><td>R1 = 0.0567, wR2 = 0.1151</td></tr><tr><td>CCDC</td><td>981619</td><td>981620</td><td>981618</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4650654_table_3",
+   "page_num": 4,
+   "bbox": [
+    204.0,
+    732.4,
+    442.5,
+    882.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4650654_table_3.png",
+   "html": "<table><tr><td>Compound</td><td>Temperature/&#176;C</td><td>Time/h</td><td>Yield/%</td></tr><tr><td>4</td><td>25</td><td>2</td><td>81</td></tr><tr><td>5</td><td>50</td><td>1</td><td>75</td></tr><tr><td>6</td><td>50</td><td>2</td><td>75</td></tr><tr><td>7</td><td>50</td><td>1.5</td><td>80</td></tr><tr><td>8</td><td>25</td><td>0.5</td><td>84</td></tr><tr><td>9</td><td>102</td><td>2</td><td>61</td></tr><tr><td>10</td><td>102</td><td>1</td><td>62</td></tr><tr><td>11</td><td>25</td><td>2</td><td>73</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4650654_table_4",
+   "page_num": 5,
+   "bbox": [
+    204.0,
+    61.3,
+    444.2,
+    211.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4650654_table_4.png",
+   "html": "<table><tr><td>Comp.</td><td>Tm /&#176;C</td><td>Td/&#176;C</td><td>HOF/kJ&#183;mol&#8722;1</td><td>&#961;/g&#183;cm&#8722;3</td></tr><tr><td>4</td><td>&#8212;</td><td>195.3</td><td>318.7</td><td>1.56</td></tr><tr><td>5</td><td>57.4</td><td>&gt; 300</td><td>170</td><td>1.53</td></tr><tr><td>6</td><td>&#8212;</td><td>180.3</td><td>191.8</td><td>1.55</td></tr><tr><td>7</td><td>259.2</td><td>259.2</td><td>255.9</td><td>1.46</td></tr><tr><td>8</td><td>8.6</td><td>152.6</td><td>533.8</td><td>1.43</td></tr><tr><td>9</td><td>72.1</td><td>287.6</td><td>155</td><td>1.57</td></tr><tr><td>10</td><td>&#8212;</td><td>214.3</td><td>148.3</td><td>1.60</td></tr><tr><td>11</td><td>85.5</td><td>183.9</td><td>278.4</td><td>1.58</td></tr></table>"
+  }
+ ]
+}

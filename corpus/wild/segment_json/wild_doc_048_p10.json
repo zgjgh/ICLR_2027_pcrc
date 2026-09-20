@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_048",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    147,
+    580,
+    205
+   ],
+   "ocr": "The first table lists the sources of heat along with their estimated heat load and heat sink location, including Atomic oven with an estimated heat load of 20–30 W located at 300 K outside dilution refrigerator, DC wires with 3 mW located at multiple stages, coax cables with 5 mW also at multiple stages, laser beams with 1.8 mW at the 4 K stage, and RF dielectric dissipation with 5 mW at the 100 mK stage."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    193,
+    580,
+    251
+   ],
+   "ocr": "The second table presents the composition of various lignin types with their respective percentages of Carbon (C), Hydrogen (H), Nitrogen (N), and Degree of Unsaturation. Kraft lignin has 62.2% C, 6.1% H, 0.9% N, and a degree of unsaturation of 3. The [Py][Ac]-K. lignin contains 63.7% C, 5.8% H, 1.4% N, and also a degree of unsaturation of 3. [Mim][Ac]-K. lignin holds 63.5% C, 6.0% H, 3.7% N, and a degree of unsaturation of 3."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    327.0,
+    580.0,
+    453.0
+   ],
+   "ocr": "Source of heat Estimated heat load Heat sink location\nAtomic oven 20–30 W 300 K outside dilution refrigerator\nDC wires 3 mW Multiple stages\nCoax cables 5 mW Multiple stages\nLaser beams 1.8 mW 4 K stage\nRF dielectric dissipation 5 mW 100 mK stage",
+   "table_id": "img_053834_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    531.0,
+    580.0,
+    674.0
+   ],
+   "ocr": "PIL C (%) H (%) N (%) Degree of Unsaturation\nKraft lignin 62.2 6.1 0.9 3\n[Py][Ac]-K. lignin 63.7 5.8 1.4 3\n[Mim][Ac]-K. lignin 63.5 6.0 3.7 3\n[Pyrr][Ac]-K. lignin 64.5 7.2 4.0 3\n[Pyrr][Ac]-CS lignin 52.1 10.3 10.1 1\nEF-CS 43.0 5.7 0.9 2",
+   "table_id": "img_053834_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    747
+   ],
+   "ocr": "The [Pyrr][Ac]-K. lignin has 64.5% C, 7.2% H, 4.0% N, and a degree of unsaturation of 3, while the [Pyrr][Ac]-CS lignin shows 52.1% C, 10.3% H, 10.1% N, and a degree of unsaturation of 1."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    735,
+    580,
+    763
+   ],
+   "ocr": "Finally, EF-CS contains 43.0% C, 5.7% H, 0.9% N, and a degree of unsaturation of 2."
+  }
+ }
+}

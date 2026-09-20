@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_295",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:310"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/310"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    381.1,
+    118.9
+   ],
+   "ocr": "Table 5: List of 23 promising ubiquitylation sites identified from an"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    107.2,
+    674.3,
+    118.9
+   ],
+   "ocr": "independent dataset of 3424 putative non-ubiquitylation sites."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    684.1,
+    260.6
+   ],
+   "ocr": "Accession number Position Score Accession number Position Score Accession number Position Score\nP19358 114 0.99 P39976 323 0.90 P38080 809 0.87\nQ9Y6K9 35 0.96 P38261 147 0.89 P10592 54 0.87\nP25694 6 0.96 P25360 846 0.89 P38080 792 0.87\nP40087 325 0.95 P09936 195 0.88 P12866 129 0.86\nQ08412 232 0.93 P10591 54 0.88 Q05911 460 0.86\nP04629 609 0.91 Q06408 156 0.87 P40087 410 0.86\nP16603 165 0.91 P37303 283 0.87 P38075 10 0.86\nP31539 626 0.91 P32467 38 0.87",
+   "table_id": "PMC2488362_table_4"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    66.4,
+    284.4,
+    370.6,
+    461.6
+   ],
+   "ocr": "structed using various values of w from UBIDATA, which have 149 samples of w = 11, 150 samples of w = 13 and 15, and 151 samples of w = 17, 19,..., 29. Due to the dis- card of duplicate and inconsistent samples, different val- ues of w would result in different sample numbers of datasets. For training an SVM classifier, both positive and negative samples are necessary. The dataset of post-translational modification including phosphorylation and ubiquityla- tion sites is unbalanced that the number of positive sam- ples is much smaller than that of negative samples. The"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    392.1,
+    284.4,
+    696.4,
+    461.6
+   ],
+   "ocr": "negative samples for training the SVM classifier were selected randomly from the 3676 putative non-ubiquit- ylation sites. In this study, the number of negative sam- ples is the same with that of positive samples in the dataset. For example, there are 151 negative samples in the dataset of w = 21. The rest (e.g., 3424 samples with no annotation of ubiquitylation sites for w = 21) are formed as an independent dataset to be scored for identifying promising ubiquitylation sites (see Fig. 8). Notably, since the value of C for tuning the error penalty (see the next section) is determined subsequently according to the per- formance measurement of SVM, it is not obligatory to"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    861.6,
+    392.2,
+    903.0
+   ],
+   "ocr": "Figure The sequence 10 logo of the 23 peptides of promising ubiquitylation The sequence logo of the 23 peptides of promising ubiquitylation plot."
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.7,
+    861.8,
+    695.1,
+    889.3
+   ],
+   "ocr": "sites with w = 21 sites with w = 21. (a) Information content and (b) Frequency"
+  },
+  "p5_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 12 of 15 (page number not for citation purposes)"
+  }
+ }
+}

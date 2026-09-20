@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_168",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    36,
+    409,
+    77
+   ],
+   "ocr": "In the Fiscal Year 2024 report for Toyota Motor, the Vehicle Sales Volume by Model details show that the SUV model sold 20,000 units, generating CHF500M in revenue, capturing a 25% market share, with a growth rate of 10%, an average price of CHF25,000, classified under the Compact segment, with year-over-year units sold at 15,000 and total units revenue at CHF375M."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    69,
+    409,
+    88
+   ],
+   "ocr": "The Sedan model sold 10,000 units, amounting to CHF250M in revenue, holding a 15% market share, a growth rate of 3%, with an average price of CHF25,000."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    11.0,
+    100.0,
+    409.0,
+    340.0
+   ],
+   "ocr": "Model UnitsSold Revenue MarketShare GrowthRate AveragePrice Segment YearOverYear TotalUnits\nSUV 20,000 CHF500M 25% 10% CHF25,000 Compact 15,000 CHF375M\n20% 5% CHF25,000 Sedan 10,000 CHF250M 15% 3% CHF25,000\nTotalSales 45,000 CHF1.125B 60% 6% CHF25,000 Electric 5,000 CHF125M\n10% 2% CHF25,000 Pickup 8,000 CHF200M 18% 4% CHF25,000 Luxury\n7,000 CHF175M 12% 3% CHF25,000 Crossover 5,000 CHF125M 8% 1%\nCHF25,000 Hybrid 4,000 CHF100M 7% 1% CHF25,000 Van 3,000 CHF75M\n5% 1% CHF25,000 TotalUnits 45,000 CHF1.125B 100% N/A CHF25,000 Forecast\n46,000 CHF1.15B 1% 2% CHF25,000 Analysis StableGrowth MarketExpansion InnovativeModels Total",
+   "table_id": "img_192371_t0"
+  },
+  "p8_b3": {
+   "type": "paragraph",
+   "bbox": [
+    11.0,
+    351.0,
+    409.0,
+    383.0
+   ],
+   "ocr": "Total sales reached 45,000 units, yielding CHF1.125B in revenue, representing a 60% market share, and a growth rate of 6%, with an average price of CHF25,000 for Electric at 5,000 units and CHF125M revenue, while the Pickup sold 8,000 units for CHF200M, with an 18% market share and 4% growth rate."
+  },
+  "p8_b4": {
+   "type": "table",
+   "bbox": [
+    11.0,
+    394.0,
+    409.0,
+    701.0
+   ],
+   "ocr": "ManufacturingPlantUtilization PlantName ProductionCapacity UtilizationRate TotalOutput DefectRate Status\nLocation MonthlyAvg Percentage UnitsProduced Defectsper1000 Operational Comments Q12024\nPlantA 12000 85.5 10200 5.2 Active Onschedule Q22024\nPlantB 15000 78.3 11745 7.4 Active Needsimprovement Q32024\nPlantC 8000 90.0 7200 3.5 Inactive Undermaintenance Q42024\nPlantD 10000 92.5 9250 4.0 Active Performingwell Total\nPlantA-D 50000 83.3 39295 5.7 N/A Overallperformance SummaryReport",
+   "table_id": "img_192371_t1"
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    712,
+    409,
+    775
+   ],
+   "ocr": "Manufacturing Plant Utilization reflects Plant A located at 12,000 monthly average capacity with an 85.5% utilization rate, producing 10,200 units with 5.2 defects per 1,000, marked as Active and on schedule for Q22024; Plant B at 15,000 capacity with a 78.3% utilization rate producing 11,745 units with 7.4 defects per 1,000, also Active but needs improvement for Q32024; Plant C at 8,000 capacity showing 90.0% utilization producing 7,200 units with 3.5 defects per 1,000, currently Inactive under maintenance for Q42024; Plant D at 10,000 capacity showing 92.5% utilization producing 9,250 units with 4.0 defects per 1,000, marked Active and performing well."
+  },
+  "p8_b6": {
+   "type": "paragraph",
+   "bbox": [
+    11,
+    767,
+    409,
+    797
+   ],
+   "ocr": "Overall, the combined capacity of Plants A-D totals 50,000 with an 83.3% utilization rate producing 39,295 units with 5.7 defects per 1,000, classified as N/A for overall performance in the Summary Report."
+  }
+ }
+}

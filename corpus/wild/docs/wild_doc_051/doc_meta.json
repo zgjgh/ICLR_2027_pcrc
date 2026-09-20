@@ -1,0 +1,354 @@
+{
+ "doc_id": "wild_doc_051",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_055751_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    147.0,
+    580.0,
+    416.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_055751_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Exon</td><td rowspan=\"2\">Position</td><td rowspan=\"2\">Amino acid change</td><td rowspan=\"2\">Minor allele frequency (number)</td><td rowspan=\"2\">dbSNP</td><td colspan=\"2\">NNSplice</td><td rowspan=\"2\">Human Splicing Finder</td></tr><tr><td>Score ratio of donor site (SNP versus normal)</td><td>Score ratio of acceptor site (SNP versus normal)</td></tr><tr><td>Intron 19</td><td>c.2283 + 103C &gt; T</td><td>-</td><td>0.1 (10)</td><td>rs17290371</td><td>0.48:0.53</td><td>-</td><td>Creation of an intronic ESE site</td></tr><tr><td>20</td><td>c.2361G &gt; A</td><td>Q787Q</td><td>0.18 (9)</td><td>rs1050171</td><td>0:0.43</td><td>-</td><td>Probably no impact on splicing</td></tr><tr><td rowspan=\"2\">20</td><td rowspan=\"2\">c.2457G &gt; A</td><td rowspan=\"2\">V819V</td><td rowspan=\"2\">0.04 (1)</td><td rowspan=\"2\">rs56183713</td><td rowspan=\"2\">0.53:0</td><td rowspan=\"2\">0.89:0.65</td><td>1. Creation of an exonic ESS site</td></tr><tr><td>2. Alteration of an exonic ESE site</td></tr><tr><td>Intron 20</td><td>c.2470-68C &gt; A</td><td>-</td><td>0.02 (1)</td><td>rs530416576</td><td>-</td><td>-</td><td>Creation of an intronic ESE site</td></tr></table>"
+  },
+  {
+   "table_id": "img_055751_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    433.0,
+    580.0,
+    580.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_055751_t1.png",
+   "html": "<table><tr><td>Protein (Accession number)</td><td colspan=\"3\">Percentage of identity (Accession number)</td></tr><tr><td>Aedes aegypti</td><td>Culex quinquefasciatus</td><td>Anopheles gambiae</td><td>Drosophila melanogaster</td></tr><tr><td>Ire-1 (XM_001655187.1)</td><td>77% (XP_001843113)</td><td>61% (XP_562694)</td><td>55% (NP_001097839)</td></tr><tr><td>Xbp-1 (XM_001651044.1)</td><td>66% (XP-001847153)</td><td>61% (XP-310116)</td><td>46% (NP-524722)</td></tr><tr><td>Cas-1 (XM_001655826.1)</td><td>94% (XP-001842236)</td><td>79% (XP-316795)</td><td>74% (CAA72937)</td></tr><tr><td>Scap (XM_001651241.1)</td><td>89% (XP_001863686)</td><td>74% (XP_309314)</td><td>54% (AAM20923)</td></tr><tr><td>S2P (XM_001663618.1)</td><td>84% (XP_001663668)</td><td>68% (XP_320696)</td><td>46% (NP_610705)</td></tr></table>"
+  },
+  {
+   "table_id": "img_055882_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    200.0,
+    580.0,
+    327.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_055882_t0.png",
+   "html": "<table><tr><td>Type of vehicles</td><td>V</td><td>RD</td><td>AV</td></tr><tr><td></td><td></td><td>(km)</td><td>(lit/km)</td></tr><tr><td>Bus</td><td>7800</td><td>250</td><td>0.25</td></tr><tr><td>Taxi</td><td>82358</td><td>185</td><td>0.1</td></tr><tr><td>Private Car</td><td>2400000</td><td>43</td><td>0.1</td></tr><tr><td>Motorcycle</td><td>560000</td><td>40</td><td>0.04</td></tr></table>"
+  },
+  {
+   "table_id": "img_055882_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    358.0,
+    580.0,
+    481.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_055882_t1.png",
+   "html": "<table><tr><td>Requirements</td><td>ESPGAN [32]</td><td>LSRO [31]</td><td>Atkinson [33]</td><td>Rigo [34]</td></tr><tr><td></td><td>1987</td><td>2002</td><td>2005</td><td>2007</td></tr><tr><td>Calcium (mg/kg/day)</td><td>70–140</td><td>150–220</td><td>120–200</td><td>100–160</td></tr><tr><td>Phosphorus (mg/kg/day)</td><td>50–90</td><td>100–130</td><td>60–140</td><td>60–90</td></tr><tr><td>Vitamin D (I.U./day)</td><td>800–1600</td><td></td><td>200–1000</td><td>800–1000</td></tr><tr><td>(I.U./kg/day)</td><td></td><td>90–225</td><td>150–400</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_055882_t2",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    517.0,
+    580.0,
+    652.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_055882_t2.png",
+   "html": "<table><tr><td colspan=\"2\">GC separation conditions</td></tr><tr><td>Injection</td><td>Multimode (PTV) injection, splitless mode</td></tr><tr><td>Injection volume</td><td>2 μl</td></tr><tr><td>Carrier gas</td><td>Helium; 1 ml/min (50 min), then 2 ml/min (until the end of the analytical run)</td></tr><tr><td>Column</td><td>Agilent DB-EUPAH (60 m × 250 mm × 0.25 μm)</td></tr><tr><td>Oven temperature programme</td><td>50 °C (0.8 min), ramp 45 °C/min to 200 °C, ramp 2.5 °C/min to 225 °C, ramp 5 °C/min to 266 °C, ramp 14 °C/min to 300 °C, ramp 10 °C/min up to 320 °C (48 min). Total run time 74.762 min</td></tr></table>"
+  },
+  {
+   "table_id": "img_055893_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    238.0,
+    580.0,
+    361.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_055893_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Compartment into which migration occurred</td><td colspan=\"4\">Rate of migration from indicated compartment</td></tr><tr><td>T</td><td>Blood</td><td>EPb</td><td>VD</td></tr><tr><td>T</td><td></td><td>19.23</td><td>333.71</td><td>75.02</td></tr><tr><td>Blood</td><td>324.72</td><td></td><td>130.79</td><td>26.31</td></tr><tr><td>EPb</td><td>216.22</td><td>1.00</td><td></td><td>77.43</td></tr><tr><td>VD</td><td>560.18</td><td>90.82</td><td>124.39</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_055893_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    419.0,
+    580.0,
+    616.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_055893_t1.png",
+   "html": "<table><tr><td>Gene</td><td>Number of loci</td><td>Number of fisher exact comparisons performed between cluster 1 and 2</td><td>P-value (after Bonferroni correction)</td></tr><tr><td>Clk</td><td>4</td><td>8</td><td>0.123</td></tr><tr><td>Cry1</td><td>4</td><td>8</td><td>0.125</td></tr><tr><td>Per</td><td>4</td><td>8</td><td>0.122</td></tr><tr><td>Cyc</td><td>7</td><td>14</td><td>0.071</td></tr><tr><td>Tim</td><td>4</td><td>8</td><td>&lt;0.0001*</td></tr><tr><td>Cry2</td><td>8</td><td>16</td><td>0.063</td></tr><tr><td>Pdp1</td><td>1</td><td>2</td><td>0.500</td></tr><tr><td>Vri</td><td>2</td><td>4</td><td>0.333</td></tr></table>"
+  },
+  {
+   "table_id": "img_056009_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    198.0,
+    580.0,
+    321.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_056009_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameters</td><td colspan=\"2\">Unadjusted</td><td colspan=\"2\">Adjusted*</td></tr><tr><td>HR (95% CI)</td><td>P</td><td>HR (95% CI)</td><td>P</td></tr><tr><td>TERT gain (yes vs no)</td><td>3.8 (1.4-10.3)</td><td>0.0078</td><td>3.0 (1.1-8.4)</td><td>0.032</td></tr><tr><td>TERT T349C (yes vs no)</td><td>2.8 (1.0-7.7)</td><td>0.047</td><td>2.3 (0.9-6.6)</td><td>0.096</td></tr><tr><td>MYC (high vs low)**</td><td>3.5 (1.1-10.8)</td><td>0.031</td><td>3.2 (1.1-10.1)</td><td>0.045</td></tr><tr><td>Chevallier&#x27;s classification (3-4 vs 1-2)</td><td>3.6 (1.1-12.6)</td><td>0.048</td><td>-</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "img_056009_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    359.0,
+    580.0,
+    480.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_056009_t1.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Factor 1</td><td></td><td colspan=\"2\">Factor 2</td><td></td><td colspan=\"2\">Factor 3</td><td></td><td colspan=\"2\">Factor 4</td></tr><tr><td></td><td>r</td><td>p</td><td></td><td>r</td><td>p</td><td></td><td>r</td><td>p</td><td></td><td>r</td><td>p</td></tr><tr><td>Factor 1 (neurological dysfunction)</td><td></td><td></td><td></td><td>0.602</td><td>0.000</td><td></td><td>0.627</td><td>0.000</td><td></td><td>0.868</td><td>0.000</td></tr><tr><td>Factor 2 (respiratory)</td><td>0.602</td><td>0.000</td><td></td><td></td><td></td><td></td><td>0.679</td><td>0.000</td><td></td><td>0.863</td><td>0.000</td></tr><tr><td>Factor 3 (cardiac)</td><td>0.627</td><td>0.000</td><td></td><td>0.679</td><td>0.000</td><td></td><td></td><td></td><td></td><td>0.877</td><td>0.000</td></tr><tr><td>Global SCSvp</td><td>0.868</td><td>0.000</td><td></td><td>0.863</td><td>0.000</td><td></td><td>0.877</td><td>0.000</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_056009_t2",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    527.0,
+    580.0,
+    627.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_056009_t2.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Variables</td><td colspan=\"2\">Descriptive statistics</td><td colspan=\"2\">Spearman’s correlations</td></tr><tr><td></td><td>Mean</td><td>SE</td><td>1</td><td>2</td></tr><tr><td>1</td><td>LSAS</td><td>58.20</td><td>2.42</td><td></td><td></td></tr><tr><td>2</td><td>Probability biases</td><td>17.25</td><td>0.78</td><td>0.30†</td><td></td></tr><tr><td>3</td><td>Cost biases</td><td>16.71</td><td>0.67</td><td>0.47**</td><td>0.56**</td></tr></table>"
+  },
+  {
+   "table_id": "img_056054_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    278.0,
+    580.0,
+    405.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_056054_t0.png",
+   "html": "<table><tr><td>Calculated serum CRP threshold values</td><td>Correlation with endoscopic recurrence (n=63)</td></tr><tr><td>CRP preop 4.0 mg/l(Figure 4a)</td><td>P=0.15</td></tr><tr><td>CRP postop (POD1) 39.8 mg/l(Figure 4b)</td><td>P=0.008</td></tr><tr><td>CRP discharge (POD5) 23.2 mg/l(Figure 4c)</td><td>P=0.03</td></tr><tr><td>CRP increase (POD1−Preop) 27.5 mg/l(Figure 4d)</td><td>P=0.03</td></tr><tr><td>CRP decrease (POD1−POD5) 21.9 mg/l(Figure 4e)</td><td>P=0.07</td></tr></table>"
+  },
+  {
+   "table_id": "img_056054_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    468.0,
+    580.0,
+    591.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_056054_t1.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Low triglyceride group ≤ 2.2 mmol/l</td><td colspan=\"2\">High triglyceride group &gt; 2.2 mmol/l</td></tr><tr><td>Polymorphism</td><td>Number</td><td>%</td><td>Number</td><td>%</td></tr><tr><td>T/T</td><td>74</td><td>77.1</td><td>26</td><td>59.1</td></tr><tr><td>T/C</td><td>18</td><td>18.8</td><td>18</td><td>40.9</td></tr><tr><td>C/C</td><td>4</td><td>4.2</td><td>nd</td><td>nd</td></tr><tr><td>Total</td><td>96</td><td>100</td><td>44</td><td>100</td></tr></table>"
+  },
+  {
+   "table_id": "img_056094_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    268.0,
+    580.0,
+    416.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_056094_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Test</td><td colspan=\"2\">Preclinical students(n=484)</td><td>Clinical students (n=253)</td></tr><tr><td>cGPAB(95% CI);p-value</td><td>Progress testB(95% CI);p-value</td><td>cGPAB(95% CI);p-value</td></tr><tr><td>CHSA</td><td>0.21(-0.14,0.56);0.17</td><td>0.31(-12.03,12.66); 0.95</td><td>-0.09(-1.77,1.60);0.63</td></tr><tr><td>GAT</td><td>-0.05(-0.11, -0.00); 0.048</td><td>-0.99(-3.35,1.36); 0.31</td><td>-0.06(-1.06,0.94);0.57</td></tr><tr><td>NAT</td><td>0.08(0.01,0.16); 0.04</td><td>1.05(-1.76,3.88); 0.36</td><td>0.06(-0.97,1.09);0.61</td></tr><tr><td>TOEFL</td><td>0.01(0.00,0.01); 0.02</td><td>0.10(-0.13,0.33); 0.30</td><td>-0.00(-0.06,0.06);0.61</td></tr><tr><td>IELTS</td><td>0.12(-0.62,0.86); 0.69</td><td>7.04(-22.64,36.72); 0.55</td><td>0.13(-4.69,4.94);0.80</td></tr></table>"
+  },
+  {
+   "table_id": "img_056094_t1",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    460.0,
+    580.0,
+    622.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_056094_t1.png",
+   "html": "<table><tr><td>Variable (alter)</td><td>Obs</td><td>Mean</td><td>Std. Dev.</td><td>Min</td><td>Max</td></tr><tr><td>GP</td><td>80</td><td>1.06</td><td>0.43</td><td>0</td><td>2</td></tr><tr><td>Psychologist</td><td>80</td><td>0.75</td><td>0.44</td><td>0</td><td>1</td></tr><tr><td>Nurse</td><td>80</td><td>0.81</td><td>0.53</td><td>0</td><td>2</td></tr><tr><td>Cardiologist</td><td>80</td><td>0.13</td><td>0.33</td><td>0</td><td>1</td></tr><tr><td>Hospital Specialist (excluding Cardiologist)</td><td>80</td><td>0.45</td><td>0.57</td><td>0</td><td>2</td></tr><tr><td>non GP</td><td>80</td><td>2.14</td><td>1.25</td><td>0</td><td>5</td></tr><tr><td>any professional</td><td>80</td><td>3.20</td><td>1.35</td><td>1</td><td>6</td></tr></table>"
+  },
+  {
+   "table_id": "img_056173_t0",
+   "page_num": 7,
+   "bbox": [
+    14.0,
+    236.0,
+    547.0,
+    547.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_056173_t0.png",
+   "html": "<table><tr><td>Parametersmean ± SDmedian (range)</td><td>Group A1</td><td>Group B1</td><td>A1/B1(P)</td><td>Group A2</td><td>Group B2</td><td>A2/B2(P)</td></tr><tr><td>Age (y)</td><td>59.23 ± 7.1257.00 (51.00 to 74.00)</td><td>61.52 ± 7.8662.00 (43.00 to 77.00)</td><td>0.31</td><td>57.22 ± 10.8655.00(51.00 to 76.00)</td><td>59.62 ± 7.5459.00 (43.00 to 75.00)</td><td>0.28</td></tr><tr><td>ACD (mm)</td><td>3.15 ± 0.363.26 (2.60 to 3.78)</td><td>3.24 ± 0.413.34 (2.54 to 3.81)</td><td>0.45</td><td>3.29 ± 0.413.36 (2.54 to 3.94)</td><td>3.17 ± 0.433.33 (2.54 to 3.78)</td><td>0.89</td></tr><tr><td>AL (mm)</td><td>23.68 ± 1.1623.49 (21.96 to 26.45)</td><td>24.29 ± 1.5324.37 (22.00 to 26.84)</td><td>0.14</td><td>24.21 ± 1.5624.44 (21.91 to 27.51)</td><td>23.78 ± 1.3623.53 (21.96 to 26.74)</td><td>0.30</td></tr><tr><td>PreoperativeUDVA</td><td>0.52 ± 0.180.52 (0.22 to 1.00)</td><td>0.58 ± 0.160.60 (0.30 to 0.82)</td><td>0.23</td><td>0.56 ± 0.160.60 (0.22 to 0.82)</td><td>0.56 ± 0.170.52 (0.22 to 0.92)</td><td>0.85</td></tr><tr><td>PreoperativeCDVA</td><td>0.40 ± 0.140.40 (0.10 to 0.70)</td><td>0.47 ± 0.120.40 (0.20 to 0.70)</td><td>0.24</td><td>0.49 ± 0.150.52 (0.22 to 0.82)</td><td>0.50 ± 0.180.52 (0.10 to 0.82)</td><td>0.34</td></tr><tr><td>Spherical Refractiona (D)</td><td>−0.11 ± 0.210.00 (− 0.50 to 0.25)</td><td>−0.13 ± 0.240.00 (− 0.50 to 0.25)</td><td>0.67</td><td>− 0.07 ± 0.250.00 (− 0.50 to 0.25)</td><td>−0.07 ± 0.230.00 (− 0.50 to 0.25)</td><td>0.94</td></tr><tr><td>Cylindrical Refractiona (D)</td><td>−0.34 ± 0.21− 0.38 (− 0.75 to 0.00)</td><td>−0.37 ± 0.24− 0.50 (− 0.75 to 0.00)</td><td>0.81</td><td>−0.34 ± 0.16− 0.25 (− 0.50 to 0.00)</td><td>−0.54 ± 0.25− 0.50 (− 1.00 to 0.00)</td><td>0.00</td></tr><tr><td>SEa (D)</td><td>−0.28 ± 0.22− 0.25 (− 0.63 to 0.25)</td><td>−0.32 ± 0.23− 0.38 (− 0.75 to 0.13)</td><td>0.59</td><td>−0.25 ± 0.24− 0.25 (− 0.63 to 0.25)</td><td>−0.34 ± 0.26− 0.38 (− 1.00 to 0.13)</td><td>0.18</td></tr></table>"
+  },
+  {
+   "table_id": "img_056173_t1",
+   "page_num": 7,
+   "bbox": [
+    14.0,
+    561.0,
+    547.0,
+    696.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_056173_t1.png",
+   "html": "<table><tr><td rowspan=\"2\">Source</td><td colspan=\"4\">Single Sensor (Average)</td><td rowspan=\"2\">MSP</td><td rowspan=\"2\">MSA</td></tr><tr><td>Proposed</td><td>SIFT</td><td>FAST</td><td>ASIFT</td></tr><tr><td>STT</td><td>91.3%</td><td>87.1%</td><td>52.3%</td><td>74.8%</td><td>93.4%</td><td>95.1%</td></tr><tr><td>STF</td><td>11.8%</td><td>9.1%</td><td>4.5%</td><td>5%</td><td>20.5%</td><td>95.2%</td></tr><tr><td>MT</td><td>51.1%</td><td>46.4%</td><td>32.7%</td><td>30.5%</td><td>55.6%</td><td>93.8%</td></tr><tr><td>Average</td><td>51.4%</td><td>47.5%</td><td>29.8%</td><td>36.8%</td><td>56.5%</td><td>94.7%</td></tr><tr><td>Average time cost(ms)</td><td>288</td><td>419</td><td>227</td><td>2987</td><td>—</td><td>—</td></tr></table>"
+  },
+  {
+   "table_id": "img_056427_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    87.0,
+    580.0,
+    214.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_056427_t0.png",
+   "html": "<table><tr><td>Sample #</td><td>Growth temperature (°C)</td><td>Ar flow rate (SCCM)</td><td>N2 flow rate (SCCM)</td><td>N2/Ar flow rate ratio</td></tr><tr><td>1</td><td>300</td><td>9</td><td>2</td><td>0.22</td></tr><tr><td>2</td><td>300</td><td>10</td><td>4</td><td>0.40</td></tr><tr><td>3</td><td>300</td><td>10</td><td>6</td><td>0.60</td></tr><tr><td>4</td><td>300</td><td>10</td><td>8</td><td>0.80</td></tr><tr><td>5</td><td>300</td><td>10</td><td>10</td><td>1.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_056427_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    242.0,
+    580.0,
+    365.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_056427_t1.png",
+   "html": "<table><tr><td colspan=\"2\">motion_sensor/hand.msg</td></tr><tr><td>std_msgs/Header</td><td>header</td></tr><tr><td>uint32</td><td>hands_num</td></tr><tr><td>string[]</td><td>hand_typer</td></tr><tr><td>geometry_msgs/Point</td><td>position</td></tr><tr><td>geometry_msgs/Quaternion</td><td>orientation</td></tr></table>"
+  },
+  {
+   "table_id": "img_056427_t2",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    394.0,
+    580.0,
+    601.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_056427_t2.png",
+   "html": "<table><tr><td>Induced Damage</td><td>Experimental Animal</td><td>Intervention</td><td>Duration</td><td>Main Outcomes a</td><td>Reference</td></tr><tr><td>Obesity-related inflammation</td><td>C57BL/6 J mice</td><td>5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)</td><td>18 weeks</td><td>↓ High fat diet-induced IL-6 and expression of pro-inflammatory genes</td><td>[56]</td></tr><tr><td>Adipose tissue inflammation</td><td>C57BL/6 J mice</td><td>5% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)</td><td>18 weeks</td><td>↓ High fat diet-induced TNF-α, IL-6, iNOS, NF-κB, COX-2</td><td>[57]</td></tr><tr><td>Adipose tissue inflammation</td><td>Swiss mice</td><td>10% Cocoa-enriched diet (50 mg flavanols/Kg.b.w.)</td><td>4 weeks</td><td>↑ High fat diet-down regulated PPARα expression and signaling</td><td>[58]</td></tr><tr><td>Experimental myocarditis</td><td>Balb/c mice</td><td>Cocoa polyphenol extract (oral)</td><td>3 weeks</td><td>↓ Myocarditis-induced IL-1β, IL-6, E-selectin, VCAM-1, NF-κB</td><td>[60]</td></tr><tr><td>Atherogenic diet</td><td>ApoE3Leiden mice</td><td>High flavanol chocolate-enriched diet (8.75%)</td><td>20 weeks</td><td>↑ High cholesterol-induced VCAM-1 and E-selectin</td><td>[62]</td></tr></table>"
+  },
+  {
+   "table_id": "img_056576_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    222.0,
+    580.0,
+    401.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_056576_t0.png",
+   "html": "<table><tr><td>SPIDER Tool1</td><td>Search terms</td></tr><tr><td>S</td><td>(“rural” OR “regional”) AND (“population” OR “healthcare” OR “community”)</td></tr><tr><td>P of I</td><td>(“communit*” OR “consumer” OR “citizen”) AND (“participation” OR “engage*” OR</td></tr><tr><td></td><td>“involve*” OR “partner*” OR “collaborat*” OR “develop*”)</td></tr><tr><td></td><td>OR “cooperative behavio*” OR “stakeholder governance” OR “community network*” OR “community develop*” OR “social capital health services” OR “community-institutional relations” OR “community health planning” OR “health service*” OR “health planning”</td></tr><tr><td>D/E/R</td><td>“qualitative” OR “quantitative” OR “mixed method*” OR “community participation action” OR “case study” OR “cohort study” OR “quality assurance”</td></tr></table>"
+  },
+  {
+   "table_id": "img_056576_t1",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    444.0,
+    580.0,
+    564.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_056576_t1.png",
+   "html": "<table><tr><td>Protocols</td><td>Time</td><td>aConc.1</td><td>Conc.2</td><td>Conc.3</td><td>Conc.4</td><td>Conc.5</td></tr><tr><td>bDVI</td><td>0 h</td><td>0 %</td><td>0-25 %</td><td>25-50 %</td><td>50-75 %</td><td>100 %</td></tr><tr><td></td><td>1 h</td><td>0 %</td><td>0 %</td><td>0-25 %</td><td>25-50 %</td><td>50-75 %</td></tr><tr><td></td><td>2 h</td><td>0 %</td><td>0 %</td><td>0 %</td><td>0-25 %</td><td>50 %</td></tr><tr><td>cIVR</td><td>30 min</td><td>0 %</td><td>0 %</td><td>25-50 %</td><td>50 %</td><td>≥75 %</td></tr><tr><td></td><td>1 h</td><td>0 %</td><td>0 %</td><td>0-25 %</td><td>25-50 %</td><td>50-75 %</td></tr></table>"
+  },
+  {
+   "table_id": "img_056777_t0",
+   "page_num": 10,
+   "bbox": [
+    14.0,
+    118.0,
+    539.0,
+    430.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_056777_t0.png",
+   "html": "<table><tr><td>Criteria</td><td>Description</td><td>Reference</td></tr><tr><td>Classic</td><td>• Proband diagnosed with a STS before age45 AND;- One first-degree relative with any tumor diagnosed before age45 AND;- Another first- or second-degree relative diagnosed with anycancer before age 45 or a STS at any age</td><td>Li and Fraumeni, 1988</td></tr><tr><td>Birch</td><td>• Proband with a cancer diagnosed inchildhood (STS, CNS, ADR) OR;• Proband diagnosed with a STS, SNC, orADR before age 45 AND;- One first- or second-degree relative diagnosedwith a tumor from the LFS spectrum at any age AND;- First- orsecond-degree relative diagnosed with any cancer before age 60</td><td>Birch, 1994</td></tr><tr><td>Eeles</td><td>• LFL-Eeles 1- Two first-or second- degree relatives diagnosed with a typical LFStumor at any age• LFL-Eeles 2- Proband diagnosed with a STS at any age AND;- Two first-orsecond-degree relatives diagnosed with two different typical LFS tumors at anyage</td><td>Eeles, 1995</td></tr><tr><td>Chompret</td><td>• Proband diagnosed with a typical LFStumor before age 36 AND;- One first- or second-degree relativediagnosed with any cancer before age 46 OR;- One relative with multipletumors diagnosed at any age• Proband with multiple primary tumors -including two typical LFS tumors - with the first diagnosed before age 36regardless of family history• Proband with ADR at any age regardless offamily history</td><td>Chompret, 2001</td></tr><tr><td>Chompret 2009</td><td>• Proband with a typical LFS tumordiagnosed before age 46 AND;- At least one first- or second-degreerelative diagnosed with a typical LFS tumor (except breast cancer if theproband is/was affected by breast cancer) before age 56 or with multipleprimary tumors OR;• Proband with multiple primary tumors (other thanmultiple breast tumors) - including at least two from LFS tumor spectrum - withthe first diagnosed before age 46;• Proband diagnosed with ADR or CPCat any age irrespective of family history</td><td>Tinat, 2009</td></tr></table>"
+  },
+  {
+   "table_id": "img_056777_t1",
+   "page_num": 10,
+   "bbox": [
+    14.0,
+    444.0,
+    539.0,
+    613.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_056777_t1.png",
+   "html": "<table><tr><td>Antibody</td><td>Source</td><td>Non-neoplastic mucosa</td><td>Altered expression in cancer</td></tr><tr><td>Cytokeratin</td><td>mouse monoclonal, clone AE1/AE3, 1:200, Dako</td><td>Cytoplasmic</td><td>Loss</td></tr><tr><td>E-cadherin</td><td>mouse monoclonal, clone HECD-1, 1:200, Zymed</td><td>Membranous</td><td>Loss</td></tr><tr><td>TTF-1</td><td>mouse monoclonal, clone 8G7G3/1, 1:200, Dako</td><td>Nuclear</td><td>Loss</td></tr><tr><td>β-catenin</td><td>mouse monoclonal, clone CAT-5H10, 1:500, Zymed</td><td>Membranous</td><td>Cytoplasmic or Nuclea</td></tr><tr><td>Vimentin</td><td>mouse monoclonal, clone vim-3B4, 1:400, Dako</td><td>Negative</td><td>Cytoplasmic</td></tr><tr><td>Snail</td><td>rabbit polyclonal, ab 85931, 1:500, Abcam</td><td>Negative</td><td>Nuclear</td></tr><tr><td>Twist</td><td>rabbit polyclonal, ab 50581, 1:500, Abcam</td><td>Negative</td><td>Cytoplasmic</td></tr><tr><td>CD44</td><td>mouse monoclonal, clone DF1485, 1:250, Dako</td><td>Negative</td><td>Membranous</td></tr></table>"
+  }
+ ]
+}

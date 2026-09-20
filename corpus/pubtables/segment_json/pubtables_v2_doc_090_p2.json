@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_090",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    38.8,
+    53.8,
+    374.4,
+    65.3
+   ],
+   "ocr": "R60.4 Genome Biology 2005, Volume 6, Issue 7, Article R60 Magness et al."
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    533.9,
+    53.9,
+    698.0,
+    65.3
+   ],
+   "ocr": "http://genomebiology.com/2005/6/7/R60"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.9,
+    107.2,
+    386.3,
+    142.7
+   ],
+   "ocr": "Table 2 Macaque sequences showing weak identity with best human match"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    71.9,
+    159.9,
+    700.6,
+    485.9
+   ],
+   "ocr": "Gene Name RefSeq ID* Amino-acid identity (%)† Unigene ID* LocusLink/ Gene ID*\nPSG11 Pregnancy specific beta-1-glycoprotein 11 NM_203287.1 68.04 Hs.502097 5680\nPSG5 Pregnancy specific beta-1-glycoprotein 5 NM_002781.2 73.71 Hs.534030 5673\nANG Angiogenin, ribonuclease, RNase A family, 5 NM_001145.2 75.17 Hs.283749 283\nPIP Prolactin-induced protein NM_002652.2 75.86 Hs.99949 5304\nGNLY Granulysin NM_006433.2 76.55 Hs.105806 10578\nLAIR2 Leukocyte-associated Ig-like receptor 2 NM_002288.3 80.13 Hs.43803 3904\nCRYL1 Crystallin, lambda 1 NM_015974.1 80.31 Hs.370703 51084\nARP10 ARP10 protein NM_181773.2 82.58 Hs.440515 164668\nLOC151174 Hypothetical protein LOC151174 XM_371605.1 83.04 Hs.424165 151174\nGH2 Growth hormone 2 NM_022558.2 84.56 Hs.406754 2689\nAPOBEC3C Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like NM_014508.2 85.26 Hs.441124 27350\n3C\nNDUFC2 NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2 NM_004549.3 85.71 Hs.407860 4718\nSAA4 Serum amyloid A4 NM_006512.1 85.94 Hs.512677 6291\nSEPP1 Selenoprotein P, plasma, 1 NM_005410.1 86.07 Hs.275775 6414\nGZMB Granzyme B (cytotoxic T-lymphocyte-associated serine esterase 1) NM_004131.3 86.64 Hs.1051 3002\nIFITM1 Interferon induced transmembrane protein 1 NM_003641.2 87.2 Hs.458414 8519\nGH1 Growth hormone 1 NM_000515.3 87.56 Hs.500468 2688\nTMEM14B Transmembrane protein 14B NM_030969.2 87.72 Hs.273077 81853\nPRG2 Proteoglycan 2 NM_002728.4 88.35 Hs.512633 5553\nMRPL40 Mitochondrial ribosomal protein L40 NM_003776.2 88.94 Hs.431307 64976\nGKN1 Gastrokine 1 NM_019617.2 89.07 Hs.69319 56287",
+   "table_id": "PMC1175991_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    71.9,
+    495.9,
+    405.3,
+    507.8
+   ],
+   "ocr": "*GenBank identifiers for best matching human homolog. †Amino-acid sequence"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    408.2,
+    495.9,
+    569.7,
+    507.8
+   ],
+   "ocr": "identity between macaque and human."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.9,
+    549.6,
+    376.2,
+    918.6
+   ],
+   "ocr": "lymphocytes) and/or are associated with pregnancy or the immune response. The observation of poor sequence identity for immune genes is not surprising, as increased divergence and evidence for positive selection have previously been reported for members of this group [17,18]. The most inter- esting example of divergence from our study is APOBEC3C, a member of the cytidine deaminase family. Rhesus macaque APOBEC3C is only approximately 85% identical to its puta- tive human ortholog. Members of the APOBEC family are important mediators of lentivirus infection [19], and acceler- ated evolution has been reported for several members of this gene family [20]. We also identified ten placentally expressed pregnancy- related transcripts with very weak similarity to their putative human ortholog. Prominent among these are the pregnancy- specific glycoproteins (PSG5 and PSG11). For example, the best macaque match to human PSG11 shows only 68% iden- tity and is not better matched to any other member of the human PSG family. Other placentally expressed weak orthologs include the growth mediators angiogenin (ANG) and growth hormone 1 and 2 (GH1 and GH2). Episodic accel- erated evolution has previously been reported for both ang- iogenin and the growth hormones, although its biological and developmental implications are not well understood [21,22]."
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    397.6,
+    549.6,
+    702.0,
+    918.6
+   ],
+   "ocr": "We compiled amino-acid similarity data into gene functional groupings using the 'biological process' classifications from the Gene Ontology (GO) Consortium [23] (Table 3). Data are shown for only those classes containing three or more entries. The data reveal a wide degree of variation in class-specific values of sequence similarity between human and macaque. Highly conserved classes include those involved in intracellu- lar signaling, small GTPase-mediated signal transduction, translation initiation, and protein biosynthesis and folding. Poorly conserved biological process groups include preg- nancy and immune and inflammatory response. We note that the small size of the dataset is reflected in large standard devi- ations for several classes of genes. These data share similarity with recent comparative analyses between human and chimpanzee [4,24]. For example in chimpanzee, a high degree of sequence conservation and low rates of nonsynonymous substitution were found for several biological classes, including protein transport, small GTPase- mediated signal transduction, regulation of DNA-dependent transcription, intracellular signaling, and glycolysis. How- ever, not all biological functional groups demonstrate consist- ent conservation among the three species. For example, the signal transduction biological class is highly conserved between chimpanzee and human, whereas its conservation"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    393.6,
+    955.4,
+    443.2,
+    967.1
+   ],
+   "ocr": "2005, 6:R60"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    323.4,
+    955.6,
+    390.7,
+    967.1
+   ],
+   "ocr": "Genome Biology"
+  }
+ }
+}

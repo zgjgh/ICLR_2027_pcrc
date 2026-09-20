@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_075",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "caption",
+   "bbox": [
+    80.5,
+    50.7,
+    386.3,
+    98.8
+   ],
+   "ocr": "Bessemans et al. Table 1. Configuration Parameters of Predefined Liquid Classes."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    80.5,
+    109.1,
+    696.0,
+    369.3
+   ],
+   "ocr": "Dispensing\nSubclass Aspiration Parameters Parameters\nBreak-Off\nLiquid Aspirate Delay Dispense Speed\nClass No. Volumes (µL) speed (µL/s) (ms) STAG LAG TAG Speed (µL/s) Factor Offset\nDMSO 1 3.00–15.01 20 200 10 10 5 600 150 1.063 0.10\n2 15.01–200.01 100 200 20 0 10 1.100 –0.30\n3 200.01–1000.01 150 300 20 0 10 1.002 19.30\nWater 1 3.00–15.01 20 200 10 10 5 1.045 0.20\n2 15.01–500.01 150 200 20 0 10 1.042 –0.04\n3 500.01–1000.01 150 200 20 0 10 1.000 20.26\nSerum 1 3.00–15.01 20 200 10 20 10 1.074 0.30\n2 15.01–300.01 100 200 20 0 10 1.060 0.43\n3 300.01–1000.01 100 200 20 0 10 1.007 16.63\nEthanol 1 3.00–1000.01 100 200 20 0 10 1.063 3.4\nLiquid 1 3.00–1000.01 150 200 0 0 10 1.000 0\nsystem",
+   "table_id": "PMC5030733_table_0"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    80.5,
+    379.8,
+    379.5,
+    391.6
+   ],
+   "ocr": "LAG, leading air gap; STAG, system trailing air gap; TAG, trailing air gap."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    406.1,
+    426.4,
+    708.9,
+    556.9
+   ],
+   "ocr": "deviation (%DEV) and calculated from the actual dispensed volume (VA) and the intended volume (VO) (eq 1). Precision was obtained by calculating the coefficient of variation expressed in percentage (%CV) and represents the variability between tips and between replicates of a given volume (eq 2). %CV was obtained by dividing the standard deviation (σ) by the mean (x). � V − V �"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    454.9,
+    546.8,
+    708.8,
+    567.4
+   ],
+   "ocr": "Accuracy ( % DEV ) = � A O �×100 (1)"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    560.7,
+    560.7,
+    610.1,
+    577.6
+   ],
+   "ocr": "� V �"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    575.8,
+    568.5,
+    590.2,
+    602.1
+   ],
+   "ocr": "O σ"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    477.9,
+    591.9,
+    708.8,
+    611.6
+   ],
+   "ocr": "Precision ( % CV ) = × 100 (2)"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    406.1,
+    605.8,
+    708.8,
+    670.4
+   ],
+   "ocr": "x In this study, statistical parameters and acceptance criteria were defined in assessing performance for each liquid class and subclass and are presented in Table 2."
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    80.3,
+    665.0,
+    383.2,
+    927.1
+   ],
+   "ocr": "Figure 1. Liquid class air gap setting configurations used for default liquid class. automatically. It also includes the balance serial communi- cation handled by the MSComm VB control in order to tare and read data of the balance after dispenses. Data are recorded in an Excel report and shown in the VB applica- tion user interface. Third, once the screening process is per- formed, the VB application analyses results and the liquid classes with the best precision and/or accuracy are high- lighted within the Excel report (Fig. 2). Statistical Parameters and Acceptance Criteria Used in Assessing Performance Both accuracy and precision are critical for ensuring pipetting performance.15 Accuracy was obtained as the percentage of"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    406.1,
+    703.5,
+    708.9,
+    927.1
+   ],
+   "ocr": "Adjusting Accuracy After the selection of predefined liquid class in the EVOware software, subclasses were adjusted automatically for three specific volumes (minimum, intermediate, and maximum, referred to as volumes 1, 2, and 3, respectively). Targeted accuracy (Table 2) and number of adjustment attempts (in general, maximum 4) were selected in the VB application by the operator. Based on these parameters, the VB applica- tion automatically ran the EVOware software and started the appropriate pipetting scripts with the predefined liquid class template, for the volumes to test (Fig. 2). During the first adjustment, the system adjusted the fac- tor and offset of the subclasses of the predefined liquid class. After measuring all volumes of one subclass (eight"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_320",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    749,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2864249_table_0",
+   "page_num": 1,
+   "bbox": [
+    83.9,
+    149.5,
+    648.6,
+    514.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2864249_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Category</td><td colspan=\"2\">Distinct signatures</td><td colspan=\"2\">Total signatures</td><td colspan=\"2\">Mean frequencies</td></tr><tr><td>WT</td><td>MT</td><td>WT</td><td>MT</td><td>WT</td><td>MT</td></tr><tr><td colspan=\"7\">matching protein- coding gene</td></tr><tr><td>sense</td><td>13811 (6.80%)</td><td>18142 (5.66%)</td><td>244819 (13.67%)</td><td>346569 (10.36%)</td><td>17.73</td><td>19.10</td></tr><tr><td>antisense</td><td>8281 (4.08)</td><td>10651 (3.32%)</td><td>120749 (6.74%)</td><td>162839 (4.87%)</td><td>14.58</td><td>15.29</td></tr><tr><td colspan=\"7\">non-protein- coding RNAs</td></tr><tr><td>snoRNA</td><td>13 (0.01%)</td><td>14 (0.01%)</td><td>471 (0.03%)</td><td>149 (0.01%)</td><td>36.23</td><td>10.64</td></tr><tr><td>snRNA</td><td>39 (0.02%)</td><td>104 (0.03%)</td><td>261 (0.01%)</td><td>859 (0.03%)</td><td>6.69</td><td>8.26</td></tr><tr><td>tRNA</td><td>647 (0.32%)</td><td>1301 (0.41%)</td><td>21932 (1.22%)</td><td>73778 (2.21%)</td><td>33.90</td><td>56.71</td></tr><tr><td>rRNA</td><td>2747 (1.35%)</td><td>3772 (1.18%)</td><td>59535 (3.33%)</td><td>99252 (2.97%)</td><td>21.67</td><td>26.31</td></tr><tr><td colspan=\"7\">miRNAs</td></tr><tr><td>known</td><td>667 (0.33%)</td><td>802 (0.25%)</td><td>61993 (3.46%)</td><td>87455 (2.61%)</td><td>92.94</td><td>109.05</td></tr><tr><td>novel</td><td>83 (0.04%)</td><td>111 (0.03%)</td><td>4084 (0.23%)</td><td>11463 (0.34%)</td><td>49.20</td><td>103.27</td></tr><tr><td>other sRNAs</td><td>176677 (87.05%)</td><td>285546 (89.11%)</td><td>1276551 (71.30%)</td><td>2563382 (76.62%)</td><td>7.23</td><td>8.98</td></tr><tr><td>total</td><td>202965 (100%)</td><td>320443 (100%)</td><td>1790395 (100%)</td><td>3345746 (100%)</td><td>8.82</td><td>10.44</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2864249_table_1",
+   "page_num": 2,
+   "bbox": [
+    76.4,
+    149.5,
+    668.4,
+    554.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2864249_table_1.png",
+   "html": "<table><tr><td>miRNA ID</td><td>Sequences (5'-3')</td><td>WT counta</td><td>MT counta</td><td>Fold change</td><td>Precursor Unigene ID</td><td>Start, end</td><td>miRNA star</td></tr><tr><td>csi-novel-01</td><td>UUUUUCGGCAACAU GAUUUCU</td><td>2.8</td><td>0.0</td><td></td><td>EY671768</td><td>607, 764</td><td>Yes</td></tr><tr><td>csi-novel-02</td><td>UGGAGGCAGCGGUU CAUCGAUC</td><td>4.5</td><td>3.3</td><td>1.4</td><td>EY681703</td><td>286,417</td><td>Yes</td></tr><tr><td>csi-novel-03</td><td>UAGAUAAAGAUGAG AGAAAAA</td><td>220.1</td><td>1248.5</td><td>5.7</td><td>EY683731</td><td>19,166</td><td>Yes</td></tr><tr><td>csi-novel-04</td><td>UUCAAGAAAUCUGU GGGAAG</td><td>8.9</td><td>0.0</td><td></td><td>EY714194</td><td>255, 397</td><td>Yes</td></tr><tr><td>csi-novel-05</td><td>UGAAGGGCCUUUCU AGAGCAC</td><td>90.5</td><td>29.6</td><td>3.1</td><td>CN182895</td><td>123, 285</td><td>Yes</td></tr><tr><td>csi-novel-06</td><td>UUCCCUAGUCCCCCU AUUCCUA</td><td>11.2</td><td>1.5</td><td>7.5</td><td>CX051199</td><td>168, 263</td><td>Yes</td></tr><tr><td>csi-novel-07</td><td>GGAAUGUUGUCUGG CUCGAGG</td><td>12.3</td><td>4.8</td><td>2.6</td><td>EY672989</td><td>141, 318</td><td>Yes</td></tr><tr><td>csi-novel-08</td><td>AGUGGGAGCGUGGG GUAAGAAG</td><td>287.1</td><td>369.1</td><td>1.3</td><td>EY676411</td><td>137, 282</td><td>Yes</td></tr><tr><td>csi-novel-09</td><td>UUGAGUUCUGCAAG CCGUCGA</td><td>0.0</td><td>2.7</td><td></td><td>EY712260</td><td>398, 498</td><td>Yes</td></tr><tr><td>csi-novel-10</td><td>AGGUCAUCUUGCAGC UUCAAU</td><td>27.9</td><td>4.5</td><td>6.2</td><td>EY739655</td><td>272, 634</td><td>Yes</td></tr><tr><td>csi-novel-11</td><td>UGGACAGAGAAAUCA CGGUCA</td><td>591.5</td><td>132.7</td><td>4.5</td><td>TC19570</td><td>105, 191</td><td>Yes</td></tr><tr><td>csi-novel-12</td><td>GCAGCGUCCUCAAGA UUCACA</td><td>15.1</td><td>4.5</td><td>3.4</td><td>TC23189</td><td>300, 444</td><td>Yes</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2864249_table_2",
+   "page_num": 3,
+   "bbox": [
+    95.9,
+    814.9,
+    658.2,
+    917.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2864249_table_2.png",
+   "html": "<table><tr><td></td><td>Producing sense small RNAs</td><td>Producing antisense small RNAs</td><td>Overlap between sense and antisense</td><td>Total sense or antisense</td></tr><tr><td>WT miRNA target genesa</td><td>65 (11.7%)</td><td>55 (9.9%)</td><td>44 (7.9%)</td><td>76 (13.7%)</td></tr><tr><td>MT miRNA target genesa</td><td>70 (12.6%)</td><td>77 (13.9%)</td><td>50 (9.0%)</td><td>97 (17.5%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2864249_table_3",
+   "page_num": 4,
+   "bbox": [
+    83.9,
+    149.5,
+    665.4,
+    824.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2864249_table_3.png",
+   "html": "<table><tr><td>miRNA</td><td>Sequence</td><td>WT counta</td><td>MT counta</td><td>Fold change</td><td>p-value</td></tr><tr><td colspan=\"6\">Higher expression in MT</td></tr><tr><td>csi-miR479</td><td>UGUGAUAUUGG UUCGGCUCAUC</td><td>1341.6</td><td>1921.5</td><td>1.9</td><td>0</td></tr><tr><td>csi-miR156a</td><td>UGACAGAAGAGA GUGAGCAC</td><td>856.2</td><td>1656.1</td><td>2.6</td><td>0</td></tr><tr><td>csi-miR167a</td><td>UGAAGCUGCCAG CAUGAUCUA</td><td>759.6</td><td>1967.3</td><td>21.6</td><td>0</td></tr><tr><td>csi-miR171b</td><td>CGAGCCGAAUCA AUAUCACUC</td><td>28.5</td><td>615.4</td><td>4.5</td><td>0</td></tr><tr><td>csi-novel-08</td><td>UAGAUAAAGAU GAGAGAAAAA</td><td>220.1</td><td>1248.5</td><td>1.5</td><td>0</td></tr><tr><td>csi-miR166j</td><td>UCUCGGACCAGG CUUCAUUCC</td><td>1682.9</td><td>2078.5</td><td>3.1</td><td>2.85E-22</td></tr><tr><td colspan=\"6\">Lower expression in MT</td></tr><tr><td>csi-miR482a</td><td>UCUUCCCUAUGC CUCCCAUUCC</td><td>103.9</td><td>4.2</td><td>15.6</td><td>0</td></tr><tr><td>csi-miR162a</td><td>UCGAUAAACCUC UGCAUCCAG</td><td>401.0</td><td>25.7</td><td>12.4</td><td>0</td></tr><tr><td>csi-miR159a</td><td>UUUGGAUUGAA GGGAGCUCUA</td><td>307.8</td><td>24.8</td><td>3.5</td><td>0</td></tr><tr><td>csi-miR390a</td><td>AAGCUCAGGAGG GAUAGCGCC</td><td>822.2</td><td>235.8</td><td>2.5</td><td>0</td></tr><tr><td>csi-miR164a</td><td>UGGAGAAGCAG GGCACGUGCA</td><td>1894.0</td><td>749.0</td><td>1.6</td><td>0</td></tr><tr><td>csi-miR167d</td><td>UGAAGCUGCCAG CAUGAUCUGA</td><td>1362.3</td><td>825.8</td><td>1.4</td><td>0</td></tr><tr><td>csi-miR172a</td><td>AGAAUCUUGAU GAUGCUGCAU</td><td>4688.4</td><td>3299.7</td><td>1.4</td><td>0</td></tr><tr><td>csi-novel-11</td><td>UGGACAGAGAAA UCACGGUCA</td><td>591.5</td><td>132.7</td><td>5.7</td><td>0</td></tr><tr><td>csi-miR156b</td><td>CUGACAGAAGAC AGUGAGCAC</td><td>41.3</td><td>1.8</td><td>2.5</td><td>2.86E-27</td></tr><tr><td>csi-miR473a</td><td>ACUCUCCCUCAA GGGCUUCGC</td><td>168.1</td><td>68.1</td><td>1.2</td><td>2.01E-26</td></tr><tr><td>csi-novel-03</td><td>UGAAGGGCCUU UCUAGAGCAC</td><td>90.5</td><td>29.6</td><td>8.1</td><td>2.87E-20</td></tr><tr><td>csi-miR399a</td><td>UGCCAAAGGAGA AUUGCCCUG</td><td>36.3</td><td>4.5</td><td>13.8</td><td>3.14E-18</td></tr><tr><td>csi-miR482c</td><td>UCUUGCCCACCC CUCCCAUUCC</td><td>29.0</td><td>2.1</td><td>15.6</td><td>8.98E-18</td></tr><tr><td>Csi-miR164d</td><td>UGGAGAAGCAG GGCACGUGCU</td><td>49.1</td><td>11.1</td><td>4.4</td><td>7.6E-17</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2864249_table_4",
+   "page_num": 5,
+   "bbox": [
+    76.4,
+    149.5,
+    593.5,
+    693.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2864249_table_4.png",
+   "html": "<table><tr><td>KEGGa pathway</td><td>Genesb</td><td>Gene ID</td><td>Best E-value</td></tr><tr><td>Benzoate degradation</td><td>5</td><td>EY732960, EY732985, EY748192, TC18796, TC9807</td><td>1.00E-125</td></tr><tr><td>Carbon fixation</td><td>8</td><td>EY665527, EY667061, TC11997, TC13950, TC17473, TC24400, EY722705, TC11997</td><td>1.00E-128</td></tr><tr><td>Ethylbenzene degradation</td><td>5</td><td>EY732960, EY732985, EY748192, TC18796, TC9807</td><td>1.00E-156</td></tr><tr><td>Fatty acid metabolism</td><td>5</td><td>EY732960, EY732985, EY748192, TC18796, TC9807</td><td>1.00E-156</td></tr><tr><td>Flavonoid biosynthesis</td><td>6</td><td>EY697662, EY742573, TC14650, TC3846, TC14650, TC3846</td><td>6.00E-93</td></tr><tr><td>Geraniol degradation</td><td>5</td><td>EY732960, EY732985, EY748192, TC18796, TC9807</td><td>1.00E-156</td></tr><tr><td>Glyoxylate and dicarboxylate metabolism</td><td>3</td><td>EY667061, EY708354, EY722705</td><td>2.00E-86</td></tr><tr><td>Linolenic acid metabolism</td><td>5</td><td>EY732960, EY732985, EY748192, TC18796, TC9807</td><td>1.00E-122</td></tr><tr><td>Methane metabolism</td><td>3</td><td>EY697129, EY724821, TC20228</td><td>1.00E-68</td></tr><tr><td>Pentose phosphate pathway</td><td>3</td><td>TC13950, TC17473, TC15377</td><td>5.00E-58</td></tr><tr><td>Phenylalanine metabolism</td><td>4</td><td>EY664657, EY697129, NP13097244, TC20228</td><td>1.00E-167</td></tr><tr><td>Photosynthesis - antenna proteins</td><td>5</td><td>EY672715, EY682256, EY701112, EY701374, EY756276</td><td>1.00E-102</td></tr><tr><td>Ribosome</td><td>3</td><td>EY681302, EY752996, TC18634</td><td>2.00E-91</td></tr><tr><td>Terpenoid biosynthesis</td><td>3</td><td>EY730974, TC363, EY752486</td><td>6.00E-84</td></tr><tr><td>Ubiquitin mediated proteolysis</td><td>3</td><td>EY656660, EY665372, EY752038</td><td>2.00E-83</td></tr><tr><td>Valine leucine and isoleucine degradation</td><td>6</td><td>EY732985, EY732960, EY748192, TC18796, TC9807, TC5927</td><td>1.00E-156</td></tr></table>"
+  }
+ ]
+}

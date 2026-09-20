@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_148",
+  "page": 2,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    478.9,
+    79.4,
+    633.6,
+    88.7
+   ],
+   "ocr": "Beilstein J. Org. Chem. 2012, 8, 915–929."
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    77.8,
+    130.1,
+    311.0,
+    139.4
+   ],
+   "ocr": "Table 2: Glycosyltransferase/glycan-binding protein databases."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    81.2,
+    159.2,
+    623.6,
+    647.4
+   ],
+   "ocr": "Name, Ref Main content, comments URL Statusa\nGlycosyltransferase (GT) databases\nCAZy (Carbohydrate Active Glyco-enzymes clustered into families by http://www.cazy.org D/M\nenZYmes) [52] sequence comparison\nCAZyPedia Wikipedia-like description of GT and GH http://www.cazypedia.org D/M\nfamilies\nCFG GT DB Enzymes for biosynthesis of mammalian http://www.functionalglycomics.org/glyco S\nglycans mics/molecule/jsp/glycoEnzyme/geMolec\nule.jsp\nGlycoGeneDB (JCGGDB) Glyco-enzymes: genes, substrates, gene http://riodb.ibase.aist.go.jp/rcmg/ggdb/ D/M\nexpression\nGPI Biosynthesis report [53] Enzymes involved in biosynthesis of glycosyl http://mendel.imp.ac.at/SEQUENCES/gpi S\nphosphatidyl inositol (GPI) anchors -biosynthesis/\nKEGG Pathway Biosynthesis pathways, enzyme entries with http://www.genome.jp/kegg/pathway.html D/M\nsequence and notation data and links to\nother resources\nKEGG Orthology General data on enzymes and catalyzed http://www.genome.jp/kegg/ko.html D/M\nreactions, links to specific proteins\nGlycan binding proteins (GBP) databases\nCFG Glycan Binding Proteins Includes information on recognized glycan http://www.functionalglycomics.org/glyco S\nepitopes and on related diseases mics/molecule/jsp/gbpMolecule-home.jsp\nGenomics Resource for Description of animal lectin families http://www.imperial.ac.uk/research/anima S\nAnimal Lectins llectins/\nGlyAffinity Collection of glycan array data from several http://worm.mpi-cbg.de/affinity/ S\nresources\nGlycoEpitopeDB [54] Antibodies that bind to carbohydrates, http://www.glyco.is.ritsumei.ac.jp/epitope/ D/M\nglyco-epitopes recognized by the antibodies\nKEGG BRITE: Glycan Protein classification, links to other KEGG http://www.genome.jp/kegg-bin/get_htext D/M\nBinding Proteins resources and to external databases ?ko04091.keg\nLectin Frontier Database Includes glycan array data http://riodb.ibase.aist.go.jp/rcmg/glycodb/ D/M\n(JCGGDB) LectinSearch\nLECTINES Collection of lectin 3D structures from the http://www.cermav.cnrs.fr/lectines/ D/M\nPDB\nPACDB (JCGGDB Pathogen Pathogen adherence molecule, host http://jcggdb.jp/search/PACDB.cgi D/M\nAdherence to Carbohydrate glycan/glycoprotein ligand, bibliography\nDB)",
+   "table_id": "PMC3388882_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    77.8,
+    653.2,
+    619.4,
+    674.5
+   ],
+   "ocr": "aD/M: Database is further developed and/or maintained; S: Development/maintenance is stopped (or, in the case of CFG resources, will be stopped soon because funding will discontinue)."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    725.7,
+    636.0,
+    942.5
+   ],
+   "ocr": "tion in ECODAB [23] is limited to E. coli enzymes. Glyco- information regarding related diseases. GlycoEpitopeDB GeneDB as part of the JCGGDB portal also holds data on provides information on antibodies that recognize specific glyco-enzymes, including information on substrate specificity, carbohydrate epitopes and glycoproteins or glycolipids that are which is important when the enzymes are to be used to synthe- known to carry the epitopes. size glycan structures in the lab. A frequently used technique to study the epitopes, to which a Information on glycan-binding proteins (GBPs) or lectins is GBP binds, are glycan arrays [4]. CFG Glycan Binding Proteins stored in various databases such as CFG GBP DB, GlycoEpi- DB and Lectin Frontier Database store data of glycan array topeDB [54], the Glycan Binding Proteins section of KEGG experiments and thus also provide information on the glycan BRITE, Lectin Frontier Database, and GlyAffinity. KEGG specificity of GBPs. Glycan array data from these two resources BRITE mainly links to other resources within and outside the and from other research groups are collected and available via a KEGG portal, providing protein sequences, classifications, and common interface in GlyAffinity. PACDB (Pathogen Adher- 919"
+  }
+ }
+}

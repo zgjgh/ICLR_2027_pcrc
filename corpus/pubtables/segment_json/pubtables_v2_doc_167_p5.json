@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_167",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    260.5,
+    53.4
+   ],
+   "ocr": "Prielhofer et al. BMC Genomics (2015) 16:167"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 10 of 17"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    377.7,
+    124.4
+   ],
+   "ocr": "Table 5 Transcriptional regulation of sugar transporters and"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    381.1,
+    111.4,
+    418.9,
+    124.4
+   ],
+   "ocr": "sensors"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    695.2
+   ],
+   "ocr": "Short name Pp Description G-D G-D M-D M-D X-D X-D\nlogFC adjPV logFC adjPV logFC adjPV\nPpHXT1 P. pastoris major low affinity glucose transporter −1.31 −3.34 *** −0.82 *\n(major facilitator superfamily)\nITR2 Myo-inositol transporter −0.40 * −0.88 * −0.62 ***\nPAS_c034_0021 Major facilitator superfamily, related to STL1 −0.59 ** 0.10 −0.55 ***\nPAS_chr2-1_0006 Major facilitator superfamily, Quinate permease (Quinate −0.06 −0.80 −0.01\ntransporter) - similar to S. stipitis\nYBR241C Putative transporter, member of the sugar porter family 0.12 −0.16 0.26\nPpHXT2 P. pastoris putative low affinity glucose transporter of −0.10 −0.10 −0.09\nthe major facilitator superfamily\nSTL1-1 Glycerol proton symporter of the plasma membrane, 0.08 −0.11 1.23 ***\nsubject to glucose-induced inactivation in S. cerevisiae\nSTL1-2 Glycerol proton symporter of the plasma membrane, subject −0.27 0.40 2.08 ***\nto glucose-induced inactivation in S. cerevisiae\nSNF3 P. pastoris plasma membrane glucose sensor Gss1, regulates 0.16 0.44 1.60 ***\nglucose transport\nPAS_chr3_1076 Glycerol proton symporter of the plasma membrane, 0.37 0.65 ** 0.62 **\nrelated to RGT2\nPAS_chr3_1099 Glycerol proton symporter of the plasma membrane, 0.34 0.80 ** 1.33 ***\nrelated to STL1 or RGS2\nMAL31 Maltose permease, high-affinity maltose transporter 0.09 0.81 *** 0.68 ***\n(alpha-glucoside transporter)\nGTH1 P. pastoris major high affinity glucose transporter; similar 0.17 1.09 *** 6.14 ***\nto K. lactis HGT1\nPpHGT1 P. pastoris high affinity glucose transporter - similar 0.59 0.86 ** 4.91 ***\nto K. lactis HGT1\nPAS_chr4_0828 Myo-inositol transporter with strong similarity to the 2.35 *** 3.65 *** 7.30 ***\nmajor myo-inositol transporter Itr1p, member of the\nsugar transporter superfamily\nHXK1 Hexokinase isoenzyme 1; a cytosolic protein that catalyzes 0.30 −0.21 1.69 ***\nphosphorylation of glucose during glucose metabolism;\nexpression in S. cerevisiae is highest during growth on\nnon-glucose carbon sources\nHXK2 Hexokinase isoenzyme 2; catalyzes phosphorylation of −0.12 0.18 0.03\nglucose in the cytosol; predominant hexokinase during\ngrowth on glucose in S. cerevisiae\nGLK1 Glucokinase; catalyzes the phosphorylation of glucose at C6; −0.99 ** −2.58 *** −0.34\nexpression regulated by non-fermentable carbon sources\nin S. cerevisiae",
+   "table_id": "PMC4408588_table_4"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    701.6,
+    372.9,
+    722.2
+   ],
+   "ocr": "Log2 fold changes and adjusted P-values (* adjPV < 0.1; ** adjPV < 0.05; *** adjPV genes are in bold letters, down-regulated genes in bold and italics."
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    374.7,
+    701.6,
+    675.7,
+    711.5
+   ],
+   "ocr": "< 0.01) are shown (see Additional file 1: Table S1 for detailed data). Up-regulated"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    760.9,
+    366.2,
+    925.8
+   ],
+   "ocr": "with pre-induction expression from the AOX1 promoter in the glycerol-fed batch prior to methanol addition [55-57], and high Aox1 protein levels in glucose-limited chemostats [58,59]. Repression of AOX1 expression was previously determined in P. pastoris grown on glucose, glycerol, ethanol and acetate [60], with glycerol repression being specific for P. pastoris AOX1/2, but not for alcohol oxidase genes in related yeasts such as H. polymorpha or C. boidinii [14]. Although it was assumed that some MUT genes might also be regulated by catabolite de-repression [15], the"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    760.9,
+    678.7,
+    925.8
+   ],
+   "ocr": "extent of this regulatory pathway has not been shown ex- perimentally in P. pastoris. Early observations reported that the mRNA levels of AOX1 upon de-repression was only 1- 2% of the methanol-induced mRNA levels [61], while FLD expression was assumed not to be under glucose repres- sion control [62]. On the contrary we see a high level of de-repression in cells grown on limiting glucose (Table 6). This contradiction might be explained by the fact that in our set up, the cells are actively growing, while previous experiments employed glucose-exhausted stationary-phase cells for studies of de-repression. Upon (constant)"
+  }
+ }
+}

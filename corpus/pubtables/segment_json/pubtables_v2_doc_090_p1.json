@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_090",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    38.8,
+    53.8,
+    374.4,
+    65.3
+   ],
+   "ocr": "R60.2 Genome Biology 2005, Volume 6, Issue 7, Article R60 Magness et al."
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    533.9,
+    53.9,
+    698.0,
+    65.3
+   ],
+   "ocr": "http://genomebiology.com/2005/6/7/R60"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.9,
+    107.0,
+    376.2,
+    238.6
+   ],
+   "ocr": "between rhesus and human, and its widespread use as a model for human reproduction, development, and disease, make it an ideal candidate for cDNA and genome sequencing. We have constructed cDNA libraries from a selection of diverse macaque tissues and multiple animals, and we have performed single-pass sequencing on 48,642 independent clones. This sequence information has been used to generate a rhesus macaque oligonucleotide microarray and to perform comparative analyses with human."
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    397.6,
+    107.2,
+    517.1,
+    142.7
+   ],
+   "ocr": "Table 1 Data-collection summary"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    397.5,
+    159.5,
+    658.4,
+    429.2
+   ],
+   "ocr": "Tissue Sequence reads\nPlacenta 12,033\nBrain 10,511\nPBMC 7,056\nSpleen 6,658\nJejunum 3,840\nLiver 3,744\nIleum 2,112\nLung 1,152\nOvary 672\nTestis 480\nDuodenum 384\nM. mulatta 46,626\nM. nemestrina 1,152\nM. fascicularis 864\nTotal 48,642",
+   "table_id": "PMC1175991_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.9,
+    269.5,
+    390.7,
+    967.1
+   ],
+   "ocr": "Results Sequence data collection and preliminary analysis We prepared cloned cDNA libraries from 11 M. mulatta tis- sues derived from nine separate animals. In addition, the liver was independently sampled from one animal each of the M. mulatta, M. nemestrina, and M. fascicularis species. cDNA libraries were prepared by directional lambda-based cloning into Escherichia coli and sequenced using standard fluorescent dye-terminator chemistry. Sequencing was per- formed from the vector-insert junction distal to the polyade- nylate sequence. A preliminary dataset of 48,642 independent clone sequences were collected as described in Table 1. We screened and ana- lyzed these data as described in Materials and methods. Sequence data quality was assessed using the phred algo- rithm [9], with a mean of 539 high-quality base-pairs per read over the entire dataset. High-quality sequence bases are defined as those with a computed phred quality value of 20 or greater (Q ≥ 20) and an expected error rate of less than 1%. Of the cloned sequences, 9,219 contain a mammalian polyade- nylation consensus sequence followed by a polyadenosine tail [10]. Data meeting minimum quality criteria (n = 36,921) have been submitted to GenBank and contribute to all subse- quent analyses. Project data and associated information are also publicly available on the project website [11]. We compared each macaque sequence to the mRNA RefSeq [12] component of GenBank using the MEGABLAST algo- rithm [13]. The most similar human sequence was identified as that reference sequence with the most significant match by bit score. In some cases, this method will identify matches between macaque and human sequences that are not orthologs, and so should be interpreted with caution. For all subsequent analyses, those macaque sequences with equally probable matches to more than one distinct human UniGene cluster have been excluded [14]. The entire dataset taken together provides a sampling of the putative macaque orthologs for 6,216 human genes (unique human LocusLink IDs), representing approximately 25% of the human gene content by recent estimate [15]. Although libraries were constructed from poly(dT)-primed cDNAs, the dataset includes a significant amount of coding sequence. Of the 6,216 unique human LocusLink IDs that Genome Biology"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    397.6,
+    492.8,
+    701.9,
+    921.1
+   ],
+   "ocr": "were sampled in macaque, 69.3% include coding sequence (mean aligned coding length = 602 bp), whereas 30.7% include only 5' or 3' untranslated region (UTR) sequence (mean aligned UTR length = 485 bp). Of those 69.3% of genes with sampled coding sequence, the average extent of coding sequence coverage in the macaque database is 49.9% (data not shown). Similarity of Macaca transcripts with human We used the initial alignment information from the above data to define a subset of sequences whose alignment with their best human match extended 150 bp in each direction around a well defined stop codon. This dataset was used to compute the distribution of sequence similarity between macaque and human as represented by the histograms in Fig- ure 1. The use of this constrained dataset permitted a direct comparison between the distributions for coding and non- coding sequence in the vicinity of the stop codon. Data for 1,180 macaque-human alignments are included in this analy- sis. Sequence-similarity distributions are not normal, with a modest tail toward lower values. The average degree of simi- larity for coding sequence is 97.79 ± 1.78% and 95.10 ± 4.15% for the 3' UTR. This analysis excludes data where the macaque stop codon was either mutated or in a different loca- tion relative to the human reference sequence. This analysis uses the 3' UTR proximal to the stop codon as a surrogate for all untranslated sequences. However, human-chimp compar- ative analysis suggests that the 5' UTR may be more divergent between species than other gene regions [16]. We did not have"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    393.6,
+    955.4,
+    443.2,
+    967.1
+   ],
+   "ocr": "2005, 6:R60"
+  }
+ }
+}

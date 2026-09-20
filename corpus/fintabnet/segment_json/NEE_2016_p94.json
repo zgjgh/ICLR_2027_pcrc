@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "NEE_2016",
+  "page": 94,
+  "page_size": [
+   612.0,
+   792.0
+  ]
+ },
+ "blocks": {
+  "NEE_2016_p94__paragraph_0": {
+   "type": "paragraph",
+   "bbox": [
+    49.5,
+    61.4,
+    565.0,
+    147.1
+   ],
+   "ocr": "market data against inputs utilized by the transacting group, and indirectly by reviewing daily risk reports. For markets where \nindependent third-party data is not readily available, additional analytical reviews are performed on at least a quarterly basis. These \nanalytical reviews are designed to ensure that all price and volatility curves used for fair valuing transactions are adequately validated \neach quarter, and are reviewed and approved by the Trading Risk Management group. In addition, other valuation assumptions \nsuch as implied correlations and customer migration rates are reviewed and approved by the Trading Risk Management group on \na periodic basis. Newly created models used in the valuation process are also subject to testing and approval by the Trading Risk \nManagement group prior to use and established models are reviewed annually, or more often as needed, by the Trading Risk \nManagement group."
+  },
+  "NEE_2016_p94__paragraph_1": {
+   "type": "paragraph",
+   "bbox": [
+    49.5,
+    158.6,
+    565.0,
+    222.7
+   ],
+   "ocr": "On a monthly basis, the Exposure Management Committee (EMC), which is comprised of certain members of senior management, \nmeets with representatives from the Trading Risk Management group and the transacting group to discuss NEE's and FPL's energy \nrisk profile and operations, to review risk reports and to discuss fair value issues as necessary. The EMC develops guidelines \nrequired for an appropriate risk management control infrastructure, which includes implementation and monitoring of compliance \nwith Trading Risk Management policy. The EMC executes its risk management responsibilities through direct oversight and delegation \nof its responsibilities to the Trading Risk Management group, as well as to other corporate and business unit personnel."
+  },
+  "NEE_2016_p94__caption_0": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    234.2,
+    565.0,
+    255.1
+   ],
+   "ocr": "The significant unobservable inputs used in the valuation of NEE's commodity contracts categorized as Level 3 of the fair value \nhierarchy at December 31, 2016 are as follows:"
+  },
+  "NEE_2016_p94__caption_1": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    431.5,
+    147.4,
+    440.4
+   ],
+   "ocr": "______________________"
+  },
+  "NEE_2016_p94__caption_2": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    443.8,
+    199.0,
+    451.6
+   ],
+   "ocr": "(a) \nApplies only to full requirements contracts."
+  },
+  "NEE_2016_p94__caption_3": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    463.6,
+    549.4,
+    473.7
+   ],
+   "ocr": "The sensitivity of NEE's fair value measurements to increases (decreases) in the significant unobservable inputs is as follows:"
+  },
+  "NEE_2016_p94__caption_4": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    591.1,
+    198.2,
+    608.2
+   ],
+   "ocr": "————————————\n(a) \nAssumes the contract is in a gain position."
+  },
+  "NEE_2016_p94__paragraph_2": {
+   "type": "paragraph",
+   "bbox": [
+    49.5,
+    620.2,
+    565.0,
+    662.7
+   ],
+   "ocr": "In addition, the fair value measurement of interest rate contract net liabilities related to the solar projects in Spain of approximately \n$110 million at December 31, 2016 includes a significant credit valuation adjustment. The credit valuation adjustment, considered \nan unobservable input, reflects management's assessment of non-performance risk of the subsidiaries related to the solar projects \nin Spain that are party to the contracts. See Note 11 - Spain Solar Projects Debt Restructuring for further discussion."
+  },
+  "NEE_2016_p94__table_0": {
+   "type": "table",
+   "bbox": [
+    52.5,
+    263.8,
+    558.1,
+    427.2
+   ],
+   "ocr": "Transaction Type Fair Value atDecember 31, 2016 ValuationTechnique(s)\nSignificantUnobservable Inputs Range Assets Liabilities\n(millions)\nForward contracts - power $621 $206 Discounted cash flow Forward price (per MWh)\n$— — $91 Forward contracts - gas 27 10 Discounted cash flow Forward price (per MMBtu)\n$2 — $11 Forward contracts - other commodity related 7 1 Discounted cash flow Forward price (various)\n$(17) — $57 Options - power 43 10 Option models Implied correlations\n1% — 100% Implied volatilities\n9% — 296% Options - primarily gas 223 230 Option models Implied correlations\n1% — 100% Implied volatilities\n1% — 260% Full requirements and unit contingent contracts 279 55 Discounted cash flow Forward price (per MWh)\n$(20) — $220 Customer migration rate(a)\n—% — 20% Total $1,200 $512",
+   "table_id": 134089
+  },
+  "NEE_2016_p94__table_1": {
+   "type": "table",
+   "bbox": [
+    52.5,
+    482.5,
+    355.0,
+    587.3
+   ],
+   "ocr": "Significant Unobservable Input Position Impact onFair Value Measurement\nForward price Purchase power/gas Increase (decrease)\nSell power/gas Decrease (increase)\nImplied correlations Purchase option Decrease (increase)\nSell option Increase (decrease)\nImplied volatilities Purchase option Increase (decrease)\nSell option Decrease (increase)\nCustomer migration rate Sell power(a) Decrease (increase)",
+   "table_id": 134090
+  }
+ }
+}

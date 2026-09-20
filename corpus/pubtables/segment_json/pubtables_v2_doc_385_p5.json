@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_385",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    277.2,
+    65.8
+   ],
+   "ocr": "Duffy and Als BMC Medicine 2012, 10:64 http://www.biomedcentral.com/1741-7015/10/64"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 13 of 18"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    365.2,
+    124.0
+   ],
+   "ocr": "Table 7 Relationship of spectral bands to coherences and"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    369.0,
+    111.0,
+    500.0,
+    124.0
+   ],
+   "ocr": "sign of loading per factor"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    83.0,
+    128.9,
+    667.0,
+    288.7
+   ],
+   "ocr": "Num of Coherences Load Delta Theta Alpha Slow Beta Fast Beta Totals\nPer Factor 2 Hz 4 to 8 Hz 10 to 12 Hz 14 to 22 Hz 24 to 30 Hz\n1 Pos 0 0 0 1 1 2\nNeg 0 0 1 3 2 +6\n8 (1)\n2-3 Pos 1 0 0 2 1 4\nNeg 0 2 0 5 0 +7\n11 (2 to 3)\n> 3 Pos 1 0 0 3 0 4\nNeg 0 2 1 3 4 +10\n14 (> 3)",
+   "table_id": "PMC3391175_table_6"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    295.7,
+    386.0,
+    316.3
+   ],
+   "ocr": "Abbreviations: Num, number; Pos, positive loading on factor; Neg, negative loading; on factor for ASD"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    389.0,
+    295.7,
+    677.4,
+    305.6
+   ],
+   "ocr": "Hz, Hertz; See text for definitions of 1, 2-3, and > 3; Load, coherence loading"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    340.0,
+    366.1,
+    911.0
+   ],
+   "ocr": "group specific artifact, a special process was employed to recognize, hopefully remove and at least diminish ASD-group specific artifact. Third, an equally large data- base of well studied inclusive of EEG, neuro-typical chil- dren of comparable age and gender distribution was available for comparative purposes. Fourth, instead of a priori limitation of EEG coherence to certain scalp channels or spectral frequencies as is frequently the case, all available scalp channels and spectral bands were utilized by employment of a method of data reduc- tion based on Principal Components Analysis (PCA) [52,53], which has previously been used successfully [57]. Fifth, while a number of studies report identified significance of group difference only, the current study took advantage of the large population size and tested stability of individual subject classification. Sixth, evalua- tion of the coherences loadings upon the most useful PCA-derived factors facilitated, identified not only spec- tral frequencies (see Figure 2) but also brain regions (see Figure 2) involved in the discrimination of ASD- from control group subject. Study goals and findings The first goal of the study was to determine whether coherence factors, here used as variables, significantly separate ASD- from the control (C)-group populations. As described under Results, when all 40 variables were forced to enter, discriminant function analysis (DFA) produced a highly significant (P < 0.0001) group differ- ence across the full 2- to 12-year-old population and, additionally, for the three separate age group analyses of the 2- to 4-, the 4- to 6-, and the 6- to 12-year-old sub- jects. These findings establish that the 40 coherence fac- tors significantly separate pediatric ASD-patients from C-subjects. The second goal was to evaluate the consistency of subject classification by allowing DFA to select the best factors for discrimination. As discussed in Results the"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    340.0,
+    678.6,
+    910.9
+   ],
+   "ocr": "average jackknifed classification success for the three separate age-group DFAs was 93.7% for the control- and 97.0% for the ASD-group. When the entire population was subjected to 10 independent split half replications, classification success was on the average 88.5% correct for the C- and 86.0% correct for the ASD-groups. More- over, when each training-set-generated discriminant function was evaluated against the corresponding test- set by t-test, every one of the 10 control- versus ASD- group comparisons reached probability levels of P < 0.0001 levels. These findings thus establish coherence factors as very useful in subject classification. They, furthermore, establish the substantial stability of the reported coherence findings and argue quite strongly against great inter-subject variability in this study’s ASD population. The illustrated factor coherence loading pat- terns (Figure 2) appear to constitute a potentially useful neurophysiological ASD-phenotype. Furthermore, the demonstrated stability of the above coherence findings argues against marked variability of brain function within the ASD population as postulated by Happé [32] and Milne [33]. It is tempting to speculate that the consistency of the classification success reported might point to EEG coherence as a possible future diagnostic test for ASD. However, clinical patients are seldom referred just to confirm that they are either neuro-typical or warranting the diagnosis of ASD. Rather, they are referred to estab- lish a diagnosis from among a wide range of clinical possibilities that may produce clinical presentations superficially similar to ASD, including ASD itself. Before entertaining general clinical applicability, the discrimi- nant process will need to be extended to correctly clas- sify conditions beyond the simple C- versus ASD-group dichotomy. Further analyses must encompass diagnoses often associated with or closely related to classic ASD, such as GDD, Asperger’s syndrome, developmental dys- phasia, childhood disintegrative disorder and autistic"
+  }
+ }
+}

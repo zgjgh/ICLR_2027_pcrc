@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_489",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    479.8,
+    48.8,
+    727.4,
+    60.9
+   ],
+   "ocr": "Dispersal of Engineered Male Aedes aegypti Mosquitoes"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    339.1,
+    107.4
+   ],
+   "ocr": "Table 1. Summary data of the three MRR experiments in Brazil."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    194.3
+   ],
+   "ocr": "Release Release date Number released Release point Number (%) recaptured\nRed 21-Feb-2011 5,349 1 22 (0.4)\nYellow 25-Feb-2011 8,350 1 17 (0.2)\nBlue 21-Feb-2011 5,465 2 30 (0.5)\nTotal - 19,164 - 69 (0.36)",
+   "table_id": "PMC4640874_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    202.3,
+    724.8,
+    458.8
+   ],
+   "ocr": "doi:10.1371/journal.pntd.0004156.t001 the exponential power transformation of distance as an explanatory variable is shown in Table 3. Secondary analysis—Malaysia The MRR performed in Malaysia was associated with consistently higher recaptures than the MRR experiments in Brazil. Of 6,045 released ‘genetically sterile’ males 3,034 (50.2%) were recaptured over the 15-day course of the experiment. The count of recaptured, marked males (the response) was very overdispersed (mean = 2.6 per sample per day, variance = 523), and therefore a negative binomial GLM was fitted. A summary of the model performance using the untransformed and transformed distance explanatory variable is shown in Table 4. Again, the optimal model, as determined by AIC, used the exponential power density pdf, although the negative exponential density pdf produced only marginally inferior fit (AIC = 668.0 and 668.4 for the exponential power and negative exponential kernels"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    846.1,
+    723.7,
+    901.4
+   ],
+   "ocr": "Fig 3. Recaptures for three MRR experiments at the field site in Brazil. Numbered squares represent the two release points for MRR experiments. Coloured circles indicate the location and size of recaptures for three separate MRR releases (insects marked with red, yellow and blue fluorescent powder). doi:10.1371/journal.pntd.0004156.g003"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0004156 November 10, 2015 9 / 18"
+  }
+ }
+}

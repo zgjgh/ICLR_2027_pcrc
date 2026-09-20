@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_168",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    749,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4417511_table_0",
+   "page_num": 1,
+   "bbox": [
+    70.7,
+    478.7,
+    677.3,
+    908.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4417511_table_0.png",
+   "html": "<table><tr><td>Tumour type</td><td>Raw(GB)</td><td>Refined(GB)</td><td>RDF(GB)</td><td>Triples(Million)</td></tr><tr><td>Lymphoid Neoplasm Diffuse Large</td><td>0.37</td><td>0.20</td><td>0.83</td><td>35</td></tr><tr><td colspan=\"5\">B-cell Lymphoma (DLBC)</td></tr><tr><td>Cutaneous melanoma (UCS)</td><td>1.2</td><td>0.64</td><td>2.6</td><td>113</td></tr><tr><td>Glioblastoma multiforme (GBM)</td><td>2.3</td><td>0.77</td><td>2.8</td><td>132</td></tr><tr><td>Esophageal carcinoma (ESCA)</td><td>1.5</td><td>0.88</td><td>3.4</td><td>149</td></tr><tr><td>Adrenocortical carcinoma (ACC)</td><td>1.6</td><td>0.90</td><td>3.6</td><td>158</td></tr><tr><td>Pancreatic adenocarcinoma (PAAD)</td><td>2.6</td><td>1.1</td><td>4.5</td><td>200</td></tr><tr><td>Kidney Chromophobe (KICH)</td><td>3.7</td><td>1.4</td><td>5.3</td><td>242</td></tr><tr><td>Sarcoma (SARC)</td><td>3.8</td><td>1.5</td><td>5.9</td><td>267</td></tr><tr><td>Cervical (CESC)</td><td>8.75</td><td>2.44</td><td>8.86</td><td>400.19</td></tr><tr><td>Ovarian serous cystadenocarcinoma (OV)</td><td>8.2</td><td>2.4</td><td>8.7</td><td>410</td></tr><tr><td>Rectal adenocarcinoma (READ)</td><td>8.07</td><td>2.25</td><td>9.04</td><td>413.31</td></tr><tr><td>Papillary Kidney (KIRP)</td><td>10.40</td><td>2.90</td><td>10.4</td><td>469.65</td></tr><tr><td>Stomach adenocarcinoma (STAD)</td><td>5.5</td><td>2.9</td><td>12</td><td>529</td></tr><tr><td>Liver hepatocellular carcinoma (LIHC)</td><td>8.2</td><td>3.1</td><td>12</td><td>550</td></tr><tr><td>Bladder cancer (BLCA)</td><td>12.16</td><td>3.39</td><td>12.3</td><td>556.38</td></tr><tr><td>Acute Myeloid Leukemia (LAML)</td><td>14.85</td><td>4.14</td><td>15.1</td><td>684.05</td></tr><tr><td>Lower Grade Glioma (LGG)</td><td>17.08</td><td>4.76</td><td>17.1</td><td>778.82</td></tr><tr><td>Prostate adenocarcinoma (PRAD)</td><td>18.05</td><td>5.03</td><td>18.1</td><td>821.01</td></tr><tr><td>Lung squamous carcinoma (LUSC)</td><td>20.63</td><td>5.75</td><td>20.5</td><td>927.08</td></tr><tr><td>Cutaneous melanoma (SKCM)</td><td>23.22</td><td>6.47</td><td>23.2</td><td>1050.94</td></tr><tr><td>Uterine Corpus Endometrial Carcinoma (UCEC)</td><td>13</td><td>5.98</td><td>24.2</td><td>1070</td></tr><tr><td>Colon adenocarcinoma (COAD)</td><td>18</td><td>6.64</td><td>26</td><td>1175</td></tr><tr><td>v Head and neck squamous cell(HNSC)</td><td>27.6</td><td>7.69</td><td>27.5</td><td>1245.37</td></tr><tr><td>Lung adenocarcinoma (LUAD)</td><td>23</td><td>9.1</td><td>36</td><td>1611</td></tr><tr><td>Kidney renal clear cell carcinoma (KIRC)</td><td>24</td><td>9.4</td><td>37</td><td>1658</td></tr><tr><td>Thyroid carcinoma (THCA)</td><td>26</td><td>10.1</td><td>40</td><td>1796</td></tr><tr><td>Breast invasive carcinoma (BRCA)</td><td>45</td><td>17</td><td>65</td><td>2959</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4417511_table_3",
+   "page_num": 2,
+   "bbox": [
+    384.3,
+    571.2,
+    678.7,
+    895.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4417511_table_3.png",
+   "html": "<table><tr><td>Query</td><td>Description</td></tr><tr><td>Q1</td><td>Get the chromosome, start, stop and mean copy number values of the patient TCGA-18-4721 for genome locations 554268 to 5994290</td></tr><tr><td>Q2</td><td>Get the chromosome, start, stop and mean exon-expression values of all the TCGA patients</td></tr><tr><td>Q3</td><td>Get the chromosome, position and mean methylation values of all the TCGA patients</td></tr><tr><td>Q4</td><td>Get the chromosome, start and stop values of the TCGA patient TCGA-C4-A0F6</td></tr><tr><td>Q5</td><td>Get the chromosome, start, stop values of all the TCGA patients</td></tr><tr><td>Q6</td><td>Get the chromosome, start, stop and miRNA values of the 20th record of TCGA patient TCGA-AB-2821</td></tr><tr><td>Q7</td><td>Get the chromosome, start and stop values of the TCGA patient TCGA-AB-2823 for mean sequence value of 0.0839</td></tr><tr><td>Q8</td><td>Get the chromosome, start, stop, mean protein expression and mean exon-expression values of the TCGA patient TCGA-18-3410</td></tr><tr><td>Q9</td><td>Get the chromosome, mean gene expression and mean methylation values of the TCGA patient TCGA-C5-A1BF</td></tr><tr><td>Q10</td><td>Get the chromosome, mean gene expression, mean exon expression and mean methylation values of all the TCGA patients</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4417511_table_5",
+   "page_num": 3,
+   "bbox": [
+    382.9,
+    130.6,
+    677.3,
+    178.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4417511_table_5.png",
+   "html": "<table><tr><td></td><td>Single Colour</td><td>Cross-Colour</td></tr><tr><td>Star</td><td>2</td><td>2</td></tr><tr><td>Hybrid (star + path)</td><td>2</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4417511_table_4",
+   "page_num": 3,
+   "bbox": [
+    70.7,
+    735.1,
+    365.0,
+    917.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4417511_table_4.png",
+   "html": "<table><tr><td>SPARQL endpoint</td><td>CPU</td><td>RAM</td><td>Hard disk</td></tr><tr><td>virtuoso-blue1</td><td>2.2 GHz, i3</td><td>4 GB</td><td>300 GB</td></tr><tr><td>virtuoso-blue2</td><td>2.6 GHz, i5</td><td>4 GB</td><td>150 GB</td></tr><tr><td>virtuoso-pink1</td><td>2.53 GHz, i5</td><td>4 GB</td><td>300 GB</td></tr><tr><td>virtuoso-pink2</td><td>2.3 GHz, i5</td><td>4 GB</td><td>500 GB</td></tr><tr><td>virtuoso-pink3</td><td>2.53 GHz, i5</td><td>4 GB</td><td>300 GB</td></tr><tr><td>virtuoso-green1</td><td>2.9 GHz, i7</td><td>16 GB</td><td>256 GB SSD</td></tr><tr><td>virtuoso-green2</td><td>2.9 GHz, i7</td><td>8 GB</td><td>450 GB</td></tr><tr><td>virtuoso-green3</td><td>2.6 GHz, i5</td><td>8 GB</td><td>400 GB</td></tr><tr><td>virtuoso-green4</td><td>2.6 GHz, i5</td><td>8 GB</td><td>400 GB</td></tr><tr><td>virtuoso-green5</td><td>2.9 GHz, i7</td><td>16 GB</td><td>500 GB</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4417511_table_6",
+   "page_num": 4,
+   "bbox": [
+    72.1,
+    683.5,
+    678.7,
+    905.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4417511_table_6.png",
+   "html": "<table><tr><td rowspan=\"2\">Query no</td><td rowspan=\"2\">FedX(first run) Execution time(msec)</td><td colspan=\"2\">FedX(cached)</td><td colspan=\"2\">TopFed</td></tr><tr><td>Execution time(msec)</td><td>S.E</td><td>Execution time(msec)</td><td>S.E</td></tr><tr><td>1</td><td>913</td><td>401.2</td><td>5.22</td><td>341.5*</td><td>5.60</td></tr><tr><td>2</td><td>81619</td><td>81170.7</td><td>655.93</td><td>866.5*</td><td>22.08</td></tr><tr><td>3</td><td>82271</td><td>81817.8</td><td>653.22</td><td>666*</td><td>27.12</td></tr><tr><td>4</td><td>1199</td><td>367.6</td><td>6.88</td><td>262.7*</td><td>7.35</td></tr><tr><td>5</td><td>80423</td><td>78723.5</td><td>459.43</td><td>78691.5</td><td>458.70</td></tr><tr><td>6</td><td>837</td><td>416.9</td><td>8.38</td><td>246.1*</td><td>3.56</td></tr><tr><td>7</td><td>921</td><td>399.6</td><td>4.41</td><td>248.1*</td><td>7.20</td></tr><tr><td>8</td><td>900</td><td>89</td><td>2.45</td><td>72.7*</td><td>1.52</td></tr><tr><td>9</td><td>950.3</td><td>76.8</td><td>2.16</td><td>63.3*</td><td>1.89</td></tr><tr><td>10</td><td>912</td><td>63.6</td><td>1.99</td><td>49.6*</td><td>1.02</td></tr><tr><td>Average</td><td>25094.53</td><td>24352.67</td><td>180.01</td><td>8150.8</td><td>53.60</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4417511_table_7",
+   "page_num": 5,
+   "bbox": [
+    70.7,
+    131.0,
+    677.3,
+    353.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4417511_table_7.png",
+   "html": "<table><tr><td rowspan=\"2\">Query no</td><td rowspan=\"2\">FedX(first run) Execution time(msec)</td><td colspan=\"2\">FedX(cached)</td><td colspan=\"2\">TopFed</td></tr><tr><td>Execution time(msec)</td><td>S.E</td><td>Execution time(msec)</td><td>S.E</td></tr><tr><td>1</td><td>530</td><td>11.7</td><td>0.35</td><td>28.1</td><td>0.98</td></tr><tr><td>2</td><td>487</td><td>11.4</td><td>0.67</td><td>5.2</td><td>0.57</td></tr><tr><td>3</td><td>470</td><td>11.9</td><td>0.78</td><td>5</td><td>0.42</td></tr><tr><td>4</td><td>510</td><td>12</td><td>0.52</td><td>23.6</td><td>1.57</td></tr><tr><td>5</td><td>473</td><td>9.8</td><td>0.65</td><td>4.8</td><td>0.29</td></tr><tr><td>6</td><td>371</td><td>9.9</td><td>0.38</td><td>21.7</td><td>0.68</td></tr><tr><td>7</td><td>521</td><td>10</td><td>0.39</td><td>24.4</td><td>0.76</td></tr><tr><td>8</td><td>483</td><td>9.5</td><td>0.45</td><td>29.5</td><td>0.86</td></tr><tr><td>9</td><td>496</td><td>9.8</td><td>0.39</td><td>20.1</td><td>0.99</td></tr><tr><td>10</td><td>456</td><td>10.6</td><td>0.40</td><td>7.4</td><td>0.58</td></tr><tr><td>Average</td><td>479.7</td><td>10.66</td><td>0.50</td><td>16.98</td><td>0.77</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_088",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC6200217_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    728.3,
+    650.4,
+    865.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC6200217_table_0.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">Average within season</td></tr><tr><td></td><td>Spring</td><td>Summer</td><td>Autumn</td><td>Winter</td></tr><tr><td>Min Temperature (&#730;F)</td><td>42 &#177; 12</td><td>66 &#177; 6</td><td>47 &#177; 13</td><td>22 &#177; 11</td></tr><tr><td>Max Temperature (&#730;F)</td><td>59 &#177; 15</td><td>82 &#177; 7</td><td>62 &#177; 15</td><td>34 &#177; 11</td></tr><tr><td>Avg Temperature (&#730;F)</td><td>50 &#177; 13</td><td>74 &#177; 7</td><td>55 &#177; 13</td><td>28 &#177; 10</td></tr><tr><td>Avg Humidity (%)</td><td>63 &#177; 15</td><td>63 &#177; 11</td><td>65 &#177; 12</td><td>72 &#177; 11</td></tr><tr><td>Avg Air Pressure (in)</td><td>30.0 &#177; 0.2</td><td>29.9 &#177; 0.1</td><td>30.0 &#177; 0.2</td><td>30.1 &#177; 0.2</td></tr><tr><td>Avg Wind Speed (mph)</td><td>10.20 &#177; 3.90</td><td>7.80 &#177; 2.70</td><td>8.90 &#177; 3.70</td><td>10.40 &#177; 3.70</td></tr><tr><td>Avg Precipitation (in)</td><td>0.10 &#177; 0.21</td><td>0.12 &#177; 0.13</td><td>0.08 &#177; 0.20</td><td>0.05 &#177; 0.25</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6200217_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    138.3,
+    722.9,
+    435.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6200217_table_1.png",
+   "html": "<table><tr><td></td><td colspan=\"9\">R2 Described by Model: Training Sample</td></tr><tr><td></td><td>Robbery</td><td>Aggr Assault</td><td>Burglary</td><td>Theft</td><td>MV Theft</td><td>Battery</td><td>Bogus Checks</td><td>Criminal Damage</td><td>&#8220;Other&#8221;</td></tr><tr><td>Trend</td><td>0.12</td><td>0.24</td><td>0.02</td><td>0.22</td><td>0.39</td><td>0.42</td><td>0.03</td><td>0.41</td><td>0.67</td></tr><tr><td>Trend + Annual</td><td>0.38</td><td>0.55</td><td>0.29</td><td>0.50</td><td>0.42</td><td>0.63</td><td>0.05</td><td>0.59</td><td>0.69</td></tr><tr><td>Trend + Annual + Holiday</td><td>0.42</td><td>0.57</td><td>0.31</td><td>0.58</td><td>0.44</td><td>0.67</td><td>0.13</td><td>0.63</td><td>0.71</td></tr><tr><td>Trend + Annual + Holiday + Weekday</td><td>0.52</td><td>0.65</td><td>0.61</td><td>0.76</td><td>0.48</td><td>0.75</td><td>0.43</td><td>0.73</td><td>0.77</td></tr><tr><td>Trend + Annual + Holiday + Weekday + Payday</td><td>0.52</td><td>0.65</td><td>0.61</td><td>0.80</td><td>0.48</td><td>0.75</td><td>0.51</td><td>0.73</td><td>0.80</td></tr><tr><td rowspan=\"3\">Trend + Annual + Holiday + Weekday + Payday + Climate</td><td>0.54</td><td>0.75</td><td>0.63</td><td>0.82</td><td>0.49</td><td>0.84</td><td>0.51</td><td>0.80</td><td>0.81</td></tr><tr><td colspan=\"9\">R2 Described by Model: Test Sample</td></tr><tr><td>Robbery</td><td>Aggr Assault</td><td>Burglary</td><td>Theft</td><td>MV Theft</td><td>Battery</td><td>Bogus Checks</td><td>Criminal Damage</td><td>&#8220;Other&#8221;</td></tr><tr><td>Trend</td><td>0.14</td><td>0.31</td><td>0.22</td><td>0.23</td><td>0.57</td><td>0.46</td><td>0.01</td><td>0.50</td><td>0.70</td></tr><tr><td>Trend + Annual</td><td>0.38</td><td>0.58</td><td>0.44</td><td>0.54</td><td>0.58</td><td>0.69</td><td>&#8722;0.01</td><td>0.70</td><td>0.73</td></tr><tr><td>Trend + Annual + Holiday</td><td>0.39</td><td>0.59</td><td>0.45</td><td>0.60</td><td>0.59</td><td>0.72</td><td>0.05</td><td>0.72</td><td>0.74</td></tr><tr><td>Trend + Annual + Holiday + Weekday</td><td>0.49</td><td>0.66</td><td>0.69</td><td>0.76</td><td>0.62</td><td>0.77</td><td>0.33</td><td>0.78</td><td>0.79</td></tr><tr><td>Trend + Annual + Holiday + Weekday + Payday</td><td>0.49</td><td>0.66</td><td>0.68</td><td>0.79</td><td>0.62</td><td>0.77</td><td>0.40</td><td>0.78</td><td>0.81</td></tr><tr><td>Trend + Annual + Holiday + Weekday + Payday + Climate</td><td>0.51</td><td>0.74</td><td>0.70</td><td>0.80</td><td>0.61</td><td>0.84</td><td>0.41</td><td>0.84</td><td>0.81</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6200217_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    758.2,
+    722.8,
+    879.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC6200217_table_2.png",
+   "html": "<table><tr><td></td><td colspan=\"9\">Percentage change in average incidence of crime</td></tr><tr><td></td><td>Robbery</td><td>Aggravated Assault</td><td>Burglary</td><td>Theft</td><td>MV Theft</td><td>Battery</td><td>Bogus Checks</td><td>Criminal Damage</td><td>&#8220;Other&#8221;</td></tr><tr><td>Thursday</td><td>&#8722;0.1 &#177; 0.8</td><td>+0.2 &#177; 0.5</td><td>&#8722;0.3 &#177; 0.6</td><td>&#8722;0.7 &#177; 0.4</td><td>+0.1 &#177; 0.6</td><td>+0.2 &#177; 0.3</td><td>+1.0 &#177; 0.8</td><td>+0.2 &#177; 0.3</td><td>&#8722;1.8 &#177; 0.4</td></tr><tr><td>Friday</td><td>+11.3 &#177; 0.8</td><td>+10.0 &#177; 0.5</td><td>+5.3 &#177; 0.6</td><td>+8.7 &#177; 0.4</td><td>+5.6 &#177; 0.6</td><td>+6.3 &#177; 0.3</td><td>+4.6 &#177; 0.8</td><td>+9.2 &#177; 0.3</td><td>+1.4 &#177; 0.4</td></tr><tr><td>Saturday</td><td>+3.6 &#177; 0.8</td><td>+9.9 &#177; 0.5</td><td>&#8722;18.0 &#177; 0.6</td><td>&#8722;3.3 &#177; 0.4</td><td>&#8722;2.0 &#177; 0.6</td><td>+3.6 &#177; 0.3</td><td>&#8722;15.6 &#177; 0.8</td><td>+8.1 &#177; 0.3</td><td>&#8722;6.2 &#177; 0.4</td></tr><tr><td>Sunday</td><td>&#8722;11.2 &#177; 0.8</td><td>&#8722;0.9 &#177; 0.5</td><td>&#8722;23.0 &#177; 0.6</td><td>&#8722;19.0 &#177; 0.4</td><td>&#8722;6.7 &#177; 0.6</td><td>&#8722;3.8 &#177; 0.3</td><td>&#8722;28.9 &#177; 0.8</td><td>+0.3 &#177; 0.3</td><td>&#8722;10.3 &#177; 0.4</td></tr><tr><td>Monday</td><td>+0.2 &#177; 0.8</td><td>&#8722;0.9 &#177; 0.5</td><td>+2.8 &#177; 0.7</td><td>&#8722;0.7 &#177; 0.5</td><td>&#8722;1.0 &#177; 0.7</td><td>&#8722;1.7 &#177; 0.3</td><td>+0.1 &#177; 0.9</td><td>&#8722;0.6 &#177; 0.3</td><td>&#8722;0.8 &#177; 0.4</td></tr><tr><td>Tuesday</td><td>&#8722;1.0 &#177; 0.8</td><td>&#8722;0.7 &#177; 0.5</td><td>+0.4 &#177; 0.6</td><td>&#8722;0.9 &#177; 0.4</td><td>&#8722;1.6 &#177; 0.6</td><td>&#8722;0.9 &#177; 0.3</td><td>+0.1 &#177; 0.8</td><td>&#8722;0.5 &#177; 0.3</td><td>&#8722;0.5 &#177; 0.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6200217_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    128.3,
+    722.8,
+    549.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC6200217_table_3.png",
+   "html": "<table><tr><td></td><td colspan=\"9\">Percent change in average incidence of crime</td></tr><tr><td></td><td>Robbery</td><td>Aggravated Assault</td><td>Burglary</td><td>Theft</td><td>MV Theft</td><td>Battery</td><td>Bogus Checks</td><td>Criminal Damage</td><td>&#8220;Other&#8221;</td></tr><tr><td>New Year&#8217;s</td><td>&#8722;29.4 &#177; 3.1</td><td></td><td>&#8722;28.7 &#177; 3.5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"10\">New Year&#8217;s (obs)</td></tr><tr><td>MLK Jr.</td><td></td><td></td><td>&#8722;13.9 &#177; 1.8</td><td></td><td></td><td>&#8722;5.9 &#177; 0.6</td><td></td><td></td><td></td></tr><tr><td>Lincoln&#8217;s Birthday</td><td></td><td></td><td></td><td></td><td></td><td>&#8722;8.0 &#177; 0.7</td><td></td><td></td><td></td></tr><tr><td colspan=\"10\">Valentines</td></tr><tr><td>Presidents</td><td></td><td></td><td></td><td></td><td></td><td>&#8722;11.3 &#177; 1.0</td><td></td><td></td><td></td></tr><tr><td>Casimir Pulaski</td><td></td><td></td><td>&#8722;14.9 &#177; 1.3</td><td></td><td></td><td>&#8722;9.1 &#177; 0.7</td><td></td><td></td><td></td></tr><tr><td colspan=\"10\">St Patricks (Sat)</td></tr><tr><td colspan=\"10\">St Patricks</td></tr><tr><td>Easter</td><td>&#8722;18.7 &#177; 2.2</td><td></td><td></td><td>&#8722;13.9 &#177; 1.6</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Memorial</td><td>&#8722;14.8 &#177; 1.3</td><td></td><td>&#8722;24.3 &#177; 1.8</td><td>&#8722;17.6 &#177; 2.0</td><td></td><td></td><td>&#8722;33.8 &#177; 2.1</td><td></td><td></td></tr><tr><td>Independence</td><td></td><td>+16.4 &#177; 1.5</td><td>&#8722;16.1 &#177; 2.0</td><td>&#8722;18.0 &#177; 2.3</td><td></td><td>+8.1 &#177; 0.6</td><td>&#8722;30.9 &#177; 5.6</td><td>+11.6 &#177; 1.3</td><td>&#8722;12.8 &#177; 1.9</td></tr><tr><td>Independence (obs)</td><td></td><td></td><td>&#8722;22.2 &#177; 0.9</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Labor</td><td>&#8722;14.2 &#177; 1.5</td><td></td><td>&#8722;26.3 &#177; 2.2</td><td>&#8722;15.4 &#177; 1.7</td><td></td><td></td><td>&#8722;28.0 &#177; 2.7</td><td></td><td></td></tr><tr><td>Columbus</td><td></td><td></td><td>&#8722;11.9 &#177; 1.2</td><td></td><td></td><td>&#8722;6.4 &#177; 0.6</td><td></td><td></td><td></td></tr><tr><td>Halloween</td><td>+15.8 &#177; 2.1</td><td>+24.2 &#177; 3.2</td><td></td><td></td><td></td><td>+8.9 &#177; 1.0</td><td></td><td>+30.1 &#177; 4.0</td><td></td></tr><tr><td colspan=\"10\">Election</td></tr><tr><td>Veterans</td><td></td><td></td><td></td><td></td><td></td><td>&#8722;7.0 &#177; 0.8</td><td></td><td></td><td></td></tr><tr><td colspan=\"10\">Veterans (obs)</td></tr><tr><td>Thanksgiving</td><td>&#8722;38.4 &#177; 4.1</td><td></td><td>&#8722;15.5 &#177; 1.9</td><td>&#8722;37.7 &#177; 3.9</td><td>&#8722;15.6 &#177; 2.3</td><td></td><td>&#8722;54.2 &#177; 2.0</td><td></td><td>&#8722;18.7 &#177; 3.0</td></tr><tr><td>Thanksgiving Friday</td><td></td><td>&#8722;10.0 &#177; 1.1</td><td>&#8722;26.0 &#177; 3.1</td><td>&#8722;9.6 &#177; 1.0</td><td></td><td>&#8722;10.7 &#177; 0.9</td><td></td><td></td><td></td></tr><tr><td>Christmas Eve</td><td></td><td></td><td></td><td>&#8722;16.4 &#177; 2.3</td><td></td><td></td><td>&#8722;25.7 &#177; 3.3</td><td></td><td>&#8722;20.2 &#177; 3.3</td></tr><tr><td>Christmas</td><td>&#8722;40.2 &#177; 5.0</td><td></td><td>&#8722;30.7 &#177; 4.8</td><td>&#8722;51.3 &#177; 8.1</td><td>&#8722;18.1 &#177; 2.8</td><td></td><td>&#8722;59.6 &#177; 10.2</td><td>&#8722;8.2 &#177; 1.2</td><td>&#8722;26.2 &#177; 4.4</td></tr><tr><td>New Year&#8217;s Eve</td><td></td><td>+27.5 &#177; 5.0</td><td></td><td>+47.4 &#177; 7.1</td><td></td><td>+20.6 &#177; 2.6</td><td>+22.7 &#177; 2.3</td><td>+21.7 &#177; 4.8</td><td></td></tr><tr><td>School Vacation</td><td></td><td></td><td>&#8722;4.1 &#177; 0.6</td><td></td><td>+2.9 &#177; 0.4</td><td>&#8722;4.6 &#177; 0.5</td><td></td><td></td><td>&#8722;2.5 &#177; 0.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6200217_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    128.3,
+    717.5,
+    660.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC6200217_table_4.png",
+   "html": "<table><tr><td></td><td colspan=\"6\">Percent change in average incidence of crime</td></tr><tr><td></td><td>Robbery</td><td>Aggravated Assault</td><td>Burglary</td><td>Theft</td><td>Battery</td><td>Criminal Damage</td></tr><tr><td>Spring, Avg Temperature (%/&#730;F)</td><td></td><td></td><td></td><td>+0.64 &#177; 0.13</td><td>+0.37 &#177; 0.01</td><td>+0.98 &#177; 0.09</td></tr><tr><td>Summer, Avg Temperature (%/&#730;F)</td><td></td><td></td><td>&#8722;2.69 &#177; 0.56</td><td></td><td>+0.33 &#177; 0.02</td><td></td></tr><tr><td>Fall, Avg Temperature (%/&#730;F)</td><td>+0.36 &#177; 0.06</td><td></td><td></td><td></td><td>+0.35 &#177; 0.02</td><td>+0.78 &#177; 0.11</td></tr><tr><td>Winter, Avg Temperature (%/&#730;F)</td><td>+0.48 &#177; 0.04</td><td>+0.37 &#177; 0.09</td><td>+0.80 &#177; 0.14</td><td>+0.69 &#177; 0.09</td><td>+0.26 &#177; 0.01</td><td>+0.58 &#177; 0.06</td></tr><tr><td>Spring, Avg Temperature2 (%/&#730;F2)</td><td></td><td></td><td></td><td>&#8722;0.005 &#177; 0.001</td><td></td><td>&#8722;0.007 &#177; 0.001</td></tr><tr><td>Summer, Avg Temperature2 (%/&#730;F2)</td><td></td><td></td><td>+0.019 &#177; 0.004</td><td></td><td></td><td></td></tr><tr><td>Fall, Avg Temperature2 (%/&#730;F2)</td><td></td><td></td><td></td><td></td><td></td><td>&#8722;0.005 &#177; 0.001</td></tr><tr><td colspan=\"7\">Winter, Avg Temperature2 (%/&#730;F2)</td></tr><tr><td>Spring, Avg Humidity, not raining (%/%)</td><td></td><td></td><td></td><td></td><td>&#8722;0.06 &#177; 0.01</td><td></td></tr><tr><td colspan=\"7\">Summer, Avg Humidity, not raining (%/%)</td></tr><tr><td colspan=\"7\">Fall, Avg Humidity, not raining (%/%)</td></tr><tr><td>Winter, Avg Humidity, not raining (%/%)</td><td></td><td></td><td></td><td></td><td></td><td>&#8722;0.14 &#177; 0.02</td></tr><tr><td>Spring, Avg Humidity, raining (%/%)</td><td></td><td>&#8722;0.20 &#177; 0.04</td><td></td><td></td><td>&#8722;0.08 &#177; 0.02</td><td></td></tr><tr><td>Summer, Avg Humidity, raining (%/%)</td><td></td><td></td><td></td><td></td><td>&#8722;0.12 &#177; 0.03</td><td></td></tr><tr><td>Fall, Avg Humidity, raining (%/%)</td><td></td><td></td><td></td><td></td><td>&#8722;0.14 &#177; 0.03</td><td></td></tr><tr><td colspan=\"7\">Winter, Avg Humidity, raining (%/%)</td></tr><tr><td colspan=\"7\">Spring, Avg Pressure, not raining (%/in)</td></tr><tr><td colspan=\"7\">Summer, Avg Pressure, not raining (%/in)</td></tr><tr><td colspan=\"7\">Fall, Avg Pressure, not raining (%/in)</td></tr><tr><td colspan=\"7\">Winter, Avg Pressure, not raining (%/in)</td></tr><tr><td colspan=\"7\">Spring, Avg Pressure, raining (%/in)</td></tr><tr><td colspan=\"7\">Summer, Avg Pressure, raining (%/in)</td></tr><tr><td colspan=\"7\">Fall, Avg Pressure, raining (%/in)</td></tr><tr><td colspan=\"7\">Winter, Avg Pressure, raining (%/in)</td></tr><tr><td>Spring, Avg Wind (%/mph)</td><td></td><td>&#8722;0.30 &#177; 0.06</td><td></td><td></td><td>&#8722;0.23 &#177; 0.04</td><td></td></tr><tr><td>Summer, Avg Wind (%/mph)</td><td></td><td></td><td></td><td></td><td>&#8722;0.21 &#177; 0.05</td><td></td></tr><tr><td>Fall, Avg Wind (%/mph)</td><td></td><td>&#8722;0.39 &#177; 0.07</td><td></td><td></td><td>&#8722;0.18 &#177; 0.04</td><td></td></tr><tr><td>Winter, Avg Wind (%/mph)</td><td></td><td>&#8722;0.37 &#177; 0.07</td><td></td><td></td><td>&#8722;0.24 &#177; 0.04</td><td></td></tr><tr><td>Spring, Raining (%)</td><td></td><td>&#8722;2.74 &#177; 0.68</td><td></td><td></td><td>&#8722;2.10 &#177; 0.38</td><td>&#8722;1.79 &#177; 0.47</td></tr><tr><td>Summer, Raining (%)</td><td></td><td>&#8722;2.86 &#177; 0.69</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"7\">Fall, Raining (%)</td></tr><tr><td>Winter, Raining (%)</td><td></td><td></td><td></td><td>&#8722;3.46 &#177; 0.55</td><td>&#8722;1.55 &#177; 0.40</td><td>&#8722;3.42 &#177; 0.50</td></tr></table>"
+  }
+ ]
+}

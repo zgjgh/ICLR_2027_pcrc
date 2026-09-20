@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_002",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.6,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterogeneous EoC Combination Search Using GA"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.4,
+    589.2,
+    108.0
+   ],
+   "ocr": "Table 3. Distribution of the training and testing data in PubFig05 dataset."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    225.8
+   ],
+   "ocr": "Person class_id #Train Images #Test Images\nJenifer Lopez 0 90 10\nKatherine Heigl 1 90 10\nScarlett Johansson 2 90 10\nMariah Carey 3 90 10\nJessica Alba 4 90 10\nTotal Samples 450 50",
+   "table_id": "PMC4713117_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    233.9,
+    392.8,
+    245.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0146116.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    287.6,
+    726.7,
+    743.4
+   ],
+   "ocr": "Face Recognition Dataset. The last dataset used to evaluate the GA-EoC was a subset of the PubFig83 dataset [45]. Chiachia et al. [48] selected 100 images of each for a group of celeb- rities and separated them into training and testing sets of 90 and 10 images respectively. They tested a SVM classifier and identified the 5 most difficult celebrities to recognise (shown in Table 3). This subset of the PubFig83 dataset contains 450 image samples (90 per class) in the training set. The testing dataset contains a total of 50 image samples (10 samples per class). This subset of the PubFig83 dataset (denoted as PubFig05) has been used for further processing. To extract features from images, the HT-L3-model (described in [49]) has been used, yield- ing 25600 features. Then, we applied an implementation of Fayyad and Irani’s [50] entropy- based filtering method to discretise the training dataset and discard features using the mini- mum description length (MDL) principle; only 4878 passed this entropy based filtering. Since the proposed method is only able to handle binary-class problems at this stage, we need to con- vert the dataset to binary-class problem. We separated the PubFig05 dataset into 5 binary-class datasets by one-vs-all approach (one for each class). These datasets became imbalanced at a ratio of 1: 4 and using the procedure described in preprocessing, for each imbalanced dataset, we produced 4 balanced ones, finishing with 20 datasets (4 balanced datasets for each of the 5 classes). Next, for each class (using the respective 4 balanced binary-class datasets), we applied each procedure described below and the PubFig05 turned into 15 datasets, 3 for each class, as shown in Table 4. 1. We apply (α, β) − k Feature Set method on each of the balanced binary-class datasets and take the union of all selected features. Then, we apply (α, β) − k Feature Set method on this consolidated binary-class dataset (denoted by UAB in Table 4). − Table 4. Outcome of the (α, β) k Feature Set selection method for three different setups (UAB, IAB, UEAB) showing the number of selected features per binary-class datasets of PubFig05."
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    751.4,
+    726.7,
+    861.3
+   ],
+   "ocr": "Binary Class—Dataset UAB IAB UEAB\nClass 0 vs All 4656 4495 795\nClass 1 vs All 4702 4598 1554\nClass 2 vs All 4712 4563 2273\nClass 3 vs All 4678 4501 2821\nClass 4 vs All 4738 4553 1081\nAverage Features 4697 4542 1705",
+   "table_id": "PMC4713117_table_3"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    869.3,
+    392.8,
+    880.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0146116.t004"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0146116 January 14, 2016 12 / 28"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_440",
+  "page": 3,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    58.9,
+    54.7,
+    648.3,
+    70.5
+   ],
+   "ocr": "Sensors 2015, 15 8276"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    330.3,
+    648.6,
+    495.7
+   ],
+   "ocr": "Figure 8. Relationship between number of sensors and accuracy. The tests show that the angle error increases sharply when the number of sensors in an array is less than seven. To take into account the demands of directional accuracy and robustness of the system, the L-type sensor array composed of eight AE sensors has been selected. Nano-30 (Physical Acoustics Co, Princeton, NJ, USA) sensors have been selected to ensure the best spatial response. Table 3 summarizes the main technical features of the sensors. Table 3. Sensor main technical features."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    219.5,
+    506.8,
+    483.1,
+    646.5
+   ],
+   "ocr": "Item Value\nPeak Sensitivity, Ref V/(m/s) 62 dB\nPeak Sensitivity, Ref V/μbar −72 dB\nOperating Frequency Range 125–750 kHz\nResonant Frequency, Ref V/(m/s) 140 kHz\nResonant Frequency, Ref V/μbar 300 kHz\nDirectionality ± 1.5 dB\nDiameter 8 mm",
+   "table_id": "PMC4431251_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    75.8,
+    667.0,
+    648.8,
+    682.7
+   ],
+   "ocr": "The sensor array is shown in Figure 9; the center-to-center distance between two adjacent sensors is 8 mm."
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    267.4,
+    832.0,
+    299.2,
+    845.9
+   ],
+   "ocr": "32mm"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    269.4,
+    920.0,
+    438.1,
+    935.8
+   ],
+   "ocr": "Figure 9. The 8-sensor array."
+  }
+ }
+}

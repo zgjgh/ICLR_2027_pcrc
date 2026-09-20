@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_408",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    492.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Automated Delineation and Texture Correlations"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    405.8,
+    106.0
+   ],
+   "ocr": "Table 3. Correlation ratios, 95% confidence intervals, and p-values summarized."
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    409.6,
+    81.4,
+    698.3,
+    93.9
+   ],
+   "ocr": "of significantly correlating textural features with SUVmax are"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    80.4,
+    135.1,
+    675.9,
+    598.5
+   ],
+   "ocr": "Correlation Ratio 95% Confidence Correlation Ratio\nFeatures (R)– Local Approach Interval (CI) [Min and Max] p-value ,0.05 (R)-Global Approach\nSRE 20.342 20.540 20.100 0.005 20.146\nLRE 20.293 20.500 20.046 0.015 20.125\nSRLE 20.292 20.499 20.044 0.016 20.125\nLRHGE 0.307 0.067 0.522 0.016 0.131\nLRE.SD 20.235 20.452 0.016 0.049 --\nGLN.SD 20.282 20.491 20.033 0.019 --\nLGRE.SD 20.238 20.454 0.013 0.048 --\nHGRE.SD 20.284 20.492 20.035 0.019 --\nCIRCULARITY 0.254 0.010 0.479 0.049 20.127\nGMRFa1 20.299 20.505 20.052 0.013 20.299\nDNS.MAD 20.288 20.496 20.040 0.017 20.288\nACORR 0.323 0.084 0.535 0.011 20.235\nCHSADE 0.341 0.104 0.550 0.007 20.247\nMAX.PR 20.363 20.556 20.124 0.003 0.264\nENTROPY 0.388*** 0.158 0.588 0.002 20.283\nSUM.SQR 0.351 0.115 0.558 0.006 20.255\nSUM.AVG 0.324 0.085 0.536 0.011 20.236\nSUM.VAR 20.328 20.528 20.084 0.007 20.240\nENERGY 0.358 0.123 0.563 0.005 20.265\nACORR.SD 0.344 0.107 0.552 0.007 --\nCSHADE.SD 0.364 0.130 0.568 0.004 --\nHOMOG.SD 0.295 0.053 0.512 0.021 --\nDiffENTROPY.SD 0.303 0.063 0.519 0.018 --\nMAX.PR.SD 0.345 0.109 0.553 0.007 --\nENTROPY.SD 0.360 0.126 0.565 0.005 --\nSUM.SQR.SD 0.318 0.079 0.531 0.013 --\nSUM.AVG.SD 0.334 0.096 0.544 0.009 --\nSUM.VAR.SD 20.319 20.521 20.074 0.008 --",
+   "table_id": "PMC3576352_table_2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    611.8,
+    396.2,
+    963.6
+   ],
+   "ocr": "***denotes the highest correlation ratio. Correlation ratios with conventional global doi:10.1371/journal.pone.0057105.t003 morphological change prediction, a simple logit transformation [32] was used so that parameters of the logit transformation were obtained through maximum likelihood estimation method. In order to validate both parameters of logit regression and prediction ability of the combined model, we used a leave one out cross validation (LOOCV) sampling technique. Circularity and volume, on the other hand, were combined through a simple multiplication operation, where lesions having the same volume/ circularity information were differed from each other with circularity/ volume information, respectively. In addition, we found that there is no significant volume and circularity differences between ground truth and segmentated lesions as indicated by DSC rates in Table 2. As earlier mentioned, volume correlation of ground truth and segmented sets are only meaningful when they are presented with corresponding DSC rates. Since DSC rates are given in Table 2, then we conducted a t-test and Pearson correlation test to find the correlation between volume and circularity measurements of ground truth and computer based calculation. A high Pearson correlation value of R = 0.971, p,0.001 and R = 0.955, p,0.001, for volume and circularity measurements was obtained. Finally, we also determined that the likelihood of these selected features follow PLOS ONE | www.plosone.org 11"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    399.2,
+    611.8,
+    700.6,
+    620.6
+   ],
+   "ocr": "approach are also shown in the last column as a comparison to local approach."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    650.2,
+    700.8,
+    963.6
+   ],
+   "ocr": "normal distribution by using the Shapiro-Wilk test [35]. As a result of this test, entropy and Max.PR features were found to follow a normal distribution, and the rest did not, as summarized in Table 5. To show that Max.PR and entropy follows normal distributions but have significantly different variation, we con- ducted an F-test [36] between Max.PR and entropy features (F = 0.3042, 95% Confidence interval = [0.1855 0.4987], p = 3.98e-6). Note that conclusions about the utility of features were arrived after LOOCV was conducted for all data as usual in supervised machine learning techniques. Once the conclusions were derived with the help of proposed method, for any unseen baseline features, follow-up morphological changes can be predicted. Discussion 18F-FDG-PET imaging demonstrates increased metabolism with high contrast, but localization of the radiotracer uptake is limited by low spatial resolution of PET images. Even though the high contrast between tumor and normal tissue on PET images could diminish the variability in tumor regions, observer variability February 2013 | Volume 8 | Issue 2 | e57105"
+  }
+ }
+}

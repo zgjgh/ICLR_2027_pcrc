@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_397",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3518463_table_0",
+   "page_num": 1,
+   "bbox": [
+    80.9,
+    760.0,
+    358.6,
+    872.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3518463_table_0.png",
+   "html": "<table><tr><td rowspan=\"3\">Source</td><td colspan=\"3\" rowspan=\"2\">a) Small C = 0.35ns</td><td colspan=\"3\" rowspan=\"2\">b) Large C = 0.54ns</td></tr><tr></tr><tr><td>df</td><td>MS</td><td>F</td><td>df</td><td>MS</td><td>F</td></tr><tr><td>Ma</td><td>1</td><td>0.2022</td><td>17.94 **</td><td>1</td><td>0.0094</td><td>0.82 ns</td></tr><tr><td>Tr</td><td>2</td><td>0.0227</td><td>2.01 ns</td><td>2</td><td>0.0432</td><td>3.78 ns</td></tr><tr><td>Ma x Tr</td><td>2</td><td>0.0285</td><td>2.53 ns</td><td>2</td><td>0.0051</td><td>0.44 ns</td></tr><tr><td>Residual</td><td>12</td><td>0.0113</td><td></td><td>12</td><td>0.0114</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3518463_table_1",
+   "page_num": 2,
+   "bbox": [
+    80.9,
+    712.1,
+    361.6,
+    851.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3518463_table_1.png",
+   "html": "<table><tr><td rowspan=\"3\">Source</td><td rowspan=\"3\">df</td><td colspan=\"2\" rowspan=\"2\">Size C = 0.33 ns</td><td colspan=\"2\" rowspan=\"2\">Shell-weight C = 0.43 ns</td><td colspan=\"2\" rowspan=\"2\">Body-weight C = 0.39 ns</td></tr><tr></tr><tr><td>MS</td><td>F</td><td>MS</td><td>F</td><td>MS</td><td>F</td></tr><tr><td>Ma</td><td>1</td><td>0.018</td><td>7.67 *</td><td>0.001</td><td>0.02ns</td><td>0.018</td><td>0.24 ns</td></tr><tr><td>Tr</td><td>2</td><td>0.014</td><td>5.92 *</td><td>0.038</td><td>2.42ns</td><td>0.251</td><td>3.41 ns</td></tr><tr><td>Ma x Tr</td><td>2</td><td>0.008</td><td>3.29 ns</td><td>0.073</td><td>4.65 *</td><td>0.095</td><td>1.29 ns</td></tr><tr><td>xPl (Ma x Tr)</td><td>6</td><td>0.001</td><td></td><td>0.019</td><td></td><td>0.069</td><td></td></tr><tr><td>Residual</td><td>12</td><td>0.003</td><td></td><td>0.014</td><td></td><td>0.076</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3518463_table_2",
+   "page_num": 3,
+   "bbox": [
+    405.6,
+    135.3,
+    686.2,
+    232.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3518463_table_2.png",
+   "html": "<table><tr><td rowspan=\"3\">Source</td><td rowspan=\"3\">df</td><td colspan=\"2\" rowspan=\"2\">Size C = 0.70 **</td><td colspan=\"2\" rowspan=\"2\">Shell-weight C = 0.74 *</td><td colspan=\"2\" rowspan=\"2\">Body-weight C = 0.25 ns</td></tr><tr></tr><tr><td>MS</td><td>F</td><td>MS</td><td>F</td><td>MS</td><td>F</td></tr><tr><td>Tr</td><td>4</td><td>0.0002</td><td>0.08 ns</td><td>0.0034</td><td>0.75 ns</td><td>0.0938</td><td>1.43 ns</td></tr><tr><td>Pl (Tr)</td><td>5</td><td>0.0027</td><td>3.16 ns</td><td>0.0046</td><td>2.06 ns</td><td>0.0654</td><td>5.11*</td></tr><tr><td>Residual</td><td>10</td><td>0.0009</td><td></td><td>0.0022</td><td></td><td>0.0128</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3518463_table_3",
+   "page_num": 4,
+   "bbox": [
+    80.3,
+    122.0,
+    626.1,
+    289.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3518463_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Response</td><td></td><td rowspan=\"2\">Size</td><td colspan=\"3\">Effect</td></tr><tr><td></td><td>Macroalgae</td><td>Competition</td><td>Ma x Co</td></tr><tr><td rowspan=\"2\">Survival</td><td></td><td>S</td><td>2Ma,+Ma **</td><td>ns</td><td>ns</td></tr><tr><td></td><td>L</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td rowspan=\"6\">Growth</td><td>Size (TL, mm)</td><td>S</td><td>2Ma.+Ma *</td><td>10S, 13S.10S+3L *</td><td>ns</td></tr><tr><td>Shell-weight (g)</td><td>S</td><td></td><td></td><td>+Ma: 10S, 13S.10S+3L 2Ma: 10S = 13S = 10S+3L</td></tr><tr><td>Body weight (g)</td><td>S</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Size (TL, mm)</td><td>L</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Shell-weight (g)</td><td>L</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Body weight (g)</td><td>L</td><td>ns</td><td>ns</td><td>ns</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3518463_table_4",
+   "page_num": 5,
+   "bbox": [
+    80.9,
+    135.3,
+    360.7,
+    244.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3518463_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Source</td><td rowspan=\"2\">df</td><td rowspan=\"2\">14 days MS</td><td rowspan=\"2\">F</td><td rowspan=\"2\">df</td><td rowspan=\"2\">42 days MS</td><td rowspan=\"2\">F</td></tr><tr></tr><tr><td>Ma</td><td>1</td><td>0.01</td><td>0.01 ns</td><td>1</td><td>39.1</td><td>4.43 ns</td></tr><tr><td>Tr</td><td>4</td><td>0.29</td><td>0.29 ns</td><td>4</td><td>8.1</td><td>0.91 ns</td></tr><tr><td>Ma x Tr</td><td>4</td><td>1.62</td><td>1.59 ns</td><td>4</td><td>6.0</td><td>Pooled</td></tr><tr><td>Pl (Ma x Tr)</td><td>20</td><td>1.02</td><td>4.28 **</td><td>10</td><td>9.9</td><td>Pooled</td></tr><tr><td>Residual</td><td>270</td><td>0.24</td><td></td><td>180</td><td>0.3</td><td></td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_241",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    553.1,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Quantifying scale-variance relationships"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    97.3,
+    727.0,
+    765.3
+   ],
+   "ocr": "analyses are built into the msoplot() function in the vegan package of R (R Foundation for Sta- tistical Computing, Vienna, Australia). RDA performance at local vs. habitat-level scales Variogram measures were recomputed to quantify the extent the RDA models explained local vs. habitat-level community variation. This analysis also assessed the ability of acoustic prov- inces to serve as proxies for habitats within the study areas. The variogram function mso() was modified slightly to replace the geographic distance matrix between pairs of samples with a matrix of two “distance” classes: within (1) and between (2) acoustic provinces. The output provided the variogram estimates for γ, γfit, and γres for each “distance” class. Assuming that small-scale variation in the data cannot be explained by the RDA models’ biotic-environmen- tal relationships, estimates of the nugget effect were subtracted from γres to assess model per- formance of only that part of the variation within the observational scale of the surveys. Results Summary of faunal and environmental data An abundant and diverse fauna occurred at each study site. Mean abundance per m2, mean species density per sample, and species richness at each site are summarized in Table 3. Species richness varied from 25 taxa at Haverstraw Bay to 95 taxa at Shelter Island. The study sites rep- resented a wide range of benthic environments ranging from freshwater at Kingston-Sauger- ties, to mesohaline at Haverstraw Bay and Tappan Zee (salinity ranges of 8.5–14.5 during sampling), to almost marine conditions at Robins Island and Shelter Island (salinity ranges of 28.5 to 31 during sampling). Average water depth varied from 5.7 to 9.9 m among study loca- tions, and depth measurements varied widely at sampling stations within study areas (Table 4). The greatest variation in depth occurred at Kingston-Saugerties with sampling sta- tions ranging from 1 to 22 m. The smallest variation was at Shelter Island with a range of 3 to 11 m. The sediments across all locations were mostly sandy or muddy and rarely contained substantial gravel, with some notable exceptions at individual sampling stations (Table 4). Nevertheless, the grain size range varied broadly; for example, percent mud ranged from less than 4% to greater than 83% within each study area. The surficial percent cover classes from maximum likelihood analysis of seafloor images varied moderately among study locations (Table 5). A total of 5 cover classes were identified at Tappan Zee, with the majority of the sampling stations at this site composed of mud, silty shell, or other silt-covered material. Robins Island and Shelter Island had 9 and 14 cover clas- ses, respectively. Surficial sediments at these two sites were predominantly combinations of rock, pebble, sand, mud, shell, shell hash, and silty material. Occasionally, biotic cover consist- ing of live slipper snails (Crepidula fornicata) and sponges (Microciona porifera) was present. Table 3. Summary of faunal data including mean abundance of all taxa per m2, mean species density per sample, and overall species richness at each study location."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    774.0,
+    699.0,
+    878.8
+   ],
+   "ocr": "Study Location Number of samples Mean abundance Mean species density Species richness\nKingston-Saugerties ’01 44 5776 10 47\nKingston-Saugerties ’02 44 3849 12 54\nHaverstraw Bay 51 2643 9 25\nTappan Zee 100 2575 11 40\nRobins Island 60 7063 25 71\nShelter Island 70 18534 24 95",
+   "table_id": "PMC5764243_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    236.3,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0189313.t003"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0189313 January 11, 2018 10 / 25"
+  }
+ }
+}

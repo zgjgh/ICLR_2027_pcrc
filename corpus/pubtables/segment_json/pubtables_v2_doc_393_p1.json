@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_393",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    299.3,
+    66.0
+   ],
+   "ocr": "Pretty et al. Annals of Intensive Care 2012, 2:17 http://www.annalsofintensivecare.com/content/2/1/17"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 2 of 10"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    926.2
+   ],
+   "ocr": "Background Safe, effective tight glycemic control (TGC) of critically ill patients can improve outcomes [1-4], but it is difficult to achieve consistently [5-7]. Glycemic level and variability in TGC are a function of variability in insulin sensitivity, potentially resulting from the level and evolution of the stress response [8], and are independently associated with mortality [9-12]. Insulin sensitivity defines the metabolic balance be- tween insulin concentration and glucose disposal. Insulin-mediated glucose disposal is a dominant pathway to reduce and control glycemia in critically ill patients. For a fixed insulin concentration, a given percentage change of insulin sensitivity results in a proportional change to glucose disposal and thus glycemic level, all else equal. Understanding the variability of insulin sensitivity, over hours and days, is important for safely and effectively managing glycemic levels with exogenous insulin. Several patient- and treatment-related factors influence insulin sensitivity. Some of the influential and predictable factors (drug therapies and existing patient conditions) are taken into account when developing therapeutic algorithms for insulin treatment. The objective of this study was to examine the evolution of insulin sensitivity level and variability over the first 4 days of intensive care unit (ICU) stay using data from the SPRINT TGC study [1]. Analyses were performed on two separate timescales, using 24-hour and 6-hour blocks of data. The impact of this insulin sensitivity evolution on glycemia in the context of TGC protocols is considered. Methods Patients This study is a retrospective analysis of patient data (N = 164 patients, 12,067 hours) from the SPRINT clin- ical practise change in the Christchurch Hospital ICU [1]. All patients admitted between August 2005 and May 2007 were included where the SPRINT TGC protocol was commenced within 12 hours of ICU admission and continued for at least 24 hours. All patients were treated per protocol, with no specific exclusions. Table 1 pre- sents a summary of cohort details. The Christchurch Hospital ICU is a 15-bed, closed, mixed medical-surgical unit led by intensive care specialists in a tertiary affiliated teaching hospital. Glycemic control data were collected from handwritten daily ICU charts and entered into a spreadsheet database. The Upper South Regional Ethics Committee, New Zealand, granted approval for the audit, analysis, and publication of this data. The SPRINT protocol The SPRINT protocol (SPecialised Relative Insulin Nutrition Tables) is a simple, lookup-table system derived"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    111.4,
+    619.5,
+    124.4
+   ],
+   "ocr": "Table 1 Summary details of the study subjects"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    129.2,
+    678.6,
+    298.4
+   ],
+   "ocr": "N 164\nAge (yr) 65 [56–74]\nGender (M/F) 102/62\nAPACHE II score 19 [16–25]\nAPACHE II ROD (%) 32 [17–52]\nOperative/nonoperative 66/98\nHospital mortality 25%\nICU mortality 18%\nICU length of stay (hr) 142 [70–308]\nDiabetic history: type I/type II 10/22",
+   "table_id": "PMC3464183_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    304.7,
+    645.9,
+    314.6
+   ],
+   "ocr": "Data are presented as median [interquartile range] where appropriate."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    337.9,
+    678.7,
+    926.2
+   ],
+   "ocr": "from a model-based controller that modulates both insu- lin and nutritional inputs. The protocol titrates insulin doses and nutrition rates to estimated patient-specific insulin sensitivity for tight glycemic control in the range 4.0–6.1 mmol/L BG range [1,13,14]. SPRINT has been the standard of care in the Christchurch ICU since August 2005. The requirement for the patients in this study to be on the SPRINT protocol ensured that they had regular and accurate records of blood glucose levels, insulin admi- nistered, and nutrition given. The entry criterion for the SPRINT protocol was two BG measurements >8 mmol/L during normal patient monitoring, or at the discretion of the clinician. Once on the protocol, BG was measured 1- to 2-hourly, with a median measurement interval for this cohort of 1.5 hours. BG measurements were taken by nursing staff using the Arkray Super-Glucocard II glucometer (Arkray Inc., Japan). Blood samples tested were typically arterial, although when an arterial line was not present, capillary blood was used. Additional File 1 contains a more detailed description of SPRINT and specific, unique dif- ferences to other protocols. Model-based insulin sensitivity Model-based methods provide a means of determining physiological parameters that either cannot be measured directly or are impractical to measure with the required frequency. In this study, model-based insulin sensitivity (SI) was identified using an integral method [15] with a validated glucose-insulin system model developed for critical care patients [16,17]. The glucose-insulin system model is illustrated schematically in Figure 1 and pre- sented in greater detail in Additional File 2. The SI parameter represents “whole-body” insulin sensi- tivity. The parameter defines the glycemic response to exogenous insulin and nutrition, capturing the relative net effect of altered endogenous glucose production, periph- eral and hepatic insulin mediated glucose uptake, and endogenous insulin secretion. However, this time-varying"
+  }
+ }
+}

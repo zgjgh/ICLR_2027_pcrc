@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_488",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4640514_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    178.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4640514_table_0.png",
+   "html": "<table><tr><td>Network</td><td>Num. Nodes</td><td>Num. Isolates</td><td>Tie Duration (min.)</td><td>Density</td><td>Mean Node Degree</td><td>Max. Clique Sizes</td></tr><tr><td>HS75</td><td>538</td><td>0</td><td>75</td><td>0.005</td><td>2.48</td><td>1&#8211;4</td></tr><tr><td>HS60</td><td>688</td><td>0</td><td>60</td><td>0.008</td><td>5.42</td><td>1&#8211;6</td></tr><tr><td>HS6</td><td>789</td><td>5</td><td>6</td><td>0.073</td><td>57.48</td><td>1&#8211;25</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4640514_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    201.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4640514_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Probability of Transmission</td><td>HS75</td><td>HS60</td><td>HS6</td><td>Relationships</td><td>PWID</td></tr><tr><td></td><td></td><td>experimental</td><td>variable</td><td></td></tr><tr><td>Number of seeds</td><td>1</td><td>1</td><td>1</td><td>10</td><td>10</td></tr><tr><td>Duration of infection</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>&#8220;Epidemic&#8221; min. size (Rmin)</td><td>12</td><td>15</td><td>18</td><td>40</td><td>20</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4640514_table_2",
+   "page_num": 2,
+   "bbox": [
+    252.3,
+    716.2,
+    726.7,
+    826.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4640514_table_2.png",
+   "html": "<table><tr><td>Statistic</td><td>Estimates</td></tr><tr><td>Edge</td><td>-7.954149</td></tr><tr><td>Isolates</td><td>-10.994985</td></tr><tr><td>Alt. k-star (&#955; = 1.50)</td><td>0.828329</td></tr><tr><td>Alt. k-triangle (&#955; = 3.00)</td><td>1.392038</td></tr><tr><td>Alt. k-2-path (&#955; = 3.00)</td><td>-0.099633</td></tr><tr><td>Homophily: person type</td><td>0.259939</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4640514_table_3",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    116.0,
+    726.6,
+    431.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4640514_table_3.png",
+   "html": "<table><tr><td>Observed Statistic</td><td>Sample</td><td>Mean</td><td>Std. Dev.</td><td>t-ratio</td><td>Goodness-of-Fit Interval</td></tr><tr><td>Edge</td><td>666</td><td>665.497</td><td>25.841</td><td>0.019</td><td>(662.91, 668.08)</td></tr><tr><td>2-star</td><td>1615</td><td>1598.32</td><td>161.321</td><td>0.103</td><td>(1275.68, 1920.96)</td></tr><tr><td>3-star</td><td>1483</td><td>1420.114</td><td>262.421</td><td>0.24</td><td>(895.27, 1944.96)</td></tr><tr><td>4-star</td><td>1093</td><td>990.192</td><td>313.791</td><td>0.328</td><td>(362.61, 1617.77)</td></tr><tr><td>5-star</td><td>649</td><td>566.198</td><td>311.516</td><td>0.266</td><td>(-56.83, 1189.23)</td></tr><tr><td>Triangles</td><td>80</td><td>78.913</td><td>14.606</td><td>0.074</td><td>(49.70, 108.13)</td></tr><tr><td>Isolates</td><td>0</td><td>0.005</td><td>0.069</td><td>-0.069</td><td>(0.00, 0.01)</td></tr><tr><td>2-Triangle</td><td>65</td><td>55.432</td><td>29.701</td><td>0.322</td><td>(-3.97, 114.83)</td></tr><tr><td>Bow tie</td><td>57</td><td>62.922</td><td>42.339</td><td>-0.14</td><td>(-21.76, 147.60)</td></tr><tr><td>4-Cycle</td><td>64</td><td>43.681</td><td>20.232</td><td>1.004</td><td>(3.22, 84.15)</td></tr><tr><td>Alt. k-star (&#955; = 1.50)</td><td>967.347</td><td>965.926</td><td>69.811</td><td>0.02</td><td>(958.94, 972.91)</td></tr><tr><td>Alt. k-triangle (&#955; = 3.00)</td><td>219.741</td><td>219.328</td><td>36.8</td><td>0.011</td><td>(215.65, 223.01)</td></tr><tr><td>Alt. k-2-path (&#955; = 3.00)</td><td>1574.074</td><td>1570.435</td><td>153.481</td><td>0.024</td><td>(1555.09, 1585.78)</td></tr><tr><td>Homophily: person type</td><td>507</td><td>506.628</td><td>23.016</td><td>0.016</td><td>(504.33, 508.93)</td></tr><tr><td>Std. Dev. degree dist.</td><td>1.534</td><td>1.511</td><td>0.082</td><td>0.282</td><td>(1.35, 1.68)</td></tr><tr><td>Skewness degree dist.</td><td>1.217</td><td>1.114</td><td>0.141</td><td>0.731</td><td>(0.83, 1.40)</td></tr><tr><td>Global Clustering Coefficient</td><td>0.149</td><td>0.147</td><td>0.017</td><td>0.074</td><td>(0.11, 0.18)</td></tr><tr><td>Mean Local Clustering</td><td>0.11</td><td>0.1</td><td>0.014</td><td>0.723</td><td>(0.07, 0.13)</td></tr><tr><td>Variance Local Clustering</td><td>0.06</td><td>0.051</td><td>0.008</td><td>1.116</td><td>(0.04, 0.07)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4640514_table_4",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    116.1,
+    726.7,
+    225.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4640514_table_4.png",
+   "html": "<table><tr><td>Statistic</td><td>Estimates</td></tr><tr><td>Edge</td><td>-8.62622</td></tr><tr><td>Isolates</td><td>-11.891</td></tr><tr><td>Alt. k-star (&#955; = 1.50)</td><td>1.137897</td></tr><tr><td>Alt. k-triangle (&#955; = 3.00)</td><td>1.250777</td></tr><tr><td>Alt. k-2-path (&#955; = 3.00)</td><td>-0.047</td></tr><tr><td>Homophily: person type</td><td>0.092378</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4640514_table_5",
+   "page_num": 5,
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    210.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4640514_table_5.png",
+   "html": "<table><tr><td>Statistic</td><td>Estimates</td></tr><tr><td>Edge</td><td>-7.4839</td></tr><tr><td>Triangle</td><td>4.5806</td></tr><tr><td>Isolates</td><td>-11.5927</td></tr><tr><td>IsolateEdges</td><td>0.175</td></tr><tr><td>Alt. k-star (&#955; = 2)</td><td>0.5882</td></tr></table>"
+  }
+ ]
+}

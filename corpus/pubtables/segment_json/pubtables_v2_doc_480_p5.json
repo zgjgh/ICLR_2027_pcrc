@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_480",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    589.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "AIx in Relation to PAD and AAA"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    290.5,
+    107.4
+   ],
+   "ocr": "Table 6. Differences in cAIx between patient groups."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    778.2
+   ],
+   "ocr": "Parameters Coefﬁcient SE Beta p-value\nModel 1: R2 = 0.99, N = 181\nDiagnosis 0.09 0.34 0.21 0.006\nAge 0.11 0.00 0.35 0.000\nMale -0.18 0.06 -0.27 0.004\nHeight -1.43 0.64 -0.23 0.026\nModel 2: R2 = 0.99, N = 181\nDiagnosis 0.08 0.04 0.18 0.029\nHypertension -0.07 0.07 -0.09 0.256\nDiabetes -0.11 0.06 -0.16 0.042\nSmoker 0.08 0.04 0.12 0.140\nfurther controls: age, sex, height, weight.\nModel 3: R2 = 0.99, N = 181\nDiagnosis 0.07 0.04 0.15 0.063\nCoronary Heart Disease -0.12 0.05 -0.18 0.023\nCerebrovascular Disease 0.06 0.06 0.08 0.323\nfurther controls: age, sex, height, weight.\nModel 4: R2 = 0.99, N = 181\nDiagnosis 0.08 0.03 0.17 0.023\nStatins 0.02 0.06 0.02 0.753\nACE / AT II 0.02 0.05 0.04 0.666\nβ-Blockers -0.07 0.05 -0.12 0.139\nCA-Ant. -0.11 0.05 -0.17 0.032\nDiuretics -0.09 0.05 -0.14 0.103\nfurther controls: age, sex, height, weight.\nModel 5: R2 = 0.99, N = 181\nDiagnosis 0.09 0.03 0.19 0.014\nAge 0.01 0.00 0.39 0.000\nMale -0.12 0.06 -0.17 0.064\nHeight -1.95 0.62 -0.31 0.002\nDiabetes -0.10 0.05 -0.14 0.064\nCoronary Heart Disease -0.10 0.05 -0.16 0.043\nCA-Ant. -0.14 0.05 -0.21 0.004\nModel 6: R2 = 0.99, N = 181\nPAD 0.16 0.07 0.24 0.034\nPAD & AAA 0.10 0.08 0.12 0.248\nAge 0.01 0.00 0.39 0.000\nMale -0.12 0.06 -0.18 0.056\nHeight -1.95 0.63 -0.31 0.002\nDiabetes -0.10 0.05 -0.14 0.074\nCoronary Heart Disease -0.11 0.05 -0.17 0.034\nCA-Ant. -0.14 0.05 -0.21 0.005",
+   "table_id": "PMC4599890_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    791.0,
+    718.4,
+    888.8
+   ],
+   "ocr": "Notes: The table shows results from multivariate linear regression analyses. SE denotes the standard errors of regression coefﬁcients. The dependent variable is cAIx@75 (heart rate 75 bpm) doi:10.1371/journal.pone.0139887.t006 (another non-invasive hemodynamic marker derived from pulse wave analysis) [24]. In addi- tion, we found that lower limb revascularization was associated with a 10% lowering in cAIx"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0139887 October 9, 2015 9 / 14"
+  }
+ }
+}

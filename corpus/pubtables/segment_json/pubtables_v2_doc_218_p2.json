@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_218",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.7,
+    678.3,
+    54.4
+   ],
+   "ocr": "Xing et al. BioData Mining (2016) 9:31 Page 3 of 18"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    156.4,
+    288.2,
+    576.2,
+    312.3
+   ],
+   "ocr": "Fig. 1 Graphical rendering of Table 1 and a direct edge between A and F. Directed edges represent “is-a” relation"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    341.7,
+    602.1,
+    813.7
+   ],
+   "ocr": "and 10 versions of GO. We also investigated redundant is-a relations in the UMLS, an integrated repository of biomedical terminologies, including SNOMED CT and GO. SNOMED CT SNOMED CT is the world’s largest clinical terminology [7, 8]. It provides broad coverage of clinical medicine, including findings, diseases, and procedures for use in electronic medical records. From a structural perspective, SNOMED CT can be seen as a series of large directed acyclic graphs, one for each of its 19 “sub-hierarchies” including Procedure, Substance, Body structure, Specimen, Clinical finding, and Organism. No concept is shared across sub-hierarchies except for the root. Each concept comes with a SNOMED CT identifier, which is an integer. SNOMED CT concepts are linked by hierarchical relations within each sub-hierarchy. Gene ontology The Gene Ontology (GO) [9] is a collection of three ontologies to describe attributes of gene products in three non-overlapping domains of molecular biology: Cellular Com- ponent, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units (cells, tissues, organs, and organisms). Within each ontology, terms have free text definitions and unique identifiers. GO terms can be related to each other by is-a and part-of relationships, forming a directed acyclic graph. The GO vocabulary is designed to be species-agnostic, and is intended to capture multiple organisms. Table 2 Summary of the results for 5 versions of SNOMED CT"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    819.0,
+    601.6,
+    908.2
+   ],
+   "ocr": "Version # Concepts # is-a Relations TC RR RR % T(ms)\n2013-09-01 300,485 447,442 5,226,630 240 0.00459 10,472\n2014-03-01 300,409 446,603 5,188,221 277 0.00534 10,335\n2014-09-01 302,902 449,564 5,222,506 305 0.00584 10,074\n2015-03-01 315,904 467,799 5,408,010 235 0.00435 15,264\n2015-09-01 320,911 476,226 5,511,334 372 0.00675 16,077",
+   "table_id": "PMC5057496_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    149.2,
+    914.2,
+    534.6,
+    924.0
+   ],
+   "ocr": "TC: number of transitive closure pairs, RR: number of redundant is-a relations, T(ms): time taken in milliseconds"
+  }
+ }
+}

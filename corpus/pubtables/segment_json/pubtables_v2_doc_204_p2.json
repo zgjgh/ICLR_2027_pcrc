@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_204",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    305.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Identification of Highly Variable Supernumerary Chromosome Segments in an Asexual Pathogen"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.4,
+    535.3,
+    108.0
+   ],
+   "ocr": "Table 2. Length of coverage and distribution of SNPs when reads were mapped onto reference Fv Mont-1."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    112.9,
+    694.0,
+    296.9
+   ],
+   "ocr": "Isolate Length of coverage (Mb) Number of SNPs Mean SNP rate/standard Max SNP rate2\ndeviation1\nFv 34551 49.9 3,269 0.00003/0.00003 0.00023 (6.7)\nFv Clinton-1B 49.6 6,315 0.00005/0.00028 0.00614 (21.8)\nFv LL0009 49.2 5,784 0.00005/0.00024 0.00620 (25.6)\nFc 31157 39.5 173,647 0.00442/0.00122 0.00803 (3.0)\nFp 31156 40.0 174,859 0.00441/0.00122 0.00806 (3.0)\nFb 31757 39.3 170,590 0.00432/0.00117 0.00883 (3.9)\nFt 31096 39.3 180,384 0.00459/0.00127 0.00934 (3.7)\nFt 31781 39.2 171,672 0.00439/0.00113 0.00817 (3.4)\nFt 34546 38.9 155,453 0.00409/0.00101 0.00723 (3.1)\nFa 54364 37.9 185,286 0.00501/0.00118 0.00943 (3.8)",
+   "table_id": "PMC4920403_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    308.7,
+    711.3,
+    345.3
+   ],
+   "ocr": "The mapped reference was partitioned into at least 700 disjoint windows each with 35-kb sufﬁciently covered base positions. The mean and standard deviation were calculated for the SNP rates of these windows. 2"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    339.0,
+    726.8,
+    567.1
+   ],
+   "ocr": "The number in the parentheses is the maximum SNP rate measured in units of standard deviation above the mean. doi:10.1371/journal.pone.0158183.t002 with 0.56% containing 20-plus-copy sequences. These results indicate that F. virguliforme and F. cuneirostrum were more diverged in the uncovered portion rich in duplication and A+T content. For example, we observed C-T/G-A substitutions at a rate of 98% (871/887) in a 10-kb alignment (with 91% identity) of two adjacent contigs in the uncovered portion, where the integrity of both Fv Mont-1 contigs were verified based on their nearly complete and SNP-free coverage at a depth above 100 by reads from each of the other three F. virguliforme isolates. Each contig had a best match (with 90% identity) to the Fc 31157 genome assembly and to the Fp 31156 genome assembly, which were 99.95% identical over the match. Moreover, a maxi- mum likelihood tree of 13 duplicated sequences in the Fv Mont-1 assembly illustrates that the more recently duplicated sequences had a higher A+T content (Fig 1)."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    810.0,
+    717.7,
+    901.4
+   ],
+   "ocr": "Fig 1. Maximum likelihood tree of 13 duplicated sequences (length 3,772 bp) in the Fv Mont-1 assembly. Each sequence was named based on its A+T content followed by its contig name. For example, sequence P61.mc37.31 indicates an A+T content of 61% and mc37.31 as its source contig. The four most recently duplicated sequences were P69.mc53.3, P70.mc175.2, P69.mc29.3 and P70.mc147.3, with the highest A+T content range of 69% to 70%. Support values from 100 bootstrap replicates are provided at internodes. doi:10.1371/journal.pone.0158183.g001"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158183 June 24, 2016 8 / 23"
+  }
+ }
+}

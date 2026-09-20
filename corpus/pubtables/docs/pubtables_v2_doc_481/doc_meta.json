@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_481",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4599895_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    423.1,
+    726.6,
+    805.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4599895_table_0.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">All patients (n = 1276)</td><td rowspan=\"2\">Hb group &lt;9 (n = 72)</td><td rowspan=\"2\">9&#8211;10 (n = 241)</td><td rowspan=\"2\">10&#8211;11 (n = 421)</td><td rowspan=\"2\">11&#8211;12 (n = 353)</td><td rowspan=\"2\">12 (n = 189)</td><td rowspan=\"2\">P</td></tr><tr><td></td></tr><tr><td>Age (years)</td><td>59.6 &#177; 13.8</td><td>58.9 &#177; 15.5</td><td>60.6 &#177; 12.8</td><td>60.3 &#177; 13.8</td><td>58.9 &#177; 14.2</td><td>58.0 &#177; 13.9</td><td>0.198</td></tr><tr><td>Male sex (%)</td><td>745 (58.4)</td><td>46 (63.9)</td><td>133 (55.2)</td><td>244 (58.0)</td><td>212 (60.1)</td><td>110 (58.2)</td><td>0.671</td></tr><tr><td>Body mass index (kg/m2)</td><td>22.4 &#177; 3.2</td><td>21.9 &#177; 2.8</td><td>22.1 &#177; 3.1</td><td>22.3 &#177; 3.4</td><td>22.8 &#177; 3.2</td><td>22.6 &#177; 2.9</td><td>0.071</td></tr><tr><td>History of diabetes (%)</td><td>536 (52.4)</td><td>28 (44.4)</td><td>100 (50.3)</td><td>181 (53.9)</td><td>146 (54.5)</td><td>81 (51.6)</td><td>0.598</td></tr><tr><td colspan=\"8\">History of CVD (%)</td></tr><tr><td>Coronary artery disease</td><td>125 (12.3)</td><td>5 (8.1)</td><td>25 (12.6)</td><td>41 (12.3)</td><td>36 (13.6)</td><td>18 (11.5)</td><td>0.815</td></tr><tr><td>Congestive heart failure</td><td>115 (11.3)</td><td>8 (12.7)</td><td>25 (12.6)</td><td>40 (11.9)</td><td>25 (9.4)</td><td>17 (11.0)</td><td>0.814</td></tr><tr><td>Arrhythmia</td><td>19 (1.87)</td><td>1 (1.6)</td><td>2 (1.0)</td><td>8 (2.4)</td><td>5 (1.9)</td><td>3 (1.9)</td><td>0.862</td></tr><tr><td>Cerebrovascular disease</td><td>23 (2.3)</td><td>0 (0.0)</td><td>6 (3.0)</td><td>7 (2.1)</td><td>7 (2.6)</td><td>3 (1.9)</td><td>0.687</td></tr><tr><td>Peripheral vascular disease</td><td>63 (6.2)</td><td>2 (3.2)</td><td>12 (6.1)</td><td>23 (6.9)</td><td>17 (6.4)</td><td>9 (5.8)</td><td>0.858</td></tr><tr><td>ESA dose (U/week)*</td><td>8858.5 &#177; 5403.8</td><td>12595.5b &#177; 8153.2</td><td>10760.2b &#177; 6464.9</td><td>8140.9a &#177; 4398.2</td><td>7647.8a &#177; 4662.8</td><td>8555.6a &#177; 4334.3</td><td>0.000</td></tr><tr><td>ERI (g/dL)&#8722;1/kg)*</td><td>14.9 &#177; 11.1</td><td>27.0c &#177; 21.0</td><td>20.0b &#177; 13.3</td><td>13.5a &#177; 7.6</td><td>11.5a &#177; 8.0</td><td>11.5a &#177; 6.5</td><td>0.000</td></tr><tr><td>Serum albumin (g/dL)*</td><td>3.9 &#177; 0.4</td><td>3.7a &#177; 0.4</td><td>3.8b &#177; 0.4</td><td>4.0c &#177; 0.4</td><td>4.0c &#177; 0.4</td><td>4.0c &#177; 0.4</td><td>0.000</td></tr><tr><td>Serum ferritin (ng/mL)*</td><td>275.5 &#177; 307.3</td><td>435.0c &#177; 459.8</td><td>333.1b &#177; 393.2</td><td>275.3ab &#177; 295.6</td><td>226.7a &#177; 211.2</td><td>237.8a &#177; 264.0</td><td>0.000</td></tr><tr><td>TSAT (%)</td><td>30.6 &#177; 15.2</td><td>29.1 &#177; 15.1</td><td>30.7 &#177; 17.5</td><td>30.7 &#177; 15.1</td><td>30.9 &#177; 14.9</td><td>30.5 &#177; 12.3</td><td>0.949</td></tr><tr><td>hs-CRP (mg/L)*</td><td>0.7 &#177; 1.6</td><td>1.4b &#177; 2.3</td><td>0.8a &#177; 1.6</td><td>0.7a &#177; 1.5</td><td>0.5a &#177; 1.4</td><td>0.7a &#177; 1.6</td><td>0.004</td></tr><tr><td>IV iron treatment (%)</td><td>99 (8.1)</td><td>11 (15.7)</td><td>22 (9.3)</td><td>27 (6.6)</td><td>28 (8.4)</td><td>11 (6.4)</td><td>0.078</td></tr><tr><td>ESA treatment** (%)</td><td>870 (71.8)</td><td>56 (82.4)</td><td>201 (85.9)</td><td>330 (80.9)</td><td>209 (62.4)</td><td>74 (44.6)</td><td>0.000</td></tr><tr><td>Kt/V (single pool)</td><td>1.4 &#177; 0.3</td><td>1.4 &#177; 0.2</td><td>1.4 &#177; 0.3</td><td>1.4 &#177; 0.2</td><td>1.4 &#177; 0.2</td><td>1.4 &#177; 0.3</td><td>0.199</td></tr><tr><td>Ca*(mg/dL)</td><td>8.7 &#177; 0.9</td><td>8.3a &#177; 0.8</td><td>8.6b &#177; 0.8</td><td>8.6b &#177; 0.8</td><td>8.8c &#177; 0.9</td><td>8.9c &#177; 0.9</td><td>0.000</td></tr><tr><td>P*(mg/dL)</td><td>4.8 &#177; 1.5</td><td>4.7ab &#177; 1.9</td><td>4.6a &#177; 1.5</td><td>4.8abc &#177; 1.5</td><td>5.0bc &#177; 1.4</td><td>5.0c &#177; 1.3</td><td>0.019</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599895_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    279.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4599895_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Variable</td><td colspan=\"3\">Simple regression</td><td colspan=\"3\">Multiple regression</td></tr><tr><td>&#946;</td><td>SE</td><td>P</td><td>&#946;</td><td>SE</td><td>P</td></tr><tr><td>Age</td><td>0.063</td><td>0.003</td><td>0.024</td><td>0.099</td><td>0.003</td><td>0.000</td></tr><tr><td>Sex (Male)</td><td>-0.021</td><td>0.097</td><td>0.461</td><td></td><td></td><td></td></tr><tr><td>DM</td><td>-0.033</td><td>0.097</td><td>0.248</td><td></td><td></td><td></td></tr><tr><td>ESA dose</td><td>0.001</td><td>0.000</td><td>0.978</td><td></td><td></td><td></td></tr><tr><td>Ferritin</td><td>-0.079</td><td>0.051</td><td>0.005</td><td>-0.045</td><td>0.048</td><td>0.105</td></tr><tr><td>Serum albumin</td><td>0.435</td><td>0.075</td><td>&lt;0.001</td><td>0.409</td><td>0.084</td><td>0.000</td></tr><tr><td>Kt/V</td><td>0.185</td><td>0.207</td><td>&lt;0.001</td><td>0.085</td><td>0.209</td><td>0.002</td></tr><tr><td>hs-CRP</td><td>-0.107</td><td>0.029</td><td>&lt;0.001</td><td>-0.053</td><td>0.027</td><td>0.056</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599895_table_2",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    257.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4599895_table_2.png",
+   "html": "<table><tr><td>Cause of death</td><td>Events (%)</td></tr><tr><td>Cardiovascular disease</td><td>19 (13.9)</td></tr><tr><td>Infectious disease</td><td>39 (28.5)</td></tr><tr><td>Cerebrovascular disease</td><td>5 (3.7)</td></tr><tr><td>Sudden death</td><td>17 (12.4)</td></tr><tr><td>Cancer</td><td>25 (18.3)</td></tr><tr><td>Other</td><td>14 (10.2)</td></tr><tr><td>Unknown</td><td>18 (13.1)</td></tr><tr><td>Total</td><td>137 (10.7)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599895_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    114.8,
+    726.6,
+    229.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4599895_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Hb (g/dL)</td><td rowspan=\"2\">Unadjusted HR (95% CI)</td><td rowspan=\"2\">P value</td><td rowspan=\"2\">Model 1a HR (95% CI)</td><td rowspan=\"2\">P value</td><td rowspan=\"2\">Model 2b HR (95% CI)</td><td rowspan=\"2\">P value</td><td rowspan=\"2\">Number at risk, n (%)</td><td rowspan=\"2\">Events, n (%)</td></tr><tr></tr><tr><td>&lt;9.0</td><td>4.71 (2.70&#8211;8.22)</td><td>&lt;0.0001</td><td>4.22 (2.28&#8211;7.82)</td><td>&lt;0.0001</td><td>5.12 (2.62&#8211;10.02)</td><td>&lt;0.0001</td><td>90 (7.05)</td><td>20 (22.2)</td></tr><tr><td>9.0 to &lt;10.0</td><td>2.37 (1.45&#8211;3.86)</td><td>0.0006</td><td>2.02 (1.15&#8211;3.55)</td><td>0.0145</td><td>2.03 (1.16&#8211;3.69)</td><td>0.0206</td><td>217 (17.01)</td><td>35 (16.1)</td></tr><tr><td>10.0 to &lt;11.0</td><td>Reference</td><td></td><td>Reference</td><td></td><td>Reference</td><td></td><td>496 (38.87)</td><td>36 (7.3)</td></tr><tr><td>11.0 to &lt;12.0</td><td>0.78 (0.42&#8211;1.43)</td><td>0.4216</td><td>0.51 (0.23&#8211;1.12)</td><td>0.0943</td><td>0.54 (0.24&#8211;1.19)</td><td>0.1250</td><td>292 (22.88)</td><td>16 (5.5)</td></tr><tr><td>&#65533;12.0</td><td>0.62 (0.27&#8211;1.39)</td><td>0.2455</td><td>0.80 (0.35&#8211;1.83)</td><td>0.5927</td><td>0.68 (0.28&#8211;1.67)</td><td>0.4015</td><td>181 (14.18)</td><td>9 (5.0)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599895_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    114.8,
+    721.0,
+    333.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4599895_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Hb (g/dL)</td><td rowspan=\"2\">ESA (U/week/ kg)</td><td rowspan=\"2\">Unadjusted model HR (95% CI)</td><td rowspan=\"2\">P value</td><td rowspan=\"2\">Model 1a HR (95% CI)</td><td rowspan=\"2\">P value</td><td rowspan=\"2\">Model 2b HR (95% CI)</td><td rowspan=\"2\">P value</td><td rowspan=\"2\">Number at risk, n (%)</td><td rowspan=\"2\">Events, n (%)</td></tr><tr></tr><tr><td rowspan=\"2\">&lt;10.0</td><td>&lt;126</td><td>1.49 (0.54&#8211;4.09)</td><td>0.4427</td><td>1.13 (0.40&#8211; 3.15)</td><td>0.8179</td><td>0.99 (0.35&#8211; 2.78)</td><td>0.9876</td><td>79 (9.48)</td><td>6 (7.59)</td></tr><tr><td>&#65533;126</td><td>3.55 (1.67&#8211;7.55)</td><td>0.0010</td><td>2.53 (1.16&#8211; 5.53)</td><td>0.02</td><td>2.25 (1.03&#8211; 4.92)</td><td>0.0430</td><td>138 (16.57)</td><td>24 (17.39)</td></tr><tr><td rowspan=\"2\">10.0 to &lt;11.0</td><td>&lt;126</td><td>1.00 (Reference)</td><td></td><td>1.00 (Reference)</td><td></td><td>1.00 (Reference)</td><td></td><td>193 (23.17)</td><td>10 (5.18)</td></tr><tr><td>&#65533;126</td><td>2.38 (1.11&#8211;5.09)</td><td>0.0252</td><td>2.12 (0.99&#8211; 4.58)</td><td>0.05</td><td>1.89 (0.87&#8211; 4.09)</td><td>0.1072</td><td>188 (22.57)</td><td>22 (11.70)</td></tr><tr><td rowspan=\"2\">&#65533;11.0</td><td>&lt;126</td><td>0.69 (0.23&#8211;2.00)</td><td>0.4895</td><td>0.55 (0.19&#8211; 1.63)</td><td>0.28</td><td>0.42 (0.13&#8211; 1.36)</td><td>0.1495</td><td>144 (14.29)</td><td>5 (3.47)</td></tr><tr><td>&#65533;126</td><td>1.05 (0.33&#8211;3.36)</td><td>0.9294</td><td>1.06 (0.33&#8211; 3.42)</td><td>0.93</td><td>1.01 (0.31&#8211; 3.26)</td><td>0.9891</td><td>91 (10.92)</td><td>4 (4.40)</td></tr></table>"
+  }
+ ]
+}

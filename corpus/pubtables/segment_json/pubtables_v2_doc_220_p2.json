@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_220",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    255.0,
+    51.8
+   ],
+   "ocr": "Fleming et al. BMC Genomics (2016) 17:812"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 4 of 11"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    296.8,
+    123.1
+   ],
+   "ocr": "Table 5 Classification of SNVs used for validation"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    680.5,
+    314.1
+   ],
+   "ocr": "Class Fayoumi SNVs Leghorn SNVs Common SNVs Total Classification description\nA 5 0 0 5 Segregating in population only\nB 14 0 0 14 Fayoumi and Leghorn different (one segregating, one not segregating),\nand segregating in controls\nC 2 0 0 2 Fayoumi, Leghorn, and controls mix of homozygous for reference or\nalternate allele, but no heterozygotes\nD 4 10 0 14 Failed\nE 11 24 2 37 Evidence of duplication\nF 1 2 0 3 Only Homozygous (Fayoumi and Leghorn homozygous for different alleles,\nsegregating in controls)\nTotal 37 36 2 75\nPass rate = 81.3 % (75–14)/75",
+   "table_id": "PMC5070165_table_4"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    320.4,
+    367.4,
+    927.7
+   ],
+   "ocr": "Table shows the results of wet-lab validation of 100 uncharacterized SNVs. The downstream analysis (strict-filter) of the within-line variation the young age of the duplications, because more recent duplications would still be similar to each other. The variants in duplications tended to have with-in popula- tion allele frequencies that were close to 50/50 and would often appear as all heterozygous calls in both the study and control populations. The primers designed for the variant and reference base may have amplified differ- ent binding sites, preferentially revealing segmental du- plications or areas with high sequence homology. This phenomenon is supported by the presence of clusters that fall between homozygous and heterozygous clusters suggesting a 3:1 allele ratio (i.e. G/G and A/G). Additionally, sequencing and mapping errors can reduce accuracy of variant calling. It is improbable that the SNVs validated as heterozygous-only calls that also showed evidence of duplications were not actually dupli- cations, but rather every bird was truly heterozygous for that allele. The validation results show more segregation within the inbred Fayoumis, which agrees with the dis- covery software but may be an artifact of number of as- says that passed validation. The results also suggest that the software programs used for discovery and annotation can be used to discover valid SNVs, but will also identify duplications within the populations. The results from the validation were used to inform the use of a second level of strict filtering parameters applied to the variant discovery data. These parameters were used to support the results from the gene ontologies uncovered using the exploratory filtered data. Within-line variation The lines used in this study have not undergone genetic selection since their establishment in 1954, with the exception of selection for adequate reproduction in both lines. The fixed or segregating variation should represent a combination of natural selection, genetic drift, and mutation in the Fayoumi and Leghorn lines. To categorize the potential impact of variations, the"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    368.7,
+    320.4,
+    657.0,
+    330.4
+   ],
+   "ocr": "data from validation was used to inform the additional filtering steps used in"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    352.5,
+    681.1,
+    927.7
+   ],
+   "ocr": "annotation program groups the functional impacts of variants as high, moderate, low and modifier. These impact categories were analyzed for fixed, unique (line-spe- cific) variants from either Fayoumi or Leghorn using gene ontology enrichment analysis. Fixed unique variants for each line are assumed to represent either the alleles that were selected during domestication, breed selection, or those fixed during the over 60-year process of inbreeding. There were no statistically over-represented GO terms in the analysis of the high and low impact variants. However, variants that were classified as moderate impact were statis- tically associated with GO terms (Table 6). Some of these variants are shared but with differences between breeds as shown in the FST analysis. Within-line variation: Fayoumi For Fayoumi, whose breed phenotype was considered to be immune-related, the GO terms fibronectin type III (FN3), and tyrosine-protein phosphatase 3 (PTPc) were statistically significant (adjusted p value < 0.05; Table 7). Fibronectin type III is a multidomain glycoprotein found in connective tissue and binds actin and DNA along with other substances thereby aiding defense against pathologies. Fibronectins enhance wound closure, cell adhesion, and blood coagulation [14]. The ubiquitously expressed domain has also been shown to involved in cytokine signaling and may play a role in the efficiency of the Fayoumi innate immune system [15, 16]. The expression of genes related to cell adhesion signaling has been recently shown to play a role in viral immune responses [17]. Fibronectins are reported as being “subject to high selective pressure” [18], which is in agreement with their apparent fixation in the current study. Genes annotated to the GO term FN3 included the leptin receptor (LEPR), a member of the cytokine recep- tor superfamily, adipocytokine, and JAK-STAT signaling pathways that promote inflammatory responses to patho- gens, as well as angiogenesis and cellular repair processes."
+  }
+ }
+}

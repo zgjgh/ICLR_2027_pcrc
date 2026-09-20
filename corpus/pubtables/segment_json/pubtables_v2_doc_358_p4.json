@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_358",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    521.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Essential Genes and BMV RNA Replication"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    84.6,
+    394.7,
+    95.9
+   ],
+   "ocr": "Table 4. Annotated functions of confirmed essential host genes"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    398.5,
+    84.6,
+    560.8,
+    95.9
+   ],
+   "ocr": "effecting BMV RNA accumulation."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    80.4,
+    123.3,
+    626.7,
+    625.0
+   ],
+   "ocr": "Genea Gene Descriptiona,b\nProtein Homeostasis\nESS1 Peptidylprolyl-cis/trans-isomerase; regulates phosphorylation of the RNA polymerase II large subunit\nHSF1 Trimeric heat shock transcription factor\nJAC1 Hsp40/DnaJ family J-protein that functions with Hsp70 in Fe-S cluster biogenesis in mitochondria\nPRE1 Beta 4 subunit of the 20S core of the 26S proteasome\nRPT6 One of six ATPases of the 19S regulatory particle of the 26S proteasome\nPFY1 Binds profilin, actin and phosphatidylinositol 4,5-bisphosphate; cytoskeleton organization\nTranslation\nDED1 ATP-dependent DEAD-box RNA helicase, required for translation initiation of all yeast mRNAs\nTrafficking\nNUP57 Nucleoporin essential for trafficking nucleic acids, proteins, and RNA through the nuclear pore complex\nLipid synthesis\nALG14 Component of UDP-GlcNAc transferase required for dolichyl-linked oligosaccharide synthesis\nRibosome Biosynthesis\nDHR2 DEAH-box ATP-dependent RNA helicase, required for 18S rRNA synthesis\nECM16 DEAH-box ATP-dependent RNA helicase specific to the U3 snoRNP, required for 18S rRNA synthesis\nNOP7 Required for large ribosomal subunit maturation; required for exit from G0\nPWP1 Protein with WD-40 repeats involved in rRNA processing\nRIO2 Serine kinase involved in the processing of the 20S pre-rRNA into mature 18S rRNA\nRPA43 RNA polymerase I subunit A43\nUTP4 Subunit of U3-contaning complexes involved in production of 18S rRNA\nUTP18 Possible U3 snoRNP protein involved in maturation of pre-18S rRNA\nYGR251w Required for 18S rRNA maturation\nmRNA Metabolism\nRNA15 Component involved in the cleavage and polyadenylation of mRNA 39 ends\nSPT6 Transcription elongation factor required for the maintenance of chromatin structure during transcription\nSWD2 Required for methylation of histone H3 and RNA polymerase II transcription termination\nCell Cycle/DNA Maintenance\nADE13 Adenylosuccinate lyase involved in the purine nucleotide synthesis\nCDC53 A scaffolding subunit (cullin) for multiple E3 ubiquitin-ligase complexes; regulates G1-S cell cycle progression\nSPC29 Inner plaque spindle pole body (SPB) component; required for SPB duplication",
+   "table_id": "PMC3161824_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    636.3,
+    392.3,
+    963.6
+   ],
+   "ocr": "aBold font indicates genes whose repression inhibits viral RNA accumulation; bBased on the Saccharomyces Genome Database at http://www.yeastgenome.org/. doi:10.1371/journal.pone.0023988.t004 effects of UTP9 and UTP15) [38], but has the opposite effect on BMV RNA replication. Depleting genes involved in processing cellular mRNA 39 ends (RNA15), regulating transcription (SPT6), modulating cellular gene expression (SWD2), and controlling nucleocytoplasmic trafficking (NUP57) may increase the availability of ribosomes and/or alter the levels of specific proteins, preferentially stimulating BMV RNA replication (Fig. 2, Tables 3 and 4) by disrupting cellular pathways that would compete with BMV RNA translation or replication under wild type conditions. Thus, experimental depletion of these genes is in some ways analogous to the global shutoff of host mRNA pathways, employed by many mammalian viruses through diverse mechanisms [42,43,44]. Additional studies are necessary to define the role of these mRNA metabolism genes in BMV RNA replication. In previous studies, we have observed that significantly disrupting the cell cycle and extended doubling times can non- specifically increase BMV RNA levels per cell, apparently because PLoS ONE | www.plosone.org"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    373.9,
+    638.3,
+    686.1,
+    647.1
+   ],
+   "ocr": "non-bold font indicates genes whose repression enhances viral RNA accumulation."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    687.4,
+    700.8,
+    963.6
+   ],
+   "ocr": "the virus has more time to accumulate RNA replication products prior to cell division (unpublished data). To avoid such false positives, we excluded from further analysis strains for which dox- treatment significantly slowed cell division (see Results above). Thus, although SPC29 and PFY1 encode proteins potentially related to cell division (respectively a spindle pole body protein and actin-binding protein) the doubling times of untreated and dox- treated PTET-SPC29 and PTET-PFY1 cells were comparable and likely do not account for the increased levels of BMV RNA4 observed (Fig. 2. and Table 3). Alternatively, disrupting the cell cycle in PTET-SPC29- and/or PTET-PFY1-repressed cells may alter cell cycle signal transduction pathways or the localization of cellular factors that normally inhibit viral RNA replication. Mutating general translation initiation factor DED1 severely inhibits translation of BMV 2aPol from BMV genomic RNA2 in a fashion dependent on specific sequences in the RNA2 59 noncoding region (NCR) [32]. Because the RNA2 59 NCR was not present in the BMV expression constructs used in this study, 7 August 2011 | Volume 6 | Issue 8 | e23988"
+  }
+ }
+}

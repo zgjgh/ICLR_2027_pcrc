@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_043",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Ueno et al. BMC Genomics 2010, 11:650 http://www.biomedcentral.com/1471-2164/11/650"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 24"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    286.3,
+    124.0
+   ],
+   "ocr": "Table 6 Coverage analysis for each library"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.4,
+    678.7,
+    550.1
+   ],
+   "ocr": "Sequencing method# Library code A B Number of contigs in OakContigV1 (C) Coverage (%) C/A\nS A 7550.3 -1.17E-04 5122 67.8%\nS B 5186.4 -1.73E-04 3420 65.9%\nS F 2515.9 -3.59E-04 1353 53.8%\nS H 8802.1 -1.02E-04 5809 66.0%\nS I 12232.2 -6.82E-05 7485 61.2%\nS J 4218.9 -2.03E-04 3487 82.7%\nS K 10541.7 -8.48E-05 5158 48.9%\nS L 8623.1 -1.04E-04 4704 54.6%\nS M 11485.6 -7.02E-05 7409 64.5%\nS O 1920.3 -4.77E-04 1141 59.4%\nS P 7184.0 -1.22E-04 4005 55.7%\nS S 7542.7 -1.11E-04 4816 63.8%\nS T 4194.4 -2.02E-04 3385 80.7%\nP I 20631.3 -3.29E-05 18245 88.4%\nP II 23225.8 -2.69E-05 21314 91.8%\nP III 16931.9 -4.31E-05 14169 83.7%\nP IV 26459.2 -2.03E-05 25038 94.6%\nP V 29306.1 -1.94E-05 27081 92.4%\nP VI 23674.9 -2.72E-05 20702 87.4%\nP VII 23941.0 -2.78E-05 21381 89.3%\nP VIII 27733.7 -2.22E-05 25588 92.3%\nP IX 21725.9 -2.42E-05 21620 99.5%\nP X 19916.9 -2.80E-05 19645 98.6%\nP XI 23860.4 -1.98E-05 24265 101.7%\nP XII 17736.9 -2.61E-05 17830 100.5%\nP XIII 18021.2 -2.71E-05 18065 100.2%\nP XIV 20576.5 -2.41E-05 20616 100.2%",
+   "table_id": "PMC3017864_table_5"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    557.2,
+    366.2,
+    801.4
+   ],
+   "ocr": "Library codes are as in Tables 1 and 4. #S: Sanger method; P: pyrosequencing method Titanium platform (libraries from IX to XIV), the cover- age was virtually 100%, which was probably attained by both mixing RNAs from different tissues and nor- malization procedure used to construct these libraries (Table 4). Assembly We produced three kinds of assemblies using three differ- ent approaches (Table 7). First, we processed the 134,500 Sanger reads (Table 8) resulting from the trace2dbEST analysis using the PartiGene pipeline[15] and produced Table 7 Statistics for assembly by PartiGene (Sanger ESTs"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    369.4,
+    597.4,
+    678.6,
+    801.4
+   ],
+   "ocr": "40,944 unigene elements, containing 17,499 contigs and 23,445 singletons (Table 7). Contigs were defined in sequence assembly, resulting from multiple reads, while singletons were unique sequence that were not clustered with any other reads or that were not assembled with any other reads in a cluster. The distribution of sequence length (bp) of contigs and singletons is indicated in addi- tional file 3: Figure S1 (A). While the mode of the distribu- tion resided in the (600-700] class for both singletons and contigs, the average and maximum length of singletons and contigs were quite different: 919 bp and 4,412 bp, only), MIRA and TGICL (Sanger and 454- ESTs)"
+  },
+  "p5_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    806.3,
+    657.5,
+    894.6
+   ],
+   "ocr": "PartiGene MIRA TGICL (OakContigV1)\nNumber of Sanger/454 reads included in assembly 134500/0 125925/1578013 125925/1578013\nNumber of contigs (average length (bp)) 17499 (919) 113625 (671) 69154 (705)\nNumber of singletons (average length (bp)) 23445 (485) 3201# (236) 153517 (300)\nNumber of unigene elements (contigs + singletons) 40944 116826 222671\nNumber of reads in contigs 108626 1511639 1550824",
+   "table_id": "PMC3017864_table_6"
+  },
+  "p5_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    901.7,
+    393.3,
+    922.2
+   ],
+   "ocr": "# Debris was excluded. MIRA classified 189,268 reads as debris. If debris is considered would become 192,469 and 306,094, respectively."
+  },
+  "p5_b8": {
+   "type": "caption",
+   "bbox": [
+    396.3,
+    901.7,
+    668.8,
+    911.6
+   ],
+   "ocr": "as singletons, the number of singletons and unigenes elements by MIRA"
+  }
+ }
+}

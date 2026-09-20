@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_051",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    130,
+    580,
+    173
+   ],
+   "ocr": "In Table 1, the headers are \"Compartment into which migration occurred\" and \"Rate of migration from indicated compartment\" with subheaders \"T,\" \"Blood,\" \"EPb,\" and \"VD.\" The row labeled \"T\" shows values of — for Blood, 19.23 for EPb, and 333.71 for VD, with 75.02."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    161,
+    580,
+    188
+   ],
+   "ocr": "The \"Blood\" row presents values of 324.72 for T, — for Blood, 130.79 for EPb, and 26.31 for VD. The row marked \"EPb\" indicates 216.22 for T, 1.00 for Blood, — for EPb, and 77.43 for VD."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    238.0,
+    580.0,
+    361.0
+   ],
+   "ocr": "Compartment into which migration occurred Rate of migration from indicated compartment\nT Blood EPb VD\nT 19.23 333.71 75.02\nBlood 324.72 130.79 26.31\nEPb 216.22 1.00 77.43\nVD 560.18 90.82 124.39",
+   "table_id": "img_055893_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    419.0,
+    580.0,
+    616.0
+   ],
+   "ocr": "Gene Number of loci Number of fisher exact comparisons performed between cluster 1 and 2 P-value (after Bonferroni correction)\nClk 4 8 0.123\nCry1 4 8 0.125\nPer 4 8 0.122\nCyc 7 14 0.071\nTim 4 8 <0.0001*\nCry2 8 16 0.063\nPdp1 1 2 0.500\nVri 2 4 0.333",
+   "table_id": "img_055893_t1"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    659,
+    580,
+    717
+   ],
+   "ocr": "Lastly, the \"VD\" row lists 560.18 for T, 90.82 for Blood, 124.39 for EPb, and — for VD. In Table 2, the headers include \"Gene,\" \"Number of loci,\" \"Number of fisher exact comparisons performed between cluster 1 and 2,\" and \"P-value (after Bonferroni correction).\" The gene \"Clk\" has 4 loci, 8 comparisons, and a P-value of 0.123. \"Cry1\" has 4 loci, 8 comparisons, and a P-value of 0.125."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "\"Per\" has 4 loci, 8 comparisons, and a P-value of 0.122. The gene \"Cyc\" has 7 loci, 14 comparisons, and a P-value of 0.071. \"Tim\" has 4 loci, 8 comparisons, and a P-value of <0.0001*. \"Cry2\" has 8 loci, 16 comparisons, and a P- value of 0.063. \"Pdp1\" has 1 locus, 2 comparisons, and a P-value of 0.500. Finally, \"Vri\" has 2 loci, 4 comparisons, and a P- value of 0.333."
+  }
+ }
+}

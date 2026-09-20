@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_044",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "The following data table presents a comprehensive analysis of variance across multiple models in relation to a sample comprising probands, relatives, and controls. Specifically, the metrics evaluated include the Measure of Variation and associated P values, which serve to determine the statistical significance of the differences observed. Notably, Model 1a demonstrates a substantial level of variance with a P value of <0.001, indicating a highly significant result. In contrast, Model 2b yields a lower level of variance, reflected by a P value of <0.001, yet suggests noteworthy differences in the context of the assessed population."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    202
+   ],
+   "ocr": "The mean age of participants, presented as Age (mean years ± standard error), highlights a demographic distinction among the groups, with probands averaging 23±1 years and relatives averaging 31±2 years. This discrepancy may provide insight into the varying levels of measure of variation observed. Further analysis will be crucial in understanding the implications of these findings, particularly as they relate to the underlying genetic and environmental factors influencing the studied metrics."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    320.0
+   ],
+   "ocr": "Measure of variation Model 1a P value Model 2b P value Model 3c P value Model 4d P value\nLevel 2 variance (SE) 0.16 <0.001 0.08 <0.001 0.06 <0.001 0.04 <0.001\nLevel one variance (SE) 4.04 2.88 3.89 2.85\nICC (%) 3.8% 2.7% 1.9% 1.4%\nModel fit statisticsDIC (−2loglikelihood) 6606 6077 6538 6054",
+   "table_id": "img_049291_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    335.0,
+    580.0,
+    485.0
+   ],
+   "ocr": "Probands n=34 Relatives n=34 Controls n=35 P-value\nAge (mean years±standard error) 23±1 31±2 27±2 0.27\nGender (men, women) 24, 10 14, 20 21, 12 0.04\nEthnicity (white European, others) 30, 4 30, 4 33, 2 0.91\nEstimated verbal IQ (National Adult Reading Test) (mean score±standard error) 111±1 110±1 108±1 0.24\nBody mass index (mean score±standard error) 25±1 24±1 25±1 0.20",
+   "table_id": "img_049291_t1"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    500.0,
+    580.0,
+    583.0
+   ],
+   "ocr": "# matched annotations Mean Error ± SD [ms]\nQ onset 360 -3.12 ± 14.06\nT peak 359 -0.28 ± 26.24\nT offset 359 -2.99 ± 39.60",
+   "table_id": "img_049291_t2"
+  }
+ }
+}

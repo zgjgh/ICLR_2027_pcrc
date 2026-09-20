@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_130",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.7,
+    282.3,
+    65.7
+   ],
+   "ocr": "Exarchos et al. BMC Bioinformatics 2011, 12:142 http://www.biomedcentral.com/1471-2105/12/142"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    41.9,
+    678.5,
+    53.2
+   ],
+   "ocr": "Page 9 of 12"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    376.3,
+    137.7
+   ],
+   "ocr": "Table 4 Frequencies of each residue occupying the position one."
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    380.1,
+    111.0,
+    664.0,
+    124.0
+   ],
+   "ocr": "that cis-nonPro peptide bond occurs and the preceding"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    77.0,
+    142.7,
+    673.1,
+    486.7
+   ],
+   "ocr": "Residues with cis bond Preceding residue Frequency of residues with cis bond (%) Frequency of preceding residue (%)\nA 23 22 7 7\nR 15 7 5 2\nN 15 14 5 4\nD 26 23 8 7\nC 5 4 2 1\nE 27 20 8 6\nQ 9 14 3 4\nG 52 62 16 19\nH 7 7 2 2\nI 7 6 2 2\nL 9 11 3 3\nK 17 16 5 5\nM 4 5 1 2\nF 15 12 5 4\nP 0 24 0 8\nS 28 13 9 4\nT 22 12 7 4\nW 2 16 1 5\nY 16 14 5 4\nV 19 16 6 5",
+   "table_id": "PMC3097163_table_3"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    517.5,
+    678.6,
+    922.8
+   ],
+   "ocr": "discovery. In order to identify those functional classes we first group the patterns according to the ELM func- tional class that they recovered and for each class we calculate the average CM_score (based on the output of CompariMotif). For the patterns associated with the top scoring classes we retrieve the sequences from which they have been extracted and check if the function of those sequences matches the respective ELM function. For the comparison we employ the GO terms retrieved from the ELM website and UniProt [30] for the func- tional classes and the protein sequences, respectively. The results obtained are shown in Table 5. First of all, we observe that all top scoring functional classes are of the LIG type and therefore involve bind- ing, as shown from the GO category as well. In addition, some of them are also related to catalytic activities, such as LIG_PP1, LIG_PP2B_1 and LIG_SCF-TrCP1_1. This high propensity towards binding related functionalities is in accordance with the literature where there has been identified a close relation between cis-nonPro for- mations and binding/ligand functions, and especially carbohydrate binding [25]. Indeed, among the protein sequences of the top scoring functional classes there are some sequences specifically associated with carbohydrate binding (PDB ids: 1NSZ, 7A3H, 1ITX, 2JE8). Moreover, we observe complete overlap between the GO category of the ELM functional classes and the GO category"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    517.6,
+    366.2,
+    922.9
+   ],
+   "ocr": "the yielded association. The significant propensity towards LIG is further reinforced by [28] where cis-non- Pro peptide bonds were reported to be intimately involved in ligand binding as well as the positioning of catalytic residues. This prevalence has been attributed to the greater precision offered by the strained cis-nonPro formation which in turn is necessary for ligand binding and catalysis. Moreover, it has been elsewhere reported that cis-nonPro formations are located at or near active sites or functional regions of the protein molecule which are closely related to ligand/binding activities [3,24,25]; thus explaining the high propensity towards the LIG class. The smaller propensity that is observed towards MOD is partially justified by the relevant literature, where sporadic associations have been proposed, with respect to carbohydrate binding or carbohydrate processing pro- teins [25]. Nevertheless, modification sites usually have ligand activity [29] which in turn has been proven to be inherently related to cis-nonPro regions. In the next step we follow a somewhat reverse analysis in order to verify if the functional class attached to a set of patterns actually falls within the function of the pro- tein sequences from which the patterns have been extracted. We perform this procedure for a subset of representative functional classes, specifically for a few among the top scoring ones from each type of pattern"
+  }
+ }
+}

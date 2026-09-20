@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_145",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    61,
+    580,
+    150
+   ],
+   "ocr": "In the Q1 2024 report for EY's Professional & Business Services, key metrics are presented across two tables, starting with the Consultant Metrics table, which includes headers such as Revenue per Consultant, Utilization Rate, Billable Hours, Financial Ratios, Gross Margin, Net Profit Margin, P/E Ratio, Current Ratio, Debt/Equity Ratio, and Retention Rate. For Q1 2024, the Revenue per Consultant is $150K, with a Utilization Rate of 75% and Billable Hours totaling 1200, alongside a Gross Margin of 60%, a Net Profit Margin of 25%, a P/E Ratio of 15, a Current Ratio of 1.5, a Debt/Equity Ratio of 0.8, and a Retention Rate of 85%."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    138,
+    580,
+    181
+   ],
+   "ocr": "In Q2 2023, the Revenue per Consultant was $140K, the Utilization Rate was 73%, with Billable Hours of 1150, a Gross Margin of 58%, a Net Profit Margin of 24%, a P/E Ratio of 14, a Current Ratio of 1.6, a Debt/Equity Ratio of 0.9, and a Retention Rate of 87%. For Q1 2023, these metrics were $130K, 70%, 1100, 57%, 23%, 13, 1.5, 0.8, and 83%, respectively."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    203.0,
+    580.0,
+    407.0
+   ],
+   "ocr": "ConsultantMetrics RevenueperConsultant UtilizationRate BillableHours FinancialRatios\nGrossMargin NetProfitMargin P/ERatio CurrentRatio Debt/EquityRatio RetentionRate\nQ12024 $150K 75% 1200 60% 25%\n$200M 30% 15 1.5 0.8 85%\nQ22023 $140K 73% 1150 58% 24%\n$180M 32% 14 1.6 0.9 87%\nQ12023 $130K 70% 1100 57% 23%",
+   "table_id": "img_163144_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    422.0,
+    580.0,
+    453.0
+   ],
+   "ocr": "The Client Retention Metrics table reveals that Q1 2024 shows a Retention Rate of 80% compared to 75% in Q1 2023, reflecting a 5% change with 500 total clients and 400 new clients, while the Market Share stands at 25%."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    475.0,
+    580.0,
+    721.0
+   ],
+   "ocr": "ClientRetentionMetrics Amount($M)\nRetentionRate YoYChange(%) MarketShare(%)\nQ12024 Q12023 Change TotalClients NewClients\n500 400 20% $25M 5%\nRetentionRate 80% 75% 5% MarketShare\n15% 14% 1% ChurnRate 20%\n25% -5% ClientSatisfaction 85% 80%\n5% RepeatBusiness $10M $8M 25%\nClientEngagement 90% 85% 5% Total",
+   "table_id": "img_163144_t1"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    736.0,
+    580.0,
+    767.0
+   ],
+   "ocr": "The Churn Rate is noted at 15%, with Client Satisfaction at 85% and Repeat Business generating $10M against $8M, indicating a 25% increase in client engagement to 90% from 85%."
+  }
+ }
+}

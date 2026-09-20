@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_059",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    45,
+    508,
+    69
+   ],
+   "ocr": "The dataset outlined in Table 1 provides a comprehensive overview of various recorded responses related to dietary changes experienced by individuals after relocating to Canada."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    58,
+    508,
+    82
+   ],
+   "ocr": "Specifically, the data comprises a total of 17,043 entries, each detailing distinct aspects of participants' eating habits."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    97.0,
+    508.0,
+    202.0
+   ],
+   "ocr": "Record Frames Duration Vibration Acoustic Vibration\nFilename Recorded (seconds) Frequency (Hz) Isolation Intensity\nDataset-1 17,043 6.82 833.33 Yes Strong\nDataset-2 13,753 5.44 1225 Yes Strong\nDataset-3 25,588 10.23 833.33 No Strong\nDataset-4 21,499 8.60 833.33 No Weak",
+   "table_id": "img_065562_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    215.0,
+    508.0,
+    559.0
+   ],
+   "ocr": "Questions Sub-items Answer possibilities(5-point Likert scale)\nHas your general portion size (how much you eat in one meal) changed since coming to Canada? - No sub-items 1. Eat much less2.3. No change4.5. Eat much more\nHow has your method of food preparation changed since coming to Canada? - Stir-frying/BBQ- Baking/grilling food- Boiling food- Deep frying food- Microwaving food- Eating vegetables raw 1. Much less often2.3. No change4.5. Much more often\nHow have the foods you generally eat changed since coming to Canada? - Vegetables- Potatoes, rice- Convenience foods- Fruit- Soft drinks/pop/soda- Dairy products- High fat/fried foods- Deserts/candy/sweets- White meat- Red meat- Restaurant meals/dining out 1. Eat much less2.3. No change4.5. Eat much more\nHas your interest in information about the food you eat, such as ingredients, nutrition information and taking note of food labels, changed since coming to Canada? - I look at ingredients in the food I buy- I put effort into making sure the food I buy has good nutritional value- I read the nutritional information table on food products- I understand the nutritional information table on food products- I hear about which foods are good for me through the media and advertising 1. Much less often2.3. No change4.5. Much more often\nHow do you feel about these issues in Canada compared to your home country? - Finding fresh fruit and vegetables- Finding low fat food options- Choosing healthy food when dining out 1. Much harder in Canada2.3. No Change4.5. Much easier in Canada",
+   "table_id": "img_065562_t1"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    573.0,
+    508.0,
+    680.0
+   ],
+   "ocr": "Grade Clinical signs\n0/− Normal\n1/+ Disturbance, head shaking\n2/++ Shortness of breath, drowsiness\n3/+++ Dyspnea, syncope, gatism\n4/++++ Mortality",
+   "table_id": "img_065562_t2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    694,
+    508,
+    732
+   ],
+   "ocr": "A critical metric included in this table is the \"Recorded\" time, which is measured in seconds, indicating the duration of each recorded interaction or survey response. Additionally, the \"Frequency (Hz)\" column highlights the sampling frequency at which these data points were collected, set at 833.33 Hz, suggesting a robust approach to data acquisition."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    721,
+    508,
+    786
+   ],
+   "ocr": "The survey posed a pivotal question regarding changes in portion size since moving to Canada, with answer possibilities ranging from \"Eat much less\" to \"Eat much more,\" rated on a 5-point Likert scale. This structured inquiry not only facilitates a nuanced understanding of dietary shifts but also aids in identifying potential clinical signs associated with these changes. The results may offer valuable insights for nutritionists and health professionals addressing the dietary needs of newcomers."
+  }
+ }
+}

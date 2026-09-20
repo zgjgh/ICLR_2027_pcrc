@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_220",
+  "page": 4,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    255.0,
+    51.8
+   ],
+   "ocr": "Fleming et al. BMC Genomics (2016) 17:812"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 6 of 11"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    109.7,
+    367.5,
+    927.7
+   ],
+   "ocr": "reproductive phenotypes for the Leghorn as the genes within these categories are involved in mineral and ion transport in the chicken uterus [25]. Another gene of inter- est involved in calcium ion binding is the gene epidermal growth factor (EGF) which affects multiple pathways in- cluding extracellular growth and differentiation, focal adhe- sion, and MAPK signaling pathways [26]. Along with calcium ion binding, there are also genes in the gene list that function as ion transporters and in the case of the aminophospholipids help form bilayers [24]. There are many variants driving overlapping functions and genes between lines that appear as over-enriched. One such gene is PRLR, which is essential for egg pro- duction and has impacts on immunological functions. The uniqueness in the number of variants, position, and effects suggests that the two lines evolved different uses for this gene. It is unknown if variants for genes grouped into functional classes such as calcium binding and phospholipid-translocating ATPase activity for Leghorn, or FN3 for Fayoumi, actually convey an advantage or disadvantage to egg production or disease resistance. Over time, the natural selection for survivability and reproduction may have contributed to differences or similarities in the genetic architecture of reproduction traits, leading to convergent phenotypes. Strict filtering of the variants for the Leghorn (Additional file 1: Table S1) showed that calcium ion binding and extra- cellular matrix remained statistically significant but the gene TIMP2 associated with extracellular matrix is lost but was replaced by the GO term metallopeptidase activity. The strict filtered gene list also picked up information on cadherins, glycerophospholipids, and proteoglycans shown to be involved in eggshell matrix, Ca2+ mediated cell-cell adhesion, and egg lipid matrix generation dur- ing reproduction in hens [25, 27]. Additionally the genes TIMP2 and EGF showed a decrease in the number of vari- ants associated with all functional impacts, with the gene TIMP2 disappearing completely from the list (TIMP2 ex- ploratory filter = 112, strict filter = 73; EGF exploratory fil- ter = 440, strict filter = 413; PRLR exploratory filter = 167, strict filter = 113) based on filtering. Between-line variation The Fayoumi and Leghorn pooled sequence data were compared against the RJF reference to call possible SNVs and indels present in the populations. Of these variants, 1,238,884 (27.8 %) have been previously deposited in dbSNP at the time of analysis, generating 3,223,583 (72.2 %) previously uncharacterized variants called within the Fayoumi experimental line. Similar results were obtained in the analysis of the Leghorn resequen- cing data vs. RJF reference assembly. A total of 4,605,732 variants were discovered of which 3,287,720 (71.3 %) were previously uncharacterized. We also examined the"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.0,
+    499.3
+   ],
+   "ocr": "number of variants in each population using SnpEff cat- egories of “effects by type” and “effects by region”. A subset of 2,052,537 variants was unique to Fayoumi and 2,196,553 unique to Leghorn after removal of variants common to both groups. To help characterize the differences and similarities between the inbred populations of Fayoumi and Leghorn chickens, a fixation index (FST) analysis was conducted using the program PoPoolation2 [28], which employs the Karlsson FST method [2]. The FST value between the populations was calculated for each gene represented in the variant call file output based on the allele frequen- cies at every base for each gene. The FST analysis gener- ated a list of genes with FST values of 1 in which the structure of the two lines showed the most differenti- ation. Further analysis, using DAVID, of the genes from this analysis indicated that the two lines mainly differed in nucleoside and nucleotide binding, catalytic activity, and ATP usage (adjusted p < 0.05). The DAVID (Table 7) output was further processed in REViGO (Table 8) to identify additional unique over-represented GO terms. Gene ontology annotations emerged for population-level differences in the variants that each breed may use to Table 8 Gene ontology terms from REViGO for variant regions with greatest difference (FST = 1)"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    503.4,
+    680.5,
+    867.6
+   ],
+   "ocr": "Description Frequency Uniqueness\nImmune system process 0.86 % 0.99\nCellular protein modification process 2.99 % 0.83\nBehavior 0.09 % 0.92\nMetabolic process 78.07 % 1\nCellular process 70.74 % 1\nCellular component organization 4.20 % 0.95\nSexual reproduction 0.08 % 0.99\nBiological adhesion 2.09 % 0.99\nSignaling 5.13 % 0.99\nMulticellular organismal process 1.33 % 0.99\nDevelopmental process 1.67 % 0.99\nGrowth 0.14 % 0.99\nLocomotion 3.09 % 0.99\nSingle-organism process 25.74 % 1\nSingle-multicellular organism process 1.30 % 0.8\nPositive regulation of biological process 0.84 % 0.76\nAnatomical structure development 1.38 % 0.89\nResponse to stimulus 10.51 % 0.99\nLocalization 17.22 % 1\nMulti-organism process 4.65 % 0.99",
+   "table_id": "PMC5070165_table_7"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    874.0,
+    672.3,
+    926.9
+   ],
+   "ocr": "REViGO visualization showing the most unique GO terms represented by the FST list of genes for the comparison of the population structures of the Fayoumi and Leghorn. The list reveals terms such as immune system processes and sexual reproduction that represent the traits for which each breed is characterized"
+  }
+ }
+}

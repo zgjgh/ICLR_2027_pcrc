@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_175",
+  "page": 2,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.3,
+    758.1
+   ],
+   "ocr": "Sensors 2015, 15 12348 2.3.2. Reliability In accordance with Shrout and Fleiss [36], the intra-observer reliability for each rater and technique was estimated by the intraclass correlation coefficient (ICC), using the (2,1) model. The Currier [37] criteria were used to evaluate the ICC results: 0.90–0.99, high reliability; 0.80–0.89, good reliability; 0.70–0.79, fair reliability; less than 0.69, poor reliability. The standard error of the measurement (SEM) was calculated as: SD√(1-ICC). Inter-observer reliability was measured by the ICC (2,2) model [36], considering the mean of the two measurements taken by each rater on each object. Inter-observer SEM was calculated using the average of the replicated measurements for each rater. 2.3.3. Duration A Student’s t-test was applied to compare the mean duration of arm measurements for both water displacement and SkanLab techniques. 3. Results 3.1. Inanimate Objects 3.1.1. Accuracy The bias of SkanLab was −21.9 mL (−5.7%) (LOA: −62.0 to 18.2 mL; −18.1% to 6.7%) (Figure 3), with slightly lower mean volumes with respect to those measured by geometry. The two raters showed similar results, with biases ranging between 21.7 mL and 22.2 mL (Table 2, Figure 3). The linear regression equation (y = −0.01 × (−6.02); R2 = 0.161) showed no significant relationships between the volume measured by geometry (x) and accuracy (y: volumes measured by geometry minus volumes measured by SkanLab). 3.1.2. Reliability SkanLab showed very high levels of intra- and inter-rater reliability (Table 3). In fact, the intra- and inter-rater ICC values were near one, falling within the limits of high reliability [37]. The intra- and inter-rater SEM ranged between 5.82 mL and 5.84 mL. Table 2. Accuracy of SkanLab in measuring inanimate objects (cylinders; N = 12)."
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    118.0,
+    769.2,
+    620.5,
+    837.8
+   ],
+   "ocr": "Rater 1 Rater 2\nAbsolute Relative Absolute Relative\na\nBias −21.7 mL −5.7% −22.2 mL −5.7%\nb\nLOA −63.9 to 20.6 mL −17.9 to 6.6% −61.7 to 17.4 mL −19.4 to 8.0%",
+   "table_id": "PMC4507693_table_1"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    92.6,
+    842.9,
+    614.6,
+    874.3
+   ],
+   "ocr": "a Mean difference between SkanLab and geometry and the other techniques (water displacement and SkanLab); b limits of agreement."
+  }
+ }
+}

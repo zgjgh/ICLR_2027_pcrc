@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_026",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Ren et al. BMC Bioinformatics 2015, 16(Suppl 18):S12 http://www.biomedcentral.com/1471-2105/16/S18/S12"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 15"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    339.8,
+    110.2,
+    678.6,
+    797.0
+   ],
+   "ocr": "improved from 0.18 to 0.21. With precision unchanged, recall shows a significant increase from 0.59 to 0.71, indicating the effectiveness of the PU learning algorithm: more confirmed epitope residues are re-discovered (pre- dicted) and there is potential to discover new epitopes. In epitope prediction, handling the more ambiguous residues has always been difficult. The nature of epitope residues is complicated; simply using the distribution of certain features (even important features) is insufficient to distinguish these ‘middle points’. Additional File 5: Figure S1 gives an example to illustrate this difficulty. As can be seen, there is no clear boundary among these samples that is able to correctly classify the determined epitope residues (positive). A more systematic machine learning method could be a better choice, to utilize the distribution of more useful features. In PUPre, two stra- tegies were employed against these ambiguous residues. The first strategy was the preprocessing procedure to remove positive samples before step one. These intern- ally interacting residues are a kind of extremely negative residue, and were removed before training and testing. Thus, the predictor is able to focus on the more ambig- uous points. The second strategy was to train a new SVM predictor with optimized F-score based on the positive and RN residues. The distribution of positive and RN residues was utilized in this more systematic way to distinguish the more ambiguous points that were not labeled in step one. Four case studies PUPre was tested on three antigens with known epi- topes which were not used as training data to see whether these known epitopes can be correctly re-dis- covered (predicted). PUPre was also applied to two Ebola virus antigen structures, whose epitopes are cur- rently unknown, to predict novel epitopes. We note that all these antigens have a far kinship from any antigen in the training data. Prediction results for an antigen of West Nile virus PDB entry 4OIE is an unbound structure of an antigen of West Nile virus. The epitope site of 4OIE was anno- tated with the reference information from PDB entry 4OII (protein NS1 of the West Nile virus binding with cross-validation"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    349.9
+   ],
+   "ocr": "bias caused by the partition process. The mean and stan- dard deviation of the performance are reported in Table 3. When compared with the three structure-based epitope predictors DiscoTope 2.0, ElliPro and SEPPA 2.0, it is clear that the PUPre classifier outperforms their prediction results in every aspect. In particular, PUPre achieves an F-score of 0.28, while the best F-score of the three predic- tors is 0.24 (by SEPPA 2.0). The MCC of PUPre is 0.21, which is 50% higher than the best MCC of the comparison predictors. The most distinguishing feature of PUPre is its high recall performance. It achieves an excellent recall of 0.71 while its precision is the highest level 0.18 of the four predictors. This indicates that most of the epitope resi- dues have been correctly identified. Though ElliPro has a competitive recall, its precision of 0.12 is only slightly"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    177.7,
+    345.2,
+    313.3,
+    390.7
+   ],
+   "ocr": "� �"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    360.8,
+    316.8,
+    374.9
+   ],
+   "ocr": "better than random 0.113 ."
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    263.4,
+    360.8,
+    273.0,
+    383.4
+   ],
+   "ocr": "≈"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    369.5,
+    366.2,
+    797.0
+   ],
+   "ocr": "2123 + 16615 We can also see that the raw baseline algorithm (Table 3, Baseline(r)) outperforms the three other pre- dictors except that its recall is lower than ElliPro. This implies that the selected features and the method of feature space construction are as effective as expected. By integrating the preprocessing procedure, the new baseline algorithm improves performance in every aspect: the F-score has increased from 0.26 to 0.27, the MCC has improved from 0.17 to 0.18, the recall has increased from 0.58 to 0.59 (implying that more epitope residues have been identified), and precision has increased from 0.17 to 0.18 (implying that a greater pro- portion of predicted epitope residues are true epitope residues). The removal of internally interacting residues was conducted as a preprocessing step rather than post- processing. Thus, these extreme negative cases can be removed before training, and it will help predictors to focus on the more confusing residues. The performance results of DiscoTope 2.0, ElliPro, SEPPA 2.0 with a simi- lar postprocessing procedure to remove the internally interacting residues are shown in Additional File 4: Table S1. Compared with the two baseline algorithms, PUPre achieves an overall improvement in performance: the F- score has increased from 0.27 to 0.28 and the MCC has Table 3. The performance of complex-based 10-fold"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    801.9,
+    618.1,
+    905.2
+   ],
+   "ocr": "Predictor Recall Precision F-score MCC\nDiscoTope 2.0 0.26 0.17 0.21 0.11\nElliPro 0.68 0.12 0.20 0.08\nSEPPA 2.0 0.48 0.16 0.24 0.14\nBaseline(r) 0.58 ± 0.002 0.17 ± 0.003 0.26 ± 0.003 0.17 ± 0.004\nBaseline(p) 0.59 ± 0.001 0.18 ± 0.003 0.27 ± 0.003 0.18 ± 0.004\nPUPre 0.71 ± 0.015 0.18 ± 0.002 0.28 ± 0.003 0.21 ± 0.005",
+   "table_id": "PMC4682424_table_2"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    346.6,
+    922.2
+   ],
+   "ocr": "Baseline(r) stands for baseline(raw), baseline(p) is baseline(preprocessing)."
+  }
+ }
+}

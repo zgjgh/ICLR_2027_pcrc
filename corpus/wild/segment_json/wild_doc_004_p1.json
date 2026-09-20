@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_004",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    63
+   ],
+   "ocr": "The table presents a comprehensive evaluation of various studies with respect to their methodological rigor and bias potential."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "The study by Wang 2014 [6] exhibits study participation as Yes, study attrition as Yes, prognostic factor measurement as Yes, outcome measurement as Partly, confounding measurement and account as Yes, analysis approaches as Yes, and an overall appraisal of potential bias as Moderate."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    515.0
+   ],
+   "ocr": "Study Study partici-pation Study attrition Prognostic factor measurement Outcome measure-ment Confounding measurement and account Analysis approaches Overall appraisal of potential bias\nWang 2014 [6] Yes Yes Yes Partly Yes Yes Moderate\nSiegel 2014 [7] Yes Yes Yes Yes Yes Yes Low\nCubukcu 2014 [10] Yes Yes Yes Yes Yes Yes Low\nCanhoroz 2014 [24] Yes Yes Yes Yes Yes Yes Low\nLee 2014 [9] Yes Yes Yes Yes Yes Yes Low\nShin 2014 [8] Yes Yes Yes Yes Yes Yes Low\nKerenidi 2013 [11] Yes Yes Yes Partly No Yes High\nTsukada 2011 [12] Yes Yes Yes Partly Yes Yes Moderate\nPetridou 2009 [13] Yes Yes Yes Yes Yes Yes Low\nFerroni 2007 [25] Yes Yes Yes Yes No Yes High",
+   "table_id": "img_004758_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    531,
+    580,
+    620
+   ],
+   "ocr": "Siegel 2014 [7] shows all parameters as Yes, leading to a low appraisal of potential bias. Similarly, Cubukcu 2014 [10], Canhoroz 2014 [24], Lee 2014 [9], and Shin 2014 [8] all maintain study participation, study attrition, prognostic factor measurement, outcome measurement, confounding measurement, and analysis approaches as Yes, resulting in a low bias appraisal for each. In contrast, Kerenidi 2013 [11] has study participation, study attrition, and prognostic factor measurement as Yes, but shows outcome measurement as Partly, confounding measurement and account as No, and analysis approaches as Yes, culminating in a high bias appraisal."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    608,
+    580,
+    696
+   ],
+   "ocr": "Tsukada 2011 [12] shares a similar pattern with a moderate bias appraisal where study participation, study attrition, and prognostic factor measurement are Yes, outcome measurement is Partly, confounding measurement is Yes, and analysis approaches are Yes. Lastly, Petridou 2009 [13] has all parameters as Yes, leading to a low bias appraisal, while Ferroni 2007 [25] has Yes for study participation, study attrition, prognostic factor measurement, and outcome measurement, but No for confounding measurement and account, with analysis approaches as Yes, resulting in a high appraisal of potential bias."
+  }
+ }
+}

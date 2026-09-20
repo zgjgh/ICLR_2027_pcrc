@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_404",
+  "page": 5,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.7,
+    648.8,
+    630.1
+   ],
+   "ocr": "Sensors 2012, 12 13716 samples from each fault states, and thus 300 samples are collected for the test bearing, 50% of samples are used as the training set to construct K-means model, while the remaining 50% of samples are used as the testing set to test the classification accuracy rate of K-means using the first three extracted features corresponding to the largest eigenvalues. In this case, we not only compare with PCA, FA and LPP, but also compare with some other Graph Embedding based approaches, such as Laplacian Eigenmap (LE) and Linear Discriminant Analysis (LDA). The experimental results of K-means is shown in Table 5, the accuracy rate of classification by K-Means using the features extracted by SR is significantly better than that of K-Means using the features extracted by other methods, SR shows a similar performance with the supervised-based LDA. In addition, we can observe that there are some differences in the computational time of feature extraction consumed among the several methods. In Table 5, the computational time of LDA method is the highest, although it seeks the projective functions which are very perfect in the training set and testing set, so it is computationally expensive. The PCA method fails to show more improvement in the computational time; this is probably due to the fact that PCA does not encode discriminating information. The SR method achieves significantly better performance than other methods, which suggests that SR only needs to solve c-1 regularized least squares problems which are very efficient, This nice property makes it possible to apply SR to high dimensional large datasets in real-world applications. We also note that the classification accuracy rate of LPP-based and LE-based methods are also relatively higher, this is mostly due to the fact that the structured information in the experimental data is very important for feature extraction. Fortunately, SR is similar to them, and it is capable to discover local structured information in the data manifold. Specifically, this important property may enable SR to find more meaningful low-dimensional information hidden in the high- dimensional features compared with PCA and FA methods. Overall, this case also further demonstrates that the SR-based feature extraction method is very effective to improve the performance of classifiers. Table 5. The accuracy rate of classification by K-Means in the bearing fault data from ABLT-1."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    77.3,
+    641.3,
+    623.4,
+    763.3
+   ],
+   "ocr": "Methods Computational time (s) Training accuracy rate (%) Testing accuracy rate (%)\nSR 2.509 0.9012 0.8426\nPCA 4.296 0.8163 0.7231\nFA 6.348 0.7615 0.6912\nLPP 4.973 0.8651 0.7984\nLE 4.397 0.8425 0.7661\nLDA 7.242 0.8987 0.8214",
+   "table_id": "PMC3545588_table_4"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    783.7,
+    648.7,
+    900.5
+   ],
+   "ocr": "It is noted that we tested the performance of the SR processing using the whole training and testing data for feature extraction in this experiment, which is not related to new test samples. In fact, handling data out samples (i.e., new inputs) problems presents a big challenge in the area of feature extraction. Due to space limitation, this problem is not discussed detail in the paper. In the real-world application, we should firstly transfer the training data into the project space under the weight matrix W, then using the same weight matrix W to treat the new testing data."
+  }
+ }
+}

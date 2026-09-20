@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_096",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2006, 7:482"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/7/482"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    225.1,
+    118.9
+   ],
+   "ocr": "Table 3: The places of the model."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    76.1,
+    130.1,
+    541.9,
+    889.3
+   ],
+   "ocr": "ID Place name Biological species\n1 alpha-factor pheromone released by an MATα cell in the surroundings\n2 Ste2 _receptor mating pheromone receptor of the modelled MATa cell\n3 receptor_ factor_complex complex consisting of the α-factor and the Ste2 receptor\n4 receptor_complex the above named complex is activated by a conformation change\n5 trimer_bound_to_receptor heterotrimeric G protein, which is coupled to the Ste2 receptor\n6 G_alpha_GTP dissociated Gα subunit (exchange of GDP to GTP in this monomer)\n7 G_beta_gamma_dimer G-protein Gβγ subunits in a dimeric form\n8 Cdc24 Cdc24, i.e., guanine nucleotide exchange factor of Cdc42\n9 Cdc42(at_pm) Cdc42 located at the plasma membrane\n10 Ste20 protein kinase Ste20\n11 Ste5 (scaffold) Ste5, acting as a scaffold protein\n12 Ste5/Ste11 protein complex consisting of Ste5 and Ste11\n13 Fus3 MAP kinase Fus3\n14 Ste7/Fus3 protein complex consisting of Ste7 and Fus3\n15 MAPK_complex1 MAPK complex consisting of Ste5, Ste11, Ste7 and Fus3\n16 Ste20_at_pm Ste20 located at the plasma membrane, i.e., near the MAPK complex\n17 complex2 as complex1, but Ste11 is activated additionally\n18 complex3 as complex2, but Ste7 is activated additionally\n19 complex4 as complex3, but Fus3 is activated additionally\n20 Fus3PP dissociated Fus3 in the activated form\n21 compl_without_Fus3 as complex4, but without Fus3\n22 repr_complex complex containing Ste12 repressed by Fus3 or Kss1 and Dig1/Dig2\n23 Dig1/Dig2 Ste12 inhibitors, i.e., cofactors for the repression\n24 free_Ste12 Ste12 released out of the repression complex\n25 Ste12 activated transcription factor Ste12\n26 Msg5 phosphatase Msg5 being able to deactivate Fus3 or Kss1\n27 Fus3_dephos deactivated Fus3\n28 other_genes pheromone regulated genes encoding mating related cell responses\n29 Bar1_in_nucleus synthesised protease Bar1 located in the nucleus\n30 Bar1 Bar1 secreted in the cell environment\n31 inact_Far1 synthesised Far1 located in the nucleus in an inactive form\n32 Far1 Far1 activated by phosphorylation\n33 Far1_in_cytosol active Far1 located in the cytosol\n34 Sst2_in_nucleus synthesised Sst2 located in the nucleus in an inactive form\n35 phos_Sst2 Sst2 activated by phosphorylation\n36 Sst2 active Sst2 located in the cytosol\n37 inact_component complex labelled for degradation by phosphorylation\n38 phos_Kss1 MAP kinase Kss1 activated by phosphorylation\n39 unphos_Kss1 inactive Kss1\n40 Akr1 protein Akr1 located at plasma membrane\n41 Yck1/Yck2_at_pm kinases Yck1/Yck2 being able to label the Ste2 for degradation\n42 inact_receptor receptor labelled for ubiquitination and endocytosis",
+   "table_id": "PMC1686943_table_1"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    907.8,
+    342.6,
+    919.7
+   ],
+   "ocr": "The places of the model, see Figure 7, each listed with its name,"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    345.5,
+    907.8,
+    589.0,
+    919.7
+   ],
+   "ocr": "its ID and the biological species represented by this node."
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 11 of 17 (page number not for citation purposes)"
+  }
+ }
+}

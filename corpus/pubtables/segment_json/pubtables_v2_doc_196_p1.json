@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_196",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    241.7,
+    51.9
+   ],
+   "ocr": "Yang et al. Molecular Autism (2016) 7:11"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.9
+   ],
+   "ocr": "Page 3 of 14"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    109.7,
+    367.5,
+    818.0
+   ],
+   "ocr": "these hypotheses may generate new directions of investi- gation about CG development in ASD. In individuals with ASD, CG has been reported to be altered in several areas including the frontal [51, 54, 55] and temporal- occipital regions [56]. Because all of the four cortical measures likely provide unique and complementary information about brain structure and are associated with differential genetic and cellular mechanisms in the brain, it is important to in- clude all of them in the same study of ASD, as a more comprehensive picture is likely to emerge. To our know- ledge, no study to date has examined all of these four measures in a predominantly pre-adolescent group of children with ASD. For this reason, we used SBM and examined CT, SA, CV, and CG in one of the largest samples of pre-adolescent children with ASD and a group of typically developing (TD) children who were well-matched on gender, age, and IQ. With the large sample and a comprehensive set of vertex-based cortical morphometric measures, we aim to better understand the neurodevelopmental brain structural differences in ASD during childhood. Methods Participants Study participants included 101 children (all males) be- tween 4 and 12 years of age. They consisted of 60 boys with ASD (4.49–11.99 years) and 41 TD boys (4.75– 12.16 years). IQ was characterized using the General Conceptual Ability score of the Differential Ability Scales-Second Edition (DAS-II) [57]. All participants were high-functioning (IQ > 70) (FSIQASD = 78–136; FSIQTD = 78–140). As shown in Table 1, the ASD and TD groups were well-matched on age and IQ. All participants with ASD met DSM-IV [58] diagnostic criteria for Asperger’s syndrome, pervasive developmen- tal disorder—not otherwise specified, or autistic disorder as determined by expert clinical judgment. This judg- ment was supported by the results of gold standard diag- nostic instruments, ADI-R [59] and/or ADOS [60], administered by research-reliable and licensed clinical psychologists. Autistic traits were measured using the parent-reported Social Responsiveness Scale (SRS) total raw score [61]. The complete characterization of the ASD group is reported in Table 2. Table 1 Participant demographics and group matching"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.1,
+    791.1
+   ],
+   "ocr": "To rule out possible developmental delays/disorders and the Broad Autism Phenotype (BAP) [62, 63] in the TD participants, the following exclusionary criteria were used: (1) diagnosed or suspected ASD, schizophrenia, other developmental or psychiatric/neurological dis- order; (2) first- or second-degree relative with diagnosed or suspected ASD; (3) an Individualized Education Pro- gram for special education services, including speech/ language therapy, occupational therapy, and/or social skills intervention; (4) SRS-parent total t-score ≥ 76 (se- vere range); or (5) clinical impression of ASD, other de- velopmental delay/disorder, BAP, or psychiatric disorder. Exclusion criteria for all participants included seizures (owing to safety concerns during MRI scans), and a his- tory of serious head injury or loss of consciousness. All participants passed MRI safety screening, including be- ing free of any metal implants and evidence of claustro- phobia. Written informed consent was obtained from each participant’s parent(s), and verbal assent was ob- tained from each participant. The Human Investigations Committee at Yale University approved this study. Structural imaging parameters A high-resolution, T1-weighted, structural imaging se- quence was obtained on a 3-Tesla Siemens Tim Trio scanner using a 32-channel head coil and MPRAGE pulse sequence (160 sagittal slices; slice thickness = 1 mm; repetition time = 1900 ms; echo time = 2.96 ms; number of excitations = 1; flip angle = 9°; inversion time = 900 ms; field of view = 2562 mm2; matrix = 2562; voxel size = 1.0 mm3). Cortical reconstruction FreeSurfer image analysis suite version 5.1.0 (http://surfer. nmr.mgh.harvard.edu/) was employed to perform semi- automated cortical reconstruction. The technical details of these procedures are well-documented in prior publica- tions [64, 65]. In one of the first stages, FreeSurfer regis- ters the individual scans to the MNI305 atlas [66]. Afterwards, FreeSurfer constructs the boundary between white matter and cortical gray matter (this boundary is called the white surface) and the boundary between the gray matter and cerebrospinal fluid/dura (this boundary is called the pial surface). After these 3D surfaces are con- structed, CT is estimated as the shortest distance from the"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    823.1,
+    680.4,
+    920.7
+   ],
+   "ocr": "Dx Age × Dx\nVariable TD (n = 41) ASD (n = 60) t(99) p F(1,97) p\nAge 8.83 (2.30) 8.35 (2.07) 1.09 0.28 − −\nGeneral Conceptual Ability IQ 107.00 (15.02) 103.12 (14.51) 1.30 0.20 0.33 0.57\nVerbal IQ 107.93 (12.20) 103.77 (17.18) 1.34 0.19 0.23 0.63\nNon-verbal IQ 105.37 (15.33) 102.35 (13.82) 1.03 0.31 0.31 0.58",
+   "table_id": "PMC4727390_table_0"
+  }
+ }
+}

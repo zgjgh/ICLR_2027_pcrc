@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_382",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    500.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prediction of Multiple Drug-Target Interactions"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    337.3,
+    394.5,
+    963.6
+   ],
+   "ocr": "Figure 4. The distribution of all samples of model I using the first doi:10.1371/journal.pone.0037608.g004 ion channels (n = 204), GPCRs (n = 95) and nuclear receptors (n = 26)) were extracted from this database (Supporting Informa- tion S10). The RF Model I for the four datasets obtains an average sensitivity of 47.51%, an average specificity of 74.93% and an average concordance of 61.64% (Table 2). The predicted results for the GPCR and nuclear receptor datasets are fairly good with the sensitivity up to 80.31% and 91.57%, respectively. However, we also observed that the RF Model I might not be capable of predicting the enzyme and ion channel datasets, the obtained sensitivity values are less than 55%. The projection of the first three principal components (Figure 5) shows that most samples of these two datasets deviate from the training dataset of the developed RF model I, which can effectively explain the obtained results. Additionally, the ROC curves in Figure 6 indicate that our methods perform much better than a random inference for the four target protein families, with a range of the AUC value from 66.58 to 82.29. As compared with the recent bipartite graph learning (BGL) model [38] (Table 2), the sensitivity of our proposed approach are much better except the enzyme dataset. It should be also pointed out that our method has the lower specificity and concordance, which might indicate that the negative samples randomly produced from the blind testing dataset contain the potential interaction relationships. All these further suggest that the learning algorithms based on the general chemicals and proteins properties that are related to drug-target interactions, and therefore allow our approach to successfully make predictions. However, we have to confess that there are still a large space to improve the model performances with the development of new descriptors for chemicals and proteins, and even mathematical methods. In addition, using the training set of the Model I, we analyzed the computational cost of the RF and SVM methods for the internal five-fold cross-validation process, which was implemented on a Dell computer (Redhat Linux Operating System) with 2.8 GHz AMD Phenom (tm) II X6 1055T processer and 12 GB RAM. Due to the complexity of the ‘‘learning’’ phase scales with the square of the ‘‘number of training compounds times the number of training proteins’’, the computation time of SVM (10.86 hours) is much slower than that of the RF (4.53 hours) approach [20]. This indicates that our proposed RF approach works better in terms of computational efficiency. PLoS ONE | www.plosone.org"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    397.8,
+    337.3,
+    535.5,
+    347.4
+   ],
+   "ocr": "three principal components."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    377.4,
+    700.8,
+    785.0
+   ],
+   "ocr": "Comprehensive Prediction for Potential Drug-Target Interactions The prediction of drug-target interactions can be directly applied to completing the genome annotations, investigating the drug specificity and promiscuity, and finding the targets for diseases. However, the overall pattern of the interaction interface between the chemical space and biological systems is too large and complex to be captured. For simplicity, the enzyme which has been extensively studied as a class of important drug target family was selected here to illustrate our models’ applications of predicting the potential drug-target interactions. A total of 175 enzymes in the DrugBank database were matched with each of 6511 drugs to conduct the comprehensive drug-target interaction prediction using the general RF Model I. The results show that, in general, two compounds sharing high structural similarity tend to interact with similar target proteins. Likewise, two proteins with high sequence similarity tend to interact with similar drugs. For instance, two structurally similar drugs Adenosine-59-Diphosphate (DB03431) and Guanosine-59- Diphosphate (DB4315) were predicted to act on 166 common targets. This indicates a strong interrelation between the receptor partners with their binding counterpart. In addition, we also find that the places for the top scoring drug-target interactions are mainly occupied by several categories of enzymes and drugs, where the enzymes are usually highly homologous such as Prostaglandin G/H synthase 1 and Prostaglandin G/H synthase 2 and the drugs share certain common substructures such as Table 2. The predicted results for the blind testing sets by the RF model 1."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    814.1,
+    700.1,
+    904.7
+   ],
+   "ocr": "Dataset SE (RF/BGL) SP(RF/BGL) CO(RF/BGL) AUC(RF/BGL)\nEnzyme 35.82%/57.40% 82.70%/99.50% 59.26%/–– 67.43/90.40\nGPCR 80.31%/23.40% 55.64%/99.90% 67.98%/–– 72.95/89.90\nIon channel 54.09%/27.10% 73.38%/99.60% 63.73%/–– 66.58/85.10\nNuclear receptor 91.57%/14.80% 39.76%/99.90% 65.66%/–– 82.29/84.30\nAverage 47.51%/–– 74.93%/–– 61.64%/–– 66.68/––",
+   "table_id": "PMC3364341_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    406.0,
+    917.9,
+    550.2,
+    926.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0037608.t002"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "7 May 2012 | Volume 7 | Issue 5 | e37608"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_404",
+  "page": 4,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.7,
+    648.7,
+    503.0
+   ],
+   "ocr": "Sensors 2012, 12 13715 4.4. Method Evaluation In this study, K-Means is adopted to evaluate the performance of SR, PCA, FA and LPP. The first three extracted features corresponding to the largest eigenvalues are employed as the input features of K-Means. K-Means was implemented to recognize the clusters of the different bearing fault types, the acquired training dataset and testing dataset are used for modeling K-Means and checking misclassification, respectively. For given dataset, the accuracy rates are presented in Table 4, the classification results based on the original 29 features (OF29) and the first three features extracted by SR, PCA, FA and LPP are also presented in Table 4 and Figure 17. It can be observed that PCA and FA don‘t improve the recognition performance of K-Means in comparison with using OF29, both LPP and SR improve the accuracy rate, respectively. The results of this experiment are consistent with the actual situation of the CWRU dataset, since the data quality of the artificially introduced faults on bearings is very good, thus the features in different fault conditions are pretty separable. The K-Means recognized relatively accurately all of the different severity classes through the use of the methods based on PCA, LPP and SR. In addition, it is shown that the SR all gives more satisfied results as compared to others in four datasets, this further demonstrates the effectiveness of SR for feature extraction or dimensionality reduction of the given input space, and also be confirmed to improve the performance of the classifier obviously. Therefore, we can safely make use of SR in order to extract the most effective features among the practical applications. Table 4. The accuracy rate of classification by K-Means in four datasets."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    124.3,
+    514.1,
+    577.0,
+    600.4
+   ],
+   "ocr": "Datasets OF29 PCA FA LPP SR\nD_MIX 0.9882 0.9881 0.9457 0.9893 0.9987\nD_IRF 0.9678 0.9676 0.9331 0.9793 0.9876\nD_ORF 0.9716 0.9715 0.9536 0.9782 0.9829\nD_BF 0.9194 0.9191 0.9085 0.9324 0.9571",
+   "table_id": "PMC3545588_table_3"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    170.2,
+    620.9,
+    537.5,
+    690.2
+   ],
+   "ocr": "Figure 17. The comparison of the accuracy rate in four datasets. 1 OF29 PCA"
+  },
+  "p4_b3": {
+   "type": "title",
+   "bbox": [
+    182.2,
+    680.5,
+    192.5,
+    696.2
+   ],
+   "ocr": "rate"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    495.6,
+    693.3,
+    507.4,
+    703.6
+   ],
+   "ocr": "FA"
+  },
+  "p4_b5": {
+   "type": "title",
+   "bbox": [
+    182.2,
+    699.3,
+    192.5,
+    737.7
+   ],
+   "ocr": "Accuracy"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    703.2,
+    648.7,
+    938.8
+   ],
+   "ocr": "0.95 LPP SR 0.9 D_MIX D_IRF D_ORF D_BF Datasets In order to further evaluate the proposed SR-based method, we adopt other experimental data, in particular, the bearing fault data acquired from an accelerated bearing life tester (ABLT-1) at the Hangzhou Bearing Test and Research Center in China (detailed information is described in [1]). The differentiation of fault states of bearings include three classes: normal, slightly degradation, and severe degradation (failure). The fault conditions can be estimated by the magnitude of the representative features, which are produced by the effective feature extraction methods. For this case, we collect the data from the whole life of the bearing to implement fault classification, and randomly select 100"
+  }
+ }
+}

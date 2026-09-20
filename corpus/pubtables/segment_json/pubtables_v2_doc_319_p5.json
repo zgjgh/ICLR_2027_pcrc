@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_319",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    571.7,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "A New Auditory BCI Paradigm"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    361.5,
+    92.8
+   ],
+   "ocr": "Table 7. Classification performance for all BCI conditions."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    672.7,
+    464.4
+   ],
+   "ocr": "Subject Classification [%] Target score [%] Selection [%] 70% Thresh. Max. ITR 70% Max. ITR 90%\nVPja 69.81 62.12 90.00 (15) 6 6.86 (7) 4.41 (15)\nVPkh 74.27 69.02 90.00 (15) 8 4.78 (13) 4.41 (15)\nVPkj 73.19 68.08 94.00 (11) 4 9.60 (5) 6.81 (11)\nVPzq 78.74 74.89 100.00 (12) 2 19.50 (2) 11.02 (6)\nVPjq 74.54 69.10 94.00 (12) 5 7.25 (5) 6.25 (12)\nMean 74.11 68.64 93.60 (13.0) 5.0 9.60 (6.4) 6.58 (11.8)\na) C300\nVPja 72.20 63.00 92.50 (12) 4 14.41 (4) 10.21 (12)\nVPkh 68.83 61.39 82.50 (13) 10 6.87 (13) - (-)\nVPkj 77.48 71.67 97.50 (7) 3 25.20 (3) 20.60 (7)\nVPzq 79.89 75.22 100.00 (12) 3 19.36 (5) 17.51 (7)\nVPjq 75.66 72.56 97.50 (14) 3 21.10 (3) 15.32 (8)\nMean 74.81 68.76 94.00 (11.6) 4.6 17.39 (5.6) 15.91 (8.5)\nb) C175\nVPja 57.96 34.66 40.00 (11) - - (-) - (-)\nVPkh 63.35 47.11 65.00 (13) - - (-) - (-)\nVPkj 60.32 41.26 35.00 (3) - - (-) - (-)\nVPzq 72.20 59.79 90.00 (15) 6 5.60 (6) 4.41 (15)\nVPjq 62.75 42.12 50.00 (12) - - (-) - (-)\nMean 63.32 44.99 56.00 (10.8) 6.0 5.60 (6.0) 4.41 (15.0)\nc) C300s",
+   "table_id": "PMC2848564_table_6"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    477.6,
+    402.1,
+    572.1
+   ],
+   "ocr": "For explanation of the various conditions see the Methods section. Classification classification of individual subtrials. Target score (%) is the same but only considering training set. Max. selection is the maximum selection score reached for each subject, obtain a 70% selection score. Max. ITR (70%) is the maximum ITR reached when higher. Max. ITR (90%) is the equivalent with only selection scores above 90%. number of averages needed for the result. Bold numbers indicate the best result condition C175. See Figure 10 for results from more averaging steps and the selection score. doi:10.1371/journal.pone.0009813.t007"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    373.7,
+    477.6,
+    700.8,
+    550.7
+   ],
+   "ocr": "(%) refers to the binary classification score on the artifact free dataset, i.e. the correct target subtrials. The difference between these is possibly due to unbalanced 70% Thresh. refers to the minimum number of iterations needed for averaging to considering only those numbers of averaging that resulted in a 70% selection score or Number in parentheses in Max. selection, Max. ITR (70%) and Max. ITR (90%) indicate the per subject over the three conditions. For most subjects, ITR values are highest for corresponding ITR. See the Analysis subsection for definitions of classification- and"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    593.5,
+    392.2,
+    963.6
+   ],
+   "ocr": "involves an intuitive multi-class paradigm that can readily vary in the number of classes. So far, it has only been tested offline and on healthy subjects. The results show that all subjects were able to reach a selection score over 70% in the conditions with spatial cues (C300 and C175). Actually, all but one subject reached selections scores higher than 90%. Performance on the control task was for all but one subject below the 70% threshold, showing that the spatial location adds vital information to the cue. As can be seen in Figure 10, the increase in selection score is highest for condition C1000. The P300 waveform in this condition has time to reach a peak and recover to baseline to some extent and is more typical. For the other conditions, more iterations were necessary for a selection score above 70% i.e., the slope is less steep. Here, the P300 is no longer the clear and pronounced positive peak, as responses evoked by new stimuli disturb the potential buildup. ROC values were generally larger for the C1000 condition as compared to the faster conditions. For the BCI experiments, especially C175, the area with the highest ROC values had shifted to a more frontal position when compared to condition C1000. Generally, the latency of the P300 wave is shorter over frontal electrodes [17]. Thus, the positive deflection starts developing over the frontal electrodes and moves back. One could therefore explain this shift by an interruption of the developing P300 by the potentials evoked by the presentation of the next stimulus. However, latency differences between frontal PLoS ONE | www.plosone.org 11"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    593.6,
+    700.8,
+    963.6
+   ],
+   "ocr": "and parietal areas are in the range of milliseconds [43], which makes it an unlikely explanation. A variant of the P300, the novelty P300 and P3a, generally starts more anterior than the classic P300 [44]. The fact that it is present after an unknown stimulus and habituates quickly also makes it an unlikely candidate. Neurophysiological P300 research mostly uses longer ISI to avoid the overlay of multiple stimuli. In BCI research, where short ISI is common practice, scalp topographies are not often reported. The reason for the shift of the P300 to the front therefore remains unclear. One measure of reporting the usefulness of a BCI is the ITR. It depends on the selection accuracy, the time necessary for a choice and the amount of classes. Because of the long ISI in condition C1000, the ITR is inevitably low. However, with the pronounce P300 response it functioned as a proof of concept. In an auditory BCI setup, the spatial properties of the cue by itself can be enough to consistently elicit a classifiable P300 response. With an ISI that is almost six times shorter in condition C175, extra iterations can still produce an overall fast BCI. Also, some subjects reported the faster ISI to help them focus on the task at hand. With successful classification in trials with an ISI as short as 175 ms, the maximum ITR reached an average of 17.39 bits/ minute for five subjects (best subject 25.20), considering only 70% correct selection scores. Kanoh et al. [7] reported an average ITR of around 5 bits/minute on their binary BCI, but only when they April 2010 | Volume 5 | Issue 4 | e9813"
+  }
+ }
+}

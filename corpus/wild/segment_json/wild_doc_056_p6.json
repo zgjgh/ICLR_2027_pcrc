@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_056",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    115,
+    580,
+    189
+   ],
+   "ocr": "The first table presents factors along with their odds ratios, confidence intervals, and p-values. For IL-10, at D-1, the odds ratio is 1.86 with a 95% confidence interval of 0.98 to 3.52 and a p-value of < 0.05, while at D-7, the odds ratio is 2.06 with a 95% confidence interval of 0.14 to 6.54 and a p-value of > 0.05. The sCD25 factor shows an odds ratio of 1.12 at D-1 with a confidence interval of 1.01 to 1.25 and a p-value of < 0.05, whereas at D-7, the odds ratio is 0.97 with a confidence interval of 0.87 to 1.09 and a p-value of > 0.05."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    177,
+    580,
+    250
+   ],
+   "ocr": "For IFN-γ, at D-1, the odds ratio is 1.03 with a confidence interval of 0.86 to 1.23 and a p- value of > 0.05, while at D-7, it is 0.54 with a confidence interval of 0.19 to 1.51 and a p-value of > 0.05. Lastly, PCT shows an odds ratio of 6.53 at D-1 with a confidence interval of 0.06 to 68.4 and a p-value of > 0.05, and at D-7, the odds ratio is 39.71 with a confidence interval of 0.05 to 315 and a p-value of > 0.05. The second table outlines strategies alongside their costs, incremental costs, DALYs averted, incremental DALYs, and ICER."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    292.0,
+    580.0,
+    482.0
+   ],
+   "ocr": "Factor Odds ratio 95% (CI) P-value\nIL-10 D-1 1.86 0.98, 3.52 < 0.05\nD-7 2.06 0.14, 6.54 > 0.05\nsCD25 D-1 1.12 1.01, 1.25 < 0.05\nD-7 0.97 0.87, 1.09 > 0.05\nIFN-γ D-1 1.03 0.86, 1.23 > 0.05\nD-7 0.54 0.19, 1.51 > 0.05\nPCT D-1 6.53 0.06, 68.4 > 0.05\nD-7 39.71 0.05, 315 > 0.05",
+   "table_id": "img_061383_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    538.0,
+    580.0,
+    659.0
+   ],
+   "ocr": "Strategy Cost Incremental cost DALYs Averted Incremental DALYs ICER\nDiscounted\nNo Intervention 0.0 0.0 0.00 0.00 0\nRotavirus Vaccine Alone 59.3 59.3 1.39 1.39 43\nDiarrhoea Management 112.2 52.9 1.98 0.59 90\nRotavirus V& Diarrhoea Management 166.7 54.5 2.47 0.49 112",
+   "table_id": "img_061383_t1"
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    690,
+    580,
+    732
+   ],
+   "ocr": "The No Intervention strategy has a cost of 0.0, incremental cost of 0.0, DALYs averted of 0.00, incremental DALYs of 0.00, and ICER of 0. Rotavirus Vaccine Alone costs 59.3 with an incremental cost of 59.3, yielding 1.39 DALYs averted, 1.39 incremental DALYs, and an ICER of 43."
+  },
+  "p6_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Diarrhoea Management costs 112.2 with an incremental cost of 52.9, resulting in 1.98 DALYs averted, 0.59 incremental DALYs, and an ICER of 90. The combined Rotavirus Vaccine and Diarrhoea Management strategy has a cost of 166.7, an incremental cost of 54.5, 2.47 DALYs averted, 0.49 incremental DALYs, and an ICER of 112."
+  }
+ }
+}

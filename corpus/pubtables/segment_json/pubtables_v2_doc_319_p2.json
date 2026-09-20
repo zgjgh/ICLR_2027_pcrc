@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_319",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    571.7,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "A New Auditory BCI Paradigm"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    76.8,
+    700.8,
+    637.0
+   ],
+   "ocr": "require high speed and can deal with lower accuracy (for instance in gaming), whereas other applications need an accuracy that approaches 100% at the cost of speed (such as operating a wheelchair). A higher accuracy is generally obtained by using more trials, i.e., increase the number of iterations. In order to compare our system on both levels, we report two ITR measures. The first, ‘Max ITR 70%’, refers to the maximum ITR that can be obtained when only taking into account the amount of iterations that result in a selection score of 70% or more. Although this is not necessary the highest ITR, we do not regard selection scores lower than 70% as useful because this would require a large number of error corrections; it would not give the subject a sense of control. The second measure, ‘Max ITR 90%’, is based on only those numbers of iteration that result in a selection score of 90% or higher. In general, this means using more iterations and possibly a decrease of the ITR. However, the increased selection accuracy and sense of control may be favorable for some applications. Rejected trials were still considered during calculation of the ITR to prevent an artificially small approximation of V. Results Artifact rejection For subject VPiz more than half of the subtrials had to be excluded because of artifacts. In condition C1000, on average about 20% of all subtrials were excluded from analysis (range 5.94%–58.48%). This is about twice as high as the average rejection rate for the other conditions. A possible explanation is the long ISI. As with longer ISI the total length of the trial increases, eye blinks may become unavoidable after some time. Number of rejected trials for all conditions can be found in Table 2. Physiological response Averaged ERP responses and scalp topographies for all subjects in condition C1000 can be found in Figure 2 and Figure 3, respectively. For the ERP plots, the channel with the highest positive ROC value between 300 and 650 ms post-stimulus is shown for each subject (Figure 2). Plots show a single target and non-target line; data from all directions is averaged together. The same is done for channels with the largest negative ROC value Table 2. Rejection rates for all conditions."
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    760.1
+   ],
+   "ocr": "Classification was done using the Fisher Discriminant (FD) algorithm. Due to the dimensionality of the features (320 dimensions), some form of regularization was advisable. Here, a shrinkage method which counterbalances the systematic error in the calculation of the empirical covariance matrix was used [39]. A ten-fold cross validation was performed with ten chronologically sampled partitions. Each partition functioned once as test set with the other nine partitions as training set. Two types of classification scores can be distinguished: classification- and selection score [5]. Here, classification score refers to the binary classification. It is defined as the percentage of subtrials that is correctly scored to be a target or non-target. The selection accuracy denotes the percentage of trials in which the target direction is correctly designated. Datasets from the BCI experiments contained four times more non-target stimuli than targets. Although the classification task is essentially binary, chance level for classification is 80%, which could potentially be obtained by simply assigning all samples to the non-target group. Therefore, the number of misclassified targets was checked. Multi class selection After the cross validation, the classifier output was used to determine the outcome of the multi-class paradigm, i.e., to estimate the target direction. Taking a set of consecutive subtrials, one for each direction, the subtrial with the most negative classifier output was designated the target. One such set is referred to as an iteration. To increase sensitivity, outcomes of multiple subtrials for the same direction (within one trial) can be averaged. This way, the influence of single subtrials is decreased and the selection score can be more robust. One possibility is to average the raw subtrial timeseries for each direction and classify these as a single subtrial. Another option is to classify each original subtrial individually and average over the classifier scores. We took the latter approach, as early results showed better performance for this method. Artifacts were rejected and as a result classification scores for some directions were missing. Because only the remaining valid subtrials were considered, the averaging for some directions was done over less than the stated number of iterations. This is a realistic approach for future online settings, where artifacts may occur at any time, even in patients. Various amounts of iterations were considered to evaluate the influence on the outcome. Information Transfer Rate The amount of information carried by every selection can be quantified by the information-transfer rate [40, ITR], defined as: � �"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    666.1,
+    684.8,
+    851.1
+   ],
+   "ocr": "Subject C1000 C300 C175 C300s\nVPiz 1497 (58.48) - - - - - -\nVPip 276 (10.78) - - - - - -\nVPig 152 (5.94) - - - - - -\nVPjf 624 (24.38) - - - - - -\nVPjb 525 (20.51) - - - - - -\nVPja 160 (6.25) 242 (6.45) 205 (6.83) 125 (8.33)\nVPzq 340 (13.28) 184 (4.91) 107 (3.57) 104 (6.93)\nVPkh - - 1104 (29.44) 1037 (34.57) 302 (20.13)\nVPkj - - 113 (3.01) 42 (1.40) 71 (4.73)\nVPjq - - 211 (5.63) 87 (2.90) 42 (2.80)\nAverage 510.6 (19.94) 370.8 (9.89) 295.6 (9.85) 128.8 (8.59)",
+   "table_id": "PMC2848564_table_1"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    294.8,
+    726.1,
+    319.4,
+    737.7
+   ],
+   "ocr": "1{P"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    120.5,
+    730.8,
+    229.6,
+    747.3
+   ],
+   "ocr": "R~log2NzP:log2Pz"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    229.6,
+    730.8,
+    375.8,
+    753.4
+   ],
+   "ocr": "ð Þ:log2 ð1Þ"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    234.0,
+    733.8,
+    258.5,
+    745.4
+   ],
+   "ocr": "1{P"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    293.8,
+    741.6,
+    320.4,
+    753.2
+   ],
+   "ocr": "N{1"
+  },
+  "p2_b9": {
+   "type": "title",
+   "bbox": [
+    204.9,
+    781.4,
+    244.3,
+    796.0
+   ],
+   "ocr": "B~V:R"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    784.4,
+    389.7,
+    963.6
+   ],
+   "ocr": "ð2Þ where R is the bits/selection and B the bits/minute. N is the number of classes, P the classifier accuracy and V is the classification speed in selections/minute. In our case, when using multiple iterations, P is the selection accuracy. From this it is clear that even though the selection accuracy may increase when using more iterations, the ITR may stay the same or even decrease because a selection takes more time, i.e., V increases. Speed is not the only factor that decides on the usability of a BCI, accuracy is equally important. Some applications may PLoS ONE | www.plosone.org 5"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    406.0,
+    864.4,
+    700.7,
+    926.7
+   ],
+   "ocr": "Using the simple artifact rejection method explained before, between 1.40% and 58.48% of the trials were rejected as artifacts. The average rejection rate for condition C1000 is almost twice as high as that for the other conditions. Possibly this is due to the longer ISI, which results in a longer overall trial. Eye blinking may be unavoidable in this case. doi:10.1371/journal.pone.0009813.t002"
+  },
+  "p2_b12": {
+   "type": "header_footer",
+   "bbox": [
+    520.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "April 2010 | Volume 5 | Issue 4 | e9813"
+  }
+ }
+}

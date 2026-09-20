@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_059",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    121,
+    580,
+    164
+   ],
+   "ocr": "Table 1 presents data on various intellectual disability classifications across four categories: KBG-c, KBG-a, PGC-c, and PGC- a, with row labels indicating the severity levels. For the Average classification, KBG-c has a count of 1, KBG-a has 0, PGC-c has 1, and PGC-a has 0."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    152,
+    580,
+    179
+   ],
+   "ocr": "In the Low average category, KBG-c shows 2, KBG-a 0, PGC-c 2, and PGC-a 0. The Borderline classification reveals KBG-c at 1, KBG-a at 1, PGC-c at 1, and PGC-a at 2."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    244.0,
+    580.0,
+    392.0
+   ],
+   "ocr": "N\nKBG-c KBG-a PGC-c PGC-a\nAverage 1 0 1 0\nLow average 2 0 2 0\nBorderline 1 1 1 2\nMild Intellectual Disability 6 5 6 3\nModerate Intellectual Disability 2 0 2 0",
+   "table_id": "img_065992_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    455.0,
+    580.0,
+    598.0
+   ],
+   "ocr": "Biomarker Cut-off level Sensitivity Specificity False negative AUC\nTenascin-C 5.7 ng/mL 100% 42% 0% 0.71\n6.0 ng/mL 92% 43% 1.3%\n6.5 ng/mL 85% 48% 3.6%\nMatrix metalloproteinase-2 213 ng/mL 93% 79% 0.8% 0.91\n250 ng/mL 86% 87% 1.4%\n270 ng/mL 79% 88% 2.0%",
+   "table_id": "img_065992_t1"
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    701
+   ],
+   "ocr": "For Mild Intellectual Disability, KBG-c records 6, KBG-a 5, PGC-c 6, and PGC-a 3. Finally, the Moderate Intellectual Disability category displays KBG-c with 2, KBG-a with 0, PGC-c with 2, and PGC-a with 0. Table 2 outlines biomarker data with the corresponding cut-off levels, sensitivity, specificity, false negative rates, and AUC values. The biomarker Tenascin-C at a cut-off level of 5.7 ng/mL has a sensitivity of 100%, specificity of 42%, false negative rate of 0%, and AUC of 0.71."
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    762
+   ],
+   "ocr": "At 6.0 ng/mL, sensitivity is 92%, specificity is 43%, and false negative is 1.3%. At 6.5 ng/mL, sensitivity is 85%, specificity is 48%, and false negative is 3.6%. For Matrix metalloproteinase-2 at 213 ng/mL, sensitivity is 93%, specificity is 79%, and false negative is 0.8% with AUC 0.91; at 250 ng/mL, sensitivity is 86%, specificity is 87%, false negative is 1.4%, and at 270 ng/mL, sensitivity is 79%, specificity is 88%, and false negative is 2.0%."
+  }
+ }
+}

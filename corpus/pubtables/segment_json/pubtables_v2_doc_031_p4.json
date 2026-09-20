@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_031",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    320.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Scalable preprocessing of high volume environmental acoustic data for bioacoustic monitoring"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    319.5,
+    107.6
+   ],
+   "ocr": "Table 7. Ten best configurations identified in distribution testing."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    61.2,
+    116.3,
+    707.0,
+    284.2
+   ],
+   "ocr": "Split length (s) Long split length (s) Max queue size Time per send (s) Average execution time (s) Std. dev. (s)\n10 120 7 2 72.55 1.14\n20 60 5 2 72.74 0.90\n10 60 5 2 72.75 0.56\n5 120 7 3 72.76 1.13\n30 60 3 2 72.95 0.42\n10 120 5 3 72.95 0.45\n15 60 5 3 73.14 0.70\n5 60 7 4 73.14 1.41\n10 60 7 2 73.15 1.00\n20 60 3 2 73.15 1.58",
+   "table_id": "PMC6075764_table_6"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    292.4,
+    236.2,
+    303.1
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0201542.t007"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    329.4,
+    727.3,
+    898.4
+   ],
+   "ocr": "and any combination of other settings. These configurations are about 25 seconds slower on average than any other configurations. The top 84 configurations (i.e. all configurations except the known bad ones) are separated by 8.03 seconds (this becomes 2.81 seconds for the top 50), which is statistically significant, so there is a small time efficiency advantage from thoroughly testing configurations as opposed to selecting one at random. This indicates that configurations can be selected for accuracy, without significant loss of efficiency. Because splitting into 15 second chunks is the most accurate approach for removing rain and cicada sounds, this is taken to be the split length in further testing. This gets split into 5 second chunks for silence detection at a later point of the pipeline. Performance evaluation of preprocessing pipeline Given the determined efficient order of execution for the preprocessing steps and determined how to distribute the resulting pipeline efficiently, we evaluate the system’s performance for preprocessing high volume data. We perform multiple tests, comparing execution times, load balancing, and resource usage over different numbers of resources, some of which have differ- ent levels of processing power. Execution time and scalability testing and analysis We first evaluate the system’s ability to scale given differing amounts of processing power. The system is tested using two hours of audio known to contain bird sound, rain, cicada cho- ruses, and silence with varying numbers of machines. The test is run four times for each case, and the average execution time recorded. The 1-core execution test uses a process specifically written for sequential execution, while the others uses the distributed system. The CPU count includes the master and slave nodes. Because the master node does not require a large amount of resources, a slave node is also executed on the same machine as the master. Each instance tested contained 4 cores and 16 GB RAM, though most of this RAM is not used by the system. The 2-core case was tested using a single 2-core instance running a master and a slave process. Fig 10 shows the average execution time for the number machines used. Fig 11 presents the improvement in the execution time over 1 core by measuring how many times faster execution is compared to the sequential (1-core) case. Table 8 gives a numerical summary of results. The first investigation considers the execution time of the pipeline in serial (1 core). Note that [naively] adding the execution times for all individual processes given 15 second splits (see Table 1) suggests a likely overall processing time of 1251.2 plus/minus 3.7 seconds."
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0201542 August 3, 2018 16 / 24"
+  }
+ }
+}

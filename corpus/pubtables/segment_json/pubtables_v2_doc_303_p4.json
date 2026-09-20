@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_303",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:547"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/547"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    317.2,
+    118.9
+   ],
+   "ocr": "Table 5: Comparison of active promoter predictions."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    676.2,
+    565.2
+   ],
+   "ocr": "untreated cella\nActive promoters Inactive promoters\nTotal Prediction Expression Supported Prediction PPV\nHeintzman et al. [15]b 197 127 64.47% 31\n229 127 55.46% 32\nHMM (c1 = 1.95) 197 128 64.97% 25\nHMM (c1 = 1.6) 229 135 58.95% 31\nHMM (c1 = 0.5) 309 143 46.28% 40\ntreated cella\nActive promoters Inactive promoters\nTotal Prediction Expression Supported Prediction PPV\nHeintzman et al. [15] 204 128 62.75% 23\n213 128 60.09% 23\nHMM (c1 = 1.853) 204 128 62.75% 19\nHMM (c1 = 1.367) 247 139 56.27% 22\nHMM (c1 = 0.5) 328 145 44.21% 30",
+   "table_id": "PMC2657164_table_4"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    579.6,
+    393.9,
+    922.4
+   ],
+   "ocr": "aThe total numbers of predictions in Table 5 are slightly different from TSS or any enhancer evidence, we merged these predictions (see Methods). bThe number of correctly predicted active promoters did not change using correct predictions using 6 histone makers. Such improve- ment became more significant when more predictions were made. The performance of the HMM method on enhancer pre- diction was also improved using more histone marks (Fig- ure 6b). For example, 232 enhancers were correctly predicted (PPV = 54.46%) using the 10 histone marks, compared with 226 correct predictions (53.05%) among the same number (426) of the total predictions using the 6 histone marks. The improvement was not as significant as in the case of the promoters. It is possibly because the evidences of true enhancers (p300/TRAP200 binding and DHS sites) are not as direct as those for the promoters (the annotated TSSs were determined using full length cDNA). Prediction of active and inactive promoters using genome- wide ChIP-Seq data Compared with ChIP-chip, ChIP-Seq is more costly effec- tive and probably also less noisy on mapping chromatin"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    372.2,
+    579.6,
+    698.3,
+    892.7
+   ],
+   "ocr": "Table 4 because when multiple predicted sites were supported by the same a lower cut-off in the profile-based method. modifications at the genome-wide scale. We investigated how well our method works with the ChIP-Seq data gen- erated by Mikkelsen et al. in the three mouse cell lines[8]: embryonic stem (ES) cells, neural progenitor cells (NPCs) and embryonic fibroblasts (MEFs). We first compared the patterns of the four histone marks, H3K4me3, H9K4me3, H3K27me3, and H3K36me3, around TSSs because these four marks were measured in all the three cell lines. We assigned each promoter to one of the four groups based on the gene expression level measured in the same study[8]. We averaged the sequencing read counts of each group around TSS. The active and inactive promoters exhibit distinct patterns of all but H3K9me3 marks (Fig- ure S2, see Additional file 7). Strong signals of H3K4me3 in the active promoters and H3K27me3 in the inactive promoters are consistent with their known functions. H3K36me3, a mark for transcriptional elongation, shows a quite spread out pattern around TSS."
+  },
+  "p4_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 10 of 18 (page number not for citation purposes)"
+  }
+ }
+}

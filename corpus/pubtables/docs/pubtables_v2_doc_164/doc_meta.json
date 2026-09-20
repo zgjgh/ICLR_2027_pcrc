@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_164",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4397044_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    736.6,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4397044_table_0.png",
+   "html": "<table><tr><td></td><td>Number</td></tr><tr><td>Total number of raw reads</td><td>118,996,000/12,018,596,000(bp)</td></tr><tr><td>Total number of reads assembled</td><td>79, 434, 350/7 544, 398, 171(bp)</td></tr><tr><td>Total genes</td><td>21, 348</td></tr><tr><td>Total isogenes</td><td>31, 708</td></tr><tr><td>Total residues</td><td>35, 134, 614</td></tr><tr><td>Smallest isogene</td><td>351</td></tr><tr><td>Largest iosgene</td><td>9, 265</td></tr><tr><td>average</td><td>1, 108.07</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4397044_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    711.1,
+    289.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4397044_table_1.png",
+   "html": "<table><tr><td></td><td>Proteome of Phalaenopsis</td><td>Sequences number (identity&#8807;30)</td><td>Sequences number (identity&#8807;70)</td><td>Sequences number (identity&#8807;80)</td><td>Average Sequences identity(&#8807;30)</td></tr><tr><td>Arabidopsis thaliana</td><td>26565</td><td>1120(4.22%)</td><td>350(1.32%)</td><td>121(0.46%)</td><td>61.71%</td></tr><tr><td>Nicotiana tabacum</td><td>26565</td><td>2304(8.67%)</td><td>688(2.59%)</td><td>253(0.95%)</td><td>60.96%</td></tr><tr><td>Glycine max</td><td>26565</td><td>4386(16.51%)</td><td>1555(5.85%)</td><td>639(2.41%)</td><td>63.45%</td></tr><tr><td>Lycopersicon esculentum</td><td>26565</td><td>2237(8.42%)</td><td>731(2.75%)</td><td>267(1.01%)</td><td>62.35%</td></tr><tr><td>Triticum aestivum</td><td>26565</td><td>1197(4.51)</td><td>382(1.44%)</td><td>142(0.53%)</td><td>61.37%</td></tr><tr><td>Oryza sativa</td><td>26565</td><td>4735(17.82%)</td><td>1734(6.53%)</td><td>631(0.24%)</td><td>63.78%</td></tr><tr><td>Phalaenopsis equestris</td><td>26565</td><td>23050(86.78%)</td><td>17942(67.54%)</td><td>16951(63.81%)</td><td>85.66%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4397044_table_2",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    767.5,
+    707.8,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4397044_table_2.png",
+   "html": "<table><tr><td>Sample</td><td>Number of sequences</td><td>Bases (bp)</td><td>Number of sequences mapped to transcriptome</td><td>Ratio of sequences hit in transcriptome</td><td>Total number ofgenes expressed</td></tr><tr><td>0 d</td><td>7, 750, 687</td><td>741, 453, 474</td><td>5, 405, 788/6, 249, 646</td><td>86.50%</td><td>19,156</td></tr><tr><td>3 d</td><td>9, 085, 070</td><td>868, 764, 389</td><td>5, 560, 155/7, 379, 172</td><td>75.35%</td><td>22,185</td></tr><tr><td>6 d</td><td>9, 529, 153</td><td>912, 039, 691</td><td>5, 841, 384/7, 755, 354</td><td>75.32%</td><td>22,902</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4397044_table_3",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    116.1,
+    700.4,
+    820.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4397044_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">gene id</td><td colspan=\"2\">FPKM</td><td rowspan=\"2\">6d</td><td rowspan=\"2\">Gene Description</td></tr><tr><td>0d</td><td>3d</td></tr><tr><td colspan=\"5\">Up-regulation</td></tr><tr><td>comp24400_c0</td><td>601.4</td><td>13221.09</td><td>15931.33</td><td>pathogenesis-related protein 10c [Elaeis guineensis]</td></tr><tr><td>comp23960_c0</td><td>243.1</td><td>8625.85</td><td>36472.73</td><td>gastrodianin-4A [Gastrodia elata]</td></tr><tr><td>comp23734_c0</td><td>874.74</td><td>4548.3</td><td>2667.81</td><td>lectin [Cymbidium hybrid cultivar]</td></tr><tr><td>comp16940_c0</td><td>48.41</td><td>2552.83</td><td>1778.27</td><td>tau glutathione S-transferase [Allium cepa]</td></tr><tr><td>comp4775_c0</td><td>58.2</td><td>2416.77</td><td>253.37</td><td>S-like RNase[Triticum aestivum]</td></tr><tr><td>comp22420_c0</td><td>195.86</td><td>1665.28</td><td>1454.83</td><td>PREDICTED: formate dehydrogenase, mitochondrial [Vitis vinifera]</td></tr><tr><td>comp24492_c0</td><td>430.54</td><td>1643.42</td><td>332.69</td><td>RecName: Full = Probable linoleate 9S-lipoxygenase 5; AltName: Full = Leaf lipoxygenase lipoxygenase [Solanum tuberosum]</td></tr><tr><td>comp22045_c0</td><td>45.2</td><td>836.7</td><td>672.12</td><td>hypothetical protein SORBIDRAFT_04g034160 [Prunus persica]</td></tr><tr><td>comp24644_c0</td><td>47.75</td><td>660.62</td><td>319.99</td><td>PREDICTED: L-ascorbate peroxidase 2, cytosolic [Vitis vinifera]</td></tr><tr><td>comp18704_c0</td><td>67.83</td><td>641.47</td><td>2141.54</td><td>phi class glutathione transferase GSTF7 [Populus trichocarpa]</td></tr><tr><td>comp22866_c0</td><td>55.1</td><td>615.43</td><td>265.49</td><td>PREDICTED: ferritin-3, chloroplastic [Vitis vinifera]</td></tr><tr><td>comp23433_c0</td><td>0.84</td><td>610.48</td><td>630.83</td><td>glutathione-S-transferase Cla47 [Elaeis guineensis]</td></tr><tr><td>comp23612_c0</td><td>11.87</td><td>597.78</td><td>511.05</td><td>tau glutathione S-transferase [Allium cepa]</td></tr><tr><td>comp19147_c0</td><td>124.53</td><td>622.35</td><td>13177.75</td><td>pathogenesis-related protein 10c [Elaeis guineensis]</td></tr><tr><td>comp23970_c0</td><td>1.54</td><td>483.33</td><td>1032.45</td><td>nonsymbiotic hemoglobin [Raphanus sativus]</td></tr><tr><td>comp22408_c0</td><td>1.21</td><td>25.66</td><td>692.42</td><td>bibenzyl synthase [Phalaenopsis sp. chalcone synthase]</td></tr><tr><td>comp22023_c0</td><td>17.61</td><td>217.69</td><td>655.67</td><td>PREDICTED: 2-hydroxyacyl-CoA lyase [Vitis vinifera]</td></tr><tr><td>comp22263_c0</td><td>131.9</td><td>101.1</td><td>611.8</td><td>RecName: Full = Adenosylhomocysteinase; Short = AdoHcyase; AltName: Full = S-adenosyl-L- homocysteine hydrolase S-adenosylhomocysteine hydrolase</td></tr><tr><td>comp23263_c0</td><td>41.16</td><td>101.1</td><td>595.65</td><td>acyl CoA ligase [Linum usitatissimum]</td></tr><tr><td>comp20309_c0</td><td>3.53</td><td>46.43</td><td>528.32</td><td>PREDICTED: cytochrome P450 71D11-like [Glycine max]</td></tr><tr><td>comp19689_c0</td><td>8.72</td><td>80.93</td><td>519.67</td><td>S-adenosyl-L-methionine synthase [Musa acuminata AAA Group]</td></tr><tr><td>comp19151_c0</td><td>91.85</td><td>403.39</td><td>506.52</td><td>glutathione S-transferase [Elaeis guineensis]</td></tr><tr><td colspan=\"5\">Down-regulation</td></tr><tr><td>comp14578_c0</td><td>5435.85</td><td>2150.44</td><td>459.24</td><td>putative chlorophyll a/b-binding protein [Phalaenopsis hybrid cultivar]</td></tr><tr><td>comp24412_c0</td><td>3644.04</td><td>297.48</td><td>192.06</td><td>ORF170[Phalaenopsis aphrodite subsp. formosana]</td></tr><tr><td>comp24467_c0</td><td>2403.94</td><td>725.68</td><td>240.26</td><td>PREDICTED: uncharacterized protein LOC100244671 [Vitis vinifera]</td></tr><tr><td>comp19366_c0</td><td>1852.48</td><td>556.8</td><td>382.63</td><td>hypothetical protein SORBIDRAFT_07g023340 [Sorghum bicolor]</td></tr><tr><td>comp24193_c0</td><td>1682.55</td><td>38.19</td><td>34.45</td><td>PREDICTED: BTB/POZ and TAZ domain-containing protein 2-like[Glycine max]</td></tr><tr><td>comp18801_c0</td><td>1226.98</td><td>360.29</td><td>72.21</td><td>type 1 non-specific lipid transfer protein precursor [Triticum aestivum]</td></tr><tr><td>comp16560_c0</td><td>1059.9</td><td>352.26</td><td>190.68</td><td>PREDICTED: V-type proton ATPase 16 kDa proteolipid subunit-like [Glycine max]</td></tr><tr><td>comp20543_c0</td><td>976.56</td><td>303.2</td><td>175.84</td><td>type III chlorophyll a/b-binding protein [Lycoris aurea]</td></tr><tr><td>comp23175_c0</td><td>873.94</td><td>122.29</td><td>96.53</td><td>RecName: Full = Pyruvate, phosphate dikinase, chloroplastic; AltName: Full = Pyruvate, orthophosphate dikinase; Flags: Precursor pyruvate,ortho</td></tr><tr><td>comp21796_c0</td><td>764.9</td><td>259.27</td><td>134.58</td><td>Os11g0171300[Oryza sativa Japonica Group]</td></tr><tr><td>comp24776_c0</td><td>713.77</td><td>138.06</td><td>117.99</td><td>Mitochondrial protein, putative [Medicago truncatula]</td></tr><tr><td>comp20608_c0</td><td>638.52</td><td>123.21</td><td>180.07</td><td>PREDICTED: dnaJ protein homolog 2 [Vitis vinifera]</td></tr><tr><td>comp20205_c1</td><td>542.53</td><td>428.03</td><td>113.87</td><td>uncharacterized protein LOC100527231 [Glycine max]</td></tr><tr><td>comp17995_c0</td><td>541.63</td><td>295.51</td><td>51.11</td><td>HAP3-like protein [Citrus sinensis]</td></tr><tr><td>comp15000_c1</td><td>531.85</td><td>71.35</td><td>60.87</td><td>PREDICTED: 60S ribosomal protein L51, mitochondrial-like [Glycine max]</td></tr><tr><td>comp21138_c0</td><td>511.4</td><td>819.76</td><td>104.11</td><td>cationic peroxidase 2 precursor [Glycine max]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4397044_table_4",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    116.1,
+    685.2,
+    322.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4397044_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene id</td><td colspan=\"2\">FPKM</td><td rowspan=\"2\">Gene Description</td></tr><tr><td>0d</td><td>3d</td></tr><tr><td>comp24050_c0</td><td>0</td><td>179.85</td><td>PREDICTED: pentatricopeptide repeat-containing protein At4g02750 [Vitis vinifera]</td></tr><tr><td>comp20452_c0</td><td>0</td><td>111.27</td><td>hypothetical protein SORBIDRAFT_ 07g023110 [Sorghum bicolor]</td></tr><tr><td>comp21576_c0</td><td>0</td><td>108.91</td><td>cytokinin oxidase [Dendrobium hybrid cultivar]</td></tr><tr><td>comp15076_c0</td><td>0</td><td>61.13</td><td>trypsin inhibitor 3 [Oncidium Gower Ramsey]</td></tr><tr><td>comp21640_c0</td><td>0</td><td>60.97</td><td>Peroxidase 52 precursor, putative [Ricinus communis]</td></tr><tr><td>comp21741_c0</td><td>0</td><td>46.64</td><td>PREDICTED: probable mannitol dehydrogenase [Vitis vinifera]</td></tr><tr><td>comp19746_c0</td><td>0</td><td>38.15</td><td>RecName: Full = Probable mannitol dehydrogenase; AltName: Full = NAD-dependent mannitol cinnamyl alcohol dehydrogenase [Fragaria]</td></tr><tr><td>comp20287_c0</td><td>0</td><td>36.41</td><td>PREDICTED: uncharacterized protein LOC100243770 [Vitis vinifera]</td></tr><tr><td>comp11152_c0</td><td>0</td><td>34.58</td><td>putative UDP-glucose dehydrogenase 1 [Nicotiana tabacum]</td></tr><tr><td>comp18523_c0</td><td>0</td><td>33.57</td><td>extensin-like protein [Vigna unguiculata]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4397044_table_5",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    655.8,
+    726.7,
+    850.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4397044_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene id</td><td colspan=\"2\">FPKM</td><td rowspan=\"2\">Gene Description</td></tr><tr><td>0d</td><td>6d</td></tr><tr><td>comp24050_c0</td><td>0</td><td>274.5</td><td>PREDICTED: pentatricopeptide repeat-containing protein At4g02750 [Vitis vinifera]</td></tr><tr><td>comp20466_c0</td><td>0</td><td>184.49</td><td>4-coumarate:CoA ligase [Petunia x hybrida]</td></tr><tr><td>comp13345_c0</td><td>0</td><td>147.5</td><td>MYB transcription factor MYB92 [Elaeis guineensis]</td></tr><tr><td>comp18691_c1</td><td>0</td><td>144.65</td><td>trans-2-enoyl-CoA reductase [Phalaenopsis amabilis]</td></tr><tr><td>comp21576_c0</td><td>0</td><td>127.96</td><td>cytokinin oxidase [Dendrobium hybrid cultivar]</td></tr><tr><td>comp21741_c0</td><td>0</td><td>123.9</td><td>PREDICTED: probable mannitol dehydrogenase [Vitis vinifera]</td></tr><tr><td>comp20452_c0</td><td>0</td><td>102.5</td><td>hypothetical protein SORBIDRAFT_07g023110 [Sorghum bicolor]</td></tr><tr><td>comp22222_c0</td><td>0</td><td>70.1</td><td>PREDICTED: probable serine/threonine-protein kinase At1g18390 [Vitis vinifera]</td></tr><tr><td>comp29276_c0</td><td>0</td><td>68.39</td><td>glycolate oxidase</td></tr><tr><td>comp20432_c1</td><td>0</td><td>65.15</td><td>hypothetical protein slr1753 [Synechocystis sp. PCC 6803]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4397044_table_6",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    815.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4397044_table_6.png",
+   "html": "<table><tr><td rowspan=\"2\">Pathway Id</td><td rowspan=\"2\">Pathway name</td><td rowspan=\"2\">Background.number</td><td colspan=\"2\">Sample number</td></tr><tr><td>3d vs.0d</td><td>6d vs.0d</td></tr><tr><td colspan=\"5\">Carbohydrate metabolism</td></tr><tr><td>ko00010</td><td>Glycolysis / Gluconeogenesis</td><td>116</td><td>12</td><td></td></tr><tr><td>ko00040</td><td>Pentose and glucuronate interconversions</td><td>46</td><td>6</td><td></td></tr><tr><td>ko00620</td><td>Pyruvate metabolism</td><td>93</td><td>10</td><td></td></tr><tr><td>ko00640</td><td>Propanoate metabolism</td><td>41</td><td>6</td><td></td></tr><tr><td>ko00630</td><td>Glyoxylate and dicarboxylate metabolism</td><td>55</td><td></td><td>10</td></tr><tr><td>ko00030</td><td>Pentose phosphate pathway</td><td>55</td><td></td><td>11</td></tr><tr><td>ko00051</td><td>Fructose and mannose metabolism</td><td>67</td><td></td><td>12</td></tr><tr><td colspan=\"5\">Amino acid metabolism</td></tr><tr><td>ko00250</td><td>Alanine, aspartate and glutamate metabolism</td><td>52</td><td></td><td>9</td></tr><tr><td>ko00270</td><td>Cysteine and methionine metabolism</td><td>84</td><td></td><td>14</td></tr><tr><td>ko00360</td><td>Phenylalanine metabolism</td><td>50</td><td></td><td>13</td></tr><tr><td>ko00400</td><td>Phenylalanine, tyrosine and tryptophan biosynthesis</td><td>49</td><td></td><td>8</td></tr><tr><td>ko00480</td><td>Glutathione metabolism</td><td>67</td><td>10</td><td></td></tr><tr><td>ko00460</td><td>Cyanoamino acid metabolism</td><td>30</td><td>7</td><td></td></tr><tr><td>ko00350</td><td>Tyrosine metabolism</td><td>34</td><td>5</td><td></td></tr><tr><td colspan=\"5\">Lipid metabolism</td></tr><tr><td>ko00564</td><td>Glycerophospholipid metabolism</td><td>97</td><td>10</td><td></td></tr><tr><td>ko00565</td><td>Ether lipid metabolism</td><td>28</td><td>5</td><td></td></tr><tr><td>ko00062</td><td>Fatty acid elongation</td><td>37</td><td></td><td>9</td></tr><tr><td>ko00071</td><td>Fatty acid metabolism</td><td>66</td><td></td><td>13</td></tr><tr><td>ko00592</td><td>alpha-Linolenic acid metabolism</td><td>62</td><td></td><td>13</td></tr><tr><td colspan=\"5\">Energy metabolism</td></tr><tr><td>ko00910</td><td>Nitrogen metabolism</td><td>41</td><td>17</td><td>10</td></tr><tr><td>ko00195</td><td>Photosynthesis</td><td>71</td><td></td><td>17</td></tr><tr><td>ko00710</td><td>Carbon fixation in photosynthetic organisms</td><td>83</td><td></td><td>16</td></tr><tr><td colspan=\"5\">Biosynthesis of other secondary metabolites</td></tr><tr><td>ko00940</td><td>Phenylpropanoid biosynthesis</td><td>75</td><td>16</td><td>19</td></tr><tr><td>ko00941</td><td>Flavonoid biosynthesis</td><td>35</td><td>7</td><td>8</td></tr><tr><td>ko00945</td><td>Stilbenoid, diarylheptanoid and gingerol biosynthesis</td><td>16</td><td>4</td><td></td></tr><tr><td>ko00960</td><td>Tropane, piperidine and pyridine alkaloid biosynthesis</td><td>20</td><td>4</td><td>7</td></tr><tr><td colspan=\"5\">Translation</td></tr><tr><td>ko03008</td><td>Ribosome biogenesis in eukaryotes</td><td>156</td><td>15</td><td></td></tr><tr><td>ko03010</td><td>Ribosome</td><td>252</td><td>23</td><td></td></tr><tr><td colspan=\"5\">Signal transduction</td></tr><tr><td>ko04075</td><td>Plant hormone signal transduction</td><td>202</td><td>18</td><td></td></tr><tr><td colspan=\"5\">Metabolism of terpenoids and polyketides</td></tr><tr><td>ko00900</td><td>Terpenoid backbone biosynthesis</td><td>46</td><td>7</td><td>9</td></tr><tr><td>ko00903</td><td>Limonene and pinene degradation</td><td>25</td><td></td><td>5</td></tr><tr><td>ko00908</td><td>Zeatin biosynthesis</td><td>13</td><td>3</td><td>4</td></tr><tr><td colspan=\"5\">Transport and catabolism</td></tr><tr><td>ko04146</td><td>Peroxisome</td><td>100</td><td></td><td>14</td></tr></table>"
+  }
+ ]
+}

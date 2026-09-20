@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_207",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    367.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Evaluating Sentinel Population Potential for Early Detection of Influenza Outbreaks"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    471.8,
+    107.4
+   ],
+   "ocr": "Table 5. Number outbreaks in each set of pairs."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    114.2,
+    662.0,
+    189.8
+   ],
+   "ocr": "Pair Outbreaks per pair\nCivilian ILI/ Military Broad 58\nCivilian ILI/ Military Narrow 58\nCivilian ILI/ Military Conﬁrmed 29\nMilitary Broad/ Military Narrow 87",
+   "table_id": "PMC4938434_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    197.3,
+    725.1,
+    680.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158330.t005 Results We compared ILI definitions at each location to verify that our paired outbreak analysis was valid (see Table 6). All definitions of influenza-like-illness between countries were similar. However, differences exist within definitions of epidemiological weeks. Locations within the United States and South Korea report data in weeks that end on Saturday while Japan and Guam reported data in weeks ending on Sunday. Further, both the United States and Japan occasionally have a 53rd week, however the rules used to determine these differ between the two countries, such that the United States included a 53rd week in 2003 and 2008, while Japan included a 53rd week in 2009. Because of this January 3, 2009 is included in different weeks based on location: • United States: January 3, 2009 ended and was included the 53rd week of 2008. • Japan and Guam: January 3, 2009 was included in the 1st week of 2009, which ended on Jan- uary 4, 2009 [29]. • South Korea: January 3, 2009 ended the 1st week of 2009. Even with these variances the actual differences in data groupings vary by, at most, a one week difference. The following is an example from our data to illustrate the potential resulting bias: • Broad military outbreak in Japan (uses U.S. epidemiological week) peak: 2005 week 16 • Civilian peak in Japan (uses Japan epidemiological week) peak: 2005 week 10 • Peak difference = civilian peak—military peak = -6 weeks (i.e. the military outbreak peaked 6 weeks before its civilian pair) Table 6. Comparison of case definition, units and epidemiological week in each of the 7 locations included in analysis."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    687.2,
+    708.1,
+    894.1
+   ],
+   "ocr": "Location Deﬁnition (quoted) Unit Week\nCalifornia “any illness with fever\n(�100°F\nor 37.8°C) and cough and/or sore throat (in the absence of a % outpatient visits for ILI Sunday—\nknown cause other than inﬂuenza).” [24] Saturday\nMaryland “ILI is deﬁned as fever (temperature of 100°F [37.8°C] or greater) and a cough and/or a sore % outpatient visits for ILI Sunday—\nthroat without a KNOWN cause other than inﬂuenza” [25] Saturday\nNorth “ILI case deﬁnition is fever (100 degrees F or higher, oral or equivalent) and cough or sore % outpatient visits for ILI Sunday—\nCarolina throat.” [26] Saturday\nTexas “Inﬂuenza-like Illness (ILI) Case Deﬁnition: Fever\n(�100°F\n[37.8°C], oral or equivalent), % outpatient visits for ILI Sunday—\nCough and/or sore throat, Without a known cause other than inﬂuenza” [27] Saturday\nGuam “Sudden onset of fever, a with cough and/or sore throat” [28] raw case count Saturday—\nSunday\nJapan “ILI was deﬁned as sudden onset of fever (38.0°C) with cough or sore throat in the absence ILI cases per sentinel per Saturday—\nof other diagnoses.” [29] week Sunday\nSouth “presence of (1) body temperature 38°C and (2) cough or rhinorrhea” [30] ILI cases per 1000 visits at Sunday—\n�\nKorea sentinel locations Saturday",
+   "table_id": "PMC4938434_table_5"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    901.6,
+    186.2,
+    913.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158330.t006"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158330 July 8, 2016 7 / 14"
+  }
+ }
+}

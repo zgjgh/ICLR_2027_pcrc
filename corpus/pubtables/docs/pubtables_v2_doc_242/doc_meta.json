@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_242",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5784971_table_0",
+   "page_num": 1,
+   "bbox": [
+    54.9,
+    651.5,
+    713.4,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5784971_table_0.png",
+   "html": "<table><tr><td>No.</td><td>Reservoir</td><td>Abbr.</td><td>Normal water level (m)</td><td>Dead water level (m)</td><td>Design water head (m)</td><td>Total storage (108 m3)</td><td>Installed capacity (MW)</td></tr><tr><td>1</td><td>Banduo</td><td>BD</td><td>2760</td><td>2757</td><td>35.5</td><td>0.108</td><td>360</td></tr><tr><td>2</td><td>Longyangxia</td><td>LYX</td><td>2600</td><td>2530</td><td>122</td><td>247</td><td>1280</td></tr><tr><td>3</td><td>Laxiwa</td><td>LXW</td><td>2452</td><td>2440</td><td>205</td><td>10.79</td><td>4200</td></tr><tr><td>4</td><td>Nina</td><td>NN</td><td>2235.5</td><td>2231</td><td>14</td><td>0.262</td><td>160</td></tr><tr><td>5</td><td>Lijiaxia</td><td>LIJX</td><td>2180</td><td>2178</td><td>122</td><td>16.5</td><td>2000</td></tr><tr><td>6</td><td>Zhiganglaka</td><td>ZGLK</td><td>2050</td><td>2048</td><td>12.5</td><td>0.154</td><td>192</td></tr><tr><td>7</td><td>Kangyang</td><td>KY</td><td>2033</td><td>2031</td><td>18.7</td><td>0.288</td><td>280</td></tr><tr><td>8</td><td>Gongboxia</td><td>GBX</td><td>2005</td><td>2002</td><td>99.3</td><td>5.50</td><td>1500</td></tr><tr><td>9</td><td>Suzhi</td><td>SZ</td><td>1900</td><td>1897.5</td><td>16</td><td>0.455</td><td>225</td></tr><tr><td>10</td><td>Huangfeng</td><td>HF</td><td>1880.5</td><td>1878.5</td><td>16</td><td>0.59</td><td>220</td></tr><tr><td>11</td><td>Jishixia</td><td>JSX</td><td>1856</td><td>1852</td><td>73</td><td>2.38</td><td>1020</td></tr><tr><td>12</td><td>Dahejia</td><td>DHJ</td><td>1783</td><td>1782</td><td>9.2</td><td>0.039</td><td>142</td></tr><tr><td>13</td><td>Liujiaxia</td><td>LJX</td><td>1735</td><td>1694</td><td>100</td><td>57</td><td>1350</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5784971_table_1",
+   "page_num": 2,
+   "bbox": [
+    252.3,
+    516.4,
+    721.1,
+    873.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5784971_table_1.png",
+   "html": "<table><tr><td>No.</td><td>Scripts</td><td>Explanation</td></tr><tr><td>1</td><td>TAKE MODEL. lng SET GLOBAL 0 SET MULTIS 0 GO QUIT</td><td>Selects the General Solver to solve the model stored in MODEL.lng</td></tr><tr><td>2</td><td>TAKE MODEL. lng SET GLOBAL 1 SET MULTIS 0 SET MTMODE 1 SET NTHRDS NT SET TIMLIM 3600 GO QUIT</td><td>Selects the Global Solver (the multi-thread mode is used, and the number of threads is NT) to solve the model stored in MODEL.lng and terminates the process after 3600 s</td></tr><tr><td>3</td><td>TAKE MODEL. lng SET GLOBAL 0 SET MULTIS NS SET MTMODE 1 SET NTHRDS NT GO QUIT</td><td>Selects the Multi-start Solver (the number of starting points is NS; the multi-thread mode is used, and the number of threads is NT) to solve the model stored in MODEL.lng</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5784971_table_2",
+   "page_num": 3,
+   "bbox": [
+    59.8,
+    116.3,
+    708.5,
+    193.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5784971_table_2.png",
+   "html": "<table><tr><td>Year</td><td>2000 -2001</td><td>2001 -2002</td><td>2002 -2003</td><td>2003 -2004</td><td>2004 -2005</td><td>2005 -2006</td><td>2006 -2007</td><td>2007 -2008</td><td>2008 -2009</td><td>2009 -2010</td></tr><tr><td>Runoff (108 m3)</td><td>146.2</td><td>130.7</td><td>97.1</td><td>176.2</td><td>167.2</td><td>245.4</td><td>151.0</td><td>173.0</td><td>204.3</td><td>251.3</td></tr><tr><td>Frequency (%)</td><td>86</td><td>92</td><td>99</td><td>67</td><td>71</td><td>22</td><td>82</td><td>66</td><td>45</td><td>19</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5784971_table_3",
+   "page_num": 4,
+   "bbox": [
+    48.8,
+    757.9,
+    723.8,
+    851.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5784971_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Solver settings</td><td rowspan=\"2\">General Solver</td><td rowspan=\"2\">Global Solver Thread(s) = 2</td><td colspan=\"6\">Multi-start Solver</td></tr><tr><td>Starting point(s) = 2, Thread(s) = 1</td><td>Starting point(s) = 2, Thread(s) = 2</td><td>Starting point(s) = 4, Thread(s) = 1</td><td>Starting point(s) = 4, Thread(s) = 2</td><td>Starting point(s) = 6, Thread(s) = 2</td><td>Starting point(s) = 6, Thread(s) = 3</td></tr><tr><td>Runtime (s)</td><td>180</td><td>3600a</td><td>304</td><td>201</td><td>994</td><td>465</td><td>949</td><td>1036</td></tr><tr><td>Objective</td><td>3649.02</td><td>Objective bound = 3690.03</td><td>3649.02</td><td>3649.02</td><td>3649.02</td><td>3649.02</td><td>3649.02</td><td>3649.02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5784971_table_4",
+   "page_num": 5,
+   "bbox": [
+    74.0,
+    110.7,
+    694.3,
+    359.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5784971_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Scenario</td><td rowspan=\"2\">Firm output (MW)</td><td colspan=\"4\">Annual average energy production (108 KWh)</td></tr><tr><td>LYX</td><td>LJX</td><td>13-reservoir system</td><td>12-reservoir system</td></tr><tr><td>S0</td><td>3110 (59.2%)</td><td>45.7</td><td>50.8</td><td>356.8</td><td>306.0</td></tr><tr><td>S1</td><td>2310</td><td>51.9</td><td>52.1</td><td>364.9</td><td>312.8</td></tr><tr><td>S2</td><td>2410</td><td>51.8</td><td>52.1</td><td>364.8</td><td>312.7</td></tr><tr><td>S3</td><td>2510</td><td>51.7</td><td>52.0</td><td>364.6</td><td>312.6</td></tr><tr><td>S4</td><td>2610</td><td>51.5</td><td>51.9</td><td>364.4</td><td>312.4</td></tr><tr><td>S5</td><td>2710</td><td>51.4</td><td>51.8</td><td>364.1</td><td>312.3</td></tr><tr><td>S6</td><td>2810</td><td>50.8</td><td>51.9</td><td>363.6</td><td>311.7</td></tr><tr><td>S7</td><td>2910</td><td>49.9</td><td>52.0</td><td>362.8</td><td>310.8</td></tr><tr><td>S8</td><td>3010</td><td>48.8</td><td>52.1</td><td>361.8</td><td>309.7</td></tr><tr><td>S9</td><td>3110</td><td>47.4</td><td>51.9</td><td>360.3</td><td>308.3</td></tr><tr><td>S10</td><td>3210 (97.8%)a</td><td>46.7</td><td>51.9</td><td>359.6</td><td>307.6</td></tr><tr><td>S11</td><td>3310 (95.6%)</td><td>45.7</td><td>51.9</td><td>358.5</td><td>306.6</td></tr><tr><td>S12</td><td>3410 (93.3%)</td><td>44.5</td><td>51.7</td><td>357.1</td><td>305.4</td></tr><tr><td>S13</td><td>3510 (90.6%)</td><td>44.2</td><td>51.2</td><td>356.3</td><td>305.1</td></tr></table>"
+  }
+ ]
+}

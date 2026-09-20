@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_440",
+  "page": 2,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    58.9,
+    54.7,
+    648.3,
+    70.5
+   ],
+   "ocr": "Sensors 2015, 15 8275"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    421.3,
+    648.6,
+    607.0
+   ],
+   "ocr": "Figure 7. Dispersion curve of the experimental plates (A0: flexural mode, S0: extensional mode; Solid line: 302 steel, Dotted line: magnesium aluminum alloy). Numerous experiments have been conducted on the two kinds of plate, and the orientation results are analyzed using A0 mode, S0 mode, and A0&S0 mode, respectively; the results are shown in Table 2. They indicate that the A0 mode has a greater contribution to the orientation result than the S0 mode, and a highly accurate result can be obtained by only considering the A0 mode alone, thus the S0 mode is neglected in the experiments. Table 2. The orientation results in different modes."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    90.1,
+    620.5,
+    621.4,
+    717.8
+   ],
+   "ocr": "302 Steel Magnesium Aluminum Alloy\nMode Used\nMean Error (°) Variance Mean Error (°) Variance\nA0 mode 0.29 1.9039 0.1925 1.252178\nS0 mode 6.04 388.8854 11.7425 700.4788\nA0&S0 mode 0.28 3.1546 0.54 3.206737",
+   "table_id": "PMC4431251_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    740.0,
+    648.7,
+    891.1
+   ],
+   "ocr": "4.2. Sizing of the Array According to Equation (11), the greater the number of sensors in an array, the higher the orientation accuracy that can be achieved. In order to find the relationship between the number of sensors and orientation accuracy, the array has been rotated one degree at a time to apply small changes to the relative angle between the leakage source and the array. For each rotation the data have been acquired. Figure 8 plots the curve of orientation errors depending on the position of the array with respect to the leakage source, for different numbers of sensors."
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_011",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "In the context of evaluating patient well-being, the data presented in the accompanying table provides critical insights into various indices of health status, specifically focusing on fatigue levels and their variability among individuals. The table includes key metrics such as Indexmean and Indexvariability, which collectively offer a nuanced understanding of patient experiences."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    171
+   ],
+   "ocr": "The Indexmean provides an average measure of fatigue levels, serving as a benchmark for assessing overall patient fatigue within the studied cohort. Conversely, the Indexvariability metric highlights the extent of fluctuations in fatigue levels among patients, which can indicate differing responses to treatment or varying degrees of underlying health conditions. Understanding these metrics is essential for clinicians and researchers as they develop targeted interventions aimed at improving patient quality of life."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    188.0,
+    580.0,
+    528.0
+   ],
+   "ocr": "Patient ID Indexmean Indexvariability Indexfatigue\n1 0.00 0.67 0.33\n2 0.83 0.67 0.75\n3 0.75 0.58 0.67\n4 0.42 0.42 0.42\n5 0.58 0.58 0.58\n6 0.42 0.25 0.33\n7 0.67 0.42 0.54\n8 0.58 0.67 0.63\n9 0.58 0.50 0.54\n10 0.67 0.50 0.58\n11 0.75 0.33 0.54\n12 0.92 0.92 0.92\n13 0.58 0.33 0.46\n14 0.50 0.58 0.54\nMean 0.59 0.53 0.56\nSD 0.22 0.17 0.16",
+   "table_id": "img_011229_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    544,
+    580,
+    572
+   ],
+   "ocr": "For instance, a low Indexmean coupled with high Indexvariability may signal a need for personalized treatment plans that address individual patient needs more effectively."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    560,
+    580,
+    602
+   ],
+   "ocr": "By delving into these specific indices, healthcare professionals can gain valuable insights that guide clinical decision-making and enhance patient outcomes in the context of fatigue management. The data should be interpreted with careful consideration of these metrics to inform future research and clinical practice effectively."
+  }
+ }
+}

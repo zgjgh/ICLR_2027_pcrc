@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_349",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    298.1,
+    65.8
+   ],
+   "ocr": "Benton et al. BMC Bioinformatics 2011, 12(Suppl 3):S2 http://www.biomedcentral.com/1471-2105/12/S3/S2"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 10"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    317.7
+   ],
+   "ocr": "document-specific words are in fact names. At the level of a thread, these are most likely the names of the users parti- cipating in that thread. At the level of a particular user, they would likely be their own name and other users that they frequently converse with. We use the term frequency- inverse document frequency metric (tf-idf) in two ways: by treating all messages that belong to a particular message board as a document, and by treating all messages that a particular user posts as a document. Each token in the document is ranked by its tf-idf value and its rank is included in the feature vector (e.g., inTop1%=TRUE). Tf-idf is defined as follows: tf"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.6,
+    651.2
+   ],
+   "ocr": "– Not likely to be names: hugs, tx, onc, dh Another virtue of this type of metric is that it tends to assign higher values to names that are rarer in general and may not occur in the proper name or even user- name lists. A similar feature that takes advantage of the fact that a particular name will occur multiple times in a particular document but not throughout the corpus was used by Minkov, Wang, and Cohen to identify names in e-mail messages [14]. We also used the likelihood that a token would appear near the beginning or end of a paragraph over the entire corpus scaled by the logarithm of the number of times that token appeared in the corpus as a feature. This was used to take advantage of the fact that although a parti- cular name may not be used to end a message or greet another user at its current location, perhaps it has been frequently used in this manner in other messages. Table 2 provides an overview of the feature set that our system uses and lists examples of each feature type. Identifying names Once feature vectors were generated for each token, a CRF name classifier was run over the tokens to estimate the marginal tag probabilities for each particular token. This corresponds to step 2 in Fig. 1. A CRF [15] is a discriminative probabilistic model that has been widely used in natural language processing in order to tag sequences. The particular name classifier that we used was trained on a 1,000-message sample from the BC corpus containing a total of 91,344 tokens, 822 proper names, and 682 usernames. Post-processing After returning tag probabilities for each token, any token with a cumulative probability greater than 0.05 of being either a proper name or username was tagged as a"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    90.3,
+    310.1,
+    366.1,
+    346.9
+   ],
+   "ocr": "i , j tfidf = i , j (1) N log n i"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    140.4,
+    371.7,
+    155.0,
+    388.2
+   ],
+   "ocr": "c i , j"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    90.3,
+    380.1,
+    117.9,
+    396.1
+   ],
+   "ocr": "tf ="
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    129.9,
+    386.5,
+    147.9,
+    419.4
+   ],
+   "ocr": "∑"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    97.5,
+    387.3,
+    366.1,
+    401.0
+   ],
+   "ocr": "i , j (2)"
+  },
+  "p2_b9": {
+   "type": "title",
+   "bbox": [
+    155.7,
+    395.8,
+    161.2,
+    409.7
+   ],
+   "ocr": "c"
+  },
+  "p2_b10": {
+   "type": "title",
+   "bbox": [
+    161.0,
+    402.1,
+    172.5,
+    412.3
+   ],
+   "ocr": "k , j"
+  },
+  "p2_b11": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    407.3,
+    366.2,
+    687.2
+   ],
+   "ocr": "k where tfi,j is the frequency of a particular token i within a document j normalized by the square-root of the total number of tokens within j, N is the total num- ber of documents within the corpus, and ni is the total number of documents that contain at least one instance of token i. This metric favors terms that occur many times within the current document, but occur in very few other documents. The list below shows the top 25 tokens when ranking by tf-idf in the http://breastcancer. org message board, which is one of 12 different message board sites that comprise the BC corpus. – Likely names (obvious name or variant in username dictionary): mjb, shirlann, mena, nicki, barbe, marsha, rav- deb, lisa, shokk, hippie96321, laura, odalys, jankay, harley, kaygirl, janiemarie, ginadcnj, spar, vickie, binney, luann Table 2 Overview of features used by our system"
+  },
+  "p2_b12": {
+   "type": "table",
+   "bbox": [
+    99.9,
+    692.2,
+    650.2,
+    916.0
+   ],
+   "ocr": "Feature Example\nMMB non-structure features\ntoken Kathy\ntoken lower-cased kathy\nlength 5\ncase isLower=True, isCapitalized=False, …\nsuffix/prefix suffix2=hy, prefix2=ka, suffix3=thy, …\ndistance from beginning/end w/in1FromEdge=True, w/in2FromEdge=True, …\nin word list isProperName=True, isCommon=False, isUsername=False, …\npossibly in word list editDist1ProperName=True, editDist2ProperName=True, …\nAlso include features of two previous and following tokens …\nMMB structure features\ntf-idf over message boards inTop10=False, inTop1%=False, …\ntf-idf over user posts InTop10=False, inTop1%=True, ...\nborder of paragraph likelihood inTop5=True, inTop10%=True, ...",
+   "table_id": "PMC3111588_table_1"
+  }
+ }
+}

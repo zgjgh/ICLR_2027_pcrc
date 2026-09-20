@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_239",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    529.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Integrated predictor of coronary heart disease"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.7,
+    719.3,
+    119.9
+   ],
+   "ocr": "Table 3. Integrated genetic-epigenetic training metrics. The 10-fold cross-validation performance metrics of the eight integrated genetic-epigenetic models within the ensemble on the training set."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.5,
+    631.4,
+    266.0
+   ],
+   "ocr": "Model Accuracy AUC Sensitivity Specificity\n1 0.78±0.09 0.82±0.09 0.79±0.12 0.77±0.08\n2 0.75±0.05 0.83±0.06 0.78±0.10 0.72±0.08\n3 0.79±0.05 0.85±0.07 0.83±0.07 0.76±0.08\n4 0.78±0.07 0.84±0.07 0.79±0.12 0.76±0.07\n5 0.75±0.06 0.78±0.06 0.70±0.09 0.79±0.09\n6 0.70±0.05 0.77±0.05 0.70±0.12 0.70±0.10\n7 0.80±0.06 0.87±0.04 0.82±0.08 0.77±0.07\n8 0.78±0.06 0.85±0.05 0.82±0.07 0.74±0.08",
+   "table_id": "PMC5749823_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    273.1,
+    726.8,
+    463.3
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190549.t003 parameters, all eight models were re-fitted to the training dataset. The performance metrics (mean and standard deviations) of these stratified 10-fold cross-validated models are shown in Table 3. As depicted in this table, the accuracy ranges from 70–80% between these eight mod- els, which is between a 20–30% increase from the 50% accuracy baseline. More importantly, the sensitivity of the model ranged from 70–82%, while the specificity ranged from 70–79%. The ROC AUC of the eight models ranged from 0.77–0.87. The 10-fold ROC AUC of the best performing model (model 7) is shown in Fig 2. All eight models were saved for testing on the test dataset (n = 142). An ensemble of the eight models was used to perform CHD classification in the test dataset. An individual was classified as having CHD if at least four of the eight models voted in favor of"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    860.1,
+    698.2,
+    901.7
+   ],
+   "ocr": "Fig 2. Integrated genetic-epigenetic model ROC curve. The Receiver Operating Characteristic curves of the integrated genetic-epigenetic model with the largest average 10-fold cross-validation area under the curve value. https://doi.org/10.1371/journal.pone.0190549.g002"
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190549 January 2, 2018 9 / 18"
+  }
+ }
+}

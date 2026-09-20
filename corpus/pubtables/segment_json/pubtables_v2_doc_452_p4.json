@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_452",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Katayama et al. BMC Genomics (2015) 16:476 Page 11 of 14"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    678.6,
+    166.0
+   ],
+   "ocr": "Table 5 Most significant gene sets enriched in PC2 correlating be revealed by our approach. Moreover, PCA without genes. (a) Table is a subset of gene sets (ten out of 23) sample pre-classification might be applied in studying significantly (FDR q-value < 1 %) enriched in PC2 positively gene expression in complex disorders using a large enough correlating genes, which were upregulated in EKCs, by PC-GSEA"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    156.5,
+    419.4,
+    170.2
+   ],
+   "ocr": "cohort."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    167.2,
+    355.4,
+    193.7
+   ],
+   "ocr": "(for full data, see Additional file 10: Table S7). (b) Table is gene sets significantly enriched in PC2 negatively correlating genes,"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    185.9,
+    434.6,
+    200.7
+   ],
+   "ocr": "Methods"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    194.9,
+    669.8,
+    215.5
+   ],
+   "ocr": "which were upregulated in HaCaTs. SIZE is number of genes Sample collection, cell culture, RNA extraction, and STRT"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    208.8,
+    348.5,
+    221.4
+   ],
+   "ocr": "belonging the gene set. NES is normalized enrichment score"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    226.4,
+    366.1,
+    494.9
+   ],
+   "ocr": "Name SIZE NES FDR q-val\n(a)\nPUJANA_BRCA_CENTERED_NETWORK 117 1.909 0.00492\nZHANG_TLX_TARGETS_UP 89 1.875 0.00885\nBURTON_ADIPOGENESIS_PEAK_AT_16H 40 1.873 0.00590\nPUJANA_XPRSS_INT_NETWORK 168 1.869 0.00467\nZHANG_TLX_TARGETS_36HR_DN 185 1.868 0.00394\nEGUCHI_CELL_CYCLE_RB1_TARGETS 23 1.856 0.00476\nREACTOME_TRANSPORT_OF_MATURE_ 52 1.846 0.00436\nTRANSCRIPT_TO_CYTOPLASM\nABRAMSON_INTERACT_WITH_AIRE 44 1.845 0.00394\nGOLUB_ALL_VS_AML_UP 24 1.841 0.00383\nZHANG_TLX_TARGETS_60HR_DN 275 1.839 0.00374\n(b)\nMIKKELSEN_ES_HCP_WITH_H3K27ME3 35 2.441 0.00000\nREACTOME_XENOBIOTICS 15 2.345 0.00851",
+   "table_id": "PMC4480911_table_4"
+  },
+  "p4_b8": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    685.6,
+    678.5,
+    699.4
+   ],
+   "ocr": "pyruvate solution, 0.1 mM non-essential amino acids,"
+  },
+  "p4_b9": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    721.4,
+    366.1,
+    919.2
+   ],
+   "ocr": "Gene symbol Score Local FDR polyA + RNA binding\n[PMID: 22658674]\nPRPF8 −0.885 0.00006 ✓\nAPOL6 −0.826 0.00018\nCCDC15 −0.826 0.00018\nTTF1 −0.823 0.00019\nZC3H11A −0.813 0.00021 ✓\nNUCKS1 −0.809 0.00021 ✓\nPCBP2 −0.808 0.00021 ✓\nH2AFV −0.804 0.00022\nRBBP7 −0.500 0.00023\nHMGN2 −0.798 0.00023 ✓",
+   "table_id": "PMC4480911_table_5"
+  }
+ }
+}

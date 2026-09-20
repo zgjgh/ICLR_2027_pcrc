@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_017",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The data presented in the accompanying table provides a comprehensive overview of the insertion characteristics of various clones, specifically focusing on the clone identified as 13d11E (SlAP3X). This clone is categorized under the \"Unknown\" type, indicating that its functional role or origin remains undetermined."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "Notably, the table outlines critical metrics such as the \"Start\" and \"End\" positions, which for 13d11E are recorded at 8721 bp and 14,676 bp, respectively. These values are essential for understanding the genomic context of the insertion, as they delineate the specific region impacted by the clone."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    537.0
+   ],
+   "ocr": "BLASTN\nClone ID Type Start, bp End, bp Length, bp Left LTR Length, bp E-value Identity, % K (SE) Estimated Insertion Time, MYA (SE)\n13d11E (SlAP3X) 1 Unknown 8721 14,676 5956 1548 0 99 0.0065 (0.0021) 0.18 (0.057)\n2 Unknown 23,393 29,638 6246 1387 0 99 0.011 (0.0028) 0.30 (0.079)\n3 Gypsy 54,004 70,569 10,886 715 0 99 0.0080 (0.0057) 0.22 (0.16)\n4 Unknown 58,455 64,134 5680 1450 0 96 0.027 (0.0044) 0.74 (0.12)\n5 Copia 74,749 79,514 4766 169 7E−65 93 0.045 (0.017) 1.2 (0.48)\n6 Copia 88,141 92,782 4642 208 5E−86 95 0.057 (0.018) 1.6 (0.50)\n7a8D (SlAP3Y) 7 Unknown 12,651 32,108 14,093 366 4E−153 94 0.044 (0.012) 1.2 (0.32)\n8 Unknown 21,888 27,252 5365 1670 0 99 0.0030 (0.0013) 0.083 (0.037)\n9 Gypsy 36,730 58,367 12,663 1538 0 97 0.022 (0.0039) 0.62 (0.11)\n10 Gypsy 45,305 54,279 7770 1345 0 97 0.024 (0.0043) 0.65 (0.12)",
+   "table_id": "img_018136_t0"
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    553,
+    580,
+    596
+   ],
+   "ocr": "Additionally, the \"Length\" metric, calculated as the difference between these two positions, provides insight into the size of the insertion, which is a crucial factor in assessing its potential biological implications. Other important metrics, including the \"E- value\" and \"Identity,\" further contribute to evaluating the significance of this insertion event."
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    584,
+    580,
+    627
+   ],
+   "ocr": "Overall, this table serves as a pivotal resource for researchers investigating the genetic landscape associated with 13d11E, facilitating deeper analyses of its potential roles in genomic variation and evolutionary dynamics."
+  }
+ }
+}

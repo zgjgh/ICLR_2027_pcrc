@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_404",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    708,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    708,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3545588_table_0",
+   "page_num": 1,
+   "bbox": [
+    127.2,
+    594.3,
+    546.4,
+    662.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3545588_table_0.png",
+   "html": "<table><tr><td>Types</td><td>Features</td></tr><tr><td>Time domain</td><td>RMS, SRA, KV, SV, PPV, CF, IF, MF, SF, KF</td></tr><tr><td>Frequency domain</td><td>FC, RMSF, RVF</td></tr><tr><td>Time-frequency domain</td><td>WPNE(4,1), WPNE(4,2), &#8230; , WPNE(4,16)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3545588_table_1",
+   "page_num": 2,
+   "bbox": [
+    87.4,
+    439.3,
+    592.7,
+    526.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3545588_table_1.png",
+   "html": "<table><tr><td>Datasets</td><td>Number</td><td>Fault type and diameter</td><td>Description</td></tr><tr><td>D_IRF</td><td>500</td><td>Normal, IRF07, IRF14, IRF21, IRF28</td><td>inner race fault severity</td></tr><tr><td>D_ORF</td><td>400</td><td>Normal, ORF07, ORF14, ORF21</td><td>outer race fault severity</td></tr><tr><td>D_BF</td><td>500</td><td>Normal, BF07, BF14, BF21, BF28</td><td>ball fault severity</td></tr><tr><td>D_MIX</td><td>400</td><td>Normal, IRF14, ORF14, BF14</td><td>mixed fault classification</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3545588_table_2",
+   "page_num": 3,
+   "bbox": [
+    111.0,
+    569.2,
+    593.7,
+    762.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3545588_table_2.png",
+   "html": "<table><tr><td>Features</td><td>Normal</td><td>IRF14</td><td>ORF14</td><td>BF14</td></tr><tr><td>RMS</td><td>0.073 &#177; 0.003</td><td>0.194 &#177; 0.017</td><td>0.100 &#177; 0.004</td><td>0.141 &#177; 0.054</td></tr><tr><td>SRA</td><td>0.050 &#177; 0.003</td><td>0.0878 &#177; 0.007</td><td>0.068 &#177; 0.003</td><td>0.080 &#177; 0.023</td></tr><tr><td>KV</td><td>2.760 &#177; 0.192</td><td>22.252 &#177; 5.486</td><td>3.003 &#177; 0.237</td><td>6.509 &#177; 4.491</td></tr><tr><td>SV</td><td>&#8722;0.032 &#177; 0.098</td><td>&#8722;0.050 &#177; 0.187</td><td>&#8722;0.001 &#177; 0.066</td><td>0.052 &#177; 0.196</td></tr><tr><td>PPV</td><td>0.419 &#177; 0.031</td><td>3.028 &#177; 0.390</td><td>0.645 &#177; 0.069</td><td>1.408 &#177; 0.844</td></tr><tr><td>CF</td><td>3.038 &#177; 0.289</td><td>8.079 &#177; 0.937</td><td>3.411 &#177; 0.344</td><td>5.061 &#177; 1.291</td></tr><tr><td>IF</td><td>3.770 &#177; 0.389</td><td>13.603 &#177; 1.797</td><td>4.277 &#177; 0.448</td><td>7.134 &#177; 2.533</td></tr><tr><td>MF</td><td>4.429 &#177; 0.480</td><td>17.870 &#177; 2.389</td><td>5.051 &#177; 0.536</td><td>8.907 &#177; 3.571</td></tr><tr><td>SF</td><td>1.240 &#177; 0.015</td><td>1.682 &#177; 0.060</td><td>1.254 &#177; 0.012</td><td>1.382 &#177; 0.130</td></tr><tr><td>KF</td><td>2.755 &#177; 0.198</td><td>20.998 &#177; 5.237</td><td>3.000 &#177; 0.220</td><td>6.508 &#177; 4.492</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3545588_table_3",
+   "page_num": 4,
+   "bbox": [
+    124.3,
+    514.1,
+    577.0,
+    600.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3545588_table_3.png",
+   "html": "<table><tr><td>Datasets</td><td>OF29</td><td>PCA</td><td>FA</td><td>LPP</td><td>SR</td></tr><tr><td>D_MIX</td><td>0.9882</td><td>0.9881</td><td>0.9457</td><td>0.9893</td><td>0.9987</td></tr><tr><td>D_IRF</td><td>0.9678</td><td>0.9676</td><td>0.9331</td><td>0.9793</td><td>0.9876</td></tr><tr><td>D_ORF</td><td>0.9716</td><td>0.9715</td><td>0.9536</td><td>0.9782</td><td>0.9829</td></tr><tr><td>D_BF</td><td>0.9194</td><td>0.9191</td><td>0.9085</td><td>0.9324</td><td>0.9571</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3545588_table_4",
+   "page_num": 5,
+   "bbox": [
+    77.3,
+    641.3,
+    623.4,
+    763.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3545588_table_4.png",
+   "html": "<table><tr><td>Methods</td><td>Computational time (s)</td><td>Training accuracy rate (%)</td><td>Testing accuracy rate (%)</td></tr><tr><td>SR</td><td>2.509</td><td>0.9012</td><td>0.8426</td></tr><tr><td>PCA</td><td>4.296</td><td>0.8163</td><td>0.7231</td></tr><tr><td>FA</td><td>6.348</td><td>0.7615</td><td>0.6912</td></tr><tr><td>LPP</td><td>4.973</td><td>0.8651</td><td>0.7984</td></tr><tr><td>LE</td><td>4.397</td><td>0.8425</td><td>0.7661</td></tr><tr><td>LDA</td><td>7.242</td><td>0.8987</td><td>0.8214</td></tr></table>"
+  }
+ ]
+}

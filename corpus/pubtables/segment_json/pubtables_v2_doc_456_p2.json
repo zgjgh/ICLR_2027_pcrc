@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_456",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    460.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Laying-Related SNP Markers and RAD Sequencing in Goose"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    543.5,
+    107.4
+   ],
+   "ocr": "Table 2. Restriction-site associated DNA (RAD) sequencing statistics of EcoRI library from two DNA pools."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    162.7
+   ],
+   "ocr": "Sample Clean Data Clean Reads Number RAD-tag number Average Depth\nLEBV 1,727.02Mb 18,771,943 884,827 17.33\nHEBV 2,163.79Mb 23,519,413 942,117 20.47",
+   "table_id": "PMC4504669_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    170.8,
+    727.1,
+    538.9
+   ],
+   "ocr": "doi:10.1371/journal.pone.0131572.t002 884,827 and 942,117 for LEBV and HEBV respectively. The sequencing depth per group is 17.33× and 20.47× respectively, with average sequencing depth of 18.9×. After the filtering steps, a total of 139,013 SNP were detected. Only the SNP distributed from position 6 to 90 were chose for further analysis, since the polymorphisms beyond this region were more sub- jected to common sequencing errors. Of all SNP, 338 were triallelic. The remaining 138,675 SNP were biallelic and consisted of 52.97% transitions and 47.03% transversions, providing a transition/transversion (ts/tv) ratio of 1.10. The number of A/G substitution (38,549)almost equaled the number of C/T substitution (34,226) in the transitions class, while G/T (31,622) transversions exceeded A/C (12,384), A/T (13,078) and C/G (8,816) transversions. Discovery of Laying-Related SNPs The differences of allelic frequencies betweenLEBVandHEBV pools were analyzed by chi- square tests for all 138,675 SNP of RAD sequencing. After Bonferroni adjustment, 467 SNP were significant (p<3.69×10−7). Individual-based genotyping were performed for all LEBV and HEBV geese by allele specific-PCR. Totally, 55 SNP could be stably genotyped by this method (S1 Table). The results of further individual-based genotyping showed that 10 out of 55 SNP had significant (p<0.00024–4.19×10−8) different allelic frequencies in the LEBV and HEBV cohorts (Table 3). Table 3. Allelic frequencies distribution between LEBV and HEBV cohorts."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    547.7,
+    726.6,
+    878.4
+   ],
+   "ocr": "4.19×10−8\nSNP primer genotype HEBV (Allele frequencies) LEBV (Allele frequencies) P value\nAATTCTTGCCTAAATAAC(A/G) G/A 0.10/0.90 1.0/0\nRecord-106975\n3.34×10−6\nACACATTGATGCTGCAAATT\nGCTGACAGCTCATTTGAT(A/T) A/T 1.0/0 0.30/0.70\nRecord-134172\n7.71×10−7\nCAGGATCACGTCCTCAAC\nGAAGCGCCTGGTGGCCTCACC(T/G) T/G 0/1.0 0.80/0.20\nRecord-112359\n1.66×10−5\nTACCTGCCTGAGAGATGGAGTGTTGG\nTTCAGGGAACTCAAACTATA(C/A) C/A 0.20/0.80 0.90 /0.10\nRecord-106582\n4.51×10−5\nCTCACGTGGCCTCTACAA\nTTTTGGCCGTGGTTTCC(T/A) T/A 0.40/0.60 1.0/0\nRecord-111407\n2.44×10−4\nATCAGACCCGTGGTGGAAC\nCTGTGTTGATATTTTCTGATAGTA T/C 0.70/0.30 0.10/0.90\nRecord-135849\n2.20×10−5\nTGTTTAGCAGGAGCACAA(T/C)\nAGAGAATTTAGTCATATTTGGGT G/A 0.21/0.79 0.85/0.15\nRecord-88247\n6.34×10−6\nTAATTTGGACTCAATCAAAA(C/T)\nCAGGGGGATTCTAGTAGTTTCCT G/A 0.14/0.86 0.80/0.20\nRecord-135057\n1.02×10−6\nTCACTGCTGCAGACACGCA(T/C)\nAGTTACATTTAAAAGTGTCTGGTC G/A 0.75/0.25 0.05/0.95\nRecord-130652\n4.63×10−10\nCGATCAAAACAAATGGTAGAC(C/T)\nCAGGGGGATTCTAGTAGTTTCCT A/G 0.96/0.04 0.10/0.90\nRecord-130775\nTCACTGCTGCAGACACGCA(T/C)",
+   "table_id": "PMC4504669_table_2"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.5,
+    186.2,
+    897.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0131572.t003"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0131572 July 16, 2015 6 / 19"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_207",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    367.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Evaluating Sentinel Population Potential for Early Detection of Influenza Outbreaks"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    89.4,
+    587.4,
+    726.0,
+    666.7
+   ],
+   "ocr": "Fig 1. Data processing and related tools/ software. This figure illustrates how each dataset was transformed from the raw data to the processed data used in analyses. Starting points for raw data are shown in blue. Each box indicates a dataset at some stage of processing (e.g. a ‘noun’). Each arrow corresponds to the tools and actions used to transform one dataset into another (e.g. the ‘verb’ acting on the dataset ‘noun’) and is numbered to correspond with the text narrative. Dataset names correspond to those used above. Ultimately, all data was converted into time series of %ILI or confirmed cases. Then outbreaks from the same season were paired based on geographic proximity and analyzed. doi:10.1371/journal.pone.0158330.g001"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    697.4,
+    704.6,
+    709.3
+   ],
+   "ocr": "Table 3. Examples of free text test result responses that were scored ‘Positive’ and ‘Not Positive’."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    716.2,
+    715.3,
+    883.3
+   ],
+   "ocr": "Positive Not Positive\n01 MAR 2011: POSITIVE FOR “PRESUMPTIVE NEGATIVE” FOR INFLUENZA A/B\nINFLUENZA A BY DFA.\nPOSIITVE FOR INFLUENZA A AG [sic] POSITIVE, PERFORMANCE CONTROLS VALID [No\nmention of Inﬂuenza A]\nATHE PATIENT HAS INFLUENZA A [sic] TEST NEGATIVE FOR INFLUENZA A.\nTYPE A POSITIVE 9/10 PRESUMPTIVE POSITIVE FOR INFLUENZA A. SENT\nTO REFERENCE FOR [sic; ‘presumptive’ and ‘probable’\npositives were excluded]\n13 MAY 09: SWINE INFLUENZA A (H1N1) NEG\nDETECTED BY DOH RT-PCR.\nH1 NOTDETECTED [sic]",
+   "table_id": "PMC4938434_table_2"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    890.8,
+    393.3,
+    902.2
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158330.t003"
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158330 July 8, 2016 5 / 14"
+  }
+ }
+}

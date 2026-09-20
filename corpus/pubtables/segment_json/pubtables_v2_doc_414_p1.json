@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_414",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    65.7,
+    68.7,
+    378.4,
+    505.7
+   ],
+   "ocr": "Molecular Vision 2013; 19:775-788 <http://www.molvis.org/molvis/v19/775> University, Stanford, CA), and the resulting significant genes were subjected to a cutoff with an arbitrary 1.5-fold threshold. The differentially expressed genes identified in specific conditions were compared and annotated using the Database for Annotation, Visualization and Integrated Discovery (DAVID, v6.7), with the whole murine genome as the background, and gene ontology (GO) categorization was performed using a modified Fisher exact test [16]. The p value for each GO category or Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway was calculated as an Expression Analysis Systematic Explorer score [17]. Hierarchical clus- tering was performed for genes of interest using the Cluster 3.0 program, and the results were transferred onto heat maps using Java Treeview [18]. The complete sets of normalized microarray data were deposited in the NCBI Gene Expression Omnibus, with the accession number GSE38762. Reverse transcription and real-time polymerase chain reac- tion: The expression changes in the genes of interest were confirmed using reverse transcription and quantitative real- time PCR. In brief, total retinal RNA of the OIR models was extracted as described above and reverse transcribed into cDNA using oligo(dT) primers and PrimeScript RT Enzyme (TaKaRa, Dalian, China). Quantitative real-time Table 1. Primers and"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    374.9,
+    68.7,
+    704.6,
+    505.7
+   ],
+   "ocr": "© 2013 Molecular Vision PCR was performed using the TaqMan method and Probe Real Master Mix (Tiangen Biotech Co., Ltd., Beijing, China) in a 7500 Real-Time PCR System (Applied Biosystems Inc., Foster, CA). Primers and probes (Table 1) were synthesized by GenScript (Nanjing, China), with ribosomal protein L5 (Rpl5) as the reference gene. The thermal cycling conditions for all genes were as follows: 95 °C for 10 s followed by 40 cycles at 95 °C for 15 s and 60 °C for 1 min. After analysis with the endorsed software, the fractional cycle number for threshold fluorescence (threshold cycle, Ct) for each reaction was obtained. The average of three duplicates was used to calculate the relative Ct versus Rpl5 (ΔCt=average Ctgene minus average CtRpl5) for each sample. The average ΔCt for the three samples in the experimental and control groups was then used to calculate the ΔΔCt of the OIR samples (ΔΔCt=ΔCtOIR–ΔCtcontrol). The relative expression folds of the OIR samples were calculated as 1/2ΔΔCt [19]. RESULTS Comparison of physiologic retinal vasculogenesis and oxygen-induced retinal neovascularization in newborn C57BL/6J mice: We started by monitoring the development of the retinal vasculature in normal C57BL/6J mice from Probes used for rT-qPCr"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    70.6,
+    515.9,
+    685.8,
+    906.5
+   ],
+   "ocr": "Gene symbol (Accession number) Primer and probe sequence (5′—3′) Amplicon size (bp)\nAnkrd11 F: CTGAAGGAGCTGTTCAAGCA 96\nNM_001081379 R: TTGCTCACAGGACACAATCA\nP: TGCTGCAGGCGCAGCTTACC\nAnkrd37 F: TGATGTCCAGATTGGCGTAT 120\nNM_001039562 R: CTTGCCGTCTGCATACATTT\nP: CCTGGCACATTCTGGAAAGCCA\nAnxa2 F: GTGAAGAGGAAAGGAACCGA 129\nNM_007585 R: CTTGATGCTCTCCAGCATGT\nP: CGCAGTGTGTGCCACCTCCA\nMt2 F: CTGCAAATGCAAACAATGC 116\nNM_008630 R: ACTTGTCGGAAGCCTCTTTG\nP: CCCTGGGAGCACTTCGCACA\nTpi1 F: GAAGAAGTGCCTGGGAGAAC 109\nNM_009415 R: CTGTCTGGCAAAGTCGATGT\nP: AAACCACCTCGGTGCCTGCC\nVegfa F: CACAGCAGATGTGAATGCAG 111\nNM_001025250 R: TTTAAACCGGGATTTCTTGC\nP: TGACCCTTTCCCTTTCCTCGAACTG\nRpl5 F: GGAAGCACATCATGGGTCAGA 70\nNM_016980 R: TACGCATCTTCATCTTCCTCCATT\nP: TGTGGCAGACTACATGCGCTACC",
+   "table_id": "PMC3626293_table_0"
+  },
+  "p1_b3": {
+   "type": "header_footer",
+   "bbox": [
+    378.2,
+    929.3,
+    397.1,
+    943.3
+   ],
+   "ocr": "777"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_420",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    485.9,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "15-PGDH Variants and Colon Cancer Susceptibility"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    709.2
+   ],
+   "ocr": "rectal 15-PGDH were associated with increased colorectal adenoma (a precursor to colon cancer) recurrences [16]. These findings prompted us to examine whether inherited genetic variation at the 15-PGDH locus would explain the wide population variation in levels of colon 15-PGDH, and would also be associated with risk of developing colon cancer. We evaluated the association with colon cancer risk of SNP markers spanning ,50 kB upstream to ,40 kB downstream of the 15-PGDH gene coding region in a population-based case-control study in two stages. We then tested these same SNPs for their associations with expression levels of 15-PGDH in colon tissues in a separate patient population. Materials and Methods Study Design We employed a 3 stage study design for this project. In the first stage, we investigated all known SNPs in the 15-PGDH gene, spanning 50 kb upstream to 40 kb downstream, for association with risk of colon cancer in a population-based case-control study. In the second stage, we evaluated the association of these same SNPs with 15-PGDH expression in colonic epithelial tissues from an independent sample of patients. We then used a meta-analysis approach to combine the results from stages 1 and 2 in order to identify the most promising SNPs to move forward for stage 3. In stage 3, we genotyped these top SNPs in a second sample of colon cancer patients and population controls for validation. Patient Populations For the association analysis of 15-PGDH SNPs with risk of colon cancer, incident cases were identified from the state of Kentucky Surveillance, Epidemiology and End Results (SEER) registry. Controls were recruited through random digit dialing and friend referrals. The recruitment of this study population was described in more detail earlier [17]. Overall this study population is approximately 94% Caucasian [17]. In order to minimize the effect of population stratification and to increase homogeneity, we limited our analyses to only individuals self-reporting as Cauca- sians. For the discovery set (stage 1), subjects were recruited from February 2003 through December 2005, and included 464 cases and 393 controls self-reporting as Caucasian. The replication set (used in stage 3) included 525 Caucasian cases and 816 Caucasian controls recruited from January 2006 to June 2010. All participants provided written informed consent, completed an extensive risk factor questionnaire and donated a sample of blood. Whole blood was shipped to the research laboratory at Case Western Reserve University overnight and processed immediately."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.1,
+    700.8,
+    697.6
+   ],
+   "ocr": "DNA was isolated from buffy coats separated from whole blood collected in standard ETDA tubes. To study the effect of SNPs on tissue gene expression (stage 2), normal colon tissue sections were collected from 69 Caucasian patients recruited at University Hospitals Case Medical Center (UHCMC). All participants provided informed consent. RNA and DNA from the tissue samples were prepared by extraction with guanidine isothiocyanate as previously described [18]. Total cellular RNA and genomic DNA were separated by ultracentri- fugation of the extract through a cesium cushion. Both studies were approved by the UHCMC institutional review board. Genotyping We included all known SNPs from 50 kb upstream to 40 kb downstream of 15-PGDH that at the time of initiating our study were listed as Illumina Golden Gate validated, and for which ABI TaqMan assays were available. ABI TaqMan chemistry was employed to genotype these samples according to the manufac- turer’s protocol. Specifically, 2 ml aliquots, containing 5–10 ng of DNA were transferred from 96-well reservoir plates to 384-well assay plates for each individual being genotyped. Multiple 384- well plates were generated; the DNA was dried down, the plates then sealed and frozen until assayed. A 5 ml aliquot of Master Mix, Probe & Primer was robotically added to each well of a 384-well plate previously plated with DNA. PCR [40 Cycles] was carried out on an ABI GeneAmp PCR System 9700 Dual Head Instrument and endpoint reads were carried out using the ABI 7900 Sequence Detection System (SDS). Since TaqMan Chem- istry is a PCR-based procedure, all assay mixes were prepared in an amplicon-free room to avoid contamination. To ensure data quality, each SDS file was individually reviewed before the data were exported to ensure the baseline is properly set. In the 384-well assay layout, the last column of the plate was reserved for water blanks to ensure no contamination occurred during plating. DNA samples, either from Coriell or from our own database, with known genotypes for the SNPs being interrogated in this study were included on each assay plate to serve as positive controls and to identify the 3 genotypes. Four replicate samples were included in the discovery sample (phase 1) and colon tissue expression sample (phase 2), which were genotyped at the same time, and 29 replicate samples were included in the validation sample (phase 3) to confirm accurate genotyping in the study. Genotype concordance of the replicates and control samples was confirmed. If 100% concordance was not observed, the primary data files were reviewed and typically the assay was repeated. The overall call rate was 94.6% (details in Table S1)."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    744.1,
+    375.2,
+    755.4
+   ],
+   "ocr": "Table 1. Demographics of Case-Control Sample Populations"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    379.0,
+    744.1,
+    461.1,
+    755.4
+   ],
+   "ocr": "(Phases 1 and 3)."
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    784.5,
+    664.2,
+    893.9
+   ],
+   "ocr": "Phase 1 Phase 3\nCases (N = 464) Controls (N = 393) p * Cases (N = 525) Controls (N = 816) p*\nGender ,0.0001 ,0.0001\nMale 203 (51.7) 172 (37.1) 258 (49.1) 287 (35.2)\nFemale 190 (48.4) 292 (62.9) 267 (50.9) 529 (64.8)\nAge, mean (SD) 64.6 (10.7) 58.1 (10.9) ,0.0001 63.0 (9.9) 62.5 (9.7) ,0.0001\nAge, range 22–89 33–87 31–90 36–90",
+   "table_id": "PMC3661460_table_0"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    907.2,
+    345.0,
+    926.7
+   ],
+   "ocr": "*p-value of differences between cases and controls within that phase. doi:10.1371/journal.pone.0064122.t001"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "2 May 2013 | Volume 8 | Issue 5 | e64122"
+  }
+ }
+}

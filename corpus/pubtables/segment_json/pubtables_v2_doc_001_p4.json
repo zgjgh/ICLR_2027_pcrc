@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_001",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    416.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Conveyor Evaluation and Selection Using Fuzzy AHP and Fuzzy ARAS"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    462.4,
+    107.4
+   ],
+   "ocr": "Table 5. The pairwise comparison matrix of sub-criteria with respect to the Cost criterion."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    194.3
+   ],
+   "ocr": "Purchasing cost Spare parts cost Set-up and operational cost Maintenance cost\nPurchasing cost (1,1,1) (2,5/2,3) (3/2,2,5/2) (2,5/2,3)\nSpare parts cost (1/3,2/5,1/2) (1,1,1) (3/2,2,5/2) (1,3/2,2)\nSet-up . . .cost (2/5,1/2,2/3) (2/5,1/2,2/3) (1,1,1) (1,3/2,2)\nMaintenance cost (1/3,2/5,1/2) (1/2,2/3,1) (1/2,2/3,1) (1,1,1)",
+   "table_id": "PMC4829176_table_4"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    202.3,
+    727.3,
+    541.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0153222.t005 The weights of the criteria and sub-criteria are calculated based on Eq 1 to Eq 9 of the fuzzy AHP method. A computational program is developed using MATLAB 2013a mathematical software (Mathworks product) on Intel1 core™ i5-2410M 2.3GHz, 4GB DDR3 memory with Window 7. The inputs used to determine the weights are the pairwise comparison matrices col- lected from the survey. The results for the weights of the criteria and sub-criteria are shown in Fig 5. The total weights of the sub-criteria for each alternative are determined and normalized in the interval [0,1]. The sub-criteria results are shown in Table 9 and depicted in Fig 6. The experts use the linguistic terms in Table 10 to evaluate the alternatives with respect to each sub-criterion. The decision matrix is formed as shown in Table 11. In Table 12, several sub-criteria (risk, cost, vibration and noise) are desired to be minimal. Therefore, the decision matrix must be altered to implement the data normalization process. Table 13 presents the altered data in the decision matrix based on Eq 14, and Table 14 shows the normalized decision matrix based on Eq 13 and Eq 14. Using Eq 15 and Eq 16, the weighted normalized decision-making matrix is calculated, and the values of the optimality function are determined based on Eq 17. The defuzzification pro- cess uses Eq 18, and the degree of alternative utility is determined from Eq 19. The results are presented in Table 15. As depicted in Fig 7, the ranking sequence is AT3 AT1 AT4 AT2. This ranking is"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    516.3,
+    528.4,
+    600.3,
+    550.3
+   ],
+   "ocr": "� � �"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    543.8,
+    725.0,
+    775.1
+   ],
+   "ocr": "similar to the ranking resulting from the TOPSIS approach [71]. Moreover, the results are vali- dated by comparing with the ranking obtained from fuzzy TOPSIS methodology [72, 73, 74]. These results of fuzzy TOPSIS are described by PIS (positive ideal solution), NIS (negative ideal solution) and closeness coefficient (cc) as weights of alternatives (see Table 16, Fig 8). Table 16 shows that the ranking of two methods (fuzzy ARAS and fuzzy TOPSIS) is an evi- dence for the validation of proposed framework in this paper. Fig 8 shows that AT3 is the best alternative because its degree of alternative utility is the highest. Conclusion and Future Work In a practical manufacturing environment, the MCDM for selecting an alternative is a compli- cated process because it involves many qualitative and quantitative criteria, and the informa- tion collected is usually vague and imprecise. In this case study, the conveyor is selected based Table 6. The pairwise comparison matrix of sub-criteria with respect to the Operational criterion."
+  },
+  "p4_b6": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    783.9,
+    726.6,
+    877.9
+   ],
+   "ocr": "Speed Capacity Accuracy Item weight Item width\nSpeed (1,1,1) (1,3/2,2) (1,3/2,2) (2,5/2,3) (2,5/2,3)\nCapacity (1/2,2/3,1) (1,1,1) (2/5,1/2,2/3) (2,5/2,3) (2,5/2,3)\nAccuracy (1/2,2/3,1) (3/2,2,5/2) (1,1,1) (5/2,3,7/2) (5/2,3,7/2)\nItem weight (1/3,2/5,1/2) (1/3,2/5,1/2) (2/7,1/3,2/5) (1,1,1) (1/2,1,3/2)\nItem width (1/3,2/5,1/2) (1/3,2/5,1/2) (2/7,1/3,2/5) (3/2,1,2) (1,1,1)",
+   "table_id": "PMC4829176_table_5"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0153222.t006"
+  },
+  "p4_b8": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0153222 April 12, 2016 13 / 26"
+  }
+ }
+}

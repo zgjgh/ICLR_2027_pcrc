@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_441",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    508.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Are All GMOs the Same in the Eyes of Consumers"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    727.2,
+    729.7
+   ],
+   "ocr": "Participants were asked to choose between a 2.25 kg bag of a conventionally bred rice variety and an alternative rice variety (described under different information scenarios), presented as Variety A. The price of the alternative rice variety (used as baseline) was constant (€2.25) for a 2.25 kg bag of rice, while the price of the conventional variety decreased from €50 to €0.5 with intermediate values at €20, €15, €10, €8, €5, €3, €2.25 and €2. In an attempt to mitigate the risk of the so-called hypothetical bias, which can be common in hypothetical surveys or polls, a cheap talk script was included in the introduction of the sur- vey (S1 Appendix. Survey questionnaire and treatment presentation.). Studies have shown that participants in a hypothetical survey tend to state higher WTP than when faced with actual de- cisions [28]. In order to reduce that hypothetical bias, “cheap talk” can be incorporated at the beginning of a survey [29] to inform participants about this potential bias, and ask them ex- pressly to avoid it. All participants responded to three rounds of questions. In the first round, the alternative rice variety (Variety A) was presented as either GM, or cisgenic or as a variety providing envi- ronmental benefits. Thus participants received one type of information (cisgenic, GM or envi- ronmental benefits) in the first round. Table 2 shows the description that was presented for each of the attributes of Variety A. In each successive round, participants were presented additional information about the al- ternative rice variety. In the second round, two out of the three attributes of the alternative rice (including those received in round 1) were presented to the participants, increasing the partici- pants’ knowledge from the first round. In the third round all participants received the full in- formation on all three characteristics: GM, cisgenic, and the associated environmental benefits. These three attributes describing Variety A were provided to participants in different orders, resulting in 15 possible orders—further referred to as “treatments”—depending on the se- quence in which the three types of information were given. Participants were randomly as- signed to one of the treatments. For each country, an equal number of participants were assigned to each treatment. Table 3 illustrates these 15 treatments, depending on the sequence in which the three types of information were given. Interval regression modeling An interval regression model was specified to estimate the premium consumers would be will- ing to pay for conventional rice to avoid the alternative rice. However, these premiums were not directly observed. For each participant, the WTP for the conventional rice instead of the al- ternative rice was observed as an interval [Yi1, Yi2] for participant i where Yi1 < Yi2. Assuming participants are rational, the actual WTP, Yi�, lies in this interval (including the lower bound- ary). To control for the impact of the hypothesized conditioning variables (regressors), we Table 2. Descriptions of Variety A attributes."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    738.7,
+    725.3,
+    877.9
+   ],
+   "ocr": "GM No additional information was given with respect to the GM attribute except it was a\nGM product.\nEnvironmental “New breeding techniques can result in a rice variety that is resistant to rice blast\nBeneﬁts disease and that would not require fungicide sprays. Rice blast is a disease that\ndecreases yields and increases Greenhouse Gas emissions because of the\nfungicide sprays that are required to treat the disease. The variety A would not\nrequire fungicide applications.”\nCisgenic “Cisgenic rice is bred using a process in which genes are transferred between\ncrossable organisms (the same species or closely related species). The same\nresult could be obtained by cross-breeding that occurs in nature or by traditional\nbreeding methods but it would require a longer time frame.”",
+   "table_id": "PMC4431710_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0126060.t002"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0126060 May 14, 2015 6 / 16"
+  }
+ }
+}

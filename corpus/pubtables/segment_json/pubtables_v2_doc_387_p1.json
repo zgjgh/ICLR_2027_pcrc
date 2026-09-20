@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_387",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    296.8,
+    66.0
+   ],
+   "ocr": "Wilson et al. Journal of Inflammation 2012, 9:25 http://www.journal-inflammation.com/content/9/1/25"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    630.1,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 2 of 8"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    356.1,
+    124.4
+   ],
+   "ocr": "Table 1 Demographic Data on Study Sample Population"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    226.7
+   ],
+   "ocr": "Age Group (years)\nHealthy Controls by Age Group (mean ± SD (n)) BTHS by Age Group (mean ± SD (n))\nVariable 0.5 to 7 8 to 11 12 to 16 18 to 21 0.5 to 7 8 to 11 12 to 16 18 to 24\nAge (yrs) ~ 9.1 ± 0.9(5) 14.2 ± 1.5(5) 19.7 ± 1.5(4) 3.2 ± 2.3(7) 9.3 ± 1.3(4) 14.0 ± 1.8(4) 20.9 ± 2.2(7)\nHeight (cm) ~ 130.9 ± 4.7(5) 172.1 ± 11.7(5) 179.2 ± 13.5(4) ~ 23.9 ± 0.9(2) 162.3 ± 9.8(3) 177.0 ± 7.8(5)\nWeight (kg) ~ 28.1 ± 3.1(5) 69.7 ± 19.7(5) 75.2 ± 5.1(4) ~ 21.9 ± 1.1(2)* 45.6 ± 3.1(3)* 56.6 ± 15.4(5)*",
+   "table_id": "PMC3414836_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    233.1,
+    315.1,
+    253.7
+   ],
+   "ocr": "* Indicates statistically significant difference in weight (p < 0.001). ~ Indicates missing data."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    277.4,
+    366.1,
+    868.8
+   ],
+   "ocr": "skeletal muscle hypertrophy and thereby increase muscle ca- tabolism [2-4]. Inflammatory cytokines may also antagonize the anabolic effects of Insulin-like growth factor (IGF), a known promoter of muscle hypertrophy [5-7]. Normal levels of physical activity have been linked to a balance between anabolic factors such as IGF-1 and Growth Hormone (GH) and catabolic cytokines such as Interleukin-6 (IL-6) and TNF-α. For example, higher levels of IL-6 and lower levels of IGF-1 have also been observed in children with chronic inflammatory diseases such as juvenile idiopathic arthritis, inflammatory bowel disease and cystic fibrosis [8,9]. Thus it is plausible that a catabolic/anabolic imbalance, linked to an inflammatory process, contributes to the growth abnormal- ities and pathology observed in BTHS. We hypothesized that patients diagnosed with BTHS would have an imbalance in catabolic and anabolic media- tors such that BTHS would have lower levels of growth factors and higher levels of inflammatory mediators com- pared to age-matched healthy controls. This study addresses this question by statistical analysis of IGF-1, GH, IL-6 and TNF-α plasma levels obtained from BTHS patients and healthy controls. Methods Sample characteristics The sample population for this study included 36 subjects, 22 BTHS patients (age 4 months to 24 yrs) and 14 healthy controls (age 8 to 21 years). Plasma and clinical informa- tion from the BTHS patients was provided by the Barth Syndrome Foundation Bioregistry. Plasma from healthy controls was obtained from subjects participating in stud- ies conducted through the Pediatric Department at the University of California, Irvine (UCI). All subjects were knowing and willing plasma donors as members of Barth Syndrome Foundation or from IRB-approved studies at UCI. The UCI studies involved children age eight years Table 2 Model Summary of the Significant Predictors of IL-6"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    277.4,
+    678.7,
+    926.2
+   ],
+   "ocr": "and older, therefore plasma samples were not available from for healthy controls below age eight. Exclusion cri- teria for healthy controls included having had an upper re- spiratory infection or inflammatory illness such as asthma. Furthermore, healthy controls subjects had not utilized any antibiotics or non-steroidal anti-inflammatory (NSAID) medications prior to the study (14-days for antibiotics and 7-days for NSAIDs). Blood acquisition, processing and cytokine measurement Plasma from both the BTHS patients and healthy controls was obtained via standard phlebotomy procedures. Within two hours of acquisition, blood was centrifuged and stored at −80 °C. Barth Syndrome samples were shipped on dry ice and immediately stored at −80 °C so that they would be thawed only once for analysis. Cytokines and growth mediators were measured using high-sensitivity Immunoassay quantification kits, as fol- lows: IL-6 and TNF-α were measured using kits by R&D Technologies, IGF-1 (bound and free) was measured using a DSL kit, and human Growth Hormone was measured using the RayBiomed kit. The sensitivity of the tests were: IL-6 (0.016 pg/mL), TNF-α (0.038 pg/mL), IGF-1 (0.015 ng/mL) and GH (4.0 pg/mL). All samples were run on a single 96- well plate. Duplicates were run for ran- domly selected BTHS patients and healthy controls to fill all wells of the single plate. Statistical analysis We implemented linear regression modeling to find the sets of significant predictors for all outcomes variables of inter- est and quantify the corresponding effect sizes. All study variables were considered in the model building process as potential independent predictors or confounders with main covariates of interest being age, case–control status (BTHS versus Healthy Controls), and their interaction. Thus, separ- ate best predictive models were derived and assessed for goodness of fit for IL-6, IGF1-β, GH, absolute neutrophil count, as well as the ratios between IL-6 and IGF-1 (IL6: IGF), and TNF and GH (TNF:GH). For models in which age revealed a nonlinear effect on the outcome variable, a discretized version of age (puberty) was used with interval allocation, 0–7, 8–11, 12–16, and 18–21 years of age."
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    873.6,
+    366.1,
+    919.2
+   ],
+   "ocr": "Variable Estimate Standard Error t-value p-value\nIntercept 0.81 0.93 0.87 0.39\nGroup (BTHS vs. Control) 2.38 1.18 2.01 0.046",
+   "table_id": "PMC3414836_table_1"
+  }
+ }
+}

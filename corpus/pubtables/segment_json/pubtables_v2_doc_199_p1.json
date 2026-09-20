@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_199",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    404.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.5,
+    724.8,
+    119.4
+   ],
+   "ocr": "Table 1. The 10 datasets used for comparative evaluation of the unsupervised anomaly detection algorithms from different application domains. A broad spectrum of size, dimensionality and anomaly percentage is covered. They also differ in difficulty and cover local and global anomaly detection tasks."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    128.1,
+    726.6,
+    301.0
+   ],
+   "ocr": "Dataset Size Dimensions Outliers Percentage\nb-cancer 367 30 10 2.72\npen-global 809 16 90 11.1\nletter 1,600 32 100 6.25\nspeech 3,686 400 61 1.65\nsatellite 5,100 36 75 1.49\npen-local 6,724 16 10 0.15\nannthyroid 6,916 21 250 3.61\nshuttle 46,464 9 878 1.89\naloi 50,000 27 1508 3.02\nkdd99 620,098 38 1,052 0.17",
+   "table_id": "PMC4836738_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    309.1,
+    186.2,
+    320.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0152173.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    353.9,
+    727.3,
+    893.1
+   ],
+   "ocr": "compensate this shortcoming and present and publish more different meaningful datasets, such that algorithms are better comparable in the future. Please note that some of the datasets have already been introduced previously in the first author’s Ph.D. Thesis [29] We also put a strong emphasis on a semantic background such the evaluation makes sense. This includes the two assumptions that (1) anomalies are rare and (2) are different from the norm. Additionally, we consider only point anomaly detection tasks as meaningful datasets for benchmarking since a different preprocessing might again lead to non-comparable results. For example, the dataset Poker Hand, which was used for evaluation before [37], is not used because the anomalies (spe- cial winning card decks) violate the assumption (2). Similarly, the use of the very popular KDD-Cup99 dataset needs special attention, which was originally used for benchmarking intrusion detection classification systems. Many attacks (anomalies) in the dataset define a col- lective anomaly detection problem and can thus not be used. Since the dataset is so popular, a point anomaly detection task was extracted as stated below. If the following, we describe the datasets and our preprocessing in more detail. All modifica- tions have been made publicly available (http://dx.doi.org/10.7910/DVN/OPQMVF). A sum- mary about the resulting dataset characteristics is given below in Table 1. Breast Cancer Wisconsin (Diagnostic) The features of the breast-cancer dataset are extracted from medical images of a fine needle aspirate (FNA) describing the cell nuclei [64]. The task of the UCI dataset is to separate cancer from healthy patients. From the 212 malignant instances, we kept the first 10 as anomalies (similar to [46]). This results in a unsupervised anomaly detection dataset containing 367 instances in total and having 2.72% anomalies. Pen-Based Recognition of Handwritten Text (global) This UCI dataset contains the hand- written digits 0–9 of 45 different writers, which we will use twice. Here, in the “global” task, we only keep the digit 8 as the normal class and sample the 10 digits from all of the other classes as anomalies. This results in one big normal cluster and global anomalies sparsely distributed. The resulting pen-global dataset has 16 dimensions and 809 instances including a large amount of anomalies (11.1%). Pen-Based Recognition of Handwritten Text (local) The previous dataset is used again, but now with a different preprocessing. All digits are kept, except for the digit 4. From this class, the first 10 instances are kept (similar to [46]). This results in a local anomaly detection task with clusters of different densities and 10 local anomalies, which we refer to as pen-local. Letter Recognition The UCI letter dataset contains originally 16 extracted features from the 26 letters of the English alphabet. This dataset has been preprocessed for unsupervised anomaly"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0152173 April 19, 2016 18 / 31"
+  }
+ }
+}

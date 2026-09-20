@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_054",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    104,
+    580,
+    147
+   ],
+   "ocr": "The report examines two tables detailing medical criteria and survival statistics. Table 1 presents classifications including \"Multiple sclerosis\" and \"Clinically isolated syndrome,\" with headers for McDonald Criteria under IgM, IgG, and IgA, alongside metrics for pleocytosis (≥5 cells/μL), intrathecal synthesis, and CSF oligoclonal bands."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    135,
+    580,
+    178
+   ],
+   "ocr": "For \"Multiple sclerosis,\" the 2005/2001 criteria show values of 2005/2001, 70, 66%, 37%, 64%, 16%, and 98.5%. In 2010, the same classification shows values of 136, 65%, 35%, 63%, 13%, and 96%."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    228.0,
+    580.0,
+    447.0
+   ],
+   "ocr": "Classification McDonald Criteria McDonald Criteria Pleocytosis (≥5 cells/μL) Intrathecal Synthesis CSF Oligoclonal Bands\nIgM IgG IgA\nMultiple sclerosis 2005/2001 70 66% 37% 64% 16% 98.5%\n2010 136 65% 35% 63% 13% 96%\np value - p = 0.0001 p = 1.0 p = 0.9 p = 1.0 p = 0.7 p = 0.4\nClinically isolated syndrome 2005/2001 255 55% 19% 40% 6% 65%\n2010 189 52% 14% 33% 4% 55%\np value - p = 0.0001 p = 0.8 p = 0.4 p = 0.4 p = 0.7 p = 0.2",
+   "table_id": "img_058429_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    494.0,
+    580.0,
+    620.0
+   ],
+   "ocr": "Variable Overall survival Progression-free survival\nHR (95% CI) P HR (95% CI) P\nABCA1 methylation 1.106 (1.008–1.213) 0.033a 1.096 (1.020–1.179) 0.013\nAge 2.014 (0.712–5.701) 0.187 1.309 (0.579–2.963) 0.518\nStage 11.321 (2.48–51.679) 0.02 14.278 (4.233–48.154) <0.01\nGrade 22.559 (2.849–178.624) 0.03 20.586 (4.817–87.977) <0.01",
+   "table_id": "img_058429_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    701
+   ],
+   "ocr": "The p values for this classification are listed as p = 0.0001, p = 1.0, p = 0.9, p = 1.0, p = 0.7, and p = 0.4. For \"Clinically isolated syndrome,\" the 2005/2001 metrics are 255, 55%, 19%, 40%, 6%, and 65%, while in 2010, the values are 189, 52%, 14%, 33%, 4%, and 55%, with p values of p = 0.0001, p = 0.8, p = 0.4, p = 0.4, p = 0.7, and p = 0.2."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    762
+   ],
+   "ocr": "Table 2 focuses on survival metrics, with \"ABCA1 methylation\" yielding HR (95% CI) of 1.106 (1.008–1.213), P = 0.033a for overall survival and 1.096 (1.020–1.179), P = 0.013 for progression-free survival. Age metrics yield HR of 2.014 (0.712–5.701), P = 0.187 and 1.309 (0.579–2.963), P = 0.518. Stage shows HR of 11.321 (2.48–51.679), P = 0.02 and 14.278 (4.233–48.154), P < 0.01. Grade metrics indicate HR of 22.559 (2.849–178.624), P = 0.03 and 20.586 (4.817–87.977), P < 0.01."
+  }
+ }
+}

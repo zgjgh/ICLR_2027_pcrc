@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_425",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    265.9,
+    53.5
+   ],
+   "ocr": "Nordlund et al. Clinical Epigenetics (2015) 7:11"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 2 of 12"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    926.1
+   ],
+   "ocr": "Background The genetic subtypes of pediatric acute lymphoblastic leukemia (ALL) are characterized by large-scale chromo- somal aberrations, such as aneuploidies and transloca- tions [1-3]. Karyotyping, fluorescent in situ hybridization (FISH), reverse transcriptase polymerase chain reaction (RT-PCR), and array-based methods for copy number analysis are routinely used to detect high hyperdiploidy (HeH, 51-67 chromosomes), the translocations t(9;22) (q34;q11)[BCR/ABL1], t(12;21)(p13;q22)[ETV6/RUNX1], t(1;19)(q23;p13.3)[TCF3/PBX1], 11q23/MLL-rearrange- ment, dic(9;20)(p13.2;q11.2), and intrachromosomal amplification of chromosome 21 iAMP21[RUNX1 X >3], which are recurrent in patients with ALL. Therapy inten- sity for ALL patients is determined by risk assessment based on presenting features, such as white blood cell count, B- or T-lineage, genetic aberrations, and minimal residual disease after induction treatment [4,5]. The accur- acy of detecting chromosomal abnormalities by karyotyp- ing, FISH, and PCR is generally high; however, these methods do not allow detection of all the aberrations that may occur [6]. Moreover, 15% of ALL patients harbor complex, non-recurrent genomic aberrations and would benefit from improved diagnostic subtyping to identify potential high-risk aberrations. Methylation of cytosine (5mC) residues in CpG dinu- cleotides is an epigenetic modification that plays a pivotal role in the establishment of cellular identity by influencing gene expression [7,8]. There are approxi- mately 28 million CpG sites in the human genome that are targets for DNA methylation. The pathogenesis and phenotypic characteristics of leukemic cells are partially explained by specific and genome-wide alterations in DNA methylation [9-17]. We and others have previously observed a strong correlation between cytogenetic subtype and DNA methylation in ALL, which indicates that DNA methylation profiling may serve as a proxy for cytogenetic analysis [11,12,14,18]. Herein, we used our previously published 450 k DNA methylation profiling dataset [14] from >500 primary ALL samples comprising eight known recurrent sub- types of ALL to design and evaluate DNA methylation classifiers for subtype prediction. Using extensive cross- validation and methylation-based subtyping in an inde- pendently derived set of ALL patient samples, we show that DNA methylation classification is a highly sensitive and specific method for ALL subtyping. Finally, we aimed to ascertain subtype membership of 210 ALL patients where no subtype information is available and verified the DNA methylation-based subtype predictions with copy number analysis and detection of fusion genes. The classifier and code required for DNA methy- lation classification can be freely downloaded at https:// github.com/Molmed/Nordlund-ALL-subtyping."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    763.0
+   ],
+   "ocr": "Results Prediction of ALL subtypes using DNA methylation classifiers We previously analyzed the genome-wide DNA methyla- tion patterns of 756 primary ALL patients diagnosed between 1996 and 2008 in the Nordic countries [14]. Criteria for selecting patients with established subtypes for the current study included abnormal karyotypes from chromosome banding and/or positive results from tar- geted FISH or RT-PCR analyses. An overview of the pa- tients included in the study can be found in Additional file 1: Figure S1. In total, 546 patients fulfilled these cri- teria and were included in the design of the DNA methy- lation classifier (Table 1, Additional file 2: Table S1). We designed DNA methylation classifiers for the following eight subtypes: T-ALL and the B-cell precursor ALL (BCP-ALL) subtypes HeH, t(12;21), 11q23/MLL, t(1;19), dic(9;20), t(9;22), and iAMP21. We also included a clas- sifier for normal blood cells and patient sex to highlight samples with low blast count and to verify the sex of the patients, respectively. We evaluated the perform- ance of the classifier design procedure by cross- validation (Additional file 1: Figures S2–S3). The best performance in terms of sensitivity and specificity was obtained using a set of 246 consensus CpG sites that contained 14-42 CpG sites per ALL subtype (Additional file 1: Figure S4, Additional file 2: Table S2). During cross-validation, on average, 91% of the ALL samples were assigned to one single correct subtype, 3.4% were assigned to multiple subtypes including the correct subtype, and 5.6% were assigned to an incorrect or no subtype (Table 2). When the consensus classifier was trained on the entire data set, it correctly classified 526 out of the 546 samples (95% CI = 515–532 patients). The consensus classifier failed to predict a subtype for as few as 17 patients in the design set, and of these pa- tients, only three were assigned to have an unexpected subtype (Figure 1A, Additional file 2: Table S1). All patients with the iAMP21 subtype (n = 8) displayed high prediction scores according to both the iAMP21 Table 1 Summary of ALL samples with known subtype used to design DNA methylation-based classifiers"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    767.7,
+    678.6,
+    919.2
+   ],
+   "ocr": "Immuno-phenotype Cytogenetic abnormality Fusion gene N\nT-ALL Various Various 101\nBCP ALL HeH - 189\nt(12;21) EVT6/RUNX1 161\n11q23/MLL MLL-r 27\nt(1;19) TCF3/PBX1 21\ndic(9;20) - 20\nt(9;22) BCR/ABL1 19\niAMP21 - 8",
+   "table_id": "PMC4343276_table_0"
+  }
+ }
+}

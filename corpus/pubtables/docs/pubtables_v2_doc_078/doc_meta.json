@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_078",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    753,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5811570_table_0",
+   "page_num": 1,
+   "bbox": [
+    512.1,
+    677.0,
+    687.5,
+    893.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5811570_table_0.png",
+   "html": "<table><tr><td>Class</td><td>Displacement (cm3)</td></tr><tr><td colspan=\"2\">Hand-held engines</td></tr><tr><td>SH:1</td><td>&lt; 20</td></tr><tr><td rowspan=\"2\">SH:2</td><td>&#8805; 20</td></tr><tr><td>&lt; 50</td></tr><tr><td>SH:3</td><td>&#8805; 50</td></tr><tr><td colspan=\"2\">Non-hand-held engines</td></tr><tr><td>SN:1</td><td>&lt; 66</td></tr><tr><td rowspan=\"2\">SN:2</td><td>&#8805; 66</td></tr><tr><td>&lt; 100</td></tr><tr><td rowspan=\"2\">SN:3</td><td>&#8805; 100</td></tr><tr><td>&lt; 225</td></tr><tr><td>SN:4</td><td>&#8805; 225</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_1",
+   "page_num": 2,
+   "bbox": [
+    64.4,
+    121.6,
+    687.5,
+    329.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5811570_table_1.png",
+   "html": "<table><tr><td>Class</td><td>Date</td><td>Carbon monoxide (CO)</td><td>Hydrocarbons (HC)</td><td>Nitrogen oxides (NOx)</td><td>Sum of hydrocarbons and oxides of nitrogen (HC + NOx)</td></tr><tr><td></td><td></td><td colspan=\"4\">(g/kWh)</td></tr><tr><td colspan=\"6\">Hand-held engines</td></tr><tr><td>SH:1</td><td rowspan=\"3\">2004</td><td>805</td><td>295</td><td>5.36</td><td></td></tr><tr><td>SH:2</td><td>805</td><td>241</td><td>5.36</td><td></td></tr><tr><td>SH:3</td><td>603</td><td>161</td><td>5.36</td><td></td></tr><tr><td colspan=\"6\">Non-hand-held engines</td></tr><tr><td>SN:1</td><td rowspan=\"4\">2004</td><td>519</td><td>&#8211;</td><td>&#8211;</td><td>50</td></tr><tr><td>SN:2</td><td>519</td><td>&#8211;</td><td>&#8211;</td><td>40</td></tr><tr><td>SN:3</td><td>519</td><td>&#8211;</td><td>&#8211;</td><td>16.1</td></tr><tr><td>SN:4</td><td>519</td><td>&#8211;</td><td>&#8211;</td><td>13.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_2",
+   "page_num": 2,
+   "bbox": [
+    64.4,
+    670.7,
+    687.5,
+    878.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5811570_table_2.png",
+   "html": "<table><tr><td>Class</td><td>Date</td><td>Carbon monoxide (CO)</td><td>Hydrocarbons (HC)</td><td>Nitrogen oxides (NOx)</td><td>Sum of hydrocarbons and oxides of nitrogen (HC + NOx)*</td></tr><tr><td></td><td></td><td colspan=\"4\">(g/kWh)</td></tr><tr><td colspan=\"6\">Hand-held engines</td></tr><tr><td>SH:1</td><td rowspan=\"2\">2007</td><td>805</td><td>&#8211;</td><td>&#8211;</td><td>50</td></tr><tr><td>SH:2</td><td>805</td><td>&#8211;</td><td>&#8211;</td><td>50</td></tr><tr><td>SH:3</td><td>2008</td><td>603</td><td>&#8211;</td><td>&#8211;</td><td>72</td></tr><tr><td colspan=\"6\">Non-hand-held engines</td></tr><tr><td>SN:1</td><td rowspan=\"2\">2004</td><td>610</td><td>&#8211;</td><td>&#8211;</td><td>50</td></tr><tr><td>SN:2</td><td>610</td><td>&#8211;</td><td>&#8211;</td><td>40</td></tr><tr><td>SN:3</td><td>2007</td><td>610</td><td>&#8211;</td><td>&#8211;</td><td>16.1</td></tr><tr><td>SN:4</td><td>2006</td><td>610</td><td>&#8211;</td><td>&#8211;</td><td>12.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_5",
+   "page_num": 3,
+   "bbox": [
+    386.8,
+    158.2,
+    687.5,
+    365.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5811570_table_5.png",
+   "html": "<table><tr><td>Category</td><td>Date</td><td>Carbon monoxide (CO)</td><td>Sum of hydrocarbons and oxides of nitrogen (HC + NOx)*</td></tr><tr><td></td><td></td><td colspan=\"2\">(g/kWh)</td></tr><tr><td colspan=\"4\">Hand-held engines</td></tr><tr><td>NRSh-v-1a</td><td rowspan=\"2\">2019</td><td>805</td><td>50</td></tr><tr><td>NRSh-v-1b</td><td>603</td><td>72</td></tr><tr><td colspan=\"4\">Non-hand-held engines</td></tr><tr><td>NRS-vr/vi-1a</td><td rowspan=\"5\">2019</td><td>610</td><td>10</td></tr><tr><td>NRS-vr/vi-1b</td><td>610</td><td>8</td></tr><tr><td>NRS-v-2a</td><td>610</td><td>8</td></tr><tr><td>NRS-v-2b</td><td>4.40*</td><td>2.70*</td></tr><tr><td>NRS-v-3</td><td>4.40*</td><td>2.70*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_4",
+   "page_num": 3,
+   "bbox": [
+    225.6,
+    703.3,
+    687.5,
+    892.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5811570_table_4.png",
+   "html": "<table><tr><td>Category</td><td>Displacement (cm3)</td><td>Power (kW)</td><td>Speed operation (rpm)</td></tr><tr><td colspan=\"4\">Non-hand-held engines</td></tr><tr><td rowspan=\"2\">NRSh-vr-1a</td><td>&#8805; 80</td><td rowspan=\"6\">&lt; 19</td><td rowspan=\"3\">Variable &#8805; 3600; or constant</td></tr><tr><td>&lt; 225</td></tr><tr><td>NRSh-vr-1b</td><td>&#8805; 255</td></tr><tr><td rowspan=\"2\">NRSh-vi-1a</td><td>&#8805; 80</td><td rowspan=\"3\">Variable &lt; 3600</td></tr><tr><td>&lt; 225</td></tr><tr><td>NRSh-vi-1b</td><td>&#8805; 255</td></tr><tr><td rowspan=\"2\">NRS-v-2a</td><td rowspan=\"2\">&#8804; 1000</td><td>&#8804; 19</td><td rowspan=\"4\">Variable or constant</td></tr><tr><td>&gt; 30</td></tr><tr><td>NRS-v-2b</td><td>&gt; 1000</td><td>&#8804; 30</td></tr><tr><td>NRS-v-3</td><td>Any</td><td>&gt; 56</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_6",
+   "page_num": 4,
+   "bbox": [
+    64.5,
+    145.5,
+    365.3,
+    253.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5811570_table_6.png",
+   "html": "<table><tr><td>Category</td><td>Date</td><td>Power</td><td>Carbon monoxide (CO)</td><td>Sum of hydrocarbons and oxides of nitrogen (HC + NOx)</td></tr><tr><td></td><td></td><td>(kW)</td><td colspan=\"2\">(g/kWh)</td></tr><tr><td>SMB-v-1</td><td>2019</td><td>&gt; 0</td><td>275</td><td>75</td></tr><tr><td>ATS-v-1</td><td>2019</td><td>&gt; 0</td><td>400</td><td>8</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_7",
+   "page_num": 4,
+   "bbox": [
+    189.8,
+    705.0,
+    365.2,
+    892.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5811570_table_7.png",
+   "html": "<table><tr><td>Category</td><td>NRSC</td></tr><tr><td>NRSh-v-1a</td><td rowspan=\"2\">G3</td></tr><tr><td>NRSh-v-1b</td></tr><tr><td>NRS-vi-1a</td><td rowspan=\"2\">G1</td></tr><tr><td>NRS-vi-1b</td></tr><tr><td>NRS-vr-1a</td><td rowspan=\"3\">G2</td></tr><tr><td>NRS-vr-1b</td></tr><tr><td>NRS-v-2a</td></tr><tr><td>NRS-v-2b</td><td>C2</td></tr><tr><td>NRS-v-3</td><td>C2</td></tr><tr><td>SMB-v-1</td><td>H</td></tr><tr><td>ATS-v-1</td><td>G1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5811570_table_8",
+   "page_num": 5,
+   "bbox": [
+    64.5,
+    95.2,
+    667.9,
+    421.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5811570_table_8.png",
+   "html": "<table><tr><td colspan=\"12\">Cycle D</td></tr><tr><td>Number of phase</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"3\">Rotational speed of engine</td><td colspan=\"3\">Rated rotational speed</td><td colspan=\"3\">Intermediate rotational speed</td><td colspan=\"3\">Rotational speed of idle running</td></tr><tr><td>Load* (%)</td><td>100</td><td>75</td><td>50</td><td>25</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Weighting factor</td><td>0.05</td><td>0.25</td><td>0.3</td><td>0.3</td><td>0.1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"12\">Cycle G1</td></tr><tr><td>Number of phase</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td colspan=\"3\">Rotational speed of engine</td><td colspan=\"3\">Rated rotational speed</td><td colspan=\"3\">Intermediate rotational speed</td><td colspan=\"3\">Rotational speed of idle running</td></tr><tr><td>Load (%)</td><td></td><td></td><td></td><td></td><td></td><td>100</td><td>75</td><td>50</td><td>25</td><td>10</td><td>0</td></tr><tr><td>Weighting factor</td><td></td><td></td><td></td><td></td><td></td><td>0.09</td><td>0.2</td><td>0.29</td><td>0.3</td><td>0.07</td><td>0.05</td></tr><tr><td colspan=\"12\">Cycle G2</td></tr><tr><td>Number of phase</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td></td><td></td><td></td><td></td><td></td><td>6</td></tr><tr><td colspan=\"3\">Rotational speed of engine</td><td colspan=\"3\">Rated rotational speed</td><td colspan=\"3\">Intermediate rotational speed</td><td colspan=\"3\">Rotational speed of idle running</td></tr><tr><td>Load (%)</td><td>100</td><td>75</td><td>50</td><td>25</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>Weighting factor</td><td>0.09</td><td>0.2</td><td>0.29</td><td>0.3</td><td>0.07</td><td></td><td></td><td></td><td></td><td></td><td>0.05</td></tr><tr><td colspan=\"12\">Cycle G3</td></tr><tr><td>Number of phase</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td></tr><tr><td colspan=\"3\">Rotational speed of engine</td><td colspan=\"3\">Rated rotational speed</td><td colspan=\"3\">Intermediate rotational speed</td><td colspan=\"3\">Rotational speed of idle running</td></tr><tr><td>Load (%)</td><td>100</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td></tr><tr><td>Weighting factor</td><td>0.85**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.15**</td></tr></table>"
+  }
+ ]
+}

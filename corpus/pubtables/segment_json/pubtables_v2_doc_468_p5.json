@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_468",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    602.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Income and Physical Activity"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    407.6,
+    107.4
+   ],
+   "ocr": "Table 6. IV approach, study sample (N = 753), women (N = 479), men (N = 274)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    363.8
+   ],
+   "ocr": "Self-reported physical activity Pedometer-based physical activity\nPhysical activity index Total steps Aerobic steps\nModel 1 Model 2 Model 1 Model 2 Model 1 Model 2\nWomen\nIncome 0.15*** (0.041) 0.14*** (0.050) 0.01 (0.008) 0.01 (0.010) 0.07*** (0.021) 0.06** (0.025)\nSummary of the ﬁrst-stage statistics\nSargan statistic 0.12 0.05 1.61 0.30 1.21 0.03\np-value 0.725 0.826 0.205 0.583 0.271 0.867\nFirst-stage F 166.07 102.45 166.07 102.45 166.07 102.45\nMen\nIncome 0.12*** (0.042) 0.12** (0.062) –0.03*** (0.008) –0.01 (0.011) –0.01 (0.024) –0.02 (0.033)\nSummary of the ﬁrst-stage statistics\nSargan statistic 4.85** 0.66 2.04 1.79 4.67** 1.39\np-value 0.028 0.418 0.153 0.181 0.031 0.238\nFirst-stage F 287.28 170.18 287.28 170.18 287.28 170.18",
+   "table_id": "PMC4552741_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    376.5,
+    711.9,
+    649.7
+   ],
+   "ocr": "Signiﬁcant at **5%, and ***1% level. Heteroskedasticity-robust standard errors are shown in the parentheses. Total steps and aerobic steps are transformed with natural logs. Two model speciﬁcations, one without control variables, excluding age (Model 1), and one with full set of control variables (Model 2). Added control variables: the vector of socioeconomic characteristics and health status observed in 2007, and family background factors observed in 1980. Instruments used: Income, obtained in 2007 and household income obtained in 1980. Because the Sargan test is not available with cluster robust standard errors, the test was executed with non-robust errors. Thus, the results should be treated with a care. doi:10.1371/journal.pone.0135651.t006 the weekend. Having a one-unit higher income level was associated with approximately 2% more total steps during the weekend. Income, in turn, was positively associated with aerobic steps, despite the measurement day, such that having a one-unit higher income level was Table 7. Regression of the pedometer-based physical divided into weekdays and weekend days, study sample (N = 753), women (N = 479), men (N = 274)."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    658.4,
+    726.6,
+    789.7
+   ],
+   "ocr": "Total Steps Aerobic Steps\nWeekday Weekend day Weekday Weekend day\nWomen\nIncome 0.01 (0.007 0.02** (0.010) 0.04** (0.018) 0.05*** (0.017)\nR2 0.01 0.01 0.01 0.03\nMen\nIncome –0.02 (0.010) -0.01 (0.011) –0.05** (0.024) –0.01 (0.024)\nR2 0.04 0.01 0.03 0.01",
+   "table_id": "PMC4552741_table_6"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    802.4,
+    725.8,
+    897.3
+   ],
+   "ocr": "Signiﬁcant at **5%, and ***1% level. Robust standard errors are in the parentheses. Total steps and Aerobic steps are transformed with natural logs. Added control variables: the vector of socioeconomic characteristics and health status observed in 2007, and family background factors observed in 1980. doi:10.1371/journal.pone.0135651.t007"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0135651 August 28, 2015 11 / 15"
+  }
+ }
+}

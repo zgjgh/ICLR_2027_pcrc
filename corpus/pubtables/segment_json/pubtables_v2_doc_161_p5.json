@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_161",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    432.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Platoon-Based Model for Performance Evaluation at Intersections"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    94.5,
+    563.5,
+    107.3
+   ],
+   "ocr": "Table 5. Comparison of mean maximum queues QMM (T = 15 min)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.5,
+    726.6,
+    447.3
+   ],
+   "ocr": "Arrival Type DOS X TSYT (vehs) IM (vehs) HCM (vehs)\nAT-1 0.58 29.38 29.00 27.06\n0.7 35.75 35.00 37.10\n0.86 45.05 43.00 49.42\n1.1 63.19 62.50 79.34\n1.2 71.77 72.50 99.02\nAT-2 0.58 29.21 29.00 27.06\n0.7 35.71 35.00 34.91\n0.86 45.04 43.00 48.05\n1.1 63.19 62.50 72.96\n1.2 71.77 72.50 83.00\nAT-4 0.58 26.60 29.00 20.43\n0.7 35.43 35.00 28.21\n0.86 45.02 43.00 43.17\n1.1 63.19 62.50 79.34\n1.2 71.77 72.50 99.02\nAT-5 0.58 22.43 29.00 15.60\n0.7 30.07 35.00 22.68\n0.86 43.37 43.00 38.15\n1.1 63.16 62.50 91.00\n1.2 71.75 72.50 145.68",
+   "table_id": "PMC4364894_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    455.4,
+    727.2,
+    891.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0114406.t005 Comparison of average delays shown in table 6 are plotted into graph plots of average delays versus degree of saturation for all 20 scenarios (see Fig. 14(A) to 14(D)). Both TRANSYT and HCM2000 are found to produce higher delays compared to IM for all DOS under AT-1, AT-2 and AT-4 arrivals. However, the average delays of TRANSYT are closer in agreement with IM for all DOS under AT-5 arrival. HCM2000 computes the highest value of delay compared to the other three models for X = 1.2 under all arrival types. CTM average delays closely agrees with IM for X = 0.58 and X = 1.1 under AT-1 arrival. Average delays for AT-2 and AT-4 arriv- als simulated by CTM seemed to agree closely with IM for most DOS. The average delays by CTM are closer in agreement with IM for under-saturated situations under AT-5 arrival but started to ‘deteriorate’ when traffic became oversaturated. The simulation results are analyzed as follows: 1. Both QMEOR and QMM simulated by IM closely agree with TRANSYT. Though IM estimat- ed higher queues especially at X = 1.2 for all arrival types, this is primarily caused by the dif- ferences in the method of calculating queues for oversaturated situation. Despite the variation found in oversaturated situation, the ‘uniform’ component of queues is observed to agree closely for both IM and TRANSYT. On the other hand, comparison of QMM pro- duced by HCM2000 yielded close agreement for under-saturated traffic. HCM2000 tends to estimate higher queues for oversaturated situations compared to IM and even TRANSYT. This ‘phenomenon’ of high estimation of oversaturated queues by HCM2000 had also been reported in [24]. 2. Average delays simulated by the IM are much lower compared to TRANSYT and HCM2000 for most scenarios. Both HCM2000 and TRANSYT adopt similar method for av- erage delay calculation. Hence, average delays from HCM2000 and TRANSYT seemed to coincide. The calculation of average delay in the IM is based on the area enclosed by the"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0114406 March 18, 2015 20 / 25"
+  }
+ }
+}

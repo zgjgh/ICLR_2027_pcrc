@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_465",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    596.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Human Defensive Responses"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.5,
+    719.1,
+    131.7
+   ],
+   "ocr": "Table 3. Gender Differences. Comparison of male and female top response options in scenarios for which their first responses differed. When applicable, these differences are compared to prior results [2] in the comments column. While the top response option in scenario P10 did not differ between males and females, the scenario is reported since Blanchard [2] had observed a gender effect. * Denotes a tie between first-choice response options."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    140.1,
+    726.7,
+    344.5
+   ],
+   "ocr": "Scenario Male Top Responses (n = 41) Female Top Responses (n = 44) Comments\nP2, Elevator 1. Attack or struggle 1. Yell or scream Blanchard found the same ﬁrst choices.\n2. Yell or scream 2. Attack or struggle First and second choices switched by gender.\nP8, Grab 1. Attack or struggle* 1. Yell or scream Blanchard found the same ﬁrst choices.\n1. Risk-assessment* 2. Risk-assessment Top three choices the same across genders.\n2. Yell or scream 3. Attack or struggle\nP10, Phone 1. Look for a weapon* 1. Look for a weapon Observed no differences in ﬁrst response\n1. Risk-assessment* 2. Yell or scream Top three choices the same across genders.\n2. Yell or scream 3. Risk-assessment Blanchard’s ﬁrst female response was hide.\nN2, Hurricane 1. Flight 1. Risk-assessment Comparison to Blanchard not applicable.\n2. Risk-assessment 2. Flight First and second choices switched by gender.\nS1, Blackmail 1. Report to authority 1. Verbal confrontation Comparison to Blanchard not applicable.\n2. Verbal confrontation 2. Report to authority First and second choices switched by gender.",
+   "table_id": "PMC4546605_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    352.6,
+    727.3,
+    888.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0133682.t003 Factor-approach/avoid response correlations. To directly relate responses to psychologi- cal and physical threat scenarios, the same correlational analysis completed for specific response options was completed according to the proportion of subjects who chose approach- avoid ratings corresponding to categorical approach/freeze/avoid responses. Gender differences. The above analyses were completed for males and females separately, as well as together. While minor differences were found between male and females’ first choice defensive behaviors for some scenarios, as these differences mirrored prior findings [2] (Table 3) and did not reflect our primary interest, males and females are consequently pooled in the results with specific differences noted only as they arise. Single approach-avoid score. A single approach-avoidance score across subjects’ ratings was derived for each scenario, with more positive scores indicating approach, more negative avoidance, and those close to zero either indifference or freezing. To construct this score, first, approach, freeze, and avoidance scores were calculated for each scenario. These scores were the proportion of subjects choosing categorical approach (ratings of 1, 2, 3, 4)/freeze (ratings of 5)/ avoid (ratings of 6, 7, 8, 9) for each scenario, with the proportion of subjects choosing an approach or avoidance rating weighted by subjects’ median approach or avoidance score. All categorical approach/freeze/avoid scores were rescaled on a 0 to 1 interval. Then, a single approach-avoidance score took the signed absolute value of the difference between the rescaled approach and avoidance scores, and penalized it by subtracting the magnitude of the rescaled freeze score for that scenario, such that the single approach-avoid score for scenarios that had larger freeze scores were closer to zero. Decision tree. A descriptive decision tree that predicted responses to threat scenarios based on features of those scenarios was created through a multi-step process. The first major step was describing convergence or divergence between physical and psy- chological scenarios. Two analyses guided this step. First, to test our hypothesis that psycholog- ical and physical threats are characteristically distinct, we calculated the dissimilarity between all pairs of scenarios based on the factor ratings of those scenarios, using the correlation dis- tance measure in Matlab’s pdist function. These pairwise scenario dissimilarities were then visualized both (1) as a dissimilarity matrix heatmap, organized by scenario type—animal, nat- ural, human physical, and psychological—and (2) according to multidimensional scaling of the dissimilarity distances between each scenario, to determine whether physical and psychological"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0133682 August 21, 2015 9 / 24"
+  }
+ }
+}

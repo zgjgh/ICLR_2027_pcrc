@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_184",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4600277_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    127.8,
+    678.6,
+    707.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4600277_table_0.png",
+   "html": "<table><tr><td>MIGS ID</td><td>Property</td><td>Term</td><td>Evidence codea</td></tr><tr><td></td><td>Current classification</td><td>Domain Archaea</td><td>TAS [107]</td></tr><tr><td></td><td></td><td>Phylum Euryarchaeota</td><td>TAS [107, 108]</td></tr><tr><td></td><td></td><td>Class Archaeoglobi</td><td>TAS [109]</td></tr><tr><td></td><td></td><td>Order Archaeoglobales</td><td>TAS [110]</td></tr><tr><td></td><td></td><td>Family Archaeoglobaceae</td><td>TAS [111]</td></tr><tr><td></td><td></td><td>Genus Geoglobus</td><td>TAS [1]</td></tr><tr><td></td><td></td><td>Species &#8220;Geoglobus ahangari&#8221;</td><td>TAS [1]</td></tr><tr><td></td><td></td><td>Type strain 234T</td><td>TAS [1]</td></tr><tr><td></td><td>Gram stain</td><td>Variable</td><td>NAS</td></tr><tr><td></td><td>Cell shape</td><td>Irregular coccus</td><td>TAS [1]</td></tr><tr><td></td><td>Motility</td><td>Motile</td><td>TAS [1]</td></tr><tr><td></td><td>Sporulation</td><td>Non-sporulating</td><td>NAS</td></tr><tr><td></td><td>Temperature range</td><td>65&#8722;90 &#176;C</td><td>TAS [1]</td></tr><tr><td></td><td>Optimal temperature</td><td>88 &#176;C</td><td>TAS [1]</td></tr><tr><td></td><td>pH range; Optimum</td><td>5.0&#8722;7.6 (optimum 7.0)</td><td>TAS [1]</td></tr><tr><td></td><td>Carbon source</td><td>CO2</td><td>TAS [1]</td></tr><tr><td></td><td>Energy metabolism</td><td>Chemolithoautotrophic, chemolithotrophic, chemoorganotrophic</td><td>TAS [1]</td></tr><tr><td>MIGS-6</td><td>Habitat</td><td>Marine geothermally heated areas</td><td>TAS [1]</td></tr><tr><td>MIGS-6.3</td><td>Salinity</td><td>9.0&#8722;38 g/L NaCl</td><td>TAS [1]</td></tr><tr><td>MIGS-22</td><td>Oxygen requirement</td><td>Anaerobe</td><td>TAS [1]</td></tr><tr><td>MIGS-15</td><td>Biotopic relationship</td><td>Free-living</td><td>TAS [1]</td></tr><tr><td rowspan=\"2\">MIGS-14</td><td>Pathogenicity</td><td>Non-pathogen</td><td>NAS</td></tr><tr><td>Isolation</td><td>Hydrothermal vent chimney</td><td>TAS [1]</td></tr><tr><td>MIGS-4</td><td>Geographic location</td><td>Guaymas Basin hydrothermal system</td><td>TAS [1]</td></tr><tr><td>MIGS-5</td><td>Sample collection time</td><td>Unknown</td><td>NAS</td></tr><tr><td>MIGS-4.1</td><td>Latitude</td><td>27&#176; N</td><td>TAS [1]</td></tr><tr><td>MIGS-4.2</td><td>Longitude</td><td>111&#176; W</td><td>TAS [1]</td></tr><tr><td>MIGS-4.3</td><td>Depth</td><td>2000 m</td><td>TAS [1]</td></tr><tr><td>MIGS-4.4</td><td>Altitude</td><td>Not applicable</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4600277_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    129.4,
+    361.0,
+    516.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4600277_table_1.png",
+   "html": "<table><tr><td>MIGS ID</td><td>Property</td><td>Term</td></tr><tr><td>MIGS-31</td><td>Finishing quality</td><td>Finished</td></tr><tr><td>MIGS-28</td><td>Libraries used</td><td>5 independent 100 bp paired-end Illumina shotgun libraries, 150 bp paired-end Illumina shotgun library</td></tr><tr><td>MIGS-29</td><td>Sequencing platforms</td><td>Illumina MiSeq</td></tr><tr><td rowspan=\"2\">MIGS-31.2</td><td rowspan=\"2\">Sequencing coverage</td><td>1,977 &#215; coverage (100 bp libraries)</td></tr><tr><td>100 &#215; (150 bp library)</td></tr><tr><td>MIGS-30</td><td>Assemblers</td><td>SeqMan NGen, Velvet, SeqMan Pro</td></tr><tr><td rowspan=\"5\">MIGS-32</td><td>Gene calling method</td><td>JGI-ER, GLIMMER</td></tr><tr><td>INSDC ID</td><td>CP011267</td></tr><tr><td>Genbank Date of Release</td><td>May 11, 2015</td></tr><tr><td>GOLD ID</td><td>Gp0101274</td></tr><tr><td>NCBI project ID</td><td>258102</td></tr><tr><td rowspan=\"2\">MIGS-13</td><td>Source material identifier</td><td>ATCC BAA-425, DSMZ DSM-27542, JCM JCM 12378</td></tr><tr><td>Project relevance</td><td>Phylogenetic diversity, biotechnology, evolution of metal respiration in hyperthermophiles, and anaerobic degradation of hydrocarbons</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4600277_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    552.8,
+    366.1,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4600277_table_2.png",
+   "html": "<table><tr><td>Attribute</td><td>Value</td><td>% of totala</td></tr><tr><td>Size (bp)</td><td>1,770,093</td><td>100.0 %</td></tr><tr><td>Coding region (bp)</td><td>1,662,832</td><td>93.9 %</td></tr><tr><td>G + C content (bp)</td><td>940,071</td><td>53.1 %</td></tr><tr><td>Number of replicons</td><td>1</td><td></td></tr><tr><td>Extrachromosomal elements</td><td>0</td><td></td></tr><tr><td>Total genes</td><td>2072</td><td>100.0 %</td></tr><tr><td>RNA genes</td><td>52</td><td>2.5 %</td></tr><tr><td>rRNA operons</td><td>2</td><td></td></tr><tr><td>Protein-coding genes</td><td>2034</td><td>100.0 %</td></tr><tr><td>Pseudogenes</td><td>47</td><td>2.3 %</td></tr><tr><td>Genes with function prediction</td><td>1677</td><td>82.4 %</td></tr><tr><td>Genes in paralog clusters</td><td>1406</td><td>69.1 %</td></tr><tr><td>Genes assigned to COGs</td><td>1470</td><td>72.2 %</td></tr><tr><td>Genes assigned Pfam domains</td><td>1667</td><td>82.0 %</td></tr><tr><td>Genes with signal peptides</td><td>55</td><td>2.7 %</td></tr><tr><td>Genes with transmembrane helices</td><td>409</td><td>20.1 %</td></tr><tr><td>CRISPR repeats</td><td>7</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4600277_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    127.8,
+    678.6,
+    666.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4600277_table_3.png",
+   "html": "<table><tr><td>Code</td><td>Value</td><td>% agea</td><td>Description</td></tr><tr><td>J</td><td>155</td><td>7.6 %</td><td>Translation, ribosomal structure and biogenesis</td></tr><tr><td>A</td><td>2</td><td>0.1 %</td><td>RNA processing and modification</td></tr><tr><td>K</td><td>68</td><td>3.3 %</td><td>Transcription</td></tr><tr><td>L</td><td>58</td><td>2.9 %</td><td>Replication, recombination and repair</td></tr><tr><td>B</td><td>6</td><td>0.3 %</td><td>Chromatin structure and dynamics</td></tr><tr><td>D</td><td>20</td><td>1.0 %</td><td>Cell cycle control, Cell division, chromosome partitioning</td></tr><tr><td>Y</td><td>0</td><td>0.0 %</td><td>Nuclear structure</td></tr><tr><td>V</td><td>7</td><td>0.3 %</td><td>Defense mechanisms</td></tr><tr><td>T</td><td>24</td><td>1.2 %</td><td>Signal transduction mechanisms</td></tr><tr><td>M</td><td>35</td><td>1.7 %</td><td>Cell wall/membrane biogenesis</td></tr><tr><td>N</td><td>15</td><td>0.7 %</td><td>Cell motility</td></tr><tr><td>Z</td><td>0</td><td>0.0 %</td><td>Cytoskeleton</td></tr><tr><td>W</td><td>0</td><td>0.0 %</td><td>Extracellular structures</td></tr><tr><td>U</td><td>23</td><td>1.1 %</td><td>Intracellular trafficking and secretion</td></tr><tr><td>O</td><td>57</td><td>2.8 %</td><td>Posttranslational modification, protein turnover, chaperones</td></tr><tr><td>C</td><td>160</td><td>7.9 %</td><td>Energy production and conversion</td></tr><tr><td>G</td><td>37</td><td>1.8 %</td><td>Carbohydrate transport and metabolism</td></tr><tr><td>E</td><td>139</td><td>6.8 %</td><td>Amino acid transport and metabolism</td></tr><tr><td>F</td><td>49</td><td>2.4 %</td><td>Nucleotide transport and metabolism</td></tr><tr><td>H</td><td>103</td><td>5.1 %</td><td>Coenzyme transport and metabolism</td></tr><tr><td>I</td><td>55</td><td>2.7 %</td><td>Lipid transport and metabolism</td></tr><tr><td>P</td><td>86</td><td>4.2 %</td><td>Inorganic ion transport and metabolism</td></tr><tr><td>Q</td><td>16</td><td>0.8 %</td><td>Secondary metabolites biosynthesis, transport and catabolism</td></tr><tr><td>R</td><td>244</td><td>12.0 %</td><td>General function prediction only</td></tr><tr><td>S</td><td>198</td><td>9.7 %</td><td>Function unknown</td></tr><tr><td>-</td><td>477</td><td>23.5 %</td><td>Not in COGs</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4600277_table_4",
+   "page_num": 5,
+   "bbox": [
+    383.9,
+    838.5,
+    678.6,
+    918.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4600277_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Organism</td><td colspan=\"5\">Electron acceptors</td></tr><tr><td>Sulfate</td><td>Sulfite</td><td>Thiosulfate</td><td>Nitrate</td><td>Fe(III)</td></tr><tr><td>Geoglobus spp.</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+</td></tr><tr><td>Ferroglobus placidus</td><td>-</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Archaeoglobus spp.</td><td>+/&#8722;</td><td>+</td><td>+</td><td>-</td><td>-</td></tr></table>"
+  }
+ ]
+}

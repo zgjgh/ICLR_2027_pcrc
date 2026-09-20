@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_266",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    359.7,
+    64.4
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2005, 5:37"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/5/37"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    397.9,
+    118.9
+   ],
+   "ocr": "Table 1: Journal subset slider bar limit descriptions and corresponding"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    400.8,
+    107.2,
+    469.4,
+    118.9
+   ],
+   "ocr": "PubMed filters"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    143.9,
+    129.9,
+    665.0,
+    312.4
+   ],
+   "ocr": "Slider Value Limit Description PubMed Filter\n0 Default (All PubMed) No filter\n1–5 PubMed: with abstracts only AND hasabstract\n6–15 PubMed: full text AND full text[sb]\n16–25 PubMed: free full text AND free full text[sb]\n26–35 MEDLINE (4800+ journals) AND medline[sb]\n36–45 MEDLINE: with abstracts only AND medline[sb] AND hasabstract\n46–55 MEDLINE: full text AND medline[sb] AND full text[sb]\n56–65 MEDLINE: free full text AND medline[sb] AND free full text[sb]\n66–75 Core Clinical (120 journals) AND jsubsetaim\n76–85 Core Clinical: with abstracts only AND jsubsetaim AND hasabstract\n86–95 Core Clinical: full text AND jsubsetaim AND full text[sb]\n95–100 Core Clinical: free full text AND jsubsetaim AND free full text[sb]",
+   "table_id": "PMC1318459_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    344.5,
+    376.5,
+    668.5
+   ],
+   "ocr": "nents: the search form, the information box and the search results. The search form (Figure 1) is the constant component in all views of the application and the only component ini- tially loaded. It contains a text box for the search terms along with five slider controls. The JavaScript slider bars move between arbitrary values of 0 to 100 with mouse clicks or keyboard strokes. The default setting for all slider controls is zero, i.e. no limits or filters. Checkboxes are available for limits not appropriate for slider controls, such as Human studies and English language limits. SLIM allows a preview of the number of results through the information box (Figure 1.) The information box is displayed below the search form for both previews and full searches. It also provides additional search informa- tion such as mapped MeSH Terms, mapped Subheadings and unmapped terms. Table 2: Age group slider bar limit description and corresponding"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    379.4,
+    344.5,
+    698.4,
+    668.5
+   ],
+   "ocr": "When a full search is done, the results are presented below the information box. Each citation contains the article title, authors, journal name, volume, issue, pages and publication types. Abstracts, if available, are loaded on the page embedded with JavaScript functions that allow the abstracts to be hidden and displayed instantly with the click of a mouse (Figure 2 and 3). Abstracts are hidden by default. Links to related articles and PubMed are also pro- vided. Limits and filters SLIM follows the search and syntax rules of PubMed. Lim- its and filters are implemented by appending phrases and search tags to the search terms before querying the MEDLINE/PubMed database through the Entrez Pro- gramming Utilities (E-Utilities) [10]. The slider bars rep- resent step implementations of common limits and filters in PubMed. Each slider bar holds values from 0 to 100, which are divided into subsets according to the number of options in that slider bar. When the slider is moved, the PubMed filters"
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    143.9,
+    679.5,
+    690.7,
+    911.3
+   ],
+   "ocr": "Slider Value Limit Description PubMed Filter\n0 Default No age limits\n1–8 Newborn (Birth – 1 month) \"infant, newborn\"[MeSH Terms]\n9–16 Infant (1–23 months) \"infant\"[MeSH Terms:noexp]\n17–24 Infant Group (Birth-23 months) \"infant\"[MeSH Terms]\n25–32 Preschool Child (2–5 years) \"child, preschool\"[MeSH Terms]\n33–40 Child (6–12 years) \"child\"[MeSH Terms:noexp]\n41–48 Adolescent (13–18 years) \"adolescent\"[MeSH Terms]\n49–56 Child Group (0–18 years) (\"infant\"[MeSH Terms] OR \"child\"[MeSH\nTerms] OR \"adolescent\"[MeSH Terms])\n57–64 Adult (19–44 years) \"adult\"[MeSH Terms:noexp]\n65–72 Middle Aged (45–64 years) \"middle aged\"[MeSH Terms]\n73–80 Middle Aged + Aged (45+ years) (\"middle aged\"[MeSH Terms] OR \"aged\"[MeSH\nTerms])\n81–88 Adult Group (19+ years) \"adult\"[MeSH Terms]\n89–96 Aged (65+ years) \"aged\"[MeSH Terms]\n97–100 80 and over (80+ years) \"aged, 80 and over\"[MeSH Terms]",
+   "table_id": "PMC1318459_table_1"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 9 (page number not for citation purposes)"
+  }
+ }
+}

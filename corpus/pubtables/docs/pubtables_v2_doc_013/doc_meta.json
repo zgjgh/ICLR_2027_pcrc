@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_013",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    687,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    687,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    687,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    687,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    687,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC6157292_table_0",
+   "page_num": 1,
+   "bbox": [
+    67.0,
+    318.4,
+    611.5,
+    686.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC6157292_table_0.png",
+   "html": "<table><tr><td>Subject area</td><td>Biology</td></tr><tr><td>More specific subject area</td><td>Tetramer organizing polyproline-rich peptides of butyrylcholinesterase</td></tr><tr><td>Type of data</td><td>Amino acid sequences of polyproline-rich peptides released from pure PoBChE</td></tr><tr><td>How data was acquired</td><td>Liquid chromatography tandem mass spectrometry (LC&#8211;MS/MS) on the 6600 Triple-TOF mass spectrometer (AB Sciex).</td></tr><tr><td>Data format</td><td>Analyzed</td></tr><tr><td>Experimental factors</td><td>Pure PoBChE tetramers were deglycosylated with PNGaseF, dena- tured in a boiling water bath to release noncovalently bound polyproline-rich peptides, and digested with trypsin. Peptides were separated by Ultra High Performance Liquid Chromatography and analyzed by MS/MS. Peptide data were searched against the NCBInr 15Sep2014 database for Sus scrofa proteins using the Paragon algo- rithm from Protein Pilot v 5.01 (AB Sciex).</td></tr><tr><td>Experimental features</td><td>The amino acid sequence of the 574 amino acid PoBChE protein was determined by LC-MS/MS of trypsin-digested PoBChE.</td></tr><tr><td>Data source location</td><td>Omaha, Nebraska, USA</td></tr><tr><td>Data accessibility</td><td>The NCBI accession number for the PoBChE protein amino acid sequence is NP_001344438.1. https://www.ncbi.nlm.nih.gov/pro tein/NP_001344438.1</td></tr><tr><td>Related research article</td><td>Saxena A, Belinskaya T, Schopfer LM, Lockridge O. Characterization of butyrylcholinesterase from porcine milk. Arch Biochem Biophys 2018, 652:38-49</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6157292_table_1",
+   "page_num": 2,
+   "bbox": [
+    67.0,
+    243.7,
+    611.4,
+    582.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6157292_table_1.png",
+   "html": "<table><tr><td>Name</td><td>Gene</td><td>Gi #</td><td>peptide</td><td>length</td><td>count</td></tr><tr><td rowspan=\"25\">Acrosin</td><td>ACR</td><td>47522886</td><td>APPPPPPPPPPP</td><td>12</td><td>12</td></tr><tr><td></td><td>P08001</td><td>PAPPPPPPPPPP</td><td>12</td><td>12</td></tr><tr><td></td><td></td><td>PPAPPPPPPPPP</td><td>12</td><td>6</td></tr><tr><td></td><td></td><td>PPAPPPPPPPPPPPPP</td><td>16</td><td>3</td></tr><tr><td></td><td></td><td>PPPAPPPPPPPPPPPP</td><td>16</td><td>9</td></tr><tr><td></td><td></td><td>APPPPPPPPPPPPPPP</td><td>16</td><td>3</td></tr><tr><td></td><td></td><td>PAPPPPPPPPPPPPPP</td><td>16</td><td>3</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPQQ</td><td>17</td><td>4</td></tr><tr><td></td><td></td><td>APPPAPPPPPPPPP</td><td>14</td><td>2</td></tr><tr><td></td><td></td><td>PAPPPAPPPPPPPP</td><td>14</td><td>2</td></tr><tr><td></td><td></td><td>PPPAPPPPPPPP</td><td>12</td><td>7</td></tr><tr><td></td><td></td><td>APPPPPPPPPPPPP</td><td>14</td><td>1</td></tr><tr><td></td><td></td><td>PAPPPPPPPPPPPP</td><td>14</td><td>2</td></tr><tr><td></td><td></td><td>PPPAPPPPPPPPPP</td><td>14</td><td>2</td></tr><tr><td></td><td></td><td>APPPPPPPPPPPP</td><td>13</td><td>2</td></tr><tr><td></td><td></td><td>PAPPPPPPPPPPP</td><td>13</td><td>2</td></tr><tr><td></td><td></td><td>PPPAPPPPPPP</td><td>11</td><td>1</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPP</td><td>12</td><td>5</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPP</td><td>13</td><td>11</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPP</td><td>14</td><td>7</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPP</td><td>15</td><td>1</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPP</td><td>17</td><td>20</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPPP</td><td>18</td><td>13</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPPPP</td><td>19</td><td>6</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPQQ</td><td>18</td><td>2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6157292_table_2",
+   "page_num": 3,
+   "bbox": [
+    75.4,
+    136.1,
+    619.7,
+    298.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC6157292_table_2.png",
+   "html": "<table><tr><td>Name</td><td>Gene</td><td>Gi #</td><td></td><td>Length</td><td>count</td></tr><tr><td rowspan=\"11\">Homeobox protein Hox-B4</td><td>HOXB4</td><td>311267494</td><td>RDPGPPPPPPPPPPPPPPPGL</td><td>21</td><td>32</td></tr><tr><td></td><td></td><td>DPGPPPPPPPPPPPPPPPGL</td><td>20</td><td>9</td></tr><tr><td></td><td></td><td>GPPPPPPPPPPPPPPPGL</td><td>18</td><td>10</td></tr><tr><td></td><td></td><td>PGPPPPPPPPPPPPPPPGL</td><td>19</td><td>24</td></tr><tr><td></td><td></td><td>GPPPPPPPPPPPP</td><td>13</td><td>8</td></tr><tr><td></td><td></td><td>PGPPPPPPPPPPP</td><td>13</td><td>8</td></tr><tr><td></td><td></td><td>PGPPPPPPPPPPPPPPP</td><td>17</td><td>1</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPP</td><td>12</td><td>5</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPP</td><td>13</td><td>11</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPP</td><td>14</td><td>7</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPP</td><td>15</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6157292_table_3",
+   "page_num": 3,
+   "bbox": [
+    75.4,
+    613.7,
+    619.7,
+    927.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC6157292_table_3.png",
+   "html": "<table><tr><td>Name</td><td>Gene</td><td>Gi #</td><td>peptide</td><td>Length</td><td>count</td></tr><tr><td rowspan=\"23\">Lysine-specific demethylase 6B</td><td>KDM6B</td><td>545860221</td><td>PPPPPPPPPPPPPPPLPGLAT</td><td>21</td><td>1</td></tr><tr><td></td><td></td><td>PPPPLPPPPPPPPPPPP</td><td>17</td><td>1</td></tr><tr><td></td><td></td><td>LPPPPPPPPPPP</td><td>12</td><td>17</td></tr><tr><td></td><td></td><td>LPPPPPPPPPPPP</td><td>13</td><td>17</td></tr><tr><td></td><td></td><td>LPPPPPPPPPPPPPPP</td><td>16</td><td>5</td></tr><tr><td></td><td></td><td>PLPPPPPPPPPP</td><td>12</td><td>16</td></tr><tr><td></td><td></td><td>PLPPPPPPPPPPP</td><td>13</td><td>15</td></tr><tr><td></td><td></td><td>PLPPPPPPPPPPPPPP</td><td>16</td><td>4</td></tr><tr><td></td><td></td><td>PLPPPPPPPPPPPPPPP</td><td>17</td><td>1</td></tr><tr><td></td><td></td><td>PPLPPPPPPPPP</td><td>12</td><td>7</td></tr><tr><td></td><td></td><td>PPLPPPPPPPPPP</td><td>13</td><td>9</td></tr><tr><td></td><td></td><td>PPLPPPPPPPPPPPPP</td><td>16</td><td>4</td></tr><tr><td></td><td></td><td>PPPLPPPPPPPP</td><td>12</td><td>21</td></tr><tr><td></td><td></td><td>PPPLPPPPPPPPP</td><td>13</td><td>19</td></tr><tr><td></td><td></td><td>PPPLPPPPPPPPPPPP</td><td>16</td><td>9</td></tr><tr><td></td><td></td><td>PPPPLPPPPPPP</td><td>12</td><td>6</td></tr><tr><td></td><td></td><td>PPPPLPPPPPPPP</td><td>13</td><td>26</td></tr><tr><td></td><td></td><td>PPPPLPPPPPPPPPPP</td><td>16</td><td>7</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPP</td><td>12</td><td>5</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPP</td><td>13</td><td>11</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPLPGL</td><td>17</td><td>1</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPP</td><td>14</td><td>7</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPP</td><td>15</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6157292_table_4",
+   "page_num": 4,
+   "bbox": [
+    67.0,
+    673.2,
+    611.4,
+    810.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC6157292_table_4.png",
+   "html": "<table><tr><td>Name</td><td>Gene</td><td>Gi #</td><td>peptide</td><td>Length</td><td>Count</td></tr><tr><td rowspan=\"9\">Zinc finger homeobox protein 4</td><td>ZFHX4</td><td>545821241</td><td>TPPPPPPPPPPPPPPPPPPPSA</td><td>22</td><td>2</td></tr><tr><td></td><td></td><td>TPPPPPPPPPPPPPPSSL</td><td>18</td><td>1</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPP</td><td>12</td><td>10</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPP</td><td>13</td><td>11</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPP</td><td>14</td><td>7</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPP</td><td>15</td><td>1</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPP</td><td>17</td><td>20</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPPP</td><td>18</td><td>13</td></tr><tr><td></td><td></td><td>PPPPPPPPPPPPPPPPPPP</td><td>19</td><td>6</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6157292_table_8",
+   "page_num": 5,
+   "bbox": [
+    75.4,
+    705.0,
+    619.7,
+    791.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC6157292_table_8.png",
+   "html": "<table><tr><td>Name</td><td>Gene</td><td>Gi #</td><td>peptide</td><td>Length</td><td>Count</td></tr><tr><td rowspan=\"4\">FH2 domain-contain- ing protein 1</td><td>FHDC1</td><td>545845605</td><td>PPPPSPPPPPPPP</td><td>13</td><td>1</td></tr><tr><td></td><td></td><td>PPPPSPPPPPPP</td><td>12</td><td>4</td></tr><tr><td></td><td></td><td>PPPSPPPPPPPP</td><td>12</td><td>4</td></tr><tr><td></td><td></td><td>PPSPPPPPPPPP</td><td>12</td><td>1</td></tr></table>"
+  }
+ ]
+}

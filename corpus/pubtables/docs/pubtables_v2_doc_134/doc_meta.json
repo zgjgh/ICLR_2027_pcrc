@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_134",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3160843_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    629.5,
+    690.8,
+    904.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3160843_table_0.png",
+   "html": "<table><tr><td>Category</td><td>Variables</td><td>Remark</td></tr><tr><td rowspan=\"2\">Demographic</td><td>Age</td><td></td></tr><tr><td>Gender</td><td></td></tr><tr><td rowspan=\"3\">Underlying health status</td><td>Diagnosis number at admission</td><td>Represented as complexity of disease</td></tr><tr><td>General anesthesia</td><td>Major surgical procedures and interventions</td></tr><tr><td>Hemodialysis</td><td>Underlying healthy status</td></tr><tr><td rowspan=\"7\">Procedural</td><td>Arterial line</td><td></td></tr><tr><td>Central venous catheterization</td><td></td></tr><tr><td>Endotracheal intubation</td><td></td></tr><tr><td>Tracheostomy</td><td></td></tr><tr><td>Nasogastric tube</td><td></td></tr><tr><td>Foley catheterization</td><td></td></tr><tr><td>Draining tubes</td><td>Chest tube, draining tube, double-lumen tube&#8230;etc.</td></tr><tr><td rowspan=\"4\">Therapeutical</td><td>Chemotherapeutic agents</td><td>Used for more than 3 days</td></tr><tr><td>Systemic Glucocorticosteroids</td><td>Used for more than 5 days</td></tr><tr><td>Stress ulcer prophylaxes</td><td>H2 antagonists, sucralfate, and proton pump inhibitors used for more than 3 days</td></tr><tr><td>Non-steroid anti-inflammatory drugs</td><td>Used for more than 3 days</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3160843_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    135.1,
+    366.2,
+    648.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3160843_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Variablesa</td><td rowspan=\"2\">Coding</td><td rowspan=\"2\">Infection (N = 476)</td><td rowspan=\"2\">Non-infection (N = 1,376)</td></tr><tr></tr><tr><td colspan=\"2\">Age, yearsb,*</td><td>65.32613.40</td><td>51.82618.55</td></tr><tr><td colspan=\"2\">Diagnosis numbers at admissionb,*</td><td>1.6761.01</td><td>1.4160.76</td></tr><tr><td rowspan=\"2\">Gender*</td><td>Male</td><td>274 (57.6%)</td><td>685 (49.8%)</td></tr><tr><td>Female</td><td>202 (42.4%)</td><td>691 (50.2%)</td></tr><tr><td rowspan=\"2\">General anesthesia*</td><td>Yes</td><td>222 (46.6%)</td><td>368 (26.7%)</td></tr><tr><td>No</td><td>254 (53.4%)</td><td>1,008 (73.3%)</td></tr><tr><td rowspan=\"2\">Hemodialysis*</td><td>Yes</td><td>75 (17.3%)</td><td>42 (3.1%)</td></tr><tr><td>No</td><td>401 (82.7%)</td><td>1,334 (96.9%)</td></tr><tr><td rowspan=\"2\">Arterial line*</td><td>Yes</td><td>216 (45.4%)</td><td>59 (4.3%)</td></tr><tr><td>No</td><td>260 (54.6%)</td><td>1317 (95.7%)</td></tr><tr><td rowspan=\"2\">CVC*</td><td>Yes</td><td>296 (62.2%)</td><td>89 (6.5%)</td></tr><tr><td>No</td><td>180 (37.8%)</td><td>1,287 (93.5%)</td></tr><tr><td rowspan=\"2\">Endotracheal intubation*</td><td>Yes</td><td>378 (79.4%)</td><td>133 (9.7%)</td></tr><tr><td>No</td><td>98 (20.6%)</td><td>1,243 (90.3%)</td></tr><tr><td rowspan=\"2\">Tracheostomy*</td><td>Yes</td><td>107 (22.5%)</td><td>17 (1.2%)</td></tr><tr><td>No</td><td>369 (77.5%)</td><td>1,359 (98.8%)</td></tr><tr><td rowspan=\"2\">NG tube*</td><td>Yes</td><td>420 (88.2%)</td><td>151 (11.0%)</td></tr><tr><td>No</td><td>56 (11.8%)</td><td>1,225 (89.0%)</td></tr><tr><td rowspan=\"2\">Foley catheterization*</td><td>Yes</td><td>355 (74.6%)</td><td>202 (19.8%)</td></tr><tr><td>No</td><td>121 (25.4%)</td><td>1,104 (80.2%)</td></tr><tr><td rowspan=\"2\">Draining tubes*</td><td>Yes</td><td>58 (12.2%)</td><td>22 (1.6%)</td></tr><tr><td>No</td><td>418 (87.8%)</td><td>1,354 (98.4%)</td></tr><tr><td rowspan=\"2\">Chemotherapy*</td><td>Yes</td><td>24 (5.0%)</td><td>19 (1.4%)</td></tr><tr><td>No</td><td>452 (95.0%)</td><td>1,357 (98.6%)</td></tr><tr><td rowspan=\"2\">Systemic Glucocorticosteroids*</td><td>Yes</td><td>143 (30.0%)</td><td>42 (3.1%)</td></tr><tr><td>No</td><td>333 (70.0%)</td><td>1,334 (96.9%)</td></tr><tr><td rowspan=\"2\">Stress ulcer prophylaxes*</td><td>Yes</td><td>331 (69.5%)</td><td>130 (9.4%)</td></tr><tr><td>No</td><td>145 (30.5%)</td><td>1,246 (90.6%)</td></tr><tr><td rowspan=\"2\">NSAID</td><td>Yes</td><td>136 (28.6%)</td><td>430 (31.3%)</td></tr><tr><td>No</td><td>340 (71.4%)</td><td>946 (68.8%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3160843_table_2",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    803.4,
+    634.2,
+    893.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3160843_table_2.png",
+   "html": "<table><tr><td>Setting</td><td>Variables</td><td>Remark</td></tr><tr><td>Group 1</td><td>All 7 variables</td><td>Selected by final LR model</td></tr><tr><td>Group 2</td><td>Foley catheter, NG tube and steroids</td><td>High odds ratio variables</td></tr><tr><td>Group 3</td><td>Foley catheter, CVC, arterial line and NG tube</td><td>Medical devices</td></tr><tr><td>Group 4</td><td>CVC, arterial line and stress ulcer prophylaxes</td><td>Low odds ratio variables</td></tr><tr><td>Group 5</td><td>Hemodialysis, stress ulcer prophylaxes and steroids</td><td>Underlying condition and medications</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3160843_table_3",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    723.4,
+    369.0,
+    882.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3160843_table_3.png",
+   "html": "<table><tr><td></td><td>Coefficient (b)</td><td>SE</td><td>OR</td><td>95% CI</td><td>p value</td></tr><tr><td>NG tube</td><td>22.594</td><td>0.317</td><td>13.389</td><td>7.193&#8211;24.924</td><td>,0.0001</td></tr><tr><td>Steroids</td><td>21.975</td><td>0.415</td><td>7.207</td><td>3.195&#8211;16.256</td><td>,0.0001</td></tr><tr><td>Foley catheter</td><td>21.812</td><td>0.282</td><td>6.125</td><td>3.524&#8211;10.645</td><td>,0.0001</td></tr><tr><td>Hemodialysis</td><td>21.527</td><td>0.528</td><td>4.606</td><td>1.637&#8211;12.958</td><td>0.004</td></tr><tr><td>Stress ulcer prophylaxes</td><td>21.368</td><td>0.303</td><td>3.928</td><td>2.171&#8211;7.108</td><td>,0.0001</td></tr><tr><td>Arterial line</td><td>20.950</td><td>0.432</td><td>2.586</td><td>1.109&#8211;6.032</td><td>0.028</td></tr><tr><td>CVC</td><td>20.753</td><td>0.374</td><td>2.123</td><td>1.021&#8211;4.415</td><td>0.044</td></tr><tr><td>Constant</td><td>6.518</td><td>0.754</td><td>-</td><td>-</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3160843_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    537.1,
+    674.6,
+    786.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3160843_table_4.png",
+   "html": "<table><tr><td>Models</td><td>Accuracy</td><td>Sens.</td><td>Spec.</td><td>PPV</td><td>NPV</td><td>AUCa</td><td>p valueb</td><td>p valuec</td><td>p valued</td></tr><tr><td colspan=\"10\">Group 1</td></tr><tr><td>ANN</td><td>95.04</td><td>97.06</td><td>96.52</td><td>90.6</td><td>99.0</td><td>0.99560.003</td><td>-</td><td>-</td><td></td></tr><tr><td>LR</td><td>91.05</td><td>93.7</td><td>91.0</td><td>78.2</td><td>97.7</td><td>0.96660.008</td><td>,0.001</td><td></td><td>-</td></tr><tr><td colspan=\"10\">Group 2</td></tr><tr><td>ANN</td><td>89.97</td><td>92.44</td><td>89.7</td><td>75.6</td><td>97.2</td><td>0.94960.010</td><td>-</td><td>,0.001</td><td></td></tr><tr><td>LR</td><td>89.32</td><td>92.44</td><td>89.7</td><td>75.6</td><td>97.2</td><td>0.94760.010</td><td>0.796</td><td></td><td>0.005</td></tr><tr><td colspan=\"10\">Group 3</td></tr><tr><td>ANN</td><td>90.51</td><td>91.60</td><td>87.37</td><td>71.5</td><td>96.8</td><td>0.94860.010</td><td>-</td><td>,0.001</td><td></td></tr><tr><td>LR</td><td>90.40</td><td>90.34</td><td>89.40</td><td>74.7</td><td>96.4</td><td>0.95360.010</td><td>0.183</td><td></td><td>0.054</td></tr><tr><td colspan=\"10\">Group 4</td></tr><tr><td>ANN</td><td>86.62</td><td>85.29</td><td>85.78</td><td>67.4</td><td>94.4</td><td>0.88460.015</td><td>-</td><td>,0.001</td><td></td></tr><tr><td>LR</td><td>86.73</td><td>84.45</td><td>86.65</td><td>68.6</td><td>94.2</td><td>0.88660.015</td><td>0.490</td><td></td><td>,0.001</td></tr><tr><td colspan=\"10\">Group 5</td></tr><tr><td>ANN</td><td>85.33</td><td>82.35</td><td>86.36</td><td>67.6</td><td>93.4</td><td>0.86760.016</td><td>-</td><td>,0.001</td><td></td></tr><tr><td>LR</td><td>85.33</td><td>82.35</td><td>86.36</td><td>67.6</td><td>93.4</td><td>0.86760.016</td><td>1.000</td><td></td><td>,0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3160843_table_5",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    120.1,
+    680.8,
+    369.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3160843_table_5.png",
+   "html": "<table><tr><td>Models</td><td>Accuracy</td><td>Sens.</td><td>Spec.</td><td>PPV</td><td>NPV</td><td>AUCa</td><td>p valueb</td><td>p valuec</td><td>p valued</td></tr><tr><td colspan=\"10\">Group 1</td></tr><tr><td>ANN</td><td>90.24</td><td>96.64</td><td>85.96</td><td>70.6</td><td>98.7</td><td>0.96460.012</td><td>-</td><td>-</td><td></td></tr><tr><td>LR</td><td>91.54</td><td>92.44</td><td>91.52</td><td>79.1</td><td>97.2</td><td>0.96960.011</td><td>0.507</td><td></td><td>-</td></tr><tr><td colspan=\"10\">Group 2</td></tr><tr><td>ANN</td><td>90.02</td><td>90.76</td><td>86.55</td><td>70.1</td><td>96.4</td><td>0.94960.014</td><td>-</td><td>0.177</td><td></td></tr><tr><td>LR</td><td>87.64</td><td>90.76</td><td>86.55</td><td>70.1</td><td>96.4</td><td>0.95260.014</td><td>0.574</td><td></td><td>0.024</td></tr><tr><td colspan=\"10\">Group 3</td></tr><tr><td>ANN</td><td>91.54</td><td>92.44</td><td>86.84</td><td>71.0</td><td>97.1</td><td>0.94960.014</td><td>-</td><td>0.205</td><td></td></tr><tr><td>LR</td><td>91.76</td><td>96.64</td><td>85.96</td><td>70.6</td><td>98.7</td><td>0.95960.013</td><td>0.095</td><td></td><td>0.295</td></tr><tr><td colspan=\"10\">Group 4</td></tr><tr><td>ANN</td><td>86.98</td><td>81.51</td><td>89.18</td><td>72.4</td><td>93.3</td><td>0.87360.022</td><td>-</td><td>,0.001</td><td></td></tr><tr><td>LR</td><td>87.64</td><td>80.67</td><td>90.06</td><td>73.8</td><td>93.1</td><td>0.87660.022</td><td>0.553</td><td></td><td>,0.001</td></tr><tr><td colspan=\"10\">Group 5</td></tr><tr><td>ANN</td><td>85.47</td><td>71.43</td><td>90.35</td><td>72.0</td><td>90.1</td><td>0.82960.025</td><td>-</td><td>,0.001</td><td></td></tr><tr><td>LR</td><td>85.47</td><td>71.43</td><td>90.35</td><td>72.0</td><td>90.1</td><td>0.82960.025</td><td>1.000</td><td></td><td>,0.001</td></tr></table>"
+  }
+ ]
+}

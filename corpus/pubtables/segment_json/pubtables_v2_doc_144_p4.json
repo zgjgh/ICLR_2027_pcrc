@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_144",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    264.2,
+    65.8
+   ],
+   "ocr": "Minoche et al. Genome Biology 2011, 12:R112 http://genomebiology.com/2011/12/11/R112"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 15"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    386.2,
+    124.0
+   ],
+   "ocr": "Table 4 Indels and substitution errors in B-tail trimmed reads"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    644.9,
+    217.2
+   ],
+   "ocr": "Data set Uniquely aligned bases Substitution errors (rate) Indels (rate)\nBv-95nt 4,900,840 7,615 (0.16%) 84 (1.7 E-5)\nPhiX-95nt 778,014,176 830,351 (0.11%) 3,789 (4.9 E-6)\nAt-100nt 1,111,314,053 1,792,190 (0.16%) 26,130 (2.4 E-5)\nPhiX-100nt 170,078,494 203,729 (0.12%) 546 (3.2 E-6)\nPhiX-GAIIx 1,760,062,929 4,936,167 (0.28%) 7,077 (4.0 E-6)",
+   "table_id": "PMC3334598_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    241.1,
+    678.7,
+    525.9
+   ],
+   "ocr": "prone positions were highly reproducible (Figure S12 and S13 in Additional file 1). However, the finding is less obvious in GA data (Figure S13d-f in Additional file 1) than in HiSeq data (Figure S13a-c in Additional file 1). Among GA data, it is less obvious in the data sets of smaller cycle numbers than in the data set of 150 cycles (Figure S9h in Additional file 1). The 161 positions them- selves, but also the surrounding positions, show low aver- age quality values (Figures 2c), and the quality values are low not only for wrongly but also for correctly called bases (Figure 5). The location of these peaks close to regions of accumulated B-tails (Figure 2a) prompted us to trim off a larger part than the actual B-tail (5, 10 and 15 bases more than the B-tail length), but extended trim- ming and even the complete removal of B-tailed reads could not eliminate the error rate peaks (Figure S14 in Additional file 1). As suggested by B-tail accumulation, we find a non-random distribution of errors within the reference, different for the two strands."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    241.2,
+    366.1,
+    526.0
+   ],
+   "ocr": "reads (Figures S16 and S17 in Additional file 1) as well as GAIIx reads (data not shown). Thus, taking quality values into account should safely prevent potential interfering effects caused by these outliers during downstream analysis. Within the PhiX reference genome we found 161 posi- tions of significantly increased error rates ranging from 0.36% to 8.83% (higher than the mean error rate plus standard deviation). The 161 bases represent 3.0% of the PhiX genome but 24.7% of all substitution errors occur at these positions (PhiX-95nt data). Closer inspection revealed that error rates at these positions differ between the two strands reaching peaks of 18.7% when determin- ing strand-specific error rates (Figure 2d; Table S1 in Additional file 1). We tested the reproducibility by using several other PhiX data sets (generated on both GAIIx and HiSeq instruments; supplemental methods in Addi- tional file 1) and another mapping program. Between dif- ferent samples and two mapping programs the error"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    878.1,
+    395.0,
+    914.7
+   ],
+   "ocr": "Figure 4 Observed error rates of 2 × 95-nucleotide HiSeq reads (right) were analyzed separately for PhiX-95nt data (a) and Bv-95nt data reads were mapped against the PhiX or ZR reference sequences, respectively."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    370.3,
+    878.2,
+    670.7,
+    902.1
+   ],
+   "ocr": "by cycle (averaged across all flow cell tiles). Read 1 (left) and read 2 (b). PhiX and sugar beet DNA was sequenced in the same lane, and"
+  }
+ }
+}

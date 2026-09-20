@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_396",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Online Adaptation of a c-VEP BCI"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    121.8,
+    695.0,
+    310.1
+   ],
+   "ocr": "Session 1 (unsupervised) Session 2 (ErrP-based)\nSubject Accuracy ITR [bit/min] Accuracy ITR [bit/min]\nAA 98.78% 151.53 97.40% 147.16\nAB 86.28% 119.05 91.49% 130.78\nAC 98.44% 150.61 97.05% 145.55\nAD 99.13% 152.52 100.00% 156.28\nAE 77.26% 96.94 99.83% 155.06\nAF 96.70% 144.79 94.27% 137.76\nAG 100.00% 156.23 99.48% 153.80\nAH 78.99% 102.50 89.93% 126.09\nAI 97.22% 146.44 96.18% 143.03\naverage 92.53% 135.62 96.18% 143.95",
+   "table_id": "PMC3517594_table_1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    433.9,
+    700.8,
+    556.7
+   ],
+   "ocr": "(pv0:05, paired t-test), there is no significant difference between To assess the performance of the c-VEP BCI under normal-use unsupervised and ErrP-based adaptation (pw0:5, paired t-test). conditions, some of the subjects engaged in free-spelling at the end To evaluate the benefit of the different preprocessing and of session 2. At this point each of the participating subjects had classification methods without adaptation, we also performed an about 1 hour of total experience with the c-VEP BCI system. additional offline analysis of the data from session 2. When using Target 32 was replaced with the letter O¨ , which served as a the method by Bin et al. [4] an average accuracy of 88.48% was backspace option and allowed the user to delete the previous letter. achieved. Using a OCSVM [5] instead of the correlation The subjects could write whatever they felt like and they were only approach yielded an average accuracy of 91.99%. When instructed to correct each mistake by choosing the backspace combining OCSVM with a different method of applying CCA"
+  },
+  "p2_b3": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    551.3,
+    108.6,
+    562.6
+   ],
+   "ocr": "symbol."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    558.9,
+    700.8,
+    583.7
+   ],
+   "ocr": "by selecting the best individual channel [5] an accuracy of 95.00% was reached, which is the method we used online and also"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    578.8,
+    116.8,
+    591.4
+   ],
+   "ocr": "Results"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    585.8,
+    663.0,
+    643.7
+   ],
+   "ocr": "described in the methods section. Online Experiment using Unsupervised and ErrP-based Adaptation Table 3. Offline results from session 2 with different The results from the online experiment can be seen in table 2."
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    406.0,
+    641.4,
+    506.2,
+    652.8
+   ],
+   "ocr": "adaptation methods."
+  },
+  "p2_b8": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    681.8,
+    692.0,
+    861.8
+   ],
+   "ocr": "No\nSubject adaptation Unsupervised ErrP-based Supervised\nAA 94.44% 98.44% 97.40% 98.44%\nAB 87.48% 88.60% 91.49% 92.78%\nAC 98.09% 98.09% 97.05% 98.09%\nAD 100.00% 100.00% 100.00% 100.00%\nAE 99.31% 99.83% 99.83% 99.83%\nAF 94.97% 95.14% 94.27% 95.83%\nAG 98.96% 99.48% 99.48% 99.48%\nAH 86.98% 88.54% 89.93% 91.15%\nAI 94.79% 96.35% 96.18% 97.40%\naverage 95.00% 96.05% 96.18% 97.00%",
+   "table_id": "PMC3517594_table_2"
+  },
+  "p2_b9": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org 6 December 2012 | Volume 7 | Issue 12 | e51077"
+  }
+ }
+}

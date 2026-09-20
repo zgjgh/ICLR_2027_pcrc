@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_220",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    681.0,
+    51.8
+   ],
+   "ocr": "Fleming et al. BMC Genomics (2016) 17:812 Page 3 of 11"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    568.2,
+    123.1
+   ],
+   "ocr": "Table 2 Comparison of variant changes for each line Table 4 Variant totals by mutation type"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    367.0,
+    368.4
+   ],
+   "ocr": "Type Total Homozygous Heterozygous\nFayoumi vs. RJFb\nSNV 4,146,394 3,638,803 507,591\nINSc 180,752 158,256 22,496\nDELd 135,321 125,514 9,807\nTOTAL 4,462,467 3,922,573 539,894\nLeghorn vs. RJF\nSNV 4,271,399 4,010,609 260,790\nINS 189,494 177,474 12,020\nDEL 144,839 142,181 2,658\nTOTAL 4,605,732 4,330,264 275,468\nFayoumi vs. Leghorn: referencea\nSNV 3,792,327 3,094,177 698,150\nTOTAL 3,792,327 3,094,177 698,150",
+   "table_id": "PMC5070165_table_1"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    128.1,
+    680.5,
+    244.5
+   ],
+   "ocr": "Mutation Count Percent\nFayoumi Missense 14,389 27.6 %\nNonsense 106 0.2 %\nSilent 37,512 72.1 %\nLeghorn Missense 16,982 28.7 %\nNonsense 118 0.2 %\nSilent 41,873 71.0 %",
+   "table_id": "PMC5070165_table_3"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    250.9,
+    681.0,
+    381.5
+   ],
+   "ocr": "The Missense/Silent ratio: 0.3836 for Fayoumi and 0.4056 for Leghorn populations respectively to the PCR plates). Of the 61 usable assays for validation of the presence of an SNV, over half (38) showed evidence of duplication based on analysis of the KBios- ciences Kompetitive Allele Specific PCR genotyping system (KASP) KlusterKaller software output [13]. Du- plication was also indicated by the number of reads that"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    374.8,
+    681.0,
+    406.2
+   ],
+   "ocr": "Fayoumi and Leghorn vs. RJF and Fayoumi vs. the Leghornized reference genome. aFayoumi vs. the Leghornized reference genome analysis done on covered the SNVs compared to the mean depth of cover- SNVs only"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    398.0,
+    680.9,
+    411.8
+   ],
+   "ocr": "age, with both populations having spikes in these regions"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    405.7,
+    323.2,
+    417.0
+   ],
+   "ocr": "bRJF Red Jungle Fowl, cINS insertion variants, dDEL deletion variants"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    413.2,
+    680.9,
+    495.2
+   ],
+   "ocr": "in the mean number of reads mapped to a SNV position (Table 5). Quantifying the allele frequencies of the vari- ants showing duplication may have been complicated by Table 3 Variant annotations and counts by effect type for each line"
+  },
+  "p1_b9": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    500.2,
+    680.4,
+    899.9
+   ],
+   "ocr": "Effect Type Fayoumi Leghorn Chi-Square Statistic\nCodon_Change_Plus_Codon_Deletion 16 24\nCodon_Change_Plus_Codon_Insertion 23 34\nCodon_Deletion 40 53\nCodon_Insertion 46 63\nDownstream 401,163 440,064 P < 0.0001\nExon 418 473\nFrame_Shift 384 504 P < 0.0001\nIntergenic 2,344,623 2,430,279 P < 0.0001\nIntron 2,205,047 2,264,238 P < 0.0001\nNon_Synonymous_Coding 14,335 16,924 P < 0.0001\nNon_Synonymous_Start 5 2\nSplice_Site_Acceptor 229 236\nSplice_Site_Donor 196 251 P < 0.01\nStart_Gained 1,015 1,185 P < 0.01\nStart_Lost 35 41\nStop_Gained 107 121\nStop_Lost 16 18\nSynonymous_Coding 37,502 41,860 P < 0.0001\nSynonymous_Stop 9 12\nUpstream 397,941 438,052 P < 0.0001\nUtr_3_Prime 48,430 52,433 P < 0.0001\nUtr_5_Prime 6,445 7,802 P < 0.0001",
+   "table_id": "PMC5070165_table_2"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    906.2,
+    674.4,
+    926.9
+   ],
+   "ocr": "Table shows variant annotations and counts for Fayoumi and Leghorn populations vs. RJF by effect type. The “effect type” is the sequence ontology meaning for example that the variant hits an intron or causes a frameshift. A Pearson’s chi-square goodness-of-fit test was used for comparison (P < 0.01)"
+  }
+ }
+}

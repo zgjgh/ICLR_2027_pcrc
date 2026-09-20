@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_450",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    689.6,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "QuorUM"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.5,
+    720.0,
+    131.3
+   ],
+   "ocr": "Table 3. Percentage of the original reads that are perfect after error reduction, and percentage of bases contained in perfect reads compared with bases in original reads. The number in parenthesis is the denominator used to compute the percentage, the number of original reads and the amount of sequence in the original reads respectively."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    140.1,
+    726.6,
+    350.4
+   ],
+   "ocr": "Corrector Rhodobacter Staphylococcus Mouse C16\nReads (2 M) Sequence (202 M) Reads (1:2 M) Sequence (120 M) Reads (41 M) Sequence (4:2 G)\nnone 21 21 33 33 48 48\ntrim20B 44 36 46 37 79 64\ntrimQual5 76 51 35 35 78 72\nCoral 58 58 74 74 81 81\nEcho 56 56 65 65 - -\nHiTec 61 61 78 78 - -\nQuake 81 59 69 60 89 81\nSGA 62 62 75 75 85 85\nRacer 63 63 78 78 84 84\nMusket 76 70 80 78 88 86\nQuorUM 90 77 84 81 92 88",
+   "table_id": "PMC4471408_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    358.5,
+    186.2,
+    369.9
+   ],
+   "ocr": "doi:10.1371/journal.pone.0130821.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    443.0,
+    727.3,
+    898.4
+   ],
+   "ocr": "We can use these numbers to determine the average length of the corrected reads as a frac- tion of their original length. For example, consider rhodobacter. Of the QuorUM corrected reads, 90% are perfect and they contain 77% of the bases in all of the original reads. It follows that the perfect reads have average length 77/90 = 0.86 times the original read length. Hence, 14% of the bases those reads were trimmed away. The non-trimming correctors, by definition, have the same value for both columns. By comparison, Quake trimmed away 28% and Musket trimmed away 8%. QuorUM consistently produces the most sequence in perfect reads. At the request of a ref- eree, we have included as supplementary material S1 Fig. three graphs, one for each of the three species we study. We plot the percentage (that is the percentage of the uncorrected reads) of reads that are perfect (full read length no error match) versus a minimum read length. For lengths close to 100% of the original read length the non-trimming error correctors perform better in these plots. Chimeric reads We call a read chimeric when it merges together sequences from two or more distant regions of the genome. We declare a read to be chimeric when it matches in two disjoint pieces in the genome better than any single match of the whole read. Specifically, using Bowtie [23], a read is chimeric if satisfies two conditions. First, there is no match in one piece at 98% identity. Sec- ond it can be divided into two non-overlapping pieces (each at least 20 bases long) that match in two disjoint places at 98% identity. Table 4 reports the effect of error reduction on chimeric reads. Such reads typically cannot be corrected and have to be trimmed or discarded. The Illumina technology generates few chimeric reads (usually much less than 1% of all the reads). When aggressively changing bases, one runs the risk of creating new chimeric reads; i.e. sequence from a distant, possibly repeated, region of the genome may be used to rewrite signifi- cant portion of a read."
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0130821 June 17, 2015 8 / 13"
+  }
+ }
+}

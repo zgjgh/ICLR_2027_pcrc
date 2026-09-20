@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_207",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    367.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Evaluating Sentinel Population Potential for Early Detection of Influenza Outbreaks"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    94.0,
+    725.6,
+    606.6
+   ],
+   "ocr": "Materials and Methods Datasets Military ILI and influenza data were acquired through the Armed Forces Health Surveillance System’s Defense Military Surveillance System (DMSS) database. This database houses infor- mation on hospitalizations, ambulatory visits and reportable medical events including relevant ICD-9 codes and related laboratory records [6]. This database was used to identify datasets 1 and 2. We obtained IRB (institutional review board) approval for use of this data. Both LANL and AFHSB’s IRBs reviewed the protocols of analysis and approved them. Additionally, AFHSC de-identified data prior to use and analysis by LANL, and data was aggregated before publication. Dataset 1: Broad ILI. Influenza-like-illness data from January 2000 until December 2013 was obtained from the Armed Forces Health Surveillance Center (AFHSC). This dataset included any records that met the United States’ Department of Defense (DoD) influenza-like- illness (ILI) definition. This corresponds to ICD-9 codes 079.99, 382.9, 460, 461.9, 465.8, 465.9, 466.0, 486, 487.0, 487.1, 487.8, 488.xx, 490, 780.6, 786.2 (see Table 1 ‘Broad’ for additional details). Dataset 2: Narrow ILI. Eick-Cost et al. proposed a definition of ILI that resulted in a higher specificity and positive predictive value than the original DoD definition, but lower sen- sitivity [5]. The ICD-9 codes used in the narrower definition were 488.82, 487.0, 487.1 (see Table 1 ‘Narrow’ for additional details). This dataset included records from Dataset 1 that met the more narrow definition. Dataset 3: Lab-confirmed Influenza A. Dataset 3 included a line list of records of influ- enza tests and their results, from January 2006 until September 2013. Additional information like gender, military status (via an individual’s ‘patcat code’), and age were also included. Test data was formatted in multiple ways. Some columns included free text information while other columns attempted to aggregate free text data into generalized categories (e.g. ‘A positive’). We specifically used a combination of free text and aggregated fields to identify positive influenza Table 1. Military ILI definition ICD-9 codes and associated case definitions."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    613.4,
+    704.3,
+    878.4
+   ],
+   "ocr": "ICD-9 Code Description Broad Narrow\n079.99 Unspeciﬁed viral infection X\n382.9 Unspeciﬁed otitis media X\n460 Acute nasopharyngitis [common cold] X\n461.9 Acute sinusitis, unspeciﬁed X\n465.8 Acute upper respiratory infections of other multiple sites X\n465.9 Acute upper respiratory infections of unspeciﬁed site X\n466.0 Acute bronchitis X\n486 Pneumonia, organism unspeciﬁed X\n487.0 Inﬂuenza with pneumonia X X\n487.1 Inﬂuenza with other respiratory manifestations X X\n487.8 Inﬂuenza with other manifestations X\n488.xx Inﬂuenza due to certain identiﬁed inﬂuenza viruses X\n488.82 Inﬂuenza due to identiﬁed novel inﬂuenza A virus with other respiratory manifestations [8] X\n490 Bronchitis, not speciﬁed as acute or chronic X\n780.6 Fever X\n786.2 Cough X",
+   "table_id": "PMC4938434_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    886.0,
+    186.2,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158330.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158330 July 8, 2016 3 / 14"
+  }
+ }
+}

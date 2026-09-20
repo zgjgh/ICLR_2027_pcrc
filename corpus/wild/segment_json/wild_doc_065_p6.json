@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_065",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    151.0,
+    580.0,
+    340.0
+   ],
+   "ocr": "Est se p-value\nSex\nMale ref\nFemale 1.57 0.01 < 0.001\nSurvey Year\n2014 ref\n1997 -0.21 0.01 < 0.001\nInteraction\nSurvey year/sex multiplicative interaction term 0.37 0.02 < 0.001",
+   "table_id": "img_072828_t0"
+  },
+  "p6_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    408.0,
+    580.0,
+    572.0
+   ],
+   "ocr": "The Best Forecasting Results\nThe Smart Home number 1 2 3 4 5 6 7 8\nThe training algorithm BR BR LM LM BR BR BR LM\nThe number of neurons in the hidden layer n 43 45 44 44 45 44 43 45\nMSE 0.0168124 0.0169730 0.016950 0.01662157 0.0168801 0.0169599 0.0168124 0.0166215\nR 0.9794941 0.9791961 0.974322 0.97957431 0.9795743 0.9789337 0.9795743 0.9791634",
+   "table_id": "img_072828_t1"
+  },
+  "p6_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    612,
+    580,
+    701
+   ],
+   "ocr": "In Table 1, under the header \"Est,\" \"se,\" and \"p-value,\" the row labeled \"Sex\" shows that \"Male\" is the reference category with values \"ref,\" \"—,\" and \"—,\" while \"Female\" has an estimate of \"1.57,\" standard error of \"0.01,\" and a p-value of \"< 0.001.\" For \"Survey Year,\" the reference year \"2014\" has \"ref,\" \"—,\" and \"—,\" whereas \"1997\" shows an estimate of \"-0.21,\" standard error of \"0.01,\" and a p-value of \"< 0.001.\" The interaction term \"Survey year/sex multiplicative interaction term\" has an estimate of \"0.37,\" standard error of \"0.02,\" and a p-value of \"< 0.001.\" Table 2, titled \"The Best Forecasting Results,\" lists under the header \"The Smart Home number\" the values from 1 to 8 across the columns."
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "The training algorithm varies with \"BR\" for algorithms 1, 2, 5, 6, and 7, while \"LM\" is used for algorithms 3, 4, and 8. The number of neurons in the hidden layer \"n\" is \"43,\" \"45,\" \"44,\" \"44,\" \"45,\" \"44,\" \"43,\" and \"45\" for algorithms 1 to 8, respectively. The MSE values range from \"0.0166215\" to \"0.0169730,\" and R values range from \"0.974322\" to \"0.9795743,\" indicating performance metrics across different algorithms."
+  }
+ }
+}

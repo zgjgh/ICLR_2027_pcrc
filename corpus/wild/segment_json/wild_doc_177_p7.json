@@ -1,0 +1,64 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_177",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    202
+   ],
+   "ocr": "In the current landscape of technology and software, data center capacity utilization remains a critical metric for assessing operational efficiency and profitability. As reflected in Table 1, the data center capacity utilization across various regions presents a comprehensive overview of Tencent Holdings' performance. Notably, the EastRegion recorded a capacity utilization rate of 52.5%, while the SouthRegion demonstrated an impressive 70%. The WestRegion's utilization stood at 90, showcasing a well-optimized infrastructure."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    190,
+    580,
+    279
+   ],
+   "ocr": "The overall total utilization, marked as TotalUtilization, provides insight into the company's ability to harness its data center resources effectively. Furthermore, the year-on-year growth metrics indicate a robust performance across the board, with the EastRegion also achieving a significant growth rate of 30. This growth is further complemented by the company's recurring revenue metrics, which highlight the resilience of its SaaS offerings. For instance, the average revenue figure of CHF12.3M is indicative of a healthy revenue stream, contributing to a market share growth of 25%."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    336.0,
+    580.0,
+    497.0
+   ],
+   "ocr": "DataCenter CapacityUtilization\nRegion Europe\nTotalCapacity(MW) UtilizationRate(%) AvailableCapacity(MW)\nNorthRegion SouthRegion EastRegion WestRegion OverallTotal\n150 75% 37.5 120 80%\n100 70% 30 90 85%\n200 72.5% 52.5 300 TotalUtilization",
+   "table_id": "img_201756_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    537.0,
+    580.0,
+    568.0
+   ],
+   "ocr": "These metrics collectively underscore Tencent's strategic positioning within the competitive European market, as evidenced by the overall recurring revenue growth labeled as RecurringRevenue, which aligns with the company's long-term objectives."
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    614.0,
+    580.0,
+    762.0
+   ],
+   "ocr": "Metric Value\nTotalRevenue CHF150M\nYoYGrowth 15%\nRecurringRevenue CHF120M\nChurnRate 5%\nAverageRevenue CHF12.3M\nMarketShare 25%",
+   "table_id": "img_201756_t1"
+  }
+ }
+}

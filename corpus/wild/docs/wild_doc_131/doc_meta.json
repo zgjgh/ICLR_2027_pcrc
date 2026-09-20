@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_131",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_146368_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    235.0,
+    580.0,
+    470.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_146368_t0.png",
+   "html": "<table><tr><td>Year</td><td>TrainingCosts(£M)</td><td>CertificationCosts(£M)</td></tr><tr><td>TotalCosts(£M)</td><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td colspan=\"2\">2019-2024Overview</td><td>2020</td><td>2021</td></tr><tr><td>2022</td><td>2023</td><td>2024</td><td>GrowthRate(%)</td></tr><tr><td>2019</td><td>50</td><td>30</td><td>80</td></tr><tr><td>5</td><td>2020</td><td>55</td><td>35</td></tr><tr><td>90</td><td>12</td><td>2021</td><td>60</td></tr><tr><td>40</td><td>100</td><td>11</td><td>2022</td></tr></table>"
+  },
+  {
+   "table_id": "img_146388_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    366.0,
+    580.0,
+    597.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_146388_t0.png",
+   "html": "<table><tr><td>Category</td><td>ProjectedDeficit</td><td colspan=\"2\">DeficitOverview</td></tr><tr><td>GovernmentLevel</td><td>Region</td><td>Amount(CAD)</td><td>Status</td></tr><tr><td>Federal</td><td>National</td><td>250B</td><td>HighRisk</td></tr><tr><td>Provincial</td><td>Ontario</td><td>50B</td><td>ModerateRisk</td></tr><tr><td>Provincial</td><td>Quebec</td><td>30B</td><td>ModerateRisk</td></tr><tr><td>Municipal</td><td>Toronto</td><td>10B</td><td>LowRisk</td></tr><tr><td>Federal</td><td>Alberta</td><td>15B</td><td>ModerateRisk</td></tr><tr><td>Provincial</td><td>BritishColumbia</td><td>20B</td><td>ModerateRisk</td></tr></table>"
+  },
+  {
+   "table_id": "img_146590_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    292.0,
+    580.0,
+    531.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_146590_t0.png",
+   "html": "<table><tr><td>PartNumber</td><td>LeadTime(Days)</td><td>Cost(¥)</td><td>Status</td><td colspan=\"2\">SupplyChainMetrics</td><td>DeliveryDate</td></tr><tr><td>ComponentType</td><td>QuantityOrdered</td><td>AverageLeadTime</td><td>CurrentInventory</td><td>VendorName</td><td colspan=\"2\">PerformanceRating</td><td>Remarks</td></tr><tr><td>AerospaceComponents</td><td>DefenseComponents</td><td>TotalComponents</td><td>LeadTimeVariability</td><td>AverageCost</td><td>MinLeadTime</td><td>MaxLeadTime</td><td>On-timeDelivery(%)</td></tr><tr><td>PN-12345</td><td>30</td><td>¥500,000</td><td>InProgress</td><td>2025-03-30</td><td>Aero</td><td>100</td><td>32</td></tr><tr><td>200</td><td>40</td><td>¥300,000</td><td>Completed</td><td>2025-03-15</td><td>Defense</td><td>150</td><td>28</td></tr><tr><td>PN-67890</td><td>45</td><td>¥750,000</td><td>Delayed</td><td>2025-04-05</td><td>Aero</td><td>50</td><td>Average</td></tr></table>"
+  },
+  {
+   "table_id": "img_146692_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    427.0,
+    580.0,
+    561.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_146692_t0.png",
+   "html": "<table><tr><td>PortName</td><td>Month</td><td>TotalTEUs</td><td colspan=\"2\">ImportTEUs</td><td>ExportTEUs</td></tr><tr><td colspan=\"2\">Tokyo</td><td>January</td><td>120000</td><td colspan=\"2\">70000</td><td>50000</td></tr><tr><td>Osaka</td><td>February</td><td>100000</td><td>60000</td><td>40000</td><td>Nagoya</td><td>March</td></tr><tr><td>95000</td><td>58000</td><td>37000</td><td>Yokohama</td><td>April</td><td>110000</td><td>65000</td></tr><tr><td>45000</td><td>Kobe</td><td>May</td><td>105000</td><td>62000</td><td>43000</td><td>Fukuoka</td></tr><tr><td>June</td><td>97000</td><td>58000</td><td>39000</td><td>Total</td><td>FY2023</td><td>685000</td></tr></table>"
+  },
+  {
+   "table_id": "img_146790_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    280.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_146790_t0.png",
+   "html": "<table><tr><td colspan=\"2\">FinancialRatios</td><td>2024Forecast</td></tr><tr><td colspan=\"2\">LiquidityRatios</td><td>CurrentAssets</td></tr><tr><td colspan=\"2\">ProfitabilityRatios</td><td colspan=\"2\">NetProfitMargin</td></tr><tr><td colspan=\"2\">LeverageRatios</td><td>DebtRatio</td><td colspan=\"2\">ReturnonEquity</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>GrossMargin</td><td>OperatingMargin</td></tr><tr><td>15.2</td><td>1.8</td><td>0.5</td><td>22.4%</td><td>14.1%</td></tr></table>"
+  },
+  {
+   "table_id": "img_146841_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    210.0,
+    580.0,
+    491.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_146841_t0.png",
+   "html": "<table><tr><td colspan=\"2\">AdvisoryFeeIncome</td><td colspan=\"3\">FinancialOverview</td></tr><tr><td>ClientSector</td><td>Revenue(INR)</td><td>GrowthRate(%)</td><td>NetIncome(INR)</td><td>ProfitMargin(%)</td></tr><tr><td>Healthcare</td><td>500000000</td><td>15</td><td>200000000</td><td>40</td></tr><tr><td>Technology</td><td>600000000</td><td>20</td><td>250000000</td><td>42</td></tr><tr><td>Finance</td><td>700000000</td><td>18</td><td>300000000</td><td>43</td></tr><tr><td>Manufacturing</td><td>400000000</td><td>10</td><td>150000000</td><td>37</td></tr><tr><td>Retail</td><td>300000000</td><td>12</td><td>120000000</td><td>40</td></tr><tr><td>Total</td><td>2500000000</td><td>15</td><td>1020000000</td><td>40</td></tr></table>"
+  },
+  {
+   "table_id": "img_146858_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    101.0,
+    580.0,
+    284.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_146858_t0.png",
+   "html": "<table><tr><td>Year</td><td>TotalDeliveries</td></tr><tr><td>DeliveryMetrics</td><td colspan=\"2\">MarketAnalysis</td></tr><tr><td colspan=\"3\">CommercialAircraft</td><td colspan=\"2\">PercentageChange</td><td>MarketShare</td></tr><tr><td>2019</td><td>863</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>2020</td><td>566</td><td>-34.5%</td><td>33.8%</td><td>CHF28.5B</td><td>15.9%</td></tr><tr><td>2021</td><td>611</td><td>7.9%</td><td>34.2%</td><td>CHF30.1B</td><td>16.5%</td></tr></table>"
+  },
+  {
+   "table_id": "img_146969_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    319.0,
+    580.0,
+    538.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_146969_t0.png",
+   "html": "<table><tr><td colspan=\"2\">TimeCharterRates</td><td>GBP</td></tr><tr><td>VesselType</td><td colspan=\"2\">AverageRate</td><td>RateChange</td></tr><tr><td colspan=\"4\">MonthlyOverview</td><td>December2023</td><td>PreviousMonth</td><td>Year-over-Year</td></tr><tr><td>ContainerShip</td><td>BulkCarrier</td><td>Tanker</td><td>AverageDailyRate</td><td>TotalDays</td><td>CharteredVessels</td><td>CharterPeriod</td></tr><tr><td>£18,500</td><td>£15,000</td><td>£22,000</td><td>5%</td><td>30days</td><td>10vessels</td><td>12months</td></tr><tr><td>£19,000</td><td>£14,500</td><td>£21,000</td><td>3%</td><td>28days</td><td>8vessels</td><td>11months</td></tr></table>"
+  },
+  {
+   "table_id": "img_146972_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    417.0,
+    580.0,
+    540.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_146972_t0.png",
+   "html": "<table><tr><td>PolicyType</td><td>RetentionRate</td><td>5-YearCAGR</td></tr><tr><td>LifeInsurance</td><td>85%</td><td>3.5%</td></tr><tr><td>HealthInsurance</td><td>90%</td><td>4.0%</td></tr><tr><td>AutoInsurance</td><td>75%</td><td>2.5%</td></tr><tr><td>HomeInsurance</td><td>80%</td><td>3.0%</td></tr><tr><td>CommercialInsurance</td><td>78%</td><td>2.8%</td></tr></table>"
+  },
+  {
+   "table_id": "img_147001_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    338.0,
+    580.0,
+    493.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_147001_t0.png",
+   "html": "<table><tr><td>LaunchesPlanned</td><td>TotalCost</td></tr><tr><td>LaunchSuccessRate</td><td>AveragePayload</td></tr><tr><td colspan=\"2\">FinancialRatios</td><td>OperatingMargin</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td></tr><tr><td>15</td><td>$450M</td><td>92%</td></tr><tr><td>2,500kg</td><td>18.5</td><td>1.2</td></tr></table>"
+  }
+ ]
+}

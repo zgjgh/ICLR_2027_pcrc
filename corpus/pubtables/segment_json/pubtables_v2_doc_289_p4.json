@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_289",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9(Suppl 3):S2 http://www.biomedcentral.com/1471-2105/9/S3/S2"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    311.4,
+    118.9
+   ],
+   "ocr": "Table 4: Discovering rules from a disease dictionary"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    662.2,
+    702.9
+   ],
+   "ocr": "Dictionary Lookup performance\nIter. Ambiguity Variability Rule Precision Recall\n0 1.001 2.794 (convert capital letters to lower case) 0.994 0.158\n1 1.002 2.747 ‘,’ → ‘’ 0.989 0.184\n2 1.002 2.667 ‘ nos’ → ‘’ 0.986 0.216\n3 1.003 2.609 ‘[x]’ → ‘’ 0.985 0.263\n4 1.003 2.580 ‘o’ → ‘’ 0.982 0.275\n5 1.003 2.554 ‘ies’ → ‘y’ 0.983 0.291\n6 1.003 2.529 ‘ ’ → ‘-’ 0.984 0.305\n7 1.003 2.504 ‘-’ → ‘;’ 0.984 0.317\n8 1.003 2.484 ‘e’ → ‘i’ 0.985 0.332\n9 1.004 2.472 ‘iasi’ → ‘rdir’ 0.986 0.336\n10 1.004 2.459 ‘’s’ → ‘’ 0.986 0.345\n11 1.004 2.449 ‘s’ → ‘z’ 0.986 0.347\n12 1.004 2.448 ‘;(nz)’ → ‘’ 0.986 0.347\n13 1.004 2.447 ‘kidniy’ → ‘rinal’ 0.986 0.347\n14 1.004 2.446 ‘pulmnary’ → ‘lung’ 0.986 0.347\n15 1.004 2.443 ‘ir’ → ‘ri’ 0.986 0.348\n16 1.004 2.441 ‘aimia’ → ‘imiaz’ 0.986 0.349\n17 1.004 2.439 ‘[d]’ → ‘’ 0.986 0.349\n18 1.004 2.436 ‘aimlytic;animiaz’ → ‘imlytic;animia’ 0.986 0.351\n: : : : : :\n24 1.004 2.427 ‘z;thi’ → ‘’ 0.986 0.354\n: : : : : :\n31 1.004 2.420 ‘z;’ → ‘/’ 0.986 0.355\n32 1.004 2.348 ‘/’ → ‘;’ 0.987 0.377\n33 1.004 2.348 ‘dizrdri;liv’ → ‘livri;dizrd’ 0.987 0.377\n: : : : : :\n38 1.004 2.345 ‘uding’ → ‘’ 0.987 0.378\n: : : : : :\n42 1.005 2.343 ‘zufficiincy’ → ‘cmpitinci’ 0.987 0.380\n: : : : : :\n50 1.005 2.339 ‘(in;zputum)’ → ‘in;zputum’ 0.987 0.381\n: : : : : :\n57 1.005 2.335 ‘iincy’ → ‘’ 0.987 0.382\n: : : : : :\n70 1.005 2.333 ‘[idta]’ → ‘’ 0.987 0.385\n: : : : : :\n89 1.005 2.327 ‘ph’ → ‘f’ 0.987 0.387\n: : : : : :\n93 1.005 2.325 ‘ci’ → ‘x’ 0.987 0.388\n: : : : : :",
+   "table_id": "PMC2352870_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    758.8,
+    694.9,
+    782.5
+   ],
+   "ocr": "Table 5: Gene/protein name snippets. Examples of the gene/protein name snippets used in the lookup experiments reported in Table 6 and 7. The snippets are indicated in boldface type."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    793.7,
+    649.7,
+    911.3
+   ],
+   "ocr": "Snippets in context EntrezGene IDs\n… conserved in VH1 and the VH1-related (VHR) human protein. 1845\nThese properties suggest that VHR is capable of regulating intracellular … 1845\n… the kinase domain of the keratinocyte growth factor receptor ( … 2263\n… (bek/fibroblast growth factor receptor 2) were infected with … 2263\nThe Ah (dioxin) receptor binds a number of widely disseminated … 196\n… as a component of the DNA binding form of the Ah receptor. 196\n: :",
+   "table_id": "PMC2352870_table_4"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 10 (page number not for citation purposes)"
+  }
+ }
+}

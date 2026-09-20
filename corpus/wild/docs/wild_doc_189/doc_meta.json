@@ -1,0 +1,354 @@
+{
+ "doc_id": "wild_doc_189",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_214367_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    155.0,
+    580.0,
+    303.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_214367_t0.png",
+   "html": "<table><tr><td>DrugName</td><td>DevelopmentPhase</td></tr><tr><td>Status</td><td>Category</td></tr><tr><td>EstimatedCost</td><td>ProjectedLaunch</td></tr><tr><td colspan=\"2\">ClinicalTrials</td><td>CHF250M</td></tr><tr><td>ABBV-181</td><td>Phase3</td><td>Positive</td></tr><tr><td>CHF200M</td><td>2026</td><td>ABBV-202</td></tr><tr><td>Phase2</td><td>Ongoing</td><td>CHF150M</td></tr></table>"
+  },
+  {
+   "table_id": "img_214367_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    449.0,
+    580.0,
+    727.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_214367_t1.png",
+   "html": "<table><tr><td>DrugName</td><td>ApprovalTimeline</td></tr><tr><td>Phase</td><td colspan=\"2\">Cost(CHF)</td></tr><tr><td>ClinicalTrials</td><td colspan=\"3\">Preclinical</td><td colspan=\"2\">Phase1</td></tr><tr><td>Phase2</td><td colspan=\"2\">Phase3</td><td colspan=\"3\">RegulatorySubmission</td><td colspan=\"3\">ApprovalDate</td><td colspan=\"2\">MarketLaunch</td><td>Revenue(CHF)</td></tr><tr><td>DrugA</td><td>Q12025</td><td>Completed</td><td>15M</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>50M</td><td>DrugB</td><td>Q22025</td><td>Ongoing</td></tr><tr><td>20M</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>30M</td><td>DrugC</td><td>Q32025</td><td>Delayed</td><td>10M</td><td>2023</td><td>2024</td></tr><tr><td>DrugD</td><td>Q42025</td><td>Completed</td><td>25M</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>40M</td><td>DrugE</td><td>Q12025</td><td>Ongoing</td></tr><tr><td>18M</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>28M</td><td>Total</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "img_214455_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    186.0,
+    580.0,
+    326.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_214455_t0.png",
+   "html": "<table><tr><td>CustomerSegments</td><td>LoyaltyPointsEarned</td></tr><tr><td>TotalCustomers</td><td>Redemptions</td></tr><tr><td colspan=\"2\">LoyaltyProgramMetrics</td><td>GrowthRate</td></tr><tr><td>SegmentA</td><td>250,000</td><td>15,000</td></tr><tr><td>SegmentB</td><td>150,000</td><td>8,000</td></tr><tr><td>SegmentC</td><td>100,000</td><td>5,000</td></tr><tr><td>Total</td><td>500,000</td><td>28,000</td></tr></table>"
+  },
+  {
+   "table_id": "img_214455_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    449.0,
+    580.0,
+    620.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_214455_t1.png",
+   "html": "<table><tr><td colspan=\"2\">OmnichannelPerformance</td><td>ConversionRate(%)</td><td colspan=\"3\">SalesMetrics</td></tr><tr><td colspan=\"2\">ChannelType</td><td>Amount($M)</td><td colspan=\"2\">YoYChange(%)</td><td colspan=\"3\">MarketShare(%)</td></tr><tr><td>Online</td><td>50.2</td><td>15.3</td><td>22.5</td><td>30.1</td><td>10.2</td><td>25.0</td><td>15.0</td></tr><tr><td>In-Store</td><td>75.4</td><td>8.5</td><td>35.0</td><td>45.0</td><td>5.0</td><td>30.0</td><td>20.0</td></tr><tr><td>MobileApp</td><td>20.3</td><td>20.0</td><td>10.2</td><td>15.0</td><td>12.5</td><td>15.0</td><td>5.0</td></tr><tr><td>SocialMedia</td><td>15.0</td><td>25.0</td><td>5.0</td><td>10.0</td><td>15.0</td><td>20.0</td><td>2.0</td></tr><tr><td>Total</td><td>161.0</td><td>10.0</td><td>100.0</td><td>100.0</td><td>6.0</td><td>75.0</td><td>Overall</td></tr></table>"
+  },
+  {
+   "table_id": "img_214574_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    196.0,
+    580.0,
+    358.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_214574_t0.png",
+   "html": "<table><tr><td>Year</td><td>Revenue(€M)</td><td>CustomerGrowth(%)</td></tr><tr><td>2021</td><td>150</td><td>20</td></tr><tr><td>2022</td><td>180</td><td>15</td></tr><tr><td>2023</td><td>210</td><td>10</td></tr><tr><td>2024</td><td>250</td><td>25</td></tr><tr><td>2025</td><td>300</td><td>20</td></tr><tr><td>5-YearCAGR</td><td>26.2%</td><td>MarketShare(%)</td></tr></table>"
+  },
+  {
+   "table_id": "img_214574_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    461.0,
+    580.0,
+    642.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_214574_t1.png",
+   "html": "<table><tr><td>KeyMetrics</td><td>5-YearCAGR</td></tr><tr><td>PremiumGrowth</td><td>PolicyCount</td></tr><tr><td>25%</td><td>€300M</td></tr><tr><td>20%</td><td>150,000</td></tr><tr><td>RetentionRate</td><td>NetPromoterScore</td></tr><tr><td>85%</td><td>75</td></tr><tr><td>ClaimsRatio</td><td>OperatingMargin</td></tr><tr><td>60%</td><td>15%</td></tr><tr><td>CustomerAcquisitionCost</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_214752_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    153.0,
+    580.0,
+    276.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_214752_t0.png",
+   "html": "<table><tr><td colspan=\"2\">GrossMarginbyProduct</td><td>CreativeCloud</td><td>DocumentCloud</td><td>ExperienceCloud</td></tr><tr><td>Revenue</td><td>CostofGoodsSold</td><td>GrossProfit</td><td>GrossMargin%</td><td>OperatingIncome%</td></tr><tr><td>£150M</td><td>£50M</td><td>£100M</td><td>66.7%</td><td>30.0%</td></tr><tr><td>£80M</td><td>£30M</td><td>£50M</td><td>62.5%</td><td>25.0%</td></tr><tr><td>£120M</td><td>£40M</td><td>£80M</td><td>66.7%</td><td>28.0%</td></tr><tr><td>Total</td><td>£350M</td><td>£120M</td><td>£230M</td><td>65.7%</td></tr></table>"
+  },
+  {
+   "table_id": "img_214752_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    351.0,
+    580.0,
+    474.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_214752_t1.png",
+   "html": "<table><tr><td>CustomerAcquisitionCost</td><td>£150</td></tr><tr><td>Year-on-YearChange</td><td>5%</td></tr><tr><td>TotalAcquiredCustomers</td><td>1,200</td></tr><tr><td>Q12024</td><td>£180</td></tr><tr><td>Q42023</td><td>£160</td></tr><tr><td>Q32023</td><td>£140</td></tr></table>"
+  },
+  {
+   "table_id": "img_214752_t2",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    548.0,
+    580.0,
+    671.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_214752_t2.png",
+   "html": "<table><tr><td>Metric</td><td>Value</td><td colspan=\"2\">GrowthRatios</td></tr><tr><td>Revenue</td><td>OperatingMargin</td><td colspan=\"2\">UserEngagement</td></tr><tr><td>YoYGrowth</td><td>Q42023</td><td>P/ERatio</td><td>Debt/EquityRatio</td></tr><tr><td>25%</td><td>£1.2B</td><td>15%</td><td>1.8</td></tr><tr><td>£950M</td><td>20%</td><td>18%</td><td>0.5</td></tr><tr><td>49%</td><td>£800M</td><td>22%</td><td>3.2</td></tr></table>"
+  },
+  {
+   "table_id": "img_215198_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    237.0,
+    580.0,
+    424.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_215198_t0.png",
+   "html": "<table><tr><td>ProjectName</td><td>BudgetAllocation</td></tr><tr><td colspan=\"4\">InfrastructureProjectsOverview</td><td>EstimatedCompletion</td></tr><tr><td colspan=\"2\">ResidentialProjects</td><td>CommercialProjects</td><td>IndustrialProjects</td><td colspan=\"2\">PublicWorks</td><td>TotalFunding</td></tr><tr><td>ProjectA</td><td>$50M</td><td>$30M</td><td>$15M</td><td>$10M</td><td>$105M</td><td>Q42025</td></tr><tr><td>ProjectB</td><td>$40M</td><td>$25M</td><td>$20M</td><td>$5M</td><td>$90M</td><td>Q32024</td></tr><tr><td>ProjectC</td><td>$10M</td><td>$20M</td><td>$5M</td><td>$15M</td><td>$50M</td><td>Q12026</td></tr><tr><td>ProjectD</td><td>$15M</td><td>$10M</td><td>$25M</td><td>$20M</td><td>$80M</td><td>Q22024</td></tr></table>"
+  },
+  {
+   "table_id": "img_215198_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    511.0,
+    580.0,
+    729.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_215198_t1.png",
+   "html": "<table><tr><td>MarketSegment</td><td>TotalRevenue</td><td colspan=\"2\">GrowthMetrics</td></tr><tr><td>Residential</td><td>$250M</td><td>10.5%</td><td colspan=\"2\">MarketShare</td></tr><tr><td>Commercial</td><td>$300M</td><td>8.2%</td><td>MarketShare</td><td>Industrial</td></tr><tr><td>$150M</td><td>5.0%</td><td>MarketShare</td><td>Infrastructure</td><td>$200M</td></tr><tr><td>6.3%</td><td>MarketShare</td><td>TotalPrefab</td><td>$900M</td><td>30.0%</td></tr><tr><td>YoYChange</td><td>12.1%</td><td>TotalMarket</td><td>$3B</td><td>5.5%</td></tr><tr><td>2023Revenue</td><td>$2.85B</td><td>YoYChange</td><td>4.2%</td><td>ProjectedGrowth</td></tr><tr><td>15.0%</td><td>NextYear</td><td>$3.45B</td><td>MarketShareChange</td><td>1.5%</td></tr><tr><td>AdoptionRate</td><td>35%</td><td>IncreasedDemand</td><td>Yes</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_215782_t0",
+   "page_num": 6,
+   "bbox": [
+    13.0,
+    111.0,
+    510.0,
+    223.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_215782_t0.png",
+   "html": "<table><tr><td>LNGExportVolume</td><td>TotalThroughput</td></tr><tr><td>TerminalCapacity</td><td>UtilizationRate</td></tr><tr><td colspan=\"2\">QuarterlyPerformance</td><td>SGD</td></tr><tr><td>Tons</td><td>MillionSGD</td><td>Percentage(%)</td></tr><tr><td>1,500,000</td><td>120,000,000</td><td>80%</td></tr><tr><td>1,700,000</td><td>135,000,000</td><td>85%</td></tr></table>"
+  },
+  {
+   "table_id": "img_215782_t1",
+   "page_num": 6,
+   "bbox": [
+    13.0,
+    277.0,
+    510.0,
+    462.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_215782_t1.png",
+   "html": "<table><tr><td>DecommissioningCosts</td><td>CurrentEstimates</td><td>PreviousEstimates</td><td>Variance</td><td>ForecastYear</td><td colspan=\"2\">EstimatedLiabilities</td></tr><tr><td>2023</td><td>SGD1.2B</td><td>SGD1.1B</td><td>SGD100M</td><td>2024</td><td>SGD1.3B</td><td>SGD1.2B</td></tr><tr><td>TotalSites</td><td>ActiveSites</td><td>DecommissionedSites</td><td>PendingSites</td><td>LiabilityperSite</td><td>AverageCost</td><td>SGD200M</td></tr><tr><td>15</td><td>8</td><td>5</td><td>2</td><td>SGD80M</td><td>TotalEmployees</td><td>ContractorsEngaged</td></tr><tr><td>HeadcountReduction</td><td>EmployeeCosts</td><td>SGD20M</td><td>SGD300M</td><td>SGD10M</td><td>RegulatoryCompliance</td><td>TotalLiability</td></tr><tr><td>SGD500M</td><td>EnvironmentalCosts</td><td>SGD150M</td><td>InsuranceClaims</td><td>SGD50M</td><td>AuditFindings</td><td>PendingReview</td></tr></table>"
+  },
+  {
+   "table_id": "img_215782_t2",
+   "page_num": 6,
+   "bbox": [
+    13.0,
+    543.0,
+    510.0,
+    747.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_215782_t2.png",
+   "html": "<table><tr><td colspan=\"2\">OilPriceSensitivity</td><td>Impact(%)</td><td colspan=\"2\">CostAnalysis</td><td colspan=\"2\">LowPriceCase</td><td>HighPriceCase</td></tr><tr><td colspan=\"2\">Scenario</td><td>Price(SGD)</td><td colspan=\"2\">BaseCase</td><td>CurrentPrice</td><td>ProjectedPrice</td><td colspan=\"3\">AnalysisPeriod</td><td>Q32023</td></tr><tr><td>BasePrice</td><td>50.0</td><td>65.0</td><td>75.0</td><td>100.0</td><td>10%Increase</td><td>10%Decrease</td><td>NetRevenue</td><td>$200M</td><td>$180M</td><td>$220M</td></tr><tr><td>SensitivityAnalysis</td><td>50.0</td><td>10%</td><td>$250M</td><td>$225M</td><td>$275M</td><td>TotalCost</td><td>$150M</td><td>$140M</td><td>$160M</td><td>NetGain/Loss</td></tr><tr><td>$50M</td><td>$40M</td><td>$60M</td><td>OperationalImpact</td><td>5%</td><td>3%</td><td>7%</td><td>MarketResponse</td><td>Stable</td><td>Volatile</td><td>Predictable</td></tr><tr><td>Scenario1</td><td>50.0</td><td>$100M</td><td>$90M</td><td>$110M</td><td>Scenario2</td><td>75.0</td><td>$150M</td><td>$140M</td><td>$160M</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_215882_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    175.0,
+    580.0,
+    372.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_215882_t0.png",
+   "html": "<table><tr><td>Metric</td><td colspan=\"4\">AirCargoIndices</td></tr><tr><td>TonnageGrowth</td><td>RevenueGrowth</td><td>MarketShare</td><td colspan=\"2\">Year-over-Year</td><td>Forecast</td></tr><tr><td>2022</td><td>5.2%</td><td>8.0%</td><td>15.5%</td><td>60%</td><td>N/A</td></tr><tr><td>2023</td><td>6.5%</td><td>9.5%</td><td>16.0%</td><td>62%</td><td>N/A</td></tr><tr><td>2024</td><td>7.0%</td><td>10.0%</td><td>17.5%</td><td>63%</td><td>N/A</td></tr><tr><td>2025</td><td>8.0%</td><td>11.0%</td><td>18.0%</td><td>64%</td><td>N/A</td></tr><tr><td>2026</td><td>9.0%</td><td>12.0%</td><td>19.0%</td><td>65%</td><td>N/A</td></tr><tr><td>2027</td><td>10.0%</td><td>13.0%</td><td>20.0%</td><td>66%</td><td>N/A</td></tr><tr><td>Total</td><td>Average</td><td>8.0%</td><td>10.5%</td><td>17.0%</td><td>N/A</td></tr></table>"
+  },
+  {
+   "table_id": "img_215882_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    504.0,
+    580.0,
+    700.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_215882_t1.png",
+   "html": "<table><tr><td>FleetType</td><td>TotalUnits</td><td colspan=\"2\">ElectricVehicles</td><td colspan=\"2\">HybridVehicles</td></tr><tr><td>LightDuty</td><td>1500</td><td>800</td><td>700</td><td>MediumDuty</td><td>600</td></tr><tr><td>300</td><td>300</td><td>HeavyDuty</td><td>400</td><td>100</td><td>300</td></tr><tr><td>TotalFleet</td><td>2500</td><td>1200</td><td>1300</td><td>PercentageElectric</td><td>48%</td></tr><tr><td>PercentageHybrid</td><td>52%</td><td>ChargingInfrastructure</td><td>TotalStations</td><td>300</td><td>FastChargers</td></tr><tr><td>100</td><td>StandardChargers</td><td>200</td><td>AnnualInvestment</td><td>CNY500M</td><td>EmissionReduction</td></tr><tr><td>20%</td><td>ProjectedGrowth</td><td>15%</td><td>FutureTargets</td><td>60%Electric</td><td>40%Hybrid</td></tr></table>"
+  },
+  {
+   "table_id": "img_215908_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    224.0,
+    580.0,
+    448.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_215908_t0.png",
+   "html": "<table><tr><td>AssetClass</td><td colspan=\"2\">Amount(€M)</td><td>Duration(Years)</td><td>Yield(%)</td></tr><tr><td colspan=\"2\">GovernmentBonds</td><td>5000</td><td colspan=\"2\">4.5</td><td>1.2</td><td>CorporateBonds</td></tr><tr><td>InvestmentGrade</td><td>3000</td><td>5.0</td><td>1.5</td><td>HighYield</td><td>2000</td><td>6.0</td></tr><tr><td>TotalFixedIncome</td><td>10000</td><td>4.8</td><td>1.3</td><td>MarketShare(%)</td><td>YoYChange(%)</td><td>TotalAssets(%)</td></tr><tr><td>GovernmentBonds</td><td>30</td><td>5</td><td>40</td><td>CorporateBonds</td><td>25</td><td>3</td></tr><tr><td>HighYield</td><td>15</td><td>6</td><td>30</td><td>TotalFixedIncome</td><td>70</td><td>4</td></tr><tr><td>InvestmentStrategy</td><td>DurationTarget</td><td>InterestRateRisk</td><td>ActiveManagement</td><td>5.0</td><td>Medium</td><td>PassiveManagement</td></tr></table>"
+  },
+  {
+   "table_id": "img_215908_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    524.0,
+    580.0,
+    692.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_215908_t1.png",
+   "html": "<table><tr><td>FundName</td><td>TotalAllocation</td></tr><tr><td>AllocationBreakdown</td><td colspan=\"2\">Equities(%)</td></tr><tr><td>FixedIncome</td><td colspan=\"2\">Alternatives(%)</td><td>Cash(%)</td></tr><tr><td>SovereignFundA</td><td>5000MEUR</td><td>60%</td><td>25%</td></tr><tr><td>SovereignFundB</td><td>3000MEUR</td><td>55%</td><td>30%</td></tr><tr><td>SovereignFundC</td><td>4000MEUR</td><td>65%</td><td>20%</td></tr><tr><td>SovereignFundD</td><td>2500MEUR</td><td>50%</td><td>15%</td></tr></table>"
+  },
+  {
+   "table_id": "img_215948_t0",
+   "page_num": 9,
+   "bbox": [
+    13.0,
+    137.0,
+    504.0,
+    466.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_215948_t0.png",
+   "html": "<table><tr><td>ProjectName</td><td>Status</td></tr><tr><td colspan=\"2\">PendingApplications</td><td>ConnectedCapacity</td></tr><tr><td colspan=\"2\">ApprovedProjects</td><td colspan=\"3\">Capacity(MW)</td><td colspan=\"3\">EstimatedCost</td></tr><tr><td>Rating</td><td>Location</td><td>ApplicationDate</td><td>InterconnectionStatus</td><td>QueuePosition</td><td>ConnectionType</td><td>AdditionalNotes</td><td>ProjectedStart</td></tr><tr><td>SolarFarmA</td><td>Approved</td><td>10</td><td>50</td><td>CNY100M</td><td>High</td><td>LocationA</td><td>2023-04-15</td></tr><tr><td>InProgress</td><td>Pending</td><td>5</td><td>20</td><td>CNY40M</td><td>Medium</td><td>LocationB</td><td>2023-05-10</td></tr><tr><td>WindFarmB</td><td>Approved</td><td>15</td><td>75</td><td>CNY150M</td><td>High</td><td>LocationC</td><td>2023-03-20</td></tr><tr><td>HydroPlantC</td><td>Pending</td><td>8</td><td>30</td><td>CNY80M</td><td>Low</td><td>LocationD</td><td>2023-06-25</td></tr><tr><td>BiomassPlantD</td><td>Rejected</td><td>3</td><td>10</td><td>CNY20M</td><td>N/A</td><td>LocationE</td><td>2023-07-30</td></tr></table>"
+  },
+  {
+   "table_id": "img_215948_t1",
+   "page_num": 9,
+   "bbox": [
+    13.0,
+    532.0,
+    504.0,
+    722.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_215948_t1.png",
+   "html": "<table><tr><td colspan=\"3\">CarbonCreditMetrics</td><td colspan=\"2\">TradingVolumes</td><td>P/ERatio</td><td>CurrentRatio</td><td colspan=\"2\">Debt/Equity</td></tr><tr><td>Q32023</td><td>Q22023</td><td>Change(%)</td><td>MarketPrice(CNY)</td><td>CreditsTraded</td><td>AveragePrice</td><td>Volume(Mtons)</td><td>MarketCap(CNY)</td><td>OperatingMargin</td></tr><tr><td>1,000,000</td><td>800,000</td><td>25.0</td><td>150.00</td><td>1,200,000</td><td>120.50</td><td>1.5</td><td>300,000</td><td>10.5</td></tr><tr><td>1,200,000</td><td>950,000</td><td>26.3</td><td>145.00</td><td>1,100,000</td><td>125.75</td><td>1.7</td><td>320,000</td><td>11.0</td></tr><tr><td>1,100,000</td><td>900,000</td><td>22.2</td><td>155.00</td><td>1,300,000</td><td>130.00</td><td>1.4</td><td>310,000</td><td>9.8</td></tr><tr><td>1,200,000</td><td>850,000</td><td>41.2</td><td>140.00</td><td>1,400,000</td><td>135.00</td><td>1.6</td><td>330,000</td><td>10.2</td></tr><tr><td>1,300,000</td><td>850,000</td><td>52.9</td><td>145.00</td><td>1,400,000</td><td>130.00</td><td>1.3</td><td>340,000</td><td>10.4</td></tr><tr><td>1,400,000</td><td>1,000,000</td><td>40.0</td><td>150.00</td><td>1,500,000</td><td>125.00</td><td>1.2</td><td>350,000</td><td>10.8</td></tr><tr><td>1,500,000</td><td>1,100,000</td><td>36.0</td><td>155.00</td><td>1,600,000</td><td>140.00</td><td>1.1</td><td>360,000</td><td>10.1</td></tr></table>"
+  },
+  {
+   "table_id": "img_216031_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    95.0,
+    574.0,
+    197.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_216031_t0.png",
+   "html": "<table><tr><td>Metric</td><td>Value</td><td>Change(%)</td><td>Trend</td></tr><tr><td>P/ERatio</td><td>18.5</td><td>-2.3</td><td>Decreasing</td></tr><tr><td>CurrentRatio</td><td>1.8</td><td>+0.5</td><td>Improving</td></tr><tr><td>Debt/Equity</td><td>0.4</td><td>-0.1</td><td>Stable</td></tr><tr><td>GrossMargin</td><td>75%</td><td>+1.2</td><td>Increasing</td></tr></table>"
+  },
+  {
+   "table_id": "img_216031_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    257.0,
+    574.0,
+    431.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_216031_t1.png",
+   "html": "<table><tr><td colspan=\"2\">FinancialOverview</td><td colspan=\"2\">ProductPerformance</td><td colspan=\"3\">MarketInsights</td></tr><tr><td>Amount($M)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>R&amp;DInvestment</td><td>SalesRevenue</td><td>ProductPipeline</td><td>TherapeuticArea</td></tr><tr><td>150</td><td>5.0</td><td>20.0</td><td>30</td><td>12.5</td><td>18.0</td><td>Immunology</td></tr><tr><td>120</td><td>3.5</td><td>15.5</td><td>25</td><td>10.0</td><td>17.0</td><td>Oncology</td></tr><tr><td>85</td><td>6.0</td><td>10.0</td><td>20</td><td>8.5</td><td>14.5</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_216031_t2",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    522.0,
+    574.0,
+    720.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_216031_t2.png",
+   "html": "<table><tr><td>R&amp;DProductivityMetrics</td><td colspan=\"2\">FinancialRatios</td><td colspan=\"3\">OperationalIndices</td></tr><tr><td>ReturnonInvestment</td><td colspan=\"2\">CostperDrug</td><td colspan=\"3\">SuccessRate</td></tr><tr><td>FundingAllocation</td><td colspan=\"2\">R&amp;DExpense</td><td colspan=\"3\">PipelineValue</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>R&amp;DIntensity</td><td>MarketCap</td><td>EmployeeRatio</td></tr><tr><td>22.5%</td><td>$2.4B</td><td>$3.1B</td><td>15.0%</td><td>1.8</td><td>0.7</td></tr></table>"
+  }
+ ]
+}

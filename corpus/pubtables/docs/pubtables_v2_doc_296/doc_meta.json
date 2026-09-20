@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_296",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2518143_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    784.3,
+    689.5,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2518143_table_0.png",
+   "html": "<table><tr><td>Disease Category</td><td>Diagnosis Codes</td></tr><tr><td>Essential or secondary HTN</td><td>Primary diagnosis = I10 or I15; with or without other diagnoses</td></tr><tr><td>Hypertensive heart and/or renal disease</td><td>Primary diagnosis = I11; I12; I13; with or without other diagnoses</td></tr><tr><td>Other definite consequences of untreated HTN</td><td>Primary diagnosis = I20.0; I20.8; I20.9; I21; I22; I23; I25; I34.0; I42.0; I42.1; I42.2; I42.9; I46; I47.2; I48; I61; I63; I64; I65; I66; I67.0; I67.2; I67.4; I67.8; I69.1; I69.3; I69.4; I70; I71; I72; I73.9; I74; N28.0; with or without other diagnoses</td></tr><tr><td>Possible consequences of untreated HTN</td><td>Primary diagnosis = I24; I49.9; I62.9; I69.2; I77.9; I78.9; I79.8; N27; with or without other diagnoses</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2518143_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    129.9,
+    686.6,
+    680.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2518143_table_1.png",
+   "html": "<table><tr><td></td><td>All HTN-Related Diagnoses</td><td>Essential or Secondary HTN</td><td>Hypertensive Heart and/or Renal Disease</td><td>Other Definite Consequences of Untreated HTN</td><td>Other Possible Consequences of Untreated HTN</td></tr><tr><td>Hospitalizations, n</td><td>444628</td><td>186013</td><td>86588</td><td>166646</td><td>5381</td></tr><tr><td>Unique patients, n</td><td>360016</td><td>166794</td><td>67469</td><td>144415</td><td>5161</td></tr><tr><td>mAge group*, n</td><td>444528</td><td>185991</td><td>86566</td><td>166591</td><td>5380</td></tr><tr><td>0&#8211;39</td><td>8.1</td><td>11.8</td><td>4.9</td><td>5.5</td><td>11.6</td></tr><tr><td>40&#8211;59</td><td>37.8</td><td>45.1</td><td>35.7</td><td>30.8</td><td>32.6</td></tr><tr><td>60&#8211;79</td><td>46.0</td><td>37.7</td><td>50.1</td><td>53.3</td><td>44.7</td></tr><tr><td>80&#8211;100</td><td>8.1</td><td>5.4</td><td>9.3</td><td>10.5</td><td>11.1</td></tr><tr><td>Gender, n</td><td>444617</td><td>186006</td><td>86587</td><td>166643</td><td>5381</td></tr><tr><td>Men</td><td>46.7</td><td>38.9</td><td>46.0</td><td>55.8</td><td>47.5</td></tr><tr><td>Women</td><td>53.3</td><td>61.1</td><td>54.1</td><td>44.2</td><td>52.4</td></tr><tr><td>Member status, n</td><td>444617</td><td>186013</td><td>86588</td><td>166646</td><td>5381</td></tr><tr><td>Member</td><td>49.5</td><td>46.3</td><td>50.5</td><td>52.5</td><td>50.0</td></tr><tr><td>Dependent</td><td>50.5</td><td>53.7</td><td>49.5</td><td>47.5</td><td>50.0</td></tr><tr><td>Membership category, n</td><td>444628</td><td>186013</td><td>86588</td><td>166646</td><td>5381</td></tr><tr><td>Government employee</td><td>33.6</td><td>35.7</td><td>33.2</td><td>31.4</td><td>32.6</td></tr><tr><td>Private firm employee</td><td>31.0</td><td>30.6</td><td>27.7</td><td>33.0</td><td>32.1</td></tr><tr><td>Self-employed</td><td>10.8</td><td>10.4</td><td>13.5</td><td>9.8</td><td>9.6</td></tr><tr><td>Retired/pensioner</td><td>13.2</td><td>9.7</td><td>16.2</td><td>15.5</td><td>13.9</td></tr><tr><td>Sponsored/indigent</td><td>11.5</td><td>13.6</td><td>9.4</td><td>10.3</td><td>11.8</td></tr><tr><td>mHospital type, n</td><td>435910</td><td>181480</td><td>85108</td><td>164159</td><td>5163</td></tr><tr><td>Public</td><td>24.8</td><td>24.0</td><td>22.8</td><td>26.9</td><td>22.0</td></tr><tr><td>Private</td><td>75.2</td><td>76.0</td><td>77.2</td><td>73.1</td><td>78.0</td></tr><tr><td>mHospital location&#8224;, n</td><td>443703</td><td>186013</td><td>86588</td><td>165786</td><td>5316</td></tr><tr><td>NCR</td><td>20.4</td><td>12.0</td><td>20.5</td><td>29.9</td><td>17.3</td></tr><tr><td>North</td><td>18.9</td><td>20.7</td><td>17.3</td><td>17.5</td><td>27.1</td></tr><tr><td>Central</td><td>37.8</td><td>40.2</td><td>40.3</td><td>34.1</td><td>31.4</td></tr><tr><td>South</td><td>22.9</td><td>27.2</td><td>21.8</td><td>18.6</td><td>24.2</td></tr><tr><td>Length of stay &#8211; total (days) &#8211; median</td><td>1834589 3</td><td>549741 2</td><td>305705 2</td><td>957101 4</td><td>22042 3</td></tr><tr><td>mMedical case type, n</td><td>444628</td><td>186013</td><td>86588</td><td>166646</td><td>5381</td></tr><tr><td>Catastrophic</td><td>14.7</td><td>1.3</td><td>21.1</td><td>26.2</td><td>14.6</td></tr><tr><td>Intensive</td><td>25.9</td><td>9.1</td><td>22.8</td><td>45.9</td><td>36.6</td></tr><tr><td>Ordinary</td><td>59.5</td><td>89.6</td><td>56.1</td><td>28.0</td><td>48.8</td></tr><tr><td>Surgery performed, n</td><td>444628</td><td>186013</td><td>86588</td><td>166646</td><td>5381</td></tr><tr><td>No</td><td>93.9</td><td>98.5</td><td>84.6</td><td>93.4</td><td>96.3</td></tr><tr><td>Yes</td><td>6.1</td><td>1.5</td><td>15.4</td><td>6.6</td><td>3.7</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2518143_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    129.9,
+    685.6,
+    657.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2518143_table_2.png",
+   "html": "<table><tr><td>Cost Categories</td><td>All HTN-Related Diagnoses</td><td>Essential or Secondary HTN</td><td>Hypertensive Heart and/or Renal Disease</td><td>Other Definite Consequences of Untreated HTN</td><td>Other Possible Consequences of Untreated HTN</td></tr><tr><td colspan=\"6\">Total Costs Reimbursed</td></tr><tr><td>Total</td><td>55629906</td><td>13266422</td><td>8504060</td><td>33109546</td><td>749878</td></tr><tr><td>Median</td><td>74</td><td>57</td><td>68</td><td>130</td><td>84</td></tr><tr><td>Interquartile range</td><td>(47, 136)</td><td>(40, 81)</td><td>(44, 112)</td><td>(72, 252)</td><td>(52, 151)</td></tr><tr><td colspan=\"6\">Room &amp; board</td></tr><tr><td>Total</td><td>12144111</td><td>3490435</td><td>1903868</td><td>6598794</td><td>151013</td></tr><tr><td>Median</td><td>17</td><td>15</td><td>17</td><td>29</td><td>17</td></tr><tr><td>Interquartile range</td><td>(11, 31)</td><td>(9, 24)</td><td>(10, 30)</td><td>(16, 51)</td><td>(11, 31)</td></tr><tr><td colspan=\"6\">Medicines</td></tr><tr><td>Total</td><td>18891088</td><td>3743671</td><td>2812965</td><td>12060518</td><td>273935</td></tr><tr><td>Median</td><td>20</td><td>12</td><td>19</td><td>40</td><td>25</td></tr><tr><td>Interquartile range</td><td>(8, 49)</td><td>(6, 26)</td><td>(7, 37)</td><td>(15, 99)</td><td>(10, 58)</td></tr><tr><td colspan=\"6\">Laboratory</td></tr><tr><td>Total</td><td>15981484</td><td>4045645</td><td>2464490</td><td>9247897</td><td>223452</td></tr><tr><td>Median</td><td>26</td><td>17</td><td>20</td><td>36</td><td>32</td></tr><tr><td>Interquartile range</td><td>(14, 36)</td><td>(9, 32)</td><td>(12, 36)</td><td>(18, 76)</td><td>(15, 42)</td></tr><tr><td colspan=\"6\">Operating room</td></tr><tr><td>Total</td><td>741670</td><td>86718</td><td>151197</td><td>494819</td><td>8937</td></tr><tr><td>Median</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Interquartile range</td><td>(0, 0)</td><td>(0, 0)</td><td>(0, 0)</td><td>(0, 0)</td><td>(0, 0)</td></tr><tr><td colspan=\"6\">Professional fee</td></tr><tr><td>Total</td><td>5205156</td><td>1530813</td><td>867739</td><td>2743100</td><td>63505</td></tr><tr><td>Median</td><td>9</td><td>7</td><td>9</td><td>11</td><td>10</td></tr><tr><td>Interquartile range</td><td>(6, 14)</td><td>(5, 11)</td><td>(6, 13)</td><td>(6, 20)</td><td>(5, 15)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2518143_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    129.9,
+    694.2,
+    361.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2518143_table_3.png",
+   "html": "<table><tr><td>Per Member Number of Hospitalizations in 3.5 Years</td><td>Number (%) of Members n = 141103</td><td>Number (%) of Hospitalizations n = 189010</td><td>Total Costs for Hospitalizations and Costs per Member in 3.5 Years (PhP) Total Sum Median Interquartile Range</td></tr><tr><td>1</td><td>112107 (79.5)</td><td>112107 (59.3)</td><td>161222657 85 (54, 157)</td></tr><tr><td>2</td><td>20637 (14.6)</td><td>41274 (21.8)</td><td>5906369 188 (119, 341)</td></tr><tr><td>3&#8211;5</td><td>7651 (5.4)</td><td>25807 (13.7)</td><td>3375467 308 (198, 547)</td></tr><tr><td>6&#8211;9</td><td>479 (0.3)</td><td>3301 (1.8)</td><td>330315 498 (336, 849)</td></tr><tr><td>10+</td><td>229 (0.2)</td><td>6521 (3.5)</td><td>346820 1151 (684, 1979)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2518143_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    501.2,
+    688.9,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2518143_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Characteristic</td><td colspan=\"2\">Subsequent admissions for HTN-related conditions among those admitted for any HTN- related condition N = 141,384</td><td colspan=\"2\">Subsequent admissions for HTN-related conditions among those admitted for essential or secondary HTN N = 60,646</td></tr><tr><td>OR</td><td>95% CI</td><td>OR</td><td>95% CI</td></tr><tr><td colspan=\"5\">Illness Category</td></tr><tr><td>Hypertensive heart or renal disease</td><td>1.16</td><td>1.12, 1.21</td><td>n/a</td><td>n/a</td></tr><tr><td>Definite or possible consequences</td><td>1.12</td><td>1.09, 1.15</td><td>n/a</td><td>n/a</td></tr><tr><td>Essential/secondary HTN</td><td>-</td><td>-</td><td>n/a</td><td>n/a</td></tr><tr><td colspan=\"5\">Age group (years)</td></tr><tr><td>80+</td><td>1.80</td><td>1.68, 1.94</td><td>3.55</td><td>3.03, 4.15</td></tr><tr><td>60&#8211;79</td><td>1.47</td><td>1.38, 1.56</td><td>2.65</td><td>2.34, 3.00</td></tr><tr><td>40&#8211;59</td><td>1.86</td><td>1.75, 1.97</td><td>1.92</td><td>1.70, 2.17</td></tr><tr><td>&lt;= 40</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan=\"5\">Gender</td></tr><tr><td>Female</td><td>1.08</td><td>1.05, 1.11</td><td>0.84</td><td>0.79, 0.89</td></tr><tr><td>Male</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan=\"5\">Membership Status</td></tr><tr><td>Dependent</td><td>1.05</td><td>1.02, 1.09</td><td>1.12</td><td>1.05, 1.19</td></tr><tr><td>Member</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan=\"5\">Membership category</td></tr><tr><td>Government-employee</td><td>1.20</td><td>1.16, 1.24</td><td>1.14</td><td>1.07, 1.22</td></tr><tr><td>Self-employed</td><td>1.56</td><td>1.49, 1.64</td><td>1.15</td><td>1.03, 1.29</td></tr><tr><td>Retired</td><td>3.78</td><td>3.60, 3.96</td><td>1.06</td><td>0.93, 1.21</td></tr><tr><td>Sponsored/indigent</td><td>0.95</td><td>0.89, 1.01</td><td>0.87</td><td>0.77, 0.98</td></tr><tr><td>Private firm employee</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2518143_table_5",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    129.9,
+    692.4,
+    331.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2518143_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Sequelae</td><td rowspan=\"2\">Number (%) of Members n = 60659</td><td rowspan=\"2\">Number (%) of Hospitalizations N = 78109</td><td colspan=\"3\">Days to First Hospital Readmission for Sequelae</td></tr><tr><td>25th Percentile</td><td>50th Percentile</td><td>75th Percentile</td></tr><tr><td>Hypertensive heart disease</td><td>1948 (3.2)</td><td>2297 (2.9)</td><td>85</td><td>247</td><td>496</td></tr><tr><td>Hypertensive renal disease</td><td>110 (0.2)</td><td>411 (0.5)</td><td>60</td><td>255</td><td>502</td></tr><tr><td>Hypertensive heart and renal disease</td><td>26 (0.0)</td><td>26 (0.0)</td><td>68</td><td>178</td><td>367</td></tr><tr><td>Other definite consequences of untreated HTN</td><td>3292 (5.4)</td><td>3919 (5.0)</td><td>59</td><td>225</td><td>496</td></tr><tr><td>Other possible consequences of untreated HTN</td><td>154 (0.3)</td><td>163 (0.2)</td><td>80</td><td>211</td><td>437</td></tr></table>"
+  }
+ ]
+}

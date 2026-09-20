@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_065",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    108,
+    580,
+    182
+   ],
+   "ocr": "The first table presents data on pesticide application effects, categorized by type and survey method, with the headers indicating the type of pesticide application, telephone survey, and web survey, under the sub-headers Effect and ICC. For outdoor sprays, the telephone survey reports \"No variation observed\" with an ICC of 0.16, while the web survey indicates a \"Decreasing across quarters\" effect with an ICC of 0.30. Indoor sprays show \"No variation observed\" in the telephone survey with an ICC of 0.05 and \"No variation observed\" in the web survey with an ICC of 0.20."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    170,
+    580,
+    228
+   ],
+   "ocr": "The behind-the-neck treatment on pets reports \"No variation observed\" in the telephone survey with an ICC of 0.45, contrasted by a \"Decreasing across quarters\" effect in the web survey with an ICC of 0.66. Professional application in the yard has no reported variation in the telephone survey, with no ICC data, but the web survey shows \"No variation observed\" with an ICC of 0.77."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    275.0,
+    580.0,
+    415.0
+   ],
+   "ocr": "Type of pesticide application Telephone survey Web survey\nEffect ICC Effect ICC\nOutdoor sprays No variation observed 0.16 Decreasing across quarters 0.30\nwarm season > cool season\nIndoor sprays No variation observed 0.05 No variation observed 0.20\nBehind-the-neck treatment on pet No variation observed 0.45 Decreasing across quarters 0.66\nProfessional application in the yard — — No variation observed 0.77",
+   "table_id": "img_072604_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    460.0,
+    580.0,
+    642.0
+   ],
+   "ocr": "Receptor Regulation Pathway Function Reference\nPAR-1 CCL2 PKC/c-SRC/EGFR/MEK/ERK/AP-1 Monocytes, memory T cells, and dendritic cells activation [47, 48]\nPAR-1/-2 IL-1, TNF-α p38/p42/44 MMP expression [65]\nPAR-1/-3 HO-1 PKCδ/c-SRC/Nrf-2 Synovial fibroblasts inflammatory [70–72]\nPAR-1/-3 MMP-13 PKCδ/c-SRC/EGFR/pI3K/AKT/AP-1 Cartilage destruction [59, 60]\nPAR-1 COX-2 ? IL-6, CTGF, FGF1/2, VEGF, Tnc expression [51–54]",
+   "table_id": "img_072604_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    717
+   ],
+   "ocr": "The second table details receptors, regulations, pathways, functions, and references, with PAR-1 regulated by CCL2, activating monocytes, memory T cells, and dendritic cells via the PKC/c-SRC/EGFR/MEK/ERK/AP-1 pathway, referenced in [47, 48]. PAR-1/-2 is regulated by IL-1 and TNF-α affecting MMP expression through the p38/p42/44 pathway, cited in [65]."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "PAR-1/-3 with HO-1 regulates synovial fibroblast inflammation, referenced in [70–72], while MMP-13 involves cartilage destruction via the PKCδ/c-SRC/EGFR/pI3K/AKT/AP-1 pathway, from [59, 60]. Lastly, PAR-1 also regulates COX-2 with IL-6, CTGF, FGF1/2, VEGF, Tnc expression via an unspecified pathway as noted in [51–54]."
+  }
+ }
+}

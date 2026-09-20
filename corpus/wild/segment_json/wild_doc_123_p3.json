@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_123",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    153,
+    580,
+    334
+   ],
+   "ocr": "In the telecommunications sector, SoftBank Corp reported key metrics for FY2023, reflecting a comprehensive churn rate analysis. The table's first metric, Revenue, indicated an amount of £200M for Q1FY2023, £5.0M for Q2FY2023, £25.0M for Q3FY2023, and £10M for Q4FY2023, culminating in a total of £50M for TotalFY2023, with a change of £20M and a change percentage of 10.0%. The second metric, ChurnRate, revealed values of 15.0% for Q1FY2023, 0.5% for Q2FY2023, 1.5% for Q3FY2023, and 2.0% for Q4FY2023, leading to an overall churn rate of 1.8% for TotalFY2023, with a change of 1.6% and a final value of 1.9% for the analysis. The third metric, CustomerBase, showed a steady increase from 2M in Q1FY2023 to 2.1M in Q2FY2023, further rising to 2.2M in Q3FY2023 and 2.3M by Q4FY2023, ultimately reaching a total of 2.5M for TotalFY2023, with subsequent increases recorded at 2.6M, 2.7M, and 2.8M. The fourth metric, ARPU, demonstrated £100 in Q1FY2023, declining to £95 in Q2FY2023, falling further to £90 in Q3FY2023, and dropping to £85 in Q4FY2023, culminating in a total value of £80 for TotalFY2023, followed by decreases to £75 and £70 in the later periods. These figures encapsulate the financial overview of SoftBank Corp's performance across the fiscal year, providing crucial insights into revenue generation, customer retention through churn rates, customer base growth, and average revenue per user trends."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    322,
+    580,
+    534
+   ],
+   "ocr": "The reported churn rate of 15.0% in Q1FY2023 highlights initial retention challenges, although subsequent quarters saw significant improvements, with a notable reduction to 2.0% in Q4FY2023, suggesting enhanced customer loyalty initiatives or market conditions favoring retention. The gradual increase in customer base from 2M to 2.5M further indicates successful acquisition strategies, despite the initial high churn rate. The ARPU demonstrated a consistent decline throughout the year, which may reflect competitive pricing strategies or shifts in service offerings that require further analysis to determine the sustainability of revenue generation moving forward. Overall, the data presents a mixed but positive outlook for SoftBank Corp, with substantial revenue growth, improved customer retention as evidenced by the churn rate, and a robust increase in customer base despite pressures on ARPU. The company must continue to innovate and adapt to maintain its market share and address the challenges posed by fluctuating average revenues per user while leveraging its growing customer base to enhance overall profitability. The dynamics of churn and revenue will be critical in shaping future strategies, ensuring that SoftBank Corp not only retains its current customers but also effectively attracts new ones in an increasingly competitive telecommunications landscape. This comprehensive analysis emphasizes the interconnected nature of these metrics, underscoring the importance of a holistic approach to customer relationship management and financial performance in the telecommunications sector."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    608.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "Metric Amount(GBP) YoYChange(%) MarketShare(%) ChurnRate(%) CustomerBase ARPU(GBP) NetAdditions\nFinancialOverview Q1FY2023 Q2FY2023 Q3FY2023 Q4FY2023 TotalFY2023 Change(GBP) Change(%)\nRevenue 200M 5.0 25.0 10M 50M 20M 270M 10.0\nChurnRate 15.0 0.5 1.5 2.0 1.8 1.6 1.9 1.7\nCustomerBase 2M 2.1M 2.2M 2.3M 2.5M 2.6M 2.7M 2.8M\nARPU 100 95 90 85 80 75 70 Total",
+   "table_id": "img_136671_t0"
+  }
+ }
+}

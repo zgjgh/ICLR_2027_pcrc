@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_218",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    749,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    749,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5057496_table_0",
+   "page_num": 1,
+   "bbox": [
+    147.7,
+    832.9,
+    600.9,
+    922.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5057496_table_0.png",
+   "html": "<table><tr><td></td><td>GO Id</td><td>Relation</td><td></td><td>GO Id</td></tr><tr><td>A</td><td>GO:0046879</td><td>is-a</td><td>B</td><td>GO:0009914</td></tr><tr><td>B</td><td>GO:0009914</td><td>is-a</td><td>C</td><td>GO:0010817</td></tr><tr><td>C</td><td>GO:0010817</td><td>is-a</td><td>D</td><td>GO:0065008</td></tr><tr><td>D</td><td>GO:0065008</td><td>is-a</td><td>E</td><td>GO:0065007</td></tr><tr><td>E</td><td>GO:0065007</td><td>is-a</td><td>F</td><td>GO:0008150</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5057496_table_1",
+   "page_num": 2,
+   "bbox": [
+    148.5,
+    819.0,
+    601.6,
+    908.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5057496_table_1.png",
+   "html": "<table><tr><td>Version</td><td># Concepts</td><td># is-a Relations</td><td>TC</td><td>RR</td><td>RR %</td><td>T(ms)</td></tr><tr><td>2013-09-01</td><td>300,485</td><td>447,442</td><td>5,226,630</td><td>240</td><td>0.00459</td><td>10,472</td></tr><tr><td>2014-03-01</td><td>300,409</td><td>446,603</td><td>5,188,221</td><td>277</td><td>0.00534</td><td>10,335</td></tr><tr><td>2014-09-01</td><td>302,902</td><td>449,564</td><td>5,222,506</td><td>305</td><td>0.00584</td><td>10,074</td></tr><tr><td>2015-03-01</td><td>315,904</td><td>467,799</td><td>5,408,010</td><td>235</td><td>0.00435</td><td>15,264</td></tr><tr><td>2015-09-01</td><td>320,911</td><td>476,226</td><td>5,511,334</td><td>372</td><td>0.00675</td><td>16,077</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5057496_table_2",
+   "page_num": 3,
+   "bbox": [
+    148.5,
+    154.0,
+    601.6,
+    243.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5057496_table_2.png",
+   "html": "<table><tr><td>Version</td><td>l2</td><td>l3</td><td>l4</td><td>Total</td></tr><tr><td>2013-09-01</td><td>233</td><td>7</td><td>0</td><td>240</td></tr><tr><td>2014-03-01</td><td>264</td><td>11</td><td>2</td><td>277</td></tr><tr><td>2014-09-01</td><td>291</td><td>13</td><td>1</td><td>305</td></tr><tr><td>2015-03-01</td><td>224</td><td>10</td><td>1</td><td>235</td></tr><tr><td>2015-09-01</td><td>358</td><td>13</td><td>1</td><td>372</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5057496_table_3",
+   "page_num": 3,
+   "bbox": [
+    148.5,
+    731.8,
+    601.6,
+    897.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5057496_table_3.png",
+   "html": "<table><tr><td>Version</td><td># Concepts</td><td># is-a Relations</td><td>TC</td><td>RR</td><td>RR%</td><td>T(ms)</td></tr><tr><td>2014-08-01</td><td>41,436</td><td>66,544</td><td>517,092</td><td>497</td><td>0.0961</td><td>1,372</td></tr><tr><td>2014-09-01</td><td>41,694</td><td>66,995</td><td>522,741</td><td>502</td><td>0.0960</td><td>1,472</td></tr><tr><td>2014-10-01</td><td>41,867</td><td>67,536</td><td>528,821</td><td>631</td><td>0.1193</td><td>1,455</td></tr><tr><td>2014-11-01</td><td>42,012</td><td>69,300</td><td>541,718</td><td>1,031</td><td>0.1903</td><td>1,497</td></tr><tr><td>2014-12-01</td><td>42,189</td><td>69,887</td><td>545,168</td><td>1,193</td><td>0.2188</td><td>1,425</td></tr><tr><td>2015-01-01</td><td>42,329</td><td>70,272</td><td>544,210</td><td>1,277</td><td>0.2347</td><td>1,510</td></tr><tr><td>2015-02-01</td><td>42,466</td><td>70,724</td><td>546,158</td><td>1,420</td><td>0.2600</td><td>1,549</td></tr><tr><td>2015-03-01</td><td>42,588</td><td>71,032</td><td>548,006</td><td>1,463</td><td>0.2670</td><td>1,542</td></tr><tr><td>2015-04-01</td><td>42,805</td><td>71,549</td><td>552,367</td><td>1,552</td><td>0.2810</td><td>1,437</td></tr><tr><td>2015-05-01</td><td>42,979</td><td>71,954</td><td>557,550</td><td>1,609</td><td>0.2886</td><td>1,538</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5057496_table_4",
+   "page_num": 4,
+   "bbox": [
+    147.7,
+    154.3,
+    600.9,
+    320.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5057496_table_4.png",
+   "html": "<table><tr><td>Version</td><td>l2</td><td>l3</td><td>l4</td><td>l5</td><td>l6</td><td>l7</td><td>Total</td></tr><tr><td>2014-08-01</td><td>421</td><td>40</td><td>23</td><td>11</td><td>1</td><td>1</td><td>497</td></tr><tr><td>2014-09-01</td><td>419</td><td>44</td><td>24</td><td>13</td><td>1</td><td>1</td><td>502</td></tr><tr><td>2014-10-01</td><td>512</td><td>72</td><td>29</td><td>15</td><td>2</td><td>1</td><td>631</td></tr><tr><td>2014-11-01</td><td>771</td><td>164</td><td>64</td><td>27</td><td>4</td><td>1</td><td>1,031</td></tr><tr><td>2014-12-01</td><td>921</td><td>174</td><td>63</td><td>27</td><td>7</td><td>1</td><td>1,193</td></tr><tr><td>2015-01-01</td><td>980</td><td>202</td><td>62</td><td>24</td><td>8</td><td>1</td><td>1,277</td></tr><tr><td>2015-02-01</td><td>1,098</td><td>220</td><td>68</td><td>24</td><td>8</td><td>2</td><td>1,420</td></tr><tr><td>2015-03-01</td><td>1,119</td><td>237</td><td>72</td><td>25</td><td>8</td><td>2</td><td>1,463</td></tr><tr><td>2015-04-01</td><td>1,198</td><td>238</td><td>78</td><td>29</td><td>7</td><td>2</td><td>1,552</td></tr><tr><td>2015-05-01</td><td>1,238</td><td>255</td><td>78</td><td>29</td><td>7</td><td>2</td><td>1,609</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5057496_table_5",
+   "page_num": 4,
+   "bbox": [
+    147.7,
+    793.0,
+    600.9,
+    897.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5057496_table_5.png",
+   "html": "<table><tr><td>Version</td><td># AUIs</td><td># is-a Relations</td><td>TC</td><td>RR</td><td>RR%</td><td>T(ms)</td></tr><tr><td>SNOMEDCT_US</td><td>846,444</td><td>476,055</td><td>5,511,334</td><td>372</td><td>0.00675</td><td>28,977</td></tr><tr><td>SNOMEDCT_VET</td><td>85,939</td><td>19,832</td><td>29,688</td><td>7</td><td>0.024</td><td>954</td></tr><tr><td>GO</td><td>148,900</td><td>71,687</td><td>554,859</td><td>1,576</td><td>0.2840</td><td>9,128</td></tr><tr><td>NCI</td><td>270,618</td><td>119,707</td><td>701,986</td><td>20</td><td>0.0028</td><td>5,881</td></tr><tr><td>HPO</td><td>18,175</td><td>14,762</td><td>117,366</td><td>101</td><td>0.0861</td><td>502</td></tr><tr><td>UMD</td><td>34,124</td><td>10,750</td><td>37,732</td><td>20</td><td>0.0530</td><td>1,906</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5057496_table_6",
+   "page_num": 5,
+   "bbox": [
+    147.7,
+    126.6,
+    575.9,
+    277.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5057496_table_6.png",
+   "html": "<table><tr><td>(N, E, Cmin, Cmax)</td><td># Layers</td><td>TC</td><td>RR</td><td>RR%</td><td>T(ms)</td></tr><tr><td>(500,000, 550,000, 2, 5)</td><td>12</td><td>5,957,690</td><td>6</td><td>0.0001</td><td>5,847</td></tr><tr><td>(500,000, 550,000, 2, 10)</td><td>8</td><td>4,036,792</td><td>12</td><td>0.0003</td><td>5,212</td></tr><tr><td>(500,000, 550,000, 2, 20)</td><td>6</td><td>3,000,751</td><td>7</td><td>0.0002</td><td>5,637</td></tr><tr><td>(500,000, 600,000, 2, 20)</td><td>6</td><td>3,567,691</td><td>13</td><td>0.00036</td><td>5,449</td></tr><tr><td>(500,000, 700,000, 2, 20)</td><td>6</td><td>4,190,494</td><td>34</td><td>0.00081</td><td>5,332</td></tr><tr><td>(500,000, 900,000, 2, 20)</td><td>6</td><td>7,104,749</td><td>109</td><td>0.00153</td><td>8,183</td></tr><tr><td>(500,000, 1,300,000, 2, 20)</td><td>6</td><td>25,934,499</td><td>1, 404</td><td>0.0054</td><td>33,235</td></tr><tr><td>(1,000,000, 1,200,000, 2, 20)</td><td>7</td><td>7,071,813</td><td>21</td><td>0.0003</td><td>18,051</td></tr><tr><td>(1,000,000, 1,400,000, 2, 20)</td><td>7</td><td>8,694,703</td><td>133</td><td>0.0015</td><td>11,582</td></tr></table>"
+  }
+ ]
+}

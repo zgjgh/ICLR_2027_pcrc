@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_288",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    210.9,
+    65.5
+   ],
+   "ocr": "BMC Genomics 2008, 9:102"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    49.8,
+    698.3,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/102"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    643.8
+   ],
+   "ocr": "mary of the methods employed in this study is given in Table 1 and described in detail in the Supplementary Information [see Additional file 1]. The decision to only investigate the cytosol of E. coli, rather than a whole cell lysate, was a direct consequence of our intention to pro- vide reliable concentration estimates of all identified pro- teins, and avoid technical difficulties frequently arising from the quantitative proteolytic digestion of membrane proteins [28,30]. Evaluating the efficiency of the different protein and pep- tide separation methods and MS approaches listed in Table 1 (for details [see Additional file 1]), we found the following scheme to be optimal for our shotgun analysis of a cytosolic lysate of E. coli MC4100: Initial SDS-PAGE of the lysate sample with subsequent slicing of the gel lanes in five fractions was followed by in-gel tryptic diges- tion. The resulting peptide mixtures were subjected to strong cation exchange chromatography (SCX) (5 frac- tions, stepwise elution) and threefold ion pair chromatog- raphy (IPC) (60 min gradient) which was directly coupled to LC-MS/MS for peptide identification. Following this procedure with a quadrupole-TOF mass spectrometer, we identified a total number of 810 non-redundant proteins in a single E. coli cytosolic lysate sample. Including results of all previous runs during method comparison with this MS instrument type lead to the detection of a total of 1324 unique proteins of the E. coli cytosol. Note, however, that these numbers were preliminary and were based on a cri- terion where peptides with probability scores p < 0.05 and rank = 1 were temporarily accepted, even if only a single peptide was observed per protein. This acceptance crite- rion was subsequently strengthened to a minimum of two Table 1: Protein fractionation, peptide separation and mass identification coverage explored in this study."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    351.1,
+    107.2,
+    698.4,
+    631.8
+   ],
+   "ocr": "peptides per protein for compilation of the final list, as described in Materials and Methods. We also performed experiments with a linear ion trap (LIT) with faster scan cycles. Parent ion selection with this device differed from the quadrupole-TOF instrument, leading to an increased applicable m/z range (Supplemen- tary Table S1 [see Additional file 1]). Measurements with unfractionated samples of the E. coli cytosol revealed a considerably better performance of LIT when compared to quadrupole-TOF, as shown in Supplementary Figure S1 [see Additional file 1]. Combining the results from both types of MS instruments with protein and peptide pre- fractionation [see Additional file 1] further improved identification coverage and resulted in a total of 1655 pro- teins of the cytosolic lysate of E. coli MC4100, grown in rich medium. In order to cover a wider range of growth conditions in our measurements of the E. coli cytosolic proteome, we also applied an identical fractionation and identification scheme to cytosolic samples of MC4100 cultured in min- imal medium. This analysis resulted in identification of 1305 unique proteins. Protein abundance profiling using the emPAI approach [18] showed a good correlation between protein concentrations in the samples from rich and minimal media, as shown in Figure 1. The majority of proteins exhibited concentration ratios within 0.5 and 2 when measured from cells cultured in minimal and rich medium. Other groups have previously reported on the abundance of certain E. coli proteins under various growth conditions, such as minimal versus rich media or from different growth phases [26,31,32]. The observed differ- ences in protein abundance were within a factor of ten, spectrometric identification strategies for enhancement of proteome"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    654.8,
+    541.6,
+    886.8
+   ],
+   "ocr": "Steps Procedures\n(A) Protein fractionation (1) SDS-PAGE slicing\n(2) Serial ultrafiltration\n(3) No protein fractionation\n(B) Tryptic digestion (1) In-solution digestion\n(2) In-gel digestion\n(C) Peptide chromatography (1) Strong cation exchange chromatograhpy\n(2) Strong anion exchange chromatograhpy\n(3) C18 ion pair chromatograhpy\n(4) PSDVB with NH4OH, using StageTip\n(5) No peptide chromatography\n(D) Parent ion selection in LC-MS (1) Simple repetition\n(2) Sequential static exclusion\n(3) Different ion pair reagents in subsequent runs\n(4) Subdivided scan range\n(5) Shallow gradient elution\n(E) CID for MS/MS (1) Quadrupole-TOF\n(2) Linear ion trap",
+   "table_id": "PMC2292177_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    902.9,
+    361.4,
+    926.6
+   ],
+   "ocr": "Abbreviations: SDS-PAGE, sodium dodecylsulfate polyacrylamide gel of-flight."
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    364.3,
+    902.9,
+    691.1,
+    914.9
+   ],
+   "ocr": "electrophoresis; PSDVB, poly(styrene-divinylbenzene) copolymer; TOF: time-"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 4 of 17 (page number not for citation purposes)"
+  }
+ }
+}

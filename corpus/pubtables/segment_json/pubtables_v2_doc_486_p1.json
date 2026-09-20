@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_486",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    473.7,
+    48.8,
+    727.3,
+    60.9
+   ],
+   "ocr": "Future Distribution of Rhynchophorus ferrugineus in China"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.4,
+    360.5,
+    108.0
+   ],
+   "ocr": "Table 1. CLIMEX parameter values for Rhynchophorus ferrugineus."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    399.4
+   ],
+   "ocr": "CLIMEX parameter Wet tropical template Desert template Temperate template Final parameter\nDVO-Lower temperature threshold 15 15 8 10.3\nDV1-Lower optimum temperature 26 25 18 28\nDV2-Upper optimum temperature 33 40 24 32\nDV3-Upper temperature threshold 36 44 28 40\nPDD-Effective accumulated temperature 0 0 600 1100\nTTCS-Cold stress temperature threshold 0 2 0 –2.3\nTHCS-Cold stress temperature rate 0 0.001 0 0.05\nTTHS-Heat stress temperature threshold 36 44 30 44\nTHHS-Heat stress temperature rate 0.001 0.001 0.005 0.001\nSMO-Lower soil moisture threshold 0.3 0 0.25 0\nSM1-Lower optimal soil moisture 0.5 0.001 0.8 0.5\nSM2-Upper optimal soil moisture 1.75 0.2 1.5 1.75\nSM3-Upper soil moisture threshold 2 0.3 2.5 2\nSMDS-Dry stress threshold 0.3 0 0.2 0\nHDS-Dry stress rate 0.006 0 0.005 0.006\nSMWS-Wet stress threshold 2 0.3 2.5 2\nHWS-Wet stress rate 0.002 0.1 0.002 0.002",
+   "table_id": "PMC4619733_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    407.6,
+    726.8,
+    565.9
+   ],
+   "ocr": "doi:10.1371/journal.pone.0141111.t001 reference when setting the dry (wet) SI. However, R. ferrugineus is highly adaptable and sur- vives in dry environments with a measure of drought tolerance, as reported in Libya and Egypt (http://www.cabi.org/). Therefore, the DS threshold (SMDS) was defined as zero after being debugged repeatedly, and the other parameters of dry (wet) stress were in set accordance with the wet tropical template data. The temperature indices were debugged according to the actual distribution using biological data as references. Based on the experimental results of Li [35] and Salama et al. [37], the opti- mum temperature range (DV1–DV2) was defined as 28–32°C, with the upper temperature"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    869.5,
+    401.8,
+    901.0
+   ],
+   "ocr": "Fig 3. Predicting results for Rhynchophorus ferrugineus created by CLIMEX. doi:10.1371/journal.pone.0141111.g003"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0141111 October 23, 2015 8 / 26"
+  }
+ }
+}

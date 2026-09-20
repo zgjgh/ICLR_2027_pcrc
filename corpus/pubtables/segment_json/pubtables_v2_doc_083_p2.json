@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_083",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.5,
+    40.3,
+    220.0,
+    51.8
+   ],
+   "ocr": "EJNMMI Physics 2018, 5(Suppl 1):19"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    622.4,
+    40.5,
+    681.4,
+    51.8
+   ],
+   "ocr": "Page 10 of 27"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.4,
+    111.7,
+    681.5,
+    543.9
+   ],
+   "ocr": "count rates. Here we report an initial performance assessment of a software-based coincidence processor specifically developed for the EXPLORER to process the singles data at near real-time. Materials and methods Our coincidence processor was written in C++11 using standard C++ libraries and compiled with GCC 5.4 (as provided in the Ubuntu 16.04 LTS operating system). The framework of the coincidence pro- cessor is similar to the coincidence sorter featured in GATE v8.0. The data for the performance assessment were simulated using GATE v8.0. Tables 1 and 2 provide the parameters used for the simulation parameters and for our coincidence processor. The data were then converted into a 64-bit list-mode data format for compactness. The performance of the coincidence processor was evaluated using a Dell PowerEdge R730 rack server with dual Intel Xeon E5-2650 v4 CPUs. All data were stored in an Intel 750 series Peripheral Component Inter- connect Express (PCIe)-attached solid state drive (SSD) (model SSDPEDMW012T4X1). The program execution time was measured using the C++ class std::chrono::steady_clock provided in C++11. We reset the file cache after every run to ensure that the data is read directly from the SSD and not from the cache. Results Figure 1 shows the coincidence processing performance of our coinci- dence processor using varying number of CPU threads (up to our ex- pected 500 Mcps burst incoming singles data rates). Figure 2 shows the number of computer nodes needed to achieve near real-time coinci- dence processing. Conclusions We have developed a software-based coincidence processor that should have adequate performance to process list-mode singles data at near real-time provided that we have enough computer nodes. At a singles data rate of approximately 150 Mcps (equivalent to a 370-MBq injection evenly distributed in an adult phantom), this can be achieved with 2 computer nodes running dual Intel Xeon E5-2650 v4 CPUs. Acknowledgements This work was supported by NIH R01 CA206187, NIH R01 CA170874 and the UC Davis Research Investment in Science and Engineering program."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    112.4,
+    367.4,
+    293.6
+   ],
+   "ocr": "[4] A. González-Montoro et al., “Detector block performance based on a monolithic LYSO crystal using a novel signal multiplexing method,” Nucl. Instruments Methods Phys. Res. Sect. A Accel. Spectrometers, Detect. Assoc. Equip., Feb. 2018. [5] C. Degenhardt et al., “The digital silicon photomultiplier - A novel sensor for the detection of scintillation light,” IEEE Nucl. Sci. Symp. Conf. Rec., pp. 2383–2386, 2009. [6] F. Müller, “Evaluation and Calibration of Monolithic Scintillator Crystals for Positron Emission Tomography,” RWTH Aachen University, 2017. [7] R. Kułaga and M. Gorg, “FPGA IMPLEMENTATION OF DECISION TREES AND TREE ENSEMBLES FOR CHARACTER RECOGNITION IN VIVADO HLS,” Image Process. Commun., vol. 19, no. 3, pp. 71–82. [8] B. Van Essen, C. Macaraeg, M. Gokhale, and R. Prenger, “Accelerating a Random Forest Classifier: Multi-Core, GP-GPU, or FPGA?,” in 2012 IEEE 20th International Symposium on Field-Programmable Custom Computing Machines, 2012, pp. 232–239."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    546.9,
+    355.2,
+    615.3
+   ],
+   "ocr": "Fig. 1 (abstract A11). Performance parameter against training events per irradiation position (upper x-axis) and irradiation time (lower x-axis) for one calibration direction. Training data of 0.75 mm pitch were used. SR and r90 were averaged over the whole crystal. The data usage of the GTB models was not restricted during the training. All models required less than 2 MB memory"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    385.4,
+    581.5,
+    577.8,
+    593.0
+   ],
+   "ocr": "Table 1 (abstract A12). Simulation parameters"
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    598.2,
+    677.1,
+    884.9
+   ],
+   "ocr": "PARAMETER\nCrystal size 2.76 x 2.76 x 18.1 mm3\nCrystal pitch 2.85 mm transaxial x 2.85 mm axial\n# crystals per block 7 transaxial x 6 axial\n# block detectors 120-block ring x 112 rings\nTiming resolution 409 ps\nEnergy range 250 - 712 keV\nEnergy resolution 11.7% @ 511 keV\nDead time none\nPhantom water-based cylindrical phantom (16 cm dia. * 150 cm\nlong) with centered line source\nRadioactive source generic 511-keV back-to-back line source (6 mm dia. * 150\ncm long)\nSource activity 40 - 730 MBq\nLYSO density 7.1 g/cm3\nLYSO % by mass Lu = 71.447%, Y = 4.034%, Si = 6.371% and O = 18.148%\nLYSO background 400 Bq/cc\n# detected singles approximately 2B singles for each singles data rate\nsimulated",
+   "table_id": "PMC6023806_table_1"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    664.4,
+    367.5,
+    892.2
+   ],
+   "ocr": "A12 Initial performance assessment of a software-based coincidence processor for the EXPLORER total-body PET scanner Edwin K. Leung1,2, Martin S. Judenhofer1,2, Simon R. Cherry1,2, Ramsey D. Badawi1,2 1Department of Biomedical Engineering, University of California at Davis, Davis, California, 95616, USA; 2Department of Radiology, University of California at Davis Medical Center, Sacramento, California, 95817, USA Correspondence: Edwin K. Leung (ekleung@ucdavis.edu) EJNMMI Physics 2018, 5(Suppl 1):A12 Background Coincidence processing in most positron emission tomography (PET) scanners is performed during data acquisition in real-time. However, on the EXPLORER total-body PET scanner we plan to store unpro- cessed single event (“singles”) data for later processing. This allows re-processing of the same singles dataset while varying parameters that could not otherwise be altered (e.g. energy and time windows). Simulations have shown that EXPLORER can produce 6-7 times more singles data than shorter, clinical scanners at peak noise-equivalent"
+  }
+ }
+}

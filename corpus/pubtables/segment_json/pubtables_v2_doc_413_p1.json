@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_413",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    478.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Abnormality Assessment for Individual mTBI Patient"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    742.8
+   ],
+   "ocr": "needed to fully understand the nature and extent of mTBI pathology toward personalizing and improving clinical practice. Several studies have assessed DTI in individuals [4,8,12–14]. Viviani, et al. [12] applied a pseudo t-statistic with spatially smoothed standard deviation and degrees of freedom (DF) calibrated by cross-validation. They identified abnormal regions of the apparent diffusion coefficient (ADC) for single stroke and glioblastoma patients, with thresholds optimized for the Family- Wise Error Rate (FWER) based on the calibrated pseudo t- distribution. In many neuroimaging studies focused on lesion detection, spatial smoothing has not been carried out due to the risk for blurring of lesion margins. However, the FWER for control of Type-I errors in neuroimaging data may be overly conservative, especially when the images are not smoothed sufficiently [15]. The ‘‘one vs. many’’ T-test approach, employing a priori thresholds (individual voxel and cluster level) has been previously applied to mTBI patients [4,8,13] and the standard Z- score approach [14,16]. However, these authors did not report validation or effectiveness testing of their thresholds. This study aims to validate ‘‘Enhanced Z-score Microstructural Assessment of Pathology’’ (EZ-MAP) described by Lipton et al. [17], for detection of regional FA abnormalities in individual mTBI patients, and to compare EZ-MAP to previously reported methods. Like other studies [4,8,12–14,16], EZ-MAP compares a patient’s FA value to those from a normal reference group at each voxel. Therefore, assessment of abnormality for each voxel entirely depends on summary statistics, i.e., mean and standard deviation, from the chosen reference group. It follows that final results may vary with the composition of the reference group, with potential for highly unreliable inferences when the reference group is small as it was in previous studies (10–11 subjects in the reference groups reported by [4,8,13,14]). We employed a bootstrap procedure to overcome the potential for sample-to-sample variation of Z-scores. We also address limitations of all the prior approaches including EZ-MAP and perform specific validation addressing robustness, sensitivity, specificity and diagnostic utility. Materials and Methods Ethics Statement After Albert Einstein College of Medicine Institutional Review Board (IRB) approval, Health Insurance Portability and Account- ability Act (HIPAA) compliance and written informed consent, subjects were prospectively enrolled, distinct from clinical care. Thirty-four mTBI patients from one hospital emergency depart- ment met inclusion/exclusion criteria (Table 1) and were enrolled between August 2006 and May 2010. Forty-two control subjects Table 1. Inclusion and exclusion criteria for patients."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.1,
+    700.8,
+    709.8
+   ],
+   "ocr": "with no history of head injury were recruited through advertise- ments. Data Acquisition Imaging was performed at 3.0-T (Achieva; Philips Medical Systems, Best, the Netherlands) using an eight-channel head coil (Sense Head Coil; Philips Medical Systems). T1-weighted whole- head structural imaging was performed using sagittal three- dimensional magnetization-prepared rapid acquisition gradient echo (MP-RAGE; 9.9/4.6; field of view, 240 mm; matrix, 2406240; and section thickness, 1 mm). T2-weighted whole-head imaging was performed using axial two-dimensional turbo spin- echo (4000/100; field of view, 240 mm; matrix, 3846512; and section thickness, 4.5 mm) and axial two-dimensional fluid- attenuated inversion recovery turbo spin-echo (1100/120; inver- sion time, 2800 msec; field of view, 240 mm; matrix, 3846512; section thickness, 4.5 mm; and average number of signals acquired, one) imaging. DTI was performed using single-shot echo-planar imaging (3800/88; field of view, 240 mm; matrix, 112689; section thickness, 4.5 mm; independent diffusion sensi- tizing directions, 32; and b = 1000 sec/mm2). DTI Preprocessing The American Board of Radiology certified neuroradiologist reviewed MR images of all subjects (patients and controls) in random sequence, blind to clinical information and group membership (patient or control). The 33 diffusion-weighted image sets (32 diffusion sensitizing directions and the b = 0 sec/mm2 image) were corrected for head motion and eddy current effects using an affine registration algorithm. FA was derived from DTI at each voxel using the FMRIB Diffusion Toolbox [18]. Preprocess- ing procedures implemented for DTI included skull stripping, echo-planar imaging distortion correction, intermediate rigid-body registration, registration to standard space, transformation of DTI to standard space, and white matter segmentation, in sequence. Non-brain voxels were removed from the MP-RAGE and turbo spin-echo images using FMRIB-FSL software [19]. Each brain volume was inspected section-by-section, and residual non-brain voxels were removed manually. Turbo spin-echo images were acquired with the same section thickness, position and orientation as DTI. Distortion correction was accomplished using a nonlinear deformation algorithm to match each echo-planar image to the corresponding turbo spin-echo volumes [20]. For intermediate rigid-body registration, each subject’s turbo spin-echo images were registered to their three-dimensional MP-RAGE volume using the Automated Registration Toolbox [21] three-dimensional rigid- body approach [22]. For registration to standard space, the"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    771.9,
+    568.5,
+    893.9
+   ],
+   "ocr": "Inclusion Criteria Exclusion Criteria\n18–67 years of age Prior head injury\nEmergency department diagnosis of concussion within 2 weeks Hospitalization due to the injury\nGCS = 13–15 Neurodevelopmental or neurological disorder\nLOC ,20 minutes\nPosttraumatic amnesia ,24 hours Major psychiatric disorder\nNo focal neurologic deficit Illicit drug use within 30 days\nEnglish or Spanish proficiency Skull fracture or abnormal CT",
+   "table_id": "PMC3608654_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    907.2,
+    382.2,
+    926.7
+   ],
+   "ocr": "Note- Normal control subjects (age range: 18–67 years) met the same exclusion doi:10.1371/journal.pone.0059382.t001"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    385.2,
+    907.2,
+    581.8,
+    916.0
+   ],
+   "ocr": "criteria as patients. CT = Computerized Tomography."
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "2 March 2013 | Volume 8 | Issue 3 | e59382"
+  }
+ }
+}

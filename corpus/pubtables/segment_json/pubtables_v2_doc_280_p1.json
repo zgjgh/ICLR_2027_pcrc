@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_280",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2007, 8:119"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/8/119"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    729.5
+   ],
+   "ocr": "1 shows the number and percentage of enzymes in the test population by EC class. For the 169 enzymes in our test set, a total of 594 residues are annotated as catalytically important in the CatRes database [53]. The CatRes infor- mation was checked against the Catalytic Site Atlas (CSA) [59,60] and for the applicable cases, the list of catalytically important residues was modified to incorporate the updated CSA annotations. In the present paper both the success rate for the predic- tion of sites and the success rate for the prediction of important residues are reported. We regard the labelled data sets as reliable sources of information about catalytic sites; i.e. the local area on or near the surface of a protein where the labelled residues are located is very likely to be a site where catalysis and/or binding occurs. Furthermore, the residues labelled as positive (catalytically important) have experimental evidence to support that labelling and therefore are considered reliably annotated. However, because the literature annotations of catalytic residues are incomplete, the absence of a positive annotation for a par- ticular residue is not necessarily a reliable negative anno- tation. Therefore the computed precision rate for residues, the number of predicted residues that are annotated as important divided by the total number of residues pre- dicted for a given protein, should be regarded as a lower bound. To measure the performance of the method for catalytic residue prediction, three metrics are employed: Recall, Precision, and Filtration Ratio (FR). The recall (or sensitiv- ity) is defined as the fraction of known active site residues that are predicted by the method, as: Recall = (# of positive residues predicted)/ (# of annotated positive residues) (4) Here a positive residue is one that is annotated in the ref- erence database as an active site residue. The precision, related to the selectivity and to the specificity, is defined as the fraction of predicted residues that are known posi- tives, as:"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    892.7
+   ],
+   "ocr": "Precision = (# of positive residues predicted)/ (total # of residues predicted) (5) Another measure of the selectivity is the filtration ratio (FR), the fraction of all residues that are predicted as pos- itive, as: FR = (# of residues predicted)/(total # of residues) (6) Thus the goal is to maximize recall and precision with low filtration ratio. The recall and precision for THEMATICS predictions are measured against the CatRes/CSA data- bases, so the annotations therein are used to determine the set of known positive residues used in equations (4) – (6). We recognize that the literature annotations are nec- essarily incomplete and are being updated continuously. In order to test performance, we designate the CatRes/CSA database as the best compiled reference set available for catalytic residue annotation. The present study of the effect of Z score cut-off and the method comparison study therefore are performed using only the CatRes/CSA annotations. Thus the actual preci- sions are probably higher than the precisions calculated herein for all methods, since any of the methods may be predicting important residues that are not currently anno- tated as such in the database. In a separate, subsequent analysis, some annotations from different sources are added to the CatRes/CSA infor- mation in an attempt to obtain a more realistic value for the performance metrics for sites. In particular, three dif- ferent sets of reference annotations are used: Reference Set 1) is CatRes/CSA only; Reference Set 2) consists of Refer- ence Set 1 plus PDB SITE entries and, in a few cases, addi- tional literature articles; and Reference Set 3) is Reference Set 2 plus ligand-binding residues, as determined by the LPC [61] server, for cases where bound structures are available. Results Performance for residues as a function of Z cut-off for the 169-protein test set First THEMATICS performance for residue prediction is measured as a function of the Z score cut-off. The metrics used in reference [6] are measures of deviation from H-H behaviour. For a Z score cut-off of 1.0, those residues with a metric that is more than one standard deviation above the mean value for all ionisable residues in a given protein are designated as positive. When the Z score cut-off is reduced, more residues are then predicted to be impor- tant."
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    771.5,
+    349.8,
+    795.1
+   ],
+   "ocr": "Table 1: Functional Class Distribution in the Test Set of 169 enzymes."
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    806.1,
+    344.7,
+    910.9
+   ],
+   "ocr": "Class Number Percent\nEC 1 Oxidoreductases 39 23%\nEC 2 Transferases 39 23%\nEC 3 Hydrolases 46 27%\nEC 4 Lyases 28 17%\nEC 5 Isomerases 9 5%\nEC 6 Ligases 8 5%",
+   "table_id": "PMC1877815_table_0"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 15 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_058",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    118,
+    580,
+    176
+   ],
+   "ocr": "The data presented in the table offers a detailed analysis of the performance metrics associated with various reagent combinations used in the amplification of specific DNA sequences. Notably, the column labeled \"InDel size (bp)\" provides insight into the insertion and deletion sizes that were tested, which are critical for understanding the specificity and efficiency of the amplification process."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    164,
+    580,
+    207
+   ],
+   "ocr": "Additionally, the \"Relative Activity (%)\" metric illustrates the effectiveness of each reagent formulation, allowing for a comparative assessment of their performance. The control sample, benchmarked at 100 ± 1.15%, serves as a reference point for evaluating the relative activity of the other reagents under investigation."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    261.0,
+    580.0,
+    451.0
+   ],
+   "ocr": "InDel size (bp) Minimum product size (bp)\n8–9 70\n10–11 80\n12–14 90\n15–17 100\n18–22 110\n23–26 120\n27–29 130\n30–36 150",
+   "table_id": "img_064329_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    495.0,
+    580.0,
+    638.0
+   ],
+   "ocr": "Reagents (w/v) Relative Activity (%)\nControl 100 ± 1.15\n0.5% sodium lauryl sulfate 7.31 ± 1.39\n0.1% sodium fluoride 93.8 ± 1.40\n0.1% carboxybenzene 102.2 ± 0.32\n0.1% xylitol 100.3 ± 0.50\n5% ethanol 105.5 ± 0.70",
+   "table_id": "img_064329_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    701
+   ],
+   "ocr": "This comprehensive examination is crucial for optimizing conditions for DNA amplification, particularly in applications requiring precise control over product size, as indicated by the \"Minimum product size (bp)\" column."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    762
+   ],
+   "ocr": "By analyzing these metrics, researchers can make informed decisions about which reagent combinations yield the most reliable and efficient results, thereby enhancing the overall quality of molecular biology experiments. The implications of these findings extend to various fields, including genetic research and clinical diagnostics, where accurate and efficient DNA amplification is paramount."
+  }
+ }
+}

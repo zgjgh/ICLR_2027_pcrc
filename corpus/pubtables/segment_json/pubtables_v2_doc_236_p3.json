@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_236",
+  "page": 3,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.3,
+    278.6,
+    51.8
+   ],
+   "ocr": "Saka et al. BMC Genomics 2017, 18(Suppl 10):875"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 6 of 88"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    366.9,
+    123.1
+   ],
+   "ocr": "Table 5 Summary of probes used for gene and transcript based"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    370.3,
+    110.4,
+    430.6,
+    123.1
+   ],
+   "ocr": "custom CDFs"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.2,
+    680.4,
+    208.0
+   ],
+   "ocr": "Homo sapiens Rattus norvegicus Mus musculus\nGene Transcript Gene Transcript Gene Transcript\nNumber of Probes Used 414,701 504,419 162,356 205,671 323,917 395,884\nNumber of Probe Sets Constructed 22,651 26,096 13,150 14,466 19,282 20,980\nAverage Number of Probes Per Probe Set 18 18 12 14 16 18",
+   "table_id": "PMC5731501_table_4"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    231.0,
+    681.1,
+    806.3
+   ],
+   "ocr": "probesets in both the 3′ UTR and CDS. Using this sub- set of probesets, differential expression of the CDS can then be compared to the 3′ UTR. Analysis with custom CDFs We reanalyzed the publicly available data series GSE72551 and GSE48611. Both of these studies involve the nervous system, where differences in 3′ UTRs are likely to have phenotypic effects on transcript localization. The GSE72551 data series examines gene expression changes associated with collateral sprouting and includes 5 naïve controls, 7 replicates at day 7 post- surgery and 7 replicates at day 14 post-surgery. The GSE48611 data series examines Down syndrome gene expression monitoring. This data set includes mRNA samples from the isogenic trisomy of chromosome 21 (Ts21) and control pluripotent stem cells (iPSCs) (DS1, DS4, and DS2U) between passages 24 and 48 and from day 30 neurons. Three biological replicates were present for each condition. Prior to analysis, we removed probe sets with two or fewer probes from the custom CDFs in order to achieve more accurate results for target expres- sion levels. Robust Multiarray Averaging (RMA) normalization [37] was used for preprocessing. A p-value cutoff of 0.05 was used as the threshold for all experiments. In the GSE72551 data series, differentially expressed genes (DEGs) were determined for two pairwise compar- isons: naïve vs. both 7 and 14 days using region and gene based custom CDFs. We also reanalyzed the data using the brainarray Ensembl CDF version 20. Figure 3 shows a Venn diagram representing the number of differentially expressed genes using region, gene and brainarray custom CDFs for both cases. Further examination of the 7 day versus naïve ENSEMBL genes found to be differentially expressed in either the gene-based or region-based CDF shows high concordance, with 975 ENSEMBL genes"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    231.1,
+    370.4,
+    834.7
+   ],
+   "ocr": "transcript or region-based). Consequently we produced three types of custom CDFs (Tables 5 and 6). The human gene based CDF has 22,651 custom designed probe sets composed from 414,701 probes and 62 original control probe sets. 442,025 annotations were identified between genes and the probes. 27,324 annota- tions were filtered after shared probes were removed. In order to validate our probe set annotations, we com- pared the original CDF probe sets with the custom CDF. A total of 21,585 annotated genes were shared between the two CDFs, with 3068 unique to the original CDF, and 1066 unique to our custom CDF. In order to deter- mine why some genes were not covered in our CDF, we examined those unique to the original CDF. First we ob- tained the probe sets which represent these genes in the original CDF, yielding 2781 probe sets. We retrieved both the PM and MM probe sequences for each of these. We observed that for 667 probe sets, every probe was removed during probe mapping to the genome due to either non-unique mappings or mapping rates less than 100%. 30,150 probes from the remaining 2114 probe sets were not used in our CDF since they either did not map to the genome or they were MM probes. 14,028 probes were used in our newly constructed probe sets which target different genes than the original assignment by Affymetrix® and 2656 probes were not aligned to gene structures and not annotated. As a result, the differences between the original CDF and our method occurs because of probes removed during genome alignment, probes that no longer map to gene structure or probes that map to gene structures different from the original annotation. For the rat 230 2.0 GeneChip®, the restriction of three probes per probeset yields 12,534 uniquely identified Ensembl genes at the gene level. We determined that for this specific GeneChip®, reorganization of the Affyme- trix® probes into mRNA region-specific probesets pro- vides 4024 unique Ensembl gene identifiers with Table 6 Summary of probes used for region based custom CDFs"
+  },
+  "p3_b7": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    839.8,
+    680.5,
+    920.7
+   ],
+   "ocr": "Homo sapiens Rattus norvegicus Mus musculus\nNumber of Probes Aligned to Genome 822,681 321,905 637,942\nNumber of Probes Used 414,701 162,356 323,917\nNumber of Probe Sets Constructed 33,916 19,839 28,963\nAverage Number of Probes Per Probe Set 12 8 11",
+   "table_id": "PMC5731501_table_5"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_318",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2832631_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    156.5,
+    365.7,
+    355.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2832631_table_0.png",
+   "html": "<table><tr><td>Group</td><td>Sample</td><td>Rapid test</td></tr><tr><td>1</td><td>Brainstem with or without cerebellum or cerebrum</td><td>Either Biorad Te-SeE/Biorad Platelia, or Biorad Te-SeE Sheep and Goat, or IDEXX HerdChek BSE-Scrapie Antigen Test Kit, EIA</td></tr><tr><td>2</td><td>Brainstem and either cerebellum or cerebrum</td><td>Either Prionics-Check Western Small Ruminant, or Enfer TSE Version 3, or Enfer TSE Kit version 2.0 or Beckman Coulter InPro CDI, or POURQUIER - LIA Scrapie</td></tr><tr><td rowspan=\"2\">3</td><td>Brainstem and either cerebellum or cerebrum</td><td>Prionics Check LIA Small Ruminants</td></tr><tr><td>Brainstem only</td><td>Neither Biorad Te-SeE/Biorad Platelia, nor Biorad Te-SeE Sheep and Goat, nor IDEXX HerdChek BSE-Scrapie Antigen Test Kit, EIA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2832631_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    129.0,
+    678.6,
+    570.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2832631_table_1.png",
+   "html": "<table><tr><td></td><td></td><td>Intensified monitoring</td><td>Selective culling*</td><td>Other selective culling**</td><td>Stamping out</td></tr><tr><td rowspan=\"6\">AS</td><td>Countries&#167;</td><td>FR, GR, DK, FI, NO, PT, SE</td><td>FR, BE, IE, IT, NL, DK, NO, PT</td><td>IT</td><td>IE, IT, IS, DK, FI, NO, SE</td></tr><tr><td>Suspect flocks included</td><td>FR, GR, DK, FI, PT</td><td>FR, BE, IT, DK,</td><td>IT</td><td>IE, IT, DK, FI</td></tr><tr><td>Contact flocks included</td><td>FI, PT</td><td>BE, PT</td><td></td><td>FI, IS</td></tr><tr><td>Stream under surveillance!</td><td>HS and FS: all countries</td><td>Culled animals: all countries HS in all countries except NL and DK and BE in some years FS in all countries</td><td>HS, FS and culled animals</td><td>Culled animals in all countries except IE no other stream except HS and FS in FI and FS in DK</td></tr><tr><td>Animals above age limit tested</td><td>All animals</td><td>All animals except in BE (FS): only some animals</td><td>All animals</td><td>All animals except in IS: only some animals</td></tr><tr><td>Age limit for testing</td><td>18 months except in FR and in the first years in PT and in SE: 12 months</td><td>Culled animals: 12 months except in NO: 18 months and in BE (unspecified) other stream 18 months except in FR, IT, NL and in the first years in PT: 12</td><td>18 months</td><td>12 months except in DK, FI and NO: 18 months</td></tr><tr><td rowspan=\"6\">CS</td><td>Countries&#167;</td><td>FR</td><td>FR, BE, GR, IE, IT, NL</td><td></td><td>GR, IE, IT, IS, NO</td></tr><tr><td>Suspect flocks included</td><td>FR</td><td>FR, BE, GR, IT</td><td></td><td>GR, IE, IT</td></tr><tr><td>Contact flocks included</td><td></td><td>BE</td><td></td><td>IS</td></tr><tr><td>Stream under surveillance!</td><td>HS and FS</td><td>Culled animals in all countries HS and FS in all countries except HS in NL and in BE in some years</td><td></td><td>Culled animals in all countries no other stream except HS and FS in GR</td></tr><tr><td>Animals above age limit tested</td><td>all animals</td><td>Culled animals: all countries except in BE, IT, NL: only some animals other stream: all countries except in BE: only some animals</td><td></td><td>All animals except in IE, IT, IS: only some animals</td></tr><tr><td>Age limit for testing</td><td>12 months</td><td>Culled animals: 12 months except in BE (unspecified) Other stream: 18 months except in FR, IT and NL(FS): 12 months</td><td></td><td>12 months except in NO: 18 months</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2832631_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    142.7,
+    663.8,
+    512.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2832631_table_2.png",
+   "html": "<table><tr><td>Surveillance stream</td><td>Starting year</td><td>Country</td><td>Cases</td><td>Tests</td><td>Prevalence (per 10,000)</td><td>CI 95%</td></tr><tr><td rowspan=\"11\">Fallen stock</td><td>2004</td><td>Belgium</td><td>4</td><td>3238</td><td>12.4</td><td>3.4 - 31.6</td></tr><tr><td>2006</td><td>Denmark</td><td>3</td><td>8177</td><td>3.7</td><td>0.8 - 10.7</td></tr><tr><td>2004</td><td>Finland</td><td>4</td><td>3924</td><td>10.2</td><td>2.8 - 26.1</td></tr><tr><td>2002</td><td>France</td><td>225</td><td>304832</td><td>7.4</td><td>6.4 - 8.4</td></tr><tr><td>2006</td><td>Greece</td><td>0</td><td>7913</td><td>0</td><td>0 - 4.7</td></tr><tr><td>2005</td><td>Iceland</td><td>0</td><td>152</td><td>0</td><td>0 - 239.8</td></tr><tr><td>2005</td><td>Italy</td><td>11</td><td>27945</td><td>3.9</td><td>2.0 - 7.0</td></tr><tr><td>2004</td><td>The Netherlands</td><td>0</td><td>1000</td><td>0</td><td>0 - 36.8</td></tr><tr><td>2002</td><td>Norway</td><td>27</td><td>21137</td><td>12.8</td><td>08.4 - 18.6</td></tr><tr><td>2004</td><td>Portugal</td><td>77</td><td>48662</td><td>15.8</td><td>12.5 - 19.8</td></tr><tr><td>2004</td><td>Sweden</td><td>7</td><td>12434</td><td>5.6</td><td>2.3 - 11.6</td></tr><tr><td rowspan=\"11\">Healthy slaughter</td><td>2004</td><td>Belgium</td><td>2</td><td>16109</td><td>1.2</td><td>0.2 - 4.5</td></tr><tr><td>2006</td><td>Denmark</td><td>1</td><td>2476</td><td>4.0</td><td>0.1 - 22.5</td></tr><tr><td>2004</td><td>Finland</td><td>1</td><td>5618</td><td>1.8</td><td>&lt;0.1 - 9.9</td></tr><tr><td>2002</td><td>France</td><td>190</td><td>318333</td><td>6.0</td><td>5.2 - 6.9</td></tr><tr><td>2006</td><td>Greece</td><td>3</td><td>20467</td><td>1.5</td><td>0.3 - 4.3</td></tr><tr><td>2005</td><td>Iceland</td><td>0</td><td>10931</td><td>0</td><td>0 - 3.4</td></tr><tr><td>2005</td><td>Italy</td><td>32</td><td>86745</td><td>3.7</td><td>2.5 - 5.2</td></tr><tr><td>2004</td><td>The Netherlands</td><td>0</td><td>2719</td><td>0</td><td>0 - 13.6</td></tr><tr><td>2002</td><td>Norway</td><td>24</td><td>87753</td><td>2.7</td><td>1.8 - 4.1</td></tr><tr><td>2004</td><td>Portugal</td><td>168</td><td>213923</td><td>7.9</td><td>6.7 - 9.1</td></tr><tr><td>2004</td><td>Sweden</td><td>5</td><td>12359</td><td>4.0</td><td>1.3 - 9.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2832631_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    142.7,
+    668.1,
+    576.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2832631_table_3.png",
+   "html": "<table><tr><td>Strategy</td><td>Country</td><td>Cases</td><td>Tests</td><td>Prevalence (per 10,000)</td><td>CI 95%</td></tr><tr><td rowspan=\"6\">Intensified monitoring in AS positive flocks</td><td>Finland</td><td>0</td><td>36</td><td>0</td><td>0 - 973.9</td></tr><tr><td>France</td><td>11</td><td>14965</td><td>7.4</td><td>3.7 - 13.1</td></tr><tr><td>Greece</td><td>0</td><td>67</td><td>0</td><td>0 - 535.7</td></tr><tr><td>Norway</td><td>0</td><td>75</td><td>0</td><td>0 - 480.0</td></tr><tr><td>Portugal</td><td>3</td><td>4612</td><td>6.5</td><td>1.3 - 19.0</td></tr><tr><td>Sweden</td><td>0</td><td>47</td><td>0</td><td>0.0 - 754.9</td></tr><tr><td>Intensified monitoring in CS positive flocks</td><td>France</td><td>7</td><td>31113</td><td>2.2</td><td>0.9 - 4.6</td></tr><tr><td rowspan=\"7\">Selective culling in AS positive flocks</td><td>Belgium</td><td>0</td><td>223</td><td>0</td><td>0 - 164.1</td></tr><tr><td>Denmark</td><td>0</td><td>168</td><td>0</td><td>0 - 217.2</td></tr><tr><td>France</td><td>5</td><td>10462</td><td>4.8</td><td>1.6 - 11.1</td></tr><tr><td>Italy</td><td>1</td><td>2260</td><td>4.4</td><td>0.1 - 24.6</td></tr><tr><td>The Netherlands</td><td>0</td><td>60</td><td>0</td><td>0 - 596.3</td></tr><tr><td>Norway</td><td>0</td><td>1033</td><td>0</td><td>0 - 35.6</td></tr><tr><td>Portugal</td><td>2</td><td>1763</td><td>11.3</td><td>1.4 - 40.9</td></tr><tr><td rowspan=\"4\">Selective culling in CS positive flocks</td><td>Belgium</td><td>0</td><td>295</td><td>0</td><td>0 - 124.3</td></tr><tr><td>France</td><td>4</td><td>12087</td><td>3.3</td><td>0.9 - 8.5</td></tr><tr><td>Greece</td><td>3</td><td>10310</td><td>2.9</td><td>0.6 - 8.5</td></tr><tr><td>Italy</td><td>2</td><td>8565</td><td>2.3</td><td>0.3 - 8.4</td></tr><tr><td>Special genetic selection in AS positive flocks</td><td>Italy</td><td>0</td><td>351</td><td>0</td><td>0 - 104.5</td></tr><tr><td rowspan=\"6\">Stamping out in AS positive flocks</td><td>Denmark</td><td>0</td><td>17</td><td>0</td><td>0 - 1950.6</td></tr><tr><td>Finland</td><td>0</td><td>173</td><td>0</td><td>0 - 211.0</td></tr><tr><td>Iceland</td><td>1</td><td>467</td><td>21.4</td><td>0.5 - 118.7</td></tr><tr><td>Italy</td><td>1</td><td>1309</td><td>7.6</td><td>0.2 - 42.5</td></tr><tr><td>Norway</td><td>0</td><td>1156</td><td>0</td><td>0 - 31.9</td></tr><tr><td>Sweden</td><td>0</td><td>195</td><td>0</td><td>0 - 187.4</td></tr><tr><td rowspan=\"3\">Stamping out in CS positive flocks</td><td>Iceland</td><td>0</td><td>367</td><td>0</td><td>0 - 100.0</td></tr><tr><td>Italy</td><td>0</td><td>3231</td><td>0</td><td>0 - 11.4</td></tr><tr><td>Norway</td><td>0</td><td>343</td><td>0</td><td>0 - 107.0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2832631_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    142.7,
+    669.3,
+    658.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2832631_table_4.png",
+   "html": "<table><tr><td>Strategy</td><td>Country</td><td>Cases</td><td>Tests</td><td>Prevalence (per 10,000)</td><td>CI 95%</td></tr><tr><td rowspan=\"6\">Intensified monitoring in AS positive flocks</td><td>Finland</td><td>0</td><td>36</td><td>0</td><td>0 - 973.9</td></tr><tr><td>France</td><td>0</td><td>20720</td><td>0</td><td>0 - 1.8</td></tr><tr><td>Greece</td><td>0</td><td>67</td><td>0</td><td>0 - 535.7</td></tr><tr><td>Norway</td><td>0</td><td>75</td><td>0</td><td>0 - 480.0</td></tr><tr><td>Portugal</td><td>0</td><td>4612</td><td>0.</td><td>0 - 08.0</td></tr><tr><td>Sweden</td><td>0</td><td>47</td><td>0</td><td>0 - 754.9</td></tr><tr><td>Intensified monitoring in CS positive flocks</td><td>France</td><td>203</td><td>51760</td><td>39.2</td><td>34.0 - 45.0</td></tr><tr><td rowspan=\"8\">Selective culling in AS positive flocks*</td><td>Belgium</td><td>0</td><td>223</td><td>0</td><td>0 - 164.1</td></tr><tr><td>Denmark</td><td>0</td><td>168</td><td>0</td><td>0 - 217.2</td></tr><tr><td>France</td><td>3</td><td>18061</td><td>1.7</td><td>0.3 - 4.9</td></tr><tr><td>Ireland</td><td>0</td><td>66</td><td>0</td><td>0 - 543.6</td></tr><tr><td>Italy</td><td>6</td><td>2260</td><td>26.5</td><td>9.7 - 57.7</td></tr><tr><td>The Netherlands</td><td>0</td><td>120</td><td>0</td><td>0 - 302.7</td></tr><tr><td>Norway</td><td>0</td><td>1033</td><td>0</td><td>0 - 35.6</td></tr><tr><td>Portugal</td><td>0</td><td>1763</td><td>0</td><td>0 - 20.9</td></tr><tr><td rowspan=\"6\">Selective culling in CS positive flocks*</td><td>Belgium</td><td>7</td><td>295</td><td>237.3</td><td>95.9 - 482.8</td></tr><tr><td>France</td><td>658</td><td>21438</td><td>306.9</td><td>284.2 - 330.9</td></tr><tr><td>Greece</td><td>1054</td><td>10310</td><td>1022.3</td><td>964.5 - 1082.4</td></tr><tr><td>Ireland</td><td>230</td><td>11441</td><td>201.0</td><td>176.1 - 228.4</td></tr><tr><td>Italy</td><td>728</td><td>11750</td><td>619.6</td><td>576.6 - 664.7</td></tr><tr><td>The Netherlands</td><td>181</td><td>4003</td><td>452.2</td><td>389.9 - 521.2</td></tr><tr><td>Special genetic selection in AS positive flocks</td><td>Italy</td><td>8</td><td>352</td><td>227.3</td><td>98.6 - 442.9</td></tr><tr><td rowspan=\"7\">Stamping out in AS positive flocks</td><td>Denmark</td><td>0</td><td>17</td><td>0</td><td>0 - 1950.6</td></tr><tr><td>Finland</td><td>0</td><td>173</td><td>0</td><td>0 - 211.0</td></tr><tr><td>Iceland</td><td>0</td><td>467</td><td>0</td><td>0 - 78.7</td></tr><tr><td>Ireland</td><td>0</td><td>19</td><td>0</td><td>0 - 1764.7</td></tr><tr><td>Italy</td><td>1</td><td>1309</td><td>7.6</td><td>0.2 - 42.5</td></tr><tr><td>Norway</td><td>0</td><td>1156</td><td>0</td><td>0 - 31.9</td></tr><tr><td>Sweden</td><td>0</td><td>195</td><td>0</td><td>0 - 187.4</td></tr><tr><td rowspan=\"4\">Stamping out in CS positive flocks</td><td>Iceland</td><td>81</td><td>3290</td><td>246.2</td><td>196.0 - 305.1</td></tr><tr><td>Ireland</td><td>31</td><td>42768</td><td>7.2</td><td>4.9 - 10.3</td></tr><tr><td>Italy</td><td>184</td><td>7415</td><td>248.1</td><td>213.9 - 286.2</td></tr><tr><td>Norway</td><td>8</td><td>343</td><td>233.2</td><td>101.2 - 454.4</td></tr></table>"
+  }
+ ]
+}

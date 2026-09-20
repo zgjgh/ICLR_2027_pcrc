@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_013",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    720
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_012400_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    373.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_012400_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Risk factor</td><td colspan=\"3\">Macroaveraged</td><td colspan=\"3\">Microaveraged</td></tr><tr><td>Precision</td><td>Recall</td><td>F-score</td><td>Precision</td><td>Recall</td><td>F-score</td></tr><tr><td>CAD</td><td>0.3455</td><td>0.2985</td><td>0.3203</td><td>0.5261</td><td>0.7334</td><td>0.6127</td></tr><tr><td>Diabetes</td><td>0.6876</td><td>0.6724</td><td>0.6799</td><td>0.9202</td><td>0.9483</td><td>0.9341</td></tr><tr><td>Family history</td><td>0.9728</td><td>0.9728</td><td>0.9728</td><td>0.9728</td><td>0.9728</td><td>0.9728</td></tr><tr><td>Hyperlipidemia</td><td>0.4504</td><td>0.4451</td><td>0.4477</td><td>0.8415</td><td>0.9334</td><td>0.8851</td></tr><tr><td>Hypertension</td><td>0.6970</td><td>0.7375</td><td>0.7166</td><td>0.8531</td><td>0.9613</td><td>0.9040</td></tr><tr><td>Medication</td><td>0.6703</td><td>0.6731</td><td>0.6717</td><td>0.8209</td><td>0.7908</td><td>0.8056</td></tr><tr><td>Obesity</td><td>0.1589</td><td>0.1652</td><td>0.1620</td><td>0.7683</td><td>0.9618</td><td>0.8542</td></tr><tr><td>Smoking history</td><td>0.8113</td><td>0.8113</td><td>0.8113</td><td>0.8113</td><td>0.8145</td><td>0.8129</td></tr><tr><td>Overall</td><td>0.8053</td><td>0.8515</td><td>0.8277</td><td>0.8138</td><td>0.8472</td><td>0.8302</td></tr></table>"
+  },
+  {
+   "table_id": "img_012585_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    537.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_012585_t0.png",
+   "html": "<table><tr><td>Factor</td><td>RH</td><td>95% CI</td><td>p-value</td></tr><tr><td colspan=\"3\">1 month after HSCT</td><td></td></tr><tr><td>Sibling donor</td><td>1.23</td><td>0.95–1.61</td><td>0.13</td></tr><tr><td>aGVHD</td><td>0.76</td><td>0.58–0.99</td><td>&lt; 0.05</td></tr><tr><td colspan=\"3\">2 months after HSCT</td><td></td></tr><tr><td>Sibling donor</td><td>1.31</td><td>1.01–1.70</td><td>&lt; 0.05</td></tr><tr><td>CMV infection</td><td>0.83</td><td>0.64–1.08</td><td>0.17</td></tr><tr><td>aGVHD</td><td>0.70</td><td>0.55–0.90</td><td>&lt; 0.01</td></tr><tr><td colspan=\"3\">3 months after HSCT</td><td></td></tr><tr><td>Sibling donor</td><td>2.23</td><td>1.34–3.71</td><td>0.004</td></tr><tr><td>aGVHD</td><td>0.91</td><td>0.70–1.20</td><td>0.50</td></tr><tr><td>ATG</td><td>1.66</td><td>0.99–2.78</td><td>0.06</td></tr><tr><td colspan=\"3\">6 months after HSCT</td><td></td></tr><tr><td>Sibling donor</td><td>1.86</td><td>1.21–2.86</td><td>&lt; 0.01</td></tr><tr><td>aGVHD</td><td>0.77</td><td>0.58–1.04</td><td>0.09</td></tr><tr><td>ATG</td><td>1.30</td><td>0.83–2.04</td><td>0.26</td></tr><tr><td colspan=\"3\">12 months after HSCT</td><td></td></tr><tr><td>Sibling donor</td><td>1.30</td><td>0.97–1.74</td><td>0.09</td></tr><tr><td>HLA-Mismatch</td><td>2.12</td><td>1.59–2.82</td><td>&lt; 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "img_012639_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    380.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_012639_t0.png",
+   "html": "<table><tr><td>Group\\Ranking</td><td>#1</td><td>#2</td><td>#3</td><td>#4</td></tr><tr><td colspan=\"5\">Dense Area</td></tr><tr><td>UO Tumor (N = 67)</td><td>54 (80.6%)a</td><td>9 (13.4%)</td><td>2 (3.0%)</td><td>2 (3.0%)</td></tr><tr><td>UI Tumor (N = 16)</td><td>4 (25%)</td><td>8 (50%)a</td><td>4 (25%)</td><td>0 (0%)</td></tr><tr><td>LO Tumor (N = 7)</td><td>0 (0.0%)</td><td>2 (28.6%)</td><td>4 (57.1%)a</td><td>1 (14.3%)</td></tr><tr><td>LI Tumor (N = 20)</td><td>0 (0%)</td><td>1 (5%)</td><td>5 (25%)</td><td>14 (70%)a</td></tr><tr><td colspan=\"5\">Percent Density</td></tr><tr><td>UO Tumor (N = 67)</td><td>13 (19.4%)</td><td>23 (34.3%)b</td><td>21 (31.4%)b</td><td>10 (14.9%)</td></tr><tr><td>UI Tumor (N = 16)</td><td>1 (6.2%)</td><td>0 (0.0%)</td><td>7 (43.8%)b</td><td>8 (50.0%)b</td></tr><tr><td>LO Tumor (N = 7)</td><td>3 (42.9%)b</td><td>1 (14.2%)</td><td>3 (42.9%)b</td><td>0 (0.0%)</td></tr><tr><td>LI Tumor (N = 20)</td><td>7 (35%)b</td><td>4 (20%)</td><td>0 (0%)</td><td>9 (45%)b</td></tr></table>"
+  },
+  {
+   "table_id": "img_012850_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    422.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_012850_t0.png",
+   "html": "<table><tr><td>Drug</td><td>Disease</td><td>DNA mutation</td><td>Action</td></tr><tr><td>Imatinib, Dasatinib, Nilotinib, Bosutinib</td><td>Chronic myelogenous leukemia</td><td>BCR-ABL1 fusion</td><td>Indication for therapy</td></tr><tr><td rowspan=\"2\">Ponatinib</td><td rowspan=\"2\">Chronic myelogenous leukemia</td><td>BCR-ABL1 fusion</td><td rowspan=\"2\">Only indicated for T315I mutations</td></tr><tr><td>T315I resistance mutation</td></tr><tr><td rowspan=\"3\">Erlotinib, Afatinib</td><td rowspan=\"3\">Lung adenocarcinoma</td><td>EGFR</td><td rowspan=\"3\">Indication for therapy</td></tr><tr><td>Exon 19 deletions</td></tr><tr><td>L858R</td></tr><tr><td>Vemurafenib, Dabrafenib</td><td>Melanoma</td><td>BRAF V600E</td><td>Indication for therapy</td></tr><tr><td>Tramatenib</td><td>Melanoma</td><td>BRAF V600E/K</td><td>Indication for therapy</td></tr><tr><td>Crizotinib</td><td>Lung cancer</td><td>ALK gene fusions</td><td>Indication for therapy</td></tr><tr><td>Cetuximab</td><td>Colon cancer</td><td>KRAS codon 12, 13</td><td>Contraindication to therapy</td></tr><tr><td>Olaparib</td><td>Ovarian cancer</td><td>BRCA1 and BRCA2 mutations</td><td>Indication for therapy</td></tr></table>"
+  },
+  {
+   "table_id": "img_012994_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    332.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_012994_t0.png",
+   "html": "<table><tr><td>Parameter</td><td>Input</td><td>Source</td></tr><tr><td>Country-specific sexual behavior data:</td><td>Varies by country</td><td>PSI population-based TRaC surveys*[31]</td></tr><tr><td>• Number of sexual partners by relationship in past year</td><td></td><td></td></tr><tr><td>• Number of sexual contacts with each type of partner in past year</td><td></td><td></td></tr><tr><td>• Use of any brand of condom with each type of partner</td><td></td><td></td></tr><tr><td>• Use of PSI condom with each type of partner</td><td></td><td></td></tr><tr><td>Country-specific HIV prevalence among general adults</td><td>Varies by country</td><td>UNAIDS, 2010 [39]</td></tr><tr><td>Country-specific male circumcision rate</td><td>Varies by country</td><td>Williams et al., 2006 [40]</td></tr><tr><td>HIV prevalence among female commercial partners</td><td>Varies by country</td><td>Calculated**</td></tr><tr><td>STI prevalence among general adults</td><td>Varies by country</td><td>Calculated**</td></tr><tr><td>STI prevalence among female sex workers (FSWs)</td><td>Varies by country</td><td>UNAIDS, 2010 or calculated when unavailable**</td></tr></table>"
+  },
+  {
+   "table_id": "img_013000_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    327.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_013000_t0.png",
+   "html": "<table><tr><td></td><td>N (%)</td><td>Sensitivity</td><td>Specificity</td><td>LR +</td><td>LR -</td></tr><tr><td>PCT (μg/L)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>&gt; 0.1</td><td>406 (75)</td><td>0.90</td><td>0.59</td><td>2.22</td><td>0.16</td></tr><tr><td>&gt; 0.25</td><td>300 (55)</td><td>0.74</td><td>0.85</td><td>4.87</td><td>0.31</td></tr><tr><td>&gt; 0.5</td><td>225 (41)</td><td>0.57</td><td>0.93</td><td>8.21</td><td>0.46</td></tr><tr><td>&gt; 1.0</td><td>167 (31)</td><td>0.43</td><td>0.96</td><td>10.57</td><td>0.59</td></tr><tr><td>hsCRP (mg/L)</td><td>N (%)</td><td>Sensitivity</td><td>Specificity</td><td>LR +</td><td>LR -</td></tr><tr><td>&gt; 40</td><td>413 (76)</td><td>0.89</td><td>0.52</td><td>1.86</td><td>0.22</td></tr><tr><td>&gt; 50</td><td>384 (70)</td><td>0.87</td><td>0.65</td><td>2.44</td><td>0.21</td></tr><tr><td>&gt; 100</td><td>281 (52)</td><td>0.69</td><td>0.86</td><td>4.94</td><td>0.36</td></tr><tr><td>&gt; 200</td><td>141 (26)</td><td>0.36</td><td>0.96</td><td>8.83</td><td>0.67</td></tr></table>"
+  },
+  {
+   "table_id": "img_013005_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    537.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_013005_t0.png",
+   "html": "<table><tr><td>Variable</td><td>Pre-Run</td><td>Post-Run</td><td>1.0-h Post-Run</td><td>p-Values: Time; Interaction</td></tr><tr><td>Cortisol (nmol L−1)</td><td></td><td></td><td></td><td rowspan=\"3\">&lt;0.001; 0.055</td></tr><tr><td>Water</td><td>364 ± 16.6</td><td>433 ± 33.1</td><td>359 ± 27.6</td></tr><tr><td>Chia</td><td>375 ± 16.6</td><td>505 ± 35.9</td><td>395 ± 27.6</td></tr><tr><td>Leukocytes (109 L−1)</td><td></td><td></td><td></td><td rowspan=\"3\">&lt;0.001; 0.208</td></tr><tr><td>Water</td><td>5.33 ± 0.25</td><td>16.4 ± 0.9</td><td>12.7 ± 0.6</td></tr><tr><td>Chia</td><td>5.51 ± 0.28</td><td>16.4 ± 0.9</td><td>12.7 ± 0.7</td></tr><tr><td>IL-6 (pg mL−1)</td><td></td><td></td><td></td><td rowspan=\"3\">&lt;0.001; 0.368</td></tr><tr><td>Water</td><td>0.88 ± 0.16</td><td>9.37 ± 1.67</td><td>5.79 ± 0.92</td></tr><tr><td>Chia</td><td>1.02 ± 0.28</td><td>8.77 ± 0.69</td><td>5.97 ± 0.97</td></tr><tr><td>IL-8 (pg mL−1)</td><td></td><td></td><td></td><td rowspan=\"3\">&lt;0.001; 0.116</td></tr><tr><td>Water</td><td>5.84 ± 0.49</td><td>13.7 ± 1.5</td><td>10.7 ± 1.1</td></tr><tr><td>Chia</td><td>5.23 ± 0.42</td><td>11.8 ± 1.1</td><td>7.91 ± 0.74</td></tr><tr><td>IL-10 (pg mL−1)</td><td></td><td></td><td></td><td rowspan=\"3\">&lt;0.001; 0.680</td></tr><tr><td>Water</td><td>2.21 ± 0.21</td><td>38.3 ± 13.7</td><td>16.7 ± 4.3</td></tr><tr><td>Chia</td><td>2.00 ± 0.19</td><td>33.7 ± 10.8</td><td>16.9 ± 4.7</td></tr><tr><td>TNFα (pg mL−1)</td><td></td><td></td><td></td><td rowspan=\"3\">&lt;0.001; 0.259</td></tr><tr><td>Water</td><td>3.86 ± 0.18</td><td>4.59 ± 0.26</td><td>4.19 ± 0.23</td></tr><tr><td>Chia</td><td>3.90 ± 0.16</td><td>4.30 ± 0.20</td><td>4.10 ± 0.20</td></tr></table>"
+  },
+  {
+   "table_id": "img_013019_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    111.0,
+    580.0,
+    364.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_013019_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">MIC (mg/L)</td><td colspan=\"2\">Levofloxacin</td><td colspan=\"2\">Moxifloxacin</td><td colspan=\"2\">Sparfloxacin</td><td colspan=\"2\">Gemifloxacin</td><td colspan=\"2\">Gatifloxacin</td></tr><tr><td>No.</td><td>%</td><td>No.</td><td>%</td><td>No.</td><td>%</td><td>No.</td><td>%</td><td>No.</td><td>%</td></tr><tr><td>≤0.125</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>3.8</td><td>1</td><td>1.9</td></tr><tr><td>≤0.25</td><td>7</td><td>13.4</td><td>5</td><td>9.6</td><td>14</td><td>26.9</td><td>7</td><td>13.5</td><td>8</td><td>15.4</td></tr><tr><td>0.50</td><td>10</td><td>19.2</td><td>18</td><td>34.6</td><td>9</td><td>17.3</td><td>14</td><td>26.9</td><td>15</td><td>28.8</td></tr><tr><td>1 mg/L</td><td>15</td><td>28.8</td><td>15</td><td>28.8</td><td>10</td><td>19.2</td><td>9</td><td>17.3</td><td>7</td><td>13.5</td></tr><tr><td>2.00</td><td>8</td><td>15.4</td><td>9</td><td>17.3</td><td>8</td><td>15.4</td><td>14</td><td>26.9</td><td>12</td><td>23.1</td></tr><tr><td>4.00</td><td>8</td><td>15.4</td><td>3</td><td>5.8</td><td>7</td><td>13.5</td><td>6</td><td>11.5</td><td>7</td><td>13.5</td></tr><tr><td>8.00</td><td>4</td><td>7.7</td><td>2</td><td>3.8</td><td>3</td><td>5.8</td><td></td><td></td><td>2</td><td>3.8</td></tr><tr><td>16.00</td><td></td><td></td><td></td><td></td><td>1</td><td>1.9</td><td></td><td></td><td></td><td></td></tr><tr><td>MIC ≥ 2 mg/L</td><td>20</td><td>38.5</td><td>14</td><td>26.9</td><td>19</td><td>36.5</td><td>20</td><td>38.4</td><td>21</td><td>40.4</td></tr><tr><td>MIC50b</td><td>1.0</td><td></td><td>1.0</td><td></td><td>1.0</td><td></td><td>1.0</td><td></td><td>1.0</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_013057_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    536.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_013057_t0.png",
+   "html": "<table><tr><td>BDI-13 items</td><td>Mean (SD)</td></tr><tr><td>(1) Depressed mood/sadness</td><td>1.24 (1.03)</td></tr><tr><td>(2) Pessimism</td><td>.54 (.79)</td></tr><tr><td>(3) Sense of failure</td><td>1.15 (.98)</td></tr><tr><td>(4) Lack of satisfaction/dissatisfaction</td><td>.96 (.97)</td></tr><tr><td>(5) Guilty feelings</td><td>.83 (1.03)</td></tr><tr><td>(6) Self-hate/self-dislike</td><td>.64 (.85)</td></tr><tr><td>(7) Self-punitive wishes/self-harm</td><td>.39 (.90)</td></tr><tr><td>(8) Social withdrawal</td><td>.83 (.91)</td></tr><tr><td>(9) Indecisiveness</td><td>1.24 (.85)</td></tr><tr><td>(10) Distorted body image/self-image</td><td>.69 (1.03)</td></tr><tr><td>(11) Work inhibition/work difficulty</td><td>.92 (.99)</td></tr><tr><td>(12) Fatigability</td><td>.98 (.84)</td></tr><tr><td>(13) Loss of appetite</td><td>.43 (.69)</td></tr><tr><td>Total score</td><td>11.03 (7.55)</td></tr></table>"
+  },
+  {
+   "table_id": "img_013121_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    173.0,
+    580.0,
+    554.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_013121_t0.png",
+   "html": "<table><tr><td>Patientsa</td><td></td><td>Vbeta</td><td>CDR3</td><td colspan=\"2\">BJ</td><td>Ratio</td></tr><tr><td>43 (ACLF)</td><td>BV20</td><td>SGFYLCAWS</td><td>TGTGHSPLH</td><td>FGNGTRLTVTED</td><td>1.6</td><td>17/21</td></tr><tr><td>70 (ACLF)</td><td>BV20</td><td>SGFYLCAWS</td><td>TGTGHSPLH</td><td>FGNGTRLTVTED</td><td>1.6</td><td>19/23</td></tr><tr><td>67 (ACLF)</td><td>BV20</td><td>SGFYLCAWS</td><td>TGTGHSPLH</td><td>FGNGTRLTVTED</td><td>1.6</td><td>13/22</td></tr><tr><td>6 (ACLF)</td><td>BV20</td><td>SGFYLCAWR</td><td>ISHTGEL</td><td>LFGEGSRLTVLED</td><td>2.2</td><td>16/22</td></tr><tr><td>16 (ACLF)</td><td>BV20</td><td>SGFYLCAWS</td><td>GGSNQPQ</td><td>HFGDGTRLSILEDL</td><td>1.5</td><td>13/20</td></tr><tr><td>51 (ACLF)</td><td>BV18</td><td>SAAYFCASS</td><td>RTGDTEA</td><td>FFGQGTRLTVVED</td><td>1.1</td><td>16/21</td></tr><tr><td>46 (ACLF)</td><td>BV13.1</td><td>SVYFCASS</td><td>EVRTAFYEQ</td><td>YFGPGTRLTVTED</td><td>2.7</td><td>14/21</td></tr><tr><td>25 (ACLF)</td><td>BV12</td><td>SVYFCAIS</td><td>DGQVVEQ</td><td>YFGPGTRLTVTED</td><td>2.7</td><td>15/22</td></tr><tr><td>47 (ACLF)</td><td>BV11</td><td>SQYLCATG</td><td>VYNEQ</td><td>FFGPGTRLTVLED</td><td>2.1</td><td>20/20</td></tr><tr><td>51 (ACLF)</td><td>BV11</td><td>SQYLCATG</td><td>VYNEQ</td><td>FFGPGTRLTVLED</td><td>2.1</td><td>20/20</td></tr><tr><td>10 (ACLF)</td><td>BV5.1</td><td>SALYLCASS</td><td>LEQLTRANKQ</td><td>NFGPGTRLTVLED</td><td>2.3</td><td>17/23</td></tr><tr><td>20 (CHB)</td><td>BV22</td><td>SAMYFCASK</td><td>GSREGLVVNEQ</td><td>FFGPGTRLTVLE</td><td>2.1</td><td>18/22</td></tr><tr><td>17 (CHB)</td><td>BV20</td><td>SGFYLCAWS</td><td>TGTGHSPL</td><td>HFGNGTRLTVTED</td><td>1.6</td><td>21/23</td></tr><tr><td>57 (CHB)</td><td>BV18</td><td>SAAYFCASS</td><td>DDQETQ</td><td>YFGPGTRLLVLED</td><td>2.5</td><td>21/21</td></tr><tr><td>45 (CHB)</td><td>BV17</td><td>TAFYLCASS</td><td>IVNGGQPQ</td><td>HFGDGTRLSILED</td><td>1.5</td><td>21/22</td></tr><tr><td>17 (CHB)</td><td>BV15</td><td>TALYFCATS</td><td>DPASGRTNEQ</td><td>FFGPGTRLTVLED</td><td>2.1</td><td>15/22</td></tr><tr><td>44 (CHB)</td><td>BV13.1</td><td>SVYFCASS</td><td>YSGQGIDGY</td><td>TFGSGTRLTVVED</td><td>1.2</td><td>16/22</td></tr><tr><td>3 (CHB)</td><td>BV11</td><td>SQYLCATT</td><td>SSGGVDTQ</td><td>YFGPGTRLTVLED</td><td>2.3</td><td>21/23</td></tr></table>"
+  }
+ ]
+}

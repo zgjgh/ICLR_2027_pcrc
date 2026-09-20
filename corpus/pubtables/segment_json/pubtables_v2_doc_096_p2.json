@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_096",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2006, 7:482"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/7/482"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    67.4,
+    107.2,
+    372.6,
+    922.4
+   ],
+   "ocr": "MCT-set, if and only if they participate in exactly the same minimal t-invariants, i.e., all t-invariants x hold χ{0}(xi) = χ{0}(xj), (6) whereas χ{0} denotes the characteristic function, binary indicating if an argument is equal to zero. This support- oriented grouping leads to maximal sets of transitions, where each set of transitions ϑ holds ∀x ∈ X : ϑ ⊆ supp(x) ∨ ϑ ∩ supp(x) = ∅, (7) whereas X denotes the set of all minimal t-invariants x. The grouping according to Equation (6) represents an equivalence relation in T, the set of transitions, which leads to a partition of T. The equivalence classes ϑ are the MCT-sets. Transitions, not contained in any t-invariant, form their own MCT-set. MCT-sets define subnets, but not necessarily connected ones. An example of a disconnected MCT-set will be given below in the presented model. The resulting MCT-sets are disjunctive and represent a possible decomposition of large biochemical networks into rather small subnets, which can be read as functional units. Because of the way, in which they are generated, each of the MCT-sets may represent a signalling unit or a building block with its own biological meaning. In the following, only those MCT-sets are considered, which contain more than one transition. Results and discussion Derivation of the Petri net model In accordance with the elucidation above we developed a Petri net, modelling the signal transduction pathway of the mating pheromone response in S. cerevisiae. The Petri net in Figure 7 presents – to the best of our knowledge – for the first time a qualitative model of the pheromone pathway, and it extends the ODE model given in [6]. The net consists of 42 places and 48 transitions, which are listed by their name and biological meaning in Tables 3 and 4, respectively. Proteins, protein complexes, and other chemical com- pounds are represented as places, and complex forma- tion/cleavage, protein de-/phosphorylation, and other reactions by transitions. Tables 3 and 4 show in their right column, which chemical compounds and which biologi- cal events are considered in the model. Generally formu- lated, the model contains a complete pheromone response pathway, i.e., activation and composition of the pheromone receptor complex, composition of the MAP kinase cascade complex and MAP kinase cascade, tran- scription factor activation, and transcription of genes, which response to the mating pheromone. Moreover,"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    821.3
+   ],
+   "ocr": "there are several positive and negative feedback regula- tions included in the model, i.e., regulation of the ligand α-factor (via Bar1), of the receptor Ste2 (endocytosis induced by Yck1 and Yck2), of G-protein subunits (via Sst2), of the MAPK cascade (via labelling for degradation), and of the regulation of transcription (via repression of the transcription factor Ste12). We take into account the above mentioned substructures, e.g., the place complex2 (p17) does not lose its activity by firing of transition Ste11_phos_Ste7 (t18), i.e., in the MAPK-complex the protein Ste11 remains in its active form after activating the protein Ste7, see case 1. The place Fus3PP (p20) triggers several transitions Ste12_inhibit_phos t22), Ste12_phos (t24), Far1-phos (t31), and Sst2_phos (t34), which are independent of each other, see case 2. The place pair Kss1_phos (p38) and unphos_Kss1 (p39) forms a p-invariant as discussed in case 3. With one exception, there exist only arcs weighted by 1 because no substance flow with stoichiometric relations takes place, but signal flow is described by the model. This special arc is weighted by 2 to reduce the token number in the structural cycle, which is formed by the places complex3 (p18), complex4 (p19), compl_without_Fus3 (p21), and the transitions Ste7_phos_Fus3 (t19), Fus3PP-release (t20), and binding_free_Fus3 (t21). By using this arc weight, it is ensured that the activation of the transition Ste7_phos_Fus3 (t19) depends on firing of transition Ste11_phos_Ste7 (t18), see Figure 7. In the biological con- text, this means that the crucial phosphorylation of the last kinases in the MAPK cascade depends on the activa- tion of the last but one. In the initial marking there is one token residing in the place inact_Far1 (p31) and Sst2_in_nucleus (p34), respec- tively, which symbolise that these proteins are already present in the cell in low concentration independently of a signal. Application of Petri net concepts P-invariant analysis There are three minimal p-invariants in the net. Table 2 contains these p-invariants as well as the corresponding biological meaning of them. P-invariants 1 and 2, respec- tively, stand for the modification of the dimeric and mon- Table 2: The minimal p-invariants and their biological meaning."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    399.4,
+    832.5,
+    693.1,
+    898.3
+   ],
+   "ocr": "No. Places Biological meaning\n1. 5, 7 Gβγ subunits: dimer and bound in G protein trimer\n2. 5, 6 Gα subunit: monomer and bound in G protein trimer\n3. 38, 39 Kss1: active and inactive form",
+   "table_id": "PMC1686943_table_3"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    399.1,
+    914.6,
+    625.2,
+    926.4
+   ],
+   "ocr": "The minimal p-invariants and their biological meaning."
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 9 of 17 (page number not for citation purposes)"
+  }
+ }
+}

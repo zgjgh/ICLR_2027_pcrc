@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_340",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    331.3,
+    65.8
+   ],
+   "ocr": "Holtzer-Goor et al. BMC Health Services Research 2010, 10:312 http://www.biomedcentral.com/1472-6963/10/312"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 11"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    397.6,
+    124.0
+   ],
+   "ocr": "Table 5 Average costs in Euros per patient year per perspective"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    401.4,
+    111.0,
+    604.6,
+    124.0
+   ],
+   "ocr": "used for the two treatment groups (SD)"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    621.9,
+    538.2
+   ],
+   "ocr": "GFU Usual Care P-value\nHospital perspective\nHospital visits (including GDx ECC) 111.93 (50.93) 133.17 (50.44) 0.000\nOther tests (HFA, refraction, pachymetry, etc.) 20.66 (47.03) 24.18 (48.72) 0.001\nLaser treatment related to glaucoma 0.18 (2.54) 0.57 (5.18) 0.258\nGlaucoma surgery 2.84 (40.35) 1.72 (34.90) 0.558\nAsking advice 3.24 (5.35) 1.78 (5.13) 0.000\nTotal hospital costs per patient year 138.85 (89.30) 161.43 (86.88) 0.000\nPatient perspective\nPatient costs per visit\nTravelling costs of patient and accompaniment 8.26 (11.83) 8.19 (12.10) 0.966\nTime costs of patient and accompaniment 40.58 (28.87) 47.51 (34.36) 0.000\nTotal patient costs per patient per visit 48.83 (33.68) 55.70 (37.88) 0.000\nPatient costs per patient year\nTravelling costs of patient and accompaniment 13.04 (17.16) 12.70 (17.87) 0.488\nTime costs of patient and accompaniment 66.62 (50.20) 75.17 (61.37) 0.088\nTotal patient costs per patient year 79.66 (58.51) 87.87 (68.17) 0.143\nHealth care perspective\nHospital costs 138.85 (89.30) 161.43 (86.88) 0.000\nMedication costs 91.54 (101.37) 89.82 (100.53) 0.867\nTotal health care costs per patient year 230.39 (154.57) 251.26 (146.02) 0.004\nSocietal perspective\nHospital costs 138.85 (89.30) 161.43 (86.88) 0.000\nPatient costs 79.66 (58.51) 87.87 (68.15) 0.143\nMedication costs 91.54 (101.37) 89.82 (100.53) 0.867\nTotal societal costs per patient year 310.05 (181.86) 339.13 (180.39) 0.009",
+   "table_id": "PMC3006381_table_4"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    545.2,
+    382.0,
+    917.7
+   ],
+   "ocr": "SD = Standard Deviation; GFU = Glaucoma Follow-up Unit; GDx ECC = Nerve Fiber Societal perspective In the societal perspective all costs were taken into account. It consisted of hospital costs, medication and patient costs, for 46%, 28% and 26% respectively. The total societal costs per patient year were almost 10% higher in the usual care group (Table 5: €339.13 vs. €310.05, p = 0.009). The mean difference in the total societal costs per patient year was €-36 (the GFU group was less expensive). The 95% confidence interval based on bootstrapping for this difference ranged from €-92 to €23. Thus, though the median costs per patient year dif- fers between the two groups, the mean total costs are not statistically different. This is because the non-normal dis- tribution of the societal costs. However, the probability that the GFU saves societal costs is 84% to 89% (see para- graph about the uncertainty analysis below). Sensitivity/scenario analysis Analysis 1: duration of visit The mean duration of the visits to the glaucoma specia- list was 9 minutes (ranging from 7 to 11 minutes), to the resident 11 minutes (ranging from 9 to 13 minutes) and to the GFU 20 minutes (ranging from 16 to 24 minutes)."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    545.2,
+    678.7,
+    917.9
+   ],
+   "ocr": "Analyser Enhanced Corneal Compensation; HFA = Humphrey Field Analyser. In the base case - the situation as in our study -, the GFU group was less expensive than the usual care group. This conclusion only changed when the duration of a visit in the usual care group would be relatively short (7 minutes) and the duration of a visit in the GFU group would be relatively long (24 minutes, scenario 1d). In that unlikely situation the hospital costs per patient year were 10% higher for the GFU group (see Table 6). Analysis 2: duration HFA/GDX The norm durations of GDx and HFA as used by the financial department, were 15 and 45 minutes respec- tively instead of 13.30 and 34.20 minutes. This longer duration of the HFA and GDx tests increased the hospi- tal costs per patient year in the GFU group and usual care group with €15 and €12 respectively (Table 6). Analysis 3: no optometrist in GFU When the direct personnel costs of the optometrist were replaced by those of the ophthalmic technicians, the costs in both groups decreased, because incidentally a visit was paid to an optometrist in the usual care group as well (Table 6). Although the decrease in costs per patient year is small, it is almost twice as high in the"
+  }
+ }
+}

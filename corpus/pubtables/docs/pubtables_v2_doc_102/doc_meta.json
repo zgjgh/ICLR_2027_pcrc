@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_102",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2335306_table_0",
+   "page_num": 1,
+   "bbox": [
+    399.0,
+    849.4,
+    686.1,
+    915.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2335306_table_0.png",
+   "html": "<table><tr><td>Data sets</td><td>Reference</td><td>n</td><td>Genes</td><td>Response type</td></tr><tr><td>Consort</td><td>INTEGEN</td><td>99</td><td>54613</td><td>ER status</td></tr><tr><td>LymphNode</td><td>[10] Wang (2005)</td><td>286</td><td>22215</td><td>ER status</td></tr><tr><td>p53</td><td>[11] Miller (2005)</td><td>251</td><td>22215</td><td>ER status</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2335306_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    653.1,
+    688.2,
+    902.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2335306_table_1.png",
+   "html": "<table><tr><td>LymphNode (A2ii in Additional file 1)</td><td>OOB error(%)</td><td>Number of probes</td></tr><tr><td>BC-Pelp1_Modulation_of_Estrogen_Receptor</td><td>15.38</td><td>20</td></tr><tr><td>Alzheimer's_disease</td><td>17.13</td><td>23</td></tr><tr><td>BC-Deregulation_of_CDK5_in_Alzheimers_Disease</td><td>16.08</td><td>24</td></tr><tr><td>BC-Downregulated_of_MTA_3_in_ER_negative_Breast_Tumors</td><td>12.24</td><td>26</td></tr><tr><td>BC-GATA3_participate_in_activating_the_Th2_cytokine</td><td>11.89</td><td>33</td></tr><tr><td>Nitrogen_metabolism</td><td>14.34</td><td>40</td></tr><tr><td colspan=\"3\">Gene Symbols of informative genes in this pathway cluster</td></tr><tr><td colspan=\"3\">MAPK3, PELP1, ESR1, PDZK1, HSPB1, CA12, GLS, IL5, JUNB, GATA3, MAP2K3, MAPT, STH, CSNK1A1</td></tr><tr><td colspan=\"3\">p53 (A3i in Additional file 1)</td></tr><tr><td>BC-Pelp1_Modulation_of_Estrogen_Receptor</td><td>13.94</td><td>20</td></tr><tr><td>BC-Downregulated_of_MTA_3_in_ER_negative_Breast_Tumors_</td><td>15.54</td><td>26</td></tr><tr><td>BC-GATA3_participate_in_activating_the_Th2_cytokine</td><td>13.55</td><td>33</td></tr><tr><td>Nitrogen_metabolism</td><td>17.13</td><td>40</td></tr><tr><td>BC-CARM1_and_Regulation_of_the_Estrogen_Receptor</td><td>14.34</td><td>54</td></tr><tr><td colspan=\"3\">Gene Symbols of informative genes in this pathway cluster</td></tr><tr><td>MAPK3, PELP1, ESR1, PDZK1, HSPB1, HDAC2, CA12, GLS, IL5, JUNB, GATA3, MAP2K3</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2335306_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.1,
+    666.9,
+    498.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2335306_table_2.png",
+   "html": "<table><tr><td>LymphNode (A2iii in Additional file 1)</td><td>OOB error(%)</td><td>Number of probes</td></tr><tr><td>beta_Alanine_metabolism</td><td>16.08</td><td>42</td></tr><tr><td>Alanine_and_aspartate_metabolism</td><td>16.78</td><td>42</td></tr><tr><td>Glutamate_metabolism</td><td>16.08</td><td>50</td></tr><tr><td>Butanoate_metabolism</td><td>16.08</td><td>59</td></tr><tr><td>Propanoate_metabolism</td><td>17.83</td><td>59</td></tr><tr><td>Valine_leucine_and_isoleucine_degradation</td><td>14.69</td><td>71</td></tr><tr><td colspan=\"3\">Gene Symbols of informative genes in this pathway cluster</td></tr><tr><td colspan=\"3\">ABAT, ALDH1A3, GLUL, GMPS, HMGCL, HSD17B4, MAP3K15, MCCC2, PDHA1</td></tr><tr><td colspan=\"3\">p53 (A3ii in Additional file 1)</td></tr><tr><td>Alanine_and_aspartate_metabolism</td><td>17.53</td><td>42</td></tr><tr><td>Butanoate_metabolism</td><td>15.54</td><td>59</td></tr><tr><td>Propanoate_metabolism</td><td>18.33</td><td>59</td></tr><tr><td>GM-Glycolysis_and_Gluconeogenesis</td><td>23.11</td><td>66</td></tr><tr><td>Valine_leucine_and_isoleucine_degradation</td><td>15.54</td><td>71</td></tr><tr><td colspan=\"3\">Gene Symbols of informative genes in this pathway cluster</td></tr><tr><td colspan=\"3\">ABAT, ALDH1A3, HMGCL, HSD17B4, MAP3K15, MCCC2, PDHA1</td></tr><tr><td colspan=\"3\">Consort (A1i in Additional file 1)</td></tr><tr><td>Glycosphingolipid_biosynthesis</td><td>23.23</td><td>34</td></tr><tr><td>BC-GATA3_participate_in_activating_the_Th2_cytokine</td><td>14.14</td><td>43</td></tr><tr><td>Butanoate_metabolism</td><td>15.15</td><td>82</td></tr><tr><td>Propanoate_metabolism</td><td>21.21</td><td>85</td></tr><tr><td>Valine_leucine_and_isoleucine_degradation</td><td>17.17</td><td>25</td></tr><tr><td colspan=\"3\">Gene Symbols of informative genes in this pathway cluster</td></tr><tr><td>ABAT, GATA3, HSD17B4, MCCC2, PRKAR1B</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2335306_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    694.1,
+    530.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2335306_table_3.png",
+   "html": "<table><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways for LymphNode</td><td>BC</td><td>ER</td><td>PR</td></tr><tr><td>&#8805; 1</td><td>0.44</td><td>0.33</td><td>0.20</td></tr><tr><td>&#8805; 2</td><td>0.31</td><td>0.27</td><td>0.18</td></tr><tr><td>&#8805; 5</td><td>0.24</td><td>0.20</td><td>0.09</td></tr><tr><td>LymphNode (pathway cluster)</td><td>BC</td><td>ER</td><td>PR</td></tr><tr><td>&#8805; 1</td><td>0.42</td><td>0.42</td><td>0.33</td></tr><tr><td>&#8805; 2</td><td>0.42</td><td>0.42</td><td>0.25</td></tr><tr><td>&#8805; 5</td><td>0.25</td><td>0.33</td><td>0.17</td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways for p53</td><td>BC</td><td>ER</td><td>PR</td></tr><tr><td>&#8805; 1</td><td>0.41</td><td>0.35</td><td>0.20</td></tr><tr><td>&#8805; 2</td><td>0.33</td><td>0.28</td><td>0.13</td></tr><tr><td>&#8805; 5</td><td>0.24</td><td>0.24</td><td>0.11</td></tr><tr><td>p53 (pathway cluster)</td><td>BC</td><td>ER</td><td>PR</td></tr><tr><td>&#8805; 1</td><td>1.00</td><td>1.00</td><td>0.75</td></tr><tr><td>&#8805; 2</td><td>1.00</td><td>0.75</td><td>0.63</td></tr><tr><td>&#8805; 5</td><td>0.63</td><td>0.63</td><td>0.25</td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways for Consort</td><td>BC</td><td>ER</td><td>PR</td></tr><tr><td>&#8805; 1</td><td>0.50</td><td>0.22</td><td>0.16</td></tr><tr><td>&#8805; 2</td><td>0.44</td><td>0.38</td><td>0.25</td></tr><tr><td>&#8805; 5</td><td>0.34</td><td>0.28</td><td>0.13</td></tr><tr><td>Consort (pathway cluster)</td><td>BC</td><td>ER</td><td>PR</td></tr><tr><td>&#8805; 1</td><td>0.88</td><td>0.75</td><td>0.63</td></tr><tr><td>&#8805; 2</td><td>0.75</td><td>0.63</td><td>0.50</td></tr><tr><td>&#8805; 5</td><td>0.50</td><td>0.50</td><td>0.25</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2335306_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    755.4,
+    686.2,
+    916.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2335306_table_4.png",
+   "html": "<table><tr><td>LymphNode</td><td>In citation</td><td>Not in citation</td><td>p-value</td></tr><tr><td>Genes in pathway cluster (Table 2)</td><td>8</td><td>4</td><td></td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways</td><td>20</td><td>25</td><td>0.149</td></tr><tr><td>p53</td><td>In citation</td><td>Not in citation</td><td>p-value</td></tr><tr><td>Genes in pathway cluster (Table 2)</td><td>8</td><td>0</td><td></td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways</td><td>19</td><td>27</td><td>0.002</td></tr><tr><td>Consort</td><td>In citation</td><td>Not in citation</td><td>p-value</td></tr><tr><td>Genes in pathway cluster (Table 2)</td><td>7</td><td>1</td><td></td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways</td><td>16</td><td>16</td><td>0.061</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2335306_table_5",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    686.2,
+    290.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2335306_table_5.png",
+   "html": "<table><tr><td>LymphNode</td><td>In citation</td><td>Not in citation</td><td>p-value</td></tr><tr><td>Genes in pathway cluster (Table 2)</td><td>8</td><td>4</td><td></td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways</td><td>16</td><td>30</td><td>0.048</td></tr><tr><td>p53</td><td>In citation</td><td>Not in citation</td><td>p-value</td></tr><tr><td>Genes in pathway cluster (Table 2)</td><td>8</td><td>0</td><td></td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways</td><td>15</td><td>30</td><td>0.0006</td></tr><tr><td>Consort</td><td>In citation</td><td>Not in citation</td><td>p-value</td></tr><tr><td>Genes in pathway cluster (Table 2)</td><td>6</td><td>2</td><td></td></tr><tr><td>Informative genes not in pathway cluster (Table 2) of top 22 pathways</td><td>7</td><td>25</td><td>0.0084</td></tr></table>"
+  }
+ ]
+}

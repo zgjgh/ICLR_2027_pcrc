@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_053",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    101,
+    580,
+    190
+   ],
+   "ocr": "The data presented in the accompanying table delineates the progression of clinical phases concerning the administration of a specific therapeutic regimen in the Caerphilly cohort. Each phase, spanning from January 2009 to May 2010, illustrates the evolving parameters related to patient responses, specifically focusing on the HER2 score and the maximum volume of extravasation (VE1max and VE2max). During Phase One, the HER2 score indicated a prevalence ratio of 0/+1, suggesting a limited response to treatment, which transitioned into Phase Two, where improvements were noted in both VE1max and VE2max metrics."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    178,
+    580,
+    252
+   ],
+   "ocr": "By Phase Four, the data reflects a marked enhancement in patient outcomes, culminating in the results from Phase Five, which revealed significant therapeutic efficacy with a DAmax measurement indicative of substantial clinical benefit. This progressive analysis underscores the importance of continuous monitoring and assessment of the HER2 score alongside VE metrics to evaluate treatment effectiveness over the trial's duration. The findings not only contribute to the understanding of therapeutic impacts but also establish a framework for future clinical investigations in similar cohorts."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    299.0,
+    580.0,
+    450.0
+   ],
+   "ocr": "Phase One(January 2009) Phase Two(April 2009) Phase Three(September 2009) Phase Four(January 2010) Phase 5(May 2010)\nCaerphilly n/a 4 5 12 17\nCardiff 11 20 28 20 11\nNewport 3 25 15 35 5\nTorfaen 11 13 21 21 10\nPhase totalCumulative total 2525 6287 69156 88244 43287",
+   "table_id": "img_057563_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    489.0,
+    580.0,
+    612.0
+   ],
+   "ocr": "HER2 FISH positive (%)\nHER2 score VE1max VE2max DAmax\n0/+1 8/127 (6.3) 7/120 (5.8) 5/113 (4.4)\n2+ 2/8 (25.0) 2/15 (13.3) 3/19 (15.8)\n3+ 14/17 (82.4) 15/17 (88.2) 16/20 (80.0)\nTotal 152 152 152",
+   "table_id": "img_057563_t1"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    656.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "n Dry weight Fat weight Proportion of fat\n(mg ± SD) (mg ± SD)\nFoundresses 28 26.13 ± 4.26 1.81 ± 0.89 6.9 ± 4.1 %\nFirst brood females 23 20.93 ± 3.80 1.23 ± 0.41 5.8 ± 3.5 %\nSecond brood females 34 25.94 ± 5.94 2.52 ± 1.72 9.2 ± 4.6 %\nSecond brood males 13 13.16 ± 4.34 0.79 ± 0.60 5.5 ± 3.9 %",
+   "table_id": "img_057563_t2"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_050",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    349.3,
+    66.0
+   ],
+   "ocr": "Fuller-Tyszkiewicz et al. BMC Pregnancy and Childbirth 2012, 12:91 http://www.biomedcentral.com/1471-2393/12/91"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 6 of 11"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.1,
+    778.5
+   ],
+   "ocr": "fat – clothing specific (items 5, 14, 19, 42, and 44). As the two factor model of the feeling fat subscale also pro- vided a significantly better fit than the uni-dimensional model for non-pregnant women (as covered in the next subsection), subsequent measurement invariance tests of the feeling fat subscale separated the items into these two identified subcomponents. The imposition of equality constraints on factor load- ings over time produced minimal change in CFI values (all ΔCFIs < .01), suggesting that the subscales retained the same meaning across the three phases of pregnancy. However, additional equality constraints on item inter- cepts led to non-ignorable changes in CFI values: ΔCFI = .014 for feeling fat-general, ΔCFI = .018 for feel- ing fat – clothing specific, ΔCFI = .067 for attractive- ness, ΔCFI = .019 for salience, and ΔCFI = .019 for strength and fitness. Cross-temporal invariance tests were terminated at this step. Differences in item inter- cepts across time are presented in Additional file 1. Comparison between pregnant and non-pregnant women As the subscales of BAQ were non-invariant across the phases of pregnancy, comparisons with non-pregnant women were made at each time point separately. How- ever, it was important to first ensure that factor structure suggested by Ben-Tovim and Walker [19] could be repli- cated in our non-pregnant sample. As shown in Table 3, each of the subscales was adequately represented by uni- dimensional models. RMSEA values were slightly higher than the desired .08 cut-off, but this is not unexpected when sample size is small (N < 300), and can be ignored if other indices suggest good model fit [28]. Separating the feeling fat subscale into two separate factors (as per the pregnant cohort) yielded significant improvement in model fit (Δχ2 = 7.068, p < .01). Comparisons between pregnant and non-pregnant women are shown in Tables 4, 5 and 6. In each instance, configural invariance (common number of factors) was established and formed a suitable baseline against which to test the increasingly stringent invariance assumptions. Regardless of which time point non-pregnant women Table 3 Tests of measurement model fit for each subscale, non-pregnant cohort only (n = 148)"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.6,
+    926.2
+   ],
+   "ocr": "were compared against, substantial declines in model fit (as evidenced by ΔCFI values) were observed for each of the subscales once factor loadings were constrained to equality across groups, with the following exceptions: (1) the attractiveness subscale (comparison with T1 preg- nancy data), (2) strength and fitness subscale (compari- son with T1), and (3) feeling fat - clothing specific (comparison with T2 and T3 data). Based on modification indices provided for the poorly fitting weak invariance models, several factor loadings were freed from equality constraints in order to see whether partial invariance could be achieved. Freeing of these factor loadings across groups led to model fit that was comparable to the configural invariance model (see revised models in Tables 4, 5, 6, and 7 for the full list of the items that were freed from equality constraints). These revised weak invariance models were then com- pared against the strong invariance models in which item intercepts were also constrained to equality, and revealed substantial loss in model fit. Inspection of modification indices revealed a non-uniform pattern of cross-group differences in item intercepts (see Add- itional file 1). Given the absence of a clear pattern of re- sponse bias, the decision was made to terminate measurement invariance tests at this step rather than freeing more model parameters. Discussion The present study addressed a significant gap in the women’s body image literature by evaluating the func- tioning of a commonly used measure of body image, the Body Attitude Questionnaire, BAQ [19], both across the phases of pregnancy and between pregnant and non- pregnant women. Collectively, our findings suggest that comparisons of body dissatisfaction between pregnant and non-pregnant women (at least based on the BAQ) are likely to be conflated by differential measurement biases that serve to undermine attempts to accurately assess potential differences in body dissatisfaction. While adequate model fit was established for the sub- scales of BAQ when fit simultaneously for pregnant and non-pregnant women (i.e., configural invariance), subse- quent cross-group equality constraints on factor loadings led in most instances to significant worsening of model fit and necessitated freeing the invariance assumption for several loadings in order to achieve acceptable fit. Poor fit for the subsequent, strong invariance model (with item intercepts set to equality across groups) revealed non-ignorable differences in the way pregnant and non- pregnant women responded to survey items. Measure- ment invariance tests were terminated at this step after inspection of modification indices revealed a non- uniform pattern of differences in item intercepts for the two groups – that is, in some instances, pregnant women"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    783.3,
+    366.1,
+    898.4
+   ],
+   "ocr": "90% CI\nSubscale χ2 df CFI SRMR RMSEA LOW HIGH\nFeeling fat_1F 107.844 54 .936 .052 .082 .059 .105\nFeeling fat_2F 90.776 53 .955 .047 .069 .044 .093\nAttractiveness 3.252 5 1.000 .018 .000 .000 .091\nWeight/shape salience 12.744 5 .969 .029 .102 .033 .174\nStrength & fitness 17.778 9 .960 .044 .081 .019 .137",
+   "table_id": "PMC3500714_table_2"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    904.8,
+    348.3,
+    925.4
+   ],
+   "ocr": "Notes: Feeling fat_1F and feeling fat_2F reflect uni-dimensional and two- dimensional representations of the feeling fat subscale items, respectively."
+  }
+ }
+}

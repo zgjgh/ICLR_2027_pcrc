@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_048",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.5,
+    65.8
+   ],
+   "ocr": "Anwar and Oakes BMC Medical Informatics and Decision Making 2012, 12(Suppl 1):S6 Page 2 of 8 http://www.biomedcentral.com/1472-6947/12/S1/S6"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    90.3,
+    110.2,
+    678.6,
+    279.7
+   ],
+   "ocr": "the ear, and measures the level of hearing of the inner assume that the relationship is linear, then for each part of the ear. A constraint on the data is that BC frequency a PCA value of -1 corresponds to an audio- must always be the same or better than AC. The dif- gram threshold of 0, and a PCA value of 0 = an audio- ference between the AC and the BC is called the air- gram threshold of 60, and a PCA value 1 = an audiogram bone gap, and measures the hearing ability of the threshold of 120. The formula relating the two was: middle and outer parts of the ear. Audiogram threshold = 60 + (60 PCA score). (1) • Categorical data (such as gender, diagnosis and × hearing aid type), e.g., M, TINNITUS, BE18. Each individual patient audiogram was classified into • Brief free text notes made by the technicians, e.g., one of the main audiogram types identified, according IMPS. TAKEN FOR BINAURAL AIDS., where IMPS to least Euclidean distance. A chi-squared test was then is an abbreviation for “impressions”, and BINAURAL performed to determine whether there was any associa-"
+  },
+  "p1_b2": {
+   "type": "title",
+   "bbox": [
+    90.3,
+    276.0,
+    231.3,
+    289.7
+   ],
+   "ocr": "means “worn in both ears”."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    281.1,
+    678.6,
+    309.9
+   ],
+   "ocr": "tion between the audiogram class of each patient and the type of hearing aid worn. This test was done on the"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    305.4,
+    122.0,
+    320.2
+   ],
+   "ocr": "Methods"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    311.2,
+    678.6,
+    395.1
+   ],
+   "ocr": "set of 7,437 records where all AC and BC thresholds Principal component analysis on audiograms were available for the right ear, and either a BTE or an This section describes how a Principal Component Ana- ITE aid was specified. In the final logistic regression lysis (PCA) was performed on the set of 11,462 audio- model, rather than simply using the identified broad grams where all AC and BC thresholds for the right ear audiogram types, each individual hearing threshold was were recorded, to determine the main audiogram types"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    386.5,
+    410.0,
+    400.2
+   ],
+   "ocr": "used."
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    396.5,
+    649.4,
+    440.4
+   ],
+   "ocr": "found among hearing aid users. The rows of our input matrix were the individual audiograms for the right ear, Use of the chi-squared test to discover other factors while the 11 columns were for six air conduction and five"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    383.9,
+    432.3,
+    520.7,
+    445.4
+   ],
+   "ocr": "related to hearing aid type"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    441.6,
+    678.6,
+    807.7
+   ],
+   "ocr": "bone conduction thresholds. Although the patients were In the previous section, it was shown that the choice of originally tested at 11 frequencies, the principle of PCA is hearing aid type was related to the shape of the audio- that certain frequencies tend to vary together, and thus gram. This section describes how the simple chi-squared can be grouped into a smaller number of underlying vari- test was used to discover which of the category data ables called principal components (PC). Each PC has a fields were significantly associated with the choice of set of coefficients in the range -1 to +1, corresponding to hearing aid type, and also to discover free-text keywords the degree of influence of each of the original thresholds which were significantly associated with either BTE or on that PC, given in Table 1. ITE hearing aids. A method was devised for converting PCA scores to To discover those free-text keywords which were sig- typical audiogram types, which is an approximation only. nificantly associated with either BTE or ITE hearing aids, It assumes that the PCA scores are directly related to first a large contingency table was created where the audiogram thresholds, whereas in reality they measure rows stood for hearing aid type, while each column stood different things: PCA measures the importance of a for a candidate keyword (one of 664 distinct words found threshold in distinguishing audiograms, while audio- to have occurred at least once in the free-text fields of grams measure the degree of hearing loss at the same fre- the entire record set). The observed value in each cell quency. The range of PCA scores is -1 to +1, while the was the number of times that word had been found in range of audiogram thresholds is 0 to 120 dB. If we the free-text fields of patients with that type of hearing aid. This table (Table 2) had an overall chi-squared value Table 1 Component coefficient vectors of PCA of 5421.84 for 663 degrees of freedom, giving p < 0.001. This data showed, with 99.9% confidence that these free text words were not randomly distributed, but some text Table 2 Observed and expected frequencies for ITE/BTE aid with gender"
+  },
+  "p1_b10": {
+   "type": "table",
+   "bbox": [
+    83.4,
+    737.3,
+    354.2,
+    916.0
+   ],
+   "ocr": "PC1 PC2 PC3 PC4\nAC250 -0.3001 -0.3811 0.2988 -0.1677\nAC500 -0.3218 -0.3619 0.2754 -0.0166\nAC1000 -0.3410 -0.1999 0.2427 0.2643\nAC2000 -0.3436 0.1440 0.1910 0.2697\nAC4000 -0.3031 0.3673 0.2409 -0.1742\nAC8000 -0.2722 0.3186 0.2629 -0.4684\nBC250 -0.2510 -0.2304 -0.4890 -0.5087\nBC500 -0.2942 -0.2404 -0.4152 -0.0846\nBC1000 -0.3189 -0.0760 -0.3052 0.3595\nBC2000 -0.3028 0.2699 -0.2419 0.4088\nBC4000 -0.2516 0.4870 -0.2219 -0.1299",
+   "table_id": "PMC3339393_table_0"
+  },
+  "p1_b11": {
+   "type": "table",
+   "bbox": [
+    394.6,
+    812.6,
+    668.0,
+    915.9
+   ],
+   "ocr": "Hearing aid type Male Female Row total\nBTE 3196 3850 7046\n(3369.38) (3676.62)\n[8.92] [8.17]\nITE 3647 3617 7264\n(3473.62) (3790.38)\n[8.66] [7.93]\nColumn total 6843 7467 14310",
+   "table_id": "PMC3339393_table_1"
+  }
+ }
+}

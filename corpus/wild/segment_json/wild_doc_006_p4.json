@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_006",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    327.0
+   ],
+   "ocr": "SNP Distance of CpG sites from a SNP (bp)\nIL4 cg23943829\nrs2070874 −599\nrs2243250 −43\nIL4R cg09791102 cg26937798\nrs8832 −22,373 −49,733\nrs1110470 +16,987 −10,373\nrs1805011 −20,458 −47,818\nrs1805012 −20,550 −47,910\nrs3024685 −23,496 −50,856\nGATA3 cg13543854 cg12405139\nrs568727 −11,224 −666\nrs2229359 −5,170 +5,388",
+   "table_id": "img_006191_t0"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    343,
+    580,
+    417
+   ],
+   "ocr": "The examination of Single Nucleotide Polymorphisms (SNPs) and their relationship to CpG sites is critical for understanding genetic variations and their implications in disease susceptibility. In the context of the interleukin-4 (IL4) gene, the data presented in the accompanying table reveals pertinent insights regarding the distance of specific CpG sites from identified SNPs. Notably, the table includes the SNPs associated with IL4 and provides a detailed measurement of the distance of CpG sites, such as cg23943829, from these SNPs, measured in base pairs (bp)."
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    405,
+    580,
+    509
+   ],
+   "ocr": "This distance metric is essential for elucidating the potential regulatory impacts of SNPs on gene expression, as proximity to CpG sites can influence methylation patterns and subsequent gene activity. Understanding these relationships not only enhances our comprehension of the genetic underpinnings of immune responses but also contributes to the broader field of epigenetics. By analyzing the distances recorded in the table, researchers can identify key areas for further investigation, potentially leading to novel therapeutic targets in inflammatory diseases where IL4 plays a significant role. Thus, this data serves as a foundational component for future studies aimed at unraveling the complexities of gene regulation and its implications in health and disease."
+  }
+ }
+}

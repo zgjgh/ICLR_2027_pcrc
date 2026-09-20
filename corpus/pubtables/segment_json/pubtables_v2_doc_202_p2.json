@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_202",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    232.0,
+    51.9
+   ],
+   "ocr": "Xu et al. BMC Genomics (2016) 17:390"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.9
+   ],
+   "ocr": "Page 5 of 17"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.1,
+    927.7
+   ],
+   "ocr": "as the Zebra fish (Danio rerio) [22, 23] and mouse (Mus musculus) [24] as well as several non-model organisms [25, 26]. The profile of genes identified using KO-based on the RPKM method in which only genes with an FDR < 0.001 and an absolute value log2ratio > 1 were consid- ered differentially expressed showed that the TO-VS- IFN/SAV3 had 1629 DEGs whose KOs were mapped to 237 pathways of which 49 DEGs belonged the Jak/stat pathway (Table 3). On the other hand, the TO-VS-SAV3 had a total of 9135 DEGs assigned to KO-identifiers, which was 7506 DEGs more than the TO-VS-IFN/SAV3. As a result, the TO-VS-SAV3 had 252 pathways identi- fied by the KEGG database being 15 pathways more than those identified in the TO-VS-IFN/SAV3 (Table 3). In terms of Jak/stat genes, the TO-VS-SAV3 had a total of 135 DEGs expressed being 86 DEGs more than the TO- VS-IFN/SAV3. In general, the TO-VS-SAV3 had more DEGs and pathways identified using the KEGG data- base analysis than the TO-VS-IFN/SAV3 although the TO-VS-IFN/SAV3 had a higher enrichment Qvalue (1.136E-06, p value = 8.07E-08) than the TO-VS-SAV3 (5.899E-01, p value = 8.07E-01) (Table 3). To gain more insights on the impact of type I IFN treatment on the Jak/stat pathway in TO-cells infected with SAV-3, we compared the DEGs expressed from the TO-VS-IFN/SAV3 with DEGs from the TO-VS-SAV3. Figure 2 shows that of the 135 DEGs expressed in the TO-VS-SAV3, 119 DEGs were downregulated while 16 were upregulated. In the TO-VS-IFN/SAV3 group 40 DEGs were upregulated while 9 DEGs were downregu- lated. Put together, these findings show that the propor- tion of upregulated DEGs in the TO-VS-IFN/SAV3 (81.6 %, n = 49) was higher than in the TO-SV-SAV3 group (11.9 %, n = 135) while the proportion of downregu- lated DEGs for the TO-SV-SAV3 (88.1 %, n = 135) was higher than the TO-VS-IFN/SAV3 group (18.4 %, n = 49). This is strongly suggesting that type I IFNs upregulate sev- eral genes of the Jak/stat pathway that were downregu- lated by SAV3 infection alone in TO-cells. Hence, to further elucidate the type of genes suppressed by SAV3 in- fection in the absence of type I IFN treatment, we broadly classified the DEGs in the Jak/stat pathways for both the TO-VS-IFN/SAV3 and TO-VS-SAV3 into type I and II receptor genes, Jaks, Stats and negative regulator genes as shown below. Type I and II receptor genes Differentially expressed genes belonging to receptor li- gands that activate the Jak/stat pathway were classified into type I and II receptor-genes. As shown in Fig. 2 and Table 3, the type I receptor family was subdivided into the gamma chain (γC), gp130 and single chain (homodimer) receptor genes while the type II receptor family comprised of type I and II IFN receptor genes. The major difference"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    358.2,
+    150.9
+   ],
+   "ocr": "Table 2 Comparison structural and non-structural protein expression in IFN I treated and non-treated cells 48 hours post SAV3 infection"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    155.9,
+    367.1,
+    389.9
+   ],
+   "ocr": "Parameters Structural Non-structural\nProtein (SP) protein (NSP)\nGene ID AFJ15605.1 AFJ15604.1\nGene length 3960 7764\nExpression of SAV3 1800842.81 62.71\nExpression of SAV3 (log10) 1 × 106.26 1 × 101.80\nExpression of IFN/SAV3 9403.57 11.43\nExpression of IFN/SAV3 (log10) 1 × 103.97 1 × 101.06\nSAV3-FPKM 42259.47 0.75\nIFN/SAV3-FPKM 248.61 0.15\nlog2 Ratio (IFN/SAV3/SAV3) -7.41 -2.32\nUp/Down-Regulation Down Down\nP-value 0 1.33E-08\nFDR 0 1.14E-07",
+   "table_id": "PMC4878077_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    413.2,
+    367.5,
+    593.9
+   ],
+   "ocr": "788, 24 608 338 and 23 421 631 raw reads for the IFN- treated and non-IFN treated TO-cells infected with SAV3 together with mock TO-cells, respectively. The total unique match in total mapped reads was >90 % after removal of redundancy using the TGICL software (http://www.tigr.org/tdb/tgi) suggesting low redundancy. After quality check for clean reads and filtration [18], 20,115 unigenes from the TO-VS-IFN/SAV3 and TO- SV-SAV3 groups assigned to the KEGG orthologues (KO) were identified using the KEGG database (http:// www.genome.ad.jp/kegg/), which has been widely used to generate pathway networks for model organisms such"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    844.6,
+    356.7,
+    919.5
+   ],
+   "ocr": "Fig. 1 Shows virus titration based on detection of the E2 structural protein for SAV3 by the ΔΔCp-value analytical method at 48 hours after inoculation in TO-cells. Simultaneous treatment of IFNα and SAV3 infection (TO-VS-IFN/SAV3) reduced the replication of the virus by 20 fold relative to SAV3 infected TO-cells (TO-VS-SAV3) without IFNα treatment"
+  }
+ }
+}

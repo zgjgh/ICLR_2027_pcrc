@@ -1,0 +1,139 @@
+{
+ "doc_id": "pubtables_v2_doc_282",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1931596_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    748.1,
+    692.4,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1931596_table_0.png",
+   "html": "<table><tr><td>Type of intervention</td><td>Total number of trials</td><td>Total number of patients</td><td>Number of trials with optimal treatment</td><td>Number of patients receiving optimal treatment</td><td>Mean methodological quality [range] (max score 5)</td><td>Mean age (years)</td><td>Q-values and p- values in hetero- geneity tests</td><td>Mean baseline pain on 100 mm VAS &#8224;</td></tr><tr><td>TENS including IF</td><td>11</td><td>425</td><td>7</td><td>277</td><td>3.3 [1&#8211;5]</td><td>63.6</td><td>60.8 (p &lt; 0.001)</td><td>63.8</td></tr><tr><td>Electro-acupuncture</td><td>3</td><td>242</td><td>3</td><td>242</td><td>3.6 [3&#8211;5]</td><td>62.9</td><td>1.1 (p = 0.58)</td><td>62.7</td></tr><tr><td>Manual acupuncture</td><td>4</td><td>691</td><td>4</td><td>691</td><td>3.9 [3&#8211;5]</td><td>66.1</td><td>4.5 (p = 0.34)</td><td>54.7</td></tr><tr><td>Low Level Laser therapy</td><td>8</td><td>343</td><td>5</td><td>222</td><td>3.5 [2&#8211;5]</td><td>66.9</td><td>36.4 (p &lt; 0.001)</td><td>66.7</td></tr><tr><td>Pulsed electromagnetic fields</td><td>7</td><td>487</td><td>7</td><td>487</td><td>4.4 [3&#8211;5]</td><td>64.2</td><td>9 (p = 0.18)</td><td>63.3</td></tr><tr><td>Ultrasound</td><td>1</td><td>74</td><td>1</td><td>74</td><td>4</td><td>67.5</td><td>n.a.</td><td>53.0</td></tr><tr><td>Static magnets</td><td>2</td><td>172</td><td>2</td><td>172</td><td>4 [4]</td><td>65.6</td><td>1.9 (p = 0.22)</td><td>59.7</td></tr><tr><td>Total and means</td><td>36</td><td>2434</td><td>24</td><td>2165</td><td>3.8</td><td>65.1</td><td></td><td>62.9&#8224;</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.1,
+    693.6,
+    423.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1931596_table_1.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Type</td><td>No of patients on active therapy (n = 259)</td><td>Method quality</td><td>Treat-ment period (weeks)</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome time points (in weeks, max. effect in bold)</td></tr><tr><td>Adedoyin-03</td><td>IF</td><td>15</td><td>3</td><td>4</td><td>81.0</td><td>25.4 (8.2 to 42.6)</td><td>1, 2, 3,4</td></tr><tr><td>Cheing-02</td><td>TENS</td><td>16</td><td>4</td><td>2</td><td>-</td><td>8.4 (0.7 to 16.1)</td><td>2, 4</td></tr><tr><td>Cheing-03</td><td>TENS</td><td>30</td><td>3</td><td>2</td><td>50.3</td><td>32.2 (23.9 to 40.5)</td><td>4, 8</td></tr><tr><td>Defrin-05</td><td>IF</td><td>45</td><td>4</td><td>4</td><td>71.0</td><td>41.6 (33.4 to 49.8)</td><td>4</td></tr><tr><td>Fargas-Babjak-89</td><td>TENS</td><td>19</td><td>3</td><td>12</td><td>-</td><td>45.3 (11.7 to 78.9)</td><td>6, 12</td></tr><tr><td>Law-05</td><td>ALTENS/ TENS</td><td>27</td><td>4</td><td>2</td><td>57.3</td><td>29.7 (7.6 to 51.3)</td><td>2, 4</td></tr><tr><td>Lewis-84**</td><td>TENS</td><td>29</td><td>3</td><td>3</td><td>-</td><td>7.0 (-5.6 to 19.6)</td><td>3</td></tr><tr><td>Lewis-94**</td><td>TENS</td><td>28</td><td>1</td><td>3</td><td>-</td><td>4.9 (-8.4 to 18.3)</td><td>3</td></tr><tr><td>Smith-83</td><td>TENS</td><td>15</td><td>3</td><td>4</td><td>-</td><td>dichotomous data only</td><td>4</td></tr><tr><td>Taylor-81**</td><td>TENS</td><td>10</td><td>2</td><td>2</td><td>-</td><td>5.5 (-7.3 to 17.8)</td><td>2</td></tr><tr><td>Yurtkuran-99</td><td>ALTENS</td><td>25</td><td>3</td><td>2</td><td>-</td><td>20.0 (14.1 to 25.9)</td><td>2</td></tr><tr><td>Best within 4 weeks, all trials</td><td></td><td>223</td><td></td><td></td><td></td><td>18.8 (9.6 to 28.1)</td><td></td></tr><tr><td>Best within 4 weeks, optimal trials</td><td></td><td>156</td><td></td><td></td><td></td><td>22.2 (18.1 to 26.3)</td><td></td></tr><tr><td>8 weeks</td><td></td><td>30</td><td></td><td></td><td></td><td>8.3 (-1.1 to 17.6)</td><td></td></tr><tr><td>Global improvement 8 weeks</td><td></td><td>15</td><td></td><td></td><td></td><td>1.8 (0.6 to 4.8) Relative Risk</td><td></td></tr><tr><td>Overall</td><td></td><td>259</td><td>3.3*</td><td></td><td>63.8&#8224;</td><td></td><td>2.8*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_2",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    696.1,
+    693.0,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1931596_table_2.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Type</td><td>No of patients on active therapy (n = 121)</td><td>Method quality</td><td>Treatment period (weeks)</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome assessment timepoints (weeks, best time point used in bold)</td></tr><tr><td>Sangdee-03</td><td>Maximal tolerable intensity</td><td>48</td><td>5</td><td>4</td><td>66.9</td><td>25.0 (15.2 to 34.8)</td><td>4, 8, 12</td></tr><tr><td>Vas-04</td><td>Maximal tolerable intensity</td><td>48</td><td>4</td><td>12</td><td>58.9</td><td>25.0 (13.4 to 36.6)</td><td>12</td></tr><tr><td>Yurtkuran-99</td><td>Maximal tolerable intensity</td><td>25</td><td>3</td><td>2</td><td>-</td><td>20.0 (14.1 to 25.9)</td><td>2</td></tr><tr><td>12 weeks Global improved</td><td></td><td>48</td><td></td><td></td><td></td><td>2.1 (1.1 to 4.1) Relative Risk</td><td></td></tr><tr><td>Best within 4 weeks</td><td></td><td>73</td><td>4*</td><td></td><td>62.9&#8224;</td><td>21.3&#8224; (16.3 to 26.3)</td><td>3*</td></tr><tr><td>Total</td><td></td><td>121</td><td>4*</td><td></td><td>62.9&#8224;</td><td>21.9&#8224; (17.3 to 25.3)</td><td>3*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.1,
+    693.8,
+    256.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1931596_table_3.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Type</td><td>No of patients on active therapy (n = 409)</td><td>Method quality</td><td>Treat- ment period (weeks)</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome assessment timepoints (weeks, best time point used in bold)</td></tr><tr><td>Berman-04</td><td>TCM with \"de Qi\"</td><td>169</td><td>4</td><td>12</td><td>44.5</td><td>1.2 (-2.5 to 4.9)</td><td>4, 8</td></tr><tr><td>Molsberger-94</td><td>TCM with \"de Qi</td><td>71</td><td>4</td><td>5</td><td>46.8</td><td>10.6 (0.1 to 21.3)</td><td>5</td></tr><tr><td>Takeda-94</td><td>TCM with \"de Qi\"</td><td>20</td><td>3</td><td>4</td><td>56.0</td><td>2.0 (-7.5 to 11.9)</td><td>4</td></tr><tr><td>Witt-05</td><td>TCM with \"de Qi\"</td><td>149</td><td>4</td><td>8</td><td>64.9</td><td>7.1 (0.2 to 14.4)</td><td>8</td></tr><tr><td>8 weeks</td><td></td><td>318</td><td></td><td></td><td></td><td>3.6 (0.2 to 7.1)</td><td></td></tr><tr><td>Total</td><td></td><td>409</td><td>3.8*</td><td></td><td>54.7&#8224;</td><td>1.3 &#8224; (-2.7 to 4.7)</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_4",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    536.4,
+    694.0,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1931596_table_4.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Intervention type, treatment period</td><td>No of patients on active therapy (n = 187)</td><td>Method quality</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome assessment timepoints (weeks, best time point used in bold)</td></tr><tr><td>Bulow-94**</td><td>25 mW, 830 nm, 2.25 J to 10 points 3 times/week, 9 total sessions</td><td>15</td><td>2</td><td>82.0</td><td>8.0 (-10.8 to 26.8)</td><td>3, 6</td></tr><tr><td>G&#248;tte-95</td><td>12 mW, 904 nm, 12 J in 4 points, 3 times/week 12 total sessions</td><td>20</td><td>3</td><td>69.0</td><td>25.0 (9.4 to 40.7)</td><td>4</td></tr><tr><td>Gur-03</td><td>10 mW, 904 nm, 2 or 3 J applied to 2 points, 2&#8211;3 times week/10 total sessions</td><td>60</td><td>4</td><td>73.9</td><td>25.0 (18.9 to 31.1)</td><td>4, 8, 12</td></tr><tr><td>Hegedu-06</td><td>50 mW, 830 nm, 6 J applied to 8 points, 2 times/week, total 8 sessions</td><td>14</td><td>3</td><td>57.5</td><td>25.1 (2.5 to 47.7)</td><td>4, 6, 12</td></tr><tr><td>Nivbrant-92</td><td>4 mW 904 nm, 0.7 J in 3 points, 3 times/week, 6 total sessions</td><td>15</td><td>4</td><td>67</td><td>19 (2.4 to 35.6)</td><td>2, 6</td></tr><tr><td>Stelian-92</td><td>2.7 mW and 25 mW 904 + 820 nm, 1.3 J and 11.1 J in two points 10 times/week, 20 total sessions</td><td>18</td><td>4</td><td>72.0</td><td>41 (25.4 to 56.6)</td><td>2, 10</td></tr><tr><td>Tascioglu-05**</td><td>50 mW 830 nm, 1.5 or 3 J in 5 points, 5 times/week, 10 total sessions</td><td>20</td><td>3</td><td>66.5</td><td>-0.9 (-11.8 to 10)</td><td>3</td></tr><tr><td>Yurtkuran-06 **</td><td>4 mW, 904 nm, 0.48 J in one acupoint (Sp9), 5 times/week, 10 total sessions</td><td>25</td><td>5</td><td>-</td><td>-0.7 (-18.6 to 17.2)</td><td>2, 12</td></tr><tr><td>Best within 4 weeks, all trials&#8224;&#8224;</td><td></td><td>187</td><td></td><td></td><td>17.7 &#8224; (8.1 to 27.3)</td><td></td></tr><tr><td>Best within 4 weeks, optimal</td><td></td><td>142</td><td></td><td></td><td>24.2 (17.3 to 31.1)</td><td></td></tr><tr><td>6&#8211;8 weeks</td><td></td><td>104</td><td></td><td></td><td>15.5 (9.9 to 20.9)</td><td></td></tr><tr><td>12 weeks</td><td></td><td>99</td><td></td><td></td><td>12.3 (6.7 to 17.9)</td><td></td></tr><tr><td>Total</td><td></td><td>187</td><td>3.5*</td><td>70.3&#8224;</td><td></td><td>3*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_5",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    691.0,
+    435.3
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1931596_table_5.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Intervention type, treatment sessions and period</td><td>No of patients on active therapy (n = 255)</td><td>Method quality</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome assessment timepoints (weeks, best time point in bold)</td></tr><tr><td>Callaghan-05</td><td>SWT, 3 sessions/week, 6 sessions total, output 20 W in 20 minutes, 400 Hz, treatment dose 24 kJ</td><td>9</td><td>5</td><td>65.0</td><td>15.0 (-12.7 to 42.7)</td><td>2</td></tr><tr><td>Jacobson &#8211; 01</td><td>PEMF, 8 sessions, 1&#8211;8 Hz, 3 &#215; 10- 7G</td><td>101</td><td>3</td><td>63.3</td><td>7.9 (0.8 to 15.4)</td><td>2, 4</td></tr><tr><td>Nicolakis-02</td><td>PEMF 30 min daily, 6 weeks, 40 mT 1&#8211;3000 Hz</td><td>15</td><td>4</td><td>34.6</td><td>10.8 (-3.5 to 25.1)</td><td>6</td></tr><tr><td>Pipitone-01</td><td>PEMF 30 min daily, 6 weeks, 3&#8211;20 Hz, &lt;0.5 Gauss</td><td>34</td><td>5</td><td>-</td><td>2.0 (-5.8 to 9.7)</td><td>6</td></tr><tr><td>Thamsborg-05</td><td>PEMF, 2 h daily for 6 weeks, 10 mV, 50 Hz</td><td>42</td><td>5</td><td>52.6</td><td>0.3 (-7.7 to 7.9)</td><td>2, 6, 12</td></tr><tr><td>Trock-93</td><td>PEMF, 15 Gauss, &lt;30 Hz, 30 min 3&#8211;5 times/week, total 18 sessions</td><td>14</td><td>4</td><td>76.5</td><td>31.0 (11.0 to 51.0)</td><td>2,4, 8</td></tr><tr><td>Trock-94</td><td>PEMF, 15 Gauss, &lt;30 Hz, 30 min 3&#8211;5 times/week, total 18 sessions</td><td>40</td><td>5</td><td>70.7</td><td>14.6 (0.9 to 28.3)</td><td>2, 4, 8</td></tr><tr><td>Best within 4 weeks</td><td></td><td>209</td><td></td><td></td><td>6.9&#8224; (2.2 to 11.6)</td><td></td></tr><tr><td>6 weeks</td><td></td><td>91</td><td></td><td></td><td>1.0 (-4.1 to 6.0)</td><td></td></tr><tr><td>8 weeks</td><td></td><td>47</td><td></td><td></td><td>19.8 (7.1 to 32.5)</td><td></td></tr><tr><td>12 weeks</td><td></td><td>42</td><td></td><td></td><td>-2.4 (-10.1 to 5.3)</td><td></td></tr><tr><td>Pooled 6&#8211;12 weeks</td><td></td><td>180</td><td></td><td></td><td>4.8 (-2.2 to 11.8)</td><td></td></tr><tr><td>Total</td><td></td><td>255</td><td>4.4*</td><td>63.7&#8224;</td><td></td><td>3.2*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_6",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    780.7,
+    692.1,
+    887.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1931596_table_6.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Type</td><td>No of patients on active therapy (n = 74)</td><td>Method quality</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome assessment timepoints (weeks, best time point in bold)</td></tr><tr><td>Falconer-92</td><td>Maximal tolerable 0.1 to 2.5 W/cm2. 2&#8211;3 sessions/week, 12 sessions total</td><td>74</td><td>4</td><td>53.0</td><td>n.s.</td><td>4</td></tr><tr><td>Total</td><td></td><td>74</td><td>4</td><td>53.0</td><td>n.s.</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1931596_table_7",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    692.8,
+    282.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1931596_table_7.png",
+   "html": "<table><tr><td>First author, publication year</td><td>Type</td><td>No. of patients on active therapy (n = 86)</td><td>Method quality</td><td>Treatment period (weeks)</td><td>Mean baseline pain (mm VAS)</td><td>Best mean difference (95% CI) of change over placebo (mm VAS)</td><td>Outcome assessment timepoints (weeks, best time point used in bold)</td></tr><tr><td>Hinman-02</td><td>Static magnets on knee\"</td><td>22</td><td>4</td><td>2</td><td>38.8</td><td>8.6 (1.4 to 15.4)</td><td>2</td></tr><tr><td>Harlow-04</td><td>Static magnets on wrist (bracelet)</td><td>64</td><td>5</td><td>12</td><td>66.8</td><td>1.7 (-5.2 to 8.6)</td><td>4, 12</td></tr><tr><td>Best within 4 weeks</td><td></td><td>86</td><td></td><td></td><td></td><td>5.1 (0.2 to 10.0)</td><td></td></tr><tr><td>12 weeks</td><td></td><td>64</td><td></td><td></td><td></td><td>6.5 (-0.6 to 13.6)</td><td></td></tr><tr><td>Total</td><td></td><td>86</td><td>3.8*</td><td></td><td>54.7&#8224;</td><td></td><td>4</td></tr></table>"
+  }
+ ]
+}

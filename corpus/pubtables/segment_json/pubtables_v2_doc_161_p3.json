@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_161",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    432.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Platoon-Based Model for Performance Evaluation at Intersections"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    253.1,
+    720.5,
+    367.7
+   ],
+   "ocr": "Fig 12. Arrival and departure profile. doi:10.1371/journal.pone.0114406.g012 • I values are subjected to the degree of saturation of an upstream intersection (Xu) as follows: 0:91X2:68 Xu"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    404.4,
+    351.9,
+    727.3,
+    374.8
+   ],
+   "ocr": "ð40Þ I ¼ � � 1:0 1 u"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    399.2,
+    726.8,
+    554.8
+   ],
+   "ocr": "As there is a similar intersection upstream, Xu is assumed to be the same as downstream DOS (X). Consequently, the I values corresponding to the Xu of 0.58, 0.7, 0.86, 1.1 and 1.2 are 0.789, 0.650, 0.383, 0.09 and 0.09 respectively. • Calculation of average delays considers d3 = 0 since there is no initial queue considered in the analysis period. Thus, the equation for average delay calculation in equation (5) takes the following form. d1ðPFÞ"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    435.5,
+    532.0,
+    441.8,
+    545.9
+   ],
+   "ocr": "d"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    509.0,
+    532.0,
+    519.1,
+    547.8
+   ],
+   "ocr": "d2"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    705.4,
+    532.0,
+    727.3,
+    554.8
+   ],
+   "ocr": "ð41Þ"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    53.7,
+    533.0,
+    722.5,
+    742.6
+   ],
+   "ocr": "¼ þ The given constant values of C, u, T, c and k are applied directly into the delay equation (6) and (7). Subsequently, average delays for each scenario can be calculated using appropriate values of PF, I and X. • Calculation of the mean maximum queue QMM is similar to calculation of delays. The de- mand flow rate V that produces the respective DOS(X) are 464, 560, 688, 880 and 960 veh/h respectively. By utilizing appropriate values of PF2, X, V and kB and the constant values of C, u, T, c and s into equation (9); the mean maximum queue QMM can be approximated for all the scenarios mentioned. Table 3. Simulated queues and total delays for X = 0.58."
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    53.6,
+    752.9,
+    734.9,
+    858.8
+   ],
+   "ocr": "Cycle Demand for one signal cycle End of red queue Qs Residue queue Qr Peak position of queue Qm Total delay (s)\n(vehs) (vehs) (vehs) (vehs)\n1 29 28 0 29 1791.9\n2 29 28 0 29 1791.9\n3 29 28 0 29 1791.9\n4 29 28 0 29 1791.9\nTotal 116 - - 116 7167.6",
+   "table_id": "PMC4364894_table_2"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    53.7,
+    867.0,
+    193.9,
+    878.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0114406.t003"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0114406 March 18, 2015 17 / 25"
+  }
+ }
+}

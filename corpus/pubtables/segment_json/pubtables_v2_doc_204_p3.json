@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_204",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    305.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Identification of Highly Variable Supernumerary Chromosome Segments in an Asexual Pathogen"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    421.1,
+    107.4
+   ],
+   "ocr": "Table 3. The number of reads from the isolate that link all alleles in the sequence."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    66.4,
+    112.9,
+    700.9,
+    458.8
+   ],
+   "ocr": "Number of reads from the isolate that cover the sequence1\nSequence2 Fv Clinton-1B Fv LL0009 Fv 34551 Fc 31157 Fp 31156 Fb 31757\nA1.Ta 16 16 16 0 0 0\nA1.Tb 32 18 0 48 46 8\nA2.Ta 88 149 147 0 0 9\nA2.Tb 85 114 0 115 0 0\nA3.Ta 52 41 61 0 0 0\nA3.Tb 78 52 0 152 0 0\nA3.Tc 33 0 0 34 46 0\nA4.Ta 162 134 77 121 0 97\nA4.Tb 54 0 0 127 242 0\nA5.Ta 39 27 57 0 0 18\nA5.Tb 0 8 0 39 0 0\nA5.Tc 85 0 0 69 65 0\nA6.Ta 0 0 46 0 0 0\nA6.Tb 72 0 0 0 209 0\nA6.Tc 116 121 35 554 244 74\nA7.Ta 0 0 98 0 0 0\nA7.Tb 0 31 0 0 54 0\nA7.Tc 35 0 0 42 50 39\nA8.Ta 0 35 34 40 42 0\nA8.Tb 70 0 0 51 59 42",
+   "table_id": "PMC4920403_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    470.9,
+    717.7,
+    492.4
+   ],
+   "ocr": "A read covered a sequence in a set of polymorphic sequences if the read and the sequence had the same allele at every occurrence of polymorphism. 2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    486.1,
+    727.2,
+    849.0
+   ],
+   "ocr": "Each sequence is denoted by its alignment number and type letter (Fig 4): e.g., Types a and b in Alignment 1 are denoted by A1.Ta and A1.Tb, respectively. doi:10.1371/journal.pone.0158183.t003 checked for the presence/absence of these polymorphic sequences in each of the top six isolates in Table 2. This was done by mapping short reads from each of the six isolates onto the genome assembly of the reference isolate and again onto that of Fv Clinton-1B. We found additional types of polymorphic sequences by examining the read coverage of each contig sequence. Thus, some alignments in Fig 4 contained three polymorphic sequences. For each isolate and for each sequence in each alignment, Table 3 shows the number of reads from the isolate that matched and linked all alleles in the sequence. Note that for some isolates and alignments, the read counts from the isolate for each sequence in the alignment were quite different (e.g. a range of 33-78 reads per sequence for isolate Fv Clinton-1B and Alignment A3). The most likely explanation for the large difference in read count between the three types in isolate Fv Clinton-1B is that at least 4 copies of the supernumerary segment were present in this isolate, with type A3.Tb present in more copies than types A3.Ta and A3.Tc. In light of this observa- tion, a segment with two or more highly polymorphic copies in an isolate is also called super- numerary. Thus, the detection of a significant number of type-2 SNPs in an isolate indicates the presence of a supernumerary segment. Table 3 shows that every isolate except Fb 31757 contained two or more polymorphic sequence types, i.e., two or more copies of an element. A separate analysis of Fb 31757 revealed that it contained two alleles at each SNP position in its deep read coverage"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    835.1,
+    724.7,
+    898.3
+   ],
+   "ocr": "500) of two large regions of mc28.4, a sign that the isolate contained two copies of an element. These observa- tions suggest the possibility that copies of the element in scaffold 28 were transferred horizontally."
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    624.0,
+    835.1,
+    638.0,
+    858.0
+   ],
+   "ocr": "(�"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158183 June 24, 2016 13 / 23"
+  }
+ }
+}

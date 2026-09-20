@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_122",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    122,
+    580,
+    149
+   ],
+   "ocr": "In the 3rd Quarter 2023 report for Airbus SE within the Aerospace & Defense sector, the comprehensive overview of the Research contract pipeline reveals critical insights into contract activities measured in INR."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    137,
+    580,
+    211
+   ],
+   "ocr": "The table's headers include ContractID, ContractName, ClientName, ContractValue, StartDate, EndDate, Status, Aerospace, Defense, Research, TotalContracts, ActiveContracts, CompletedContracts, PendingContracts, ContractType, Research&Development, Manufacturing, Consulting, ContractAmount, UnitsDelivered, HeadcountAllocated, ContractsWon, ContractsLost, ContractValue(INR), and SatisfactionRate."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    262.0,
+    580.0,
+    511.0
+   ],
+   "ocr": "ContractID ContractName ClientName ContractValue StartDate EndDate Status\nAerospace Defense Research TotalContracts ActiveContracts CompletedContracts PendingContracts ContractType\nResearch&Development Manufacturing Consulting ContractAmount UnitsDelivered HeadcountAllocated ContractsWon ContractsLost ContractValue(INR) SatisfactionRate\n001 AeroTechAdvancements IndianAirForce 200000000 2023-01-15 2024-01-15 Active 15 10 3\n2 R&D 15 1000 75 5 8 150000000 90% 002\nDefenseTechSolutions MinistryofDefense 150000000 2023-02-01 2023-12-31 Completed 8 5 0 6",
+   "table_id": "img_135190_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    550,
+    580,
+    655
+   ],
+   "ocr": "The first row details ContractID 001, with ContractName AeroTechAdvancements, ClientName IndianAirForce, and a ContractValue of $200,000,000, initiated on 2023-01-15 and concluding on 2024-01-15, currently Active. This contract falls under the Aerospace category, contributing to a total of 15 contracts, with 10 ActiveContracts, 3 CompletedContracts, and 2 PendingContracts, categorized as Research&Development. Its specifics indicate a ContractAmount of $150,000,000, with 90% SatisfactionRate, 1,000 UnitsDelivered, a HeadcountAllocated of 75, resulting in 5 ContractsWon and 8 ContractsLost. The second row illustrates ContractID 002, named DefenseTechSolutions, with ClientName MinistryofDefense and a ContractValue of $150,000,000, starting on 2023-02-01 and set to end on 2023-12-31, classified as Completed."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    762
+   ],
+   "ocr": "This entry contributes to the Defense sector, adding to the total of 15 contracts, with 8 ActiveContracts, 6 CompletedContracts, and 0 PendingContracts, categorized under Research&Development. It has a ContractAmount of $150,000,000, with a SatisfactionRate of 90%, 1,000 UnitsDelivered, a HeadcountAllocated of 75, yielding 5 ContractsWon and 8 ContractsLost. In summary, the Research contract pipeline contains essential metrics reflecting a total of 15 contracts, with 10 currently active and 3 completed, showcasing a diverse array of efforts across Research&Development, Manufacturing, and Consulting, with significant financial implications illustrated by the ContractValues of $200,000,000 and $150,000,000, respectively, reinforcing Airbus SE's strategic positioning in the Asia-Pacific region's Aerospace & Defense landscape."
+  }
+ }
+}

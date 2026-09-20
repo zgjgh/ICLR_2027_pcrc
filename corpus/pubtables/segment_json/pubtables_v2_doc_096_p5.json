@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_096",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2006, 7:482"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/7/482"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    67.4,
+    107.2,
+    372.6,
+    746.2
+   ],
+   "ocr": "omeric, respectively, subunits of the receptor coupled G- protein, which occur either in the trimeric form repre- sented in the place trimer_bound_to_receptor (p5) or which is dissociated in its subunits G_beta_gamma_dimer (p7) and G_alpha_GTP (p6). Therefore, both of these p-invari- ants include the place p5 in addition to one of the places p6 and p7, respectively. The places Kss1_phos (p38) and unphos_Kss1 (p39) indicate the modification of the involved kinase Kss1 and form the third minimal p-invar- iant according to case 3. Thus, all these minimal p-invari- ants can be interpreted in a biologically reasonable meaning. In the initial marking of the net there are some tokens already residing in special places. According to the eluci- dation in section Model validation, the places trimer_bound_to_receptor (p5) and unphos_Kss1 (p39) carry tokens ensuring that the minimal p-invariants contribute to the system behaviour. T-invariant analysis For our model we got ten minimal t-invariants covering all transitions. As mentioned above, the transitions are grouped into MCT-sets, if and only if they participate in exactly the same minimal t-invariants, see Equation (6). If a huge number of t-invariants arises for a network, the concept of MCT-sets provides additional structure infor- mation. Due to their definition, MCT-sets represent sets of events, which occur only together. These sets, together with their pre- and postplaces and all arcs in between, should symbolise signalling functional units of the model with an own biological meaning, see Table 5. For exam- ple, MCT-set 1 consists of the transitions MATalpha_cell(surrounding) (t1), receptor_synthesis (t3), binding_factor_to_receptor (t2), and receptor_conformation_change (t4). Therewith, this MCT-set represents the synthesis of Ste2, its binding to the present α-factor and its resulting conformation change. In Figure 7 the MCT-sets, which contain more than one transition, are shown in different colours. As mentioned above, the MCT-sets are not necessarily connected subnets. MCT-set Table 5: The maximal common transition sets."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.3,
+    714.7
+   ],
+   "ocr": "5 gives an example for a disconnected one because it con- tains techn_input (t44,), compare Table 5 and Figure 7. The necessarily in the net remaining read arcs endanger the feasibility, i.e., the realisability in the initial marking, of the minimal t-invariants. Following our modelling approach, minimal t-invariants are not feasible, if they involve a transition, which is connected via a read arc with an empty preplace, which does not get tokens by firing of other transitions involved in this t-invariant. To ensure the feasibility of all t-invariants, these non-feasible ones are joint with some others, which provide tokens on the critical preplaces. The read arcs adjacent to the place G_beta_gamma_dimer (p7) remain in the net because of the minimal p-invariant 1. Therefore, the minimal t-invar- iants 3, 4, 5, and 6 do not fulfil the feasibility criterion, because they contain the MCT-set 3, but do not contain any transitions, which provide tokens at place p7, which is connected with the MCT-set 3 via read arcs. These non- feasible t-invariants have to be processed in the way explained above, see Equation (5). Only the minimal t- invariant 1 involves transition division (in_alpha_subunit:GDP→GTP) (t5), which provides tokens on place p7 and does not involve the MCT-set 3. Therefore, each of the four non-feasible t-invariants is combined with t-invariant 1. These combinations provide four feasible, non-minimal t-invariants. Table 6 lists the feasible t-invariants and indicates if they are still minimal, i.e., non-processed. We want to discuss the biological plausibility of the feasi- ble t-invariants. Table 7 contains the biological meaning of the t-invariants in Table 6. They all include the receptor synthesis and the binding of the pheromone factor of a MATα cell in the surroundings, causing a receptor confor- mation change (MCT-set 1). In t-invariant 1 the activated receptor causes the dissociation of the G-protein (transi- tion t5), whose subunits reassociate to a trimeric form (transition t6). In the t-invariant 2 the proteins Yck1 and Yck2 are bound through Akr1 to the plasma membrane and phosphorylate the activated receptor. This leads to a"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    81.4,
+    757.4,
+    657.2,
+    875.0
+   ],
+   "ocr": "MCT-set Transitions Biological meaning\n1 1, 2, 3, 4 Receptor activation\n2 7, 8, 33 Interaction Gβγ-Cdc24 via Far1\n3 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 MAP kinase cascade\n4 22, 23, 24 Ste12 activation\n5 25, 28, 29, 30, 31, 34, 35, 36, 44 Transcription of the pheromone-responding genes\n6 26, 27 Ste12 repression through inactive Fus3\n7 45, 46, 47, 48 Receptor endocytosis",
+   "table_id": "PMC1686943_table_4"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    891.2,
+    389.4,
+    914.7
+   ],
+   "ocr": "Transitions grouped into maximal common transition sets over their biological meaning of the resulting set. Only MCT-sets with more than one"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    366.3,
+    891.2,
+    681.1,
+    914.7
+   ],
+   "ocr": "occurrence in the same feasible t-invariants. The right column contains the transition are considered here"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 13 of 17 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_002",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.6,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterogeneous EoC Combination Search Using GA"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    92.7,
+    476.2,
+    104.6
+   ],
+   "ocr": "Table 1. List of base classifiers used in GA-EoC."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    113.3,
+    726.7,
+    444.0
+   ],
+   "ocr": "Classiﬁer Category\nBayesNet Bayes Network\nNaiveBayes Bayes Network\nNaiveBayesUpdateable Bayes Network\nLibSVM Function\nLogistic Function\nSGD Function\nSimpleLogistic Function\nVotedPerceptron Function\nIBk K-NN\nDecisionTable Rule Based\nJRip Rule Based\nOneR Rule Based\nPART Rule Based\nRandomTree Rule Based\nREPTree Rule Based\nZeroR Rule Based\nDecisionStump Tree\nJ48 Tree\nRandomForest Tree\nLMT Tree",
+   "table_id": "PMC4713117_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    452.1,
+    392.8,
+    463.5
+   ],
+   "ocr": "doi:10.1371/journal.pone.0146116.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    490.2,
+    727.4,
+    898.4
+   ],
+   "ocr": "even for the imbalanced datasets [32, 33]. Therefore, we consider the MCC as our measure of classiﬁcation performance. The Genetic Algorithm-based EoC (GA-EoC) A Genetic Algorithm (GA) is an optimisation algorithm inspired by natural selection, or “sur- vival of the fittest”. The main difference between GAs and many traditional optimisation meth- ods is that GAs work with a population of solutions rather than a single solution. The implementation of a GA can be parallelised easily because of this multipoint searching charac- teristic. Moreover a GA is less susceptible to getting stuck in local optima when compared with many other heuristics. The crossover and mutation operations help the heuristic to escape from local optimal solutions by producing significant randomness in the population. These advantages make GAs appropriate for large and complex optimisation problems. In our design, we chose 20 base classifiers (listed in Table 1) from the Waikato Environment for Knowledge Analysis (WEKA) data mining software suite [34] to create the ensemble com- binations. Our chosen 20 classifiers can produce over a million unique ways to create ensem- bles. Since it is impractical to perform an exhaustive search through this huge set of combinations to find the best ensemble, we have implemented a genetic algorithm to perform a heuristic search. The working process of the whole algorithm is divided into two phases. The first step creates cross validation folds and models on training folds to be used by next phase (Fig 1). Then, the GA is used to search for the best ensemble of classifiers (EoC) from all possi- ble ensemble combinations. This GA-based ensemble of classifiers searching method will be denoted as GA-EoC (Fig 2). The working phases of GA-EoC are: 1. Preprocessing: In the initial phase, the whole training dataset is taken as input. If the class dis- tribution of the training dataset is imbalanced, we balance the class distribution. Then, we"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0146116 January 14, 2016 5 / 28"
+  }
+ }
+}

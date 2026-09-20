@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_303",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:547"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/547"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    358.6,
+    107.2,
+    698.3,
+    734.8
+   ],
+   "ocr": "95.45%) did outperform the profile-based method (PPV = 181/198 = 91.41%). The HMM method predicted more annotated TSSs when the PPV of the two methods were similar to each other: in the untreated cell PPV = 234/256 = 91.41% and in the treated cells PPV = 247/279 = 88.50%. When we further increased the number of predic- tion the total number of correct predictions reached to around 270 TSSs using the HMM method, while the max- imum number of the correct prediction of the profile method was 190 correct predictions (Figure 3). CAGE tags[20] have been generated to map promoters and we investigated if the predicted TSSs were supported by CAGE tags. Ideally, only one CAGE tag is needed to map a promoter. But due to the noise of generating the tags, confident promoter are usually supported by the overlapping with multiple tags. The larger the number of CAGE tags overlap with the predicted promoters, the more confident the predictions are. We counted the number of predicted promoters supported by at least 5, 10, and 15 CAGE tags. We predicted 198 and 208 promot- ers in the untreated and the treated cells, respectively, for both the HMM and the profile-based method (Figure 4). When the CAGE tag cutoff was 5, the HMM method found 192 (PPV = 96.97%) and 201 (PPV = 96.63%) promoters supported by CAGE tags in the untreated and the treated cell, respectively, compared with 184 (92.9%) and 180 (86.5%) supported predictions by the profile-based method, respectively. It is not surprising that the number of the supported promoters decreased when we increased the minimum number of overlapping CAGE tags. We found that the performance improvement of the HMM over the profile-based method was more significant in the treated cells. Considering both methods were trained using the untreated data, it suggests that the HMM method is more robust than the previous method. We next compared the performance of the two methods on predicting active promoters. Gene expression measure- ments[21] showed that there were 177 active and 155 promoters and enhancers."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    67.4,
+    116.8,
+    372.6,
+    734.8
+   ],
+   "ocr": "Table 2: Occurrence of each histone modification in the most informative combinations found by the 100 HMM-SA runs. H4ac H3ac H3K4me1 H3K4me2 H3K4me3 H3 75 61 99 97 77 76 (Figure S1(E), see Additional file 5). In addition, examin- ing the probability density distribution of the three states in the promoters suggested that the HMM model also cap- tured the characteristics of the chromatin modification profiles. The probability density functions of the third state for H3K4me3 were peaked around 2.5 of ChIP-chip log ratio. The second state and the first state peaked at low ChIP-chip ratios with lower probability. This is indeed a bimodal pattern with higher ChIP-chip ratios on the downstream, which is consistent with the finding in the previous study [15]. Promoter prediction in the ENCODE regions We then applied our model to predicting promoters in the entire ENCODE regions of HeLa cells before and after treatment with IFN. We examined the classification per- formance of the HMM classifier by counting how many promoter predictions were supported by the annotated TSSs [19], CAGE tags [20] and active promoters [21]. We compared the results with the promoter predictions of Heintzman et al. They reported 198 and 208 TSS predic- tions in the untreated and IFN treated HeLa cells in the ENCODE regions [15]. Figure 3 plots the number of pre- dictions supported by the annotated TSSs against the total number of predictions by varying the cutoff c1 from 0.4 to 3.5 (see Methods). We observed the same number of pro- moter predictions as the profile-based method at the cut- off (c1) of 2.205 in the untreated HeLa cells, and at c1 = 2.1 in the treated cells (Table 4). We found that 77% and 73% of predictions by the HMM and the profile based method were common for the untreated and treated cell, respec- tively (Table 4). The HMM method (PPV = 189/198 = Table 3: Comparison of cross-validation results for predicting"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    95.7,
+    745.9,
+    672.8,
+    870.2
+   ],
+   "ocr": "Combination Promoter PPVa (standard deviation) Enhancer PPV (standard deviation)\nHMM method using 6 histone signaturesb 97.87% (1.06) 93.52%(1.83)\nHMM method using 2 histone signaturesc 95.46% (2.82) 94.06% (0.89)\nHeintzman et al. using 6 histone signatures 96% 78%\nHeintzman et al. using 2 histone signatures 95% 85%",
+   "table_id": "PMC2657164_table_2"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    72.4,
+    886.5,
+    388.2,
+    921.6
+   ],
+   "ocr": "aPositive predictive value (PPV) = true prediction/(true prediction + wrong b6 histone signatures: H4ac, H3ac, H3Kme1, H3K4me2, H3K4me3, H3 c2 histone signatures: H3Kme1, H3K4me3"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    391.1,
+    886.5,
+    598.9,
+    898.3
+   ],
+   "ocr": "prediction) and standard deviation are calculated."
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 7 of 18 (page number not for citation purposes)"
+  }
+ }
+}

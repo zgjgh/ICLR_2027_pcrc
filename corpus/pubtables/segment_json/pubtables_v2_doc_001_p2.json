@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_001",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    416.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Conveyor Evaluation and Selection Using Fuzzy AHP and Fuzzy ARAS"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    722.7,
+    126.4
+   ],
+   "ocr": "number of experts’ judgment needed to collect. So it is integrated with fuzzy ARAS to decrease the pairwise comparison matrices in determining the ranking of alternatives."
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    171.1,
+    727.3,
+    553.5
+   ],
+   "ocr": "Fuzzy sets and fuzzy numbers Fuzzy set theory was introduced in 1965 by Zadeh [51] to handle uncertainty due to imprecise or vague information. A fuzzy set A = {(x, μA(x)) | x X} is a set of ordered pairs, where X is a subset of the real numbers R and μA(x) is a membership function that assigns to each objective x a score ranging from zero to one [52]. Fuzzy set theory is integrated into the pairwise com- parison matrices of the AHP. Triangular fuzzy numbers (TFNs) are most commonly used to Aða; a; �aÞ. describe practical experts’ judgments and are represented as The parameters (a; a; �a) are the smallest, intermediate (i.e., the most promising), and largest values used in deﬁning the uncertain judgments. The fuzzy numbers used to evaluate a process in this study are described in Table 2. The general membership function of a TFN is determined as follows. 8 x <a > 0; > > > > < �aÞ=ða �aÞ; a x a ðx � � mðx=AÞ ¼ ð1Þ > ð�a xÞ=ð�a aÞ; a x �a � � � � > > > > : 0; x > �a For multi-criteria decision making, let X = {x1, x2,. . ., xn} be a set of criteria and g = {g1, g2,. . ., gn} be a set of alternatives; each alternative is identified over a set of criteria. Each crite- rion is then selected, and an extent analysis is employed for each alternative gi. Consequently, the value m of the extent analysis for each criterion is as follows: j A2 Am gi, i = 1,2,. .,n, where A giðj mÞ A1 are the TFNs."
+  },
+  "p2_b3": {
+   "type": "title",
+   "bbox": [
+    275.9,
+    531.7,
+    528.7,
+    553.5
+   ],
+   "ocr": "¼ gi; gi; . . . ; . 1; 2; . . . ;"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    252.5,
+    591.5,
+    380.5,
+    639.1
+   ],
+   "ocr": "Fuzzy AHP method Let A ð~aÞn�m"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    282.9,
+    616.2,
+    717.8,
+    639.1
+   ],
+   "ocr": "ðaij; aij; �aijÞ. The procedure ¼ ¼"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    331.9,
+    616.2,
+    569.6,
+    630.1
+   ],
+   "ocr": "be a fuzzy pairwise comparison matrix, where ~a"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    633.2,
+    727.1,
+    759.3
+   ],
+   "ocr": "for the fuzzy AHP algorithm was ﬁrst suggested by Chang [53, 54] and has been successfully applied in many ﬁelds. Several recent studies have used this procedure to determine criteria weights, such as Chen et al. [52], Prakash and Barua [55], Nguyen et al. [56, 57], Avikal et al. [58], Taylan et al. [59], Yi and Wang [60], Zhang and Deng et al. [61] and Bulut et al. [62]. For more details, Demirel et al. [63] also described the applications of fuzzy AHP and its variations. The steps of Chang's method [53] can be summarized as follows. Table 2. Linguistic scale for importance."
+  },
+  "p2_b8": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    768.1,
+    726.6,
+    877.9
+   ],
+   "ocr": "Linguistic scale for importance Triangular fuzzy scale\nJust equal (JE) (1,1,1)\nEqually important (EI) (1/2,1,3/2)\nWeakly more important (WMI) (1,3/2,2)\nStrongly more important (SMI) (3/2,2,5/2)\nVery strongly more important (VSMI) (2,5/2,3)\nAbsolutely more important (AMI) (5/2,3,7/2)",
+   "table_id": "PMC4829176_table_1"
+  },
+  "p2_b9": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0153222.t002"
+  },
+  "p2_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0153222 April 12, 2016 8 / 26"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_256",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    306.8,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Bayesian variable selection with graphical structure learning: Applications in integrative genomics"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    97.5,
+    727.3,
+    143.7
+   ],
+   "ocr": "Table 4. Graphical model estimation performance of the proposed method (BVS-SL) approach under different values of the belief parameter, in the case where the mixed covariates consist of continuous and binary variables, where the binary predictors are generated as in Eq (5) under logit and probit links. The results for differ- ent precision matrices structures as in Cases I(a)-(d), are presented in terms of specificity and sensitivity under the estimated graph, and the error in estimating the preci- sion matrix in terms of the Frobenius norm."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    152.3,
+    675.3,
+    480.6
+   ],
+   "ocr": "Method Link Sensitivity Specificity Fnorm\nCase I(a)\nBVS-SL(κ = 0) logit 1.00 0.778 3.678\nBVS-SL(κ = 50) logit 0.98 1.00 2.024\nBVS-SL(κ = 0) probit 1.00 0.775 3.678\nBVS-SL(κ = 50) probit 0.99 1.00 1.877\nCase I(b)\nBVS-SL(κ = 0) logit 0.99 0.79 3.711\nBVS-SL(κ = 50) logit 0.96 1.00 1.979\nBVS-SL(κ = 0) probit 0.99 0.79 3.687\nBVS-SL(κ = 50) probit 0.97 1.00 1.912\nCase I(c)\nBVS-SL(κ = 0) logit 0.60 0.78 5.98\nBVS-SL(κ = 50) logit 0.58 1.00 5.24\nBVS-SL(κ = 0) probit 0.59 0.78 6.06\nBVS-SL(κ = 50) probit 0.56 1.00 5.34\nCase I(d)\nBVS-SL(κ = 0) logit 0.63 0.76 5.87\nBVS-SL(κ = 50) logit 0.57 1.00 5.23\nBVS-SL(κ = 0) probit 0.66 0.77 5.78\nBVS-SL(κ = 50) probit 0.56 1.00 5.14",
+   "table_id": "PMC6066211_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    488.8,
+    236.2,
+    499.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195070.t004"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    530.5,
+    726.5,
+    887.9
+   ],
+   "ocr": "DNA copy number (CN) HG-CGH-244A (Agilent) arrays. All the resulting data from the three platforms are pre-processed, normalized and annotated to the gene level. We focus our analysis on 48 genes that overlap with the three critical signaling pathways—RTK/PI3K, p53, and Rb, which are involved in migration, survival and apoptosis progression of cell cycles in cancer [23]. These pathways are dominantly dis-regulated in GBMs, as confirmed by integra- tive analyses of TCGA GBM samples [35]. Furthermore, the activity of these pathways is seen to vary across molecular subtypes, suggesting potential for therapeutic targeting (via inhibition of receptor tyrosine kinase activity) and prognostic assessment [23]. Thus reconstructing the topology and connectivity of these genes and pathways and evaluating the downstream impact on GBM prognostic time can shed light into the underlying cellular and biological mecha- nisms involved in the evolution of the GBM disease process. Thus our covariate matrix con- sists of 48 genes mapped to these core pathways from D� = 3 platforms (mRNA, METH, CN) resulting in p = 48 × 3 = 144 regressors. Note that mRNA and METH are continuous, while CN is discrete having three categories corresponding to loss, gain, or neutral. The outcome is log-transformed survival times for 233 patients which is regressed on the covariates using an accelerated failure time model. Among 233 patients, 70 were censored, whose survival times were imputed using Kaplan-Meier imputation. Prior knowledge: The prior knowledge on the graphical structure between these 48 genes is based on previous studies in GBM [34], and is denoted as G0,pr (shown in panel (b) of Fig 1). This prior graph is obtained by assessing sequence mutations, copy number alterations and proteins and confirm and extend the observation that GBM alterations tend to occur within specific functional modules. The prior graph in our analysis comprises 144 nodes, across the 3"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195070 July 30, 2018 21 / 29"
+  }
+ }
+}

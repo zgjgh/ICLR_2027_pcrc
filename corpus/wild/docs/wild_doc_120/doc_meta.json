@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_120",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_132153_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    600.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_132153_t0.png",
+   "html": "<table><tr><td>Year</td><td>FleetSize</td></tr><tr><td>UtilizationRate</td><td>LeaseRate</td></tr><tr><td colspan=\"4\">FinancialRatios</td><td colspan=\"2\">MarketIndices</td></tr><tr><td>2019</td><td>1,500</td><td>85%</td><td>USD6,000</td><td>P/ERatio</td><td>CurrentRatio</td></tr><tr><td>2020</td><td>1,600</td><td>87%</td><td>USD6,500</td><td>15.2</td><td>1.5</td></tr><tr><td>2021</td><td>1,700</td><td>90%</td><td>USD7,000</td><td>16.0</td><td>1.6</td></tr><tr><td>2022</td><td>1,800</td><td>88%</td><td>USD7,200</td><td>17.5</td><td>1.4</td></tr><tr><td>2023</td><td>1,900</td><td>92%</td><td>USD7,800</td><td>18.0</td><td>1.5</td></tr></table>"
+  },
+  {
+   "table_id": "img_132251_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    343.0,
+    580.0,
+    512.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_132251_t0.png",
+   "html": "<table><tr><td>TradingVolume</td><td>CarbonCredits</td></tr><tr><td>TotalSales</td><td>UnitsSold</td></tr><tr><td>AveragePrice</td><td>PriceperUnit</td></tr><tr><td>RegionalBreakdown</td><td colspan=\"2\">Australia&amp;NZ</td></tr><tr><td>TotalCredits</td><td>CreditsSold</td><td>CreditsAvailable</td></tr><tr><td>Q12024</td><td>150,000</td><td>$12.50</td></tr><tr><td>Q12023</td><td>120,000</td><td>$10.00</td></tr><tr><td>GrowthRate</td><td>25%</td><td>MarketShare</td></tr></table>"
+  },
+  {
+   "table_id": "img_132372_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    352.0,
+    580.0,
+    521.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_132372_t0.png",
+   "html": "<table><tr><td>Metrics</td><td colspan=\"4\">CapacityUtilizationMetrics</td></tr><tr><td>TotalCapacity</td><td>UsedCapacity</td><td>UtilizationRatio</td><td colspan=\"2\">AverageUtilization</td><td>PeakUtilization</td></tr><tr><td>DataCenterCount</td><td>NewCenters</td><td>RetiredCenters</td><td>TotalArea(sqm)</td><td>UtilizationIndex</td><td colspan=\"3\">PowerEfficiencyMetrics</td></tr><tr><td>TotalPower(MW)</td><td>UsedPower(MW)</td><td>PowerUtilizationRatio</td><td>PUE</td><td>AveragePUE</td><td>PeakPUE</td><td>CoolingEfficiency</td><td>TotalRevenue</td></tr><tr><td>2000MW</td><td>1500MW</td><td>75.0%</td><td>70.0%</td><td>85.0%</td><td>10</td><td>2</td><td>1</td></tr><tr><td>50000</td><td>0</td><td>0</td><td>1.5</td><td>1.6</td><td>1.4</td><td>1.8</td><td>100MEUR</td></tr></table>"
+  },
+  {
+   "table_id": "img_132375_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    263.0,
+    580.0,
+    454.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_132375_t0.png",
+   "html": "<table><tr><td colspan=\"5\">LNGExportTerminalThroughput</td><td>2019-2024Trend</td><td>Currency:JPY</td></tr><tr><td>Year</td><td>CapacityUtilization</td><td>Throughput(MMt)</td><td>OperatingMargin</td><td>ExportGrowthRate</td><td>Debt/EquityRatio</td><td>P/ERatio</td></tr><tr><td>2019</td><td>85%</td><td>10.5</td><td>21%</td><td>3.5</td><td>15.0</td><td>12.3</td></tr><tr><td>2020</td><td>88%</td><td>11.0</td><td>22%</td><td>3.7</td><td>14.5</td><td>12.5</td></tr><tr><td>2021</td><td>90%</td><td>11.5</td><td>23%</td><td>3.6</td><td>14.0</td><td>12.8</td></tr><tr><td>2022</td><td>92%</td><td>12.0</td><td>24%</td><td>3.4</td><td>13.5</td><td>13.0</td></tr><tr><td>2023</td><td>94%</td><td>12.5</td><td>25%</td><td>3.2</td><td>12.0</td><td>13.2</td></tr><tr><td>2024</td><td>96%</td><td>13.0</td><td>26%</td><td>3.1</td><td>11.5</td><td>13.5</td></tr></table>"
+  },
+  {
+   "table_id": "img_132463_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    350.0,
+    580.0,
+    490.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_132463_t0.png",
+   "html": "<table><tr><td>Metrics</td><td colspan=\"2\">AudienceGrowth</td><td>TotalRevenue(KRW)</td></tr><tr><td>MonthlyActiveUsers</td><td colspan=\"2\">NetGrowth(%)</td><td>MarketShare(%)</td></tr><tr><td>Region</td><td colspan=\"2\">Asia-Pacific</td><td>YoYChange(%)</td></tr><tr><td>Q42023</td><td>12.5M</td><td>15.2%</td><td>30.5%</td></tr><tr><td>KRW85B</td><td>3.8%</td><td>4.5%</td><td>17.2%</td></tr><tr><td>KRW70B</td><td>5.0%</td><td>6.0%</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_132612_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    409.0,
+    580.0,
+    544.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_132612_t0.png",
+   "html": "<table><tr><td>Year</td><td>2020</td></tr><tr><td colspan=\"4\">WastewaterTreatmentMetrics</td><td>2021</td></tr><tr><td>2022</td><td>TotalVolume(m³)</td><td>NumberofPlants</td><td>OperationalEfficiency(%)</td><td>TotalCost(CAD)</td></tr><tr><td>2020</td><td>150000</td><td>25</td><td>85.5</td><td>$3M</td></tr><tr><td>2021</td><td>160000</td><td>26</td><td>87.0</td><td>$3.2M</td></tr><tr><td>2022</td><td>175000</td><td>27</td><td>89.5</td><td>$3.5M</td></tr></table>"
+  },
+  {
+   "table_id": "img_132749_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    179.0,
+    580.0,
+    516.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_132749_t0.png",
+   "html": "<table><tr><td>MineSite</td><td>TotalReserves</td><td>TotalResources</td><td>OreProduction</td></tr><tr><td>GoldReserves</td><td>MillionOunces</td><td>CopperReserves</td><td>MillionPounds</td></tr><tr><td>SilverReserves</td><td>MillionOunces</td><td>TotalTonnes</td><td colspan=\"2\">OperationsOverview</td></tr><tr><td>NorthAmerica</td><td>SouthAmerica</td><td>TotalSites</td><td colspan=\"2\">4</td><td colspan=\"4\">ProductionSummary</td></tr><tr><td>GoldProduced</td><td>Ounces</td><td>CopperProduced</td><td>Pounds</td><td>SilverProduced</td><td>Ounces</td><td>TotalRevenue</td><td>USD</td><td>TotalExpenses</td></tr><tr><td>500</td><td>2,500</td><td>1,000</td><td>1,200</td><td>750</td><td>3,000</td><td>5,000</td><td>USD</td><td>ExpensesOverview</td></tr><tr><td>LaborCosts</td><td>USD</td><td>OperationalCosts</td><td>USD</td><td>MaintenanceCosts</td><td>USD</td><td>ExplorationCosts</td><td>USD</td><td>TotalCosts</td></tr><tr><td>250</td><td>150</td><td>100</td><td>50</td><td>500</td><td>350</td><td>200</td><td>1,000</td><td>NetProfit</td></tr></table>"
+  },
+  {
+   "table_id": "img_132779_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    212.0,
+    580.0,
+    543.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_132779_t0.png",
+   "html": "<table><tr><td colspan=\"3\">SpaceLaunchManifest</td><td>LaunchesbyYear</td><td>TotalRevenue</td><td>MarketTrends</td></tr><tr><td>Year</td><td>LaunchCount</td><td>Amount(JPY)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>Forecast</td></tr><tr><td>2019</td><td>15</td><td>120000M</td><td>N/A</td><td>45</td><td>Stable</td></tr><tr><td>2020</td><td>18</td><td>130000M</td><td>8.33</td><td>46</td><td>Growing</td></tr><tr><td>2021</td><td>22</td><td>140000M</td><td>7.69</td><td>47</td><td>Increasing</td></tr><tr><td>2022</td><td>25</td><td>150000M</td><td>7.14</td><td>48</td><td>Positive</td></tr><tr><td>2023</td><td>30</td><td>160000M</td><td>6.67</td><td>49</td><td>Optimistic</td></tr><tr><td>2024</td><td>35</td><td>170000M</td><td>6.25</td><td>50</td><td>ProjectingGrowth</td></tr></table>"
+  },
+  {
+   "table_id": "img_132913_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    254.0,
+    580.0,
+    465.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_132913_t0.png",
+   "html": "<table><tr><td>Year</td><td>Tier1Ratio</td><td>TotalCapitalRatio</td><td>LeverageRatio</td><td colspan=\"2\">LiquidityMetrics</td></tr><tr><td>2019</td><td>12.5%</td><td>15.3%</td><td>5.2%</td><td>CurrentRatio</td><td>150.0%</td></tr><tr><td>2020</td><td>13.0%</td><td>15.5%</td><td>5.5%</td><td>CurrentRatio</td><td>155.0%</td></tr><tr><td>2021</td><td>13.5%</td><td>16.0%</td><td>5.8%</td><td>CurrentRatio</td><td>160.0%</td></tr><tr><td>2022</td><td>14.0%</td><td>16.5%</td><td>6.0%</td><td>CurrentRatio</td><td>165.0%</td></tr><tr><td>2023</td><td>14.5%</td><td>17.0%</td><td>6.2%</td><td>CurrentRatio</td><td>170.0%</td></tr></table>"
+  },
+  {
+   "table_id": "img_132937_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    396.0,
+    580.0,
+    545.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_132937_t0.png",
+   "html": "<table><tr><td>Revenue</td><td>¥2000M</td></tr><tr><td>OperatingCosts</td><td>¥1500M</td></tr><tr><td colspan=\"2\">ProfitMetrics</td><td colspan=\"2\">MarketAnalysis</td></tr><tr><td>NetProfit</td><td>¥500M</td><td>YoYChange(%)</td><td>10%</td></tr><tr><td>AveragePrice</td><td>¥80/bbl</td><td>MarketShare(%)</td><td>25%</td></tr><tr><td>ProductionVolume</td><td>25Mbbl</td><td>PriceSensitivity</td><td>5%</td></tr></table>"
+  }
+ ]
+}

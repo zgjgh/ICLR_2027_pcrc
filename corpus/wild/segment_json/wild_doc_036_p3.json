@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_036",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    140
+   ],
+   "ocr": "The data presented in the table provides a comprehensive analysis of the SAPS II score at ICU admission across various postoperative metrics. Specifically, the comparison of preoperative and postoperative values offers insights into the patients' physiological status and the implications for their recovery trajectory. Notably, the univariate analysis delineates a significant difference in the Acute Hypoxemia Index (AHI) between preoperative and postoperative measurements, with values recorded at 31 ev/h and 12 ev/h, respectively. This variation underscores the impact of surgical intervention on respiratory function, highlighting the critical role of monitoring these parameters in the postoperative setting."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    128,
+    580,
+    232
+   ],
+   "ocr": "Moreover, the multivariable analysis further elucidates the relationship between the SAPS II score and patient outcomes, revealing a p-value of 0.05, which indicates a statistically significant correlation. This finding suggests that as the SAPS II score increases, there is a corresponding effect on postoperative recovery metrics. Collectively, these results emphasize the necessity of both preoperative assessments and postoperative surveillance, as they are pivotal in guiding clinical decision-making and optimizing patient care in the ICU environment. The trends illustrated in the table warrant further investigation to enhance our understanding of patient outcomes following surgical interventions."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    250.0,
+    580.0,
+    391.0
+   ],
+   "ocr": "Variable Hazard ratio (95 % CI), p value\nUnivariate Multivariable\nSAPS II score at ICU admission 1.02 (1.00–1.03), p = 0.05 I/NR\nAge 1.02 (0.99–1.05), p = 0.23 I/NR\nSeptic myocardial dysfunction 1.40 (0.68–2.92), p = 0.36 I/NR\nRenal SOFA 1.28 (1.02–1.60), p = 0.03 1.29 (1.03 1.62), p = 0.03\nNon-renal SOFA 0.99 (0.90–1.11), p = 0.97 I/NR",
+   "table_id": "img_040363_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    406.0,
+    580.0,
+    591.0
+   ],
+   "ocr": "Median Lower quartile Upper quartile Gain\nPreoperative Postoperative Preoperative Postoperative Preoperative Postoperative\nAHI (ev/h) 31 12 21 6 44 25 −19 (P < 0.05)\nESS 10 8 8 6 12 9 −2 (P < 0.05)\nNOH N3O4cH3t N0O1cH1t N2O3cH2t N0O0H0 N3O4cH3t N0O1cH1t −N3O3cH2t (P < 0.05)\nBMI (Kg/m2) 27.8 27.5 26.5 26.0 29.4 29.0 0 (P > 0.05)\nFollowup (mo) 9 mo 7 mo 14 mo /",
+   "table_id": "img_040363_t1"
+  }
+ }
+}

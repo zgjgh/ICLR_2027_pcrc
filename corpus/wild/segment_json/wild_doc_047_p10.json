@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_047",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    99,
+    580,
+    157
+   ],
+   "ocr": "The data presented in Table 1 offers a comprehensive overview of the comparative analysis of the AST (aspartate aminotransferase) levels measured across different testing conditions. Specifically, the table delineates results from three distinct groups: Sham, BDL, and Test Order, highlighting the variations in biochemical markers as measured by the reference instrument."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    145,
+    580,
+    173
+   ],
+   "ocr": "Notably, the AST levels in the Sham group were recorded at 87.2 ± 8.3 mU/mL, which serves as a baseline for evaluating the effects of the BDL condition, where AST levels significantly increased to 647.7 ± 105 mU/mL."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    217.0,
+    580.0,
+    344.0
+   ],
+   "ocr": "Sham BDL\nAST (mU/mL) 87,2 ± 8,3 647,7 ± 105*\nALT (mU/mL) 35,1 ± 2,5 308,3 ± 45*\nAlcaline phosphatase (mU/mL) 264,5 ± 15 333,8 ± 33*\nTotal bilirubin (mg/dL) 0,08 ± 0,02 8,8 ± 0,13*\nDirect bilirubin (mg/dL) 0,05 ± 0,01 7,04 ± 0,1*",
+   "table_id": "img_053121_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    385.0,
+    580.0,
+    486.0
+   ],
+   "ocr": "Test Order Instrument Execution\n1 Reference instrument Mouthpiece\n2 Prototype Mouthpiece\n3 Prototype 3 cm distance\n4 Prototype 15 cm distance",
+   "table_id": "img_053121_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    525.0,
+    580.0,
+    652.0
+   ],
+   "ocr": "Translation Rotation (degree)\nTx Ty Tz diff θx θy θz diff\nAnswer 20.0 10.0 2.0 — 0.0 0.0 120.0 —\nGA −2.6 −13.3 −0.01 10.84 44.93 45.25 149.49 23.42\nPSO −4.84 −9.95 0.09 10.64 53.41 60.39 120.27 26.87\nHPSO 20.04 11.16 1.75 0.40 −0.25 −0.48 117.57 0.83",
+   "table_id": "img_053121_t2"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    747
+   ],
+   "ocr": "This stark contrast underscores the potential impact of the BDL treatment on liver function, as indicated by the marked elevation in enzyme activity. Additionally, the execution of tests using the mouthpiece instrument allows for the precise assessment of the AST metrics, facilitating further exploration of the physiological implications represented by the differential values observed in the Tx, Ty, and Tz columns."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    735,
+    580,
+    763
+   ],
+   "ocr": "This analysis not only reinforces the importance of accurate measurement techniques but also provides critical insights into the biochemical processes underlying liver pathology."
+  }
+ }
+}

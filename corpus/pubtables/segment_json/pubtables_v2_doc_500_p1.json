@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_500",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    258.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "DCE-MRI for Pre-Treatment Prediction and Post-Treatment Assessment of Treatment Response in HNSCC"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    90.4,
+    723.4,
+    114.3
+   ],
+   "ocr": "Table 1. Pre-treatment mean DCE, volumes and clinical parameters in 83 SCC sites (primary plus nodal) correlated with SF or SC at the same site, based on a minimum of 2 year clinical follow-up."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    122.9,
+    722.3,
+    596.6
+   ],
+   "ocr": "Parameter Pre-treatment Pre-treatment SCC Pre-treatment SCC p-value comparing SCC Odds 95% CI\nParameters for all sites with Site sites with Site sites with SF & SC using Ratio for OR\nSCC sites Failure (SF) Control (SC) Logistic Regression (OR)\nn = 83 n = 29 n = 54\nKtrans (min-1) 0.37 ± 0.19 0.33 ± 0.14 0.39 ± 0.21 0.212 0.195 0.015–\n2.544\nkep (min-1) 0.67 ± 0.30 0.64 ± 0.25 0.68 ± 0.32 0.575 0.642 0.136–\n3.024\nve 0.56 ± 0.21 0.53 ± 0.17 0.58 ± 0.23 0.319 0.327 0.036–\n2.941\nAUGC\n(mM�s)\n2.38 ± 0.79 2.15 ± 0.70 2.50 ± 0.81 0.063 0.555 0.299–\n1.032\nVolume (cm3) 4.35 ± 5.63 5.19 ± 7.11 3.90 ± 4.65 0.327 1.040 0.961–\n1.126\nAge 61.3 ± 8.8 62.4 ± 8.7 60.6 ± 8.9 0.385 1.023 0.972–\n1.078\nSex Male 74 27 47 0.404 2.011 0.390–\n(compared to 10.378\nfemale)\nT Stage T3/4 57 20 37 0.967 1.021 0.385–\n(compared to T1/2) 2.704\nN Stage N2/3 68 24 44 0.156 2.404 0.715–\n(compared to N0/ 8.076\nN1)\nSite Primary site 43 16 27 0.653 1.231 0.498–\n(compared to nodal 3.044\nsite)\nTreatment 0.174 0.546 0.229–\n1.305\n1. RT 6 2 4\n2. CRT without 56 23 33\ninduction CRT\n3. Induction chemo 21 4 17\nCRT",
+   "table_id": "PMC4684338_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    609.3,
+    727.3,
+    898.4
+   ],
+   "ocr": "± Standard deviation. doi:10.1371/journal.pone.0144770.t001 clinical parameters showed no significant differences between residual masses with SC and SF. Multivariate analysis of significant post-treatment parameters (kep, AUGC and the % change in AUGC) found the % change in AUGC remained significant (p = 0.015; OR 1.021; 95% CI for OR 1.004–1.039) and when the model was adjusted for the size and confounding factors, the % change in AUGC was still significant (p = 0.021; Adjusted OR 1.024; 95% CI for adjusted OR 1.003–1.044). Receiver-operating characteristics analysis (Fig 4) produced an area under the curve of 0.77 (95% CI = 0.594–0.940) and when using a > 19.78% increase in AUGC to pre- dict a SF residual mass produced a diagnostic performance which is shown in Table 4. When the primary and nodal residual mass sites were analyzed separately the DCE parameters and volumes of these sites showed no correlation with treatment outcome (Table 5). Discussion In this study none of the pre-treatment DCE-MRI parameters obtained from SCC sites in the head and neck were predictors of treatment response at the same SCC site based on clinical"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0144770 December 10, 2015 6 / 15"
+  }
+ }
+}

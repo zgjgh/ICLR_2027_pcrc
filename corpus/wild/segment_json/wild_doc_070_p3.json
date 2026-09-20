@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_070",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    100,
+    580,
+    143
+   ],
+   "ocr": "The following table presents a comprehensive analysis of treatment effects, specifically log odds ratios for self-help interventions compared to no intervention, as reported by Yang in 2013. The data is categorized based on various metrics, highlighting the mean and standard deviation (SD) for different treatment groups."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    131,
+    580,
+    174
+   ],
+   "ocr": "Notably, the mean log odds ratio for the intervention group is presented alongside its SD, providing insight into the efficacy of self-help strategies in improving patient outcomes."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    209.0,
+    580.0,
+    399.0
+   ],
+   "ocr": "Model results Treatment Contrast‐based fixed treatment effects (Contrast‐FE) Arm‐based fixed treatment effects (Arm‐FE) Arm FE‐base treatment shift parameterization\nMean SD Mean SD Mean SD\nTreatment effects (log odds ratios vs. no intervention) Self‐help 0.25 0.13 0.25 0.13 0.25 0.13\nIndividual counselling 0.75 0.06 0.75 0.06 0.75 0.06\nGroup counselling 1.02 0.21 1.02 0.21 1.01 0.21\nDeviance 460.0 7.2 460.0 7.1 460.0 7.2\nDIC 485.0 485.0 485.0",
+   "table_id": "img_078283_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    425.0,
+    580.0,
+    456.0
+   ],
+   "ocr": "The analysis further distinguishes between various subgroups, including N0, N1, and tumor stages I/II and III/IV, allowing for a nuanced understanding of treatment effects across different cancer classifications."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    488.0,
+    580.0,
+    649.0
+   ],
+   "ocr": "Study Year Cases (positive/high 5-hmC) Cases (negative/low 5-hmC)\nTotal N0 N1 I/II III/IV G1/2 G3/4 Total N0 N1 I/II III/IV G1/2 G3/4\nYang 2013 50 27 23 30 20 25 25 58 15 43 13 45 27 31\nLiu 2014 159 NR NR NR NR 115 44 159 NR NR NR NR 129 30\nMurata 2015 48/46 14 34 19 27 43 5 47/46 16 31 20 26 32 15\nZhang 2015 34 18 16 23 11 30 4 96 29 67 34 62 67 29\nDong 2015 20 19 1 18 2 9 11 103 74 29 68 35 52 51\nZhang 2016 43 32 11 NR NR 35 8 97 55 42 NR NR 56 41",
+   "table_id": "img_078283_t1"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    717
+   ],
+   "ocr": "The reported mean log odds ratios, with values of 0.25 for both N0 and N1 groups, suggest a consistent benefit of self-help interventions across early-stage cancers. Furthermore, the standard deviations indicate the variability of outcomes within each subgroup, which is crucial for assessing the reliability of these findings."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    747
+   ],
+   "ocr": "Overall, the data emphasizes the potential of self-help strategies to enhance treatment efficacy, warranting further investigation into their application across diverse patient populations and clinical settings."
+  }
+ }
+}

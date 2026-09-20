@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_475",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    538.3,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Stream Vulnerability to Emergent Stressors"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.5,
+    726.4,
+    131.3
+   ],
+   "ocr": "Table 4. Average HUC12 percent change (%Δ, overall average sensitivity or exposure-sensitivity or exposure with variable removed *100) and the standard deviation (stdev) in change. Removing a variable from the overall scoring always reduced catchment sensitivity or exposure values (see Methods)."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    140.1,
+    726.6,
+    492.4
+   ],
+   "ocr": "All plays Bakken Barnett Fayetteville Hilliard Marcellus Mowry\n%Δ SD %Δ SD %Δ SD %Δ SD %Δ SD %Δ SD %Δ SD\nSensitivity metric removed\nPrecipitation (mm) 14 6 20 3 16 2 6 1 19 3 11 4 20 3\n1\n% Forest/Grassland 16 5 12 3 17 5 15 5 19 4 17 5 20 3\n% Wetlands2 18 10 21 6 13 7 20 6 12 7 18 11 15 4\nStream density (km/km2) 16 5 15 5 13 4 19 5 11 6 18 4 14 4\nMean slope (degrees) 17 6 11 2 11 1 17 5 14 4 21 6 11 2\nSoil erodibility (kfactor) 16 5 16 5 13 3 17 5 11 3 18 5 13 4\nProportion of unconsolidated sediment 6 9 8 9 17 8 8 10 15 8 1 4 9 8\nExposure variables\nall UOG metrics 6 11 5 9 6 9 13 15 8 12 6 11 8 11\nWell density (non-vertical, wells/km2) 4 8 3 8 4 7 7 10 5 10 3 7 5 9\nMean distance of non-vertical wells to ﬂowlines (m) 2 5 2 5 2 5 6 9 3 7 2 5 4 8\nWell density (vertical, wells/km2) 8 10 4 7 7 10 10 11 12 14 8 9 11 11\nMean distance of vertical wells to ﬂowlines (m) 7 9 4 9 7 10 8 9 12 14 7 8 11 12\nRoad density (km/km2) 19 7 18 6 17 7 13 7 20 10 19 6 19 11\nMine density (#/km2) 7 11 3 8 3 8 10 10 14 16 7 10 13 12\nDam density (#/km) 10 11 7 11 16 12 10 10 5 10 10 11 13 12\n% Cultivated crops 12 7 12 8 11 7 15 4 9 10 14 5 6 7\n% Impervious surface3 15 6 16 5 16 6 13 4 19 10 14 5 15 7\n4\n% Pasture 17 11 30 10 17 9 10 8 1 4 16 7 5 7",
+   "table_id": "PMC4580492_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    503.8,
+    216.4,
+    584.9
+   ],
+   "ocr": "1(NLCD class 41 + 42 + 43 + 52 + 71). 2(NLCD class 90 + 95). 3(NLCD class 81). 4(NLCD class 82). doi:10.1371/journal.pone.0137416.t004"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    624.7,
+    727.2,
+    898.4
+   ],
+   "ocr": "We also ranked exposure of all HUC12s by UOG activities by calculating total exposure only defined by UOG well density and well proximity to flowlines. UOG-only exposure scores were then multiplied by companion sensitivity scores to generate UOG-only vulnerability ranks. UOG-only exposure scores were consistently high due to density of UOG wells in catch- ments where activity was present and from differences in well proximity to flowlines (Fig 6). UOG-specific vulnerability varied more within plays due to differences in HUC12 sensitivity to disturbances (Fig 7). All HUC12 environmental values are provided in S3 Table. Bakken Vertical well densities were lower in the Bakken than the across-play average (mean = 0.02 ver- sus 0.14 wells km-2, respectively), but non-vertical (0.07 wells km-2) densities were greater than the across-play average (0.06 wells km-2). Despite the intensity of oil and gas development over the last 5 years, wells tended to be set farther back from NHD flowlines (mean 718.6 m for unconventional and 797.4 m for vertical) and spaced farther apart than in other plays. This region has a low annual mean precipitation (404 mm per year) and a relatively high density of streams (0.9 km km-2), wetlands (3.5%), and unconsolidated sediment (7.5%). Extensive and"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0137416 September 23, 2015 11 / 28"
+  }
+ }
+}

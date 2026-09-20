@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_013",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    81.0
+   ],
+   "ocr": "In the analysis of biomarkers, the table presents data categorized into two primary sections: PCT (μg/L) and hsCRP (mg/L), detailing various thresholds with corresponding metrics."
+  },
+  "p6_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    327.0
+   ],
+   "ocr": "N (%) Sensitivity Specificity LR + LR -\nPCT (μg/L)\n> 0.1 406 (75) 0.90 0.59 2.22 0.16\n> 0.25 300 (55) 0.74 0.85 4.87 0.31\n> 0.5 225 (41) 0.57 0.93 8.21 0.46\n> 1.0 167 (31) 0.43 0.96 10.57 0.59\nhsCRP (mg/L) N (%) Sensitivity Specificity LR + LR -\n> 40 413 (76) 0.89 0.52 1.86 0.22\n> 50 384 (70) 0.87 0.65 2.44 0.21\n> 100 281 (52) 0.69 0.86 4.94 0.36\n> 200 141 (26) 0.36 0.96 8.83 0.67",
+   "table_id": "img_013000_t0"
+  },
+  "p6_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    343,
+    580,
+    416
+   ],
+   "ocr": "For PCT, the thresholds and respective values are as follows: for PCT > 0.1, the sample size is 406 (75%), with sensitivity at 0.90, specificity at 0.59, likelihood ratio positive (LR +) at 2.22, and likelihood ratio negative (LR -) at 0.16; for PCT > 0.25, the sample size is 300 (55%), sensitivity is 0.74, specificity is 0.85, LR + is 4.87, and LR - is 0.31; for PCT > 0.5, the sample size is 225 (41%), sensitivity is 0.57, specificity is 0.93, LR + is 8.21, and LR - is 0.46; finally, for PCT > 1.0, the sample size is 167 (31%), with sensitivity at 0.43, specificity at 0.96, LR + at 10.57, and LR - at 0.59."
+  },
+  "p6_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    404,
+    580,
+    478
+   ],
+   "ocr": "The hsCRP analysis shows: for hsCRP > 40, the sample size is 413 (76%), sensitivity is 0.89, specificity is 0.52, LR + is 1.86, and LR - is 0.22; for hsCRP > 50, the sample size is 384 (70%), sensitivity is 0.87, specificity is 0.65, LR + is 2.44, and LR - is 0.21; for hsCRP > 100, the sample size is 281 (52%), sensitivity is 0.69, specificity is 0.86, LR + is 4.94, and LR - is 0.36; for hsCRP > 200, the sample size is 141 (26%), sensitivity is 0.36, specificity is 0.96, LR + is 8.83, and LR - is 0.67."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_004",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    471.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Accurate and Robust Classifier for Expression Recognition"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    539.6,
+    107.4
+   ],
+   "ocr": "Table 6. Recognition rate of the proposed FER system using AFEW dataset of facial expressions (Unit: %)."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    114.2,
+    694.0,
+    236.6
+   ],
+   "ocr": "Expressions Happy Anger Sad Surprise Fear Disgust\nHappy 93 3 1 0 2 1\nAnger 1 96 1 1 0 1\nSad 1 2 91 1 2 3\nSurprise 0 1 0 98 0 1\nFear 0 0 2 1 96 1\nDisgust 1 0 2 0 2 95\nAverage 94.83",
+   "table_id": "PMC5026367_table_5"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    244.1,
+    186.2,
+    255.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0162702.t006"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    106.1,
+    834.8,
+    708.6,
+    878.1
+   ],
+   "ocr": "Fig 9. 3D-feature plot of the proposed FER system for the six facial expressions using AFEW dataset. It can be seen that the system clearly classified the expressions classes. doi:10.1371/journal.pone.0162702.g009"
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0162702 September 16, 2016 16 / 23"
+  }
+ }
+}

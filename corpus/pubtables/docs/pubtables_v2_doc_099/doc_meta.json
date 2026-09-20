@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_099",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2257937_table_0",
+   "page_num": 1,
+   "bbox": [
+    82.9,
+    737.5,
+    672.0,
+    898.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2257937_table_0.png",
+   "html": "<table><tr><td rowspan=\"3\">SSR types</td><td colspan=\"2\">Intergenic region (21.7 Mb)</td><td colspan=\"4\">Genic region (17.4 Mb)</td><td colspan=\"2\">Total (39.2 Mb)</td></tr><tr><td rowspan=\"2\">Count</td><td rowspan=\"2\">RAa</td><td colspan=\"2\">Exon (14.7 Mb)</td><td colspan=\"2\">Intron (2.7 Mb)</td><td rowspan=\"2\">Count</td><td rowspan=\"2\">RAa</td></tr><tr><td>Count</td><td>RAa</td><td>Count</td><td>RAa</td></tr><tr><td>Mono</td><td>835</td><td>38.4</td><td>3</td><td>0.2</td><td>152</td><td>56.3</td><td>990</td><td>25.3</td></tr><tr><td>Di</td><td>167</td><td>7.7</td><td>1</td><td>0.1</td><td>22</td><td>8.1</td><td>191</td><td>4.9</td></tr><tr><td>Tri</td><td>414</td><td>19.1</td><td>591</td><td>40.2</td><td>64</td><td>23.7</td><td>1084</td><td>27.7</td></tr><tr><td>Tetra</td><td>213</td><td>9.8</td><td>1</td><td>0.1</td><td>22</td><td>8.1</td><td>243</td><td>6.2</td></tr><tr><td>Penta</td><td>73</td><td>3.4</td><td>1</td><td>0.1</td><td>7</td><td>2.6</td><td>82</td><td>2.1</td></tr><tr><td>Hexa</td><td>84</td><td>3.9</td><td>64</td><td>4.4</td><td>7</td><td>2.6</td><td>159</td><td>4.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2257937_table_1",
+   "page_num": 2,
+   "bbox": [
+    78.5,
+    819.4,
+    679.1,
+    911.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2257937_table_1.png",
+   "html": "<table><tr><td>Effect</td><td>Number of Parameters</td><td>Change in Deviance</td><td>Residual DF</td><td>Residual Deviance</td></tr><tr><td>Null (&#945; only)</td><td>1</td><td></td><td>265</td><td>2396.08</td></tr><tr><td>SSR type (T)</td><td>18</td><td>1504.79</td><td>247</td><td>891.30</td></tr><tr><td>Chromosome (C)</td><td>6</td><td>14.53</td><td>241</td><td>876.77</td></tr><tr><td>Genomic location (G)</td><td>1</td><td>43.98</td><td>240</td><td>832.79</td></tr><tr><td>Interaction (T &#215; G)</td><td>18</td><td>604.00</td><td>222</td><td>228.79</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2257937_table_2",
+   "page_num": 3,
+   "bbox": [
+    88.1,
+    845.3,
+    679.1,
+    911.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2257937_table_2.png",
+   "html": "<table><tr><td>Effect</td><td>Number of Parameters</td><td>Change in Deviance</td><td>Residual DF</td><td>Residual Deviance</td></tr><tr><td>Null (&#945; only)</td><td>1</td><td></td><td>55</td><td>1130.89</td></tr><tr><td>SSR type (T)</td><td>7</td><td>1085.14</td><td>48</td><td>45.75</td></tr><tr><td>Chromosome (C)</td><td>6</td><td>8.89</td><td>42</td><td>36.86</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2257937_table_3",
+   "page_num": 4,
+   "bbox": [
+    76.7,
+    129.9,
+    679.1,
+    222.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2257937_table_3.png",
+   "html": "<table><tr><td>Effect</td><td>Number of Parameters</td><td>Change in Deviance</td><td>Residual DF</td><td>Residual Deviance</td></tr><tr><td>Null (&#945; only)</td><td>1</td><td></td><td>153</td><td>409.70</td></tr><tr><td>SSR type (T)</td><td>10</td><td>68.05</td><td>143</td><td>341.65</td></tr><tr><td>Chromosome (C)</td><td>6</td><td>10.37</td><td>137</td><td>331.28</td></tr><tr><td>Genomic category (G)</td><td>1</td><td>150.92</td><td>136</td><td>180.00</td></tr><tr><td>Interaction (T &#215; G)</td><td>10</td><td>47.68</td><td>126</td><td>132.31</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2257937_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.5,
+    705.4,
+    673.3,
+    898.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2257937_table_4.png",
+   "html": "<table><tr><td>SSR</td><td>Genic</td><td>Intergenic</td><td>Diff.</td><td>Std.err</td><td>Z-value</td><td>P-value</td></tr><tr><td>AAC/ACA/CAA</td><td>1.689</td><td>0.335</td><td>1.354</td><td>0.216</td><td>6.280</td><td>0.000***</td></tr><tr><td>AAG/AGA/ GAA</td><td>0.683</td><td>0.370</td><td>0.312</td><td>0.253</td><td>1.236</td><td>0.216</td></tr><tr><td>ACC/CCA/CAC</td><td>0.590</td><td>0.335</td><td>0.255</td><td>0.261</td><td>0.979</td><td>0.328</td></tr><tr><td>AGC/GCA/CAG</td><td>1.405</td><td>0.094</td><td>1.311</td><td>0.244</td><td>5.363</td><td>0.000***</td></tr><tr><td>AGG/GGA/ GAG</td><td>1.182</td><td>0.047</td><td>1.134</td><td>0.256</td><td>4.433</td><td>0.000***</td></tr><tr><td>ATG/TGA/GAT</td><td>0.247</td><td>0.222</td><td>0.026</td><td>0.292</td><td>0.088</td><td>0.930</td></tr><tr><td>CCT/CTC/TCC</td><td>1.164</td><td>0.047</td><td>1.116</td><td>0.257</td><td>4.352</td><td>0.000***</td></tr><tr><td>CTT/TTC/TCT</td><td>0.557</td><td>0.437</td><td>0.121</td><td>0.256</td><td>0.471</td><td>0.638</td></tr><tr><td>GCT/CTG/TGC</td><td>1.474</td><td>0.047</td><td>1.426</td><td>0.247</td><td>5.778</td><td>0.000***</td></tr><tr><td>GGT/GTG/TGG</td><td>1.068</td><td>0.640</td><td>0.428</td><td>0.215</td><td>1.988</td><td>0.047*</td></tr><tr><td>GTT/TTG/TGT</td><td>1.538</td><td>0.558</td><td>0.980</td><td>0.202</td><td>4.836</td><td>0.000***</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2257937_table_5",
+   "page_num": 5,
+   "bbox": [
+    78.6,
+    819.6,
+    662.8,
+    911.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2257937_table_5.png",
+   "html": "<table><tr><td>Source</td><td>DF</td><td>Sum Sq</td><td>Mean Sq</td><td>F-statistic</td><td>P-value</td></tr><tr><td>Strain</td><td>6</td><td>9.0540</td><td>1.5090</td><td>14.5277</td><td>&lt;0.0001</td></tr><tr><td>Marker</td><td>32</td><td>25.8884</td><td>0.8090</td><td>7.7887</td><td>&lt;0.0001</td></tr><tr><td>First Component</td><td>37</td><td>9.0534</td><td>0.2447</td><td>2.3557</td><td>0.0003</td></tr><tr><td>Second Component</td><td>35</td><td>7.9603</td><td>0.2274</td><td>2.0713</td><td>0.0009</td></tr><tr><td>Residual</td><td>120</td><td>12.4644</td><td>0.1039</td><td></td><td></td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_048",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    110,
+    580,
+    137
+   ],
+   "ocr": "The following table presents a comprehensive analysis of genetic variations associated with three distinct cardiovascular conditions: myocardial infarction (MI), congestive heart failure (CHF), and chronic renal impairment (CRI)."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    125,
+    580,
+    153
+   ],
+   "ocr": "Each condition is represented by a sample size of 20 participants, allowing for a robust comparison of genetic markers across these populations."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    191.0,
+    580.0,
+    317.0
+   ],
+   "ocr": "VARIABLES MI (n = 20) CHF (n = 20) CRI (n = 20)\nT3 (n mol/L) 0.63 ± 0.13 (70%) 1.07 ± 0.47 (35%) 1.14 ± 0.57 (40%)\nT4 (n mol/L) 75.65 ± 37.57 (70%) 70.85 ± 22.68 (25%) 78.2 ± 23.47 (45%)\nTSH (μIU/L) 1.23 ± 0.63 (72%) 0.96 ± 0.32 (18%) 1.04 ± 0.54 (26%)\nIL-6 (ng/L) 192.55 ± 15.12 82.95 ± 18.90 40.50 ± 14.38\nIL-10 (ng/L) 122.95 ± 46.06 69.05 ± 44.04 30.4 ± 10.57",
+   "table_id": "img_053192_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    481.0
+   ],
+   "ocr": "Gene Forward primer (5' to 3') Reverse primer (5' to 3') Product length (bp)\nIL-13Rα1 atctcacccccagaaggtgat cgggactggtattccttc 119\nIL-13Rα2 cctttgccgccagtctatctta tcaaaacaccttgctggaatagg 108\nIL-4Rα gctatgtcagcatcaccaagattaa cccctgagcatcctggattat 101\nSOCS-1 ggaactgctttttcgccctta agcagctcgaagaggcagtc 127\nSOCS-3 gtccccccagaagagcctatta ttgacggtcttccgacagagat 118",
+   "table_id": "img_053192_t1"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    523.0,
+    580.0,
+    645.0
+   ],
+   "ocr": "Name Haplotype Frequency Raw P value Corrected P value\n1 AGCCGTCCCTTG 0.431 0.956 1\n2 GAACATTGCGTA 0.351 0.262 0.7261\n3 AGCTGGCCTTCG 0.100 0.00153 0.009599\n4 GGACAGCCTTCG 0.041 0.0644 0.2626\n5 GAACATTGCTTA 0.062 0.223 0.659",
+   "table_id": "img_053192_t2"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    673,
+    580,
+    716
+   ],
+   "ocr": "Notably, the table features essential columns such as \"Haplotype\" and \"Frequency,\" which provide insights into the prevalence of specific genetic sequences relevant to each condition. For instance, the haplotype associated with IL-13Rα1 reveals a frequency of 70% in the MI group, indicating a potential genetic predisposition that warrants further investigation."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "Additionally, the data highlights variations in T3 levels across the three conditions, with mean values of 0.63 ± 0.13 nmol/L for MI, 1.07 ± 0.47 nmol/L for CHF, and 1.14 ± 0.57 nmol/L for CRI. This variation underscores the interplay between genetic factors and thyroid function in cardiovascular pathology, suggesting valuable avenues for future research and therapeutic interventions."
+  }
+ }
+}

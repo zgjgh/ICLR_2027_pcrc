@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_236",
+  "page": 2,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.3,
+    278.6,
+    51.8
+   ],
+   "ocr": "Saka et al. BMC Genomics 2017, 18(Suppl 10):875"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 3 of 88"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.1,
+    592.6
+   ],
+   "ocr": "which employs alternative mRNA cleavage sites that lie progressively distal to the stop codon. APA-driven mRNA diversity is required for normal physiology, and misregulation of this process is associated with diverse disease states [29]. We therefore have developed a framework for analysis of Affymetrix® GeneChip® data by regrouping probes into probe sets based on Ensembl annotations at the gene, transcript, individual exon, and UTR levels in order to detect changes in gene expres- sion that may occur within specific regions of the transcript. Methods We developed an Affymetrix® GeneChip® probe remap- ping protocol at the level of genes, transcripts, untrans- lated regions (UTRs), coding sequences (CDS) and individual exons based on the latest genome (hg38, mm10, rn6) and Ensembl annotations (ENS-85) for human, mouse, and rat. The protocol takes annotations in a General/Gene Transfer Format (GTF) [30] file, generates a custom CDF where probes are grouped into probe sets based on region (UTR, CDS, individual exon), transcript or gene level. Here, we define individual exons as coding exons within protein coding genes, or all exons within structural RNAs (such as miRNA and lncRNA). In effect, the individual exons refer to all non-UTR portions of exons. Figure 1 shows the flow chart of annotation and grouping of probes based on the region of a gene. It is composed of three main steps: mapping probes to the genome, annotation of probes, and assignment of probes to probe sets based on annotations."
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    361.5,
+    137.0
+   ],
+   "ocr": "Table 2 Top Affymetrix® in situ oligonucleotide arrays found in GEO"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    142.0,
+    367.1,
+    279.9
+   ],
+   "ocr": "GEO Title Number of Number of Number of\nPlatform Probes (PM) Probe Sets Samples\nGPL570 Human Genome U133 604,258 54,675 120,920\nPlus 2.0 Array\nGPL1261 Mouse Genome 496,468 45,101 48,087\n430 2.0 Array\nGPL1355 Rat Genome 230 342,410 31,099 18,912\n2.0 Array\nGPL198 Arabidopsis ATH1 251,078 22,810 12,624\nGenome Array",
+   "table_id": "PMC5731501_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    306.9,
+    367.5,
+    811.9
+   ],
+   "ocr": "HG-U133 Plus 2 array (Table 2). On the other hand only 6403 samples were analyzed using custom CDFs, mostly produced by brainarray (Table 3). Given that fewer than 5% of all samples in GEO have been analyzed by alterna- tive CDFs, an opportunity exists to reanalyze existing datasets according to updated transcript knowledge or functional regions of interest. While microarrays have been successfully utilized for understanding differential expression at the gene or probe set level, less attention has been given to the po- tential analysis at the individual exon, alternative tran- script, and untranslated region (UTR) level. While the selection bias of probes on the 3′ ends of genes for earlier iterations of Affymetrix® GeneChip® designs pre- sents limitations on the completeness of transcript in- formation, more recent designs allow for a more complete coverage of exons and exon junctions. How- ever, information concerning individual exons can still be extracted from earlier GeneChip® designs, particu- larly in the 3′ UTR regions that have been shown to play important roles in cancer [15–17], development [18–22], and localization in the nervous system [23– 27]. In fact, over 40% of genes have been shown to gen- erate multiple mRNAs with variable 3′ UTR lengths [28]. These 3′ UTRs harbor binding sites for molecules including microRNAs (miRNAs) and RNA-binding proteins. Thus, mRNA isoforms with lengthened 3′ UTRs have increased numbers of sites for these cis- interacting factors. The diversity of 3′ UTRs is predom- inantly regulated by alternative polyadenylation (APA), Table 3 Alternative CDFs for the top Affymetrix® in situ oligonucleotide arrays found in GEO"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    626.1,
+    681.1,
+    927.7
+   ],
+   "ocr": "Mapping of perfect match probes to a genome PM probe sequences, which can be obtained from the Affymetrix® Netaffx™ web site, are aligned to the indexed genome using Bowtie version 1.0.1 [31] with the parameters -v 0 and –m 1, requiring that probes align to a single genomic location with 100% identity, thereby reducing cross-hybridization effects. Note that Bowtie version 1 is best at aligning shorter sequences (25-50 bp) as found with microarray probes while the most recent versions of Bowtie are optimized for long sequence reads (>50 bp). Mismatch (MM) probes are not considered in the mapping step, although they could theoretically map uniquely to genomic regions. Rather, the MM probes are set aside and are included with their corresponding PM probe during the final CDF construction step once the PM probes have been assigned to a probe set. During this analysis, only probes perfectly matching to a region are considered. Therefore, probes crossing splice junctions will be discarded."
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    817.0,
+    367.1,
+    920.7
+   ],
+   "ocr": "GEO Platform Number of Number and Percent\nAlternative CDFs of Samples Using\nAlternative CDFs\nGPL570 54 6403 (5.0%)\nGPL1261 36 1984 (4.0%)\nGPL1355 12 460 (2.4%)\nGPL198 9 642 (4.8%)",
+   "table_id": "PMC5731501_table_2"
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_063",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    50,
+    573,
+    93
+   ],
+   "ocr": "The data presented in the table provides valuable insights into the characteristics and behavioral responses of hybridoma cells derived from normal mice. Notably, the column labeled \"Leptin (ng/mL)\" indicates the concentration of this crucial hormone, which is often associated with appetite regulation and energy balance."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    81,
+    573,
+    138
+   ],
+   "ocr": "The variations in leptin levels among different transformed cell designations, such as G6g1 and E4e1, highlight the potential influence of genetic backgrounds on leptin expression. Furthermore, the metrics of \"Odour Intensity\" and \"Hedonic Tone\" offer a nuanced understanding of the sensory experiences associated with these hybridomas, shedding light on how these cells may respond to various environmental stimuli."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    155.0,
+    573.0,
+    274.0
+   ],
+   "ocr": "Leptin (ng/mL)\nNormal mice 18.84 ± 1.36###\nHFD-fed mice\n+vehicle 59.83 ± 1.05***\n+allantoin 17.21 ± 0.82###\n+efaroxan and allantoin 61.86 ± 2.25***",
+   "table_id": "img_069932_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    289.0,
+    573.0,
+    566.0
+   ],
+   "ocr": "Fusion Growth-arrest after fusion Growth stimulatory antigen or cytokine Transformed cell (designation) Characteristics of hybridoma (reference) Parental cell\nYACUT × G4 Yes Splenocytes with Mlsa, H-2b, or H-2d antigen G6g1, E4e1 T cell helper activity (60, 62) Mlsa-responsive T cell line G4\nYACUT × 20MLC Yes (rapid cell death without stimulation) DBA/2 splenocytes 3A2, 7D4 Non-MHC-restricted cytotoxicity (65). Activation and inhibitory receptors+ (66, 67) CTL\nYACUT × 20MLC Yes DBA/2 splenocytes B6HO3 IFN-γ production in response to IL-18 produced by dying bacteria-infected macrophages (68, 69) Innate-like αβ T cell\nYACUT × 20MLC Yes Irradiated splenocytes CB1 Requirement of TNF-α for the growth in the presence of irradiated splenocytes CD3−, TCR− Innate lymphoid cell?\nYACUT × iNKT Yes IL-7 + IL-15 F3a Growth in longitudinal cell clusters; CD244.1 and 2+ iNKT cell",
+   "table_id": "img_069932_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    581.0,
+    573.0,
+    705.0
+   ],
+   "ocr": "Amount of Mixture Components RMSEP\nOdour Intensity (8-3-3-1 tanh) Hedonic Tone (8-3-2-1 Leaky ReLUs)\n2 0.13 0.28\n3 0.16 0.33\n4 0.19 0.36\n5 0.20 0.47",
+   "table_id": "img_069932_t2"
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    721,
+    573,
+    763
+   ],
+   "ocr": "The findings suggest that splenocytes exhibiting Mlsa, H-2b, or H-2d antigens can significantly affect both the growth-arrest mechanisms post-fusion and the subsequent growth stimulatory activities, thereby influencing the overall functional properties of the hybridoma."
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    751,
+    573,
+    778
+   ],
+   "ocr": "This information underscores the importance of genetic and immunological factors in the development of hybridoma technologies."
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_427",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    269.2,
+    53.4
+   ],
+   "ocr": "Shoham et al. BMC Public Health (2015) 15:173"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 10"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    369.1,
+    523.5
+   ],
+   "ocr": "of goods is tied to past, current, and expected future in- come, housing characteristics and ownership of goods serves as a proxy for permanent income [28,29]. The proportion of participants reporting possession or access to certain goods is shown in Table 1. Both individual items and a composite score (sum) of number of goods shown in Table 2 serve as proxies for higher or lower levels of household wealth. Car ownership was consid- ered separately from other household goods. Statistical analysis Out of 2,506 participants, we excluded 204 participants with insufficient accelerometer data. A further 201 par- ticipants were excluded due to missing socioeconomic covariates, yielding an analysis dataset of 2101 (84% of the original population). All analyses were conducted in Stata Version 12 (College Station, TX, USA). We calculated means and standard deviations for continuous measures (age, education level, social class, income, goods score, and BMI), and proportions for categorical variables (female gender, car ownership). These calculations were done by site. We also calculated mean MVPA by site for various socio-demographic characteristics. Finally, we modeled MVPA in multivariable analysis containing car ownership adjusted for site, age, gender, income, and other household Table 1 Goods possessed by the household (% overall and"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    372.5,
+    111.1,
+    678.6,
+    523.5
+   ],
+   "ocr": "goods (Model 1). A second model (Model 2) additionally adjusted Model 1 for BMI, which tends to be associated with decreased PA, and thus may mediate relationships between socioeconomic characteristics and MVPA. We compared marginal values across sites, holding covari- ates constant at their overall mean values using the Stata “margins” command. Assessment of the Positivity Assumption It is com- mon in studies using socioeconomic variables to have imbalances of variables across groups, a problem known as “structural confounding” [30,31], which is a violation of the positivity assumption, i.e., that there be nonzero (positive) numbers of participants across all combina- tions of strata. Following Westreich and Cole [32] and Messer [30], we searched for patterns of empty cells by converting continuous variables to quantiles (cut at the median) and running cross-tabulations with the dichoto- mized or naturally dichotomous variables (i.e., manual worker and car ownership) by each site. This analysis revealed several empty cells when many socioeconomic variables were included; for example, there were no high-income, low-education subjects who owned a car in South Africa or Ghana. Based on rules for sufficient adjustment sets, we chose to trade off confounding and by site)"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    528.4,
+    678.6,
+    909.2
+   ],
+   "ocr": "Overall USA Seychelles Jamaica South Africa Ghana\nElectricity 97 100 100 99 96 89\nCell phone 96 99 98 99 93 91\nTelevision 92 100 100 98 84 81\nElectric iron 90 99 100 94 90 68\nRadio or CD player 88 97 97 89 72 86\nRefrigerator 84 100 99 90 75 55\nWatch or clock 83 99 96 88 55 78\nModern stove 81 99 98 97 83 28\nDVD or VCR 80 98 95 82 65 62\nSofa 78 98 99 62 71 60\nFan 72 98 93 96 14 59\nMicrowave oven 52 99 49 67 36 10\nComputer 43 84 61 42 9 16\nSatellite Dish or Cable TV 40 83 56 48 7 4\nCar or truck 36 86 37 34 12 12\nTelephone land line 34 69 58 20 15 6\nBicycle 30 68 16 38 10 16\nSewing machine 29 23 43 16 26 37\nAir conditioner 23 93 7 8 2 2\nMean # Goods (SD) 11.3 (4.0) 15.9 (1.7) 13.0 (2.1) 11.7(2.8) 8.2 (2.8) 7.7 (3.2)\nHH owns 13+ goods (%) 42.4 95.8 62.1 42.0 5.4 5.3",
+   "table_id": "PMC4359522_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    915.5,
+    363.6,
+    925.4
+   ],
+   "ocr": "note: p < 0.001 for differences across sites in mean goods owned and whether"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    366.3,
+    915.5,
+    498.8,
+    925.4
+   ],
+   "ocr": "households own 13 or more goods."
+  }
+ }
+}

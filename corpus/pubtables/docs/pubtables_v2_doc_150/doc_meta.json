@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_150",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3459887_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    679.9,
+    790.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3459887_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">GenBank Accession</td><td rowspan=\"2\">Strain name</td><td colspan=\"3\">Collection date</td><td rowspan=\"2\">Start to end of genomes</td><td rowspan=\"2\">Sample type#</td></tr><tr><td>Year</td><td>Month</td><td>Day</td></tr><tr><td>JQ901971</td><td>HPIV-1/c35/1957 (ATCC VR-94)</td><td>1957</td><td>n/a</td><td>n/a</td><td>29-15550</td><td>I</td></tr><tr><td>JQ901975</td><td>HPIV-1/WI/629-001/1997</td><td>1997</td><td>10</td><td>3</td><td>29-15567</td><td>I and S</td></tr><tr><td>JQ901972</td><td>HPIV-1/WI/629-002/1997</td><td>1997</td><td>9</td><td>22</td><td>29-15539</td><td>I</td></tr><tr><td>JQ901976</td><td>HPIV-1/WI/629-003/1997</td><td>1997</td><td>10</td><td>16</td><td>76-15567</td><td>I</td></tr><tr><td>JQ901973</td><td>HPIV-1/WI/629-004/1997</td><td>1997</td><td>9</td><td>24</td><td>77-15560</td><td>I</td></tr><tr><td>JQ901974</td><td>HPIV-1/WI/629-005/1997*</td><td>1997</td><td>9</td><td>25</td><td>78-15555a</td><td>I</td></tr><tr><td>JQ901977</td><td>HPIV-1/WI/629-006/1997</td><td>1997</td><td>11</td><td>4</td><td>77-15560</td><td>I</td></tr><tr><td>JQ901979</td><td>HPIV-1/WI/629-007/1997</td><td>1997</td><td>11</td><td>22</td><td>28-15558</td><td>I</td></tr><tr><td>JQ901978</td><td>HPIV-1/WI/629-008/1997</td><td>1997</td><td>11</td><td>22</td><td>28-15568</td><td>I</td></tr><tr><td>JQ901980</td><td>HPIV-1/WI/629-009/1997</td><td>1997</td><td>12</td><td>3</td><td>29-15565</td><td>I</td></tr><tr><td>JQ901981</td><td>HPIV-1/WI/629-010/1999</td><td>1999</td><td>3</td><td>5</td><td>29-15549</td><td>I</td></tr><tr><td>JQ901982</td><td>HPIV-1/WI/629-A31/2005</td><td>2005</td><td>11</td><td>9</td><td>28-15555</td><td>S</td></tr><tr><td>JQ901983</td><td>HPIV-1/WI/629-003/2007</td><td>2007</td><td>n/a</td><td>n/a</td><td>29-15552</td><td>I</td></tr><tr><td>JQ901984</td><td>HPIV-1/WI/629-030/2007</td><td>2007</td><td>n/a</td><td>n/a</td><td>28-15534</td><td>I</td></tr><tr><td>JQ901985</td><td>HPIV-1/WI/629-001/2009</td><td>2009</td><td>n/a</td><td>n/a</td><td>27-15548</td><td>I</td></tr><tr><td>JQ901991</td><td>HPIV-1/WI/629-D01150/2009</td><td>2009</td><td>10</td><td>6</td><td>29-15568</td><td>S</td></tr><tr><td>JQ901987</td><td>HPIV-1/WI/629-D00057/2009*</td><td>2009</td><td>9</td><td>29</td><td>78-15485b</td><td>S</td></tr><tr><td>JQ901998</td><td>HPIV-1/WI/629-D00387/2009</td><td>2009</td><td>10</td><td>22</td><td>78-15557</td><td>I and S</td></tr><tr><td>JQ901989</td><td>HPIV-1/WI/629-D00712/2009</td><td>2009</td><td>10</td><td>2</td><td>29-15567</td><td>S</td></tr><tr><td>JQ902003</td><td>HPIV-1/WI/629-D01145/2009</td><td>2009</td><td>11</td><td>23</td><td>100-15548</td><td>I and S</td></tr><tr><td>JQ901996</td><td>HPIV-1/WI/629-D01164/2009</td><td>2009</td><td>10</td><td>20</td><td>100-15446</td><td>I and S</td></tr><tr><td>JQ901992</td><td>HPIV-1/WI/629-D01202/2009</td><td>2009</td><td>10</td><td>6</td><td>29-15568</td><td>S</td></tr><tr><td>JQ902006</td><td>HPIV-1/WI/629-D01250/2009*</td><td>2009</td><td>12</td><td>4</td><td>100-15539C</td><td>I and S</td></tr><tr><td>JQ902000</td><td>HPIV-1/WI/629-D01463/2009</td><td>2009</td><td>11</td><td>7</td><td>100-15481</td><td>I and S</td></tr><tr><td>JQ902004</td><td>HPIV-1/WI/629-D01575/2009</td><td>2009</td><td>11</td><td>30</td><td>100-15549</td><td>I and S</td></tr><tr><td>JQ901988</td><td>HPIV-1/WI/629-D01662/2009</td><td>2009</td><td>9</td><td>29</td><td>29-15539</td><td>S</td></tr><tr><td>JQ901986</td><td>HPIV-1/WI/629-D01681/2009</td><td>2009</td><td>9</td><td>29</td><td>27-15557</td><td>I</td></tr><tr><td>JQ902008</td><td>HPIV-1/WI/629-D01774/2009*</td><td>2009</td><td>10</td><td>3</td><td>81-15539d</td><td>I</td></tr><tr><td>JQ902001</td><td>HPIV-1/WI/629-D01790/2009</td><td>2009</td><td>11</td><td>7</td><td>100-15482</td><td>I and S</td></tr><tr><td>JQ901995</td><td>HPIV-1/WI/629-D01809/2009</td><td>2009</td><td>10</td><td>11</td><td>28-15539</td><td>I</td></tr><tr><td>JQ902007</td><td>HPIV-1/WI/629-D02039/2009</td><td>2009</td><td>12</td><td>10</td><td>100-15548</td><td>I and S</td></tr><tr><td>JQ902002</td><td>HPIV-1/WI/629-D02072/2009</td><td>2009</td><td>11</td><td>18</td><td>100-15544</td><td>I and S</td></tr><tr><td>JQ901993</td><td>HPIV-1/WI/629-D02130/2009</td><td>2009</td><td>10</td><td>6</td><td>29-15568</td><td>S</td></tr><tr><td>JQ901999</td><td>HPIV-1/WI/629-D02143/2009</td><td>2009</td><td>10</td><td>24</td><td>100-15492</td><td>I and S</td></tr><tr><td>JQ901990</td><td>HPIV-1/WI/629-D02161/2009</td><td>2009</td><td>10</td><td>3</td><td>29-15550</td><td>S</td></tr><tr><td>JQ902005</td><td>HPIV-1/WI/629-D02209/2009</td><td>2009</td><td>11</td><td>30</td><td>100-15488</td><td>I and S</td></tr><tr><td>JQ901994</td><td>HPIV-1/WI/629-D02401/2009</td><td>2009</td><td>10</td><td>6</td><td>29-15568</td><td>S</td></tr><tr><td>JQ901997</td><td>HPIV-1/WI/629-D01900/2009</td><td>2009</td><td>10</td><td>21</td><td>100-15492</td><td>I and S</td></tr><tr><td>JQ902010</td><td>HPIV-1/WI/629-D02071/2010</td><td>2010</td><td>3</td><td>2</td><td>100-15488</td><td>S</td></tr><tr><td>JQ902009</td><td>HPIV-1/WI/629-D02211/2010*</td><td>2010</td><td>2</td><td>15</td><td>100-15156e</td><td>I and S</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3459887_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    120.1,
+    654.9,
+    827.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3459887_table_1.png",
+   "html": "<table><tr><td>Name</td><td>Sequence*</td><td>% GC</td><td>Tm</td><td>Fragment</td></tr><tr><td>P1F1227</td><td>ACCAAACAAGAGGAAAAACTTGTTTGG</td><td>37</td><td>56.8</td><td>1</td></tr><tr><td>P1F77223</td><td>AGGGACAAGTCACAGACATTTGA</td><td>43.5</td><td>55.9</td><td>2</td></tr><tr><td>P1R509+24</td><td>CATAGGTCCAAACAACCACTCTGT</td><td>45.8</td><td>56.6</td><td>1 &amp; 2</td></tr><tr><td>P1F234224</td><td>ACATTAGGCCCGAGTGTGACAGAT</td><td>50</td><td>60</td><td>3</td></tr><tr><td>P1R2336+24</td><td>TCCCTCAACTTGGTCTTCTTCCCT</td><td>50</td><td>59.3</td><td>3</td></tr><tr><td>P1F2208224</td><td>ACCCTCTACCTGAGAATATGGGCA</td><td>50</td><td>58.8</td><td>4</td></tr><tr><td>P1R4352+24</td><td>CCTAGGTGTACCATGAAGTTGAGC</td><td>50</td><td>56.9</td><td>4</td></tr><tr><td>P1F4133224</td><td>ACCTCAATGTCTCCCAGTCGACAA</td><td>50</td><td>59.6</td><td>5</td></tr><tr><td>P1R6538+24</td><td>TGTGCCATCCTCCAACTGCTGATA</td><td>50</td><td>60</td><td>5</td></tr><tr><td>P1F6277224</td><td>GCGGGACAAACAGAATACCAGTGA</td><td>50</td><td>58.9</td><td>6</td></tr><tr><td>P1R8308+24</td><td>CACCTGATATGCATTCTCTCGGAC</td><td>50</td><td>56.9</td><td>6</td></tr><tr><td>P1F8123223</td><td>CTTAGGTGCCGAAGGGAGGCTAC</td><td>56.5</td><td>58.9</td><td>7</td></tr><tr><td>P1R10202+24</td><td>TCCCATGCTGCTTTCCTAGGTGAT</td><td>50</td><td>59.9</td><td>7</td></tr><tr><td>P1F10061224</td><td>GAATGCACAAGGATCCAACTCTGC</td><td>50</td><td>58.2</td><td>8</td></tr><tr><td>P1R11995+24</td><td>TCGTTGTATCAAGCATCCCGGCTA</td><td>50</td><td>59.9</td><td>8</td></tr><tr><td>P1F11751224</td><td>TGGGCATCAGACCCTTATTCATGC</td><td>50</td><td>59</td><td>9</td></tr><tr><td>P1R13842+24</td><td>AGGATCCCAGTCCTCTAAGACTTC</td><td>50</td><td>56.9</td><td>9</td></tr><tr><td>P1F13501224</td><td>TCTTTATGCGTGATTGGCAAGAGG</td><td>45.8</td><td>57.6</td><td>10</td></tr><tr><td>P1R15575+25</td><td>CCAGACAAGAGTTTAAGAAATATCG</td><td>36</td><td>51.5</td><td>10</td></tr><tr><td>P1R278+24</td><td>GAGTGGGCTAAGAAAGTGGTTGCT</td><td>50</td><td>59</td><td></td></tr><tr><td>P1F710224</td><td>AGCATTCAGACAGGATGGAACCGT</td><td>50</td><td>60.1</td><td></td></tr><tr><td>P1R1865+24</td><td>TTCGGCTTCAGGATCCCTCTCAAA</td><td>50</td><td>59.7</td><td></td></tr><tr><td>P1F2783224</td><td>ACCGCAAATGAAGAGGAAACCAGC</td><td>50</td><td>59.8</td><td></td></tr><tr><td>P1R3764+27</td><td>CCTACCTTGACTATTCTGATGTGAGGG</td><td>48.1</td><td>57.8</td><td></td></tr><tr><td>P1F4630224</td><td>CTGTGTTCCAACCTGCAATTCCGA</td><td>50</td><td>59.6</td><td></td></tr><tr><td>P1R5775+24</td><td>GAGAGATGATAATGCCTGCAAGGT</td><td>45.8</td><td>56.6</td><td></td></tr><tr><td>P1F4455224</td><td>TCTCTCGGGCTTGTAGGTGGAATA</td><td>50</td><td>58.8</td><td></td></tr><tr><td>P1R6065+24</td><td>ACAGTTTGTGACATCTGCACCTCC</td><td>50</td><td>59.1</td><td></td></tr><tr><td>P1F6803224</td><td>TCCACAACTTCACCAATCAGGTGT</td><td>45.8</td><td>58.6</td><td></td></tr><tr><td>P1F7677223</td><td>TCTGTAATAGCTGCAGGAACAA</td><td>40.9</td><td>53.9</td><td></td></tr><tr><td>P1R7856+26</td><td>CCACTTCCTACACTTGGATACATTGC</td><td>50</td><td>58.7</td><td></td></tr><tr><td>P1F8740221</td><td>ACTTAGGGTTAATGCCTGCCT</td><td>47.6</td><td>55.9</td><td></td></tr><tr><td>P1F8513224</td><td>TCATTTCGGGAAGGGCTACTGCTT</td><td>50</td><td>60.2</td><td></td></tr><tr><td>P1R8819+23</td><td>TCGGAGAGTTCAAGTGACATTCT</td><td>43.5</td><td>55.7</td><td></td></tr><tr><td>P1F9519223</td><td>TCTTCAGCTGGACGACTCGATAA</td><td>47.8</td><td>57.2</td><td></td></tr><tr><td>P1R9760+23</td><td>TGCTGTCTGCTTCTGAATCTGTG</td><td>47.8</td><td>57</td><td></td></tr><tr><td>P1R9667+22</td><td>AGTTACAGGGTCATCCAACTGT</td><td>45.5</td><td>55.5</td><td></td></tr><tr><td>P1F10576224</td><td>CAGGTGTTCCAAGATCCAACTCAG</td><td>50</td><td>57.3</td><td></td></tr><tr><td>P1R10701+23</td><td>TCGGTTGATGAGTCTGCAGCTTT</td><td>47.8</td><td>58.6</td><td></td></tr><tr><td>P1R11565+24</td><td>ACCCTCCTATGTTAGCTGGGATCA</td><td>50</td><td>58.8</td><td></td></tr><tr><td>P1F12388224</td><td>GAAGTCCTGCCATACGTATCCCTT</td><td>50</td><td>58</td><td></td></tr><tr><td>P1R13287+24</td><td>CCCATATTTCATCCCTCCCTCTGA</td><td>50</td><td>57.6</td><td></td></tr><tr><td>P1F14090225</td><td>CGGGATTAATAGCACCAGTTGTTTG</td><td>44</td><td>56.1</td><td></td></tr><tr><td>P1R15017+23</td><td>ATCCGAGTCCACTCAAAGATTGT</td><td>43.5</td><td>55.8</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3459887_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    763.1,
+    689.2,
+    893.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3459887_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Protein from</td><td colspan=\"3\">Substitutions by clades</td><td rowspan=\"2\">Multiple substitutions</td></tr><tr><td>Clade 1</td><td>Clade 2</td><td>Clade 3</td></tr><tr><td>N gene</td><td>None</td><td>None</td><td>N498S</td><td>None</td></tr><tr><td>P gene</td><td>N56S, P123S, P125L,</td><td>G110D, D185N, P231Q, S247P, K270R, T282A, V534A</td><td>N70D, I90V, I111V, P141S, S162F, P182S, T267I, S268G, S/P274L, S321G, S324P, V534A</td><td>F8S/La, L151P/Sa, G473S/Ta</td></tr><tr><td>M gene</td><td>None</td><td>None</td><td>None</td><td>None</td></tr><tr><td>F gene</td><td>E5K</td><td>N321S</td><td>T493K, V526I, R546K</td><td>F8L/Ia</td></tr><tr><td>L gene</td><td>M718I, L1605F</td><td>N199D, I210F, V2165I</td><td>Q4L, V93I, T728A, I1176V, V1506I, N1598H, K1747R, T2209I</td><td>None</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3459887_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    121.8,
+    699.3,
+    254.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3459887_table_3.png",
+   "html": "<table><tr><td>Region Name</td><td>Location of region</td><td>Length of the region (Residues)</td><td>No. of Substitutions in each region</td><td>Ratio of substitution/residue</td></tr><tr><td>Cytoplasmic tail</td><td>1&#8211;35</td><td>35</td><td>4</td><td>0.114</td></tr><tr><td>Transmembrane region</td><td>36&#8211;60</td><td>25</td><td>4</td><td>0.160</td></tr><tr><td>Stalk region</td><td>61&#8211;191</td><td>131</td><td>9</td><td>0.069</td></tr><tr><td>High structural homology region I</td><td>192&#8211;341</td><td>150</td><td>5</td><td>0.033</td></tr><tr><td>Non-structural assignment region</td><td>342&#8211;457</td><td>116</td><td>12</td><td>0.103</td></tr><tr><td>High structural homology region II</td><td>458&#8211;504</td><td>47</td><td>3</td><td>0.064</td></tr><tr><td>Carboxyl terminal</td><td>505&#8211;575</td><td>71</td><td>11</td><td>0.155</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3459887_table_4",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    121.8,
+    700.6,
+    564.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3459887_table_4.png",
+   "html": "<table><tr><td>Region</td><td>Positions</td><td>Sites analyzed</td><td>Polymorphic (Segregating) Sites</td><td>Average nucleotide differences (k)</td><td>Nucleotide Diversity (p)</td><td>Theta/Site from S</td></tr><tr><td>59 Leader</td><td>1&#8211;55</td><td>N/Aa</td><td>0</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>N 59 NCRb</td><td>56&#8211;116</td><td>17b</td><td>7b</td><td>1.319b</td><td>0.078b</td><td>0.099</td></tr><tr><td>N Gene</td><td>120&#8211;1694</td><td>1575</td><td>157</td><td>23.444</td><td>0.015</td><td>0.024</td></tr><tr><td>N 39 NCR</td><td>1695&#8211;1737</td><td>43</td><td>7</td><td>1.438</td><td>0.033</td><td>0.039</td></tr><tr><td>N/P &#8211; IG Spacer</td><td>1738&#8211;1740</td><td>3</td><td>0</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>P 59 NCR</td><td>1741&#8211;1843</td><td>103</td><td>13</td><td>2.073</td><td>0.020</td><td>0.030</td></tr><tr><td>P Gene</td><td>1844&#8211;3550</td><td>1706</td><td>233</td><td>39.595</td><td>0.023</td><td>0.033</td></tr><tr><td>P 39 NCR</td><td>3551&#8211;3633</td><td>83</td><td>14</td><td>2.454</td><td>0.030</td><td>0.041</td></tr><tr><td>P/M &#8211; IG Spacer</td><td>3634&#8211;3636</td><td>3</td><td>0</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>M 59 NCR</td><td>3637&#8211;3668</td><td>32</td><td>5</td><td>0.383</td><td>0.012</td><td>0.038</td></tr><tr><td>M Gene</td><td>3669&#8211;4715</td><td>1046</td><td>113</td><td>17.873</td><td>0.017</td><td>0.026</td></tr><tr><td>M 39 NCR</td><td>4716&#8211;4809</td><td>94</td><td>16</td><td>2.506</td><td>0.027</td><td>0.041</td></tr><tr><td>M/F &#8211; IG Spacer</td><td>4810&#8211;4812</td><td>3</td><td>0</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>F 59 NCR</td><td>4813&#8211;5087</td><td>269</td><td>80</td><td>13.433</td><td>0.050</td><td>0.072</td></tr><tr><td>F Gene</td><td>5088&#8211;6755</td><td>1667</td><td>179</td><td>29.105</td><td>0.017</td><td>0.026</td></tr><tr><td>F 39 NCR</td><td>6756&#8211;6843</td><td>88</td><td>17</td><td>2.433</td><td>0.028</td><td>0.047</td></tr><tr><td>F/HN &#8211; IG Spacer</td><td>6844&#8211;6846</td><td>3</td><td>0</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>HN 59 NCR</td><td>6847&#8211;6902</td><td>56</td><td>14</td><td>1.663</td><td>0.030</td><td>0.060</td></tr><tr><td>HN Gene</td><td>6903&#8211;8630</td><td>1728</td><td>209</td><td>35.375</td><td>0.020</td><td>0.029</td></tr><tr><td>HN 39 NCR</td><td>8631&#8211;8740</td><td>109</td><td>23</td><td>5.429</td><td>0.050</td><td>0.051</td></tr><tr><td>HN/L &#8211; IG Spacer</td><td>8741&#8211;8743</td><td>3</td><td>0</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>L 59 NCR</td><td>8744&#8211;8771</td><td>28</td><td>1</td><td>0.056</td><td>0.002</td><td>0.009</td></tr><tr><td>L Gene</td><td>8772&#8211;15443</td><td>6668</td><td>588</td><td>96.384</td><td>0.014</td><td>0.021</td></tr><tr><td>L 39 NCR</td><td>15444&#8211;15543</td><td>3b</td><td>1</td><td>0.356</td><td>0.119b</td><td>0.080</td></tr><tr><td>Tail Sequence</td><td>15544&#8211;15606</td><td>N/Aa</td><td></td><td></td><td></td><td></td></tr><tr><td>WHOLE GENOME</td><td>1&#8211;15606</td><td>15333</td><td>1677</td><td>275.319</td><td>0.018</td><td>0.026</td></tr></table>"
+  }
+ ]
+}

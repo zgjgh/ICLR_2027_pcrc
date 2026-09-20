@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_189",
+  "page": 1,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "caption",
+   "bbox": [
+    58.9,
+    54.7,
+    648.5,
+    110.9
+   ],
+   "ocr": "Sensors 2015, 15 25901 Table 1. Parameters of the Rogowski Coil."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    164.6,
+    122.0,
+    541.9,
+    154.8
+   ],
+   "ocr": "a (cm) b (cm) w (cm) M (nH) R (Ω) L (nH) Z (Ω) C (pF)\n0.5 3 2 86 0.038 1032 50 18.1",
+   "table_id": "PMC4634465_table_0"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    58.9,
+    175.3,
+    648.6,
+    237.3
+   ],
+   "ocr": "Considering the equivalent circuit and the electric characteristics of this sensor, its transfer function is defined by Equation (1): ������� 4.30 ∙ 10���"
+  },
+  "p1_b3": {
+   "type": "title",
+   "bbox": [
+    250.5,
+    229.4,
+    646.6,
+    246.7
+   ],
+   "ocr": "= (1)"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    238.4,
+    648.7,
+    423.6
+   ],
+   "ocr": "���� 9.38 ∙ 10����� + 1.032 ∙ 10��� + 50.038 It is important to indicate that Z is usually 50 Ω and represents the input impedance of the measuring instrument, where the sensor is connected. More details about this type of sensor and the calculation of the electric parameters can be found in [12,13]. Finally, the frequency response for this sensor, calculated from Equation (1), is shown in Figure 2. The results indicate that the coil has a derivative behaviour up to 9 MHz approximately, and then the output signal turns into to a voltage proportional to the current. Moreover, the sensitivity is around 12 dB. The frequency analysis for this sensor is presented up to 60 MHz, since the observation of the average spectra for the signals measured in the experiments presented in the following sections, led to the conclusion that the power above 60 MHz was very low."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    645.3,
+    648.8,
+    926.0
+   ],
+   "ocr": "Figure 2. Frequency response of the Rogowski coil. 3. Experimental Setup and PD Sources Separation 3.1. Experimental Setup Due to the importance of PD phenomenon to estimate the insulation lifetime, a procedure to measure PD including the circuits implemented for their detection is detailed in the standard IEC 60,270 [6]. Although the measured PD signals are different to the original signals originated in the PD sources, due to the attenuation and dispersion effects until the sensor captures them, much information of the pulse shape to distinguish their source type (internal, surface or corona) can be obtained [17–19]. Accordingly, in this paper all data analysed have been collected experimentally with an indirect detection circuit based on the standard IEC 60,270. The circuit consists of a 750 VA transformer that provides high-voltage to several test objects, where PD are created. A capacitive divider with a high-voltage capacitor (1 nF), connected in series with a measuring impedance, provides a path for the high-frequency currents"
+  }
+ }
+}

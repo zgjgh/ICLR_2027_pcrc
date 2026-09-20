@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_083",
+  "page": 4,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.5,
+    40.3,
+    220.0,
+    51.8
+   ],
+   "ocr": "EJNMMI Physics 2018, 5(Suppl 1):19"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    622.4,
+    40.5,
+    681.4,
+    51.8
+   ],
+   "ocr": "Page 18 of 27"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.4,
+    111.6,
+    681.4,
+    180.0
+   ],
+   "ocr": "Conclusion Adding rings increases the sensitivity for all three distributions but clearly largest gains are seen for the extended sources with and with- out attenuation and so the increase in sensitivity is mostly effective for the long phantom. Also, very small changes in SF are observed for the long phantom with increasing number of rings."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    119.6,
+    352.9,
+    295.9
+   ],
+   "ocr": "60 (A) 10 mm, Low Flux 60 (B) 10 mm, High Flux 60 (C) 13 mm, Low Flux 60 (D) 13 mm, High Flux 23-cm Scanner 70-cm Scanner 50 50 50 50 40 40 40 40 SD 30 SD 30 SD 30 SD 30 % % % % 20 20 20 20 10 10 10 10 0 0 0 0 5s 10s 30s 1m 3m 5m 5s 10s 30s 1m 3m 5m 5s 10s 30s 1m 3m 5m 5s 10s 30s 1m 3m 5m Frame Duration (sec) Frame Duration (sec) Frame Duration (sec) Frame Duration (sec) Fig. 2 (abstract A21). Percent standard deviation across 20 replicates of activity uptake in four lesions when simulated on the 23-cm and 70-cm scanners. 13-mm spheres (C, D) show improved precision compared to 10 mm spheres (A, B) and high flux lesions (B, D) show improved precision when compared to low flux (A, C) lesions. Precision data is grouped by frame duration, where there were 45 frames total (16x5s, 7x10s, 5x30s, 5x60s, 5x180s, 7x300s), to show the average precision per scan duration"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    385.4,
+    220.9,
+    657.6,
+    243.7
+   ],
+   "ocr": "Table 1 (abstract A22). Absolute sensitivity for point source, short phantom and long phantom in (a) air and (b) water"
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    248.9,
+    666.4,
+    492.8
+   ],
+   "ocr": "(a) Absolute sensitivity\nNumber of Point Source in 100 cm air 20 cm air 100 cm air\nrings phantom phantom phantom\n4 2.03 1.81 0.815\n8 6.06 5.82 2.97\n12 10.14 10,01 5.98\n16 13.62 13.38 9.37\n20 16.27 16.22 12.63\n(b) Absolute sensitivity\nNumber of Point Source in 100 cm 20 cm water 100 cm water\nrings water phantom phantom phantom\n4 0.96 0.65 0.125\n8 1.63 1.83 0.49\n12 2.04 2.84 0.99\n16 2.23 3.69 1.58\n20 2.34 4.20 2.23",
+   "table_id": "PMC6023806_table_4"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    332.3,
+    361.7,
+    366.5
+   ],
+   "ocr": "Table 1 (abstract A21). Bias ± s. d. values of measured flux across 20 replicates using PMOD. Results show improved accuracy of flux (K1 ∗ k3/(K1 + k2)) and precision for the 70 cm scanner by a factor of 2-3 x"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    371.6,
+    367.1,
+    444.1
+   ],
+   "ocr": "Flux Bias ± s. d.\n10 mm Sphere 13 mm Sphere\nLow (%) Med (%) High (%) Low (%) Med (%) High (%)\n23 cm -51 ± 30 12 ± 41 23 ± 33 -23 ± 53 4 ± 36 21 ± 20\n70 cm -19 ± 11 -3 ± 13 -3 ± 12 -12 ± 31 10 ± 5 4 ± 10",
+   "table_id": "PMC6023806_table_3"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    494.9,
+    367.5,
+    859.2
+   ],
+   "ocr": "A22 Monte Carlo study of a compact total body PET with monolithic scintillators Maya Abi Akl1,2, Stefaan Vandenberghe1, Othmane Bouhali2, Yassine Toufique3 1Department of Electronics and information systems, Ghent University, Ghent, Belgium; 2Science Program, Texas A&M University at Qatar, Doha, Qatar; 3Department of medical imaging, Mohammed VI University of health sciences, Casablanca, Morocco Correspondence: Maya Abi Akl (Maya.AbiAkl@UGent.be) EJNMMI Physics 2018, 5(Suppl 1):A22 Background and aim Total body PET (TB-PET) is an emerging and promising concept in the field of medical imaging. It differentiates from the existing state- of-the-art whole-body PET scanners by a significant increase in body coverage by detectors. The proposed design has an axial field of view (FOV) of about 1 m considered to be the maximum standard sitting height of a human which will enable the most important or- gans of the body to be imaged simultaneously. In this work, the long axial TB-PET is simulated using the Geant4 application for tomo- graphic emission (GATE) simulation package. Material and methods The scanner design consists of 36 detector modules per ring, and each module is made up of 50mm x 50mm x 16mm monolithic LYSO crystals. Different axial lengths of the scanner are considered starting at 5 cm, the length of one ring, up to 104 cm, the length of 20 rings repeated in the axial direction with a gap of 0.2cm. The absolute sen- sitivity is studied for a point source but also for more realistic distri- butions like cylindrical air and water phantoms of different lengths. The results are shown in Table 1. Also Scatter Fraction (SF) results for all three distributions are shown in Table 2."
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    385.4,
+    530.3,
+    642.9,
+    553.1
+   ],
+   "ocr": "Table 2 (abstract A22). Scatter Fraction for point source, short phantom and long phantom in water"
+  },
+  "p4_b10": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    558.4,
+    666.4,
+    674.8
+   ],
+   "ocr": "Scatter Fraction (%)\nNumber of Point Source in 100 cm 20 cm water 100 cm water\nrings water phantom phantom phantom\n4 24 26 28\n8 29 27 30\n12 32 27 30\n16 33 26 30\n20 34 26 30",
+   "table_id": "PMC6023806_table_5"
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    385.4,
+    723.1,
+    680.6,
+    859.9
+   ],
+   "ocr": "A23 Total-body dynamic imaging and late time-point antibody imaging in rhesus monkeys using the mini-EXPLORER scanner Eric Berg1, Elizabeth Li1, Xuezhu Zhang1, Simon Williams2, Alice F. Tarantal3, Ramsey D. Badawi1,4, Simon R. Cherry1,4 1Department of Biomedical Engineering, University of California-Davis, Davis, CA, USA; 2Department of Biomedical Imaging, Genentech Inc., South San Francisco, CA, USA; 3Department of Pediatrics and Cell Biology, California National Primate Research Center, University of California-Davis, Davis, CA, USA; 4Department of Radiology, University of California-Davis, Sacramento, CA, USA EJNMMI Physics 2018, 5(Suppl 1):A23"
+  }
+ }
+}

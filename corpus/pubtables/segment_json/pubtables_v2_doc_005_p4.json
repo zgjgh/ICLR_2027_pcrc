@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_005",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.7,
+    678.3,
+    54.4
+   ],
+   "ocr": "Rabbi and Mazzuco Genus (2018) 74:18 Page 13 of 28"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    148.5,
+    108.3,
+    484.1,
+    121.3
+   ],
+   "ocr": "Table 4 One-step-ahead forecast bias of the fitted models in terms of MSE"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    126.6,
+    601.6,
+    277.0
+   ],
+   "ocr": "Country LC LCP LM BMS HU HUR HUW LL\nBelarus – – 0.079 – – – 0.033 –\nBulgaria 0.044 0.037 0.033 0.038 0.047 0.045 0.034 0.034\nEstonia 0.141 0.137 0.283 0.151 0.214 0.204 0.176 0.167\nHungary 0.065 0.057 0.049 0.052 0.048 0.047 0.042 0.057\nLatvia 0.110 0.110 0.140 0.109 0.115 0.134 0.107 0.051\nLithuania 0.262 0.079 0.128 0.096 0.074 0.086 0.079 0.127\nRussia – – – – – 0.010 – –\nSlovakia 0.112 0.111 0.1967 0.130 0.169 0.163 0.162 0.109\nUkraine – – – – – 0.015 0.008 –",
+   "table_id": "PMC6223892_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    283.0,
+    602.0,
+    927.7
+   ],
+   "ocr": "A blank place means the forecast of e0 was lower than the last observed value of e0. corresponding fitting periods (Table 2) are omitted. In terms of MAE and MSE, the lowest errors were found for HUW. For high-mortality contexts, the lowest MAE and MSE were not always obtained using the identical method for a country. Except for HU variants, all other models overestimated the mortality rates and produced lower life expectancy as a consequence. The other LC variants slightly underestimated the mortality rates during the fitting period. The basic LC method returned a high MAE for Estonia and Lithuania. Some values of MSE indicate overfitting of corresponding models. Forecast accuracies were close for the basic LC variants, except for BMS. Contrary to the optimistic forecast obtained for all three Baltic countries and Slovakia, BMS was not the best forecast tech- nique in term of MAE. The different results of the LC variants imply the influence of different adjusting techniques for the time component of the model. We employed the LC method without any adjustment for the time component, and the results were different than those of the existing LC variants. Nevertheless, in terms of forecast accuracy or an optimistic forecast, it was not possible to declare a particular model unquestionably and uniquely best for all of these countries. For the developed countries, almost the same sit- uations were observed, prompting the conclusion that no model performed uniquely well for all countries (Shang et al. 2011; Shang 2012). Coherent forecasting Our study is unique compared to previous comparisons because we considered coherent mortality forecasting for high-mortality countries as well. Moreover, the reference popu- lation of the coherent forecast was completely comprised of countries with high-mortality regime compared to previous studies with mixture of countries from low mortality regimes (Li and Lee 2005). We fitted the model from 1970 to 2010 for coherent forecast- ing due to data problems in earlier years and ended with Bulgarian mortality data for 2010. Therefore, the 40 years ahead forecasts give us future life expectancy in 2050. The coherent mortality forecast could not produce more optimistic results than the LC and HU variants for any of the countries. However, it was the most accurate method for Latvia in terms of MAE and MSE and for Slovakia in terms of MSE. The scope of coherent mor- tality forecasting for these comparatively high-mortality countries became restricted due to the lack of long time series data. The results of coherent mortality forecasting for the- ses countries are shown in Table 2. LL produced the most pessimistic forecast among all methods for Bulgaria, Hungary, Latvia, and Slovakia. For the sake of comparability, the same fitting period (1970–2010) is used for different LC and HU variants, the results are shown in Table 5."
+  }
+ }
+}

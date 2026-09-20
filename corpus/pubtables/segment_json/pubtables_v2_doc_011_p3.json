@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_011",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    424.9,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Improvement for reduction of catastrophic health expenditure in China"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    381.7,
+    107.6
+   ],
+   "ocr": "Table 4. Reimbursement policy of health insurance in Jiujiang, Jiangxi Province."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.3,
+    722.0,
+    257.7
+   ],
+   "ocr": "Yearly Reimburement Amount Nominal Reimbursement CII Deductible CII Policy Payment cap by CII\nMaximum by BHI(RMB) Ratio (RMB) (RMB)\nBHIUE 60000 85%-90% 8000 Step Subsidy Ratio Policy: 190000\n8000–10000, 30%; 10001–20000 40%;\n20001 or above 50%;\nBHIUR 50000 50%-75% 5000 Step Subsidy Ratio Policy: 70000\n5000–8000, 20%; 8000–20000 30%;\n20001 or above 50%;\nNRCMS 80000 50%-75% 9000 Step Subsidy Ratio Policy: 250000\n9001–59000, 50%; 59001–109000, 60%;\n109001 or above 70%;",
+   "table_id": "PMC5892907_table_3"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    266.0,
+    727.2,
+    637.1
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0194915.t004 Modeling for health insurance system This model will be established based on current health insurance policy of Jiujiang City, Jiangxi Province (shown in Table 4). BHI includes BHIUE, BHIUR, and NRCMS, which are represented by 1, 2, and 3, respec- tively. Numbers 4 and 5 are assigned to urban residents and rural residents without insurance, respectively. Type of Basic Health Insurance IF THEN ELSE ¼ ðPatient status IF THEN ELSEðPatient status IF THEN ¼ ¼ ð3Þ 1; 1; 2; 2; ELSEðPatient status IF THEN ELSEðPatient status ¼ ¼ 5ÞÞÞÞ 3; 3; 4; 4; The actual reimbursement ratio of three insurance coverages are different and lower than their respective nominal reimbursement ratio. Data collection in the sample hospital shows that they are about 70%, 50%, and 39%. For those without insurance, the reimbursement ratio is 0%. Payment percentage by BHI IF THEN ELSE ¼ ðType of Basic Health Insurance IF THEN ¼ 1; 0:7; ð4Þ ELSEðType of Basic Health Insurance IF THEN ¼ 2; 0:5; ELSEðType of Basic Health Insurance"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    616.7,
+    615.3,
+    690.5,
+    637.1
+   ],
+   "ocr": "¼ 0ÞÞÞ"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    277.6,
+    615.4,
+    727.2,
+    737.9
+   ],
+   "ocr": "3; 0:39; Payment of BHI Hospitalization expense per case � Payment percentage by BHI ¼ ð5Þ Out�of �pocket amount paid by patient ð6Þ INTEGERððHospitalization expense per case�Payment"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    244.5,
+    714.2,
+    722.6,
+    876.1
+   ],
+   "ocr": "¼ BHIÞ�100Þ=100 The variable “Accumulated reimbursement of BHI” is a LEVEL variable in Vensim, and its initial value is 0. In Table 4, CII deductibles are 8,000, 5,000, and 9,000 RMB for BHIUE, BHIUR, and NRCMS cases, respectively. In the model, the deductible for cases without insurance coverage is set to be 1×108, which means no subsidy from health insurance. Deductible of CII 1eþ008Þ�;"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    578.4,
+    714.2,
+    587.6,
+    730.4
+   ],
+   "ocr": "of"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    578.8,
+    852.4,
+    664.5,
+    868.5
+   ],
+   "ocr": "1e 1e"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    257.1,
+    854.3,
+    727.2,
+    898.4
+   ],
+   "ocr": "¼ ð½ð0; 0Þ�ð10; ð1; 8000Þ; ð2; 5000Þ; ð3; 9000Þ; ð4; þ 008Þ; ð5; þ 008Þ Þð7Þ Because of different health insurance coverages have different deductibles, the types of CII"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0194915 April 10, 2018 7 / 21"
+  }
+ }
+}

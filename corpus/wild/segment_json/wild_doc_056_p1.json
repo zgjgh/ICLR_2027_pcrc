@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_056",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    99,
+    580,
+    126
+   ],
+   "ocr": "The first table presents data categorized under \"Category\" and \"Number,\" with \"Patient cognition\" at 23, \"Medicine safety\" at 25, \"Involvement strategy\" at 9, \"Medical staff-related\" at 11, culminating in a \"Total\" of 68."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    114,
+    580,
+    142
+   ],
+   "ocr": "The second table outlines various \"Parameter\" metrics across three strata, detailing coefficients (β), standard errors (SE), and P values."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    188.0,
+    580.0,
+    315.0
+   ],
+   "ocr": "Category Number\nPatient cognition 23\nMedicine safety 25\nInvolvement strategy 9\nMedical staff-related 11\nTotal 68",
+   "table_id": "img_060852_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    357.0,
+    580.0,
+    540.0
+   ],
+   "ocr": "Parameter Stratum 1 Stratum 2 Stratum 3\nβ SE P value β SE P value β SE P value\nAge (years) 0.069 0.039 n.s. 0.153 0.153 <0.001 −0.071 0.040 n.s.\nMale: 1, female: 0 0.083 0.754 n.s. 0.119 0.381 <0.01 0.181 0.726 <0.05\nSBP (mmHg) 0.045 0.017 n.s. 0.100 0.010 <0.01 0.128 0.017 n.s.\nHbA1c (%) 0.272 0.165 <0.001 0.236 0.091 <0.001 0.128 0.170 n.s.\nLog10 AER (μg/min) 0.185 0.485 <0.001 0.195 0.246 <0.001 0.516 0.388 <0.001\nRetinopathy: 1, None: 0 0.085 0.730 n.s. 0.054 0.357 n.s. −0.075 0.647 n.s.\nHemoglobin (g/L) −0.086 0.269 n.s. −0.071 0.132 n.s. −0.249 0.201 <0.01",
+   "table_id": "img_060852_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    566,
+    580,
+    640
+   ],
+   "ocr": "For the first stratum, \"Age (years)\" shows β at 0.069, SE at 0.039, and P value as n.s.; \"Male: 1, female: 0\" has β at 0.083, SE at 0.754, and P value as n.s.; \"SBP (mmHg)\" has β at 0.045, SE at 0.017, and P value as n.s.; \"HbA1c (%)\" reports β at 0.272, SE at 0.165, with a P value <0.001; \"Log10 AER (μg/min)\" indicates β at 0.185, SE at 0.485, and P value <0.001; \"Retinopathy: 1, None: 0\" shows β at 0.085, SE at 0.730, and P value as n.s.; \"Hemoglobin (g/L)\" has β at −0.086, SE at 0.269, and P value as n.s."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    628,
+    580,
+    763
+   ],
+   "ocr": "In the second stratum, \"Age (years)\" has β at 0.153, SE at 0.153, and P value <0.001; \"Male: 1, female: 0\" shows β at 0.119, SE at 0.381, and P value <0.01; \"SBP (mmHg)\" has β at 0.100, SE at 0.010, with P value <0.01; \"HbA1c (%)\" reports β at 0.236, SE at 0.091, with P value <0.001; \"Log10 AER (μg/min)\" shows β at 0.195, SE at 0.246, with P value <0.001; \"Retinopathy: 1, None: 0\" has β at 0.054, SE at 0.357, P value as n.s.; \"Hemoglobin (g/L)\" reports β at −0.071, SE at 0.132, and P value as n.s. In the third stratum, \"Age (years)\" has β at −0.071, SE at 0.040, with P value as n.s.; \"Male: 1, female: 0\" shows β at 0.181, SE at 0.726, P value <0.05; \"SBP (mmHg)\" has β at 0.128, SE at 0.017, with P value as n.s.; \"HbA1c (%)\" shows β at 0.128, SE at 0.170, with P value as n.s.; \"Log10 AER (μg/min)\" indicates β at 0.516, SE at 0.388, with P value <0.001; \"Retinopathy: 1, None: 0\" shows β at −0.075, SE at 0.647, with P value as n.s.; \"Hemoglobin (g/L)\" has β at −0.249, SE at 0.201, and P value <0.01."
+  }
+ }
+}

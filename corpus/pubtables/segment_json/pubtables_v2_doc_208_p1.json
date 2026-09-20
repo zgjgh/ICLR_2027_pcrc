@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_208",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    477.7,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Impact of Chaos Functions on Modern Swarm Optimizers"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    523.4,
+    107.4
+   ],
+   "ocr": "Table 1. The leadership hierarchy of the grey wolves pack."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    114.2,
+    719.7,
+    274.4
+   ],
+   "ocr": "Agent Responsibility\nAlphas Decision making for the whole pack regarding hunting, sleeping,. . .etc.\nBeta Help the alpha in decision-making and candidate to be the alpha.\nDelta This group have many rules and classes such as:\n• Scouts: Responsible for watching the boundaries of the territory and warning the pack in case of\nany danger.\n• Sentinels protect and guarantee the safety of the pack.\n• Elders are the experienced wolves who used to be alpha or beta.\n• Hunters help the alphas and betas when hunting prey and providing food for the pack.\n• Caretakers are responsible for caring for the weak, ill, and wounded wolves in the pack.\nOmega Babysitters in the pack and it is the last wolf allowed eating.",
+   "table_id": "PMC4943604_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    281.9,
+    393.3,
+    293.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158738.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    317.0,
+    727.3,
+    537.0
+   ],
+   "ocr": "1. Gray wolf optimization (GWO) GWO is a relatively new optimization algorithm proposed by Mirjalili et al. in 2014 [23]. This algorithm mimics the hunting process of grey wolves. Grey wolves often live in a pack with strict leadership hierarchy. Table 1 describes such hierarchy and the responsibility of each agent in the pack. For a pack to hunt prey, a set of phases are to be applied in sequence [24]: Prey encircling: the pack encircles a prey by repositioning individual agents according to the prey location. The encircling is modeled as in given Eq (1): A!:D!; X!ðt X! þ 1Þ ¼ pðtÞ þ ð1Þ where D! is as deﬁned in Eq (2), t is the iteration number, A! and C! are coefﬁcient vectors, X! is the prey position, and X! is the gray wolf position."
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    279.7,
+    525.1,
+    727.3,
+    606.7
+   ],
+   "ocr": "p jC!:X! ! D ¼ pðtÞ � X!ðtÞj; ð2Þ A!, C!"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    267.6,
+    591.9,
+    546.5,
+    641.4
+   ],
+   "ocr": "where vectors are calculated as in Eqs (3) and (4). A! 2a:r1!"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    464.2,
+    622.0,
+    727.3,
+    689.1
+   ],
+   "ocr": "a; ð3Þ ¼ � C! 2r2!;"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    267.6,
+    669.7,
+    727.3,
+    907.2
+   ],
+   "ocr": "¼ ð4Þ where a is linearly decreased from 2 to 0 over the course of iterations controlling exploration and exploitation, and r1, r2 are random vectors in [0, 1]. The value of a is the same for all wolves in the pack. By the end of encircling stage, the hunting stages start. Hunting: is performed by the whole pack based on the information coming from the alpha, beta and delta wolves which are expected to know the prey location. Alpha, beta, and delta are assumed to have better knowledge about the potential location of prey and hence are used as guides for hunting. Individual wolf in the pack updates its position as shown in the Eq (5): �! �! �!"
+  },
+  "p1_b9": {
+   "type": "title",
+   "bbox": [
+    410.3,
+    866.9,
+    727.3,
+    898.4
+   ],
+   "ocr": "X1 X2 X3 þ þ X!ðt ð5Þ þ 1Þ ¼ ;"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158738 July 13, 2016 3 / 26"
+  }
+ }
+}

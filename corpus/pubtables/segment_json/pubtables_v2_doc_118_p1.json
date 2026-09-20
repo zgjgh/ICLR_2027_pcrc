@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_118",
+  "page": 1,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    57.3,
+    285.5,
+    81.3
+   ],
+   "ocr": "Hackenberg et al. BMC Genomics 2010, 11:327 http://www.biomedcentral.com/1471-2164/11/327"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    626.5,
+    57.4,
+    677.7,
+    68.8
+   ],
+   "ocr": "Page 4 of 14"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    121.2,
+    391.3,
+    134.2
+   ],
+   "ocr": "Table 1: Co-localization of CpG islands and the promoter region."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    76.4,
+    145.4,
+    674.9,
+    386.2
+   ],
+   "ocr": "Method Number of predicted islands Genome coverage (%) Promoter overlap (R13)\nNumber of islands %\nTJ 37,323 1.43 14,034 37.60\nUCSC 27,639 0.74 13,369 48.40\nCpGproD 76,886 2.81 14,814 19.30\nCpGcluster:\nrelaxed set* 198,702 1.90 30,660 15.43\nstrict set** 25,454 0.65 13,349 52.40",
+   "table_id": "PMC2887419_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    76.4,
+    392.4,
+    215.8,
+    403.8
+   ],
+   "ocr": "*p-value ≤ 1E-5;** p-value ≤ 1E-20"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    428.0,
+    366.0,
+    567.3
+   ],
+   "ocr": "but it also reduced the number of gene promoter associ- ated islands, suggesting that bona fide CGIs were also being discarded [25]. However, raising the statistical sig- nificance (i.e. decreasing the p-value) of CpGcluster leads to an exponential increase in the overlap with promoters or PhastCons, simultaneously decreasing the overlap with Alu elements. CpGcluster algorithm is, therefore, a more rational and powerful way to increase CGI predic- tion quality. An additional advantage is that CpGcluster"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    429.0,
+    678.4,
+    506.7
+   ],
+   "ocr": "Prediction of unmethylated regions The most important criterion to assess putative function- ality of a CpG island is the absence of methylation. There- fore, the comparison to experimentally verified, unmethylated regions is another important analysis type"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    383.8,
+    503.6,
+    538.6,
+    521.9
+   ],
+   "ocr": "to establish prediction quality."
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    518.7,
+    678.5,
+    688.2
+   ],
+   "ocr": "Recently, the methylation status of 697 hypermethy- lated and 6,987 hypomethylated promoter regions in WI38 primary lung fibroblast [26] have been used to compare the prediction quality of TJ and CpGcluster algorithms [22]. In this study, the prediction quality was measured in the following way: i) true positives (TP): hypomethylated promoters containing a predicted island, ii) false positives (FP): hypermethylated promoters con- taining a predicted island, iii) true negatives (TN): hyper- methylated promoters not containing a predicted island, and iv) false negatives (FN): hypomethylated promoters"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    564.1,
+    365.8,
+    582.4
+   ],
+   "ocr": "p-value would be particularly useful in comparative"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    579.2,
+    365.9,
+    597.5
+   ],
+   "ocr": "genomics of CGIs, making possible the comparison of"
+  },
+  "p1_b11": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    594.3,
+    365.9,
+    612.6
+   ],
+   "ocr": "CGIs with the same statistical significance, but obtained"
+  },
+  "p1_b12": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    609.5,
+    365.8,
+    627.7
+   ],
+   "ocr": "from different species, despite variations in G + C content"
+  },
+  "p1_b13": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    624.6,
+    151.6,
+    787.2
+   ],
+   "ocr": "or CpG density. 0 -50 -100 log10(p-value)"
+  },
+  "p1_b14": {
+   "type": "title",
+   "bbox": [
+    383.8,
+    685.0,
+    555.7,
+    703.3
+   ],
+   "ocr": "not containing a predicted island."
+  },
+  "p1_b15": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    700.1,
+    678.5,
+    869.5
+   ],
+   "ocr": "However, in our opinion, there is an important pitfall in such an approach. It is known that the methylation state of a given region can change among different tissues; therefore, assigning a \"false positive\" label to a predicted island which has been shown to be methylated in a single tissue may be misleading, as the same prediction could be perfectly \"true positive\" if measured in a different tissue. Fortunately, Weber et al. [26] also determined the methylation states in sperm. Analyzing fibroblast and sperm data together, we observed that 11,260 regions are unmethylated in both tissues but 1,550 are unmethylated"
+  },
+  "p1_b16": {
+   "type": "paragraph",
+   "bbox": [
+    78.9,
+    837.0,
+    356.6,
+    930.2
+   ],
+   "ocr": "-350 0 500 1000 1500 2000 2500 3000 3500 Island length (bp) Figure 2 The length of CpGcluster islands vs. the logarithm of the assigned p-value. It can be seen that no linear correlation exists and that the relation between p-value and length is more complex, e.g. the p-value depends on both the island length and the island density."
+  },
+  "p1_b17": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    866.4,
+    678.2,
+    884.7
+   ],
+   "ocr": "in one tissue but methylated in the other one. This means"
+  },
+  "p1_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    881.5,
+    678.3,
+    899.8
+   ],
+   "ocr": "that around 12% of the regions are differentially methy-"
+  },
+  "p1_b19": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    896.6,
+    678.3,
+    914.9
+   ],
+   "ocr": "lated; therefore, a substantial number of FPs were actually"
+  },
+  "p1_b20": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    911.7,
+    678.4,
+    930.0
+   ],
+   "ocr": "TPs. Given these data, in our opinion, without the knowl-"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_178",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    525.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Colored Petri Net Based SHER Mobility Model"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    400.4,
+    726.3,
+    790.9
+   ],
+   "ocr": "Fig 10. The HOTSPOT module after 2300 steps which reflects two hotspots “A” and “E.” doi:10.1371/journal.pone.0133634.g010 3 Simulation Analysis and Discussion In order to simulate and verify the SHER mobility model, we used the CPN state space tool and implemented a state space construction algorithm. The state space analysis allowed us to analyze all the standard behavioral properties of the model such as boundedness, reachability, liveness, home and fairness. For simplify the analysis and monitor the behavior of the proposed model and its movement patterns, the state space tool’s options were fixed in order to partially generate a simulation up to 1000 sec. Table 4 shows the initial part of the standard state space report for the movement of one MH and its statistics. It specifies that the O-graph (occurrence graph) has 42244 nodes and 57145 arcs, and the Strongly Connected Graphs (SSG) immedi- ately reveals that cycles exist, and the model has an infinite occurrences sequences and does not terminate. It took four seconds to calculate the SSG. The MH moved in communication range without any restriction. Fig 11 depicts the partial state space that represents the O-graph. 3.1 Reachability Graph Reachability analysis techniques are widely used in formal verification of the concurrent sys- tems and protocols [39][40]. As shown in Fig 11, the initial fragment of the O-graph has 49 nodes and 48 arcs, and it can be seen that each node (marking) is inscribed with three integers where the topmost integer in the node of the O-graph indicates the node number and the other Table 4. State space report–statistics."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    799.6,
+    726.6,
+    877.9
+   ],
+   "ocr": "Line No. State Space Scg Graph\n1. Nodes:42244 Nodes:42244\n2. Arcs: 57145 Arcs: 57145\n3. Secs: 1000 Secs: 4\n4. Status: Partial",
+   "table_id": "PMC4534131_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0133634.t004"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0133634 August 12, 2015 20 / 30"
+  }
+ }
+}

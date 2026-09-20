@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_395",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    678.6,
+    66.0
+   ],
+   "ocr": "Mentz et al. BMC Health Services Research 2012, 12:312 Page 4 of 11 http://www.biomedcentral.com/1472-6963/12/312"
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.7,
+    366.1,
+    496.4
+   ],
+   "ocr": "HEP1 NHANES2\n(N = 919) (N = 1114)\nAge, mean (stddev3) 46.3(0.8) 48.2(0.4)\nAge, % 25-34 46.1 46.3\n35-49 33.6 34.4\n50+ 20.3 19.3\nGender, % Female 52.3 52.1\nMarital Status, % Married 26.4 62.4\nRace/Ethnicity, % Latino 22.2 12.3\nnon-Hispanic White 18.8 72.7\nnon-Hispanic Black 56.8 10.5\nOther 2.3 4.5\nEducation, % <12 years 37.3 19.0\n12 years 29.5 25.0\n>12 years 33.2 56.0\nAnnual Household <$10,000 27.3 18.3\nIncome4, %\n$10,000-19,999 26.0 15.5\n$20,000-34,999 23.6 21.6\n$35,000+ 23.0 44.6\nNumber of members 2.8(0.1) 3.7(0.1)\nin HU, mean(stddev)",
+   "table_id": "PMC3483283_table_0"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    425.3,
+    678.6,
+    877.0
+   ],
+   "ocr": "N HBP2 Prevalences Difference3\nClinical Self-reported\nOverall 919 40.1 29.7 10.4\nAge\n25-34 242 15.6 8.2 7.4\n35-49 342 34.3 23.3 11.0\n50+ 335 64.8 52.5 12.3\nGender\nFemale 632 39.2 31.9 7.3\nMale 287 41.1 27.2 13.9\nMarital Status\nCurrent Married 230 38.3 27.5 10.8\nNot Married 689 49.5 37.8 11.7\nRace/ethnicity\nLatino 182 26.6 16.0 10.6\nnon-Hispanic White 199 41.2 27.3 13.9\nnon-Hispanic Black 522 46.0 36.3 9.7\nEducation\n<12 327 43.5 31.4 12.1\n12 259 38.3 28.9 9.4\n12+ 321 37.8 28.8 9.0\nAnnual Household Income\n<$10,000 250 47.7 40.4 7.3\n$10,000-19,999 238 39.4 29.7 9.7\n$20,000-34,999 230 37.3 23.7 13.6\n$35,000+ 201 34.7 22.8 11.9",
+   "table_id": "PMC3483283_table_1"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    502.7,
+    344.5,
+    534.0
+   ],
+   "ocr": "1: Healthy Environments Partnership. 2: National Health and Examination Survey restricted age 25+ and Urban. 3: Stddev = Standard deviation."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    561.0,
+    366.1,
+    754.5
+   ],
+   "ocr": "The parameter estimates from these two logistic mod- els were then applied (‘plug-in method’) to the HEP sample to obtain re-calibrated estimates of sensitivity and specificity for the HEP sample, for each participant as follows: exp � Xi^βo � ð1Þ specify 1 ^P CHi 1jSRi 0; Xi 1 � � ¼ � ð ¼ ¼ Þ ¼ � 1 exp Xi^βo þ exp � Xi^β1 � sensitivity ^P CHi"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    137.4,
+    736.1,
+    340.6,
+    776.9
+   ],
+   "ocr": "1jSRi 1; Xi � � ¼ ð ¼ ¼ Þ ¼"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    268.2,
+    745.6,
+    333.6,
+    761.6
+   ],
+   "ocr": "1 exp Xi ^β1"
+  },
+  "p1_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    897.3,
+    366.0,
+    911.0
+   ],
+   "ocr": "HEP dataset. These are described below as Method 1"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    904.8,
+    538.5,
+    914.7
+   ],
+   "ocr": "currently taking hypertensive medication."
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    912.4,
+    613.2,
+    926.2
+   ],
+   "ocr": "and 2. 3: Difference between clinical and self-reported hypertension."
+  }
+ }
+}

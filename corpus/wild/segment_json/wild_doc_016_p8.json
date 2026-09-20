@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_016",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The table presents data from a kinase assay involving the compound JTP-74057 and its interaction with the substrate PD0325901, detailing various IC50 values in nanomolar (nM) concentrations. The first row, labeled MEK/ERK, shows an IC50 value of 290 nM for p-MEK1 and an IC50 value of 110 nM for ERK2."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    140
+   ],
+   "ocr": "The second row, p-MEK2, has an IC50 value of 190 nM for ERK2 and 140 nM for its respective substrate. In the Raf/MEK/ERK category, the B-Raf/u-MEK1 yields IC50 values of 3.5 nM for ERK2 and 4.1 nM for its corresponding substrate. The B-Raf/u-MEK2 row indicates IC50 values of 5.3 nM for ERK2 and 3.6 nM for its substrate."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    378.0
+   ],
+   "ocr": "Kinase assay Kinase Substrate IC50 value (nM)\nJTP-74057 PD0325901\nMEK/ERK p-MEK1 ERK2 290 110\np-MEK2 ERK2 190 140\nRaf/MEK/ERK B-Raf/u-MEK1 ERK2 3.5 4.1\nB-Raf/u-MEK2 ERK2 5.3 3.6\nc-Raf/u-MEK1 ERK2 11 24\nc-Raf/u-MEK2 ERK2 7.9 6.0\nRaf/MBP B-Raf MBP >10,000 >10,000\nc-Raf MBP >10,000 >10,000\nCell proliferation (HT-29) 0.57 3.4",
+   "table_id": "img_017061_t0"
+  },
+  "p8_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    394,
+    580,
+    422
+   ],
+   "ocr": "The c-Raf/u-MEK1 row reports IC50 values of 11 nM for ERK2 and 24 nM for the substrate, while the c-Raf/u-MEK2 row presents IC50 values of 7.9 nM for ERK2 and 6.0 nM for its substrate."
+  },
+  "p8_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    410,
+    580,
+    468
+   ],
+   "ocr": "Both the Raf/MBP and c-Raf rows show IC50 values greater than 10,000 nM for both B-Raf and MBP, indicating a lack of potency. Lastly, the Cell proliferation (HT-29) entry displays values of 0.57 and 3.4, respectively, summarizing the effects of JTP-74057 and PD0325901 on cell proliferation in the specified cell line."
+  }
+ }
+}

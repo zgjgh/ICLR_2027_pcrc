@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_002",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    81.0
+   ],
+   "ocr": "In the ongoing pursuit of identifying candidate genes associated with various phenotypic traits, the integration of advanced methodologies is crucial."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    401.0
+   ],
+   "ocr": "Identifying Candidate Genes\nWGA Text Based Search\nData Source Genotyping and Phenotyping Entrez Gene\nCurrent Availability of Data Limited Available\nExpense High Free (Taxpayer Subsidized)\nSensitivity Low; limited number of markers tested Low; much remains unknown about most genes\nPositive Predictive Value Low; many false positives High; curated information is backed by experimental data and peer review\nPopulation Specific Yes Generally no, although population specific information may be included in some records\nSpecific Variants Identified Yes, although SNPs that tag haplotypes may not be disease causing variants Generally no, although specific variants may be annotated. Separate genotyping is usually required for validated candidates\nMulti-Gene Effects on Phenotype Limited Yes\nComplex Phenotypes Limited Yes",
+   "table_id": "img_002358_t0"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    417,
+    580,
+    490
+   ],
+   "ocr": "The data presented in Table 1, titled \"Identifying Candidate Genes,\" summarizes the results of a whole genome association (WGA) study alongside findings from a text-based search. These complementary approaches offer a robust framework for gene identification, enabling researchers to leverage both genomic data and existing literature. The first column, “Gene Name,” lists the candidate genes that have been identified through both WGA and literature search methodologies. This multi-faceted approach is essential for validating gene-trait associations and ensuring the relevance of the identified candidates."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    478,
+    580,
+    567
+   ],
+   "ocr": "Additionally, the “Phenotypic Trait” column provides critical context by linking each gene to specific observable characteristics, further enhancing the understanding of gene function and its potential applications in breeding programs. By synthesizing data from these two methods, the table underscores the importance of a comprehensive strategy in genetic research, which not only aids in the identification of novel candidate genes but also facilitates the exploration of their functional roles in complex traits. This integrated approach is vital for advancing our knowledge in genetics and improving agricultural productivity."
+  }
+ }
+}

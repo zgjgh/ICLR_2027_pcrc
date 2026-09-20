@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_398",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3519850_table_0",
+   "page_num": 1,
+   "bbox": [
+    80.9,
+    697.8,
+    665.6,
+    840.5
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3519850_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Strain</td><td rowspan=\"2\">SBI Genotypea</td><td rowspan=\"2\">Genome size (bp)b</td><td rowspan=\"2\">BamHI fragments (No.)</td><td colspan=\"4\">Total number of genetic rearrangementsc</td></tr><tr><td>Insertions</td><td>Deletions</td><td>RFLP</td><td>Others</td></tr><tr><td>E2325</td><td>CG-1 (AY2)</td><td>5,407,641</td><td>478</td><td>2</td><td>6</td><td>24</td><td>1 Inv, 3 Sub</td></tr><tr><td>E5252</td><td>CG-3 (WY12)</td><td>5,376,952</td><td>488</td><td>0</td><td>7</td><td>7</td><td>1 Sub</td></tr><tr><td>E3046</td><td>CG-3 (WY12)</td><td>5,486,716</td><td>540</td><td>1</td><td>0</td><td>16</td><td>1 Inv, 1 Sub</td></tr><tr><td>E5880</td><td>BBG-5 (SY2c)</td><td>5,426,915</td><td>532</td><td>2</td><td>7</td><td>12</td><td>2 Inv, 5 Sub</td></tr><tr><td>E3855</td><td>BBG-5 (SY2c)</td><td>5,390,209</td><td>500</td><td>5</td><td>10</td><td>16</td><td>3 Sub</td></tr><tr><td>E2309</td><td>BBG-6 (ASY12c)</td><td>5,504,252</td><td>518</td><td>3</td><td>6</td><td>11</td><td>1 Inv, 1 Tnv, 3 Sub</td></tr><tr><td>E6996</td><td>BBG-6 (ASY12c)</td><td>5,583,835</td><td>551</td><td>4</td><td>5</td><td>18</td><td>4 Sub</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3519850_table_1",
+   "page_num": 2,
+   "bbox": [
+    80.9,
+    121.8,
+    673.9,
+    637.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3519850_table_1.png",
+   "html": "<table><tr><td>Primer</td><td>Dye</td><td>Oligonucleotide sequences (59-39)</td><td>Target</td><td>Amplicon (bp)</td><td>Reference</td></tr><tr><td>2851-80</td><td>PET</td><td>GTGCTTGGGTCTTTTCTCTG</td><td>Phage-sbcB left junction</td><td>914</td><td>[26]</td></tr><tr><td>sbcB-R2</td><td>None</td><td>TCCAGGCGTAAGGATCGTAG</td><td></td><td></td><td>This study</td></tr><tr><td>sbcB-F</td><td>VIC</td><td>GACAGCAGAAACAACGGATTTAAC</td><td>Phage-sbcB right junction</td><td>730</td><td>This study</td></tr><tr><td>2851-82</td><td>None</td><td>CCAGCGTGGGATAAAAGAGAATC</td><td></td><td></td><td>[26]</td></tr><tr><td>sbcB-F</td><td>VIC</td><td>GACAGCAGAAACAACGGATTTAAC</td><td>sbcB insertion site</td><td>406</td><td>This study</td></tr><tr><td>sbcB-R2</td><td>None</td><td>TCCAGGCGTAAGGATCGTAG</td><td></td><td></td><td>This study</td></tr><tr><td>F</td><td>6FAM</td><td>CACCGGAAGGACAATTCATC</td><td>Phage-yehV left junction</td><td>824</td><td>[10]</td></tr><tr><td>B</td><td>None</td><td>AACAGATGTGTGGTGAGTGTCTG</td><td></td><td></td><td>[10]</td></tr><tr><td>A</td><td>PET</td><td>AAGTGGCGTTGCTTTGTGAT</td><td>Phage-yehV right junction</td><td>702</td><td>[10]</td></tr><tr><td>E</td><td>None</td><td>GATGCACAATAGGCACTACGC</td><td></td><td></td><td>[10]</td></tr><tr><td>A</td><td>PET</td><td>AAGTGGCGTTGCTTTGTGAT</td><td>Phage-yehV variant right junction</td><td>295</td><td>[10]</td></tr><tr><td>E3</td><td>None</td><td>AGCGATACAGATCTCAACAC</td><td></td><td></td><td>This study</td></tr><tr><td>A</td><td>PET</td><td>AAGTGGCGTTGCTTTGTGAT</td><td>yehV insertion site</td><td>340</td><td>[10]</td></tr><tr><td>B</td><td>None</td><td>AACAGATGTGTGGTGAGTGTCTG</td><td></td><td></td><td>[10]</td></tr><tr><td>C</td><td>6FAM</td><td>AGGAAGGTACGCATTTGACC</td><td>Phage-wrbA right junction</td><td>592</td><td>[10]</td></tr><tr><td>G</td><td>None</td><td>ATCGTTCGCAAGAATCACAA</td><td></td><td></td><td>[10]</td></tr><tr><td>H</td><td>PET</td><td>CCGACCTTTGTACGGATGTAA</td><td>Phage-wrbA left junction</td><td>506/537</td><td>[10]</td></tr><tr><td>D</td><td>None</td><td>CGAATCGCTACGGAATAGAGA</td><td></td><td></td><td>[10]</td></tr><tr><td>C</td><td>6FAM</td><td>AGGAAGGTACGCATTTGACC</td><td>wrbA insertion site</td><td>314</td><td>[10]</td></tr><tr><td>D</td><td>None</td><td>CGAATCGCTACGGAATAGAGA</td><td></td><td></td><td>[10]</td></tr><tr><td>argW-A</td><td>VIC</td><td>CCGTAACGACATGAGCAACAAG</td><td>Phage-argW right junction</td><td>583</td><td>This study</td></tr><tr><td>argW-B</td><td>None</td><td>GCAGTATCACGCAGAGCTGAAG</td><td></td><td></td><td>This study</td></tr><tr><td>argW-C</td><td>6FAM</td><td>GCATCTCACCGACGATAACA</td><td>Phage-argW left junction</td><td>462</td><td>This study</td></tr><tr><td>argW-D</td><td>None</td><td>AATTAGCCCTTAGGAGGGGC</td><td></td><td></td><td>This study</td></tr><tr><td>argW-A</td><td>VIC</td><td>CCGTAACGACATGAGCAACAAG</td><td>argW insertion site</td><td>216</td><td>This study</td></tr><tr><td>argW-D</td><td>None</td><td>AATTAGCCCTTAGGAGGGGC</td><td></td><td></td><td>This study</td></tr><tr><td>Stx1-2</td><td>VIC</td><td>CACAGACTGCTGCAGTGAGG</td><td>Stx1</td><td>475</td><td>[20]</td></tr><tr><td>Stx1-1</td><td>None</td><td>CAGTTAATGTGGTGGCGAAG</td><td></td><td></td><td>[20]</td></tr><tr><td>stx2-1072F</td><td>NED</td><td>AGGATGACACATTTACAGTGAAGGTT</td><td>Stx2a -specific</td><td>126</td><td>[50]</td></tr><tr><td>stx2-1197R</td><td>None</td><td>CACAGGTACTGGATTTGATTGTGAC</td><td></td><td></td><td>[50]</td></tr><tr><td>stx2c-F858</td><td>NED</td><td>CGACAGGCCCGTTATAAAAA</td><td>Stx2c -specific</td><td>243</td><td>This study</td></tr><tr><td>stx2c-R1100</td><td>None</td><td>GGCCACTTTTACTGTGAATGTATC</td><td></td><td></td><td>[5]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3519850_table_2",
+   "page_num": 3,
+   "bbox": [
+    80.9,
+    713.5,
+    679.2,
+    851.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3519850_table_2.png",
+   "html": "<table><tr><td colspan=\"4\">Sakai straina</td><td rowspan=\"2\">BBG strainsc</td><td rowspan=\"2\">Polymorphism</td><td rowspan=\"2\">Size (bp)</td><td rowspan=\"2\">Stx-associated bacteriophaged</td></tr><tr><td>Start Location (bp)</td><td>End Location (bp)</td><td>Fragment</td><td>Featuresb</td></tr><tr><td>2,740,136</td><td>2,803,536</td><td>334&#8211;335</td><td>SpLE2 (sbcB)</td><td>1,2,3,4</td><td>Insertion</td><td>,60,000</td><td>Stx2c</td></tr><tr><td>3,172,859</td><td>3,198,717</td><td>377&#8211;380</td><td>Sp16 (argW)</td><td>3</td><td>Insertion</td><td>48,365</td><td>Stx2a</td></tr><tr><td>3,198,717</td><td>3,219,331</td><td>381&#8211;382</td><td>SP16 (argW)</td><td>4</td><td>Insertion</td><td>58,185</td><td>Stx2a</td></tr><tr><td>1,246,750</td><td>1,310,488</td><td>142&#8211;151</td><td>Sp5</td><td>1,2,3,4</td><td>Deletion</td><td>63,738</td><td>Stx2a</td></tr><tr><td>2,912,120</td><td>2,943,884</td><td>347&#8211;349</td><td>Sp15</td><td>1</td><td>RFLP</td><td>3,718</td><td>Stx1</td></tr><tr><td>2,912,120</td><td>2,943,884</td><td>347&#8211;349</td><td>Sp15</td><td>2</td><td>Substitution</td><td>13,840</td><td>Stx1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3519850_table_3",
+   "page_num": 4,
+   "bbox": [
+    80.9,
+    122.0,
+    691.2,
+    490.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3519850_table_3.png",
+   "html": "<table><tr><td>SBI Genotype Codinga</td><td>Bovine (%)</td><td>Human (%)</td><td>Total (%)</td><td>SBI Genogroupb</td><td>P-valueb</td><td>Former SBI genotype designation (%)c</td></tr><tr><td>WY12</td><td>92 (40.5)</td><td>97 (50.5)</td><td>189 (45.1)</td><td>CG</td><td>0.048</td><td>3 (91), 7 (6.4), 18 (2.1), 22 (0.5)</td></tr><tr><td>AY2</td><td>11 (4.8)</td><td>47 (24.5)</td><td>58 (13.8)</td><td>CG</td><td>,0.0001</td><td>1 (96.6), 19 (3.5)</td></tr><tr><td>SY2c</td><td>45 (19.8)</td><td>2 (1.0)</td><td>47 (11.2)</td><td>BBG</td><td>,0.0001</td><td>5 (87.2), 1 (10.6), 19 (2.1)</td></tr><tr><td>ASY12c</td><td>38 (16.7)</td><td>8 (4.2)</td><td>46 (11.0)</td><td>BBG</td><td>,0.0001</td><td>6 (100)</td></tr><tr><td>ASY22c</td><td>5 (2.2)</td><td>15 (7.8)</td><td>20 (4.8)</td><td>CG</td><td>0.01</td><td>1 (85), 5 (15)</td></tr><tr><td>SY12c</td><td>14 (6.2)</td><td>0 (0.0)</td><td>14 (3.3)</td><td>BBG</td><td>0.0004</td><td>6 (92.9), 16 (7.1)</td></tr><tr><td>ASY2</td><td>1 (0.4)</td><td>12 (6.3)</td><td>13 (3.1)</td><td>CG</td><td>0.0005</td><td>1 (100)</td></tr><tr><td>W2</td><td>3 (1.3)</td><td>8 (4.2)</td><td>11 (2.6)</td><td>Unclassified</td><td>0.12</td><td>4 (100)</td></tr><tr><td>WY2</td><td>4 (1.8)</td><td>0 (0.0)</td><td>4 (1.0)</td><td>Unclassified</td><td>N/A</td><td>2 (100)</td></tr><tr><td>Y</td><td>4 (1.8)</td><td>0 (0.0)</td><td>4 (1.0)</td><td>Unclassified</td><td>N/A</td><td>17 (75), 10 (25)</td></tr><tr><td>ASY2c</td><td>2 (0.9)</td><td>0 (0.0)</td><td>2 (0.5)</td><td>Unclassified</td><td>N/A</td><td>5 (100)</td></tr><tr><td>AWY12</td><td>1 (0.4)</td><td>1 (0.5)</td><td>2(0.5)</td><td>Unclassified</td><td>N/A</td><td>3, 18</td></tr><tr><td>AY</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>10 (100)</td></tr><tr><td>Y1</td><td>0 (0.0)</td><td>1 (0.5)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>8 (100)</td></tr><tr><td>ASY1</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>13 (100)</td></tr><tr><td>AY1</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>13 (100)</td></tr><tr><td>WY1</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>22 (100)</td></tr><tr><td rowspan=\"2\">SWY2c</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>12 (100)</td></tr><tr><td>0 (0.0)</td><td>1 (0.5)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>9 (100)</td></tr><tr><td>SY122c</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>6 (100)</td></tr><tr><td>AWY2</td><td>1 (0.4)</td><td>0 (0.0)</td><td>1 (0.2)</td><td>Unclassified</td><td>N/A</td><td>2 (100)</td></tr><tr><td>Total</td><td>227</td><td>192</td><td>419</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3519850_table_4",
+   "page_num": 5,
+   "bbox": [
+    80.9,
+    120.3,
+    642.1,
+    320.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3519850_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Stx-associated bacteriophage</td><td rowspan=\"2\">Insertion site</td><td rowspan=\"2\">Origin</td><td colspan=\"3\">SBI genotypesa</td><td rowspan=\"2\">Total</td></tr><tr><td>CG</td><td>BBG</td><td>Unclassifiedb</td></tr><tr><td rowspan=\"4\">Stx2a</td><td>wrbAc</td><td>Bovine</td><td>92 (92)</td><td>0 (0)</td><td>11 (9)</td><td>103 (101)</td></tr><tr><td></td><td>Human</td><td>97 (97)</td><td>0 (0)</td><td>9 (9)</td><td>106 (106)</td></tr><tr><td>argWd</td><td>Bovine</td><td>17 (17)</td><td>38 (0)</td><td>7 (2)</td><td>62 (19)</td></tr><tr><td></td><td>Human</td><td>74 (74)</td><td>8 (0)</td><td>1 (1)</td><td>83 (75)</td></tr><tr><td rowspan=\"2\">Stx2c</td><td>sbcBd</td><td>Bovine</td><td>6 (5)</td><td>97 (97)</td><td>5 (4)</td><td>108 (106)</td></tr><tr><td></td><td>Human</td><td>27 (15)</td><td>10 (10)</td><td>0 (0)</td><td>37 (25)</td></tr><tr><td rowspan=\"2\">Stx1</td><td>yehVc</td><td>Bovine</td><td>109 (92)</td><td>97 (52)</td><td>18 (5)</td><td>224 (149)</td></tr><tr><td></td><td>Human</td><td>171 (97)</td><td>10 (8)</td><td>2 (2)</td><td>183 (107)</td></tr><tr><td colspan=\"2\" rowspan=\"2\">Strains in study</td><td>Bovine</td><td>110</td><td>97</td><td>20</td><td>227</td></tr><tr><td>Human</td><td>171</td><td>10</td><td>11</td><td>192</td></tr></table>"
+  }
+ ]
+}

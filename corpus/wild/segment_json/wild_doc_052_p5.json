@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_052",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    89,
+    580,
+    116
+   ],
+   "ocr": "The analysis presented in the accompanying table highlights the median improvement in Catquest-9SF scores across various cohorts affected by the H1N1 virus, specifically differentiating between individuals with and without comorbidities."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    104,
+    580,
+    178
+   ],
+   "ocr": "Notably, the data reveals that participants classified as asymptomatic nonshedders exhibited a median improvement of 1.92 in the Catquest-9SF score when comorbidities were present, contrasting with a more substantial improvement of 3.57 in the absence of such conditions. This disparity suggests a significant influence of comorbidities on the perceived quality of care indicators and overall health outcomes following viral challenges."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    213.0,
+    580.0,
+    274.0
+   ],
+   "ocr": "First eye Second eye\nWith comorbidity Without comorbidity With comorbidity Without comorbidity\nMedian improvement in Catquest-9SF score 1.92 3.57 1.44 2.94",
+   "table_id": "img_057063_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    314.0,
+    580.0,
+    510.0
+   ],
+   "ocr": "Cohort Group Virus Tissue Asymptomatic nonshedders Symptomatic shedders Platform Citations\nGSE73072 challenge A Discovery challenge H1N1 Whole blood 6 8 Affymetrix [2, 3, 6]\nGSE73072 challenge B Discovery challenge H3N2 Whole blood 6 7 Affymetrix [2, 3, 6]\nGSE73072 challenge C Discovery challenge H3N2 Whole blood 6 7 Affymetrix [6]\nGSE61754 Validation challenge H3N2 Whole blood 5 7 Illumina [5]\nTotal 2 1 23 29 2",
+   "table_id": "img_057063_t1"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    548.0,
+    580.0,
+    671.0
+   ],
+   "ocr": "Quality of care indicators Odds ratio 95% Confidence interval P-value\nHbA1c test 2+ times during year? 1.01 (0.89, 1.14) 0.848\nFeet checked during year? 0.91 (0.83, 1.00) 0.066\nDilated eye exam during year? 1.14 (1.04, 1.24) 0.003**\nBlood pressure checked by doctor during year? 1.44 (1.13, 1.84) 0.004**\nVisited doctor during last 12 months? 1.39 (1.22, 1.58) <0.001***",
+   "table_id": "img_057063_t2"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    732
+   ],
+   "ocr": "Additionally, the table delineates the odds ratio and corresponding 95% confidence intervals, providing insight into the statistical significance of these observations. The findings underscore the importance of considering comorbidities in the assessment of treatment efficacy and patient outcomes, particularly in the context of viral infections like H1N1."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "Further exploration of these metrics may yield critical insights for tailoring therapeutic strategies and improving overall patient care within affected populations."
+  }
+ }
+}

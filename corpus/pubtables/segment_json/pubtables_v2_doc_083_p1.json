@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_083",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.5,
+    40.3,
+    220.0,
+    51.9
+   ],
+   "ocr": "EJNMMI Physics 2018, 5(Suppl 1):19"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.6,
+    40.5,
+    681.4,
+    51.9
+   ],
+   "ocr": "Page 8 of 27"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    385.4,
+    111.5,
+    681.5,
+    926.5
+   ],
+   "ocr": "A10 Optical simulation study for high resolution monolithic detector design for TB-PET Mariele Stockhoff1, Roel van Holen1,2, Stefaan Vandenberghe1 1MEDISIP, Ghent University, Ghent, Belgium, 2Molecubes, Ghent, Belgium Correspondence: Mariele Stockhoff (mariele.stockhoff@ugent.be) EJNMMI Physics 2018, 5(Suppl 1):A10 Background The main limitations in positron emission tomography (PET) are the lim- ited sensitivity and relatively poor spatial resolution. The administered radioactive dose and scan time could be reduced by increasing system sensitivity with a total-body (TB) PET design. The second limitation, spatial resolution, mainly originates from the specific design of the de- tectors that are implemented. In state-of-the-art scanners, the detectors consist of pixelated crystal arrays, where each individual crystal is iso- lated from its neighbors with reflector material. To obtain higher spatial resolution the crystals can be made narrower which inevitably leads to more inter-crystal scatter and larger dead space between the crystals. A monolithic detector design shows superior characteristics in (i) light collection efficiency (no gaps), (ii) timing, as it significantly re- duces the number of reflections and therefore the path length of each scintillation photon and (iii) spatial resolution (including better depth-of-interaction (DOI)). The aim of this work is to develop a pre- cise simulation model based on measured crystal data and use this powerful tool to find the limits in spatial resolution for a monolithic detector for the use in TB-PET. Materials and methods A detector (Fig. 1) based on a monolithic 50x50x16 mm3 lutetium- (yttrium) oxyorthosilicate (L(Y)SO) scintillation crystal coupled to an 8x8 array of 6x6mm2 silicon photomultipliers (SiPMs) is simulated with GATE. A recently implemented reflection model for scintillation light allows simulations based on measured surface data (1). The modeled surfaces include black painted rough finishing on the crystal sides (16x50mm2) and a specular reflector attached to a polished crystal top (50x50mm2). Maximum Likelihood estimation (MLE) is used for positioning the events. Therefore, calibration data is obtained by generating 3.000 photo-electric events at given calibration positions (Fig. 1). Compton scatter is not (yet) included. In a next step, the calibration data is or- ganized in three layers based on the exact depth coordinate in the crystal (i.e. DOI assumed to be known). For evaluating the resolution, the full width at half maximum (FWHM) is estimated at the irradiated positions of Fig. 2 as a mean of all profiles in vertical and horizontal direction. Next, uniformity is evaluated by simulating 200k events from a flood source, placed in the calibrated area. Results For the irradiation pattern in Fig. 2 the resolution in terms of FWHM when applying MLE is: 0.86±0.13mm (Fig. 3a). Nevertheless, there are major artifacts also at non-irradiated positions. By positioning the events based on three DOI-based layers it can be seen that the events closest to the photodetector introduce the largest artifacts (Fig. 3b-d). The FWHM improves for Layer 1 and 2, to 0.69±0.04mm and 0.59±0.02mm, respectively. Layer 3 introduces major artifacts to the flood map, as events are positioned at completely different loca- tions as the initial irradiation. A FWHM estimation is thus not useful. The uniformity (Fig. 4) degrades with proximity to the photodetector. The map in Fig. 4c shows that the positioning accuracy depends not only on DOI but also the position in the plane parallel to the photodetector array. Conclusions A simulation model for a monolithic PET detector with good characteris- tics for TB-PET systems was developed with GATE. A first estimate of the spatial resolution and uniformity was given, pointing out the importance of depth-dependent effects. Future studies will include several steps to- wards more realistic simulations e.g. surface measurements of our specific crystals for the optical surface model and inclusion of the Compton effect. Reference 1. Stockhoff M, Jan S, Dubois A, Cherry SR, Roncali E. Advanced optical simulation of scintillation detectors in GATE V8 . 0 : First implementation of a reflectance model based on measured data. Phys Med Biol. 2017;62:L1–8."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    111.6,
+    367.5,
+    522.0
+   ],
+   "ocr": "Materials and methods The PET component has a ring diameter of 52 cm and an axial field of view of 48.3 cm. The detector modules are composed of arrays of LYSO crystals of dimensions 2.76x2.76x18.1 mm. Read-out is per- formed using 6x6 mm2 SensL J-series SiPMs. Anatomical information is provided by a CT scanner (uCT 510, United Imaging Healthcare). We have measured detector timing and energy resolutions. PET sys- tem performance was assessed using the NEMA NU2-2012 and NEMA NU4-2008 standards. Phantom studies were performed with the mini-Derenzo, the Hoffman brain and a long cylinder phantom. The first canine patient has been scanned (Fig. 1). Results System time-of-flight resolution was measured to be ~409 ps and average system energy resolution was ~11.7% at 511 keV. The NEMA NU2-2012 system sensitivity was found to be 55 kcps/MBq. Spatial resolution was 2.6 mm at 10 mm from the center of the FOV. 2.0 mm rods were clearly resolved on a mini-Derenzo phantom. Peak NEMA NU2-2012 NEC was 298.7 kcps at 8.4kBq/cc. System design and performance parameters are listed in Table 1. Conclusions We have constructed and characterized a fully-functioning high- sensitivity PET/CT scanner that has potential for human brain im- aging, and whole body scanning in companion animals. The scanner has facilitated component and system-level prototyping for the first EXPLORER total-body PET scanner. Phantom and in vivo images have been acquired. Our next goal is to perform human brain studies on this system. We aim to begin such studies in the near future. Acknowledgements This work was supported in part by NIH Grant R01CA206187. We thank the Center for Imaging Sciences, School of Veterinary Medicine, UC Davis for technical support. Table 1 (abstract A9). Design and performance parameters for mini EXPLORER II"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    527.2,
+    367.1,
+    771.0
+   ],
+   "ocr": "Ring diameter 52cm\nAxial FOV 48.3cm\nScintillator LYSO\nCrystal element size 2.76x2.76x18.1 mm3\nPhotodetector SensL J-series SiPM\nTiming resolution 409±39ps\nEnergy resolution 11.7%±1.5%\nEnergy window LLD 430 keV\nCoincidence timing window 2.7ns (local section) and\n2.9ns (inter-section)\nNECR peak (NEMA NU4-2008) 1,762 kcps at 59kBq/cc\nScatter Fraction (NEMA NU4-2008) 17.8%\nNECR peak (NEMA NU2-2012) 298.7 kcps at 8.4kBq/cc\nScatter Fraction (NEMA NU2-2012) 41.9%\nSensitivity (NEMA NU2-2012) 55.3 kcps/MBq at 0cm\n59.0 kcps/MBq at 10cm",
+   "table_id": "PMC6023806_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    897.8,
+    357.7,
+    920.6
+   ],
+   "ocr": "Fig. 1 (abstract A9). Mini-EXPLORER II. Left: As installed in UC Davis. Right: Images of the first canine patient"
+  }
+ }
+}

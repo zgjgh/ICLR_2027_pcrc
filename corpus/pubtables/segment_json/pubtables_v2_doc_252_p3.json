@@ -1,0 +1,163 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_252",
+  "page": 3,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    108.4,
+    46.7
+   ],
+   "ocr": "Lassiter et al."
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    565.8,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Macro Conditions for Marginalization"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    57.5,
+    81.5,
+    166.4,
+    90.4
+   ],
+   "ocr": "TABLE 5 | Diversity of traits."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    57.5,
+    104.8,
+    371.6,
+    159.5
+   ],
+   "ocr": "Diversity Primary traits Secondary traits Total traits\nLow 8 5 13\nMedium 8 7 15\nHigh 8 10 18",
+   "table_id": "PMC5992435_table_4"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    201.0,
+    372.3,
+    915.0
+   ],
+   "ocr": "The macro-level condition of diversity reﬂects how diverse individuals within a subculture are. If, for example, an American subculture tolerates a great deal of variation, then there would be more ways to “do” that subculture. We capture diversity in the model, in terms of the number of secondary traits agents might have. The greater the number of secondary traits, the greater the possibility of variation and so the greater the level of Diversity. These levels are given in Table 5. While we recognize that subcultures may have varying levels of diversity, we opted to reduce the degrees of complexity of the model and make subcultures in the model equally Diverse. 3.1.3. Process Overview and Scheduling The two macro-level variables are our two independent variables: RTC and Diversity. The result is a 3 × 3 design of High, Medium, and Low Diversity, and High, Medium, and Low RTC. There were 25 runs for each of the nine conditions, thereby resulting in a sample size of N = 9 × 25 = 225 cases for the purpose of hypotheses testing. Twenty ﬁve runs were done for each condition because between 15 and 30 trials is regarded as suﬃcient for generating reliable data (cf. Railsback and Grimm, 2012). For each round of interactions between agents, the model recorded: (1) The population proportion for each class of agents (0.0 to 1.0); (2) Degree of within culture change from its starting point (0.0 to 1.0); (3) Degree of cultural similarity between any two breeds of agents, based on degree of similarity of traits (0.0 to 1.0). As mentioned above, each run of the model lasted approximately 2.5 generations of agents and each generation lasts approximately 1,000 rounds of interactions. Population, cultural change, and similarity results were averaged over each run. These averaged values for pop, cultural change, and similarity over 2.5 generations are the three dependent variables in our analysis across the 9 conditions. Now with the relevant variables for exploration have been identiﬁed, we will turn to an overview of the model’s ﬂow. Figure 1 provides a schematic with each step explained in further detail below:9 (1) The model is initialized with 200 agents distributed among subcultures according to the proportions given in Table 1 and assigned primary and secondary traits. 9Thanks to an anonymous reviewer for suggesting we add this."
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    398.4,
+    458.8,
+    515.2,
+    467.7
+   ],
+   "ocr": "FIGURE 1 | Model schematic."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    507.1,
+    706.1,
+    624.6
+   ],
+   "ocr": "(2) An agent Ai is selected at random. The subscript is a variable B indicating the agent’s breed. The superscript takes a value 0 ≤ i ≤ n, where n is the total number of agents that have existed in the model.10 The value i uniquely identiﬁes an agent. (3) Ai selects another agent Ap (where i ̸= p) with whom to B B interact. (4) Table 4 lists the likelihood that Ai replaces one of its own"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    580.1,
+    618.3,
+    585.4,
+    627.5
+   ],
+   "ocr": "B"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    412.7,
+    624.2,
+    706.1,
+    670.4
+   ],
+   "ocr": "primary or secondary traits with one belonging to Ap B. If the platform’s random number generator selects a real number that is below the threshold for interaction give the breeds for"
+  },
+  "p3_b9": {
+   "type": "title",
+   "bbox": [
+    412.7,
+    668.3,
+    625.6,
+    685.1
+   ],
+   "ocr": "Ai Ap Ai Ap"
+  },
+  "p3_b10": {
+   "type": "paragraph",
+   "bbox": [
+    430.3,
+    672.9,
+    706.1,
+    688.0
+   ],
+   "ocr": "and B, then adopts a trait from B. Procedures for"
+  },
+  "p3_b11": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    678.8,
+    706.1,
+    846.8
+   ],
+   "ocr": "B B interactions are sketched out in section 3.2.2 and detailed in section 3.3.2.) (5) Steps 2–4 are repeated for each agent. (6) Some agents have diﬀerent values for their primary and secondary traits. For each class of agents, the program compiles all agents’ primary and secondary traits into a single list. It identiﬁes the eight most frequently occurring values and deﬁnes that list as the new primary traits for that breed. In cases of ties, the program chooses a value at random. (7) Once new cultures have been compiled, each Ai checks to"
+  },
+  "p3_b12": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    840.5,
+    706.1,
+    915.0
+   ],
+   "ocr": "B see which culture best matches its own list of primary and secondary traits. If the agent’s list of primary and secondary 10At the start, the maximum value for n = 199, but as agents die oﬀ and more are born, the value of n increases."
+  },
+  "p3_b13": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    384.3,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 6"
+  },
+  "p3_b14": {
+   "type": "header_footer",
+   "bbox": [
+    574.2,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "June 2018 | Volume 9 | Article 812"
+  }
+ }
+}

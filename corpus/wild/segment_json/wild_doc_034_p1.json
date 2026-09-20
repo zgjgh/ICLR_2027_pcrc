@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_034",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    230.0
+   ],
+   "ocr": "Fraction Volume (ml) Total protein (mg) Total activity (pmol.min-1) Specific activity (pmol.min-1.mg-1) Purification factor\nExtract 32.0 99.2 436.5 4.4 1\nHeat treatment 31.0 71.3 370.8 5.2 1.2\nSephadex G-200:\nPeak I (maximum) 4.0 0.68 63.4 93.2 21.2\nPeak II (maximum) 4.0 0.94 75.4 80.2 18.2",
+   "table_id": "img_037568_t0"
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    245.0,
+    580.0,
+    368.0
+   ],
+   "ocr": "Lignin sample Particle size (μm) Hydrophobicity (L/g) Zeta potential (mV) 72 h hydrolysis yield (%)\nEOL–AS 0.75 0.43 −13.27 70.04\nEOL–CW 0.62 0.51 −15.30 73.02\nEOL–BW 0.59 0.80 −15.77 72.15\nEOL–EH 0.28 0.80 −8.37 60.90\nEOL–LP 0.23 1.11 −6.42 54.92",
+   "table_id": "img_037568_t1"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    383.0,
+    580.0,
+    503.0
+   ],
+   "ocr": "Primary symptoms Alla (months)(n = 680) Subtypeb\nsCJD (months)(n = 535) fCJD (months)(n = 77) dCJD (months)(n = 50) GSS (months)(n = 13)\nOphthalmologic 14.9 (n = 103)c 13.6 (n = 89) 28.5 (n = 8) 15.4 (n = 6) —\nPsychiatric 15.9 (n = 375)c 15.5 (n = 302) 17.9 (n = 53) 16.3 (n = 16) 34.3 (n = 1)\nNeurologic 17.2 (n = 248)c 14.2 (n = 182) 15.4 (n = 16) 19.4 (n = 36) 59.2 (n = 12)\nOthers 18.1 (n = 16)c 58.1 (n = 12) 20.3 (n = 2) 22.7 (n = 1) 41.3 (n = 1)",
+   "table_id": "img_037568_t2"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    519,
+    580,
+    608
+   ],
+   "ocr": "The data presented in the accompanying table provides a comprehensive overview of various metrics associated with the characterization of lignin samples in the context of their hydrolysis yields and protein-related activities. Notably, the \"Total protein (mg)\" and \"Specific activity (pmol.min-1.mg-1)\" columns illustrate the relationship between protein content and enzymatic efficiency, which is crucial for optimizing lignin extraction processes. The analysis indicates that fractions with higher total protein concentrations tend to exhibit enhanced specific activity, thereby suggesting a correlation between protein presence and the effectiveness of the hydrolysis reaction."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    596,
+    580,
+    685
+   ],
+   "ocr": "Additionally, the \"72 h hydrolysis yield (%)\" metric is essential for assessing the efficiency of lignin conversion, with higher yields reflecting more effective processing conditions. This report emphasizes the importance of these parameters in the development of lignin-based applications and provides insights into how variations in particle size and hydrophobicity may influence the overall performance of lignin extracts in biotechnological contexts. Further investigation into these relationships will be necessary to optimize extraction methods and improve yield outcomes in future studies."
+  }
+ }
+}

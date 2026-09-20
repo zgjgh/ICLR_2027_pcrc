@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_295",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:310"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/310"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    475.7,
+    362.7,
+    517.1
+   ],
+   "ocr": "The Figure ylation derived sites 5 decision tree by using C5.0 and the features of The derived decision tree by using C5.0 and the features of ylation sites."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    366.0,
+    475.9,
+    698.3,
+    503.5
+   ],
+   "ocr": "informative physicochemical properties for classification of ubiquit- informative physicochemical properties for classification of ubiquit-"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    552.3,
+    373.9,
+    808.4
+   ],
+   "ocr": "The results show the effectiveness of the proposed Ubi- Pred. Screening promising ubiquitylation sites Recently, a new experimental method was proposed with 2.4-fold increase in the number of identified ubiquityla- tion sites, compared with previous methods [4]. It implies that there may be still many undiscovered ubiquitylation sites. To identify promising ubiquitylation sites from putative non-ubiquitylation sites, a scoring method is designed by normalizing the range of the decision values of SVM obtained from the training dataset of w = 21 into the range [0, 1] of prediction scores. Normally, the default threshold value 0 used by the SVM classifier for discrimi- nating ubiquitylation sites from non-ubiquitylation sites Table 2: Five concise if-then rules with confidence larger than 0.5 properties."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    376.7,
+    552.3,
+    698.3,
+    796.4
+   ],
+   "ocr": "is mapped to a prediction score 0.5. The site with a predic- tion score close to 1 has a high possibility to be an ubiq- uitylation site. If the high prediction score 0.85 instead of 0.5 was adopted when classifying the peptides in the train- ing dataset for all window sizes, there would be no false positive. The prediction system UbiPred is applied to score 3424 putative non-ubiquitylation sites in an independent data- set that are not included in the training dataset of w = 21, as shown in Fig. 8. The screening result is shown in Fig. 9 using a histogram of prediction scores. There are 1218 putative non-ubiquitylation sites with scores larger than 0.5. There are 23 peptides with scores larger than 0.85, which are the most promising ubiquitylation sites, listed obtained by using C5.0 and 31 informative physicochemical"
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    819.6,
+    689.3,
+    911.3
+   ],
+   "ocr": "# Rule Confidence Ubiquitylation sites Covered samples Misclassified samples\n1 MEIH800102 < = 0.95381 0.96 N 23 0\n2 HARY940101 > 135.2 AND CORJ870101 > 49.70762 0.90 N 49 4\n3 CEDJ970105 > 6.805556 0.85 N 18 2\n4 GEOR030108 < = 0.931333 0.75 N 10 2\n5 MEIH800102 > 0.95381 0.54 Y 279 128",
+   "table_id": "PMC2488362_table_1"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 15 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_055",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparison of Methods for Recreating Individual Patient Data"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    727.2,
+    758.3
+   ],
+   "ocr": "Although the accuracy between Hoyle and Henley’s method and traditional methods has been compared, this comparison was performed in the absence of the method proposed by Guyot et al., which is an important method to help researchers recreate survival data that have been cited and used frequently. [2, 4, 13–15] Additionally, it is unclear how the four methods perform in different situations in which alternative survival models and various censoring rates are assumed to reflect realistic clinical data. Therefore, we evaluated the four methods using a simulation study. Simulation settings To compare the four methods previously described, a simulation study that could generate sur- vival data with censoring was designed and conducted. This study enabled us to compare the performance of the four methods. The simulated survival data were designed to reflect real clinical trial data. This section contains the details of the simulation study design. The simula- tion settings in this study are similar to Hoyle and Henley’s study, with the exceptions that (1) the Guyot et al. method was included, (2) variations in the proportion of censoring were simu- lated, and (3) the lognormal distribution was used in addition to the Weibull distribution. Survival times To simulate data, a number of patients with an underling survival time must be generated. Two sample sizes were chosen: 100 and 500 individuals. These sample sizes reflect the sample sizes typically included in clinical trials. [16–18] To simulate survival times with censoring, two sur- vival distributions were required, one distribution for the time-to-event (Ti) and a second dis- tribution for time to censoring (Ci). The Weibull and lognormal distributions are most commonly used for time-to-event data. [19] In this simulation, we considered these two surviv- al distributions for the uncensored survival time Ti: (1) Weibull distribution; and (2) lognormal distribution. The survival function of the Weibull distribution is S(t) = exp(− λtγ), in which λ is a scale parameter and γ is a shape parameter. The mean survival time of the Weibull distribution can be estimated as follows: E(X) = λΓ(1 + 1/γ), in which Γ is the gamma function. In the simula- tions, the mean survival time was set to 10 time units, which is common in time-to-event data. To ensure the mean survival time remained at 10 units, different combinations of the scale and shape parameters were chosen. First, three shape parameters were chosen that corresponded to the parameters used by Hoyle and Henley; these parameters cover most situations that would be encountered in the Weibull distribution. Second, the scale parameter was set to make the mean survival time equal to 10 units. The combinations of the parameters were as follows: 1. Decreasing failure rate (scale parameter<1): γ = 0.6, λ = 6.65 2. Constant failure rate (scale parameter<1): γ = 1, λ = 10 Table 1. Differences between the method by Hoyle and Henley and that by Guyot et al."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    767.1,
+    726.6,
+    876.8
+   ],
+   "ocr": "Method by Guyot et al. Method by Hoyle and Henley\nPrecise IPD was estimated Interval-censored IPD was estimated\nTotal number of events was used (if available) No such data was used\nIterative algorithm was used Closed-form was used\nNo comparison with traditional methods Comparison with traditional methods was made\nAll computing was done in R Most parts of computing was done in Excel and some in R\nMore data preparation work required Less data preparation work required",
+   "table_id": "PMC4372344_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    885.0,
+    393.3,
+    896.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0121353.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121353 March 24, 2015 5 / 21"
+  }
+ }
+}

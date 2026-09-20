@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_195",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    64.5,
+    42.2,
+    365.6,
+    480.2
+   ],
+   "ocr": "160 from screening to week 72 (patients stopping PegIFN and RBV at week 24) by using the Roche COBAS� TaqMan� HCV Auto assay system (lower limit of quantiﬁcation, 1.2 log10 IU/mL). To select independent variables, we examined the fol- lowing characteristics which were considered clinically relevant to SVR24 and viral relapse: previous treatment response (naı¨ve patients, relapsers, nonresponders); age; sex; baseline body mass index (BMI, kg/m2); baseline HCV RNA level (log10 IU/mL); baseline platelet count (9109/L); baseline low density lipoprotein (LDL) choles- terol level (mmol/L); alpha-fetoprotein level (pmol/L); baseline ﬁbrosis-4 (FIB-4) index (calculated as (age[year] 9 AST [U/L])/([PLT {10(9)/L}] 9 [ALT {U/ L}](1/2)); baseline hemoglobin (g/dL); IL28B genotype (rs8099917; TT, TG, and GG); ITPA genotype (rs1127354; CC, CA, and AA); and plasma HCV RNA level (detectable or undetectable) at weeks 2 and 4. Type of PegIFN, cumulative dose of simeprevir (mg/ kg), minimum hemoglobin level (mg/dL), and RBV dose intensity [RBV-DI; calculated as cumulative dose of RBV (mg)/treatment period (week)/body surface area (m2)] were included to the analysis for nonresponders. Furthermore, cumulative dose of RBV (g/kg) was included in the analysis of viral relapse in the nonrespon- ders who treated C24 weeks."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    387.1,
+    42.2,
+    688.2,
+    479.9
+   ],
+   "ocr": "Hepatol Int (2016) 10:158–168 Statistical analysis Univariate and multivariate analyses were conducted to identify the potential predictors of SVR24 and viral relapse. Univariate analyses were sequentially performed for each independent variable to identify potential factors for further multivariate analysis. Fisher’s exact test and logistic regression models were used for comparisons between individual categorical independent variables and continuous variables, respectively. Variables with p values of \\0.10 in the univariate analyses were included in the multivariate logistic regression analysis, which was per- formed using stepwise (backward) regression, and ana- lyzed again for statistical signiﬁcance. A p value of \\0.05 was considered signiﬁcant. Receiver operating characteristic (ROC) curves were con- structed for each logistic model, and the areas under the ROC (AUROC) curves were evaluated for predictive performance analysis. The 95 % conﬁdence interval (CI) of the AUROC was computed by resampling 10,000 times (bootstrapping). The sensitivity and speciﬁcity of the ROC curves were determined at the cutoff point where (sensitivity ? speci- ﬁcity - 1) it was maximal in the ROC curve (Youden index). ROC analysis was performed using the full model (including all statistically signiﬁcant independent variables) as well as the limited model (each independent variable)."
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    64.5,
+    521.1,
+    322.7,
+    531.9
+   ],
+   "ocr": "Table 1 Patient demographics and baseline characteristics"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    64.5,
+    542.2,
+    687.5,
+    855.8
+   ],
+   "ocr": "Characteristic Total Naı¨ve/relapser Nonresponder Nonresponder treated\nC24 weeks\nn = 357 n = 225 n = 132 n = 106\nAge, years, median (range) 59 (22–70) 59 (22–70) 60 (24–70) 59 (24–70)\nSex\nMale/female 149/208 83/142 66/66 48/58\nBMI, kg/m2, median (range) 22.4 (16.8–34.3) 22.4 (16.9–32.9) 22.25 (16.8–34.3) 22.15 (16.8–33.4)\nHCV RNA, log10 IU/mL, median (range) 6.4 (4.5–7.4) 6.4 (4.5–7.4) 6.5 (4.6–7.4) 6.5 (4.6–7.3)\nplatelet count (9109/L), n median (range) 168 (90–392) 175 (95–333) 161 (90–392) 164 (92–330)\nLDL cholesterol (mol/L) median (range) 2.79 (0.90–6.18) 2.90 (1.37–6.18) 2.50 (0.91–4.769) 2.56 (0.91–4.769)\nAlpha-fetoprotein (ng/mL) median (range) 63.51 (17.57–885.10) 59.46 (17.57–504.00) 72.29 (20.27–885.10) 72.97 (20.27–885.10)\nFIB-4 index median (range) 1.98 (0.28–8.29) 1.82 (0.28–8.29) 2.31 (0.42–7.76) 2.21 (0.43–6.78)\nHemoglobin (mg/dL) median (range) 14.0 (11.1–17.9) 13.9 (11.1–17.9) 14.2 (11.4–16.9) 14.2 (11.4–16.9)\nIL28B genotype (rs8099917), n TT/TG ? GG 175/182 159/66 16/116 8/98\nITPA genotype (rs1127354), n CA ? 89/219/49 51/144/30 38/75/19 35/56/15\nAA/CC/not available\nHCV genotype 1a/1b 7/350 3/222 4/128 3/103\nHCV with baseline Q80K (%) 5/353 (1.4 %) 4/221 (1.8 %) 1/132 (0.8 %) 0/106\nHCV with baseline D168E (%) 5/353 (1.4 %) 4/221 (1.8 %) 1/132 (0.8 %) 0/106\nPatient number from CONCERTO-4 79 53 26 21",
+   "table_id": "PMC4722076_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    64.5,
+    866.4,
+    397.3,
+    877.1
+   ],
+   "ocr": "ITPA inosine triphosphatase, BMI body mass index, IL28B interleukin-28B,"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    400.9,
+    866.4,
+    525.4,
+    877.1
+   ],
+   "ocr": "LDL low density lipoprotein"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    66.3,
+    930.8,
+    116.7,
+    950.9
+   ],
+   "ocr": "123"
+  }
+ }
+}

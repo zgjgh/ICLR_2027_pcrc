@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_075",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5030733_table_0",
+   "page_num": 1,
+   "bbox": [
+    80.5,
+    109.1,
+    696.0,
+    369.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5030733_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Liquid Class</td><td colspan=\"2\">Subclass</td><td colspan=\"5\">Aspiration Parameters</td><td colspan=\"2\">Dispensing Parameters</td><td rowspan=\"2\">Factor</td><td rowspan=\"2\">Offset</td></tr><tr><td>No.</td><td>Volumes (&#181;L)</td><td>Aspirate speed (&#181;L/s)</td><td>Delay (ms)</td><td>STAG</td><td>LAG</td><td>TAG</td><td>Dispense Speed</td><td>Break-Off Speed (&#181;L/s)</td></tr><tr><td rowspan=\"3\">DMSO</td><td>1</td><td>3.00&#8211;15.01</td><td>20</td><td>200</td><td>10</td><td>10</td><td>5</td><td>600</td><td>150</td><td>1.063</td><td>0.10</td></tr><tr><td>2</td><td>15.01&#8211;200.01</td><td>100</td><td>200</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.100</td><td>&#8211;0.30</td></tr><tr><td>3</td><td>200.01&#8211;1000.01</td><td>150</td><td>300</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.002</td><td>19.30</td></tr><tr><td rowspan=\"3\">Water</td><td>1</td><td>3.00&#8211;15.01</td><td>20</td><td>200</td><td>10</td><td>10</td><td>5</td><td></td><td></td><td>1.045</td><td>0.20</td></tr><tr><td>2</td><td>15.01&#8211;500.01</td><td>150</td><td>200</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.042</td><td>&#8211;0.04</td></tr><tr><td>3</td><td>500.01&#8211;1000.01</td><td>150</td><td>200</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.000</td><td>20.26</td></tr><tr><td rowspan=\"3\">Serum</td><td>1</td><td>3.00&#8211;15.01</td><td>20</td><td>200</td><td>10</td><td>20</td><td>10</td><td></td><td></td><td>1.074</td><td>0.30</td></tr><tr><td>2</td><td>15.01&#8211;300.01</td><td>100</td><td>200</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.060</td><td>0.43</td></tr><tr><td>3</td><td>300.01&#8211;1000.01</td><td>100</td><td>200</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.007</td><td>16.63</td></tr><tr><td>Ethanol</td><td>1</td><td>3.00&#8211;1000.01</td><td>100</td><td>200</td><td>20</td><td>0</td><td>10</td><td></td><td></td><td>1.063</td><td>3.4</td></tr><tr><td>Liquid system</td><td>1</td><td>3.00&#8211;1000.01</td><td>150</td><td>200</td><td>0</td><td>0</td><td>10</td><td></td><td></td><td>1.000</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5030733_table_1",
+   "page_num": 2,
+   "bbox": [
+    61.3,
+    528.7,
+    681.4,
+    657.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5030733_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Volume No.</td><td colspan=\"3\">Subclass 1</td><td colspan=\"3\">Subclass 2</td><td colspan=\"3\">Subclass 3</td></tr><tr><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td></tr><tr><td>Serum</td><td>15% DEV 3% CV</td><td>10% DEV 3% CV</td><td>8% DEV 3% CV</td><td>7% DEV 3% CV</td><td>2% DEV 1% CV</td><td>1% DEV 0.75% CV</td><td>1% DEV 0.75% CV</td><td>0.5% DEV 0.75% CV</td><td>0.5% DEV 0.75% CV</td></tr><tr><td>DMSO</td><td></td><td></td><td></td><td>10% DEV 3% CV</td><td>4% DEV 1% CV</td><td>2% DEV 0.75% CV</td><td></td><td></td><td></td></tr><tr><td>Water</td><td></td><td></td><td></td><td>7% DEV 3% CV</td><td>1% DEV 1% CV</td><td>0.5% DEV 0.75% CV</td><td>0.5% DEV 0.75% CV</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC5030733_table_2",
+   "page_num": 3,
+   "bbox": [
+    61.3,
+    109.1,
+    689.1,
+    584.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5030733_table_2.png",
+   "html": "<table><tr><td colspan=\"2\">Solvent</td><td rowspan=\"2\">Water-Free Dispense 291.7</td><td rowspan=\"2\">Serum-Free Dispense 295.4</td><td rowspan=\"2\">DMSO-Free Dispense 298.5</td><td rowspan=\"2\">Ethanol-Free Dispense 298.9</td><td rowspan=\"2\">System Liquid-Free Dispense 288.9</td></tr><tr><td>AP</td><td>Mean volume</td></tr><tr><td></td><td>Min volume</td><td>290.7</td><td>294.6</td><td>296.6</td><td>296.6</td><td>287.8</td></tr><tr><td></td><td>Max volume</td><td>293.7</td><td>296.6</td><td>299.5</td><td>300.5</td><td>289.8</td></tr><tr><td></td><td>DEV (%)</td><td>&#8211;2.76</td><td>&#8211;1.54</td><td>&#8211;0.49</td><td>&#8211;0.37</td><td>&#8211;3.70</td></tr><tr><td></td><td>CV (%)</td><td>0.31</td><td>0.23</td><td>0.35</td><td>0.46</td><td>0.28</td></tr><tr><td rowspan=\"5\">Sucrose</td><td>Mean volume</td><td>287.4</td><td>292.6</td><td>294.6</td><td>296.6</td><td>284.1</td></tr><tr><td>Min volume</td><td>285.7</td><td>290.8</td><td>294.1</td><td>295.8</td><td>282.4</td></tr><tr><td>Max volume</td><td>289.1</td><td>294.1</td><td>295.8</td><td>297.5</td><td>285.7</td></tr><tr><td>DEV (%)</td><td>&#8211;4.20</td><td>&#8211;2.45</td><td>&#8211;1.79</td><td>&#8211;1.12</td><td>&#8211;5.29</td></tr><tr><td>CV (%)</td><td>0.35</td><td>0.37</td><td>0.21</td><td>0.21</td><td>0.37</td></tr><tr><td rowspan=\"5\">&#946;-Casein</td><td>Mean volume</td><td>297.7</td><td>301.3</td><td>305.4</td><td>305.2</td><td>287.0</td></tr><tr><td>Min volume</td><td>295.7</td><td>299.6</td><td>303.6</td><td>303.4</td><td>283.5</td></tr><tr><td>Max volume</td><td>299.9</td><td>302.6</td><td>307.1</td><td>306.6</td><td>289.9</td></tr><tr><td>DEV (%)</td><td>&#8211;0.75</td><td>0.45</td><td>1.81</td><td>1.74</td><td>&#8211;4.33</td></tr><tr><td>CV (%)</td><td>0.48</td><td>0.41</td><td>0.43</td><td>0.38</td><td>0.72</td></tr><tr><td rowspan=\"5\">PBS</td><td>Mean volume</td><td>298.5</td><td>302.1</td><td>305.3</td><td>305.8</td><td>291.3</td></tr><tr><td>Min volume</td><td>297.1</td><td>300.0</td><td>303.9</td><td>302.9</td><td>286.3</td></tr><tr><td>Max volume</td><td>300.0</td><td>303.9</td><td>306.9</td><td>308.8</td><td>298.0</td></tr><tr><td>DEV (%)</td><td>&#8211;0.49</td><td>0.69</td><td>1.76</td><td>1.92</td><td>&#8211;2.90</td></tr><tr><td>CV (%)</td><td>0.30</td><td>0.40</td><td>0.34</td><td>0.58</td><td>1.56</td></tr><tr><td rowspan=\"5\">AH</td><td>Mean volume</td><td>291.5</td><td>296.9</td><td>299.2</td><td>300.6</td><td>289.3</td></tr><tr><td>Min volume</td><td>290.8</td><td>295.7</td><td>297.6</td><td>299.6</td><td>287.8</td></tr><tr><td>Max volume</td><td>291.7</td><td>297.6</td><td>300.6</td><td>301.6</td><td>290.8</td></tr><tr><td>DEV (%)</td><td>&#8211;2.83</td><td>&#8211;1.03</td><td>&#8211;0.25</td><td>0.20</td><td>&#8211;3.57</td></tr><tr><td>CV (%)</td><td>0.16</td><td>0.29</td><td>0.35</td><td>0.30</td><td>0.36</td></tr><tr><td rowspan=\"5\">NaCl</td><td>Mean volume</td><td>292.1</td><td>295.9</td><td>299.2</td><td>298.9</td><td>286.6</td></tr><tr><td>Min volume</td><td>290.2</td><td>294.4</td><td>297.7</td><td>297.7</td><td>285.1</td></tr><tr><td>Max volume</td><td>292.7</td><td>296.9</td><td>300.3</td><td>299.4</td><td>287.6</td></tr><tr><td>DEV (%)</td><td>&#8211;2.65</td><td>&#8211;1.35</td><td>&#8211;0.27</td><td>&#8211;0.37</td><td>&#8211;4.47</td></tr><tr><td>CV (%)</td><td>0.30</td><td>0.32</td><td>0.29</td><td>0.21</td><td>0.38</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5030733_table_3",
+   "page_num": 4,
+   "bbox": [
+    80.4,
+    109.1,
+    698.2,
+    747.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5030733_table_3.png",
+   "html": "<table><tr><td>Solvent</td><td>Default LC</td><td>Run</td><td>Target Volume</td><td>Mean Volume</td><td>DEV (%)</td><td>CV (%)</td><td>Factor (a1)</td><td>Offset (b1)</td></tr><tr><td rowspan=\"12\">AP</td><td>Serum</td><td>A1</td><td>16.0</td><td>16.1</td><td>0.61</td><td>3.24</td><td></td><td></td></tr><tr><td></td><td>C</td><td>16.0</td><td>15.9</td><td>0.91</td><td>2.85</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>158.0</td><td>155.9</td><td>1.36</td><td>0.65</td><td>1.060</td><td>0.43</td></tr><tr><td></td><td>C</td><td>158.0</td><td>157.9</td><td>0.05</td><td>0.52</td><td>1.075</td><td>0.68</td></tr><tr><td></td><td>A1</td><td>300.0</td><td>295.1</td><td>1.63</td><td>0.25</td><td></td><td></td></tr><tr><td></td><td>C</td><td>300.0</td><td>300.1</td><td>0.04</td><td>0.30</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>301.0</td><td>297.6</td><td>1.14</td><td>0.66</td><td></td><td></td></tr><tr><td></td><td>C</td><td>301.0</td><td>299.6</td><td>0.45</td><td>0.47</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>601.0</td><td>600.2</td><td>0.13</td><td>0.24</td><td>1.007</td><td>16.63</td></tr><tr><td></td><td>C</td><td>601.0</td><td>601.8</td><td>0.14</td><td>0.10</td><td>1.003</td><td>21.36</td></tr><tr><td></td><td>A1</td><td>900.0</td><td>898.3</td><td>0.19</td><td>0.23</td><td></td><td></td></tr><tr><td></td><td>C</td><td>900.0</td><td>899.6</td><td>0.04</td><td>0.16</td><td></td><td></td></tr><tr><td rowspan=\"12\">Sucrose</td><td>DMSO</td><td>A1</td><td>16.0</td><td>14.5</td><td>9.40</td><td>4.10</td><td></td><td></td></tr><tr><td></td><td>C</td><td>16.0</td><td>17.3</td><td>8.32</td><td>3.61</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>108.0</td><td>101.1</td><td>6.43</td><td>0.59</td><td>1.100</td><td>0.30</td></tr><tr><td></td><td>C</td><td>108.0</td><td>104.1</td><td>3.61</td><td>0.52</td><td>1.103</td><td>3.67</td></tr><tr><td></td><td>A1</td><td>200.0</td><td>197.2</td><td>1.42</td><td>0.51</td><td></td><td></td></tr><tr><td></td><td>C</td><td>200.0</td><td>201.6</td><td>0.79</td><td>0.47</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>201.0</td><td>198.3</td><td>1.33</td><td>0.55</td><td></td><td></td></tr><tr><td></td><td>C</td><td>201.0</td><td>200.8</td><td>0.08</td><td>0.45</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>551.0</td><td>538.6</td><td>2.26</td><td>0.15</td><td>1.002</td><td>19.30</td></tr><tr><td></td><td>C</td><td>551.0</td><td>551.5</td><td>0.09</td><td>0.21</td><td>1.031</td><td>16.07</td></tr><tr><td></td><td>A1</td><td>900.0</td><td>877.5</td><td>2.50</td><td>0.17</td><td></td><td></td></tr><tr><td></td><td>C</td><td>900.0</td><td>899.4</td><td>0.07</td><td>0.20</td><td></td><td></td></tr><tr><td rowspan=\"18\">&#946;-Casein</td><td>Serum</td><td>A1</td><td>3.0</td><td>2.6</td><td>13.61</td><td>8.54</td><td></td><td></td></tr><tr><td></td><td>C</td><td>3.0</td><td>2.8</td><td>6.58</td><td>8.19</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>9.0</td><td>8.5</td><td>6.03</td><td>1.21</td><td>1.074</td><td>0.30</td></tr><tr><td></td><td>C</td><td>9.0</td><td>8.7</td><td>3.69</td><td>2.66</td><td>1.078</td><td>0.74</td></tr><tr><td></td><td>A1</td><td>15.0</td><td>14.6</td><td>2.94</td><td>1.49</td><td></td><td></td></tr><tr><td></td><td>C</td><td>15.0</td><td>15.1</td><td>0.78</td><td>1.44</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>16.0</td><td>15.5</td><td>2.96</td><td>8.03</td><td></td><td></td></tr><tr><td></td><td>C</td><td>16.0</td><td>15.4</td><td>3.82</td><td>7.18</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>158.0</td><td>159.4</td><td>0.87</td><td>0.44</td><td>1.060</td><td>0.43</td></tr><tr><td></td><td>C</td><td>158.0</td><td>158.4</td><td>0.28</td><td>0.47</td><td>1.052</td><td>0.75</td></tr><tr><td></td><td>A1</td><td>300.0</td><td>301.6</td><td>0.54</td><td>0.41</td><td></td><td></td></tr><tr><td></td><td>C</td><td>300.0</td><td>299.8</td><td>0.07</td><td>0.36</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>301.0</td><td>302.8</td><td>0.60</td><td>0.26</td><td></td><td></td></tr><tr><td></td><td>C</td><td>301.0</td><td>301.6</td><td>0.21</td><td>0.26</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>601.0</td><td>600.2</td><td>0.13</td><td>0.21</td><td>1.007</td><td>16.63</td></tr><tr><td></td><td>C</td><td>601.0</td><td>600.0</td><td>0.16</td><td>0.24</td><td>1.011</td><td>14.11</td></tr><tr><td></td><td>A1</td><td>900.0</td><td>899.4</td><td>0.07</td><td>0.20</td><td></td><td></td></tr><tr><td></td><td>C</td><td>900.0</td><td>899.9</td><td>0.01</td><td>0.19</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC5030733_table_4",
+   "page_num": 5,
+   "bbox": [
+    61.3,
+    109.8,
+    679.0,
+    903.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5030733_table_4.png",
+   "html": "<table><tr><td>Solvent</td><td>Default LC</td><td>Run</td><td>Target Volume</td><td>Mean Volume</td><td>DEV (%)</td><td>CV (%)</td><td>Factor (a1)</td><td>Offset (b1)</td></tr><tr><td rowspan=\"18\">PBS</td><td>Water</td><td>A1</td><td>3.0</td><td>2.3</td><td>22.79</td><td>10.84</td><td></td><td></td></tr><tr><td></td><td>C</td><td>3.0</td><td>3.2</td><td>6.62</td><td>10.22</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>9.0</td><td>8.0</td><td>11.2</td><td>8.99</td><td>1.045</td><td>0.20</td></tr><tr><td></td><td>C</td><td>9.0</td><td>9.2</td><td>2.26</td><td>4.88</td><td>1.027</td><td>1.29</td></tr><tr><td></td><td>A1</td><td>15.0</td><td>13.9</td><td>7.35</td><td>10.76</td><td></td><td></td></tr><tr><td></td><td>C</td><td>15.0</td><td>15.0</td><td>0.08</td><td>1.42</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>16.0</td><td>15.8</td><td>1.19</td><td>3.97</td><td></td><td></td></tr><tr><td></td><td>C</td><td>16.0</td><td>16.2</td><td>1.10</td><td>3.24</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>258.0</td><td>256.7</td><td>0.49</td><td>0.24</td><td>1.042</td><td>0.04</td></tr><tr><td></td><td>C</td><td>258.0</td><td>257.4</td><td>0.25</td><td>0.41</td><td>1.043</td><td>0.40</td></tr><tr><td></td><td>A1</td><td>500.0</td><td>506.9</td><td>0.15</td><td>0.81</td><td></td><td></td></tr><tr><td></td><td>C</td><td>500.0</td><td>498.9</td><td>0.22</td><td>0.31</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>501.0</td><td>499.9</td><td>0.22</td><td>0.62</td><td></td><td></td></tr><tr><td></td><td>C</td><td>501.0</td><td>501.7</td><td>0.14</td><td>0.89</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>701.0</td><td>697.9</td><td>0.44</td><td>0.24</td><td>1.000</td><td>20.26</td></tr><tr><td></td><td>C</td><td>701.0</td><td>701.5</td><td>0.07</td><td>0.26</td><td>1.007</td><td>18.79</td></tr><tr><td></td><td>A1</td><td>900.0</td><td>895.1</td><td>0.54</td><td>0.20</td><td></td><td></td></tr><tr><td></td><td>C</td><td>900.0</td><td>899.6</td><td>0.04</td><td>0.25</td><td></td><td></td></tr><tr><td rowspan=\"18\">AH</td><td>DMSO</td><td>A1</td><td>3.0</td><td>2.4</td><td>19.78</td><td>3.78</td><td></td><td></td></tr><tr><td></td><td>C</td><td>3.0</td><td>2.9</td><td>3.41</td><td>7.69</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>9.0</td><td>8.1</td><td>10.50</td><td>2.52</td><td>1.063</td><td>0.10</td></tr><tr><td></td><td>C</td><td>9.0</td><td>9.2</td><td>1.92</td><td>3.62</td><td>1.164</td><td>0.51</td></tr><tr><td></td><td>A1</td><td>15.0</td><td>13.5</td><td>10.20</td><td>1.89</td><td></td><td></td></tr><tr><td></td><td>C</td><td>15.0</td><td>15.1</td><td>0.52</td><td>2.26</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>16.0</td><td>15.9</td><td>0.69</td><td>18.61</td><td></td><td></td></tr><tr><td></td><td>C</td><td>16.0</td><td>16.9</td><td>5.75</td><td>1.91</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>108.0</td><td>102.7</td><td>4.88</td><td>1.04</td><td>1.100</td><td>0.30</td></tr><tr><td></td><td>C</td><td>108.0</td><td>106.2</td><td>1.68</td><td>2.80</td><td>1.094</td><td>2.67</td></tr><tr><td></td><td>A1</td><td>200.0</td><td>199.6</td><td>0.21</td><td>0.93</td><td></td><td></td></tr><tr><td></td><td>C</td><td>200.0</td><td>200.5</td><td>0.26</td><td>0.19</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>201.0</td><td>200.3</td><td>0.36</td><td>0.31</td><td></td><td></td></tr><tr><td></td><td>C</td><td>201.0</td><td>199.8</td><td>0.61</td><td>0.52</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>551.0</td><td>550.1</td><td>0.59</td><td>0.25</td><td>1.002</td><td>19.30</td></tr><tr><td></td><td>C</td><td>551.0</td><td>550.2</td><td>0.14</td><td>0.36</td><td>1.012</td><td>17.31</td></tr><tr><td></td><td>A1</td><td>900.0</td><td>895.87</td><td>0.68</td><td>0.17</td><td></td><td></td></tr><tr><td></td><td>C</td><td>900.0</td><td>899.6</td><td>0.05</td><td>0.16</td><td></td><td></td></tr><tr><td rowspan=\"18\">NaCl</td><td>DMSO</td><td>A1</td><td>3.0</td><td>2.47</td><td>17.65</td><td>8.13</td><td></td><td></td></tr><tr><td></td><td>C</td><td>3.0</td><td>2.9</td><td>2.58</td><td>9.20</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>9.0</td><td>7.76</td><td>13.79</td><td>3.79</td><td>1.063</td><td>0.10</td></tr><tr><td></td><td>C</td><td>9.0</td><td>8.8</td><td>2.00</td><td>1.39</td><td>1.218</td><td>0.36</td></tr><tr><td></td><td>A1</td><td>15.0</td><td>12.97</td><td>13.51</td><td>1.72</td><td></td><td></td></tr><tr><td></td><td>C</td><td>15.0</td><td>15.3</td><td>1.70</td><td>2.34</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>16.0</td><td>15.7</td><td>2.10</td><td>6.38</td><td></td><td></td></tr><tr><td></td><td>C</td><td>16.0</td><td>16.0</td><td>0.13</td><td>3.98</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>108.0</td><td>110.7</td><td>2.50</td><td>0.39</td><td>1.100</td><td>0.30</td></tr><tr><td></td><td>C</td><td>108.0</td><td>108.1</td><td>0.07</td><td>0.59</td><td>1.072</td><td>0.64</td></tr><tr><td></td><td>A1</td><td>200.0</td><td>204.3</td><td>2.13</td><td>0.56</td><td></td><td></td></tr><tr><td></td><td>C</td><td>200.0</td><td>200.0</td><td>0.02</td><td>0.37</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>201.0</td><td>206.5</td><td>2.72</td><td>0.22</td><td></td><td></td></tr><tr><td></td><td>C</td><td>201.0</td><td>202.0</td><td>0.48</td><td>0.47</td><td></td><td></td></tr><tr><td></td><td>A1</td><td>551.0</td><td>544.8</td><td>1.13</td><td>0.28</td><td>1.002</td><td>19.30</td></tr><tr><td></td><td>C</td><td>551.0</td><td>548.8</td><td>0.40</td><td>0.31</td><td>1.028</td><td>9.00</td></tr><tr><td></td><td>A1</td><td>900.0</td><td>887.8</td><td>1.35</td><td>0.16</td><td></td><td></td></tr><tr><td></td><td>C</td><td>900.0</td><td>900.7</td><td>0.07</td><td>0.17</td><td></td><td></td></tr></table>"
+  }
+ ]
+}

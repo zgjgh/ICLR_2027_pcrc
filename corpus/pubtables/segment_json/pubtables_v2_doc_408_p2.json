@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_408",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    492.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Automated Delineation and Texture Correlations"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    412.1,
+    382.9,
+    634.7
+   ],
+   "ocr": "Figure 4. An example surface pair obtained from segmented particular patient) is shown. We parameterize the surface (a) of lesion with respect to those angles in radians (b). This shape information (i.e., doi:10.1371/journal.pone.0057105.g004 Pearson correlations can be misleading [32] (i.e., segmented volumes may have the same values although volumes may not overlap or overlap very little). Two expert radiologists delineated radiotracer uptake regions in three different time points (one week between each drawings, and blinded to each other’s drawings). Each expert’s drawings—in different time points—were used to compute intra-observer agreement ratios. Table 2 summarizes the evaluation of segmentation results for the proposed method compared to mean and individual delineation definitions of experts, as well as inter- and intra-observer agreements. Evalua- tion metrics (DSC and HD) are formulated and described in detail in the Appendix S1."
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    382.5,
+    412.1,
+    700.8,
+    444.9
+   ],
+   "ocr": "uptake regions (i.e., non-specific mass from lung regions of a using Euler angles of boundary points, and we colorized the surface points circularity) was used in longitudinal assessment of uptake changes."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    475.7,
+    700.8,
+    963.6
+   ],
+   "ocr": "Exploring Connections among Extracted Features We integrated all extracted texture, shape, and SUVmax features into an unsupervised hierarchical clustering algorithm [33]. Our aim was to explore similarities and dissimilarities of features and to clarify hidden connections among features that can be integrated together in order to more accurately predict radiotracer uptake region morphological properties (without conducting any claim about clinical utility of these features) such as change in volume and shape (i.e., morphological characterization). The presence of clusters in a data set is frequently due to the existence of certain relationships between measured variables. Moreover, true group (class) membership is unknown to these variables. We conducted unsupervised clustering of the measured variables in order to explore true (or surrogate true) memberships. Euclidean distance dissimilarity measure with complete leakage method [34] were used to find highly correlated features and to contain them in similar clusters. Figure 5 demonstrates correlation analysis of all feature sets through a correlation matrix (whose column and rows shows the features), and dendogram graphics (i.e., hierarchical tree structures) for each feature were integrated into columns and rows of the correlation matrix. Similarly, we extracted the hierarchical tree structures only for features that have statistically significant correlation values with SUVmax values. The resulting clustering scheme is illustrated in Figure 6. We repeated the same step for each type of feature separately (run-length, GLCM, etc., as shown in Figure 5 and 6) to clarify if the features were coming from significantly different class (membership) or not (from R = 21 (white) to R = 1 (dark blue), Figure 6). In particular, since SUVmax is the current standard in quantification of uptake regions, we computed the Pearson correlations of all features with SUVmax, and we reported only significantly correlating features in Table 3; however, one may introduce different quantification features to repeat this task. Among all features having significant correlations with SUVmax, it is interesting that none of the features share the February 2013 | Volume 8 | Issue 2 | e57105"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    681.1,
+    375.7,
+    705.6
+   ],
+   "ocr": "Table 2. Evaluation of the proposed segmentation methods (via DSC and HD) and observer agreement ratios are given."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    734.7,
+    326.9,
+    904.0
+   ],
+   "ocr": "Evaluation Criteria Values\nComputer & Observer 1 DSC (%) 84.5063.21\nComputer & Observer 2 DSC (%) 87.0160.32\nMean DSC (%) 85.7561.76\nComputer & Observer 1 HD (mm) 4.9060.47\nComputer & Observer 2 HD (mm) 5.4560.52\nMean HD (mm) 5.1860.50\nInter-observer agreement DSC (%) 77.7366.49\nInter-observer HD(mm) 10.5061.30\nIntra-observer agreement DSC (%) 89.8664.23\nIntra-observer HD(mm) 3.9061.50",
+   "table_id": "PMC3576352_table_1"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    917.3,
+    225.2,
+    926.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0057105.t002"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    389.6,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org 8"
+  }
+ }
+}

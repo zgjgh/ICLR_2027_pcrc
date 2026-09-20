@@ -1,0 +1,354 @@
+{
+ "doc_id": "wild_doc_060",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_066050_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    169.0,
+    580.0,
+    290.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_066050_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">Responders</td><td colspan=\"3\">Nonresponders</td></tr><tr><td>Pre</td><td>Post</td><td>P value</td><td>Pre</td><td>Post</td><td>P value</td></tr><tr><td>FVC (litres)</td><td>1.70</td><td>1.85</td><td>.046</td><td>1.76</td><td>1.37</td><td>.08</td></tr><tr><td>DTPA (minutes)</td><td>22.4</td><td>28.2</td><td>.001</td><td>25.2#</td><td>17*</td><td>@</td></tr><tr><td>Shuttle (meters)</td><td>286</td><td>307</td><td>.08</td><td>260</td><td>273</td><td>.52</td></tr><tr><td>Prednisolone (mg)</td><td>19</td><td>10</td><td>.02</td><td>21</td><td>13.5</td><td>.95</td></tr></table>"
+  },
+  {
+   "table_id": "img_066050_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    324.0,
+    580.0,
+    461.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_066050_t1.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">2007</td><td colspan=\"2\">2008</td><td colspan=\"2\">2009</td><td colspan=\"2\">2010</td><td colspan=\"2\">2011</td><td>Total</td></tr><tr><td>Case classification</td><td>Cases</td><td>Crude rate</td><td>Cases</td><td>Crude rate</td><td>Cases</td><td>Crude rate</td><td>Cases</td><td>Crude rate</td><td>Cases</td><td>Crude rate</td><td>Cases</td></tr><tr><td>Imported</td><td>0</td><td>0.00</td><td>1</td><td>0.01</td><td>2</td><td>0.03</td><td>3</td><td>0.04</td><td>17</td><td>0.21</td><td>23</td></tr><tr><td>Import-related</td><td>87</td><td>1.14</td><td>0</td><td>0.00</td><td>4</td><td>0.05</td><td>1</td><td>0.01</td><td>691</td><td>8.67</td><td>783</td></tr><tr><td>Unknown</td><td>9</td><td>0.12</td><td>0</td><td>0.00</td><td>0</td><td>0.00</td><td>0</td><td>0.00</td><td>17</td><td>0.21</td><td>26</td></tr><tr><td>Total</td><td>96</td><td>1.25</td><td>1</td><td>0.01</td><td>6</td><td>0.08</td><td>4</td><td>0.05</td><td>725</td><td>9.10</td><td>832</td></tr></table>"
+  },
+  {
+   "table_id": "img_066050_t2",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    493.0,
+    580.0,
+    644.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_066050_t2.png",
+   "html": "<table><tr><td>Method</td><td>Definition</td></tr><tr><td>Cell cross-correlations</td><td>Measures the degree to which neurons in two structures fire spikes at the same time</td></tr><tr><td>Phase locking</td><td>Measures how the firing of neurons in one region is modulated by the phase of LFP oscillations in another region</td></tr><tr><td>Coherence</td><td>Measures whether the phase relationship of LFP oscillations in two structures is consistent over time</td></tr><tr><td>Power correlations</td><td>Measures whether fluctuations in the power of LFP oscillations in two structures are correlated over time</td></tr><tr><td>Functional connectivity</td><td>Measures whether fluctuations in the fMRI BOLD signal in two brain regions are correlated over time</td></tr></table>"
+  },
+  {
+   "table_id": "img_066071_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    436.0,
+    580.0,
+    562.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_066071_t0.png",
+   "html": "<table><tr><td>miRNA input (ng)</td><td>Yield (ng)</td></tr><tr><td>0.5</td><td>2664</td></tr><tr><td>1</td><td>2791</td></tr><tr><td>3</td><td>8165</td></tr><tr><td>9</td><td>22736</td></tr><tr><td>27</td><td>40340</td></tr></table>"
+  },
+  {
+   "table_id": "img_066071_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    637.0,
+    580.0,
+    777.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_066071_t1.png",
+   "html": "<table><tr><td>Detecting Scheme</td><td>Linear Range (μg/L)</td><td>Regression Equation</td><td>Correlation Coefficient (R)</td><td>Limit of Detection (μg/L)</td></tr><tr><td>Method 1</td><td>0.0001~200</td><td>Y = 219.42X + 748.61</td><td>0.9903</td><td>0.0001</td></tr><tr><td>Method 2</td><td>0.0003~200</td><td>Y = 204.83X + 643.88</td><td>0.9918</td><td>0.0003</td></tr><tr><td>Method 3</td><td>0.0003~200</td><td>Y = 194.17X + 613.61</td><td>0.9919</td><td>0.0003</td></tr><tr><td>Method 4</td><td>0.002~500</td><td>Y = 171.42X + 398.51</td><td>0.9905</td><td>0.002</td></tr><tr><td>Method 5</td><td>0.018~500</td><td>Y = 158.86X + 236.21</td><td>0.9913</td><td>0.018</td></tr><tr><td>Method 6</td><td>0.25~250</td><td>Y = 0.5415X + 0.6196</td><td>0.9945</td><td>0.25</td></tr></table>"
+  },
+  {
+   "table_id": "img_066117_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    326.0,
+    580.0,
+    467.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_066117_t0.png",
+   "html": "<table><tr><td>TQ Daily Dose</td><td>TQ Alone</td><td>TQ + CQ (16 mg/kg/day × 3)</td></tr><tr><td>(mg/kg/day × 3)</td><td>#cured/not cured (%)</td><td>#cured/not cured (%)</td></tr><tr><td>0.06</td><td>-</td><td>0/2 (0)</td></tr><tr><td>0.2</td><td>0/2 (0)*</td><td>0/2 (0)</td></tr><tr><td>0.6</td><td>0/2 (0)*</td><td>2/0 (100)</td></tr><tr><td>2</td><td>1/1 (50)</td><td>2/0 (100)</td></tr><tr><td>6</td><td>2/0 (100)</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "img_066117_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    550.0,
+    580.0,
+    677.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_066117_t1.png",
+   "html": "<table><tr><td></td><td>Total number of patients (n = 267)</td></tr><tr><td>Age at diagnosis (years, median/range)</td><td>35 (13–85)</td></tr><tr><td>Premenopause (n, column %)</td><td>213 (80%)</td></tr><tr><td>Postmenopause (n, column %)</td><td>52 (20%)</td></tr><tr><td>Age of premenopausal women (years, median/range)</td><td>32 (13–55)</td></tr><tr><td>Age of postmenopausal women (years, median/range)</td><td>62 (48–85)</td></tr></table>"
+  },
+  {
+   "table_id": "img_066313_t0",
+   "page_num": 4,
+   "bbox": [
+    13.0,
+    81.0,
+    493.0,
+    317.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_066313_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Help seeking behaviours</td><td rowspan=\"2\">Group*</td><td colspan=\"4\">Baseline</td><td colspan=\"4\">Post intervention</td><td colspan=\"4\">3-month follow-up</td><td>F-statistic</td><td>P-value</td></tr><tr><td>N</td><td>Mean</td><td>SE</td><td>CI</td><td>N</td><td>Mean</td><td>SE</td><td>CI</td><td>N</td><td>Mean</td><td>SE</td><td>CI</td><td></td><td></td></tr><tr><td rowspan=\"2\">Willingness to use EAP</td><td>I</td><td>155</td><td>0.676</td><td>0.063</td><td>0.543-0.786</td><td>117</td><td>0.681</td><td>0.067</td><td>0.537-0.797</td><td>89</td><td>0.596</td><td>0.079</td><td>0.436-0.738</td><td rowspan=\"2\">F (2,334) =0.77</td><td rowspan=\"2\">P = 0.46</td></tr><tr><td>C</td><td>136</td><td>0.673</td><td>0.061</td><td>0.545-0.780</td><td>99</td><td>0.559</td><td>0.078</td><td>0.406-0.702</td><td>90</td><td>0.589</td><td>0.079</td><td>0.431-0.732</td></tr><tr><td rowspan=\"2\">Likelihood of encouraging a co-worker to use the EAP</td><td>I</td><td>143</td><td>0.753</td><td>0.056</td><td>0.753-0.056</td><td>114</td><td>0.796</td><td>0.053</td><td>0.796-0.053</td><td>86</td><td>0.720</td><td>0.070</td><td>0.720-0.070</td><td rowspan=\"2\">F (2,350) =1.40</td><td rowspan=\"2\">P = 0.24</td></tr><tr><td>C</td><td>141</td><td>0.790</td><td>0.049</td><td>0.790-0.049</td><td>96</td><td>0.694</td><td>0.067</td><td>0.694-0.067</td><td>84</td><td>0.730</td><td>0.066</td><td>0.730-0.066</td></tr></table>"
+  },
+  {
+   "table_id": "img_066313_t1",
+   "page_num": 4,
+   "bbox": [
+    13.0,
+    329.0,
+    493.0,
+    556.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_066313_t1.png",
+   "html": "<table><tr><td>Technique</td><td>Advantages</td><td>Limitations</td><td>Highest Resolution</td></tr><tr><td>Electron beam lithography (EBL)</td><td>Maskless, Stampless, High-resolution, Arbitrary patterning with different shapes and sizes</td><td>Slow (serial process), Complicated, Expensive (Requiring equipment, clean room and vacuum condition), Small area patterning</td><td>∼30 nm [89]</td></tr><tr><td>Nanocontact printing (NCP)</td><td>Simple (direct patterning), Parallel, Cheap, Fast process, Large area patterning</td><td>Preparing nanoscale stamp with high feature density, Mechanical stability of stamp, Diffusion of SAM inks</td><td>∼70 nm [90]</td></tr><tr><td>Nanoimprint lithography (NIL)</td><td>Large area patterning with a high-throughput and low-cost, Parallel</td><td>Stress and wear of mold, Use of polymer, Slow (molding, demolding, and etching process)</td><td>∼75 nm [91]</td></tr><tr><td>Nanografting/ Nanoshaving</td><td>High-resolution, Ambient, Quick change of fabricated patterns</td><td>Small area patterning</td><td>∼10 nm [92]</td></tr><tr><td>Dip-pen nanolithography (DPN)</td><td>High-resolution, Ambient, Variety of inks usable, Parallelization possible</td><td>Slow (serial process), Small area patterning</td><td>∼30 nm [93]</td></tr></table>"
+  },
+  {
+   "table_id": "img_066313_t2",
+   "page_num": 4,
+   "bbox": [
+    13.0,
+    569.0,
+    493.0,
+    672.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_066313_t2.png",
+   "html": "<table><tr><td></td><td>MnAs bulk</td><td>Sample A</td><td>Sample B</td><td>Sample C</td><td>Sample D</td></tr><tr><td>a (Å)</td><td>5.71</td><td>5.78</td><td>5.71</td><td>5.67</td><td>5.69</td></tr><tr><td>b (Å)</td><td>3.72</td><td>3.69</td><td>3.73</td><td>3.72</td><td>3.72</td></tr><tr><td>c (Å)</td><td>6.45</td><td>6.41</td><td>6.43</td><td>6.45</td><td>6.45</td></tr><tr><td>Tt (Å)</td><td>313</td><td>325</td><td>335</td><td>350</td><td>350</td></tr><tr><td>V (Å3)</td><td>137.06</td><td>136.71</td><td>136.95</td><td>136.05</td><td>136.53</td></tr></table>"
+  },
+  {
+   "table_id": "img_066519_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    246.0,
+    580.0,
+    426.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_066519_t0.png",
+   "html": "<table><tr><td>PAHs</td><td>Rate of Recovery (%)</td><td>PAHs</td><td>Rate of Recovery (%)</td></tr><tr><td>Nap</td><td>89–109</td><td>BaA</td><td>103–125</td></tr><tr><td>Acl</td><td>107–116</td><td>Chr</td><td>87–106</td></tr><tr><td>Ace</td><td>92–113</td><td>BbF</td><td>110–116</td></tr><tr><td>Flu</td><td>100–125</td><td>BkF</td><td>101–109</td></tr><tr><td>Phe</td><td>93–116</td><td>BaP</td><td>90–115</td></tr><tr><td>Ant</td><td>99–123</td><td>Ind</td><td>98–109</td></tr><tr><td>F1a</td><td>105–129</td><td>Dah</td><td>90–91</td></tr><tr><td>Pyr</td><td>112–101</td><td>Bghi</td><td>104–106</td></tr></table>"
+  },
+  {
+   "table_id": "img_066519_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    490.0,
+    580.0,
+    610.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_066519_t1.png",
+   "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Survey recipients</td><td colspan=\"2\">Survey respondents</td><td>MHS patient population</td></tr><tr><td>N</td><td>%</td><td>N</td><td>%</td><td>%</td></tr><tr><td>Female</td><td>111</td><td>49.1</td><td>44</td><td>48.9</td><td>52.4</td></tr><tr><td>Aged ≥55 years</td><td>135</td><td>59.7</td><td>63</td><td>70.0</td><td>24.3</td></tr><tr><td>Caucasian</td><td>191</td><td>85.7</td><td>73</td><td>81.1</td><td>73.6</td></tr><tr><td>Consented</td><td>125</td><td>55.3</td><td>61</td><td>67.8</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "img_066524_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    229.0,
+    580.0,
+    419.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_066524_t0.png",
+   "html": "<table><tr><td>Gene</td><td>RNA-seq FC</td><td>qRT-PCR FC</td><td>p-value (t-test)</td><td>pre-mRNA FC</td><td>p-value (t-test)</td></tr><tr><td>cyt-c-d</td><td>7.25</td><td>7.36</td><td>0.0423</td><td>12.2</td><td>0.0052</td></tr><tr><td>CG31808</td><td>6.84</td><td>5.97</td><td>&lt;0.0001</td><td>4.25</td><td>&lt;0.0001</td></tr><tr><td>fs(1)Yb</td><td>4.84</td><td>2.11</td><td>0.0412</td><td>n/a</td><td>n/a</td></tr><tr><td>pyx</td><td>4.21</td><td>2.43</td><td>0.0175</td><td>1.2</td><td>0.0709</td></tr><tr><td>CG3457</td><td>3.85</td><td>2.85</td><td>0.927</td><td>n/a</td><td>n/a</td></tr><tr><td>CG2678</td><td>3.51</td><td>2.11</td><td>&lt;0.0001</td><td>1.3</td><td>0.2611</td></tr><tr><td>dpr19</td><td>2.82</td><td>1.92</td><td>&lt;0.0001</td><td>n/a</td><td>n/a</td></tr><tr><td>gd</td><td>1.97</td><td>1.79</td><td>0.0072</td><td>n/a</td><td>n/a</td></tr></table>"
+  },
+  {
+   "table_id": "img_066524_t1",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    469.0,
+    580.0,
+    630.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_066524_t1.png",
+   "html": "<table><tr><td>Measure</td><td>Cronbach&#x27;s α</td><td colspan=\"3\">M (SD)</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td></td><td></td><td>Total</td><td>Male</td><td>Female</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Verbal fluency</td><td>0.85</td><td>8.25 (2.86)</td><td>7.43 (2.80)</td><td>8.67 (2.80)**</td><td></td><td>0.84**</td><td>0.78**</td><td>0.73**</td><td>0.69**</td><td>0.60**</td></tr><tr><td>2. Verbal originality</td><td>0.75</td><td>2.48 (1.68)</td><td>2.27 (1.71)</td><td>2.59 (1.65)*</td><td></td><td></td><td>0.65**</td><td>0.62**</td><td>0.63**</td><td>0.51**</td></tr><tr><td>3. Verbal flexibility</td><td>0.70</td><td>4.40 (1.08)</td><td>4.25 (1.21)</td><td>4.48 (1.00)*</td><td></td><td></td><td></td><td>0.59**</td><td>0.55**</td><td>0.55**</td></tr><tr><td>4. Figural fluency</td><td>0.88</td><td>10.06 (4.25)</td><td>8.40 (3.99)</td><td>10.91 (4.12)**</td><td></td><td></td><td></td><td></td><td>0.93**</td><td>0.82**</td></tr><tr><td>5. Figural originality</td><td>0.83</td><td>4.90 (3.05)</td><td>4.05 (2.79)</td><td>5.34 (3.09)**</td><td></td><td></td><td></td><td></td><td></td><td>0.75**</td></tr><tr><td>6. Figural flexibility</td><td>0.69</td><td>5.10 (1.27)</td><td>4.69 (1.39)</td><td>5.31 (1.15)**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_066681_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    268.0,
+    580.0,
+    408.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_066681_t0.png",
+   "html": "<table><tr><td rowspan=\"2\">Pre-transplant CMV serology</td><td rowspan=\"2\">Total number (%)</td><td colspan=\"3\">Number (%) of patients who developed CMV episode(s)</td></tr><tr><td>0</td><td>1</td><td>≥2</td></tr><tr><td>D−/R-</td><td>58 (28%)</td><td>55 (26.4%)</td><td>1 (0.5%)</td><td>2 (1.0%)</td></tr><tr><td>D−/R+</td><td>59 (28.5%)</td><td>28 (13.5%)</td><td>19 (9.1%)</td><td>12 (5.8%)</td></tr><tr><td>D+/R-</td><td>20 (9.5%)</td><td>15 (7.2%)</td><td>4 (1.9%)</td><td>1 (0.5%)</td></tr><tr><td>D+/R+</td><td>71 (34%)</td><td>40 (19.2%)</td><td>20 (9.6%)</td><td>11 (5.3%)</td></tr><tr><td>Total</td><td>208 (100%)</td><td>138 (66.4%)</td><td>44 (21.2%)</td><td>26 (12.5%)</td></tr></table>"
+  },
+  {
+   "table_id": "img_066681_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    470.0,
+    580.0,
+    597.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_066681_t1.png",
+   "html": "<table><tr><td>Trait</td><td>Mean</td><td>SD</td><td>Min</td><td>Max</td></tr><tr><td>Age of semen collection entry, d</td><td>259.74</td><td>33.51</td><td>201</td><td>458</td></tr><tr><td>Boar herd life, d</td><td>835.57</td><td>503.5</td><td>21</td><td>2350</td></tr><tr><td>Daily gain, g</td><td>775.81</td><td>94.32</td><td>554</td><td>1170</td></tr><tr><td>Lean meat content, %</td><td>61.34</td><td>1.94</td><td>55</td><td>67</td></tr><tr><td>Ejaculates incompatible with requirements, n</td><td>3.36</td><td>5.49</td><td>0</td><td>37</td></tr></table>"
+  },
+  {
+   "table_id": "img_066784_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    275.0,
+    580.0,
+    438.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_066784_t0.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">AUCr</td><td colspan=\"2\">MSSD</td></tr><tr><td>VOCs</td><td>Generic Model</td><td>Original Model</td><td>Generic Model</td><td>Original Model</td></tr><tr><td>BENa</td><td>0.9</td><td>1.6</td><td>0.0008</td><td>0.0009</td></tr><tr><td>CCl4b</td><td>2.5</td><td>1.9</td><td>0.4515</td><td>0.2344</td></tr><tr><td>DCMc</td><td>1.1</td><td>1.1</td><td>3.8214</td><td>1.1722</td></tr><tr><td>PCEc</td><td>0.6</td><td>0.8</td><td>0.0805</td><td>0.0164</td></tr><tr><td>TCEc</td><td>0.8</td><td>0.8</td><td>0.0095</td><td>0.0089</td></tr><tr><td>VCb</td><td>1.2</td><td>1.1</td><td>0.1875</td><td>0.1831</td></tr></table>"
+  },
+  {
+   "table_id": "img_066784_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    495.0,
+    580.0,
+    635.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_066784_t1.png",
+   "html": "<table><tr><td>Phenotype</td><td>Cases</td><td colspan=\"2\">Not adjusted for BMI</td><td colspan=\"2\">Adjusted for BMI</td></tr><tr><td></td><td></td><td>p†</td><td>OR (95% CI)</td><td>p†</td><td>OR (95% CI)</td></tr><tr><td>Attention deficit hyperactivity disorder</td><td>76</td><td>0.085</td><td>0.74 (0.52–1.04)</td><td>0.11</td><td>0.75 (0.53–1.06)</td></tr><tr><td>Pancreatic cancer</td><td>183</td><td>0.23</td><td>1.14 (0.92–1.40)</td><td>0.19</td><td>1.15 (0.93–1.42)</td></tr><tr><td>Alcoholism</td><td>267</td><td>0.37</td><td>1.08 (0.91–1.29)</td><td>0.32</td><td>1.09 (0.92–1.30)</td></tr><tr><td>Senile dementia</td><td>192</td><td>0.90</td><td>0.99 (0.80–1.22)</td><td>0.90</td><td>0.99 (0.80–1.22)</td></tr><tr><td>Osteoarthritis</td><td>6328</td><td>0.20</td><td>1.03 (0.98–1.08)</td><td>0.88</td><td>1.00 (0.95–1.06)</td></tr></table>"
+  },
+  {
+   "table_id": "img_066957_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    260.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_066957_t0.png",
+   "html": "<table><tr><td colspan=\"2\">Type of VSD</td><td>No. of cases</td><td>TGA + VSD</td><td>TGA + VSD + Ao obstruction</td><td>TGA + VSD + Po stenosis</td></tr><tr><td colspan=\"2\">Perimembranous</td><td>32 (48%)</td><td>22 (51%)</td><td>6</td><td>3 (60%)</td></tr><tr><td colspan=\"2\">Muscular</td><td>27 (41%)</td><td>17</td><td>10 (55%)</td><td>1</td></tr><tr><td rowspan=\"2\">Multiple</td><td>Perimembranous + muscular</td><td>4</td><td>2</td><td>2</td><td>–</td></tr><tr><td>Multiple muscular</td><td>3</td><td>2</td><td>–</td><td>1</td></tr><tr><td colspan=\"2\">Total</td><td>66</td><td>43</td><td>18</td><td>5</td></tr></table>"
+  },
+  {
+   "table_id": "img_066957_t1",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    297.0,
+    580.0,
+    424.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_066957_t1.png",
+   "html": "<table><tr><td rowspan=\"2\">Code</td><td rowspan=\"2\">Size (cm)</td><td colspan=\"2\">Maximum</td></tr><tr><td>Area (cm2)</td><td>Number of sheets</td></tr><tr><td>32024</td><td>7.5 × 10.0</td><td>774</td><td>10</td></tr><tr><td>32025</td><td>7.5 × 12.5</td><td>774</td><td>8</td></tr><tr><td>32029</td><td>10.0 × 10.0</td><td>774</td><td>7</td></tr><tr><td>32031</td><td>12.5 × 15.0</td><td>774</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "img_066957_t2",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    463.0,
+    580.0,
+    590.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_066957_t2.png",
+   "html": "<table><tr><td>Age group (years)</td><td>Females</td><td>Males</td><td>Total</td></tr><tr><td>0–20</td><td>12 (3.44%)</td><td>0</td><td>12</td></tr><tr><td>21–40</td><td>109 (31.23%)</td><td>13 (3.72%)</td><td>122</td></tr><tr><td>41–60</td><td>171 (48.99%)</td><td>15 (4.29%)</td><td>186</td></tr><tr><td>61 and above</td><td>18 (5.16%)</td><td>3 (0.86%)</td><td>21</td></tr><tr><td>Not known</td><td>8 (2.29%)</td><td>0</td><td>8</td></tr></table>"
+  },
+  {
+   "table_id": "img_067018_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    232.0,
+    580.0,
+    450.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_067018_t0.png",
+   "html": "<table><tr><td></td><td>Number of district hospitals in which item was found (n=6)</td><td>Number of sub-district hospitals in which item was found (n=12)</td></tr><tr><td>Functioning refrigerators for vaccine storage</td><td>6</td><td>12</td></tr><tr><td>Filled Oxygen cylinders</td><td>6</td><td>12</td></tr><tr><td>Flow meters for Oxygen</td><td>6</td><td>9</td></tr><tr><td>Incubators for emergency neonatal care</td><td>3</td><td>3</td></tr><tr><td>Warmers for emergency neonatal care</td><td>1</td><td>0</td></tr><tr><td>Weighing scales in in-patient departments</td><td>5</td><td>7</td></tr></table>"
+  },
+  {
+   "table_id": "img_067018_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    499.0,
+    580.0,
+    622.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_067018_t1.png",
+   "html": "<table><tr><td>cell systems</td><td>Number of mice with tumors (n = 2)</td><td>Mean time of tumor appearance (weeks)</td></tr><tr><td>SM-AP1</td><td>2</td><td>7.5</td></tr><tr><td>SM-AP2</td><td>1</td><td>9</td></tr><tr><td>SM-AP3</td><td>1</td><td>19</td></tr><tr><td>SM-AP4</td><td>1</td><td>5</td></tr><tr><td>SM-AP5</td><td>2</td><td>9</td></tr></table>"
+  }
+ ]
+}

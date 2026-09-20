@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_419",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    382.7,
+    66.0
+   ],
+   "ocr": "Ben-Assuli et al. BMC Medical Informatics and Decision Making 2013, 13:49 http://www.biomedcentral.com/1472-6947/13/49"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 8 of 10"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    383.4,
+    138.3
+   ],
+   "ocr": "Table 9 Logistic regression on readmission within seven days (Hypothesis 3)"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    386.8,
+    111.4,
+    674.5,
+    124.4
+   ],
+   "ocr": "for all DDs comparing local and external medical history"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    143.1,
+    678.6,
+    241.7
+   ],
+   "ocr": "Theory variables in the equation All DDs (N=43,030) GE (N=1,900) AP (N=7,511) UTI (N=2,909) CP (N=26,026) PO (N=4,684)\nLocal history viewed 1.272 (0.050) 1.149 (0.482) 1.393 0(.203) 1.082 (0.894) 1.301 (0.114) 0.763 (0.526)\nAge 0.989 (<0.001) 0.986 (<0.001) 0.991 (0.026) 1.003 (0.783) 0.988 (<0.001) 0.980 (0.009)\nGender 1.435 (<0.001) 1.117 (0.343) 1.092 (0.576) 1.137 (0.777) 1.587 (<0.001) 1.019 (0.947)\nHMO 1.334 (0.002) 0.716 (0.016) 1.466 (0.050) 0.915 (0.877) 1.438 (0.002) 0.931 (0.884)\nConstant 0.000 (0.998) 0.000 (1.000) 0.000 (0.998) 0.000 (0.999) 0.000 (0.999) 0.000 (0.999)",
+   "table_id": "PMC3651728_table_8"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    246.7,
+    383.4,
+    257.9
+   ],
+   "ocr": "Note. a Coded 0 = external history viewed, 1= local history viewed. (all similar tables"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    386.0,
+    248.0,
+    517.7,
+    257.9
+   ],
+   "ocr": "below use the same abbreviations)."
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    291.2,
+    366.2,
+    758.5
+   ],
+   "ocr": "Similar to the external medical history findings, local history was associated with a significant reduction in readmissions across the board, ranging from 43% for PO (OR = 0.567) to 75% for both GE and UTI (OR = 0.249 and 0.246 respectively), and 72% for AP. Table 7 also shows that HMO correlates with read- missions rates. Moreover, being an HMO member was positively correlated readmission. These correlations were not consistent across the DDs. Table 8 shows that viewed local history was associated with a reduced number of single-day admissions. The largest reduction was again for GE, AP, and UTI with re- duction of 22% (OR = 0.776), 38% (OR = 0.617), and 37% (OR = 0.633) respectively. Additionally, it shows a consistent association of re- duced single-day admissions for patients belonging to the main HMO. Tables 5–8 examined external and local medical information independently. Tables 9 and 10 compare the two cases. These two regressions include a much smaller sample size (N = 40,030) because only cases in which in- formation was viewed were included in the regression. When contrasted with external medical information, viewed local medical history had a marginally significant association with an increased number of readmissions (OR = 1.272). We were not able to demonstrate this dif- ference for the various DDs separately. We assessed that no significance was found for each DD due to small sam- ple size. However, the direction of OR was kept solidly positive (OR range 1.149 to 1.393), except for PO DD (OR = 0.763), after controlling for all variables."
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    291.2,
+    678.6,
+    425.9
+   ],
+   "ocr": "In Table 10, after contrasted with an external informa- tion, local medical history viewed had a significant asso- ciation with increased number of single-day admissions (OR = 1.130) in comparison to external medical infor- mation. Again, this effect could not be found for the various DDs separately, probably due to the small sam- ple size. Nevertheless, the direction of the association remained positive (OR range 1.024 to 1.149), except for UTI DD (OR = 0.883)."
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    456.8,
+    678.6,
+    757.2
+   ],
+   "ocr": "Main findings and results Patient medical history was only viewed in 31.2% of all referrals to the ED via the EHR. Hence, 68.8% of all refer- rals did not involve any use of EHR IS. There was in- creased use of EHR IS for patients who were members of the main HMO, for whom more extensive data were col- lected and available for review. Second, viewing local and external medical history via the EHR IS was positively associated with a reduced number of readmissions within seven days (hypothesis 1 supported) and single-day admissions (hypothesis 2 supported). Third, GE, AP, and UTI DDs were found to have the highest association between EHR IS viewed and reduced number of seven day readmissions. GE, AP, and CP DDs had the highest association between EHR IS viewed and reduced single-day admission rates. Finally viewing external medical history was more highly correlated with lower single-day admissions and seven day readmissions than local medical history (hy- pothesis 3 supported)."
+  },
+  "p5_b10": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    789.0,
+    378.5,
+    815.8
+   ],
+   "ocr": "Table 10 Logistic regression on single-day admissions for all (Hypothesis 3)"
+  },
+  "p5_b11": {
+   "type": "caption",
+   "bbox": [
+    382.0,
+    789.0,
+    636.3,
+    802.0
+   ],
+   "ocr": "DDs comparing local and external medical history"
+  },
+  "p5_b12": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    820.7,
+    678.6,
+    919.2
+   ],
+   "ocr": "Theory variables in the equation All DDs (N=43,030) GE (N=1,900) AP (N=7,511) UTI (N=2,909) CP (N=26,026) PO (N=4,684)\nLocal history viewed 1.130 (0.005) 1.149 (0.482) 1.024 (0.802) 0.883 (0.507) 1.109 (0.069) 1.028 (0.879)\nAge 0.978 (<0.001) 0.986 (<0.001) 0.978 (<0.001) 0.989 (0.002) 0.971 (<0.001) 0.997 (0.423)\nGender 1.052 (0.066) 1.117 (0.343) 1.070 (0.266) .856 (0.318) 0.921 (0.016) 1.183 (0.147)\nHMO 0.898 (<0.001) 0.716 (0.016) 0.833 (0.006) 1.104 (0.616) 0.948 (0.177) 0.971 (0.846)\nConstant 0.350 (0.031) 0.000 (1.000) 0.667 (0.478) 0.000 (0.999) 0.564 (0.649) 0.000 (0.999)",
+   "table_id": "PMC3651728_table_9"
+  }
+ }
+}

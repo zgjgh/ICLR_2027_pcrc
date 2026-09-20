@@ -1,0 +1,215 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_048",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    369.8,
+    41.8,
+    678.5,
+    53.3
+   ],
+   "ocr": "12(Suppl 1):S6 Page 6 of 8"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    42.0,
+    366.5,
+    65.8
+   ],
+   "ocr": "Anwar and Oakes BMC Medical Informatics and Decision Making 2012, http://www.biomedcentral.com/1472-6947/12/S1/S6"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    109.5,
+    193.0,
+    124.0
+   ],
+   "ocr": "Table 12 (O-E)2/E values"
+  },
+  "p5_b3": {
+   "type": "title",
+   "bbox": [
+    401.8,
+    120.3,
+    678.6,
+    135.2
+   ],
+   "ocr": "PITE = = 0.81 (5)"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    81.1,
+    128.9,
+    356.5,
+    171.9
+   ],
+   "ocr": "Hearing aid type PCA1 PCA2 PCA3 PCA4\nITE 81.99 0.22 176.14 0.25\nBTE 91.78 0.24 197.18 0.28",
+   "table_id": "PMC3339393_table_11"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    424.8,
+    129.0,
+    604.0,
+    178.3
+   ],
+   "ocr": "(676 + 157) Agreements of machine and human"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    402.1,
+    172.9,
+    678.6,
+    186.9
+   ],
+   "ocr": "R = (6)"
+  },
+  "p5_b7": {
+   "type": "caption",
+   "bbox": [
+    426.6,
+    181.5,
+    602.1,
+    230.0
+   ],
+   "ocr": "Total no. in that category in reality 676"
+  },
+  "p5_b8": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    198.0,
+    272.2,
+    211.0
+   ],
+   "ocr": "Table 13 Logistic regression for gender"
+  },
+  "p5_b9": {
+   "type": "table",
+   "bbox": [
+    72.5,
+    215.9,
+    365.0,
+    259.0
+   ],
+   "ocr": "Regression coefficient b Standard error se(b) Z P\nConstant -0.23 0.04 -5.93 0\nGender 0.16 0.05 3.08 0",
+   "table_id": "PMC3339393_table_12"
+  },
+  "p5_b10": {
+   "type": "title",
+   "bbox": [
+    401.5,
+    224.6,
+    678.6,
+    239.6
+   ],
+   "ocr": "RITE = = 0.86 (7)"
+  },
+  "p5_b11": {
+   "type": "title",
+   "bbox": [
+    437.5,
+    233.4,
+    587.4,
+    281.8
+   ],
+   "ocr": "(676 + 106) P R 0.81 0.86"
+  },
+  "p5_b12": {
+   "type": "caption",
+   "bbox": [
+    401.6,
+    268.9,
+    678.6,
+    291.3
+   ],
+   "ocr": "FITE = 2 × = 2 × = 0.84 (8)"
+  },
+  "p5_b13": {
+   "type": "caption",
+   "bbox": [
+    444.6,
+    277.5,
+    522.2,
+    298.9
+   ],
+   "ocr": "× ×"
+  },
+  "p5_b14": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    285.1,
+    678.7,
+    773.3
+   ],
+   "ocr": "P + R 0.81 + 0.86 In Table 19, 782 and 651 are the counts of ITE and BTE aids respectively in the human-annotated test data, while 833 and 600 are the counts of ITE and BTE aids respectively in the machine predicted results. The over- all agreement is much better than random (50%), but the performance of a classifier should also be compared against the “simplest possible algorithm” [6]. In our case, this would be to assume that all the patients should be assigned the more commonly prescribed type of hearing aid. In our test set 782 out of 1433 patients in the test set were given ITE aids, so simply assigning all the patients this type of aid would provide 54.6% agreement, which is referred to as the ZeroR baseline. The theoretical upper bound of classifier performance is the inter-annotator agreement [2], in our case the rate at which two expert audiologists would assign the same hearing aid to the same patient. Unfortunately, we do not have data on this. Five-fold cross validation (repeated subsampling of the data to produce five non- overlapping test sets for an unbiased estimation of model accuracy) was performed. The overall similarity was in the range 82 to 85%, precision was in the ranges 0.79 to 0.87 for ITE and 0.82 to 0.85 for BTE, recall was 0.84 to 0.88 for ITE and 0.74 to 0.85 for BTE, and the F measure was 0.83 to 0.86 for ITE and 0.79 to 0.83 for BTE. For most of the cross-validation runs BC2000, BC4000, Diagnosis and Masker were discarded from the model, since these variables have p values of more than 0.05 for their constants. These results show that for each run, both the final model and the success rates were similar."
+  },
+  "p5_b15": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    287.7,
+    366.1,
+    751.5
+   ],
+   "ocr": "Table 14 Logistic regression for AC250 Regression coefficient Standard error se Z P b (b) Constant -0.72 0.04 -17.23 0 AC250_ind1 0.54 0.07 8.15 0 AC250_ind2 1.29 0.07 17.26 0 AC250_ind3 2.18 0.12 17.91 0 * Note: Ac250_ind1, Ac250_ind2 and Ac250_ind3 represent Air conduction at 250 dB quartile of 40, 55 and 75 dB respectively. in the free-text field. The final total of the regression coefficients is 10.1, which is the final log odds value, suggesting that it is much more likely that this patient would benefit most from a BTE hearing aid as opposed to an ITE aid. Testing of these logistic regression models showed that overall there was 81.64% agreement between the predictions of our model and the actual hearing aid cho- sen by the audiologist (as given in the “type” field) as shown in Table 17. The agreement rate was higher for patients fitted with ITE aids (86%) than for those fitted with BTE aids (76%). The results were analyzed accord- ing to precision, recall and F-measures [5] using equa- tions (5), (7) and (8) respectively, as shown in Table 18. For comparison, a similar analysis using a Naïve Baye- sian approach was performed, and 0.67, 0.76, and 0.71 were obtained as the precision, recall and F-score respectively for ITE and 0.66, 0.56 and 0.60 as the preci- sion, recall and F-score respectively for BTE. Agreements of machine and human"
+  },
+  "p5_b16": {
+   "type": "title",
+   "bbox": [
+    89.4,
+    746.1,
+    366.1,
+    760.1
+   ],
+   "ocr": "P = (4)"
+  },
+  "p5_b17": {
+   "type": "title",
+   "bbox": [
+    111.5,
+    754.8,
+    322.0,
+    768.7
+   ],
+   "ocr": "Total number in that category by machine"
+  },
+  "p5_b18": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    808.7,
+    273.0,
+    821.7
+   ],
+   "ocr": "Table 15 Predicted Log odds for AC250"
+  },
+  "p5_b19": {
+   "type": "table",
+   "bbox": [
+    121.9,
+    826.6,
+    628.2,
+    900.7
+   ],
+   "ocr": "AC250 group Logistic regression equation Predicted log odds\n0<AC250< = 40 Log odds = bconstant -0.72\n40<AC250< = 55 Log odds = bconstant + bAC250_ind1 -0.18\n55<AC250< = 75 Log odds = bconstant + bAC250_ind2 0.57\n75<AC250 Log odds = bconstant + bAC250_ind3 1.45",
+   "table_id": "PMC3339393_table_14"
+  }
+ }
+}

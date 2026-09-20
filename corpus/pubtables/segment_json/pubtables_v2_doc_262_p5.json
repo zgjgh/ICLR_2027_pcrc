@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_262",
+  "page": 5,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    301.4,
+    51.8
+   ],
+   "ocr": "Goldsmith et al. Radiation Oncology (2018) 13:204"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 8 of 12"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    363.2,
+    123.1
+   ],
+   "ocr": "Table 6 Duodenal dosimetry and treatment factors for patients"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    366.7,
+    110.4,
+    468.6,
+    123.1
+   ],
+   "ocr": "with Grade 3+ toxicity"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    314.3
+   ],
+   "ocr": "Grade 3+ Treatment Factors Duodenal Dosimetry\nToxicity\nFids PTV Prescribed Dose Dur’n D0.035 cc D1.0 cc D5.0 cc D10.0 cc V15 Gy V20 Gy\nACUTE\nGrade 3 pain 4 39.84 cc 30.0 Gy 3 fractions 3 days 33.9 Gy* 25.4 Gy 15.8 Gy 12.8 Gy* 5.9 cc 2.5 cc\nGrade 3 fatigue 3 44.22 cc 30.0 Gy 3 fractions 3 days 34.9 Gy* 27.9 Gy 20.5 Gy* 16.2 Gy* 12.3 cc 5.4 cc\nGrade 3 obstructive jaundice 4 119.57 cc 21.0 Gy 3 fractions 3 days 23.8 Gy* 22.6 Gy 21.1 Gy* 19.6 Gy* 32.2 cc 8.6 cc\nLATE\nGrade 4 duodenal stricture 1† 20.34 cc 28.5 Gy 3 fractions 5 days 11.2 Gy 8.3 Gy 6.8 Gy 6.2 Gy 0.0 cc 0.0 cc\nGrade 4 GI bleed 1† 83.49 cc 27.0 Gy 3 fractions 5 days 29.3 Gy* 28.3 Gy 26.2 Gy* 23.9 Gy* 39.1 cc 19.4 cc\nGrade 4 GI bleed 3 109.31 cc 22.0 Gy 3 fractions 3 days 24.2 Gy* 23.2 Gy 22.5 Gy* 21.8 Gy* 63.3 cc 24.3 cc\nGrade 4 duodenal stricture 3 104.25 cc 27.0 Gy 3 fractions 3 days 31.6 Gy* 29.1 Gy 26.0 Gy* 21.8 Gy* 24.2 cc 12.8 cc",
+   "table_id": "PMC6194644_table_5"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    320.6,
+    385.2,
+    927.7
+   ],
+   "ocr": "*Duodenal planning dosimetry exceeded institution preferred 3 fraction constraints. complications [47] late and Grade 3+ toxicity events: multiple testing is ac- knowledged as an additional limitation. The only factors that showed association with acute toxicity were number of fiducials (p = 0.0002) and treatment purpose (p = 0.064). The former aligns with our previous dose-volume histogram study of duodenal risk in an overlapping co- hort of pancreatic SABR patients that showed increased toxicity risk for patients with single or no fiducial [47]. The latter is probably due to the patients who were re-treated who had one or more sub-optimal treatment factors (unusually large or small PTV and/or tightly ad- jacent OAR and/or only one fiducial and/or breached OAR constraints) and thus a higher risk of treatment toxicity was expected. Number of fiducials also associ- ated with late toxicity [47]. Other variables that associ- ated with late toxicity were increased treatment duration period (> 3 days), treatment delivery time (mins), and coverage: (%): however, we consider these factors to be associative rather than causal for late toxicity for several reasons. First, the main reason for serious duodenal tox- icity in three patients was breached duodenal OAR con- straints. Second, the uneven distribution noted for treatment delivery time and late treatment toxicities is mainly because two patients who showed Grade 2 late treatment toxicities had lower than average treatment times. Third, the association between treatment duration and percentage coverage likely reflects purposeful selec- tion of these parameters because of recognised increased duodenal toxicity risk due to individual medical, ana- tomical planning and delivery challenges. For example, SABR is known to be least successful when the treat- ment volume is large and the ‘dose-cloud’ is not tightly conformal, and to be sub-optimal when fewer fiducials are used compromising the accuracy of dynamic tumour tracking. As such, it is notable that of the four patients that suffered duodenal toxicity, two had large PTV (> 100 cc), and the other two (who were treated palliatively > 6 months after primary therapy for recurrent disease)"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    387.9,
+    320.6,
+    632.3,
+    330.6
+   ],
+   "ocr": "† single fiducial conferring anticipated increased risk of duodenal"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    352.4,
+    681.1,
+    927.7
+   ],
+   "ocr": "had only one fiducial implanted for on-treatment tumour tracking and were purposefully prescribed treat- ment over 5 days because of anticipated toxicity risk. Moreover, three of the patients who suffered duodenal toxicity breached the preferred duodenal OAR dose con- straints, with the volume of duodenum receiving > 15 Gy considerably exceeding limits correlated with duo- denal toxicity [36]. Increased vigilance and stringency to duodenal dose constraints, particularly for patients with large PTV, distorted anatomy, closely adjacent OAR, or fewer fiducials, is therefore appropriate. Indeed, our recent dose-volume histogram duodenal risk map study of duo- denal risk in an overlapping cohort of pancreatic SABR patients showed a 10% risk level for Grade 3–4 duodenal haemorrhage or stricture when D1 cc = D31.4 Gy [47]. Furthermore, we found that the use of multiple fiducials showed ~one-fifth of the risk for Grade 3–4 duodenal complications compared with single fiducial or Xsight® Spine tumour tracking. As such, we advocate implanting at least four fiducials and using three or more stable fidu- cials for optimal tumour tracking during treatment deliv- ery and, based on estimated 10% duodenal risk levels, now impose the stringent duodenal constraint of D1.0 cc < 31.4 Gy for all pancreatic patients treated with ≤30 Gy in three fractions. Concomitantly, in response to collective experience, we have revised our duodenal D0.035 cc con- straint to the higher limit of 24 Gy [47]. It is additionally noted that the incorporation of more extensive measures for duodenal assessment during individualised planning/ schedules, such as Lyman modelling for normal tissue complication probability [36], late complications [44] or Red Shell volume calculation [48] may also be helpful in the prevention of duodenal toxicity. As all patients were inoperable and non-metastatic, they would be expected to have similar prognostic out- comes to intermediate stage patients and may reasonably be compared with similar intermediate stage cohorts in the literature. Overall survival following SABR was good"
+  }
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_422",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    42.8,
+    279.8,
+    67.0
+   ],
+   "ocr": "Dias et al. BMC Bioinformatics 2012, 13:96 http://www.biomedcentral.com/1471-2105/13/96"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    621.2,
+    43.0,
+    677.6,
+    54.4
+   ],
+   "ocr": "Page 10 of 12"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    78.5,
+    117.8,
+    386.3,
+    351.3
+   ],
+   "ocr": "65% 60% 55% 50% Adjacencies 45% 40% 35% 30% Correct 25% 20% 15% 10% 5% 0% 1 2 3 4 5 6 7 8 9 10 11 Closest Reference Figure 9 Average of Correct Adjacencies (Cumulative Version). Variation genome changes from the closest to the most distant, in a total of 20 correspond to the cumulative averages as more distant genomes are"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    356.7,
+    157.8,
+    670.5,
+    351.3
+   ],
+   "ocr": "SIS (promer) SIS (nucmer) Mauve r2cat OSLay fS (nucmer) fS (promer) CONTIGuator Projector2 ABACAS 12 13 14 15 16 17 18 19 20 Genomes in number of correct adjacencies for each program as the reference reference genomes. This is a cumulative version of Figure 8. The points plotted included. fS is ﬁllScaﬀolds."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    382.2,
+    677.6,
+    581.2
+   ],
+   "ocr": "Finally, we investigated the inﬂuence of duplications on the performance of SIS in terms of correct adjacencies. We found that on average no more than 13% of incorrect adjacencies are due to duplications. Running times Running times of the tests are dominated by the sequence comparison step. For example, in the case of SIS, nucmer takes on average 1 minute for a genome pair, and promer takes on average 5 minutes. SIS itself takes less than a second to compute a scaﬀold set. OSLay takes about 3 sec- onds. After obtaining the conserved blocks, ﬁllScaﬀolds takes about 3 seconds. r2cat takes between 15 and 20 sec-"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    383.6,
+    365.2,
+    490.8
+   ],
+   "ocr": "Additional results Here we brieﬂy describe additional results for which tables and graphs can be found in the Additional ﬁle 1. Another way of parsing results is to ask the question: which program yields best results for each query chro- mosome sequence, in terms of number of average correct adjacencies? SIS (promer and nucmer) are the best pro-"
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    487.6,
+    206.4,
+    505.8
+   ],
+   "ocr": "grams under this measure."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    502.7,
+    365.3,
+    611.2
+   ],
+   "ocr": "Another question to ask is what kind of inﬂuence does the number of contigs has on a program’s perfor- mance? We have found that all programs obtain their best results for chromosome sequences that have few contigs (between 4 and 25). As for worst results, the outcome was less clear, since it is not always the case that the largest number of contigs results in poorest performance. We"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    578.0,
+    677.7,
+    596.2
+   ],
+   "ocr": "onds to determine conserved blocks and about 2 seconds"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    593.1,
+    677.6,
+    611.3
+   ],
+   "ocr": "to generate a scaﬀold. ABACAS takes between 10 and"
+  },
+  "p4_b10": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    608.1,
+    365.2,
+    626.3
+   ],
+   "ocr": "also determined that ﬁllScaﬀolds and r2cat seem to be less"
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    608.1,
+    677.6,
+    626.4
+   ],
+   "ocr": "30 seconds total time. CONTIGuator takes about 2 min-"
+  },
+  "p4_b12": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    623.1,
+    365.3,
+    641.4
+   ],
+   "ocr": "sensitive to variation in number of contigs in the input"
+  },
+  "p4_b13": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    623.2,
+    677.6,
+    641.4
+   ],
+   "ocr": "utes to determine conserved blocks using BLAST+ and to"
+  },
+  "p4_b14": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    638.2,
+    365.2,
+    656.4
+   ],
+   "ocr": "than other programs. These results need to be taken with"
+  },
+  "p4_b15": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    638.2,
+    677.6,
+    656.5
+   ],
+   "ocr": "generate a scaﬀold. Mauve Aligner takes between 8 and"
+  },
+  "p4_b16": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    653.2,
+    365.3,
+    671.5
+   ],
+   "ocr": "caution, because the bins we used had a relatively small"
+  },
+  "p4_b17": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    653.3,
+    677.6,
+    671.5
+   ],
+   "ocr": "322 minutes per genome pair (on average, 46 minutes)."
+  },
+  "p4_b18": {
+   "type": "caption",
+   "bbox": [
+    70.7,
+    668.3,
+    346.1,
+    726.0
+   ],
+   "ocr": "number of instances in each (between ﬁve and seven). Table 4 Best Scaﬀolds (Correct Adjacencies)"
+  },
+  "p4_b19": {
+   "type": "caption",
+   "bbox": [
+    383.1,
+    668.3,
+    677.6,
+    725.9
+   ],
+   "ocr": "All these tests were executed on the same machine, a Table 5 Average Performance (Coverage)"
+  },
+  "p4_b20": {
+   "type": "table",
+   "bbox": [
+    382.9,
+    732.0,
+    677.3,
+    919.9
+   ],
+   "ocr": "Programs Closest Top 10 Top 20\nSIS (promer) 58.6 46.0 34.6\nr2cat 56.8 40.4 27.5\nMauve 55.9 41.9 29.5\nSIS (nucmer) 52.4 39.5 25.6\nﬁllScaﬀolds (nucmer) 42.9 29.9 19.0\nOSLay 42.5 29.0 18.2\nCONTIGuator 42.0 29.3 19.3\nﬁllScaﬀolds (promer) 40.2 29.2 19.5\nProjector 2 34.3 22.5 13.9\nABACAS 27.8 19.9 11.3",
+   "table_id": "PMC3674793_table_4"
+  },
+  "p4_b21": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    732.1,
+    365.1,
+    920.1
+   ],
+   "ocr": "Programs Closest Top 10 Top 20\nSIS (promer) 56.52 59.13 64.57\nSIS (nucmer) 39.13 27.83 20.87\nMauve 26.09 25.65 23.26\nOSLay 21.74 15.65 11.30\nﬁllScaﬀolds (nucmer) 21.74 11.30 8.70\nABACAS 17.39 11.74 7.61\nr2cat 13.04 16.09 15.65\nCONTIGuator 13.04 9.57 6.30\nProjector 2 8.70 6.09 4.57\nﬁllScaﬀolds (promer) 0.00 6.96 8.04",
+   "table_id": "PMC3674793_table_3"
+  }
+ }
+}

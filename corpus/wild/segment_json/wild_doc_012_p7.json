@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_012",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The following data table presents key metrics related to the E1M1 evaluation framework, specifically focusing on the performance outcomes of E-AAC (Enhanced Augmented Audio Coding) and M-CAA (Multimedia Content Adaptive Algorithms) technologies. The columns labeled \"Y\" and \"T\" provide insights into the efficacy and operational parameters of these systems, respectively."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    140
+   ],
+   "ocr": "The \"Y\" column captures the success rate of the E-AAC implementation, reflecting how well the technology meets the specified operational benchmarks. In contrast, the \"T\" column details the time taken for processing tasks, which is critical for determining the efficiency of these advanced algorithms in real-time applications."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    157.0,
+    580.0,
+    451.0
+   ],
+   "ocr": "Primer code Primer combinations Total fragments Polymorphic markers Polymorphism (%)\nY T\nE1M1 E-AAC + M-CAA 23 10 8 78.26\nE2M1 E-ACA + M-CAA 39 9 10 48.72\nE3M1 E-AGG + M-CAA 33 10 5 45.45\nE4M2 E-ATC + M-CCA 37 11 7 48.65\nE1M3 E-AAC + M-CAG 91 18 20 41.76\nE2M3 E-ACA + M-CAG 28 6 6 42.86\nE3M7 E-AGG + M-CAC 29 6 9 51.72\nE4M4 E-ATC + M-CGA 50 8 10 36.00\nE6M3 E-AAG + M-CAG 44 8 13 47.73\nE5M7 E-ACT + M-CAC 65 12 20 49.23\nTotal – 439 98 108 46.92\nAverage – 43.9 20.6 –",
+   "table_id": "img_012105_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    467,
+    580,
+    510
+   ],
+   "ocr": "The data indicates that, over a series of tests, E-AAC achieved a success rate of 23, while M-CAA demonstrated a processing time of 10 units. Furthermore, the performance of M-CAA shows an intriguing correlation with its ability to adaptively manage content, as indicated by its additional metric of 8, which likely represents a further refinement in its operational capabilities."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    514,
+    580,
+    541
+   ],
+   "ocr": "This context is essential for understanding the implications of these technologies in enhancing audio processing and multimedia applications, paving the way for more efficient and effective solutions in the industry."
+  }
+ }
+}

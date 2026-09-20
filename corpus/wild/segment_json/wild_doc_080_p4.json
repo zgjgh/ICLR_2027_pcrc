@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_080",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    190.0,
+    580.0,
+    252.0
+   ],
+   "ocr": "In the FY2023 report for SK Hynix, the wafer fabrication yield rates are detailed across various wafer types: for Silicon Wafer, the Fabrication Yield is 95.3%, with a Defect Density of 12 defects/cm², and the Cost per Wafer is $800, contributing to a Total Production of $1.2M; the specific breakdown includes $160M in total costs, a yield of 12.3%, a quality factor of 75.4%, an efficiency of 98.2%, and a production volume of $2.4M."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    325.0,
+    580.0,
+    578.0
+   ],
+   "ocr": "WaferType FabricationYield DefectDensity CostperWafer ProductionVolume\nSiliconWafer 95.3% 12defects/cm² $800 TotalProduction\nGaNWafer 90.7% 15defects/cm² $1200 200kunits TotalCost\nSiliconWafer $160M 12.3% 75.4% 98.2% $2.4M\nGaNWafer $120M 15.7% 68.9% 95.5% $1.8M\nSiliconWafer 0.98 1.25 1.56 1.02 0.95\nGaNWafer 0.85 1.10 1.47 0.90 0.88\nSiliconWafer 100% $300M 250kunits 85.0% $1.5M\nGaNWafer 95% $200M 150kunits 80% $1.2M\nSiliconWafer 97% $900M 300kunits 90% $2M\nGaNWafer 89% $250M 120kunits 75% $1.5M\nSiliconWafer 92% $350M 200kunits 85% $1.8M",
+   "table_id": "img_088304_t0"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    628,
+    580,
+    701
+   ],
+   "ocr": "The GaN Wafer shows a Fabrication Yield of 90.7%, a Defect Density of 15 defects/cm², and a Cost per Wafer of $1200, with a total production volume of 200 k units resulting in a Total Cost of $1.8M; further parameters reflect a total cost of $120M, a yield of 15.7%, a quality factor of 68.9%, an efficiency of 95.5%, and a production volume of 1.8M. Additionally, for Silicon Wafer, the values are 0.98, 1.25, 1.56, 1.02, and 0.95 for various metrics, while GaN Wafer values are 0.85, 1.10, 1.47, 0.90, and 0.88."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "The yield for Silicon Wafer reaches 100% with a total cost of $300M for a production of 250 k units at an 85.0% efficiency, resulting in $1.5M, while GaN Wafer yields 95% with a total cost of $200M for 150 k units at 80%, leading to $1.2M. The Silicon Wafer also shows a yield of 97% with $900M total cost for 300 k units, achieving 90% efficiency and $2M, whereas GaN Wafer yields 89% with $250M total cost for 120 k units at 75%, resulting in $1.5M, and finally, the Silicon Wafer shows a yield of 92% with a total cost of $350M for 200 k units at 85%, leading to $1.8M."
+  }
+ }
+}

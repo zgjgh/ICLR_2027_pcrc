@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_014",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The table presents various methods categorized under two types: Moving Average and Smoothing. The first row, Cumulative Moving Average (CMA) [68], falls under Moving Average, while the second row, Simple Moving Average (SMA) [69], also belongs to Moving Average."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "The third row, Double Moving Average (DMA) [69], continues in the Moving Average category. The fourth row, Weighted Moving Average (WMA) [70], remains within Moving Average. The fifth row, Simple Exponential Smoothing (EMA) [71], shifts to Moving Average as well."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    364.0
+   ],
+   "ocr": "Method Type\nCumulative Moving Average (CMA) [68] Moving Average\nSimple Moving Average (SMA) [69] Moving Average\nDouble Moving Average (DMA) [69] Moving Average\nWeighted Moving Average (WMA) [70] Moving Average\nSimple Exponential Smoothing (EMA) [71] Moving Average\nDouble Exponential Moving Average (DEMA) [72] Moving Average\nTriple Exponential Moving Average (TEMA) [69] Moving Average\nSimple Exponential Smoothing (SES) [73] Smoothing\nDouble Exponential Smoothing (DES) [74] Smoothing\nTriple Exponential Smoothing (TES) [75] Smoothing",
+   "table_id": "img_013264_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    380,
+    580,
+    454
+   ],
+   "ocr": "The sixth row, Double Exponential Moving Average (DEMA) [72], is classified under Moving Average. The seventh row, Triple Exponential Moving Average (TEMA) [69], also fits into Moving Average. Transitioning to the Smoothing type, the eighth row is Simple Exponential Smoothing (SES) [73], while the ninth row, Double Exponential Smoothing (DES) [74], is categorized as Smoothing. Finally, the tenth row, Triple Exponential Smoothing (TES) [75], also belongs to Smoothing. Each method exhibits unique characteristics, providing various techniques for analyzing data trends and smoothing fluctuations."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    442,
+    580,
+    530
+   ],
+   "ocr": "The Moving Average category includes CMA, SMA, DMA, WMA, EMA, DEMA, and TEMA, which are specifically designed for averaging data points over specified intervals to identify trends. In contrast, the Smoothing category encompasses SES, DES, and TES, each employing exponential smoothing techniques to enhance data interpretability and forecasting accuracy. This comprehensive overview encapsulates all methods and their respective classifications, facilitating a deeper understanding of analytical techniques utilized in data processing."
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_015",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:107"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/107"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    385.7,
+    589.6
+   ],
+   "ocr": "Table 6: GO terms and structural variables. Second approach Sup. Conf. CF 0.028 0.77 0.67 GO = 0.01 0.78 0.69 This table shows some rules obtained when looking for relations between with the second approach, i.e. groups of rules representing the same organelles (the definition of non-membrane-bound organelle includes ribosomes, the cytoskeleton and chro- mosomes). This bicluster was obtained by the EDA biclus- tering algorithm and Figure 2A depicts the expression pattern it represents. As can be seen, bicluster 1 contains genes over-expressed at the beginning of the cell cycle and under-expressed at the end. It is clear the periodicity of the expression levels of these genes across the two cell cycles comprised in the microarray experiments dataset. Biclus- ter 2 was also obtained by the EDA biclustering algorithm. ORFs associated to this bicluster have medium length and high responsiveness and carry out an oxidoreductase func- tion. The expression pattern represented by this cluster can be seen in Figure 2B. The next two rules in Table 7 refer to bicluster 3 which was obtained by the EDA biclus- tering algorithm. ORFs in bicluster 3 yield proteins which carry out their activities into the nucleus and participate in the DNA metabolism. Looking at Figure 3A we can con- firm the correspondence between the biological process DNA metabolism and the expression behavior of the genes belonging to the cluster. These genes are over- expressed in the S phase of cell cycle (samples 2–3 and Table 7: Biclusters"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    365.9,
+    130.1,
+    698.3,
+    566.3
+   ],
+   "ocr": "Association rule structural constituent of ribosome → length = LOW GO = helicase activity → length = HIGH the GO terms and the structural variables. These rules were obtained knowledge are merged into one general rule. 10–12), in which DNA replication takes place. Finally, some relations are shown for bicluster 4 (Figure 3B). This bicluster was obtained by the Gene & Sample Shaving biclustering algorithm and represents ORFs which gene expression varies sharply from under-expressed to over- expressed when the change of cell cycle takes place (time points 7 to 10). Rules in Table 7 relate bicluster 4 to short ORFs with a high G+C proportion. This makes sense since as was described above it is known that short ORFs tend be GC rich. The last 5 rules involve gene expression patterns obtained from the dataset by Gasch et al. Bicluster 5 was obtained by the EDA biclustering algorithm and bicluster 6 by the Gene & Sample Shaving algorithm (see Figures 4A &4B). This dataset is formed by a broad variety of experiments, therefore the obtained biclusters contain columns from very different experiments. For example, bicluster 5 con- tains columns from 9 different experiment sets. It depicts the gene expression profile of 74 genes under 15 experi- mental conditions. Genes belonging to this bicluster are large genes which tend to have MEDIUM responsiveness."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    91.4,
+    600.8,
+    587.2,
+    886.6
+   ],
+   "ocr": "Sup. Conf. CF Association rule\n0.0029 0.54 0.45 bicluster = 1 → GO = non-membrane-bound organelle\n0.0033 0.61 0.45 bicluster = 1 → GO = nucleus\n0.0018 0.68 0.46 bicluster = 2 → length = MEDIUM\n0.0022 0.80 0.74 bicluster = 2 → responsiveness = HIGH\n0.0012 0.43 0.40 bicluster = 2 → GO = oxidoreductase activity\n0.0039 0.65 0.5 bicluster = 3 → GO = nucleus\n0.0029 0.48 0.44 bicluster = 3 → GO = DNA metabolism\n0.0033 0.81 0.73 bicluster = 4 → length = LOW\n0.0036 0.89 0.85 bicluster = 4 → G + C = HIGH\n0.0037 0.90 0.89 bicluster = 4 → GO = non-membrane-bound organelle\n0.0037 0.90 0.89 bicluster = 4 GO = biosynthesis\n0.0037 0.90 0.87 bicluster = 4 → GO = protein complex\n0.0035 0.86 0.78 bicluster = 4 → GO = organelle part\n0.0035 0.86 0.85 bicluster = 4 → GO = cytosol\n0.0035 0.86 0.85 bicluster = 4 → GO = structural molecule activity\n0.0107 0.92 0.89 bicluster = 5 → length = HIGH\n0.0073 0.63 0.41 bicluster = 5 responsiveness = MEDIUM\n0.0019 0.71 0.69 bicluster = 6 → chr = II\n0.0017 0.64 0.61 bicluster = 6 → GO = macromolecule biosynthesis\n0.0017 0.64 0.62 bicluster = 6 → GO = cytosol",
+   "table_id": "PMC2277399_table_6"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    902.9,
+    385.7,
+    926.4
+   ],
+   "ocr": "This table shows some rules obtained when looking for relations between and the rest of variables."
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    388.6,
+    902.9,
+    686.9,
+    914.7
+   ],
+   "ocr": "the gene expression patterns discovered by the biclustering algorithms"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 9 of 18 (page number not for citation purposes)"
+  }
+ }
+}

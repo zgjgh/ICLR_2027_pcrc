@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_036",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The following data table presents a comprehensive analysis of the interaction between various water treatment types and their effects on health outcomes, as indicated by key metrics such as the Median Case Count (n) and Median Attack Rate (n). Understanding the relationship between these variables is critical for developing effective public health interventions, particularly in regions affected by waterborne diseases. The table categorizes data based on the specific water treatment types employed, allowing for a comparative analysis of their efficacy."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "For instance, the Median Case Count (n) reflects the number of reported cases associated with each treatment type, while the Median Attack Rate (n) provides insight into the incidence of disease within the population. Additionally, the table includes metrics on the structural parameters of the treatments, such as Nodes, Elements, and Max. Elem. Vol. (mm³), which are essential for evaluating the operational effectiveness of each treatment system. This data will be instrumental in informing policy decisions and guiding future research in the field of water treatment and public health."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    345.0
+   ],
+   "ocr": "MAS Bicep MAS Tricep\nEffect Healthy MAS 0 Healthy MAS 0\nExt. 1.0009 1.7378 0.8006 1.5057\nFlx. 0.9593 3.252 1.1595 2.2747\nDiff. –0.0416 1.5142 0.3588 0.769\nSE Diff 0.8866 0.8767 0.5914 0.5815",
+   "table_id": "img_041358_t0"
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    360.0,
+    580.0,
+    482.0
+   ],
+   "ocr": "Field Iterations Nodes Elements Max. Elem. Vol. (mm3)\nΣJacobian 2 1614 4872 0.26\nLog(ΣJacobian) 5 1611 4792 0.25\nNormalized ΣJ 5 1457 4334 0.25\nCurvature 2 1136 3304 0.31\nLog(Curv.) 2 1608 4846 0.25",
+   "table_id": "img_041358_t1"
+  },
+  "p9_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    497.0,
+    580.0,
+    618.0
+   ],
+   "ocr": "Water Treatment Type Median Case Count (n) Median Attack Rate (n)\nUntreated 31 (704) 25.6% (70)\nDisinfection-Only 94 (271) 16.7% (74)\nDisinfection-and-Filtration 108 (117) 28.2% (32)\nOther Treatment 1 207 (72) 5.1% (21)\nUnknown Treatment 53 (355) 13.9% (17)",
+   "table_id": "img_041358_t2"
+  }
+ }
+}

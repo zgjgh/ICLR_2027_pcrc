@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_155",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    63.0,
+    580.0,
+    94.0
+   ],
+   "ocr": "In the analysis of Siemens AG's performance from 2019 to 2024, the Quality Metrics table shows a decreasing defect rate, starting at 2.3% in 2019, with corresponding total revenue of $95M and net income of $10M, while CAPEX was $10M."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    115.0,
+    580.0,
+    305.0
+   ],
+   "ocr": "Year QualityMetrics TotalRevenue(USD)\nDefectRate(%) NetIncome(USD) CAPEX(USD)\n2019 2.3% $95M $10M\n2020 2.5% $100M $12M\n2021 1.8% $110M $15M\n2022 1.5% $120M $18M\n2023 1.2% $130M $20M\n2024 1.0% $140M $22M\nTrend Decreasing Increasing Increasing",
+   "table_id": "img_174739_t0"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    320.0,
+    580.0,
+    351.0
+   ],
+   "ocr": "The defect rate improved to 2.5% in 2020 with total revenue of $100M and net income of $12M, and then decreased to 1.8% in 2021, reflecting total revenue of $110M and net income of $15M with CAPEX at $15M."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    374.0,
+    580.0,
+    550.0
+   ],
+   "ocr": "PredictiveMaintenanceMetrics TotalSavings UnitsMonitored DowntimeReduction CostofDowntime\nYear Savings(%) UnitsSold Headcount NumberofBranches MachineUtilization MaintenanceCosts TotalRevenue\n2019 15% 1500 $2M $500K 95% $1M $20M\n2020 18% 1600 $1.8M $450K 96% $950K $22M\n2021 20% 1700 $1.5M $400K 97% $900K $24M\n2022 25% 1800 $1.2M $350K 98% $850K $26M\n2023 30% 1900 $1M $300K 99% $800K $28M",
+   "table_id": "img_174739_t1"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    566,
+    580,
+    655
+   ],
+   "ocr": "In 2022, the defect rate further decreased to 1.5%, achieving total revenue of $120M and net income of $18M, with CAPEX at $18M. The trend continued into 2023 with a defect rate of 1.2%, total revenue of $130M, and net income of $20M, along with CAPEX at $20M, culminating in 2024 with the lowest defect rate of 1.0%, total revenue of $140M, and net income of $22M, while CAPEX reached $22M. The Predictive Maintenance Metrics table reveals a significant upward trend in savings percentage, starting at 15% in 2019 with total savings of $2M, 1500 units monitored, a headcount of $500K, number of branches at 95%, machine utilization at 95%, maintenance costs of $1M, and total revenue at $20M."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    762
+   ],
+   "ocr": "In 2020, savings increased to 18%, with 1600 units sold, $1.8M in downtime reduction, a headcount of $450K, 96% machine utilization, maintenance costs of $950K, and total revenue of $22M. The trend continued with 20% savings in 2021, 1700 units sold, $1.5M in downtime reduction, a headcount of $400K, 97% machine utilization, maintenance costs of $900K, and total revenue of $24M. In 2022, savings reached 25%, monitoring 1800 units, with $1.2M in downtime reduction, headcount of $350K, 98% machine utilization, maintenance costs of $850K, and total revenue of $26M. By 2023, savings peaked at 30%, with 1900 units monitored, $1M in downtime reduction, headcount of $300K, 99% machine utilization, maintenance costs of $800K, and total revenue of $28M."
+  }
+ }
+}

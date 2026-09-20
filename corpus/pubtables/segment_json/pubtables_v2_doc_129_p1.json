@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_129",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    277.2,
+    65.8
+   ],
+   "ocr": "Müller et al. BMC Genomics 2011, 12:81 http://www.biomedcentral.com/1471-2164/12/81"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 2 of 13"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    922.3
+   ],
+   "ocr": "strains from Europe (the Netherlands) identified 153 genes with a significant expression difference between the populations [18]. These genes represent candidates for those having undergone adaptive regulatory evolu- tion in response to the local environment and were enriched for genes with functions in insecticide resis- tance, fatty acid metabolism, and flight [18]. The male expression data, however, provide only half of the story. Given the extent of sex-biased gene expression in D. melanogaster [19,20], the potential for differences in the mode of inheritance of gene expression between males and females [21], the impact of the Y chromo- some on gene expression variation [22,23], and the pro- posed differences in effective population size between males and females of the African and European popula- tions [24,25], it is desirable to investigate expression var- iation among females of the same populations. Here we report a microarray survey of gene expression variation in adult females of the African and European D. melanogaster populations. Our analyses are per- formed on three levels. First, we use the new microarray data to determine levels of gene expression polymorph- ism among females of each population, as well as gene expression divergence between populations. Second, we examine the contribution of sex-biased genes to the observed patterns of expression polymorphism and divergence. Third, we compare the female results with previously published results from males in order to detect differences in expression variation between the sexes. We find that, in females, there is little gene expression polymorphism within populations, but a rela- tively large number of genes with a significant expres- sion difference between populations. The latter represent candidates for population-specific gene regula- tory evolution and several of these genes show evidence that positive selection has acted on linked, cis-regulatory sequences. We find that sex-biased genes do not make a disproportionate contribution to expression variation among females. A comparison of the female and male results suggests that substantial sex-specific adaptation of gene expression levels has occurred following the out-of-Africa migration of D. melanogaster. Results and Discussion Gene expression polymorphism We analyzed gene expression variation among adult females of 16 strains of D. melanogaster (eight from Zimbabwe, Africa and eight from the Netherlands, Eur- ope) using CDMC 14kv1 whole-genome microarrays (Figure 1). The microarray features 14,439 unique D. melanogaster probes corresponding to 13,688 unique protein-coding genes. After quality control, we detected expression of 6,578 probes corresponding to 6,308 unique genes in all 16 D. melanogaster strains. Of these,"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    391.8,
+    401.0,
+    670.7,
+    462.7
+   ],
+   "ocr": "Figure 1 Microarray hybridization scheme. Each node represents one D. melanogaster strain, with ‘E’ indicating European and ‘A’ indicating African strains. Each line represents two microarray hybridizations (dye-swap replicates), with black indicating between- population and gray indicating within-population hybridizations."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    488.0,
+    678.7,
+    760.0
+   ],
+   "ocr": "1,536 (24%) showed a significant expression difference between at least two of the 16 strains at a nominal P-value of 0.001, which corresponds to a FDR of 30%. Overall, there was greater expression polymorphism among African strains than among European strains, but the greatest number of expression differences was found in comparisons between African and European strains (Table 1). Across all 16 D. melanogaster strains, we found signif- icantly less expression polymorphism in females than what was previously reported for males of the same strains [18], with females having 1.7-fold fewer poly- morphic genes (24% vs. 38%; c2 = 230, P < 0.0001), and 3.7-fold fewer significant pairwise differences per gene as males (0.89 vs. 3.28; Mann-Whitney test, P < 0.0001). Table 1 Expression polymorphism within and between populations"
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    764.9,
+    672.5,
+    894.6
+   ],
+   "ocr": "Comparison Number of Mean Mean\npolymorphic differences pairwise\ngenes per pairwise differences\ncomparison per\ngene (in %)\nAmong all strains 1536 49.8 0.74\nWithin Europe 305 22.6 0.33\nWithin Africa 547 37.5 0.57\nBetween 1364 65.7 0.99\npopulations",
+   "table_id": "PMC3040150_table_0"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    901.7,
+    677.1,
+    922.2
+   ],
+   "ocr": "Significant differences in expression between strains were determined using a P-value cut-off of 0.001 (FDR = 30%)."
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_033",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2005, 6:205"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/6/205"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    106.9,
+    372.6,
+    373.4
+   ],
+   "ocr": "Other models In the previous classification problems, we only included linear terms of gene expression levels in a model. We also considered expanded models including squared terms of each gene's expression levels. The motivation is to possi- bly improve model fitting, for instance, to avoid masking in linear models [26]. In this way, the number of variables in the new data is doubled (the original variables plus their squared terms) and we have 44566 variables. We repeated all the previous classification procedures and found that the classification performance did not improve (results not shown). Classification with Minnesota data: pair-wise approach We repeated the three-class classification with PPLS via the pair-wise approach. The results are included in Table 4. Table 4: LOOCV errors for three-class classification: PPLS with pair-wise approach."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    390.5,
+    107.2,
+    698.4,
+    651.8
+   ],
+   "ocr": "We assessed the classification of PPLS by including all 30 patients and with 23 male only. By comparing Table 4 to Table 1 – 2, we can see that the PPLS via one-against-others approach gives much smaller errors. This suggests that for this specific problem, the one-against-others approach is probably better. Again, we see the classification with male patients gives much larger LOOCV misclassification error rates. Classification with PGA data: one-against-others approach Table 5 reports the LOOCV misclassification errors of the five methods for the PGA data. Four kinds of errors are reported for each method: three one-against-others two- class LOOCV misclassification errors (Normal vs. others, Ischemic vs. others, and Idiopathic vs. others) and one three-class LOOCV misclassification error. Based on Table 5, we can see that the classification per- formances of PPLS, PLS, SC, LASSO and RF are quite sta- ble with different numbers of top ranked genes one uses. In the two-class classification problem of normal vs. oth- ers, the five classification methods almost perform per- fectly, where PPLS, PLS and RF have 0 errors in all circumstances, SC has 0 errors in all situations except for 3 cases and LASSO has 1 error in one case and 0 errors in all other cases. In the two-class classification problems of ischemic vs. others and idiopathic vs. others, PPLS, PLS, SC, LASSO and RF yielded 1–5 errors (mostly with 1–3 errors). That the problem of distinguishing normal from the others is the easiest confirms that the normal class is more separable from the other two classes. As for the three-class classification, the errors range from 1 to 2 and it is almost perfect. all patients."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    106.1,
+    384.5,
+    353.1,
+    607.8
+   ],
+   "ocr": "#of top genes Minnesota data\nAll patients Male\n50 18 16\n100 13 18\n200 16 18\n400 17 17\n800 18 14\n1600 17 16\n3200 16 14\n6400 15 15\n9600 17 15\n12800 17 14\n16000 19 14\n19200 14 16\n22283 19 16",
+   "table_id": "PMC1224853_table_3"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    640.1,
+    387.7,
+    651.8
+   ],
+   "ocr": "Table 5: LOOCV errors for three-class classification with PGA data:"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    77.4,
+    662.9,
+    691.9,
+    897.9
+   ],
+   "ocr": "# of top Normal vs other Isch vs other Idio vs other Overall\ngenes\nPPLS PLS sc LSO RF PPLS PLS SC LSO RF PPLS PLS SC LSO RF PPLS PLS SC LSO RF\n50 0 0 0 0 0 3 1 2 2 1 5 1 5 1 2 2 1 1 1 1\n100 0 0 0 0 0 4 2 3 1 2 3 1 3 1 1 1 1 1 1 1\n200 0 0 0 1 0 5 1 2 1 2 2 2 2 2 1 1 1 1 2 1\n400 0 0 0 0 0 3 1 2 4 2 2 1 2 2 2 2 1 1 2 1\n800 0 0 0 0 0 3 1 2 1 2 2 1 2 2 2 2 1 1 1 1\n1600 0 0 1 0 0 2 1 2 1 2 2 2 2 2 2 2 1 1 2 1\n3200 0 0 2 0 0 3 2 2 2 2 2 3 3 2 2 2 2 1 2 1\n6400 0 0 2 0 0 3 2 2 1 2 2 2 3 2 2 2 2 2 2 1\n9600 0 0 0 0 0 2 1 2 1 2 3 2 2 2 2 2 1 1 2 1\n12800 0 0 0 0 0 3 1 2 1 2 3 2 2 2 2 1 1 1 2 1\n16000 0 0 0 0 0 2 1 2 1 2 3 2 2 2 2 1 1 1 2 1\n19200 0 0 0 0 0 2 1 2 1 2 2 1 2 2 2 1 1 1 2 1\n22277 0 0 0 0 0 2 1 2 1 2 2 1 2 2 2 1 1 1 2 1",
+   "table_id": "PMC1224853_table_4"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 15 (page number not for citation purposes)"
+  }
+ }
+}

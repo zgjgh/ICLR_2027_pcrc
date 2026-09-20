@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_435",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4395229_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    755.2,
+    726.6,
+    850.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4395229_table_0.png",
+   "html": "<table><tr><td>Sample ID1</td><td>Experimental group</td></tr><tr><td>A1, A2</td><td>Clone library</td></tr><tr><td>B1, B2, B3, B5, B6, B7, DM5, DH5, DM6, DH6, DM7, DH7</td><td>Fluorescent in situ hybridization</td></tr><tr><td>B4, C1, C2</td><td>Electron microscope observation</td></tr><tr><td>DM2, DH2, DM3, DH3, DM4, DH4</td><td>DGGE</td></tr><tr><td>DM3, DH3, DM4, DH4</td><td>Metagenomic sequencing</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4395229_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    799.3,
+    726.6,
+    878.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4395229_table_1.png",
+   "html": "<table><tr><td>Probe</td><td>Target</td><td>Sequence (5&#8217;&#65515;3&#8217;, Position of E. coli)</td><td>Fluorescein (5&#8217;)</td><td>Formamide (%)</td></tr><tr><td>EUB338</td><td>Bacteria</td><td>GCTGCCTCCCGTAGGAGT (338&#8211;355)</td><td>Cy3</td><td>20</td></tr><tr><td colspan=\"2\">NONEUB</td><td>ACTCCTACGGGAGGCAGC</td><td>FITC</td><td>20</td></tr><tr><td>EPSY549</td><td>Epsilonproteobacteria</td><td>CAGTGATTCCGAGTAACG (549&#8211;566)</td><td>FITC</td><td>20</td></tr><tr><td>CF319a</td><td>Bacteroidetes</td><td>TGGTCCGTGTCTCAGTAC (319&#8211;336)</td><td>FITC</td><td>20</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4395229_table_2",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    126.8,
+    691.8,
+    301.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4395229_table_2.png",
+   "html": "<table><tr><td>Band no.</td><td>Gut1</td><td>Bacterial affiliation</td></tr><tr><td>1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 14</td><td>M, H</td><td>Unclassified Bacteria</td></tr><tr><td>4</td><td>M, H</td><td>Bacteroidetes, Bacteroidia, Bacteroidales, Bacteroidaceae, Anaerorhabdus</td></tr><tr><td>11</td><td>M, H</td><td>Firmicutes, Bacilli, Lactobacillales, Streptococcaceae, Lactovum</td></tr><tr><td>13</td><td>M, H</td><td>Bacteroidetes, Bacteroidia, Bacteroidales</td></tr><tr><td>15</td><td>H</td><td>Bacteroidetes, Bacteroidia, Bacteroidales, Porphyromonadaceae, Dysgonomonas</td></tr><tr><td>16</td><td>M, H</td><td>Proteobacteria, Gammaproteobacteria, Enterobacteriales, Enterobacteriaceae, Citrobacter</td></tr><tr><td>17</td><td>H</td><td>Proteobacteria, Alphaproteobacteria</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4395229_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    799.6,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4395229_table_3.png",
+   "html": "<table><tr><td>Sample ID</td><td>No. of raw sequences</td><td>No. of high quality sequences</td><td>No. of OTUs</td><td>Simpson</td><td>Chao1</td><td>Shannon</td><td>Good&#8217;s coverage</td></tr><tr><td>DM3</td><td>18,545</td><td>14,978</td><td>436</td><td>0.13</td><td>467.23</td><td>3.02</td><td>0.99</td></tr><tr><td>DH3</td><td>9,001</td><td>7,310</td><td>346</td><td>0.05</td><td>406.43</td><td>3.64</td><td>0.98</td></tr><tr><td>DM4</td><td>21,094</td><td>17,153</td><td>461</td><td>0.29</td><td>497.52</td><td>2.60</td><td>0.99</td></tr><tr><td>DH4</td><td>18,915</td><td>16,272</td><td>413</td><td>0.10</td><td>457.03</td><td>3.03</td><td>0.99</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4395229_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    720.8,
+    426.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4395229_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Representative OTU</td><td rowspan=\"2\">RDP classifier (Bootstrap value, %)</td><td colspan=\"2\">BLAST best hits</td><td colspan=\"3\">Percentage (%)</td></tr><tr><td>UB1 source (Identity, %)</td><td>Known species (Identity, %)</td><td>Clone library2</td><td>Metagenomic3</td><td>Li et. al.4</td></tr><tr><td>N13-23</td><td>Bacteroides (100)</td><td>Intestinal tract of CMC (99)</td><td>Bacteroides sp. (99)</td><td>0.8</td><td>7.0</td><td>12.2</td></tr><tr><td>N8-5</td><td>Meniscus (100)</td><td>Intestinal tract of CMC (99)</td><td>Sunxiuqinia sp. (91)</td><td>19.3</td><td>4.2</td><td>16.0</td></tr><tr><td>N8-1</td><td>Marinifilum (100)</td><td>Intestinal tract of CMC (99)</td><td>Marinifilum sp. (94)</td><td>13.8</td><td>0</td><td>10.3</td></tr><tr><td>N13-1</td><td>Lachnospiraceae (98)</td><td>Intestinal tract of CMC (99)</td><td>Clostridium colinum (88)</td><td>2.3</td><td>0</td><td>2.8</td></tr><tr><td>N14-3</td><td>Clostridium XlVb (95)</td><td>Gut of Polyphagous lepidopteran larvae (91)</td><td>Clostridium colinum (90)</td><td>5.4</td><td>0.2</td><td>0</td></tr><tr><td>N11-27</td><td>Mollicutes5</td><td>Stomach of yellow catfish (97)</td><td>Candidatus Bacilloplasma (86)</td><td>7.7</td><td>16.6</td><td>0</td></tr><tr><td>N11-5</td><td>Mollicutes5</td><td>Stomach of yellow catfish (99)</td><td>Abiotrophia defectiva (84)</td><td>11.5</td><td>2.1</td><td>0</td></tr><tr><td>N11-15</td><td>Enterobacteriaceae (100)</td><td>Endosymbiont of Onthophagus taurus (97)</td><td>Pantoea sp. y2 (97)</td><td>8.5</td><td>1.2</td><td>0</td></tr><tr><td>N15-67</td><td>Vibrio (100)</td><td>Intestinal tract of CMC (99)</td><td>Vibrio aestuarianus (96)</td><td>2.3</td><td>2.9</td><td>0.3</td></tr><tr><td>N8-2</td><td>Alphaproteobacteria (99)</td><td>Intestinal tract of CMC (99)</td><td>Pseudovibrio denitrificans (88)</td><td>5.4</td><td>0.2</td><td>9.7</td></tr><tr><td>De2559</td><td>Bacteria (99)</td><td>Stomach of yellow catfish (96)</td><td>Uncultured Mycoplasmataceae (95)</td><td>0</td><td>28.8</td><td>0</td></tr><tr><td>De3312</td><td>Bacteroidetes (100)</td><td>Intestinal tract of CMC (100)</td><td>Dysgonomonas capnocytophagoides (87)</td><td>0</td><td>6.1</td><td>1.3</td></tr></table>"
+  }
+ ]
+}

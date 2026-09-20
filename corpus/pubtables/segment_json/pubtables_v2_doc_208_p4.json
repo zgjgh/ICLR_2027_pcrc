@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_208",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    477.7,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Impact of Chaos Functions on Modern Swarm Optimizers"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    347.9,
+    718.4,
+    522.5
+   ],
+   "ocr": "Fig 22. Standard deviation (std) of the obtained optimal fitness values for MFO versus CMFO using the Singer and Sinusoidal functions. doi:10.1371/journal.pone.0158738.g022 setting. The figures display the obtained sum of fitness function values obtained by the 10 dif- ferent employed optimizers over all the data sets used. We can view from the figures that the chaotic versions of the optimizers still performs well with changing the shape of the fitness function which prove the capability of such variant to tolerate local optimal and convergence to a global one. Table 4. Average selection features size for the chaotic and native ALO over all the data sets."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    87.2,
+    529.3,
+    681.1,
+    873.3
+   ],
+   "ocr": "Data CALO-SING ALO PSO CALO-SIN\nBreastcancer 0.444 0.519 0.519 0.481\nBreastEW 0.500 0.478 0.456 0.522\nClean1 0.329 0.456 0.462 0.442\nClean2 0.510 0.679 0.518 0.661\nCongressEW 0.104 0.167 0.375 0.200\nExactly 0.564 0.641 0.615 0.569\nExactly2 0.538 0.077 0.385 0.282\nHeartEW 0.718 0.590 0.538 0.667\nIonosphereEW 0.069 0.088 0.402 0.401\nKrvskpEW 0.550 0.583 0.426 0.569\nLymphography 0.333 0.315 0.407 0.204\nM-of-n 0.615 0.795 0.590 0.674\nPenglungEW 0.089 0.190 0.425 0.317\nSemeion 0.377 0.519 0.472 0.447\nSonarEW 0.506 0.528 0.439 0.456\nSpectEW 0.121 0.318 0.333 0.242\nTic-tac-toe 0.667 0.889 0.556 0.826\nVote 0.104 0.208 0.458 0.317\nWaveformEW 0.733 0.883 0.575 0.767\nWineEW 0.667 0.667 0.590 0.592\nZoo 0.375 0.479 0.354 0.417",
+   "table_id": "PMC4943604_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    880.7,
+    186.2,
+    892.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158738.t004"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158738 July 13, 2016 21 / 26"
+  }
+ }
+}

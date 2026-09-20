@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_075",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    499.5,
+    50.7,
+    689.7,
+    65.5
+   ],
+   "ocr": "Journal of Laboratory Automation 21(5)"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    518.8,
+    446.5,
+    670.7,
+    473.5
+   ],
+   "ocr": "Figure 2. Flow diagram of predefined liquid class screening."
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    61.3,
+    504.8,
+    355.2,
+    518.4
+   ],
+   "ocr": "Table 2. Acceptance Criteria Used in Assessing Performance."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    61.3,
+    528.7,
+    681.4,
+    657.9
+   ],
+   "ocr": "Subclass 1 Subclass 2 Subclass 3\nVolume No. 1 2 3 1 2 3 1 2 3\nSerum 15% DEV 10% DEV 8% DEV 7% DEV 2% DEV 1% DEV 1% DEV 0.5% DEV 0.5% DEV\n3% CV 3% CV 3% CV 3% CV 1% CV 0.75% CV 0.75% CV 0.75% CV 0.75% CV\nDMSO 10% DEV 4% DEV 2% DEV\n3% CV 1% CV 0.75% CV\nWater 7% DEV 1% DEV 0.5% DEV 0.5% DEV\n3% CV 1% CV 0.75% CV 0.75% CV",
+   "table_id": "PMC5030733_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    61.3,
+    668.4,
+    367.9,
+    680.3
+   ],
+   "ocr": "AH, aluminum hydroxide adjuvant; AP, aluminum phosphate adjuvant; CV,"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    370.7,
+    668.4,
+    631.4,
+    714.9
+   ],
+   "ocr": "coefficient of variation; % DEV, deviation expressed in percent. a"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    61.3,
+    704.1,
+    364.0,
+    892.5
+   ],
+   "ocr": "data points for each volume with one data point for each channel), the VB application calculated the mean, the preci- sion, and the accuracy of each tested volume. If at least one failed to reach the targeted accuracy, the VB application calculated new factor (eq 3) and offset values (eq 4) (based on the tested factor [a1] and offset [b1] values, the slope [a2] and intercept [b2] of the linear trend line equation obtained with the theoretical volumes and the calculated average vol- umes). The VB application exported the new factor and off- set values into a temporary TECAN EVOware liquid class file and started a new run for the same three volumes to fine-tune the calibration of the target volume (Fig. 3)."
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    510.7,
+    707.6,
+    591.1,
+    722.7
+   ],
+   "ocr": "NewFactor = 1"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    581.6,
+    718.6,
+    587.7,
+    732.2
+   ],
+   "ocr": "a"
+  },
+  "p2_b9": {
+   "type": "title",
+   "bbox": [
+    553.4,
+    726.4,
+    592.8,
+    759.9
+   ],
+   "ocr": "2 ( b − b )"
+  },
+  "p2_b10": {
+   "type": "title",
+   "bbox": [
+    543.3,
+    752.0,
+    550.0,
+    767.0
+   ],
+   "ocr": "="
+  },
+  "p2_b11": {
+   "type": "title",
+   "bbox": [
+    487.7,
+    753.4,
+    539.8,
+    766.9
+   ],
+   "ocr": "NewOffset"
+  },
+  "p2_b12": {
+   "type": "title",
+   "bbox": [
+    567.8,
+    762.9,
+    573.9,
+    776.5
+   ],
+   "ocr": "a"
+  },
+  "p2_b13": {
+   "type": "paragraph",
+   "bbox": [
+    387.0,
+    770.7,
+    689.6,
+    893.2
+   ],
+   "ocr": "2 The VB application performed the adjustments until the three volumes satisfied the targeted accuracy or the number of attempts was reached. The way to execute the entire adjustment by the VB appli- cation is close to the screening process, but for multiple vol- umes instead of multiple liquid classes, especially for the communication with the balance and the pipetting (Fig. 3)."
+  }
+ }
+}

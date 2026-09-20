@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_453",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    409.9,
+    48.8,
+    727.3,
+    60.9
+   ],
+   "ocr": "Transcriptome Analysis of L.vannamei under Chronic Low-Salinity Stress"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.4,
+    727.3,
+    760.0
+   ],
+   "ocr": "Table 1. Summary of Illumina-expressed short read production and filtered transcriptomic responses to salinity stress in Litopenaeus vannamei. Salinity Reads Nucleotides Q20 (%) Q30 (%) 3 psu 48,338,820 4,882,220,820 96.50 91.18 30 psu 48,767,738 4,925,541,538 96.68 91.51 Trimmed 3 psu 46,640,504 4,599,887,662 99.07 94.49 30 psu 47,118,402 4,653,045,098 99.09 94.64 Note: Q20 indicates that every 100 bp of sequencing reads will have an error, and Q30 indicates that every 1000 bp of sequencing reads will have an error. doi:10.1371/journal.pone.0131503.t001 Results Sequencing, de novo assembly and differential expression genes We obtained 97.1 million reads and 98.1 billion nucleotides from the shrimp at both 3 and 30 practical salinity units (psu) (Table 1). After quality trimming and adapter clipping, 93.8 mil- lion reads accounting for 96.6% of the total reads were obtained. In addition, 26,034 genes and 38,237 unigenes with an average length of 1,610 bp were obtained by de novo assembly using Trinity software after splicing and removing redundancy. Among 26034 genes, 855 genes were significantly up or down regulated, and all the differential expression genes were show in S1 Table. A total of 2,341 unigenes were down-regulated, and 2,363 unigenes were up-regulated in low salinity with the absolute fold change >2. Among the unigenes, the largest and smallest unigenes were 24,554 bp and 351 bp, respectively (Table 2); the length distribution of unigenes is shown in S1 Fig. To assess the quality and coverage of the transcriptome data, we mapped the assembly unigenes by using Bowtie software, and the mapping data accounted for over 90% of the data, suggesting that the transcriptome dataset provided good gene coverage and enriched the transcriptome information of L. vannamei in the present study. Annotation of unigenes The predicted sequences (predicted open reading frame nucleotide sequences) and unpredict- able sequences (unpredictable nucleotide sequences) were annotated using BLASTp and BLASTx, respectively, and then blasted to protein databases, including the nonredundancy (NR), STRING, COG and KOG databases (BLAST 2.2.28+, E-value < 1e—5) (Table 3). Among the annotated predicted sequences, a total of 17,232 (76.83%), 6298 (28.08%), 3720 (16.58%) and 302 (1.35%) sequences were unambiguous alignments relative to the reference when BLASTx was used against the NR, STRING, KOG, and COG databases, respectively. However, among the unpredictable sequences, only 2,235 (14.14%), 746 (4.72%), 509 (3.22%), Table 2. Summary of de novo assembly results of the transcriptomic responses to salinity stress in Litopenaeus vannamei."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    768.1,
+    726.6,
+    877.9
+   ],
+   "ocr": "Type Number\nTotal genes 26034\nTotal unigenes 38237\nTotal residues 61573030 bp\nAverage length 1610.3 bp\nLargest unigene 24554 bp\nSmallest unigene 351 bp",
+   "table_id": "PMC4492601_table_1"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0131503.t002"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0131503 July 6, 2015 3 / 22"
+  }
+ }
+}

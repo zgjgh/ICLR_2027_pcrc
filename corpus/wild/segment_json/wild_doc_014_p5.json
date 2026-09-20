@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_014",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    109
+   ],
+   "ocr": "The table presents data on modifications categorized by fidelity consistency. The first header indicates \"Number of fidelity consistent modifications\" alongside \"Number of fidelity inconsistent modifications.\" Under the variable \"Step 1,\" the values are R2: 0.14, β: —, and Partial correlation: — for fidelity consistent modifications, while for fidelity inconsistent modifications, the values are R2: 07, β: —, and Partial correlation: —. For the comparison \"Adult vs."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    97,
+    580,
+    186
+   ],
+   "ocr": "child,\" the fidelity consistent modifications show β: −0.37** and Partial correlation: −0.37, while the fidelity inconsistent modifications present β: −0.27* and Partial correlation: −0.27. In \"Step 2,\" the fidelity consistent modifications indicate R2: 0.29, β: —, and Partial correlation: —, contrasted by fidelity inconsistent modifications with R2: 24, β: —, and Partial correlation: —. The \"Adult vs. child\" comparison here reveals β: −0.29* and Partial correlation: −0.28 for fidelity consistent modifications and β: −0.19 and Partial correlation: −0.18 for fidelity inconsistent modifications."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    204.0,
+    580.0,
+    427.0
+   ],
+   "ocr": "Number of fidelity consistent modifications Number of fidelity inconsistent modifications\nVariable R2 β Partial correlation R2 β Partial correlation\nStep 1 0.14 07\nAdult vs. child −0.37** −0.37 −0.27* −0.27\nStep 2 0.29 24\nAdult vs. child −0.29* −0.28 −0.19 −0.18\nEBPAS appeal 0.15 0.16 0. 31* −0.29\nEBPAS openness 0.24*** 0.26 −0.08 −0.08\nEBPAS divergence 0.10 0.10 0.04 0.04\nEBPAS requirements 0.16 0.17 −0.20 −0.20\nTrained to competence criteria 0.07 0.08 0.36** 0.36",
+   "table_id": "img_014027_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    443,
+    580,
+    516
+   ],
+   "ocr": "The \"EBPAS appeal\" variable shows fidelity consistent modifications with β: 0.15 and Partial correlation: 0.16, while fidelity inconsistent modifications reflect β: 0.31* and Partial correlation: −0.29. For \"EBPAS openness,\" fidelity consistent modifications have β: 0.24*** and Partial correlation: 0.26, whereas fidelity inconsistent modifications show β: −0.08 and Partial correlation: −0.08. The \"EBPAS divergence\" records fidelity consistent modifications with β: 0.10 and Partial correlation: 0.10, and fidelity inconsistent modifications with β: 0.04 and Partial correlation: 0.04."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    504,
+    580,
+    562
+   ],
+   "ocr": "Lastly, \"EBPAS requirements\" features β: 0.16 and Partial correlation: 0.17 for fidelity consistent modifications and β: −0.20 for fidelity inconsistent modifications, along with \"Trained to competence criteria,\" which has β: 0.07 and Partial correlation: 0.08 for fidelity consistent modifications and β: 0.36** and Partial correlation: 0.36 for fidelity inconsistent modifications."
+  }
+ }
+}

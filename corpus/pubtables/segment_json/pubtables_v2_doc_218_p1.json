@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_218",
+  "page": 1,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    70.7,
+    42.7,
+    677.6,
+    54.4
+   ],
+   "ocr": "Xing et al. BioData Mining (2016) 9:31 Page 2 of 18"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    111.0,
+    601.3,
+    827.6
+   ],
+   "ocr": "X to concept Y, one with length one (direct) and the other with length greater than one (indirect). For hierarchical relations such as subsumption (is-a), relations implied by transitivity should not be explicitly stated. For example, in Gene Ontology (GO 2015- 05-01 version) we have (see Table 1). A (hormone secretion) is-a B (hormone transport), B (hormone transport) is-a C (regulation of hormone levels), C (regulation of hormone levels) is-a D (regulation of biological quality), D (regulation of biological quality) is-a E (biological regulation), E (biological regulation) is-a F (biological process). However, “A (GO:0046879) is-a F (GO:0008150)” is directly asserted as well (Fig. 1). This represents redundant relations to be studied in this paper: two paths exist between A and F: one directly between A and F, and the other indirectly through B, C, D, and E as intermediate concept nodes. The principle of parsimony in ontological modeling refers to the omission of rela- tions implied by the transitive property of a relationship, such as “is-a” relations in GO. By violating this principle, redundant relations may increase maintenance burden for ontology curators. It can also cause inaccurate methods and algorithms based on this general principle. For example, semantic distance between concepts is a widely used tech- nique [5]. Ontological mapping and alignment methods rely on the ordered structure of the hierarchical relation [6], with notions of neighborhood and proximity serving as their foundation. The presence of redundant relations induces a short-circuit: two concepts with a larger semantic distance may result in a smaller distance by mistake; and concepts not within a neighborhood may be counted as such. Using brute force, exhaustive detection of redundant relations can be computationally expensive for large ontologies. For example, SNOMED CT (2015-03-01 version) con- tains over 300,000 active concepts. A naive approach would be to find the longest paths between the end nodes of each of the over 500,000 edges (relations). Assuming each edge takes 100 ms, processing a single version of SNOMED CT would take 14 hours. Finding all paths between all possible pairs among the 300 k nodes would take over 10,000 days if each pair takes 10 ms. This paper introduces a novel and scalable approach, called FEDRR, Fast, Exhaustive Detection of Redundant Relations, for quality assurance work during ontological evolu- tion. In contrast to the 14 hours naive approach required for each SNOMED CT version, FEDRR needed <20 seconds (see Table 2). Using FEDRR, we performed exhaustive search of all redundant is-a relations in two of the largest ontological systems in biomedicine: SNOMED CT and GO. 372 and 1609 redundant is-a relations were found in the SNOMED CT (2015-09-01 version) and GO (2015-05-01 version), respectively. Each redundant relation represents a possibly unin- tended defect that needs to be corrected in the ontology quality assurance process. We further performed longitudinal analyses using FEDRR on 5 versions of SNOMED CT Table 1 Indirect path from concept A (hormone secretion) to concept F (biological process) in GO (2015-05-01 version)"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    147.7,
+    832.9,
+    600.9,
+    922.1
+   ],
+   "ocr": "GO Id Relation GO Id\nA GO:0046879 is-a B GO:0009914\nB GO:0009914 is-a C GO:0010817\nC GO:0010817 is-a D GO:0065008\nD GO:0065008 is-a E GO:0065007\nE GO:0065007 is-a F GO:0008150",
+   "table_id": "PMC5057496_table_0"
+  }
+ }
+}

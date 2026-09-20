@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_425",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    265.8,
+    53.4
+   ],
+   "ocr": "Nordlund et al. Clinical Epigenetics (2015) 7:11"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 6 of 12"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    119.4,
+    386.7,
+    294.4
+   ],
+   "ocr": "(See figure on previous page.) Figure 3 Classification of ALL samples with undefined cytogenetic in its corresponding subtype ‘track’ according to its allocation by the classifier. probability scores. Probability scores <0.5 are not shown. (B) The distribution not classified, 106 patients were unequivocally assigned to one subtype, 17 high reference scores. (C) The distribution of the number of patients with subtype distribution in the known sample group is also shown. (D) Hierarchical patients newly classified as one unequivocal subtype (n = 106). Patients are consensus CpG sites are clustered on the vertical axis and color-coded established cytogenetic subtype, and the corresponding lighter color patient samples is shown to the left of the heatmap. In the heatmap, blue clustering and heatmap of the ALL patients of known subtype (n = 546), patients without classification (n = 83, gray), and patients classified into are not shown."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    359.6,
+    131.7,
+    670.5,
+    281.8
+   ],
+   "ocr": "subtypes. (A) Each sample (n = 210) is represented as a vertical bar positioned The color key to the right of panel (A) shows the estimated subtype of probability scores ≥0.5 in the 210 patients. Eighty-three patients were patients were classified into multiple subtype groups, and four patients had ‘normal’, ‘no result’, and ‘non-recurrent’ karyotypes into subtype-groups. The clustering of the original 546 ALL patients of known subtype and the clustered on the horizontal axis and the 215 autosomal subtype-specific by subtype classifier. The darker color indicates samples with previously and asterisk (*) indicates newly classified samples. The color key for the indicates low and red indicates high methylation levels. (E) Hierarchical those newly classified and unequivocally assigned to one subtype (n = 106), multiple subtypes (n = 17, black). Four patients with suspected low blast count"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    322.8,
+    366.1,
+    617.3
+   ],
+   "ocr": "likely that many of the newly classified patients actually harbor the canonical translocations that define the group they were assigned to by our DNA methylation classifier. Re-analysis by RT-PCR for the ETV6/RUNX1 fusion transcript in RNA taken at diagnosis from eight ran- domly selected t(12;21)-like patients with available RNA showed that half of them were positive for ETV6/ RUNX1 (Additional file 2: Table S8). We performed RNA-seq of 17 patients with available high quality RNA for whom cytogenetic subtype infor- mation from ALL diagnosis and the results obtained by the DNA methylation classifier did not agree. In nine out of these 17 patients, we detected expressed fusion genes (Table 4, Additional file 2: Table S9). Three previ- ously unknown fusion genes t(20;21)RUNX1/ASXL1, t(7;12)ETV6/CBX3, and t(3;12)ETV6/AK125726 were identified in patients with t(12;21)-like methylation pro- files. We found that several of the patients assigned to Table 3 Summary of subtype verification results"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    322.8,
+    678.6,
+    593.5
+   ],
+   "ocr": "the ‘multi-class’ group according to the DNA methyla- tion classifier harbored fusion genes with PAX5 as one of the fusion partners, including the known t(9;12) PAX5/ETV6 and inv(9p13.2)PAX5/ZCCHC7 fusion genes previously reported in ALL [19-21]. We also identified a new fusion gene, t(9;14)PAX5/ESRRB, which to our knowledge has not been previously reported. In an in- fant patient with HeH in the validation cohort who was misclassified as ‘non-class’ (ALL_validation_20 in Table 4), we identified an additional novel fusion gene, t(5;15) BRD9/NUTM1. Verification by copy number analysis Since the 450 k BeadChip assay uses the same reaction principle as SNP genotyping arrays, the 450 k data can be used to detect copy number alterations (CNAs) [22-24]. CNA analysis was applied to identify large-scale chromosomal gains and losses to support the subtype"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    620.6,
+    678.6,
+    812.8
+   ],
+   "ocr": "Methylation Confirmed subtypea Subtype-likeb Unconfirmed\nsubtype subtypec\nN Karyotyped RT-PCRe CNAf N Karyotyped Negative for Novel fusion CNAf N\nfusion geneg geneh\nT-ALL* 0/1 (0%) 0 ND ND 0/1 (0%) 0 NA ND ND 1/1 (100%)\nHeH* 7/25 (28%) 0 ND 7 18/25 (72%) 8 NA ND 13 0/25 (0%)\nt(12;21)* 4/33 (12%) 1 4 ND 22/33 (67%) 0 19 3 ND 7/33 (21%)\n11q23/MLL* 3/4 (75%) 1 ND 3 1/4 (25%) 0 1 ND ND 0/4 (0%)\nt(1;19)* 0/15 (0%) 0 ND ND 9/15 (60%) 0 9 0 1 6/15 (40%)\ndic(9;20)* 3/19 (16%) 0 ND 3 16/19 (84%) 5 NA 0 10 0/19 (0%)\nt(9;22)* 0/5 (0%) 0 ND ND 3/5 (60%) 0 3 ND ND 2/5 (40%)\niAMP21* 4/4 (100%) 4 ND 4 0/4 (0%) 0 NA ND ND 0/4 (0%)",
+   "table_id": "PMC4343276_table_2"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    819.1,
+    388.3,
+    925.4
+   ],
+   "ocr": "*DNA methylation-based subtype group. Asterisks indicate groups classified by aNewly classified patients with confirmed verification of their subtype group by at bNewly classified patients negative for the canonical event that defines their subtype cNewly classified patients without a positive or negative result from one of the dNumber of patients with a chromosomal aberration observed in karyotyping results eNumber of patients positive for respective fusion genes by re-analysis by RT-PCR. fThe number of patients with chromosomal aberrations discovered by array-based gThe number of subtype-like patients negative for canonical aberrations by targeted hThe number of patients with novel (non-canonical) fusion genes detected. Abbreviations: NA not applicable, ND not determined."
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    367.4,
+    819.1,
+    623.8,
+    904.0
+   ],
+   "ocr": "DNA methylation. least one verification method. and/or non-canonical event. verification methods. determined at diagnosis in NOPHO centers. copy number alteration (CNA) that support subtype classification. analyses (FISH/RT-PCR) at diagnosis."
+  }
+ }
+}

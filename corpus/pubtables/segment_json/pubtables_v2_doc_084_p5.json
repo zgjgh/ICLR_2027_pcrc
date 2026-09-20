@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_084",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Inference of competing endogenous RNA interaction networks"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    97.3,
+    727.2,
+    796.9
+   ],
+   "ocr": "related to Parkinson, Alzheimer, and Huntington diseases and module 2 in KIRC was enriched in GO Terms involving in negative regulation of metabolic process and molecular function. The list of ceRNAs in each ceRNA module and the list of enriched GO Terms and KEGG/ REACTOME pathways for each ceRNA module could be found in S2 File. Modification of individual steps in Cancerin pipeline substantially changed the selected ceRNA interactions In this section, we examine the technical importance of the two major steps in the Cancerin pipeline. The LASSO-based variable selection to select miRNA-mRNA interactions (step 2) and sensitivity correlation-based filtering to select ceRNA interactions (step 3) were two key components in Cancerin. To assess the importance of those two steps, we modified/deacti- vated those steps to see how it would alter the final ceRNA interaction network topology. Spe- cifically, we kept steps 1 and 3 in Cancerin, but in step 2, we replaced the LASSO-based variable selection procedure by ordinary least square (OLS) multiple regression. For each RNA, its candidate miRNA regulators were selected if their coefficients from OLS were nega- tive and p-values < 0.05. We termed this method “Cancerin (OLS regression)”. We also kept steps 1 and 2 in Cancerin, but in step 3, we deactivated the ceRNA filtering criterion based on sensitivity correlation. We termed this method “Cancerin (sensitivity correlation filtering step deactivated)”. The Cancerin pipeline with no modification is referred to as “Cancerin (original)”. To compare Cancerin to other existing methods, we replicated the method used in [26, 27], which inferred ceRNA interactions based on negative expression correlation between miRNA and RNA targets and positive expression correlation between RNA targets. We referred to this method as “Correlation-based” method. The method did not consider the other types of regu- lators besides miRNA (i.e., TF, CNA, and DNA methylation) as potential regulators of gene expression and it also did not take into account the additive effects of multiple regulators on controlling gene expression. Table 7 summarizes the number of selected ceRNA interactions obtained by applying the “Cancerin (original)”, “Cancerin (OLS regression)”, “Cancerin (sensitivity correlation filtering step deactivated)”, and “Correlation-based method”. As expected, using only expression corre- lation to infer ceRNA interactions resulted in many ceRNA pairs. Compared to Cancerin, the number of correlation-based ceRNA interactions was more than 6-fold higher in BRCA, 10-fold higher in KIRC, and 6-fold higher in HNSC. All ceRNA interactions found by “Can- cerin (original)” were included in the “Correlation-based” method. There were also more ceRNA interactions found by “Cancerin (OLS regression)” than by “Cancerin (original)” but the increased size was smaller compared to the “Correlation-based” method. There is a low overlap between the ceRNA interactions found in “Cancerin original” and the those from “Cancerin (OLS regression)”. Specifically, with respect to interactions found in “Cancerin (original)”, the percentages of common interactions that were also found in “Cancerin (OLS regression)” were 26.8% (BRCA), 40% (KIRC), and 33.2% (HNSC). Compared to “Cancerin Table 7. Number of selected ceRNA interactions by applying different methods."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    805.5,
+    689.6,
+    878.8
+   ],
+   "ocr": "BRCA KIRC HNSC\nCancerin (original) 4,115 4,639 2,725\nCancerin (OLS regression) 6,039 19,202 6,262\nCancerin (sensitivity correlation filtering step deactivated) 7,018 18,976 8,179\nCorrelation-based method 25,853 46,518 16,908",
+   "table_id": "PMC6072113_table_6"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    887.0,
+    440.4,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pcbi.1006318.t007"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS Computational Biology | https://doi.org/10.1371/journal.pcbi.1006318 July 16, 2018 16 / 23"
+  }
+ }
+}

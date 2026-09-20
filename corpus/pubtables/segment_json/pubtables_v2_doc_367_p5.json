@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_367",
+  "page": 5,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "caption",
+   "bbox": [
+    58.9,
+    54.7,
+    648.7,
+    107.9
+   ],
+   "ocr": "Sensors 2010, 10 6319 Table 5. Elements used in EMMNet."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    193.6,
+    121.9,
+    502.4,
+    260.9
+   ],
+   "ocr": "Data Collector Data Concentrator\nATMEGA128L ATMEGA128L\nADL5320 ADL5320\nnRF905 nRF905\nsp6201 sp6201\nPS2051 PS2051\n-- SIM300C\nAT45DB041D-SU AT45DB642D",
+   "table_id": "PMC3231141_table_4"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    287.4,
+    648.7,
+    378.2
+   ],
+   "ocr": "The interval between sending two RMs is 1 minute, the packet length of an RRM or RM equals 330 bytes, and the maximal depth of the EMMNet is 10 in these EMMNets. Figure 6. Two EMMNets deployed in Zhiyang residence community, Yangzhou City, Jiangsu Province, China."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    664.8,
+    648.8,
+    891.3
+   ],
+   "ocr": "Figure 6 shows the architectural plans of the Zhiyang residence community, Yangzhou City, Jiangsu Province, China. We deployed two of our systems in this community. The numbers in circles indicate the last two digits of the collector addresses. 6.2. Results In our original design, there was no limit to the number of times a RM could be sent, even when the collectors had joined the EMMNets. A collector had a great chance of selecting a relay node with a smaller DtA value, when it constantly sent RMs. However, the performance of such relay nodes might be poor. We found that the transmission success rate decreased if a collector chose a parent collector with a very small DtA value. Therefore, we limited the number of broadcast packets when the value of DtA is smaller than DtA_Max + 1."
+  }
+ }
+}

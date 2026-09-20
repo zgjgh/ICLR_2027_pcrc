@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_488",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    401.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparing Epidemics on ERGMs and Configuration Type Network Models"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    497.1,
+    107.4
+   ],
+   "ocr": "Table 6. Relationships Network ERGM Specification."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    210.4
+   ],
+   "ocr": "Statistic Estimates\nEdge -7.4839\nTriangle 4.5806\nIsolates -11.5927\nIsolateEdges 0.175\nAlt. k-star (λ = 2) 0.5882",
+   "table_id": "PMC4640514_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    222.8,
+    727.3,
+    889.3
+   ],
+   "ocr": "ERGM speciﬁcation for a model of the relationships network. doi:10.1371/journal.pone.0142181.t006 Table 7. Relationships Network Multilevel ERGM Specification. Statistic Estimates Bipartite Edge -7.4549 Bipartite Isolates (female) -11.3222 Bipartite Isolates (male) -10.2588 Bipartite Alt. k-star (female; λ = 2) 0.9782 Bipartite Alt. k-star (male; λ = 2) 0.0703 2-Star(FFM) 0.3454 2-Star(MMF) 1.0056 Multilevel ERGM speciﬁcation for a model of the relationships network. The 2-star effects including same- sex edges show a tendency for a node in a same-sex relationship to also appear in male-female relationships. doi:10.1371/journal.pone.0142181.t007 Fig 11 shows results for various graph statistics obtained from simulations from the five models: random network with fixed number of edges (“ERfix”), edge-triangle (“ET”), bipartite configuration (“bip CM”), ERGM, and multilevel ERGM (“mERGM”). Because the large num- ber of components is a clear feature of the empirical network, and clustering is not, we focus on quantities related to the degree distribution and connectivity. The numbers of 4-cycles and tri- angles are also shown for the special role they play in the empirical network to illustrate the ability of the network models to capture these features. In general, heterogeneity in the genders of relationship pairs (MM,FF,FM) could play a role in the transmission of some diseases, so capturing the numbers of same-sex edges might be important. For the two models that do not respect the gender structure of edges the number of same-sex edges is large (“ERfix”: 239, 95% CI: 237–241; “bip CM”: 235, 95% CI: 232–237). The other three models all have two same-sex edges. In addition, we again used χ2 goodness-of-fit tests to check the agreement between the degree distributions of the simulated networks and the empirical network. None of the 100 degree distributions from the two stub models (“ET” and “bip CM”) were rejected at 5% significance while some of the ERGM (24) and multilevel ERGM (37) distributions were rejected. Again, this is despite their seemingly close agreement with the alternating k-star statistic. On the other hand, while the 2-stars play the largest role in that statistic, there are clearly important differences in the 3-star statistics (and presumably higher order stars too). While the differences may be acceptable in terms of the t-ratio, those differences can still be sufficient for the χ2 test to reject. Unsurprisingly, all 100 degree distribu- tions from the “ERfix” model were rejected."
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142181 November 10, 2015 24 / 36"
+  }
+ }
+}

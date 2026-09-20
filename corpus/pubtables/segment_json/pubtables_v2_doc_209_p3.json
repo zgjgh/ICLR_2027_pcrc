@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_209",
+  "page": 3,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.1,
+    681.0,
+    52.7
+   ],
+   "ocr": "Huang et al. SpringerPlus (2016) 5:1138 Page 19 of 24"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    109.3,
+    511.2,
+    123.4
+   ],
+   "ocr": "Table 5 Average makespan (s) for Strassen structure of equal workloads"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    148.6,
+    131.2,
+    602.7,
+    227.5
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 33,888 20,723 15,153 12,587\nMCPA 39,202 17,844 14,544 13,985\nMCPA2 30,244 19,826 13,275 10,841\nCPR 31,363 15,456 11,100 8940\nIAES 32,483 20,444 12,506 9984",
+   "table_id": "PMC4954800_table_4"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    267.2,
+    463.3,
+    281.3
+   ],
+   "ocr": "Table 6 Average SLR for Strassen structure of equal workloads"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    148.6,
+    289.1,
+    602.7,
+    385.4
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 0.45 0.28 0.20 0.17\nMCPA 0.52 0.24 0.19 0.19\nMCPA2 0.40 0.27 0.18 0.15\nCPR 0.42 0.21 0.15 0.12\nIAES 0.43 0.27 0.17 0.13",
+   "table_id": "PMC4954800_table_5"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    425.2,
+    524.5,
+    439.3
+   ],
+   "ocr": "Table 7 Average makespan (s) for Strassen structure of unequal workloads"
+  },
+  "p3_b6": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    447.1,
+    602.7,
+    543.4
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 47,882 28,738 20,614 18,996\nMCPA 45,577 27,320 19,208 19,041\nMCPA2 47,682 28,658 19,748 17,952\nCPR 49,590 26,893 18,717 16,233\nIAES 43,775 26,681 17,593 15,608",
+   "table_id": "PMC4954800_table_6"
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    583.1,
+    476.6,
+    597.2
+   ],
+   "ocr": "Table 8 Average SLR for Strassen structure of unequal workloads"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    605.0,
+    602.7,
+    701.3
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 0.60 0.38 0.27 0.22\nMCPA 0.57 0.37 0.26 0.22\nMCPA2 0.60 0.38 0.27 0.21\nCPR 0.63 0.35 0.25 0.19\nIAES 0.55 0.35 0.24 0.18",
+   "table_id": "PMC4954800_table_7"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    148.7,
+    741.1,
+    604.0,
+    902.6
+   ],
+   "ocr": "has only eight processors, while CPR achieves the best performance for systems of more processors, e.g. 16, 32, or 64 processors. CPR has the potential to outperform other two- step algorithms because its one-step nature can deliver more efficient schedules due to tight integration of M-task allocation and scheduling at the cost of longer algorithm exe- cution time. For the experiments in Tables 7 and 8 where nodes of the same layer might have unequal workloads, our IAES outperforms all the other methods across systems of different number of processors, while the relative performance of the other four meth- ods varies when the number of processors changes. Our IAES has the potential to out- perform all other methods for the cases of unequal workloads because it allows to shrink"
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_355",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    41.8,
+    282.2,
+    65.8
+   ],
+   "ocr": "Deng BMC Bioinformatics 2011, 12:267 http://www.biomedcentral.com/1471-2105/12/267"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.1,
+    42.0,
+    678.5,
+    53.3
+   ],
+   "ocr": "Page 6 of 12"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    365.1,
+    124.0
+   ],
+   "ocr": "Table 2 Number of SNPs and Mendelian error rates using"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    368.8,
+    111.0,
+    534.1,
+    124.0
+   ],
+   "ocr": "Varscan, SAMtools and SeqGene"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    75.0,
+    128.9,
+    675.0,
+    279.3
+   ],
+   "ocr": "VarScan SAMtools SeqGene\nFather Mother Daughter Father Mother Daughter Father Mother Daughter\nAfter SNP Filter 26458 19814 20788 39657 24384 26971 23522 22776 24097\nCoverage After Family Filter 16037 14392 15048 15775 13174 13556 15678 15541 15809\n> 10 (235) (145) (194) (375) (324) (458) (131) (128) (191)\nMendelian Error Rate (%) 1.5 1.0 1.3 2.3 2.4 3.6 0.8 0.8 1.2\nAfter SNP Filter 23444 16317 17639 27814 15797 18060 18805 16354 17889\nCoverage After Family Filter 13992 12594 13244 9745 8522 8674 12001 11887 12202\n> 20 (124) (93) (147) (90) (93) (140) (63) (53) (89)\nMendelian Error Rate (%) 0.9 0.7 1.1 0.9 1.1 1.6 0.5 0.4 0.7",
+   "table_id": "PMC3148209_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    303.3,
+    370.1,
+    760.6
+   ],
+   "ocr": "annotation files are possible. For example, the users can obtain non-synonymous mutations using ‘polyphen’ function and the output can be submitted to PolyPhen server [35] for further processing. Identify eQTLs in HapMap RNA-Seq data In this example, we showed the SeqGene’s capability on expression quantification and eQTL by reanalyzing a public data set from the international HapMap project [23,36]. The data set contains the RNA-Seq samples of 60 CEU individuals (HapMap individuals of European descent). The mRNA fraction of the transcriptome of lymphoblastoid cell lines (LCLs) from those samples were sequenced using 37-base pairs (bp) paired-end Illu- mina sequencing. Each individual’s transcriptome was sequenced in one lane of an Illumina GAII analyzer. We aligned the short reads to the UCSC Genome Browser hg19 human reference genome [33] using Tophat [37], which can automatically detect and align the short reads to candidate exon-exon junctions. We use SeqGene’s ‘sam2wig’ and ‘rpkm’ functions to quan- tify gene expression of individual samples. SeqGene’s ‘phenotyping’ function is then used to tabulate gene expression across multiple RNA-Seq samples. The geno- type information was obtained from the international HapMap project [36]. The expression profiles from mul- tiple samples, along with the genotypes, were processed using SeqGene’s ‘eqtl’ function, which is capable to Table 3 Number of indels and Mendelian error rates using"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    373.9,
+    303.3,
+    678.6,
+    760.6
+   ],
+   "ocr": "report both cis- (locally) and trans- (at a distance) eQTLs to a gene. Figure 4 showed an example of a strong eQTL that affects the expression level of gene KB-1839H6.1. The genetic marker is dbSNP entry rs1042927, which is located on chromosome 11, whereas the gene KB-1839H6.1 is located on chromosome 22. Therefore, this is a trans-eQTL which maps far from the location of its gene-of-origin gene. The Bonferroni- adjusted p-value of this eQTL is 1.39e-5. The ‘snpview’ function in SeqGene will further display the wiggle plot superimposed on the gene model, as shown in Figure 4. Identify GCDEGs from public RNA-Seq dataset We demonstrate the novel GCDEG method in SeqGene by reanalyzing a recently published RNA-Seq dataset [38]. The samples contain double poly(A)-selected RNA from primary CD4+ T cells with both activated and untreated conditions. We aligned the short reads to the UCSC Genome Browser hg19 human reference sequences [33] using Tophat [37]. The genome-wide gene expression profiling were performed using ‘sam2- wig’, ‘rpkm’, and ‘phenotyping’ functions. Then the ‘dif- fexp’ function was used to perform two-group comparison between the ‘stimulated’ and ‘unstimulated’ samples to identify DEGs and GCDEGs. DEGs were selected using Student’s t-test p-value < 0.01. GCDEGs were selected using two cutoff values: Student’s t-test p- value < 0.01 and genotype-controlled p-value < 0.01. Varscan, SAMtools and SeqGene"
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    75.0,
+    765.5,
+    675.0,
+    915.9
+   ],
+   "ocr": "VarScan SAMtools SeqGene\nFather Mother Daughter Father Mother Daughter Father Mother Daughter\nAfter SNP Filter 696 522 522 539 560 634 637 628 703\nCoverage After Family Filter 356 330 331 279 279 278 320 318 322\n> 10 (4) (4) (3) (5) (4) (8) (4) (3) (6)\nMendelian Error Rate (%) 1.1 1.2 0.9 1.8 1.4 2.9 1.2 0.9 1.9\nAfter SNP Filter 690 503 506 389 355 413 478 416 472\nCoverage After Family Filter 340 316 319 180 182 178 223 223 223\n> 20 (4) (4) (3) (2) (2) (1) (1) (1) (1)\nMendelian Error Rate (%) 1.2 1.3 0.9 1.1 1.1 0.6 0.4 0.4 0.4",
+   "table_id": "PMC3148209_table_2"
+  }
+ }
+}

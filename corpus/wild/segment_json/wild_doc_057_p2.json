@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_057",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    171
+   ],
+   "ocr": "In the context of the ongoing investigation into metabolic health, the data presented in Table 1 offers a comprehensive analysis of various factors affecting fasting blood glucose (FBG) levels across different cohorts. The table captures the relationship between age, expressed in years, and its associated odds ratio (OR) along with a 95% confidence interval (C.I.), highlighting the potential impact of aging on metabolic outcomes."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    159,
+    580,
+    233
+   ],
+   "ocr": "Notably, the odds ratio for age is recorded at 1.01, with a confidence interval ranging from 0.95 to 1.06, suggesting a marginal yet statistically non-significant increase in FBG levels as age advances. Additionally, the table delineates the mean FBG levels, which reveal significant differences among the studied groups, specifically the OLETF group exhibiting a mean FBG of 171.1 ± 14.32 mg/dL, compared to 90.1 ± 1.36 mg/dL in the LETO group."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    283.0,
+    580.0,
+    465.0
+   ],
+   "ocr": "Factor OR (%95 C. I) P value\nAge (years) 1.01 (0.95 to 1.06) 0.69\nSex (male vs. female) 1.28 (0.29 to 1.91) 0.79\nThickness (μm) 0.99 (0.98 to 1.03) 0.12\nIrregularity 5 (mm) 3.56 (1.32 to 9.22) 0.01\nSimK (D) 2.80 (1.01 to 8.20) 0.04\nAstigmatism value (D) 2.01 (0.98 to 4.92) 0.06\nSphere value (D) 1.98 (1.59 to 2.54) 0.01\nRight or Left 1.07 (0.69 to 1.87) 0.80",
+   "table_id": "img_062685_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    522.0,
+    580.0,
+    663.0
+   ],
+   "ocr": "LETO OLETF OLETF + TA\nFBG (mg/dL) 90.1 ± 1.36 171.1 ± 14.32* 119.3 ± 10.94†\nInsulin (ng/mL) 2.5 ± 0.65 1.0 ± 0.45* 1.6 ± 0.59∗,†\nKitt (%/min) 5.9 ± 0.36 1.6 ± 0.49* 2.3 ± 0.54*\nHOMA-IR 30.38 ± 2.64 26.12 ± 3.30 27.9 ± 5.47\nHOMA-β 1908 ± 249.4 258.7 ± 65.23* 726.8 ± 133.03∗,†\nADP (μg/mL) 7.3 ± 1.12 5.9 ± 1.39* 6.6 ± 1.16",
+   "table_id": "img_062685_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    732
+   ],
+   "ocr": "This stark contrast underscores the metabolic dysregulation prevalent in the OLETF cohort, which may be influenced by various genetic and environmental factors."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    762
+   ],
+   "ocr": "The P values associated with these measurements further elucidate the statistical significance of the observed differences, providing a foundation for future research aimed at addressing age-related metabolic disturbances."
+  }
+ }
+}

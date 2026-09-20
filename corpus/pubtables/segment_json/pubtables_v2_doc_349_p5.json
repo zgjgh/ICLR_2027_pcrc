@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_349",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    298.1,
+    65.8
+   ],
+   "ocr": "Benton et al. BMC Bioinformatics 2011, 12(Suppl 3):S2 http://www.biomedcentral.com/1471-2105/12/S3/S2"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 10"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    110.2,
+    678.6,
+    702.3
+   ],
+   "ocr": "examples of tokens ambiguous between common words and usernames that our system failed to classify were “one”, “boo”, “breezy”, “tiger”, “girl”, and “ash”. The majority of names that were missed were of this form. Another class of names that our system failed to tag was acronyms of names. However, it is difficult to ima- gine how a human reading the message would be able to discover the actual username based on this acronym. The medically-related tokens that were erroneously removed by our system are of the most concern. The particular tokens that were removed from each MMB post sample are listed in Table 7. “Mastectomy”, “mris”, “dcis”, “brca1”, “brca2”, and “dieps” are all tokens that are frequently mentioned throughout the BC corpus and are for the most part unambiguously not names, so it is surprising that the classifier attributed such a great like- lihood that they are names. We believe that these tokens would not have been erroneously tagged if the classifier were trained on a larger training set. “Carcinom”, “tamoxifine”, and “earlydetection” would be more diffi- cult for our classifier to leave untagged, since they are all misspellings of actual medical terms, and these tokens are unlikely to occur with high frequency in the training corpus. The tokens removed from the test set pose a much greater concern. “Doxy” was used as an abbreviation of the pharmaceutical doxycycline, which is why it was not marked as a non-name in the post-processing step. Nicknames for drugs could pose a great problem for our system, since nicknames seem to be much more common in MMB text than in medical records, and, like “doxy”, often look very similar to usernames or nicknames of authors. “Hashimoto” and “sjogren” are difficult as well, since they are ambiguous between proper names and medical terms (Hashimoto’s disease, Sjögren’s syndrome). Within our test set, they appeared Table 7 Medical words incorrectly identified as names over development and test sets"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    922.2
+   ],
+   "ocr": "different method of hand-tailored rules and word lists to remove identifiers. It is not surprising that this system performs poorly since it was developed for de-identify- ing medical records, not MMB text. The expanded word list conditions in Table 5 show either little change or no improvement in the Deid system’s performance. This is due to the fact that the word lists were expanded with author usernames, and were tokens unlikely to be labeled as proper names (Table 5 only evaluates the per- formance of these systems over proper names). Running the Stanford Named Entity Recognizer over a sample of 500 BC posts may be more comparable, since it also detects proper names using a CRF. Even then, its news- wire-trained classifier performed with a precision of 61.7% and recall of 81.2% over just proper names in the development set (61.7% precision/69.7% recall over both proper and user names within the same sample). Even the MIST system, which was trained on the same training set and had access to the same diction- aries as our system did not perform well. In particular, Table 6 suggests that it was unable to identify user- names well (recall of 49.5% over the development set and 34.3% over the test set), even though its training set contained explicitly marked usernames. This suggests that the default feature set that MIST uses to describe tokens is not suitable for de-identifying MMB text, although it may expressive enough to discover identifiers in more regular text, such as medical records. The poor performance of these systems over our MMB corpus, suggests that current de-identification methods cannot readily be applied to this new text med- ium, and that our specialized method is useful and novel. These systems perform very well over the med- ium they were designed for. Neamatullah, et al. report that the Deid system was able to identify proper names in a corpus of nursing notes with 72.5% precision and 98.9% recall [9]. Finkel, Grenager, and Manning report that the Stanford NER system was able to identify per- son names over the Seventh Conference on Computa- tional Natural Language Learning named entity recognition shared task with an F-score of 92.3% [6] and the MIST system achieved the best overall score in the de-identification task of the 2006 AMIA Challenges in Natural Language Processing for Clinical Data [13]. However, we show that they are unable to reliably iden- tify names when applied to the very different medium of MMB text. We were unable to find a system specifically designed to de-identify MMB text, which is why we chose to evaluate the performance of our system against two medical record de-identification systems, Deid and MIST, and a named entity recognition system, the Stan- ford NER. One of the main difficulties in identifying usernames is that many usernames are common words. Some"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    430.9,
+    707.1,
+    631.8,
+    916.0
+   ],
+   "ocr": "DEV TEST\nbrca1 doxy\nbrca2 doxy\ncarcinom [sic] hashimoto\ndcis nurofen\ndieps sjogren\nearlydetection sjogren\nmastectomy\nmastectomy\nmastectomy\nmastectomy\nmris\noncotypedx\ntamoxifine",
+   "table_id": "PMC3111588_table_6"
+  }
+ }
+}

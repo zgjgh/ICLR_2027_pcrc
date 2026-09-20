@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_402",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    377.8,
+    66.0
+   ],
+   "ocr": "Younesi et al. BMC Medical Informatics and Decision Making 2012, 12:148 http://www.biomedcentral.com/1472-6947/12/148"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 11 of 13"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    348.0,
+    379.4,
+    384.7
+   ],
+   "ocr": "Figure 7 Proportion of retrieved abstracts containing biomarker retrieval of all abstracts containing human genes/proteins. The other color terminology classes."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    362.9,
+    348.1,
+    653.5,
+    372.2
+   ],
+   "ocr": "information for Alzheimer’s disease. The red color represents the codings indicate the retrieval rate after additive inclusion of further"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    414.3,
+    373.4,
+    727.7
+   ],
+   "ocr": "One explanation is that the relative entropy penalizes genes/proteins common to many investigations/publica- tions and these entities rank at the end of the relevancy list, although they show a high frequency for the disease in question. Another explanation might lay in the select- ive annotation of entities by annotators of the external AD and MS gold standards; if annotators have selected the most frequent genes for annotation, the gold stand- ard has a bias towards frequency ranking. Evaluation of retrieved genes not existing in the gold standard for AD showed that almost half of these genes have probably the potential of being considered as poten- tial biomarkers. This indicates that automated text mining using the biomarker terminology combinations increases recall for biomarker information retrieval and makes it possible to explore the biomarker space efficiently. Comparing the number of retrieved entities between AD and MS shows that the biomarker information for Table 4 Examples of articles accepted to contain biomarker"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    376.8,
+    414.3,
+    678.6,
+    727.7
+   ],
+   "ocr": "each specific disease is distributed differently over the literature corpora. Thus, to obtain the optimum results, the search strategy should be adapted to each disease of interest; however, combining more general queries with the Statistics and/or Prognosis classes results in more stringent outputs in terms of biomarker specificity, sen- sitivity, and predictive parameters. For the purpose of new biomarker identification, it is more suitable to use less stringent combinations, which results in higher re- call. In this case, the relative entropy-based ranking method can increase the likelihood of finding proper evi- dence in the support of a novel biomarker. For new dis- ease areas, it is necessary to update the terminology especially for the class Diagnostics which shows the highest diversity of terminology in different disease areas. One possibility to improve the generalisation of the terminology would be to include all diagnostic classes from publicly available terminology resources. information"
+  },
+  "p4_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    732.5,
+    676.9,
+    909.2
+   ],
+   "ocr": "PMID Gene Alteration Textual evidence\n17387528 ACAD8 SNP In a European screening sample of 115 sporadic AD patients and 191 healthy control subjects, we\nHMGCS2 analyzed single nucleotide polymorphisms in 28 cholesterol-related genes for association with AD.\nThe genes HMGCS2, FDPS, RAFTLIN, ACAD8, NPC2, and ABCG1 were associated with AD at a\nsignificance level of P < or = 0.05 in this sample.\n17531353 SLC17A7 Protein expression Loss of VGLUT1 and VGLUT2 in the prefrontal cortex is correlated with cognitive decline in\ndecrease Alzheimer disease. . .We quantified VGLUT1 and VGLUT2 in the prefrontal dorsolateral cortex\n(Brodmann area 9) of controls and AD patients using specific antiserums. A dramatic decrease in\nVGLUT1 and VGLUT2 was observed in AD using Western blot\n19863188 HPX Cerebrospinal fluid Five differentially-expressed proteins with potential roles in amyloid-beta metabolism and vascular\nSERPINF1 concentration and brain physiology [apolipoprotein A-1 (Apo A-1), cathepsin D (CatD), hemopexin (HPX),\ntransthyretin (TTR), and two pigment epithelium-derived factor (PEDF) isoforms] were identified. Apo\nA-1, CatD and TTR were significantly reduced in the AD pool sample, while HPX and the PEDF\nisoforms were increased in AD CSF",
+   "table_id": "PMC3541249_table_3"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    915.5,
+    383.5,
+    925.4
+   ],
+   "ocr": "Example evidence for genes retrieved via SCAIView for Alzheimer’s and MS diseases"
+  },
+  "p4_b8": {
+   "type": "caption",
+   "bbox": [
+    386.3,
+    915.5,
+    579.1,
+    925.4
+   ],
+   "ocr": "but not found in the corresponding gold standards."
+  }
+ }
+}

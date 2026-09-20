@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_236",
+  "page": 5,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.3,
+    681.0,
+    51.8
+   ],
+   "ocr": "Saka et al. BMC Genomics 2017, 18(Suppl 10):875 Page 8 of 88"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    350.9,
+    123.1
+   ],
+   "ocr": "Table 8 DEGs detected by our gene based CDF and GPL570"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    128.1,
+    367.1,
+    173.7
+   ],
+   "ocr": "Cases Our Gene Based CDF GPL570 Common\nDS1 versus Ts21 810 2421 616\nDS2 versus Ts21 668 1840 337",
+   "table_id": "PMC5731501_table_7"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    200.0,
+    668.6,
+    402.8
+   ],
+   "ocr": "Discussion One of the limitations of microarray technologies is the design of probes based on available sequence and anno- tation data at the time of design. Based on our analysis, the percentage of uniquely mapping probes varies from 84% (rat) to 87% (human), indicating that changing knowledge about the genome itself plays a role in probe utilization. In terms of annotation, the rat genome is known to have more incomplete information when compared to mouse and human, which is reflected in the fact that only 47% of the rat probes lie in region- based locales (exons and UTRs) compared to 65% for mouse, and 69% for human. Since this can potentially Fig. 4 GRIK4 Probe set expression levels within the gene, exon, and"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    397.9,
+    367.3,
+    411.8
+   ],
+   "ocr": "lead to a small number of probes in each annotated re-"
+  },
+  "p5_b5": {
+   "type": "title",
+   "bbox": [
+    392.9,
+    404.2,
+    451.4,
+    415.4
+   ],
+   "ocr": "3′ UTR regions"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.6,
+    413.1,
+    681.0,
+    897.2
+   ],
+   "ocr": "gion (and thus increased false positive rates), we have further required at least three probes be present in each probe set for our analysis. Both unrestricted (1 or As our analysis with the GSE48611 and GSE72551 more) and restricted (3 or more) probe groupings are datasets show, reanalysis of publicly available datasets available as CDFs. using updated annotations can yield additional informa- To further illustrate the importance of region-based tion when compared to the use of the original CDFs. In CDFs, using the subset of 4024 genes with probesets our case, the region-based CDFs allow for a better un- in both the CDS and 3′ UTR regions, we were able derstanding of 3′ UTR dynamics through the reanalysis to identify 203 differential expression events at the 3′ of publicly available data. While current high- UTR level that do not show differential expression throughput sequencing technologies may allow for a within the CDS. In addition, these events are not more complete picture, this custom CDF approach will detected using the standard Affymetrix® CDF. Further analysis of these 203 genes yields some genes of par- ticular interest. For instance, the 3′ UTR of GRIK4 (Glutamate Ionotropic Receptor Kainate Type Subunit 4) was up-regulated (p-value 0.0450) while the CDS was not significantly regulated (FC = 1.07; p-value 0.4525), suggest- ing the 3′ UTR of this gene was lengthened (Fig. 4). GRIK4 regulates kainite-receptor signaling and neuro- plasticity [38] and its missregulation is associated with neurological diseases including Alzheimer’s [39], bipo- lar disorder [40], and others. Interestingly, a deletion variant specific to the 3′ UTR of GRIK4 is protective of bipolar disorder [40]. Alongside our observation, this suggests that regulation of this plasticity- associated gene occurs though its 3′ UTR. We also observed that the 3′ UTR of VEGFA (vascular endo- thelial growth factor-A) was downregulated (−1.17 FC; p = 0.0102) and expression of its CDS was unchanged (1.01 FC; p = 0.8334) (Fig. 5). The 3’UTR of VEGFA, a po- tent neuromodulator, undergoes a well-described binary switch to regulate its expression [41]. Our observations"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    392.9,
+    895.1,
+    671.8,
+    906.7
+   ],
+   "ocr": "Fig. 5 VEGFA Probe set expression levels within the gene, exon, and"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    898.6,
+    367.4,
+    912.4
+   ],
+   "ocr": "suggest the VEGFA 3′ UTR undergoes an additional layer"
+  },
+  "p5_b9": {
+   "type": "title",
+   "bbox": [
+    392.9,
+    908.1,
+    451.4,
+    919.4
+   ],
+   "ocr": "3′ UTR regions"
+  },
+  "p5_b10": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    913.8,
+    348.6,
+    927.6
+   ],
+   "ocr": "of regulation by shortening during collateral sprouting."
+  }
+ }
+}

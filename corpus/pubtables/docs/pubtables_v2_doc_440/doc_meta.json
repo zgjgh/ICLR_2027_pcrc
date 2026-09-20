@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_440",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    707,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4431251_table_0",
+   "page_num": 1,
+   "bbox": [
+    66.4,
+    760.1,
+    640.1,
+    811.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4431251_table_0.png",
+   "html": "<table><tr><td>Material</td><td>Modulus of Elasticity E (KN/mm2)</td><td>Poisson&#8217;s Ratio &#963;</td><td>Density &#961; (g&#183;cm&#8722;3)</td></tr><tr><td>302 Stainless steel</td><td>210</td><td>0.305</td><td>7.93</td></tr><tr><td>Magnesium aluminum alloy</td><td>40</td><td>0.275</td><td>&lt;1.8</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4431251_table_1",
+   "page_num": 2,
+   "bbox": [
+    90.1,
+    620.5,
+    621.4,
+    717.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4431251_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Mode Used</td><td colspan=\"2\">302 Steel</td><td colspan=\"2\">Magnesium Aluminum Alloy</td></tr><tr><td>Mean Error (&#176;)</td><td>Variance</td><td>Mean Error (&#176;)</td><td>Variance</td></tr><tr><td>A0 mode</td><td>0.29</td><td>1.9039</td><td>0.1925</td><td>1.252178</td></tr><tr><td>S0 mode</td><td>6.04</td><td>388.8854</td><td>11.7425</td><td>700.4788</td></tr><tr><td>A0&amp;S0 mode</td><td>0.28</td><td>3.1546</td><td>0.54</td><td>3.206737</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4431251_table_2",
+   "page_num": 3,
+   "bbox": [
+    219.5,
+    506.8,
+    483.1,
+    646.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4431251_table_2.png",
+   "html": "<table><tr><td>Item</td><td>Value</td></tr><tr><td>Peak Sensitivity, Ref V/(m/s)</td><td>62 dB</td></tr><tr><td>Peak Sensitivity, Ref V/&#956;bar</td><td>&#8722;72 dB</td></tr><tr><td>Operating Frequency Range</td><td>125&#8211;750 kHz</td></tr><tr><td>Resonant Frequency, Ref V/(m/s)</td><td>140 kHz</td></tr><tr><td>Resonant Frequency, Ref V/&#956;bar</td><td>300 kHz</td></tr><tr><td>Directionality</td><td>&#177; 1.5 dB</td></tr><tr><td>Diameter</td><td>8 mm</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4431251_table_3",
+   "page_num": 4,
+   "bbox": [
+    68.0,
+    750.1,
+    638.6,
+    856.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4431251_table_3.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Actual Leakage Angle (&#176;)</td><td colspan=\"2\">Proposed Method without the Sound Velocity&#8217;s Changing (c = 2000 m/s)</td><td colspan=\"2\">Proposed Method</td></tr><tr><td></td><td>Mean Error (&#176;)</td><td>Variance</td><td>Mean Error (&#176;)</td><td>Variance</td></tr><tr><td>No.1 array</td><td>78.7</td><td>5.7</td><td>208.01</td><td>0</td><td>3.38</td></tr><tr><td>No.2 array</td><td>56.3</td><td>19.3</td><td>179.25</td><td>0.4</td><td>2.96</td></tr><tr><td>No.3 array</td><td>60</td><td>&#8722;13.1</td><td>152.77</td><td>&#8722;0.1</td><td>3.19</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4431251_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.7,
+    199.4,
+    634.8,
+    282.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4431251_table_4.png",
+   "html": "<table><tr><td></td><td>The Coordinate of Leakage Point(mm)</td><td>The Coordinate of Estimate Leakage Point (mm)</td><td>Error d (mm)</td></tr><tr><td>No.1 and No.2 array</td><td>(0,0)</td><td>(1.89,&#8722;9.67)</td><td>9.85</td></tr><tr><td>No.1 and No.3 array</td><td>(0,0)</td><td>(&#8722;1.64,8.00)</td><td>8.17</td></tr><tr><td>No.2 and No.3 array</td><td>(0,0)</td><td>(&#8722;5.51,1.22)</td><td>5.64</td></tr><tr><td>Comprehensive result</td><td>(0,0)</td><td>(&#8722;5.26,&#8722;0.45)</td><td>5.28</td></tr></table>"
+  }
+ ]
+}

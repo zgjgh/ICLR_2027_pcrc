@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_287",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    192.0,
+    64.4
+   ],
+   "ocr": "BMC Genetics 2008, 9:5"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    470.0,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2156/9/5"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    363.5,
+    118.9
+   ],
+   "ocr": "Table 2: Principal component analysis of the immune response"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    366.3,
+    107.2,
+    584.8,
+    118.9
+   ],
+   "ocr": "measures of the animals immunized with KLH"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    656.2,
+    408.4
+   ],
+   "ocr": "Axis\nPC 1 PC 2 PC 3 PC 4 PC 5\nVariance explained 24.19 19.91 15.52 11.44 8.90\n(%)\nEigenvector\nTrt_Init -0.05 -0.82 -0.03 0.20 0.05\nTrt_Final 0.84 -0.09 -0.12 0.11 0.05\nLPS-Init -0.07 -0.70 -0.20 0.41 0.00\nLPS_Final 0.73 -0.19 -0.13 0.28 -0.30\nLTA_Init 0.32 -0.73 0.03 -0.45 -0.06\nLTA_Final 0.51 -0.52 0.19 -0.14 0.48\nGal*2_Init 0.12 0.00 0.39 -0.65 0.19\nGal*2_Final 0.03 0.07 -0.79 -0.46 0.27\nD_Trt 0.81 0.36 -0.08 -0.01 0.02\nD_LPS 0.76 0.35 0.03 -0.04 -0.28\nD_LTA 0.18 0.35 0.20 0.46 0.73\nD_GAL -0.06 0.07 -0.97 0.03 0.12",
+   "table_id": "PMC2246150_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    424.6,
+    391.2,
+    610.8
+   ],
+   "ocr": "Principal component analysis of 12 measures of immune response from the first 5 axes (PC1 to PC 5) and relative contributions of the 12 variables to Trt_Init = Antibody (Ab) titer before immunization with KLH, Trt_Final = at day 0, LPS_Final = Ab to LPS 7 days post immunization, LTA_Init = Nabs Gal*2_Init = Ab to anti-Gal epitope at day 0, Gal*2_Final = Ab to anti-Gal response to M.B, D_LPS = responsiveness of Ab response to LPS, D_LTA Ab response to anti-Gal. first and second principal components explained 25.44% and 19.44% of the total variance. Figure 2 shows the dis- tribution of the birds according to the first and second principal components. They are clearly separated along PC1 according to the line: ND3-L and CC-L are placed at the extreme positive and negative ends of the PC1 axis,"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    385.9,
+    424.6,
+    690.6,
+    494.8
+   ],
+   "ocr": "200 animals immunized with KLH (Group A): variance explained by the each axis Ab titer after immunization with KLH (Group A), LPS-Init = Nabs to LPS to LTA at day 0, LTA_Final = Ab to LTA 7 days post immunization, epitope 7 days post immunization, D_Trt = responsiveness of Ab = responsiveness of Ab response to LTA, D_GAL = responsiveness of"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    393.8,
+    522.6,
+    698.3,
+    653.3
+   ],
+   "ocr": "and PHA-L and the Control line are centrally and similarly distributed. D Associations between the traits under selection and the new measures of immunity Within-line correlation coefficients between the measures of ND3 and the other traits recorded in Group B, and the in Group A immunized with KLH"
+  },
+  "p2_b8": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    641.6,
+    391.0,
+    653.3
+   ],
+   "ocr": "Table 3: Associations of ND3 antibody titer with the other measures"
+  },
+  "p2_b9": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    664.3,
+    677.1,
+    912.5
+   ],
+   "ocr": "Group A (immunized with KLH) Correlation coefficient with ND3 antibody titer in Line\nTrait ND3-L PHA-L CC-L Control Linear regression of ND3\nantibody titer across lines\npha 0.12 -0.6 -0.06 -0.26 NS\ncc - - 0.15 -0.25 NS\nKLH day0 -0.20 0.11 0.32* -0.27 NS\nKLH day 7 0.24 -0.10 0.22 0.12 NS\nLPS day 0 -0.09 0.11 0.16 -0.08 NS\nLPS day 7 0.18 0.09 0.19 0.35* 0.28***\nLTA day 0 -0.12 -0.07 0.35* 0.01 NS\nLTA day 7 0.05 -0.02 0.29* -0.02 NS\nGal day 0 0.29* 0.00 -0.01 0.06 NS\nGal day 7 0.04 -0.16 -0.08 0.12 NS\nResponsiveness to KLH 0.20 -0.15 0.05 0.24 NS\nResponsiveness to LPS 0.25 -0.03 0.05 0.43** 0.28**\nResponsiveness to LTA11 0.20 0.13 -0.10 -0.01 NS\nResponsiveness to Anti-Gal -0.19 -0.12 -0.05 0.08 NS",
+   "table_id": "PMC2246150_table_2"
+  },
+  "p2_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 13 (page number not for citation purposes)"
+  }
+ }
+}

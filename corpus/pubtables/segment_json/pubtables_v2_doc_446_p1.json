@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_446",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    467.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Off Target Predictions from ChEMBL with Template CoMFA"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    255.0,
+    727.3,
+    567.8
+   ],
+   "ocr": "Fig 1. The Template CoMFA Workflow. doi:10.1371/journal.pone.0129307.g001 [13, 12, 14]. Evidently, and as already emphasized, by design this workflow is inflexible; thus re- sults for a given training set can be affected only by varying the initial choices of templates. Therefore, these studies varied primarily in which of seven protocols was used to generate tem- plates. For convenient reference, these protocols are labeled A through G. Also the “standard” protocol B was applied to two other partitionings of the ChEMBL data into training and pre- diction sets. The rationale for each of these protocols is presented in the Results and Discussion sections. The twelve targets, listed in Table 1, were chosen while considering functional and structural diversity, current interest, and the availability of ample biodata. For each target, all of its IC50 and Ki “Target Associated Biodata” were downloaded from ChEMBL. Because of the above- mentioned variation in the affinity values (CHEMBL_VALUEs) that different assay procedures (ASSAY_CHEMBLIDs) often reported for the same compound, all such duplicate measure- ments were tabulated by pairs, sorted by reported affinity difference, and inspected. Any bio- data observation, anywhere in a biodata table, whose ASSAY_TYPE was repeatedly associated Table 1. Properties of the biological data sets."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    575.2,
+    712.7,
+    804.9
+   ],
+   "ocr": "Target # .pdb # ChBL # ChBL # SD, ChBL SD, TC SD, LOO s, MW SD, NN r2, TC pred ChEMBL\nName tmpls vals vals useda skelsb vals used pred, prtcl Xval, prtcl MR pred vs NN pred Tgt ID\nB B\nbace 13 4590 4070 519 1.23 0.87 0.87 1.21 0.88 0.289 4822\ncdk2 20 2234 545 185 1.05 0.90 0.87 1.03 0.84 0.187 301\nchk1 43 4340 1932 452 1.30 0.97 1.01 1.20 1.02 0.224 4630\nCA-II 65 8623 5981 127 1.12 0.83 0.83 1.05 0.84 0.129 206\nCOX2 0 8919 3744 297 1.20 0.98 0.97 1.19 1.01 0.248 230\nCYP3A4 0 7198 3224 957 0.94 0.79 0.79 0.91 0.85 0.313 340\nD2A 0 8860 5750 307 1.09 0.82 0.87 1.06 0.92 0.214 217\nER 0 3246 1869 434 1.43 0.94 0.98 1.32 0.94 0.244 4296\nfacXa 12 6273 5471 1012 1.58 1.14 1.13 1.54 1.04 0.231 244\nGABAa 0 3449 1691 7 1.33 0.99 1.00 1.28 0.97 0.256 1907607\nhERG 0 7690 4871 1268 0.95 0.82 0.82 0.95 0.80 0.208 240\nptp1b 36 4682 2709 577 0.99 0.67 0.70 0.88 0.62 0.179 335",
+   "table_id": "PMC4466312_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    817.6,
+    727.2,
+    897.3
+   ],
+   "ocr": "See text for details. aSee Materials and Methods section for discussion bSuch a \"reduced skeleton\" is obtained for a structure by (1) removing hydrogens; (2) converting all remaining atom and bond types to \"Any\"; (3) iteratively deleting terminal atoms until no more exist (leaving only the connected rings) doi:10.1371/journal.pone.0129307.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129307 June 12, 2015 4 / 22"
+  }
+ }
+}

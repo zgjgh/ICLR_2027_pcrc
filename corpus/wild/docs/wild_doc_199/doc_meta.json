@@ -1,0 +1,366 @@
+{
+ "doc_id": "wild_doc_199",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_226672_t0",
+   "page_num": 1,
+   "bbox": [
+    12.0,
+    138.0,
+    462.0,
+    252.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_226672_t0.png",
+   "html": "<table><tr><td>WaterIntensity</td><td>2020</td></tr><tr><td>2021</td><td>2022</td></tr><tr><td>MeasuredIn</td><td>m3/tonne</td></tr><tr><td>OperationalSites</td><td>5</td></tr><tr><td>AverageIntensity</td><td>12.3</td></tr><tr><td>TotalWaterUsed</td><td>1.5BINR</td></tr><tr><td>WaterRecycled</td><td>75%</td></tr></table>"
+  },
+  {
+   "table_id": "img_226672_t1",
+   "page_num": 1,
+   "bbox": [
+    12.0,
+    300.0,
+    462.0,
+    756.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_226672_t1.png",
+   "html": "<table><tr><td colspan=\"3\">RehabilitationProvisions</td><td>TotalAmount(INR)</td></tr><tr><td colspan=\"3\">ClosureProvisions</td><td>TotalAmount(INR)</td></tr><tr><td colspan=\"3\">YearlyOverview</td><td>2020vs2022</td></tr><tr><td colspan=\"3\">FinancialOverview</td><td colspan=\"2\">YoYChange(%)</td><td>MarketShare(%)</td><td>TotalProvisions</td></tr><tr><td>2020</td><td>2021</td><td>2022</td><td>Amount(INR)</td><td>Change(%)</td><td>MarketShare(%)</td><td>Notes</td></tr><tr><td>Rehabilitation</td><td>500M</td><td>10%</td><td>20%</td><td>Increase</td><td>Closure</td><td>300M</td></tr><tr><td>5%</td><td>15%</td><td>Steady</td><td>TotalProvisions</td><td>800M</td><td>7.5%</td><td>18%</td></tr><tr><td>Analysis</td><td>2020</td><td>2021</td><td>2022</td><td>OverallGrowth</td><td>8.5%</td><td>MarketTrends</td></tr><tr><td>2020</td><td>2021</td><td>2022</td><td>SectorPerformance</td><td>Stable</td><td>FutureOutlook</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_226817_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    65.0,
+    579.0,
+    240.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_226817_t0.png",
+   "html": "<table><tr><td colspan=\"2\">FinancialRatios</td><td colspan=\"3\">Liquidity&amp;Efficiency</td></tr><tr><td colspan=\"2\">CurrentAssets</td><td>InventoryDays</td><td colspan=\"3\">TurnoverRatios</td><td>TotalAssets</td></tr><tr><td>CurrentRatio</td><td>Debt/Equity</td><td>GrossMargin</td><td>NetProfitMargin</td><td>ReturnonEquity</td><td>InventoryTurnover</td><td>DaysSalesOutstanding</td></tr><tr><td>1.5</td><td>0.8</td><td>32.5%</td><td>5.1%</td><td>12.0%</td><td>8.4</td><td>45</td></tr><tr><td>1.6</td><td>0.75</td><td>30.8%</td><td>4.9%</td><td>11.5%</td><td>9.0</td><td>50</td></tr></table>"
+  },
+  {
+   "table_id": "img_226817_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    362.0,
+    579.0,
+    523.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_226817_t1.png",
+   "html": "<table><tr><td>ProductLine</td><td>DefectRate(%)</td><td>TotalUnitsProduced</td><td>DefectiveUnits</td><td>QualityScore</td><td>ReturnsRate(%)</td><td>Revenue(CAD)</td><td>NetIncome(CAD)</td><td>CAPEX(CAD)</td><td>MarketShare(%)</td></tr><tr><td>Aviation</td><td>1.2</td><td>50000</td><td>600</td><td>95</td><td>0.5</td><td>$200M</td><td>$50M</td><td>$15M</td><td>25</td></tr><tr><td>Healthcare</td><td>0.8</td><td>30000</td><td>240</td><td>97</td><td>0.3</td><td>$150M</td><td>$30M</td><td>$10M</td><td>20</td></tr><tr><td>Energy</td><td>1.5</td><td>40000</td><td>600</td><td>92</td><td>0.7</td><td>$180M</td><td>$40M</td><td>$12M</td><td>22</td></tr><tr><td>Transportation</td><td>1.1</td><td>45000</td><td>495</td><td>94</td><td>0.4</td><td>$170M</td><td>$35M</td><td>$14M</td><td>23</td></tr></table>"
+  },
+  {
+   "table_id": "img_226817_t2",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    583.0,
+    579.0,
+    688.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_226817_t2.png",
+   "html": "<table><tr><td>UnitsSold</td><td>Revenue</td></tr><tr><td>Headcount</td><td colspan=\"2\">ManufacturingFacilities</td></tr><tr><td>ProductLine</td><td>ProductionVolume</td><td>OperationalEfficiency</td></tr><tr><td>5,000</td><td>$120M</td><td>2,300</td></tr><tr><td>Turbines</td><td>45,000units</td><td>85%</td></tr></table>"
+  },
+  {
+   "table_id": "img_226882_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    185.0,
+    580.0,
+    347.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_226882_t0.png",
+   "html": "<table><tr><td colspan=\"2\">TransactionOverview</td><td>Amount</td></tr><tr><td colspan=\"2\">PaymentMethod</td><td>GrowthRate</td></tr><tr><td colspan=\"2\">QuarterlySummary</td><td colspan=\"2\">TotalVolume</td></tr><tr><td colspan=\"2\">Q12024</td><td>Q22024</td><td>Q32024</td><td colspan=\"2\">Q42024</td></tr><tr><td>CreditCards</td><td>DigitalWallets</td><td>BankTransfers</td><td>MobilePayments</td><td>TotalGrowth</td><td>PercentageChange</td></tr><tr><td>€150M</td><td>€200M</td><td>€250M</td><td>€300M</td><td>€1B</td><td>25%</td></tr><tr><td>€50M</td><td>€70M</td><td>€60M</td><td>€80M</td><td>€260M</td><td>30%</td></tr></table>"
+  },
+  {
+   "table_id": "img_226882_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    471.0,
+    580.0,
+    619.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_226882_t1.png",
+   "html": "<table><tr><td>FinancialMetrics</td><td>Q12024</td></tr><tr><td>Q22024</td><td>Q32024</td></tr><tr><td>Q42024</td><td colspan=\"2\">YearlyTotals</td></tr><tr><td colspan=\"2\">GrowthRatios</td><td colspan=\"2\">ProfitabilityIndices</td><td>LiquidityRatio</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>NetMargin</td><td>ROE</td></tr><tr><td>15.2</td><td>1.8</td><td>0.5</td><td>12%</td><td>20%</td></tr><tr><td>14.5</td><td>1.9</td><td>0.6</td><td>15%</td><td>22%</td></tr></table>"
+  },
+  {
+   "table_id": "img_227071_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    203.0,
+    580.0,
+    383.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_227071_t0.png",
+   "html": "<table><tr><td>TaxRevenue</td><td colspan=\"3\">Components</td><td>TotalRevenue</td></tr><tr><td>Type</td><td>Value(INR)</td><td>Percentage</td><td>GrowthRate</td><td>Remarks</td></tr><tr><td>IncomeTax</td><td>500B</td><td>40%</td><td>5%</td><td>Stable</td></tr><tr><td>CorporateTax</td><td>300B</td><td>24%</td><td>3%</td><td>Increasing</td></tr><tr><td>SalesTax</td><td>200B</td><td>16%</td><td>4%</td><td>Consistent</td></tr><tr><td>PropertyTax</td><td>150B</td><td>12%</td><td>2%</td><td>Steady</td></tr><tr><td>ExciseDuty</td><td>100B</td><td>8%</td><td>1%</td><td>Declining</td></tr><tr><td>CustomsDuty</td><td>50B</td><td>4%</td><td>0%</td><td>Stable</td></tr><tr><td>OtherTaxes</td><td>25B</td><td>2%</td><td>1%</td><td>Variable</td></tr></table>"
+  },
+  {
+   "table_id": "img_227071_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    454.0,
+    580.0,
+    679.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_227071_t1.png",
+   "html": "<table><tr><td>ReserveType</td><td>Amount(INR)</td></tr><tr><td colspan=\"2\">ForeignReserves</td><td colspan=\"2\">GoldHoldings</td></tr><tr><td>GovernmentBonds</td><td>EquityHoldings</td><td>TotalReserves</td><td>Changes(%)</td></tr><tr><td>Forex</td><td>5,000,000,000</td><td>1,200,000,000</td><td>6,200,000,000</td></tr><tr><td>Dec-22</td><td>4,800,000,000</td><td>1,100,000,000</td><td>5,900,000,000</td></tr><tr><td>Dec-23</td><td>5,000,000,000</td><td>1,200,000,000</td><td>6,200,000,000</td></tr><tr><td>Change(INR)</td><td>+200,000,000</td><td>+100,000,000</td><td>+300,000,000</td></tr></table>"
+  },
+  {
+   "table_id": "img_227679_t0",
+   "page_num": 5,
+   "bbox": [
+    14.0,
+    103.0,
+    538.0,
+    321.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_227679_t0.png",
+   "html": "<table><tr><td>LeanManufacturingMetrics</td><td colspan=\"2\">PerformanceIndicators</td></tr><tr><td>TotalRevenue</td><td>CostofGoodsSold</td><td colspan=\"3\">OperatingExpenses</td></tr><tr><td>ProfitabilityMetrics</td><td colspan=\"4\">GrossProfit(€M)</td><td colspan=\"2\">NetIncome(€M)</td><td colspan=\"2\">OperatingMargin(%)</td><td colspan=\"2\">ReturnonAssets(%)</td></tr><tr><td>EfficiencyMetrics</td><td>ProductionVolume</td><td>DefectRate(%)</td><td>CycleTime(hrs)</td><td>OverallEquipmentEffectiveness</td><td>CapitalExpenditures</td><td>InventoryTurnover</td><td>SupplierLeadTime(days)</td><td>EmployeeProductivity</td><td>SafetyMetrics</td><td>AccidentRate(%)</td></tr><tr><td>2024Q1</td><td>€150M</td><td>€90M</td><td>€30M</td><td>€30M</td><td>€20M</td><td>€80M</td><td>12.5%</td><td>15.0%</td><td>20.0%</td><td>5.5</td></tr><tr><td>2024Q2</td><td>€160M</td><td>€95M</td><td>€32M</td><td>€33M</td><td>€22M</td><td>€85M</td><td>11.0%</td><td>16.5%</td><td>21.0%</td><td>6.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_227679_t1",
+   "page_num": 5,
+   "bbox": [
+    14.0,
+    392.0,
+    538.0,
+    519.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_227679_t1.png",
+   "html": "<table><tr><td>Category</td><td>InventoryDays</td><td>TurnoverRate</td></tr><tr><td>Manufacturing</td><td>45Days</td><td>8.2%</td></tr><tr><td>Logistics</td><td>30Days</td><td colspan=\"2\">InventoryAnalysis</td></tr><tr><td>Energy</td><td>60Days</td><td>5.5%</td><td>Aerospace</td></tr><tr><td>35Days</td><td>9.1%</td><td>IndustryAvg</td><td>50Days</td></tr><tr><td>Total</td><td>45Days</td><td>7.5%</td><td>OverallPerformance</td></tr></table>"
+  },
+  {
+   "table_id": "img_227679_t2",
+   "page_num": 5,
+   "bbox": [
+    14.0,
+    575.0,
+    538.0,
+    713.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_227679_t2.png",
+   "html": "<table><tr><td>Metric</td><td>Value</td></tr><tr><td colspan=\"4\">SupplyChainResilience</td><td>FinancialRatios</td></tr><tr><td>ResilienceScore</td><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>OperatingMargin</td></tr><tr><td>85%</td><td>15.3</td><td>1.8</td><td>0.5</td><td>12.0%</td></tr><tr><td>90%</td><td>14.8</td><td>2.1</td><td>0.4</td><td>13.5%</td></tr><tr><td>80%</td><td>16.0</td><td>1.5</td><td>0.6</td><td>11.0%</td></tr></table>"
+  },
+  {
+   "table_id": "img_227736_t0",
+   "page_num": 6,
+   "bbox": [
+    14.0,
+    91.0,
+    549.0,
+    207.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_227736_t0.png",
+   "html": "<table><tr><td>Metric</td><td colspan=\"2\">LicensingRevenue</td><td>SyndicationRevenue</td></tr><tr><td>2023</td><td>$500M</td><td>$200M</td><td>P/ERatio</td></tr><tr><td>2024</td><td>$550M</td><td>$220M</td><td>30.5</td></tr><tr><td>2025</td><td>$600M</td><td>$250M</td><td>32.0</td></tr><tr><td>2026</td><td>$650M</td><td>$275M</td><td>33.5</td></tr><tr><td>2027</td><td>$700M</td><td>$300M</td><td>35.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_227736_t1",
+   "page_num": 6,
+   "bbox": [
+    14.0,
+    264.0,
+    549.0,
+    464.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_227736_t1.png",
+   "html": "<table><tr><td colspan=\"2\">LiveEventMetrics</td><td>5-YearCAGR</td><td>AttendanceGrowth%</td><td>RevenueGrowth%</td><td>AverageTicketPrice</td><td>MarketShare%</td></tr><tr><td>Year</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>IndustryIndex</td></tr><tr><td>Attendance(M)</td><td>10.2</td><td>11.5</td><td>12.8</td><td>14.0</td><td>15.5</td><td>120.5M</td></tr><tr><td>Revenue($M)</td><td>400</td><td>450</td><td>500</td><td>550</td><td>600</td><td>AnnualGrowth%</td></tr><tr><td>5.0%</td><td>5.5%</td><td>6.0%</td><td>6.5%</td><td>7.0%</td><td>AverageTicketPrice</td><td>$39</td></tr><tr><td>$40</td><td>$41</td><td>$42</td><td>$43</td><td>MarketShare</td><td>25%</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_227736_t2",
+   "page_num": 6,
+   "bbox": [
+    14.0,
+    551.0,
+    549.0,
+    711.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_227736_t2.png",
+   "html": "<table><tr><td>Format</td><td colspan=\"2\">ContentSpending</td></tr><tr><td>AnnualGrowthRate</td><td colspan=\"2\">2023Projection</td><td>2028Projection</td></tr><tr><td colspan=\"2\">Audio</td><td colspan=\"2\">Video</td><td colspan=\"2\">Podcasts</td><td colspan=\"3\">TotalSpending</td></tr><tr><td>Music</td><td>$300M</td><td>12.5%</td><td>$400M</td><td>$600M</td><td>VideoStreaming</td><td>$250M</td><td>10.0%</td><td>$300M</td></tr><tr><td>Podcasts</td><td>$150M</td><td>15.0%</td><td>$250M</td><td>$400M</td><td>Total</td><td>$700M</td><td>12.0%</td><td>$950M</td></tr><tr><td>DigitalMedia</td><td>$900M</td><td>11.5%</td><td>$1.2B</td><td>$1.6B</td><td>TraditionalMedia</td><td>$500M</td><td>8.0%</td><td>$600M</td></tr></table>"
+  },
+  {
+   "table_id": "img_227777_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    163.0,
+    580.0,
+    332.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_227777_t0.png",
+   "html": "<table><tr><td colspan=\"2\">AIModelPerformance</td><td colspan=\"3\">DeploymentMetrics</td></tr><tr><td colspan=\"2\">RevenueGrowth</td><td colspan=\"3\">CostAnalysis</td><td>NetProfit</td><td colspan=\"4\">InvestmentOverview</td></tr><tr><td>Year</td><td>Revenue(AUD)</td><td>NetIncome(AUD)</td><td>CAPEX(AUD)</td><td>ROI(%)</td><td>ModelAccuracy(%)</td><td>DeploymentCost(AUD)</td><td>CustomerGrowth(%)</td><td>MarketShare(%)</td><td>R&amp;DExpenses(AUD)</td></tr><tr><td>2019</td><td>50M</td><td>10M</td><td>5M</td><td>20%</td><td>85%</td><td>3M</td><td>15%</td><td>30%</td><td>8M</td></tr><tr><td>2020</td><td>60M</td><td>12M</td><td>6M</td><td>25%</td><td>90%</td><td>4M</td><td>20%</td><td>32%</td><td>9M</td></tr><tr><td>2021</td><td>75M</td><td>15M</td><td>8M</td><td>30%</td><td>92%</td><td>5M</td><td>25%</td><td>35%</td><td>10M</td></tr><tr><td>2022</td><td>90M</td><td>18M</td><td>10M</td><td>35%</td><td>93%</td><td>6M</td><td>30%</td><td>38%</td><td>12M</td></tr></table>"
+  },
+  {
+   "table_id": "img_227777_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    489.0,
+    580.0,
+    672.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_227777_t1.png",
+   "html": "<table><tr><td>Metric</td><td>5-YearCAGR</td></tr><tr><td colspan=\"3\">UserEngagementMetrics</td><td colspan=\"2\">FinancialOverview</td></tr><tr><td>MonthlyActiveUsers</td><td>Revenue(AUD)</td><td>NetIncome(AUD)</td><td>CAPEX(AUD)</td><td>ARPU(AUD)</td></tr><tr><td>2020</td><td>50M</td><td>200M</td><td>50M</td><td>10M</td></tr><tr><td>2021</td><td>55M</td><td>220M</td><td>55M</td><td>11M</td></tr><tr><td>2022</td><td>60M</td><td>250M</td><td>60M</td><td>12M</td></tr><tr><td>2023</td><td>65M</td><td>280M</td><td>65M</td><td>13M</td></tr><tr><td>2024</td><td>70M</td><td>310M</td><td>70M</td><td>14M</td></tr><tr><td>2025</td><td>75M</td><td>350M</td><td>75M</td><td>15M</td></tr></table>"
+  },
+  {
+   "table_id": "img_227956_t0",
+   "page_num": 8,
+   "bbox": [
+    11.0,
+    127.0,
+    427.0,
+    561.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_227956_t0.png",
+   "html": "<table><tr><td>LogisticsCosts</td><td colspan=\"2\">ColdChainCosts</td></tr><tr><td>CostBreakdown</td><td colspan=\"2\">CostComponents</td></tr><tr><td>TotalCosts</td><td colspan=\"2\">FixedCosts</td><td>VariableCosts</td></tr><tr><td colspan=\"3\">CostbyRegion</td><td colspan=\"5\">Asia-Pacific</td><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>Japan</td><td>30.5MJPY</td><td>5.2%</td><td>25%</td><td>China</td><td>45.8MJPY</td><td>4.8%</td><td>35%</td><td>Australia</td><td>20.3MJPY</td></tr><tr><td>3.5%</td><td>15%</td><td>SouthKorea</td><td>10.2MJPY</td><td>6.1%</td><td>12%</td><td>NewZealand</td><td>8.1MJPY</td><td>2.9%</td><td>8%</td></tr><tr><td>RegionalAverage</td><td>115.9MJPY</td><td>4.4%</td><td>95%</td><td>TotalColdChain</td><td>150.0MJPY</td><td>4.0%</td><td>100%</td><td>GrowthOpportunities</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_227956_t1",
+   "page_num": 8,
+   "bbox": [
+    11.0,
+    595.0,
+    427.0,
+    740.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_227956_t1.png",
+   "html": "<table><tr><td>Commodity</td><td colspan=\"2\">HedgingDetails</td><td>ForecastAmount</td></tr><tr><td>Wheat</td><td>5%</td><td>JPY2.5B</td><td>Active</td></tr><tr><td>Corn</td><td>7%</td><td>JPY3.1B</td><td>Active</td></tr><tr><td>Soybeans</td><td>3%</td><td>JPY1.2B</td><td>Pending</td></tr><tr><td>Sugar</td><td>4%</td><td>JPY1.5B</td><td>Active</td></tr><tr><td>Rice</td><td>6%</td><td>JPY2.0B</td><td>Pending</td></tr><tr><td>Barley</td><td>5%</td><td>JPY800M</td><td>Active</td></tr><tr><td>Oats</td><td>2%</td><td>JPY300M</td><td>Pending</td></tr><tr><td>Total</td><td>32%</td><td>JPY10.5B</td><td>OverallStatus</td></tr></table>"
+  },
+  {
+   "table_id": "img_228113_t0",
+   "page_num": 9,
+   "bbox": [
+    14.0,
+    104.0,
+    543.0,
+    327.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_228113_t0.png",
+   "html": "<table><tr><td>Metric</td><td>Value</td><td>Change</td><td>DefaultRate</td><td>PeriodEnd</td></tr><tr><td>TotalTransactions</td><td>$500M</td><td>5%</td><td>1.5%</td><td colspan=\"2\">RiskMetrics</td></tr><tr><td>Charge-offRate</td><td>1.2%</td><td>DelinquencyRate</td><td>3.0%</td><td>RecoveryRate</td><td>85%</td></tr><tr><td>AverageTicketSize</td><td>$150</td><td>TotalUsers</td><td>10,000</td><td>NewUsers</td><td>1,200</td></tr><tr><td>MarketShare</td><td>15%</td><td>GrowthRate</td><td>20%</td><td>GeographicExpansion</td><td>Northeast</td></tr><tr><td>CustomerSatisfaction</td><td>90%</td><td>FraudRate</td><td>0.5%</td><td>ComplianceRate</td><td>100%</td></tr></table>"
+  },
+  {
+   "table_id": "img_228113_t1",
+   "page_num": 9,
+   "bbox": [
+    14.0,
+    384.0,
+    543.0,
+    525.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_228113_t1.png",
+   "html": "<table><tr><td colspan=\"2\">DigitalWalletMetrics</td><td>Q12024</td></tr><tr><td>TotalUsers</td><td>TransactionVolume</td><td>AvgTransactionValue</td></tr><tr><td>1,200,000</td><td>$150M</td><td>$125.00</td></tr><tr><td>NewUsers</td><td>TransactionsProcessed</td><td>GrowthRate</td></tr><tr><td>300,000</td><td>2,500,000</td><td>25%</td></tr><tr><td>ActiveUsers</td><td>RetentionRate</td><td>70%</td></tr></table>"
+  },
+  {
+   "table_id": "img_228113_t2",
+   "page_num": 9,
+   "bbox": [
+    14.0,
+    582.0,
+    543.0,
+    698.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_228113_t2.png",
+   "html": "<table><tr><td colspan=\"2\">FinancialRatios</td><td>Q12024</td></tr><tr><td colspan=\"2\">ProfitabilityMetrics</td><td>CurrentRatio</td></tr><tr><td colspan=\"2\">LiquidityRatios</td><td>Debt/Equity</td></tr><tr><td colspan=\"2\">ValuationMetrics</td><td>P/ERatio</td></tr><tr><td>NetProfitMargin</td><td>ReturnonEquity</td><td>OperatingMargin</td></tr><tr><td>15.2%</td><td>2.3</td><td>1.5</td></tr></table>"
+  },
+  {
+   "table_id": "img_228376_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    134.0,
+    580.0,
+    401.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_228376_t0.png",
+   "html": "<table><tr><td>Country</td><td>EnrollmentCount</td></tr><tr><td colspan=\"2\">OverallEnrollment</td><td>GrowthRate</td></tr><tr><td colspan=\"3\">TopCountries</td><td colspan=\"4\">AverageDuration</td><td colspan=\"2\">TotalRevenue</td></tr><tr><td>UnitedKingdom</td><td>25,000</td><td>15%</td><td>Germany</td><td>20,000</td><td>10%</td><td>France</td><td>15,000</td><td>12%</td></tr><tr><td>Spain</td><td>10,000</td><td>8%</td><td>Italy</td><td>8,000</td><td>5%</td><td>Netherlands</td><td>5,000</td><td>3%</td></tr><tr><td>TotalEnrollment</td><td>83,000</td><td>10%</td><td>AverageEnrolled</td><td>6months</td><td>TotalRevenue</td><td>£5.2M</td><td>ProjectedGrowth</td><td>15%</td></tr><tr><td>FutureInvestments</td><td>£1M</td><td>NewPrograms</td><td>5</td><td>ScholarshipsOffered</td><td>200</td><td>StudentSatisfaction</td><td>92%</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_228376_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    471.0,
+    580.0,
+    614.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_228376_t1.png",
+   "html": "<table><tr><td>CourseCompletionRate</td><td>75.3%</td></tr><tr><td>TotalEnrollments</td><td>500,000</td></tr><tr><td>Revenue(£M)</td><td>15.2%</td></tr><tr><td>Q32023</td><td>75.3%</td></tr><tr><td>Q32022</td><td>70.1%</td></tr><tr><td>YoYChange</td><td>5.2%</td></tr><tr><td>MarketShare</td><td>22.5%</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_011",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    424.9,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Improvement for reduction of catastrophic health expenditure in China"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    380.4,
+    107.6
+   ],
+   "ocr": "Table 3. Hospitalization expenses by department in the sample hospital in 2013."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.3,
+    713.1,
+    703.5
+   ],
+   "ocr": "Number of Minimum Hospitalization Maximum Hospitalization Average Hospitalization Standard Deviation of Average\nCases Expense(RMB) Expense(RMB) Expense(RMB) Hospitalization Expense(RMB)\nICU 248 186.64 486686.45 28750.95 51787.2\nTraditional Chinese 32 1130.01 15795.77 4996.28 2884.72\nMedicine\nBreast Surgery 5 565.32 15262.6 6949.13 4976.98\nPaediatrics 79 333.38 5822.1 2344.09 1335.67\nEndocrinology 1233 127.9 60900.76 7894.3 5153.31\nStomatology 330 199.91 97752.5 7157.89 7533.8\nRespiratory Medicine 1960 173.31 101698.48 7565.47 7501.4\nGynaecology and 1886 220.14 34160.71 4687.19 3911.52\nObstetrics\nRehabilitation 146 131.9 177151.84 14122.71 24157.87\nMedicine\nThoracic Surgery 621 134.9 137684.6 10730.15 15271.7\nCardiovascular 2740 225 271608.33 8513.02 12459.64\nMedicine\nEmergency 706 150.17 43871.84 3214.82 2615.05\nInfectious Disease 1 1428.75 1428.75 1428.75 0\nGeneral Surgery 1772 115.5 131670.92 9601.15 11970.26\nUrinary Surgery 960 231.9 48343.5 6928.39 6946.18\nGastroenterology 1986 138.72 71933.85 6338.98 5053.48\nPain management 433 375.41 51518.69 5821.77 4428.74\nDermatology 1734 117.9 63942.78 3043.67 2938.95\nOphthalmology 1538 122.5 37490.42 5220.38 3990.14\nNeurology 1886 136.4 343587.3 9137.82 14792.86\nOtolaryngological 1318 124.9 48310.65 5112.73 3356.82\nAnorectal 191 107.5 14567.98 3695 1597.91\nHepatobiliary Surgery 1311 130.35 82826.34 10649.46 11465.52\nNephrology 1197 322.5 157114.2 7184.78 7110.93\nAural Surgery 432 237.18 280548.06 19881.56 32877.56\nHematology & 1227 675.11 106990.84 11651.7 12232.82\nOncology\nRheumatism 270 127.74 59083.49 4760.05 5825.42\nOrthopedics I 624 230.9 140484.04 12108.38 13903.75\nOrthopedics III 383 94.2 70954.44 10429.84 11757.06\nOrthopedics II 741 140 281438.71 13717.25 21921.84\nBone Surgery 421 125.12 152150.07 10797.83 15146.8\nSum 28411 79.84 486686.45 8002.13 12209.65",
+   "table_id": "PMC5892907_table_2"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    711.6,
+    727.2,
+    826.3
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0194915.t003 after their logarithms are taken, they will be 4.38, 13.0954, 8.5158, and 0.9632 RMB, respec- tively. They will then be used into the function as parameters. hospitalization expense per case ¼ INTEGERðEXPðRANDOM NORMALð4:38; 2ÞÞ ð2Þ"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    313.0,
+    804.7,
+    662.9,
+    837.7
+   ],
+   "ocr": "13:0954; 8:5158; 0:9632; � Hospitalization treatment"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    823.4,
+    726.9,
+    898.4
+   ],
+   "ocr": "þ 0:5Þ As “Hospitalization treatment” has a value of 0 or 1, “hospitalization expense per case” is zero or non-zero. Only non-zero cases will be regarded as hospitalization that actually happens and included in the following simulation."
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0194915 April 10, 2018 6 / 21"
+  }
+ }
+}

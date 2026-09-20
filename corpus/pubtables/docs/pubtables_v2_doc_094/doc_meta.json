@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_094",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1564139_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    130.1,
+    615.3,
+    364.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1564139_table_0.png",
+   "html": "<table><tr><td></td><td>Nandina</td><td>Platanus</td></tr><tr><td>combined run data length</td><td>130503 bp</td><td>136335 bp</td></tr><tr><td>no. of combined data contigs</td><td>8</td><td>10</td></tr><tr><td>average contig length</td><td>16313 bp</td><td>13634 bp</td></tr><tr><td>size of largest contig</td><td>35901 bp</td><td>28803 bp</td></tr><tr><td>total no. of reads</td><td>31019</td><td>23743</td></tr><tr><td>average read length</td><td>103.6 bp</td><td>99.8 bp</td></tr><tr><td>overall average read depth (incl. one IR)</td><td>24.6&#215;</td><td>17.3&#215;</td></tr><tr><td>overall average read depth (incl. both IRs)</td><td>20.5&#215;</td><td>14.6&#215;</td></tr><tr><td>IR average read depth</td><td>24.2&#215;</td><td>28.2&#215;</td></tr><tr><td>SC average read depth</td><td>24.7&#215;</td><td>14.9&#215;</td></tr><tr><td>proportion of bases &#8805; Q40</td><td>99.8%</td><td>99.4%</td></tr><tr><td>no. of gaps</td><td>9</td><td>11</td></tr><tr><td>total gap length</td><td>34 bp</td><td>390 bp</td></tr><tr><td>average gap length</td><td>3.8 bp</td><td>35.5 bp</td></tr><tr><td>no. of zero-length gaps</td><td>7</td><td>5</td></tr><tr><td>size of largest gap</td><td>32 bp</td><td>170 bp</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1564139_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.1,
+    609.4,
+    273.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1564139_table_1.png",
+   "html": "<table><tr><td></td><td>Nandina</td><td>Platanus</td></tr><tr><td>total genome length</td><td>156599</td><td>161791</td></tr><tr><td>IR length</td><td>26062</td><td>25066</td></tr><tr><td>SSC length</td><td>19002</td><td>19509</td></tr><tr><td>LSC length</td><td>85473</td><td>92150</td></tr><tr><td>total length of coding sequence (both IRs)</td><td>92284</td><td>91397</td></tr><tr><td>total length of coding sequence (one IR)</td><td>75763</td><td>75716</td></tr><tr><td>total length of noncoding sequence (both IRs)</td><td>64315</td><td>70394</td></tr><tr><td>total length of noncoding sequence (one IR)</td><td>54774</td><td>61009</td></tr><tr><td>overall G/C content</td><td>38.3%</td><td>38.0%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1564139_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.1,
+    669.9,
+    740.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1564139_table_2.png",
+   "html": "<table><tr><td>Gene Class</td><td></td><td></td><td></td><td></td></tr><tr><td>Ribosomal RNAs</td><td>rrn4.5 (&#215;2)</td><td>rrn5 (&#215;2)</td><td>rrn16 (&#215;2)</td><td>rrn23 (&#215;2)</td></tr><tr><td rowspan=\"8\">Transfer RNAs</td><td>trnH-GUG</td><td>trnK-UUU*</td><td>trnQ-UUG</td><td>trnS-GCU</td></tr><tr><td>trnG-UCC*</td><td>trnR-UCU</td><td>trnC-GCA</td><td>trnD-GUC</td></tr><tr><td>trnY-GUA</td><td>trnE-UUC</td><td>trnT-GGU</td><td>trnS-UGA</td></tr><tr><td>trnG-GCC</td><td>trnfM-CAU</td><td>trnS-GGA</td><td>trnT-UGU</td></tr><tr><td>trnL-UAA*</td><td>trnF-GAA</td><td>trnV-UAC*</td><td>trnM-CAU</td></tr><tr><td>trnW-CCA</td><td>trnP-UGG</td><td>trnI-CAU (&#215;2)</td><td>trnL-CAA (&#215;2)</td></tr><tr><td>trnV-GAC (&#215;2)</td><td>trnI-GAU* (&#215;2)</td><td>trnA-UGC* (&#215;2)</td><td>trnR-ACG (&#215;2)</td></tr><tr><td>trnN-GUU (&#215;2)</td><td>trnL-UAG</td><td></td><td></td></tr><tr><td rowspan=\"2\">Photosystem I</td><td>psaA</td><td>psaB</td><td>psaC</td><td>psaI</td></tr><tr><td>psaJ</td><td></td><td></td><td></td></tr><tr><td rowspan=\"4\">Photosystem II</td><td>psbA</td><td>psbB</td><td>psbC</td><td>psbD</td></tr><tr><td>psbE</td><td>psbF</td><td>psbH</td><td>psbI</td></tr><tr><td>psbJ</td><td>psbK</td><td>psbL</td><td>psbM</td></tr><tr><td>psbN</td><td>psbT</td><td>psbZ</td><td></td></tr><tr><td rowspan=\"2\">Cytochrome b6/f</td><td>petA</td><td>petB*</td><td>petD*</td><td>petG</td></tr><tr><td>petL</td><td>petN</td><td></td><td></td></tr><tr><td rowspan=\"2\">ATP synthase</td><td>atpA</td><td>atpB</td><td>atpE</td><td>atpF*</td></tr><tr><td>atpH</td><td>atpI</td><td></td><td></td></tr><tr><td>NADH</td><td>ndhA*</td><td>ndhB* (&#215;2)</td><td>ndhC</td><td>ndhD</td></tr><tr><td rowspan=\"2\">dehydrogenase</td><td>ndhE</td><td>ndhF</td><td>ndhG</td><td>ndhH</td></tr><tr><td>ndhI</td><td>ndhJ</td><td>ndhK</td><td></td></tr><tr><td colspan=\"5\">Ribosomal proteins</td></tr><tr><td rowspan=\"3\">large subunit</td><td>rpl2* (&#215;2)</td><td>rpl14</td><td>rpl16*</td><td>rpl20</td></tr><tr><td>rpl22</td><td>rpl23 (&#215; 2)</td><td>rpl32</td><td>rpl33</td></tr><tr><td>rpl36</td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">small subunit</td><td>rps2</td><td>rps3</td><td>rps4</td><td>rps7 (&#215;2)</td></tr><tr><td>rps8</td><td>rps11</td><td>rps12* (&#215;2)</td><td>rps14</td></tr><tr><td>rps15</td><td>rps16*</td><td>rps18</td><td>rps19</td></tr><tr><td>RNA polymerase</td><td>rpoA</td><td>rpoB</td><td>rpoC1*</td><td>rpoC2</td></tr><tr><td>Miscellaneous</td><td>accD</td><td>ccsA</td><td>cemA</td><td>clpP*</td></tr><tr><td>proteins</td><td>infA</td><td>matK</td><td>rbcL</td><td></td></tr><tr><td>Hypothetical</td><td>ycf1</td><td>ycf2 (&#215;2)</td><td>ycf3*</td><td>ycf4</td></tr><tr><td>proteins</td><td colspan=\"3\">ycf15 (&#215;2; present in Nandina; &#936; in Platanus)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC1564139_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    358.9,
+    273.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1564139_table_3.png",
+   "html": "<table><tr><td>Region</td><td>Nandina</td><td>Platanus</td><td>combined</td></tr><tr><td>overall genome</td><td>0.043</td><td>0.031</td><td>0.037</td></tr><tr><td>overall SC</td><td>0.030</td><td>0.064</td><td>0.047</td></tr><tr><td>overall IR</td><td>0.054</td><td>0.004</td><td>0.029</td></tr><tr><td>overall coding</td><td>0.027</td><td>0.029</td><td>0.028</td></tr><tr><td>overall noncoding</td><td>0.085</td><td>0.036</td><td>0.062</td></tr><tr><td>SC coding</td><td>0.036</td><td>0.055</td><td>0.046</td></tr><tr><td>SC noncoding</td><td>0.000</td><td>0.161</td><td>0.057</td></tr><tr><td>IR coding</td><td>0.018</td><td>0.000</td><td>0.009</td></tr><tr><td>IR noncoding</td><td>0.115</td><td>0.011</td><td>0.063</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1564139_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    715.1,
+    675.6,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1564139_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Region</td><td colspan=\"2\">Nandina</td><td colspan=\"2\">Platanus</td><td colspan=\"2\">combined</td></tr><tr><td># errors</td><td>length (bp)</td><td># errors</td><td>length (bp)</td><td># errors</td><td>length (bp)</td></tr><tr><td>overall genome</td><td>20</td><td>46134</td><td>14</td><td>45249</td><td>34</td><td>91383</td></tr><tr><td>overall SC</td><td>6</td><td>20072</td><td>13</td><td>20183</td><td>19</td><td>40255</td></tr><tr><td>overall IR</td><td>14</td><td>26062</td><td>1</td><td>25066</td><td>15</td><td>51128</td></tr><tr><td>overall coding</td><td>9</td><td>33170</td><td>10</td><td>34006</td><td>19</td><td>67176</td></tr><tr><td>overall noncoding</td><td>11</td><td>12946</td><td>4</td><td>11243</td><td>15</td><td>24189</td></tr><tr><td>SC coding</td><td>6</td><td>16649</td><td>10</td><td>18325</td><td>16</td><td>34974</td></tr><tr><td>SC noncoding</td><td>0</td><td>3405</td><td>3</td><td>1858</td><td>3</td><td>5263</td></tr><tr><td>IR coding</td><td>3</td><td>16521</td><td>0</td><td>15681</td><td>3</td><td>32202</td></tr><tr><td>IR noncoding</td><td>11</td><td>9541</td><td>1</td><td>9385</td><td>12</td><td>18926</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1564139_table_5",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    676.4,
+    273.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1564139_table_5.png",
+   "html": "<table><tr><td></td><td>Nandina</td><td>Platanus</td><td>combined</td></tr><tr><td>proportion of length-variant HR errors</td><td>100.0</td><td>61.5</td><td>84.8</td></tr><tr><td>proportion of TLI HR errors</td><td>0.0</td><td>38.5</td><td>15.2</td></tr><tr><td>proportion of A/T HR errors</td><td>95.0</td><td>100.0</td><td>97.0</td></tr><tr><td>proportion of C/G HR errors</td><td>5.0</td><td>0.0</td><td>3.0</td></tr><tr><td>proportion of errors associated with HR sets</td><td>55.0</td><td>46.2</td><td>51.5</td></tr><tr><td>proportion of errors associated with HRs &#8805; 5</td><td>45.0</td><td>76.9</td><td>57.6</td></tr><tr><td>average length of HR associated with error</td><td>5.4</td><td>6.5</td><td>5.8</td></tr><tr><td>proportion of HR-associated insertion errors</td><td>85.0</td><td>69.2</td><td>78.8</td></tr><tr><td>proportion of HR-associated deletion errors</td><td>15.0</td><td>30.8</td><td>21.2</td></tr></table>"
+  }
+ ]
+}

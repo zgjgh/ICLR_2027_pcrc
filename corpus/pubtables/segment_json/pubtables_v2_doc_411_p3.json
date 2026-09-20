@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_411",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    488.7,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "A Method for Predicting Subnuclear Localizations"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.6,
+    397.6,
+    92.9
+   ],
+   "ocr": "Table 3. Comparison of the overall prediction accuracy between"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    401.4,
+    81.6,
+    579.3,
+    92.9
+   ],
+   "ocr": "different feature extraction methods."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    646.3,
+    247.3
+   ],
+   "ocr": "Grid search GFO\nFeature extraction method\nAc(%) CPU time (hr) Ac(%) CPU time (hr)\nCombination1 69.84 (59.76) 2.704 70.83 (62.50) 0.406\nRQA 53.57 (45.12) 2.174 52.98 (44.82) 0.413\nHHT 63.49 (60.37) 2.336 65.87 (64.63) 0.427\nPPDD 56.55 (53.35) 2.213 58.53 (59.15) 0.414\nDWT 57.54(52.74) 2.035 56.15 (50.91) 0.402\nCombination2 77.78 (70.12) 11.056 75.20 (69.82) 2.303",
+   "table_id": "PMC3584121_table_2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    260.5,
+    386.6,
+    963.6
+   ],
+   "ocr": "Note: the values on the new independent dataset are shown in the parentheses. doi:10.1371/journal.pone.0057225.t003 nuclear speckles and nucleolus is the worst one, which degrades the system performance. Comparison with the Existing Methods A comparison of the performance of our method (Combination2 ) against other existing methods on Lei dataset is illustrated in Table 4, where better results are highlighted in bold. It is seen that Combination2 achieves an overall accuracy of 77.8% (75.2%) for single-localization proteins against 50.0% of SVM Ensemble [1], against 66.5% of the GO-AA [21]. The measures Sn, Sp and MCC reveal that Combination2 is far better than SVM Ensemble on all subnuclear localizations, better than GO-AA on most subnuclear localizations except Nuclear Speckles and Nuclear Lamina. Note that SVM Ensemble and GO-AA did not give the results on the measure Sp. The measures Sn, Sp and MCC reveal that Combination2 is better than SpectrumKernel on most subnuclear localizations except Nuclear Speckles and Nucleolus. In order to make fair and reasonable comparison with the SpectrumKernel method [2], we test our method using 5-fold cross validation on Lei dataset. Its accuracies are 79.0% and 77.6%, which are both obviously higher than 71.2% of the Spectrum- Kernel method. As shown in Table 4, Combination2 achieves better performance on most small-size subnuclear localizations except Nuclear Speckles. The performance of our method on large-size subnuclear localizations Nucleolus is worse than SpectrumKernel; however it also achieves 93.6% (91.3%) for Sn, which outperforms SVM Ensemble (76.7%) and GO-AA (79.0%). Overall, the results show that our method has good generalization abilities in predicting subnuclear localizations regardless of the size of subnuclear localizations. In order to evaluate the performance of our method for multi- localization proteins, we use the same criterion as in [1,21,66]. For a protein with multi-localization, if one of the locations is predicted true, then the entire prediction is considered correct. For the independent set of multi-localization proteins, the overall accuracy of Combination2 is 76.1% (71.7%), 11.1% (6.7) higher than SVM Ensemble [1] and GO-AA [21]. The result reveals that a combination of feature extraction methods integrates more effectively information of the protein sequence to increase the prediction accuracy. Furthermore, comparing with GO-AA, our method only uses information on amino acids of the protein sequence, and do not use non-sequence information such as GO annotation, evolution- ary information (e.g. PSI-BLAST profile), protein-protein in- teraction and so on, which makes our method more general since the PSI-BLAST profile is difficult to obtain and GO annotation PLOS ONE | www.plosone.org"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    384.4,
+    298.9,
+    700.7,
+    963.6
+   ],
+   "ocr": "and protein-protein interaction may be missing for some proteins. In addition, SpectrumKernel is based on kernel fusion, which is computationally more intensive than sequence-based methods and is also time consuming for training on a novel query sequence. Furthermore, in order to make fair and reasonable comparison with Nuc-Ploc [26], we test our method using leave-one-out cross validation on SNL9 dataset. A web-server was designed in Nuc- Ploc [26] by fusing PseAA composition and PsePSSM. The detailed comparison results between our method and Nuc-Ploc are listed in Table 5. As shown in Table 5, the overall accuracy of prediction for 9 localizations is 72.1% in the leave-one-out cross validation on SNL9 dataset, which is about 4.7% higher than the overall accuracy obtained by Nuc-Ploc [26]. All MCCs of our method are higher than Nuc-Ploc except for heterochromatin. Analysis of Feature Contribution In order to observe the contribution of the individual feature extraction method to the overall prediction accuracy, we test some possible combinations of feature extraction methods. Here, we only report the second best combination for models using grid search and GFO, respectively. For grid search, Combina- tion1+HHT+DWT+PPDD is the second best combination, whose OA are 75.00% and 64.6% on Lei dataset and the new independent dataset. For GFO, Combination1+HHT +PPDD is the second best combination, whose OA are 72.02% and 64.0% on Lei dataset and the new independent dataset. Moreover, the paired t-test is applied to the MCC values of Combination2 and other individual methods to evaluate their differences on the new independent dataset. The resulting P- values are reported in Table 6. We can see that the P-values are smaller than 0.05 for all individual methods, indicating that Combination2 has made statistically significant improvements over any other individual method for the subnuclear localization prediction. Comparison with Other Popular Classifiers We will also compare our two-stage SVM with Random Forest (RF) classifier [67] as well as traditional ‘‘one-stage’’ SVM [62]. RF consists of a number of unpruned decision trees and is widely used for classification and regression, especially for so-called \"small n, large p\" problems [67]. It has two advantages: interpretable classification rules and measure information about the importance of features. Here, we use a Matlab package for implementing the RF algorithm [68]. Two parameters, number of trees to grow ntree and number of variables randomly sampled as candidates at each split mtry are optimized using a grid search approach. During the grid search, the values of ntree = 500:500:2000 and mtry = (default 6 February 2013 | Volume 8 | Issue 2 | e57225"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_083",
+  "page": 3,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.5,
+    40.3,
+    681.4,
+    51.8
+   ],
+   "ocr": "EJNMMI Physics 2018, 5(Suppl 1):19 Page 11 of 27"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    111.3,
+    681.5,
+    798.1
+   ],
+   "ocr": "Table 2 (abstract A12). Parameters used for the coincidence processor A13 Complementing Total Body PET by low dose Computed x-ray Tomography (CT) using photon counting, energy dispersive x-ray detectors York Haemisch1, Christer Ullberg2, Alex Stewart2, Korbinian Mechlem3, Sebastian Ehn3, Thorsten Sellerer3, Peter Noel4, Julia Herzen3, Franz Pfeiffer3 1Direct Conversion GmbH, Munich, Germany; 2Direct Conversion AB, Danderyd, Sweden; 3Technical University Munich, Dept. of Physics, Munich School of Bioengineering, Munich, Germany; 4Technical University Munich, Klinikum Rechts der Isar, Dept. of Radiology, Munich, Germany Correspondence: York Haemisch EJNMMI Physics 2018, 5(Suppl 1):A13 One of the strong arguments for Total Body PET is its better utilization of dose administered to the patient, thus enabling low dose studies as can be required in e.g. pediatrics or pregnant women. Since total body PET devices will usually be complemented by an x-ray CT, the question of better dose utilization/dose reduction arises for the X-ray transmission tomographic imaging modality too. Due to their better noise characteristics, the use of photon counting, energy dispersive x-ray detectors in (low dose) CT was first proposed a while ago [1-3] and detector developments such as MEDIPIX [4] have further sparked recent interest. The first experimental systems have been installed by major clinical imaging manufacturers [5-7]. Despite some initial difficulties, there seems to be consensus that this technology will play a major role in the future [8]. Over the last dec- ade we have been developing hybrid photon counting, energy dis- persive x-ray detectors based on a pixelated CdTe sensor layer and an CMOS-ASIC processing layer that are coupled 1:1 with a pixel di- mension of 100 μm2 [9,10]. For their use in clinical CT, the ability to Fig. 1 (abstract A12). Performance of the coincidence processor. count at clinical photon flux rates (up to 109 photons/mm2 s), as well The error bar represents the standard deviation of 10 individual runs as the correction of undesired effects such as charge sharing between pixels and hole cloud build-up in the detector material are essential features to enable high quality (clinical) imaging. The ability to determine energy levels by thresholding allows the elimination of very low energy counts, thus reducing noise levels and enabling sig- nificant dose reductions compared to integrating detectors [11]. Cur- rently, our detectors provide measures to sort events into two energy bins; a next generation of detectors will allow sorting in up to six energy bins. As is the case in emission tomography, X-ray CT image formation is performed in a processing chain, comprising detector, detector mod- elling, physical and geometric corrections, reconstruction and image representation [12]. With the transition from integrating to photon counting detection an adaptation of this chain is mandatory in order to obtain best image quality and to utilize the dose reduction poten- tial. In particular, iterative reconstruction techniques are playing a crucial role in utilizing the full potential of the photon-counting mode [13]. The latest status of the technology will be demonstrated, and image examples from first (tomographic) photon counting de- vices in conjunction with iterative reconstruction techniques will illus- trate the potential for dose reduction. References 1. Shikhaliev O M, Xu T, Molloi S. Photon counting computed tomography: Concept and initial results. J. Med. Phys. 2005; 32: 427-436 2. Niederloehner D, Nachtrab F, Michel T, Anton G. Using the Medipix2"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.9,
+    367.1,
+    220.0
+   ],
+   "ocr": "PARAMETER\nEnergy window 430 - 712 keV\nTime window fixed (8.0 ns) followed by variable (3.5 to 8.0 ns)\nTransaxial FOV restrictions 686 mm\nAxial FOV restrictions restricted via the variable time window\nCoincidence policy Multiple Window, takeAllGoods",
+   "table_id": "PMC6023806_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    791.5,
+    332.3,
+    803.0
+   ],
+   "ocr": "Fig. 2 (abstract A12). Number of computer nodes needed to"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    400.5,
+    798.9,
+    661.4,
+    809.5
+   ],
+   "ocr": "Detector for Photon Counting Computed Tomography. IEEE Nuclear"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    803.2,
+    321.3,
+    814.4
+   ],
+   "ocr": "achieve near real-time coincidence processing performance"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    400.5,
+    810.3,
+    616.8,
+    820.9
+   ],
+   "ocr": "Science Symposium Conference Record 2005; 2327-2331"
+  }
+ }
+}

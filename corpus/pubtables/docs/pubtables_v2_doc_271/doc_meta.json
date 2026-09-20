@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_271",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1431701_table_0",
+   "page_num": 1,
+   "bbox": [
+    68.3,
+    159.5,
+    304.3,
+    319.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1431701_table_0.png",
+   "html": "<table><tr><td>Classification</td><td>n</td></tr><tr><td>Kinase-like</td><td>527</td></tr><tr><td>Phosphatase-like</td><td>160</td></tr><tr><td colspan=\"2\">Transcript evidence</td></tr><tr><td>Observed transcript</td><td>680</td></tr><tr><td>Gene predictions</td><td>7</td></tr><tr><td colspan=\"2\">Gene architecture</td></tr><tr><td>Multi-exon</td><td>679</td></tr><tr><td>Single exon</td><td>8</td></tr><tr><td>Total</td><td>687</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1431701_table_1",
+   "page_num": 1,
+   "bbox": [
+    393.9,
+    159.5,
+    630.1,
+    319.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1431701_table_1.png",
+   "html": "<table><tr><td>Transcript support</td><td>5' end</td><td>3' end</td></tr><tr><td>FANTOM3</td><td>3,211</td><td>3,211</td></tr><tr><td>PUBLIC</td><td>2,666</td><td>2,666</td></tr><tr><td>5' ESTs</td><td>20,866</td><td>-</td></tr><tr><td>3' ESTs</td><td>-</td><td>32,166</td></tr><tr><td>Public ESTs</td><td>41,543</td><td>15,989</td></tr><tr><td>GIS</td><td>1,279</td><td>1,279</td></tr><tr><td>GSC</td><td>27,616</td><td>27,616</td></tr><tr><td>CAGE</td><td>162,707</td><td>-</td></tr><tr><td>Total count</td><td>259,888</td><td>82,927</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1431701_table_3",
+   "page_num": 2,
+   "bbox": [
+    71.9,
+    367.2,
+    656.1,
+    511.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1431701_table_3.png",
+   "html": "<table><tr><td>Intron</td><td>Type</td><td>Count</td><td>MGI symbol</td></tr><tr><td rowspan=\"2\">1</td><td>ME_exon</td><td>16</td><td>Abl1, Adck1, Brd4, Dusp14, Mark2, Pak1, Pdp1, Pkn3, Prkacb, Prkar1a, Ptp4a3, Ptprs, Raf1, Riok2, Sgk, Srpk2</td></tr><tr><td>Intronic</td><td>9</td><td>Acvrl1, Ccrk, Cdk9, Ntrk2, Pim3, Ppp4c, Prkcn, Prkwnk1</td></tr><tr><td rowspan=\"2\">2</td><td>ME_exon</td><td>1</td><td>Sgk3</td></tr><tr><td>Intronic</td><td>1</td><td>Ptp4a2</td></tr><tr><td rowspan=\"2\">3-4</td><td>ME_exon</td><td>6</td><td>Mast3, Limk2, Pak6, Pftk1, Pkn1, Prkcz</td></tr><tr><td>Intronic</td><td>0</td><td></td></tr><tr><td rowspan=\"2\">5&gt;</td><td>ME_exon</td><td>6</td><td>Dcamkl1, Lats2, Plk1, Ptprd, Tns1, Tns3, Ttn</td></tr><tr><td>Intronic</td><td>2</td><td>Mylk, Ptpro</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1431701_table_5",
+   "page_num": 3,
+   "bbox": [
+    71.9,
+    322.7,
+    598.4,
+    733.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1431701_table_5.png",
+   "html": "<table><tr><td>MGD symbol</td><td>Transcripts</td><td>Catalytic</td><td>Accessory domains removed</td></tr><tr><td>B230120H23Rik</td><td>AB049732</td><td>+</td><td>SAM, H+ transporter IPR000194</td></tr><tr><td>Bmp2k</td><td>AK046752</td><td>+</td><td>IPR011051 RmlC-like cupin</td></tr><tr><td>Camk2d</td><td>AK032524</td><td>+</td><td>NTF2</td></tr><tr><td>Dcamkl1</td><td>AK032424</td><td>+</td><td>Doublecortin domain</td></tr><tr><td>Ddr2</td><td>AK132504</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Irak2</td><td>AY162380</td><td>+</td><td>Death domain</td></tr><tr><td>Jak1</td><td>BC031297</td><td>+</td><td>SH2, Band4.1/Ferm</td></tr><tr><td>Map3k14</td><td>AF143094</td><td></td><td>omega toxin-like. (SSF57059)</td></tr><tr><td>Mapk8</td><td>AB005663</td><td>+</td><td>H+ transporter IPR000194</td></tr><tr><td>Mast1</td><td>AK141034</td><td>+</td><td>PDZ domain (IPR001478).</td></tr><tr><td>Pik3r4</td><td>AK042361</td><td>+</td><td>ARM repeat fold, WD40 repeats and HEAT repeats.</td></tr><tr><td>Plk4</td><td>AK045082</td><td>+</td><td>C-terminal polo-box domain</td></tr><tr><td>Ppm1a</td><td>AF369981</td><td>+</td><td>SSF81601 Protein serine/threonine phosphatase 2C, C-terminal</td></tr><tr><td>Prkx</td><td>AK039088</td><td>+</td><td>Protein kinase c terminal domain(IPR000961)</td></tr><tr><td>Ptpn21</td><td>D83072</td><td>+</td><td>Band4.1/Ferm</td></tr><tr><td>Ptprb</td><td>AF157628</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Ptprd</td><td>BC025145</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Ptpre</td><td>U36758</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Ptprg</td><td>AK144283</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Ptprs</td><td>AK159320</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Ptpro</td><td>U37466</td><td>+</td><td>Ligand binding ectodomain</td></tr><tr><td>Rps6kc1</td><td>BC058403</td><td>+</td><td>MIT, PX</td></tr><tr><td>Stk36</td><td>AK007188</td><td>+</td><td>ARM repeat fold</td></tr><tr><td>Tns1</td><td>AK053112</td><td>+</td><td>SH2 and pleckstrin homology/phosphotyrosine interaction domain</td></tr><tr><td>Zap70</td><td>AB083210</td><td>+</td><td>SH2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1431701_table_6",
+   "page_num": 4,
+   "bbox": [
+    68.3,
+    159.5,
+    634.6,
+    460.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1431701_table_6.png",
+   "html": "<table><tr><td>MGD symbol</td><td>Transcripts</td><td>Catalytic</td><td>Accessory domains in noncatalytic form</td></tr><tr><td>Araf</td><td>AK133797</td><td>-</td><td>Ras-binding domain (IPR003116), PKC PE/DAG binding domain (IPR002219)</td></tr><tr><td>Camk2a</td><td>X87142</td><td>-</td><td>C-terminal SSF54427 domain</td></tr><tr><td>Cwf19l1</td><td>AK088543</td><td>-</td><td>CwfJ domain only</td></tr><tr><td>D10Ertd802e</td><td>AK139747</td><td>-</td><td>ARM repeat fold only</td></tr><tr><td>Dcamkl1</td><td>AK043874</td><td>-</td><td>Doublecortin domain</td></tr><tr><td>Dusp16</td><td>AK035652</td><td>-</td><td>Rhodanese domain only</td></tr><tr><td>Egfr</td><td>BC023729</td><td>-</td><td>Ligand binding ectodomain</td></tr><tr><td>Eif2ak3</td><td>AK010397</td><td>-</td><td>Quinonprotein alcohol dehydrogenase-like motif (IPR011047)</td></tr><tr><td>Ksr</td><td>AK164833</td><td>-</td><td>PKC PE/DAG (IPR002219)</td></tr><tr><td>Map2k5</td><td>BC013697</td><td>-</td><td>Octicosapeptide/Phox/Bem1p domain (IPR000270).</td></tr><tr><td>Map3k14</td><td>AK006468</td><td>-</td><td>Omega toxin-like (SSF57059)</td></tr><tr><td>Mark3</td><td>AK075742, BC026445</td><td>-</td><td>Ubiquitin associated domain and kinase associated c-terminal domain</td></tr><tr><td>Mast2</td><td>AK004728</td><td>-</td><td>PDZ</td></tr><tr><td>Mtm1</td><td>AK149997</td><td>-</td><td>Gram</td></tr><tr><td>Prkwnk1</td><td>BB619950</td><td>-</td><td>TONB box, site specific DNA methyltransferase</td></tr><tr><td>Ptpn14</td><td>AF170902</td><td>-</td><td>Band4.1/Ferm and Pleckstrin homology</td></tr><tr><td>Syk</td><td>AK036736</td><td></td><td>SH2</td></tr><tr><td>Tns1</td><td>AK004758</td><td>-</td><td>SH2 and pleckstrin homology/phosphotyrosine interaction domain</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1431701_table_7",
+   "page_num": 5,
+   "bbox": [
+    71.9,
+    159.5,
+    697.7,
+    252.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1431701_table_7.png",
+   "html": "<table><tr><td>Type</td><td>Loci</td><td>Novel</td><td>Knowna</td></tr><tr><td>Secreted</td><td>Alk, Csf1ra, Egfrab, Epha1b, Epha3a, Epha5, Epha7b, Epha10a, Ephb1, Flt1ab, Flt3b, Insr, Insrr, Kdr, Met, Ptk7, Ptprc, Ptprdb, Ptprgb, Ptprkab, Ptprn, Ptprn2, Ptprob, Ptprr, Ptprsb, Ptprz1ab</td><td>19</td><td>7</td></tr><tr><td>Tethered</td><td>Axlb, Bmpr1a, Csf1r, Epha4, Epha5, Epha6, Epha7ab, Ntrk2ab, Ntrk3a, Pdgfraab, Ptprk, Ptprm, Ptpru</td><td>9</td><td>4</td></tr><tr><td>Tmcat</td><td>Axl, Ddr2, Epha6, Igf1r, Kit, Ntrk1, Ptprb, Ptprea, Ptproa, Ptprra, Ptpru, Ror2, Tgfbr1</td><td>10</td><td>3</td></tr><tr><td>Catalytic</td><td>Acvr1c, Csf1r, Epha10, Fgfr1, Fgfr2, Kita, Mertk, Ptprea, Ptprgb, Ptprm, Ptproa, Ptprs</td><td>9</td><td>3</td></tr></table>"
+  }
+ ]
+}

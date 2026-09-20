@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_118",
+  "page": 2,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    57.3,
+    677.7,
+    81.3
+   ],
+   "ocr": "Hackenberg et al. BMC Genomics 2010, 11:327 Page 5 of 14 http://www.biomedcentral.com/1471-2164/11/327"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    76.4,
+    159.3,
+    353.9,
+    533.5
+   ],
+   "ocr": "No. of predicted islands log (p-value) Window length\n193,856 5.06509 200\n139,013 6.1864 250\n109,907 7.19943 300\n69,477 9.82744 350\n52,687 11.85626 400\n42,392 13.73824 450\n37,293 14.96788 500\n33,691 15.95388 550\n30,881 16.8824 600\n28,162 18.18919 650\n26,192 19.45203 700",
+   "table_id": "PMC2887419_table_1"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    556.6,
+    365.8,
+    574.9
+   ],
+   "ocr": "edge of the methylation state in a vast number of different"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    568.0,
+    678.4,
+    601.4
+   ],
+   "ocr": "the CpGcluster strict set now shows the highest PPV, tissues, the number of \"false positive predictions\" cannot while the relaxed set shows the lowest one. Table 4 seems"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    71.3,
+    586.9,
+    189.6,
+    605.1
+   ],
+   "ocr": "be assessed in this way."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    598.2,
+    678.4,
+    706.4
+   ],
+   "ocr": "to confirm this trend when using unmethylated regions We therefore based our quality assessment on sensitiv- which are mainly related to promoters [26]. These results ity, a measure not dependent on the false positive rate, as indicate that CpGcluster is either the most sensitive or well as on the estimation of the lower bound for the posi- the most specific algorithm, depending on the applied p- p-value 0.5 Window length p-value"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    91.5,
+    703.5,
+    652.4,
+    732.8
+   ],
+   "ocr": "0.6 Window length region)"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    91.5,
+    734.7,
+    419.3,
+    792.5
+   ],
+   "ocr": "(promoter (Alus) 0.4 coverage 0.3 fraction"
+  },
+  "p2_b8": {
+   "type": "title",
+   "bbox": [
+    91.5,
+    792.7,
+    404.9,
+    820.2
+   ],
+   "ocr": "Mean Overlap"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    78.9,
+    821.4,
+    669.9,
+    930.2
+   ],
+   "ocr": "0.1 0.1 0.0 180000 150000 120000 90000 60000 30000 Number of predicted islands 180000 150000 120000 90000 60000 30000 Number of predicted islands Figure 3 Variation of the overlap fraction of predicted islands with RefSeq promoter regions. The different sets of predicted islands Figure 5 Variation of the mean coverage by Alus in different pre- have been obtained by varying the CpGcluster p-value and the SWA dicted island-sets obtained by varying the CpGcluster p-value and window length. the SWA window length."
+  }
+ }
+}

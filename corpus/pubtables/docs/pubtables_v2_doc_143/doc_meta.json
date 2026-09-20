@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_143",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3315423_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    744.2,
+    644.0,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3315423_table_0.png",
+   "html": "<table><tr><td>Centre</td><td>A</td><td>B</td><td>C</td></tr><tr><td>MR scanner</td><td>GE Signa NVi/CVi 1.5 T</td><td>GE Signa LX 1.5 T</td><td>GE Signa 1.5 T</td></tr><tr><td>Head coil</td><td>8-channel</td><td>8-channel</td><td>8-channel</td></tr><tr><td>Acceleration factor</td><td>No</td><td>No</td><td>No</td></tr><tr><td>TR (ms)</td><td>5.9</td><td>8.9</td><td>5.9</td></tr><tr><td>TE (ms)</td><td>1.9</td><td>3.3</td><td>1.4</td></tr><tr><td>TI (ms)</td><td>600</td><td>600</td><td>600</td></tr><tr><td>Flip angle (&#176;)</td><td>15</td><td>15</td><td>15</td></tr><tr><td>Image size (voxels)</td><td>256 &#215; 256 &#215; 124</td><td>256 &#215; 256 &#215; 124</td><td>256 &#215; 256 &#215; 125</td></tr><tr><td>Voxel size (mm3)</td><td>0.86 &#215; 0.86 &#215; 1.7</td><td>0.86 &#215; 0.86 &#215; 1.7</td><td>0.86 &#215; 0.86 &#215; 1.8</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3315423_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    128.9,
+    671.8,
+    289.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3315423_table_1.png",
+   "html": "<table><tr><td>Centre</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>MR scanner</td><td>GE 3 T HD</td><td>GE 3 T HDx</td><td>Siemens 3 T Tim Trio</td><td>Siemens 3 T Tim Trio</td><td>Philips 3 T Intera-Achieva</td></tr><tr><td>Head coil</td><td>8-channel</td><td>8-channel</td><td>8-channel</td><td>12-channel</td><td>8-channel</td></tr><tr><td>Acceleration factor</td><td>No</td><td>ASSET factor 2</td><td>No</td><td>No</td><td>SENSE factor 2</td></tr><tr><td>TR (ms)</td><td>6.5</td><td>7.0</td><td>9.0</td><td>9.4</td><td>8.2</td></tr><tr><td>TE (ms)</td><td>1.50</td><td>2.85</td><td>2.98</td><td>4.66</td><td>3.80</td></tr><tr><td>TI (ms)</td><td>500</td><td>650</td><td>900</td><td>900</td><td>885</td></tr><tr><td>Flip angle (&#176;)</td><td>12</td><td>8</td><td>9</td><td>8</td><td>8</td></tr><tr><td>Image size (voxels)</td><td>260 &#215; 260 &#215; 160</td><td>260 &#215; 260 &#215; 160</td><td>256 &#215; 256 &#215; 160</td><td>256 &#215; 256 &#215; 160</td><td>256 &#215; 256 &#215; 160</td></tr><tr><td>Voxel size (mm3)</td><td>1.1 &#215; 1.1 &#215; 1</td><td>1.1 &#215; 1 &#215; 1</td><td>1 &#215; 1 &#215; 1</td><td>1 &#215; 1 &#215; 1</td><td>1 &#215; 1 &#215; 1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3315423_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    127.4,
+    658.3,
+    255.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3315423_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Centre/Visit</td><td colspan=\"2\">GM volume (cm3)</td><td colspan=\"2\">WM volume (cm3)</td><td colspan=\"2\">CSF volume (cm3)</td></tr><tr><td>Brainvisa</td><td>FAST</td><td>Brainvisa</td><td>FAST</td><td>Brainvisa</td><td>FAST</td></tr><tr><td>A/1</td><td>259 &#177; 35</td><td>275 &#177; 36</td><td>296 &#177; 45</td><td>253 &#177; 44</td><td>87 &#177; 18</td><td>132 &#177; 20</td></tr><tr><td>A/2</td><td>259 &#177; 34</td><td>270 &#177; 32</td><td>293 &#177; 47</td><td>249 &#177; 39</td><td>89 &#177; 20</td><td>127 &#177; 16</td></tr><tr><td>B/1</td><td>322 &#177; 65</td><td>286 &#177; 34</td><td>274 &#177; 29</td><td>234 &#177; 33</td><td>62 &#177; 21</td><td>153 &#177; 18</td></tr><tr><td>B/2</td><td>321 &#177; 68</td><td>285 &#177; 35</td><td>274 &#177; 24</td><td>236 &#177; 34</td><td>64 &#177; 19</td><td>151 &#177; 21</td></tr><tr><td>C/1</td><td>249 &#177; 31</td><td>274 &#177; 38</td><td>288 &#177; 48</td><td>243 &#177; 41</td><td>96 &#177; 28</td><td>131 &#177; 23</td></tr><tr><td>C/2</td><td>247 &#177; 34</td><td>270 &#177; 32</td><td>293 &#177; 51</td><td>239 &#177; 38</td><td>96 &#177; 26</td><td>128 &#177; 15</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3315423_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.7,
+    321.4,
+    638.3,
+    515.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3315423_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Centre/Visit</td><td colspan=\"2\">GM volume (cm3)</td><td colspan=\"2\">WM volume (cm3)</td><td colspan=\"2\">CSF volume (cm3)</td></tr><tr><td>Brainvisa</td><td>FAST</td><td>Brainvisa</td><td>FAST</td><td>Brainvisa</td><td>FAST</td></tr><tr><td>D/1</td><td>308 &#177; 31</td><td>298 &#177; 20</td><td>249 &#177; 29</td><td>228 &#177; 20</td><td>93 &#177; 17</td><td>112 &#177; 12</td></tr><tr><td>D/2</td><td>294 &#177; 25</td><td>293 &#177; 19</td><td>264 &#177; 28</td><td>227 &#177; 18</td><td>91 &#177; 14</td><td>116 &#177; 15</td></tr><tr><td>E/1</td><td>324 &#177; 28</td><td>282 &#177; 17</td><td>250 &#177; 42</td><td>211 &#177; 19</td><td>111 &#177; 21</td><td>111 &#177; 15</td></tr><tr><td>E/2</td><td>310 &#177; 27</td><td>271 &#177; 20</td><td>268 &#177; 31</td><td>202 &#177; 17</td><td>105 &#177; 11</td><td>130 &#177; 16</td></tr><tr><td>F/1</td><td>328 &#177; 36</td><td>309 &#177; 22</td><td>241 &#177; 23</td><td>245 &#177; 21</td><td>105 &#177; 11</td><td>122 &#177; 15</td></tr><tr><td>F/2</td><td>311 &#177; 32</td><td>312 &#177; 21</td><td>278 &#177; 43</td><td>246 &#177; 22</td><td>94 &#177; 13</td><td>129 &#177; 14</td></tr><tr><td>G/1</td><td>332 &#177; 39</td><td>298 &#177; 18</td><td>247 &#177; 28</td><td>232 &#177; 16</td><td>87 &#177; 18</td><td>144 &#177; 13</td></tr><tr><td>G/2</td><td>314 &#177; 37</td><td>295 &#177; 19</td><td>261 &#177; 28</td><td>232 &#177; 18</td><td>88 &#177; 18</td><td>143 &#177; 18</td></tr><tr><td>H/1</td><td>321 &#177; 30</td><td>301 &#177; 17</td><td>267 &#177; 34</td><td>245 &#177; 20</td><td>87 &#177; 26</td><td>136 &#177; 13</td></tr><tr><td>H/2</td><td>346 &#177; 38</td><td>299 &#177; 18</td><td>237 &#177; 34</td><td>244 &#177; 19</td><td>87 &#177; 17</td><td>133 &#177; 14</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3315423_table_4",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    586.0,
+    658.0,
+    894.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3315423_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">1.5 T Group</td><td colspan=\"3\">3 T Group</td></tr><tr><td>Centre</td><td>Visit</td><td>Centre*visit</td><td>Centre</td><td>Visit</td><td>Centre*visit</td></tr><tr><td>GM volume</td><td>&lt; 0.001</td><td>0.272</td><td>0.875</td><td>&lt; 0.001</td><td>0.015</td><td>&lt; 0.001</td></tr><tr><td>WM volume</td><td>&lt; 0.001</td><td>0.624</td><td>0.642</td><td>0.036</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td>CSF volume</td><td>0.013</td><td>0.311</td><td>0.993</td><td>&lt; 0.001</td><td>0.003</td><td>0.535</td></tr><tr><td>Cerebral</td><td>&lt; 0.001</td><td>0.739</td><td>0.285</td><td>&lt; 0.001</td><td>0.599</td><td>0.109</td></tr><tr><td colspan=\"7\">Hemisphere</td></tr><tr><td colspan=\"7\">Volume</td></tr><tr><td>GSI</td><td>0.017</td><td>0.011</td><td>0.024</td><td>0.203</td><td>0.088</td><td>0.094</td></tr><tr><td colspan=\"7\">Sulcal surface</td></tr><tr><td>Global</td><td>0.827</td><td>0.895</td><td>0.885</td><td>&lt; 0.001</td><td>0.777</td><td>0.843</td></tr><tr><td>Local</td><td>0.821</td><td>0.909</td><td>0.808</td><td>&lt; 0.001</td><td>0.673</td><td>0.807</td></tr><tr><td>Markovian</td><td>0.778</td><td>0.855</td><td>0.944</td><td>&lt; 0.001</td><td>0.486</td><td>0.865</td></tr><tr><td>Talairach</td><td>0.847</td><td>0.792</td><td>0.925</td><td>&lt; 0.001</td><td>0.847</td><td>0.863</td></tr><tr><td colspan=\"7\">Sulcal mean</td></tr><tr><td colspan=\"7\">geodesic depth</td></tr><tr><td>Global</td><td>0.887</td><td>0.754</td><td>0.547</td><td>0.028</td><td>0.937</td><td>0.649</td></tr><tr><td>Local</td><td>0.573</td><td>0.820</td><td>0.574</td><td>0.002</td><td>0.121</td><td>0.943</td></tr><tr><td>Markovian</td><td>0.742</td><td>0.422</td><td>0.603</td><td>0.001</td><td>0.182</td><td>0.381</td></tr><tr><td>Talairach</td><td>0.574</td><td>0.427</td><td>0.857</td><td>0.006</td><td>0.956</td><td>0.711</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3315423_table_5",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    795.6,
+    637.1,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3315423_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"2\">1.5 T Group</td><td colspan=\"2\">3 T Group</td></tr><tr><td>Between-visit</td><td>Between-centre</td><td>Between-visit</td><td>Between-centre</td></tr><tr><td>GM volume</td><td>0.92</td><td>0.36</td><td>0.29</td><td>0.25</td></tr><tr><td>WM volume</td><td>0.95</td><td>0.67</td><td>0.13</td><td>0.15</td></tr><tr><td>CSF volume</td><td>0.90</td><td>0.50</td><td>0.55</td><td>0.34</td></tr><tr><td>Cerebral hemisphere volume</td><td>0.99</td><td>0.97</td><td>0.96</td><td>0.88</td></tr><tr><td>GSI</td><td>0.75</td><td>0.13</td><td>0.62</td><td>0.43</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3315423_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    750.0,
+    653.5,
+    930.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3315423_table_6.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"2\">1.5 T</td><td colspan=\"2\">3 T</td></tr><tr><td>Between- visit</td><td>Between- centre</td><td>Between- visit</td><td>Between- centre</td></tr><tr><td colspan=\"5\">Surface</td></tr><tr><td>Global</td><td>0.54</td><td>0.44</td><td>0.66</td><td>0.56</td></tr><tr><td>Local</td><td>0.51</td><td>0.42</td><td>0.62</td><td>0.52</td></tr><tr><td>Markovian</td><td>0.60</td><td>0.52</td><td>0.73</td><td>0.64</td></tr><tr><td>Talairach</td><td>0.41</td><td>0.35</td><td>0.47</td><td>0.39</td></tr><tr><td colspan=\"5\">Mean geodesic depth</td></tr><tr><td>Global</td><td>0.51</td><td>0.43</td><td>0.65</td><td>0.57</td></tr><tr><td>Local</td><td>0.47</td><td>0.41</td><td>0.61</td><td>0.51</td></tr><tr><td>Markovian</td><td>0.52</td><td>0.46</td><td>0.66</td><td>0.58</td></tr><tr><td>Talairach</td><td>0.40</td><td>0.34</td><td>0.48</td><td>0.40</td></tr></table>"
+  }
+ ]
+}

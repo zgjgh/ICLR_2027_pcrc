@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_365",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Chase et al. BioMedical Engineering OnLine 2010, 9:84 Page 13 of 18 http://www.biomedical-engineering-online.com/content/9/1/84"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    148.2,
+    110.3,
+    601.8,
+    765.0
+   ],
+   "ocr": "by 2.5/1.8 the per-protocol versus actual measurement increase in insulin administered yields an estimated 2.4× increase in insulin use to offset this increased carbohydrate administration. Hence, the increased insulin in cross validation in Table 4 is primarily due to the increased carbohydrate administered to Group B. Comparison of clinical trials with self validation and cross validation on Glucontrol B is summarized in Table 5. Self validation results show close agreement to the clinical result and for cross validation lower Group A insulin requirements are reflected by the lower nutrition given that group and the higher target BG target under the Glucontrol B protocol, which is similar to the difference in insulin in the cross validation in Table 4 but in the reverse direction. Similarly, virtual trials of Glucontrol B per protocol have higher measurement frequency compared to the actual measurement indicating signifi- cant non-compliance. Thus, the actual measurement case indicates closer agreement with the insulin given and glycemic outcomes, as with the Glucontrol A results. Discussion This paper focuses on the Glucontrol protocol from one centre (Liege, Belgium; pilot centre). Glucontrol was a multi-centre study stopped early due to a high rate of unin- tended protocol violations [26]. Hence, some self-validation errors may be the result of poor compliance, as seen in the results of Tables 4 and 5, and thus the different virtual trials can capture that reality. Patient-specific compliance levels ranged from 100% compliance to 20%. However, these values are skewed by length of stay and initial gly- cemic levels among other possible factors, and thus per-patient statistics are only broadly meaningful. The clinical data was independent from the Christchurch Hospital ICU data used in prior development and clinical validation of the model employed here. More impor- tantly, there are 2 cohorts matched by severity of illness, weight and sex, which had significantly different glycemic targets and glycemic control therapies. In addition, Fig- ure 4 shows that cohorts appear well matched in their metabolic dynamics and varia- bility which is the critical aspect for this study as it determines the outcome glycemia and variability for a set of given interventions. One possible limitation is that unequal numbers of virtual patients are created from each cohort (A = 142 of 175 are used; B = 69 of 175), as seen in Figure 1. The reason is that the higher glycemic target of Glucontrol B, and lower compliance, meant that Table 5 Comparison of per-patient clinical results and virtual trial simulations (self- validation and cross validation) on Glucontrol B. Clinical and actual measurements were taken 63.5% of the potential per-protocol specified times based on glycemic results. Median [IQR] is used where appropriate"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    148.2,
+    769.9,
+    597.1,
+    919.4
+   ],
+   "ocr": "Self validation Cross validation\nClinical Actual measurement Per protocol Per protocol\nNo. of patients 69 69 69 142\nPer Patient Results\nInsulin rate (U/h) 0.6 [0.3 - 1.2] 0.5 [0.2 - 1.0] 0.6 [0.2 - 1.4] 0.2 [0.0 - 0.8]\nGlucose rate (g/h) 2.9 [0.7 - 7.4] 2.9 [0.7 - 7.4] 2.9 [0.7 - 7.4] 1.1 [0.5 - 7.5]\nBG (mmol/L) 8.3 [7.6 - 8.8] 8.4 [7.8 - 9.1] 8.7 [8.1 - 9.5] 8.3 [7.4 - 9.1]\nBG measures 2820 2820 4448 5772\nMeasurement frequency 5.23 5.23 8.23 8.23\n(measurement/patient/day)",
+   "table_id": "PMC3224899_table_4"
+  }
+ }
+}

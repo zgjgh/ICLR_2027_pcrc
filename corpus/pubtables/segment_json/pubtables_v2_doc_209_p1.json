@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_209",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.1,
+    681.0,
+    52.7
+   ],
+   "ocr": "Huang et al. SpringerPlus (2016) 5:1138 Page 17 of 24"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    156.6,
+    282.5,
+    305.9,
+    295.0
+   ],
+   "ocr": "Fig. 9 Workflow structure of Matmul"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    330.8,
+    507.5,
+    344.9
+   ],
+   "ocr": "Table 1 Average makespan (s) for Matmul structure of equal workloads"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    148.6,
+    352.4,
+    602.7,
+    448.7
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 188,162 136,645 111,903 78,397\nMCPA 117,603 84,003 67,203 58,802\nMCPA2 117,603 84,003 67,203 58,802\nCPR 117,603 84,003 67,203 58,802\nIAES 117,603 84,003 67,203 58,802",
+   "table_id": "PMC4954800_table_0"
+  },
+  "p1_b4": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    488.4,
+    459.6,
+    502.5
+   ],
+   "ocr": "Table 2 Average SLR for Matmul structure of equal workloads"
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    148.6,
+    510.3,
+    602.7,
+    606.6
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 0.30 0.21 0.18 0.12\nMCPA 0.18 0.13 0.11 0.09\nMCPA2 0.18 0.13 0.11 0.09\nCPR 0.18 0.13 0.11 0.09\nIAES 0.18 0.13 0.11 0.09",
+   "table_id": "PMC4954800_table_1"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    148.7,
+    646.3,
+    520.8,
+    660.4
+   ],
+   "ocr": "Table 3 Average makespan (s) for Matmul structure of unequal workloads"
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    668.2,
+    602.7,
+    764.5
+   ],
+   "ocr": "np = 8 np = 16 np = 32 np = 64\nCPA 17,301 13,217 11,480 11,132\nMCPA 13,857 10,006 8299 7642\nMCPA2 16,351 10,410 8835 8329\nCPR 14,064 10,920 9433 8788\nIAES 13,280 9583 7888 7351",
+   "table_id": "PMC4954800_table_2"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    148.7,
+    804.3,
+    604.0,
+    912.2
+   ],
+   "ocr": "speed, the required execution time of a task on a processor can be derived. Since in our experiments, the processors are assumed to be homogeneous, equal workload implies the same execution time and unequal workload indicates different execution time. Unequal-workload cases were also studied in (Hunold 2010) where the term irregular was used. There are real applications corresponding to the unequal-workload cases in our experiments, such as sparse matrix computation and other irregular computational"
+  }
+ }
+}

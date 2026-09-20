@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_452",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    261.1,
+    53.5
+   ],
+   "ocr": "Katayama et al. BMC Genomics (2015) 16:476"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 10 of 14"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    374.0,
+    138.3
+   ],
+   "ocr": "Table 3 Transcription factors, positively contributing to PC1. Table functions in skin lineage (for full data, see Additional file 11: Table"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    374.4,
+    111.8,
+    657.1,
+    138.3
+   ],
+   "ocr": "shows a subset of significantly contributing loci with relevant S8)"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    143.3,
+    678.6,
+    376.4
+   ],
+   "ocr": "Gene Symbol Loading Z-score\nHLF 1.059 3.690 Inhibitor of cell death response [PMID:23415677]\nZBTB16 1.039 3.621\nHOPX 1.022 3.558 Controlling differentiation-dependent genes [PMID:20226564]\nEGR3 0.999 3.477\nID4 0.986 3.436 Lack of the protein in parakeratotic cells at upper skin layer [PMID:21663940]\nMNDA 0.968 3.369\nHCLS1 0.947 3.297\nSOX5 0.947 3.295 Genes coding SOX5 binding sites at the promoters were PC1 positive correlation (V$SOX5_01; q-value FDR ~ 0)\nSOX21 0.937 3.261 Master regulator of hair shaft cuticle differentiation [PMID:19470461]\nETV7 0.928 3.227\nPOU3F1 0.920 3.200 Transactivator for FLG (a.k.a. profilaggrin; PC1 positive correlation, Local- FDR = 7.34 × 10-4; [PMID:10809764])\nPOU2F3 0.906 3.151 10-4; [PMID:10809764] & [PMID:7682011]); repressor for KRT14 (PC1 negative correlation, Local-FDR ~ 0;\n[PMID:11429405])",
+   "table_id": "PMC4480911_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    398.3,
+    366.2,
+    623.8
+   ],
+   "ocr": "involved in the homologous recombination and the repair of DNA. Expression of RAD51 is regulated by Lamin A (LMNA) [42], and expression of the LMNA was consistently negatively correlated (Local-FDR = 8.99 × 10−4). It’s well known that the mutations of LMNA lead to Hutchinson–Gilford progeria syndrome characterized by a premature aging [43]. Therefore, senescence and cellular aging responces would be a possible interpret- ation for PC3. Conclusion STRT RNA-seq method complemented with synthetic RNAs revealed a variation of polyA+ RNA content per total RNA in different cell types, SGs, EKCs, LKCs and HaCaTs, reflecting the activity of the cell type. Even though"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    398.3,
+    678.7,
+    926.2
+   ],
+   "ocr": "the STRT reads are concentrated towards the 5’end of the polyA+ transcripts and the method has limited resolution at 2nd and more downstream exons, the advantages of the method include the small amount of starting material needed for library preparation, early multiplexing of up to 92 samples reducing the cost and time of library prepar- ation, and the inclusion of external spike-in RNAs as a standard procedure. The spike-in normalization has been shown to be a valuable tool when comparing samples with fluctuating polyA+ RNA contents [14, 44]. We showed that the use of spike-in-based normalization produced consistent results with qPCR validations, and provided us with deeper insights into KC biology. In contrary, the traditional gene-based normalization method led to inaccurate expression profiles. Moreover, our approach would be applicable not only for the studies on KCs but also for the other studies with fluctuation of polyA+ RNA content, for example those on single cells with different types or sizes [45, 46]. We applied PCA to elucidate dissimilarity between the samples, and also to decompose the differences. The three first PCs represented differentiation and the mitochon- drial phenotypes between SGs and cultured cells, G1/S- transition between HaCaTs and EKCs, and senescence and cellular aging responces between HaCaTs and LKCs. All cultured cells differed from tissue samples and HaCaT cells differed remarkably from other cultured cells based on both PCA and the comparison of previously known KC markers, cytokeratins. Our results thus suggest that great caution should be payed when using cultured pri- mary KCs and cell models like HaCaTs as models for skin, especially when focusing on the pathways revealed by PCA. The transcriptomes of cultured primary KCs and HaCaTs resemble that of acivated skin rather than normal skin as shown also by others [10, 11]."
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    661.8,
+    363.6,
+    716.3
+   ],
+   "ocr": "Table 4 Ten most positively correlated genes with PC2. Table is a subset of positively correlated genes with PC2, and the thick mark indicates if the gene codes polyA+ RNA binding protein (for full data, see Additional file 10: Table S6)"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    721.4,
+    366.1,
+    919.2
+   ],
+   "ocr": "Gene symbol Score Local FDR polyA + RNA binding\n[PMID: 22658674]\nHNRNPH1 0.855 0.00000 ✓\nSCAF11 0.829 0.00002 ✓\nHNRNPA3 0.823 0.00003 ✓\nBCLAF1 0.802 0.00008 ✓\nOXCT1 0.800 0.00008 ✓\nODF2L 0.798 0.00008 ✓\nHNRNPAB 0.789 0.00010 ✓\nPNN 0.788 0.00011 ✓\nUBE2G2 0.787 0.00011 ✓\nSPARC 0.787 0.00011 ✓",
+   "table_id": "PMC4480911_table_3"
+  }
+ }
+}

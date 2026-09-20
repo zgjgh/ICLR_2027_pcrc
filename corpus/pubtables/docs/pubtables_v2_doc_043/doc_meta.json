@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_043",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3017864_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    128.9,
+    677.4,
+    817.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3017864_table_0.png",
+   "html": "<table><tr><td>Species</td><td>Library code</td><td>Library name</td><td>Library type</td><td>Kit for library construction</td><td>No. of genotypes</td><td>Tissue</td><td>Sample stage/treatment</td></tr><tr><td rowspan=\"10\">Q. petraea</td><td>A</td><td>LG0BAC</td><td>Standard</td><td>LambdaZAP</td><td>50</td><td>bud</td><td>Quiescent buds from 2-year-old trees (Phalsbourg (57-F) and Mirecourt (88-F)) sampled in April 7th and 9th, 2004</td></tr><tr><td>B</td><td>QpBudslate</td><td>Standard</td><td>CloneMiner</td><td>2</td><td>bud</td><td>Early swelling bud sampled in March 24th and 30th , 2006 on adult trees</td></tr><tr><td>C</td><td>QpSwellingBud</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pCR4 TOPO</td><td>20</td><td>bud</td><td>Swelling vs. quiescent buds, 1-year-old trees</td></tr><tr><td>D</td><td>QpBudquiescent</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pCR4 TOPO</td><td>60</td><td>bud</td><td>Developing (internodes have started to grow) vs. quiescent buds, 1-year-old trees</td></tr><tr><td>E</td><td>QpVegetativeGrowth</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pCR4 TOPO</td><td>20</td><td>bud</td><td>Quiescent vs. swelling buds, 1-year-old trees</td></tr><tr><td>F</td><td>sessile48hours</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pGEM-T easy</td><td>10</td><td>root</td><td>Hypoxia for 24 and 48 h. White roots from 6-month- old cuttings, 2005</td></tr><tr><td>G</td><td>sessile6 hours</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pGEM-T easy</td><td>10</td><td>root</td><td>Hypoxia for 6 h. White roots from 6-month-old cuttings, 2005</td></tr><tr><td>H</td><td>Qp5stressRoots</td><td>Standard</td><td>CloneMiner</td><td>15</td><td>root</td><td>6-month-old seedlings collected in October 2006, 1/ 10&#176;C 3 days, 2/35&#176;C 4 days, 3/CO2 700 ppm, 4/water stress, 5/hypoxie 48 h</td></tr><tr><td>I</td><td>QpLeaf5stress</td><td>Standard</td><td>CloneMiner</td><td>15</td><td>leaf</td><td>6-month-old seedlings collected in October 2006 : 1/ 10&#176;C 3 days, 2/35&#176;C 4 days, 3/CO2 700 ppm, 4/water stress, 5/hypoxie 48 h</td></tr><tr><td>J</td><td>QpXyleme</td><td>Standard</td><td>Creator SMART</td><td>2</td><td>xylem</td><td>Secondary differentiating xylem sampled in May 21th, 2007 on adult trees</td></tr><tr><td rowspan=\"10\">Q. robur</td><td>K</td><td>QrBudsEarly</td><td>Standard</td><td>CloneMiner</td><td>3</td><td>bud</td><td>Setting bud sampled in October 26th, 2006 on adult trees</td></tr><tr><td>L</td><td>QrBudslate</td><td>Standard</td><td>CloneMiner</td><td>3</td><td>bud</td><td>Swelling buds sampled in March 24th and 30th, 2007 on adult trees</td></tr><tr><td>M</td><td>LG00BAD</td><td>Standard</td><td>LambdaZAP</td><td>10</td><td>root</td><td>Fine roots under optimal fertilization and Irrigation conditions, harvested in August 2004 [48]</td></tr><tr><td>N</td><td>pedonculate6 hours</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pGEM-T easy</td><td>10</td><td>root</td><td>Hypoxia for 6 h. White roots from 6-month-old cuttings, 2005</td></tr><tr><td>O</td><td>pedonculate48 hours</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pGEM-T easy</td><td>10</td><td>root</td><td>Hypoxia for 24 and 48 h. White roots from 6-month- old cuttings, 2005</td></tr><tr><td>P</td><td>LG0BAA</td><td>Standard</td><td>LambdaZAP</td><td>3</td><td>leaf</td><td>Young leaves sampled on adult trees in April 27th, 2004</td></tr><tr><td>Q</td><td>HighWUE</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pGEM-T easy</td><td>5</td><td>leaf</td><td>Green leaves on one-year-old cuttings, (high vs. low WUE) October 2005</td></tr><tr><td>R</td><td>LowWUE</td><td>Subtractive</td><td>SMART PCR, BD PCR-Select, pGEM-T easy</td><td>5</td><td>leaf</td><td>Green leaves on one-year-old cuttings, (low vs. high WUE) October 2005</td></tr><tr><td>S</td><td>LG0BAB</td><td>Standard</td><td>LambdaZAP</td><td>3</td><td>xylem</td><td>Secondary differentiating xylem sampled on adult trees in April 27th, 2004</td></tr><tr><td>T</td><td>QrAnoxie</td><td>Standard</td><td>Creator SMART</td><td>10</td><td>root</td><td>Hypoxia for 24 and 48 h. White roots from 6-month- old cuttings, 2005</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3017864_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    128.9,
+    671.2,
+    471.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3017864_table_1.png",
+   "html": "<table><tr><td>Library code</td><td>No. reads (I)</td><td>No of 3&#8217; reads in (1)</td><td>No. reads in OakContigV1 assembly</td><td>Number of high quality sequences (2)</td><td>Sequencing success rate % (2)/(1)</td><td>Average length (bp) in (2)</td></tr><tr><td>A</td><td>10717</td><td>0</td><td>10317</td><td>10313</td><td>96.3%</td><td>535</td></tr><tr><td>B</td><td>9615</td><td>4711</td><td>6673</td><td>6669</td><td>69.4%</td><td>517</td></tr><tr><td>C</td><td>392</td><td>0</td><td>224</td><td>224</td><td>57.1%</td><td>313</td></tr><tr><td>D</td><td>184</td><td>0</td><td>110</td><td>110</td><td>59.8%</td><td>377</td></tr><tr><td>E</td><td>203</td><td>0</td><td>148</td><td>148</td><td>72.9%</td><td>404</td></tr><tr><td>F</td><td>2493</td><td>0</td><td>2305</td><td>2305</td><td>92.5%</td><td>566</td></tr><tr><td>G</td><td>1756</td><td>0</td><td>1604</td><td>1604</td><td>91.3%</td><td>500</td></tr><tr><td>H</td><td>18935</td><td>4747</td><td>12002</td><td>11989</td><td>63.4%</td><td>505</td></tr><tr><td>I</td><td>19195</td><td>4868</td><td>15424</td><td>15424</td><td>80.4%</td><td>597</td></tr><tr><td>J</td><td>9377</td><td>4491</td><td>8964</td><td>8964</td><td>95.6%</td><td>589</td></tr><tr><td>K</td><td>9578</td><td>0</td><td>8652</td><td>8649</td><td>90.3%</td><td>620</td></tr><tr><td>L</td><td>9500</td><td>0</td><td>8533</td><td>8525</td><td>89.8%</td><td>575</td></tr><tr><td>M</td><td>19685</td><td>513</td><td>18756</td><td>18753</td><td>95.3%</td><td>583</td></tr><tr><td>N</td><td>1700</td><td>0</td><td>1518</td><td>1518</td><td>89.3%</td><td>509</td></tr><tr><td>O</td><td>2129</td><td>0</td><td>1975</td><td>1975</td><td>92.8%</td><td>534</td></tr><tr><td>P</td><td>7513</td><td>0</td><td>7238</td><td>7237</td><td>96.3%</td><td>712</td></tr><tr><td>Q</td><td>1765</td><td>0</td><td>1589</td><td>1589</td><td>90.0%</td><td>522</td></tr><tr><td>R</td><td>1768</td><td>0</td><td>1507</td><td>1507</td><td>85.2%</td><td>495</td></tr><tr><td>S</td><td>10164</td><td>0</td><td>9951</td><td>9950</td><td>97.9%</td><td>584</td></tr><tr><td>T</td><td>9158</td><td>4279</td><td>8435</td><td>8433</td><td>92.1%</td><td>604</td></tr><tr><td>Total</td><td>145827</td><td>23609</td><td>125925</td><td>125886</td><td>86.4%</td><td>575</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3017864_table_2",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    551.8,
+    678.7,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3017864_table_2.png",
+   "html": "<table><tr><td>Library code</td><td>No. of reads (a)</td><td>No. match with chloroplast (b)</td><td>% match with chloroplast (b)/(a)</td><td>No. doubtful sequences (c)</td><td>% doubtful (c)/(a)</td><td>No. PCRkitful sequences (d)</td><td>% of PCRkit (d)/(a)</td><td>No. &#8216;not valid&#8217;</td><td>% of &#8216;Not valid&#8217;</td></tr><tr><td>A</td><td>10717</td><td>20</td><td>0.19%</td><td>163</td><td>1.52%</td><td>19</td><td>0.18%</td><td>647</td><td>6.04%</td></tr><tr><td>B</td><td>9615</td><td>1</td><td>0.01%</td><td>14</td><td>0.15%</td><td>7</td><td>0.07%</td><td>2951</td><td>30.69%</td></tr><tr><td>C</td><td>392</td><td>21</td><td>5.36%</td><td>7</td><td>1.79%</td><td>26</td><td>6.63%</td><td>204</td><td>52.04%</td></tr><tr><td>D</td><td>184</td><td>19</td><td>10.33%</td><td>1</td><td>0.54%</td><td>31</td><td>16.85%</td><td>100</td><td>54.35%</td></tr><tr><td>E</td><td>203</td><td>0</td><td>0.00%</td><td>14</td><td>6.90%</td><td>34</td><td>16.75%</td><td>76</td><td>37.44%</td></tr><tr><td>F</td><td>2493</td><td>7</td><td>0.28%</td><td>3</td><td>0.12%</td><td>5</td><td>0.20%</td><td>207</td><td>8.30%</td></tr><tr><td>G</td><td>1756</td><td>5</td><td>0.28%</td><td>0</td><td>0.00%</td><td>5</td><td>0.28%</td><td>164</td><td>9.34%</td></tr><tr><td>H</td><td>18935</td><td>5</td><td>0.03%</td><td>25</td><td>0.13%</td><td>1</td><td>0.01%</td><td>6976</td><td>36.84%</td></tr><tr><td>I</td><td>19195</td><td>4</td><td>0.02%</td><td>28</td><td>0.15%</td><td>5</td><td>0.03%</td><td>3815</td><td>19.87%</td></tr><tr><td>J</td><td>9377</td><td>64</td><td>0.68%</td><td>15</td><td>0.16%</td><td>4</td><td>0.04%</td><td>518</td><td>5.52%</td></tr><tr><td>K</td><td>9578</td><td>3</td><td>0.03%</td><td>24</td><td>0.25%</td><td>10</td><td>0.10%</td><td>955</td><td>9.97%</td></tr><tr><td>L</td><td>9500</td><td>2</td><td>0.02%</td><td>19</td><td>0.20%</td><td>3</td><td>0.03%</td><td>989</td><td>10.41%</td></tr><tr><td>M</td><td>19685</td><td>48</td><td>0.24%</td><td>862</td><td>4.38%</td><td>3</td><td>0.02%</td><td>1894</td><td>9.62%</td></tr><tr><td>N</td><td>1700</td><td>7</td><td>0.41%</td><td>0</td><td>0.00%</td><td>9</td><td>0.53%</td><td>191</td><td>11.24%</td></tr><tr><td>O</td><td>2129</td><td>4</td><td>0.19%</td><td>1</td><td>0.05%</td><td>3</td><td>0.14%</td><td>173</td><td>8.13%</td></tr><tr><td>P</td><td>7513</td><td>12</td><td>0.16%</td><td>194</td><td>2.58%</td><td>28</td><td>0.37%</td><td>492</td><td>6.55%</td></tr><tr><td>Q</td><td>1765</td><td>84</td><td>4.76%</td><td>1</td><td>0.06%</td><td>12</td><td>0.68%</td><td>265</td><td>15.01%</td></tr><tr><td>R</td><td>1768</td><td>37</td><td>2.09%</td><td>2</td><td>0.11%</td><td>4</td><td>0.23%</td><td>306</td><td>17.31%</td></tr><tr><td>S</td><td>10164</td><td>5</td><td>0.05%</td><td>160</td><td>1.57%</td><td>19</td><td>0.19%</td><td>688</td><td>6.77%</td></tr><tr><td>T</td><td>9158</td><td>54</td><td>0.59%</td><td>22</td><td>0.24%</td><td>1</td><td>0.01%</td><td>820</td><td>8.95%</td></tr><tr><td>Total</td><td>145827</td><td>402</td><td>0.28%</td><td>1555</td><td>1.07%</td><td>229</td><td>0.16%</td><td>22431</td><td>15.38%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3017864_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    522.6,
+    665.6,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3017864_table_3.png",
+   "html": "<table><tr><td>Species</td><td>Library code</td><td>Library name</td><td>Library type</td><td>Kit for library construction</td><td>No. of genotypes</td><td>Tissue</td><td>Sample stage/treatment</td></tr><tr><td>Q. petraea</td><td>I</td><td>LC1- EcoEndoDorm</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>30</td><td>Buds</td><td>Endodormancy, sampled in September 17th and 24th and October 1st, 2005</td></tr><tr><td>Q. petraea</td><td>II</td><td>LC2- EcoEndoDorm</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>30</td><td>Buds</td><td>Ecodormancy, sampled in January 14th and 28th and February 11th, 2005</td></tr><tr><td>Q. petraea</td><td>III</td><td>SJ1- EcoEndoDorm</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>30</td><td>Buds</td><td>Endodormancy, sampled in September 17th and 24th and October 1st, 2005</td></tr><tr><td>Q. petraea</td><td>IV</td><td>SJ2- EcoEndoDorm</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>30</td><td>Buds</td><td>Ecodormancy, sampled in January 14th and 28th and February 11th, 2005</td></tr><tr><td>Q. petraea</td><td>V</td><td>10QS-Intersp</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>10</td><td>Leaves, buds</td><td>Young and mature leaves, quiescent and later buds</td></tr><tr><td>Q. robur</td><td>VI</td><td>10QP-intersp</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>10</td><td>Leaves, buds</td><td>Young and mature leaves, quiescent and later buds</td></tr><tr><td>Q. petraea</td><td>VII</td><td>FS</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>2</td><td>Flower</td><td>Pollen, flowers</td></tr><tr><td>Q. robur</td><td>VIII</td><td>FP</td><td>Standard</td><td>SMART PCR cDNA Synthesis Kit</td><td>2</td><td>Flower</td><td>Pollen, flowers</td></tr><tr><td>Q. petraea</td><td>IX</td><td>Qs21</td><td>Normalized</td><td>MINT cDNA synthtesis Kit,</td><td>1</td><td>Leaves, buds</td><td>Quiescent, swelling buds; young, mature leaves</td></tr><tr><td>Q. petraea</td><td>X</td><td>Qs28</td><td>Normalized</td><td>MINT cDNA synthtesis Kit,</td><td>1</td><td>Leaves, buds</td><td>Quiescent, swelling buds; young, mature leaves</td></tr><tr><td>Q. petraea</td><td>XI</td><td>Qs29</td><td>Normalized</td><td>MINT cDNA synthtesis Kit,</td><td>1</td><td>Leaves, buds</td><td>Quiescent, swelling buds; young, mature leaves</td></tr><tr><td>Q. robur</td><td>XII</td><td>3P</td><td>Normalized</td><td>MINT cDNA synthtesis Kit,</td><td>1</td><td>Leaves, buds</td><td>Quiescent, swelling buds; young, mature leaves</td></tr><tr><td>Q. robur</td><td>XIII</td><td>11P</td><td>Normalized</td><td>MINT cDNA synthtesis Kit,</td><td>1</td><td>Leaves, buds</td><td>Quiescent, swelling buds; young, mature leaves</td></tr><tr><td>Q. robur</td><td>XIV</td><td>A04</td><td>Normalized</td><td>MINT cDNA synthtesis Kit,</td><td>1</td><td>Leaves, buds</td><td>Quiescent, swelling buds; young, mature leaves</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3017864_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    128.9,
+    666.8,
+    369.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3017864_table_4.png",
+   "html": "<table><tr><td>Library name</td><td>454</td><td>Number of reads (3)</td><td>Average length (bp) in (3)</td><td>Number of reads in OakContigV1</td></tr><tr><td>LC1-EcoEndoDorm</td><td>GS-FLX</td><td>115050</td><td>167</td><td>70019</td></tr><tr><td>LC2-EcoEndoDorm</td><td>GS-FLX</td><td>137380</td><td>179</td><td>98725</td></tr><tr><td>SJ1-EcoEndoDorm</td><td>GS-FLX</td><td>79345</td><td>183</td><td>44732</td></tr><tr><td>SJ2-EcoEndoDorm</td><td>GS-FLX</td><td>164140</td><td>203</td><td>138921</td></tr><tr><td>10QS-Intersp</td><td>GS-FLX</td><td>159478</td><td>211</td><td>131932</td></tr><tr><td>10QP-Intersp</td><td>GS-FLX</td><td>99472</td><td>205</td><td>80748</td></tr><tr><td>FS</td><td>GS-FLX</td><td>112207</td><td>194</td><td>86838</td></tr><tr><td>FP</td><td>GS-FLX</td><td>154819</td><td>196</td><td>117518</td></tr><tr><td>QS21</td><td>Titanium</td><td>153558</td><td>374</td><td>132870</td></tr><tr><td>QS28</td><td>Titanium</td><td>124143</td><td>390</td><td>110304</td></tr><tr><td>QS29</td><td>Titanium</td><td>206828</td><td>386</td><td>182675</td></tr><tr><td>11P</td><td>Titanium</td><td>137409</td><td>381</td><td>119869</td></tr><tr><td>3P</td><td>Titanium</td><td>143969</td><td>387</td><td>127339</td></tr><tr><td>A04</td><td>Titanium</td><td>160781</td><td>350</td><td>135523</td></tr><tr><td>Total</td><td></td><td>1948579</td><td>281</td><td>1578013</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3017864_table_5",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    127.4,
+    678.7,
+    550.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3017864_table_5.png",
+   "html": "<table><tr><td>Sequencing method#</td><td>Library code</td><td>A</td><td>B</td><td>Number of contigs in OakContigV1 (C)</td><td>Coverage (%) C/A</td></tr><tr><td>S</td><td>A</td><td>7550.3</td><td>-1.17E-04</td><td>5122</td><td>67.8%</td></tr><tr><td>S</td><td>B</td><td>5186.4</td><td>-1.73E-04</td><td>3420</td><td>65.9%</td></tr><tr><td>S</td><td>F</td><td>2515.9</td><td>-3.59E-04</td><td>1353</td><td>53.8%</td></tr><tr><td>S</td><td>H</td><td>8802.1</td><td>-1.02E-04</td><td>5809</td><td>66.0%</td></tr><tr><td>S</td><td>I</td><td>12232.2</td><td>-6.82E-05</td><td>7485</td><td>61.2%</td></tr><tr><td>S</td><td>J</td><td>4218.9</td><td>-2.03E-04</td><td>3487</td><td>82.7%</td></tr><tr><td>S</td><td>K</td><td>10541.7</td><td>-8.48E-05</td><td>5158</td><td>48.9%</td></tr><tr><td>S</td><td>L</td><td>8623.1</td><td>-1.04E-04</td><td>4704</td><td>54.6%</td></tr><tr><td>S</td><td>M</td><td>11485.6</td><td>-7.02E-05</td><td>7409</td><td>64.5%</td></tr><tr><td>S</td><td>O</td><td>1920.3</td><td>-4.77E-04</td><td>1141</td><td>59.4%</td></tr><tr><td>S</td><td>P</td><td>7184.0</td><td>-1.22E-04</td><td>4005</td><td>55.7%</td></tr><tr><td>S</td><td>S</td><td>7542.7</td><td>-1.11E-04</td><td>4816</td><td>63.8%</td></tr><tr><td>S</td><td>T</td><td>4194.4</td><td>-2.02E-04</td><td>3385</td><td>80.7%</td></tr><tr><td>P</td><td>I</td><td>20631.3</td><td>-3.29E-05</td><td>18245</td><td>88.4%</td></tr><tr><td>P</td><td>II</td><td>23225.8</td><td>-2.69E-05</td><td>21314</td><td>91.8%</td></tr><tr><td>P</td><td>III</td><td>16931.9</td><td>-4.31E-05</td><td>14169</td><td>83.7%</td></tr><tr><td>P</td><td>IV</td><td>26459.2</td><td>-2.03E-05</td><td>25038</td><td>94.6%</td></tr><tr><td>P</td><td>V</td><td>29306.1</td><td>-1.94E-05</td><td>27081</td><td>92.4%</td></tr><tr><td>P</td><td>VI</td><td>23674.9</td><td>-2.72E-05</td><td>20702</td><td>87.4%</td></tr><tr><td>P</td><td>VII</td><td>23941.0</td><td>-2.78E-05</td><td>21381</td><td>89.3%</td></tr><tr><td>P</td><td>VIII</td><td>27733.7</td><td>-2.22E-05</td><td>25588</td><td>92.3%</td></tr><tr><td>P</td><td>IX</td><td>21725.9</td><td>-2.42E-05</td><td>21620</td><td>99.5%</td></tr><tr><td>P</td><td>X</td><td>19916.9</td><td>-2.80E-05</td><td>19645</td><td>98.6%</td></tr><tr><td>P</td><td>XI</td><td>23860.4</td><td>-1.98E-05</td><td>24265</td><td>101.7%</td></tr><tr><td>P</td><td>XII</td><td>17736.9</td><td>-2.61E-05</td><td>17830</td><td>100.5%</td></tr><tr><td>P</td><td>XIII</td><td>18021.2</td><td>-2.71E-05</td><td>18065</td><td>100.2%</td></tr><tr><td>P</td><td>XIV</td><td>20576.5</td><td>-2.41E-05</td><td>20616</td><td>100.2%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3017864_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    806.3,
+    657.5,
+    894.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3017864_table_6.png",
+   "html": "<table><tr><td></td><td>PartiGene</td><td>MIRA</td><td>TGICL (OakContigV1)</td></tr><tr><td>Number of Sanger/454 reads included in assembly</td><td>134500/0</td><td>125925/1578013</td><td>125925/1578013</td></tr><tr><td>Number of contigs (average length (bp))</td><td>17499 (919)</td><td>113625 (671)</td><td>69154 (705)</td></tr><tr><td>Number of singletons (average length (bp))</td><td>23445 (485)</td><td>3201# (236)</td><td>153517 (300)</td></tr><tr><td>Number of unigene elements (contigs + singletons)</td><td>40944</td><td>116826</td><td>222671</td></tr><tr><td>Number of reads in contigs</td><td>108626</td><td>1511639</td><td>1550824</td></tr></table>"
+  }
+ ]
+}

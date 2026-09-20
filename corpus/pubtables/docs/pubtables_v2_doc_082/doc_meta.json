@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_082",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5856259_table_0",
+   "page_num": 1,
+   "bbox": [
+    65.2,
+    141.0,
+    703.0,
+    315.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5856259_table_0.png",
+   "html": "<table><tr><td>Anatomical Components</td><td>Material Model</td><td>Material Parameters</td><td>References</td></tr><tr><td>Skull</td><td>Isotropic Elastic</td><td>&#961; = 1030 kg/m3 E = 100 kPa &#957; = 0.45</td><td>[32]</td></tr><tr><td>Cerebrospinal Fluid</td><td>Mie-Gruneisen Equation of State</td><td>&#961; = 1000 kg/m3 C0 = 1489 m/s s = 1.79 &#915;0 = 1.65 &#951; = 0.001</td><td>[33]</td></tr><tr><td rowspan=\"2\">Brain Tissue (Matrix)</td><td>Mooney-Rivlin Hyperelastic</td><td>&#961; = 1040 kg/m3 C01 = -1.034 kPa C10 = 7.803 kPa K = 2.1 GPa</td><td>[30]</td></tr><tr><td>Viscoelastic</td><td>g1 = 0.65425 &#964;1 = 0.0066940 g2 = 0.0149&#964;2 = 0.15642</td><td>[30]</td></tr><tr><td>Axonal Fibers</td><td>Ogden Hyperelastic</td><td>&#961; = 1040 kg/m3 &#956; = 35.64 kPa &#945; = 6.101 D = 9.le-10 Pa-1</td><td>[30]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5856259_table_2",
+   "page_num": 2,
+   "bbox": [
+    45.7,
+    128.3,
+    722.6,
+    611.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5856259_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Literature</td><td rowspan=\"2\">Material Model</td><td rowspan=\"2\">Material Parameters</td><td colspan=\"2\">Material Models in ABAQUS</td></tr><tr><td>Material Model</td><td>Material Parameters</td></tr><tr><td>Zhou et al. [48,49], Chen et al. [50], Yan et al. [51]</td><td>Fluid</td><td>&#961; = 1040 kg/m3 K = 22 MPa G = 50 kPa</td><td>Neohookean hyperelastic</td><td>&#961; = 1040 kg/m3 C1 = 25 kPa D = 9.1e-8 Pa-1</td></tr><tr><td>Ruan et al. [64]</td><td>Fluid</td><td>&#961; = 1040 kg/m3 K = 1.65 MPa G = 50 kPa</td><td>Neohookean hyperelastic</td><td>&#961; = 1040 kg/m3 C1 = 25 kPa D = 1.2e-6 Pa-1</td></tr><tr><td>Choi et al. [53]</td><td>Fluid</td><td>&#961; = 1040 kg/m3 K = 100 MPa &#957; = 0.5</td><td>Neohookean hyperelastic</td><td>&#961; = 1040 kg/m3 C1 = 5 kPa D = 2.0e-8 Pa-1</td></tr><tr><td>Willinger et al. [65], Kleiven et al. [55], Ho et al. [56]</td><td>Fluid</td><td>&#961; = 1040 kg/m3 K = 2.1 GPa &#957; = 0.5</td><td>Neohookean hyperelastic</td><td>&#961; = 1040 kg/m3 C1 = 100 kPa D = 9.5e-10 Pa-1</td></tr><tr><td>Willinger et al. [57,58]</td><td>Elastic</td><td>&#961; = 1040 kg/m3 E = 12 kPa &#957; = 0.5</td><td>Elastic</td><td>&#961; = 1040 kg/m3 E = 12 kPa &#957; = 0.5</td></tr><tr><td>Horgan et al. [59,60]</td><td>Elastic</td><td>&#961; = 1040 kg/m3 E = 0.15 MPa &#957; = 0.5</td><td>Elastic</td><td>&#961; = 1040 kg/m3 E = 0.15 MPa &#957; = 0.5</td></tr><tr><td>Zong et al. [61]</td><td>Elastic</td><td>&#961; = 1040 kg/m3 E = 2.19 MPa &#957; = 0.489</td><td>Elastic</td><td>&#961; = 1040 kg/m3 E = 2.19 MPa &#957; = 0.489</td></tr><tr><td>Mao et al. [62]</td><td>Viscoelastic</td><td>&#961; = 1040 kg/m3 K = 2.19 GPa G0 = 0.5 GPa G1 = 0.1 kPa &#946; = 80 s-1</td><td>Neohookean hyperviscoelastic</td><td>&#961; = 1040 kg/m3 C1 = 0.25 kPa D = 9.13e-10 Pa-1 gi = 0.8 ki = 0 &#964;i = 0.0125</td></tr><tr><td>Yang et al. [63]</td><td>Viscoelastic</td><td>&#961; = 1040 kg/m3 K = 1050 MPa G0 = 1.0 kPa G1 = 0.9 kPa &#946; = 80 s-1</td><td>Neohookean hyperviscoelastic</td><td>&#961; = 1040 kg/m3 C1 = 0.5 kPa D = 1.9e-9 Pa-1 gi = 0.1 ki = 0 &#964;i = 0.0125</td></tr><tr><td>Kleiven et al. [66]</td><td>Mie-Gruneisen Equation of State</td><td>&#961; = 1040 kg/m3 C0 = 1485 m/s s = 1.79 &#915;0 = 1.65 kPa &#951; = 0.001</td><td>Neohookean hyperviscoelastic</td><td>&#961; = 1040 kg/m3 C0 = 1485 m/s s = 1.79 &#915;0 = 1.65 kPa &#951; = 0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5856259_table_4",
+   "page_num": 3,
+   "bbox": [
+    91.8,
+    728.1,
+    676.5,
+    895.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5856259_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Comparison Case</td><td colspan=\"2\">Occipital Impact</td><td colspan=\"2\">Frontal Impact</td></tr><tr><td>Male</td><td>Female</td><td>Male</td><td>Female</td></tr><tr><td>A1-X</td><td>0.578</td><td>0.930</td><td>0.434</td><td>0.486</td></tr><tr><td>A1-Z</td><td>0.519</td><td>0.318</td><td>0.332</td><td>0.470</td></tr><tr><td>A5-X</td><td>0.346</td><td>0.428</td><td>0.405</td><td>0.471</td></tr><tr><td>A5-Z</td><td>0.514</td><td>0.439</td><td>0.387</td><td>0.478</td></tr><tr><td>P1-X</td><td>0.463</td><td>0.919</td><td>0.515</td><td>0.655</td></tr><tr><td>P1-Z</td><td>0.589</td><td>0.431</td><td>0.411</td><td>0.533</td></tr><tr><td>P5-X</td><td>0.401</td><td>0.406</td><td>0.539</td><td>0.790</td></tr><tr><td>P5-Z</td><td>0.622</td><td>0.520</td><td>0.619</td><td>0.522</td></tr><tr><td>Overall</td><td>0.504</td><td>0.549</td><td>0.455</td><td>0.551</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5856259_table_6",
+   "page_num": 4,
+   "bbox": [
+    297.2,
+    679.3,
+    677.9,
+    878.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5856259_table_6.png",
+   "html": "<table><tr><td>Comparison Case</td><td>Male Model</td><td>Female Model</td></tr><tr><td colspan=\"3\">71 kPa</td></tr><tr><td>Frontal</td><td>0.410</td><td>0.594</td></tr><tr><td>Occipital</td><td>0.289</td><td>0.365</td></tr><tr><td>Parietal</td><td>0.384</td><td>0.473</td></tr><tr><td colspan=\"3\">76 kPa</td></tr><tr><td>Frontal</td><td>0.370</td><td>0.400</td></tr><tr><td>Occipital</td><td>0.125</td><td>0.130</td></tr><tr><td>Parietal</td><td>0.068</td><td>0.080</td></tr><tr><td colspan=\"3\">104 kPa</td></tr><tr><td>Frontal</td><td>0.223</td><td>0.227</td></tr><tr><td>Occipital</td><td>0.128</td><td>0.140</td></tr><tr><td>Parietal</td><td>0.184</td><td>0.190</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5856259_table_7",
+   "page_num": 5,
+   "bbox": [
+    62.3,
+    114.3,
+    707.6,
+    170.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5856259_table_7.png",
+   "html": "<table><tr><td>Model/Loading Direction</td><td>0o (Frontal)</td><td>45o (Left Frontal)</td><td>90o (Left)</td><td>135o (Left Occipital)</td><td>180o (Occipital)</td><td>225o (Right Occipital)</td><td>270o (Right)</td><td>315o (Right Frontal)</td></tr><tr><td>Male</td><td>0.26 mm</td><td>0.55 mm</td><td>0.70 mm</td><td>0.45 mm</td><td>0.325 mm</td><td>0.40 mm</td><td>0.70 mm</td><td>0.68 mm</td></tr><tr><td>Female</td><td>0.26 mm</td><td>0.36 mm</td><td>0.30 mm</td><td>0.28 mm</td><td>0.24 mm</td><td>0.25 mm</td><td>0.32 mm</td><td>0.41 mm</td></tr></table>"
+  }
+ ]
+}

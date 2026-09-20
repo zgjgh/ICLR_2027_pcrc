@@ -1,0 +1,151 @@
+{
+ "doc_id": "pubtables_v2_doc_045",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3222636_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    756.8,
+    615.3,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3222636_table_0.png",
+   "html": "<table><tr><td>Source (Annotated)</td><td>KT (Annotated)</td><td>CL (Annotated)</td><td>New Knowledge (Inferred)</td></tr><tr><td>Other</td><td>X</td><td>X</td><td>No</td></tr><tr><td>X</td><td>X</td><td>L2</td><td>No</td></tr><tr><td>X</td><td>X</td><td>L1</td><td>No</td></tr><tr><td>Current</td><td>Observation</td><td>L3</td><td>Yes</td></tr><tr><td>Current</td><td>Analysis</td><td>L3</td><td>Yes</td></tr><tr><td>X</td><td>Fact</td><td>X</td><td>No</td></tr><tr><td>X</td><td>Method</td><td>X</td><td>No</td></tr><tr><td>X</td><td>Other</td><td>X</td><td>No</td></tr><tr><td>X</td><td>Investigation</td><td>X</td><td>No</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    128.9,
+    347.5,
+    262.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3222636_table_1.png",
+   "html": "<table><tr><td>KT (Annotated)</td><td>CL (Annotated)</td><td>Hypothesis (Inferred)</td></tr><tr><td>Fact</td><td>X</td><td>No</td></tr><tr><td>Method</td><td>X</td><td>No</td></tr><tr><td>Other</td><td>X</td><td>No</td></tr><tr><td>Observation</td><td>X</td><td>No</td></tr><tr><td>Analysis</td><td>L3</td><td>No</td></tr><tr><td>Analysis</td><td>L2</td><td>Yes</td></tr><tr><td>Analysis</td><td>L1</td><td>Yes</td></tr><tr><td>Investigation</td><td>X</td><td>Yes</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_2",
+   "page_num": 2,
+   "bbox": [
+    405.4,
+    812.6,
+    657.2,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3222636_table_2.png",
+   "html": "<table><tr><td>Category</td><td>Freq</td><td>% of total events</td></tr><tr><td>Observation</td><td>12821</td><td>34.7%</td></tr><tr><td>Other</td><td>11537</td><td>31.3%</td></tr><tr><td>Analysis</td><td>6578</td><td>17.8%</td></tr><tr><td>Fact</td><td>2998</td><td>8.1%</td></tr><tr><td>Investigation</td><td>1948</td><td>5.3%</td></tr><tr><td>Method</td><td>976</td><td>2.6%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    665.7,
+    366.1,
+    916.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3222636_table_3.png",
+   "html": "<table><tr><td>Analysis Clue</td><td>Freq</td><td>Investigation Clue</td><td>Freq</td><td>Observation Clue</td><td>Freq</td></tr><tr><td>suggest</td><td>408</td><td>examined</td><td>207</td><td>found</td><td>361</td></tr><tr><td>show</td><td>353</td><td>investigated</td><td>205</td><td>observed</td><td>226</td></tr><tr><td>demonstrate</td><td>335</td><td>analyzed</td><td>119</td><td>detected</td><td>141</td></tr><tr><td>demonstrated</td><td>332</td><td>studied</td><td>94</td><td>detectable</td><td>48</td></tr><tr><td>showed</td><td>246</td><td>to determine</td><td>50</td><td>seen</td><td>32</td></tr><tr><td>shown</td><td>244</td><td>tested</td><td>39</td><td>noted</td><td>17</td></tr><tr><td>may</td><td>242</td><td>measured</td><td>25</td><td>find</td><td>11</td></tr><tr><td>can</td><td>232</td><td>monitored</td><td>25</td><td>detect</td><td>11</td></tr><tr><td>associated</td><td>215</td><td>to investigate</td><td>23</td><td>findings</td><td>11</td></tr><tr><td>indicate</td><td>211</td><td>to examine</td><td>21</td><td>observations</td><td>9</td></tr><tr><td>revealed</td><td>196</td><td>to study</td><td>21</td><td>finding</td><td>9</td></tr><tr><td>suggesting</td><td>140</td><td>analysis</td><td>20</td><td>show</td><td>6</td></tr><tr><td>report</td><td>114</td><td>studies</td><td>20</td><td>report</td><td>6</td></tr><tr><td>identified</td><td>112</td><td>to identify</td><td>16</td><td>exhibit</td><td>5</td></tr><tr><td>thus</td><td>108</td><td>investigate</td><td>15</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_4",
+   "page_num": 3,
+   "bbox": [
+    406.4,
+    857.8,
+    656.2,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3222636_table_4.png",
+   "html": "<table><tr><td>Category</td><td>Freq</td><td>% of total events</td></tr><tr><td>L3 (default)</td><td>33876</td><td>91.9%</td></tr><tr><td>L2</td><td>2216</td><td>6.0%</td></tr><tr><td>L1</td><td>766</td><td>2.1%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_5",
+   "page_num": 4,
+   "bbox": [
+    89.9,
+    752.3,
+    347.7,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3222636_table_5.png",
+   "html": "<table><tr><td>L2 Clue</td><td>Freq</td><td>L3 Clue</td><td>Freq</td></tr><tr><td>can</td><td>407</td><td>may</td><td>516</td></tr><tr><td>suggest</td><td>285</td><td>might</td><td>75</td></tr><tr><td>indicate</td><td>150</td><td>could</td><td>55</td></tr><tr><td>suggesting</td><td>112</td><td>possible</td><td>32</td></tr><tr><td>ability</td><td>108</td><td>potential</td><td>23</td></tr><tr><td>indicated</td><td>99</td><td>possibility</td><td>10</td></tr><tr><td>appears</td><td>88</td><td>possibly</td><td>10</td></tr><tr><td>able</td><td>86</td><td>potentially</td><td>10</td></tr><tr><td>indicating</td><td>72</td><td>perhaps</td><td>5</td></tr><tr><td>likely</td><td>52</td><td>propose</td><td>4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_6",
+   "page_num": 4,
+   "bbox": [
+    402.8,
+    872.8,
+    659.7,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3222636_table_6.png",
+   "html": "<table><tr><td>Polarity</td><td>Freq</td><td>% of total events</td></tr><tr><td>Positive (default)</td><td>34595</td><td>93.9%</td></tr><tr><td>Negative</td><td>2263</td><td>6.1%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_7",
+   "page_num": 5,
+   "bbox": [
+    90.3,
+    142.7,
+    347.2,
+    246.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3222636_table_7.png",
+   "html": "<table><tr><td>KT Category</td><td>Negated events (% within category)</td></tr><tr><td>Observation</td><td>1364 (10.6%)</td></tr><tr><td>Analysis</td><td>577 (8.7%)</td></tr><tr><td>Fact</td><td>105 (3.5%)</td></tr><tr><td>Other</td><td>187 (1.6%)</td></tr><tr><td>Method</td><td>10 (1.0%)</td></tr><tr><td>Investigation</td><td>20 (1.0%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3222636_table_8",
+   "page_num": 5,
+   "bbox": [
+    436.3,
+    142.7,
+    626.2,
+    381.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3222636_table_8.png",
+   "html": "<table><tr><td>Category</td><td>Freq</td></tr><tr><td>not</td><td>1141</td></tr><tr><td>no</td><td>199</td></tr><tr><td>independent</td><td>113</td></tr><tr><td>without</td><td>65</td></tr><tr><td>failed</td><td>47</td></tr><tr><td>nor</td><td>47</td></tr><tr><td>absence</td><td>42</td></tr><tr><td>neither</td><td>38</td></tr><tr><td>unaffected</td><td>28</td></tr><tr><td>lack</td><td>23</td></tr><tr><td>un</td><td>23</td></tr><tr><td>unable</td><td>19</td></tr><tr><td>independently</td><td>18</td></tr><tr><td>resistant</td><td>15</td></tr><tr><td>fails</td><td>13</td></tr></table>"
+  }
+ ]
+}

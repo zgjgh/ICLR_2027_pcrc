@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_002",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.6,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterogeneous EoC Combination Search Using GA"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    332.1,
+    107.4
+   ],
+   "ocr": "Table 2. Characteristics of the datasets used for experiments."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    241.6
+   ],
+   "ocr": "Short Name Name of the Dataset #Samples (class dist.) #Features\nWBC Wisconsin Breast Cancer (Original) 699 (458,241) 9\nPIMA Pima Indians Diabetes 768 (500,268) 8\nBUPA BUPA Liver Disorders Data Set 345 (145,200) 7\nRay-AD-Trn-18 Ray et.al.—AD (18 Protein) 83 (43,40) 18\nRMoscato-AD-Trn-5 Ravetti Moscato—AD (5 Protein) 83 (43,40) 5\nTestSetAD Ray et.al.—AD (Testing) 92 (42,50) 120\nTestSetMCI Ray et.al.—MCI (Testing) 47 (22,25) 120",
+   "table_id": "PMC4713117_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    249.7,
+    185.7,
+    261.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0146116.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    302.0,
+    726.9,
+    890.4
+   ],
+   "ocr": "the face recognition problem [45]. Two of the datasets have imbalanced class distribution char- acteristics. Next the datasets are described in detail. UCI-ML Repository Datasets. We used three datasets from the UCI-ML repository (Table 2). The first one is the “Wisconsin Breast Cancer (Original)”, referred to as WBC [46]. This breast cancer dataset contains 9 attributes/features and a total of 699 samples, divided into two classes, named benign and malignant. The class distribution for this dataset is imbal- anced at a ratio of 1.90, where 458 samples are from the benign class, and the rest of the 241 samples represent the malignant class. The second one is the “Pima Indian diabetes” (PIMA) dataset which contains two classes, 8 features and 768 samples. Among these 768 samples, 500 of the tests (about 65.1%) expressed negative results, and 268 samples (about 34.9%) confirmed positive results for diabetes. The class distribution of this dataset is skewed at a ratio of nearly 1.87. We have taken another dataset called BUPA. This data set has the information of some liver disorders that might arise from excessive alcohol consumption by individual persons. It contains a total of 345 samples described by 7 features of individual alcohol consumption behaviour divided into two classes. The class-imbalanced ratio for this dataset is 1.38. Alzheimer’s Disease Datasets. We also use a biological Alzheimer’s disease (AD) datasets used in Ray et al. [44]. The dataset contained the signalling protein abundances from blood plasma that could classify Alzheimer’s disease (AD). They measured the abundance of 120 known signalling proteins from 259 archived plasma samples collected from individuals with pre-symptomatic to late-stage AD. The Alzheimer’s and nondemented control (NDC) samples were divided equally into a training set for supervised classification and a test set for class pre- diction of blinded samples (Ray-AD-Trn and TestSetAD in Table 2). The authors proposed 18 proteins as biomarkers for classification of AD. The classification was also performed on sam- ples from two previously published cohorts of mild cognitive impairment (MCI) patients (named TestSetMCI) who converted to AD, developed other dementias (OD) or remained unchanged at a later stage. They combined the NDC and OD classification data into one group which represented the class of patients who did not convert to Alzheimer’s disease (non-AD). None of the samples from this test set were used in the training process of the classifier. Ravetti and Moscato [47] applied the (α, β) − k feature selection method for protein bio- marker selection on the same dataset. They reported a set of 5-proteins as a better biomarker set (referred as RMoscato-AD-Trn-5) for predicting the AD. Their discovered 5-proteins bio- marker produce high accuracy in the prediction of Alzhemier’s disease from both testing data- sets (TestSetAD and TestSetMCI). We used training sets Ray-AD-Trn-18 and RMoscato-AD-Trn-5 from both studies to train the proposed GA-EoC separately and test the prediction on TestSetAD and TestSetMCI. The classification outcomes are compared against both studies."
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0146116 January 14, 2016 11 / 28"
+  }
+ }
+}

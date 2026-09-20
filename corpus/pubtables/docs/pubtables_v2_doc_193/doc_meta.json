@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_193",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    761,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4667272_table_0",
+   "page_num": 1,
+   "bbox": [
+    204.0,
+    60.8,
+    615.0,
+    867.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4667272_table_0.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Survivors</td><td colspan=\"2\">Non-survivors</td><td colspan=\"2\">Total</td></tr><tr><td></td><td>No.</td><td>percentage</td><td>No.</td><td>percentage</td><td>No.</td><td>percentage</td></tr><tr><td colspan=\"7\">Corticosteroids use&#167;</td></tr><tr><td>No</td><td>379</td><td>70.2%</td><td>127</td><td>62.0%</td><td>506</td><td>67.9%</td></tr><tr><td>Yes</td><td>161</td><td>29.8%</td><td>78</td><td>38.0%</td><td>239</td><td>32.1%</td></tr><tr><td>Total</td><td>540</td><td>100.0%</td><td>205</td><td>100.0%</td><td>745</td><td>100.0%</td></tr><tr><td colspan=\"7\">Pearson chi2(1) = 4.6235 Pr = 0.032</td></tr><tr><td colspan=\"7\">Gender</td></tr><tr><td>Male</td><td>260</td><td>48.1%</td><td>105</td><td>51.2%</td><td>365</td><td>49.0%</td></tr><tr><td>Female</td><td>280</td><td>51.9%</td><td>100</td><td>48.8%</td><td>380</td><td>51.0%</td></tr><tr><td>Total</td><td>540</td><td>100.0%</td><td>205</td><td>100.0%</td><td>745</td><td>100.0%</td></tr><tr><td colspan=\"7\">Pearson chi2(1) = 0.5609 Pr = 0.454</td></tr><tr><td colspan=\"7\">Ethnic</td></tr><tr><td>Hispanic or Latino</td><td>66</td><td>12.2%</td><td>20</td><td>9.8%</td><td>86</td><td>11.5%</td></tr><tr><td>Others</td><td>474</td><td>87.8%</td><td>185</td><td>90.2%</td><td>659</td><td>88.5%</td></tr><tr><td>Total</td><td>540</td><td>100.0%</td><td>205</td><td>100.0%</td><td>745</td><td>100.0%</td></tr><tr><td colspan=\"7\">Pearson chi2(1) = 0.8850 Pr = 0.347</td></tr><tr><td colspan=\"7\">Location</td></tr><tr><td>MICU</td><td>337</td><td>62.4%</td><td>131</td><td>63.9%</td><td>468</td><td>62.8%</td></tr><tr><td>SICU</td><td>27</td><td>5.0%</td><td>6</td><td>2.9%</td><td>33</td><td>4.4%</td></tr><tr><td>Cardiac SICU</td><td>3</td><td>0.6%</td><td>2</td><td>1.0%</td><td>5</td><td>0.7%</td></tr><tr><td>CCU</td><td>5</td><td>0.9%</td><td>2</td><td>1.0%</td><td>7</td><td>0.9%</td></tr><tr><td>Neuro ICU</td><td>15</td><td>2.8%</td><td>2</td><td>1.0%</td><td>17</td><td>2.3%</td></tr><tr><td>Burn</td><td>6</td><td>1.1%</td><td>3</td><td>1.5%</td><td>9</td><td>1.2%</td></tr><tr><td>Trauma</td><td>16</td><td>3.0%</td><td>3</td><td>1.5%</td><td>19</td><td>2.6%</td></tr><tr><td>MICU/SICU</td><td>126</td><td>23.3%</td><td>53</td><td>25.9%</td><td>179</td><td>24.0%</td></tr><tr><td>Others</td><td>5</td><td>0.9%</td><td>3</td><td>1.5%</td><td>8</td><td>1.1%</td></tr><tr><td>Total</td><td>540</td><td>100.0%</td><td>205</td><td>100.0%</td><td>745</td><td>100.0%</td></tr><tr><td colspan=\"7\">Pearson chi2(8) = 6.2595 Pr = 0.618</td></tr><tr><td colspan=\"7\">Infection site</td></tr><tr><td>Thorax</td><td>386</td><td>71.5%</td><td>147</td><td>71.7%</td><td>533</td><td>71.5%</td></tr><tr><td>Abdomen</td><td>47</td><td>8.7%</td><td>18</td><td>8.8%</td><td>65</td><td>8.7%</td></tr><tr><td>Skin or soft tissue</td><td>24</td><td>4.4%</td><td>5</td><td>2.4%</td><td>29</td><td>3.9%</td></tr><tr><td>Bacterial meningitis</td><td>2</td><td>0.4%</td><td>2</td><td>1.0%</td><td>4</td><td>0.5%</td></tr><tr><td>Urinary tract</td><td>38</td><td>7.0%</td><td>13</td><td>6.3%</td><td>51</td><td>6.8%</td></tr><tr><td>Central line</td><td>1</td><td>0.2%</td><td>1</td><td>0.5%</td><td>2</td><td>0.3%</td></tr><tr><td>Osteomyelitis</td><td>2</td><td>0.4%</td><td>2</td><td>1.0%</td><td>4</td><td>0.5%</td></tr><tr><td>Confirmed Swine Influenza A</td><td>1</td><td>0.2%</td><td>0</td><td>0.0%</td><td>1</td><td>0.1%</td></tr><tr><td>Others</td><td>38</td><td>7.0%</td><td>16</td><td>7.8%</td><td>54</td><td>7.2%</td></tr><tr><td>Suspected infection</td><td>1</td><td>0.2%</td><td>1</td><td>0.5%</td><td>2</td><td>0.3%</td></tr><tr><td>Total</td><td>540</td><td>100.0%</td><td>205</td><td>100.0%</td><td>745</td><td>100.0%</td></tr><tr><td colspan=\"7\">Pearson chi2(9) = 5.1841 Pr = 0.818</td></tr><tr><td colspan=\"7\">Vasopressor use</td></tr><tr><td>No</td><td>262</td><td>48.5%</td><td>75</td><td>36.6%</td><td>337</td><td>45.2%</td></tr><tr><td>Yes</td><td>278</td><td>51.5%</td><td>130</td><td>63.4%</td><td>408</td><td>54.8%</td></tr><tr><td>Total</td><td>540</td><td>100.0%</td><td>205</td><td>100.0%</td><td>745</td><td>100.0%</td></tr><tr><td colspan=\"7\">Pearson chi2(1) = 8.5413 Pr = 0.003</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4667272_table_1",
+   "page_num": 2,
+   "bbox": [
+    204.0,
+    60.9,
+    567.7,
+    255.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4667272_table_1.png",
+   "html": "<table><tr><td></td><td colspan=\"2\">Survivors</td><td colspan=\"2\">Non-Survivors</td><td rowspan=\"2\">P value</td></tr><tr><td></td><td>Median</td><td>IQR</td><td>Median</td><td>IQR</td></tr><tr><td>Age</td><td>53</td><td>41&#8211;63</td><td>60</td><td>50&#8211;70</td><td>&lt;0.001</td></tr><tr><td>APACHE III</td><td>86.5</td><td>69&#8211;106</td><td>103</td><td>89&#8211;124</td><td>&lt;0.001</td></tr><tr><td>CVP</td><td>11</td><td>8.5&#8211;11.0</td><td>11</td><td>8&#8211;15</td><td>0.63</td></tr><tr><td>CK</td><td>103</td><td>39&#8211;265</td><td>66</td><td>31&#8211;138</td><td>0.01</td></tr><tr><td>ALT</td><td>27</td><td>17&#8211;44</td><td>25</td><td>17&#8211;38</td><td>0.91</td></tr><tr><td>CRP</td><td>22.5</td><td>12.6&#8211;30.8</td><td>21.4</td><td>12.9&#8211;31.6</td><td>0.90</td></tr><tr><td>Urine output (24 hours)</td><td>1388</td><td>799&#8211;2217</td><td>1062</td><td>579&#8211;2050</td><td>0.02</td></tr><tr><td>Number of quadrants with infiltrates</td><td>4</td><td>3&#8211;4</td><td>4</td><td>3&#8211;4</td><td>0.018</td></tr><tr><td>PaO2</td><td>84</td><td>70&#8211;106</td><td>82</td><td>69&#8211;104</td><td>0.62</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4667272_table_2",
+   "page_num": 2,
+   "bbox": [
+    203.9,
+    636.4,
+    447.1,
+    806.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4667272_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Variables</td><td colspan=\"4\">Observations per m</td></tr><tr><td>Complete</td><td>Incomplete</td><td>Imputed</td><td>Total</td></tr><tr><td>APACHE III</td><td>707</td><td>38</td><td>38</td><td>745</td></tr><tr><td>CVP</td><td>456</td><td>289</td><td>289</td><td>745</td></tr><tr><td>Number of quadrats with infiltrates</td><td>560</td><td>185</td><td>185</td><td>745</td></tr><tr><td>CK</td><td>743</td><td>2</td><td>2</td><td>745</td></tr><tr><td>CRP</td><td>699</td><td>46</td><td>46</td><td>745</td></tr><tr><td>PaO2</td><td>733</td><td>12</td><td>12</td><td>745</td></tr><tr><td>Urine output</td><td>741</td><td>4</td><td>4</td><td>745</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4667272_table_3",
+   "page_num": 3,
+   "bbox": [
+    203.7,
+    61.3,
+    444.8,
+    721.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4667272_table_3.png",
+   "html": "<table><tr><td>Mortality outcome</td><td>Odds Ratio</td><td>Lower limit of 95% CI</td><td>Upper limit of 95% CI</td><td>P &gt; t</td></tr><tr><td>Corticosteroids</td><td>1.18</td><td>0.81</td><td>1.71</td><td>0.396</td></tr><tr><td>Female (male as reference)</td><td>0.86</td><td>0.60</td><td>1.22</td><td>0.393</td></tr><tr><td colspan=\"5\">Location</td></tr><tr><td>SICU</td><td>0.81</td><td>0.30</td><td>2.14</td><td>0.666</td></tr><tr><td>Cardiac SICU</td><td>1.13</td><td>0.15</td><td>8.72</td><td>0.908</td></tr><tr><td>CCU</td><td>0.89</td><td>0.15</td><td>5.16</td><td>0.898</td></tr><tr><td>Neuro ICU</td><td>0.75</td><td>0.16</td><td>3.65</td><td>0.726</td></tr><tr><td>Burn</td><td>2.05</td><td>0.36</td><td>11.55</td><td>0.418</td></tr><tr><td>Trauma</td><td>0.64</td><td>0.16</td><td>2.60</td><td>0.531</td></tr><tr><td>MICU/SICU</td><td>1.20</td><td>0.79</td><td>1.81</td><td>0.402</td></tr><tr><td>Others</td><td>1.42</td><td>0.30</td><td>6.70</td><td>0.656</td></tr><tr><td>Other ethnic (Hispanic or Latino as reference)</td><td>1.28</td><td>0.72</td><td>2.26</td><td>0.406</td></tr><tr><td colspan=\"5\">Infection site</td></tr><tr><td>Abdomen</td><td>0.88</td><td>0.47</td><td>1.64</td><td>0.691</td></tr><tr><td>Skin or soft tissue</td><td>0.53</td><td>0.17</td><td>1.66</td><td>0.276</td></tr><tr><td>Bacterial meningitis</td><td>2.26</td><td>0.26</td><td>19.78</td><td>0.461</td></tr><tr><td>Urinary tract</td><td>0.83</td><td>0.41</td><td>1.69</td><td>0.613</td></tr><tr><td>Central line</td><td>1.79</td><td>0.11</td><td>29.82</td><td>0.685</td></tr><tr><td>Osteomyelitis</td><td>1.61</td><td>0.20</td><td>12.63</td><td>0.652</td></tr><tr><td>Confirmed Swine Influenza A</td><td>1</td><td></td><td></td><td></td></tr><tr><td>Others</td><td>0.89</td><td>0.45</td><td>1.77</td><td>0.744</td></tr><tr><td>Suspected infection (no site specified)</td><td>4.19</td><td>0.22</td><td>78.35</td><td>0.338</td></tr><tr><td>APACHE III</td><td>1.02</td><td>1.02</td><td>1.03</td><td>&lt;0.001</td></tr><tr><td>Vasopressor use</td><td>1.04</td><td>0.71</td><td>1.54</td><td>0.829</td></tr><tr><td>CVP</td><td>.98</td><td>0.94</td><td>1.02</td><td>0.419</td></tr><tr><td>Number of quadrats with infiltrates (with each one increase)</td><td>1.22</td><td>0.93</td><td>1.60</td><td>0.142</td></tr><tr><td>CK</td><td>0.999</td><td>0.998</td><td>0.9998</td><td>0.009</td></tr><tr><td>ALT</td><td>1.001</td><td>0.996</td><td>1.006</td><td>0.816</td></tr><tr><td>CRP</td><td>1.00</td><td>0.99</td><td>1.005</td><td>0.713</td></tr><tr><td>Urine output</td><td>1.00</td><td>1.00</td><td>1.00</td><td>0.843</td></tr><tr><td>PaO2</td><td>1.00</td><td>0.99</td><td>1.01</td><td>0.839</td></tr><tr><td>Constant term</td><td>0.03</td><td>0.01</td><td>0.12</td><td>&lt;0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4667272_table_4",
+   "page_num": 4,
+   "bbox": [
+    204.0,
+    60.8,
+    475.1,
+    240.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4667272_table_4.png",
+   "html": "<table><tr><td>Variables</td><td>Odds ratio</td><td>Lower limit of 95% CI</td><td>Upper limit of 95% CI</td><td>p</td></tr><tr><td colspan=\"5\">Interaction between Corticosteroid and Vasopressor</td></tr><tr><td>Corticosteroid</td><td>1.32</td><td>0.72</td><td>2.42</td><td>0.361</td></tr><tr><td>Vasopressor</td><td>1.11</td><td>0.70</td><td>1.76</td><td>0.654</td></tr><tr><td>Corticosteroid &#215; Vasopressor</td><td>0.83</td><td>0.39</td><td>1.76</td><td>0.623</td></tr><tr><td colspan=\"5\">Interaction between Corticosteroid and partial pressure of arterial oxygen</td></tr><tr><td>Corticosteroid</td><td>1.26</td><td>0.40</td><td>3.98</td><td>0.696</td></tr><tr><td>PaO2</td><td>1.00</td><td>0.99</td><td>1.01</td><td>0.924</td></tr><tr><td>Corticosteroid &#215; PaO2</td><td>1.00</td><td>0.99</td><td>1.01</td><td>0.902</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4667272_table_5",
+   "page_num": 5,
+   "bbox": [
+    204.0,
+    60.6,
+    569.4,
+    713.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4667272_table_5.png",
+   "html": "<table><tr><td>Variables</td><td>No corticosteroids (n = 506)</td><td>Corticosteroids use (n = 239)</td><td>P</td></tr><tr><td>Gender (male, %)</td><td>251 (49.6)</td><td>114 (47.7)</td><td>0.684</td></tr><tr><td>Location (N, %)</td><td></td><td></td><td>&lt;0.001</td></tr><tr><td>Burn</td><td>8 (1.6)</td><td>1 (0.4)</td><td></td></tr><tr><td>Cardiac SICU</td><td>4 (0.8)</td><td>1 (0.4)</td><td></td></tr><tr><td>CCU</td><td>4 (0.8)</td><td>3 (1.3)</td><td></td></tr><tr><td>MICU</td><td>292 (57.7)</td><td>176 (73.6)</td><td></td></tr><tr><td>MICU/SICU</td><td>137 (27.1)</td><td>42 (17.6)</td><td></td></tr><tr><td>Neuro ICU</td><td>13 (2.6)</td><td>4 (1.7)</td><td></td></tr><tr><td>Others</td><td>3 (0.6)</td><td>5 (2.1)</td><td></td></tr><tr><td>SICU</td><td>29 (5.7)</td><td>4 (1.7)</td><td></td></tr><tr><td>Trauma</td><td>26 (3.2)</td><td>3 (1.3)</td><td></td></tr><tr><td>Ethnic (N, %)</td><td></td><td></td><td>1</td></tr><tr><td>Hispanic or Latino</td><td>58 (11.5)</td><td>28 (11.7)</td><td></td></tr><tr><td>Others</td><td>448 (88.5)</td><td>211 (88.3)</td><td></td></tr><tr><td>Infection sites (N, %)</td><td></td><td></td><td>0.713</td></tr><tr><td>Abdomen</td><td>49 (9.7)</td><td>16 (6.7)</td><td></td></tr><tr><td>Bacterial meningitis</td><td>2 (0.4)</td><td>2 (0.8)</td><td></td></tr><tr><td>Central line</td><td>1 (0.2)</td><td>1 (0.4)</td><td></td></tr><tr><td>Confirmed Swine Influenza A</td><td>1 (0.2)</td><td>0</td><td></td></tr><tr><td>Osteomyelitis</td><td>2 (0.4)</td><td>2 (0.8)</td><td></td></tr><tr><td>Others</td><td>41 (8.1)</td><td>13 (5.4)</td><td></td></tr><tr><td>Skin or soft tissue</td><td>18 (3.6)</td><td>11 (4.6)</td><td></td></tr><tr><td>Suspected infection</td><td>1 (0.2)</td><td>1 (0.4)</td><td></td></tr><tr><td>Thorax</td><td>356 (70.4)</td><td>177 (74.1)</td><td></td></tr><tr><td>Urinary tract</td><td>35 (6.9)</td><td>16 (6.7)</td><td></td></tr><tr><td>Vasopressor (N, %)</td><td>259 (51.2)</td><td>149 (62.3)</td><td>0.005</td></tr><tr><td>APACHE III (median, IQR)</td><td>89 (70&#8211;109)</td><td>96.5 (79&#8211;117.2)</td><td>&lt;0.001</td></tr><tr><td>CVP (mmHg)</td><td>11 (8&#8211;14)</td><td>11 (9&#8211;15)</td><td>0.176</td></tr><tr><td>The number of quadrants with infiltrates (median, range)</td><td>4 (0&#8211;4)</td><td>4 (2&#8211;4)</td><td>0.037&#167;</td></tr><tr><td>CK (mmol/l)</td><td>91 (40&#8211;233)</td><td>75 (31&#8211;195)</td><td>0.336</td></tr><tr><td>ALT (mmol/l)</td><td>26 (16&#8211;41)</td><td>27 (17&#8211;44)</td><td>0.298</td></tr><tr><td>CRP (mg/dl)</td><td>22.7 (13.5&#8211;31.35)</td><td>21.2 (10.98&#8211;30.60)</td><td>0.003</td></tr><tr><td>Urine output (24 hours)</td><td>1400 (785&#8211;2218)</td><td>1170 (645.2&#8211;1968)</td><td>0.063</td></tr><tr><td>PaO2 (mmHg)</td><td>84 (70&#8211;104.5)</td><td>83 (68&#8211;105)</td><td>0.700</td></tr><tr><td>Mortality (N,%)</td><td>127 (25.1)</td><td>78 (32.6)</td><td>0.039</td></tr><tr><td>Age (years)</td><td>55 (42&#8211;66)</td><td>56 (43&#8211;65)</td><td>0.866</td></tr></table>"
+  }
+ ]
+}

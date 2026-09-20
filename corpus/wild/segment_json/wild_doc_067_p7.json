@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_067",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    69,
+    580,
+    143
+   ],
+   "ocr": "The following data table presents critical insights into the assessment of various infant formulas, specifically focusing on their safety and efficacy in relation to trace metal contaminants and immunological responses. Notably, the metrics for cadmium (Cd) and lead (Pb) levels are of particular concern due to their potential health implications for infants. For instance, the analysis of Infant Formula B reveals cadmium concentrations of 0.103 ± 0.091 mg/kg, a level that underscores the importance of ongoing monitoring and regulatory compliance to ensure infant safety."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    131,
+    580,
+    235
+   ],
+   "ocr": "Additionally, the table highlights the efficacy of a vaccine formulated using the Ebola_VP30/Baculovirus mechanism, which operates through a virus-like particle (VLP) strategy aimed at eliciting an adaptive immune response in tested species, specifically mice. The efficacy results, alongside the percentages of subjects exhibiting major depression and those without major depression, provide a comprehensive overview of both the immunological outcomes and the psychological implications of the tested formulas. This multifaceted analysis is crucial for informing healthcare providers and regulatory bodies about the potential risks and benefits associated with these infant feeding options."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    262.0,
+    580.0,
+    389.0
+   ],
+   "ocr": "Infant formula code Cd Pb Zn\nInfant formula B ND∗ 0.103 ± 0.091 45.732 ± 0.555\nInfant formula L ND 0.051 ± 0.058 71.553 ± 1.104\nInfant formula M ND 0.016 ± 0.027 39.873 ± 0.921\nInfant formula N ND 0.063 ± 0.065 42.127 ± 1.014\nInfant formula P ND ND 27.888 ± 0.542",
+   "table_id": "img_074930_t0"
+  },
+  "p7_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    416.0,
+    580.0,
+    623.0
+   ],
+   "ocr": "Vaccine Type Mechanism Species Tested Efficacy Strategy\nEbola_VP30/Baculovirus Virus-like particle (VLP) Adaptive Immune Response Mice Drug dependent-up to 100% Multiple i.m. injections multiple boosts\nEBOV-GP-Fc fusion protein Fusion protein/ subunit vaccine Adaptive Immune Response Mice Up to 90% 4 i.p. injections, ~3 weeks apart\nNicotiana Benthamiana Subunit vaccine Adaptive Immune Response Mice High specific antibody titer 4 s.c. injections, 3 weeks apart\nmCMV/EBOV-NPCTL CMV-based vaccine Adaptive Immune Response Mice Drug dependent-up to 100% 2 i.p. injections, 4 weeks apart\nHPIV3/ΔF-HN/EboGP Vector-based vaccine, replication competent Adaptive Immune Response Guinea Pigs 100% EBOV 1 i.n. inoculation, 25 days prior to infection",
+   "table_id": "img_074930_t1"
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    650.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "n Major Depression% (95 CI) No Major Depression% (95 CI)\n1994 5,847 14.2 (8.0–20.3) 20.0 (18.6–21.4)\n1996 5,395 9.2 (3.7–14.7) 16.0 (14.7–17.3)\n1998 4,900 6.1 (1.6–10.6) 13.3 (12.0–14.6)\n2000 4,247 5.6 (1.0–10.1) 10.1 (8.9–11.3)\n2002 3,714 5.8 (0.8–10.9) 8.8 (7.6–10.0)",
+   "table_id": "img_074930_t2"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_448",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    460.1,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Cost of Hospitalizations for Infections Related to IDU in Miami"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    593.6,
+    107.4
+   ],
+   "ocr": "Table 1. ICD-9 codes used to define injection drug use-related infections."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    114.8,
+    714.1,
+    364.7
+   ],
+   "ocr": "Diagnoses ICD-9 codesa\nDrug abuse diagnoses\nOpiates E850.0, E850.2, 304.00–304.03, 304.70–304.73, 305.50–305.53, 965.01,\n965.09\nCocaine 304.21–304.23, 305.60–305.63, 970.81\nAmphetamines 304.41–304.43, 305.71–305.73, 969.72\nSedatives 305.40–305.43\nOther 304.60–304.63, 304.80–304.83, 304.90–304.93, 305.90–305.93, 648.33,\n648.34\nInfections\nEndocarditis 112.81, 421.0, 421.1, 421.9, 424.0–424.3, 424.90, 424.91, 424.99\nBacteremia or Sepsis 038.0, 038.10–038.12, 038.19, 038.2, 038.3, 038.40–038.44, 038.49, 038.8,\n038.9, 415.12, 422.92, 449, 785.52, 790.7, 995.90–995.92\nOsteomyelitis 730.00–730.29, 730.90–730.99\nSkin or soft tissue 040.0, 324.0, 324.1, 324.9, 326, 567.22, 567.31, 567.38, 569.5, 572.0, 590.1,\ninfections 681.00–681.02, 681.10, 681.11, 681.9, 682.0–682.9, 709.8, 728.86, 723.6,\n729.30, 729.39, 785.4",
+   "table_id": "PMC4468183_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    376.1,
+    726.9,
+    898.4
+   ],
+   "ocr": "aHospitalizations for injection drug use-related infections were deﬁned as having one or more drug abuse diagnoses with one or more infection diagnoses doi:10.1371/journal.pone.0129360.t001 EulerAPE version 3.0 to show the relationship between the observed frequencies of infectious diagnoses and respective cost[29] Hospital charges data were analyzed to evaluate for the potential association of the different types of infections (endocarditis, bacteremia/sepsis, osteomyelitis, and skin and soft tissue infection) with an increased or decreased cost of hospitalization within the cohort. Patients with multiple infections were adjudicated prior to analysis based on the review of their medical records. The principal infection was determined in a hierarchical order based on clinical sever- ity in the following order: endocarditis, bacteremia/sepsis, osteomyelitis, or SSTI. The Wil- coxon rank sums test was used to report a p value for the associations between specific infections and the respective total charges using a 2-tailed t test. In comparing adjusted mean charges between the different infection types, several linear regression models were applied with log-transformed outcomes. The models were adjusted for the presence of concomitant infections. To assess the potential impact of insurance status, age, HIV status, and opiate vs. non-opiate drug abuse on the relationship between bacterial infections and charges, the impact of forcing these variables into the multivariable model of charges was evaluated. Adjusted geometric means of the charges and their 95% confidence intervals were calculated. All analyses were completed using SAS Version 9.2 (SAS Institute Inc., Cary, NC). The charges based on insurance status (county/uninsured, Medicare, Medicaid, private insurance) were reported. The cost over the 12-month period was estimated using the cost-to- charge ratio of 32% for Jackson Memorial Hospital, according to the most recent publicly filed facility profile. [30] Results Demographics Demographics are presented in Table 2. Over the 12-month period there were 349 IDUs hospi- talized, with a total of 423 admissions at Jackson Memorial Hospital for injection drug- use related infections. Seventy-one percent (n = 248) were male, 52% (n = 180) were white, and"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129360 June 15, 2015 4 / 11"
+  }
+ }
+}

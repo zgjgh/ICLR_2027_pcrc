@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_013",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The following data table presents a comparative analysis of classification performance metrics for a computer-aided diagnosis (CAD) system, highlighting the effectiveness of various algorithms in identifying relevant medical conditions."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    125
+   ],
+   "ocr": "The metrics evaluated include Precision, Recall, and F-score, which are crucial for assessing the accuracy and reliability of diagnostic models. Precision is defined as the ratio of true positive results to the total number of positive predictions, offering insights into the model's ability to avoid false positives."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    373.0
+   ],
+   "ocr": "Risk factor Macroaveraged Microaveraged\nPrecision Recall F-score Precision Recall F-score\nCAD 0.3455 0.2985 0.3203 0.5261 0.7334 0.6127\nDiabetes 0.6876 0.6724 0.6799 0.9202 0.9483 0.9341\nFamily history 0.9728 0.9728 0.9728 0.9728 0.9728 0.9728\nHyperlipidemia 0.4504 0.4451 0.4477 0.8415 0.9334 0.8851\nHypertension 0.6970 0.7375 0.7166 0.8531 0.9613 0.9040\nMedication 0.6703 0.6731 0.6717 0.8209 0.7908 0.8056\nObesity 0.1589 0.1652 0.1620 0.7683 0.9618 0.8542\nSmoking history 0.8113 0.8113 0.8113 0.8113 0.8145 0.8129\nOverall 0.8053 0.8515 0.8277 0.8138 0.8472 0.8302",
+   "table_id": "img_012400_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    389,
+    580,
+    432
+   ],
+   "ocr": "Recall, on the other hand, measures the model's capacity to identify all relevant instances, calculated as the ratio of true positives to the total number of actual positive cases. The F-score serves as a harmonic mean of Precision and Recall, providing a single metric that balances the trade-offs between these two important measures."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    420,
+    580,
+    493
+   ],
+   "ocr": "In the context of this analysis, the values for Precision and Recall indicate varying degrees of diagnostic accuracy across different algorithms, with notable performance metrics recorded as 0.3455 for Precision and 0.2985 for Recall. Additionally, the F-score of 0.3203 reflects the overall effectiveness of the CAD system in providing reliable diagnostic support, underscoring the need for ongoing refinement and evaluation of these models to enhance medical decision-making processes."
+  }
+ }
+}

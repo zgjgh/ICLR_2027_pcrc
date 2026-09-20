@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_051",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    110,
+    580,
+    137
+   ],
+   "ocr": "The analysis presented in the accompanying table elucidates the impact of TERT gain on various clinical outcomes, specifically examining the relationship between TERT gain status (yes vs."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    125,
+    580,
+    153
+   ],
+   "ocr": "no) and neurological dysfunction (Factor 1). The hazard ratios (HR) and corresponding p-values provide critical insights into the statistical significance of these associations."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    198.0,
+    580.0,
+    321.0
+   ],
+   "ocr": "Parameters Unadjusted Adjusted*\nHR (95% CI) P HR (95% CI) P\nTERT gain (yes vs no) 3.8 (1.4-10.3) 0.0078 3.0 (1.1-8.4) 0.032\nTERT T349C (yes vs no) 2.8 (1.0-7.7) 0.047 2.3 (0.9-6.6) 0.096\nMYC (high vs low)** 3.5 (1.1-10.8) 0.031 3.2 (1.1-10.1) 0.045\nChevallier's classification (3-4 vs 1-2) 3.6 (1.1-12.6) 0.048 - -",
+   "table_id": "img_056009_t0"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    359.0,
+    580.0,
+    480.0
+   ],
+   "ocr": "Factor 1 Factor 2 Factor 3 Factor 4\nr p r p r p r p\nFactor 1 (neurological dysfunction) 0.602 0.000 0.627 0.000 0.868 0.000\nFactor 2 (respiratory) 0.602 0.000 0.679 0.000 0.863 0.000\nFactor 3 (cardiac) 0.627 0.000 0.679 0.000 0.877 0.000\nGlobal SCSvp 0.868 0.000 0.863 0.000 0.877 0.000",
+   "table_id": "img_056009_t1"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    527.0,
+    580.0,
+    627.0
+   ],
+   "ocr": "Variables Descriptive statistics Spearman’s correlations\nMean SE 1 2\n1 LSAS 58.20 2.42\n2 Probability biases 17.25 0.78 0.30†\n3 Cost biases 16.71 0.67 0.47** 0.56**",
+   "table_id": "img_056009_t2"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    716
+   ],
+   "ocr": "Notably, the HR for patients with TERT gain indicates a substantial increase in risk for neurological dysfunction, calculated at 3.8 (95% CI: 1.4-10.3) with a p-value of 0.0078. This suggests a strong and statistically significant correlation between TERT gain and the likelihood of experiencing neurological complications. Additionally, the HR for patients without TERT gain is reported as 3.0 (95% CI: 1.1-8.4) with a p-value of 0.032, further reinforcing the association."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    763
+   ],
+   "ocr": "The inclusion of multiple correlation coefficients (r) and their corresponding p-values offers a comprehensive overview of the relationships being examined, enhancing the robustness of the data. Together, these metrics underscore the importance of TERT gain as a potential biomarker for predicting neurological dysfunction in clinical settings."
+  }
+ }
+}

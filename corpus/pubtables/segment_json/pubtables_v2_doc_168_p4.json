@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_168",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    42.8,
+    302.3,
+    67.0
+   ],
+   "ocr": "Saleem et al. Journal of Biomedical Semantics 2014, 5:47 http://www.jbiomedsem.com/content/5/1/47"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    622.6,
+    43.0,
+    679.1,
+    54.4
+   ],
+   "ocr": "Page 15 of 18"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    314.8,
+    121.7,
+    390.0,
+    154.2
+   ],
+   "ocr": "FedX total number TopFed total"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    371.1,
+    121.7,
+    483.4,
+    154.2
+   ],
+   "ocr": "of sources selected number of sources selected"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    152.1,
+    381.5,
+    555.0
+   ],
+   "ocr": "40 35 30 25 20 15 10 5 0 1 2 3 4 5 Figure 8 Efficient source selection. Comparison of the TopFed and FedX sources selected. Y-axis shows the total triple pattern-wise sources selected with FedX. It is important to note that all queries that are not specific to a patient (i.e, queries 2, 3, 5, 10), the TopFed source selection time is small (less than 10 msec). The reason is that the tumour number cannot be inferred from these queries and as a result less computation (index lookups) is required in the source selection Algorithm 1. In Table 7, we compare the execution time of TopFed and FedEx for all of the benchmark queries using a two-"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    381.9,
+    359.3,
+    649.0,
+    400.4
+   ],
+   "ocr": "6 7 8 9 10 Avg source selection in terms of the total number of triple pattern-wise for each of the benchmark query given in X-axis."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    431.4,
+    679.1,
+    555.1
+   ],
+   "ocr": "significantly outperforms FedX in benchmark queries 2 and 3 related to exon expression and methylation, respec- tively. These queries select the complete set of results for all of the 25 patients. TopFed is able to infer from the query that the category colour should be pink and green, respectively, and issue the complete query to only the endpoints in the corresponding colour categories. In con- trast, FedX is not able to perform such pre-processing,"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    72.3,
+    551.9,
+    366.7,
+    570.1
+   ],
+   "ocr": "tailed heteroscedastic t-test based on a sample of 10. It"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    551.9,
+    679.1,
+    570.1
+   ],
+   "ocr": "hence issuing the query to all endpoints. As a result, it"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    566.9,
+    366.7,
+    585.2
+   ],
+   "ocr": "is important to mention that the query execution time"
+  },
+  "p4_b10": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    566.9,
+    679.1,
+    585.2
+   ],
+   "ocr": "has to collect results from all of the endpoints in the blue,"
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    582.0,
+    366.7,
+    600.2
+   ],
+   "ocr": "was measured when the first result was retrieved, i.e.,"
+  },
+  "p4_b12": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    582.0,
+    679.0,
+    600.2
+   ],
+   "ocr": "pink, and green categories when only one of the cate-"
+  },
+  "p4_b13": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    597.0,
+    366.7,
+    615.3
+   ],
+   "ocr": "we did not iterate over all results. As an overall perfor-"
+  },
+  "p4_b14": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    597.1,
+    679.0,
+    615.3
+   ],
+   "ocr": "gories can produce results for each query. As an example"
+  },
+  "p4_b15": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    612.1,
+    366.7,
+    630.3
+   ],
+   "ocr": "mance evaluation, the query execution time of TopFed"
+  },
+  "p4_b16": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    612.1,
+    679.1,
+    630.3
+   ],
+   "ocr": "of the FedX approach addressing query 2, the triple pat-"
+  },
+  "p4_b17": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    627.2,
+    382.2,
+    677.5
+   ],
+   "ocr": "is about one third to that of FedX. Specifically, TopFed Table 7 Comparison of average execution time for each query"
+  },
+  "p4_b18": {
+   "type": "caption",
+   "bbox": [
+    384.5,
+    627.2,
+    679.0,
+    677.5
+   ],
+   "ocr": "tern (?recordNo, tcga:chromosome, ?chromosom) relies (based on a sample of 10)"
+  },
+  "p4_b19": {
+   "type": "table",
+   "bbox": [
+    72.1,
+    683.5,
+    678.7,
+    905.9
+   ],
+   "ocr": "FedX(first run) FedX(cached) TopFed\nQuery no Execution time(msec) Execution time(msec) S.E Execution time(msec) S.E\n1 913 401.2 5.22 341.5* 5.60\n2 81619 81170.7 655.93 866.5* 22.08\n3 82271 81817.8 653.22 666* 27.12\n4 1199 367.6 6.88 262.7* 7.35\n5 80423 78723.5 459.43 78691.5 458.70\n6 837 416.9 8.38 246.1* 3.56\n7 921 399.6 4.41 248.1* 7.20\n8 900 89 2.45 72.7* 1.52\n9 950.3 76.8 2.16 63.3* 1.89\n10 912 63.6 1.99 49.6* 1.02\nAverage 25094.53 24352.67 180.01 8150.8 53.60",
+   "table_id": "PMC4417511_table_6"
+  },
+  "p4_b20": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    912.2,
+    168.4,
+    923.1
+   ],
+   "ocr": "*Significant improvement."
+  }
+ }
+}

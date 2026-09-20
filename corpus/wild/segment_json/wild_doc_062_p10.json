@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_062",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    127.0
+   ],
+   "ocr": "The following table presents a detailed analysis of the correlation between EZH2 grade and various traits over a specified duration, specifically focusing on two critical timeframes: four years and five years."
+  },
+  "p10_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    167.0,
+    580.0,
+    288.0
+   ],
+   "ocr": "Biomarker status FFBF CRFS DMFS PCSS OS\n4 years P‐value 4 years P‐value 4 years P‐value 5 years P‐value 5 years P‐value\nEZH2 grade 0 100% 0.6324 100% 0.1125 100% 0.2536 100% 0.1715 100% 0.2432\nEZH2 grade 1 90% 89% 90% 100% 80%\nEZH2 grade 2 75% 87% 85% 95% 89%\nEZH2 grade 3 69% 69% 75% 81.8% 77%",
+   "table_id": "img_068810_t0"
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    333.0,
+    580.0,
+    455.0
+   ],
+   "ocr": "Traits/groups S60 J60 t values\nN 10 10\nSCC (×1000/ml) 197.68b±4.74 175.38a±5.51 9.41**\npBMEC (×1000/ml) 4.99±0.52 5.57±0.45 0.70\npBMEC recovery % 2.54±0.27 3.19±0.28 2.71\nRNA yield (μg) 7.56±0.81 6.31±1.09 0.84",
+   "table_id": "img_068810_t1"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    498.0,
+    580.0,
+    625.0
+   ],
+   "ocr": "Overall NH ED Clinic P-Value*\nn % n % n % n %\nInappropriate use across all Infection Types 359 48.8 304 47.5 16 47.1 39 63.9 0.048\nInappropriate for Lower Respiratory Tract Infections 99 50.7 94 51.9 2 28.6 3 42.9 0.437\nInappropriate for Skin and Soft Tissue Infections 47 26.9 29 21.5 3 25.0 15 53.6 0.002\nInappropriate for Urinary Tract Infections 213 58.4 181 55.9 11 73.3 21 80.8 0.023",
+   "table_id": "img_068810_t2"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    716
+   ],
+   "ocr": "Each timeframe is accompanied by P-values, which serve as indicators of statistical significance in relation to the traits or groups examined. Notably, the table highlights that for the EZH2 grade 0 category, a consistent 100% prevalence was observed across both four-year periods, accompanied by P-values of 0.6324 and 0.1125, respectively. This suggests a lack of statistically significant changes in the presence of this grade over time."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "Additionally, the columns detailing the t-values and sample sizes (n) provide further context for the robustness of the analysis, with a sample size of 10 for each group. Overall, these findings contribute to our understanding of the stability of EZH2 grade 0 across the selected timeframes, offering insights into the potential implications for clinical outcomes and treatment strategies in relevant patient populations."
+  }
+ }
+}

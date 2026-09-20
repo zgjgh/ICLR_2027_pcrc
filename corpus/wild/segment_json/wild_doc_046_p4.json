@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_046",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    108,
+    580,
+    182
+   ],
+   "ocr": "In the ongoing investigation of imaging modalities for clinical applications, the comparative analysis between patients and control groups remains critical in understanding diagnostic efficacy. The data presented in the accompanying table elucidates several key metrics that inform our evaluation of both deterministic and probabilistic sensitivity and specificity. Specifically, the columns labeled “Deterministic Sensitivity” and “Probabilistic Sensitivity” provide insight into the accuracy of imaging techniques under various conditions."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    170,
+    580,
+    228
+   ],
+   "ocr": "The data indicates that the deterministic sensitivity is notably higher than its probabilistic counterpart, suggesting that traditional methodologies may yield more reliable results in specific contexts. This distinction is particularly relevant when considering the field of view (FOV) utilized during imaging, as a broader FOV can significantly impact sensitivity metrics."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    267.0,
+    580.0,
+    394.0
+   ],
+   "ocr": "HaplotypeMyD88 -938C>A SNP1-SNP2 Estimated frequencies p value p value global\nPatients Controls\nA-C 0.199 0.029 <0.01 <0.01\nA-G 0.086 0.059 0.33\nC-C 0.699 0.841 <0.01\nC-G 0.011 0.065 0.01",
+   "table_id": "img_050884_t0"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    435.0,
+    580.0,
+    648.0
+   ],
+   "ocr": "Observer FOV mA DeterministicSensitivity Probabilistic Sensitivity Deterministic Specificity ProbabilisticSpecificity\nFirst 13×14.5 4 0.286 0.715 0.056 0.667\nSecond 13×14.5 4 0.357 0.643 0.111 0.667\nFirst 13×14.5 13 0.214 0.643 0.0 0.278\nSecond 13×14.5 13 0.071 0.785 0.0 0.278\nFirst 7.5×10 13 0.444 0.777 0.0 0.313\nSecond 7.5×10 13 0.556 0.778 0.188 0.313",
+   "table_id": "img_050884_t1"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    717
+   ],
+   "ocr": "Furthermore, the image acquisition parameters, such as milliampere-seconds (mA), directly influence the quality of the resulting images, thereby affecting diagnostic accuracy. The importance of these metrics cannot be overstated, as they directly correlate with the potential outcomes for patient management and treatment planning."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "By analyzing the differences between patients and controls, we can better comprehend the implications of these imaging techniques on clinical decision-making processes. The findings underscore the necessity for further research to refine these metrics and enhance the reliability of diagnostic imaging in patient care, ultimately leading to improved health outcomes."
+  }
+ }
+}

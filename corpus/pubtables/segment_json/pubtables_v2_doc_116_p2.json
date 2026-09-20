@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_116",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    590.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Ovarian Cancer Genomics"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    383.3,
+    92.8
+   ],
+   "ocr": "Table 2. Genes with increased expression on chromosomes 3"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    387.0,
+    81.4,
+    417.0,
+    92.8
+   ],
+   "ocr": "and 7."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    696.9,
+    533.6
+   ],
+   "ocr": "Samples Samples DE Probesets\nRegion ID Chr Start1 End ‘‘G’’2 ‘‘N’’2 (%)3 Most significant DE Genes4\n3_1 3 157.223 157.972 30 37 3 (60) SSR3; TIPARP; KCNAB1\n3_2 3 158.260 159.895 31 36 8 (62) MLF1; GFM1; RSRC1; CCNL1; PTX3; VEPH1; LXN; SHOX2\n3_3 3 159.895 159.959 30 37 2 (100) RARRES1\n3_4 3 159.959 161.006 32 35 2 (50) MFSD1; SCHIP1\n3_5 3 161.006 161.392 30 37 3 (75) SCHIP1;IL12A\n3_7 3 161.392 168.660 33 35 8 (24) KPNA4; SMC4; B3GALNT1; NMD3; TRIM59; hCG_16001; IFT80\n3_8 3 168.697 168.916 37 31 1 (50) PDCD10\n3_9 3 168.916 169.209 38 30 2 (100) PDCD10; SERPINI1\n3_10 3 169.209 172.478 41 27 12 (40) MYNN; PHC3; SKIL; MDS1; ARPM1;TLOC1; PRKCI; EVI1; EIF5A2;\nSLC7A14\n3_12 3 172.586 177.095 39 29 2 (8) ECT2; AADACL1\n3_14 3 177.366 180.518 39 29 4 (27) TBL1XR1; PIK3CA\n3_15 3 180.518 180.608 35 33 3 (100) ZNF639; MFN1;GNB4\n3_17 3 180.608 181.970 36 32 6 (43) ACTL6A; MRPL47; NDUFB5; GNB4; LOC442098; TTC14\n3_18 3 181.971 184.153 34 34 4 (57) FXR1; DNAJC19; DCUN1D1; ATP11B\n3_19 3 184.153 184.291 35 33 2 (100) DCUN1D1;MCCC1\n3_20 3 184.291 185.996 34 34 18 (50) ABCF3*; PSMD2; AP2M1; EIF4G1; PARL; ALG3; KLHL24; POLR2H;\nEIF2B5*; DVL3*; YEATS2; MAGEF1; MCCC1; LAMP3; ABCC5\n3_22 3 186.007 187.399 36 32 5 (31) SENP2; TMEM41A*; SFRS10; VPS8;EHHADH\n3_24 3 187.519 189.379 35 33 10 (42) RFC4*; RPL39L*; DNAJB11; EIF4A2; TBCCD1; SNORA4; ST6GAL1;\nBCL6; RTP4\n3_25 3 189.379 189.430 38 30 2 (100) LPP; FLJ42393\n3_27 3 193.766 193.936 35 33 1 (50) FGF12\n3_28 3 193.936 199.337 31 37 36 (46) WDR53*; FBXO45*; NCBP2; LSG1; PIGX; RNF168; SENP5; OPA1;\nFYTTD1; CENTB2; UBXD7; PCYT1A; ATP13A3; KIAA0226*; DLG1\n7_1 7 141.416 141.431 34 33 1 (100) MGAM",
+   "table_id": "PMC2851616_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    546.9,
+    388.0,
+    963.6
+   ],
+   "ocr": "1. Start and end position of regions in Mbp based on hg18 (March 2006 release). 2. Number of samples with copy number gains (G) and normal copy number (N) 3. Number of differentially expressed (DE) probesets by expression microarray. 4. Only coding genes with a symbol (from Affymetrix array annotation) are listed S5. Genes for each region are listed in decreasing order of significance, with only *indicates genes with a correlation coefficient of .0.7. doi:10.1371/journal.pone.0009983.t002 number change; for chr8, this included genes with a frequency of $60%, for chr3, $50% and for chr20 $42%. This list comprised 37 genes (Table 6). Secondly, we also wished to include genes that were highly amplified. From our list of highly amplified genes in at least 5 samples we selected those that had a strong positive correlation between copy number and expression (r.0.6, n = 32). Some of the genes that were highly amplified were also differentially expressed based on the expression analysis of frequently gained regions, so we also included genes with a log fold change greater than 0.6 (n = 17). Taking genes satisfying one or the other of these criteria, we added 41 genes to our high priority list (Table 6). When we combined these two gene lists, the first based on ‘‘high frequency’’ and the second on ‘‘high amplitude’’ but both with increased expression, the final number of unique genes was 70 (Table 6). Discussion Gene expression analysis has been widely used to identify key pathways and clinically important subgroups in ovarian cancer but identification of specific driver genes using this methodology alone PLoS ONE | www.plosone.org"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    379.6,
+    557.6,
+    700.8,
+    598.5
+   ],
+   "ocr": "used in the expression analysis. Samples with copy number loss were not included. Regions with no DE named genes are not shown here but are listed in Table S4. here and hence can differ from the number quoted in brackets. For a full list see Table the top 15 most significant listed."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    638.2,
+    700.8,
+    963.6
+   ],
+   "ocr": "has been hampered by the fact that expression is rather plastic and there has been little consensus in the genes identified between such studies [1,8]. One reason for this lack of consistency is that most studies have analysed RNA from whole tumour samples without verification of the percentage cancer epithelium and/or have used diverse control tissues such as whole ground ovary [9]. In contrast to gene expression, genomic alterations may be a more stable and reliable predictor of the location of driver genes. Ovarian cancer has long been suspected to be cytogenetically complex [10] and recent advances in genomics technology has confirmed the profound genomic aberrations that characterise most ovarian cancers [4,11,12,13]. Despite this complexity, published copy number profiles of ovarian cancers are highly comparable at a global level [3] and many studies have identified very similar regions of frequent copy number alteration. However, progress at identifying key driver genes has been slow, with different studies often identifying different candidates in the same genomic region. For example, the chromosome 20 amplicon driver has variously been suggested to be ADRM1 [14], EYA2 [15], AURKA and ZNF217 [16], among several others. Early studies integrating expression and copy number data have either used cancer cell lines to identify over expressed genes [17,18] and/or microarray 4 April 2010 | Volume 5 | Issue 4 | e9983"
+  }
+ }
+}

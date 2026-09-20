@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_161",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4364894_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.6,
+    726.7,
+    211.7
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4364894_table_0.png",
+   "html": "<table><tr><td>Segment</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>&#916;i(m)</td><td>100</td><td>100</td><td>100</td><td>400</td></tr><tr><td>vfree i(m/s)</td><td>14.21</td><td>19.57</td><td>22.76</td><td>22.76</td></tr><tr><td>Vmax i(1/s)</td><td>0.1421</td><td>0.1957</td><td>0.2276</td><td>0.0569</td></tr><tr><td>Ci-mi(veh)</td><td>15.15</td><td>15.15</td><td>15.15</td><td>60.61</td></tr><tr><td>&#945;i(t) (veh)</td><td>3.78</td><td>3.78</td><td>3.78</td><td>15.15</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4364894_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.6,
+    717.3,
+    222.5
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4364894_table_1.png",
+   "html": "<table><tr><td>Degree of Saturation (DOS) X</td><td>Traffic demands To achieve DOS (veh/h)</td><td>Traffic demands For 15 minutes (vehs)</td><td>Traffic Demands For one signal cycle (vehs)</td></tr><tr><td>0.58</td><td>464</td><td>116</td><td>29</td></tr><tr><td>0.7</td><td>560</td><td>140</td><td>35</td></tr><tr><td>0.86</td><td>688</td><td>172</td><td>43</td></tr><tr><td>1.1</td><td>880</td><td>220</td><td>55</td></tr><tr><td>1.2</td><td>960</td><td>240</td><td>60</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4364894_table_2",
+   "page_num": 3,
+   "bbox": [
+    53.6,
+    752.9,
+    734.9,
+    858.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4364894_table_2.png",
+   "html": "<table><tr><td>Cycle</td><td>Demand for one signal cycle (vehs)</td><td>End of red queue Qs (vehs)</td><td>Residue queue Qr (vehs)</td><td>Peak position of queue Qm (vehs)</td><td>Total delay (s)</td></tr><tr><td>1</td><td>29</td><td>28</td><td>0</td><td>29</td><td>1791.9</td></tr><tr><td>2</td><td>29</td><td>28</td><td>0</td><td>29</td><td>1791.9</td></tr><tr><td>3</td><td>29</td><td>28</td><td>0</td><td>29</td><td>1791.9</td></tr><tr><td>4</td><td>29</td><td>28</td><td>0</td><td>29</td><td>1791.9</td></tr><tr><td>Total</td><td>116</td><td>-</td><td>-</td><td>116</td><td>7167.6</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4364894_table_3",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    547.1,
+    726.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4364894_table_3.png",
+   "html": "<table><tr><td>Arrival Type</td><td>DOS X</td><td>TYST (vehs)</td><td>IM (vehs)</td><td>CTM (vehs)</td></tr><tr><td rowspan=\"5\">AT-1</td><td>0.58</td><td>28.38</td><td>27.86</td><td>32.50</td></tr><tr><td>0.7</td><td>34.53</td><td>33.62</td><td>32.50</td></tr><tr><td>0.86</td><td>43.51</td><td>41.68</td><td>39.39</td></tr><tr><td>1.1</td><td>61.38</td><td>67.83</td><td>55.00</td></tr><tr><td>1.2</td><td>69.96</td><td>87.61</td><td>60.00</td></tr><tr><td rowspan=\"5\">AT-2</td><td>0.58</td><td>22.83</td><td>22.84</td><td>27.50</td></tr><tr><td>0.7</td><td>28.24</td><td>27.35</td><td>27.50</td></tr><tr><td>0.86</td><td>35.48</td><td>33.94</td><td>30.00</td></tr><tr><td>1.1</td><td>54.81</td><td>58.32</td><td>54.27</td></tr><tr><td>1.2</td><td>63.38</td><td>77.29</td><td>53.62</td></tr><tr><td rowspan=\"5\">AT-4</td><td>0.58</td><td>15.56</td><td>16.82</td><td>10.00</td></tr><tr><td>0.7</td><td>20.81</td><td>20.53</td><td>15.00</td></tr><tr><td>0.86</td><td>26.48</td><td>25.39</td><td>17.50</td></tr><tr><td>1.1</td><td>43.70</td><td>47.47</td><td>43.91</td></tr><tr><td>1.2</td><td>52.28</td><td>54.42</td><td>44.28</td></tr><tr><td rowspan=\"5\">AT-5</td><td>0.58</td><td>4.20</td><td>5.66</td><td>5.00</td></tr><tr><td>0.7</td><td>5.43</td><td>6.76</td><td>5.00</td></tr><tr><td>0.86</td><td>8.10</td><td>8.51</td><td>8.00</td></tr><tr><td>1.1</td><td>22.87</td><td>25.54</td><td>22.50</td></tr><tr><td>1.2</td><td>31.44</td><td>41.58</td><td>28.56</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4364894_table_4",
+   "page_num": 5,
+   "bbox": [
+    252.3,
+    116.5,
+    726.6,
+    447.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4364894_table_4.png",
+   "html": "<table><tr><td>Arrival Type</td><td>DOS X</td><td>TSYT (vehs)</td><td>IM (vehs)</td><td>HCM (vehs)</td></tr><tr><td rowspan=\"5\">AT-1</td><td>0.58</td><td>29.38</td><td>29.00</td><td>27.06</td></tr><tr><td>0.7</td><td>35.75</td><td>35.00</td><td>37.10</td></tr><tr><td>0.86</td><td>45.05</td><td>43.00</td><td>49.42</td></tr><tr><td>1.1</td><td>63.19</td><td>62.50</td><td>79.34</td></tr><tr><td>1.2</td><td>71.77</td><td>72.50</td><td>99.02</td></tr><tr><td rowspan=\"5\">AT-2</td><td>0.58</td><td>29.21</td><td>29.00</td><td>27.06</td></tr><tr><td>0.7</td><td>35.71</td><td>35.00</td><td>34.91</td></tr><tr><td>0.86</td><td>45.04</td><td>43.00</td><td>48.05</td></tr><tr><td>1.1</td><td>63.19</td><td>62.50</td><td>72.96</td></tr><tr><td>1.2</td><td>71.77</td><td>72.50</td><td>83.00</td></tr><tr><td rowspan=\"5\">AT-4</td><td>0.58</td><td>26.60</td><td>29.00</td><td>20.43</td></tr><tr><td>0.7</td><td>35.43</td><td>35.00</td><td>28.21</td></tr><tr><td>0.86</td><td>45.02</td><td>43.00</td><td>43.17</td></tr><tr><td>1.1</td><td>63.19</td><td>62.50</td><td>79.34</td></tr><tr><td>1.2</td><td>71.77</td><td>72.50</td><td>99.02</td></tr><tr><td rowspan=\"5\">AT-5</td><td>0.58</td><td>22.43</td><td>29.00</td><td>15.60</td></tr><tr><td>0.7</td><td>30.07</td><td>35.00</td><td>22.68</td></tr><tr><td>0.86</td><td>43.37</td><td>43.00</td><td>38.15</td></tr><tr><td>1.1</td><td>63.16</td><td>62.50</td><td>91.00</td></tr><tr><td>1.2</td><td>71.75</td><td>72.50</td><td>145.68</td></tr></table>"
+  }
+ ]
+}

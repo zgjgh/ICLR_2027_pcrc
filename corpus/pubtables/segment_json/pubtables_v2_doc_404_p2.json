@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_404",
+  "page": 2,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.7,
+    648.7,
+    428.2
+   ],
+   "ocr": "Sensors 2012, 12 13704 The vibration signals were collected through accelerometers using a 16 channel digital audio tape (DAT) recorder at the sampling frequency 12 kHz. In order to evaluate the performance of the SR-based feature extraction approach proposed in this paper, we separate the experimental vibration data into four datasets, named as D_IRF, D_ORF, D_BF and D_MIX. Specifically, similar to the ORF and BF datasets, the IRF dataset includes five severity conditions, i.e., normal, and four types of fault bearings with faulty diameter: 0.007 (IRF07), 0.014 (IRF14), 0.021 (IRF21) and 0.028 (IRF28) inches in the inner race of the bearings, respectively. The D_MIX dataset, however, contains four different states which are normal, and three types of faults, i.e., inner race fault (IRF), ball fault (BF) and outer race fault (ORF) all with a fault diameter of 0.014 inches. The length of the signal data in every dataset is 1,024, that is, every example data includes 1,024 points. We extracted 100 examples for each severity condition, and thus the D_MIX and D_ORF dataset consists of 400 examples, simultaneously, the D_IRF and D_BF datasets contain 500 examples, respectively. The detailed description with respect to the experimental datasets is presented in Table 2, where ―07‖, ―14‖, ―21‖ and ―28‖ mean that fault diameter is 0.007, 0.014, 0.021 and 0.028 inches. For verifying the proposed scheme in this study, the overall datasets are split into two portions, i.e., training datasets (50%) and test datasets (50%). Table 2. The experimental datasets."
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    87.4,
+    439.3,
+    592.7,
+    526.2
+   ],
+   "ocr": "Datasets Number Fault type and diameter Description\nD_IRF 500 Normal, IRF07, IRF14, IRF21, IRF28 inner race fault severity\nD_ORF 400 Normal, ORF07, ORF14, ORF21 outer race fault severity\nD_BF 500 Normal, BF07, BF14, BF21, BF28 ball fault severity\nD_MIX 400 Normal, IRF14, ORF14, BF14 mixed fault classification",
+   "table_id": "PMC3545588_table_1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    546.6,
+    648.7,
+    755.7
+   ],
+   "ocr": "Figure 4 presents the vibration signal waveforms from four signal samples of the different fault types in the D_MIX dataset, note that there is a manifest difference in the overall vibration magnitude for the new health bearing when compared with other three types of fault bearings. Nevertheless, we still need to process the signal (calculate signal features) due to very high dimensions of the original vibration signals. Figure 4. The vibration signal waveforms from the different fault types: (a) Health bearing. (b) Inner race fault. (c) Outer race fault. (d) Ball fault. 0.2 1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    114.6,
+    752.6,
+    592.0,
+    967.8
+   ],
+   "ocr": "0.1 Amplitude 0 Amplitude 0 -0.1 -1 200 400 600 800 1000 200 400 600 800 1000 Data points (No.) Data points (No.) (a) (b) 0.4 0.2"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    379.8,
+    960.4,
+    395.6,
+    973.1
+   ],
+   "ocr": "0.2"
+  }
+ }
+}

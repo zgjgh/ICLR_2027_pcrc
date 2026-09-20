@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_017",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    306.9,
+    65.8
+   ],
+   "ocr": "Nguyen et al. Algorithms for Molecular Biology 2012, 7:3 http://www.almob.org/content/7/1/3"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 13"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    341.9,
+    124.0
+   ],
+   "ocr": "Table 8 MRP scores for 1000-taxon model conditions"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    678.6,
+    268.6
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) 2653 (276) 2981 (290) 3141.30 (428) 3390 (423) 3075 (449)\nMRP(TNT) 2625 (268) 2962 (292) 3120 (421) 3390 (423) 3059 (452)\nMRL(RAxML) 2618 (275) 2969 (293) 3143 (417) 3424 (429) 3075 (463)\nSuperFine+MRP(PAUP*) 2612 (275) 2960 (294) 3120 (421) 3390 (423) 3056 (456)\nSuperFine+MRP(TNT) 2614 (276) 2960 (294) 3120 (421) 3390 (423) 3056 (456)\nSuperFine+MRL(RAxML) 2628 (277) 2980 (294) 3141 (421) 3407 (425) 3075 (457)\nTrue Tree 2788 (294) 3144 (307) 3308 (411) 3578 (405) 3241 (456)",
+   "table_id": "PMC3308190_table_7"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    275.7,
+    372.8,
+    739.3
+   ],
+   "ocr": "We present the average MRP scores (MP scores with respect to the MRP matrix) taxon set that is present in the scaffold tree. The standard deviation is shown in for each scaffold density is shown in bold. This preliminary study showing a relatively strong cor- relation between MRL scores and tree error suggests that methods for optimizing MRL scores may have some inherent value, especially for the low scaffold den- sity conditions where the correlation between MRP scores and tree error is much lower. Biological datasets Because we do not have a reliable “true species tree” for the biological datasets, we compare estimated supertrees in terms of Sum-FN, MRP, and MRL scores. While we have shown the correlation of these scores to topological error for the simulated datasets, the extent of correlation for each empirical dataset is not known. Nevertheless, these scores, when considered together, enable a frame- work, albeit an imperfect one, for evaluating estimated supertrees. Table 1 shows the reference for each biologi- cal dataset and various empirical statistics (number of source trees, number of taxa, the scaffold density, degree of resolution for the SCM tree). We show Sum-FN scores in Table 14, MRP scores in Table 15, MRL scores in Table 16, and running time in Table 17. Placental dataset All methods resulted in identical Sum-FN scores on this dataset. Unsurprisingly, MRP and SuperFine+MRP Table 9 MRP scores for 500-taxon model conditions"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    375.1,
+    275.7,
+    678.5,
+    296.2
+   ],
+   "ocr": "for the 1000-taxon supertrees. The scaffold density is the percentage of the full parenthesis. All scores are rounded to the nearest integer. The lowest MRP score"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    324.7,
+    678.6,
+    699.9
+   ],
+   "ocr": "methods resulted in the best MRP scores, and MRL (RAxML) and SuperFine+MRL(RAxML) in the best MRL scores. The fastest method was MRP(TNT) (less than a minute) followed closely by SuperFine+MRP (TNT) (less than two minutes), and only the methods that use RAxML took more than five minutes. Due to the large number of source trees, many of which had incompatible edges, the SCM tree was almost comple- tely unresolved. For this dataset, therefore, the Super- Fine trees were almost identical to trees obtained using their base supertree methods. Seabirds dataset SuperFine+MRP and MRP(TNT) had the best MRP scores and the best Sum-FN scores. MRL(RAxML) had the best MRL score, followed by SuperFine+MRP(TNT). All methods completed in under a minute for this dataset. Marsupials dataset On this dataset, all methods had close Sum-FN scores. MRP and SuperFine+MRP again had the best MRP scores, and MRL(RAxML) had the best MRL score fol- lowed by SuperFine+MRP(TNT). Both MRP(TNT) and SuperFine+MRP(TNT) completed in under a minute, while MRL(RAxML) (the slowest method) completed in under eight minutes."
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    744.2,
+    678.6,
+    883.9
+   ],
+   "ocr": "Scaffold Density\nMethod 20 50 75 100 Average\nMRP(PAUP*) 1283 (330) 1434 (334) 1563 (332) 1694 (336) 1504 (364)\nMRP(TNT) 1273 (331) 1422 (334) 1556 (335) 1694 (336) 1497 (367)\nMRL(RAxML) 1276 (338) 1431 (336) 1570 (336) 1707 (339) 1508 (372)\nSuperFine+MRP(PAUP*) 1268 (334) 1422 (334) 1557 (335) 1694 (336) 1496 (369)\nSuperFine+MRP(TNT) 1268 (334) 1421 (334) 1556 (335) 1694 (337) 1496 (369)\nSuperFine+MRL(RAxML) 1277 (337) 1431 (341) 1568 (340) 1704 (340) 1507 (373)\nTrue Tree 1347 (341) 1502 (337) 1634 (340) 1773 (339) 1575 (372)",
+   "table_id": "PMC3308190_table_8"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    891.0,
+    377.0,
+    922.2
+   ],
+   "ocr": "We show the average MRP scores (MP scores with respect to the MRP matrix) for taxon set that is present in the scaffold tree. The standard deviation is shown in for each scaffold density is shown in bold."
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    375.7,
+    891.0,
+    678.5,
+    911.6
+   ],
+   "ocr": "the 500-taxon supertrees. The scaffold density is the percentage of the full parenthesis. All scores are rounded to the nearest integer. The lowest MRP score"
+  }
+ }
+}

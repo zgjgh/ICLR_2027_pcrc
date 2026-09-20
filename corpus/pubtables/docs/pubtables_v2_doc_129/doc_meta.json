@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_129",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3040150_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    764.9,
+    672.5,
+    894.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3040150_table_0.png",
+   "html": "<table><tr><td>Comparison</td><td>Number of polymorphic genes</td><td>Mean differences per pairwise comparison</td><td>Mean pairwise differences per gene (in %)</td></tr><tr><td>Among all strains</td><td>1536</td><td>49.8</td><td>0.74</td></tr><tr><td>Within Europe</td><td>305</td><td>22.6</td><td>0.33</td></tr><tr><td>Within Africa</td><td>547</td><td>37.5</td><td>0.57</td></tr><tr><td>Between populations</td><td>1364</td><td>65.7</td><td>0.99</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3040150_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    668.3,
+    366.2,
+    873.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3040150_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Feature</td><td colspan=\"3\">Sex-bias classification</td></tr><tr><td>Female</td><td>Male</td><td>Unbiased</td></tr><tr><td>Number of genes on array</td><td>4002</td><td>2572</td><td>5988</td></tr><tr><td>Percentage of genes detected as expressed</td><td>56.1*</td><td>36.5*</td><td>44.8</td></tr><tr><td colspan=\"4\">Percentage of expressed genes:</td></tr><tr><td>Polymorphic in Europe</td><td>5.1</td><td>5.1</td><td>4.6</td></tr><tr><td>Polymorphic in Africa</td><td>8.0</td><td>9.3</td><td>8.5</td></tr><tr><td>Polymorphic overall</td><td>23.8</td><td>24.4</td><td>24.7</td></tr><tr><td>Differentially expressed between populations</td><td>8.4&#8224;</td><td>10.9</td><td>11.6</td></tr><tr><td colspan=\"4\">Average percentage of pairwise differences:</td></tr><tr><td>Within Europe</td><td>0.16</td><td>0.18</td><td>0.17</td></tr><tr><td>Within Africa</td><td>0.25</td><td>0.32</td><td>0.30</td></tr><tr><td>Overall</td><td>0.65</td><td>0.87</td><td>0.79</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3040150_table_2",
+   "page_num": 3,
+   "bbox": [
+    383.9,
+    646.3,
+    678.6,
+    862.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3040150_table_2.png",
+   "html": "<table><tr><td>ID</td><td>Ontology</td><td>Term</td><td>P- value</td></tr><tr><td>GO:0004984</td><td>MF</td><td>Olfactory receptor activity</td><td>0.018</td></tr><tr><td>GO:0004252</td><td>MF</td><td>Serine-type endopeptidase activity</td><td>0.036</td></tr><tr><td>GO:0005337</td><td>MF</td><td>Nucleoside transmembrane transporter activity</td><td>0.039</td></tr><tr><td>GO:0035214</td><td>BP</td><td>Eye-antennal disc development</td><td>0.001</td></tr><tr><td>GO:0008052</td><td>BP</td><td>Sensory organ boundary specification</td><td>0.020</td></tr><tr><td>GO:0009593</td><td>BP</td><td>Detection of chemical stimulus</td><td>0.024</td></tr><tr><td>GO:0065004</td><td>BP</td><td>Protein-DNA complex assembly</td><td>0.027</td></tr><tr><td>GO:0007608</td><td>BP</td><td>Sensory perception of smell</td><td>0.027</td></tr><tr><td>GO:0009047</td><td>BP</td><td>Dosage compensation</td><td>0.033</td></tr><tr><td>GO:0001508</td><td>BP</td><td>Regulation of action potential</td><td>0.033</td></tr><tr><td>GO:0006544</td><td>BP</td><td>Glycine metabolic process</td><td>0.033</td></tr><tr><td>GO:0008380</td><td>BP</td><td>RNA splicing</td><td>0.036</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3040150_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    142.7,
+    366.2,
+    479.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3040150_table_3.png",
+   "html": "<table><tr><td>ID</td><td>Ontology</td><td>Term</td><td>P-value</td></tr><tr><td>GO:0004558</td><td>MF</td><td>Alpha-glucosidase activity</td><td>0.006</td></tr><tr><td>GO:0004806</td><td>MF</td><td>Triglyceride lipase activity</td><td>0.021</td></tr><tr><td>GO:0003697</td><td>MF</td><td>Single-stranded DNA binding</td><td>0.021</td></tr><tr><td>GO:0019201</td><td>MF</td><td>Nucleotide kinase activity</td><td>0.021</td></tr><tr><td>GO:0004129</td><td>MF</td><td>Cytochrome-c oxidase activity</td><td>0.036</td></tr><tr><td>GO:0019318</td><td>BP</td><td>Hexose metabolic process</td><td>0.005</td></tr><tr><td>GO:0009586</td><td>BP</td><td>Rhodopsin mediated phototransduction</td><td>0.006</td></tr><tr><td>GO:0048814</td><td>BP</td><td>Regulation of dendrite morphogenesis</td><td>0.009</td></tr><tr><td>GO:0014866</td><td>BP</td><td>Skeletal myofibril assembly</td><td>0.015</td></tr><tr><td>GO:0048139</td><td>BP</td><td>Female germ-line cyst encapsulation</td><td>0.015</td></tr><tr><td>GO:0035075</td><td>BP</td><td>Response to ecdysone</td><td>0.025</td></tr><tr><td>GO:0006119</td><td>BP</td><td>Oxidative phosphorylation</td><td>0.028</td></tr><tr><td>GO:0012502</td><td>BP</td><td>Induction of programmed cell death</td><td>0.032</td></tr><tr><td>GO:0006631</td><td>BP</td><td>Fatty acid metabolic process</td><td>0.035</td></tr><tr><td>GO:0007015</td><td>BP</td><td>Actin filament organization</td><td>0.035</td></tr><tr><td>GO:0030713</td><td>BP</td><td>Ovarian follicle cell stalk formation</td><td>0.036</td></tr><tr><td>GO:0016028</td><td>CC</td><td>Rhabdomere</td><td>0.018</td></tr><tr><td>GO:0044429</td><td>CC</td><td>Mitochondrial part</td><td>0.025</td></tr><tr><td>GO:0016459</td><td>CC</td><td>Myosin complex</td><td>0.025</td></tr><tr><td>GO:0030425</td><td>CC</td><td>Dendrite</td><td>0.035</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3040150_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    630.9,
+    362.0,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3040150_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Gene</td><td colspan=\"2\">Log2 (Afr/Eur)</td><td rowspan=\"2\">Function</td></tr><tr><td>Female</td><td>Male*</td></tr><tr><td>CG8997</td><td>1.85</td><td>0.77</td><td>Unknown</td></tr><tr><td>CG7916</td><td>1.00</td><td>0.68</td><td>Unknown</td></tr><tr><td>CG34330</td><td>1.00</td><td>0.38</td><td>Unknown</td></tr><tr><td>CG7409</td><td>0.93</td><td>0.49</td><td>Unfolded protein binding; response to heat</td></tr><tr><td>retinin</td><td>0.85</td><td>0.58</td><td>Unknown; expressed in eye</td></tr><tr><td>CG7953</td><td>0.85</td><td>0.49</td><td>Unknown</td></tr><tr><td>Adk2</td><td>0.58</td><td>0.38</td><td>Adenylate kinase; ADP biosynthesis</td></tr><tr><td>Act88F</td><td>0.49</td><td>1.54</td><td>Actin filament; indirect flight muscle; immune response</td></tr><tr><td>Cyp6g1</td><td>-1.58</td><td>-2.14</td><td>Cytochrome P450; insecticide resistance</td></tr><tr><td>fau</td><td>-0.49</td><td>-0.38</td><td>Unknown; upregulated under anoxia</td></tr><tr><td>CG17292</td><td>-0.49</td><td>-0.19</td><td>Triglyceride lipase; lipid metabolism</td></tr><tr><td>CG12262</td><td>-0.38</td><td>-0.38</td><td>Acyl-CoA dehydrogenase; fatty acid beta- oxidation</td></tr><tr><td>for</td><td>0.51</td><td>-0.31</td><td>cGMP-dependent protein kinase; feeding behavior</td></tr><tr><td>CG11395</td><td>0.49</td><td>-0.23</td><td>Unknown</td></tr></table>"
+  }
+ ]
+}

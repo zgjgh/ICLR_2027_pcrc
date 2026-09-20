@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_012",
+  "page": 3,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    260.5,
+    51.8
+   ],
+   "ocr": "Su et al. BMC Medical Genomics (2018) 11:40"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 7 of 22"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    364.6,
+    137.0
+   ],
+   "ocr": "Table 3 Common differentially expressed genes identified from specific and other neurodegenerative diseases related genes"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    352.3,
+    110.4,
+    647.7,
+    137.0
+   ],
+   "ocr": "substantia nigra in PD patients and healthy controls, and PD- identification"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    142.0,
+    680.4,
+    510.1
+   ],
+   "ocr": "Expression Gene symbol Gene name Corresponding neurodegenerative\ndisease other than PD\nDown-regulated CARHSP1a calcium regulated heat stable protein 1 Multiple sclerosis\nGARTa phosphoribosylglycinamide formyltransferase Alzheimer’s disease\nphosphoribosylglycinamide synthetase,\nphosphoribosylaminoimidazole synthetase\nMUC4 mucin 4, cell surface associated\nNIN ninein\nNRF1a nuclear respiratory factor 1 Alzheimer’s disease\nPRELPa proline and arginine rich end leucine rich Nervous system disease;\nrepeat protein Neurodegenerative disease\nRGS12 regulator of G-protein signaling 12\nRNF130a ring finger protein 130 Motor neuron disease\nSNAP23a synaptosome associated protein 23 Nervous system disease\nSNTB2 syntrophin beta 2\nTBX1 T-box 1\nUp-regulated ACSL6a acyl-CoA synthetase long-chain family member 6 Nervous system disease\nATP5Sa ATP synthase, H+ transporting, mitochondrial Alzheimer’s disease\nFo complex subunit s (factor B)\nCADPS calcium dependent secretion activator\nDCLK1a doublecortin like kinase 1 Alzheimer’s disease\nPPFIA2 PTPRF interacting protein alpha 2\nSNCAb synuclein alpha",
+   "table_id": "PMC5899355_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    515.1,
+    380.8,
+    927.7
+   ],
+   "ocr": "aPreviously associated with several neurodegenerative diseases, other than PD bPreviously associated with PD (PD-specific) (identified using GCBI online software) SN, negative regulation of neurotransmitter uptake (1 gene) and negative regulation of catecholamine uptake involved in synaptic transmission (1 gene) are highly re- lated to neuron. SNCA is reported to be in PD [36]. All these information validate our finding regarding the as- sociation of these genes in PD. PPI network construction for common DEGs PPI networks were constructed using STRING v.10.5 database and then visualized and analyzed by Cytoscape software v.3.4.0. The PPI information obtained from STRING online software for common DEGs in blood is demonstrated in Additional file 1: Table S3 and the PPI network is shown in Fig. 5a. Here, the 29 genes exhib- ited a wide degree distribution with the highest degree of 18 and lowest degree of 1.The average degree value was found to be 6.14. Finally, the top three hub genes(i. e. top 10% of the total nodes) with higher degree were chosen, including ATM, MGAM and BCL2 genes. Out of the three hubs, one hub (BCL2) was already found to be related to Alzheimer’s Disease [35], which was further studied for their association in human PD. The PPI in- formation obtained from STRING online software for common DEGs in brain SN is exhibited in Additional file 1: Table S4 and the PPI network is shown in Fig. 5b."
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    367.2,
+    516.4,
+    510.7,
+    526.4
+   ],
+   "ocr": "(identified using GCBI online software)"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    549.7,
+    681.0,
+    927.7
+   ],
+   "ocr": "We found that highest degree value was 3 and the low- est was 1 with an average of 1.69. In this analysis, the top three hub genes with higher degree included GART, SNCA and NIN genes. SNCA hub node was already found to be associated with human PD [36], and GART hub node has been verified in other neurodegenerative diseases such as Alzheimer’s Disease [37], but not in PD. Regulatory miRNAs associated with the common PD- specific genes and the analysis of lncRNAs associated with these miRNAs To investigate the regulation of the PD-specific genes identified in our study by non-coding RNAs, miRNA as- sociated with these genes were first retrieved from DIANA-Tarbase v.7.0 database, and then lncRNAs asso- ciated with these miRNAs were selected from DIANA- LncBase Experimentally v.2 (prediction score ≥ 0.90). The biological regulatory interaction of PD-specific genes identified in blood is exhibited in Table 4, which shows that four PD-specific genes were associated with several non-coding RNAs. Out of the miRNAs, 13 were previously known to be associated with several other neurodegenerative diseases, such as Alzheimer’s disease and nine were also previously associated with PD. The biological regulatory interaction of PD-specific genes"
+  }
+ }
+}

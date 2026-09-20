@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_082",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    554.0,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Axonal deformation due to skull flexures"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    85.3,
+    727.2,
+    719.5
+   ],
+   "ocr": "Table 4. CORA ratings for the different intracranial pressure validation plots. Models were subjected to impact loading conditions same as that of the experimental study by Nahum et al. [34]. Comparison Case Male Model Female Model Frontal Lobe 0.665 0.660 Parietal Lobe 0.711 0.619 Occipital Lobe 0.658 0.629 Overall 0.678 0.636 https://doi.org/10.1371/journal.pone.0190881.t004 Table 4 shows the CORA ratings calculated for the Intracranial pressure verification against the experiments developed by Nahum et al. [34]. From this table, we can see that all the ratings are above 0.26 making the validation scenarios acceptable. Tables 5 and 6 show the CORA ratings calculated for the brain-skull relative displacement verification against the experiments developed by Hardy et al. [35,36]. Table 5 shows the CORA ratings calculated for the validation plots during frontal and occipital loading condi- tions while Table 6 shows the CORA ratings calculated for the validation plots during occipital loading conditions. All the CORA ratings in this table, for both the models, can be classified as “good” and “fair” based on the above CORA bio fidelity scale (Table 2). The overall ratings are well above 0.26, making them acceptable. Table 7 shows the CORA ratings calculated for the validation plots during blast loading conditions used by Bir et al. [37]. Some of the CORA ratings in this table, for both the models, can be classified as “good” and “fair” based on the above CORA bio-fidelity scale (Table 2). However, some of the ratings are well below 0.26. This might be due to the huge difference in the results of the two different experiments. After the validation, peak maximum axonal strain and peak maximum axonal strain rates were chosen to study the brain response to skull flexures for a given blast loading. These factors have been observed to vary based on the blast overpressure and the direction of exposure. These peak values can be used to estimate the severity of the blast loading condition. A total of 128 simulations were developed for both the male and female models with blast overpressure vary- ing in magnitude and direction. Each simulation took about 5 hrs. on 16 processors to reach 4 ms with an output interval of 0.004 ms–leading to a total of 10,240 simulation core hours. Flexural displacements Before analyzing the axonal deformation for the different loading scenarios, we have tabulated the maximum flexural displacements observed for a loading overpressure of 1500 kPa in differ- ent directions. Table 8 shows the magnitude of maximum flexural displacements. Table 5. CORA ratings for the different brain-skull relative displacement validation plots (impact loading–occipital and frontal). Models were subjected to impact loading conditions, same as that of the experimental study by Hardy et al. [35,36]."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    91.8,
+    728.1,
+    676.5,
+    895.9
+   ],
+   "ocr": "Comparison Case Occipital Impact Frontal Impact\nMale Female Male Female\nA1-X 0.578 0.930 0.434 0.486\nA1-Z 0.519 0.318 0.332 0.470\nA5-X 0.346 0.428 0.405 0.471\nA5-Z 0.514 0.439 0.387 0.478\nP1-X 0.463 0.919 0.515 0.655\nP1-Z 0.589 0.431 0.411 0.533\nP5-X 0.401 0.406 0.539 0.790\nP5-Z 0.622 0.520 0.619 0.522\nOverall 0.504 0.549 0.455 0.551",
+   "table_id": "PMC5856259_table_4"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    904.3,
+    236.2,
+    914.9
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190881.t005"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190881 March 16, 2018 9 / 24"
+  }
+ }
+}

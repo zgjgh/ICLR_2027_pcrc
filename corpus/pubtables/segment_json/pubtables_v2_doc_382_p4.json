@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_382",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    500.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prediction of Multiple Drug-Target Interactions"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    338.8,
+    376.2,
+    548.8
+   ],
+   "ocr": "Figure 8. The node degree distribution of the top 500 scoring doi:10.1371/journal.pone.0037608.g008 literature, but has not been included in training set of the obtained RF Model I and RF Model II. The potential targets of these two molecules are predicted from the pool of all 3987 target proteins using the RF Model I and RF Model II, respectively (with the whole prediction results provided in Supporting Information S11 and S12). The obtained results show that MDMA targets 367 different proteins including seven proteins with the binding scores .0.65, i.e., 5-hydroxytryptamine 2A receptor, 5-hydroxytryptamine 2B receptor, 5-hydroxytryptamine 2C receptor, Synaptic vesicular Table 4. Predicted top 20 scoring target proteins of MDMA."
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    379.5,
+    338.8,
+    507.2,
+    348.9
+   ],
+   "ocr": "drug-enzyme interactions."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    378.1,
+    700.8,
+    510.8
+   ],
+   "ocr": "amine transporter, Sodium-dependent serotonin transporter, Sodium- dependent dopamine transporter and Sodium-dependent noradrenaline transporter, all of which receptors have been in fact well demonstrated as the MDMA targets [49–53]. Table 4 lists the top 20 scoring targets with the binding scores .0.75. Interestingly, it is found that MDMA binds to the A-1A adrenergic receptor (ADRA1A, binding score = 0.764) and A-2A adrenergic receptor (ADRA2A, binding score = 0.802), which are the targets of 4- methoxyamphetamine (DB01472) [22], a compound structurally similar to MDMA (Figure 9). In addition, this is also consistent"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    577.9,
+    635.3,
+    904.7
+   ],
+   "ocr": "Protein name UniProt ID Binding score\nBeta-1 adrenergic receptor P08588 0.820\nCarbonic anhydrase 2 P00918 0.810\nProthrombin P00734 0.804\nAlpha-2A adrenergic receptor P08913 0.802\nProstaglandin G/H synthase 2 P35354 0.800\nDipeptidyl peptidase 4 P27284 0.798\nAcetylcholinesterase P22303 0.796\nNitric-oxide synthase, endothelial P29474 0.794\nBeta-2 adrenergic receptor P07550 0.794\nProstaglandin G/H synthase 1 P23219 0.784\nGag-Pol polyprotein P12497 0.778\nNitric oxide synthase, inducible P35228 0.770\nGlutamate receptor 2 P42262 0.770\nAlpha-2C adrenergic receptor P18825 0.768\n5-hydroxytryptamine 2A receptor P28223 0.766\nAlpha-1A adrenergic receptor P35348 0.764\ncAMP-dependent protein kinase catalytic subunit alpha P17612 0.760\nGag-Pol polyprotein P03366 0.758\nGamma-aminobutyric-acid receptor subunit alpha-1 P14867 0.754\nGag-Pol polyprotein P03367 0.752",
+   "table_id": "PMC3364341_table_3"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    917.9,
+    225.1,
+    926.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0037608.t004"
+  },
+  "p4_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    381.9,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "10 May 2012 | Volume 7 | Issue 5 | e37608"
+  }
+ }
+}

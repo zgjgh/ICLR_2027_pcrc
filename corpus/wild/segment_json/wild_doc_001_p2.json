@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_001",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    50,
+    571,
+    77
+   ],
+   "ocr": "The table presents a comprehensive overview of the SNORD113 C/D box family, emphasizing its role in site-specific 2'-O- methylation."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    65,
+    571,
+    92
+   ],
+   "ocr": "This family of small nucleolar RNAs (snoRNAs) is characterized by its functional specificity and is integral to the modification of ribosomal RNA (rRNA) and small nuclear RNA (snRNA)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    109.0,
+    571.0,
+    645.0
+   ],
+   "ocr": "Name Family Action Target Log2 fold-change Higher\nSNORD113 C/D BOX Site-specific 2'-O-methylation Not predicted to target rRNA or snRNA. 29.6 Young\nSNORA53 H/ACA box H/ACA family of pseudouridylation guide snoRNAs Not identified 29.9 Young\nSNORA79 H/ACA box H/ACA family of pseudouridylation guide snoRNAs Not identified 5.3 Young\nSNORA48 H/ACA box H/ACA family of pseudouridylation guide snoRNAs 28SrRNA 4.1 Young\nSNORD12/SNORD16 C/D BOX Site-specific 2'-O-methylation 28srRNA, 18SrRNA 3.2 Young\nRNase P RNase MRP related Site-specific endonuclease, ribosome biogenesis, pre-rRNA processings Numerous 1.7 Young\nRnase MRP Rnase MRP Site-specific endonuclease Numerous 2 Young\nU1 splicesomal RNA Splicesome Complex of snRNA and protein subunits that removes introns from a transcribed pre-mRNA 2.3 Young\nU2 splicesomal RNA Splicesome Complex of snRNA and protein subunits that removes introns from a transcribed pre-mRNA 2.3 Young\nSNORA40 H/ACA box class H/ACA family of pseudouridylation guide snoRNAs 28SrRNA -1.5 Old\nSNORA5 H/ACA box class H/ACA family of pseudouridylation guide snoRNAs Not identified -1.9 Old\nSNORA30/SNORA37 H/ACA box class H/ACA family of pseudouridylation guide snoRNAs 28SrRNA -2.7 Old\nSmall nucleolar RNA U89 H/ACA box class H/ACA family of pseudouridylation guide snoRNAs Not identified -1.4 Old\nU4 splicesomal RNA Splicesome Complex of snRNA and protein subunits that removes introns from a transcribed pre-mRNA -2.2 Old\nU6 splicesomal RNA Splicesome Complex of snRNA and protein subunits that removes introns from a transcribed pre-mRNA -2.1 Old",
+   "table_id": "img_000286_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    661,
+    571,
+    734
+   ],
+   "ocr": "Notably, the table includes metrics such as Log2 fold-change and Target, which provide insights into the expression levels and specific targets of SNORD113. The data indicate a substantial Log2 fold-change of 29.6, suggesting a significant upregulation in the presence of particular biological conditions. Furthermore, the column labeled \"Action\" highlights the functional implications of these snoRNAs, which, in this case, are not predicted to target rRNA or snRNA, thereby expanding the understanding of their potential regulatory roles outside traditional RNA modification pathways."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    722,
+    571,
+    779
+   ],
+   "ocr": "This information is crucial for researchers investigating the diverse functionalities of snoRNAs and their implications in various cellular processes, particularly in the context of methylation patterns that could influence gene expression and cellular behavior. The detailed metrics provided in the table serve as a foundation for further exploration into the biological significance of the SNORD113 family."
+  }
+ }
+}

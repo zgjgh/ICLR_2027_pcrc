@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_236",
+  "page": 1,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.2,
+    278.6,
+    51.8
+   ],
+   "ocr": "Saka et al. BMC Genomics 2017, 18(Suppl 10):875"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.4,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 2 of 88"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    109.7,
+    387.7,
+    745.1
+   ],
+   "ocr": "GeneChip®, rapid progress has been made in genome sequencing resulting in more accurate databases of an- notated coding and non-coding genes. The significant differences between old and new genome assemblies and annotations make it necessary to update probe-gene targeting according to current know- ledge to get more accurate interpretations from experi- mental results. Affymetrix® does attempt to provide compatibility between genomic changes by updating links between probe sets and their corresponding genes/ transcripts via NetAffx™ [3]. Table 1 shows release dates of source databases used by Affymetrix® for both the incorporated version and the most recently available version. In all cases, there is at least a two year differ- ence between the incorporated and most recent release dates which can lead to inconsistent interpretation. In addition, updating links between probe sets and their corresponding genes/transcripts does not provide a solution for problems caused by individual probes such as single nucleotide polymorphisms (SNPs) [4, 5], probes that target genes other than the designated gene of a probe set, and probes that no longer align to a genomic location. For example in the Affymetrix® GeneChip® HG-133 Plus 2 array, a total of 40,680 probes out of 603,158 (excluding quality control probes) do not have a perfect match to the most recent human genome assembly (hg38). Even though the design of the probes is fixed, the methods with which the resulting experiments can be analyzed are dynamic in nature due to the ability to an- notate and arrange probes into uniquely defined group- ings. This is particularly important since there are publicly available repositories of microarray datasets, such as NCBI’s Gene Expression Omnibus (GEO) [6] which contains 1,802,922 different samples as of 5/18/ 2016 that can be reanalyzed computationally based on current knowledge without the need for new biological experiments. As a case in point, each of the four most commonly used species have samples that have been analyzed using the original CDFs (Table 2). Table 1 Release dates of databases used by NetAffx v35 annotations"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.0,
+    745.1
+   ],
+   "ocr": "Several research groups have reassigned probes into new probe sets by creating their own custom Chip Description Files (CDF) [7–13], which are specially for- matted files used to store the layout information for an Affymetrix® GeneChip® array. Given a CDF, the intensity values of probes located in the CEL file can be extracted and summarized as a defined probe set to detect the expression level of genes or transcripts. These approaches have a similar workflow of mapping probes but differ in terms of the groupings of probe sets, including: data source used, the selected target level (gene or transcript), whether to create probe sets from scratch or redesign the existing groups and sharing probes between probe sets. In terms of annotations used, most approaches have mapped the probe sequences to the transcripts obtained from one or more databases such as GenBank, NCBI RefSeq and Ensembl. Unlike other approaches, Harbig et al. [14] mapped to the target sequences of probes obtained from Affymetrix® rather than the actual mRNA sequences themselves, where the target sequence is an exemplar region of a specific transcript ≤600 bases in length. After mapping, they grouped probes to unique transcripts or genes based on the mapping results. Some approaches update the original probe set groups by removing select probes and changing the link between probe set and gene/transcript. The most comprehensive study for probe annotation remapping was achieved by Dai et al. (brainarray CDFs) [8]. Rather than focusing on one reference database or combining multiple sources to create one custom CDF, they mapped probes to different annotation databases and created a specific custom CDF for each database. Although the inherent effects of using dated probe gene mapping designs to analyze microarray data sets might seem obvious, the overwhelming majority of experimental results have only been analyzed using the original CDFs designed by Affymetrix®. For example as of May 2016, GEO has 120,920 samples which were analyzed via the original Affymetrix® CDFs for the and current database versions"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    750.2,
+    680.4,
+    920.7
+   ],
+   "ocr": "GEO Platform Organism UniGene\nNetAffx Current\nGPL570 Homo sapiens Mar-10 Nov-12\nGPL1261 Mus musculus Jan-10 Jul-12\nGPL1355 Rattus norvegicus Mar-10 Nov-12\nGPL198 Arabidopsis thaliana May-09 Jul-12\nDatabases Common to All Four GEO Platforms\nEnsembl RefSeq GenBank Entrez Gene Mirbase\nNetAffx Aug-14 Jul-14 Jun-14 May-14 Jul-12\nCurrent Mar-16 Mar-16 Apr-16 May-16 Jun-14",
+   "table_id": "PMC5731501_table_0"
+  }
+ }
+}

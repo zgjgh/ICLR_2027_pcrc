@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_162",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    70,
+    580,
+    174
+   ],
+   "ocr": "In Fiscal Year 2024, Lockheed Martin's supply chain analysis reveals critical metrics across various materials: MaterialA has a lead time of 30 days with a cost of CNY150,000 for materials, CNY50,000 for labor, and transportation costs not specified; MaterialB has a lead time of 45 days with a material cost of CNY200,000, labor at CNY60,000, and unspecified transportation; MaterialC has a lead time of 60 days, incurring CNY250,000 for materials, CNY75,000 for labor, and unspecified transportation; MaterialD shows a lead time of 30 days with costs of CNY100,000 for materials, CNY40,000 for labor, and unspecified transportation; MaterialE has a lead time of 50 days with a material cost of CNY300,000, labor at CNY90,000, and unspecified transportation."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    162,
+    580,
+    190
+   ],
+   "ocr": "The total lead time stands at 45 days with a total cost of CNY1,080,000 and an average lead time of 42 days. Average cost is CNY216,000, projected costs are CNY1,200,000 with a projected lead time of 48 days."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    218.0,
+    580.0,
+    477.0
+   ],
+   "ocr": "Item LeadTime(Days) Cost(CNY) TotalCosts\nMaterialA 30 150000 Labor 50000 Transportation\nMaterialB 45 200000 Labor 60000 Transportation\nMaterialC 60 250000 Labor 75000 Transportation\nMaterialD 30 100000 Labor 40000 Transportation\nMaterialE 50 300000 Labor 90000 Transportation\nTotalLeadTime 45 TotalCost 1,080,000 AverageLeadTime 42\nAverageCost 216000 ProjectedCosts 1,200,000 ProjectedLeadTime 48\nPreviousYearCosts 1,000,000 PreviousYearLeadTime 40 Variance +200,000",
+   "table_id": "img_183285_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    493,
+    507,
+    505
+   ],
+   "ocr": "Previous year costs were CNY1,000,000 with a previous lead time of 40 days and a variance of +CNY200,000."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    493,
+    580,
+    521
+   ],
+   "ocr": "Revenue for the period is CNY1.5B with 2,500 units sold and a headcount of 1,500."
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    550.0,
+    580.0,
+    697.0
+   ],
+   "ocr": "Revenue CNY1.5B\nUnitsSold 2500\nHeadcount 1500\nQ12024 CNY300M 500 200\nQ22024 CNY400M 600 250 Q32024\nCNY500M 700 300 Q42024 CNY300M\n400 150 Total CNY1.5B 2500",
+   "table_id": "img_183285_t1"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    712.0,
+    580.0,
+    758.0
+   ],
+   "ocr": "In Q1 2024, revenue is CNY300M from 500 units and 200 headcount; Q2 2024 generates CNY400M from 600 units and 250 headcount; Q3 2024 contributes CNY500M from 700 units and 300 headcount; Q4 2024 rounds out with CNY300M from 400 units and 150 headcount, totaling CNY1.5B and 2,500 units sold."
+  }
+ }
+}

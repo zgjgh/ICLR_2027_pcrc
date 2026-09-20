@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_099",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    204.6,
+    65.5
+   ],
+   "ocr": "BMC Genomics 2008, 9:31"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    49.8,
+    698.1,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2164/9/31"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    374.9,
+    119.1
+   ],
+   "ocr": "Table 4: Sequential analysis of deviance of log linear model for 11"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    377.8,
+    107.2,
+    454.9,
+    119.1
+   ],
+   "ocr": "tri-nt SSR types."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    76.7,
+    129.9,
+    679.1,
+    222.0
+   ],
+   "ocr": "Effect Number of Parameters Change in Deviance Residual DF Residual Deviance\nNull (α only) 1 153 409.70\nSSR type (T) 10 68.05 143 341.65\nChromosome (C) 6 10.37 137 331.28\nGenomic category (G) 1 150.92 136 180.00\nInteraction (T × G) 10 47.68 126 132.31",
+   "table_id": "PMC2257937_table_3"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    245.5,
+    372.6,
+    276.0
+   ],
+   "ocr": "where Yij is the log repeat number for marker j on strain i, S"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    388.4,
+    255.5,
+    698.4,
+    694.6
+   ],
+   "ocr": "FGSC#2489. Thus, one source of the strain by marker interaction appears to be caused by the extremely high repeat numbers for marker 48 in strains FGSC#4720 and FGSC#4715, relative to the other five strains. The second eigenvector for markers has a dominant positive loading on marker 201 and a dominant negative loading on marker 1. In this case, the corresponding eigenvector for strain was a contrast between the pair of strains, FGSC#4724 and FGSC#3223, and the remaining five strains. Thus, a second source of interaction appears to be due to the contrast between these two groups of strains with respect to the difference in repeat numbers between markers 1 and 201, relative to this contrast for any other pair of markers. These data support our hypothesis #3 that there are variations in SSR repeat numbers that genome- wide effects alone cannot explain. An alternative simple analysis is to look for markers that have highly variable (log) repeat numbers across the seven strains. Under the assumption that the seven (log) repeat numbers for a particular marker are a random sam- ple from a normal distribution, the sample variance is proportional to a chi-squared statistic with 6 degrees-of- freedom. Specifically, 6s2/σ2 ~ χ(6), where σ2 is the unknown true variance. Using the chi-squared reference distribution with σ2 replaced by the median sample vari- ance from the 33 markers, we found 4 markers with signif- icantly large sample variances (P < 0.005). In order of regions based on a Poisson model."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    67.4,
+    273.3,
+    372.6,
+    311.8
+   ],
+   "ocr": "μ was the overall mean, i is the main effect of strain i, M j"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    304.4,
+    385.6,
+    694.6
+   ],
+   "ocr": "and is the main effect of marker j. The vectors uk and vk, k = 1,2, are the unit eigenvectors corresponding to the largest two eigenvalues of the matrices, MM' and M'M, respectively. This is an additive main effects and multipli- cative interaction (AMMI) model that has been widely used in the analysis of agricultural yield trials [31]. The εij terms account for residual variation (interaction) not explained by the multiplicative component. The least squares estimate of the parameter, λk, is equal to the sin- gular value associated with the eigenvectors, uk and vk, in the singular value decomposition of the interaction matrix, M. The square of this singular value is equal to the sum of squares explained by the multiplicative interaction component in the ANOVA decomposition for this model as summarized in Table 6. Examination of the first eigenvector for markers reveals a very large positive loading on marker 48. On the other hand, the first eigenvector for strain was essentially a con- trast between two groups of strains, one group including FGSC#4720 and FGSC#4715 and other group including FGSC#4825, FGSC#2223, FGSC#4724, FGSC#3223, and Table 5: Comparison of log abundance rates in genic and intergenic"
+  },
+  "p4_b9": {
+   "type": "table",
+   "bbox": [
+    73.5,
+    705.4,
+    673.3,
+    898.5
+   ],
+   "ocr": "SSR Genic Intergenic Diff. Std.err Z-value P-value\nAAC/ACA/CAA 1.689 0.335 1.354 0.216 6.280 0.000***\nAAG/AGA/ 0.683 0.370 0.312 0.253 1.236 0.216\nGAA\nACC/CCA/CAC 0.590 0.335 0.255 0.261 0.979 0.328\nAGC/GCA/CAG 1.405 0.094 1.311 0.244 5.363 0.000***\nAGG/GGA/ 1.182 0.047 1.134 0.256 4.433 0.000***\nGAG\nATG/TGA/GAT 0.247 0.222 0.026 0.292 0.088 0.930\nCCT/CTC/TCC 1.164 0.047 1.116 0.257 4.352 0.000***\nCTT/TTC/TCT 0.557 0.437 0.121 0.256 0.471 0.638\nGCT/CTG/TGC 1.474 0.047 1.426 0.247 5.778 0.000***\nGGT/GTG/TGG 1.068 0.640 0.428 0.215 1.988 0.047*\nGTT/TTG/TGT 1.538 0.558 0.980 0.202 4.836 0.000***",
+   "table_id": "PMC2257937_table_4"
+  },
+  "p4_b10": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    914.6,
+    318.9,
+    926.6
+   ],
+   "ocr": "* indicates significance at the 5% level, ** 1%, and *** 0.1%"
+  },
+  "p4_b11": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 9 of 19 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_446",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    467.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Off Target Predictions from ChEMBL with Template CoMFA"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    97.6,
+    695.0,
+    121.4
+   ],
+   "ocr": "Table 5. Results from OR'ing or AND'ing the predictions of Template CoMFA with Tanimoto NN predictions."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    130.2,
+    726.7,
+    405.7
+   ],
+   "ocr": "OR'd hit AND'd Correct Prediction Increase\nincrease\nInactive Active TC&NN—NN\nTarget n+ n>% n TRUE n TRUE F Neg F Pos\nbace 3 30 1877 0.998 134 1.000 0.000 0.050\ncdk2 4 13 1824 0.995 85 0.929 0.004 0.090\nchk1 9 29 1770 0.989 93 0.978 0.000 0.137\nCAII 4 8 1732 0.992 72 0.958 0.002 0.178\nCOX2 1 3 1845 0.991 94 0.989 0.000 0.139\ncyp3A4 3 6 1921 0.978 31 1.000 0.002 0.271\nD2A 10 18 1759 0.990 74 0.959 0.006 0.215\nER 4 15 1802 0.986 84 0.988 -0.008 0.214\nfacXa 7 23 1772 0.999 104 0.990 0.010 0.149\nGABAa 1 4 1646 0.993 103 0.951 0.000 0.071\nhERG 24 65 1926 0.993 45 1.000 0.022 0.223\nptp1b 6 21 1950 0.997 72 0.986 0.006 0.147\nAverage 6 20 1819 0.992 83 0.978 0.004 0.157",
+   "table_id": "PMC4466312_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    413.8,
+    727.1,
+    605.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129307.t005 The other possibility is that the error rates in distinguishing active from inactive structures will be lower for predictions that template CoMFA and a Tanimoto method agree on, expected again because of the fundamental independence of these methodologies. So for only those (though of course still numerous) active structures, the previous tabulation of counts and suc- cess rates for inactive and active predictions is repeated in the next four columns of Table 5. The last two columns of Table 5 provide the critical results, the drop in these error rates when template CoMFA predictions agree with the Tanimoto predictions, for false negatives and false positives respectively. More exactly, these values are the differences between the values in the bolded columns in Tables 4 and 5. Evidently the error rates whenever template CoMFA predic- tions confirm those from Tanimoto NN are consistently lower, the average improvements"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    846.1,
+    707.9,
+    901.4
+   ],
+   "ocr": "Fig 7. Structures with high binding affinity to the D2A target. These identified as D2A “actives” by the template CoMFA method (3) reported as D2A “inactives” by the Tanimoto 2D fingerprint nearest neighbor method. doi:10.1371/journal.pone.0129307.g007"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129307 June 12, 2015 14 / 22"
+  }
+ }
+}

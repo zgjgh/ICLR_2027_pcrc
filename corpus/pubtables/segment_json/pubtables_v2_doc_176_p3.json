@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_176",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    510.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Heterozygous Mapping Strategy for GBS Markers"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    691.8,
+    108.3
+   ],
+   "ocr": "Table 3. Number of SNPs and linkage groups (LG) during LG and phase assignment for four F1 families analyzed with the synteny pipeline."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    716.2,
+    254.2
+   ],
+   "ocr": "F1 family (# individuals) # SNPs in chromosomal # Split LGs # SNPs in phased # SNPs in phased # ordered SNPs\ngroups LGs (Parent) LGs, female LGs, male after ﬁltering\nV. rupestris B38 x 11,613 (78%) 41 1,4,7 3,449 (23%) 7,616 (51%) 5,897 (40%)\n‘Horizon’ (215) (‘Horizon’)\n‘Horizon’ x Illinois 547–1 13,973 (82%) 40 1,7 (‘Horizon’) 5,666 (33%) 7,521 (44%) 9,519 (56%)\n(366)\n‘Chardonnay’ x V. 9,316 (77%) 38 none 4,765 (39%) 4,044 (33%) 4,482 (37%)\ncinerea B9 (148)\n‘Horizon’ x V. cinerea B9 12,073 (79%) 40 1 (‘Horizon’) 7,503 (49%) 3,644 (24%) 5,185 (34%)\n(162)",
+   "table_id": "PMC4526651_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    266.9,
+    727.2,
+    898.4
+   ],
+   "ocr": "All percentages are relative to the number of Pt markers entering the synteny pipeline. doi:10.1371/journal.pone.0134880.t003 markers per F1 family varied between 4,482 and 9,519 (Table 3), depending on the number of progeny. The number of progeny highly correlated with the total number of non-redundant markers (r = 0.99). Unique tag alignment density, mean tag depth, SNP density entering the pipeline, and minor allele frequency (MAF) of SNPs entering the pipeline were visualized on 1 MB sliding windows with a 100 KB slide using Circos [53]. Additionally, for both parents, phased SNP density (output of HetMappS synteny pipeline), MAF, and recombination frequency (obligate crossovers per progeny per MB) were visualized across these windows (Fig 4, S5 Fig, S6 Fig and S7 Fig). Minor allele frequencies for SNPs entering the pipeline were 18% for the ‘Horizon’ x Illinois 547–1 family, and between 20% and 23% for the remaining three families prior to filtering and Pt marker identification. Following Pt marker identification, MAF of Pt markers was 25±1% (Fig 4, S5 Fig, S6 Fig and S7 Fig). Minor allele frequency was also calculated across genomic windows of 1Mb size (with a 100Kb slide). The mean MAF within these windows ranged from 13% to 37%. Between 17 and 41 contiguous regions of segregation distortion (MAF < 20% or MAF > 30%) were discovered for each parental map, ranging from 0.1 to 3.1 Mb. Results of HetMappS de novo pipeline The de novo pipeline was initiated using the HetMappS Pt output markers identified in Table 1. LGs were resolved by hierarchical clustering and dendrogram cutting of all Pt markers simultaneously, cutting the dendrogram (Fig 5) at a height that resulted in 38 or more LGs while maximizing the number of markers retained (S2 File) The optimal cut height varied slightly among the four VitisGen families, with values between 0.925 and 0.95, and the number of resulting LGs obtained also varied, between 39 and 43 (Table 4). These extra groups can be fused together at the ordering step if the true classification can be determined, either by looking for recombination fractions lower than 0.5 [51] among groups or by reference to the parental contribution of the minor allele as shown in the tables ‘GENOvsPARENT’ (S2 File), where the sum of heterozygous (het) alleles should be much greater than the sum of homozygous (hom) alleles, and physical location on a reference genome (S2 File, GENOvsPARENT and CHRvLGtop tabs, respectively)). Results shown here were based on the latter approach. Markers from each LG were phased, as described for the synteny pipeline. For all F1 families, a static cut height of 0.9 and static min size of 10 resolved all LGs into 2 phases. Split LGs with markers from same physical chromosome were identified and joined prior to genetic ordering, using parental and physical information (S2 File). In all cases, it was possible to reconstruct 19 LGs per parental map."
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0134880 August 5, 2015 13 / 31"
+  }
+ }
+}

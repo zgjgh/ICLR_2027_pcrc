@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_005",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The table presents data on various cytokine levels measured under different inducers. For the inducer \"None,\" the levels recorded are IFN-γ at ˂0.06, IFN-α at ˂3.1, TNF-α at ˂0.13, IL-12 at ˂2.1, and IL-18 at ˂9.2. Under the inducer \"HSV-2,\" the values are IFN-γ at ˂0.08, IFN-α at ˂3.6, TNF-α at ˂0.12, IL-12 at ˂2.2, and IL-18 at ˂8.9. For \"EPS2-B3-15 (300 μg·mL−1),\" the levels are IFN-γ at 165 ± 19 *,†, IFN-α at 480 ± 76 *,†, TNF-α at 2151 ± 328 *,†, IL-12 at 420 ± 78 *,†, and IL-18 at 140 ± 35 *,†."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    171
+   ],
+   "ocr": "For \"EPS2-B3-72 (300 μg·mL−1),\" the cytokine levels are IFN-γ at 115 ± 18 *,†, IFN-α at 116 ± 13 *,†, TNF-α at 1980 ± 101 *,†, IL-12 at 320 ± 49 *,†, and IL-18 at 183 ± 29 *,†. The \"EPS1-T14 (300 μg·mL−1)\" values are IFN-γ at 58 ± 13 *,†, IFN-α at 45 ± 3 *,†, TNF-α at 610 ± 43 *,†, IL-12 at 128 ± 19 *,†, and IL-18 at 49 ± 3 *,†. For \"EPS1-T14 (400 μg·mL−1),\" the levels are IFN-γ at 105 ± 28 *,†, IFN-α at 108 ± 25 *,†, TNF-α at 1310 ± 73 *,†, IL-12 at 358 ± 69 *,†, and IL-18 at 86 ± 3 *,†."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    188.0,
+    580.0,
+    408.0
+   ],
+   "ocr": "Inducer IFN-γ IFN-α TNF-α IL-12 IL-18\nNone ˂0.06 ˂3.1 ˂0.13 ˂2.1 ˂9.2\nHSV-2 ˂0.08 ˂3.6 ˂0.12 ˂2.2 ˂8.9\nEPS2-B3-15 (300 μg·mL−1) 165 ± 19 *,† 480 ± 76 *,† 2151 ± 328 *,† 420 ± 78 *,† 140 ± 35 *,†\nEPS2-B3-72 (300 μg·mL−1) 115 ± 18 *,† 116 ± 13 *,† 1980 ± 101 *,† 320 ± 49 *,† 183 ± 29 *,†\nEPS1-T14 (300 μg·mL−1) 58 ± 13 *,† 45 ± 3 *,† 610 ± 43 *,† 128 ± 19 *,† 49 ± 3 *,†\nEPS1-T14 (400 μg·mL−1) 105 ± 28 *,† 108 ± 25 *,† 1310 ± 73 *,† 358 ± 69 *,† 86 ± 3 *,†\nEPS2-B3-15 (300 μg·mL−1) + HSV-2 79 ± 24 295 ± 93 780 ± 98 115 ± 28 84 ± 22\nEPS2-B3-72 (300 μg·mL−1) + HSV-2 61 ± 9 42 ± 5 680 ± 71 122 ± 17 95 ± 13\nEPS1-T14 (300 μg·mL−1) + HSV-2 27 ± 2 29 ± 2 301 ± 28 57 ± 11 23 ± 8\nEPS1-T14 (400 μg·mL−1) + HSV-2 37 ± 2 26 ± 2 317 ± 88 166 ± 20 28 ± 10",
+   "table_id": "img_005147_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    424,
+    580,
+    467
+   ],
+   "ocr": "Combining EPS2-B3-15 (300 μg·mL−1) with HSV-2 yields IFN-γ at 79 ± 24, IFN-α at 295 ± 93, TNF-α at 780 ± 98, IL-12 at 115 ± 28, and IL-18 at 84 ± 22. The combination of EPS2-B3-72 (300 μg·mL−1) with HSV-2 shows IFN-γ at 61 ± 9, IFN-α at 42 ± 5, TNF-α at 680 ± 71, IL-12 at 122 ± 17, and IL-18 at 95 ± 13."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    455,
+    580,
+    513
+   ],
+   "ocr": "The combination of EPS1-T14 (300 μg·mL−1) with HSV-2 yields IFN-γ at 27 ± 2, IFN-α at 29 ± 2, TNF-α at 301 ± 28, IL-12 at 57 ± 11, and IL-18 at 23 ± 8. Finally, EPS1-T14 (400 μg·mL−1) combined with HSV-2 results in IFN-γ at 37 ± 2, IFN-α at 26 ± 2, TNF-α at 317 ± 88, IL-12 at 166 ± 20, and IL-18 at 28 ± 10."
+  }
+ }
+}

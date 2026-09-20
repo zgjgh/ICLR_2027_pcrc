@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_367",
+  "page": 4,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    58.9,
+    54.7,
+    648.7,
+    107.7
+   ],
+   "ocr": "Sensors 2010, 10 6318 2 E"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    309.8,
+    99.4,
+    401.7,
+    116.9
+   ],
+   "ocr": "− elec + e = 0"
+  },
+  "p4_b2": {
+   "type": "title",
+   "bbox": [
+    336.9,
+    107.1,
+    648.7,
+    122.8
+   ],
+   "ocr": "2 fs (6)"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    112.2,
+    648.8,
+    762.6
+   ],
+   "ocr": "r This equation shows how to maximize the performance of the sensor network. However, a significant gap remains between the assumptions and the application environment. Certain problems may arise in a practical application: (1) In the conventional literature on sensor networks, protocols are designed on the assumption of reciprocity between uplink and downlink channels. However, affected by the imbalance of the RF circuitries in practice, the reciprocity between the uplink and downlink channels cannot be maintained, which will cause a performance decrease. (2) It used to be widely believed that sensor networks with smaller average hop counts perform better than those with larger average hop counts. Nevertheless, we find out that when a collector chooses a parent collector with a much smaller DtA value, it may actually reduce the transmission success rate. That is because the child and parent nodes are too far from each other and the bit error rate is relatively high. (3) In the theoretical analysis, we ignore the fact that packet length affects the transmission success rate. Therefore, even if nodes can communicate with others without any trouble in the process of constructing the network, they may need to retransmit many times before the concentrator successfully receives the monitoring data. The reason is that the size of the monitoring data is usually much larger than that of RRM or RM. We set the packet length of RRM and RM to equal that of the longest data packet to solve the above problems. The collector can only broadcast the RM a limited number of times, marked as LT, when the value of DtA is smaller than DtA_Max + 1. Evaluation results of the DT protocol from several applications show that our strategy greatly improves the performance of the EMMNets. 6. EMMNet Validation 6.1. Experiment Environment The experiment environment for the proposed smart sensors is shown in this section. Collaborating with Hangao Electronics Co., Ltd., we deployed our systems in two cities and tested our systems over a three-month period. The data of 2024 electricity meters were +collected. All the devices of the test networks are listed in Table 4 and the elements used in EMMNet are listed in Table 5. Table 4. Five EMMNets in two cities."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    65.9,
+    775.6,
+    630.8,
+    896.8
+   ],
+   "ocr": "Concentrator Num. of Num. of hand- Num. of Num. of electricity\nLocation\naddress concentrator held devices collectors meters\n320100091 1 2 45 368 Huaian City, China\n320100092 1 2 35 439 Huaian City, China\n320100093 1 1 23 284 Huaian City, China\n320100088 1 2 29 517 Yangzhou City, China\n320100089 1 2 36 416 Yangzhou City, China",
+   "table_id": "PMC3231141_table_3"
+  }
+ }
+}

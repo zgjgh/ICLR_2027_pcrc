@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_473",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "caption",
+   "bbox": [
+    58.9,
+    54.7,
+    648.5,
+    131.1
+   ],
+   "ocr": "Sensors 2015, 15 20710 Table 10. Overall means and standard errors of the frequency of peak FFT_P3, according to health statuses and lactation stages."
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    63.0,
+    142.7,
+    644.6,
+    246.8
+   ],
+   "ocr": "Days in Milking:\nHealth Status\n0–60 61–120 121–180 0–180\nof Glands:\nMean ± S.E. (Hz) Mean ± S.E. (Hz) Mean ± S.E. (Hz) Mean ± S.E. (Hz)\nHealthy 118.85 ± 9.53 × 10−3 111.52 ± 13.95 × 10−3 79.30 ± 14.52 × 10−3 111.01a ± 7.16 × 10−3\nNot healthy 106.35 ± 7.71 × 10−3 84.13 ± 6.23 × 10−3 64.60 ± 3.20 × 10−3 81.21b ± 3.15 × 10−3\nX 10−3 89.05x 10−3 66.31Y,y 10−3 10−3\nAll 112.27 ± 6.07 × ± 5.72 × ± 3.30 × 89.01 ± 3.02 ×",
+   "table_id": "PMC4570443_table_9"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    92.6,
+    252.1,
+    615.0,
+    356.7
+   ],
+   "ocr": "a,b means in the same column with different lowercase superscripts differ significantly (p < 0.05); X,Y means in the same, row with different uppercase superscripts differ significantly (p < 0.01); x,y means in the some row, with different lowercase superscripts differ significantly (p < 0.05). Table 11. Overall means and standard errors of the amplitude of peak FFT_P3, according to health statuses and lactation stages."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    84.6,
+    367.8,
+    627.0,
+    472.6
+   ],
+   "ocr": "Days in Milking:\nHealth Status\n0–60 61–120 121–180 0–180\nof Glands:\nMean ± S.E. (dB) Mean ± S.E. (dB) Mean ± S.E. (dB) Mean ± S.E. (dB)\na\nHealthy 5.88 ± 0.37 9.19 ± 0.99 12.85 ± 1.85 7.65 ± 0.46\nb\nNot healthy 6.65 ± 0.47 11.52 ± 0.55 14.46 ± 0.54 11.57 ± 0.34\nX Y Z\nAll 6.29 ± 0.30 11.10 ± 0.49 14.28 ± 0.52 10.54 ± 0.29",
+   "table_id": "PMC4570443_table_10"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    477.7,
+    648.7,
+    720.2
+   ],
+   "ocr": "a,b means in the same column with different lowercase superscripts differ significantly (p < 0.05); X,Y,Z means in the same, row with different uppercase superscripts differ significantly (p < 0.01). Lastly, the health status detection accuracy reached by the studied frequency peaks was investigated. Specific cut-off levels were determined for each frequency peak in order to reach a sensitivity of at least 80%. Consequently, pairs of sensitivity and specificity were calculated. Results showed that the amplitude value, of the frequency peak FFT_P2, reached the best accuracy (specificity = 42.9% and sensitivity = 80.1%, Table 12) with a cut-off level equal to 16.05 dB followed by the frequency value of the frequency peak FFT_P1 (specificity = 39.8% and sensitivity = 80.1%) with a cut-off level equal to 12.00 × 10−3 Hz. Table 12. Accuracy of the studied frequency peaks reported in terms of sensitivity and specificity of each peak at specific cut-off levels."
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    77.1,
+    731.3,
+    637.1,
+    872.2
+   ],
+   "ocr": "Peaks Characteristics Cut-off Level Specificity Sensitivity\n(FFT_Pn) Frequency (Hz)—Amplitude (dB) (Hz–dB) (%) (%)\nFrequency 12.00 × 10−3 39.8 80.1\nFFT_P1\nAmplitude 40.94 36.7 80.1\nFrequency 60.50 × 10−3 25.0 80.1\nFFT_P2\nAmplitude 16.05 42.9 80.1\nFrequency 102.00 × 10−3 32.7 80.1\nFFT_P3\nAmplitude 8.81 38.3 80.3",
+   "table_id": "PMC4570443_table_11"
+  }
+ }
+}

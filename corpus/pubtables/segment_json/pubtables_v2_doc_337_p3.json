@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_337",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.6,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Seasonal and Diel Marine Bacterial Function"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    654.2,
+    92.8
+   ],
+   "ocr": "Table 3. Comparison of archaeal 16S rRNA V6 fragment datasets from day and night samples in January and August."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    80.4,
+    121.8,
+    699.2,
+    310.1
+   ],
+   "ocr": "Archaea 16S rDNA January April August 27th August 28th Total\nTime 15:00 19:30 16:00 22:00 16:00 22:00 04:00 10:00\nOriginal Sequences 57,030 25,075 nr nr 17,822 27,882 nr nr 127,809\nSequences following de-noising 54,058 23,900 nr nr 16,771 26,317 nr nr 121,046\nResampled sequencing effort (16,771)\nOTUs (16,771) 46 70 nr nr 22 27 nr nr 111*\nNumber of singletons (16,771) (%) 25 (54) 33 (47) nr nr 9 (41) 14 (52) nr nr 64* (58)\nGood’s Coverage (16,771) 99.85 99.80 nr nr 99.95 99.92 nr nr 99.90\nResampled sequencing effort (4070)\nOTUs (4070) 24 46 nr nr 14 13 nr nr 63*\nNumber of singletons (4070) (%) 7 (29) 20 (43) nr nr 2 (14) 5 (38) nr nr 31* (49)\nGood’s Coverage (4070) 99.83 99.51 nr nr 99.95 99.88 nr nr 99.81",
+   "table_id": "PMC2993967_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    323.3,
+    689.3,
+    364.3
+   ],
+   "ocr": "De-noising was performed using the SLP technique (Huse et al., 2010). *Total number of OTUs when combining all datasets together: therefore, OTUs from combined dataset, not a sum of OTUs from individual datasets. Coverage = (12(number of singletons/number of resampled sequences))6100. Nr – not recorded. doi:10.1371/journal.pone.0015545.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    420.8,
+    596.6,
+    432.1
+   ],
+   "ocr": "Table 4. Comparison of metagenomic datasets from day and night samples in January, April and August."
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    80.4,
+    461.2,
+    698.1,
+    883.1
+   ],
+   "ocr": "Metagenomes January April August 27th August 28th Total\nTime 15:00 19:30 16:00 22:00 16:00 22:00 04:00 10:00\nNo. Original DNA Sequences 616,793 784,823 637,801 493,003 620,759 524,953 500,117 326,475 4,504,724\nPredicted ORFs 862,695 1,287,412 1,003,799 745,305 986,269 846,209 779,951 491,330 7,002,970\n(.40aa pORFs)\nNo. of pORF 615,374 1,123,829 779,342 588,387 881,113 703,712 675,210 444,729 5,380,725**\nclusters (95%) (7,002,970 seqs)\nNo. of pORF 546,463 1,031,865 682,586 526,233 805,284 634,042 608,785 410,616 4,658,405**\nsingletons (95%) (4,658,405 seqs)\nNo. of pORF 423,674 1,031,904 678,547 528,213 801,760 637,542 620,403 419,461 4,418,324**\n‘families’ (60%) (5,380,725 seqs)\nNo. of pORF 352,938 962,073 609,351 486,712 740,032 589,839 577,027 398,202 3,822,888**\nsingletons (60%) (3,822,888 seqs)\nResampled pORFs (66529)\nNo. of pORF clusters 56337 64446 61187 59904 65601 63032 64729 65075 488903**\n(95%) (66529) (532232 seqs)\nNo. of pORF singletons 52891 63378 58691 57779 64818 61068 63359 63945 468,449\n(95%) (66529)\nGood’s Coverage (66529) 20.50 4.74 11.78 13.15 2.57 8.21 4.76 3.88 4.18\nNo. DNA seqs with 122,936 291,953 258,658 164,249 283,761 196,369 196,972 126,392 1,641,290\nfunctional annotation\nNo. DNA seqs without 493,857 492,870 379,143 328,754 336,998 328,584 303,145 200,083 2,863,434\nfunctional annotation (%) (80) (63) (59) (67) (54) (63) (61) (61) (64)\nNo. DNA seqs with 190,326 417,920 349,888 241,541 379,911 288,356 304,003 186,421 2,358,366\ntaxonomic annotation\nResampled sequencing\neffort (186,421)\nNumber of archaeal 19,055 15,150 777 561 1,370 1,093 1,585 1,244 40,835\nsequences (186,421)\nNumber of bacterial 161,899 146,911 182,850 180,674 182,717 176,825 180,725 182,332 1,394,933\nsequences (186,421)",
+   "table_id": "PMC2993967_table_3"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    896.3,
+    699.4,
+    926.6
+   ],
+   "ocr": "**Number of protein clusters found when combining all datasets together: therefore, protein clusters from combined dataset, not a sum of clusters from individual datasets. Coverage = (12(number of singletons/number of resampled sequences)) x 100. doi:10.1371/journal.pone.0015545.t004"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 4 November 2010 | Volume 5 | Issue 11 | e15545"
+  }
+ }
+}

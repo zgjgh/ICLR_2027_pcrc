@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_242",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    337.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Evaluation and optimization of the hydropower system operation in the Upper Yellow River"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    93.8,
+    460.7,
+    103.9
+   ],
+   "ocr": "Table 5. Trade-off between maximum energy production and firm output of UYR reservoir system."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    74.0,
+    110.7,
+    694.3,
+    359.5
+   ],
+   "ocr": "Scenario Firm output Annual average energy production (108 KWh)\n(MW)\nLYX LJX 13-reservoir system 12-reservoir system\nS0 3110 (59.2%) 45.7 50.8 356.8 306.0\nS1 2310 51.9 52.1 364.9 312.8\nS2 2410 51.8 52.1 364.8 312.7\nS3 2510 51.7 52.0 364.6 312.6\nS4 2610 51.5 51.9 364.4 312.4\nS5 2710 51.4 51.8 364.1 312.3\nS6 2810 50.8 51.9 363.6 311.7\nS7 2910 49.9 52.0 362.8 310.8\nS8 3010 48.8 52.1 361.8 309.7\nS9 3110 47.4 51.9 360.3 308.3\nS10 3210 (97.8%)a 46.7 51.9 359.6 307.6\nS11 3310 (95.6%) 45.7 51.9 358.5 306.6\nS12 3410 (93.3%) 44.5 51.7 357.1 305.4\nS13 3510 (90.6%) 44.2 51.2 356.3 305.1",
+   "table_id": "PMC5784971_table_4"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    371.1,
+    48.8,
+    377.8
+   ],
+   "ocr": "a"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    373.0,
+    727.3,
+    898.5
+   ],
+   "ocr": "The percentage after the firm output represents the reliability. https://doi.org/10.1371/journal.pone.0191483.t005 solvers. The trade-off between the maximum energy production and the firm output of the UYR hydropower system is shown in Table 5, where 13 scenarios (i.e., S1-S13) are listed. Note that, in practice, a much larger number of scenarios should be analyzed in order to develop reliable reservoir operation plans. For comparison, the simulation scenario (i.e., S0) is also listed. Both the annual average energy production of the 13-reservoir system (including the LJX reservoir) and the 12-reservoir system (excluding the LJX reservoir) are presented. It can be seen from S1 that the maximum annual average energy production of the 13-reservoir sys- tem is 364.9×108 KWh and that of the 12-reservoir system is 312.8×108 KWh. The annual aver- age energy production decreases as the firm output of the reservoir system increases. The firm output can reach 3110 MW if the reliability is equal to 100%, whereas it can reach 3510 MM if the reliability is approximately 90%. Note that the reliability is the ratio of the number of time steps when the firm outputs are met to the total number of time steps. A small decrease in annual average energy production can bring about a substantial increase in firm output from the 12-reservoir system. Specifically, a 4.5×108-KWh (1.42%) decrease in maximum energy production produces an 800-MW (34.63%) increase in firm output (i.e., S9 minus S1); a 7.7×108 KWh (2.46%) decrease in maximum energy production yields an 1200-MW (51.95%) increase in firm output in return (i.e., S13 minus S1). The decrease in annual average energy production from the 12-reservoir system is completely from the LYX reservoir. Moreover, a comparison between the optimized and simulated outcomes (i.e., S0 vs. S1 and S0 vs. S9), it can be seen that there is room for improvement in the joint operation, particularly in terms of the system’s firm output. The Pareto set of solutions is shown in Fig 6, where a solution indi- cates the annual average energy (i.e., the maximum total energy production divided by 10 years) corresponding to the set firm output of the UYR hydropower system. Four scenarios (S1, S5, S9, and S13) are selected for use in the following analysis. The energy production during various hydrologic years is shown in Table 6. In S1, the max- imum energy production of the 12-reservoir system can reach 297.7, 363.9, and 411.4×108 KWh, and the energy production from LYX reservoir is 49.5, 62.8, and 71.1×108 KWh for dry, normal, and wet years, respectively. In S13, the maximum energy production of the 12-reser- voir system is 307.5×108 KWh, and the energy generation of the LYX reservoir is 35.9, 46.2,"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0191483 January 25, 2018 17 / 25"
+  }
+ }
+}

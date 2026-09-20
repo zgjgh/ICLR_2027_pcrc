@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_382",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    500.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prediction of Multiple Drug-Target Interactions"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    287.6,
+    700.8,
+    363.8
+   ],
+   "ocr": "Figure 6. The ROC curves of blind independent validation results for four target protein families. doi:10.1371/journal.pone.0037608.g006 Figure 5. The distribution of the training dataset for Model I and blind testing dataset (including enzymes, GPCRs, ion upregulated by this compound [42]. Additionally, Oxyphenbuta- channel and nuclear receptors) using the first three principal zone (DB03585), as a well-known nonsteroidal anti-inflammatory"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    357.9,
+    136.1,
+    368.0
+   ],
+   "ocr": "components."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    365.9,
+    700.8,
+    538.9
+   ],
+   "ocr": "doi:10.1371/journal.pone.0037608.g005 agent, binds to the cyclooxygenase (COX) Prostaglandin G/H synthase 1 and Prostaglandin G/H synthase 2 with the same binding scores of 0.982. This is supported by the fact that the Nicotinamide-Adenine-Dinucleotide (DB01907) and Flavin-Ade- nonsteroidal anti-inflammatory drugs could produce therapeutic nine Dinucleotide (DB03147). Interestingly, this demonstrates that activities through the inhibition of cyclooxygenase [43]. With no only a few families of enzymes and drugs account for the top exception, for all the remaining interactions, the predicted ligands scoring interactions, which is completely supported by a previous of certain receptors are invariably similar in structure with those model established based on the bipartite graph learning algorithm confirmed ligands as mentioned above. All these outcomes [38]. Meanwhile, the results also demonstrate that our RF enhance the strength of our proposed methods for realistic drug- approach offers better predictions for proteins/chemicals that target interaction prediction application. have been extensively studied and for which many ligands/ Subsequently, a comprehensive network describing the drug- receptors are known. These results further imply that our target interactions was constructed. In order to make it clear and proposed methods are able to learn, i.e., the more information is simple, the top 500 scoring drug-target interactions were used to"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    533.0,
+    236.2,
+    544.4
+   ],
+   "ocr": "provided, the better the prediction."
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    540.9,
+    700.8,
+    659.8
+   ],
+   "ocr": "generate a bipartite graph of drug-target interactions for Here, we take the top 10 scoring novel interactions as examples illustrating the complex relationships between drugs and enzymes, to illustrate the above findings. As shown in Table 3, compound in which a compound and a protein are connected to each other if Bromfenac (DB00963) is predicted to act on Prostaglandin G/H the protein is a predicted target of the compound. Figure 7 shows a synthase 1 with a score of 0.992. Actually, this interaction has been global view of this network with color and shape-coded nodes. To confirmed and was annotated in DrugBank database [41]. For explore the topological and global properties of this drug-target Asparagine synthetase [glutamine-hydrolyzing], a new ligand network, the centralization, heterogeneity and node degree Indomethacin (DB00328) is predicted to bind to it with the score distribution were analyzed [44]. The centralization and heteroge- of 0.984, which might be hinted by an indirect experiment in neity analysis shows the network centralization and heterogeneity"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    654.6,
+    375.7,
+    666.0
+   ],
+   "ocr": "which the Asparagine synthetase expression level was indeed"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    661.9,
+    700.8,
+    706.3
+   ],
+   "ocr": "degrees are 0.463 and 3.661, respectively, indicating that a few Table 3. The predicted top 10 scoring novel drug-target interactions."
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    735.3,
+    660.0,
+    904.7
+   ],
+   "ocr": "Protein name (UniProt ID) Drug generic name (DrugBank ID) Binding score\nNAD(P)H dehydrogenase [quinone] 1 (P15559) Flavin-N7 protonated-adenine dinucleotide (DB02332) 0.996\nNAD(P)H dehydrogenase [quinone] 1 (P15559) NADH (DB00157) 0.994\nAlcohol dehydrogenase [NADP+] (P14550) NADH (DB00157) 0.992\nProstaglandin G/H synthase 1 (P23219) Bromfenac (DB00963) 0.992\nProstaglandin G/H synthase 1 (P23219) D-allopyranose (DB03989) 0.990\nCholinesterase (P06276) Beta-D-Glucose (DB02379) 0.988\nCholinesterase (P06276) D-Allopyranose (DB03989) 0.986\nAsparagine synthetase [glutamine-hydrolyzing] (P08243) Indomethacin (DB00328) 0.984\nProstaglandin G/H synthase 1 (P23219) Oxyphenbutazone (DB03585) 0.982\nProstaglandin G/H synthase 2 (P35354) Oxyphenbutazone (DB03585) 0.982",
+   "table_id": "PMC3364341_table_2"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    917.9,
+    225.1,
+    926.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0037608.t003"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 8 May 2012 | Volume 7 | Issue 5 | e37608"
+  }
+ }
+}

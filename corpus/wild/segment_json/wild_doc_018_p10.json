@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_018",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The table presents the antimicrobial effectiveness of various microorganisms as indicated by the zone of inhibition measured in millimeters across different concentrations and a control. For Gram positive microorganisms, Bacillus subtilis exhibited zones of inhibition of 20 mm at 1000 μg, 18 mm at 500 μg, and 12 mm at 250 μg, with no measurable inhibition at 125 μg and 62.5 μg, and no data for DMSO. Staphylococcus epidermidis showed inhibition of 15 mm at 1000 μg, 10 mm at 500 μg, with no inhibition recorded at 250 μg, 125 μg, and 62.5 μg, and no data for DMSO."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    186
+   ],
+   "ocr": "Enterococcus faecalis demonstrated a zone of inhibition of 10 mm at 1000 μg, with no inhibition at other concentrations or DMSO. The Gram negative microorganisms presented varied results; Escherichia coli had zones of inhibition of 25 mm at 1000 μg, 21 mm at 500 μg, 13 mm at 250 μg, and 7 mm at 125 μg, with no data for 62.5 μg and DMSO. Klebsiella pneumoniae showed 15 mm at 1000 μg, 12 mm at 500 μg, 10 mm at 250 μg, and 7 mm at 125 μg, with no data for 62.5 μg and DMSO."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    204.0,
+    580.0,
+    447.0
+   ],
+   "ocr": "Microorganism Zone of inhibition (mm)\n1000 μg 500 μg 250 μg 125 μg 62.5 μg DMSO\nGram positive\nBacillus subtilis 20 18 12 NA NA NA\nStaphylococcus epidermidis 15 10 NA NA NA NA\nEnterococcus faecalis 10 NA NA NA NA NA\nGram negative\nEscherichia coli 25 21 13 7 NA NA\nKlebsiella pneumoniae 15 12 10 7 NA NA\nPsedomonas aeroginosa 21 20 12 10 7 NA\nProteus mirabilis NA NA NA NA NA NA\nSalmonella typhi 22 20 15 9 7 NA",
+   "table_id": "img_019704_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    463,
+    580,
+    490
+   ],
+   "ocr": "Pseudomonas aeruginosa had 21 mm at 1000 μg, 20 mm at 500 μg, 12 mm at 250 μg, 10 mm at 125 μg, and 7 mm at 62.5 μg, with no data for DMSO."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    478,
+    580,
+    521
+   ],
+   "ocr": "Finally, Salmonella typhi exhibited inhibition of 22 mm at 1000 μg, 20 mm at 500 μg, 15 mm at 250 μg, 9 mm at 125 μg, 7 mm at 62.5 μg, and no data for DMSO. Proteus mirabilis showed no measurable inhibition across all tested concentrations and DMSO."
+  }
+ }
+}

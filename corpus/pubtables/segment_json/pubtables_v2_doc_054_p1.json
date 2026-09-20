@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_054",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    451.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Time-Critical Adaptive Approach for Visualizing Natural Scenes"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    102.9,
+    652.0,
+    114.7
+   ],
+   "ocr": "Table 1. Comparison between estimated time and actual time on computers (unit: s)."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    124.8,
+    726.7,
+    218.9
+   ],
+   "ocr": "Time ET(s) AT(s) error\nt1 0.0695 0.0769 9.6%\nt2 0.0657 0.0603 8.9%\nt3 0.0616 0.0679 9.3%\nt4 0.0687 0.0729 5.7%\nt5 0.0636 0.0696 8.6%",
+   "table_id": "PMC4344310_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    227.0,
+    727.3,
+    402.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t001 Formula (7) and Formula (8) respectively. X X n�1 n ðTi t sizej Tj t � � � sizeiÞ sizej v numi t sizei v ðt � � � numjÞ i¼1 j¼iþ1 ð7Þ c1 ¼ C2 n X X n�1 n ðTi v numj Tj v � � � numiÞ sizei v numj t sizej v"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    351.2,
+    375.0,
+    727.3,
+    410.5
+   ],
+   "ocr": "ðt � � � numiÞ i¼1 j¼iþ1 ð8Þ c2 ¼ C2"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    404.1,
+    724.9,
+    510.8
+   ],
+   "ocr": "n where C2 means the combination of selecting two trees from n trees. When rendering a nat- n ural scene, it collects the monitoring data of rendering time. The time estimation function is dynamically adjusted according to the collected monitoring data, and making the time estima- tion more accurate. The amended ci (i = 1, 2) is deﬁned in Formula (9). tact test"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    403.2,
+    496.0,
+    727.3,
+    526.4
+   ],
+   "ocr": "0 � ci ð9Þ ci b ¼ ð1 þ � Þ �"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    512.2,
+    726.5,
+    651.3
+   ],
+   "ocr": "test where test is the estimated time of all trees in view frustum, tact is the actual rendering time needed, and β is a value between 0 and 1, which reduces the volatility of this feedback al- gorithm [27]. To evaluate the error between estimated time and actual time [27], suppose the estimated time is t_est and the actual time is t_act, then the error between them is defined in Formula (10). jt"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    419.1,
+    628.4,
+    727.3,
+    659.9
+   ],
+   "ocr": "act t � estj ð10Þ error ¼"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    645.7,
+    726.1,
+    898.4
+   ],
+   "ocr": "t act Table 1 presents the comparison between the estimated time and the actual time when there are 30 trees in view frustum. The testing is conducted on a desktop computer with the following conﬁguration: Intel(R) Core(TM) i3 CPU 550@3.20GHz, 512M graphic card memory, 2G memory. In Table 1, the ﬁrst column is the ﬁve moments sampled when roaming in a natural scene, ET is the estimation time, AT is the actual time, and error is the error between them. The value of error is controlled in a reasonable range, demonstrating that the method of estimating rendering time proposed in this paper is feasible. Table 2 and Table 3 are the comparison of the iPhone and iPad. Evaluation of tree importance The evaluation of tree importance is a crucial aspect to realize adaptive visualization. When the estimated rendering time exceeds the specified time, it can reduce the LOD levels for relatively unimportant trees to shorten rendering time. When the estimated rendering time is less than"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0117586 February 27, 2015 9 / 26"
+  }
+ }
+}

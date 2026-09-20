@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_447",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    556.7,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Checking STEP-Associated Trafficking"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    486.1,
+    107.4
+   ],
+   "ocr": "Table 5. Shows the frequencies of substructure fragments in the inhibitors and non-inhibitors."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    225.8
+   ],
+   "ocr": "Substructure fragment number Substructure name Frequency in inhibitors Frequency in non-inhibitors\nSubFP187 Nitrate 325.17 0.19\nSubFP84 Carboxylic acid 4.06 0.99\nSubFP303 Michael acceptor 2.80 0.99\nSubFP5 Alkene 2.09 0.99\nSubFP297 Anion 2.00 0.99\nSubFP299 Salt 2.00 0.99",
+   "table_id": "PMC4466797_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    233.9,
+    727.3,
+    884.8
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129370.t005 repositioning candidates. However, we will be discussing those eight drugs for which any kind of study with respect to Alzheimer’s has already been reported. The 109 drugs predicted by our classification models included antihypertensives such as Valsartan [50], Telmisartan [51] and Candesartan [52, 53], which have previously been positioned as repurposing candidates for AD. The other drugs reported as active against STEP included Folic acid, Indomethacin, Aden- osine triphosphate, Bexarotene and phosphatidylserine. Folic acid, a form of the water soluble Vitamin B9, has been reported to reduce the level of homocysteine in the blood, which is other- wise increased in cases of AD and may contribute to disease pathology [54, 55]. Non-steroidal anti-inflammatory drugs (NSAIDs) such as Indomethacin have also been found to slow the progression of the disease in Alzheimer’s patients by reducing the inflammatory action induced by Aβ [56, 57]. One of the early biomarkers in cases of AD is altered amyloid-β protein (Aβ) levels. In a recent study, ATP has been found to interact with Aβ and thus plays a possible role in the progression of the disease [58]. Phosphatidylserine has also been indicated in the treat- ment of Alzheimer's disease [59]. Various studies have reported that Bexarotene, commonly used to treat T-cell lymphomas, also affects apolipoprotein E induction and so could be a good candidate for Alzheimer’s treatment [60]. The details of the aforementioned drugs along with their classes are given in Table 5 and information concerning all the 109 drugs is given in S4 table. To have a better understanding of the binding mechanisms as well as an independent evalu- ation approach, the eight repositioning candidates discussed above were screened against human protein tyrosine phosphatase, PTPN5 (STEP, striatum enriched phosphatase) (PDB ID: 2BV5). The drug molecules were first docked using Schrodinger’s Glide HTVS, after which the top scoring poses of all the drugs were docked using Glide’s XP docking strategy. We iden- tified two high scoring repositioning candidates, namely Adenosine triphosphate (ATP) with a Glide score of -9.34 kcal/mol and Folic acid with a Glide score of -6.03 kcal/mol. Adenosine triphosphate (ATP) formed six hydrogen bonds, out of which 2 hydrogen bonds were formed between the NH2 and NE atoms of active site residue Arg 478 and the O7 of ATP, with distances of 2.90 Å and 2.80 Å respectively. Two hydrogen bonds were formed between the NE2 atom of active site residue Gln 520 and the O5 and O6 atoms of ATP, with distances of 2.99 Å and 3.13 Å respectively. One hydrogen bond was formed between the NZ atom of Lys 439 and the O4 atom of ATP (3.02 Å) while the last bond was formed between the NE1 of Trp 435 and the O5 atom of the ligand, ATP (2.95 Å). The second high scoring repositioning candidate was Folic acid, which formed six hydrogen bonds and had a Glide energy of -50.97 kcal/mol. It formed a hydrogen bond (H-bond) with the active site residue Arg 478 (2.81 Å) and other restudies, which involved Arg 303 (2.88 Å), Tyr 304 (2.68 Å), Trp 435 (2.95 Å), Lys 439 (3.04 Å) and Gln 520 (3.15 Å). The interacting resi- dues for both the repositioning candidates, ATP and Folic acid, can be seen in Fig 3(C) and Fig 3(D) respectively. The chemical structures are shown in Fig 4(C) (ATP) and Fig 4(D) (Folic"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129370 June 12, 2015 15 / 20"
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_041",
+  "page": 9,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The analysis presented in the accompanying table investigates the efficacy of various glove sizes in achieving microbial reduction, as measured by the mean log10-reduction across differing sample sizes. Specifically, the table highlights the mean log10-reduction values, which serve as a critical metric in evaluating the performance of gloves in preventing contamination. For instance, the results indicate a mean log10-reduction of 2.25 ± 1.20 across 62 subjects when using gloves of size 7, suggesting a strong level of effectiveness."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "Additionally, the data demonstrates variability in reduction rates, with a notable mean log10-reduction of 1.73 ± 0.86 observed in a smaller cohort of 11 subjects utilizing size 2 gloves. These findings underscore the importance of glove size in infection control measures, particularly in settings where microbial exposure is a concern. The p- value associated with these results further supports the statistical significance of the findings, providing a robust framework for understanding the relationship between glove size and microbial reduction. Overall, this analysis contributes valuable insights to the field of health and safety practices."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    360.0
+   ],
+   "ocr": "Size of glove Mean log10-reduction (number of subjects) 6 ml (number of subjects) 9 ml (number of subjects) 12 ml (number of subjects) p-value\n7 2.25 ± 1.20 (62) 1.73 ± 0.86 (11)* 2.20 ± 1.17 (43) 3.23 ± 1.31 (8)* 0.021\n7.5 2.03 ± 1.11 (106) 1.32 ± 0.97 (15)* 2.14 ± 1.12 (77)* 2.21 ± 0.97 (14) 0.025\n8 2.18 ± 1.32 (68) 1.27 ± 1.19 (13)* 2.47 ± 1.33 (45)* 2.10 ± 0.92 (10) 0.013\n8.5 2.37 ± 1.49 (24) - 2.51 ± 1.50 (17) 2.05 ± 1.53 (7) 0.502\n9 1.03 ± 1.24 (9) - 1.50 ± 0.70 (3) 0.79 ± 1.43 (6) 0.461",
+   "table_id": "img_046256_t0"
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    375.0,
+    580.0,
+    498.0
+   ],
+   "ocr": "Site Evidence Teamwork Communication Leadership Uptake\nA Strong Strong Strong Moderate High\nB Moderate Moderate Moderate Strong High\nC Moderate Strong Strong Moderate Medium\nD Weak Weak Moderate Moderate Low\nE Strong Weak Weak Weak Low",
+   "table_id": "img_046256_t1"
+  },
+  "p9_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    513.0,
+    580.0,
+    636.0
+   ],
+   "ocr": "Academic stress SHL Without SHL Total Percentage of SHL(%)\nNormal 14 922 936 1.50\nMild 6 514 520 1.15\nModerate 2 96 98 2.04\nSevere 1 12 13 7.69\nTotal 23 1544 1567 1.47",
+   "table_id": "img_046256_t2"
+  }
+ }
+}

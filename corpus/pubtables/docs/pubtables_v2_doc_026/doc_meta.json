@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_026",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4682424_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    756.8,
+    661.5,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4682424_table_0.png",
+   "html": "<table><tr><td>Features</td><td>Collected from</td><td>Feature No.</td></tr><tr><td>Physico-chemical</td><td>AAIndex (80% similarity)</td><td>1-205</td></tr><tr><td>PSSM</td><td>Psi-BLAST</td><td>206-225</td></tr><tr><td>PSSM residue</td><td>PSSM</td><td>226</td></tr><tr><td>PI</td><td>PSAIA</td><td>227</td></tr><tr><td>Secondary structure</td><td>DSSP</td><td>228-235</td></tr><tr><td>ASA</td><td>NACCESS</td><td>236</td></tr><tr><td>RSA</td><td>NACCESS</td><td>237</td></tr><tr><td>B-factor</td><td>PDB files</td><td>238</td></tr><tr><td>B-factor CA</td><td>PDB files</td><td>239</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4682424_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    832.0,
+    344.4,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4682424_table_1.png",
+   "html": "<table><tr><td>Algorithms</td><td>Step1</td><td>Step2</td><td>SEL</td></tr><tr><td>S-EM [19]</td><td>Spy</td><td>EM</td><td>Y</td></tr><tr><td>PEBL [22]</td><td>1-DNF</td><td>SVM</td><td>N</td></tr><tr><td>Roc-SVM [23]</td><td>Rocchio</td><td>SVM</td><td>Y</td></tr><tr><td>Biased SVM [24]</td><td>Na&#239;ve Bayesian</td><td>Biased SVM</td><td>N</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4682424_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    801.9,
+    618.1,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4682424_table_2.png",
+   "html": "<table><tr><td>Predictor</td><td>Recall</td><td>Precision</td><td>F-score</td><td>MCC</td></tr><tr><td>DiscoTope 2.0</td><td>0.26</td><td>0.17</td><td>0.21</td><td>0.11</td></tr><tr><td>ElliPro</td><td>0.68</td><td>0.12</td><td>0.20</td><td>0.08</td></tr><tr><td>SEPPA 2.0</td><td>0.48</td><td>0.16</td><td>0.24</td><td>0.14</td></tr><tr><td>Baseline(r)</td><td>0.58 &#177; 0.002</td><td>0.17 &#177; 0.003</td><td>0.26 &#177; 0.003</td><td>0.17 &#177; 0.004</td></tr><tr><td>Baseline(p)</td><td>0.59 &#177; 0.001</td><td>0.18 &#177; 0.003</td><td>0.27 &#177; 0.003</td><td>0.18 &#177; 0.004</td></tr><tr><td>PUPre</td><td>0.71 &#177; 0.015</td><td>0.18 &#177; 0.002</td><td>0.28 &#177; 0.003</td><td>0.21 &#177; 0.005</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4682424_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    842.7,
+    347.6,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4682424_table_3.png",
+   "html": "<table><tr><td>Predictor</td><td>Recall</td><td>Precision</td><td>F-score</td><td>MCC</td></tr><tr><td>PUPre</td><td>0.90</td><td>0.37</td><td>0.52</td><td>0.49</td></tr><tr><td>DiscoTope 2.0</td><td>0.24</td><td>0.20</td><td>0.22</td><td>0.10</td></tr><tr><td>ElliPro</td><td>0.48</td><td>0.11</td><td>0.17</td><td>-0.05</td></tr><tr><td>SEPPA 2.0</td><td>0.14</td><td>0.14</td><td>0.14</td><td>0.02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4682424_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    842.7,
+    347.6,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4682424_table_4.png",
+   "html": "<table><tr><td>Predictor</td><td>Recall</td><td>Precision</td><td>F-score</td><td>MCC</td></tr><tr><td>PUPre</td><td>0.71</td><td>0.37</td><td>0.49</td><td>0.31</td></tr><tr><td>DiscoTope 2.0</td><td>0.11</td><td>0.29</td><td>0.16</td><td>0.05</td></tr><tr><td>ElliPro</td><td>0.69</td><td>0.29</td><td>0.40</td><td>0.17</td></tr><tr><td>SEPPA 2.0</td><td>0.17</td><td>0.38</td><td>0.24</td><td>0.13</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_351",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3115942_table_0",
+   "page_num": 1,
+   "bbox": [
+    79.9,
+    729.5,
+    689.0,
+    883.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3115942_table_0.png",
+   "html": "<table><tr><td>ID</td><td>R1</td><td>R2</td><td>R3</td><td>MW</td><td>IC50 (Shh-L2, nM)</td></tr><tr><td>MS-0022</td><td>8-methylimidazo[1,2-a]pyridine</td><td>&#8211;</td><td>2-bromophenyl</td><td>406.3</td><td>100</td></tr><tr><td>MS-0011</td><td>8-methylimidazo[1,2-a]pyridine</td><td>&#8211;</td><td>Methyl</td><td>265.3</td><td>.20,000</td></tr><tr><td>MS-0012</td><td>8-methylimidazo[1,2-a]pyridine</td><td>&#8211;</td><td>2-propyl</td><td>293.4</td><td>.20,000</td></tr><tr><td>MS-0013</td><td>&#8211;</td><td>O-Amide</td><td>2-bromophenyl</td><td>319.2</td><td>.20,000</td></tr><tr><td>MS-0014</td><td>Propyl</td><td>&#8211;</td><td>2-bromophenyl</td><td>318.2</td><td>10,000</td></tr><tr><td>MS-0015</td><td>6-morpholinopyridazin-3-yl</td><td>&#8211;</td><td>2-bromophenyl</td><td>439.3</td><td>800</td></tr><tr><td>MS-0016</td><td>(6-phenylpyrimidin-4-yl)amino</td><td>&#8211;</td><td>2-bromophenyl</td><td>445.3</td><td>2000</td></tr><tr><td>MS-0017</td><td>naphthalen-2-ylcarbamoyl</td><td>&#8211;</td><td>2-bromophenyl</td><td>445.3</td><td>280</td></tr><tr><td>MS-0018</td><td>2-benzylidenehydrazinecarbonyl</td><td>&#8211;</td><td>2-bromophenyl</td><td>442.3</td><td>5000</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3115942_table_1",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    703.0,
+    677.1,
+    883.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3115942_table_1.png",
+   "html": "<table><tr><td>ID</td><td>R1</td><td>R2</td><td>R3</td><td>X</td><td>Y</td><td>MW</td><td>IC50 (Shh-L2, nM)</td><td>IC50 (nM, BODIPY- cyclopamine inhib.)</td><td>cLogP</td><td>PSA</td></tr><tr><td>MS-0022</td><td>CH3</td><td>H</td><td>2-bromophenyl</td><td>C</td><td>C</td><td>406.3</td><td>100</td><td>259</td><td>5.44</td><td>46.4</td></tr><tr><td>MS-0030</td><td>CH3</td><td>CH3</td><td>2-bromophenyl</td><td>C</td><td>C</td><td>420.3</td><td>630</td><td>&#8211;</td><td>5.86</td><td>46.4</td></tr><tr><td>MS-0031</td><td>CH3</td><td>H</td><td>2-bromophenyl</td><td>C</td><td>N</td><td>407.3</td><td>2300</td><td>&#8211;</td><td>3.88</td><td>59.29</td></tr><tr><td>MS-0032</td><td>CH3</td><td>H</td><td>2-fluorophenyl</td><td>C</td><td>C</td><td>345.4</td><td>161</td><td>93</td><td>4.39</td><td>46.2</td></tr><tr><td>MS-0033</td><td>H</td><td>H</td><td>4-methoxyphenyl</td><td>C</td><td>C</td><td>343.4</td><td>181</td><td>287</td><td>4.24</td><td>55.63</td></tr><tr><td>MS-0034</td><td>&#8211;</td><td>H</td><td>2-methoxyphenyl</td><td>N</td><td>C</td><td>344.4</td><td>.10,000</td><td>&#8211;</td><td>3.21</td><td>68.5</td></tr><tr><td>MS-0035</td><td>&#8211;</td><td>H</td><td>4-methoxyphenyl</td><td>N</td><td>C</td><td>344.4</td><td>877</td><td>&#8211;</td><td>3.1</td><td>68.52</td></tr><tr><td>MS-0036</td><td>&#8211;</td><td>H</td><td>3,5-dimethylphenyl</td><td>N</td><td>C</td><td>342.4</td><td>3,700</td><td>&#8211;</td><td>4.06</td><td>59.29</td></tr><tr><td>MS-0037</td><td>&#8211;</td><td>H</td><td>3-chlorophenyl</td><td>N</td><td>C</td><td>348.8</td><td>1,870</td><td>&#8211;</td><td>3.87</td><td>59.29</td></tr><tr><td>MS-0038</td><td>&#8211;</td><td>H</td><td>2-trifluoromethylphenyl</td><td>N</td><td>C</td><td>382.3</td><td>1,150</td><td>&#8211;</td><td>2.98</td><td>59.3</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3115942_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    796.4,
+    366.5,
+    871.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3115942_table_2.png",
+   "html": "<table><tr><td></td><td>PTCH1</td><td>SMO</td><td>GLI1</td><td>GLI2</td><td>GLI3</td><td>SHH</td><td>HIP</td><td>SUFU</td></tr><tr><td>PANC-1</td><td>+++</td><td>+</td><td>+++</td><td>+++</td><td>+</td><td>+++</td><td>+/2</td><td>+++</td></tr><tr><td>SUIT-2</td><td>++</td><td>++</td><td>++</td><td>++</td><td>nt</td><td>+++</td><td>nt</td><td>nt</td></tr><tr><td>PC-3</td><td>++</td><td>++</td><td>++</td><td>+</td><td>+</td><td>+++</td><td>+</td><td>+</td></tr><tr><td>FEMX</td><td>++</td><td>+</td><td>+</td><td>+</td><td>2</td><td>2</td><td>2</td><td>+</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3115942_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    135.1,
+    374.3,
+    504.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3115942_table_3.png",
+   "html": "<table><tr><td>kinase:</td><td>Activity %</td><td>kinase:</td><td>Activity %</td><td>kinase:</td><td>Activity %</td></tr><tr><td>Abl(h)</td><td>96</td><td>EphB4(h)</td><td>99</td><td>NEK2(h)</td><td>127</td></tr><tr><td>ALK(h)</td><td>95</td><td>Fyn(h)</td><td>100</td><td>p70S6K(h)</td><td>94</td></tr><tr><td>AMPK(r)</td><td>98</td><td>GRK5(h)</td><td>119</td><td>PAK2(h)</td><td>93</td></tr><tr><td>ASK1(h)</td><td>91</td><td>GSK3b(h)</td><td>88</td><td>PDGFRb(h)</td><td>108</td></tr><tr><td>CaMKI(h)</td><td>106</td><td>IGF-1R(h)</td><td>105</td><td>Pim-1(h)</td><td>103</td></tr><tr><td>CDK1/cyclinB(h)</td><td>110</td><td>IKKa(h)</td><td>103</td><td>PKA(h)</td><td>100</td></tr><tr><td>CDK2/cyclinA(h)</td><td>98</td><td>IRAK4(h)</td><td>95</td><td>PKBa(h)</td><td>107</td></tr><tr><td>CDK7/cyclinH/ MAT1(h)</td><td>103</td><td>JAK2(h)</td><td>110</td><td>PKCa(h)</td><td>106</td></tr><tr><td>CDK9/cyclin T1(h)</td><td>98</td><td>JNK3(h)</td><td>71</td><td>PKCh(h)</td><td>103</td></tr><tr><td>CHK1(h)</td><td>84</td><td>KDR(h)</td><td>103</td><td>PKG1a(h)</td><td>94</td></tr><tr><td>CK1c1(h)</td><td>93</td><td>LOK(h)</td><td>93</td><td>Plk3(h)</td><td>107</td></tr><tr><td>CK2a2(h)</td><td>109</td><td>Lyn(h)</td><td>103</td><td>PRAK(h)</td><td>71</td></tr><tr><td>cKit(h)</td><td>109</td><td>MAPK2(h)</td><td>101</td><td>ROCK-I(h)</td><td>103</td></tr><tr><td>c-RAF(h)</td><td>106</td><td>MAPKAP -K2(h)</td><td>92</td><td>Rse(h)</td><td>107</td></tr><tr><td>cSRC(h)</td><td>83</td><td>MEK1(h)</td><td>73</td><td>Rsk1(h)</td><td>91</td></tr><tr><td>DRAK1(h)</td><td>97</td><td>MKK7b(h)</td><td>109</td><td>SAPK2a(h)</td><td>102</td></tr><tr><td>DYRK2(h)</td><td>97</td><td>MLK1(h)</td><td>103</td><td>SRPK1(h)</td><td>102</td></tr><tr><td>eEF-2K(h)</td><td>99</td><td>Mnk2(h)</td><td>90</td><td>TAK1(h)</td><td>98</td></tr><tr><td>EGFR(h)</td><td>84</td><td>MSK2(h)</td><td>92</td><td></td><td></td></tr><tr><td>EphA5(h)</td><td>112</td><td>MST1(h)</td><td>94</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3115942_table_5",
+   "page_num": 5,
+   "bbox": [
+    405.9,
+    523.2,
+    694.2,
+    882.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3115942_table_5.png",
+   "html": "<table><tr><td>Primers:</td><td>Primer sequence, 59 R 39</td><td>Tm,6C</td></tr><tr><td>hPTCH1 fwd</td><td>CGA GCC CCC CTG TAC GAA GTG G</td><td>67.7</td></tr><tr><td>hPTCH1 rev</td><td>GAC CCC CAG CAA GCC CAG AAA A</td><td>64.0</td></tr><tr><td>hGLI1 fwd</td><td>GCG CAT CCC GAG CCC AGC</td><td>65.1</td></tr><tr><td>hGLI1 rev</td><td>GCC CTC GGT GCA GCT GTT GGT C</td><td>67.7</td></tr><tr><td>hGLI2 fwd</td><td>GCC TCC GAG AAG CAA GAA GCC AAA A</td><td>64.4</td></tr><tr><td>hGLI2 rev</td><td>CCT GGT GTC GCA TGT CAA TCG GTA G</td><td>66.3</td></tr><tr><td>hGLI3 fwd</td><td>CGG GAC GGT GTT TGC CAT GGA C</td><td>65.8</td></tr><tr><td>hGLI3 rev</td><td>GGA GGA TGG AAG GCA GGG AAA AGA T</td><td>64.6</td></tr><tr><td>hSHH fwd</td><td>GCC AGC GGA AGG TAT GAA GGG AAG</td><td>66.1</td></tr><tr><td>hSHH rev</td><td>ACC GAG ATG GCC AAA GCG TTC AAC</td><td>64.4</td></tr><tr><td>hHIP fwd</td><td>TGG GGA TGG CTC GCA ACG TCT C</td><td>65.8</td></tr><tr><td>hHIP rev</td><td>TGG GAT GGA ATG CGA GGC TTA GC</td><td>64.2</td></tr><tr><td>hSUFU fwd</td><td>CCC GAG GAT GAC GAG GAC AGC C</td><td>67.7</td></tr><tr><td>hSUFU rev</td><td>CGC GTG CGA ATC AGC TCA TGG G</td><td>65.8</td></tr><tr><td>hSMO fwd</td><td>CCA GGA GGA AGC GCA CGG CAA G</td><td>67.7</td></tr><tr><td>hSMO rev</td><td>TCG CAC TGG CCT GAA CTG TTG AAC T</td><td>64.6</td></tr><tr><td>hGAPDH fwd</td><td>GCC CCC TCT GCT GAT GCC CCC A</td><td>75.7</td></tr><tr><td>hGAPDH rev</td><td>TGG GTG GCA GTG ATG GCA TGG</td><td>70.2</td></tr><tr><td>mGLI1 fwd</td><td>AGC CAA CTT TAT GTC AGG GTC CCA GGG T</td><td>71.2</td></tr><tr><td>mGLI1 rev</td><td>GAG CCC GCT TCT TTG TTA ATT TGA CTG</td><td>66.5</td></tr><tr><td>mGAPDH fwd</td><td>TAT GTC GTG GAG TCT ACT GGT GTC TTC ACC</td><td>68.1</td></tr><tr><td>mGAPDH rev</td><td>GAG TTG TCA TAT TTC TCG TGG TTC ACA CCC</td><td>66.8</td></tr></table>"
+  }
+ ]
+}

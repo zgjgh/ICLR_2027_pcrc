@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_134",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Predicting Infection with Simple Parameters"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.0,
+    700.8,
+    554.8
+   ],
+   "ocr": "univariate analyses for both groups are shown in table 2. The major outcome is infectious or non-infectious. The set of data obtained from EHR was randomly divided into three groups: training set, selection set and test set. The training set with 927 cases, as approximately 50% of the entire cohort, was used to build LR and ANN models. The selection set of 464 cases was used for ANN modeling (25% of the cohort) in avoiding overfitting and as an early stopping method [23]; and the test set represents 461 cases (25% of the cohort) for internal validation. Logistic Regression Analysis Multiple logistic regression analysis was first performed using the same training set of 927 cases as the ANN analysis for maximum likelihood estimation. Although the LR does not involve ‘‘training’’, we used this training set to refer to the portion of data used to derive the regression equation [23]. A backward stepwise algorithm was used to construct the LR model and estimate the coefficient (b) of the variables. The likelihood ratio test was used to assess the covariate-adjusted p value. Based on the result, the probability of infection was estimated using the logistic equation. To obtain the most optimal prediction with few variables, we applied a ‘‘variable rotation’’ method in building a reasonable model in order to fit the different clinical settings regarding the ease of information retrieval. First, variables relevant to HAI from the literatures or with higher likelihood ratio, such as Foley catheter, CVC, arterial line and NG tube, was excluded individually or combined in groups from first LR model, and then block entry of variables was used for further analysis. The definition and content of the groups are shown in table 3. The performance of each LR model was compared by the area under receiver operating characteristic (ROC) curve [24]. The models were then applied, using the statistically significant variables obtained, to detect the cases of infection in the internal validation set of 461 patients as in the test set."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    554.8
+   ],
+   "ocr": "and recorded. The Institutional Review Board of Taipei Medical University Wan Fang Hospital waived the informed consent requirement because the data were analyzed anonymously. Data preparation All the variables used in control group were generated from EHR including basic demographic data, duration before infection, underlying health status, acute disease progress, invasive proce- dures and modes of treatment. Taking the advantage of EHR, data collection becomes easy and can be classified for statistical purpose immediately. For example, there are ICD-9-CM codes for diagnosis and procedure codes for chest tube insertion, we applied simple query to get the information immediately. EHR is still limited for information collection, such as vital signs, adverse events of medications and procedures, and even patients’ complaints and laboratory testing reports if patient-specific health records or history progress notes are not well constructed. At the time of data collection during period of 2004–2005, such effective system was not available. Discussion with infection specialists for reflecting the clinical situations was done then we calculated the number of diagnosis at admission represented as complexity of disease, opted for general anesthesia for those who had major surgical procedures and interventions, advised for hemodialysis as the predictors of underlying healthy status. Interventional procedures or devices used, including endotracheal tube and tracheostomy, nasogastric (NG) tube, arterial line and central venous catheterization (CVC), Foley catheterization, and draining tubes implantation (chest tube, draining tube, double-lumen tube … etc) were recorded. The medications such as systemic glucocorticosteroids used for more than 5 days; non-steroid anti- inflammatory drugs (NSAID), stress ulcer prophylaxes (H2 antagonists, sucralfate, and proton pump inhibitors) and chemo- therapeutic agents for more than 3 days were also collected. There are 16 variables including 2 demographic, 3 underlying health status-related, 7 procedural, and 4 therapeutical variables (table 1). The characters of demographic data and coding for variables with"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    589.1,
+    309.1,
+    600.4
+   ],
+   "ocr": "Table 1. Variables Used for Statistical Analysis."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    629.5,
+    690.8,
+    904.0
+   ],
+   "ocr": "Category Variables Remark\nDemographic Age\nGender\nUnderlying health status Diagnosis number at admission Represented as complexity of disease\nGeneral anesthesia Major surgical procedures and interventions\nHemodialysis Underlying healthy status\nProcedural Arterial line\nCentral venous catheterization\nEndotracheal intubation\nTracheostomy\nNasogastric tube\nFoley catheterization\nDraining tubes Chest tube, draining tube, double-lumen tube…etc.\nTherapeutical Chemotherapeutic agents Used for more than 3 days\nSystemic Glucocorticosteroids Used for more than 5 days\nStress ulcer prophylaxes H2 antagonists, sucralfate, and proton pump inhibitors\nused for more than 3 days\nNon-steroid anti-inflammatory drugs Used for more than 3 days",
+   "table_id": "PMC3160843_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    917.3,
+    225.1,
+    926.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0023137.t001"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "3 August 2011 | Volume 6 | Issue 8 | e23137"
+  }
+ }
+}

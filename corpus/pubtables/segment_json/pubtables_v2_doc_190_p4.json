@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_190",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Grassland and Alien Plants on Power Line Corridors"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    708.1,
+    107.7
+   ],
+   "ocr": "Table 4. The final models for indifferent and invasive alien species number in the study corridors. q-values indicate FDR-corrected p-values [41]."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    506.8
+   ],
+   "ocr": "Response: Number of indifferent alien species\nPredictors: Estimate Std. Error z value Pr (>|z|) q-value\nIntercept 1.004 0.077 13.014 < 0.001\nSoil productivity 0.429 0.095 4.519 < 0.001 < 0.001\nLight abundance 0.399 0.098 4.07 < 0.001 < 0.001\nHistory: Grassland - 0.219 0.085 - 2.587 0.01 0.029\nCorridor width - 0.225 0.091 - 2.486 0.013 0.029\nCover of surrounding urban fabric 0.21 0.104 2.016 0.044 0.044\nCover of surrounding agricultural areas - 0.236 0.117 - 2.013 0.044 0.044\nCover of surrounding forests 0.237 0.11 2.159 0.031 0.044\nHistory: Cultivated ﬁeld - 0.178 0.086 - 2.079 0.038 0.044\nAutocovariate 0.18 0.089 2.027 0.043 0.044\nNull deviance / df.: 149.15 / 70\nResidual deviance / df.: 62.96 / 61\nAIC: 282.18\nResponse: Number of invasive alien species\nPredictors: Estimate Std. Error z value Pr (>|z|) q-value\nIntercept 1.127 0.07 16.198 < 0.001\nCover of surrounding urban fabric 0.229 0.072 3.185 0.001 0.006\nSoil productivity 0.214 0.077 2.765 0.006 0.011\nTime since management - 0.168 0.083 - 2.017 0.044 0.058\nCorridor width 0.144 0.088 1.639 0.101 0.101\nNull deviance / df.: 60.776 / 70\nResidual deviance / df.: 29.792 / 66\nAIC: 249.72",
+   "table_id": "PMC4643934_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    514.9,
+    727.4,
+    898.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0142236.t004 Table 5. The proportion of constrained and unconstrained variation in the composition of grassland and alien species (expressed as Bray-Curtis distance), with all variables included and only significant variables included. Grassland species Alien species all variables signiﬁcant variables all variables signiﬁcant variables Total 1 1 1 1 Constrained 0.52 0.36 0.42 0.25 Unconstrained 0.48 0.64 0.58 0.75 doi:10.1371/journal.pone.0142236.t005 Discussion The main result of this study is that grassland and alien plant species may favor power line cor- ridors with somewhat different characteristics, but the effects of individual environmental fac- tors on the species composition in the two groups are correlated. Grassland species on power line corridors According to this study, urban power line corridors most suitable to common grassland species are characterized by a history of pastures and productive soils on steep slopes, while corridors most suitable to grassland indicator species are old and likewise characterized by a history of pastures and steep slopes. Unsuitable corridors to common grassland species cross areas with a"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142236 November 13, 2015 9 / 16"
+  }
+ }
+}

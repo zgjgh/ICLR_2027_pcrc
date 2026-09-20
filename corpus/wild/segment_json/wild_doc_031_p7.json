@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_031",
+  "page": 7,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "In recent analyses of health outcomes, the impact of demographic factors such as sex and age has garnered significant attention. The accompanying data table presents key metrics that elucidate this relationship, specifically focusing on the area under the curve (AUC) and its corresponding 95% confidence interval (CI)."
+  },
+  "p7_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    109
+   ],
+   "ocr": "The AUC is a critical measure used to evaluate the performance of predictive models, with a value of 0.637 observed in this study."
+  },
+  "p7_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    359.0
+   ],
+   "ocr": "Model tests, multivariate models on hospitalisation Area under ROC Curve CV AIC LR test\nAUC (95% CI) %\nSex and age 0.637 (0.632–0.642) 4.9 74,959 0\nAdjusted for sex and age 0\nIndividual income and education 0.652 (0.647–0.658) 5.2 74,599 372\nRelationships with primary care 0.668 (0.663–0.674) 6.2 73,638 1331\nMultimorbidity level 0.858 (0.855–0.861) 13.7 56,466 18,503\nAdjusted for sex, age and multimorbidity 0\nIndividual income and education 0.859 (0.856–0.862) 13.7 56,432 46\nRelationships with primary care 0.864 (0.861–0.866) 14.1 55,626 850\nSocioeconomy and relationship 0.864 (0.861–0.867) 14.2 55,587 901",
+   "table_id": "img_034841_t0"
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    375,
+    580,
+    433
+   ],
+   "ocr": "This value indicates a moderate level of discriminative ability concerning the outcomes influenced by sex and age demographics. The 95% CI, ranging from 0.632 to 0.642, further reinforces the precision of the AUC estimate, suggesting that the model's performance remains consistent within this interval. Additionally, the analysis encompasses a substantial sample size of 74,959 individuals, enhancing the reliability of the findings."
+  },
+  "p7_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    421,
+    580,
+    479
+   ],
+   "ocr": "These metrics collectively provide a nuanced understanding of how demographic variables intersect with health-related metrics, emphasizing the importance of considering sex and age in predictive modeling and healthcare strategies. As the healthcare landscape continues to evolve, such insights will be crucial in tailoring interventions and improving patient outcomes across diverse populations."
+  }
+ }
+}

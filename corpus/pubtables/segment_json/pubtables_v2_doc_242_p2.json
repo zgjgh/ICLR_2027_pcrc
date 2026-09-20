@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_242",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    337.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Evaluation and optimization of the hydropower system operation in the Upper Yellow River"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    97.3,
+    727.1,
+    507.7
+   ],
+   "ocr": "layer so that it can locate all the settings. 3) Finally, the user interface receives the message that the simulation or optimization is finished and extracts the solution from database for analysis. (2) The coordination layer is an application platform, and it is referred to as the “nerve cen- ter” of this framework. The major procedures involved in this layer are 1) receiving the sce- nario code from the user interface and locating the settings in the database for interpretation; 2) extracting the known input data from the database to the computer’s memory and passing them to a model from the model library with the @POINTER function (which is a LINGO function that permits the transfer data through shared memory locations between the applica- tion platform and the LINGO software); 3) solving the model by calling an appropriate solver from the solver library using command-line commands (Table 2 shows the scripts for selecting solvers and choosing settings from LINGO. Here, the three commands are pre-defined so that the General Solver, Global Solver, and Multi-start Solver will be called, respectively. The options for multi-thread computing and the number of threads and starting points are also illustrated); 4) passing the solution from the model back to the application platform with the @POINTER function and storing them in the database; 5) finishing the process and returning to the user interface to extract the solution from the database for analysis. The application plat- form can be compiled into a DLL file that will be called by the user interface using the callable extern function, and the scenario code is a parameter of this function that is used to make con- nections between the user interface, the application platform, and the database. (3) The base layer includes the database, model library, and solver library, which supports the utility of the integrated framework. The database includes the hydrological data, the physi- cal characteristics of reservoirs, the limitations for reservoir operation, and the boundary con- ditions, as well as the scenario management data. The database can be updated through Table 2. Scripts for selecting solvers and making settings from LINGO."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    516.4,
+    721.1,
+    873.7
+   ],
+   "ocr": "No. Scripts Explanation\n1 TAKE MODEL. Selects the General Solver to solve the model stored in MODEL.lng\nlng\nSET GLOBAL 0\nSET MULTIS 0\nGO\nQUIT\n2 TAKE MODEL. Selects the Global Solver (the multi-thread mode is used, and the number of threads is NT)\nlng to solve the model stored in MODEL.lng and terminates the process after 3600 s\nSET GLOBAL 1\nSET MULTIS 0\nSET MTMODE\n1\nSET NTHRDS\nNT\nSET TIMLIM\n3600\nGO\nQUIT\n3 TAKE MODEL. Selects the Multi-start Solver (the number of starting points is NS; the multi-thread mode\nlng is used, and the number of threads is NT) to solve the model stored in MODEL.lng\nSET GLOBAL 0\nSET MULTIS NS\nSET MTMODE\n1\nSET NTHRDS\nNT\nGO\nQUIT",
+   "table_id": "PMC5784971_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    881.9,
+    443.1,
+    892.5
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0191483.t002"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0191483 January 25, 2018 10 / 25"
+  }
+ }
+}

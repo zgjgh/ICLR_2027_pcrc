@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_036",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The following table presents an analysis of miRNA gene expression related to key genetic markers and their associated clinical implications. Specifically, it focuses on the miR-17 gene, which has been implicated in various oncogenic processes. The data reveals a notable nucleotide change (Nt Change) of C/T, underscoring the potential for this variant to influence gene regulation and, consequently, disease susceptibility. In examining allele frequencies, we observe a frequency of 0.012, which indicates the rarity of this particular variant in the studied population."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    217
+   ],
+   "ocr": "Furthermore, the selected target genes associated with miR-17 include critical tumor suppressors such as BRCA1, PTEN, p53, and ATM, all of which are pivotal in maintaining genomic stability and preventing tumorigenesis. The table also includes metrics related to the antibody response, with a positive cutoff reference value set at 20 EU. Notably, the median value in Crohn's Disease (CD) is reported as 26.9, with a range spanning from 0 to 415.2, highlighting the variability in immune response among individuals diagnosed with CD. This data illustrates the intricate relationship between miRNA expression and genetic predisposition to disease, warranting further investigation into their clinical applications."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    395.0
+   ],
+   "ocr": "miRNA genes Nt Change Location Allele frequency Selected target genes (examples)*\nmiR -17 C/T Pri-miRNA 0.012 BRCA1, PTEN, p53 and ATM\nhsa-mir-191 C/T Pri-miRNA 0.006 IGF1R, FANCC, FANCF, FANCD2, MLH3\nC/G pri-miRNA 0.012\nC/A Pre-miRNA 0.006\nhsa-mir-29b-2 C/T pri-miRNA 0.042 DNMT3A, IGFI, CCND2, BCL2\nA/T pre-miRNA 0.021 DNMT3A, IGFI, CCND2, BCL2\nhsa-mir-188 T/C pri-miRNA 0.006 CCND2, XRCC2, IGFI, E2F",
+   "table_id": "img_040494_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    410.0,
+    580.0,
+    558.0
+   ],
+   "ocr": "Antibody Positive cutoff reference value Median value in CD, Range Percent positive in CD\nASCA IgG 20 EU 26.9, 0-415.2 38.1%\nASCA IgA 40 EU 12.5, 0-164 38.1%\nAnti-I2 30 EU 18.9, 0-324.1 46.8%\nAnti-OmpC 23 EU 15.2, 0-296.4 31.7%\nAnti-CBir1 30 EU 26.1, 0-279.7 49%\nANCA 30 EU 1.4-277.7* 74%*",
+   "table_id": "img_040494_t1"
+  }
+ }
+}

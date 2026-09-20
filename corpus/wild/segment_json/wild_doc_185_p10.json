@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_185",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    46,
+    521,
+    112
+   ],
+   "ocr": "In the 3rd Quarter of 2023, Tencent Holdings reported cybersecurity incidents categorized by Incident Type, with Data Breaches totaling 150 incidents classified as High severity, requiring a Response Time of 24 hours, incurring a Cost Impact of $5M, a Recovery Time of 1 week, and a Financial Impact of $10M, alongside Insurance Claims amounting to $200M and Litigation Costs of N/A. Malware Attacks totaled 80 incidents at Medium severity, with a 12-hour Response Time, $2M Cost Impact, 3- day Recovery Time, Financial Impact of $4M, Insurance Claims of $150M, and Litigation Costs of N/A."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    101,
+    521,
+    167
+   ],
+   "ocr": "Phishing Attempts reached 300 incidents at Low severity, requiring a 2-hour Response Time, with a $1M Cost Impact, 1-day Recovery Time, Financial Impact of $2M, Insurance Claims of $50M, and Litigation Costs of N/A. DDoS Attacks accounted for 50 Critical severity incidents with a Response Time of 30 minutes, an $8M Cost Impact, a Recovery Time of 5 days, a Financial Impact of $12M, Insurance Claims of $75M, and Litigation Costs of N/A."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    183.0,
+    521.0,
+    412.0
+   ],
+   "ocr": "IncidentType Count SeverityLevel ResponseTime CostImpact RecoveryTime FinancialImpact\nRevenue(AUD) NetIncome(AUD) CAPEX(AUD) OperatingExpenses R&DInvestment TotalAssets InsuranceClaims LitigationCosts\nDataBreaches 150 High 24hours $5M 1week $10M $200M\nMalwareAttacks 80 Medium 12hours $2M 3days $4M $150M\nPhishingAttempts 300 Low 2hours $1M 1day $2M $50M\nDDoSAttacks 50 Critical 30minutes $8M 5days $12M $75M\nTotalIncidents 580 N/A N/A N/A N/A N/A Total",
+   "table_id": "img_210047_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    426,
+    291,
+    437
+   ],
+   "ocr": "The Total Incidents reached 580, with all other metrics listed as N/A."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    13,
+    426,
+    521,
+    479
+   ],
+   "ocr": "In Data Center Utilization for Q32023, Colocation had a Total Capacity of 5000 kW and 85% Utilization Rate, Cloud Services 8000 kW at 90% Utilization, Hybrid Solutions 6000 kW at 78% Utilization, and Edge Computing 3000 kW at 75% Utilization, leading to a Total Capacity of 22000 kW and an overall Utilization Rate of 82%."
+  },
+  "p10_b5": {
+   "type": "table",
+   "bbox": [
+    13.0,
+    494.0,
+    521.0,
+    745.0
+   ],
+   "ocr": "DataCenterUtilization Q32023\nRegion CapacityMetrics\nDataCenterType TotalCapacity UtilizationRate PerformanceIndicators\nColocation 5000kW 85% High 1000AUD MonthlyCost 10000AUD AnnualCost Efficiency\nCloudServices 8000kW 90% High 1200AUD MonthlyCost 14400AUD AnnualCost Efficiency\nHybridSolutions 6000kW 78% Medium 1100AUD MonthlyCost 13200AUD AnnualCost Efficiency\nEdgeComputing 3000kW 75% Medium 900AUD MonthlyCost 10800AUD AnnualCost Efficiency\nTotal 22000kW 82% Overall 10000AUD TotalMonthly 120000AUD TotalAnnual Efficiency\nProjectedGrowth 10% NextQuarter Investment 500000AUD FutureInitiatives RiskAssessment Low Total",
+   "table_id": "img_210047_t1"
+  },
+  "p10_b6": {
+   "type": "paragraph",
+   "bbox": [
+    13.0,
+    758.0,
+    521.0,
+    786.0
+   ],
+   "ocr": "Revenue was reported at $10,000 AUD Monthly Cost and $120,000 AUD Annual Cost, with projected growth at 10%, an Investment of $500,000 AUD, and Risk Assessment rated Low."
+  }
+ }
+}

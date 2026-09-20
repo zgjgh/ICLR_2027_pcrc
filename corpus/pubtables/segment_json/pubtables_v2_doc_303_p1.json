@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_303",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:547"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/547"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    266.0,
+    118.9
+   ],
+   "ocr": "Table 1: The results of 100 HMM-SA runs."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    105.1,
+    130.1,
+    668.7,
+    788.1
+   ],
+   "ocr": "Combination\nH4ac, H3ac, H3Kme1, H3K4me2, H3K4me3, H3 43 98.8%/94.5%\nH3Kme1, H3K4me2, H3K4me3, H3 8 99.1%/93.2%\nH4ac, H3ac, H3Kme1, H3K4me2, H3 6 99.1%/94.1%\nH3Kme1, H3K4me2 6 99.7%/92.8%\nH4ac, H3Kme1, H3K4me2, H3K4me3, 5 100%/93.5%\nH3Kme1, H3K4me2, H3K4me3, H3 5 100%/93.0%\nH3ac, H3Kme1, H3K4me2, H3K4me3, H3 5 99.2%/94.6%\nH3Kme1, H3K4me2, H3K4me3 5 99.6%/94.6%\nH4ac, H3Kme1, H3K4me2, H3 4 100.0%/93.2%\nH4ac, H3ac, H3Kme1, H3K4me2, H3K4me3 3 98.1%/94.6%\nH4ac, H3Kme1, H3K4me2 3 100%/94.6%\nH4ac, H3ac, H3Kme1, H3K4me3, H3 2 97.2%/93.2%\nH3Kme1, H3K4me2, H3 2 100.0%/93.2%\nH4ac, H3K4me3 1 96.2%/91.9%\nH3ac, H3Kme1, H3K4me2 1 98.1%/94.6%\nH3ac, H3Kme1, H3K4me2, H3 1 100.0%/94.6%\nWindow Size Number of times used Prediction rate (promoter/enhancer)\n1 K 8 99.3%/93.6%\n2 K 75 99.0%/94.3%\n4 K 7 99.7%/93.4%\n8 K 7 99.5%/93.1%\n10 K 2 100%/91.9%\n12 K 1 98.1%/89.2%",
+   "table_id": "PMC2657164_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    819.3,
+    372.6,
+    922.4
+   ],
+   "ocr": "tion to capture the pattern of speech [17]. The second state usually corresponds to the location of TSS or p300 peaks in this configuration. The first and the third states corre- spond to the upstream and downstream profiles of chro- matin modifications, respectively. Figure S1 (A,B,C,D,E,F) (see Additional files 1, 2, 3, 4, 5, 6) shows the probability density of Gaussian mixtures for the three states of every"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    819.3,
+    698.3,
+    922.4
+   ],
+   "ocr": "chromatin mark on promoters and enhancers. It is obvi- ous that promoters and enhances present differences in distributions of probability density, which reflects the chromatin modification patterns in these regions. For example, the probability density of H3K4me3 showed peaks in the high ChIP-chip ratio regions for promoters compared to peaks in the low ratio regions for enhancers"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 18 (page number not for citation purposes)"
+  }
+ }
+}

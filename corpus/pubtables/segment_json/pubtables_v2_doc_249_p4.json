@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_249",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    580.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Hybrid flower pollination algorithm"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    242.7,
+    107.6
+   ],
+   "ocr": "Table 5. Assessment of hybrid variants of FPA."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    61.4,
+    114.3,
+    706.8,
+    205.3
+   ],
+   "ocr": "Hybridization CA(N; 2, 105) CA(N; 2, 46) CA(N; 3, 56)\nAvg Best Time(s) Avg Best Time(s) Avg Best Time(s)\nFPA 127.15 125 17.004 23.80 22 1.955 44.30 42 11.953\neFPA 124.40 122 26.194 22.85 22 3.327 43.53 42 19.264\nmFPA 126.25 124 27.900 23.50 22 3.367 44.25 42 21.968\nlFPA 127.10 126 18.237 23.70 22 1.912 44.30 42 11.790",
+   "table_id": "PMC5931463_table_4"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    213.6,
+    236.3,
+    224.2
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t005"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    263.9,
+    411.8,
+    274.0
+   ],
+   "ocr": "Table 6. Comparison with existing strategies for different CA and MCA configurations."
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    50.4,
+    282.7,
+    717.8,
+    529.5
+   ],
+   "ocr": "No. Configuration Computational-based Strategies Meta-heuristic-based Strategies\nmAETG AETG IPOG Jenny TVG SA ACA GA PSO HSS HHH CS eFPA\nS1 CA(N; 2, 34) 9 9 9 10 11 9 9 9 9 9 9 9 9\nS2 CA(N; 2, 313) 17 15 20 20 19 16 17 17 17 18 17 20 17\nS3 CA(N; 2, 1010) NA NA 176 157 208 NA 159 157 NA 155 NA NA 150\nS4 CA(N; 2, 1510) NA NA 373 336 473 NA NA NA NA 342 NA NA 333\nS5 CA(N; 2, 510) NA NA 50 45 51 NA NA NA 45 43 42 NA 42\nS6 CA(N; 3, 36) 38 47 53 51 49 33 33 33 42 39 33 43 38\nS7 CA(N; 3, 46) 77 105 64 112 123 64 64 64 102 70 64 105 93\nS8 CA(N; 3, 56) 194 NA 216 215 234 152 125 125 NA 199 NA NA 194\nS9 CA(N; 3, 66) 330 343 382 373 407 300 330 331 338 336 325 350 332\nS10 CA(N; 3, 57) 218 229 274 236 271 201 218 218 229 236 217 233 217\nS11 MCA(N; 2, 51 38 22) 20 19 19 23 22 15 16 15 NA 20 20 21 20\nS12 MCA(N; 2, 71 61 51 46 38 23) 44 45 43 50 51 42 42 42 48 50 48 51 48\nS13 MCA(N; 3, 52 42 32) 114 NA 111 131 136 100� 106 108 NA 120 100 NA 113\nS14 MCA(N; 3, 101 62 43 31) 377 NA 383 399 414 360 361 360 385 378 382 393 355",
+   "table_id": "PMC5931463_table_5"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    537.8,
+    236.3,
+    548.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t006"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    571.3,
+    723.2,
+    698.4
+   ],
+   "ocr": "the convergence properties. Furthermore, the convergence rates of eFPA and the combined lFPA are faster than those of the other variants. By employing elitism, the quality of solutions in eFPA is improved. The convergence rate also improves as observed in Table 5 and Fig 7. We foresee the benefit of elitism to ensure that only the elite population is passed to the next iteration and poor solutions are replaced with random ones. Table 7. Comparison with existing strategies using CA (N; t, 210), t varied from 2 to 10."
+  },
+  "p4_b8": {
+   "type": "table",
+   "bbox": [
+    56.2,
+    707.2,
+    712.0,
+    875.1
+   ],
+   "ocr": "t Computational-based Strategies Meta-heuristic-based Strategies\nIPOG ITCH Jenny PICT‘ TConfig TVG GTWay PSO HSS HHH CS eFPA\n2 10 6 10 NA 9 10 NA 8 7 8 8 8\n3 19 18 18 NA 20 17 NA 17 16 16 16 16\n4 49 58 39 NA 45 41 NA 37 37 36 36 36\n5 128 NA 87 NA 95 84 NA 82 81 79 79 75\n6 352 NA 169 NA 183 168 NA 158 158 153 157 157\n7 NA NA 311 NA NA 302 NA NA 298 NA NA 290\n8 NA NA 521 NA NA 514 NA NA 498 NA NA 495\n9 NA NA 788 NA NA 651 NA NA 512 NA NA 577\n10 NA NA 1024 NA NA NA NA NA 1024 NA NA 1024",
+   "table_id": "PMC5931463_table_6"
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    883.3,
+    236.3,
+    893.9
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t007"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195187 May 2, 2018 15 / 24"
+  }
+ }
+}

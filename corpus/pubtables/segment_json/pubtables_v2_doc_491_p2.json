@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_491",
+  "page": 2,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.5,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    204.0,
+    61.3,
+    447.1,
+    332.6
+   ],
+   "ocr": "Bond lengths\nN(1)-C(1) 1.3863(16) N(4)-C(1) 1.3212(17)\nN(1)-N(2) 1.4085(15) N(5)-C(2) 1.3733(18)\nN(3)-C(1) 1.3279(17) N(6)-C(3) 1.3135(18)\nN(2)-C(2) 1.3220(18) N(7)-C(4) 1.3203(17)\nN(3)-C(2) 1.3608(17) N(7)-C(3) 1.3244(17)\nN(1)-C(3) 1.3803(17) N(8)-C(4) 1.1585(18)\nBond angles\nC(1)-N(1)-N(2) 109.14(10) N(4)-C(1)-N(3) 125.75(12)\nC(2)-N(2)-N(1) 101.17(10) N(4)-C(1)-N(1) 125.20(12)\nC(1)-N(3)-C(2) 104.03(11) N(2)-C(2)-N(5) 122.54(13)\nN(3)-C(1)-N(1) 109.05(11) N(3)-C(2)-N(5) 120.81(12)\nN(2)-C(2)-N(3) 116.60(12) N(6)-C(3)-N(7) 127.69(12)\nC(3)-N(1)-C(1) 130.01(11) N(6)-C(3)-N(1) 116.99(12)\nC(3)-N(1)-N(2) 120.77(11) N(7)-C(3)-N(1) 115.32(12)\nC(4)-N(7)-C(3) 119.45(11) N(8)-C(4)-N(7) 172.79(14)",
+   "table_id": "PMC4650654_table_1"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    198.9,
+    348.3,
+    708.9,
+    412.1
+   ],
+   "ocr": "Table 2. Selected bond lengths /Å and bond angles /° of compound 11. solvation model32 was used to simulate the aqueous surroundings in the single-point energy calculations."
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    409.1,
+    709.0,
+    559.7
+   ],
+   "ocr": "All the calculations were implemented with G09 suits33. For unsubstituted azolium cations such as 1,2,3-triazolium DCA in aqueous solution, our calculations show that the protonated 1,2,3-triazolium could form the hydrogen-bonding complex TD-1 when mixed with DCA anion through exothermic heat of only 4.0 kcal·mol−1. During TD-1 structure optimization, one proton could move to DCA anion with no barrier, which results in TD-1 formation. For TD-1 com- plex, the favoring interaction energy is estimated to be 3.7 kcal mol−1. The calculation indicates that TD-1 could be in aqueous solution although it is quite weak. The subsequent N-C bond is formed upon attack of γ -nitrogen atom to the carbon atom of DCA. Consistently, the other proton attached to the above nitrogen atom could be transferred to the terminal nitrogen atom of DCA anion (Fig. 4). Through the two successive proton transfer reactions with quite high barrier heights, the product TD-P (compound 4) could be available. Starting from the reactive complex TD-1 to the final product, the net reaction is"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    198.9,
+    556.8,
+    365.5,
+    573.2
+   ],
+   "ocr": "exothermal by ca. 16.4 kcal·mol−1."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    570.2,
+    709.0,
+    881.8
+   ],
+   "ocr": "For 1-amino-3-methyl-1,2,3-triazolium cation, the reaction mechanism should be a little different from that of the unsubstituted azolium cations. The dissociated proton can be provided by only the exo- cyclic NH2 group, which is clearly distinct from the case in the 1,2,3-triazolium cation. Thus, the stable reactive complex MD-1 could be formed through exothermic heat of ca. 6.3 kcal·mol−1 (Fig. 5), which is comparable to the corresponding value of TD-1 formation. The trivial difference should be attributed to the fact that the protonated azolium ring has stronger acidity than 1-amino-3-methyl- 1,2,3-triazolium. Their acidities can be assessed by the calculations of their deprotonated enthalpies (DPE) at the same theoretical level. Their gaseous DPEs are 261.2 kcal·mol−1 for 1,2,3-triazolium cat- ion and 286.9 kcal·mol−1 for 1-amino-3-methyl-1,2,3-triazolium cation, respectively. The subsequent cross-link product is formed upon attack of the same nitrogen atom in the exocyclic amino group to the carbon of DCA, which is different from that of 1,2,3-triazolium. Consistently, one proton in the NH2 group could be transferred to the terminal nitrogen atom in DCA. The reaction is trivially endothermic and has a moderate barrier (28.2 kcal·mol−1) to be overcome to reach the corresponding intermediate MD-2, from which the other proton transferred to -NH of DCA gives the product MD-P (compound 8). Note that both compounds 4 (that is, TD-P in Fig. 4) and 8 (that is, MD-P in Fig. 5) have the same reaction temperature and the similar yield. The reaction time difference, however, is quite large as seen in Table 4. For the primary cross-linked reactions, the endothermic heat is 48.9 for TD-0 → TD-2 and 21.9 kcal mol−1 for MD-0 → MD-2, which are calculated relative to the two isolated molecules. Thus, formation of TD-2 should have the reaction time more than formation of MD-2 does. For the subse- quent reactions towards the final product, formation of TD-P needs to successively override two barriers of 76.7 and 36.4 kcal mol−1. These data are clearly higher than one barrier of 27.3 kcal mol−1 for MD-P formation, seen in Figs 4 and 5. Combined with the present experimental results, the total reaction time should depend on the total reaction paths."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    214.3,
+    878.9,
+    709.0,
+    895.3
+   ],
+   "ocr": "Other cations’ reactions with DCA anion share the similar mechanism. (seen in Supporting"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    892.3,
+    708.9,
+    908.7
+   ],
+   "ocr": "Information) The present calculations also discover the reaction essence of the azolium cation with"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    905.7,
+    708.9,
+    922.1
+   ],
+   "ocr": "DCA anion. The proton transfer is necessary for the subsequent reactions. Acidity of the proton in"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    919.1,
+    708.9,
+    935.5
+   ],
+   "ocr": "azolium rings is normally stronger than that of exocyclic amino group. Seemingly, both the -NH- of the"
+  },
+  "p2_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    932.5,
+    709.0,
+    980.1
+   ],
+   "ocr": "azolium rings and the exocyclic N-NH2 are the potential candidates as the nucleophilic group attacking Scientific RepoRts | 5:10915 | DOi: 10.1038/srep10915 4"
+  }
+ }
+}

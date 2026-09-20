@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_447",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4466797_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    815.4,
+    726.7,
+    878.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4466797_table_0.png",
+   "html": "<table><tr><td>Models</td><td>True positives</td><td>True negatives</td><td>False positives</td><td>False negatives</td><td>Sensitivity (%)</td><td>Specificity (%)</td><td>Accuracy (%)</td><td>G-mean</td></tr><tr><td>NB</td><td>92</td><td>57215</td><td>14454</td><td>85</td><td>52</td><td>79.8</td><td>79.7</td><td>0.64</td></tr><tr><td>RF</td><td>115</td><td>56697</td><td>14972</td><td>62</td><td>64.9</td><td>79.1</td><td>79</td><td>0.71</td></tr><tr><td>SMO</td><td>123</td><td>56903</td><td>14766</td><td>54</td><td>69.4</td><td>79.3</td><td>79.3</td><td>0.74</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466797_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    815.4,
+    726.7,
+    878.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4466797_table_1.png",
+   "html": "<table><tr><td>Models</td><td>True positives</td><td>True negatives</td><td>False positives</td><td>False negatives</td><td>Sensitivity (%)</td><td>Specificity (%)</td><td>Accuracy (%)</td><td>G-mean</td></tr><tr><td>NB</td><td>58</td><td>57588</td><td>14081</td><td>119</td><td>32.8</td><td>80.3</td><td>80.2</td><td>0.51</td></tr><tr><td>RF</td><td>102</td><td>58049</td><td>13620</td><td>75</td><td>57.6</td><td>80.9</td><td>80.9</td><td>0.68</td></tr><tr><td>SMO</td><td>65</td><td>57796</td><td>13873</td><td>112</td><td>36.7</td><td>80.6</td><td>80.5</td><td>0.54</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466797_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    691.7,
+    726.5,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4466797_table_2.png",
+   "html": "<table><tr><td>Compound</td><td>Glide score (XP) (kcal/ mol)</td><td>Interacting residues</td><td>Distance (H- bond, &#197;)</td><td>Glide energy (kcal/mol)</td></tr><tr><td>Ligand_874 (1-benzyl-2, 5-dimethyl-4-({[(2S)- 1-phenylbutan-2-yl] azaniumyl} methyl)-1H-pyrrole- 3-carboxylate, Ligand_874) (AID 588621 dataset)</td><td>-8.11</td><td>Lys439, Arg478, Gln520, Tyr 304, Asn376, Glu378, Glu379, Trp435, Pro436, Asp437, Gln516</td><td>2.82, 2.84, 3.06</td><td>-42.44</td></tr><tr><td>Ligand_7 (Sigma-Aldrich compounds)</td><td>-5.95</td><td>Lys439, Arg478, Gln520, Tyr 304, Trp435, Scy472, Gln516</td><td>2.59, 2.68, 3.26</td><td>-32.80</td></tr><tr><td>Adenosine triphosphate (ATP)</td><td>-9.34</td><td>Lys439, Arg478, Gln520, Trp435, Asn376, Pro436, Asp437, Scy472, Ser473, Gly477, Gln516</td><td>3.01, 2.80, 2.90; 2.99, 3.13; 2.94</td><td>-53.39</td></tr><tr><td>Folic Acid</td><td>-6.03</td><td>Lys439, Arg478, Gln520, Trp435, Arg303, Tyr304, Glu382, Scy472, Ser473, Gln516, Thr517</td><td>3.03, 2.81, 3.15, 2.95, 2.87, 2.68</td><td>-50.97</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466797_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    688.5,
+    721.6,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4466797_table_3.png",
+   "html": "<table><tr><td>DrugBank ID</td><td>Drug name</td><td>Drug class</td><td>Glide Score (XP) (kcal/mol)</td><td>Glide energy (kcal/mol)</td><td>Literature reference</td></tr><tr><td>DB00171</td><td>Adenosine triphosphate</td><td>Dietary supplement</td><td>-9.34</td><td>-53.39</td><td>Coskuner and Murray, 2014</td></tr><tr><td>DB00158</td><td>Folic acid</td><td>Dietary supplement</td><td>-6.03</td><td>-50.97</td><td>Das, 2008, Ford et al., 2010</td></tr><tr><td>DB00144</td><td>Phosphatidylserine</td><td>Dietary supplement</td><td>-5.95</td><td>-45.36</td><td>Meng et al., 2014</td></tr><tr><td>DB00177</td><td>Valsartan</td><td>Antihypertensive</td><td>-3.92</td><td>-40.55</td><td>Wang et al., 2007</td></tr><tr><td>DB00328</td><td>Indomethacin</td><td>Non-steroidal anti- inflammatory drug</td><td>-3.50</td><td>-36.48</td><td>Jaturapatporn et al., 2012, Bernardi et al., 2012</td></tr><tr><td>DB00796</td><td>Candesartan</td><td>Antihypertensive</td><td>-3.08</td><td>-40.17</td><td>Anderson et al., 2011, Lithell et al., 2003</td></tr><tr><td>DB00307</td><td>Bexarotene</td><td>Oncology</td><td>-3.0</td><td>-23.90</td><td>Appleby et al., 2013</td></tr><tr><td>DB00966</td><td>Telmisartan</td><td>Antihypertensive</td><td>0.90</td><td>-41.03</td><td>Mogi et al., 2008</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4466797_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    225.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4466797_table_4.png",
+   "html": "<table><tr><td>Substructure fragment number</td><td>Substructure name</td><td>Frequency in inhibitors</td><td>Frequency in non-inhibitors</td></tr><tr><td>SubFP187</td><td>Nitrate</td><td>325.17</td><td>0.19</td></tr><tr><td>SubFP84</td><td>Carboxylic acid</td><td>4.06</td><td>0.99</td></tr><tr><td>SubFP303</td><td>Michael acceptor</td><td>2.80</td><td>0.99</td></tr><tr><td>SubFP5</td><td>Alkene</td><td>2.09</td><td>0.99</td></tr><tr><td>SubFP297</td><td>Anion</td><td>2.00</td><td>0.99</td></tr><tr><td>SubFP299</td><td>Salt</td><td>2.00</td><td>0.99</td></tr></table>"
+  }
+ ]
+}

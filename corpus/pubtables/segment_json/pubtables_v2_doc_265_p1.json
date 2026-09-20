@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_265",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    190.0,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2005, 5:75"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/5/75"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    922.4
+   ],
+   "ocr": "dCTP, dTTP. Primer, total RNA and nucleotides were heated to 65°C for 5 min and subsequently cooled on ice for 1 min. After addition of the other reagents the samples were incubated at 50°C for approximately 60 min. Finally, the reaction was inactivated by heating to 70°C for 15 min. Assays-on-Demand (Applied Biosystems), containing gene specific primers and probes labelled with 6-carboxyfluorescein (FAM) at the 5' end and with 6-car- boxytetramethylrhodamine (TAMRA) at the 3' end for the following genes: GAPDH (Genbank nb. BC029618), MMP9 (J05070), AKR1C3 (D17793), AQP3 (N74607), PLAT (M15518), HBP1 (AF019214), PTGS2 (U04636), ERBB3 (M34309) and PNRC1 (U03105) (see Table 3), were used together with TaqMan Universal PCR Master Mix (Applied Biosystems) in the TaqMan real time PCR reaction as described by the manufacturer. 25 µl reactions were done in 96-well plates. Amplification and detection was carried out using the iCycler iQ Multicolor Real-Time PCR Detection System (Bio-Rad Laboratories, Hercules, CA, USA). All samples were run in triplicate. For the second method, in-house designed gene-specific primers for six human transcripts (Transferrin receptor (TFR): NM_003234 (5'-TCCCTAGGAGGCCGTTTCC- 3'and 5'-GCCTACCCATTCGTGGTGAT-3), COX-2: NM_000963 (5'-GCATTGGAAACATCGACAGTGT-3'and 5'-TGACGTCTTTTTACTTGAATTTCAACTTATAT-3); NDRG1: NM_006096 (5'-CCAGTGCGGCTGCCAG-3'and 5'-TTCCTATGAGAAAATCCACGGTG-3); TP53: NM_000546 (5'-CCTTGAGGGTGCCTGTTCC-3'and 5'- CCCTCTACCTAACCAGCTGCC-3');CDH1: NM_004360 ('5'-TGAAGACCTTTAATGGCTTCCC-3'and 5'-CACACT- TACTCAGAACAAGTCACTGG-3'); HSPB1: NM_001540) (5'-AAAATCCGATGAGACTGCCG-3' and 5'- GCACAGCCAGTGGCGG-3') were designed using the Primer Express software (Applied Biosystems, Foster City, CA, USA). Real time RT-PCR analysis was performed in triplicate using ds cDNA synthesized from mRNA obtained from the investigated cells. All PCRs were per- formed at 60°C annealing temperature and the TFR gene was used as internal standard. A PCR mastermixture was prepared using the SYBRGreen PCR Core Reagents (Applied Biosystems, Foster City, USA) and aliquoted into microplate wells together with 1 µl template and 5 pmol of each primer for a final volume of 25 µl per reaction. The iCycler (Bio-Rad) was used for PCR and detection of fluo- rescent signals. Standard curves (CT versus log concentra- tion) were generated for each primer pair using duplicate cDNA samples in a series of consecutive 5-fold dilutions. Efficiency calculations (E=(10^(-1/amplificationslope)- 1) were performed to validate compatibility of investi- gated genes with the internal control. The compatibility of all pair-wise compared amplification efficiencies were confirmed with a maximal deviation of 10% (data not shown). The specificity of all individual amplification"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    394.0,
+    107.2,
+    695.4,
+    118.9
+   ],
+   "ocr": "Table 1: Number of genes induced/repressed at each time point."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    431.8,
+    129.9,
+    678.6,
+    234.7
+   ],
+   "ocr": "Time points Caco-2 NHEK\n1 hr (repressed) 8 16\n12 hrs (repressed) 54 10\n24 hrs (repressed) 86 171\n1 hrs (induced) 1 26\n12 hrs (induced) 69 28\n24 hrs (induced) 35 163",
+   "table_id": "PMC1182358_table_1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    285.2,
+    698.3,
+    922.4
+   ],
+   "ocr": "reactions was confirmed by meltcurve analysis (data not shown). The relative mRNA expression levels of the target genes in each sample were calculated using the comparative CT method. The CT value was defined as the number of PCR cycles required for the fluorescence signal to exceed the threshold value. CT values were defined as the absolute value of the difference between the CT of the target RNA and the Ct of the housekeeping gene RNA for each sam- ple. The level of significance was set to a 2-fold relative dif- ference between samples, i.e. significant fold change 0.5 < 2-∆∆CT > 2 for down- and up-regulated genes respectively. Results Experimental overview The aim of this work was to study the molecular effects of the antioxidant N-actetyl- cysteine (NAC) on proliferating cells, by gene expression analysis using the Affymetrix GeneChip platform. Previous studies on cell culture sys- tems, demonstrated mainly by morphological and bio- chemical data, have indicated that NAC addition stimulates proliferating cells to go into differentiation phase [1]. Figure 1 displays a scanning electro micrograph image of the cell types tested and demonstrates the mor- phological shift from proliferating to differentiating cells after addition of NAC. We have performed a microarray- based gene expression analysis of the human colon carci- noma cell line (Caco-2) and normal human epidermal keratinocytes (NHEK) over time (1, 12, and 24 hrs) after addition of NAC, compared to untreated, control samples at the same time points. Data obtained from GeneChip analysis were processed using the RMA analysis approach and samples were normalized to their corresponding con- trols. Filtering was done based on two criteria (p-value < 0.1 and >1.5 fold up-or down-regulation) for each time point. The labelling and hybridisation was done in dupli- cate, except at 24 hrs NAC treatment of NHEK, where a single measurement was made. Analysis Gene lists of up- and down-regulated genes at each time point for NHEK and Caco-2 (1, 12, 24 hrs) were gener-"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 19 (page number not for citation purposes)"
+  }
+ }
+}

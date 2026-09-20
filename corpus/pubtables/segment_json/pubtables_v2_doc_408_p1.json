@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_408",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    492.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Automated Delineation and Texture Correlations"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    394.3,
+    106.0
+   ],
+   "ocr": "Table 1. Patient demographics with gender information; SUVmax for baseline and follow-up scans are enlisted."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    397.8,
+    81.4,
+    700.8,
+    92.9
+   ],
+   "ocr": "values corresponding to lesion numbers (denoted by L#) both"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    680.4,
+    723.9
+   ],
+   "ocr": "Patient Info. SUVmax (baseline) SUVmax (follow-up)\nID/Disease Gender L1 L2 L3 L4 L5 L1 L2 L3 L4 L5\n1/lung neoplasm M 2.2 2.5 2.6 2.9\n2/Renal cell carcinoma with M 2.5 3.3 2.1 3.3\npapillary and cystic features\n3/SCLC M 5.4 2.1 2.1 8.9 4.1 2.3\n4/Soft tissue thoracic mass F 8.2 7.9 3.5 1.5 1.2 3.8 3.7 1.6 1.0 1.8\n5/SCLC F 1.0 5.4 4.9 2.0\n6/cerebellar hemongioblastoma M 3.5 3.5 9.0 2.4 4.5 3.2 14.1 3.5\n7/DLBCL F 5.2 3.0 4.2 6.2 6.7 7.0 3.0 4.2 6.2 4.5\n8/nonnecrotizing granulomatous F 4.2 14.2 5.0 4.3 10.5 1.0\ninflammation\n9/Soft tissue thoracic mass F 8.3 5.0\n10/NSCLC and squamous cell M 2.5 8.1 1.1 2.6 8.3 1.5\ncarcinoma\n11/lymphomatoid F 4.3 5.5 10 1.6 7.7 1.7\ngranulomatosis\n12/lymphomatoid M 1.8 2.5 2.7 1.0 1.0 1.1\ngranulomatosis\n13/metastatic alveolar soft part M 4.3 1.3 4.3 1.1\nsarcoma\n14/neurofibroma M 8.6 1.9\n15/NSCLC F 7.5 7.5 5.8 4.0 2.9 9.5 9.1 5.7 4.4 1.0\n16/NSCLC M 5.5 11.2 2.0 6.0 1.1 7.5 3.3 5.6\n17/lymphomatoid F 14.1 4.7 10.3 2.5\ngranulomatosis\n18/NSCLC F 11.2 7.5 7.0 1.7 10.8 5.6 1.9 4.9\n19/Soft tissue thoracic mass F 3.4 1.6\n20/SCLC F 7.5 9.3 9.5 10.4 5.0 8.7 8.9 11.7\n21/NSCLC M 5.1 5.0 4.8 11.5 12.0 1.2 1.1 1.0 4.1 4.5\n22/SCLC F 1.1 1.9 2.4 2.1 3.1 2.5 2.5 2.5 3.5 3.0\n23/NSCLC F 7.5 5.5 3.5 5.1 2.2 1.0\n24/metastatic papillary renal cell F 1.7 7.4 5.2 3.6 9.1 6.6\ncarcinoma\n25/DLBCL M 3.5 8.7 3.3 7.5\n26/neuroendocrine tumor F 3.7 2.2 3.5 1.7 2.7 2.3 1.0 1.1\n27/SCLC F 4.6 4.0 4.1 3.7 1.2 5.0 4.1 4.1 3.5 1.0\n28/SCLC F 2.5 14.0 6.7 6.5 6.9 7.0 8.0 8.3 6.7 6.7\n29/NSCLC M 7.5 2.2 1.0 7.4 4.3 4.1\n30/neuroendocrine tumor F 9.0 6.6 5.7 8.5 7.0 1.0",
+   "table_id": "PMC3576352_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    737.1,
+    375.8,
+    921.0
+   ],
+   "ocr": "Number of lesions is subject to change from patient to patient. doi:10.1371/journal.pone.0057105.t001 PET images, as a nature of the reconstruction process, are low resolution images with high contrast and include noise; therefore, graph based segmentation algorithms are more suited for radiotracer uptake segmentation. We used an adaptive graph theoretic segmentation algorithm—automated random walk (ARW) image segmentation—in order to produce automated, efficient, and reproducible object delineation results from PET images. ARW works as follows: first, object and background are roughly identified by using an automated interesting uptake region (IUR) algorithm, and then some voxels are labeled as either object or background region, accordingly. Second, the delineation"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    774.9,
+    700.8,
+    921.0
+   ],
+   "ocr": "algorithm is initiated to efficiently and quickly determine the label of the remaining unlabeled voxels. The proposed ARW deter- mines the highest probabilities for assigning labels to voxels, by measuring the ‘‘betweenness/togetherness,’’ by initiating random walkers from a labeled voxel, and by reaching to the unlabeled voxel first by a random walker. The proposed method is different from the conventional random walk algorithm [24] in the following ways: (i) the proposed method is fully automated since it detects interesting uptake regions (IUR) automatically, and (ii) the proposed algorithm is performed based on the SUVs of voxels, and prior probability distributions of voxel SUVs were calculated using"
+  },
+  "p1_b6": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "3 February 2013 | Volume 8 | Issue 2 | e57105"
+  }
+ }
+}

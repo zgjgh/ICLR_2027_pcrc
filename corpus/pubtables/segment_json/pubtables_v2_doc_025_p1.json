@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_025",
+  "page": 1,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    104.1,
+    46.7
+   ],
+   "ocr": "Frazier et al."
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    598.2,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Reﬂexive antecedent search"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    80.5,
+    372.3,
+    915.7
+   ],
+   "ocr": "antecedents should be able to retrieve the gender-matching but grammatically inaccessible candidate antecedent. Importantly however, a linguistically-naive antecedent retrieval process, whether cue-based or otherwise, should always show eﬀects of the grammatically inaccessible, linearly local NP if any gender-mismatch eﬀects are measurable at all. This is because such a process can by deﬁnition not distinguish potential candidate antecedents based upon the syntactic conﬁgurations in which they occur. For this reason, an eﬀect of the grammatically accessible wh-NP in this experiment in the absence of an eﬀect of the grammatically inaccessible, linearly local NP should be a clear signal of structure-sensitivity in the reﬂexive antecedent search mechanism. 2.1.5. Data Analysis Using a tower-mounted EyeLink1000 eye-tracker, gaze was recorded and manually corrected for vertical drift. Fixations shorter than 80 ms were incorporated into adjacent ﬁxations, and ﬁxations longer than 2000 ms were excluded from analysis. The following analysis is based on four eye-tracking measures: ﬁrst ﬁxation duration, ﬁrst pass duration, regression path duration, and re-read time. First ﬁxation measures are based on the duration of the ﬁrst time a ﬁxation occurs within the region. First pass times include all time spent within the region before the ﬁrst instance of the gaze exiting the region, either to the left or the right. Regression path duration is calculated by summing the times spent within the region and all time after exiting the region to the left until the ﬁrst instance that the gaze exits to the right of the region. Re-read time is the sum of time spent within the region after the ﬁrst time the gaze exits the region. For the purposes of this study, we will concentrate on two regions of interest: the critical region containing the reﬂexive anaphor [e.g., herself in (19)], and the spillover region containing the remaining words on that line before the carriage return [e.g., for unimportant in (19)]. The stimuli were all displayed on two lines, due to character length limitations of the presentation software. The carriage returns were all in the same location and included in the post-spillover region, which is not analyzed in this study due to the complexity of interpreting ﬁxations in regions that contain line breaks. (19) Which saleswoman did Margaret presume to have excused herself for unimportant reasons? In line with discussion in Barr et al. (2013), analyses were conducted by comparing a converging maximally inclusive linear mixed eﬀects regression (LMER) model to a reduced model, i.e., a model with the same structure as the maximal model but with a single eﬀect of interest removed from the ﬁxed eﬀects structure. Intercepts (β) and standard error (S.E.) were calculated from the maximal model. Maximal and reduced models were then compared by ANOVA to calculate the χ2 and signiﬁcance (α = 0.05), reported in Table 2. The ideal maximal model for the critical region consisted of two independent factors (gender congruency with the wh-phrase; gender congruency with the local NP), and one additional ﬁxed factor (presentation order)."
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    391.4,
+    81.5,
+    632.5,
+    90.4
+   ],
+   "ocr": "TABLE 1 | Means (and Standard Errors) for Experiment 1."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    391.1,
+    104.8,
+    697.6,
+    446.2
+   ],
+   "ocr": "Region Critical region Spillover region\nWh-phrase Local NP\nFIRST FIXATION\nMatch Match 207 (6) 199 (5)\nMatch Mismatch 203 (5) 214 (6)\nMismatch Match 212 (5) 209 (7)\nMismatch Mismatch 221 (6) 212 (7)\nFIRST PASS\nMatch Match 221 (7) 312 (14)\nMatch Mismatch 225 (7) 338 (15)\nMismatch Match 238 (8) 335 (16)\nMismatch Mismatch 247 (9) 343 (15)\nREGRESSION PATH\nMatch Match 314 (23) 666 (64)\nMatch Mismatch 293 (17) 680 (63)\nMismatch Match 331 (25) 757 (57)\nMismatch Mismatch 404 (34) 931 (78)\nRE-READ TIME\nMatch Match 395 (28) 434 (42)\nMatch Mismatch 297 (23) 391 (28)\nMismatch Match 376 (28) 463 (37)\nMismatch Mismatch 397 (25) 457 (31)",
+   "table_id": "PMC4599314_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    484.7,
+    706.2,
+    834.9
+   ],
+   "ocr": "Intercepts were allowed to vary across subjects and items. We also allowed for the slopes of the following eﬀects to vary across subjects and items: gender congruency of the wh-phrase, gender congruency of the local antecedent, the interaction of these two factors, and the presentation order. In cases where the maximal model failed to converge, the random eﬀects correlation parameters were removed from the random eﬀects structure (thus necessitating removal from reduced models as well). All models converged with either the ideal maximal model7, or with the random eﬀects correlations removed, as suggested in Bates et al. (2015). Data were contrast coded with conditions summing to 0 (i.e., wh- and local congruency conditions were coded as 0.5 or −0.5, respectively.) This coding scheme and analytical method is used for all experiments in this study. Table 1 contains the means and standard errors in milliseconds of reading times. These measures were calculated after manual vertical alignment of ﬁxations. For statistical analysis, converging maximal linear mixed eﬀect models were compared via ANOVA to depleted models of the same structure, but with a term of interest removed. χ2-values and their corresponding p-values are reported in Table 2, alongside the estimates and standard errors calculated from the corresponding maximal model. Bold values indicate that the comparison reached signiﬁcance."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    866.9,
+    706.1,
+    915.0
+   ],
+   "ocr": "7For example: lmer(rt ∼ wh∗lc + ord + (1 + wh∗lc + ord|subj) + (1 + wh∗lc + ord|item), data = data), where rt is the reading time, the predictors wh and lc are the gender match/mismatch of the wh-NP and the local candidate antecedent NP, respectively, and ord is the presentation order."
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    384.3,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 8"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    556.4,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "October 2015 | Volume 6 | Article 1504"
+  }
+ }
+}

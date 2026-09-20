@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_432",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    422.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Classification of Different Imaginary Movements within the Same Limb"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.5,
+    727.3,
+    575.8
+   ],
+   "ocr": "Feature Extraction EEG epochs from 1 to 3 s after a visual cue were segmented. Then, features were extracted from each segment. The following feature extraction methods, which are widely used in BCI re- search, were employed: 1. Common Spatial Patterns (CSP) [53] 2. Filter-Bank Common Spatial Patterns (FBCSP) [55] 3. Logarithmic Band Power (BP) [10] The frequency window used and the feature dimension for each method are presented in Table 3. CSP has been widely used in BCI research to extract features from EEG signals. This algo- rithm can effectively extract discriminatory information from two classes of EEG signals [53]. The algorithm finds the directions where the EEG signals should be projected onto so that the differences between any two classes of EEG signals are maximized (i.e. the variance of one class is maximized while at the same time, the variance of the other class is minimized) [52]. These directions are provided by a weight matrix in which its rows give the weights of the EEG channels. Here, the formulation of the CSP algorithm for a 2-class problem is described. This same formulation of the 2-class CSP algorithm was also used when classifying the three classes of EEG signals in this study as only binary classifiers were trained. More specifically, for a 3-class problem, three different binary classifiers were trained and a voting scheme was employed to determine the class label. More details about the voting scheme is provided in the next subsection. Given two classes of EEG signals: Class 1 and Class 2, the CSP algorithm finds a spatial filter such that the signals can be projected into a 1-dimensional space where one class of signals is maximally scattered and the other is minimally scattered. High variance of the signals indicates strong rhythms whereas low variance indicates attenuated rhythms [52]. Let S = {S1,S2,. . .,SM} where Si RNc×N denotes the filtered i-th trial EEG signal, M the number of EEG trials, Nc the"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    576.3,
+    718.3,
+    658.7
+   ],
+   "ocr": "number of EEG channels, and N the number of samples in the signal. The optimization prob- lem is expressed as: X varðwTSiÞ"
+  },
+  "p3_b3": {
+   "type": "title",
+   "bbox": [
+    437.9,
+    622.5,
+    727.3,
+    703.9
+   ],
+   "ocr": "min w i2C1 X 2M varðwTSiÞ ð1Þ"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    446.2,
+    667.7,
+    461.5,
+    681.7
+   ],
+   "ocr": "s:t:"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    531.4,
+    668.8,
+    541.1,
+    690.6
+   ],
+   "ocr": "¼"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    669.1,
+    727.2,
+    727.4
+   ],
+   "ocr": "1 i¼1 where C1 represents all Class 1 EEG trials and w RNc is the unknown weight vector of the spa-"
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    726.1,
+    717.7,
+    770.1
+   ],
+   "ocr": "tial ﬁlter. In this study, the CSP features selected for classiﬁcation were the log-variance of the Table 3. Frequency window, time segment, and feature dimension for each feature extraction method."
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    778.9,
+    726.6,
+    841.3
+   ],
+   "ocr": "Method Frequency Window Time Segment Feature Dimension\nCSP 7–30 Hz 1–3 s 6\nFBCSP 7–15 Hz, 15–25 Hz, 25–30 Hz 1–3 s 18\nBP 7–30 Hz 1–3 s 20",
+   "table_id": "PMC4382224_table_2"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    854.0,
+    257.6,
+    888.2
+   ],
+   "ocr": "Feature extraction algorithms used in this study. doi:10.1371/journal.pone.0121896.t003"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121896 April 1, 2015 8 / 24"
+  }
+ }
+}

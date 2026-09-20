@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_462",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    707,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    707,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4541937_table_0",
+   "page_num": 1,
+   "bbox": [
+    75.2,
+    142.2,
+    631.5,
+    267.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4541937_table_0.png",
+   "html": "<table><tr><td>Signal Strength (C/N0)</td><td>Ray-Tracing</td><td>Valid Satellite Type</td></tr><tr><td>LOS (&gt;40 dB-Hz)</td><td>LOS</td><td>LOS</td></tr><tr><td>NLOS (&lt;30 dB-Hz)</td><td>NLOS</td><td>NLOS</td></tr><tr><td>LOS (&gt;40 dB-Hz)</td><td>NLOS</td><td>Invalid</td></tr><tr><td>NLOS (&lt;30 dB-Hz)</td><td>LOS</td><td>Invalid</td></tr><tr><td>Unknown (30 dB-Hz &lt; C/N0 &lt; 40 dB-Hz)</td><td>LOS</td><td>Multipath (LOS if no reflection path is found)</td></tr><tr><td>Unknown (30 dB-Hz &lt; C/N0 &lt; 40 dB-Hz)</td><td>NLOS</td><td>NLOS</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4541937_table_1",
+   "page_num": 2,
+   "bbox": [
+    181.2,
+    393.0,
+    525.5,
+    425.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4541937_table_1.png",
+   "html": "<table><tr><td>DOF</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Value</td><td>22.93</td><td>27.64</td><td>30.67</td><td>33.37</td><td>35.89</td><td>38.25</td><td>40.53</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4541937_table_2",
+   "page_num": 3,
+   "bbox": [
+    140.0,
+    661.8,
+    566.5,
+    748.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4541937_table_2.png",
+   "html": "<table><tr><td>Methods</td><td>Mean (m)</td><td>Std (m)</td><td>Availability</td></tr><tr><td>Conventional positioning method (WLS)</td><td>24.28</td><td>28.61</td><td>97.23%</td></tr><tr><td>WLS using only LOS</td><td>12.57</td><td>13.38</td><td>53.36%</td></tr><tr><td>3D map method</td><td>3.97</td><td>3.97</td><td>100%</td></tr><tr><td>3D map method with RAIM FDE</td><td>2.96</td><td>2.44</td><td>100%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4541937_table_3",
+   "page_num": 4,
+   "bbox": [
+    126.5,
+    142.2,
+    577.0,
+    228.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4541937_table_3.png",
+   "html": "<table><tr><td>Methods</td><td>Mean (m)</td><td>Std (m)</td><td>Availability</td></tr><tr><td>Conventional positioning method (WLS)</td><td>23.99</td><td>20.10</td><td>55.02%</td></tr><tr><td>WLS using only LOS</td><td>13.21</td><td>20.32</td><td>10.58%</td></tr><tr><td>3D map method</td><td>8.78</td><td>5.62</td><td>73.68%</td></tr><tr><td>3D map method with RAIM FDE</td><td>3.85</td><td>3.56</td><td>83.16%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4541937_table_4",
+   "page_num": 5,
+   "bbox": [
+    129.5,
+    441.4,
+    573.3,
+    510.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4541937_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Methods</td><td colspan=\"2\">Middle Urban</td><td colspan=\"2\">Deep Urban</td></tr><tr><td>Mean (m)</td><td>Std (m)</td><td>Mean (m)</td><td>Std (m)</td></tr><tr><td>3D map method</td><td>3.62</td><td>2.44</td><td>11.60</td><td>4.18</td></tr><tr><td>3D map method with RAIM FDE</td><td>3.20</td><td>1.27</td><td>3.82</td><td>3.23</td></tr></table>"
+  }
+ ]
+}

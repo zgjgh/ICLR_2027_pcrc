@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_069",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    121,
+    580,
+    195
+   ],
+   "ocr": "The table presents a comparative analysis of cytogenetic findings across two distinct patient groups: the PPTR group and the Non-PPTR group. Notably, the data reveals a total of 53 cell lines within the PPTR group, which corresponds to a striking prevalence rate of 26.13% for normal karyotypes. In contrast, the Non-PPTR group exhibits 55 cell lines, with a slightly lower percentage of 16.83% demonstrating similar cytogenetic characteristics. These figures underscore the differential impact of PPTR status on cytogenetic outcomes, highlighting the potential for targeted therapeutic strategies."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    183,
+    580,
+    272
+   ],
+   "ocr": "Furthermore, the inclusion of advanced analytical metrics such as PrefixSpan and C-Value enhances the depth of the analysis, providing insights into the underlying genetic architecture of the observed cell lines. The variability in cytogenetic findings, as indicated by the reported ranges (2.80–86.73 for the PPTR group and 2.80–64.50 for the Non-PPTR group), emphasizes the necessity for further investigation into the genetic correlates of these outcomes. This data serves as a foundational element for understanding the broader implications of PPTR status in clinical settings."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    335.0,
+    580.0,
+    458.0
+   ],
+   "ocr": "CEA level (ng/mL) Overall survival (months) P\nPPTR group Non-PPTR group\n0–5 26.13 (2.80–86.73) 16.83 (2.80–64.50) 0.032\n5.1–18 20.90 (2.77–70.30) 14.80 (5.73–41.33) 0.011\n18.1–70 19.70 (2.87–63.17) 11.85 (2.33–36.63) 0.002\n>70 19.57 (4.70–73.33) 14.17 (3.47–44.43) 0.186",
+   "table_id": "img_076626_t0"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    518.0,
+    580.0,
+    639.0
+   ],
+   "ocr": "Cytogenetic findings Number of cell lines %\nNormal karyotype 53 55\nNumerical changes (Table 2) 31 32\nStructural changes (Table 3) 7 7\nBoth numerical and structural changes (Table 4) 6 6\nTotal 97 100",
+   "table_id": "img_076626_t1"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    694.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "PrefixSpan C-Value TextRank\nBefore 383,397 56,264 55,055\nAfter 564 3138 3025\nPercentage 0.14 % 5.58 % 5.49 %",
+   "table_id": "img_076626_t2"
+  }
+ }
+}

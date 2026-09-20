@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_004",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    471.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Accurate and Robust Classifier for Expression Recognition"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    541.7,
+    107.4
+   ],
+   "ocr": "Table 5. Recognition rate of the proposed FER system using IMFDB dataset of facial expressions (Unit: %)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    114.2,
+    694.0,
+    236.6
+   ],
+   "ocr": "Expressions Happy Anger Sad Surprise Fear Disgust\nHappy 95 1 2 1 0 1\nAnger 0 97 0 0 3 0\nSad 0 1 96 2 1 0\nSurprise 1 2 1 94 2 0\nFear 0 1 0 0 99 0\nDisgust 0 1 1 1 0 97\nAverage 96.33",
+   "table_id": "PMC5026367_table_4"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    244.1,
+    186.2,
+    255.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0162702.t005"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    121.2,
+    840.9,
+    725.9,
+    884.2
+   ],
+   "ocr": "Fig 8. 3D-feature plot of the proposed FER system for the six facial expressions using IMFDB dataset. It can be seen that the system clearly classified the expressions classes. doi:10.1371/journal.pone.0162702.g008"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0162702 September 16, 2016 15 / 23"
+  }
+ }
+}

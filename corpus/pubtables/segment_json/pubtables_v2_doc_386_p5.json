@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_386",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    514.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prokaryotic Glycosylated-Residue Prediction"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    700.7,
+    106.0
+   ],
+   "ocr": "Table 6. Comparative performances of existing well-known glycosylation prediction tools and GlycoPP models on independent dataset of prokaryotic glycoproteins."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    665.8,
+    369.3
+   ],
+   "ocr": "Prediction of N-glycosites\nGlycoPP-BPP GlycoPP-CPP GlycoPP-PPP GlycoPP-\nModels (Threshold) NetNglyc1 (0.5) EnsembleGly3 (0.7) (20.1) (0.3) (20.2) BPP+ASA\nSensitivity (%) 88.89 94.44 89.47 68.42 78.95 89.47\nSpecificity (%) 25.00 11.36 73.68 73.68 73.68 84.21\nAccuracy (%) 43.55 35.48 81.58 71.05 76.32 86.84\nMCC (%) 0.15 0.09 0.64 0.42 0.53 0.74\nPrediction of O-glycosites\nModels NetOGlyc2 (0.1) EnsembleGly3 (0.3) GlycoPP-BPP GlycoPP-CPP GlycoPP-PPP GlycoPP-\n(0.2) (0.2) (0) PPP+ASA\nSensitivity (%) 100.00 6.67 72.13 72.55 77.05 81.97\nSpecificity (%) 3.19 93.05 73.77 68.18 70.49 70.49\nAccuracy (%) 8.27 88.28 72.95 70.36 73.77 76.23\nMCC (%) 0.04 20.00 0.46 0.41 0.48 0.53",
+   "table_id": "PMC3392279_table_5"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    382.6,
+    700.8,
+    530.3
+   ],
+   "ocr": "Footnotes: 1: http://www.cbs.dtu.dk/services/NetNGlyc/, 2: http://www.cbs.dtu.dk/services/NetOGlyc-3.0/, 3: http://turing.cs.iastate.edu/EnsembleGly/, BPP- Binary profile of patterns, CPP- Composition profile of patterns, PPP- PSSM profile of patterns, MCC- Matthews correlation coefficient, AUC- Area under curve, SS-secondary structure and ASA- Accessible surface area. doi:10.1371/journal.pone.0040155.t006 to 1.0 for optimizing SVM scores. Input is acceptable as single or in a close homologue and available experimental data on type of multiple sequences in standard FASTA format. linkages, attached sugars etc., for best interpretation of the results obtained and also to decipher the biological significance of the Discussion same. The datasets used in this study are currently the largest and the most extensive available, yet inclusion of more validated In this study, we have developed new SVM based glycosites sequences or features may further enhance the prediction prediction models trained on and at least for N- and/or -O-"
+  },
+  "p5_b4": {
+   "type": "title",
+   "bbox": [
+    398.4,
+    523.2,
+    488.1,
+    534.6
+   ],
+   "ocr": "accuracy, in future."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    532.3,
+    700.8,
+    804.4
+   ],
+   "ocr": "glycosylated proteins belonging to six different archaeal and Further, the preliminary information gleaned from various bacterial phyla namely, Crenarchaeota, Euryarchaeota, Actinobacteria, organism-, phylum- and domain- specific weblogos of prokaryotic Bacteroidetes, Firmicutes and Proteobacteria. The overall best perform- glycoproteins, suggest that sequence context of bacterial and ing models are implemented at GlycoPP webserver available freely archaeal N-glycosites not only differs from eukaryotic ones but to the users (Figure 1). Our approach is similar to the existing they may vary between archaea and bacteria as well (Figures S1). models employed successfully for in silico identification of glycosites In view of the understanding that the archaeal OST could be in eukaryotic glycoproteins [13,14]. The webserver allows users to evolutionarily closer to eukaryotic OST [41], it may be beneficial identify probable sites of N- and O-glycosylation in proteins to develop prediction tools separately for archaea and bacteria in belonging to or to the similar bacteria or archaea as described future, when sufficient experimental data is available. Similarly, above, much more confidently than possible with the existing tools the approach could be extended to different phyla under domain of similar nature. In this study, we observed that BPP models Bacteria where novel sequons for N- and O-glycosites seem to be (containing single sequence information) were more efficient in conserved with in a phylum. For example, preference for an acidic discrimination of N-glycosylated and non-glycosylated sequences residue at -2 position in sequon for N-glycosylation among irrespective of their training on balanced or realistic datasets for epsilonbacteria like Campylobacter and Helicobacter and novel O- the presence of a defined consensus-sequon NX(S/T) in all N- glycosylation sequon D(S/T)(A/I/L/V/M/T) in phylum Bacter- glycosites. Whereas, in case of O-glycosylation, multiple sequence oidetes (Figures S2, S3) indicate that glycan and/or acceptor information based PPP models performed better as the sole sequence specificities of OSTs/GTs could be conserved within a classifying feature. Possibly, for the lack of a defined consensus- close group of bacteria and archaea. Therefore, in future it will be sequon for most O-glycosites (except in phylum Bacteroidetes), desirable to develop tools where prediction could be made taking [6,24], PSSM derived profiles could well be more informative and in to account the glycan and/or acceptor sequence specificities of"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    797.1,
+    700.7,
+    817.8
+   ],
+   "ocr": "useful for O-glycosites prediction. In our study, average surface such individual protein glycosyltransferases of prokaryotes. How-"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    810.4,
+    700.7,
+    831.3
+   ],
+   "ocr": "accessibility emerged as a more useful criterion than secondary ever, as most of the OSTs involved in en-bloc N- and O-"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    823.6,
+    700.7,
+    844.8
+   ],
+   "ocr": "structure around glycosylated residues in most of our hybrid glycosylation both in archaea and bacteria including AglB, PglB,"
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    836.9,
+    700.8,
+    858.3
+   ],
+   "ocr": "prediction approaches. The tool in its existing form would be PglL and their homologues have been shown to have relaxed"
+  },
+  "p5_b10": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    850.2,
+    700.8,
+    963.6
+   ],
+   "ocr": "useful for both single protein and proteome scale analysis. However, users are encouraged to supplement these results with glycan specificity, the correlation between acceptor sequence other complementary evidences like presence of signal peptides, specificity and glycan specificity of these enzymes may not be transmemebrane domains, sub-cellular localization of the proteins, straight (Table 2), [37,42,43]. In this context, it could be presence of certain OSTs or GTs in the genome of the organism to speculated that in prokaryotes a complex inter-play of available indicate likely type and mode of glycosylation, known glycosylation biosynthesis machinery of certain precursor sugars, corresponding PLoS ONE | www.plosone.org 11 July 2012 | Volume 7 | Issue 7 | e40155"
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_068",
+  "page": 9,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    135,
+    580,
+    178
+   ],
+   "ocr": "In the analysis of site-specific class association rules, the table presents a comprehensive overview of various methods employed to derive insights from the data. The metrics of Support and Confidence are particularly critical in evaluating the strength of these association rules."
+  },
+  "p9_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    166,
+    580,
+    209
+   ],
+   "ocr": "Support indicates the proportion of instances in the dataset that meet the criteria of the rule, while Confidence reflects the reliability of the inference made by the rule based on the data available. For example, the Wi-Fi method demonstrates a Support metric of 92.6%, suggesting a strong correlation between the variables analyzed."
+  },
+  "p9_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    261.0,
+    580.0,
+    451.0
+   ],
+   "ocr": "Method Support Confidence\nSite-specific class Association rules\nWildtype 2378T in NR subtype 1b 50% 69%\nA2368T in R in subtype 1a 100% 52.2%\nE2356G/D in R in subtype 1b 76.3% 67.3%\nNumber of variable sitesThree variable sites in R 100% 25%\nSix variable sites in R 1.7% 100%\nGenetic distancesGD > 0.2 for the V3 region in R 55% 35%\nProfile Hidden Markov ModelScore > 45 for R 70% 20%",
+   "table_id": "img_076045_t0"
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    502.0,
+    580.0,
+    645.0
+   ],
+   "ocr": "Prediction Wi-Fi LTE DVB-T Noise Unknown\nActual\nWi-Fi 92.6% 1.85 % 0% 3.70% 1.85%\nLTE 0% 100% 0% 0% 0%\nDVB-T 0% 1.85% 98.15% 0% 0%\nNoise 0% 0% 0% 0% 0%\nUnknown 0% 0% 0% 0% 0%",
+   "table_id": "img_076045_t1"
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    717
+   ],
+   "ocr": "This high Support value indicates that the rule applies to a significant portion of the dataset, enhancing its relevance for practical applications. Additionally, the Confidence level of 1.85% indicates the likelihood that the conclusion drawn from this rule will hold true when the rule is applied in similar contexts."
+  },
+  "p9_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "Such metrics are essential for practitioners aiming to leverage these rules for decision-making processes, as they provide a quantitative basis for understanding the relationships within the data. Overall, the insights derived from these association rules can significantly contribute to optimizing site-specific strategies and improving operational efficiencies."
+  }
+ }
+}

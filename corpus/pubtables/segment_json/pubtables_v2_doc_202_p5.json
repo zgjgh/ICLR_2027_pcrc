@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_202",
+  "page": 5,
+  "page_size": [
+   1000,
+   753
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "caption",
+   "bbox": [
+    948.2,
+    71.7,
+    959.6,
+    232.0
+   ],
+   "ocr": "Xu et al. BMC Genomics (2016) 17:390"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    75.3,
+    227.0,
+    590.3,
+    240.0
+   ],
+   "ocr": "Table 5 Repertoire of Jak kinuses signal transducer and activator of transcription, and negative regulatory genes"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    75.3,
+    244.9,
+    888.0,
+    519.3
+   ],
+   "ocr": "Gene name Abbr Unigene NCBI KEGG TO-VS-SAV3 TO-VS- IFN/SAV3\nLog2 (Fold change) Reg P-value Log2(Fold Change) Reg P-value\nA: Jaks\nTyrosine-protein kinase JAK1 JAK1 CL2001.7 NP_571148 K11217 1.17 Up 1.87e-185 2.61 Up 1.01e-05\nJanus kinase 2 JAK2 Unig38863 ACU12481 K04447 -1.97 Down 3.84e-05\nTyrosine kinase 2 TyK2 Unig6068 ACU12483.1 K11219 -1.07 Down 7.70e-27\nB: Signal transducers\nSignal transducer and activator of transcription 1 STAT1 CL2066.1 NP_001134757.1 K11220 6.03 Up 3.06e-68 7.11 Up 1.20e-4\nSignal transducer and activator of transcription 2 STAT2 Unig6362 NP_001138896.1 K11221 1.88 Up 1.31e-06 2.67 Up 1.10e-4\nSignal transducer and activator of transcription 3 STAT3 CL10061.2 GU933429.1 K04692 -1.32 Down 4.00e-05\nSignal transducer and activator of transcription 5B STAT5 Unig39041 XP_003454096.1 K11224 -2.32 Down 3.00e-05\nSignal transducer and activator of transcription 6 STAT6 Unig2573 ACU12488.1 K11225 1.29 Up 3.83e-57\nC: Negative loop feedback\nSuppressor of cytokine signaling 3 SOCS3 Unig14487 NP_001139640.1 K04696 -1.25 Down 1.02e-07 1.89 Up 1.04e-07\nSuppressor of cytokine signaling 1 SOCS1 Unig8629 CCC15083.1 K04694 6.86 Up 1.31e-207 7.78 Up 1.11e-04\nE3 SUMO-protein ligase PIAS2 PIAS2 Unig18900 XP_003457088.1 K16063 -1.06 Down 2.00e-05 1.01 Up 7.71e-07",
+   "table_id": "PMC4878077_table_4"
+  },
+  "p5_b3": {
+   "type": "title",
+   "bbox": [
+    948.2,
+    622.1,
+    959.5,
+    681.0
+   ],
+   "ocr": "Page 10 of 17"
+  }
+ }
+}

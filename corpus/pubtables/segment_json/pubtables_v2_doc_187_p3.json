@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_187",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    423.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Sex and STEM Occupation Predict AQ Scores in Half a Million People"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    386.3,
+    107.4
+   ],
+   "ocr": "Table 3. List of occupations."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    399.4
+   ],
+   "ocr": "STEM occupations Non-STEM occupations\nComputers & I.T. Civil Engineering\nEngineering Director\nScientiﬁc & Technical Financial Banking\nFood & Drinks\nHealthcare\nHospitality\nLegal\nLeisure\nOfﬁce Administration\nPublic Sector Services\nPublishing & Media\nRetail\nSales\nSupply Chain\nTeaching\nTranslation & Interpretation\nTransport",
+   "table_id": "PMC4619566_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    407.6,
+    727.2,
+    898.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0141229.t003 outliers, Mahalanobis distance, or the distance between a distribution and an individual data point was calculated, and 6 individuals were removed from analysis due to a score of greater than 20.5 (all individuals were around the age of 88, 5 of 6 were males, all were STEM, and there was no trend for AQ score). The fit of the regression model relating the covariates to AQ score is shown in Table 5. With R2 = 0.036 (adjusted R2 also 0.036; model generalizes very well due to large sample size), very little variance in AQ scores—only 3.6%—is explained by the covariates included in the model. Unsurprisingly, given the very large statistical power in this sample, most terms are significant; thus, it is important to consider effect sizes (semi-partial correlation r) when interpreting the results. Ignoring the effect of any covariates, the average AQ score is 20.35 (intercept value). There are significant interactions between gender and age, gender and “Other” career, and age and STEM career. In women, each additional year of age slightly reduces AQ score, while in men, each additional year of age slightly increases AQ. Career in a STEM area of work is associ- ated in an increase in AQ scores in both genders, but the increase is greatest for men (for instance, according to the model, being a women (default gender) in a STEM career adds +1.15 points to the intercept score; men in STEM careers lead to a total of 1.15–0.44 points). Binary logistic regression Binary logistic regression analysis was carried out to predict the probability of individuals fall- ing above or below a cut-off value in AQ score. The cut-off used for this analysis was 32; in the original publication describing the AQ, 32 or greater was found in a general population sample to be the point at which sensitivity and specificity were optimized, with 80% of autism spec- trum cases correctly identified and only 2% of controls qualifying as potentially undiagnosed cases [1]. This is in contrast to the other cut-off point reported in the literature of 26, which was derived from a study examining the use of the AQ as a screening tool at an adult autism clinic [3]; it was felt that the higher cut-off was more appropriate for a general population sam- ple, rather than a sample seeking diagnosis. Thus, two categories were delineated: a high-risk"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0141229 October 21, 2015 8 / 15"
+  }
+ }
+}

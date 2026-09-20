@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_207",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    367.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Evaluating Sentinel Population Potential for Early Detection of Influenza Outbreaks"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    727.2,
+    742.9
+   ],
+   "ocr": "A cases, codes to identify active duty military members, and sample collection dates to identify the influenza A time series. Laboratory data was also provided by AFHSC. Raw line list data for military ILI and laboratory-confirmed Influenza A were provided by AFHSC. Aggregated reports of that data are available through the AFHSC website [7]. Aggre- gated seasonal data used for these analyses are provided in S1 Appendix. Dataset 4: MMWR Weeks. Data from AFHSC was categorized into weeks based on a SAS algorithm that did not correspond to the CDC’s epidemiological week used for the Morbidity and Mortality Weekly report (MMWR). This dataset was used to translate SAS weeks into MMWR weeks for appropriate comparison to civilian data, and was provided by AFHSC. Civilian Datasets. Civilian influenza-like-illness data was obtained from peer reviewed lit- erature and official public health reports including CDC’s MMWR and public health websites. A comprehensive list of sources used for raw data are available in Table 2. Civilian datasets are named based on the ISO 3166-1 alpha-2 country codes of the country [9]. The seasonal civilian data used for these analyses are also available in S1 Appendix. Data Processing and Analysis Because data was accumulated from various sources and required different levels of processing, a visual representation of the procedure is given in Fig 1. Data obtained from AFHSC was housed in SAS files. These files were converted to.csv files using the sas7bdat 2.0.6 Python package [17] (step 1) and then imported into a SQLite database (step 2). The ILI data were then merged with a dataset that converted SAS weeks to MMWR weeks for standardization (step 3). Records from this dataset that were active duty military members (step 5a) comprised the roughly 7.8 million records in Dataset 1. Dataset 2 was fur- ther restricted to include only 3 ICD-9 codes (see Table 1, step 6). This resulted in just over 1 million records in the narrow dataset. Using data from AFHSC regarding how many individu- als visited each clinic site each week, we were able to convert these data to %ILI (step 7). To process laboratory data, regular expressions were used to extract confirmed influenza A cases from the raw AFHSC laboratory data (step 4). We examined if free text fields reported that 1) a test for influenza A was conducted and 2) it was determined to be positive. A handful of examples illustrating ‘influenza A positive’ as well as examples for ‘not influenza A positive’ are included in Table 3. If a ‘positive’ word was qualified with another word like ‘presumptive’ or ‘weak’ we excluded the record from further analysis. These analyses were performed in SQLite using the sqlite3-pcre package which enables the use of Perl regular expressions [18]. Independently, AFHSC performed a similar analysis and grouped their data into ‘A Positive’, ‘B positive’ and ‘Both A and B positive’ records. Our final Influenza A positive dataset included records that either we or AFHSC defined as influenza A positive. This constituted just under 500 thousand records. The regular expressions used to derive our results, as well as a complete Table 2. Civilian datasets."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    749.8,
+    623.7,
+    872.8
+   ],
+   "ocr": "Name Location Citation\ngu.civilian Guam [10]\njp.civilian Japan [11]\nkr.civilian South Korea [12]\nus.ca.civilian California [13]\nus.md.civilian Maryland [14]\nus.nc.civilian North Carolina [15]\nus.tx.civilian Texas [16]",
+   "table_id": "PMC4938434_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    880.3,
+    393.3,
+    891.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158330.t002"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158330 July 8, 2016 4 / 14"
+  }
+ }
+}

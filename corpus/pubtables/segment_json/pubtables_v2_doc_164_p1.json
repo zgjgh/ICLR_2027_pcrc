@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_164",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    433.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Transcriptome and Expression Profile Analysis of Explant Browning"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.5,
+    726.7,
+    379.1
+   ],
+   "ocr": "Date availability The filtered reads for Phalaenopsis spp were deposited in the NCBI Sequence Read Archive (SRA) under the accession number SRX386023 and SRS506991 (http://www.ncbi.nlm.nih.gov/ sra/?term=SRS506991, http://www.ncbi.nlm.nih.gov/sra/?term=SRX386023) (data unpublic) Results Phalaenopsis transcriptome assembly and annotation To examine the Phalaenopsis transcriptome, we collected RNA from 0-d-cultured, 3-d-cultured, and 6-d-cultured explants and constructed one mixed cDNA library. We used the tagged cDNA library for 2×100 bp paired-end sequencing on a single lane of the Illumina Hiseq2000 and gen- erated 118,996,000 raw paired-end reads resulting in 12 gigabases of sequence. After cleaning and quality control, this resulted in 79,434,350 reads (7,544,398,171 bp) (Table 1). Using the RNA seq de novo assembler Trinity, we obtained 31,708 isogenes with a mean size of 1108.07 bp and lengths from 351 bp to 9,265 bp (S2 Table). Using BLASTn sequence similarity search with E-value�10-5,"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    356.2,
+    726.5,
+    477.6
+   ],
+   "ocr": "cut-off about 90% of isogenes (28,267/31,708) have significant sequence similari- ty to the Phalaenopsis EST database (data not shown). Only 10% of isogenes (3441) were not hit, and were thought to be specific sequence in our study. We used this reference transcriptome for our subsequent analysis of expression profiles during explant browning. About 84% assembled transcripts (26,565/31,708, S3 Table) were annotated by using BLASTp and BLASTn algorithms to search against the NR, gene, string and Nt databases E-value�10-5,"
+  },
+  "p1_b3": {
+   "type": "title",
+   "bbox": [
+    252.5,
+    454.7,
+    334.2,
+    477.6
+   ],
+   "ocr": "(E-value�10-5)."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    454.7,
+    724.6,
+    728.4
+   ],
+   "ocr": "A BLASTx sequence similarity search with cut-off Phalaenopsis proteins have significant sequence similarity to the proteomes of other plants (Table 2). For example the Phalaenopsis proteome showed substantial amino acid sequence identity to Arabidopsis thaliana (61.71%) and Oryza sativa (63.78%) proteomes. The function of the Phalaenopsis sequences hit in Arabidopsis thaliana and Oryza sativa were shown as sup- porting information in S4 and S5 Tables. Most of the transcripts had most-significant hits to the Phalaenopsis equestris database, and only 14.34% of the sequences did not show significant identity in the Phalaenopsis equestris database. These do not found homologous sequences suggesting that they may novel proteins in our study. Phalaenopsis expression profile changes during explant browning To examine the expression of Phalaenopsis genes in browning, we next constructed three cDNA libraries and used 2×100 bp paired-end sequencing to obtain sets of expression reads for explants cultured for 0, 3, and 6 d. After removing the adaptor sequences and low-quality Table 1. Assembly of transcriptome of Phalaenopsis."
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    662.2,
+    454.7,
+    722.9,
+    468.7
+   ],
+   "ocr": "showed that"
+  },
+  "p1_b6": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    736.6,
+    726.7,
+    877.9
+   ],
+   "ocr": "Number\nTotal number of raw reads 118,996,000/12,018,596,000(bp)\nTotal number of reads assembled 79, 434, 350/7 544, 398, 171(bp)\nTotal genes 21, 348\nTotal isogenes 31, 708\nTotal residues 35, 134, 614\nSmallest isogene 351\nLargest iosgene 9, 265\naverage 1, 108.07",
+   "table_id": "PMC4397044_table_0"
+  },
+  "p1_b7": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0123356.t001"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0123356 April 14, 2015 5 / 24"
+  }
+ }
+}

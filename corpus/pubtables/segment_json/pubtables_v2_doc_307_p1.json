@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_307",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    284.7,
+    64.4
+   ],
+   "ocr": "BMC Health Services Research 2009, 9:96"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6963/9/96"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    389.2,
+    118.9
+   ],
+   "ocr": "Table 1: Reference conditions used to define cases for the predictive"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    392.0,
+    107.2,
+    438.4,
+    118.9
+   ],
+   "ocr": "algorithm"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    674.1,
+    480.6
+   ],
+   "ocr": "AR DRG codes* Description\nB63Z Dementia and other chronic disturbances of cerebral function\nB67A-B67C\nB68A-B68B Multiple sclerosis and other demyelinating disorders\nB76A-B76B Epilepsy (<69 years or with complications or co-morbidities)\nE60A-E60B Cystic fibrosis\nE65A-E65B Chronic obstructive pulmonary disease (includes bronchiectasis)\nE69A-E69B Asthma (>49 years or with complications or co-morbidities)\nE74A-E74C Interstitial lung disease\nE75A-E75B Other respiratory diagnoses (>69 years or with complications or co-morbidities)\nE60A-E75B; (excluding E71A-E71C, lung cancer) Complex elderly with a respiratory system primary diagnosis (>69 years)\nF62A-F62B Heart failure\nF65A-F65B Peripheral vascular disorders (>69 years or with complications or co-morbidities)\nF66A-F66B Coronary atherosclerosis\nF70A-F71B Arrhythmia or conduction disorders (>69 years or with complications or co-morbidities)\nF72A-F72B Angina (>69 years or with complications or co-morbidities)\nF60A-F75C Complex elderly with a cardiac primary diagnosis (>69 years)\nI65A-I70Z Inflammatory spine, joint or connective tissue disease\nJ60A Skin ulcers\nK60A-K60B Diabetes (>69 years or with complications or co-morbidities)\nK01Z Diabetic foot procedures\nK61Z-K64B Complex elderly with endocrine or metabolic system primary diagnosis (>69 years)\nL63A-L63B Kidney or urinary tract infections (>69 years or with complications or co-morbidities)\nQ61A-Q61C Red blood cell disorders (>69 years or with complications or co-morbidities)\nQ62Z Coagulation disorders",
+   "table_id": "PMC2700797_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    496.9,
+    372.6,
+    922.4
+   ],
+   "ocr": "* Australian Refined Diagnosis Related Groups [15] (endoscopy), which are often not included as inpatient episodes-of-care in other health systems. Predictor variables Demographic measures Demographic characteristics were obtained from the trig- ger admission and included age, sex, Indigenous status, marital status, socioeconomic status and rurality (as a potential marker of access to hospital care). Indigenous status is routinely collected in the QHAPDC and was clas- sified as Indigenous versus Non-Indigenous. Socioeco- nomic status was characterised using the SEIFA (Socio Economic Indexes For Areas) Index of Advantage/Disad- vantage (Australian Bureau of Statistics (ABS), 2004) [17]. This is a composite measure, which describes area advan- tage/disadvantage according to a range of social and eco- nomic factors as determined from census data. Geographic remoteness was characterised using the Acces- sibility/Remoteness Index of Australia (ARIA: ABS, 2004) [18]. This measures the remoteness of a physical location based on road distance to the nearest urban centre(s). SEIFA and ARIA index values were mapped onto QHAPDC data using Statistical Local Area of usual resi- dence. A quintile split of SEIFA values was used to create five socioeconomic groups ranging from most disadvan- taged (Quintile 1) to most advantaged (Quintile 5). Area remoteness was summarized using five major categories"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    522.6,
+    698.3,
+    922.4
+   ],
+   "ocr": "in accordance with ABS cut points: Major city (score: 0– 0.20), Inner Regional (>0.20–2.40), Outer Regional (>2.40–5.92), Remote (>5.92–10.53) and Very Remote (>10.53). Co-morbidities The presence of co-morbidities was identified from the primary and from all nine secondary diagnosis fields for the trigger admission and all acute admissions in the 3 years before the triggering event (Table 2). The decision to evaluate comorbidities across all admissions up to and including the trigger admission was in order to account for potential lapses in diagnostic coding. The comorbid conditions evaluated in this study were similar to those reported in the UK study as listed on the King's Fund web- site [19]. Prior utilisation For consistency with the UK study, previous admissions were enumerated for three time intervals preceding the trigger admission – 90 days, one year and three years – for two admission categories: any admission and any emer- gency admission. The measures displayed the intrinsic skewness of hospital utilisation data, which was resolved by treating each measure as an ordinal variable classified as 0, 1, 2 or more admissions. As with the outcome meas- ure, we excluded planned, same-day admissions from this"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 9 (page number not for citation purposes)"
+  }
+ }
+}

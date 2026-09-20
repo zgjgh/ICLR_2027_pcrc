@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_250",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "caption",
+   "bbox": [
+    248.5,
+    116.8,
+    717.4,
+    141.9
+   ],
+   "ocr": "Table 2 Mass isotopomer distributions (MIDs) for the TCA cycle model as calculated by FluxPyt and OpenFLUX."
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    243.9,
+    151.2,
+    729.3,
+    501.8
+   ],
+   "ocr": "FluxPyt OpenFLUX\nVALX:11111 M+0 0.0298 0.0298\nM+1 0.2438 0.2438\nM+2 0.0589 0.0589\nM+3 0.4399 0.4399\nM+4 0.0292 0.0292\nM+5 0.1984 0.1984\nLYSX:111111 M+0 0.0344 0.0344\nM+1 0.1854 0.1854\nM+2 0.1677 0.1677\nM+3 0.2499 0.2499\nM+4 0.2074 0.2074\nM+5 0.0764 0.0764\nM+6 0.0788 0.0788\nASPX:1111 M+1 0.0661 0.0661\nM+2 0.3532 0.3532\nM+3 0.2497 0.2497\nM+4 0.1590 0.1590\nM+5 0.1720 0.1720\nSum of squared residual (SSR) 0.0002 0.0002",
+   "table_id": "PMC5933345_table_1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    42.7,
+    531.2,
+    730.0,
+    957.7
+   ],
+   "ocr": "Preliminary validation with the TCA cycle model The TCA cycle metabolic network (see Data S1 for a detailed description of the model as well as a list of metabolites) consisted of 18 metabolite reactions and three isotopomer balancing reactions (type “S” reactions). The network has two substrate input reactions, pyruvate (V01) and glutamate (V02) and one reversible reaction (represented as two separate reactions, V07 and V08). Three of the reactions (V16, V17 and V18) have measured values relative to pyruvate ﬂux ﬁxed at 1. The stoichiometric matrix has seven free variables. Rearranging the reactions as mentioned in the implementation section above enables the measured ﬂux values to be calculated as free ﬂuxes. The three measured free ﬂux parameters were allowed to vary within three standard deviations of their means while the remaining three free ﬂux parameters were allowed to vary between the maximum bounds as explained in the implementation section. The only remaining parameter was the ﬂux through pyruvate uptake reaction which was ﬁxed to 1. A total of 18 data points were ﬁtted to six ﬂux parameters, therefore the maximum acceptable SSR was 21. The number of iterations was set to 10. Flux analysis results from both software converged to a similar solution. The MIDs calculated by FluxPyt were the same as those calculated by OpenFLUX (Table 2). Very minor differences in the values of two ﬂuxes were observed (Table 3). These could be due to the different solvers and algorithms used to solve the least squares ﬁtting problem and linear system of equations (He et al., 2016). The ﬂux map, which was automatically generated (see Methods for details) based Desai and Srivastava (2018), PeerJ, DOI 10.7717/peerj.4716 7/16"
+  }
+ }
+}

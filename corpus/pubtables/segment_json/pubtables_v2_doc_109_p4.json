@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_109",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    217.9,
+    64.4
+   ],
+   "ocr": "Proteome Science 2009, 7:19"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    480.7,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.proteomesci.com/content/7/1/19"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    370.5,
+    118.9
+   ],
+   "ocr": "Table 4: Comparison of detected peaks (ovarian cancer dataset)"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    686.0,
+    538.8
+   ],
+   "ocr": "CM10\nPeak logFC p-value adjusted p Peak logFC p-value adjusted p cor\n(Ciphergen) (Cromwell)\n1546.06 -0.55 0.004 0.065 1540.24 -0.47 0.001 0.039 0.73\n1555.67 -0.83 0.001 0.039 1552.28 -0.39 0.011 0.093 0.77\n1584.26 -0.52 0.001 0.034 1540.24 -0.47 0.001 0.039 0.87\n2648.88 -0.73 0.001 0.029 1540.24 -0.47 0.001 0.039 0.63\n2747.67 -1.28 <0.001 0.008 2747.56 -1.06 0.001 0.039 0.95\n2785.04 -1.21 <0.001 0.008 2785.52 -1.08 0.003 0.051 0.95\n2824.21 -0.73 0.002 0.044 2823.75 -0.62 0.018 0.105 0.86\n3164.30 -0.84 0.001 0.025 3163.52 -0.64 0.013 0.098 0.83\n3403.11 -0.81 0.002 0.039 3402.37 -0.68 0.014 0.099 0.93\n3441.36 -0.75 0.001 0.031 1615.29 -0.37 0.011 0.093 0.77\nQ10\nPeak logFC p-value adjusted p Peak logFC p-value adjusted p cor\n(Ciphergen) (Cromwell)\n1721.35 -0.68 0.004 0.046 1511.76 -0.34 0.175 0.439 0.31\n4078.66 -0.42 0.015 0.125 4079.56 -0.34 0.155 0.439 0.72\n4273.34 -0.48 0.012 0.113 4274.66 -0.28 0.236 0.439 0.75\n4287.14 -1.06 <0.001 0.005 4287.39 -0.92 0.009 0.143 0.88\n6889.71 -1.02 0.001 0.014 6889.77 -1.43 0.004 0.103 0.92\n8574.28 -1.47 <0.001 0.010 8572.2 -1.51 0.004 0.103 0.96\n8703.04 -1.05 0.006 0.063 8700.12 -0.96 0.020 0.143 0.95\n8772.14 -1.26 <0.001 0.001 8776.73 -1.35 0.004 0.103 0.91\n13782.2 -1.11 0.002 0.029 6889.77 -1.43 0.004 0.103 0.91\n28143.3 -0.77 0.016 0.125 8682.97 -1.09 0.015 0.143 0.75",
+   "table_id": "PMC2689848_table_3"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    554.9,
+    391.2,
+    580.4
+   ],
+   "ocr": "List of ten most differentially expressed m/z values after pre-processing ProteinChip arrays. For each of the m/z values the log2 fold change (logFC),"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    376.0,
+    554.9,
+    690.7,
+    601.9
+   ],
+   "ocr": "with either Ciphergen or Cromwell (setting C) for CM10 and Q10 p-value and adjusted p-value are given. Peaks were matched between Ciphergen peak profile and all Cromwell peak profiles. The Cromwell peak Last column gives the corresponding correlation value."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    578.3,
+    374.7,
+    601.9
+   ],
+   "ocr": "Ciphergen and Cromwell by calculating Pearson's correlation between a with highest Pearson's correlation is considered to be a matching peak."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    641.3,
+    372.6,
+    907.5
+   ],
+   "ocr": "Different peak detection settings using Ciphergen pre- processing had a considerable influence on classification accuracy. For the ovarian cancer dataset more stringent settings for peak detection, resulting in fewer detected peaks, gave better overall accuracy. Use of feature selec- tion also often led to better classification results in all of the models used apart from SVMs (see Additional File 6). For the Gaucher dataset, there is an opposite tendency of less stringent settings giving better overall accuracy (see Additional File 7). Peak signatures for each of the random splits varied greatly. A typical example of the individual m/z values selected is given in Figure 6: only 16 peaks were included in at least 300 of the 1000 signatures for the ovarian can- cer data set. This list gives us candidate proteins with the highest classification potential between ovarian cancer and control patients. The most frequently selected peak at"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    641.3,
+    698.4,
+    907.5
+   ],
+   "ocr": "2748 Da is clearly downregulated in the cancer samples (Figure 2). Classification: Cromwell pre-processed data Classification of Cromwell pre-processed datasets gave similar classification results as for Ciphergen (see Addi- tional Files 6 and Additional File 7). Classification of the Cromwell pre-processed datasets was better than chance in the majority of cases. SVM, PCDA, and to a lesser (on the Gaucher dataset) degree, DLDA again resulted in a higher mean accuracy than naive Bayes and classification trees. For the ovarian cancer dataset, combining CM10 and Q10 data led to increased mean accuracy. Classifica- tion on CM10 data often outperforms Q10 data, in agree- ment with the lower number of differentially expressed peaks detected for Q10 (Table 3). We observed a decrease in classification accuracy on both datasets when more stringent pre-processing parameters were chosen. Use of"
+  },
+  "p4_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 9 of 17 (page number not for citation purposes)"
+  }
+ }
+}

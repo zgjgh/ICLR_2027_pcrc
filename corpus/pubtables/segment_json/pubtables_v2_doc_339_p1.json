@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_339",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    69.8,
+    50.4,
+    331.3,
+    62.6
+   ],
+   "ocr": "Arthritis Research & Therapy Vol 11 No 6 Sharma et al."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    69.8,
+    104.3,
+    373.5,
+    712.0
+   ],
+   "ocr": "Introduction Axial spondyloarthropathy (SpA) is a family of polygenic inflam- matory diseases for which the pathophysiology is complex, with much remaining unknown. Ankylosing spondylitis is the most common form of SpA. Study of gene expression using microarrays offers a novel approach to determining pathogen- esis of diseases. Analysis of peripheral blood in patients with systemic lupus erythematosus using this technique has led to the discovery that many lupus patients have an upregulation of genes induced by type I interferons [1]. The present study utilizes a methodology that incorporates an experimental design consisting of primary and validation data- sets of subjects, a comprehensive microarray platform, and robust statistical techniques to investigate the presence of a SpA gene expression signature and the presence of novel biomarkers of disease. Materials and methods Subjects This study is in compliance with the Helsinki Declaration and was approved by the Oregon Health & Science University (OHSU) Institutional Review Board. Patients with SpA attend- ing the Uveitis or Rheumatology Clinics at OHSU were recruited to this study and informed consent was obtained before samples were collected. SpA was diagnosed based on the calculation of a likelihood score, as described by Rud- waleit and colleagues [2]. A diagnosis of SpA is made if the likelihood ratio product for all positive factors exceeds 200 [3,4]. Because patients were attending an eye disease clinic, joint disease activity was not formally assessed. However, the likelihood ratio indicates a 90% probability that the subjects have SpA. Ulcerative colitis in one patient was permitted in the SpA group because it is known that SpA may co-exist with inflammatory bowel disease [4]. One patient had psoriasis. All other autoimmune diseases were excluded. Chronic systemic conditions were allowed, as were medications for co-existent morbidities. Systemic immunomodulatory therapy was not per- mitted. Only one patient is known to have received a TNF inhibitor (etanercept), and this had been discontinued two months prior to the blood draw for this study."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    396.1,
+    104.6,
+    699.8,
+    741.6
+   ],
+   "ocr": "Gene expression in these subjects was compared with that in 25 healthy control subjects without a history of autoimmune disease. Tables 1, 2 and 3 contain demographic and clinical information for the SpA and healthy control subjects. Male subjects in the SpA group outnumbered females as is charac- teristic of this disease. Neither SpA nor control subjects were on oral corticosteroids or other immunomodulatory therapy. Samples were processed and the results analyzed as two sep- arate datasets, a primary set and validation set, at two different times. Gene expression microarray Unfractionated whole blood collection and RNA isolation were performed using the PAXgene Blood RNA Isolation System (PreAnalytiX, a Qiagen BD Company, Valencia, CA, USA) according to the manufacturer's recommendation. Microarray assays were performed in the Affymetrix Microarray Core, a unit of the OHSU Gene Microarray Shared Resource. Total RNA was amplified and labeled using a one-cycle target-labe- ling method modified to reduce globin mRNA targets (Gene- Chip Globin Reduction Protocol rev.1; Affymetrix, Inc., Santa Clara, CA, USA) and hybridized according to the manufac- turer. The high density, human GeneChip® probe arrays (HG- U133 Plus 2.0, Affymetrix, Inc, Santa Clara, CA, USA) were used. Each array contains 54,000 probe sets designed to ana- lyze the expression of 47,000 human transcripts and variants. Hybridized arrays were processed using the Fluidics Station 450 (Affymetrix, Inc, Santa Clara, CA, USA) and distribution of fluorescence was measured using the Gene Chip Scanner 3000 (Affymetrix, Inc, Santa Clara, CA, USA). Cell fluores- cence intensity (CEL) files were generated using the Gene Chip Operating System (GCOS) software version 1.2 (Affymetrix, Inc, Santa Clara, CA, USA). Statistical analysis The 'affy' and 'gcrma' packages of Bioconductor [5] were used to preprocess and normalize the data following import of CEL files into the R statistical package (Affymetrix, Inc, Santa Clara, CA, USA). The GC Robust Multiarray Analysis (GC- RMA) was used to adjust perfect match (PM) probe data for background noise [6]. Normalization was performed on adjusted PM data with an algorithm based on rank invariant"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    70.5,
+    753.2,
+    180.6,
+    788.7
+   ],
+   "ocr": "Table 1 Dataset characteristics"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    75.5,
+    800.4,
+    691.3,
+    906.9
+   ],
+   "ocr": "Dataset 1 Dataset 2 Combined sets\nSpA Control SpA Control SpA Control\nAge (mean ± SD) 51.8 ± 12.8 48.8 ± 21.4 46.7 ± 14.5 35.4 ± 9.7 49.7 ± 12.9 41.8 ± 17.4\nYears since SpA diagnosis (mean ± SD) 16.2 ± 14.9 8.2 ± 11.2 13.7 ± 14.0\nMales/females 9/2 4/8 4/3 1/12 13/5 5/20",
+   "table_id": "PMC3003511_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    75.6,
+    915.3,
+    369.2,
+    927.3
+   ],
+   "ocr": "The age and disease duration data have been summarized to protect"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    371.9,
+    915.3,
+    693.1,
+    927.3
+   ],
+   "ocr": "subject privacy. SD = standard deviation; SpA = axial spondyloarthropathy."
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    69.8,
+    954.5,
+    220.8,
+    978.0
+   ],
+   "ocr": "Page 2 of 9 (page number not for citation purposes)"
+  }
+ }
+}

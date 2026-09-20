@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_055",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    92,
+    580,
+    135
+   ],
+   "ocr": "The following table presents an analysis of various structural data related to the assessment of changes in Best Corrected Visual Acuity (BCVA) across different experimental methods. The data highlights the relationships between specific metrics such as the resolution of structures and the sequence identity percentage (Seq Id %) for several experimental conditions."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    123,
+    580,
+    166
+   ],
+   "ocr": "Notably, the integration of both conventional techniques and advanced methods, evidenced by the columns labeled \"SAAT\" and \"Conventional,\" allows for a comprehensive evaluation of the structural data obtained from diverse organisms."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    202.0,
+    580.0,
+    329.0
+   ],
+   "ocr": "Retinectomy extension Total\n360° 270° 180°\nChange in BCVA\nWorsening 0 3 2 5\nBetter or no change 10 4 19 33\nTotal 10 7 21 38",
+   "table_id": "img_060379_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    365.0,
+    580.0,
+    488.0
+   ],
+   "ocr": "PDB file Ligand Method Resolution Seq Id % NNT domain Organism\n2bru NAD, NADP NMR – 56 I, I‐I, I‐III E. coli\n4izh Glycerol X‐ray 1.8 Å 41 I T. thermophilus\n4o9p (chains C‐D) – X‐ray 2.89 Å 31 II T. thermophilus\n1djl NADP, sulfate ion, glycerol X‐ray 2.0 Å 100 III Homo sapiens\n4o9u NAD, NADP X‐ray 6.93 Å 33 Holo‐NNT T. thermophilus",
+   "table_id": "img_060379_t1"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    532.0,
+    580.0,
+    659.0
+   ],
+   "ocr": "No. of explants Kanr GFP\nSAAT Conventional SAAT Conventional\n50 4 ± 0.43 2 ± 0.33 3 ± 0.44 1 ± 0.32\n50 3 ± 0.21 2 ± 0.3 3 ± 0.44 2 ± 0.32\n50 4 ± 0.44 3 ± 0.18 4 ± 0.4 3 ± 0.31\n50 3 ± 0.22 1 ± 0.22 2 ± 0.11 1 ± 0.32",
+   "table_id": "img_060379_t2"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    716
+   ],
+   "ocr": "The ligands and PDB file identifiers included in the table facilitate a direct correlation between the structural parameters and their potential implications for BCVA outcomes."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    763
+   ],
+   "ocr": "By synthesizing data from methods such as NMR and comparing resolution metrics, researchers can draw more informed conclusions regarding the efficacy of various ligands in influencing visual acuity. This comparative analysis underscores the importance of methodological choice in structural biology and its direct ramifications on clinical outcomes related to visual health."
+  }
+ }
+}

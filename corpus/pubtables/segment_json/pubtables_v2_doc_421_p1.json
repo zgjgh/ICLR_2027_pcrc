@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_421",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    313.9,
+    66.0
+   ],
+   "ocr": "Hector et al. Biotechnology for Biofuels 2013, 6:84 http://www.biotechnologyforbiofuels.com/content/6/1/84"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 12"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    377.8,
+    124.4
+   ],
+   "ocr": "Table 1 Specific growth rates for aerobic growth in D-xylose"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    381.2,
+    111.4,
+    422.7,
+    124.4
+   ],
+   "ocr": "medium"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.7,
+    678.6,
+    351.2
+   ],
+   "ocr": "Strain D-xylose isomerase D-xylulokinase Specific growth rate, μ(h-1 ± SD)\nYRH561 none none n.d.a\nYRH562 Piromyces sp. E2 S. cerevisiae 0.07 ± 0.002\nYRH563 B. uniformis S. cerevisiae 0.07 ± 0.007\nYRH564 B. distasonis S. cerevisiae 0.06 ± 0.004\nYRH565 B. ovatus S. cerevisiae n.d.\nYRH587 P. ruminicola S. cerevisiae 0.08 ± 0.005\nYRH592 B. uniformis B. uniformis 0.07 ± 0.012\nYRH628 P. ruminicolaopt none 0.06 ± 0.004\nYRH629 P. ruminicolaopt S. cerevisiae 0.07 ± 0.005\nYRH630 Piromyces sp. E2 P. ruminicolaopt 0.07 ± 0.006\nYRH631 P. ruminicolaopt P. ruminicolaopt 0.06 ± 0.005\nYRH1114 P. ruminicolaopt P. ruminicolaopt 0.23 ± 0.024",
+   "table_id": "PMC3673840_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    356.3,
+    255.8,
+    373.5
+   ],
+   "ocr": "Opt Codon-adapted for expression in S. cerevisiae. a"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    77.2,
+    368.3,
+    299.2,
+    378.2
+   ],
+   "ocr": "n.d.: Growth in D-xylose medium was poor or not detected."
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    398.3,
+    366.1,
+    926.2
+   ],
+   "ocr": "co-expression with a D-xylulokinase has been recommend by prior studies to help pull D-xylose into the pathway. As evidence, strains not over expressing D-xylulokinase (YRH628 in Figure 1A) grew slower compared to strains expressing elevated levels of D-xylulokinase. Endogenous XK expression in YRH628 allowed for some growth on D-xylose. Strain YRH587, expressing the XI from Prevotella ruminicola (TC2-24) and ScXKS1 grew as well as strain YRH562 expressing the Piromyces XI and ScXKS1. Spe- cific growth rates for the two strains were also compar- able (Table 1) indicating that the P. ruminicola XI was functional when expressed in S. cerevisiae. Codon optimization of the P. ruminicola XI (YRH629) did not enhance growth relative to YRH587. Additionally, the P. ruminicola D-xylulokinase was substituted for the ScXKS1 gene. YRH631 cells expressing the bacterial XK gene had a similar growth rate as the YRH629 strain ex- pressing the S. cerevisiae XK, indicating that the P. ruminicola XK was also functionally expressed. Strain YRH630, expressing the Piromyces XI gene and the P. ruminicola XK (Figure 1A), grew as well as strain YRH562 expressing the Piromyces XI gene with the S. cerevisiae XK. Cells expressing the B. uniformis XK with the B. uniformis XK reached a higher cell density with the B. uniformis XK compared to the strain expressing the S. cerevisiae XK (YRH592 vs. YRH563). These results dem- onstrate that the B. uniformis and P. ruminicola XKs are active in S. cerevisiae. Next, the strains were evaluated for growth under oxygen-limited conditions using the Bioscreen C™, a mi- crotiter based system for measuring microbial growth rates. Aerobic growth studies were performed using a 6- edged flower shaped microtiter plate in the BioLector® under conditions that were optimized for high oxygen"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    398.3,
+    678.7,
+    926.2
+   ],
+   "ocr": "transfer rate [22]. Round microtiter plates such as those used in the Bioscreen C™ have been shown to provide lower oxygen transfer rates [22], and decreased oxygen levels are a likely cause of the poor cell growth seen when the Bioscreen C™ is used to culture cells on re- spiratory carbon sources like ethanol [23]. All of the strains grew poorly when cultured using the Bioscreen C™. The best strains reached a cell density of less than 0.8 OD660 in 96 hours (Figure 1B). Such poor growth under these conditions suggested that adaptation to an oxygen-limited environment would be beneficial. Adaptation for improved D-xylose fermentation Adaptation, either by serial batch or continuous cell culture, has been successful for improving growth and fermentation of S. cerevisiae strains expressing different D-xylose isomerase genes [6,14] as well as for cells ex- pressing the reductase/dehydrogenase genes for D-xylose metabolism [7]. We used serial passage of cells to select for spontaneous changes that resulted in increased growth under fermentative conditions (microaerobic). YRH631 was grown in YPX and transferred weekly for a total of six transfers. Residual D-xylose and the fermentation prod- ucts ethanol and xylitol were measured for each culture (Figure 2). Steady strain improvement was observed as greater D-xylose utilization and increased production of ethanol (Figure 2). Acetate (not shown) remained constant at 2 g/L. The adapted strain YRH1114 was isolated from the last serial culture and subsequently evaluated for growth in D-xylose medium under aerobic and microaerobic conditions (Figure 3A, B and Table 1). Strains expressing the Piromyces XI (YRH562) and the unadapted strain expressing the P. ruminicola XI (YRH631) were included for comparison. The adapted strain, YRH1114, showed a"
+  }
+ }
+}

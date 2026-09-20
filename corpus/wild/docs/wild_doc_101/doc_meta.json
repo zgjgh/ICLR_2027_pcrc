@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_101",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_111108_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    284.0,
+    580.0,
+    462.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_111108_t0.png",
+   "html": "<table><tr><td>Revenue(INR)</td><td>₹1500M</td><td>NetIncome(INR)</td></tr><tr><td>₹300M</td><td>OperatingProfit(INR)</td><td colspan=\"2\">₹450M</td></tr><tr><td>WaterProcessed(ML)</td><td>2,000</td><td>TreatmentCost(INR)</td><td>₹750M</td></tr><tr><td>Q1FY2025</td><td>₹1400M</td><td>₹280M</td><td>₹420M</td></tr><tr><td>Q2FY2025</td><td>₹1500M</td><td>₹300M</td><td>₹450M</td></tr><tr><td>GrowthRate(%)</td><td>7.14</td><td>ProfitMargin(%)</td><td>20.00</td></tr><tr><td>CAPEX(INR)</td><td>₹200M</td><td>Debt(INR)</td><td>₹1000M</td></tr><tr><td>Assets(INR)</td><td>₹5000M</td><td>Liabilities(INR)</td><td>₹2000M</td></tr></table>"
+  },
+  {
+   "table_id": "img_111274_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    420.0,
+    580.0,
+    537.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_111274_t0.png",
+   "html": "<table><tr><td colspan=\"2\">MemoryRevenue</td><td colspan=\"2\">MarketOverview</td></tr><tr><td colspan=\"2\">DRAMPricing</td><td colspan=\"2\">NANDPricing</td><td colspan=\"2\">TotalMemory</td></tr><tr><td>Amount($M)</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td>Q32023</td><td>Q32022</td><td>Q32023</td></tr><tr><td>500</td><td>10</td><td>75</td><td>300</td><td>-5</td><td>60</td></tr><tr><td>200</td><td>15</td><td>25</td><td>100</td><td>0</td><td>40</td></tr></table>"
+  },
+  {
+   "table_id": "img_111279_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    216.0,
+    580.0,
+    427.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_111279_t0.png",
+   "html": "<table><tr><td>Period</td><td colspan=\"2\">LiquidityRatios</td><td>NetCashFlow(€M)</td><td colspan=\"2\">TotalAssets</td><td>LoantoDepositRatio</td></tr><tr><td>2019</td><td>120%</td><td>1500</td><td>50000</td><td>80%</td><td>2020</td><td>125%</td></tr><tr><td>1300</td><td>52000</td><td>82%</td><td>2021</td><td>130%</td><td>1400</td><td>53000</td></tr><tr><td>85%</td><td>2022</td><td>135%</td><td>1450</td><td>54000</td><td>87%</td><td>2023</td></tr><tr><td>140%</td><td>1600</td><td>55000</td><td>89%</td><td>2024</td><td>145%</td><td>1700</td></tr><tr><td>56000</td><td>90%</td><td>Total</td><td>Average(%)</td><td>Average(€M)</td><td>AverageAssets</td><td>AverageRatio</td></tr><tr><td>100%</td><td>1350</td><td>53000</td><td>78%</td><td>AverageGrowth</td><td>5%</td><td>10%</td></tr><tr><td>15%</td><td>9%</td><td>GrowthRate</td><td>LiquidityPosition</td><td>Positive</td><td>Stable</td><td>Healthy</td></tr></table>"
+  },
+  {
+   "table_id": "img_111502_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    315.0,
+    580.0,
+    415.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_111502_t0.png",
+   "html": "<table><tr><td>Commodity</td><td>PriceSensitivity(%)</td></tr><tr><td colspan=\"2\">FinancialMetrics</td><td>5-YearCAGR</td></tr><tr><td>Revenue(€M)</td><td colspan=\"2\">NetIncome(€M)</td><td>CAPEX(€M)</td></tr><tr><td>Copper</td><td>15.2</td><td>8.5</td><td>1200</td></tr><tr><td>Aluminum</td><td>10.3</td><td>5.7</td><td>800</td></tr></table>"
+  },
+  {
+   "table_id": "img_111548_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    279.0,
+    580.0,
+    442.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_111548_t0.png",
+   "html": "<table><tr><td>Year</td><td colspan=\"2\">Attendance</td><td>Revenue</td><td>AverageTicket</td><td>EventsHeld</td></tr><tr><td>2020</td><td>1,200,000</td><td>¥30,000M</td><td>¥25,000</td><td>150</td><td>2021</td></tr><tr><td>2021</td><td>800,000</td><td>¥20,000M</td><td>¥25,000</td><td>100</td><td>2022</td></tr><tr><td>1,500,000</td><td>¥40,000M</td><td>¥26,667</td><td>175</td><td>Total</td><td>3,500,000</td></tr><tr><td>¥90,000M</td><td>¥25,714</td><td>425</td><td>AverageGrowth</td><td>25%</td><td>30%</td></tr><tr><td>10%</td><td>15%</td><td>50%</td><td>EventType</td><td>Concerts</td><td>Theater</td></tr><tr><td>Festivals</td><td>Sports</td><td>Miscellaneous</td><td>75</td><td>40</td><td>50</td></tr><tr><td>20</td><td>15</td><td>TotalEvents</td><td>200</td><td>175</td><td>TotalAttendance</td></tr></table>"
+  },
+  {
+   "table_id": "img_111623_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    249.0,
+    580.0,
+    506.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_111623_t0.png",
+   "html": "<table><tr><td>PodcastMetrics</td><td colspan=\"2\">AudienceGrowth</td><td colspan=\"3\">RevenueInsights</td><td>MarketOverview</td></tr><tr><td>TotalListeners</td><td>YoYChange(%)</td><td>MarketShare(%)</td><td colspan=\"2\">Revenue($M)</td><td colspan=\"2\">YoYChange(%)</td><td>AdRevenue($M)</td><td>YoYChange(%)</td></tr><tr><td>Asia-Pacific</td><td>2022</td><td>2023</td><td colspan=\"2\">2022</td><td colspan=\"2\">2023</td><td>2022</td><td>2023</td><td colspan=\"3\">TotalRevenue</td><td>YoYChange(%)</td></tr><tr><td>TopGenres</td><td>Listeners(M)</td><td>Revenue($M)</td><td>Podcasts(Count)</td><td>GrowthRate(%)</td><td>Technology</td><td>Business</td><td>Health</td><td>Entertainment</td><td>Total</td><td>2022</td><td>2023</td><td>Change(%)</td></tr><tr><td>150</td><td>20</td><td>35</td><td>75</td><td>30</td><td>20</td><td>60</td><td>10</td><td>30</td><td>15</td><td>25</td><td>5</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_111774_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    420.0,
+    580.0,
+    521.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_111774_t0.png",
+   "html": "<table><tr><td>Year</td><td>Revenue(JPY)</td></tr><tr><td>YoYChange(%)</td><td>MarketShare(%)</td></tr><tr><td>2020</td><td>150B</td></tr><tr><td>2021</td><td>180B</td></tr><tr><td>12.5</td><td>25.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_111842_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    444.0,
+    580.0,
+    561.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_111842_t0.png",
+   "html": "<table><tr><td>Year</td><td colspan=\"2\">LoanOrigination</td><td>AverageLoanSize</td><td colspan=\"2\">DefaultRate</td><td colspan=\"2\">TotalLoans</td></tr><tr><td>2019</td><td>¥150B</td><td>¥500K</td><td>2.5%</td><td>300,000</td><td>2020</td><td>¥200B</td><td>¥550K</td></tr><tr><td>2.8%</td><td>400,000</td><td>2021</td><td>¥250B</td><td>¥600K</td><td>3.0%</td><td>450,000</td><td>2022</td></tr><tr><td>¥300B</td><td>¥650K</td><td>3.2%</td><td>500,000</td><td>2023</td><td>¥350B</td><td>¥700K</td><td>3.5%</td></tr><tr><td>550,000</td><td>2024</td><td>¥400B</td><td>¥750K</td><td>3.7%</td><td>600,000</td><td>Total</td><td>¥1.75T</td></tr></table>"
+  },
+  {
+   "table_id": "img_111903_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    331.0,
+    580.0,
+    437.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_111903_t0.png",
+   "html": "<table><tr><td>EmissionComplianceCost</td><td>RatioIndex</td></tr><tr><td>YearlyChange</td><td>PercentageChange</td></tr><tr><td>£500M</td><td>1.25</td></tr><tr><td>5%</td><td>1.15%</td></tr><tr><td>£300M</td><td>2.00</td></tr></table>"
+  },
+  {
+   "table_id": "img_112066_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    246.0,
+    580.0,
+    499.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_112066_t0.png",
+   "html": "<table><tr><td colspan=\"2\">GrossMarginOverview</td><td colspan=\"2\">ProductLinePerformance</td><td>TotalMargin</td></tr><tr><td>ProductA</td><td>ProductB</td><td>ProductC</td><td>ProductD</td><td>TotalUnitsSold</td></tr><tr><td>150000</td><td>120000</td><td>90000</td><td>60000</td><td>420000</td></tr><tr><td>SalesRevenue</td><td>₩600B</td><td>₩500B</td><td>₩300B</td><td>₩200B</td></tr><tr><td>TotalRevenue</td><td>₩1600B</td><td>GrossMargin</td><td>30%</td><td>25%</td></tr><tr><td>20%</td><td>15%</td><td>TotalMargin</td><td>₩480B</td><td>UnitsReturned</td></tr><tr><td>5000</td><td>4000</td><td>3000</td><td>2000</td><td>TotalReturns</td></tr><tr><td>14000</td><td>NetSales</td><td>₩590B</td><td>NetMargin</td><td>30%</td></tr></table>"
+  }
+ ]
+}

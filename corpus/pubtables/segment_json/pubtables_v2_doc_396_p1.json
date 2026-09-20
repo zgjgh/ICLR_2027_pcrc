@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_396",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Online Adaptation of a c-VEP BCI"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    460.7,
+    396.7,
+    963.6
+   ],
+   "ocr": "Figure 3. Diagram of the c-VEP BCI system with unsupervised parallel to the classification process. Both processes are communicating via doi:10.1371/journal.pone.0051077.g003 sufficient and the data can be used for generating templates for all 32 targets. Detection of error-related potentials. For classification of the ErrPs we basically used the same procedure as we already described in [8] where ErrPs in a P300 BCI were detected: The signal was re-referenced to the common average, linear trends were removed, it was bandpass-filtered between 1 Hz and 16 Hz and subsequently resampled to 32 Hz. For the classification of the ErrP in this study we used the time interval between 300 ms and 990 ms after the selection of a target. This time interval seemed to be best in a not representative one-subject experiment that was performed with the c-VEP BCI prior to the study presented in this paper. The time domain samples of channels Fz,Cz,Cpz,Pz and POz were used for classification. Classification was done with LibSVM [14] using a RBF-Kernel with default parameters (C~1, c~0:0091). Design of the Online Experiment To test the system with unsupervised and ErrP-based adapta- tion, 10 healthy subjects were recruited. All subjects had normal or corrected-to-normal vision. A summary over age, sex and previous BCI experience of the subjects can be found in table 1. The study was approved by the local ethics committee of the Medical Faculty at the University of Tu¨bingen. Written consent was obtained from all subjects. Each subject participated in two sessions. For 4 subjects session 1 and session 2 were performed on different days, since they also participated in another EEG study that was done on two different days. For the other subjects both sessions were performed on the same day with a break of about 10 minutes. During the preparation of the EEG setup subject AJ reported having problems with her contact lenses the previous days. After PLOS ONE | www.plosone.org 4"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    374.3,
+    460.7,
+    700.8,
+    482.1
+   ],
+   "ocr": "adaptation. The process for adaptation of the classifier is running in a loop shared memory."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    511.6,
+    700.7,
+    563.4
+   ],
+   "ocr": "several unsuccessful tries to perform a proper calibration session, subject AJ was excluded from the study. Due to excessive blinking it was not possible for her to follow all cues during the calibration session, which resulted in attending the wrong targets."
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    406.0,
+    600.5,
+    538.3,
+    611.8
+   ],
+   "ocr": "Table 1. Subject overview."
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    405.9,
+    640.8,
+    686.5,
+    839.8
+   ],
+   "ocr": "previous BCI experience\nDays\nSubject Age Sex between c-VEP SSVEP SMR P300\nAA 26 f 1 – – x x\nAB 29 f 3 – – x –\nAC 28 m 1 – – x x\nAD 26 f 0 – – x x\nAE 29 m 0 – – x –\nAF 28 m 1 – – x –\nAG 28 m 0 – – o –\nAH 28 m 0 x – x –\nAI 28 m 0 – – – –\nAJ 28 f – – – – –",
+   "table_id": "PMC3517594_table_0"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    406.0,
+    853.0,
+    700.8,
+    926.1
+   ],
+   "ocr": "Age and sex of the subjects as well as the number of days between session 1 and session 2 and the previous BCI experience of the subject: - subject has no experience with that kind of BCI, x subject has previously used that kind of BCI and was able to control it, o subject has previously used that kind of BCI but was not able to control it. Subject AJ was excluded from the study due to excessive blinking. doi:10.1371/journal.pone.0051077.t001"
+  },
+  "p1_b7": {
+   "type": "header_footer",
+   "bbox": [
+    486.4,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "December 2012 | Volume 7 | Issue 12 | e51077"
+  }
+ }
+}

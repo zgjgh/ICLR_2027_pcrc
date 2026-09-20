@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_109",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    217.9,
+    64.4
+   ],
+   "ocr": "Proteome Science 2009, 7:19"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    480.7,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.proteomesci.com/content/7/1/19"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    215.6,
+    118.9
+   ],
+   "ocr": "Table 3: Differential expression"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    922.4
+   ],
+   "ocr": "takes a two-pass approach to find peaks. If a peak is found in a minimum number of spectra (as determined by the Min Peak Threshold parameter) within a certain mass window, intensities are assigned to spectra without a peak by taking their intensity at the average m/z value of the cluster. In general, this extrapolation will not correspond to a peak in a spectrum. Looking at the peaks with small adjusted p-values as given by the ANOVA (Table 4), the proportion of estimated intensities for a cluster can be as high as ~50%. This is, for example, the case for the 28143Da peak detected on Q10 (Ciphergen C, ovarian cancer dataset). Cromwell does not rely on extrapolated intensities since it locates a local maximum in each pre- processed spectrum. As a consequence, the Ciphergen software assigns different intensities for one and the same m/z value with different peak detection settings, whereas the Cromwell package always assigns the same intensity independent of the peak detection settings. This might explain some of the observed differences. Classification: Ciphergen pre-processed data Classification was done using five different classification methods on both datasets and all configurations. For clar- ity, results for only one specific setting are summarized in Tables 5 and 6, they are however representative for the overall results (see Additional File 6 and Additional File 7). Classification of the Ciphergen pre-processed datasets was better than chance in the majority of cases (Tables 5 and 6, confidence intervals not including 50%). For the ovarian cancer dataset, the best classification result was obtained on the combined CM10/Q10 data using DLDA or SVM with a mean accuracy on 1000 randomly sampled test sets of 77% (CI: 57–93). There is a large difference in average accuracy depending on the model used, with DLDA giving an 8% higher accuracy than classification trees on the CM10/Q10 data. Combining CM10 and Q10 datasets into a CM10/Q10 dataset is beneficial and increases the mean classification accuracy with on average 4% when compared to the maximum of the results on the individual datasets (Table 5). Classification on CM10 data outperforms Q10 data which is in agreement with the lower number of differentially expressed peaks detected for Q10 (Table 3). For the Gaucher dataset, the best clas- sification result was obtained using SVM with a mean accuracy on 500 randomly sampled test sets of 90% (CI: 75–100). Again there is a large difference in average accu- racy between the various models with naive Bayes giving a 17% lower accuracy than SVM. We also varied the training set size to investigate its influ- ence on the accuracy of the classifier. Figure 5 shows the mean accuracy and its 95% CI as a function of the training set size. Here and for all other cases (data not shown), classification accuracy first increased with a larger training set size and then stabilized."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    363.8,
+    493.9
+   ],
+   "ocr": "Ovarian cancer Gaucher\nCM10 Q10 CM10/Q10\nlabel Ciphergen A 43 19 57 57\nCiphergen B 37 15 47 46\nCiphergen C 41 13 50 30\nchip Ciphergen A 6 57 69 8\nCiphergen B 10 35 52 7\nCiphergen C 0 15 16 10\nlabel:chip Ciphergen A 0 0 0 3\nCiphergen B 0 0 0 0\nCiphergen C 0 0 0 0\nlabel Cromwell A 153 17 142 43\nCromwell B 112 12 95 40\nCromwell C 67 8 61 29\nchip Cromwell A 0 0 0 22\nCromwell B 0 0 0 37\nCromwell C 0 0 0 26\nlabel:chip Cromwell A 0 0 0 1\nCromwell B 0 0 0 0\nCromwell C 0 0 0 0",
+   "table_id": "PMC2689848_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    510.2,
+    372.6,
+    922.4
+   ],
+   "ocr": "Number of peaks with an adjusted p-value < 0,2 (ANOVA and correction for multiple testing) for different peak detection settings (A-C for both Ciphergen and Cromwell) for CM10, Q10, and CM10/ Q10 (ovarian cancer dataset) and the Gaucher dataset. An ANOVA was performed for label effect (patient versus control), chip (array) effect and interaction effect label:chip. was almost no interaction effect between patient group and array, we decided to leave this sample in. The ANOVA results in Table 3 seem to indicate that for the ovarian cancer dataset – at least for CM10 and CM10/Q10 – Cromwell detects more differentially expressed peaks. Since the total number of peaks detected by Cromwell and Ciphergen using matched settings is smaller (Table 2), this could have been mainly caused by a different multi- plicity correction. Therefore, the results in terms of unad- justed p-values are given in Figure 4 (see also Additional Files 3, Additional File 4 and Additional File 5 for other chip types and the Gaucher disease dataset). This confirms the observed trend, although differences are small espe- cially in the range of p-values smaller than 0.01. The over- lap between the most differentially expressed peaks detected by either Ciphergen or Cromwell is again large (Table 4). Moreover, the fold changes estimated by either method agree well. A notable difference between the two methods is the way in which the peak intensities are estimated. Ciphergen"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 17 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_134",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    512.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Predicting Infection with Simple Parameters"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    74.4,
+    700.8,
+    446.2
+   ],
+   "ocr": "Total HAI Score = 3[NG tube]+2[Foley]+1[A-line]+1 [CVC]+3[Steroid]+2[Stress-ulcer prophylaxes]+2[Hemodialysis] Where [variable] = 1 if the patient presents with the character and 0 otherwise. The optimal cut points for predicted values were 3, 2 and 1 for Group 1, Group 3 and Group 5 respectively. That is, Score .3 in Group 1 indicates infection. The performances of scoring of Group 1 both for training set (accuracy: 91.26%; sensitivity: 94.12%; specificity: 90.28%) and internal validation (accuracy: 90.67%; sensitivity: 91.60%; specificity: 90.35%) were excellent. Using medical devices as variables only (i.e. Group 3) also displayed comparatively good performances with high accuracy (89.53% in training set and 88.50% in internal validation), the mean values of AUC were 0.95360.010 and 0.95860.013 for training and internal validation sets respectively as seen in LR. Using only three variables of underlying condition and medica- tions (i.e. Group 5) also resulted in good prediction rates in internal validation (accuracy: 83.30%; sensitivity: 73.11%; specificity: 86.84%, AUC: 0.81560.025). In comparison with LR, there is no statistical significant in terms of discrimination in training and internal validation. Comparison of Predictive Performance on External Figure 2. Comparison of The Area Under the Receiver Operating Characteristic Curves (AUCs) in Training Set Validation (N = 927). All variables were included in artificial neural network Out of 2,500 admitted patients at Far Eastern Memorial (ANN) model and 7 variables were included in logistic regression (LR) Hospital, a 1,200-bed academic tertiary teaching center, 1,161"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    442.7,
+    375.8,
+    453.3
+   ],
+   "ocr": "model. The AUCs for ANN and LR are 0.99560.003 and 0.96660.008"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    447.4,
+    700.8,
+    459.7
+   ],
+   "ocr": "(46.6%) were female patients with the mean age of 52.32616.11"
+  },
+  "p4_b4": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    454.3,
+    171.4,
+    464.7
+   ],
+   "ocr": "respectively (p,0.001)."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    461.9,
+    700.8,
+    473.2
+   ],
+   "ocr": "years (range 17 years–80 years). Twenty-night patients (1.2%) who"
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    73.4,
+    465.9,
+    239.8,
+    476.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0023137.g002"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    498.4,
+    399.1,
+    509.8
+   ],
+   "ocr": "Table 5. Comparison of ANN and LR in Training Set, % (N = 927)."
+  },
+  "p4_b8": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    537.1,
+    674.6,
+    786.9
+   ],
+   "ocr": "Models Accuracy Sens. Spec. PPV NPV AUCa p valueb p valuec p valued\nGroup 1\nANN 95.04 97.06 96.52 90.6 99.0 0.99560.003 - -\nLR 91.05 93.7 91.0 78.2 97.7 0.96660.008 ,0.001 -\nGroup 2\nANN 89.97 92.44 89.7 75.6 97.2 0.94960.010 - ,0.001\nLR 89.32 92.44 89.7 75.6 97.2 0.94760.010 0.796 0.005\nGroup 3\nANN 90.51 91.60 87.37 71.5 96.8 0.94860.010 - ,0.001\nLR 90.40 90.34 89.40 74.7 96.4 0.95360.010 0.183 0.054\nGroup 4\nANN 86.62 85.29 85.78 67.4 94.4 0.88460.015 - ,0.001\nLR 86.73 84.45 86.65 68.6 94.2 0.88660.015 0.490 ,0.001\nGroup 5\nANN 85.33 82.35 86.36 67.6 93.4 0.86760.016 - ,0.001\nLR 85.33 82.35 86.36 67.6 93.4 0.86760.016 1.000 ,0.001",
+   "table_id": "PMC3160843_table_4"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    798.2,
+    697.5,
+    926.7
+   ],
+   "ocr": "aMean6SE, bcomparison with same variables set, ccomparison with ANN model, dcomparison with LR model. Group 1: all variables. Group 2: high odds ratio variables (Foley, nasogastric tube and steroids). Group 3: medical devices as variables (Foley, CVC catheter, arterial line and nasogastric tube). Group 4: low odds ratio variables (CVC catheter, arterial line and stress ulcer prophylaxes). Group 5: underlying condition and medications as variables (hemodialysis, stress ulcer prophylaxes and steroids). Abbreviations: ANN = artificial neural network, LR = logistic regression, Sens. = sensitivity, Spec. = specificity, PPV = positive predictive value, NPV = negative predictive value, AUC = area under the receiver operating characteristic curve. doi:10.1371/journal.pone.0023137.t005"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 6 August 2011 | Volume 6 | Issue 8 | e23137"
+  }
+ }
+}

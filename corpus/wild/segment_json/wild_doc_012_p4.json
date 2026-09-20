@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_012",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The relationship between RPTOR methylation and its association with various clinical outcomes is illustrated in the accompanying data table. This analysis focuses on the differential methylation patterns observed in case versus control groups, as indicated by the \"Methylation\" column."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "In particular, the table presents compelling evidence of the varying degrees of methylation in the control (Control Nb) and case (Case Nb) cohorts, with median values reported as 0.28 (IQR: 0.19-0.40) for cases and 0.24 (IQR: 0.15-0.33) for controls."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    545.0
+   ],
+   "ocr": "Gene Combined analysis\nMethylationa Control Nb Case Nb OR (95% CI) p - valuec\nRPTOR median (IQR) 0.28 (0.19-0.40) 0.24 (0.15-0.33) 2.52E-08\n(cg06418238) Q1 (<=0.19) 142 207 2.81 (1.97 -4.01)\nQ2 (0.19-0.28) 113 131 2.26 (1.54 -3.32)\nQ3 (>0.28-0.40) 147 158 2.09 (1.45 -3.02)\nQ4 (>=0.40) 139 72 1.00 (reference)\np for trend <0.001\nMGRN1 median (IQR) 0.48 (0.28-0.67) 0.31 (0.16-0.48) 2.32E-19\n(cg00736299) Q1 (<=0.28) 135 248 5.14 (3.48 -7.60)\nQ2 (0.28-0.48) 134 174 3.71 (2.48 -5.54)\nQ3 (>0.48-0.67) 136 94 1.97 (1.29 -3.00)\nQ4 (>=0.67) 135 49 1.00 (reference)\np for trend <0.001\nRAPSN median(IQR) 0.62 (0.47-0.75) 0.56 (0.44-0.69) 1.01E-04\n(cg27466532) Q1 (<=0.47) 141 193 2.04 (1.45 -2.88)\nQ2 (0.47-0.62) 129 158 1.86 (1.30 -2.66)\nQ3 (>0.62-0.75) 136 127 1.42 (0.98 -2.04)\nQ4 (>=0.75) 135 90 1.00 (reference)\np for trend <0.001",
+   "table_id": "img_011849_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    561,
+    580,
+    588
+   ],
+   "ocr": "The odds ratios (OR) and corresponding 95% confidence intervals (CI) further elucidate the potential associations between RPTOR methylation and the risk of disease, providing valuable insights for ongoing research into its role as a biomarker."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    576,
+    580,
+    650
+   ],
+   "ocr": "The p- values associated with these findings highlight the statistical significance of the observed differences, underscoring the necessity for further exploration of RPTOR methylation patterns in clinical settings. Collectively, these findings contribute to a growing body of literature that seeks to unravel the epigenetic mechanisms underpinning disease susceptibility and progression, thereby informing future therapeutic strategies."
+  }
+ }
+}

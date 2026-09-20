@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_249",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    580.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Hybrid flower pollination algorithm"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.2,
+    727.2,
+    797.9
+   ],
+   "ocr": "begins by initializing population size pollen size, probability pa, and stopping criteria (i.e., max- imum iteration for improvement). Then, the FPA generates and evaluates the pollen size of the pollen population randomly. Here, the fitness value of each pollen is the number of interaction elements that are covered by the pollen. Subsequently, in each generation of the algorithm, the pollen population is subjected to repeated cycles of the FPA search process. In general, one of the two core operations is performed on the population of pollens. The first core part of the algorithm generates a new pollen, xnew = (x1 new, x2 new, . . ., xn−1 new, xn new), using global pollina- tion (i.e., le´vy flight as expressed in Eq 1). Based on the new pollen’s weight, the new pollen is determined whether it is the current pollen. The second core part of the algorithm is the local pollination process. In the local pollination, two test cases are randomly selected from different flowers to generate a new test case as demonstrated by Eq 2. The search process is repeated until the maximum number of improvements is achieved (i.e., in this case, the best test case covers the most interaction elements) or the candidate solu- tion weight is equal to the maximum weight that can be covered. In both cases, the FPA adds the best pollen into the final test suite, and then the covered interactions elements are removed from the interaction list. Subsequently, the interaction elements list is checked. Once all inter- action elements are covered (i.e., the interaction list is empty), the iteration stops. Otherwise, the search process is repeated. 5.1 Parameter tuning of the FPA The behavior of the FPA is largely determined by population size pollen size, switch probability Pa, and iteration number n. Therefore, these parameters may require tuning. To this end, two well-known CAs, CA (N; 2, 46) and CA (N; 2, 105), are used [15,16]. For systematic tuning, we fix the values of two parameters and try different values for the third parameter. For example, the value of pollen sizes and iterations are fixed (i.e., pollen size = 10 and iteration = 30) and various values of Pa (i.e., 0.1, 0.2, 0.3, . . . 0.6) are tested as shown in Table 1 and Fig 4. Then, the reverse process is performed for each parameter as shown in Tables 2 and 3, and Fig 5 respectively. Here, the FPA is executed 20 times for every parameter value, and the average value is taken from the results. Referring to the results shown in Tables 2 and 3, it can be observed that using large value of pollen size may lead to better results, and conversely using too small value may lead to poor results. By increasing the number of pollens up to 30, the performance of the FPA strategy is improved. However, a high pollen value (i.e., equal to 500) does not necessarily yield better results. The best results are obtained when the number of pollen is between 50 and 100. Other- wise, the iteration value increases and the result improves. The best result is obtained when the iteration value varies from 300 to 500. In terms of switch probability (pa), the results show that using a higher pa can lead to better results. However, when pa is between 0.8 and 0.9, the pro- posed strategy obtains good results. Therefore, the FPA generally obtains the optimal test suite when pollen size is between 50 and 100, the repetition is between 300 and 500, and pa is between 0.8 and 0.9. Table 1. Averages test suite for CA(N; 2, 46) and CA(N; 2, 105)."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    805.0,
+    707.4,
+    864.1
+   ],
+   "ocr": "Covering Array Switch Probability (pa)\n0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9\nCA (N; 2, 46) 28.05 28.05 26.95 26.9 26.35 26.35 25.6 25.61 25.75\nCA (N; 2, 105) 160.15 157.1 154.9 152.5 152.55 148.85 147.9 145.15 145.95",
+   "table_id": "PMC5931463_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    872.3,
+    236.2,
+    882.9
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195187 May 2, 2018 9 / 24"
+  }
+ }
+}

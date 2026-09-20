@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_265",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    190.0,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2005, 5:75"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/5/75"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    398.3,
+    130.9
+   ],
+   "ocr": "Table 3: Relative gene expression levels measured by real time kinetic compared to untreated cells."
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    401.2,
+    107.2,
+    662.9,
+    118.9
+   ],
+   "ocr": "PCR in Caco-2 and NHEK cells after NAC treatment as"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    69.6,
+    142.3,
+    697.4,
+    689.1
+   ],
+   "ocr": "Caco-2\nGene Common Genbank 1h 12h 24h 48h\nRT-PCR Affymetrix RT-PCR Affymetrix RT-PCR Affymetrix RT-PCR Affymetrix\nmatrix MMP9 J05070 na nd no change up na up na na\nmetalloproteinase 9*\naldo-keto reductase* AKR1C3 D17793 na nd no change up up (2.8) nd na na\naquaporin 3* AQP3 N74607 no change down up (6.8) up up (5.0) up na na\nplasminogen activator, PLAT M15518 na nd no change nd no change nd na na\ntissue*\nHMG-box HBP1 AF019214 no change nd up (2.6) up up (2.1) nd na na\ntranscription factor 1*\nCox-2* PTGS2 U04636 no change nd no change nd down (2.2) down na na\nv-erb-b2* ERBB3 M34309 na nd up (3.7) up no change nd na na\nproline-rich nuclear PNRC1 U03105 na nd no change up up (2.4) nd na na\nreceptor coactivator\n1*\ninhibitor of ID1 AA457158 down (3.8) down na nd na nd na nd\ndifferentiation*\nE-cadherin** CDH1 Z13009 na nd no change nd up nd no change na\nhsp27** HSPB1 U90906 na nd up nd up nd no change na\np53** TP53 U94788 na nd up nd no change nd no change na\nN-myc downstream NDRG1 D87953 na nd up nd up up up na\nregulated gene 1**\nNHEK\n30 min 3h 12h 24h 48h\nGene Common Genbank RT-PCR Affymetrix 1 h RT-PCR Affymetrix RT-PCR Affymetrix RT-PCR Affymetrix RT-PCR Affymetrix\nmatrix MMP9 J05070 no change nd no change nd na up na up up (11.1) nd\nmetalloproteinase 9*\naldo-keto reductase* AKR1C3 D17793 na nd down (4.0) nd na nd na nd down (5.3) nd\naquaporin 3* AQP3 N74607 no change nd no change nd na nd na up up (2.8) nd\nplasminogen activator, PLAT M15518 no change nd no change nd na nd na down no change nd\ntissue*\nHMG-box HBP1 AF019214 down (6.3) nd down (4.0) nd na up na nd no change nd\ntranscription factor 1*\nCox-2* PTGS2 U04636 down (7.7) nd down (6.3) nd na nd na down down (8.3) nd\nv-erb-b2* ERBB3 M34309 na nd down (2.4) nd na up na nd down (4.5) nd\nproline-rich nuclear PNRC1 U03105 na nd down (5.3) nd na up na nd no change nd\nreceptor coactivator\n1*\ninhibitor of ID1 AA457158 down (8.3) down na nd na nd na nd na nd\ndifferentiation*\nE-cadherin** CDH1 Z13009 na nd na nd no change nd up nd up nd\nhsp27** HSPB1 U90906 na nd na nd up nd up nd up nd\np53** TP53 U94788 na nd na nd no change nd up nd up nd\nN-myc downstream NDRG1 D87953 na nd na nd no change nd no change nd no change nd\nregulated gene 1**",
+   "table_id": "PMC1182358_table_0"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    69.6,
+    705.2,
+    394.5,
+    740.4
+   ],
+   "ocr": "Significant fold change: <0.5 for down regulated and >2.0 for up regulated done on these genes using Assays-on-demand (Applied Biosystems). GAPDH these genes using in house designed primers. Transferrin receptor was used"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    379.4,
+    705.2,
+    695.3,
+    740.4
+   ],
+   "ocr": "genes, respectively. na = not analysed; nd = no data. * Taqman RT-PCR was was used as a reference gene. **SYBR green RT-PCR was done on as a reference gene."
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    780.8,
+    372.6,
+    928.4
+   ],
+   "ocr": "part of initial immediate early events occur at the level of translation and post-translational modifications. The nature of initial regulatory events is also expected to be transient due to feedback inhibition as well as to a restricted number of NAC induced mechanisms. Interestingly, significant transcriptional down-regulation of the inhibitor of differentiation 1 (ID-1) was found at 1 hr in both Caco-2 and NHEK, suggesting a common mecha- nism of NAC induced differentiation and inhibition of"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    780.8,
+    698.4,
+    981.2
+   ],
+   "ocr": "proliferation in NHEK and Caco-2 epithelial cells. Analysis of ID-1 expression levels by real-time quantita- tive PCR confirmed the suppression of the transcript in both cell types (Table 3). ID-1 has been demonstrated to bind helix-loop helix transcription factors, preventing them from binding DNA [12]. In particular, ID-1 has been shown to be required for G1 progression, and its constitu- tive expression inhibited the lineage commitment and dif- ferentiation in B-cells [13,14]. Previous reports have also shown that ID-1 is a negative transcriptional regulator of Page 11 of 19 (page number not for citation purposes)"
+  }
+ }
+}

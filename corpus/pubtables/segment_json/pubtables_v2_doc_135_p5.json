@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_135",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Chen et al. BMC Bioinformatics 2011, 12:311 http://www.biomedcentral.com/1471-2105/12/311"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 11 of 14"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    922.3
+   ],
+   "ocr": "best results. However, the sequence-based SVM also gets comparable results without structure information. Conclusions In this work, we have presented a computational method, sequence-based SVM which combines strengths of machine learning and sequence information, to iden- tify hot spots in protein-protein interfaces. The proper- ties characterizing hot spot residues are various, and are not completely utilized by any one model [48]. Firstly, we analyzed the distributions of some features between hot spots and non-hot spots. We found that hot spots have lower relASA and larger relative change in ASA, suggesting hot spots tend to be protected from bulk sol- vent. With respect to biochemical contacts, hot spots have more contacts including hydrogen bonds, salt bridges, and atomic contacts, which favoring complexes formation. Not only conservation score but also sequence entropy doesn’t differ significantly between hot spots and non-hot spots in Ab+ dataset. When antigen- antibody complexes are removed, there are significant differences in two features between hot pots and non- hot spots (p-value = 10-4 for conservation score and p- value = 1.1 × 10-3 for sequence entropy). The combinations of different features have been explored as input vectors of machine learning method such as SVMs. We have noted that the sequence-based SVM approach exceeds other combinations of different features, with P = 0.69, R = 0.68, F1 = 0.68, and AUC = 0.68 on independent test set. Compared with several machine learning approaches, the sequence-based SVM approach is superior for identifying hot spots with rea- sonably predictive performance. In addition, the pre- sented method is shown to exceed the prediction powers of two energy-based hot spots prediction approaches, for example, the Robetta and FOLDEF methods. Finally, we report two prediction examples: EMP1/EPO receptor complex and beta-catenin/adeno- matous polyposis coli complex. The results indicate that our approach outperforms two energy-based approaches with high performance. The sequence-based SVM method we have outlined here will assist in exploring protein interfaces and is a valuable tool capable of selecting target residues for ala- nine mutation, which is a complement to experimental investigation. This approach can predict hot spots with- out prior structural knowledge of the complex. Encoura- gingly, two previous studies have been reported in predicting hot spots based on sequence information [29,52]. Future progress depends as much on the appli- cation of novel computational approaches for analyzing protein interfaces and expanding the databank of alanine mutation [17]. Although systematic mutagenesis is cur- rently expensive and time-consuming to perform, it is"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    837.7
+   ],
+   "ocr": "complexes), the statistically difference in conservation score between hot spots and non-hot spots is insignifi- cant (p-value = 0.14). However, the difference in conser- vation score between hot spots and non-hot spots is statistically significant (p-value = 10-4) in Ab- dataset (excluding antigen-antibody complexes). When com- bined with other features, they can predict hot spots with better performance. As mentioned above, these fea- tures may be complementary and provide more amount of information. The predictive performance of the model based on evolutionary conservation score feature has been analyzed in Ab+ dataset (F1 = 0.34). Addition- ally, we have analyzed the predictive performance of the conservation score based method in Ab- dataset (F1 = 0.45, the data isn’t listed). This suggests that evolution- ary conservation score is not a good predictor when considering antigen-antibody complexes. As we all know, antibodies are easily mutated and diversified to neutralize various antigens. We have analyzed the propensities of hot spots in antibody-antigen complexes and antibody proteins. In antibody-antigen complexes, hot spots are abundant in W, Y, and Q. While in antibody proteins, hot spots are enriched in I, N, and Q. Because there is a small num- ber of antibody-antigen complexes in alanine scanning databank. These analyses are only based on our collect- ing data set. With the increase of alanine scanning data for antibody-antigen complexes, we may predict the hot spots in antibody-antigen complexes in the future. In order to compare different models on a baseline, we have randomly selected 182 residues as hot spots from 377 interface residues and the rest are labeled as non-hot spots. With 10-fold cross-validation test, we have performed 10 times in whole experiment, and computed the equal value of each evaluation measure. The results are listed in Table 8. The F1 of sequence- based SVM is higher than that of random model (Δ F1 = 0.17) on 10-fold cross-validation test, and the differ- ence is statistically significant (p-value = 0.003). Simi- larly, the F1 of structure-based SVM and all features SVM are also higher than that of random model (Δ F1 = 0.13 and 0.18, p-value = 0.02 and 0.002). These results indicate that three models obtain better predictive per- formance compared with a random model. Among these three models, all features-based SVM achieves the Table 8 Comparisons of different models for hot spots prediction on 10-fold cross-validation test"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    842.7,
+    360.5,
+    915.9
+   ],
+   "ocr": "Method P R F1 ΔF1 P-value\nRandom 0.56 0.47 0.48 – –\nSequence-based SVM 0.65 0.65 0.65 +0.17 0.003\nStructure-based SVM 0.65 0.60 0.61 +0.13 0.02\nAll features SVM 0.66 0.68 0.66 +0.18 0.002",
+   "table_id": "PMC3176265_table_7"
+  }
+ }
+}

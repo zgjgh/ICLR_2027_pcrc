@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_081",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    416.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Jointly learning word embeddings using a corpus and a knowledge base"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    96.7,
+    727.2,
+    715.4
+   ],
+   "ocr": "Results Outline In the “Effectiveness of Joint Learning” section, we first evaluate the benefit of using both a corpus and a KB jointly for learning word embeddings covering a wide range of relation types. Next, in the “Effectiveness of Dynamic Expansion” section, we evaluate the benefit of dynamic expansion. We investigate the effect of the corpus and KB size on the proposed method respec- tively in the “Effect of the Corpus Size” and “Effect of the KB size” sections. Furthermore, we observe the impact of multi-rounds of expansions using NNE and HNE in the “Multi-Rounds of Expansion” section. Finally, in the “Effect of Dimensionality” section, we report the impact of the dimensionality d on the word embeddings learnt. The best performance for each task in each of the upcoming results tables is shown in bold and statistical significance is indicated by asterisk. Effectiveness of joint learning In Table 4, we compare the performance of the corpus only baseline, which does not use a KB for learning word embeddings (corresponds to λ = 0 in Eq 5), against the level of performance we would obtain if we had used both a corpus and a KB. In particular, we study the effect of using 8 different WordNet semantic relations as the default relation type for the KB. We use the XL corpus and learn d = 300 dimensional word embeddings using the SKB method for each relation type. From Table 4, we see that by jointly learning with a KB, we can always outperform the cor- pus only baseline, irrespective of the relation type. This result supports our proposal to use both corpora and KBs jointly for learning word embeddings. Among the relation types, synonymy reports the best performance in RG, MC, SCWS, MEN and SemEval benchmarks, whereas hypernymy reports the best performance in SimLex and effective for answering sem and syn analogy questions in Google dataset. The fact that word similarity benchmarks contain many word pairs that are similar, explains the effectiveness of synonymy. Moreover, part-meronyms, part-meronyms and syonyms are performing well in predicting the semantic similarity between rare words (RW), is important because it shows that by incorporating a semantic lexicon we can learn a better embeddings for words that rarely co-occur even in a large corpora [41]. Effectiveness of dynamic expansion To compare the word embeddings learnt by the proposed method using the two dynamic KB expansion methods NNE and HNE over SKB, we train word embeddings using each method Table 4. Effectiveness of joint learning."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    724.1,
+    712.9,
+    879.4
+   ],
+   "ocr": "Method RG MC RW SCWS MEN SimLex sem syn total SemEval\ncorpus only 0.7545 0.6796 0.2522 0.4829 0.7015 0.3274 58.94 65.46 62.50 38.44\nSynonyms 0.7879 0.7614 0.2674 0.5103 0.7367� 0.3492 59.90 71.02� 65.97� 39.39\nAntonyms 0.7687 0.7018 0.2545 0.4907 0.7142 0.3268 59.54 67.07� 63.65� 39.01\nHypernyms 0.7774 0.7330 0.2536 0.5034 0.7335� 0.3576� 60.15� 71.91� 66.57� 39.22\nHyponyms 0.7720 0.7193 0.2616 0.5040 0.7292� 0.3575 60.05� 70.75� 65.89� 39.03\nMember-holonyms 0.7655 0.6985 0.2536 0.4869 0.7059 0.3310 59.53 65.91 63.01 38.49\nMember-meronyms 0.7613 0.6952 0.2537 0.4867 0.7070 0.3332 58.94 65.68 62.62 38.61\nPart-holonyms 0.7740 0.7144 0.2682 0.4937 0.7220� 0.3298 59.10 67.86� 63.89� 38.96\nPart-meronyms 0.7814 0.7338 0.2714 0.4980 0.7215� 0.3317 59.36 67.65� 63.89� 38.95",
+   "table_id": "PMC5847320_table_3"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    236.3,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0193094.t004"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0193094 March 12, 2018 13 / 26"
+  }
+ }
+}

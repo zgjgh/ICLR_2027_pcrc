@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_170",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4423522_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    143.1,
+    678.6,
+    894.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4423522_table_0.png",
+   "html": "<table><tr><td>Variable</td><td>Non-orphans (n = 223)</td><td>Orphans (n = 183)</td><td>All</td><td>OR/Con. interval</td><td>p-value</td></tr><tr><td>Caregiver</td><td></td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>Mother</td><td>158 (72.0)</td><td>0</td><td>158 (38.9)</td><td>1</td><td></td></tr><tr><td>Father</td><td>4 (1.8)</td><td>7 (3.8)</td><td>11 (2.7)</td><td>0.003 (0.00&#8211;0.03)</td><td></td></tr><tr><td>Grandparents</td><td>30 (13.5)</td><td>92 (50.3)</td><td>122 (30.0)</td><td>0.007 (0.00&#8211;0.01)</td><td></td></tr><tr><td>Foster parent</td><td>4 (1.8)</td><td>8 (4.4)</td><td>12 (3.0)</td><td>0.003 (0.00&#8211;0.03)</td><td></td></tr><tr><td>Other relatives</td><td>28 (12.6)</td><td>75 (41.0)</td><td>103 (25.4)</td><td>0.002 (0.00&#8211;0.01)</td><td></td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td><td>0.001</td></tr><tr><td>Female</td><td>213 (95.5)</td><td>159 (86.9)</td><td>372 (91.6)</td><td>1</td><td></td></tr><tr><td>Male</td><td>10 (4.5)</td><td>24 (13.1)</td><td>34 (8.4)</td><td>3.21 (1.49&#8211;6.91)</td><td></td></tr><tr><td>Age category (n = 404)</td><td></td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>&#8804;40 years</td><td>142 (64.3)</td><td>56 (30.6)</td><td>198 (49.0)</td><td>1</td><td></td></tr><tr><td>&gt;40 years</td><td>79 (35.6)</td><td>127 (69.4)</td><td>206 (51.0)</td><td>4.07 (2.68&#8211;6.19)</td><td></td></tr><tr><td colspan=\"6\">Mean age 44.2 (range 17&#8211;89 years)</td></tr><tr><td>Marital status</td><td></td><td></td><td></td><td></td><td>0.035</td></tr><tr><td>Never married</td><td>125 (56.1)</td><td>78 (42.6)</td><td>203 (50.0)</td><td>1</td><td></td></tr><tr><td>Married</td><td>66 (29.6)</td><td>71 (38.8)</td><td>137 (33.7)</td><td>1.72 (1.11&#8211;2.67)</td><td></td></tr><tr><td>Divorced</td><td>9 (4.0)</td><td>10 (5.5)</td><td>19 (4.7)</td><td>1.78 (0.69&#8211;4.57)</td><td></td></tr><tr><td>Widowed</td><td>14 (6.3)</td><td>20 (10.9)</td><td>34 (8.4)</td><td>2.28 (1.09&#8211;4.79)</td><td></td></tr><tr><td>Living with partner</td><td>9 (4.0)</td><td>4 (2.2)</td><td>13 (3.2)</td><td>0.71 (0.21&#8211;2.39)</td><td></td></tr><tr><td colspan=\"2\">Employment status</td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>Employed</td><td>1 (0.5)</td><td>0.0</td><td>1 (0.2)</td><td>1</td><td></td></tr><tr><td>Part-time employment</td><td>34 (15.3)</td><td>24 (13.1)</td><td>58 (14.3)</td><td>1.74 (5.33&#8211;5.65)</td><td></td></tr><tr><td>Self-employed</td><td>8 (3.6)</td><td>6 (3.3)</td><td>14 (3.4)</td><td>1.63</td><td></td></tr><tr><td>Unemployed</td><td>169 (75.8)</td><td>111 (60.7)</td><td>280(69.0)</td><td>1.87 (6.30&#8211;5.52)</td><td></td></tr><tr><td>Pensioner</td><td>11 (4.9)</td><td>42 (23.0)</td><td>53 (13.1)</td><td>3.21 (9.20&#8211;1.12)</td><td></td></tr><tr><td colspan=\"6\">Educational status</td></tr><tr><td>None</td><td>23 (10.3)</td><td>37 (20.2)</td><td>60 (14.8)</td><td>1</td><td>0.000</td></tr><tr><td>Primary</td><td>35 (15.7)</td><td>63 (34.4)</td><td>98 (24.1)</td><td>1.11 (0.57&#8211;2.17)</td><td></td></tr><tr><td>Secondary</td><td>107 (48.0)</td><td>56 (30.6)</td><td>163 (40.2)</td><td>0.32 (0.17&#8211;0.60)</td><td></td></tr><tr><td>Completed 12th grade</td><td>47 (21.1)</td><td>22 (12.0)</td><td>69 (17.0)</td><td>0.29 (0.14&#8211;0.60)</td><td></td></tr><tr><td>Tertiary</td><td>11 (4.9)</td><td>5 (2.7)</td><td>16 (3.9)</td><td>0.28 (0.08&#8211;0.91)</td><td></td></tr><tr><td>Income (n = 399)</td><td></td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>Child support grant</td><td>171 (78.1)</td><td>111 (61.8)</td><td>282 (70.9)</td><td>1</td><td></td></tr><tr><td>Old age pension grant</td><td>23 (10.5)</td><td>55 (30.6)</td><td>78 (19.2)</td><td>3.68 (2.14&#8211;6.33)</td><td></td></tr><tr><td>Other sources</td><td>25 (11.4)</td><td>14 (7.9)</td><td>39 (9.8)</td><td>0.86 (0.42&#8211;1.73)</td><td></td></tr><tr><td colspan=\"2\">Previously tested for HIV</td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>No</td><td>11 (4.9)</td><td>27 (14.8)</td><td>38 (9.4)</td><td>1</td><td></td></tr><tr><td>Yes</td><td>212 (95.1)</td><td>156 (85.3)</td><td>368 (90.6)</td><td>3.33 (1.60&#8211;6.92)</td><td></td></tr><tr><td>Results of HIV testing</td><td></td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>Negative</td><td>46 (20.6)</td><td>128 (70.0)</td><td>174 (42.9)</td><td></td><td></td></tr><tr><td>Positive</td><td>166 (74.4)</td><td>28 (15.3)</td><td>194 (47.8)</td><td>16.4 (9.77&#8211;27.8)</td><td></td></tr><tr><td>Unknown</td><td>11 (4.9)</td><td>27 (14.8)</td><td>38 (9.3)</td><td>1.13 (0.52&#8211;2.46)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4423522_table_1",
+   "page_num": 2,
+   "bbox": [
+    383.9,
+    552.9,
+    678.6,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4423522_table_1.png",
+   "html": "<table><tr><td>Variables</td><td>Number</td><td>Percent</td></tr><tr><td colspan=\"3\">Orphan status</td></tr><tr><td>Maternal</td><td>183</td><td>45.1</td></tr><tr><td>Paternal</td><td>128</td><td>31.5</td></tr><tr><td>Double (n = 183) *</td><td>73</td><td>39.9</td></tr><tr><td colspan=\"3\">Father sees child</td></tr><tr><td>No</td><td>255</td><td>63.0</td></tr><tr><td>Yes</td><td>150</td><td>37.0</td></tr><tr><td colspan=\"3\">Know maternal cause of death</td></tr><tr><td>Yes</td><td>156</td><td>86.2</td></tr><tr><td>No</td><td>25</td><td>13.8</td></tr><tr><td colspan=\"3\">Cause of maternal death</td></tr><tr><td>AIDS-related</td><td>141</td><td>91.0</td></tr><tr><td>Other causes</td><td>14</td><td>9.0</td></tr><tr><td colspan=\"3\">Know paternal cause of death</td></tr><tr><td>Yes</td><td>93</td><td>73.2</td></tr><tr><td>No</td><td>34</td><td>26.8</td></tr><tr><td colspan=\"3\">Cause of paternal death</td></tr><tr><td>AIDS-related</td><td>78</td><td>83.9</td></tr><tr><td>Other causes</td><td>15</td><td>16.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4423522_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    143.1,
+    678.6,
+    647.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4423522_table_2.png",
+   "html": "<table><tr><td>Variable</td><td>Non-orphans (n = 223)</td><td>Orphans (n = 183)</td><td>All</td><td>p-value</td></tr><tr><td>Age group</td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>5&#8211;9 years</td><td>132 (59.2)</td><td>66 (36.1)</td><td>198 (48.8)</td><td></td></tr><tr><td>10&#8211;17 years</td><td>91 (40.8)</td><td>117 (63.1)</td><td>208 (51.2)</td><td></td></tr><tr><td colspan=\"5\">Mean age 9.6 years (range 5&#8211;17 years)</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td>0.386</td></tr><tr><td>Girl</td><td>112 (50.2)</td><td>84 (45.9)</td><td>196 (48.3)</td><td></td></tr><tr><td>Boy</td><td>111 (49.8)</td><td>99 (54.1)</td><td>210 (51.7)</td><td></td></tr><tr><td>Attending school</td><td></td><td></td><td></td><td>0.687</td></tr><tr><td>No</td><td>9 (4.0)</td><td>6 (3.3)</td><td>15 (3.7)</td><td></td></tr><tr><td>Yes</td><td>214 (96.0)</td><td>177 (96.7)</td><td>391 (96.3)</td><td></td></tr><tr><td colspan=\"2\">Age at HIV diagnosis</td><td></td><td></td><td>0.027</td></tr><tr><td>0&#8211;5 years</td><td>125 (57.3)</td><td>85 (48.6)</td><td>210 (53.4)</td><td></td></tr><tr><td>6&#8211;10 years</td><td>77 (35.3)</td><td>63 (36.0)</td><td>140 (35.6)</td><td></td></tr><tr><td>11&#8211;16 years</td><td>16 (7.3)</td><td>27 (15.4)</td><td>43 (10.9)</td><td></td></tr><tr><td colspan=\"5\">Mean age 4.8 years</td></tr><tr><td colspan=\"5\">Missing values = 13</td></tr><tr><td colspan=\"2\">Age at ART initiation</td><td></td><td></td><td>0.023</td></tr><tr><td>0&#8211;5 years</td><td>111 (51.4)</td><td>73 (41.7)</td><td>184 (47.1)</td><td></td></tr><tr><td>6&#8211;10 years</td><td>88 (40.7)</td><td>74 (42.3)</td><td>162 (41.4)</td><td></td></tr><tr><td>11&#8211;16 years</td><td>17 (7.9)</td><td>28 (16.0)</td><td>45 (11.5)</td><td></td></tr><tr><td colspan=\"5\">Mean age 5.6 years</td></tr><tr><td colspan=\"5\">Missing values = 15</td></tr><tr><td colspan=\"2\">Period receiving ART</td><td></td><td></td><td>0.146</td></tr><tr><td>0&#8211;5 years</td><td>166 (76.2)</td><td>122 (68.9)</td><td>288 (72.9)</td><td></td></tr><tr><td>6&#8211;10 years</td><td>48 (22.0)</td><td>47 (26.6)</td><td>95 (24.1)</td><td></td></tr><tr><td>11&#8211;16 years</td><td>4 (1.8)</td><td>8 (4.5)</td><td>12 (3.0)</td><td></td></tr><tr><td colspan=\"5\">Mean time 4.0 years</td></tr><tr><td colspan=\"2\">Missing values = 11</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4423522_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    129.2,
+    666.9,
+    263.1
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4423522_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Orphanhood Child age</td><td rowspan=\"2\">Odds ratio 2.57</td><td rowspan=\"2\">Std. err. .528</td><td rowspan=\"2\">z 4.59</td><td rowspan=\"2\">P &gt; z 0.000</td><td colspan=\"2\">[95% Conf. interval]</td></tr><tr><td>1.71</td><td>3.84</td></tr><tr><td>Hospitalization</td><td>0.82</td><td>.164</td><td>&#8722;0.99</td><td>0.322</td><td>0.55</td><td>1.21</td></tr><tr><td>Diagnosis age</td><td>2.48</td><td>.857</td><td>2.63</td><td>0.009</td><td>1.26</td><td>4.88</td></tr><tr><td>WHO clinical staging</td><td>1.14</td><td>.304</td><td>0.52</td><td>0.602</td><td>0.68</td><td>1.93</td></tr><tr><td>ART start age</td><td>2.50</td><td>.857</td><td>2.68</td><td>0.007</td><td>1.28</td><td>4.89</td></tr><tr><td>Time on ART</td><td>2.72</td><td>1.697</td><td>1.60</td><td>0.109</td><td>0.80</td><td>9.24</td></tr><tr><td>Multiple infection</td><td>0.53</td><td>.144</td><td>&#8722;2.30</td><td>0.021</td><td>0.31</td><td>0.91</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4423522_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    580.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4423522_table_4.png",
+   "html": "<table><tr><td>Variable</td><td>Non-orphans (n = 223)</td><td>Orphans (n = 183)</td><td>All</td><td>p-value</td></tr><tr><td>Reasons for HIV testing</td><td></td><td></td><td></td><td>0.000</td></tr><tr><td>Child was ill</td><td>188 (84.7)</td><td>131 (71.6)</td><td>319 (78.8)</td><td></td></tr><tr><td>Illness of parents</td><td>20 (9.0)</td><td>19 (10.4)</td><td>39 (9.6)</td><td></td></tr><tr><td>Death of mother</td><td>0 (0.0)</td><td>23 (12.6)</td><td>23 (5.7)</td><td></td></tr><tr><td>Other</td><td>14 (6.3)</td><td>10 (5.5)</td><td>24 (5.9)</td><td></td></tr><tr><td colspan=\"5\">Missing value = 1</td></tr><tr><td>Number of presenting infections</td><td></td><td></td><td></td><td>0.115</td></tr><tr><td>Single infection</td><td>59 (49.9)</td><td>60 (50.4)</td><td>119 (30.3)</td><td></td></tr><tr><td>Combination of 2 infections</td><td>48 (52.8)</td><td>43 (47.3)</td><td>91 (23.1)</td><td></td></tr><tr><td>Combination of 3 infections</td><td>37 (52.9)</td><td>33 (47.1)</td><td>70 (17.8)</td><td></td></tr><tr><td>Combination of 4 or more infections</td><td>73 (64.6)</td><td>40 (35.4)</td><td>113 (28.8)</td><td></td></tr><tr><td colspan=\"5\">Missing value = 13</td></tr><tr><td colspan=\"2\">Hospitalization prior ART initiation</td><td></td><td></td><td>0.322</td></tr><tr><td>No</td><td>96 (47.8)</td><td>105 (52.2)</td><td>201 (49.8)</td><td></td></tr><tr><td>Yes</td><td>87 (42.9)</td><td>116 (57.1)</td><td>203 (50.2)</td><td></td></tr><tr><td colspan=\"5\">Missing value = 2</td></tr><tr><td colspan=\"2\">Number of admissions prior ART (n = 204)</td><td></td><td></td><td>0.727</td></tr><tr><td>Single admission</td><td>52 (45.2)</td><td>63 (54.9)</td><td>115 (57.8)</td><td></td></tr><tr><td>Two admission</td><td>16 (38.1)</td><td>26 (61.9)</td><td>42 (21.1)</td><td></td></tr><tr><td>Multiple admissions</td><td>19 (42.7)</td><td>27 (57.1)</td><td>46 (22.7)</td><td></td></tr><tr><td>WHO clinical stage at ART initiation (n = 203)</td><td></td><td></td><td></td><td>0.602</td></tr><tr><td>Stage 1 &#8211; Asymptomatic</td><td>28 (53.9)</td><td>24 (46.2)</td><td>52 (21.7)</td><td></td></tr><tr><td>Stage 2 &#8211; Mild</td><td>55 (60.4)</td><td>36 (39.6)</td><td>91 (37.9)</td><td></td></tr><tr><td>Stage 3 &#8211; Advanced</td><td>50 (55.6)</td><td>40 (44.4)</td><td>90 (37.5)</td><td></td></tr><tr><td>Stage 4 &#8211; Severe</td><td>3 (42.9)</td><td>4 (57.1)</td><td>7 (2.9)</td><td></td></tr></table>"
+  }
+ ]
+}

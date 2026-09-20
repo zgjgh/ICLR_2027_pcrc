@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_408",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    492.4,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Automated Delineation and Texture Correlations"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.1,
+    700.8,
+    688.4
+   ],
+   "ocr": "In this work, we have not discussed the incorporation of anatomical information into the PET functional domain, but rather presented the broad analysis of morphological character- ization, both in shape and in spatial space. As an extension of this study, we aim to adapt our feature extraction method to a subject and modality specific framework, where feature extraction methods optimally find the subject specific functional and anatomical information from abnormal regions (i.e., from CT or MRI scans) and corresponding uptake regions (i.e., from PET scans) simultaneously. Conclusions We presented a framework where we automatically segmented radiotracer uptake regions in high accuracy. Our findings show that extracted shape and texture features, as well as SUV measurements from segmented regions, provide broad analysis of morphological characterization of functional information. Our approach produced a unique estimation of morphological features that can be used alone or together with SUV measurements to predict longitudinal changes in volume and shape of uptake regions. We concluded from our experimental results that some of the textural features such as entropy, maximum probability and contrast shading information of local spatial regions, short run emphasis, and variability of these features over different local windows potentially carry the most valuable, and their predict- ability of morphological change in uptake regions’ shape and volume were reported as superior to single intensity based measurements. Integrating the extracted features with SUV measurements may improve our ability to understand the morphological changes of uptake regions over time. We also highlighted how the accurate segmentation expanded our understanding of shape information—extracted from uptake regions—and how well it agreed with the results of landmark studies [5,15]. Supporting Information Appendix S1 (DOCX) Author Contributions Critically revised the manuscript: XC DJM JY. Conceived and designed the experiments: UB DJM. Performed the experiments: UB KMJ XC. Analyzed the data: JY DJM UB. Contributed reagents/materials/analysis tools: XC UB. Wrote the paper: UB KMJ DJM."
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    375.8,
+    106.0
+   ],
+   "ocr": "Table 5. Shapiro-Wilk normality test for the selected feature is given."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    135.1,
+    307.2,
+    225.7
+   ],
+   "ocr": "Feature Test Statistic (W) p-value\nSUVmax 0.86 2.0e-7\nCShade.SD 0.90 0.0002\nEntropy* 0.98 0.10\nMax.PR* 0.98 0.38\nSRE 0.89 2.0e-5",
+   "table_id": "PMC3576352_table_4"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    238.9,
+    375.8,
+    927.1
+   ],
+   "ocr": "Entropy and Max.PR follows normality assumption but with different variances (see F-test results in the text). *indicates accepted null-hypothesis. doi:10.1371/journal.pone.0057105.t005 Most of the automated abnormal radiotracer uptake delineation methods—in the tissues—have relied exclusively on thresholding an absolute PET intensity value. Both inconsistency in radiotracer uptake among patients and variability of radiotracer uptake in normal and abnormal tissue, within individual patients, influence the performance of these automated methods. Furthermore, these thresholding methods also disregard the ‘‘texture’’ information obtainable on PET images. One important aspect of our work is that all of the segmentation, feature extraction, and statistical inference methods were based purely on functional PET images. We used this as a hard constraint to maximize the extracted information, and to use this information as a base for the possible incorporation of different information. Another strong aspect of our feature extraction method is to use adaptive (in discrete sense) window size. A very similar approach for data exploration was recently published by Reshef et al [37]; however, there is also a limitation in this strong adaptive feature extraction method that we proposed here, and similarly in the study of Reshef et al [37]. That is, there is no guaranteed optimal window size for feature selection procedure due to resolution limitation and discreet (and therefore fuzzy) nature of the images—since we are only able to give near-optimal solution for window size selection. This is important due to extracting statistically accurate features from uptake regions, and also because of the finding that variability among local windows often carries more valuable information than the extracted feature themselves. This issue is totally new and subject to further investigations under different conditions; for example, different imaging modalities (i.e., MRI and CT) and a variation of SUV measurements. References 1. Catana C, Procissi D, Wu Y, Judenhofer MS, Qi J, et al. (2008) Simultaneous in vivo positron emission tomography and magnetic resonance imaging. Proc Natl Acad Sci U S A 105: 3705–3710. 2. Hatt M, Cheze-le Rest C, van Baardwijk A, Lambin P, Pradier O, et al. (2011) Impact of tumor size and tracer uptake heterogeneity in (18)F-FDG PET and CT non-small cell lung cancer tumor delineation. J Nucl Med 52: 1690–1697. 3. Tixier F, Le Rest CC, Hatt M, Albarghach N, Pradier O, et al. (2011) Intratumor heterogeneity characterized by textural features on baseline 18F- FDG PET images predicts response to concomitant radiochemotherapy in esophageal cancer. J Nucl Med 52: 369–378. 4. El Naqa I, Grigsby P, Apte A, Kidd E, Donnelly E, et al. (2009) Exploring feature-based approaches in PET images for predicting cancer treatment outcomes. Pattern Recognit 42: 1162–1171. 5. O’Sullivan F, Roy S, Eary J (2003) A statistical measure of tissue heterogeneity with application to 3D PET sarcoma data. Biostatistics 4: 433–448. 6. Hatt M, Cheze le Rest C, Turzo A, Roux C, Visvikis D (2009) A fuzzy locally adaptive Bayesian segmentation approach for volume determination in PET. IEEE Trans Med Imaging 28: 881–893."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    743.3,
+    700.8,
+    908.1
+   ],
+   "ocr": "7. Montgomery DW, Amira A, Zaidi H (2007) Fully automated segmentation of oncological PET volumes using a combined multiscale and statistical model. Med Phys 34: 722–736. 8. Erdi YE, Mawlawi O, Larson SM, Imbriaco M, Yeung H, et al. (1997) Segmentation of lung lesion volume by adaptive positron emission tomography image thresholding. Cancer 80: 2505–2509. 9. Day E, Betler J, Parda D, Reitz B, Kirichenko A, et al. (2009) A region growing method for tumor volume segmentation on PET images for rectal and anal cancer patients. Med Phys 36: 4349–4358. 10. Jentzen W, Freudenberg L, Eising EG, Heinze M, Brandau W, et al. (2007) Segmentation of PET volumes by iterative image thresholding. J Nucl Med 48: 108–114. 11. Shankar LK, Hoffman JM, Bacharach S, Graham MM, Karp J, et al. (2006) Consensus recommendations for the use of F-18-FDG PET as an indicator of therapeutic response in patients in national cancer institute trials. Journal of Nuclear Medicine 47: 1059–1066."
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    392.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org 13"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    497.9,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "February 2013 | Volume 8 | Issue 2 | e57105"
+  }
+ }
+}

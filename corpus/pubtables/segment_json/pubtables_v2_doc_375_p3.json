@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_375",
+  "page": 3,
+  "page_size": [
+   758,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "caption",
+   "bbox": [
+    64.1,
+    55.0,
+    380.0,
+    104.2
+   ],
+   "ocr": "4 Table 3: Genes with a contribution higher than 0.1% to"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    382.6,
+    55.0,
+    693.0,
+    104.2
+   ],
+   "ocr": "Autoimmune Diseases the found clusters of the studied autoimmune diseases."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    66.5,
+    116.3,
+    690.1,
+    552.1
+   ],
+   "ocr": "Cluster 1. SLE-SS Cluster 2. T1D-AITD Cluster 4. RA-MS\nGene % Gene % Gene %\nTRIM21 27.91 TPO 32.4 TNF 39.5\nTNFSF13B 27.46 CTLA4 28.6 HLA-DRB1 20.7\nTROVE2 19.8 TNFRSF25 6.7 IL10 5.2\nSSB 6.6 HLA-DRB1 6.7 IL6 2.2\nFAS 2.7 PTPN22 6.4 CCL2 0.6\nDLAT 2.6 GAD1 4.6 CD4 0.6\nIRF5 1.0 GAD2 3.6 MMP9 0.6\nIL10 0.9 AIRE 1.7 IL1B 0.5\nFASLG 0.8 PTPRN 1.5 IL4 0.5\nTNFRSF25 0.6 HLA-DQB1 0.5 TNFSF13B 0.5\nCR1 0.5 IDDM2 0.5 IL23A 0.4\nCALR 0.5 SUMO4 0.5 CCR2 0.4\nSPTAN1 0.4 ICA1 0.4 IL1RN 0.4\nRNPC3 0.4 FOXP3 0.3 CCL5 0.3\nCR2 0.2 FCRL3 0.2 ICAM1 0.3\nSNRNP70 0.2 CD4 0.2 CXCR3 0.3\nSERPIND1 0.2 FASLG 0.2 HLA-DQB1 0.3\nC1QA 0.2 CXCL10 0.2 VCAM1 0.2\nIL18 0.2 CD8A 0.2 CTLA4 0.2\nIL6 0.2 IL1B 0.2 PADI4 0.2\nTSHR 0.2 IFNB1 0.2\nCRP 0.2\nCCR5 0.2\nIL12B 0.2",
+   "table_id": "PMC3303588_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    64.1,
+    557.5,
+    387.4,
+    580.2
+   ],
+   "ocr": "SLE: systemic lupus erithematosus, SS: Sj¨ogren’s syndrome, T1D: type 1 diabetes, sclerosis, %: percentage of contribution to the cluster."
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    389.6,
+    557.6,
+    693.0,
+    568.2
+   ],
+   "ocr": "AITD: autoimmune thyroid disease, RA: rheumatoid arthritis, MS: multiple"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    64.1,
+    607.6,
+    367.4,
+    794.9
+   ],
+   "ocr": "“lupus erythematosus, systemic,” “scleroderma, systemic” and “Sj¨ogren’s syndrome.” In the case of thyroid disease, the term “thyroid” was used. The information from PubMed was excluded when the retrieved information did not explicitly refer to the speciﬁc gene, for instance when CD4 referred to a type of cell (i.e., lymphocyte) but not to the gene. 3. Results There were three paired clusters with a probability equal to or less than 3 percent that their cohesion score would be found in a random group of the same size: SLE with SS (P 0.02), T1D with AITD (P 0.02), and RA with MS"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    389.7,
+    607.6,
+    693.1,
+    936.8
+   ],
+   "ocr": "as TRIM21 and TROVE2 in the cluster made up of SLE and SS, TPO in the cluster made up of T1D and AITD, and TNF in the cluster made up of RA and MS (Table 3). Concerning to the network analysis, we used as input the previously mentioned 55 genes. 29 of these 55 entries were identiﬁed and described on the graph (Figure 3). Some genes such as IL6 and HLA-DRB1 did not appear in the network. This could have been because of the strict threshold, a maximum pathway length of two, established to avoid weak interactions or because they did not have protein- protein interactions already reported in the used database. For instance, some genes relating to antigen presentation such as HLA-DRB1 may be absent in protein interaction networks. The network had 20 intermediary nodes, 19 signif- icant with a Z score above the cutoﬀ of 2.5 (Table 4), thus indicating that they may be speciﬁc to interact with components from the inputted seed list of genes. In other words, those results indicated that the seed genes encode proteins that had strong and speciﬁc interactions. In the graph, it can also be seen that the genes common to more than one cluster belonged to the same connected network (Figure 3). There were two subnetworks of genes that had"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    81.5,
+    781.3,
+    242.1,
+    802.2
+   ],
+   "ocr": "= ="
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    64.1,
+    795.6,
+    367.4,
+    809.2
+   ],
+   "ocr": "(P 0.03) (Figure 2). Regarding the genes that contributed"
+  },
+  "p3_b9": {
+   "type": "title",
+   "bbox": [
+    80.4,
+    795.7,
+    89.3,
+    816.6
+   ],
+   "ocr": "="
+  },
+  "p3_b10": {
+   "type": "paragraph",
+   "bbox": [
+    64.1,
+    810.0,
+    367.4,
+    938.1
+   ],
+   "ocr": "to building the clusters, 55 of them had a contribution higher than 0.1% to the cohesion score of any of those clusters. Some of them were shared by more than one cluster: HLA- DQB1, CD4, TNFSF25, FASLG, IL1B, IL6, IL10, TNFSF13B, CTLA4 and HLA-DRB1. The later three had a contribution higher than 20% to any of the three speciﬁc clusters. The other genes contributed to only one cluster. It should be mentioned that there were also speciﬁc genes for one cluster that had a contribution of around 20% to their clusters, such"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_038",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "Understanding the distribution of blood pressure levels across various populations is crucial for assessing cardiovascular health and informing public health strategies. The data presented in the table offers a comparative analysis of systolic and diastolic blood pressure measurements among different geographic categories, including Bear River, Green River, and Polecat Creek. Notably, the metrics for systolic blood pressure (mm Hg) and diastolic blood pressure (mm Hg) reveal significant variations across these regions, which may be influenced by environmental, lifestyle, and genetic factors unique to each population."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    217
+   ],
+   "ocr": "For instance, the Bear River category exhibits a notably low incidence of individuals with systolic readings below the normal threshold of 120 mm Hg, highlighting potential health risks associated with elevated blood pressure levels in this area. Conversely, the Green River and Polecat Creek populations show differing patterns that warrant further investigation. Understanding these disparities not only aids in developing targeted interventions for hypertension management but also emphasizes the importance of localized health assessments. This data underscores the necessity for continuous monitoring and tailored public health initiatives to address the specific needs of each community."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    381.0
+   ],
+   "ocr": "Category Systolic blood pressure (mm Hg) Diastolic blood pressure (mm Hg)\nNormal blood presssurea <120 And <80\nPrehypertension Stage 1 120–129 Or 80–84\nStage 2 130–139 Or 85–89\nHypertension Stage 1 140–159 Or 90–99\nStage 2 ≥160 Or ≥100\nIsolated systolic hypertension ≥140 And <90",
+   "table_id": "img_042390_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    396.0,
+    580.0,
+    539.0
+   ],
+   "ocr": "Population Bear River Bear River F1 Green River Green River F1 Polecat Creek Polecat Creek F1\nBear River – <0.001 <0.001 <0.001 <0.001 <0.001\nBear River F1 <0.001 – <0.001 0.354 0.002 0.055\nGreen River <0.001 <.0001 – <0.001 <0.001 <0.001\nGreen River F1 <0.001 0.354 <0.001 – <0.001 0.009\nPolecat Creek <0.001 0.002 <0.001 <0.001 – 0.248\nPolecat Creek F1 <0.001 0.055 <0.001 0.009 0.248 –",
+   "table_id": "img_042390_t1"
+  }
+ }
+}

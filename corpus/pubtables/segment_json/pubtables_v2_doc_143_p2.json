@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_143",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    279.8,
+    65.8
+   ],
+   "ocr": "Shokouhi et al. BMC Medical Imaging 2011, 11:23 http://www.biomedcentral.com/1471-2342/11/23"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 16"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    380.3,
+    124.0
+   ],
+   "ocr": "Table 2 The scanners specifications and imaging parameters"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    384.1,
+    111.0,
+    473.1,
+    124.0
+   ],
+   "ocr": "for the 3 T group"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    671.8,
+    289.9
+   ],
+   "ocr": "Centre D E F G H\nMR scanner GE 3 T HD GE 3 T HDx Siemens 3 T Tim Trio Siemens 3 T Tim Trio Philips 3 T Intera-Achieva\nHead coil 8-channel 8-channel 8-channel 12-channel 8-channel\nAcceleration factor No ASSET factor 2 No No SENSE factor 2\nTR (ms) 6.5 7.0 9.0 9.4 8.2\nTE (ms) 1.50 2.85 2.98 4.66 3.80\nTI (ms) 500 650 900 900 885\nFlip angle (°) 12 8 9 8 8\nImage size (voxels) 260 × 260 × 160 260 × 260 × 160 256 × 256 × 160 256 × 256 × 160 256 × 256 × 160\nVoxel size (mm3) 1.1 × 1.1 × 1 1.1 × 1 × 1 1 × 1 × 1 1 × 1 × 1 1 × 1 × 1",
+   "table_id": "PMC3315423_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    297.0,
+    391.4,
+    489.0
+   ],
+   "ocr": "TR, TE, and TI represent Repetition Time, Echo Time, and Inversion Time, respectively. union) was found (Figure 1e) and then skeletonised (Fig- ure 1f). The skeleton points connected to the outside representing the brain hull were then removed. Figure 1g shows the remaining points of the skeleton on the T1 image. Afterwards the skeleton was divided into sim- ple surfaces, i.e. pieces of surfaces that do not contain any junctions. Each simple surface represents a cortical fold. Each simple surface was then split further to repre- sent situations where a gyrus has been buried in the bottom of the fold. The folds and their mutual relation- ships were finally gathered in a graph [34]. Figure 1h"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    324.6,
+    678.6,
+    489.0
+   ],
+   "ocr": "shows a schematic explanation of the possible relation- ships between the related folds and how this informa- tion is summarized in the graph. Three kinds of relations exist: topological junction (rT), split induced by a buried gyrus, called a “pli de passage”, (rP), and neighbour geodesic to the brain hull (rC). Each node of the graph (fold) is specified by certain attributes includ- ing the links with other nodes. Figure 1h also exempli- fies how the graph nodes (shown as SS for Simple Surface) can be linked through any of the three possible relationships. Several folds were then grouped to form"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    840.4,
+    377.5,
+    914.7
+   ],
+   "ocr": "Figure 1 Different steps of data pre-processing in Brainvisa. a) a weighted images b) the extracted brain overlaid on the T1 image c) the cerebellum d) each hemisphere segmented into GM, WM and CSF e) the the skeleton surface on the T1-weighted image after removing the brain and a graph symbolizing the folds and their mutual relations (bottom) i) correspond to the data used in this study and is presented only for"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    358.5,
+    840.8,
+    670.8,
+    914.7
+   ],
+   "ocr": "colour-coded presentation of the raw (left) and bias corrected (right) T1- brain split into the right and left hemispheres as well as the union of GM and CSF f) the GM/CSF union following skeletonization g) hull h) the three possible relations between neighbouring folds (top) colour-coded presentation of the identified sulci. The figure does not illustration purposes."
+  }
+ }
+}

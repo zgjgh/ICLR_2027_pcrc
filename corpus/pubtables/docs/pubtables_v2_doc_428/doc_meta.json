@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_428",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4363351_table_0",
+   "page_num": 1,
+   "bbox": [
+    383.9,
+    521.9,
+    678.6,
+    866.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4363351_table_0.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Total n (%)</td><td colspan=\"2\">With prosthesis</td></tr><tr><td></td><td>n (%)</td><td>95% CI</td></tr><tr><td>Total sample</td><td>475 (100)</td><td>128 (26.9)</td><td>23.0%; 31.2%</td></tr><tr><td colspan=\"4\">Histology*</td></tr><tr><td>Seminoma</td><td>293 (100)</td><td>81 (27.6)</td><td>22.6%; 33.1%</td></tr><tr><td>Nonseminoma</td><td>182 (100)</td><td>47 (25.8)</td><td>19.6%; 32.8%</td></tr><tr><td colspan=\"4\">Clinical stage**</td></tr><tr><td>CS1</td><td>313 (100)</td><td>91 (29.1)</td><td>24.1%; 24.4%</td></tr><tr><td>CS 2</td><td>138 (100)</td><td>32 (23.2)</td><td>16.4%; 31.1%</td></tr><tr><td>CS 3</td><td>24 (100)</td><td>5 (20.8)</td><td>7.1%; 42.2%</td></tr><tr><td colspan=\"4\">Age at diagnosis&#167;</td></tr><tr><td>&#8804;20 years</td><td>16 (100)</td><td>4 (25.0)</td><td>7.3%; 52.2%</td></tr><tr><td>&gt;20 - &#8804; 30 years</td><td>103 (100)</td><td>34 (33.0)</td><td>24.1%; 43.0%</td></tr><tr><td>&gt;30 - &#8804; 40 years</td><td>206 (100)</td><td>61 (29.6)</td><td>23.5%; 36.4%</td></tr><tr><td>&gt;40 - &#8804; 50 years</td><td>113 (100)</td><td>25 (22.1)</td><td>14.9%; 30.9%</td></tr><tr><td>&gt;50 - &#8804; 60 years</td><td>37 (100)</td><td>4 (10.8)</td><td>3.0%; 25.4%</td></tr><tr><td colspan=\"4\">Treatment#</td></tr><tr><td>1997 - 2003</td><td>143 (100)</td><td>35 (24.5)</td><td>17.7%; 32.4%</td></tr><tr><td>2004 &#8211; 2009</td><td>167 (100)</td><td>55 (32.9)</td><td>25.9%; 40.6%</td></tr><tr><td>2010 &#8211; 2014</td><td>165 (100)</td><td>38 (23.0)</td><td>16.8%; 30.2%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4363351_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    143.1,
+    366.2,
+    382.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4363351_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Parameter Age (years)</td><td rowspan=\"2\">Odds ratio</td><td colspan=\"2\">95% Wald CI</td><td rowspan=\"2\">p-value* 0.05</td></tr><tr><td></td><td></td></tr><tr><td>&#8804;20 vs. &gt; 30 - &#8804; 40</td><td>1.06</td><td>0.31</td><td>3.62</td><td></td></tr><tr><td>&gt;20 - &#8804; 30 vs. &gt; 30 - &#8804; 40</td><td>1.28</td><td>0.75</td><td>2.17</td><td></td></tr><tr><td>&gt;40 - &#8804; 50 vs. &gt; 30 - &#8804; 40</td><td>0.64</td><td>0.37</td><td>1.11</td><td></td></tr><tr><td>&gt;50 - &#8804; 60 vs. &gt; 30 - &#8804; 40</td><td>0.28</td><td>0.09</td><td>0.82</td><td></td></tr><tr><td>Histology</td><td></td><td></td><td></td><td>0.50</td></tr><tr><td>Seminoma yes vs. no</td><td>0.84</td><td>0.52</td><td>1.38</td><td></td></tr><tr><td>Clinical stage</td><td></td><td></td><td></td><td>0.33</td></tr><tr><td>CS2 vs. CS1</td><td>0.71</td><td>0.43</td><td>1.15</td><td></td></tr><tr><td>CS3 vs. CS1</td><td>0.70</td><td>0.23</td><td>1.93</td><td></td></tr><tr><td>Year of treatment</td><td></td><td></td><td></td><td>0.09</td></tr><tr><td>2004 - 09 vs. 1997 &#8211; 2003</td><td>1.65</td><td>0.99</td><td>2.74</td><td></td></tr><tr><td>2010-14 vs. 1997 &#8211; 2003</td><td>1.06</td><td>0.61</td><td>1.82</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4363351_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    633.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4363351_table_2.png",
+   "html": "<table><tr><td>Question</td><td>Eligible (n)</td><td>Answer</td><td>(%)</td><td>95% CI</td></tr><tr><td>Married</td><td>167</td><td>yes</td><td>50.3</td><td>41.4%; 59.2%</td></tr><tr><td>Living with permanent partner</td><td>164</td><td>yes</td><td>77.4</td><td>69.5%; 84.0%</td></tr><tr><td rowspan=\"3\">Time living with implant</td><td>168</td><td>&lt;1 year- 2 years &gt; 2 years</td><td>14.9</td><td>9.3%; 22.3%</td></tr><tr><td></td><td></td><td>10.7</td><td>5.8%; 17.4%</td></tr><tr><td></td><td></td><td>74.4</td><td>65.7%; 81.8%</td></tr><tr><td>Additional surgery after implant insertion</td><td>170</td><td>yes</td><td>4.7</td><td>2.1%; 9.6%</td></tr><tr><td rowspan=\"2\">Normal appearance with two testicles: important?</td><td>168</td><td>very important</td><td>53.6%</td><td>44.1%; 62.6%</td></tr><tr><td></td><td>important</td><td>31.3</td><td>23.2%; 40.6%</td></tr><tr><td>Being offered a prosthesis, preoperatively</td><td>169</td><td>important</td><td>98.2</td><td>94.2%; 99.6%</td></tr><tr><td rowspan=\"2\">Size of the implant</td><td>164</td><td>too large</td><td>9.8</td><td>5.0%; 16.3%</td></tr><tr><td></td><td>too small</td><td>23.8</td><td>16.3%; 32.3%</td></tr><tr><td rowspan=\"2\">Weight of the implant</td><td>166</td><td>too heavy</td><td>6.6</td><td>2.9%; 12.5%</td></tr><tr><td></td><td>Just right</td><td>91</td><td>84.4%; 95.2%</td></tr><tr><td>Shape of implant</td><td>169</td><td>not right</td><td>15.4</td><td>9.7%; 22.5%</td></tr><tr><td>Consistence of implant</td><td>164</td><td>too firm</td><td>52.4</td><td>43.4%; 61.1%</td></tr><tr><td>Position of implant within scrotum</td><td>165</td><td>too high</td><td>30.3</td><td>22.0%; 39.6%</td></tr><tr><td rowspan=\"3\">Any particular feeling with the implant</td><td>164</td><td>convenient</td><td>16.5</td><td>10.0%; 24.6%</td></tr><tr><td></td><td>inconvenient</td><td>4.3</td><td>1.5%; 9.7%</td></tr><tr><td></td><td>strange</td><td>9.1</td><td>4.6%; 16.0%</td></tr><tr><td>Problems with implant during physical exercise</td><td>164</td><td>no</td><td>92.1</td><td>85.8%; 96.1%</td></tr><tr><td>Concerns about future problems with the implant</td><td>164</td><td>no</td><td>89.0</td><td>82.7%; 93.6%</td></tr><tr><td rowspan=\"2\">Counseling before implant placement</td><td>164</td><td>too short</td><td>31.1</td><td>22.7%; 40.5%</td></tr><tr><td></td><td>Insufficient</td><td>8.5</td><td>4.2%: 14.9%</td></tr><tr><td>After all, would you have an implant again?</td><td>165</td><td>yes</td><td>86.1</td><td>79.1%; 91.4%</td></tr><tr><td rowspan=\"4\">Over-all satisfied with implant</td><td>164</td><td>very well</td><td>31.1</td><td>22.2%; 41.0%</td></tr><tr><td></td><td>satisfied</td><td>52.4</td><td>42.1%; 62.4%</td></tr><tr><td></td><td>just so</td><td>12.2</td><td>6.5%; 20.0%</td></tr><tr><td></td><td>no</td><td>4.3</td><td>7.4%; 1.2%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4363351_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    143.1,
+    366.1,
+    539.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4363351_table_3.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">Size of prosthesis</td></tr><tr><td></td><td>Too much</td><td>Just right</td><td>Too small</td><td></td></tr><tr><td>Weight of prosthesis</td><td></td><td></td><td></td><td>p = 0.032*</td></tr><tr><td>Too heavy</td><td>18.8%</td><td>4.6%</td><td>7.9%</td><td></td></tr><tr><td>Right</td><td>81.3%</td><td>95.4%</td><td>81.6%</td><td></td></tr><tr><td>Too light</td><td>-</td><td>-</td><td>10.5%</td><td></td></tr><tr><td>Shape of prosthesis</td><td></td><td></td><td>p = 0.002#</td><td></td></tr><tr><td>Inconvenient</td><td>31.3%</td><td>8.3%</td><td>28.2%</td><td></td></tr><tr><td rowspan=\"2\">Just right</td><td>68.8%</td><td>91.7%</td><td>71.8%</td><td></td></tr><tr><td colspan=\"4\">weight of prosthesis</td></tr><tr><td>Position within scrotum</td><td></td><td></td><td></td><td>p = 0.023&#167;</td></tr><tr><td>Right</td><td>81.8%</td><td>69.6%</td><td>-</td><td></td></tr><tr><td rowspan=\"2\">Not right</td><td>18.2%</td><td>30.4%</td><td>100%</td><td></td></tr><tr><td colspan=\"4\">shape of prosthesis</td></tr><tr><td>Consistency of prosthesis</td><td></td><td></td><td>p = 0.017#</td><td></td></tr><tr><td>Too firm</td><td>75%</td><td>48.6%</td><td></td><td></td></tr><tr><td rowspan=\"2\">Convenient</td><td>25%</td><td>51.4%</td><td></td><td></td></tr><tr><td colspan=\"4\">consistency of prosthesis</td></tr><tr><td>Position of prosthesis</td><td></td><td></td><td>p = 0.035*</td><td></td></tr><tr><td>Right</td><td>61.6%</td><td>76.9%</td><td></td><td></td></tr><tr><td>Too high</td><td>38.4%</td><td>23.1%</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4363351_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    705.9,
+    678.7,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4363351_table_4.png",
+   "html": "<table><tr><td></td><td colspan=\"5\">Over-all satisfaction with testicular implant</td><td></td></tr><tr><td></td><td>Very well</td><td>Well</td><td>Just so</td><td>Not much</td><td>Not at all</td><td></td></tr><tr><td>Size</td><td></td><td></td><td></td><td></td><td></td><td>p &lt; 0.001*</td></tr><tr><td>Too large</td><td>7.8%</td><td>13.3%</td><td>-</td><td>-</td><td>33%</td><td></td></tr><tr><td>Right</td><td>82.4%</td><td>65.1%</td><td>31.6%</td><td>100%</td><td>-</td><td></td></tr><tr><td>Too small</td><td>9.8%</td><td>21.7%</td><td>68.4%</td><td>-</td><td>66.6%</td><td></td></tr><tr><td>Shape</td><td></td><td></td><td></td><td></td><td></td><td>p = 0.001**</td></tr><tr><td>Inconvenient</td><td>5.9%</td><td>14.0%</td><td>35.0%</td><td>-</td><td>66.7%</td><td></td></tr><tr><td>Convenient</td><td>94.1%</td><td>86.0%</td><td>65.0%</td><td>100%</td><td>33.3%</td><td></td></tr><tr><td>Consistence</td><td></td><td></td><td></td><td></td><td></td><td>p &lt; 0.001**</td></tr><tr><td>Too firm</td><td>20.0%</td><td>62.8%</td><td>75.0%</td><td>100%</td><td>100%</td><td></td></tr><tr><td>Convenient</td><td>80.0%</td><td>37.2%</td><td>25.0%</td><td>-</td><td>-</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC4363351_table_5",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    689.7,
+    678.6,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4363351_table_5.png",
+   "html": "<table><tr><td>Author</td><td>Year</td><td>Country</td><td>(n)</td><td>Method</td><td>Over-all satisfaction</td><td>Have it again</td><td>Shape</td><td>Position</td><td>Size</td><td>Consistency</td><td>Other</td></tr><tr><td rowspan=\"2\">Petersen [24]</td><td rowspan=\"2\">1992</td><td rowspan=\"2\">Ger</td><td rowspan=\"2\">119</td><td rowspan=\"2\">I</td><td rowspan=\"2\">93%</td><td rowspan=\"2\">93%</td><td rowspan=\"2\">-</td><td rowspan=\"2\">high 11%</td><td>19% too large</td><td rowspan=\"2\">10% too firm</td><td rowspan=\"2\">-</td></tr><tr><td>14% too small</td></tr><tr><td>Lynch [32]</td><td>1992</td><td>UK</td><td>19</td><td>Q</td><td>79%</td><td>95%</td><td>-</td><td>-</td><td>-</td><td>-</td><td>&#8722;</td></tr><tr><td>Incrocci [33]</td><td>2001</td><td>NL</td><td>22</td><td>Q</td><td>95%</td><td>95%</td><td>-</td><td>-</td><td>-</td><td>29% inconvenient</td><td>&#8211;</td></tr><tr><td>Adshead [22]</td><td>2001</td><td>UK</td><td>71</td><td>Q</td><td>73%</td><td>90%</td><td>32% not right</td><td>27% not right</td><td>37% inconvenient</td><td>-</td><td>30% weight inconvenient</td></tr><tr><td>Boy [28]</td><td>2002</td><td>Ger</td><td>39</td><td>Q</td><td>97%</td><td>-</td><td>-</td><td>3% too high</td><td>36% not right</td><td>3% too firm</td><td>partners&#8217; rating: 55% satisfied</td></tr><tr><td>Xylinas [34]</td><td>2008</td><td>F</td><td>63</td><td>Q</td><td>96%</td><td>96%</td><td>12% not right</td><td>3% not right</td><td>5% too small</td><td>12% too firm</td><td>2% too cold</td></tr><tr><td>Yossepowitch [21]</td><td>2011</td><td>Isr</td><td>86</td><td>I</td><td>88%</td><td>86%</td><td>-</td><td>39% too high</td><td>27% not right</td><td>73% too firm</td><td>after 2005 better results</td></tr></table>"
+  }
+ ]
+}

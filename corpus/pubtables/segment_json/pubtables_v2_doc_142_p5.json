@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_142",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Lee et al. BMC Bioinformatics 2011, 12(Suppl 13):S20 http://www.biomedcentral.com/1471-2105/12/S13/S20"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 10 of 15"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    367.8,
+    110.2,
+    678.7,
+    679.0
+   ],
+   "ocr": "in disease samples. The interaction with NCL was abnor- mal in schizophrenia, bipolar disorder, and major depression. The other YWHAZ abnormalities were the interactions with RNPS1 and LGALS1 in schizophrenia; the interactions with MYCBP2, PRDX1 or TP1l in bipolar disorder; the interactions with RPLP2 and VIM in major depression; and the interactions with RPLP0 in both schi- zophrenia and major depression. The “core” functional module We proposed that the 12 genes in the clique-5 and -4s in PPI constructed by the highly expressed genes were cen- tral to the functioning of BA10 (Figure 3a and b). These nodes were the ones with the highest ranks in the cen- trality analysis of PPI network of highly expressed gene. A few genes, such as UBC and ACTB, were also highly ranked in the centrality analysis of the abnormally expressed PPI network as listed in Table 3. Many of these genes encode members of important protein com- plexes as summarised in Table 6. They were mostly tis- sue-specific “essential” genes and highly expressed in all three studied mental diseases as well as healthy control. The nodes in cliques were sometimes involved in biologi- cal processes which were disrupted in schizophrenia, bipolar disorder, or major depression. Teams of disease marker genes The abnormally expressed genes identified in this study were compared with published disease associated genes from previous analysis of the same data series (GSE12654), Phenopedia, GWAS, and HGMD. Although few genes were consistently identified in diseases by different groups of researchers, many of these genes were found to form QQPPIs or share the same level 1 PPI interactors as shown in Table 4 and Additional file 8, 9, and 10. expressed genes in disease and control samples"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    679.0
+   ],
+   "ocr": "expressed ACTB and FOS. APP was a tissue-specific “essential” gene, which encodes a highly expressed beta- amyloid precursor protein. ACTB encodes the beta- actin, which is responsible for cellular structure and (neuron signal) mobility [87-89]. FOS is likely to associ- ate with cell differentiation, apoptotic cell death, and depression-related diseases such as bulimia and anorexia [52,90]. In bipolar disorder, APP interacted with the abnormally expressed F12. F12 encodes a coagulation factor which circulates in blood as zymogen. Mutations in F12 may prolong whole-blood clotting time; and the gene has been associated with type 1 and 2 diabetes mel- litus [52,91-93]. In major depression, APP interacted with the abnormally expressed NF1. NF1 encodes a neu- rofibromin responsible for signal transduction, and has been associated with mental retardation and autism [52,94,95]. APP has been listed in the HGMD as being associated with schizophrenia [96]. However, the tran- script of APP was consistently highly abundant in all dis- ease and control samples. The mutation of APP in patients might not have affected its transcription. A “switchboard” can also be a disease gene. For example, the ubiquitous protein, UBC, was abnormally expressed in schizophrenia samples and interacted with the maker genes of schizophrenia (i.e. TSC2, SCNN1A and USP2), bipolar disorder (i.e. MUSK), and major depression (i.e. MUSK and FLT3). The same “switchboard” mechanism was observed in the network constructed by the most highly expressed genes. One such example was YWHAZ, which encodes a signal transduction protein. YWHAZ interacted with 43 nodes as shown in Figure 3a and was highly expressed in disease and control samples. The abnormal PPIs (i.e. PPIs of highly expressed genes that did not occur in the controls) between YWHAZ and many other proteins were observed Table 6 Cliques in the PPI network constructed by highly"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    85.9,
+    683.9,
+    649.5,
+    892.7
+   ],
+   "ocr": "List of clique-4 Protein complex\nHSPA8 HSP90AA1 APP YWHAZ • Nil\nHSPA8 HSP90AA1 APP ACTB • Amyloid beta protein oligomer (PMID:15834427)\nHSPA8 HSP90AA1 ACTB YWHAZ • APP-FE65-LRP complex (PMID:15115822)\nHSPA8 APP ACTB YWHAZ • APP-TIMM23 complex (PMID:16943564)\nHSP90AA1 APP ACTB YWHAZ • APP-TOMM40 complex (PMID:16943564)\nHSP90AA1 ACTB YWHAZ TUBA1A • Emerin architectural complex (PMID:17620012)\nGAPDH HSP90AB1* ACTB YWHAZ • Emerin complex 25 (PMID:17620012)\nGAPDH APP ACTB YWHAZ • Emerin-actin-NMI- (PMID:alphaII) spectrin complex (PMID:17620012)\nHSPA8 ACTB UBC* YWHAZ • Kinase maturation complex 1 (PMID:14743216)\nHSP90AB1* ACTB SPTAN1 YWHAZ • P2X7 receptor signaling complex (PMID:11707406)\nHSP90AA1 HSPD1 ACTB YWHAZ • Profilin 2 complex (PMID:9463375)\nEEF1A1* ACTB UBC* YWHAZ • Profilin 2 complex (PMID:9463375)\nAPP ACTB SPTAN1 YWHAZ • Nil",
+   "table_id": "PMC3278837_table_5"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    899.7,
+    389.2,
+    922.2
+   ],
+   "ocr": "The protein complexes which may contain nodes within these cliques-4s are listed. * This protein was not documented as a member of the suggested protein complex."
+  }
+ }
+}

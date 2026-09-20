@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_082",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    554.0,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Axonal deformation due to skull flexures"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    97.5,
+    719.8,
+    119.7
+   ],
+   "ocr": "Table 3. Different CSF material models used in the past literature. These different models used include (i) linear elastic, (ii) non-linear hyper-elastic and hyper-visco- elastic, (iii) fluid. Since CSF forms the interface between skull and the brain, the variance in the CSF material description could affect the model predictions."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.7,
+    128.3,
+    722.6,
+    611.9
+   ],
+   "ocr": "Literature Material Model Material Parameters Material Models in ABAQUS\nMaterial Model Material Parameters\nZhou et al. [48,49], Chen et al. [50], Yan et al. [51] Fluid ρ = 1040 kg/m3 Neohookean hyperelastic ρ = 1040 kg/m3\nK = 22 MPa C1 = 25 kPa\nG = 50 kPa D = 9.1e-8 Pa-1\nRuan et al. [64] Fluid ρ = 1040 kg/m3 Neohookean hyperelastic ρ = 1040 kg/m3\nK = 1.65 MPa C1 = 25 kPa\nG = 50 kPa D = 1.2e-6 Pa-1\nChoi et al. [53] Fluid ρ = 1040 kg/m3 Neohookean hyperelastic ρ = 1040 kg/m3\nK = 100 MPa C1 = 5 kPa\nν = 0.5 D = 2.0e-8 Pa-1\nWillinger et al. [65], Kleiven et al. [55], Ho et al. [56] Fluid ρ = 1040 kg/m3 Neohookean hyperelastic ρ = 1040 kg/m3\nK = 2.1 GPa ν = 0.5 C1 = 100 kPa\nD = 9.5e-10 Pa-1\nWillinger et al. [57,58] Elastic ρ = 1040 kg/m3 Elastic ρ = 1040 kg/m3\nE = 12 kPa ν = 0.5 E = 12 kPa ν = 0.5\nHorgan et al. [59,60] Elastic ρ = 1040 kg/m3 Elastic ρ = 1040 kg/m3\nE = 0.15 MPa E = 0.15 MPa\nν = 0.5 ν = 0.5\nZong et al. [61] Elastic ρ = 1040 kg/m3 Elastic ρ = 1040 kg/m3\nE = 2.19 MPa E = 2.19 MPa\nν = 0.489 ν = 0.489\nMao et al. [62] Viscoelastic ρ = 1040 kg/m3 Neohookean hyperviscoelastic ρ = 1040 kg/m3\nK = 2.19 GPa C1 = 0.25 kPa\nG0 = 0.5 GPa D = 9.13e-10 Pa-1\nG1\n= 0.1 kPa gi = 0.8 ki = 0\nβ = 80 s-1 τi = 0.0125\nYang et al. [63] Viscoelastic ρ = 1040 kg/m3 Neohookean hyperviscoelastic ρ = 1040 kg/m3\nK = 1050 MPa C1 = 0.5 kPa\nG0 = 1.0 kPa D = 1.9e-9 Pa-1\nG1\n= 0.9 kPa gi = 0.1 ki = 0\nβ = 80 s-1 τi = 0.0125\nKleiven et al. [66] Mie-Gruneisen Equation of State ρ = 1040 kg/m3 Neohookean hyperviscoelastic ρ = 1040 kg/m3\nC0 = 1485 m/s C0 = 1485 m/s\ns = 1.79 s = 1.79\nΓ0 = 1.65 kPa Γ0 = 1.65 kPa\nη = 0.001 η = 0.001",
+   "table_id": "PMC5856259_table_2"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    620.1,
+    727.0,
+    777.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190881.t003 investigation were developed for a frontal overpressure of 1500 kPa. We have chosen this over- pressure to extract the peak axonal strains/strain rates for an extreme loading condition used in the parametric study of this manuscript. A frontal blast loading simulation was developed with the different material models shown in the above table—to study the effects of CSF material model variance on the axonal deforma- tion. A total of 10 simulations were developed in this regard (each referring to a CSF material model). The corresponding axonal deformation was quantified using the maximum strains and strain rates and were presented in the “Results” section."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    822.8,
+    702.7,
+    898.4
+   ],
+   "ocr": "Results CORA analysis–validation In this section, we have listed the CORA values obtained for both male and female models under different validation scenarios."
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190881 March 16, 2018 8 / 24"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_031",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    320.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Scalable preprocessing of high volume environmental acoustic data for bioacoustic monitoring"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    192.5,
+    107.6
+   ],
+   "ocr": "Table 6. Silence detection accuracy."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.3,
+    691.3,
+    284.2
+   ],
+   "ocr": "Split Length True Pos. False Pos. False Neg. True Neg. Accuracy\nSNR threshold = 0.25\n5 9.1% 8.4% 11.0% 71.5% 80.6%\n10 5.5% 4.9% 14.5% 78.0% 80.5%\n15 3.9% 1.9% 16.2% 78.0% 81.9%\n20 3.6% 1.3% 16.5% 78.6% 82.2%\n30 0.0% 0.0% 20.7% 79.9% 79.9%\nSNR threshold = 0.2\n5 7.2% 3.3% 12.9% 79.9% 83.8%\n10 2.9% 1.0% 17.2% 78.9% 80.0%\n15 0.0% 0.0% 20.1% 79.9% 79.9%",
+   "table_id": "PMC6075764_table_5"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    292.4,
+    236.2,
+    303.1
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0201542.t006"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    330.5,
+    727.2,
+    898.4
+   ],
+   "ocr": "process. The time taken to perform these steps is small compared to the overall processing time of the pipeline, so executing these steps serially does not increase processing time. Downsam- pling reduces file sizes which means that less time and bandwidth is used in sending files to slaves. High-pass filtering is performed on the master process because it utilises long split lengths. By doing this on the master process, files can be split into shorter chunks for distribution. Final pipeline Based on the above findings and evaluation results from the previous sections, the final pipe- line for preprocessing bioacoustics recording based on denoising filters is given in Algorithm 1 and summarised in Figs 8 and 9. Files are first split to break up processing into smaller steps which can be parallelised. Com- pression processes are then applied to reduce execution time of all other processes. High-pass filtering is applied, removing any noise below 1 kHz and improving detection mechanisms. This also works better with longer split lengths, so applying earlier improves execution times. Then rain and cicada detection are executed, with rain detection executing earlier because it may eliminate audio from further processing. Files are then split to 5 seconds, before silence detection is performed. Finally, the MMSE STSA filter is executed. Placing this at the end reduces execution time because any files removed by other processes do not need to undergo MMSE STSA filtering, which has the longest execution time of any individual process. Importantly, any file removed in earlier processes does not need to complete the pipeline, saving significant execution time. Hence, silence and rain detection steps significantly improve execution times, while resulting in higher quality output because useless chunks are discarded. In particular, skipping the MMSE STSA step removes the majority of processing time of any given file. Identifying best settings for efficient workflow distribution Now that the pipeline has been constructed, the next step is to integrate it into a distributed system, and determine the best configuration for this system. A large number of configurations are examined to find which set produces the fastest execution. In particular, the split length, the split length before applying the high-pass filter, referred to here as the long split length, the maximum queue size of slaves’ central threads, and the interval between slaves sending results are considered. These tests are carried out using 4 virtual machines with 4 cores each and 16 GB of RAM. These machines are hosted in the Nectar Cloud, which is a cloud platform used by Australian and New Zealand universities."
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0201542 August 3, 2018 13 / 24"
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_387",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    296.8,
+    66.0
+   ],
+   "ocr": "Wilson et al. Journal of Inflammation 2012, 9:25 http://www.journal-inflammation.com/content/9/1/25"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    630.1,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 3 of 8"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    80.1,
+    183.9,
+    90.7,
+    215.6
+   ],
+   "ocr": "(pg/mL)"
+  },
+  "p2_b3": {
+   "type": "title",
+   "bbox": [
+    80.1,
+    207.3,
+    113.0,
+    253.9
+   ],
+   "ocr": "2 IL−6 1"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    251.8,
+    309.3,
+    289.0,
+    320.8
+   ],
+   "ocr": "Controls"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    376.7,
+    309.3,
+    664.3,
+    360.4
+   ],
+   "ocr": "Barth Syndrome Group Plot distribution of circulating IL-6 levels in Controls and BTHS patients."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    348.8,
+    373.8,
+    372.9
+   ],
+   "ocr": "Figure 1 IL-6 in Barth Syndrome Patients and Healthy Controls. Box IL-6 levels were significantly higher across all age groups, (p = 0.046)."
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    396.4,
+    678.7,
+    926.2
+   ],
+   "ocr": "in Figure 1. The R2 value for this model was 0.13 reflecting the inherent variability in the IL-6 measurements. With respect to IGF-1, the mean IGF-1 levels for the Controls and BTHS Patients were 286.39 and 197.90 ng/mL respectively (p=0.05). This difference was found to be spurious, however, with linear regression since it was driven by the underlying contribution of differences in the distribu- tions of age and height between the two groups. This is evi- denced by the fact that after adjustment for height and age, the case–control status becomes highly non-significant (p=0.46). We found that height, age, and the height * age interaction were significant predictors of IGF-1 levels. After controlling for these factors, having BTHS no longer played a significant role in the prediction of IGF-1 (details given in Table 3). The presence of the interaction term between two continuous variables makes the relationship between IGF-1 and height and age difficult to interpret. However, the nega- tive sign of interaction accounts for the decrease of the IGF- 1 levels after age 17 (scatterplots of both the height and age variables versus IGF-1 are presented in Figure 2. The R2 value for this model was 0.79 indicating a high level goodness-of-fit. With respect to GH, we found that the significant pre- dictors were BTHS status, age and their interaction (details given in Table 4). The presence of the interaction term be- tween the continuous variable age and factor variable de- noting Barth Syndrome status defines a model that incorporates different slopes and different intercepts for the BTHS and Control group (scatterplot and regression lines are presented in Figure 3). The BTHS patients have lower GH levels compared to healthy controls for ages younger than 14.4 years and higher GH levels for ages older than 14.4 years. As GH is known to be secreted in several pulses or peaks during the day, with wide variations between days and individuals, these naturally occurring"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    398.3,
+    366.1,
+    833.5
+   ],
+   "ocr": "All computational steps were carried out using the R statistical software language (R Development Core Team (2008) [10]. Results Demographic characteristics Demographic data are presented in Table 1. As stated pre- viously, matched controls were not available under the age of eight years. Height and weight data were missing for the following five BTHS patients: two age 8–11 years, one age 12–16 years, and two age 18 to 24 years. Age and height did not differ significantly between controls and BTHS patients within the age groups; however, the BTHS patients had significantly lower body weight than healthy controls (p < 0.001). Catabolic and anabolic mediator levels There was no effect of age on IL-6 (both linear and non- linear trends were considered and tested) and the only significant predictor was BTHS status (details given in Table 2). Our results show that on average, the BTHS group possessed significantly higher IL-6 levels (p = 0.046) throughout their lives compared to the healthy controls with mean IL-6 values of 3.19 and 0.81 pg/mL respectively. Graphical comparison of the two distributions is presented Table 3 Model Summary of the Significant Predictors of IGF-1"
+  },
+  "p2_b9": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    838.3,
+    366.1,
+    919.2
+   ],
+   "ocr": "Variable Estimate Standard Error t-value p-value\nIntercept −1379.60 382.32 −3.61 0.002\nHeight (cm) 11.71 2.48 4.71 <0.001\nAge (years) 56.02 31.37 1.79 0.09\nHeight * Age −0.42 0.19 −2.27 0.03",
+   "table_id": "PMC3414836_table_2"
+  }
+ }
+}

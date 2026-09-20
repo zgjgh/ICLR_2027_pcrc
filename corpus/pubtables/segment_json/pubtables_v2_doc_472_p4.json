@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_472",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    288.6,
+    65.8
+   ],
+   "ocr": "Wen et al. BMC Systems Biology 2015, 9(Suppl 5):S4 http://www.biomedcentral.com/1752-0509/9/S5/S4"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 11"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    434.6,
+    376.5,
+    483.7
+   ],
+   "ocr": "Figure 1 Results of sscMapping using the 148-gene signature point represents a compound, with the raw connection score (cscore) or blue line in the plot corresponds to the position of threshold p-value. connections (solid red circles) to CRC gene signature."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    357.8,
+    434.7,
+    670.7,
+    471.2
+   ],
+   "ocr": "determined from the gene signature progression procedure. Each data the normalized score (zscore) shown in (A) and (B) respectively. The Any data points above the blue line are drugs that have significant"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    508.9,
+    678.6,
+    628.1
+   ],
+   "ocr": "5. As can be seen, although irinotecan also appeared in the results of dataset GSE41258S2*3, only the combined signature has both irinotecan and etoposide on its result list. Therefore, the drug results from the combined sig- nature look much stronger than that from any indivi- dual signatures, suggesting that the combined signature provides a higher fidelity representation of the colorectal cancer phenotype."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    509.0,
+    366.2,
+    914.3
+   ],
+   "ocr": "To test the robustness of the connections established between the query signature and the drug reference pro- files, perturbation method was used to gauge the con- nection stability in connectivity mapping [25]. Gene signature perturbation analysis was performed with the 148-gene signature; perturbation stability scores were calculated for each drug. Table 4 shows the ten signifi- cant drugs identified and their perturbation stability scores. As shown in this table, six out of ten identified potential drugs received highest stability score 1. These include trichostatin A, vorinostat, HC toxin, sodium phenylbutyrate, mycophenolic acid, and irinotecan. The other four compounds (etoposide, valproic acid, arachi- donic acid, and rifabutin) received perturbation stability score less than 1, with a minimum of 74%. Among these 10 candidate compounds identified as potential drugs for colorectal cancer, irinotecan and eto- poside are currently used to treat colorectal cancer already, pointing to the direction that other candidate compounds on this list are likely to have similar activity or power to treat the disease. To demonstrate the added values in combining multiple datasets, we also carried out connectivity mapping analysis on each dataset indi- vidually. The drug results from the combined signature are compared with that from each individual signature in a Venn diagram in Figure 2, which was created using jVenn [26]. The itemized drug results are listed in Table"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    663.0,
+    665.9,
+    703.6
+   ],
+   "ocr": "Table 4 The connections and perturbation stabilities of the 10 significant drugs obtained for the 148-gene signature."
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    708.5,
+    678.6,
+    906.0
+   ],
+   "ocr": "Compound Replicate cscore pvalue zscore PerturbStability\ntrichostatin A 182 -0.144 5.0E-06 -5.87 1.00\nvorinostat 12 -0.146 1.0E-05 -4.63 1.00\nHC toxin 1 -0.217 5.0E-06 -4.57 1.00\nsodium 7 -0.072 5.0E-06 -4.56 1.00\nphenylbutyrate\nmycophenolic 3 -0.145 2.0E-05 -4.41 1.00\nacid\nirinotecan 3 -0.146 1.0E-05 -4.18 1.00\netoposide 4 -0.087 3.9E-04 -3.34 0.90\nvalproic acid 57 -0.036 5.9E-04 -3.19 0.78\narachidonic 3 -0.094 5.8E-04 -3.18 0.77\nacid\nrifabutin 3 -0.100 6.3E-04 -3.23 0.74",
+   "table_id": "PMC4565135_table_3"
+  }
+ }
+}

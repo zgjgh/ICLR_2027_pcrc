@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_351",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    497.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "SMO Antagonist, Transient Xenograft Inhibition"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    77.1,
+    375.8,
+    661.2
+   ],
+   "ocr": "the nucleus is primarily a consequence of active Hh signaling, it can be attenuated by other signaling pathways [25]. There are several key mechanisms in tumorigenesis that may involve Hh/GLI signaling [11,13]; first, inactivating mutations in the negative regulators PTCH or SUFU, or activating mutations in the positive regulator SMO cause pathway activation in a cell- autonomous and Hh ligand independent manner [5,26–28]; secondly, ligand-dependent autocrine mechanisms in which cancer cells both secrete and respond to Hh ligands causing cell- autonomous pathway activation [29,30]; thirdly, paracrine mechanisms in which stromal cells are induced by Hh producing cancer cells [31–34]. Both autocrine and paracrine effects can lead to heterogeneity with respect to Hh pathway activity within a tumor [35]. Several SMO antagonists have been developed and early data show clinical efficacy in selected tumors [36]. However, there has been some debate whether the in vivo growth inhibition observed for Hh antagonists is due to inhibition of autocrine or paracrine Hh signaling. Several recent studies suggest that the primary role of Hh inhibition in Hh secreting tumors may be due to the inhibition of paracrine signaling involving tumor-stroma interactions [33,37–41]. In particular, tumor derived SHH has been shown to promote desmoplasia in pancreatic cancer [42], where the induced stroma in combination with poor vasculariza- tion may act as a barrier that is linked to a poor response to chemotherapy [40,41]. Following the identification of cyclopamine as a natural SMO inhibitor [43–45], several Hh pathway antagonists have been reported that either act at the level of SMO [46], GLI1 [47], or other parts of the pathway [10,13,36]. Among these inhibitors, some have been progressed to clinical trials. One of these, GDC- 0449 [15,34,48], is currently in several phase I and phase II clinical trials for various types of cancers, including pancreatic cancer (trial ID: NCT01064622 and NCT00878163). Also, the cyclopamine derivative IPI-926 [14] has been through a phase I clinical trial in patients with non-disclosed advanced and/or metastatic solid tumors, and is currently in a phase Ib/II clinical trial in patients with untreated metastatic pancreatic cancer (trial ID: NCT01130142). Here, we describe the identification and evaluation of a novel small molecule SMO antagonist, MS-0022. MS-0022 displays a differential efficacy on various solid tumors in vitro and on PANC-1 and SUIT-2 xenografts in vivo. The reported findings are a further confirmation of the potential of small molecule Hh antagonists as anticancer agents."
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    77.6,
+    700.9,
+    661.3
+   ],
+   "ocr": "Results Identification of the novel Hh antagonist MS-0022 To identify novel antagonists to Hh signaling, a focused diversity library of 12,000 compounds (10 mM) was screened using C3H10T1/2 cells induced by recombinant human SHH and employing an alkaline phosphatase (AP) readout in high throughput format [49], followed by a verification step using Shh-L2 cells. MS- 0022 (2-bromo-N-(4-(8-methylimidazo[1,2-a]pyridin-2-yl)phenyl)- benzamide), was identified as a potent Hh pathway antagonist with an IC50 of 100 nM in Shh-L2 cells. The structure of MS-0022 was confirmed by 1H and 13C NMR (Table S1 and Figure S1). In order to explore the parts of the core structure required for activity in MS- 0022, a small scale broad structural analysis was performed based on activity inhibition in Shh-L2 cells. As shown in Table 1, a deletion of the 2-bromophenyl or the Imidazo[1,2-a]pyridine moiety of MS-0022 led to a substantial loss of activity (for the structure backbone see Figure 1A). The activity was partially retained when replacing the Imidazo[1,2-a]pyridine system with a napthlene-2-ylcarbamoyl system (MS-0018) or a 6-morpholinopyr- idazin-3-yl system (MS-0015). A further focused structural analysis of a limited number of MS-0022 analogs is shown in Table 2 (for the base structure see Figure 1B). Changing R2 from a hydrogen to a methyl group reduced activity 6-fold (MS-0030). Incorporation of a nitrogen atom in position Y reduced activity 23-fold (MS-0031). Substitution of R3 with a 2-fluorophenyl group reduced activity 1.6-fold (MS-0032). Interestingly, if R1 was replaced with a hydrogen and R3 with 4- methoxyphenyl, the activity dropped 1.8-fold (MS-0033). If R1 of MS-0033 was replaced with a nitrogen atom in the ring (MS-0035), the activity dropped an additional 8-fold. In general, a nitrogen atom in the 8-position of the imidazo[1,2-a]pyridine ring system caused a significant reduction in activity. Furthermore, a nitrogen atom placed in position Y impacted the activity negatively. A dose response curve of MS-0022 in Shh activated Shh-L2 cells, is shown in Figure 1C, using cyclopamine and GDC-0449 as a comparison. MS-0022 exhibited an IC50 of 100 nM, while cyclopamine exhibited an IC50 of 210 nM and GDC-0449 an IC50 of 30 nM. To ascertain that the compounds interacted at the level of SMO, the most potent compounds, MS-0022, MS-0032 and MS- 0033 were shown to compete with BODIPY-cyclopamine with IC50 ’s of 259, 93 and 287 nM respectively (Table 2). Thus, MS- 0022 and analogs of MS-0022, as well as GDC-0449, inhibit Hh"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    79.9,
+    689.1,
+    387.8,
+    700.4
+   ],
+   "ocr": "Table 1. Activity of MS-0022 and deletion/substitution analogs"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    391.5,
+    689.1,
+    524.4,
+    700.4
+   ],
+   "ocr": "(See structure in figure 1A)."
+  },
+  "p1_b5": {
+   "type": "table",
+   "bbox": [
+    79.9,
+    729.5,
+    689.0,
+    883.1
+   ],
+   "ocr": "ID R1 R2 R3 MW IC50 (Shh-L2, nM)\nMS-0022 8-methylimidazo[1,2-a]pyridine – 2-bromophenyl 406.3 100\nMS-0011 8-methylimidazo[1,2-a]pyridine – Methyl 265.3 .20,000\nMS-0012 8-methylimidazo[1,2-a]pyridine – 2-propyl 293.4 .20,000\nMS-0013 – O-Amide 2-bromophenyl 319.2 .20,000\nMS-0014 Propyl – 2-bromophenyl 318.2 10,000\nMS-0015 6-morpholinopyridazin-3-yl – 2-bromophenyl 439.3 800\nMS-0016 (6-phenylpyrimidin-4-yl)amino – 2-bromophenyl 445.3 2000\nMS-0017 naphthalen-2-ylcarbamoyl – 2-bromophenyl 445.3 280\nMS-0018 2-benzylidenehydrazinecarbonyl – 2-bromophenyl 442.3 5000",
+   "table_id": "PMC3115942_table_0"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    79.9,
+    896.3,
+    381.6,
+    926.6
+   ],
+   "ocr": "Table depicting molecular weight and bological activity (nM IC50) of deletion or Shh-L2 cells. doi:10.1371/journal.pone.0019904.t001"
+  },
+  "p1_b7": {
+   "type": "caption",
+   "bbox": [
+    384.4,
+    896.3,
+    699.7,
+    905.1
+   ],
+   "ocr": "substitution analogs of MS-0022 as measured by pathway inhibition in Shh induced"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p1_b9": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "2 June 2011 | Volume 6 | Issue 6 | e19904"
+  }
+ }
+}

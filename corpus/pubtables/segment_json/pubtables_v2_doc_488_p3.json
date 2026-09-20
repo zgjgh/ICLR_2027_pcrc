@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_488",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    401.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Comparing Epidemics on ERGMs and Configuration Type Network Models"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    261.8,
+    107.4
+   ],
+   "ocr": "Table 4. HS75 Network ERGM Goodness-of-fit."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.0,
+    726.6,
+    431.0
+   ],
+   "ocr": "Observed Statistic Sample Mean Std. Dev. t-ratio Goodness-of-Fit Interval\nEdge 666 665.497 25.841 0.019 (662.91, 668.08)\n2-star 1615 1598.32 161.321 0.103 (1275.68, 1920.96)\n3-star 1483 1420.114 262.421 0.24 (895.27, 1944.96)\n4-star 1093 990.192 313.791 0.328 (362.61, 1617.77)\n5-star 649 566.198 311.516 0.266 (-56.83, 1189.23)\nTriangles 80 78.913 14.606 0.074 (49.70, 108.13)\nIsolates 0 0.005 0.069 -0.069 (0.00, 0.01)\n2-Triangle 65 55.432 29.701 0.322 (-3.97, 114.83)\nBow tie 57 62.922 42.339 -0.14 (-21.76, 147.60)\n4-Cycle 64 43.681 20.232 1.004 (3.22, 84.15)\nAlt. k-star (λ = 1.50) 967.347 965.926 69.811 0.02 (958.94, 972.91)\nAlt. k-triangle (λ = 3.00) 219.741 219.328 36.8 0.011 (215.65, 223.01)\nAlt. k-2-path (λ = 3.00) 1574.074 1570.435 153.481 0.024 (1555.09, 1585.78)\nHomophily: person type 507 506.628 23.016 0.016 (504.33, 508.93)\nStd. Dev. degree dist. 1.534 1.511 0.082 0.282 (1.35, 1.68)\nSkewness degree dist. 1.217 1.114 0.141 0.731 (0.83, 1.40)\nGlobal Clustering Coefﬁcient 0.149 0.147 0.017 0.074 (0.11, 0.18)\nMean Local Clustering 0.11 0.1 0.014 0.723 (0.07, 0.13)\nVariance Local Clustering 0.06 0.051 0.008 1.116 (0.04, 0.07)",
+   "table_id": "PMC4640514_table_3"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    443.8,
+    726.7,
+    553.7
+   ],
+   "ocr": "Goodness-of-ﬁt result for the HS75 network ERGM. Each row shows a different network feature considered. Statistics explicitly modelled are shown in boldface. Empirical values are shown along with the sample mean (“Mean”) and sample standard deviation (“Std. Dev.”) across 4000 simulations. The sample mean and standard deviation are expressed as a t-ratio in column ﬁve and a goodness-of-ﬁt interval in column six. For all parameters the absolute t-ratio is always smaller than 0.1 for parameters explicitly modelled, and smaller than 2 otherwise. Equivalently, the observed statistic always lies within it’s goodness-of-ﬁt interval. Based on standard methodology, the network model re-creates all these features of the empirical network to an acceptable standard. doi:10.1371/journal.pone.0142181.t004"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    605.6,
+    727.2,
+    884.2
+   ],
+   "ocr": "for a model of the HS75 network. Table 4 shows the goodness-of-fit results (burn-in 108 itera- tions, 20 000 iterations per network, 4000 networks). Column 1 lists the various statistics that are observed. Column 2 shows the value of the statistic for the empirical network (“Sample”). Columns 3 and 4 show the mean (“Mean”) and sample standard deviation (“Std. Dev.”), respectively, of the statistic over simulated networks. Column 5 shows the “t-ratio”, defined as (X − m)/s where X is the observed value, and m and s are the sample mean and sample standard deviation across the simulated networks, respectively. For each parameter, using standard methodology, the model is considered to be a good fit for the empirical network if the t-ratio has absolute value less than 0.1 for parameters explicitly in the model (shown in boldface) and less than 2 otherwise. Under a Gaussian distribution approximation these roughly correspond to the middle 8% and 95% of a parameter’s distribution, respectively. Column six shows this requirement expressed as an interval (“Goodness-of-Fit Interval”) given by (m − cs, m + cs) where c = 0.1 for statistics explicitly fit in the model and c = 2 otherwise. For each parameter, the model is a good fit if the observed statistic lies within it’s goodness-of-fit interval. The model itself is a good fit if all the parameters have good fit. The ability of this model specifica- tion to closely capture all these features of the empirical network, including ones not explicitly modelled, is strong evidence that a useful model has been specified."
+  },
+  "p3_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142181 November 10, 2015 15 / 36"
+  }
+ }
+}

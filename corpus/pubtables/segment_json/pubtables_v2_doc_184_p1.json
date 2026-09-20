@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_184",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    317.6,
+    53.4
+   ],
+   "ocr": "Manzella et al. Standards in Genomic Sciences (2015) 10:77"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 4 of 19"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    110.0,
+    363.8,
+    124.4
+   ],
+   "ocr": "Table 1 Classification and general features of “G. ahangari” 234T"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    367.2,
+    111.8,
+    581.7,
+    124.4
+   ],
+   "ocr": "according to the MIGS recommendations [106]"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    127.8,
+    678.6,
+    707.8
+   ],
+   "ocr": "MIGS ID Property Term Evidence codea\nCurrent classification Domain Archaea TAS [107]\nPhylum Euryarchaeota TAS [107, 108]\nClass Archaeoglobi TAS [109]\nOrder Archaeoglobales TAS [110]\nFamily Archaeoglobaceae TAS [111]\nGenus Geoglobus TAS [1]\nSpecies “Geoglobus ahangari” TAS [1]\nType strain 234T TAS [1]\nGram stain Variable NAS\nCell shape Irregular coccus TAS [1]\nMotility Motile TAS [1]\nSporulation Non-sporulating NAS\nTemperature range 65−90 °C TAS [1]\nOptimal temperature 88 °C TAS [1]\npH range; Optimum 5.0−7.6 (optimum 7.0) TAS [1]\nCarbon source CO2 TAS [1]\nEnergy metabolism Chemolithoautotrophic, TAS [1]\nchemolithotrophic,\nchemoorganotrophic\nMIGS-6 Habitat Marine geothermally TAS [1]\nheated areas\nMIGS-6.3 Salinity 9.0−38 g/L NaCl TAS [1]\nMIGS-22 Oxygen requirement Anaerobe TAS [1]\nMIGS-15 Biotopic relationship Free-living TAS [1]\nMIGS-14 Pathogenicity Non-pathogen NAS\nIsolation Hydrothermal TAS [1]\nvent chimney\nMIGS-4 Geographic location Guaymas Basin TAS [1]\nhydrothermal system\nMIGS-5 Sample collection time Unknown NAS\nMIGS-4.1 Latitude 27° N TAS [1]\nMIGS-4.2 Longitude 111° W TAS [1]\nMIGS-4.3 Depth 2000 m TAS [1]\nMIGS-4.4 Altitude Not applicable",
+   "table_id": "PMC4600277_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    712.8,
+    378.1,
+    745.5
+   ],
+   "ocr": "aEvidence codes – IDA Inferred from Direct Assay, TAS Traceable Author Statement (i.e., not directly observed for the living, isolated sample, but based on a generally codes are from the Gene Ontology project [112]"
+  },
+  "p1_b6": {
+   "type": "caption",
+   "bbox": [
+    380.2,
+    714.1,
+    678.6,
+    734.8
+   ],
+   "ocr": "(i.e., a direct report exists in the literature), NAS Non-traceable Author Statement accepted property for the species, or anecdotal evidence). These evidence"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    791.5,
+    366.2,
+    926.2
+   ],
+   "ocr": "Illumina products were performed using reagents sup- plied by the TruSeq DNA Sample Prep Kit (Illumina). This resulted in the construction and sequencing of five independent 100 bp paired-end Illumina shotgun libraries which generated 7,970,036, 7,970,182, 7,973,896, 7,966,671 and 3,144,785 reads totaling 3.50 Gbp. The Illumina draft sequences were assembled de novo with SeqMan NGen (DNASTAR) and Velvet [28] (version 1.2.10) and optimized with VelvetOptimiser (version"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    791.5,
+    678.6,
+    926.2
+   ],
+   "ocr": "2.2.5). Reads were down-sampled to 500x coverage to increase the efficacy of the Velvet assembler while the complete depth of reads was used to verify the final genome assembly. A total of 1,780,565 bp were assembled into 25 scaf- folds ranging in size from 207 bp to 510,180 bp. The scaffolds were then connected by adaptor-PCR as previ- ously described [29]. “G. ahangari” gDNA was subse- quently digested separately by four different restriction"
+  }
+ }
+}

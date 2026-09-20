@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_307",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    284.7,
+    64.4
+   ],
+   "ocr": "BMC Health Services Research 2009, 9:96"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6963/9/96"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    385.6,
+    118.9
+   ],
+   "ocr": "Table 2: Co-morbid conditions evaluated in the development of the"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    388.4,
+    107.2,
+    454.8,
+    118.9
+   ],
+   "ocr": "risk algorithm"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    692.7,
+    586.7
+   ],
+   "ocr": "ICD10-AM Co-morbidity ICD10-AM Co-morbidity\nD5000–D6499 Anaemia I2000–I2599 Acute coronary syndrome\nI4800–I4899 Cardiac arrhythmias I5000–I5099 Heart failure\nI1000–I1599 Hypertensive diseases I6000–I6999 Cerebrovascular diseases\nI7000–I7399 Peripheral vascular disease C0000–C9699 Malignant neoplasms\nJ4500–J4699 Asthma J4700–J4799 Bronchiectasis\nJ4000–J4499 COPD including bronchitis and emphysema G2000–G2299 Parkinson's disease\nG3000–G3099 Dementias F1000–F1099 Mental disorders due to alcohol use\nF0000–F0399\nF1100–F1999 Mental disorders due to other drug use E1000–E1499 Diabetes mellitus\nN1700–N1799 Acute renal failure N1800–N1999 Chronic renal failure\nJ1000–J2299 Lower respiratory tract infections M0500–M1499 Inflammatory arthritis\nM3000–M3699 Systemic connective tissue disorder F2000–F2999 Schizophrenic disorders\nF3000–F3999 Mood (affective) disorders I0500–I0999 Chronic rheumatic heart disease and other heart valve disorders\nI3300–I3999\nK7000–K7799 Liver diseases K8500–K8699 Pancreatic diseases\nB2000–B2499 HIV M8000–M8299 Osteoporosis\nW0000–W1999 Falls",
+   "table_id": "PMC2700797_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    611.6,
+    372.6,
+    922.4
+   ],
+   "ocr": "definition, and we also excluded sub-acute and non-acute admissions (e.g.: admissions for rehabilitation or pallia- tive care). Statistical analysis Predictive algorithm The predictive algorithm was developed using logistic regression as implemented by SAS Version 9.1. The pre- dictor measures were first evaluated within their natural classes to minimise co-linearity and to prevent a large number of conceptually similar measures from saturating the model. For example, the socio-demographic variables were entered into a regression model as a group and the best subset of them was identified using the purposeful selection methods proposed by Hosmer and Lemeshow [20]. The best subsets of co-morbidities and of utilisation measures were identified in a similar way. These subsets were then combined and further backward elimination was applied to identify the most parsimonious model. The Likelihood Ratio was assessed to evaluate successive models. Variables were considered as candidates for the"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    611.6,
+    698.4,
+    922.4
+   ],
+   "ocr": "model if they were univariately significant at alpha < 0.25. We retained variables that remained significant at alpha < 0.10, as well as those that were identified as confounders [20]. Significant categorical and nominal variables were retained in complete form – that is, all levels of the varia- ble were retained in the model. The predictive algorithm was developed using a 75% training sample selected at random of triggering admis- sions and validated on the remaining 25%. This cut point was chosen in recognition of the small sample relative to those in other studies, and the large number of candidate variables being evaluated in developing the algorithm. Results from the sensitivity and specificity analysis were similar in the two samples (i.e. varied by < 3%), and find- ings from the validation sample are reported here. Performance of algorithm The regression coefficients were applied to the validation sample and a predicted probability of readmission was generated for each individual from the coefficients. For"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 9 (page number not for citation purposes)"
+  }
+ }
+}

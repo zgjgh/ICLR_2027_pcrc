@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_184",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    317.6,
+    53.5
+   ],
+   "ocr": "Manzella et al. Standards in Genomic Sciences (2015) 10:77"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 11 of 19"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    111.1,
+    366.2,
+    926.2
+   ],
+   "ocr": "pathway enzymes [15, 26, 43]. The A. fulgidus genome, for example, contains 57 genes encoding the 5 core proteins (discussed below) involved in β-oxidation [43]. All of these genes were used as BLAST queries against the genomes of F. placidus [26], G. acetivorans [15], and “G. ahan- gari” and identified 39 homologous proteins in the ge- nomes of the F. placidus and G. acetivorans and 32 in the genome of “G. ahangari”. Fatty acid degradation in the Archaeoglobales is thought to occur in a manner similar to bacteria and mitochondria [43], with the initial step involving activation of a long chain fatty acid to a fatty acyl CoA by a fatty acyl CoA syn- thetase/ligase. We identified seven genes in “G. ahangari” coding for fatty acid CoA synthetase proteins (GAH_00420, GAH_00623, GAH_01111, GAH_01124, GAH_01769, GA H_01899, and GAH_02051). The next step in the pathway involves the oxidation of the fatty acyl-CoA to a trans-2- enoyl-CoA by acyl-CoA dehydrogenase proteins, which in “G. ahangari” are putatively encoded by 11 genes (GAH_00179, GAH_00421, GAH_00484, GAH_00591, GAH_01331, GAH_01442, GAH_01601, GAH_01810, and GAH_02050). A water molecule is then added to trans-2-enoyl-CoA to form (3S)-3-hydroxyacyl-CoA in a reaction catalyzed by an enoyl-CoA hydratase, which in “G. ahangari” could be encoded by 4 genes (GAH_00487, GAH_00802, GAH_01332, and GAH_01602). Two of these genes (GAH_00487 and GAH_01602) are in fact hybrid proteins containing an enoyl-CoA hydratase domain fused to a 3-hydroxyacyl-CoA dehydrogenase domain. Hybrid enoyl-CoA hydratase/dehydrogenase proteins such as these have been identified in other archaeal species including the Archaeoglobales species G. acetivorans, F. placidus, and A. fulgidus [15, 26, 43]. The next step in the β-oxidation pathway leads to the formation of 3-oxoacyl-CoA in an oxidation reaction that generates NADH and is catalyzed by a 3-hydroxyl-CoA dehydrogenase protein, which in “G. ahangari” is likely encoded by several genes (GAH_00328, GAH_00487, GA H_01600, GAH_01602 – again noting the hybrid nature of GAH_00487 and GAH_01602). Finally, acetyl-CoA is re- moved from the 3-oxo-acyl-CoA molecule by an acetyl- CoA acetyltransferase and is free to enter the TCA cycle. There are 8 genes in the “G. ahangari” genome that could catalyze this reaction (GAH_00292, GAH_00485, GAH_00625, GAH_00626, GAH_01327, GAH_01328, GAH_01886, and GAH_02049). Additional proteins in- volved in fatty-acid metabolism include the alpha (GA H_01318) and beta (GAH_01319) subunits of a 3- oxoacid CoA-transferase. The large number of genes dedicated to β-oxidation in “G. ahangari” and other spe- cies within the Archaeoglobales provides genomic evi- dence supporting the notion that long- and short-chain fatty acid oxidation is a conserved metabolic feature within the family."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.7,
+    678.7,
+    833.5
+   ],
+   "ocr": "Degradation of aromatic compounds and n-alkanes F. placidus, a member of the Archaeoglobales closely re- lated to “G. ahangari”, can couple the complete oxidation of aromatic hydrocarbons to Fe(III) reduction [79–81]. The “G. ahangari” genome does not contain any benzoate degradation genes, further supporting the observation that it cannot utilize aromatic compounds as electron donors for growth [1]. Interestingly, G. acetivorans, the other mem- ber of the Geoglobus genus, has homologues of all genes coding for proteins of the benzoyl-CoA ligation pathway present in F. placidus, yet as in “G. ahangari” growth on aromatic hydrocarbons has not been observed in G. aceti- vorans [4, 15]. Another member of the Archaeoglobales, A. fulgidus, can also couple the oxidation of n-alkanes and n-alkenes with sulfur respiration [82, 83]. This archaeon uses an alkylsuccinate synthase and an activating protein (AssD/ BssD; AF1449-1450) to oxidize saturated hydrocarbons (n-alkanes in the range of C10-C21) [83]. We identified homologs of both of these proteins in the genome of “G. ahangari” (GAH_01645-01646) and G. acetivorans (Gace_0420-0421). A. fulgidus can also oxidize long chain n-alk-1-enes (C12:1 to C21:1) when thiosulfate is provided as the terminal electron acceptor [82]. Al- though enzymes involved in the activation of alkenes by A. fulgidus have not been characterized, the genome of A. fulgidus contains a homologue of a Mo-Fe-S con- taining enzyme (AF0173-AF0176) [82], which in Azoar- cus sp. EBN1 anaerobically hydroxylates a branched alkene [84]. The Mo-Fe-S enzyme consists of 4 sub- units including a chaperonin-like protein, a membrane anchor heme-b binding subunit, an Fe-S binding subunit, and a molybdopterin-binding subunit [85]. This gene clus- ter was identified in the genomes of “G. ahangari” (GAH_01285-01288) and F. placidus (Ferp_0121-0123), but not in the other member of the Geoglobus genus, G. acetivorans. Nitrogen compounds as electron acceptors Except for F. placidus [5, 57], all of the Archaeoglobales, including “G. ahangari” [1], are unable to use nitrate or ni- trite as electron acceptors for respiration [4, 6–10] (Table 5). Yet, surprisingly, the genome of “G. ahangari” contains several 4Fe-4S domain-containing nitrate and sulfite reductase proteins (GAH_01242 and GAH_02063) Table 5 Terminal electron acceptors in the Archaeoglobales"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    838.5,
+    678.6,
+    918.2
+   ],
+   "ocr": "Electron acceptors\nOrganism Sulfate Sulfite Thiosulfate Nitrate Fe(III)\nGeoglobus spp. - - - - +\nFerroglobus placidus - - + + +\nArchaeoglobus spp. +/− + + - -",
+   "table_id": "PMC4600277_table_4"
+  }
+ }
+}

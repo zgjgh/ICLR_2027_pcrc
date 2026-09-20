@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_025",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    764,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    764,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    764,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    764,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    764,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4599314_table_0",
+   "page_num": 1,
+   "bbox": [
+    391.1,
+    104.8,
+    697.6,
+    446.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4599314_table_0.png",
+   "html": "<table><tr><td colspan=\"2\">Region</td><td rowspan=\"2\">Critical region</td><td rowspan=\"2\">Spillover region</td></tr><tr><td>Wh-phrase</td><td>Local NP</td></tr><tr><td colspan=\"4\">FIRST FIXATION</td></tr><tr><td>Match</td><td>Match</td><td>207 (6)</td><td>199 (5)</td></tr><tr><td>Match</td><td>Mismatch</td><td>203 (5)</td><td>214 (6)</td></tr><tr><td>Mismatch</td><td>Match</td><td>212 (5)</td><td>209 (7)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>221 (6)</td><td>212 (7)</td></tr><tr><td colspan=\"4\">FIRST PASS</td></tr><tr><td>Match</td><td>Match</td><td>221 (7)</td><td>312 (14)</td></tr><tr><td>Match</td><td>Mismatch</td><td>225 (7)</td><td>338 (15)</td></tr><tr><td>Mismatch</td><td>Match</td><td>238 (8)</td><td>335 (16)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>247 (9)</td><td>343 (15)</td></tr><tr><td colspan=\"4\">REGRESSION PATH</td></tr><tr><td>Match</td><td>Match</td><td>314 (23)</td><td>666 (64)</td></tr><tr><td>Match</td><td>Mismatch</td><td>293 (17)</td><td>680 (63)</td></tr><tr><td>Mismatch</td><td>Match</td><td>331 (25)</td><td>757 (57)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>404 (34)</td><td>931 (78)</td></tr><tr><td colspan=\"4\">RE-READ TIME</td></tr><tr><td>Match</td><td>Match</td><td>395 (28)</td><td>434 (42)</td></tr><tr><td>Match</td><td>Mismatch</td><td>297 (23)</td><td>391 (28)</td></tr><tr><td>Mismatch</td><td>Match</td><td>376 (28)</td><td>463 (37)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>397 (25)</td><td>457 (31)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599314_table_1",
+   "page_num": 2,
+   "bbox": [
+    57.5,
+    102.7,
+    363.9,
+    545.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4599314_table_1.png",
+   "html": "<table><tr><td>Region</td><td>Effect</td><td>Estimate</td><td>Std error</td><td>&#967;2 (df)</td><td>p-value</td></tr><tr><td colspan=\"6\">FIRST FIXATION</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh&#8722;NP</td><td>&#8722;12.71</td><td>6.30</td><td>3.71 (1)</td><td>0.054</td></tr><tr><td>local NP</td><td>&#8722;4.15</td><td>6.21</td><td>0.44 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>16.09</td><td>12.11</td><td>1.69 (1)</td><td>&gt;0.1</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh&#8722;NP</td><td>&#8722;4.23</td><td>7.03</td><td>0.36 (1)</td><td>&gt;0.1</td></tr><tr><td>local NP</td><td>&#8722;8.17</td><td>6.01</td><td>1.80 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;10.05</td><td>13.80</td><td>0.52 (1)</td><td>&gt;0.1</td></tr><tr><td colspan=\"6\">FIRST PASS</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh&#8722;NP</td><td>&#8722;19.55</td><td>8.32</td><td>6.65 (1)</td><td>0.010</td></tr><tr><td>local NP</td><td>&#8722;6.15</td><td>8.84</td><td>1.36 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>9.58</td><td>16.83</td><td>0.36 (1)</td><td>&gt;0.1</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;10.00</td><td>14.34</td><td>0.47 (1)</td><td>&gt;0.1</td></tr><tr><td>local NP</td><td>&#8722;21.83</td><td>13.83</td><td>2.32 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;19.29</td><td>25.59</td><td>0.56 (1)</td><td>&gt;0.1</td></tr><tr><td colspan=\"6\">REGRESSION PATH</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh&#8722;NP</td><td>&#8722;59.88</td><td>30.65</td><td>3.43 (1)</td><td>0.064</td></tr><tr><td>local NP</td><td>&#8722;24.55</td><td>24.95</td><td>0.94 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>90.75</td><td>49.05</td><td>3.40 (1)</td><td>0.065</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;159.70</td><td>72.40</td><td>4.33 (1)</td><td>0.037</td></tr><tr><td>local NP</td><td>&#8722;102.67</td><td>78.77</td><td>1.62 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>121.97</td><td>115.73</td><td>1.09 (1)</td><td>&gt;0.1</td></tr><tr><td colspan=\"6\">RE-READ TIME</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh-NP</td><td>&#8722;39.57</td><td>27.45</td><td>2.00 (1)</td><td>&gt;0.1</td></tr><tr><td>local NP</td><td>24.80</td><td>27.82</td><td>0.78 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>91.31</td><td>51.72</td><td>2.87 (1)</td><td>0.090</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;29.80</td><td>34.60</td><td>0.71 (1)</td><td>&gt;0.1</td></tr><tr><td>local NP</td><td>26.54</td><td>34.26</td><td>0.59 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>27.19</td><td>68.70</td><td>0.16 (1)</td><td>&gt;0.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599314_table_2",
+   "page_num": 3,
+   "bbox": [
+    391.1,
+    104.8,
+    697.6,
+    446.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4599314_table_2.png",
+   "html": "<table><tr><td colspan=\"2\">Region</td><td rowspan=\"2\">Critical region</td><td rowspan=\"2\">Spillover region</td></tr><tr><td>Wh-phrase</td><td>Local NP</td></tr><tr><td colspan=\"4\">FIRST FIXATION</td></tr><tr><td>Match</td><td>Match</td><td>209 (6)</td><td>204 (5)</td></tr><tr><td>Match</td><td>Mismatch</td><td>214 (5)</td><td>208 (6)</td></tr><tr><td>Mismatch</td><td>Match</td><td>222 (6)</td><td>219 (6)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>213 (4)</td><td>213 (6)</td></tr><tr><td colspan=\"4\">FIRST PASS</td></tr><tr><td>Match</td><td>Match</td><td>223 (7)</td><td>293 (12)</td></tr><tr><td>Match</td><td>Mismatch</td><td>238 (8)</td><td>319 (14)</td></tr><tr><td>Mismatch</td><td>Match</td><td>250 (9)</td><td>356 (18)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>237 (8)</td><td>348 (18)</td></tr><tr><td colspan=\"4\">REGRESSION PATH</td></tr><tr><td>Match</td><td>Match</td><td>461 (55)</td><td>1860 (119)</td></tr><tr><td>Match</td><td>Mismatch</td><td>454 (45)</td><td>1867 (112)</td></tr><tr><td>Mismatch</td><td>Match</td><td>620 (66)</td><td>2656 (171)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>611 (73)</td><td>2744 (197)</td></tr><tr><td colspan=\"4\">RE-READ TIME</td></tr><tr><td>Match</td><td>Match</td><td>300 (32)</td><td>382 (38)</td></tr><tr><td>Match</td><td>Mismatch</td><td>335 (26)</td><td>381 (30)</td></tr><tr><td>Mismatch</td><td>Match</td><td>463 (33)</td><td>477 (35)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>426 (28)</td><td>494 (34)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599314_table_3",
+   "page_num": 4,
+   "bbox": [
+    57.5,
+    102.7,
+    363.9,
+    542.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4599314_table_3.png",
+   "html": "<table><tr><td>Region</td><td>Effect</td><td>Estimate</td><td>Std error</td><td>&#967;2 (df)</td><td>p-value</td></tr><tr><td colspan=\"6\">FIRST FIXATION</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh-NP</td><td>&#8722;6.30</td><td>5.05</td><td>1.55 (1)</td><td>&gt;0.1</td></tr><tr><td>local NP</td><td>3.19</td><td>5.48</td><td>0.34 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;11.09</td><td>10.79</td><td>1.02 (1)</td><td>&gt;0.1</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;8.79</td><td>7.92</td><td>1.20 (1)</td><td>&gt;0.1</td></tr><tr><td>local NP</td><td>3.31</td><td>6.05</td><td>0.30 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;13.48</td><td>12.70</td><td>1.11 (1)</td><td>&gt;0.1</td></tr><tr><td colspan=\"6\">FIRST PASS</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh-NP</td><td>&#8722;13.11</td><td>7.44</td><td>3.08 (1)</td><td>0.079</td></tr><tr><td>local NP</td><td>&#8722;0.05</td><td>8.30</td><td>0.0001 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>0.22</td><td>7.75</td><td>2.60 (1)</td><td>&gt;0.1</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;42.53</td><td>13.92</td><td>8.21 (1)</td><td>0.004</td></tr><tr><td>local NP</td><td>&#8722;11.07</td><td>13.60</td><td>0.66 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;33.21</td><td>31.13</td><td>1.11 (1)</td><td>&gt;0.1</td></tr><tr><td colspan=\"6\">REGRESSION PATH</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh-NP</td><td>&#8722;140.07</td><td>81.96</td><td>2.80 (1)</td><td>0.094</td></tr><tr><td>local NP</td><td>&#8722;13.73</td><td>60.67</td><td>0.05 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>41.56</td><td>132.41</td><td>0.10 (1)</td><td>&gt;0.1</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;831.51</td><td>140.41</td><td>21.11 (1)</td><td>&lt;0.001</td></tr><tr><td>local NP</td><td>&#8722;91.67</td><td>135.46</td><td>0.45 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>152.58</td><td>309.65</td><td>0.24 (1)</td><td>&gt;0.1</td></tr><tr><td colspan=\"6\">RE-READ TIME</td></tr><tr><td rowspan=\"3\">Critical</td><td>wh-NP</td><td>&#8722;129.22</td><td>31.34</td><td>12.43 (1)</td><td>&lt;0.001</td></tr><tr><td>local NP</td><td>&#8722;7.94</td><td>30.75</td><td>0.06 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;80.55</td><td>62.04</td><td>1.61 (1)</td><td>&gt;0.1</td></tr><tr><td rowspan=\"3\">Spillover</td><td>wh-NP</td><td>&#8722;107.00</td><td>43.43</td><td>5.13 (1)</td><td>0.023</td></tr><tr><td>local NP</td><td>&#8722;14.26</td><td>40.13</td><td>0.12 (1)</td><td>&gt;0.1</td></tr><tr><td>interaction</td><td>&#8722;6.61</td><td>82.07</td><td>0.006 (1)</td><td>&gt;0.1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4599314_table_4",
+   "page_num": 5,
+   "bbox": [
+    391.1,
+    587.7,
+    697.6,
+    929.1
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4599314_table_4.png",
+   "html": "<table><tr><td colspan=\"2\">Region</td><td rowspan=\"2\">Critical region</td><td rowspan=\"2\">Spillover region</td></tr><tr><td>Wh-phrase</td><td>Local candidate</td></tr><tr><td colspan=\"4\">FIRST FIXATION</td></tr><tr><td>Match</td><td>Match</td><td>191 (4)</td><td>195 (5)</td></tr><tr><td>Match</td><td>Mismatch</td><td>200 (5)</td><td>212 (6)</td></tr><tr><td>Mismatch</td><td>Match</td><td>198 (4)</td><td>200 (5)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>200 (4)</td><td>207 (5)</td></tr><tr><td colspan=\"4\">FIRST PASS</td></tr><tr><td>Match</td><td>Match</td><td>205 (5)</td><td>319 (13)</td></tr><tr><td>Match</td><td>Mismatch</td><td>220 (7)</td><td>332 (13)</td></tr><tr><td>Mismatch</td><td>Match</td><td>217 (6)</td><td>307 (11)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>211 (5)</td><td>345 (16)</td></tr><tr><td colspan=\"4\">REGRESSION PATH</td></tr><tr><td>Match</td><td>Match</td><td>397 (41)</td><td>2068 (109)</td></tr><tr><td>Match</td><td>Mismatch</td><td>527 (59)</td><td>2907 (146)</td></tr><tr><td>Mismatch</td><td>Match</td><td>412 (52)</td><td>2117 (116)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>423 (42)</td><td>2968 (181)</td></tr><tr><td colspan=\"4\">RE-READ TIME</td></tr><tr><td>Match</td><td>Match</td><td>305 (21)</td><td>333 (25)</td></tr><tr><td>Match</td><td>Mismatch</td><td>413 (26)</td><td>482 (31)</td></tr><tr><td>Mismatch</td><td>Match</td><td>339 (35)</td><td>394 (31)</td></tr><tr><td>Mismatch</td><td>Mismatch</td><td>447 (33)</td><td>568 (69)</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,378 @@
+{
+ "doc_id": "wild_doc_032",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    720
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    720
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_035032_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    312.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_035032_t0.png",
+   "html": "<table><tr><td>Type</td><td>Number</td><td>Placement Criteria</td><td>Total Consumption (mA)</td><td>Comments</td></tr><tr><td>Opening sensor</td><td>8</td><td>1/window 1/airflow door</td><td>-</td><td>It requires KNX interface</td></tr><tr><td>Presence detector</td><td>7</td><td>1/room</td><td>56</td><td>Installation height = 2.20 m</td></tr><tr><td>Motion detector</td><td>4</td><td>1/passing area</td><td>16</td><td>It includes bus coupler and connection terminal</td></tr><tr><td>Temperature sensor</td><td>6</td><td>1/room</td><td>-</td><td></td></tr><tr><td>Luminaires actuator</td><td>12</td><td>It depends on the luminaires number</td><td>75</td><td>Binary input to dry contacts connection or conventional push button</td></tr><tr><td>Heating electrovalve</td><td>6</td><td>1/room</td><td>5.2</td><td></td></tr><tr><td>Split control interface</td><td>4</td><td>1/split</td><td>-</td><td>Bidirectional KNX gateway—Air conditioners</td></tr></table>"
+  },
+  {
+   "table_id": "img_035032_t1",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    327.0,
+    580.0,
+    475.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_035032_t1.png",
+   "html": "<table><tr><td>BP index</td><td>Time period for blood pressure assessment</td><td>RR (95% CI)</td><td>Pvalue</td></tr><tr><td rowspan=\"2\">Diastolic BP (per 10 mmHg)</td><td>Baseline</td><td>1.07 (0.94–1.21)</td><td>0.30</td></tr><tr><td>Mean follow-up</td><td>1.20 (0.97–1.49)</td><td>0.09</td></tr><tr><td rowspan=\"2\">Systolic BP (per 10 mmHg)</td><td>Baseline</td><td>1.09 (1.01–1.17)</td><td>0.02</td></tr><tr><td>Mean follow-up</td><td>1.30 (1.15–1.48)</td><td>&lt;0.01</td></tr><tr><td rowspan=\"2\">Pulse pressure(per 10 mmHg)</td><td>Baseline</td><td>1.12 (1.02–1.23)</td><td>0.02</td></tr><tr><td>Mean follow-up</td><td>1.28 (1.11–1.47)</td><td>&lt;0.01</td></tr></table>"
+  },
+  {
+   "table_id": "img_035151_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    247.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_035151_t0.png",
+   "html": "<table><tr><td></td><td>Sample</td><td>Shanghai (population census of year 2011)</td></tr><tr><td></td><td>Male (%) Female (%) total</td><td>Male (%) Female (%) total</td></tr><tr><td>&lt;13</td><td>1.571 (50.5) 1.541 (49.5) 3.112 (16.3)</td><td>110.36 (52.9) 98.44 (47.1) 208.8 (15.4)</td></tr><tr><td>13–15</td><td>4.019 (49.9) 4.031 (50.1) 8.050 (42.1)</td><td>294.04 (50.3) 290.26 (49.7) 584.3 (43.2)</td></tr><tr><td>&gt;15</td><td>4.193 (52.7) 3.762 (47.3) 7.955 (41.6)</td><td>287.85 (51.3) 272.75 (48.7) 560.6 (41.4)</td></tr><tr><td>total</td><td>9.783 (51.2) 9.334 (48.8) 19.117 (100.0)</td><td>692.25 (51.1) 661.45 (48.9) 1,353.7 (100.0)</td></tr></table>"
+  },
+  {
+   "table_id": "img_035151_t1",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    262.0,
+    580.0,
+    368.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_035151_t1.png",
+   "html": "<table><tr><td>Sample #</td><td>% Soluble Proteins/FS</td><td>% Collagen/Proteins</td><td>% GAG/FS</td><td>% Collagen/FS</td><td>RC/GAG</td></tr><tr><td>F1</td><td>95.00</td><td>57.34</td><td>3.80</td><td>56.81</td><td>14.95</td></tr><tr><td>F2</td><td>34.00</td><td>16.76</td><td>4.83</td><td>5.73</td><td>1.18</td></tr><tr><td>F3</td><td>64.80</td><td>48.08</td><td>2.68</td><td>35.65</td><td>13.23</td></tr><tr><td>F4</td><td>27.39</td><td>60.62</td><td>2.36</td><td>16.63</td><td>6.99</td></tr></table>"
+  },
+  {
+   "table_id": "img_035151_t2",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    383.0,
+    580.0,
+    483.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_035151_t2.png",
+   "html": "<table><tr><td>Isolate</td><td></td><td>#increased expression</td><td>#decreased expression</td></tr><tr><td>212</td><td>HT</td><td>1270</td><td>1809</td></tr><tr><td>3417</td><td>HT</td><td>1530</td><td>1713</td></tr><tr><td>385</td><td>LT/U</td><td>3216</td><td>3097</td></tr><tr><td>923</td><td>LT/U</td><td>2938</td><td>3847</td></tr></table>"
+  },
+  {
+   "table_id": "img_035480_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    263.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_035480_t0.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Number of fertilizations</td><td colspan=\"3\">Number of offspring fledged</td></tr><tr><td>Absolute value</td><td>Standardized value</td><td>% Total variance</td><td>Absolute value</td><td>Standardized value</td><td>% Total variance</td><td></td></tr><tr><td>var(T)</td><td>16.22</td><td>0.50</td><td>100</td><td>5.08</td><td>0.72</td><td>100</td></tr><tr><td>var(W)</td><td>6.54</td><td>0.20</td><td>40.36</td><td>2.00</td><td>0.29</td><td>39.45</td></tr><tr><td>var(E)</td><td>9.76</td><td>0.30</td><td>60.21</td><td>3.12</td><td>0.45</td><td>61.50</td></tr><tr><td>2 cov(W, E)</td><td>−0.09</td><td>−0.003</td><td>−0.57</td><td>−0.05</td><td>−0.007</td><td>−0.95</td></tr></table>"
+  },
+  {
+   "table_id": "img_035480_t1",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    278.0,
+    580.0,
+    491.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_035480_t1.png",
+   "html": "<table><tr><td colspan=\"2\">Summary of audit data</td></tr><tr><td>Finding</td><td>Quantitative basis of finding</td></tr><tr><td>Older T2DM people are more likely to be misclassified as T1DM</td><td>Mean age 62 years vs, 47 years for people with true T1DM</td></tr><tr><td>Misclassified T1DM people have lower HbA1c than true T1DM</td><td>True T1DM 8.5 vs 7.7 misclassified T1DM (paired t test p = 0.029)</td></tr><tr><td>Correctly diagnosed T2DM people tend to have increases in weight and falls in their HbA1c</td><td>BMI increases from 28.4 to 29.2 (not significant), HbA1c falls from 5.7 to 5.3 (p &lt; 0.001)</td></tr><tr><td>Miscoded people are managed suboptimally</td><td>Mean HbA1c significantly lower in patients on the disease register (HbA1c, SEM 0.11 vs. HbA1c 8.1 SEM = 0.42, p = 0.006)</td></tr><tr><td>Those people on a disease register have significant improvements in their HbA1c reduction</td><td>From HbA1c 7.6 (SEM = 0.14) to 7 (SEM = 0.12) t test p &lt; 0.001)</td></tr></table>"
+  },
+  {
+   "table_id": "img_035529_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    311.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_035529_t0.png",
+   "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Component</td></tr><tr><td>1</td><td>2</td></tr><tr><td>PRISM</td><td>.907</td><td>−.247</td></tr><tr><td>TQ total score</td><td>.865</td><td>−.206</td></tr><tr><td>VAS (eyes closed)</td><td>.744</td><td>.532</td></tr><tr><td>Tinnitus duration</td><td>−.216</td><td>.917</td></tr><tr><td>Eigenvalues</td><td>2.171</td><td>1.229</td></tr><tr><td>% of variance</td><td>55.336</td><td>29.664</td></tr></table>"
+  },
+  {
+   "table_id": "img_035529_t1",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    326.0,
+    580.0,
+    453.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_035529_t1.png",
+   "html": "<table><tr><td>Sector</td><td>BCn (%)</td><td>ONn (%)</td><td>NSn (%)</td><td>Nationaln (%)</td><td>Totaln (%)</td></tr><tr><td>PC</td><td>10 (50.0)</td><td>9 (47.4)</td><td>10 (47.6)</td><td>3 (21.4)</td><td>32 (43.2)</td></tr><tr><td>PH</td><td>10 (50.0)</td><td>10 (52.6)</td><td>10 (47.6)</td><td>3 (21.4)</td><td>33 (44.6)</td></tr><tr><td>PC and PH</td><td>0 (0)</td><td>0 (0)</td><td>1 (4.8)</td><td>6 (42.9)</td><td>7 (9.5)</td></tr><tr><td>Neither</td><td>0 (0)</td><td>0 (0)</td><td>0 (0)</td><td>2 (14.3)</td><td>2 (2.7)</td></tr><tr><td>TOTAL</td><td>20 (100)</td><td>19 (100)</td><td>21 (100)</td><td>14 (100)</td><td>74 (100)</td></tr></table>"
+  },
+  {
+   "table_id": "img_035804_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    340.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_035804_t0.png",
+   "html": "<table><tr><td></td><td>all cases</td><td colspan=\"2\">cases with one indicator</td><td colspan=\"3\">cases with two indicators</td><td>cases with three indicators</td></tr><tr><td></td><td></td><td>M*</td><td>PA*</td><td>M, PH*</td><td>M, PA*</td><td>PH, PA*</td><td>M, PH, PA*</td></tr><tr><td>no IA</td><td>490</td><td>231</td><td>6</td><td>253</td><td>-</td><td>-</td><td>-</td></tr><tr><td>proven IA</td><td>56</td><td>3</td><td>6</td><td>17</td><td>13</td><td>2</td><td>15</td></tr><tr><td>probable IA</td><td>25</td><td>6</td><td>-</td><td>17</td><td>-</td><td>1</td><td>1</td></tr><tr><td>possible IA</td><td>133</td><td>45</td><td>-</td><td>88</td><td>-</td><td>-</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "img_035804_t1",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    355.0,
+    580.0,
+    531.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_035804_t1.png",
+   "html": "<table><tr><td rowspan=\"2\">Network Parameter</td><td colspan=\"7\">Requirement of Implantable Medical Devices</td></tr><tr><td>Pace-Maker</td><td>Neural Stimulators</td><td>Drug-Delivery Systems</td><td>Retinal Implants</td><td>Cochlear Implants</td><td>Endoscopy Capsules</td><td>Active Prostheses</td></tr><tr><td>Throughput</td><td>up to 100 KBPS</td><td>up to 100 KBPS</td><td>up to 150 KBPS</td><td>up to 150 KBPS</td><td>up to 100 KBPS</td><td>up to 150 KBPS</td><td>up to 150 KBPS</td></tr><tr><td>Latency</td><td>up to 10 ms</td><td>up to 30 ms</td><td>up to 60 ms</td><td>up to 20 ms</td><td>up to 30 ms</td><td>up to 60 ms</td><td>up to 20 ms</td></tr><tr><td>Payload</td><td>40 KBPS</td><td>60 KBPS</td><td>30 KBPS</td><td>80 KBPS</td><td>60 KBPS</td><td>30 KBPS</td><td>80 KBPS</td></tr><tr><td>Duty cycling (MICS band)</td><td>0.1%</td><td>0.1%</td><td>0.25%</td><td>0.1%</td><td>0.1%</td><td>0.25%</td><td>0.1%</td></tr></table>"
+  },
+  {
+   "table_id": "img_035804_t2",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    546.0,
+    580.0,
+    667.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_035804_t2.png",
+   "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Significant fibrosis</td><td colspan=\"2\">Cirrhosis</td></tr><tr><td>AUROC</td><td>(95% CI)</td><td>AUROC</td><td>(95% CI)</td></tr><tr><td>APRI</td><td>0.61</td><td>(0.54-0.67)</td><td>0.64</td><td>(0.58-0.70)</td></tr><tr><td>FIB-4</td><td>0.57</td><td>(0.50-0.63)</td><td>0.63</td><td>(0.57-0.69)</td></tr><tr><td>Comparison of AUROC</td><td></td><td></td><td></td><td></td></tr><tr><td>APRI vs FIB-4</td><td>p=0.11</td><td></td><td>p=0.853</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "img_035836_t0",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    192.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_035836_t0.png",
+   "html": "<table><tr><td>Qualitative variables</td><td>Seizure-free (n=61)</td><td>Unfavorable (n=29)</td><td>P-value</td></tr><tr><td>Time from seizure onset to surgery ≤1 year</td><td>37</td><td>17</td><td>0.854</td></tr><tr><td>Seizure frequency (rare)</td><td>37</td><td>8</td><td>0.034</td></tr><tr><td>Site of surgery (left)</td><td>34</td><td>17</td><td>0.796</td></tr><tr><td>Gender (male)</td><td>31</td><td>16</td><td>0.699</td></tr><tr><td>Chemoradiotherapy</td><td>55</td><td>24</td><td>0.319</td></tr></table>"
+  },
+  {
+   "table_id": "img_035836_t1",
+   "page_num": 6,
+   "bbox": [
+    15.0,
+    207.0,
+    580.0,
+    354.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_035836_t1.png",
+   "html": "<table><tr><td>Variables</td><td>b</td><td>se</td><td>Wald test</td><td>df</td><td>OR</td><td>95 % CI for OR</td><td>p value</td></tr><tr><td>Hemorrhagic shock</td><td>4.206</td><td>1.646</td><td>6.527</td><td>1</td><td>67.1</td><td>2.663–1691</td><td>0.011</td></tr><tr><td>SAPS II score</td><td>0.095</td><td>0.042</td><td>5.092</td><td>1</td><td>1.1</td><td>1.013–1.195</td><td>0.024</td></tr><tr><td>Lactate</td><td>0.262</td><td>0.149</td><td>3.091</td><td>1</td><td>1.3</td><td>0.97–1.741</td><td>0.079</td></tr><tr><td>Duration of mechanical ventilation</td><td>0.052</td><td>0.032</td><td>2.615</td><td>1</td><td>1.054</td><td>0.989–1.123</td><td>0.106</td></tr><tr><td>Number of packed red blood cells transfused</td><td>0.531</td><td>0.287</td><td>3.413</td><td>1</td><td>1.701</td><td>0.968–2.988</td><td>0.065</td></tr><tr><td>Conservative treatment</td><td>0.207</td><td>1.101</td><td>0.035</td><td>1</td><td>1.23</td><td>0.142–10.65</td><td>0.851</td></tr></table>"
+  },
+  {
+   "table_id": "img_035914_t0",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    264.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_035914_t0.png",
+   "html": "<table><tr><td>Cancer type</td><td>Chemotherapeutic regimens</td><td>Common adverse events</td></tr><tr><td>Lung</td><td>Platinum-based</td><td>Nausea, vomiting, nephrotoxicity, bone marrow suppression</td></tr><tr><td>Breast</td><td>Adriamycin-based or taxane-based</td><td>Bone marrow suppression, nausea, vomiting, alopecia</td></tr><tr><td>Stomach</td><td>Oxaliplatin/5-fluouracil</td><td>Nausea, vomiting, mucositis, diarrhea, bone marrow suppression</td></tr><tr><td>Liver</td><td>Adriamycin and Cisplatin</td><td>Nausea, vomiting, bone marrow suppression, nephrotoxicity</td></tr><tr><td>Colorectal</td><td>Oxaliplatin-based or Irinotecan-based</td><td>Nausea, vomiting, diarrhea, bone marrow suppression</td></tr></table>"
+  },
+  {
+   "table_id": "img_035914_t1",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    279.0,
+    580.0,
+    402.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_035914_t1.png",
+   "html": "<table><tr><td></td><td>T2DM</td><td>Control</td><td>P</td></tr><tr><td></td><td>(n = 15)</td><td>(n = 11)</td><td></td></tr><tr><td>3 H- cholesteryl ester (%)</td><td>4.2 ± 0.8</td><td>3.5 ± 0.7</td><td>0.03</td></tr><tr><td>14 C-phosphatidylcholine (%)</td><td>24.1 ± 2.7</td><td>22.0 ± 0.9</td><td>0.15</td></tr><tr><td>3 H- triglycerides (%)</td><td>6.8 ± 1.6</td><td>5.0 ± 1.1</td><td>0.03</td></tr><tr><td>14 C- cholesterol (%)</td><td>9.2 ± 3.0</td><td>7.5 ± 2.6</td><td>0.23</td></tr></table>"
+  },
+  {
+   "table_id": "img_035914_t2",
+   "page_num": 7,
+   "bbox": [
+    15.0,
+    417.0,
+    580.0,
+    544.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_035914_t2.png",
+   "html": "<table><tr><td rowspan=\"2\">Study</td><td rowspan=\"2\">Follow-up years</td><td colspan=\"2\">Medical treatment</td><td colspan=\"2\">Surgical treatment</td></tr><tr><td>Baseline</td><td>End of study</td><td>Baseline</td><td>End of study</td></tr><tr><td>Catena et al.,2007 [28]</td><td>6.4</td><td>52 ± 2</td><td>44 ± 2†</td><td>53 ± 2</td><td>43 ± 2∗</td></tr><tr><td>Giacchetti et al.∗ 2007 [49]</td><td>3.7</td><td>135 ± 4</td><td>125 ± 7</td><td>126 ± 5</td><td>116 ± 5∗</td></tr><tr><td>Bernini et al.,2012 [50]</td><td>2.7</td><td>65 ± 2</td><td>65 ± 3</td><td>58 ± 2</td><td>49 ± 3∗</td></tr><tr><td>Rossi et al.,2013 [48]</td><td>3.0</td><td>50 ± 1</td><td>47 ± 1</td><td>53 ± 1</td><td>49 ± 1∗</td></tr></table>"
+  },
+  {
+   "table_id": "img_036017_t0",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    370.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_036017_t0.png",
+   "html": "<table><tr><td></td><td>Intervention arm</td><td>Control arm</td></tr><tr><td>Estimated number of live births in the intervention area</td><td>3603</td><td>3439</td></tr><tr><td>Neo-natal mortality rate (per 1000 live births)</td><td>30</td><td>44</td></tr><tr><td>Estimated neo-natal deaths (after taking estimated live births of intervention and control areas)</td><td>108</td><td>151</td></tr><tr><td>Estimated neo-natal deaths in the control area after taking same number of live births as in the intervention area</td><td></td><td>158</td></tr><tr><td>Neo-natal deaths averted (158 minus 108) in the intervention area</td><td colspan=\"2\">50</td></tr></table>"
+  },
+  {
+   "table_id": "img_036017_t1",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    385.0,
+    580.0,
+    506.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_036017_t1.png",
+   "html": "<table><tr><td></td><td>Abdominal surgery(n = 37)%</td><td>Vaginal surgery(n = 31)%</td><td>p value</td></tr><tr><td>Anesthesia</td><td></td><td></td><td></td></tr><tr><td>general</td><td>100</td><td>-</td><td>&lt; 0.005</td></tr><tr><td>spinal</td><td>-</td><td>100</td><td>&lt; 0.005</td></tr><tr><td>Hospital stay (mean time)</td><td>9.1(± 2.6SD)</td><td>6.6((± 1.3SD)</td><td>&lt; 0.005</td></tr><tr><td>Median operative time(min)</td><td>131 (115-200)</td><td>78(55-110)</td><td>&lt; 0.005</td></tr></table>"
+  },
+  {
+   "table_id": "img_036017_t2",
+   "page_num": 8,
+   "bbox": [
+    15.0,
+    521.0,
+    580.0,
+    643.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_036017_t2.png",
+   "html": "<table><tr><td>Attribute</td><td>Importance (%)</td></tr><tr><td>Time</td><td>23.58</td></tr><tr><td>Confidentiality</td><td>21.30</td></tr><tr><td>Result</td><td>20.78</td></tr><tr><td>Feedback</td><td>17.58</td></tr><tr><td>Format</td><td>16.75</td></tr></table>"
+  },
+  {
+   "table_id": "img_036027_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    357.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_036027_t0.png",
+   "html": "<table><tr><td></td><td></td><td>LCI</td><td></td><td></td><td>LBFS</td><td></td></tr><tr><td>Gene list</td><td>PGC-1beta</td><td>IL2</td><td>ET1</td><td>PGC-1beta</td><td>IL2</td><td>ET1</td></tr><tr><td>Welch t-Test</td><td>0.34</td><td>0.34</td><td>0.17</td><td>7.08E-06</td><td>0.0004</td><td>0.45</td></tr><tr><td>Mann-Whitney</td><td>0.2</td><td>0.2</td><td>0.13</td><td>0.118</td><td>0.0075</td><td>1</td></tr><tr><td>Student t-Test</td><td>0.38</td><td>0.38</td><td>0.1</td><td>1.24E-07</td><td>0.071</td><td>1</td></tr><tr><td>Empirical Bayes</td><td>0.4</td><td>0.19</td><td>0.05</td><td>1.36E-08</td><td>0.11</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "img_036027_t1",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    372.0,
+    580.0,
+    519.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_036027_t1.png",
+   "html": "<table><tr><td>Patient nr</td><td>Gender</td><td>Age</td><td>PMD (hours)</td></tr><tr><td>1</td><td>M</td><td>69</td><td>5–6</td></tr><tr><td>2</td><td>F</td><td>65</td><td>Unknown</td></tr><tr><td>3</td><td>F</td><td>55</td><td>3.5–4</td></tr><tr><td>4</td><td>M</td><td>73</td><td>11</td></tr><tr><td>5</td><td>M</td><td>62</td><td>4–8</td></tr><tr><td>6</td><td>F</td><td>68</td><td>10</td></tr></table>"
+  },
+  {
+   "table_id": "img_036206_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    254.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_036206_t0.png",
+   "html": "<table><tr><td></td><td>Low dabigatran</td><td>High dabigatran</td><td>Post-trauma</td></tr><tr><td>Control</td><td>380 ± 106</td><td>1423 ± 432</td><td>1021 ± 238</td></tr><tr><td>PCC (30; 60 U/kg)</td><td>299 ± 101; 302 ±115</td><td>1276 ± 443; 1273 ± 479</td><td>814 ± 81; 801 ± 185</td></tr><tr><td>aPCC (30; 60 U/kg)</td><td>291 ± 108; 288 ± 107</td><td>1199 ± 452; 1188 ±449</td><td>785 ± 166; 795 ± 159</td></tr><tr><td>rFVIIa (90; 180 μg/kg)</td><td>270 ± 86; 267 ± 87</td><td>1266 ± 500; 1295 ± 496</td><td>766 ± 194; 797 ± 161</td></tr><tr><td>aDabi-Fab (30; 60 mg/kg)</td><td>0.0 ± 0.0; 0.0 ± 0.0</td><td>0.0 ± 0.0; 0.0 ± 0.0</td><td>0.0 ± 0.0; 0.0 ± 0.0</td></tr></table>"
+  },
+  {
+   "table_id": "img_036206_t1",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    269.0,
+    580.0,
+    406.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_036206_t1.png",
+   "html": "<table><tr><td>Assay</td><td>Gene coverage</td><td>Shannon entropy</td><td>L2-norm deviation</td></tr><tr><td>Metagenome</td><td>0.63 (0.27–0.98)ab</td><td>0.91 (0.81–0.98)abc</td><td>0.987 (0.968–0.996)abc</td></tr><tr><td>Metagenome-UMI</td><td>0.57 (0.22–0.98)ab</td><td>0.90 (0.78–0.98)abc</td><td>0.985 (0.962–0.996)abc</td></tr><tr><td>Resistome</td><td>0.76 (0.32–0.99)cd</td><td>0.91 (0.81–0.96)abc</td><td>0.984 (0.966–0.992)abc</td></tr><tr><td>Resistome-UMI</td><td>0.83 (0.34–1.00)cd</td><td>0.94 (0.83–0.97)d</td><td>0.989 (0.971–1.000)d</td></tr><tr><td>Coefficients for sample type random effects</td><td>Beef 0.66Poultry 0.76Swine 0.75WWTP 0.59</td><td>Beef 0.89Poultry 0.91Swine 0.91WWTP 0.87</td><td>Beef 0.979Poultry 0.983Swine 0.983WWTP 0.975</td></tr></table>"
+  },
+  {
+   "table_id": "img_036206_t2",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    421.0,
+    580.0,
+    544.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_036206_t2.png",
+   "html": "<table><tr><td>Gene</td><td>Chromosome</td><td>SNP</td><td>Base change</td><td>Call rates (%)</td><td>HWE</td><td>MAF in controls</td><td>Pa</td><td>Pb</td></tr><tr><td>Has-miR-149</td><td>2q37.3</td><td>rs2292832</td><td>A&gt;G</td><td>99.77</td><td>0.092</td><td>0.322</td><td>0.349</td><td>0.436</td></tr><tr><td>Pre-miR-146a</td><td>5q34</td><td>rs2910164</td><td>G&gt;C</td><td>99.81</td><td>0.468</td><td>0.429</td><td>0.558</td><td>0.558</td></tr><tr><td>Has-miR-605</td><td>10q21.1</td><td>rs2043556</td><td>A&gt;G</td><td>99.77</td><td>0.753</td><td>0.281</td><td>0.004</td><td>0.020</td></tr><tr><td>Has-miR-608</td><td>10q25.1</td><td>rs4919510</td><td>G&gt;C</td><td>99.85</td><td>0.835</td><td>0.425</td><td>0.245</td><td>0.408</td></tr><tr><td>Pre-miR-196a</td><td>12q13.13</td><td>rs11614913</td><td>A&gt;G</td><td>99.91</td><td>0.796</td><td>0.432</td><td>0.019</td><td>0.048</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_416",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    484.7,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Interferon-b Response in Monocytes versus T Cells"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    381.9,
+    92.8
+   ],
+   "ocr": "Table 2. Differentially expressed genes in monocytes but not"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    385.7,
+    81.4,
+    506.8,
+    92.8
+   ],
+   "ocr": "in T cells (25 out of 667)."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    696.6,
+    589.1
+   ],
+   "ocr": "Monocytes T-cells Cell-type*IFN-b\nGene DEFINITION\nFold Fold\nchange1 P-value2 change1 P-value2 P-value3\nHS.564389 DKFZp686C15231_r1 686 (synonym: hlcc3) 9.95 3.6e25 1.14 0.4 0.003\nAXL AXL receptor tyrosine kinase (AXL) 13.1 3.9e25 1.25 0.22 0.003\nSTAB1 stabilin 1 (STAB1) 0.07 3.9e25 1.11 0.6 0.003\nTBXAS1 Thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A) 0.03 4e25 0.84 0.5 0.003\n(TBXAS1)\nPID1 Phosphotyrosine interaction domain containing 1 (PID1) 0.02 5e25 1.02 0.96 0.003\nDEFB1 Defensin, beta 1 (DEFB1) 31.8 0.0001 1.18 0.58 0.004\nEDN1 endothelin 1 (EDN1) 23.2 0.0001 1.69 0.06 0.005\nSAMD4A Sterile alpha motif domain containing 4A (SAMD4A) 7.84 0.0001 1.47 0.04 0.005\nCLEC4A C-type lectin domain family 4, member A (CLEC4A) 0.06 0.0001 1.05 0.86 0.004\nQSOX1 Quiescin Q6 sulfhydryl oxidase 1 (QSOX1) 0.3 0.0001 0.93 0.51 0.005\nKIAA1199 KIAA1199 (KIAA1199) 12.3 0.0001 1.18 0.49 0.005\nSLC11A1 Solute carrier family 11 (proton-coupled divalent metal ion transporters), 0.04 0.0001 1.04 0.92 0.005\nmember 1 (SLC11A1)\nOLR1 Oxidized low density lipoprotein (lectin-like) receptor 1 (OLR1) 0.16 0.0001 1.04 0.84 0.005\nCD80 CD80 molecule (CD80) 26.9 0.0001 1.6 0.16 0.008\nFOS v-fos FBJ murine osteosarcoma viral oncogene homolog (FOS) 0.06 0.0001 1.04 0.92 0.005\nLTA4H Leukotriene A4 hydrolase (LTA4H) 0.04 0.0001 0.74 0.35 0.007\nRHBDD2 Rhomboid domain containing 2 (RHBDD2) 0.05 0.0001 0.99 0.98 0.005\nHTRA1 HtrA serine peptidase 1 (HTRA1) 0.03 0.0001 1.07 0.88 0.005\nCXCL9 Chemokine (C-X-C motif) ligand 9 (CXCL9) 24.1 0.0001 1.79 0.1 0.01\nC5ORF29 Chromosome 5 open reading frame 29 (C5orf29) 0.08 0.0002 0.85 0.58 0.008\nSEPT9 Septin 9 (SEPT9) 0.18 0.0002 0.81 0.27 0.01\nASCL2 Achaete-scute complex homolog 2 (Drosophila) (ASCL2) 5.43 0.0002 1.85 0.01 0.018\nTPST1 Tyrosylprotein sulfotransferase 1 (TPST1) 0.07 0.0002 0.94 0.87 0.008\nCOL23A1 Collagen, type XXIII, alpha 1 (COL23A1) 0.06 0.0002 1.17 0.63 0.006\nSERPING1 Serpin peptidase inhibitor, clade G (C1 inhibitor), member 1 (angioedema, 19.5 0.0002 1.3 0.44 0.01\nhereditary) (SERPING1)",
+   "table_id": "PMC3633862_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    600.4,
+    389.6,
+    963.6
+   ],
+   "ocr": "1Expression level in treated samples divided by expression level in untreated 2FDR adjusted p-value for IFN-b effect within each cell type. 3FDR adjusted p-value of the two-way ANOVA for the cell-type*IFN-b interaction. doi:10.1371/journal.pone.0062366.t002 We next used the PRIMA module to identify enrichment of specific promoter motifs within the gene lists. DEG lists for each cell type were uploaded either as cell-specific lists, after excluding the common T cell and monocyte DEGs set, or as a complete list of DEGs, for each cell type. Neither ISRE, nor any other transcription factor binding site motif, was enriched in any of the monocytes DEG lists. In contrast, the ISRE, IFN regulatory factor (IRF)-7, and IRF-1 motifs were identified in both the T cell- specific list and in the T cell complete DEGs list. To account for a possible effect of the large discrepancy in the monocytes and T cells DEG list sizes on the analysis, we repeated PRIMA analysis on equal-sized lists of top 100 and 200 DEGs for each cell type. Whereas ISRE was enriched in the T cell lists (in 33 DEGs out of 100, P = 10214, and in 74 DEGs out of 200, P = 10226), no known transcription factor binding site motif was enriched in the monocyte DEGs lists. IPA ranked canonical immune-related pathways among the top pathways incorporating the DEGs detected in the IFN-b-treated monocytes and T cells (Table 5). Notably, both the IFN response and the interferon regulatory factor (IRF) canonical pathways PLOS ONE | www.plosone.org 4"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    373.9,
+    602.3,
+    405.7,
+    611.2
+   ],
+   "ocr": "samples."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    661.6,
+    700.8,
+    963.6
+   ],
+   "ocr": "were ranked among the top ten pathways for T cells, but not for monocytes. The canonical IFN response pathway in the T cells (Figs. 6A and 6B) was highly enriched with DEGs when compared to that of the monocytes. One of the novel pathways that was enriched with DEGs in the IFN-b-treated monocytes was the ‘high-mobility group box-1 (HMGB1) signaling pathway’, a cytokine pathway which is known to be activated in inflammatory conditions [43] and has not yet been reported as part of the IFN-b response (Table 5). Several members of the HMGB1 pathway were down-regulated following IFN-b treatment of monocytes (Fig. 6C). RT-PCR analysis corroborated that IFN-b down- regulates in monocytes the gene expression of HMGB1, IL1A, and IL8 (Fig. 6C). The IFN-b response for HMGB1 and IL1A in the monocytes was significantly different from that of the T cells (Fig. 6D). Using the network construction function of IPA, that is based on known molecular interactions, two significant monocyte networks were selected for further evaluation, denoted as ‘cellular migration’ and ‘cellular development and proliferation’, based on suggested IPA keywords (p-value 10229 for both) April 2013 | Volume 8 | Issue 4 | e62366"
+  }
+ }
+}

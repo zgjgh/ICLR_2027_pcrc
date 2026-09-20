@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_168",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    42.8,
+    677.6,
+    67.0
+   ],
+   "ocr": "Saleem et al. Journal of Biomedical Semantics 2014, 5:47 Page 14 of 18 http://www.jbiomedsem.com/content/5/1/47"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    111.0,
+    677.7,
+    558.8
+   ],
+   "ocr": "fastest and more precise SPARQL federated query engine Table 6 Benchmark queries distribution (to the best of our knowledge). Therefore, we evaluate TopFed’s query performance by comparing it with FedX. TCGA benchmark setup TCGA benchmark data consists of genomic results from 25 patients randomly selected from ten different tumour types and distributed across ten local SPARQL endpoints The source selection results are shown in Figure 8. with the specifications given in Table 5. Furthermore, the Overall, our source selection algorithm selects on aver- benchmark N3 specificationh file (used in the current age less than half of the sources selected by FedX. This is experiments) assigns two, three, five SPARQL endpoints due to the possible overestimation of the sources by FedX to the blue, pink, and green categories respectively. while using SPARQL ASK queries for relevant source We have selected ten SPARQL queries based on expert selection [16]. For example, any data source will likely opinion reflecting typical requests on TCGA data. Fur- match a triple pattern (?s, rdf:type, ?o). However, the same ther, we have categorized our benchmark queries into four sources might not lead to any results at all once the actual different quadrants as shown in Table 6. A single colour mappings for ?s and ?o are included in a join evalua- query collects results from SPARQL endpoints listed in tion. On the contrary, our source selection algorithm was one of the three colour categories. A cross-colour query designed to resolve the join types between query triple targets more than one colour category results. A hybrid patterns specifically to avoid such overestimation (which query contains both star and path joins between various can later greatly increase the query processing time as triple patterns. Moreover, we can also obtain the tumour reflected in Table 7). Only in queries 5 and 10, TopFed number (to be used as input to Algorithm 1) from all of selected sources are equal to FedX. The explanation for the hybrid queries. All of the benchmark data, including this can be found in the amount of useful information benchmark queries, can be found at the project website. available in each query - both query 5 and query 10 are generic queries from which a tumour or a performance- Experimental results improving colour category cannot be derived, because In order to show the effects of source selection on perfor- all logic conditions are exactly satisfied. Overall, TopFed mance (runtime + recall of sources selected), the number selects the optimal (the actual required sources) num- of sources selected for each triple pattern of the query are ber of sources with 100% recall for all of the benchmark added (equation 1). Let mi equal the number of sources"
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    382.9,
+    130.6,
+    677.3,
+    178.1
+   ],
+   "ocr": "Single Colour Cross-Colour\nStar 2 2\nHybrid (star + path) 2 4",
+   "table_id": "PMC4417511_table_5"
+  },
+  "p3_b3": {
+   "type": "title",
+   "bbox": [
+    383.1,
+    548.4,
+    423.5,
+    566.6
+   ],
+   "ocr": "queries."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    70.7,
+    555.3,
+    677.6,
+    626.8
+   ],
+   "ocr": "capable of answering a triple pattern ti and S is the total We have performed a two-tailed heteroscedastic t-test number of available sources (10 in our benchmark). Then, based on a sample of 10 (each query was run 10 times) to for a query q with triple patterns {t1, t2, ..., tn}, the total compare the source selection execution time. The source number of sources selected (triple pattern-wise sources selection execution time and the standard error (S.E)"
+  },
+  "p3_b5": {
+   "type": "title",
+   "bbox": [
+    70.7,
+    615.5,
+    230.5,
+    633.8
+   ],
+   "ocr": "selected) is given in equation 1."
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    623.6,
+    677.6,
+    641.9
+   ],
+   "ocr": "obtained are presented in Table 8. On average, our source"
+  },
+  "p3_b7": {
+   "type": "title",
+   "bbox": [
+    262.7,
+    636.9,
+    267.8,
+    650.8
+   ],
+   "ocr": "n"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    638.7,
+    677.6,
+    656.9
+   ],
+   "ocr": "selection algorithm only requires 17 msec per query. This"
+  },
+  "p3_b9": {
+   "type": "title",
+   "bbox": [
+    256.6,
+    640.2,
+    274.0,
+    686.0
+   ],
+   "ocr": "�"
+  },
+  "p3_b10": {
+   "type": "table",
+   "bbox": [
+    70.7,
+    735.1,
+    365.0,
+    917.4
+   ],
+   "ocr": "SPARQL endpoint CPU RAM Hard disk\nvirtuoso-blue1 2.2 GHz, i3 4 GB 300 GB\nvirtuoso-blue2 2.6 GHz, i5 4 GB 150 GB\nvirtuoso-pink1 2.53 GHz, i5 4 GB 300 GB\nvirtuoso-pink2 2.3 GHz, i5 4 GB 500 GB\nvirtuoso-pink3 2.53 GHz, i5 4 GB 300 GB\nvirtuoso-green1 2.9 GHz, i7 16 GB 256 GB SSD\nvirtuoso-green2 2.9 GHz, i7 8 GB 450 GB\nvirtuoso-green3 2.6 GHz, i5 8 GB 400 GB\nvirtuoso-green4 2.6 GHz, i5 8 GB 400 GB\nvirtuoso-green5 2.9 GHz, i7 16 GB 500 GB",
+   "table_id": "PMC4417511_table_4"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_048",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    369.8,
+    41.8,
+    678.5,
+    53.3
+   ],
+   "ocr": "12(Suppl 1):S6 Page 3 of 8"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    42.0,
+    366.5,
+    65.8
+   ],
+   "ocr": "Anwar and Oakes BMC Medical Informatics and Decision Making 2012, http://www.biomedcentral.com/1472-6947/12/S1/S6"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    662.2
+   ],
+   "ocr": "words are associated with hearing aid type. To find the association between individual free-text words and hear- ing aid type, the quantity (O - E)2 / E was examined to rank the keywords according to importance. Some of the keywords in Table 3, were stemmed forms such as ‘reshel’ for ‘reshell’ and ‘tinnitu’ for ‘tinnitus’, since all the text was passed through Porter’s stemmer [1] for the removal of grammatical endings. Some significant key- words were abbreviations, such as IMP for ‘impression’. Dictionaries were not used to group terms with the same meaning (synonyms), instead using only the surface form of words because the procedure of keyword selection to was made as automatic as possible. It was assumed that the text notes used in the database were homogeneous, where the various technicians were consistent in their use of terminology and abbreviations. Although it was not done, consistency in writing conventions could have been verified manually, since the identity of the techni- cian is given in one of the record fields. Similarly, it was assumed that two technicians treating the same patient would produce identical audiograms and choose the same hearing aid type. To do otherwise would have resulted in excessive subdivision of the data set. Logistic regression (LR) model for ITE/BTE right ear hearing aids Having determined that audiogram frequencies, gender, presence of tinnitus, use of tinnitus masker, age, mould and certain keywords were all associated with the deci- sion between fitting a BTE or an ITE aid, all these factors were combined into a single logistic regression model. The input to the model was the matrix of patient data, where columns corresponded to attributes and rows cor- responded to individual patient records. The output was a formula [2] in the form: L = log(p/(1 p)) = b0 + b1x1 + b2x2 + ... + bkxk. (2)"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.6,
+    786.7
+   ],
+   "ocr": "aid, while it is less than 0 if it is more likely that the patient should be given an ITE aid. Before performing the logistic regression, the actual set of records was divided into two parts, one containing 80 percent (5,736) of the records and the other contain- ing the remaining 20 percent (1,433) of these records. The 80 percent subset was used as the training set for model construction, and the remaining records for test- ing the model. The sampling method was to extract every fifth record for testing. The logistic regression was performed on the records which had all fields filled for the right ear: AC (air conduction) and BC (bone con- duction) thresholds, gender, age and text keywords (5,736 records), of which 128 also had non-null entries for diagnosis, 98 had non-null entries for masker, and 3983 had non-null entries for mould. This data was con- verted into discrete numeric values as inputs to the model, as follows: For AC thresholds below the first quartile (40 db) a value of 0; for thresholds between the first and second quartile (55 dB) a value of 1; for thresh- olds between the second and third quartile (75 dB) a value of 2; and for thresholds above the third quartile a value of 3. The same method was used to assign values for BC thresholds and age, except in that the quartile thresholds were 25, 40 and 55 dB and 60, 70 and 78 years respectively. The values for diagnoses were 0 for no tinnitus diagnosis and 1 for tinnitus. Finally, for gen- der, 0 was assigned for male and 1 for female. Regres- sion coefficients and associated p values were found for all the model variables and those variables with p values more than 0.05 for the constant were discarded. Thus, BC4000 (bone conduction at 4000 Hz), age, diagnosis and masker were not considered in the final model as the p values of their constants was more than 0.05, as shown in Tables 4 to 7. Due to data sparseness, it was not possible to incorpo- rate all the keywords discovered by an analysis of the free text into a single model. However, a few significant keywords (meaningful words producing the highest chi- squared values, shown in Table 8), were included into the final model, along with all the categorical and numeric fields. These keywords were all acronyms where APPT stands for appointment, FTA for first time appointment, GP for general practitioner, MAP for pro- cessor amplification map (associated with cochlear"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    648.4,
+    374.3,
+    831.7
+   ],
+   "ocr": "− In our case p is the probability that the patient should be fitted with an ITE aid, while (1- p) is the probability that the patient should be given a BTE aid. b0 is a con- stant, and b1 to bk are called the coefficients of the model. The values x1 to xk are all either 1 or 0, depending on whether a given attribute in the patient’s record is present or absent. The overall value L is greater than 0 if it is more likely that the patient should be given a BTE Table 3 Most significant positive and negative keywords in"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    378.0,
+    818.7,
+    525.7,
+    831.7
+   ],
+   "ocr": "records with BTE/ITE aid [11]"
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    836.6,
+    667.9,
+    902.3
+   ],
+   "ocr": "Positive keywords Negative keywords\nBTE mould, be34, map, gp, 92, audio, inf, be52, ref, staff, reqd, be36, contact fta, reshel, appt, it, nn, nfa, 2001, rev, lacquer, hn, km, imp,\nreview, 2000\nITE fta, reshel, appt, it, nn, nfa, 2001, rev, lacquer, hn, km, imp, review, 2000, nh, mould, be34, map, gp, 92, audio, inf, be52, ref, staff, reqd,\nvent, progress, aid, dt, taken be36, contact, tri, n, order",
+   "table_id": "PMC3339393_table_2"
+  }
+ }
+}

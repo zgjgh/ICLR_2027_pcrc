@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_040",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The data table presented offers a comprehensive analysis of the relationship between residency type and various neurological conditions, specifically Parkinson's Disease (PD) and Dementia with Lewy Bodies (DLB). The examination of coefficients and their corresponding p values reveals critical insights into the statistical significance of these associations. Notably, the coefficient for residency type is 5.4, with a p value of 0.09, suggesting a potential but not statistically conclusive correlation between this variable and neurological outcomes."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "Conversely, the coefficient of 3.1, paired with a p value of 0.40, indicates a weaker association within the demographic segment of the study. The table also delineates the maximum number of unknown parameters (I) and the obtainable information (II), further elucidating the complexity of the data. The difference between these two metrics, represented as the maximum information deficit (III), provides a clearer understanding of the gaps in the current knowledge base. This analysis serves to inform future research directions and highlight the need for more robust data collection methodologies within this field."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "Predicted score Actual score Delta value\nCoefficient p value Coefficient p value Coefficient p value\nResidency type 5.4 0.09 3.1 0.40 2.4 0.51\nGender −15.8 <0.01 −3.7 0.30 −12.1 <0.01\nTraining level −6.4 0.02 −0.6 0.85 −5.9 0.05\nPrior FLS training −2.2 0.45 −6.3 0.06 4.1 0.21",
+   "table_id": "img_045663_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    501.0
+   ],
+   "ocr": "Zone number Maximum number of unknown parameters (I) Obtainable information (II) Maximum information deficit (III) = (I) – (II)\n1 2 2 0\n2 6 4 2\n3 12 6 6\n4 20 8 12\nn n(n + 1) 2n n(n − 1)",
+   "table_id": "img_045663_t1"
+  },
+  "p10_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    516.0,
+    580.0,
+    639.0
+   ],
+   "ocr": "Demographics Controls PD DLB\nN 13 26 16\nSex (M) 6 (46%) 18 (69%) 12 (75%)\nAge 77.0 (±8.0), 78 (65–89) 76.4 (±6.4), 77 (64–89) 76.9 (±5.7), 77 (66–88)\nPost mortem delay 18.2 (±6.9), 17 (8–30) 26.2 (±12.8), 24 (7–64)* 18.5 (±8.6), 18 (4–31)\nAlzheimer Braak stage 1.9 (±1.4), 2 (0–4) 2.1 (±1.5), 2 (0–5)* 2.6 (±1.1), 2.5 (0–4)",
+   "table_id": "img_045663_t2"
+  }
+ }
+}

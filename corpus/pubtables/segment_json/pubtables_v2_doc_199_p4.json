@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_199",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    404.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    96.0,
+    727.3,
+    662.6
+   ],
+   "ocr": "and for LDCOF and CMGOS γ = 0.3. Additionally, for CMGOS the estimated amount of nor- mal instances is pn = 0.975. In order to make the clustering-based algorithm evaluation as com- parable as possible, we used the same clustering result for every algorithm. For example, for k = 10 we applied k-means and stored the resulting centroids and cluster belongings. Then, all algorithms use this result as a basis for computing their scores. Since k-means is also a non- deterministic algorithm, we ran it 10 times on the same data and follow a common strategy by picking the most stable clustering result. The results show that CBLOF performs poorly in most cases. Especially on the smaller data- sets, the algorithm is even worse than random guessing. Since this behavior is very suspicious, we looked into the results in detail: AUCs from 0.10 to 0.94 occurred, but no correlation to k could be found. Our suspicion concerning the results is again the possible flaw of weighting the scores by number of members in the cluster—especially on small datasets the influence seems disadvantageous. Simply removing the weighting yields to much better results, proven by the results of uCBLOF. Similar to our observation on the nearest-neighbor based algorithms, again local methods tend to perform worse on global anomaly detection tasks. Concerning the differ- ent robust estimations of the covariance matrix for CMGOS, two techniques seem to perform well: GMGOS-Red as well as CMGOS-MCD. Due to the much higher computational complex- ity, we recommend to use CMGOS-Red. The high number of dimensions in the speech dataset causes CMGOS-MCD to not complete within a reasonable amount of time. Special attention should be payed on the last row of the table, where the best nearest-neigh- bor method is listed for comparison. It can be seen that nearest-neighbor based unsupervised anomaly detection performs better in general. However, a much more severe issue is from our point of view the reliability indicated by the corresponding standard deviations. In practice, when the parameter k cannot be determined and needs to be fixed to a certain value, nearest- neighbor based algorithms generate much more stable results. Results of other Algorithms In the remaining, the four algorithms are evaluated which do not belonging to one of the groups above. Table 4 shows the results for the statistical HBOS, the subspace rPCA algorithm as well as the results for the two one-class SVM methods. The evaluation of HBOS is performed similar to the previous algorithms, whereas here k refers to the number of bins used. The Table 4. The AUC results of the remaining unsupervised anomaly detection algorithms. Four different strategies for keeping the components have been used for rPCA, while for HBOS the number of different bins was altered."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    671.4,
+    710.2,
+    869.2
+   ],
+   "ocr": "Alg. b-cancer pen-global pen-local letter speech satellite thyroid shuttle aloi kdd99\nHBOS 0.9827 0.7477 0.6798 0.6216 0.4708 0.9135 0.9150 0.9925 0.4757 0.9990\n±0.0016 ±0.0206 ±0.0249 ±0.0073 ±0.0030 ±0.0047 ±0.0123 ±0.0039 ±0.0010 ±0.0007\nrPCA 0.9664 0.9375 0.7841 0.8095 0.5024 0.9461 0.6574 0.9963 0.5621 0.7371\n±0.0000 ±0.0001 ±0.0151 ±0.0029 ±0.0000 ±0.0023 ±0.0036 ±0.0000 ±0.0000 ±0.0000\noc-SVM 0.9721 0.9512 0.9543 0.5195 0.4650 0.9549 0.5316 0.9862 0.5319 0.9518\n±0.0102 ±0.0436 ±0.0130 ±0.0382 ±0.0021 ±0.0021 ±0.0152 ±0.0002 ±0.0021 ±0.0050\nη-oc- 0.9581 0.8993 0.9236 0.7298 0.4649 0.9430 0.5625 0.9848 0.5221 0.7945\nSVM ±0.0311 ±0.0387 ±0.0140 ±0.1365 ±0.0026 ±0.0058 ±0.0088 ±0.0019 ±0.0025 ±0.0000\nBest NN 0.9816 0.9872 0.9877 0.9068 0.5347 0.9701 0.6893 0.9474 0.7899 0.9796\n±0.0024 ±0.0055 ±0.0016 ±0.0078 ±0.0343 ±0.0007 ±0.0149 ±0.0379 ±0.0093 ±0.0035\nBest 0.9496 0.8721 0.9727 0.8902 0.5081 0.9627 0.7843 0.9716 0.5855 0.9964\nCluster ±0.0390 ±0.0511 ±0.0141 ±0.0200 ±0.0161 ±0.0038 ±0.0437 ±0.0324 ±0.0161 ±0.0016\nBest Alg. HBOS k-NN LOF LoOP LoOP k-NN HBOS HBOS COF HBOS",
+   "table_id": "PMC4836738_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    876.9,
+    186.2,
+    888.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0152173.t004"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0152173 April 19, 2016 24 / 31"
+  }
+ }
+}

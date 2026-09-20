@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_109",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    217.9,
+    64.4
+   ],
+   "ocr": "Proteome Science 2009, 7:19"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    480.7,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.proteomesci.com/content/7/1/19"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    724.1
+   ],
+   "ocr": "for peak detection with Biomarker Wizard: (i) First Pass (signal-to-noise ratio (S/N)), (ii) Min Peak Threshold (% of all spectra), (iii) Cluster Mass Window (% of mass), and (iv) Second Pass (S/N). The First Pass S/N threshold specifies the sensitivity of the first pass of peak detection. The Min Peak Threshold is the minimum number of spec- tra, as a percentage of all spectra, in which a peak must be present in order to form a cluster. A cluster will not be formed around a peak if it is not present in the requisite number of spectra, and the label is deleted. Cluster Mass Window specifies the width of the mass window as a per- centage of a peak's mass. This determines the width of a cluster as a function of molecular weight. The Second Pass S/N threshold specifies how to populate the clusters from the first pass with peaks that were too small to be found in the first pass. For both datasets, we used three typical different peak detection settings with increasing stringency (Ciphergen A-C, Table 1) in Biomarker Wizard to evaluate the effect of peak detection on classification outcome. Setting A was chosen in such a way that many – potentially noisy – peaks were detected. Settings B and C are more stringent by increasing the signal-to-noise ratio of detected peaks or the number of spectra in which a peak must be present. This way we covered a broad range of detected peaks, going from about 100 (setting C) to 500–800 (setting A). Any peak intensity that was zero or negative after baseline correction was set equal to half the minimum of the pos- itive corrected intensities for that peak. Resulting peak intensities were log2-transformed in order to stabilize their variance. In the rest of the paper we will refer to these pre-processing steps as Ciphergen pre-processing. Pre-processing and peak detection using Cromwell software Pre-processing was done with the publicly available Cromwell software developed by the bioinformatics group at the MD Anderson Cancer Center [14]. From the Table 1: Peak detection settings used in Ciphergen pre- processing"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    922.4
+   ],
+   "ocr": "raw spectra, a mean spectrum was calculated by averaging all spectra. Smoothing of the mean spectrum was done via wavelet denoising using the undecimated discrete wavelet transform (UDWT). Because most signals can be repre- sented by a small number of wavelet coefficients and white noise is distributed equally among all wavelet coef- ficients, this approach denoises spectra with minimal attenuation of the features of the signal [5,14]. The UDWT is invariant under linear shift. The wavelet smoothing threshold was set at 10. Baseline correction was per- formed by computing a monotonic local minimum curve on the denoised signal. Normalization of the mean spec- trum was done by dividing by the total ion current within the given mass range. Peaks were identified from this denoised, baseline corrected and normalized mean spec- trum as a local maximum with S/N greater than a user- defined threshold (see below) together with the nearest local minima to the left and the right, respectively, of the local maximum. The interval between the two bordering minima of a peak in the average spectrum was used to define peak positions. Peaks identified from the mean spectrum were quantified in the individual spectra. First, all spectra were denoised, baseline corrected, and normalized. Individual smoothed spectra were searched for the maximum within each peak interval defined on the mean spectrum, taking the corre- sponding intensity values as individual values for these peaks. Resulting peak intensities were multiplied with a factor 1000 to bring them on a similar scale as Ciphergen data and then log2-transformed. We adapted the Cromwell MATLAB (The Mathworks Inc, Natick, Massachusetts, USA) scripts in various ways. A script was written to read in the raw data (XML) into an appropriate Matlab structure. Furthermore, in order to fit an accurate baseline, the low-mass area of the spectra that is saturated with matrix peaks was ignored using a con- servative cut-off of 1500 Da (ovarian cancer dataset) or 1000 Da (Gaucher dataset). The spectra were also trun- cated at their high-mass end with a cut-off of 50000 Da (ovarian cancer dataset) or 10000 Da (Gaucher dataset). This was done because a long noisy tail can bias smooth- ing towards the noise. A further addition to the original Cromwell software as described by Coombes et al. [14] was made in the form of spectral alignment. Visual inspec- tion showed that the individual spectra were not well aligned (data not shown). A time warping alignment to correct for horizontal shift was executed on the basis of manually selected peaks using the function \"msalign\" from the Matlab Bioinformatics toolbox. The peaks used for alignment were m/z values 2750, 5914, 6441 and 6639 Da for CM10 and 4095 and 15946 Da for Q10 (ovarian cancer dataset) and 2735, 3391, 4170, and 9299 (Gaucher dataset)."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    735.2,
+    365.5,
+    911.3
+   ],
+   "ocr": "First pass Threshold Mass window Second pass\nOvarian cancer\nCiphergen A 5 30 0.3 2\nCiphergen B 10 30 0.3 5\nCiphergen C 12 40 0.4 5\nGaucher\nCiphergen A 2 20 0.3 1\nCiphergen B 3 30 0.3 2\nCiphergen C 5 30 0.3 2",
+   "table_id": "PMC2689848_table_0"
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 17 (page number not for citation purposes)"
+  }
+ }
+}

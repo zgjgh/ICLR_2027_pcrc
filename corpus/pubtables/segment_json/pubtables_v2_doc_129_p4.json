@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_129",
+  "page": 4,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    277.2,
+    65.8
+   ],
+   "ocr": "Müller et al. BMC Genomics 2011, 12:81 http://www.biomedcentral.com/1471-2164/12/81"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 13"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    358.7,
+    137.7
+   ],
+   "ocr": "Table 4 GO-term enrichment of genes over-expressed in the African population"
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    142.7,
+    366.2,
+    479.5
+   ],
+   "ocr": "ID Ontology Term P-value\nGO:0004558 MF Alpha-glucosidase activity 0.006\nGO:0004806 MF Triglyceride lipase activity 0.021\nGO:0003697 MF Single-stranded DNA binding 0.021\nGO:0019201 MF Nucleotide kinase activity 0.021\nGO:0004129 MF Cytochrome-c oxidase activity 0.036\nGO:0019318 BP Hexose metabolic process 0.005\nGO:0009586 BP Rhodopsin mediated 0.006\nphototransduction\nGO:0048814 BP Regulation of dendrite 0.009\nmorphogenesis\nGO:0014866 BP Skeletal myofibril assembly 0.015\nGO:0048139 BP Female germ-line cyst encapsulation 0.015\nGO:0035075 BP Response to ecdysone 0.025\nGO:0006119 BP Oxidative phosphorylation 0.028\nGO:0012502 BP Induction of programmed cell death 0.032\nGO:0006631 BP Fatty acid metabolic process 0.035\nGO:0007015 BP Actin filament organization 0.035\nGO:0030713 BP Ovarian follicle cell stalk formation 0.036\nGO:0016028 CC Rhabdomere 0.018\nGO:0044429 CC Mitochondrial part 0.025\nGO:0016459 CC Myosin complex 0.025\nGO:0030425 CC Dendrite 0.035",
+   "table_id": "PMC3040150_table_3"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    391.8,
+    297.0,
+    670.8,
+    358.7
+   ],
+   "ocr": "Figure 5 Comparison of microarray and qRT-PCR results. Shown is the relative expression difference between the eight African and eight European strains as measured by microarray (gray bars) or qRT-PCR (black bars) for 12 genes. Gene symbols are given below/ above their corresponding values."
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    397.1,
+    678.7,
+    922.9
+   ],
+   "ocr": "methods. One of the genes (m2) showed strong (1.7- fold) Europe over-expression in the microarray experi- ment, but only slight (1.2-fold) Europe over-expression by qRT-PCR. Another gene (CG14227) showed over- expression in opposite populations when measured by the two methods (Figure 5). The reason for this discre- pancy is unclear. It may be because the microarray and qRT-PCR probes match different regions of the CG14227 transcript. However, there is only one anno- tated transcript for this gene in the current release of FlyBase (release 5.27). When considering all genes and strains, there was a good correlation between expres- sion levels measured by microarray and by qRT-PCR (Pearson’s R = 0.5, P < 0.0001; Additional file 4). Comparison of inter-population gene expression divergence in males and females There were many more genes that differed significantly in expression between the European and African popu- lations in females than in males. In females, 10.6% (569/ 5370) of the genes analyzed showed a significant inter- population difference with a FDR of 5%. In males, 3.4% (153/4528) of the genes analyzed showed a significant inter-population difference with a FDR of 8.7% (c2 = 189, P < 0.0001). The lower FDR of the female experi- ment indicates that this is a conservative comparison. Furthermore, the GEL50 values for the female and male experiments were 1.22 and 1.18, respectively, indicating that the female experiment had slightly less statistical power to detect differences. This suggests that the dif- ferent amounts of inter-population gene expression divergence observed between females and males have a biological basis. At the protein level, it has been reported that autosomal female-biased genes show evi- dence for greater adaptive evolution in the European"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    486.5,
+    365.5,
+    539.1
+   ],
+   "ocr": "In cases where multiple, related terms within a GO hierarchy were significant, only a single term is given. The complete list is provided in Additional file 3. Ontology abbreviations are: MF, molecular function; BP, biological process; CC, cellular compartment. P-values were determined by a hypergeometric test with Benjamini-Hochberg multiple-test correction."
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    577.9,
+    366.1,
+    922.9
+   ],
+   "ocr": "determination of adult lifespan, also functions in carbo- hydrate homeostasis and has been suggested to interfere with insulin signaling [35]. Other enriched functions among the Africa over- expressed genes included oxidative phosphorylation and muscle formation (Table 4). However, many of the Africa over-expressed genes are of unknown function, including six of the 15 genes with the greatest over- expression in Africa and the gene showing the highest overall difference in expression between the African and European populations, CG8997 (Figure 3). Validation of microarray results by qRT-PCR In order to verify the between-population expression differences detected in our microarray analysis, we per- formed qRT-PCR on a subset of 12 genes, including five with over-expression in Africa, five with over- expression in Europe, and two control genes that showed no difference in expression between popula- tions (Figure 5). For 10 of these genes, including all of those with Africa over-expression, the two control genes, and the three genes with the greatest Europe over-expression, the results were consistent with both"
+  }
+ }
+}

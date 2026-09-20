@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_145",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3342092_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    546.2,
+    675.3,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3342092_table_0.png",
+   "html": "<table><tr><td>GP Event Date</td><td>(sl) GP Read Codes: Descriptions</td><td>Comment</td></tr><tr><td>10 August</td><td>(i) fh1k: PREMIQUE 0.625 mg/5 mg tablets; (ii) b211: BEMDROFLUAZIDE 2.5 mg tablets; (iii) b211: BENDROFLUMETHIAZIDE 2.5 mg tablets; (iv) bxd2: SIMVASTATIN 20 mg tablets; (v) Bd35: ATENONOL 50 mg tablets</td><td>GP visit /Prescription collection</td></tr><tr><td>31 August</td><td>1969: Abdominal pain</td><td>System reporting of A&amp;E admission on 30 August</td></tr><tr><td>01 September</td><td>Discharge Summary</td><td>System reporting of A&amp;E discharge summary (ref: 30 August A&amp;E admission)</td></tr><tr><td>17 September</td><td>(i) fh1k: PREMIQUE 0.625 mg/5 mg tablets; (ii) b211: BEMDROFLUAZIDE 2.5 mg tablets; (iii) b211: BENDROFLUMETHIAZIDE 2.5 mg tablets; (iv) bxd2: SIMVASTATIN 20 mg tablets; (v) Bd35: ATENONOL 50 mg tablets; (vi) j2ck: NAPROXEN 250 mg e/c tablets; (vii) 246..: O/E blood pressure; (viii) di21: PARACETAMOL 500 mg; (ix) 8B4: Repeat Prescription.</td><td>GP Visit</td></tr><tr><td>23 September</td><td>(i) 52...: Plain Radiography; (ii) 52....:Plain X-Ray</td><td>GP visit</td></tr><tr><td>07 October</td><td>(i) bd35: ATENONOL 50 mg tablets; (ii) b211: BEMDROFLUAZIDE 2.5 mg tablets; (iii) bxd2: SIMVASTATIN 20 mg tablets; (iv) 8CB..: Had a chinwag with patient; (v) 8CB..: Had a discussion with patient.</td><td>GP visit</td></tr><tr><td>11 October</td><td>9 N4..: Failed encounter</td><td>No visit</td></tr><tr><td>28 October</td><td>(i) b211: BEMDROFLUAZIDE 2.5 mg tablets; (ii) b211: BENDROFLUMETHIAZIDE 2.5 mg tablets; (iii) bxd2: SIMVASTATIN 20 mg tablets; (iv) Bd35: ATENONOL 50 mg tablets (v) j2ck: NAPROXEN 250 mg e/c tablets</td><td>GP visit/prescription collection</td></tr><tr><td>30 October</td><td>(i) j2ck: NAPROXEN 25 mg e/c tablets</td><td>Prescription collection</td></tr><tr><td>04 November</td><td>(i) 9 N36: Letter from specialist; (ii) Letter from consultant</td><td>No visit</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3342092_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    128.9,
+    678.6,
+    625.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3342092_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Patient Stratification Schemes</td><td colspan=\"3\">Number of GP &#8216;events&#8217; from linked GP data (Mean [95% CI])</td><td rowspan=\"2\">Number of GP &#8216;visits&#8217; from Questionnaire data 3 months recall period</td></tr><tr><td>5 year period</td><td>1 year period</td><td>3 month recall period</td></tr><tr><td colspan=\"5\">Disease Severity Index</td></tr><tr><td>Low (BASDAI &lt; 40) (n = 72)</td><td>61.92 [47.86-75.64]</td><td>12.92 [9.96-15.87]</td><td>2.81 [2.06-3.55]</td><td>1.31 [0.98-1.63]</td></tr><tr><td>High (BASDAI &gt; = 40) (n = 72)</td><td>80.28 [64.32-96.23]</td><td>17.79 [14.04-21.54]</td><td>4.25 [3.22-5.28]</td><td>1.78 [1.34-2.21]</td></tr><tr><td>Ratio (high/low BASDAI)</td><td>1.30</td><td>1.38</td><td>1.51</td><td>1.36</td></tr><tr><td colspan=\"5\">Disease Functional Index</td></tr><tr><td>Low (BASFI &lt; 40) (n = 71)</td><td>49.15 [36.99-61.32]</td><td>11.20 [8.38-14.02]</td><td>2.75 [1.97-3.52]</td><td>1.21 [0.87-1.55]</td></tr><tr><td>High (BASFI &gt; = 40) (n = 73)</td><td>92.27 [76.34-108.21]</td><td>19.40 [15.73-23.07]</td><td>4.29 [3.29-5.29]</td><td>1.86 [1.45-2.28]</td></tr><tr><td>Ratio (high/low BASFI)</td><td>1.88</td><td>1.73</td><td>1.56</td><td>1.54</td></tr><tr><td colspan=\"5\">Age</td></tr><tr><td>Age &lt; 50 (n = 68)</td><td>45.96 [34.05-57.87]</td><td>10.46 [7.54-13.38]</td><td>2.53 [1.65-3.41]</td><td>1.44 [1.00-1.89]</td></tr><tr><td>Age &gt; = 50 (n = 76)</td><td>93.43 [77.95-108.92]</td><td>19.74 [16.27-23.21]</td><td>4.42 [3.53-5.31]</td><td>1.63 [1.30-1.97]</td></tr><tr><td>Ratio (Age &gt; = 50/Age &lt; 40)</td><td>2.03</td><td>1.89</td><td>1.75</td><td>1.13</td></tr><tr><td colspan=\"5\">Sex</td></tr><tr><td>Male (n = 113)</td><td>75.52 [63.43-87.61]</td><td>16.07 [13.32-18.83]</td><td>3.69 [2.95-4.43]</td><td>1.50 [1.21-1.79]</td></tr><tr><td>Female (n = 31)</td><td>54.58 [32.82-76.34]</td><td>12.74 [7.82-17.66]</td><td>2.93 [1.61-4.26]</td><td>1.68 [0.95-2.40]</td></tr><tr><td>Ratio (Male/Female)</td><td>0.72</td><td>0.79</td><td>0.79</td><td>1.12</td></tr><tr><td colspan=\"5\">Disease Symptom</td></tr><tr><td>First Symptom at age &lt; = 30 (n = 112)</td><td>66.03 [54.94-77.11]</td><td>14.39 [11.86-16.93]</td><td>3.29 [2.61-3.98]</td><td>1.46 [1.17-1.76]</td></tr><tr><td>First Symptom at age &gt; 30 (n = 32)</td><td>88.47 [60.53-116.40]</td><td>18.72 [12.45-24.99]</td><td>4.34 [2.68-6.01]</td><td>1.81 [1.11-2.51]</td></tr><tr><td>Ratio (first sym. age &gt; 30/age &lt; = 30)</td><td>1.34</td><td>1.30</td><td>1.32</td><td>1.24</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3342092_table_2",
+   "page_num": 3,
+   "bbox": [
+    83.6,
+    128.9,
+    666.6,
+    478.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3342092_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Parent Read Code</td><td rowspan=\"2\">Disease Group</td><td colspan=\"4\">Retrospective</td><td rowspan=\"2\">Prospective 3 months (n = 103)</td></tr><tr><td>10 year (n = 183)</td><td>5 year (n = 164)</td><td>1 year (n = 147)</td><td>3 months (n = 120)</td></tr><tr><td>a</td><td>Gastro-intestinal system drugs</td><td>123</td><td>103</td><td>75</td><td>47</td><td>42</td></tr><tr><td>b</td><td>Cardiovascular system drugs</td><td>69</td><td>65</td><td>50</td><td>39</td><td>36</td></tr><tr><td>c</td><td>Respiratory system drugs</td><td>74</td><td>56</td><td>30</td><td>18</td><td>20</td></tr><tr><td>d</td><td>Central nervous system drugs</td><td>147</td><td>125</td><td>83</td><td>52</td><td>40</td></tr><tr><td>e</td><td>Drugs for infectious diseases</td><td>139</td><td>114</td><td>59</td><td>20</td><td>18</td></tr><tr><td>f</td><td>Endocrine drugs</td><td>63</td><td>56</td><td>29</td><td>19</td><td>13</td></tr><tr><td>g</td><td>Obs/gynae/urinary drugs</td><td>42</td><td>33</td><td>22</td><td>8</td><td>6</td></tr><tr><td>h</td><td>Malignant &amp; immunosuppr. drug</td><td>19</td><td>13</td><td>9</td><td>8</td><td>8</td></tr><tr><td>i</td><td>Haematology/dietetic drugs</td><td>54</td><td>44</td><td>29</td><td>18</td><td>17</td></tr><tr><td>j</td><td>Musculoskeletal &amp; joint drugs</td><td>157</td><td>134</td><td>89</td><td>59</td><td>52</td></tr><tr><td>k</td><td>Eye drugs</td><td>61</td><td>48</td><td>26</td><td>11</td><td>9</td></tr><tr><td>l</td><td>Ear, nose &amp; oropharynx drugs</td><td>61</td><td>48</td><td>16</td><td>7</td><td>6</td></tr><tr><td>m</td><td>Skin drugs</td><td>105</td><td>90</td><td>46</td><td>23</td><td>17</td></tr><tr><td>n</td><td>Immunology drugs &amp; vaccines</td><td>48</td><td>38</td><td>15</td><td>3</td><td>0</td></tr><tr><td>o</td><td>Anaesthetics</td><td>10</td><td>7</td><td>1</td><td>0</td><td>0</td></tr><tr><td>p</td><td>Appliances &amp; reagents etc.</td><td>41</td><td>37</td><td>14</td><td>8</td><td>8</td></tr><tr><td>q</td><td>Incontinence Appliances</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr><td>s</td><td>Contrast media</td><td>8</td><td>8</td><td>5</td><td>3</td><td>2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3342092_table_3",
+   "page_num": 4,
+   "bbox": [
+    81.8,
+    128.9,
+    668.2,
+    512.1
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3342092_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Parent Read Code</td><td rowspan=\"2\">Disease Group</td><td colspan=\"4\">Retrospective</td><td rowspan=\"2\">Prospective 3 months (n = 103)</td></tr><tr><td>10 year (n = 183)</td><td>5 year (n = 164)</td><td>1 year (n = 147)</td><td>3 months (n = 120)</td></tr><tr><td>A</td><td>Infectious/parasitic diseases</td><td>49</td><td>35</td><td>15</td><td>5</td><td>1</td></tr><tr><td>B</td><td>Neoplasms</td><td>26</td><td>16</td><td>1</td><td>0</td><td>0</td></tr><tr><td>C</td><td>Endocr/nutr/metabolic/immun.</td><td>42</td><td>26</td><td>7</td><td>0</td><td>0</td></tr><tr><td>D</td><td>Blood/blood forming organs</td><td>14</td><td>9</td><td>2</td><td>1</td><td>1</td></tr><tr><td>E</td><td>Mental disorders</td><td>35</td><td>26</td><td>10</td><td>4</td><td>0</td></tr><tr><td>F</td><td>Nervous system/sense organ</td><td>92</td><td>78</td><td>25</td><td>13</td><td>3</td></tr><tr><td>G</td><td>Circulatory system diseases</td><td>67</td><td>44</td><td>6</td><td>3</td><td>4</td></tr><tr><td>H</td><td>Respiratory system disorders</td><td>88</td><td>72</td><td>25</td><td>4</td><td>5</td></tr><tr><td>J</td><td>Digestive system disorders</td><td>81</td><td>47</td><td>14</td><td>6</td><td>7</td></tr><tr><td>K</td><td>Genitourinary system diseases</td><td>47</td><td>36</td><td>8</td><td>1</td><td>0</td></tr><tr><td>L</td><td>Pregnancy/childbirth/puerperium</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>M</td><td>Skin/subcutaneous tissue diseases</td><td>94</td><td>77</td><td>27</td><td>3</td><td>6</td></tr><tr><td>N</td><td>Musculoskeletal/connective tissue</td><td>149</td><td>110</td><td>36</td><td>9</td><td>11</td></tr><tr><td>P</td><td>Congenital anomalies</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Q</td><td>Perinatal conditions</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>R</td><td>Symptoms, signs, ill-defined conditions</td><td>60</td><td>48</td><td>14</td><td>4</td><td>4</td></tr><tr><td>S</td><td>Injury and self poisoning</td><td>56</td><td>31</td><td>9</td><td>1</td><td>2</td></tr><tr><td>T</td><td>Causes of injury/poisoning</td><td>21</td><td>12</td><td>3</td><td>0</td><td>0</td></tr><tr><td>U</td><td>External causes morbdty/mortlty</td><td>2</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Z</td><td>Unspecified conditions</td><td>29</td><td>22</td><td>5</td><td>3</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3342092_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    128.9,
+    661.6,
+    705.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3342092_table_4.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Number of OP Visits from linked data (Mean [95% CI])</td><td rowspan=\"2\"># of self-reported OP visits from Questionnaire 4</td><td colspan=\"3\">Average Number of IP admissions from linked data (Mean [95% CI])</td><td rowspan=\"2\"># of self-reported IP admissions from Questionnaire 8</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>5</td><td>6</td><td>7</td></tr><tr><td>Patient Stratification Schemes</td><td>5 year</td><td>1 year</td><td>3 month recall period</td><td>3 months recall period</td><td>5 year</td><td>1 year</td><td>3 month recall period</td><td>3 months recall period</td></tr><tr><td colspan=\"9\">Disease Severity Index</td></tr><tr><td>Low (BASDAI &lt; 40) (n = 119 &amp; 133)</td><td>16.78 [13.50- 20.06]</td><td>3.84 [2.96- 4.72]</td><td>0.87 [0.64-1.09]</td><td>1.06 [0.76-1.36]</td><td>2.43 [1.38- 3.48]</td><td>0.59 [0.26- 0.91]</td><td>0.11 [0.05-0.17]</td><td>0.08 [0.03-0.13]</td></tr><tr><td>High (BASDAI &gt; = 40) (n = 117 &amp; 163)</td><td>21.89 [16.87- 26.91]</td><td>6.12 [4.29- 7.95]</td><td>1.51 [1.06-1.97]</td><td>2.55 [1.54-3.55]</td><td>3.01 [2.27- 3.76]</td><td>0.74 [0.51- 0.97]</td><td>0.17 [0.10-0.23]</td><td>0.14 [0.07-0.21]</td></tr><tr><td colspan=\"9\">Disease Functional Index</td></tr><tr><td>Low (BASFI &lt; 40) (n = 110 &amp; 117)</td><td>14.17 [11.23- 17.12]</td><td>3.05 [2.28- 3.81]</td><td>0.73 [0.53-0.93]</td><td>0.90 [0.62-1.18]</td><td>2.31 [1.06- 3.55]</td><td>0.46 [0.12- 0.80]</td><td>0.11 [0.05-0.17]</td><td>0.05 [0.01-0.09]</td></tr><tr><td>High (BASFI &gt; = 40) (n = 126 &amp; 179)</td><td>23.80 [18.93- 28.67]</td><td>6.65 [4.92- 8.39]</td><td>1.59 [1.16-2.02]</td><td>2.58 [1.64-3.52]</td><td>3.04 [2.40- 3.69]</td><td>0.81 [0.58- 1.04]</td><td>0.16 [0.10-0.22]</td><td>0.16 [0.09-0.23]</td></tr><tr><td colspan=\"9\">Age</td></tr><tr><td>Age &lt; 50 (n = 90 &amp; 164)</td><td>18.29 [14.64- 21.94]</td><td>5.07 [3.10- 7.03]</td><td>1.30 [0.81-1.79]</td><td>1.72 [0.80-2.65]</td><td>1.91 [1.29- 2.54]</td><td>0.49 [0.24- 0.74]</td><td>0.16 [0.08-0.25]</td><td>0.05 [0.01-0.09]</td></tr><tr><td>Age &gt; = 50 (n = 146 &amp; 192)</td><td>19.95 [15.65- 24.24]</td><td>4.91 [3.79- 6.03]</td><td>1.12 [0.84-1.39]</td><td>1.84 [1.20-2.48]</td><td>3.21 [2.31- 4.11]</td><td>0.77 [0.51- 1.04]</td><td>0.13 [0.08-0.18]</td><td>0.15 [0.08-0.22]</td></tr><tr><td colspan=\"9\">Sex</td></tr><tr><td>Male (n = 183 &amp; 218)</td><td>18.20 [14.85- 21.55]</td><td>4.35 [3.48- 5.22]</td><td>1.02 [0.79-1.25]</td><td>1.60 [1.08-2.12]</td><td>2.47 [1.96- 2.97]</td><td>0.55 [0.40- 0.69]</td><td>0.13 [0.08-0.18]</td><td>0.10 [0.05-0.15]</td></tr><tr><td>Female (n = 53 &amp; 76)</td><td>23.15 [16.50- 29.80]</td><td>7.11 [3.71- 10.52]</td><td>1.77 [0.98-2.57]</td><td>2.47 [0.95-4.00]</td><td>3.59 [1.62- 5.57]</td><td>1.03 [0.40- 1.66]</td><td>0.16 [0.06-0.26]</td><td>0.14 [0.05-0.24]</td></tr><tr><td colspan=\"9\">Disease Symptom</td></tr><tr><td>First Symptom at age &lt; = 30 (n = 182 &amp; 226)</td><td>19.04 [15.51- 22.57]</td><td>4.81 [3.59- 6.04]</td><td>1.23 [0.92-1.54]</td><td>1.85 [1.20-2.51]</td><td>2.38 [1.95- 2.81]</td><td>0.58 [0.42- 0.73]</td><td>0.14 [0.09-0.19]</td><td>0.10 [0.05-0.15]</td></tr><tr><td>First Symptom at age &gt; 30 (n = 54 &amp; 70)</td><td>20.22 [14.69- 25.75]</td><td>5.50 [3.86- 7.14]</td><td>1.04 [0.68-1.40]</td><td>1.61 [0.95-2.27]</td><td>3.97 [1.71- 6.23]</td><td>0.99 [0.33- 1.65]</td><td>0.16 [0.05-0.26]</td><td>0.17 [0.06-0.28]</td></tr></table>"
+  }
+ ]
+}

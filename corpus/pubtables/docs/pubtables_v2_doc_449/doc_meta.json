@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_449",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4471113_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.1,
+    725.0,
+    467.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4471113_table_0.png",
+   "html": "<table><tr><td>Region</td><td>N&#176;</td><td>Name of the selected sites</td><td>Geographic location of site (Urban or Rural)</td><td>Healthcare category (Primary, Secondary, or Tertiary)</td><td>Patients enrolled on ART in 2012</td><td>Sample size (WHO guidelines)</td></tr><tr><td rowspan=\"9\">Centre</td><td>1</td><td>Yaound&#233; Central Hospital</td><td>Urban</td><td>Secondary</td><td>1921</td><td>180</td></tr><tr><td>2</td><td>National Social Welfare Hospital</td><td>Urban</td><td>Secondary</td><td>796</td><td>160</td></tr><tr><td>3</td><td>Yaound&#233; Jamot Hospital</td><td>Urban</td><td>Secondary</td><td>938</td><td>175</td></tr><tr><td>4</td><td>Yaounde General Hospital</td><td>Urban</td><td>Tertiary</td><td>421</td><td>140</td></tr><tr><td>5</td><td>Yaound&#233; Pediatric and Gyneco-Obstetric Hospital</td><td>Urban</td><td>Tertiary</td><td>263</td><td>120</td></tr><tr><td>6</td><td>University Health Centre&#8212; Yaound&#233;</td><td>Urban</td><td>Tertiary</td><td>634</td><td>155</td></tr><tr><td>7</td><td>Cit&#233; Verte District Hospital</td><td>Urban</td><td>Primary</td><td>435</td><td>145</td></tr><tr><td>8</td><td>Mbalmayo District Hospital</td><td>Rural</td><td>Primary</td><td>323</td><td>130</td></tr><tr><td>9</td><td>Obala District Hospital</td><td>Rural</td><td>Primary</td><td>254</td><td>120</td></tr><tr><td rowspan=\"6\">Littoral</td><td>10</td><td>Douala Laquintinie Hospital</td><td>Urban</td><td>Secondary</td><td>615</td><td>155</td></tr><tr><td>11</td><td>Douala General Hospital</td><td>Urban</td><td>Tertiary</td><td>377</td><td>135</td></tr><tr><td>12</td><td>Nylon District Hospital</td><td>Urban</td><td>Primary</td><td>958</td><td>175</td></tr><tr><td>13</td><td>Saint jean Malte Hospital of Njombe</td><td>Rural</td><td>Primary</td><td>260</td><td>120</td></tr><tr><td>14</td><td>Nkongsamba District Hospital</td><td>Rural</td><td>Primary</td><td>381</td><td>135</td></tr><tr><td>15</td><td>Ed&#233;a District Hospital</td><td>Rural</td><td>Primary</td><td>292</td><td>120</td></tr><tr><td colspan=\"6\">Total</td><td>2165</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4471113_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    726.5,
+    462.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4471113_table_1.png",
+   "html": "<table><tr><td>EWI and title</td><td>Definition</td><td>Numerator</td><td>Denominator</td><td>Target</td></tr><tr><td>EWI1: On-time pill pick-up.</td><td>Proportion of patients (adult or children) that pick-up ART no more than two days late at the first pick-up after the baseline pick-up.</td><td>Number of patients picking-up their ART &#8220;on time&#8221; at the first drug pick- up after baseline pick-up date.</td><td>Number of patients who picked- up ARV drugs on or after the designated EWI sample start date.</td><td>Desirable performance (green): &gt;90%; fair performance (amber): 80&#8211;90%; poor performance (red): &lt;80%.</td></tr><tr><td>EWI2: Retention in care.</td><td>Percentage of adults and children known to be alive and on ART 12 months after initiation.</td><td>Number of adults (or children) who are still alive and on ART 12 months after initiating treatment.</td><td>Total number of adults or children (excluding transfers out) who initiated ART and were expected to achieve 12-month outcomes within the reporting period.</td><td>Desirable performance (green): &gt;85%; fair performance (amber): 75&#8211;85%; poor performance (red): &lt;75%.</td></tr><tr><td>EWI3: Pharmacy stock-outs.</td><td>Percentage of months in a designated year in which there were no ARV drug stock-outs (both for adult and pediatric patients).</td><td>Number of months in the designated year in which there were no stock-out days of any ARV drug routinely used at the site.</td><td>12 months of the reporting period.</td><td>Desirable performance (green): 100%; poor performance (red): &lt;100%.</td></tr><tr><td>EWI4: Pharmacy dispensing practice.</td><td>Percentage of patients (adults or children) being dispensed a mono- or dual-ART.</td><td>Number of patients who pick up from the pharmacy, a regimen consisting of one or two ARVs.</td><td>Number of patients picking up ART on or after the designated EWI sample start date</td><td>Desirable performance (green) defined as 0% patients picking-up a mono- or dual-ART; poor performance (red) defined as &gt;0% patients picking-up a mono- or dual-ART.</td></tr><tr><td>EWI5: Virological suppression.</td><td>Percentage of patients (adult or children) receiving ART at the site after the first 12 months of ART whose viral load is &lt;1000 copies/ml.</td><td>Number of patients receiving ART at the site after the first 12 months of ART whose viral load is &lt;1000 copies/ml.</td><td>Number of patients at the site who by national policy should have had a viral load performed 12 months after ART initiation.</td><td>Desirable performance (green): &gt;85%; fair performance (amber): 70&#8211;85%; poor performance (red): &lt;70%.</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4471113_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    174.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4471113_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">EWI Performance</td><td colspan=\"3\">EWI1</td><td colspan=\"3\">EWI2</td><td colspan=\"2\">EWI3</td><td colspan=\"2\">EWI4</td><td rowspan=\"2\">EWI5 NA</td></tr><tr><td>Desirable</td><td>Fair</td><td>&#10070;Poor</td><td>Desirable</td><td>Fair</td><td>&#10070;Poor</td><td>Desirable</td><td>&#10070;Poor</td><td>Desirable</td><td>&#10070;Poor</td></tr><tr><td>Sites (%)</td><td>33,3% (4/ 12)</td><td>25% (3/ 12)</td><td>41,6% (5/ 12)</td><td>69,2% (9/ 13)</td><td>7,8% (1/ 13)</td><td>23% (3/ 13)</td><td>14,4% (2/ 14)</td><td>85,6% (12/ 14)</td><td>100% (15/ 15)</td><td>0% (0/ 15)</td><td>NA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4471113_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    646.6,
+    726.7,
+    836.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4471113_table_3.png",
+   "html": "<table><tr><td>EWI</td><td>Target performance</td><td>Urban Sites (10)</td><td>Rural Sites (05)</td><td>P-value</td></tr><tr><td rowspan=\"3\">EWI1</td><td>Desirable (&gt;90%),</td><td>57.1% (4/7)</td><td>0% (0/5)</td><td>&lt; 0.0001</td></tr><tr><td>Fair (80&#8211;90%)</td><td>28.6% (2/7)</td><td>20% (1/5)</td><td>0.05</td></tr><tr><td>&#10070;Poor (&lt;80%)</td><td>14.3% (1/7)</td><td>80% (4/5)</td><td>0.0001</td></tr><tr><td rowspan=\"3\">EWI2</td><td>Desirable (&gt;85%)</td><td>77.8% (7/9)</td><td>50% (2/4)</td><td>0.01</td></tr><tr><td>Fair (75&#8211;85%)</td><td>11.1% (1/9)</td><td>0% (0/4)</td><td>0.4</td></tr><tr><td>&#10070;Poor (&lt;75%)</td><td>11.1% (1/9)</td><td>50% (2/4)</td><td>0.0001</td></tr><tr><td rowspan=\"2\">EWI3</td><td>Desirable (100%)</td><td>11.1% (1/9)</td><td>25% (1/5)</td><td>0.02</td></tr><tr><td>&#10070;Poor (&lt;100%)</td><td>88.9% (8/9)</td><td>75% (4/5)</td><td>0.22</td></tr><tr><td rowspan=\"2\">EWI4</td><td>Desirable (0%)</td><td>100% (10/10)</td><td>100% (5/5)</td><td>0.9</td></tr><tr><td>&#10070;Poor (&gt;0%)</td><td>0% (0/10)</td><td>0% (0/0)</td><td>1</td></tr><tr><td>EWI5</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4471113_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    305.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4471113_table_4.png",
+   "html": "<table><tr><td>EWI</td><td>Target performance</td><td>Secondary/Tertiary Levels (08)</td><td>Primary Level (07)</td><td>P-value</td></tr><tr><td rowspan=\"3\">EWI1</td><td>Desirable (&gt;90%)</td><td>60% (3/5)</td><td>14.3% (1/7)</td><td>0.001</td></tr><tr><td>Fair (80&#8211;90%)</td><td>20% (1/5)</td><td>28.6% (2/7)</td><td>0.7</td></tr><tr><td>&#10070;Poor (&lt;80%)</td><td>20% (1/5)</td><td>57.1% (4/7)</td><td>0.00002</td></tr><tr><td rowspan=\"3\">EWI2</td><td>Desirable (&gt;85%)</td><td>71.4% (5/7)</td><td>66.7% (4/6)</td><td>0,8</td></tr><tr><td>Fair (75&#8211;85%)</td><td>14.3% (1/7)</td><td>0% (0/6)</td><td>&lt; 0.0001</td></tr><tr><td>&#10070;Poor (&lt;75%)</td><td>14.3% (1/7)</td><td>33.3% (2/6)</td><td>0.005</td></tr><tr><td rowspan=\"2\">EWI3</td><td>Desirable (100%)</td><td>0% (0/7)</td><td>28.6% (2/7)</td><td>0.03</td></tr><tr><td>&#10070;Poor (&lt;100%)</td><td>100% (7/7)</td><td>71.4% (5/7)</td><td>0.0289</td></tr><tr><td rowspan=\"2\">EWI4</td><td>Desirable (0%)</td><td>100% (8/8)</td><td>100% (7/7)</td><td>0.99</td></tr><tr><td>&#10070;Poor (&gt;0%)</td><td>0% (0/0)</td><td>0% (0/0)</td><td>1</td></tr><tr><td>EWI5</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_189",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    66.0,
+    580.0,
+    128.0
+   ],
+   "ocr": "In the AbbVie pharmaceutical pipeline as of March 2025, the first table details two drugs: ABBV-181, which is in Phase 3, with a status of Positive, an estimated cost of CHF 200M, projected launch in 2026, and CHF 250M allocated for clinical trials; and ABBV-202, currently in Phase 2, with an ongoing status, estimated cost of CHF 150M, projected launch also in 2026, and CHF 250M for clinical trials."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    155.0,
+    580.0,
+    303.0
+   ],
+   "ocr": "DrugName DevelopmentPhase\nStatus Category\nEstimatedCost ProjectedLaunch\nClinicalTrials CHF250M\nABBV-181 Phase3 Positive\nCHF200M 2026 ABBV-202\nPhase2 Ongoing CHF150M",
+   "table_id": "img_214367_t0"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    318.0,
+    580.0,
+    425.0
+   ],
+   "ocr": "The second table outlines the approval timeline for five drugs: DrugA, which is in Phase 1, has a clinical trial cost of 15M, completed in Q1 2025, with regulatory submission in 2023, approval in 2024, market launch in 2025, and projected revenue of CHF 50M; DrugB is ongoing, with an approval timeline starting in Q2 2025 at a cost of 20M; DrugC is delayed, with a clinical trial cost of 10M, regulatory submission in 2023, approval in 2024, market launch in 2025, and revenue of 30M; DrugD, completed, has a clinical trial cost of 25M, regulatory submission in 2023, approval in 2024, market launch in 2025, and revenue of CHF 40M; and DrugE is ongoing with a cost of 18M, regulatory submission in 2023, approval in 2024, market launch in 2025, and revenue of 28M."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    449.0,
+    580.0,
+    727.0
+   ],
+   "ocr": "DrugName ApprovalTimeline\nPhase Cost(CHF)\nClinicalTrials Preclinical Phase1\nPhase2 Phase3 RegulatorySubmission ApprovalDate MarketLaunch Revenue(CHF)\nDrugA Q12025 Completed 15M 2023 2024 2025 2026 50M DrugB Q22025 Ongoing\n20M 2023 2024 2025 2026 30M DrugC Q32025 Delayed 10M 2023 2024\nDrugD Q42025 Completed 25M 2023 2024 2025 2026 40M DrugE Q12025 Ongoing\n18M 2023 2024 2025 2026 28M Total 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0 0 0",
+   "table_id": "img_214367_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    742.0,
+    580.0,
+    758.0
+   ],
+   "ocr": "The total for these clinical trials is 0 across all phases."
+  }
+ }
+}

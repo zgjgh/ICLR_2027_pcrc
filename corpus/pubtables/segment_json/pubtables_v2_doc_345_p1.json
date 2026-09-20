@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_345",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    311.0,
+    65.8
+   ],
+   "ocr": "Ongenae et al. BMC Health Services Research 2011, 11:26 http://www.biomedcentral.com/1472-6963/11/26"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 10 of 28"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    359.7,
+    125.7,
+    666.1,
+    211.5
+   ],
+   "ocr": "current_task Task hasTime Time forseen_task Highest- High- Priority Priority hasPriority Above- Normal- current_task Priority elevate_priority Priority"
+  },
+  "p1_b3": {
+   "type": "title",
+   "bbox": [
+    277.1,
+    134.4,
+    290.1,
+    141.5
+   ],
+   "ocr": "Staff"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    129.8,
+    166.1,
+    255.2,
+    188.2
+   ],
+   "ocr": "execute_on Urgency-"
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    275.2,
+    185.0,
+    347.1,
+    192.0
+   ],
+   "ocr": "Technician Medic"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    234.3,
+    188.8,
+    333.4,
+    203.0
+   ],
+   "ocr": "Team tech_treats"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    115.8,
+    200.4,
+    378.3,
+    225.8
+   ],
+   "ocr": "urgency_treats Helper treated_by_urgency nurse_handles med_treats"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    471.8,
+    208.2,
+    666.1,
+    257.4
+   ],
+   "ocr": "Normal- Priority CallStatus Below- Normal- Priority Lowest- Low-"
+  },
+  "p1_b9": {
+   "type": "title",
+   "bbox": [
+    179.8,
+    222.0,
+    299.2,
+    236.9
+   ],
+   "ocr": "Sanitary- treated_by_nurse Assistance"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    149.2,
+    234.2,
+    381.7,
+    360.7
+   ],
+   "ocr": "treated_by_med nurse_makes_call call_made_by_nurse treated_by_nurse nurse_handles nurse_makes_call Assistance Nurse call_made_by_nurse nurse_makes_call Urgency call_made_by_nurse treated_by_tech nurse_makes_call Technical call_made_by_nurse nurse_makes_call"
+  },
+  "p1_b11": {
+   "type": "title",
+   "bbox": [
+    503.4,
+    253.8,
+    533.3,
+    260.9
+   ],
+   "ocr": "hasPriority"
+  },
+  "p1_b12": {
+   "type": "title",
+   "bbox": [
+    471.0,
+    257.9,
+    626.0,
+    271.5
+   ],
+   "ocr": "Priority Priority has_status"
+  },
+  "p1_b13": {
+   "type": "title",
+   "bbox": [
+    480.8,
+    303.2,
+    491.7,
+    310.3
+   ],
+   "ocr": "Call"
+  },
+  "p1_b14": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    357.8,
+    382.9,
+    557.6
+   ],
+   "ocr": "Medical call_made_by_nurse nurse_handles treated_by_nurse patient_makes_call Normal call_made_by_patient Patient patient_makes_call Sanitary call_made_by_patient patient_makes_call Service call_made_by_patient nurse_handles treated_by_nurse treated_by_helper helper_treats Figure 5 Fragment of the ontology that models the context models the calls and tasks. It mainly indicates which calls can be made handle these calls. Additionally, it models the possible priorities that a the striped lines indicate subclass relationships. The other arrows and lines"
+  },
+  "p1_b15": {
+   "type": "title",
+   "bbox": [
+    407.1,
+    367.5,
+    490.1,
+    382.1
+   ],
+   "ocr": "device_makes_call Device"
+  },
+  "p1_b16": {
+   "type": "title",
+   "bbox": [
+    553.6,
+    441.0,
+    604.8,
+    458.0
+   ],
+   "ocr": "Legend : is_a"
+  },
+  "p1_b17": {
+   "type": "paragraph",
+   "bbox": [
+    356.4,
+    508.5,
+    670.8,
+    557.6
+   ],
+   "ocr": "information about the calls and tasks. Fragment of the ontology which by patients and staff members and which staff members are allowed to calls or tasks can have. The squares represent the classes. The arrows with indicate relations between classes (object properties)."
+  },
+  "p1_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    582.8,
+    678.6,
+    859.0
+   ],
+   "ocr": "probability that a patient from a particular risk group makes a Normal call with a particular priority, as shown in Table 2. Pronto combines this information with the previously calculated probability intervals which indicate that Patient1 is a High, Medium and Low Risk patient. Pronto concludes that the Normal call of Patient1 has respectively [0,1], [0.1,0.6], [0.3,0.8], [0.1,0.6], [0,1], [0,1], [0,1] chance of having the Highest, High, Above Normal, Normal, Below Normal, Low and Lowest priority. As shown in the previous example, Pronto calculates for each of the seven possible priorities, the probability that the call has this priority. However, one priority needs to be assigned to the call, so this priority can be used in the nurse call algorithm, see The nurse call Table 1 The probabilistic assignment of patients to risk groups based on their risk factors"
+  },
+  "p1_b19": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    582.9,
+    366.1,
+    912.8
+   ],
+   "ocr": "To model the probabilistic information in the ontol- ogy and reason about it, Pronto [26] was used. Pronto implements a probabilistic extension of Description Logics (DLs) [27], the First-Order Logic on which OWL is based [28]. Pronto was chosen because it is easy to use and understand and offers a wide range of reasoning support. All the reasoning is done in a totally logical way without an implicit or explicit translation of the Knowledge Base to for example a Bayesian network. By using Pronto, the probability that a specific call made by a specific patient has a certain priority can be deter- mined. For example, suppose we have a patient, called Patient1, who has two risk factors, namely Dia- betes and a Heart disease. Patient1 then makes a Normal call. The ontology contains the probabilistic information (as probabilistic intervals) that a patient with one of these risk factors is a High, Medium and Low Risk patient, as can be seen in Table 1. Pronto reasons on this information to conclude that Patient1 has [0.5,1], [0,0.3] and [0,0.1] chance of being a High, Medium and Low Risk patient respectively. The ontol- ogy also contains probabilistic information about the"
+  },
+  "p1_b20": {
+   "type": "table",
+   "bbox": [
+    388.9,
+    863.9,
+    673.6,
+    907.0
+   ],
+   "ocr": "Patient has risk factor High Risk Medium Risk Low Risk\nDiabetes [0.5,1] [0,0.3] [0,0.2]\nHeart disease [0.5,1] [0,0.4] [0,0.1]",
+   "table_id": "PMC3045288_table_0"
+  }
+ }
+}

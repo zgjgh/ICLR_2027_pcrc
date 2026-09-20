@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_196",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    120.0,
+    580.0,
+    331.0
+   ],
+   "ocr": "InvestmentType Amount($M) YoYChange(%) MarketShare(%) RiskLevel ReturnRate(%)\nEquities 250 5 35 Medium 8.5\nBonds 150 3 25 Low 4.2\nRealEstate 75 10 15 Medium 6.0\nCommodities 50 -2 10 High 7.5\nCash 30 1 5 Low 2.0\nTotalInvestments 555 4 100 N/A 5.6\nGrowthProjection 3% ExpectedReturn 6.5% RiskAdjustment Moderate\nPortfolioDiversification High StrategicFocus Long-term RegulatoryCompliance Yes",
+   "table_id": "img_223976_t0"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    362,
+    580,
+    389
+   ],
+   "ocr": "In the Investment portfolio returns and Claims loss ratio trends for Allianz SE in 2Q FY2025, the first table presents data on various investment types."
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    377,
+    580,
+    420
+   ],
+   "ocr": "The InvestmentType column indicates Equities at $250M with a YoYChange of 5%, MarketShare of 35%, RiskLevel classified as Medium, and a ReturnRate of 8.5%. Bonds amount to $150M, reflecting a YoYChange of 3%, a MarketShare of 25%, a Low RiskLevel, and a ReturnRate of 4.2%."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    459.0,
+    580.0,
+    602.0
+   ],
+   "ocr": "ClaimType LossRatio\nAuto 35.5%\nClaimsOverview TotalClaimsAmount\nHome 25.2% CAD12M\nLiability 40.1% CAD8M\nHealth 30.3% CAD5M\nTotal 32.2% CAD25M",
+   "table_id": "img_223976_t1"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    628,
+    580,
+    686
+   ],
+   "ocr": "Real Estate holds $75M, showing a YoYChange of 10%, 15% MarketShare, Medium RiskLevel, and a ReturnRate of 6.0%. Commodities are valued at $50M, with a YoYChange of -2%, 10% MarketShare, High RiskLevel, and a ReturnRate of 7.5%. Cash totals $30M, with a 1% YoYChange, 5% MarketShare, Low RiskLevel, and a ReturnRate of 2.0%. Total Investments aggregate to $555M, a YoYChange of 4%, 100% MarketShare, N/A RiskLevel, and a ReturnRate of 5.6%."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    674,
+    580,
+    747
+   ],
+   "ocr": "Growth Projection is 3% with an Expected Return of 6.5%, and Risk Adjustment is Moderate. Portfolio Diversification is High, with Strategic Focus on Long-term and Regulatory Compliance marked as Yes. The second table details claims loss ratios, where Auto is at 35.5%, Home at 25.2% with Total Claims Amount of CAD12M, Liability at 40.1% with CAD8M, Health at 30.3% with CAD5M, and Total loss ratio at 32.2% with Total Claims Amount of CAD25M."
+  }
+ }
+}

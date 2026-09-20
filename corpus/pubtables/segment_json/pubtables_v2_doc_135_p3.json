@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_135",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Chen et al. BMC Bioinformatics 2011, 12:311 http://www.biomedcentral.com/1471-2105/12/311"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 9 of 14"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    762.5
+   ],
+   "ocr": "conservation score shows a less contribution ratio in sequence-based model (ΔF = 0.01). Comparison with other methods on independent test set To further validate the effectiveness of this sequence- based SVM approach, we compare our predictions with the predictions of other machine learning approaches on the same test set. This independent test set is obtained from Binding Interface Database (BID) [56], and contains 80 hot spots and 68 non-hot spots. These machine learning approaches are implemented on Weka platform [88]. We report the detailed results in Table 5. As observed from comparisons among these machine learning methods, the best prediction, in terms of F1 score, is achieved with RBFNNetwork method (F1 = 0.66). Nevertheless, these machine learning methods do not outperform SVMs approach (F1 = 0.68). The reason behind the differences of predictive performance possi- bly lies in the unbalanced distribution of two classes and the inapplicability of data set to some methods. Comparing with previously related studies on hot spots prediction is difficult, probably because data sets, hot spots definition, and evaluation measures are differ- ent. Moreover, it’s not fair to compare the predictive power of methods based only on the quoted results. Therefore, we compare our prediction results with two energy-based methods Robetta [41] and FOLDEF [45], which are available via the internet on their web servers. The Robetta method is designed to predict the actual value of ΔΔG on the basis of a free energy function. In the original study, predicted and experimental hot spots are defined as those residues with ΔΔG ≥1 kcal.mol-1. We adopt this definition of a hot spot when training our model. The FOLD-X energy function (FOLDEF) method is developed to estimate the importance of the interactions which contribute to the stability of proteins and protein complexes. This method utilizes a full atomic description of the structure of the proteins. Also, it is based on energy function that takes into account different energy terms and predicts the change in Table 5 Prediction results of machine-learning methods on independent test set"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.3,
+    678.7,
+    807.7
+   ],
+   "ocr": "interaction energy [45]. In FOLDEF computation results, a threshold of 1 kcal.mol-1 is used to define predicted hot spots. The predicted results on independent test set are listed in Table 6. The F1 score is an effective metric to balance precision and recall rates, and gauges the relationship between them. The predictive performance of Robetta on independent test set is as follows: P = 0.66, R = 0.49 and F1 = 0.56. The FOLDEF method achieves an inferior result, with P = 0.50, R = 0.44 and F1 = 0.47. The sequence-based SVM method has the best results (F1 = 0.68). Cho’s method gets the F1 of 0.57 on independent test set for the hot spots definitions of ΔΔG ≥1 kcal.mol-1. Prediction examples The X-ray crystal structure of a complex of EMP1 with the extracellular domain of the erythropoietin (EPO) receptor (EPO binding protein, EBP) (PDB: 1EBP) was previously reported by Livnah et al [89]. EMP1 is a pep- tide that is one of a series of related peptides discovered by phage display methodology, and possesses effective erythropoietin (EPO) mimetic action. Erythropoietin (EPO) is a hormone which regulates the cell prolifera- tion and differentiation. EPO competes with EMP1 for receptor binding. Four residues in EPO receptor were analyzed through alanine scanning mutagenesis, and three out of four were found to be important for bind- ing [90]. Experimentally identified hot spot residues in EPO receptor are F93, M150 and F205. T151 is experi- mentally assayed as a non-hot spot residue (from BID). The sequence-based SVM approach predicts two of three hot spots correctly (F93 and F205) and one non- hot spot (T151, see Figure 8a). While only one hot spot is incorrectly predicted as non-hot spot (M150). This corresponds to a better result with P = 1, R = 0.67, and F1 = 0.8. However, Robetta and FOLDEF methods pre- dict M150 as hot spot correctly and other residues as non-hot spots. A second example is the protein complex formed by beta-catenin and adenomatous polyposis coli (APC) (PDB: 1JPP) [91]. Beta-catenin is a cytosolic protein which has essential roles in cell adhesion and in the Wnt signaling pathway. The adenomatous polyposis coli Table 6 Comparison of different methods for hot spots prediction on independent test set"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    767.4,
+    349.0,
+    915.9
+   ],
+   "ocr": "Method P R F1\nBaysNet 0.65 0.54 0.59\nLogistic 0.62 0.63 0.62\nRBFNNetwork 0.63 0.69 0.66\nDecision Tree 0.66 0.60 0.63\nRandom Forest 0.68 0.55 0.61\nRules NNge 0.67 0.56 0.61\nLazy Kstar 0.63 0.51 0.57\nRandom Tree 0.61 0.50 0.55\nSequence-based SVM 0.69 0.68 0.68",
+   "table_id": "PMC3176265_table_4"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    812.6,
+    661.5,
+    915.9
+   ],
+   "ocr": "Method P R F1\nRobetta 0.66 0.49 0.56\nFOLDEF 0.50 0.44 0.47\nCho’s method 0.53 0.62 0.57\nSequence-based SVM 0.69 0.68 0.68\nStructure-based SVM 0.62 0.70 0.66\nAll features SVM 0.65 0.63 0.64",
+   "table_id": "PMC3176265_table_5"
+  }
+ }
+}

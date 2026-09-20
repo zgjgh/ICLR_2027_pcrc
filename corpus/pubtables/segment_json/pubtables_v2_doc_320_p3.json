@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_320",
+  "page": 3,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    56.3,
+    677.7,
+    81.3
+   ],
+   "ocr": "Xu et al. BMC Genomics 2010, 11:246 Page 8 of 17 http://www.biomedcentral.com/1471-2164/11/246"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    117.8,
+    678.4,
+    661.3
+   ],
+   "ocr": "expressed genes, 52 miRNAs showed a two-fold or public unigenes from sweet orange in TIGR gene index greater (ratio > 2 or < 0.5) expression difference between database http://compbio.dfci.harvard.edu/tgi/cgi-bin/tgi/ MT and WT. Table 4 summarized the 20 miRNAs with GO_browser.pl?species=Orange&gi_dir=csgi; the analy- the most significant expression changes between WT and sis revealed that the striking differences lies in the high MT. percentage of nucleus, plastid and chloroplast for cellular To confirm the expression difference of the miRNA, we component, and overpresentation of regulation of tran- analyzed the expression of 21 known miRNA genes using scription, protein modification and photosynthesis for stem-loop qRT-PCR in addition to the 12 novel miRNA biological process in this study. genes described earlier. The expression level of each gene The biological interpretation of the target genes of dif- in the MT and WT was compared with its abundance ferential miRNAs was further completed using KEGG from the sequencing data of the sRNA library. Results pathway analysis. A total of 15 different metabolic path- showed that among the 33 miRNAs, 18 known miRNAs ways were found (Table 5), of which some were consistent and 8 novel miRNAs have the same expression pattern in with biological processes that already revealed by GO WT and MT as that from sequencing data (Figure 4B). analysis. The most represented pathways included carbon fixation (8 enzymes represented), fatty acid metabolism Annotation of potential targets of differentially expressed (5), flavonoid biosynthesis (6), terpenoid biosynthesis (3), miRNAs and ubiquitin mediated proteolysis (3). Functional annotations were further performed to inves- High ranked target genes of the differentially expressed tigate which processes are differentially regulated by miR- miRNAs were those implicated in three biological pro- NAs in the mutant. A total of 418 potential target genes cesses including regulation of transcription, protein mod- were predicted based on the 60 differentially expressed ification and photosynthesis. It is easy to understand the miRNAs in sweet orange (Additional file 11). Interest- high frequency of terms 'regulation of transcription' and ingly, the potential targets included two important caro- 'protein modification' since miRNA are involved in tenogenic genes, i.e. geranylgeranyl pyrophosphate diverse regulatory events [64]. However, the biological synthase (GGPS) gene which targeted by csi-miR167 and process of photosynthesis needs to be verified. Moreover, lycopene β-cyclase (LYCb) gene which targeted by csi- two carotenogenic genes were also predicted to be tar- miR1857. To evaluate the potential functions of these geted by miRNAs. We further analyzed one gene involved miRNA-target genes, gene ontology (GO) categories in the carbon fixation (miR319a and putative target phos- were assigned to the putative targets of the 60 differen- phoenolpyruvate carboxylase [TC11997]) and another tially expressed miRNA genes according to the method gene involved in carotenoid biosynthesis (miR1857 and described by Morin et al. [63]. Figure 5 summarized the putative target lycopene β-cyclase [LYCb]). The results categorization of miRNA-target genes according to the showed that the expression profiles of miRNAs are com- cellular component, molecular function, and biological plementary to the profiles of their target genes (Figure 6), process. Based on molecular function, the genes were implied the possible roles of miRNAs in regulation of the finally classified into 13 categories, as shown in Figure 5B; biological processes that involved in shaping the mutant the most three over-represented GO terms are metal ion"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    383.8,
+    646.8,
+    491.7,
+    665.1
+   ],
+   "ocr": "trait in sweet orange."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    658.1,
+    678.4,
+    736.8
+   ],
+   "ocr": "binding, nucleic acid binding, and transcription factor activity. Categories based on biological processes Discussion revealed that the miRNA-target genes were related to 17 We have characterized the small RNA transcriptome in a biological processes; the most three frequent terms are red-flesh mutant that with abnormal pattern of lycopene regulation of transcription, signal transduction, protein"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    722.4,
+    678.4,
+    740.6
+   ],
+   "ocr": "accumulation and its wild type. With deep sequencing"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    733.7,
+    365.9,
+    752.0
+   ],
+   "ocr": "modification (Figure 5C). Moreover, GO representations"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.8,
+    737.5,
+    678.3,
+    755.7
+   ],
+   "ocr": "strategy by Illumina platform, it provides us not only"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    748.8,
+    365.9,
+    767.1
+   ],
+   "ocr": "from this study were compared with that based on all the"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    752.6,
+    678.3,
+    804.6
+   ],
+   "ocr": "large number of conserved miRNAs but also novel miR- Table 3: Summary of small RNAs generated from miRNA-target genes"
+  },
+  "p3_b9": {
+   "type": "table",
+   "bbox": [
+    95.9,
+    814.9,
+    658.2,
+    917.9
+   ],
+   "ocr": "Producing sense Producing antisense Overlap between Total\nsmall RNAs small RNAs sense and antisense sense or antisense\nWT miRNA target 65 (11.7%) 55 (9.9%) 44 (7.9%) 76 (13.7%)\ngenesa\nMT miRNA 70 (12.6%) 77 (13.9%) 50 (9.0%) 97 (17.5%)\ntarget genesa",
+   "table_id": "PMC2864249_table_2"
+  },
+  "p3_b10": {
+   "type": "caption",
+   "bbox": [
+    84.0,
+    923.5,
+    489.7,
+    935.5
+   ],
+   "ocr": "a All the 555 miRNA-target genes were used for analysis, detailed gene ID see in Additional file 10."
+  }
+ }
+}

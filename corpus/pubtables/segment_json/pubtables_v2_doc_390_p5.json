@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_390",
+  "page": 5,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.8,
+    648.5,
+    266.5
+   ],
+   "ocr": "Sensors 2012, 12 9858 represent the independent contributions of each independent variable to the prediction of the dependent variable. However, the amplitude of B-coefficients is related to the amplitude of the corresponding independent variables. So it is improper to detect fingerprint wavelength solely based on B-coefficients. In this manuscript, characteristic wavelength is obtained through combination of B-coefficients and experience as well as repeated attempting. Afterwards six determination models were established based on six sets of independent variables respectively, and the results are listed in Table 8. Figure 7. B-coefficients of the optimal determination Model 6."
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    92.7,
+    498.3,
+    614.7,
+    534.3
+   ],
+   "ocr": "Table 8. Results of MLR regression models with different sets of wavelet approximate coefficients as independent variables."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    75.9,
+    543.7,
+    631.1,
+    775.4
+   ],
+   "ocr": "a b c\nSN Input Stage Element Cor. RMSE Bias\n2-7,51-57,59-60, Calibration 492 0.951 0.079 −2.326e−05\nModel 8\n62-63,67,72 Prediction 246 0.909 0.107 −7.500e−03\nCalibration 492 0.982 0.048 −7.546e−06\nModel 9 2-7,46-74\nPrediction 246 0.978 0.054 −2.73e−03\nCalibration 492 0.969 0.063 −2.160e−06\nModel 10 2-6,58-74\nPrediction 246 0.965 0.067 1.220e−04\nCalibration 492 0.966 0.065 3.633e−06\nModel 11 58-74\nPrediction 246 0.968 0.065 −8.680e−04\nCalibration 492 0.986 0.043 −8.997e−08\nModel 12 69-89\nPrediction 246 0.983 0.051 −1.290e−02\nCalibration 492 0.992 0.032 1.103e−06\nModel 13 65-83\nPrediction 246 0.991 0.034 6.282e−06",
+   "table_id": "PMC3444132_table_7"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    137.7,
+    779.3,
+    407.4,
+    787.9
+   ],
+   "ocr": "a b c"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    780.9,
+    648.7,
+    930.4
+   ],
+   "ocr": "SN: Sequence number. Cor.: Correlation coefficient. RMSE: Root mean squared error. In Table 8, Model 13 based on the 65th–83th coefficients of cA3 obtains excellent determination results in both calibration and prediction stages, and the prediction accuracy (r = 0.991, RMSE = 0.034) is very close to that of Model 6 based on all the 89 coefficients of cA3. This phenomenon indicates that the cA3 in the range of 65th–83th play an important role for determination of MC. What is the hidden meaning of this finding? As the wavelet approximation coefficients cA3 is dimensionless, which is mathematic derived from original spectral data. Even though there is a clear linear formula relationship between"
+  }
+ }
+}

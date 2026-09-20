@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_043",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Ueno et al. BMC Genomics 2010, 11:650 http://www.biomedcentral.com/1471-2164/11/650"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 6 of 24"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.2,
+    517.7
+   ],
+   "ocr": "optimization to detect possible chimera is necessary for each study objectives. For example, if the goal is to pro- vide a global view of the transcriptome, chimeric clones do not cause large problems. However, if the goal is to bioinformatically infer full-length cDNAs, chimeric clones must be strictly eliminated. 454-sequencing We constructed nine libraries from Q. petraea and five from Q. robur (Tables 4 and 5). Six libraries were estab- lished from mRNA extracted from the parental lines of mapping pedigrees and consisted of leaves and buds from single individuals. They were sequenced by 454 Titanium. There were four libraries from buds, two from leaves and buds and two from flowers. These eight libraries were sequenced by 454 GS-FLX. In total 1,948,579 reads were produced. The average read length varied from 167 to 211 bp for libraries sequenced by GS-FLX and from 350 to 390 bp for those sequenced by Titanium (Table 5). We used the NG6 pipeline (see Methods section) to detect contaminants by Blast search and found yeast sequences in nine out of 14 libraries (additional file 1: TableS1). No E. coli and phage sequences were found in libraries sequenced by GS- FLX, while they were detected in all the libraries Table 4 Oak (Q. petraea and Q. robur) cDNA libraries for"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    362.3,
+    110.3,
+    678.7,
+    517.7
+   ],
+   "ocr": "sequenced by Titanium. Average depth estimated based on the Newbler assembler was higher (varying from 7.32 to 10.08) and unique sequence rate was lower (varying from 16.9% to 23.9%) for libraries sequenced by Tita- nium compared to GS-FLX (additional file 2: TableS2). We used the pyrocleaner program from NG6 to iden- tify too short or too long sequences, dirty sequences, low complexity sequences and duplicated reads as defined in the Methods section. Depending on the library, from 14.0% (library X) to 46.3% (library III) of the reads presented these features (Figure 2). Overall, libraries sequenced by Titanium showed lower number of low quality sequences (from 14.0% in library X to 18.8% in library XIV), while those sequenced by GS-FLX showed higher values (from 22.5% in library V to 46.3% in library III). In particular, the duplication rate was higher in libraries sequenced by GS-FLX (7.2% to 15.9%) compared to Titanium (3.0% to 4.1%). Coverage of transcripts within libraries Transcript coverage was estimated by inferring relation- ship between number of ESTs in a library and number of contigs (Figure 3) as detailed in the Methods section. For libraries sequenced by the Sanger method (Table 6), the maximum coverage (82.7%) was obtained for library 454-pyrosequencing"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    522.6,
+    665.6,
+    915.9
+   ],
+   "ocr": "Library Library Library Kit for library No. of\nSpecies code name type construction genotypes Tissue Sample stage/treatment\nQ. I LC1- Standard SMART PCR cDNA 30 Buds Endodormancy, sampled in September 17th and\npetraea EcoEndoDorm Synthesis Kit 24th and October 1st, 2005\nQ. II LC2- Standard SMART PCR cDNA 30 Buds Ecodormancy, sampled in January 14th and 28th\npetraea EcoEndoDorm Synthesis Kit and February 11th, 2005\nQ. III SJ1- Standard SMART PCR cDNA 30 Buds Endodormancy, sampled in September 17th and\npetraea EcoEndoDorm Synthesis Kit 24th and October 1st, 2005\nQ. IV SJ2- Standard SMART PCR cDNA 30 Buds Ecodormancy, sampled in January 14th and 28th\npetraea EcoEndoDorm Synthesis Kit and February 11th, 2005\nQ. V 10QS-Intersp Standard SMART PCR cDNA 10 Leaves, Young and mature leaves, quiescent and later\npetraea Synthesis Kit buds buds\nQ. robur VI 10QP-intersp Standard SMART PCR cDNA 10 Leaves, Young and mature leaves, quiescent and later\nSynthesis Kit buds buds\nQ. VII FS Standard SMART PCR cDNA 2 Flower Pollen, flowers\npetraea Synthesis Kit\nQ. robur VIII FP Standard SMART PCR cDNA 2 Flower Pollen, flowers\nSynthesis Kit\nQ. IX Qs21 Normalized MINT cDNA 1 Leaves, Quiescent, swelling buds; young, mature leaves\npetraea synthtesis Kit, buds\nQ. X Qs28 Normalized MINT cDNA 1 Leaves, Quiescent, swelling buds; young, mature leaves\npetraea synthtesis Kit, buds\nQ. XI Qs29 Normalized MINT cDNA 1 Leaves, Quiescent, swelling buds; young, mature leaves\npetraea synthtesis Kit, buds\nQ. robur XII 3P Normalized MINT cDNA 1 Leaves, Quiescent, swelling buds; young, mature leaves\nsynthtesis Kit, buds\nQ. robur XIII 11P Normalized MINT cDNA 1 Leaves, Quiescent, swelling buds; young, mature leaves\nsynthtesis Kit, buds\nQ. robur XIV A04 Normalized MINT cDNA 1 Leaves, Quiescent, swelling buds; young, mature leaves\nsynthtesis Kit, buds",
+   "table_id": "PMC3017864_table_3"
+  }
+ }
+}

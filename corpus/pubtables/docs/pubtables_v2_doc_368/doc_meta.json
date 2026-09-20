@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_368",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3236038_table_0",
+   "page_num": 1,
+   "bbox": [
+    91.9,
+    99.2,
+    677.0,
+    653.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3236038_table_0.png",
+   "html": "<table><tr><td>MIGS ID</td><td>Property</td><td>Term</td><td>Evidence code</td></tr><tr><td></td><td rowspan=\"8\">Current classification</td><td>Domain Bacteria</td><td>TAS [4]</td></tr><tr><td></td><td>Phylum Firmicutes</td><td>TAS [5-7]</td></tr><tr><td></td><td>Class Bacilli</td><td>TAS [8,9]</td></tr><tr><td></td><td>Order Bacillales</td><td>TAS [10,11]</td></tr><tr><td></td><td>Family Bacillaceae</td><td>TAS [10,12]</td></tr><tr><td></td><td>Genus Bacillus</td><td>TAS [10,13,14]</td></tr><tr><td></td><td>Species Bacillus tusciae</td><td>TAS[1,15]</td></tr><tr><td></td><td>Type strain T2</td><td>TAS [1]</td></tr><tr><td></td><td></td><td>Family Alicyclobacillaceae</td><td>TAS [9,16]</td></tr><tr><td></td><td>Revised classification</td><td>Genus Kyrpidia</td><td>NAS</td></tr><tr><td></td><td></td><td>Species Kyrpidia tusciae</td><td>NAS</td></tr><tr><td></td><td>Gram stain</td><td>positive</td><td>TAS [1]</td></tr><tr><td></td><td>Cell shape</td><td>straight rods</td><td>TAS [1]</td></tr><tr><td></td><td>Motility</td><td>not reported, but lateral flagella visible</td><td>TAS [1]</td></tr><tr><td></td><td>Sporulation</td><td>sporulating</td><td>TAS [1]</td></tr><tr><td></td><td>Temperature range</td><td>thermophile, grows &gt; 47&#176;, &lt; 65&#176;C</td><td>TAS [1]</td></tr><tr><td></td><td>Optimum temperature</td><td>55&#176;C</td><td>TAS [1]</td></tr><tr><td></td><td>Salinity</td><td>not reported</td><td></td></tr><tr><td rowspan=\"3\">MIGS-22</td><td>Oxygen requirement</td><td>aerobic</td><td>TAS [1]</td></tr><tr><td>Carbon source</td><td>short chain fatty acids, amino acids and alcohols</td><td>TAS [1]</td></tr><tr><td>Energy metabolism</td><td>facultatively chemolithoautotroph</td><td>TAS [1]</td></tr><tr><td>MIGS-6</td><td>Habitat</td><td>hot, acidic solfatara fields</td><td>TAS [1]</td></tr><tr><td>MIGS-15</td><td>Biotic relationship</td><td>free living</td><td>TAS [17]</td></tr><tr><td rowspan=\"3\">MIGS-14</td><td>Pathogenicity</td><td>none</td><td>NAS</td></tr><tr><td>Biosafety level</td><td>1</td><td>TAS [1]</td></tr><tr><td>Isolation</td><td>ponds in solfatara</td><td>TAS [1]</td></tr><tr><td>MIGS-4</td><td>Geographic location</td><td>San Frederigo, near Lago, Tuscany (Italy)</td><td>TAS [1]</td></tr><tr><td>MIGS-5</td><td>Sample collection time</td><td>about or before 1984</td><td>TAS [1]</td></tr><tr><td>MIGS-4.1 MIGS-4.2</td><td>Latitude Longitude</td><td>43.33 10.50</td><td>NAS</td></tr><tr><td>MIGS-4.3</td><td>Depth</td><td>not reported</td><td></td></tr><tr><td>MIGS-4.4</td><td>Altitude</td><td>about 155 m</td><td>NAS</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3236038_table_1",
+   "page_num": 2,
+   "bbox": [
+    120.3,
+    346.9,
+    649.0,
+    600.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3236038_table_1.png",
+   "html": "<table><tr><td>MIGS ID</td><td>Property</td><td>Term</td></tr><tr><td>MIGS-31</td><td>Finishing quality</td><td>Finished</td></tr><tr><td>MIGS-28</td><td>Libraries used</td><td>Two genomic libraries: Sanger 8 kb pMCL200 and 454 standard library</td></tr><tr><td>MIGS-29</td><td>Sequencing platforms</td><td>ABI3730, 454 GS FLX</td></tr><tr><td>MIGS-31.2</td><td>Sequencing coverage</td><td>5.5 &#215; Sanger; 25.2 &#215; pyrosequence</td></tr><tr><td>MIGS-30</td><td>Assemblers</td><td>Newbler version 2.0.0-PreRelease-07/15/2008, phrap</td></tr><tr><td rowspan=\"6\">MIGS-32</td><td>Gene calling method</td><td>Prodigal 1.4, GenePRIMP</td></tr><tr><td>Genbank ID</td><td>CP002017</td></tr><tr><td>Genbank Date of Release</td><td>April 5, 2010</td></tr><tr><td>GOLD ID</td><td>Gc01268</td></tr><tr><td>NCBI project ID</td><td>31345</td></tr><tr><td>Database: IMG-GEBA</td><td>646564511</td></tr><tr><td rowspan=\"2\">MIGS-13</td><td>Source material identifier</td><td>DSM 2912</td></tr><tr><td>Project relevance</td><td>Tree of Life, GEBA</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3236038_table_2",
+   "page_num": 3,
+   "bbox": [
+    189.1,
+    84.8,
+    583.0,
+    394.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3236038_table_2.png",
+   "html": "<table><tr><td>Attribute</td><td>Value</td><td>% of Total</td></tr><tr><td>Genome size (bp)</td><td>3,384,766</td><td>100.00%</td></tr><tr><td>DNA coding region (bp)</td><td>2,896,588</td><td>85.58%</td></tr><tr><td>DNA G+C content (bp)</td><td>2,000,875</td><td>59.11%</td></tr><tr><td>Number of replicons</td><td>1</td><td></td></tr><tr><td>Extrachromosomal elements</td><td>0</td><td></td></tr><tr><td>Total genes</td><td>3,401</td><td>100.00%</td></tr><tr><td>RNA genes</td><td>78</td><td>2.29%</td></tr><tr><td>rRNA operons</td><td>5</td><td></td></tr><tr><td>Protein-coding genes</td><td>3,323</td><td>97.71%</td></tr><tr><td>Pseudo genes</td><td>173</td><td>5.09%</td></tr><tr><td>Genes with function prediction</td><td>2,404</td><td>70.69%</td></tr><tr><td>Genes in paralog clusters</td><td>718</td><td>21.11%</td></tr><tr><td>Genes assigned to COGs</td><td>2,456</td><td>74.21%</td></tr><tr><td>Genes assigned Pfam domains</td><td>2,657</td><td>78.12%</td></tr><tr><td>Genes with signal peptides</td><td>530</td><td>15.58%</td></tr><tr><td>Genes with transmembrane helices</td><td>728</td><td>21.41%</td></tr><tr><td>CRISPR repeats</td><td>4</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3236038_table_3",
+   "page_num": 3,
+   "bbox": [
+    128.7,
+    445.2,
+    598.0,
+    933.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3236038_table_3.png",
+   "html": "<table><tr><td>Code</td><td>value</td><td>%age</td><td>Description</td></tr><tr><td>J</td><td>153</td><td>5.6</td><td>Translation, ribosomal structure and biogenesis</td></tr><tr><td>A</td><td>0</td><td>0.0</td><td>RNA processing and modification</td></tr><tr><td>K</td><td>198</td><td>7.2</td><td>Transcription</td></tr><tr><td>L</td><td>192</td><td>7.0</td><td>Replication, recombination and repair</td></tr><tr><td>B</td><td>1</td><td>0.0</td><td>Chromatin structure and dynamics</td></tr><tr><td>D</td><td>36</td><td>1.3</td><td>Cell cycle control, cell division, chromosome partitioning</td></tr><tr><td>Y</td><td>0</td><td>0.0</td><td>Nuclear structure</td></tr><tr><td>V</td><td>44</td><td>1.6</td><td>Defense mechanisms</td></tr><tr><td>T</td><td>121</td><td>4.4</td><td>Signal transduction mechanisms</td></tr><tr><td>M</td><td>116</td><td>4.2</td><td>Cell wall/membrane/envelope biogenesis</td></tr><tr><td>N</td><td>62</td><td>2.3</td><td>Cell motility</td></tr><tr><td>Z</td><td>1</td><td>0.0</td><td>Cytoskeleton</td></tr><tr><td>W</td><td>0</td><td>0.0</td><td>Extracellular structures</td></tr><tr><td>U</td><td>41</td><td>1.5</td><td>Intracellular trafficking, secretion and vesicular transport</td></tr><tr><td>O</td><td>95</td><td>3.5</td><td>Posttranslational modification, protein turnover, chaperones</td></tr><tr><td>C</td><td>217</td><td>7.9</td><td>Energy production and conversion</td></tr><tr><td>G</td><td>111</td><td>4.1</td><td>Carbohydrate transport and metabolism</td></tr><tr><td>E</td><td>255</td><td>9.3</td><td>Amino acid transport and metabolism</td></tr><tr><td>F</td><td>68</td><td>2.5</td><td>Nucleotide transport and metabolism</td></tr><tr><td>H</td><td>133</td><td>4.9</td><td>Coenzyme transport and metabolism</td></tr><tr><td>I</td><td>145</td><td>5.3</td><td>Lipid transport and metabolism</td></tr><tr><td>P</td><td>133</td><td>4.9</td><td>Inorganic ion transport and metabolism</td></tr><tr><td>Q</td><td>97</td><td>3.5</td><td>Secondary metabolites biosynthesis, transport and catabolism</td></tr><tr><td>R</td><td>298</td><td>10.9</td><td>General function prediction only</td></tr><tr><td>S</td><td>224</td><td>8.2</td><td>Function unknown</td></tr><tr><td>-</td><td>945</td><td>27.8</td><td>Not in COGs</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3236038_table_4",
+   "page_num": 4,
+   "bbox": [
+    64.5,
+    88.1,
+    703.3,
+    207.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3236038_table_4.png",
+   "html": "<table><tr><td></td><td>B. tusciae</td><td>B. subtilis subsp. subtilis</td><td>A. acidocaldarius</td></tr><tr><td>B. tusciae (CP002017 = NC_014098)</td><td>0.0000</td><td>0.9916</td><td>0.97030</td></tr><tr><td>B. subtilis subsp. subtilis (AL009126 = NC_000964)</td><td>0.9902/0.1452</td><td>0.0000</td><td>0.9908</td></tr><tr><td>A. acidocaldarius (CP001727-001730 = NC_013205, 07, 08)</td><td>0.9646/0.1629</td><td>0.9893/0.1366</td><td>0.0000</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3236038_table_5",
+   "page_num": 5,
+   "bbox": [
+    71.5,
+    82.4,
+    699.1,
+    886.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3236038_table_5.png",
+   "html": "<table><tr><td></td><td>Bacillus tusciae T2T DSM 2912 [1]</td><td>Genus Alicyclobacillus [53,54]</td><td>Genus Bacillus [54]</td></tr><tr><td>Cell shape</td><td>straight rods, 4-5 &#956;m long</td><td>rods, 1.5-6.3 &#956;m long</td><td>rods, normally up to 5 &#181;m long</td></tr><tr><td>Gram stain</td><td>positive</td><td>positive</td><td>positive</td></tr><tr><td>Oxygen requirement</td><td>aerobic, facultative anaerobic, but not with nitrate</td><td>aerobic, facultative anaerobic</td><td>aerobic, facultative anaerobic, a few species are strictly anaerobic</td></tr><tr><td>Endospores</td><td>subterminal, oval</td><td>terminal up to subterminal</td><td>ellipsoidal, central</td></tr><tr><td>sspE genes for acid- soluble spore proteins</td><td>missing</td><td>missing</td><td>frequent</td></tr><tr><td>growth temperature</td><td>&gt;47&#176;C to &lt;67&#176;C, opt. 55&#176;C</td><td>4-70&#176;C, opt. 35-65&#176;C</td><td>10-60&#176;C</td></tr><tr><td>pH optimum</td><td>4.2-4.8</td><td>&lt; 4.5, (range 1.5-5)</td><td>5-10</td></tr><tr><td>Phenotype</td><td>thermoacidophile</td><td>thermoacidophiles</td><td>some obligate or facultative thermophiles</td></tr><tr><td>Habitat</td><td>ponds in solfatara of geothermal area</td><td>acidic geothermal sites (soil and water), fruit juices, ores</td><td>often saprophytes in decaying organic matter</td></tr><tr><td>Flagellation</td><td>single lateral flagellum</td><td>motility reported for some species</td><td>motile or nonmotile; lateral</td></tr><tr><td>Menaquinones</td><td>MK-7 (personal communication Brian J. Tindall)</td><td>MK-7</td><td>MK-7</td></tr><tr><td>Major membranous lipid components</td><td>no &#969;-alicyclic fatty acids (personal communication Brian J. Tindall)</td><td>Large amounts (&gt;80%) of &#969;- alicyclic fatty acids with six- or seven carbon rings, such as &#969;-cyclohexane undecanoic acid -C17:0 and &#969;-cyclohexane tridecanoic acid -C19:0. Three species do not possess these fatty acids. Some strains are known to form hopanoids.</td><td>cellular fatty acids: ai-C15:0, i-C15:0, ai-C15:0; no &#969;- alicyclic fatty acids</td></tr><tr><td>Oxidase/catalase</td><td>weak/weak</td><td>&#177;/&#177;</td><td>&#177;/&#177;</td></tr><tr><td>Inclusion bodies</td><td>poly-&#946;-hydroxybutyric acid when grown autotrophically under ammonium starvation</td><td>not specified</td><td>some species</td></tr><tr><td>Energy metabolism</td><td>grows best under autotrophic conditions, chemolithoautotrophic with H2 and CO2, but also chemoorganoheterotroph- ic; does not metabolize sugars</td><td>chemoorganotrophic or mixotrophic; carbohydrates, organic acids and amino acids can be utilized. Mixotrophic species utilize Fe2+ and S0</td><td>chemoorganotrophic</td></tr></table>"
+  }
+ ]
+}

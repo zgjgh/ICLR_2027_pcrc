@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_116",
+  "page": 1,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    590.8,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Ovarian Cancer Genomics"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    389.4,
+    92.8
+   ],
+   "ocr": "Table 1. Summary of samples analysed by SNP and expression"
+  },
+  "p1_b2": {
+   "type": "title",
+   "bbox": [
+    393.3,
+    81.4,
+    419.1,
+    92.8
+   ],
+   "ocr": "array."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    682.1,
+    231.4
+   ],
+   "ocr": "Grade FIGO Stage\nSubtype 1 2 3 NK 1 2 3 NK\nClear Cell (9) 2 2 3 2 3 1 2 3\nEndometrioid (14) 2 4 8 0 8 2 4 0\nMucinous (7) 5 2 0 0 4 0 2 1\nSerous (37) 3 11 20 3 3 10 17 7\nUndifferentiated (1) 1 0 0 0 0 1 0 0",
+   "table_id": "PMC2851616_table_0"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    244.6,
+    376.0,
+    688.1
+   ],
+   "ocr": "NK, grade or stage not known. Information for 68 tumours that had both high used in the copy number analyses alone are detailed in Table S1. doi:10.1371/journal.pone.0009983.t001 CN gains and 15,964 CN losses. The median number of regions with CN gain per tumour was 208, accounting for an average of 13.6% of the genome per sample (Table S2). The median number of regions with CN loss was 194 representing 12.2% of the genome. These CNAs occurred across the genome but there were some very frequent recurrent regions of CNA among the 72 tumours (Figure 1) including gains located on 1q, 3q, 6, 7q, 8q, 19, and 20 and losses on chromosomes 4, 6, 8, 13, 16, 17, 18, 22q and X. Within epithelial ovarian cancer histotypes we noted that mucinous and to a lesser extent clear cell cases appeared to have fewer CNAs and a smaller proportion of the genome was involved compared to the other subtypes (Figure S1). However, the numbers of samples in the minor subtypes were small, making it difficult to draw statistically valid conclusions about subtype specific changes. Most of the samples were of the serous or related high grade endometrioid subtype and many of the regions of gain and loss are primarily driven by these subtypes. Integration of mRNA expression in regions of frequent copy number gain A common mechanism of activation of gene function in cancer development is through over expression as a consequence of gene amplification. While many genes may be located within a particular amplicon, the targeted gene(s) would be expected to consistently show elevated expression compared with adjacent bystander genes [5]. We have previously conducted an integrated expression analysis of candidate tumour suppressor genes within regions of loss of heterozygosity on an overlapping tumour cohort [6], thus for this study we chose to focus on the identification of"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    378.8,
+    244.6,
+    700.8,
+    253.5
+   ],
+   "ocr": "quality expression and copy number data is listed here. Four more samples that were"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    293.0,
+    700.8,
+    688.1
+   ],
+   "ocr": "candidate genes located within amplicons. An arbitrary frequency threshold of at least 40% was chosen as a filter for selecting key regions, resulting in the demarcation of multiple chromosomal regions on 3q, 7q, 8q and 20q (Figure 2). Each segment of frequent CN gain was labelled by the cytoband it belonged to; following which regions with the same cytoband tag were collapsed into one larger region (Figure S2-A). Those regions overlapping with germline copy number polymorphism (CNPs, Table S3) were excluded as described in Figure S2-B. The final 106 amplicons ranged in size from 11 kb to 7 Mb (Table S4) and 90 of these regions in total contained 1370 gene expression probesets on the Affymetrix Gene 1.0ST array corresponding to 938 known protein coding genes. The other 16 amplicons were not represented by probesets on the Gene 1.0ST arrays. Expression analyses were carried out for probesets within each of the 90 regions (Tables 2, 3, 4, Table S5). For each region groups of samples that showed copy number gain (3 or more copies) were tested for differential expression against groups of samples that showed normal copy number (,2 copies). Across all regions, there were 703 (51%) differentially expressed probesets corresponding to 629 genes with unique identifiers such as an HGNC gene symbol or Ensembl ID (Table S5). Only one gene, hCG_16001, showed a negative log fold change (20.34, Figure S3). On average (in regions with at least 5 probesets), 50% of the probesets were found to be differentially expressed suggesting a generalised increase in expression of genes within CN gains. Interestingly, we observed that MYC, an oncogene characterised by copy number gain in a wide variety of tumour types, was not significantly differentially expressed between amplified and unamplified groups of samples. One possibility is that MYC is expressed at a high level across all"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    894.3,
+    387.9,
+    927.0
+   ],
+   "ocr": "Figure 1. Overview of genomic aberrations in the ovarian cancer losses (blue) across the genome, depicted in chromosome order from 1p doi:10.1371/journal.pone.0009983.g001"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    386.3,
+    894.3,
+    700.8,
+    915.7
+   ],
+   "ocr": "dataset (N = 72). Frequency of occurrence of genomic gains (yellow) and to Xq."
+  },
+  "p1_b9": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    389.7,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 2"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    520.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "April 2010 | Volume 5 | Issue 4 | e9983"
+  }
+ }
+}

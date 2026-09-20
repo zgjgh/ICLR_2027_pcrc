@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_063",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    58.0,
+    580.0,
+    89.0
+   ],
+   "ocr": "The data presented in the accompanying table offers a comprehensive overview of the cellular response across various treatment conditions, specifically highlighting the metrics of total cells and resultant change."
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    109.0,
+    580.0,
+    232.0
+   ],
+   "ocr": "Control C + LPS C + LPS + I C + LPS + N\nTotal cells 6.00 ± 2.35 80.60 ± 16.30** 36.20 ± 7.26## 43.40 ± 6.91##\nMacrophages 3.67 ± 2.15 4.18 ± 0.68 5.63 ± 3.20 3.49 ± 4.88\nLymphocytes 0.00 ± 0.00 0.34 ± 0.56 0.00 ± 0.00 0.00 ± 0.00\nNeutrophils 0.00 ± 0.00 71.46 ± 16.09** 26.38 ± 2.85## 14.46 ± 20.24##\nEosinophils 0.34 ± 0.21 4.64 ± 3.95 4.20 ± 4.81 2.04 ± 2.83",
+   "table_id": "img_069012_t0"
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    250.0,
+    580.0,
+    499.0
+   ],
+   "ocr": "Content Snapshot finding Resultant change\nIMRT planning Very widespread use for prostate, breast, head and neck Earlier introduction of IMRT technique teaching to planning units. Extended practical experience with IMRT prostate to now include breast and head and neck planning in planning units\nImage fusion Brain and rectum strong indicators for CT-MR fusion Extension of image fusion practical experience to include CT-MR for rectum\nLung, rectum, and oesophagus good indicators for CT-PET fusion Extension of CT-PET fusion practical experience to include rectum and oesophagus\nArc therapy Widespread use of volumetric arc therapy Increased teaching related to use of arc techniques and practical planning experience\nCommon tumour sites Reduced incidence of some tumour sites Reduction in teaching hours for less common tumours and shift towards directed independent learning for these sites. Compilation of “essential” tumour list to direct student achievements",
+   "table_id": "img_069012_t1"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    518.0,
+    580.0,
+    639.0
+   ],
+   "ocr": "Without FDR correction With FDR < 0.05\nAll fold change 26570 115\nFold change > 1.1 15789 115\nFold change > 1.5 2423 103\nFold change > 2.0 516 50\nFold change > 3.0 115 19",
+   "table_id": "img_069012_t2"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    655,
+    580,
+    698
+   ],
+   "ocr": "The control group exhibited a baseline total cell count of 6.00 ± 2.35, which serves as a reference point for comparison against the experimental conditions. Notably, the addition of lipopolysaccharide (LPS) resulted in a substantial increase in total cells, reaching 80.60 ± 16.30**, an indication of the heightened cellular activity triggered by this treatment."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    686,
+    580,
+    775
+   ],
+   "ocr": "Conversely, the conditions labeled C + LPS + I and C + LPS + N demonstrated resultant changes of 36.20 ± 7.26## and 43.40 ± 6.91##, respectively, suggesting varying degrees of cellular response contingent upon the specific treatment combinations. This data underlines the significance of integrating advanced techniques, such as Intensity-Modulated Radiation Therapy (IMRT), into clinical practice for conditions like prostate, breast, and head and neck cancers. The findings advocate for earlier incorporation of IMRT technique training within planning units to enhance practical experience and improve patient outcomes."
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_303",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2657164_table_0",
+   "page_num": 1,
+   "bbox": [
+    105.1,
+    130.1,
+    668.7,
+    788.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2657164_table_0.png",
+   "html": "<table><tr><td>Combination</td><td></td><td></td></tr><tr><td>H4ac, H3ac, H3Kme1, H3K4me2, H3K4me3, H3</td><td>43</td><td>98.8%/94.5%</td></tr><tr><td>H3Kme1, H3K4me2, H3K4me3, H3</td><td>8</td><td>99.1%/93.2%</td></tr><tr><td>H4ac, H3ac, H3Kme1, H3K4me2, H3</td><td>6</td><td>99.1%/94.1%</td></tr><tr><td>H3Kme1, H3K4me2</td><td>6</td><td>99.7%/92.8%</td></tr><tr><td>H4ac, H3Kme1, H3K4me2, H3K4me3,</td><td>5</td><td>100%/93.5%</td></tr><tr><td>H3Kme1, H3K4me2, H3K4me3, H3</td><td>5</td><td>100%/93.0%</td></tr><tr><td>H3ac, H3Kme1, H3K4me2, H3K4me3, H3</td><td>5</td><td>99.2%/94.6%</td></tr><tr><td>H3Kme1, H3K4me2, H3K4me3</td><td>5</td><td>99.6%/94.6%</td></tr><tr><td>H4ac, H3Kme1, H3K4me2, H3</td><td>4</td><td>100.0%/93.2%</td></tr><tr><td>H4ac, H3ac, H3Kme1, H3K4me2, H3K4me3</td><td>3</td><td>98.1%/94.6%</td></tr><tr><td>H4ac, H3Kme1, H3K4me2</td><td>3</td><td>100%/94.6%</td></tr><tr><td>H4ac, H3ac, H3Kme1, H3K4me3, H3</td><td>2</td><td>97.2%/93.2%</td></tr><tr><td>H3Kme1, H3K4me2, H3</td><td>2</td><td>100.0%/93.2%</td></tr><tr><td>H4ac, H3K4me3</td><td>1</td><td>96.2%/91.9%</td></tr><tr><td>H3ac, H3Kme1, H3K4me2</td><td>1</td><td>98.1%/94.6%</td></tr><tr><td>H3ac, H3Kme1, H3K4me2, H3</td><td>1</td><td>100.0%/94.6%</td></tr><tr><td>Window Size</td><td>Number of times used</td><td>Prediction rate (promoter/enhancer)</td></tr><tr><td>1 K</td><td>8</td><td>99.3%/93.6%</td></tr><tr><td>2 K</td><td>75</td><td>99.0%/94.3%</td></tr><tr><td>4 K</td><td>7</td><td>99.7%/93.4%</td></tr><tr><td>8 K</td><td>7</td><td>99.5%/93.1%</td></tr><tr><td>10 K</td><td>2</td><td>100%/91.9%</td></tr><tr><td>12 K</td><td>1</td><td>98.1%/89.2%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2657164_table_2",
+   "page_num": 2,
+   "bbox": [
+    95.7,
+    745.9,
+    672.8,
+    870.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2657164_table_2.png",
+   "html": "<table><tr><td>Combination</td><td>Promoter PPVa (standard deviation)</td><td>Enhancer PPV (standard deviation)</td></tr><tr><td>HMM method using 6 histone signaturesb</td><td>97.87% (1.06)</td><td>93.52%(1.83)</td></tr><tr><td>HMM method using 2 histone signaturesc</td><td>95.46% (2.82)</td><td>94.06% (0.89)</td></tr><tr><td>Heintzman et al. using 6 histone signatures</td><td>96%</td><td>78%</td></tr><tr><td>Heintzman et al. using 2 histone signatures</td><td>95%</td><td>85%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2657164_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    139.9,
+    664.2,
+    462.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2657164_table_3.png",
+   "html": "<table><tr><td colspan=\"5\">Untreated</td></tr><tr><td></td><td>Total Prediction (TP+FP)</td><td>TP</td><td>PPV</td><td>p-value</td></tr><tr><td>Heintzman et al.</td><td>198</td><td>181</td><td>91.41%</td><td>&lt; 1.0 &#215; 10-16</td></tr><tr><td>HMM(c1 = 2.205)</td><td>198</td><td>189</td><td>95.45%</td><td>&lt; 1.0 &#215; 10-16</td></tr><tr><td>HMM (c1 = 1.6)</td><td>256</td><td>234</td><td>91.41%</td><td>&lt; 1.0 &#215; 10-16</td></tr><tr><td>HMM (c1 = 0.5)</td><td>337</td><td>264</td><td>78.34%</td><td>&lt; 1.0 &#215; 10-16</td></tr><tr><td colspan=\"5\">Treated</td></tr><tr><td></td><td>Total Prediction (TP+FP)</td><td>TP</td><td>PPV</td><td>p-value</td></tr><tr><td>Heintzman et al.</td><td>207</td><td>183</td><td>88.41%</td><td>&lt; 1.0 &#215; 10-16</td></tr><tr><td>HMM (c1 = 2.1)</td><td>207</td><td>196</td><td>94.69%</td><td>&lt; 1.0 &#215; 10-16</td></tr><tr><td>HMM (c1 = 1.367)</td><td>279</td><td>247</td><td>88.50%</td><td>2.8 &#215; 10-3</td></tr><tr><td>HMM (c1 = 0.5)</td><td>362</td><td>278</td><td>76.80%</td><td>&lt; 1.0 &#215; 10-16</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2657164_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    676.2,
+    565.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2657164_table_4.png",
+   "html": "<table><tr><td colspan=\"5\">untreated cella</td></tr><tr><td></td><td colspan=\"3\">Active promoters</td><td rowspan=\"2\">Inactive promoters</td></tr><tr><td></td><td>Total Prediction</td><td>Expression Supported Prediction</td><td>PPV</td></tr><tr><td rowspan=\"2\">Heintzman et al. [15]b</td><td>197</td><td>127</td><td>64.47%</td><td>31</td></tr><tr><td>229</td><td>127</td><td>55.46%</td><td>32</td></tr><tr><td>HMM (c1 = 1.95)</td><td>197</td><td>128</td><td>64.97%</td><td>25</td></tr><tr><td>HMM (c1 = 1.6)</td><td>229</td><td>135</td><td>58.95%</td><td>31</td></tr><tr><td>HMM (c1 = 0.5)</td><td>309</td><td>143</td><td>46.28%</td><td>40</td></tr><tr><td colspan=\"5\">treated cella</td></tr><tr><td></td><td colspan=\"3\">Active promoters</td><td>Inactive promoters</td></tr><tr><td></td><td>Total Prediction</td><td>Expression Supported Prediction</td><td>PPV</td><td></td></tr><tr><td rowspan=\"2\">Heintzman et al. [15]</td><td>204</td><td>128</td><td>62.75%</td><td>23</td></tr><tr><td>213</td><td>128</td><td>60.09%</td><td>23</td></tr><tr><td>HMM (c1 = 1.853)</td><td>204</td><td>128</td><td>62.75%</td><td>19</td></tr><tr><td>HMM (c1 = 1.367)</td><td>247</td><td>139</td><td>56.27%</td><td>22</td></tr><tr><td>HMM (c1 = 0.5)</td><td>328</td><td>145</td><td>44.21%</td><td>30</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2657164_table_5",
+   "page_num": 5,
+   "bbox": [
+    92.7,
+    140.5,
+    672.9,
+    264.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2657164_table_5.png",
+   "html": "<table><tr><td></td><td>Heintzman et al. [15] total 389 prediction</td><td>HMM method total 389 prediction</td></tr><tr><td>distal p300 (n = 94)</td><td>77 (sensitivity = 81.91%)</td><td>82 (sensitivity = 87.23%)</td></tr><tr><td>distal DHS (n = 587)</td><td>165 (sensitivity = 28.11%)</td><td>179 (sensitivity = 30.49%)</td></tr><tr><td>Distal TRAP220 (n = 77)</td><td>43 (sensitivity = 55.84%)</td><td>47 (sensitivity = 61.04%)</td></tr><tr><td>Any of distal (DHS, p300, TRAP220)</td><td>206 (PPV = 52.96%)</td><td>213 (PPV = 54.76%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2657164_table_6",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    564.5,
+    693.0,
+    852.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2657164_table_6.png",
+   "html": "<table><tr><td colspan=\"6\">Active Promotera</td></tr><tr><td>Cell lines</td><td>Active Gene</td><td>Total Prediction</td><td>Refseq Supported PPV</td><td>Predicted promoters not present in the expression measurement</td><td>Expression Supported PPV</td></tr><tr><td>ES</td><td>7887</td><td>13853</td><td>81.4%</td><td>7191</td><td>88.6%</td></tr><tr><td>MEF</td><td>8092</td><td>11913</td><td>88.1%</td><td>5480</td><td>92.3%</td></tr><tr><td>NPC</td><td>7413</td><td>12700</td><td>84.1%</td><td>6259</td><td>89.0%</td></tr><tr><td colspan=\"6\">Inactive Promoterb</td></tr><tr><td>Cell lines</td><td>Inactive Gene</td><td>Total Prediction</td><td>Refseq Supported PPV</td><td>Predicted promoters not present in the expression measurement</td><td>Expression Supported PPV</td></tr><tr><td>ES</td><td>4753</td><td>2862</td><td>77.0%</td><td>1806</td><td>79.2%</td></tr><tr><td>MEF</td><td>4248</td><td>4301</td><td>66.1%</td><td>3061</td><td>74.6%</td></tr><tr><td>NPC</td><td>5259</td><td>422</td><td>73.2%</td><td>267</td><td>94.8%</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_456",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    460.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Laying-Related SNP Markers and RAD Sequencing in Goose"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    94.0,
+    727.1,
+    806.7
+   ],
+   "ocr": "Materials and Methods Ethics Statement All experiments were reviewed and approved by Nanjing Agricultural University Animal Care and Use Committee and performed in accordance with the Regulations for the Administration of Affairs Concerning Experimental Animals (China, 1988). All efforts were made to minimize any discomfort during blood collection. Animals and Sample Preparation A total of 492 female Yangzhou geese from the breeding farm of Jiangsu Lihua Animal Hus- bandry CO., LTD were employed in this study. During the experiments, geese were fed ad libi- tum with rice grain supplemented with green grass or water plants whenever possible. The feed was offered during daytime when the geese were released to an open area outside the house. The geese were exposed to natural lighting and temperature throughout this study. The laying geese were kept in separate cages in order to record the total number of eggs during the whole egg-laying period. Blood samples were collected from wing vein using sodium heparin contain- ing vacutainers. Laying Performance and Grouping The total egg number of all individuals was recorded daily throughout the egg-laying periodof 34 weeks. The average egg numbers of the experimental population aresummarized in Table 1. Individual estimated breeding values (EBV) of egg numberwas calculated using the informa- tion of full sib and half sib. Ten individuals of lowest or highest EBV were selected from the total 492geese and designated LEBV and HEBV groups, respectively. RAD Library Preparation and Sequencing Genomic DNA was extracted from blood using the whole blood DNA kit (Omega Bio-Tek, Doraville, USA) following the manufacturer’s instructions. DNA concentration was assessed for each individual sample using the Thermo Scientific NANODROP2000 spectrophotometer (Thermo Fisher Scientific Inc. USA). All DNA samples were adjusted to a final concentration of 100ng/ul. Both A260/280 and A260/230 ratios were in the standard range. Two DNA pools for LEBV and HEBV were prepared by mixing equal amount of genomic DNA from each 10 individuals. The restriction enzyme EcoRI was used to digest the genomic DNA. A total of 2 multiplexed sequencing libraries were constructed, in which each DNA sample was assigned a unique nucleotide multiplex identifier (MID) for bar-coding. Single-end (101-bp) sequencing was performed using Illumina HiSeq2000. Sequence Analysis and Laying-Related Mutations Detection Raw sequence reads were trimmed to 90 nucleotides from the 3’ end, which ensured more than 97.5% of the nucleotides have a quality value above Q30 (equals 0.1% sequencing error). The Table 1. Egg numbers of the experimental population in 34-weekegg-laying period."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    815.4,
+    726.7,
+    877.9
+   ],
+   "ocr": "Population Number of geese EBVs Average egg number\nAll geese 492 74.08±8.01 73.95±19.73\nLEBV 10 58.87±3.97 34.9±12.73\nHEBV 10 87.42±4.18 105.6±3.98",
+   "table_id": "PMC4504669_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0131572.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0131572 July 16, 2015 3 / 19"
+  }
+ }
+}

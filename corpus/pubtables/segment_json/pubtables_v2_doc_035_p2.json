@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_035",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    294.2,
+    64.4
+   ],
+   "ocr": "BMC Medical Genetics 2007, 8(Suppl 1):S12"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    439.0,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2350/8/S1/S12"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    390.9,
+    118.9
+   ],
+   "ocr": "Table 2: The 25 SNPs with lowest GEE association test p-values with"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    393.7,
+    107.2,
+    580.8,
+    118.9
+   ],
+   "ocr": "hemostatic factors measured at exam 5"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.3,
+    655.6,
+    448.6
+   ],
+   "ocr": "Phenotype* SNP MAF CHR Physical Position (bp)† GEE p-val (Rank)†† FBAT p-val††† Genes within 60 kb\nFibrinogen rs6683832 0.41 1 62,988,925 5.6 × 10-5(4) 3.4 × 10-2 APG4C\nFibrinogen rs4861952 0.11 4 182,696,179 3.5 × 10-5(24) 8.2 × 10-3\nFibrinogen rs10506540 0.12 12 65,699,364 2.2 × 10-5(16) 3.3 × 10-2\nFibrinogen rs974673 0.15 14 33,550,265 3.1 × 10-5(19) 1.3 × 10-3\nFVII rs966321 0.47 1 4,225,577 7.6 × 10-6(6) 4.5 × 10-2\nFVII rs1245072 0.17 1 69,827,777 1.8 × 10-5(13) 7.5 × 10-3 LRRC7\nFVII rs2362932 0.24 1 242,240,325 2.4 × 10-5(17) 1.5 × 10-2 SMYD3\nFVII rs10496112 0.30 2 64,535,384 3.3 × 10-5(23) 7.4 × 10-3 HSPC159\nFVII rs1001254 0.13 3 7,909,333 2.0 × 10-5(14) 2.0 × 10-2\nFVII rs4591494 0.19 3 7,957,827 9.2 × 10-6(7) 1.2 × 10-4\nFVII rs10488360 0.30 7 4,184,450 7.2 × 10-6(5) 9.3 × 10-3\nFVII rs727435 0.13 9 80,809,022 9.6 × 10-6(8) 2.8 × 10-2\nFVII rs7938734 0.31 11 49,834,857 3.2 × 10-5(21) 7.0 × 10-2\nFVII rs561241 0.12 13 112,808,035 4.5 × 10-16(1) 3.4 × 10-4 MCF2L; AB116074; AK092739; AK123267;\nAB002360; F7; CR603372; F10; PROZ\nPAI1 rs10490733 0.14 2 137,872,229 3.2 × 10-5(22) 2.4 × 10-2\nPAI1 rs4460176 0.29 5 109,524,859 3.1 × 10-6(3) 7.6 × 10-2\ntPA rs10493485 0.29 1 71,783,150 1.6 × 10-6(2) 1.1 × 10-3 BC036771; NEGR1\ntPA rs10494076 0.32 1 108,050,369 3.1 × 10-5(20) 2.3 × 10-2 VAV3\ntPA rs2029637 0.25 3 113,404,510 1.3 × 10-5(10) 6.1 × 10-2 SLC9A10\ntPA rs953377 0.28 6 23,998,670 1.5 × 10-5(11) 3.4 × 10-2\nvWF rs9295740 0.14 6 27,797,481 2.8 × 10-5(18) 5.7 × 10-3\nvWF rs202906 0.12 6 28,119,631 2.1 × 10-5(15) 1.1 × 10-1 ZNF165\nvWF rs708356 0.35 12 128,998,794 1.5 × 10-5(12) 2.4 × 10-2 AK127723\nvWF rs1954971 0.38 18 26,633,241 1.0 × 10-5(9) 1.6 × 10-2\nvWF rs7319671 0.30 13 36,923,224 3.6 × 10-5(25) 1.1 × 10-2",
+   "table_id": "PMC1995619_table_1"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    464.8,
+    380.1,
+    922.4
+   ],
+   "ocr": "* All the phenotypes reported here were multivariable adjusted residuals †Physical position is in base pair (bp) and based on the May 2004 human ††P-value from GEE genotype association test and rank of the GEE p-values †††P-value from family-based association test using the FBAT program. lowing candidate genes in the search: F7, fibrinogen gene cluster (FGB, FGA, FGG), SERPINE1, plasminogen activa- tor-tissue (PLAT), vWF and integrin beta 3 (ITGB3). For hematological phenotypes excluding platelet aggregation, we included erythropoietin receptor (EPOR), erythropoi- etin (EPO), erythrocyte membrane protein band 4.1-like 2 (EPB41L2), Kruppel-like factor 1(KLF1), heme binding protein 2 (HEBP2), the hemoglobin gene clusters on chro- mosome 11: hemoglobin-β chain complex (HBB), hemo- globin-δ (HBD), hemoglobin-γ A (HBG1), hemoglobin-γ G (HBG2), hemoglobin-ε 1 (HBE1), and the hemoglobin gene clusters on chromosome 16: hemoglobin-α 1 (HBA1), hemoglobin-α 2 (HBA2), hemoglobin-μ (HBM). Results Table 1 displays the hemostatic and hematological phe- notypes analyzed in this study, as well as the number of individuals, examination cycles, and covariates used in multivariable models. The sample size ranged from 702 to 1073. Traits measured at multiple examinations were ana- lyzed using multivariable adjusted residuals from each examination measure, and also the average of all the mul- tivariable adjusted residuals from individual examination cycles. Among individuals who were included in the genotyping and had at least one hemostatic factor or platelet aggrega-"
+  },
+  "p2_b6": {
+   "type": "caption",
+   "bbox": [
+    370.0,
+    464.8,
+    580.2,
+    496.5
+   ],
+   "ocr": "from the measurements obtained at exam cycle 5. reference sequence (NCBI Build 35). in ascending order."
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    522.6,
+    698.4,
+    922.4
+   ],
+   "ocr": "tion phenotype measured at examination cycle five, 52% were women, mean age was 52 years, and 6% had preva- lent CVD. Among individuals who were included in the genotyping and had at least one hematological phenotype measured at examination cycle one or two, 52% were women, with a mean age over the two examinations of 36 years, and 2% had prevalent CVD. Association between SNPs and hemostatic and hematological phenotypes We report the 25 SNPs with lowest GEE association test p- values in Table 2 for hemostatic factors, and in Table 3 for hematological phenotypes. The lowest GEE p-value (4.5*10-16) for hemostatic factors was obtained from the test of association between circulating levels of FVII and rs561241; this SNP resides near the F7 gene on chromo- some 13 and is in complete linkage disequilibrium (LD) (r2 = 1) with the Arg353Gln F7 SNP (rs6046) we previ- ously reported to account for 9% of total phenotypic var- iance [16]. The lowest GEE p-value (6.9*10-8) for hematological phenotypes was obtained in the test of association between MCH and rs1397048 on chromo- some 11 near the olfactory receptors, olfactory receptor, family 5, subfamily AP, member 2 (OR5AP2), olfactory receptor, family 5, subfamily AR, member 1 (OR5AR1), olfactory receptor, family 9, subfamily G, member 1(OR9G1) and olfactory receptor, family 9, subfamily G,"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 4 of 11 (page number not for citation purposes)"
+  }
+ }
+}

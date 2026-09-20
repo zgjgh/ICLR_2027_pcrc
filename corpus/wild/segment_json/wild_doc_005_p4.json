@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_005",
+  "page": 4,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "The table presents various correlation coefficients among different parameters. Under the header RF, the values are 0.415 ** for RF, 0.326 ** for HM, 0.109 for Tmax, 0.171 for Tmin, 0.150 for Tmean, −0.220 * for SS, 0.162 for AP, −0.414 ** for UB, −0.212 * for PPD, and 0.284 ** for PHR. The HM row shows values of 1.000 for RF, 0.907 ** for HM, 0.450 ** for Tmax, 0.653 ** for Tmin, 0.561 ** for Tmean, −0.763 ** for SS, 0.579 ** for AP, −0.334 ** for UB, −0.186 for PPD, and 0.544 ** for PHR."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    186
+   ],
+   "ocr": "The Tmax row includes values of — for RF, — for HM, 1.000 for Tmax, 0.780 ** for Tmin, 0.680 ** for Tmean, −0.906 ** for SS, 0.673 ** for AP, −0.240 * for UB, 0.021 for PPD, and 0.474 ** for PHR. For Tmin, the values are — for RF, — for HM, 0.883 ** for Tmax, 1.000 for Tmin, 0.929 ** for Tmean, −0.545 ** for SS, 0.945 ** for AP, −0.072 for UB, 0.117 for PPD, and 0.414 ** for PHR. The Tmean row lists — for RF, — for HM, — for Tmax, 0.982 ** for Tmin, 1.000 for Tmean, −0.782 ** for SS, 0.963 ** for AP, −0.124 for UB, 0.259 ** for PPD, and 0.439 ** for PHR."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    204.0,
+    580.0,
+    529.0
+   ],
+   "ocr": "IN RF HM Tmax Tmin Tmean SS AP UB PPD PHR\nRF 0.415 ** 1.000\nHM 0.326 ** 0.907 ** 1.000\nTmax 0.109 0.450 ** 0.516 ** 1.000\nTmin 0.171 0.653 ** 0.780 ** 0.883 ** 1.000\nTmean 0.150 0.561 ** 0.680 ** 0.929 ** 0.982 ** 1.000\nSS −0.220 * −0.763 ** −0.906 ** −0.545 ** −0.782 ** −0.708 ** 1.000\nAP 0.162 0.579 ** 0.673 ** 0.945 ** 0.963 ** 0.986 ** −0.685 ** 1.000\nUB −0.414 ** −0.334 ** −0.240 * −0.072 −0.124 −0.103 0.112 −0.133 1.000\nPPD −0.212 * −0.186 0.021 0.117 0.259 ** 0.292 ** −0.204 * 0.242 * 0.230 * 1.000\nPHR 0.284 ** 0.544 ** 0.474 ** 0.414 ** 0.439 ** 0.409 ** −0.380 ** 0.422 ** −0.437 ** −0.351 ** 1.000\nEL 0.035 −0.113 −0.306 ** −0.526 ** −0.621 ** −0.643 ** 0.422 ** −0.603 ** −0.122 −0.679 ** −0.001",
+   "table_id": "img_005284_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    545,
+    580,
+    618
+   ],
+   "ocr": "In the SS row, the values are — for RF, — for HM, — for Tmax, — for Tmin, — for Tmean, 1.000 for SS, −0.685 ** for AP, 0.112 for UB, −0.204 * for PPD, and −0.380 ** for PHR. The AP row features — for RF, — for HM, — for Tmax, — for Tmin, — for Tmean, — for SS, 1.000 for AP, −0.133 for UB, 0.242 * for PPD, and 0.422 ** for PHR. The UB row includes — for RF, — for HM, — for Tmax, — for Tmin, — for Tmean, — for SS, — for AP, 1.000 for UB, 0.230 * for PPD, and −0.437 ** for PHR."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    606,
+    580,
+    664
+   ],
+   "ocr": "The PPD row shows — for RF, — for HM, — for Tmax, — for Tmin, — for Tmean, — for SS, — for AP, — for UB, 1.000 for PPD, and −0.351 ** for PHR. The final row, EL, presents values of 0.035 for RF, −0.113 for HM, −0.306 ** for Tmax, −0.526 ** for Tmin, −0.621 ** for Tmean, −0.643 ** for SS, 0.422 ** for AP, −0.603 ** for UB, −0.122 for PPD, and −0.679 ** for PHR."
+  }
+ }
+}

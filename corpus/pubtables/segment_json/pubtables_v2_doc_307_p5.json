@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_307",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    284.7,
+    64.4
+   ],
+   "ocr": "BMC Health Services Research 2009, 9:96"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6963/9/96"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    388.7,
+    118.9
+   ],
+   "ocr": "Table 5: Performance of the algorithm in predicting readmission for"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    391.6,
+    107.2,
+    590.1,
+    118.9
+   ],
+   "ocr": "Queensland compared to UK and US data"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    663.0,
+    448.4
+   ],
+   "ocr": "Risk score threshold\n50% 70% 80%\nQueensland data\nSensitivity (95% CI) 44.7 (42.5–46.9) 7.8 (6.7–9.1) 1.1 (0.1–1.7)\nSpecificity (95% CI) 78.1 (76.4–79.6) 97.5 (96.8–98.1) 99.8 (99.6–99.9)\nFalse positive rate (95% CI) 37.5 (35.0–40.0) 28.2 (22.3–34.6) 14.8 (4.2–33.7)\nLR+ (95% CI) 2.04 (1.86–2.23) 3.11 (2.33–4.15) 7.02 (2.43–20.28)\nLR- (95% CI) 0.71 (0.68–0.74) 0.95 (0.93–0.96) 0.99 (0.99–1.00)\nUK study[11]\nSensitivity 54.3 17.8 8.1\nSpecificity 72.2 95.0 98.6\nFalse positive rate 34.7 22.6 15.7\nLR+ (95% CI) 2.0 3.6 5.8\nLR- (95% CI) 0.6 0.9 0.9\nUS study[14]\nSensitivity 57.9 Not reported Not reported\nSpecificity 70.7\nFalse positive rate 34.1\nLR+ (95% CI) 2.0\nLR- (95% CI) 0.6",
+   "table_id": "PMC2700797_table_4"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    478.1,
+    372.6,
+    922.4
+   ],
+   "ocr": "applied to the small number of patients for whom the algorithm predicted that the risk of readmission was > 70% (i.e., case-management would cost less than the cost of the readmissions it prevented). Only a very few inter- ventions (e.g., childhood immunisation) have been iden- tified that both improve health outcomes and are cost- saving, so it would be unusual if case-management proved to be cost-saving. Much more commonly, we have to spend money to improve health and quality of life, although we would want to give priority to interventions that are cost-effective (value-for-money). Given the high cost of readmission and the high average risk of readmis- sion for patients with a reference condition (45% for these Queensland data), it is likely that a case-management intervention offered to all patients with a reference condi- tion could be value-for-money, but perhaps not cost-sav- ing. Conclusion A statistical algorithm, uninformed by clinical judgement, is unlikely ever to be an appropriate way to identify patients in need of care or additional interventions. Per- haps the most appropriate use of a statistical algorithm is to identify those patients who might benefit from closer clinical attention. The algorithm could thus be used to highlight patients presenting to the emergency depart- ment (on a second visit), to assist emergency physicians to identify quickly those patients at higher risk of readmis- sion for potential referral to case management. With inter- vening clinical judgement, false positives should be"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    478.1,
+    698.3,
+    918.2
+   ],
+   "ocr": "reduced, but unless the risk thresholds are reduced further (at the cost of increased emergency physician time in reviewing cases), false negatives would remain an issue. This then becomes a policy question of whether a benefit to one group (those identified) should be introduced even though others who might benefit have been (unfairly) not so identified, with their access to additional interventions relying on (unprompted) clinical judgement. Competing interests The authors declare that they have no competing interests. Authors' contributions SH extracted and analysed the data and prepared a draft of the manuscript. MC prepared a revised version of the manuscript and provided intellectual input into study design and statistical analysis. JM and SD provided con- tent expertise throughout the design and implementation of the study and contributed to the final version of the manuscript. Acknowledgements We would like to thank Ms Rachael Wills for her assistance with the data extraction and coding and Dr Trisha Johnston for her intellectual input in the early stages of the study. We gratefully acknowledge the assistance of Dr Ronald Webster, who proof read the final draft of our manuscript. References 1. Schwartz W, Mendelson D: Hospital cost containment in the 1980s. Hard lessons and prospects for the 1990s. N Engl J Med 1991, 324:1037-1042."
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 9 (page number not for citation purposes)"
+  }
+ }
+}

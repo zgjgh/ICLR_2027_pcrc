@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_302",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    49.8,
+    198.3,
+    65.5
+   ],
+   "ocr": "BMC Genetics 2008, 9:91"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    49.8,
+    698.1,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2156/9/91"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    655.5
+   ],
+   "ocr": "(70°C for 1 min 30 sec). The PCR products were assayed on a 1.2% agarose gel. The PCR product of the 5' and 3' RACE-PCR were cloned into a plasmid vector using TOPO TA cloning® kit (Invitrogen Corp.) following the manufac- turer's instructions. Sequencing of the plasmid DNA was carried out in both forward and reverse directions as described below. Identification of SNPs in the bovine NPY gene Animals and genomic DNA preparation The animals (total n = 40) used for identification of the SNPs in the bovine NPY gene comprised of unrelated ped- igree bulls (n = 34) used for performance evaluation by the Irish Cattle Breeding Federation (ICBF) at the National Beef Performance Station (NBPS), Tully, Co. Kil- dare, Ireland and one breed of B. indicus (n = 6) (Table 4). Blood samples were collected from the jugular vein of the cattle in BD Vacutainers (Vacutainer Systems, UK) and stored at -20°C until used for DNA extraction. Genomic DNA was extracted from 200 μl of blood using GenElute™ Blood Genomic DNA kit (Sigma-Aldrich Corp. St. Louis, MO, USA) following manufacturer's instructions. At the final step, the genomic DNA was eluted with 200 μl nucle- ase free water and store at -20°C. The quality and quantity of the genomic DNA was assessed on a 0.8% agarose gel and using a NanoDrop®ND-1000 Spectrophotometer (Thermo Fisher Scientific Inc.), respectively. PCR amplification of the genomic region of the bovine NPY gene The nucleotide sequence of the bovine NPY gene (includ- ing the 5'and 3' UTR) was obtained from the GeneBank through alignment of the contig [GeneBank: NC_007302.1] with the available bovine NPY gene sequence [GeneBank: AY491054]. Seven sets of PCR Table 4: Breeds of beef cattle used for determination of the diversity of SNPs in the coding and non-coding region of bovine NPY gene"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    764.1
+   ],
+   "ocr": "primers (Table 5) were generated using the web-based software Primer3 http://primer3.sourceforge.net/ to amplify a total of 8361 nt genomic region. The primers were designed in such a way as to provide an overlap of ~100 nt between any two consecutive fragments. PCR amplification of the different fragments of the bovine NPY gene was performed in a PTC-225 DNA Engine Tet- rad (MJ Research, Inc. Massachusetts, USA) with 0.75 μL of the genomic DNA template in a 50 μl final reaction vol- ume. The PCR reaction contained 1× PCR buffer, 1.5 mM MgCl2, 0.2 μM dNTP mix, 0.2 μM each of the forward and reverse primers and 0.2 unit of Platinum Taq DNA polymerase (Invitrogen Corp.). The PCR cycle conditions were 94°C for 45 sec, 55°C for 45 sec and 72°C for 1.5 min for forty cycles followed by a final extension of 72°C for 10 min for all fragments. Sequencing of the genomic/plasmid DNA For sequencing of the PCR products, 40 μl of the PCR product was cleaned up using Gen Elute™ PCR clean-up kit (Sigma-Aldrich Corp.) following the manufacturer's instructions. The quality and quantity of the purified PCR product was assessed as described earlier. Using both for- ward and reverse primer sets, separate sequencing reac- tions were performed on the clean PCR product (20 ng/ 100 bases of DNA to be sequenced). For the plasmid DNA, 200 ng of the plasmid DNA was sequenced in both directions using plasmid-specific standard sequencing primers. Sequencing was performed by MWG-Biotech, Germany. Sequence data with PHRED quality score >20 (conform the accuracy of >99% of the base called) was used for multiple sequence comparison and SNP identifi- cation. SNPs were identified through comparison of the sequence data from all animals using Molecular Evolu- tionary Genetic Analysis (MEGA) v 4.0 software [43]. Statistical Analysis The nucleotide diversity in the promoter, exon, intron and 3' (UTR) regions of the bovine NPY gene was calculated considering the normalized number of variant sites as pre- viously described [44,45]. Accordingly, the normalized number of variant sites n − 1"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    666.5,
+    367.4,
+    890.0
+   ],
+   "ocr": "Species Breed (n)\nBos taurus 34\nLimousin 6\nSimmental 6\nCharolais 5\nAberdeen Angus 4\nHereford 3\nParthenais 3\nSalers 3\nAubrac 1\nBelgian Blue 1\nBlonde d'Aquitaine 1\nShorthorn 1\nBos indicus Local breeds 6\nTotal 40",
+   "table_id": "PMC2657160_table_3"
+  },
+  "p4_b5": {
+   "type": "title",
+   "bbox": [
+    571.6,
+    753.1,
+    586.6,
+    770.4
+   ],
+   "ocr": "− 1"
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    497.4,
+    758.7,
+    592.3,
+    776.8
+   ],
+   "ocr": "θ = K / ∑ i L"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    773.5,
+    698.3,
+    894.5
+   ],
+   "ocr": "i = 1 where, 'K' is the observed number of variant sites, 'L' is the total sequence length and 'n' is the number of chromo- some sequenced. Basic population statistics including the allele and genotype frequencies were determined by anal- ysis of the genotype data using Arlequin 3.11 [46]. The haplotype analysis was performed using EM algorithm in the Arlequin software."
+  },
+  "p4_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    953.2,
+    698.4,
+    981.8
+   ],
+   "ocr": "Page 9 of 11 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_005",
+  "page": 1,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.7,
+    678.3,
+    54.4
+   ],
+   "ocr": "Rabbi and Mazzuco Genus (2018) 74:18 Page 5 of 28"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    148.5,
+    108.3,
+    511.8,
+    121.3
+   ],
+   "ocr": "Table 1 Fitting periods for the countries and life expectancy at birth (HMD 2018)"
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    148.5,
+    126.6,
+    601.6,
+    277.0
+   ],
+   "ocr": "Country Starting year End year e0 (female) e0 (male)\nBelarus 1970 2014 78.43 67.81\nBulgaria 1950 2010 77.25 70.31\nEstonia 1959 2013 81.33 72.72\nHungary 1960 2014 79.24 72.26\nLatvia 1970 2013 78.73 69.26\nLithuania 1959 2013 79.37 68.52\nRussia 1970 2014 76.48 65.26\nSlovakia 1962 2014 80.32 73.25\nUkraine 1970 2013 76.21 66.31",
+   "table_id": "PMC6223892_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    305.4,
+    602.0,
+    603.8
+   ],
+   "ocr": "method and the Bayesian hierarchical model used by the UN to produce probabilistic forecasts. We considered four parametric LC variants those by Lee and Carter (1992), Lee and Miller (2001), Booth et al. (2002), and Brouhns et al. (2002), and three nonparametric variants of the Hyndman–Ullah method, robust Hyndman–Ullah method, and weighted Hyndman–Ullah method (Hyndman and Ullah 2007). Lee–Carter method (1992) and variants Since its development, the LC method has been one of the most applicable methods. Use of principal components for mortality forecasting came to practice through the work of Lee and Carter (1992). The two-factor LC model is given below: ln mx,t = ax + bxkt + ϵx,t. (1) Here, mx,t is the central mortality rate at age x for year t, ax represents the average log mortality at age x over time, bx is the first principal component capturing relative change in the log mortality rate at each age x, kt represents the overall level of mortality in year t, and ex,t is the model residual. Singular value decomposition (SVD) is applied to Zx,t =[ln(mx,t) − ˆax] to obtain the ordinary least squares (OLS) estimate of the LC model."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    598.2,
+    528.4,
+    641.8
+   ],
+   "ocr": "SVD decomposes the Zx,t into the product of three matrices. Symbolically, SVD(Zx,t) ULV ′ L1Ux1Vt1 LnUxnVtn."
+  },
+  "p1_b5": {
+   "type": "title",
+   "bbox": [
+    228.7,
+    623.6,
+    345.1,
+    646.4
+   ],
+   "ocr": "= = +"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    625.3,
+    601.9,
+    786.6
+   ],
+   "ocr": ". . . To estimate of the age and time components, Lee and Carter (1992) considered the rank-1 approximation only because it explains most of the variance. The estimates of the model parameters are: ˆkt = L1Vt1and ˆbx = Ux1. The LC method makes a second stage estimate of kt by finding the value of kt, which for a given population age distribution and previously estimated ax and bx produces exactly the observed number of total deaths for the fitting period of the model (Lee and Carter"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    783.5,
+    601.9,
+    806.3
+   ],
+   "ocr": "1992). An ARIMA(0,1,0) with drift is then fitted for adjusted ˆkt and used to forecast"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    148.5,
+    803.8,
+    601.9,
+    928.6
+   ],
+   "ocr": "future mortality. Later, Lee and Miller (2001) proposed three modifications of the basic LC model: (i) the fitting period is restricted from 1950 and onward to reduce structural shifts, (ii) the adjustment of kt is done by matching life expectancy, and (iii) the “jump-off error” is eliminated by forecasting forward from observed (rather than fitted) rates. The LC model can be extended by including higher-order terms instead of the rank-1 approximation considered in the earlier two approaches. Higher-order terms were mod- eled by Booth et al. (2002), and forecasts were later developed using univariate ARIMA"
+  }
+ }
+}

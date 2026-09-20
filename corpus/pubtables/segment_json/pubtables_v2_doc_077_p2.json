@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_077",
+  "page": 2,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    16.5,
+    253.7,
+    31.8
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    55.1,
+    60.2,
+    700.9,
+    403.8
+   ],
+   "ocr": "Cholesterol oxidase\nCoded values of the independent factors activity (UmL−1)\nRun Dummy Dummy Dummy Dummy Actual Predicted\nStd no. A B C D E F G H J K L M N O P 1 2 3 4 value value Residuals\n4 1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 3.861 4.051 −0.190\n13 2 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 4.775 4.776 −0.001\n15 3 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 0.837 0.715 0.123\n7 4 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 4.174 4.242 −0.069\n6 5 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 1.412 1.465 −0.053\n16 6 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 4.951 4.813 0.138\n12 7 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 2.670 2.480 0.190\n17 8 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 2.716 2.839 −0.123\n18 9 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 3.496 3.443 0.053\n8 10 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 2.872 2.804 0.069\n14 11 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 -1 1 1 −1 −1 1 1 2.556 2.693 −0.138\n5 12 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 3.799 3.798 0.001\n9 13 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 4.825 4.894 −0.069\n1 14 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 5.087 5.209 −0.123\n2 15 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 4.808 4.946 −0.138\n19 16 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 1 −1 1 7.861 7.601 0.259\n10 17 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 1 3.794 3.535 0.259\n11 18 1 −1 1 −1 −1 −1 −1 1 1 −1 1 1 −1 −1 1 1 1 1 −1 4.038 3.970 0.068\n3 19 1 −1 1 1 −1 −1 1 1 1 1 −1 1 −1 1 −1 −1 −1 −1 1 6.431 6.499 −0.068\n20 20 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 −1 4.019 4.209 −0.190",
+   "table_id": "PMC5807524_table_1"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    418.3,
+    707.2,
+    462.4
+   ],
+   "ocr": "Table 2. The effect of fifteen independent factors with coded levels on cholesterol oxidase activity using twenty- trials according to “Plackett–Burman experimental design”. “Two level design, each variable is tested at a low “−1” and high “+1” value.”"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    202.7,
+    495.4,
+    438.6,
+    745.6
+   ],
+   "ocr": "Term Coefficient Effect % Contribution\nIntercept 3.949\nA 0.573 1.146 11.76\nB −0.441 −0.882 9.06\nC −0.223 −0.446 4.58\nD 0.064 0.127 1.31\nE −0.001 −0.002 0.02\nF 0.218 0.435 4.48\nG 0.245 0.491 5.03\nH 0.402 0.804 8.25\nJ 0.439 0.878 9.01\nK 0.066 0.132 1.36\nL 0.159 0.317 3.26\nM −0.562 −1.123 11.54\nN −0.431 −0.861 8.85\nO 0.140 0.280 2.87\nP −0.908 −1.817 18.64",
+   "table_id": "PMC5807524_table_2"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    756.3,
+    701.5,
+    785.0
+   ],
+   "ocr": "Table 3. Statistical analysis of Plackett–Burman design showing regression coefficients, estimated effect and % of contribution of the tested factors on the enzyme production by Streptomyces aegyptia NEAE-102."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    819.5,
+    708.9,
+    835.8
+   ],
+   "ocr": "Where Y is the response and “A, B, C, F, G, H, J, M, N and P” are cholesterol, starch, glucose, (NH4)2SO4, K2HPO4,"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    832.2,
+    545.7,
+    848.6
+   ],
+   "ocr": "NaCl, MgSO4.7H2O, time of incubation, inoculum size and pH; respectively."
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    214.3,
+    844.9,
+    708.9,
+    860.5
+   ],
+   "ocr": "Based on the main effect (Table 3) and the calculated t-values (Table 4), cholesterol concentration (A), incu-"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    857.8,
+    708.9,
+    873.3
+   ],
+   "ocr": "bation time (M) and pH (P) were chosen to further optimize by FCCD, as those variables represented the more"
+  },
+  "p2_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    870.6,
+    708.9,
+    909.1
+   ],
+   "ocr": "significant effect on cholesterol oxidase production. Adequacy of the model. The normal probability plot (NPP) is given in Fig. 3A. “The normal probability"
+  },
+  "p2_b10": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    906.4,
+    708.7,
+    921.9
+   ],
+   "ocr": "plot of the residuals is an important diagnostic tool to reveal and demonstrate the systematic departures from the"
+  },
+  "p2_b11": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    919.1,
+    709.0,
+    979.9
+   ],
+   "ocr": "normality”25. NPP of internally studentized residuals illustrates the points near the diagonal line which means SCiENTiFiC REPORTS | (2018) 8:2706 | DOI:10.1038/s41598-018-20786-3 4"
+  }
+ }
+}

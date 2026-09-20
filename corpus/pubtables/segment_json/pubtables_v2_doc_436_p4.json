@@ -1,0 +1,234 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_436",
+  "page": 4,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    53.4,
+    296.3,
+    65.0
+   ],
+   "ocr": "Jimeno Yepes et al. BMC Bioinformatics (2015) 16:113"
+  },
+  "p4_b1": {
+   "type": "title",
+   "bbox": [
+    627.8,
+    53.6,
+    679.1,
+    65.0
+   ],
+   "ocr": "Page 9 of 12"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    108.3,
+    386.2,
+    121.3
+   ],
+   "ocr": "Table 4 Binary versus term frequency features using SVMLight"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    388.5,
+    108.3,
+    588.8,
+    121.3
+   ],
+   "ocr": "and SVM-perf on unigrams and bigrams"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    72.1,
+    127.3,
+    678.7,
+    297.8
+   ],
+   "ocr": "Binary TF\nPrecision Recall F-measure Precision Recall F-measure\nSVMLight Unigram 0.678 0.302 0.418* 0.694 0.269 0.387\nSVMLight Bigram 0.711 0.284 0.406 0.708 0.273 0.394\nSVMLight TIAB unigram 0.678 0.302 0.418* 0.700 0.263 0.383\nSVMLight TIAB bigram 0.730 0.294 0.420* 0.715 0.268 0.389\nSVM-perf Unigram 0.395 0.654 0.492 0.390 0.686 0.497\nSVM-perf Bigram 0.414 0.675 0.513 0.442 0.594 0.507\nSVM-perf TIAB unigram 0.398 0.659 0.496* 0.401 0.609 0.483\nSVM-perf TIAB bigram 0.408 0.685 0.512 0.428 0.611 0.503",
+   "table_id": "PMC4407321_table_3"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    72.8,
+    305.1,
+    328.2,
+    315.0
+   ],
+   "ocr": "For each row, significantly better results (p>0.05) are indicated with *."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    352.0,
+    366.7,
+    520.8
+   ],
+   "ocr": "oversampling seems to perform better overall with fea- ture combination than with the bigram baseline. On the other hand, when all the features are combined the per- formance is lower compared to the baseline. One reason for this is over-fitting of the data due to the large number of features; SVM-perf seems to be more resilient to this problem. This shows as well that the conclusions on the feature experiments depend not only on the feature sets but on the learning algorithms being used. Overall, from the two sets of experiments, better results are obtained in the bigram set, which was already the case in the results"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    352.0,
+    679.1,
+    490.7
+   ],
+   "ocr": "Considering combining MTI suggestions with either unigrams or bigrams (+MTI), the results are below MTI results, even though SVM-perf with bigrams is closer to MTI’s performance. On the other hand, combining MTI components (+MMI+PRC), we find that the result is bet- ter than when considering each component separately. SVM-perf with bigrams+MMI+PRC has a result that is close to MTI’s performance, which is interesting since no manually implemented rules are used compared to MTI’s"
+  },
+  "p4_b8": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    487.5,
+    469.2,
+    505.8
+   ],
+   "ocr": "implementation."
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    502.6,
+    679.1,
+    746.7
+   ],
+   "ocr": "Finally, combining all features improves performance of any individual feature set, except for AdaBoostM1 and bigrams, as mentioned above. Furthermore, when using SVM-perf and combining bigrams with all other features, the results are significantly better than MTI results, show- ing that it is possible to improve MTI’s performance using automatic methods. Discussion The experiments show that unigrams and bigrams are a strong baseline compared to other more sophisticated fea- tures, which is in agreement with previous work. A con- ceptual representation based on MetaMap shows similar performance compared to unigrams. In addition, combin- ing the features improves the classification performance. When combining all feature sets, even better results than"
+  },
+  "p4_b10": {
+   "type": "title",
+   "bbox": [
+    72.1,
+    517.6,
+    221.6,
+    535.9
+   ],
+   "ocr": "without feature combination."
+  },
+  "p4_b11": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    532.7,
+    366.7,
+    701.5
+   ],
+   "ocr": "Using noun phases (+NP) shows some non-significant improvement over the unigram and bigram baselines. When using concepts annotated using MetaMap (+CUI) there is a large significant improvement considering the baseline. The improvement is not as important when using concepts from UMLS first level hypernyms (+Taxo) and performance even decreases when using AdaBoostM1. This might be surprising when consider- ing the results only using CUIs, but it may mean as well that CUIs normalize the terms in the citation while adding more general concepts which might make the model less"
+  },
+  "p4_b12": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    698.3,
+    366.7,
+    716.6
+   ],
+   "ocr": "specific to the categorization problem. The article meta-"
+  },
+  "p4_b13": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    713.4,
+    366.7,
+    731.6
+   ],
+   "ocr": "data (+Meta), containing the journal ID, the affiliation"
+  },
+  "p4_b14": {
+   "type": "paragraph",
+   "bbox": [
+    72.1,
+    728.4,
+    366.7,
+    746.7
+   ],
+   "ocr": "and authors, show either a decreased performance or a"
+  },
+  "p4_b15": {
+   "type": "caption",
+   "bbox": [
+    72.1,
+    743.5,
+    358.7,
+    827.1
+   ],
+   "ocr": "non-significant improvement. Table 5 MTI results and individual performance of its components MMI (MetaMap + Restrict-to-MeSH) and PRC (PubMed Related citations)"
+  },
+  "p4_b16": {
+   "type": "title",
+   "bbox": [
+    384.5,
+    743.6,
+    535.3,
+    761.8
+   ],
+   "ocr": "the MTI system are achieved."
+  },
+  "p4_b17": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    758.6,
+    679.0,
+    807.0
+   ],
+   "ocr": "The machine learning algorithm has an influence as well on the performance. Looking at the overall results, SVM-perf has the best average performance for the dif-"
+  },
+  "p4_b18": {
+   "type": "caption",
+   "bbox": [
+    384.5,
+    803.8,
+    679.0,
+    822.0
+   ],
+   "ocr": "ferent feature sets (even better the AdaBoostM1 with"
+  },
+  "p4_b19": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    818.8,
+    679.0,
+    912.4
+   ],
+   "ocr": "oversampling). AdaBoostM1 with oversampling performs better than AdaBoostM1 using the natural class distri- bution. This means that learning algorithms prepared to deal with data set imbalance perform better. We find as well that when all the features are used, AdaBoostM1 with oversampling has decreased performance, which might"
+  },
+  "p4_b20": {
+   "type": "table",
+   "bbox": [
+    72.1,
+    833.1,
+    366.5,
+    915.7
+   ],
+   "ocr": "Precision Recall F-measure\nMTI system 0.612 0.499 0.549\nMMI 0.556 0.212 0.307\nPRC 0.602 0.356 0.447\nMMI+PRC 0.600 0.393 0.475",
+   "table_id": "PMC4407321_table_4"
+  },
+  "p4_b21": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    909.2,
+    679.0,
+    927.4
+   ],
+   "ocr": "be due to over-fitting of the learned model. Previous"
+  }
+ }
+}

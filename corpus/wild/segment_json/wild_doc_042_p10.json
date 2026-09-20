@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_042",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    49,
+    558,
+    135
+   ],
+   "ocr": "The data presented in the accompanying table highlights critical metrics related to the effectiveness of various activities aimed at promoting access to NGO services and enhancing accessibility through on-site care during extended hours. This analysis specifically examines the adjusted β-coefficient values, which provide insight into the strength and direction of the association between these activities and key health outcomes, including insulin concentration. The column labeled \"Adjusted β-Coefficient a\" illustrates the initial relationship observed, while \"Fully Adjusted β-Coefficient b\" accounts for potential confounders, thereby offering a more refined understanding of the impact of these interventions."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    123,
+    558,
+    209
+   ],
+   "ocr": "The inclusion of confidence intervals (95% CI) in both coefficients facilitates an assessment of the precision of these estimates and their statistical significance. Additionally, the \"p for Interaction between BsmI x 25-Hydroxyvitamin D\" metric serves to elucidate potential interactions that may exist between genetic factors and vitamin D levels, further enriching the discussion around accessibility initiatives. Collectively, these metrics underscore the importance of targeted interventions in improving health access and outcomes within the community context, emphasizing the need for ongoing evaluation and adaptation of these strategies."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    14.0,
+    225.0,
+    558.0,
+    509.0
+   ],
+   "ocr": "Activities to PROMOTE THE LINK TO NGO SERVICES.Activities to PROMOTE ACCESSIBILITY THROUGH ON-SITE CARE DURING EXTENDED HOURS\nPROCESS MEASURE Indicator description Method of Data collection Data Collection Frequency\nMonitoring of days public is served Days of the year open to the public NGO 12 months\nMonitoring of schedules and days of the week that public is served Number of hours per day and days of the week open to the public NGO 12 months\nMonitoring of hours open outside of normal schedule Hours of the day and days of the week open outside of normal schedule NGO 12 months\nMonitoring of number of activity hours for each professional Hours of activity for each professional (separating volunteers and part time and full time professionals) NGO 12 months\nOUTCOME MEASURE Indicator description Method of Data collection Data Collection Frequency\nMonitoring of the individuals attended to in one year Number of individuals attended in one year NGO 12 months\nMonitoring of the use of the center by the same user Number of times that the same user uses the centre per year NGO 12 months",
+   "table_id": "img_047945_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    14.0,
+    524.0,
+    558.0,
+    780.0
+   ],
+   "ocr": "VDR BsmI Gene Polymorphism\nVariables Adjusted β-Coefficient a 95% CI R2 Fully Adjusted β-Coefficient b 95% CI R2 p for Interaction between BsmI x 25-Hydroxyvitamin D\nInsulin concentration 0.095 −0.028; 0.218 0.168 0.104 −0.008; 0.216 0.319 0.323\nHOMA-IR 0.110 −0.020; 0.242 0.170 0.122 0.002; 0.243 0.316 0.336\nGlucose (mg/dL) 1.502 0.064; 2.940 0.101 1.696 0.259; 3.133 0.113 0.591\nSystolic blood pressure (mmHg) −0.667 −2.421; 1.085 0.020 −0.646 −2.413; 1.119 0.021 0.625\nDiastolic blood pressure (mmHg) −0.180 −1.402; 1.042 0.012 −0.125 −1.362; 1.111 0.003 0.678\n25-hydroxyvitamin D (nmol/L) 0.007 −0.059; 0.073 0.012 0.100 −0.056; 0.076 0.001 --",
+   "table_id": "img_047945_t1"
+  }
+ }
+}

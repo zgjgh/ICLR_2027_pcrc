@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_390",
+  "page": 2,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.8,
+    648.4,
+    165.6
+   ],
+   "ocr": "Sensors 2012, 12 9851 consecutively, resulting in 246 samples of prediction set, and the remaining 492 samples formed calibration set. The statistical information of Y-value of each set was shown in Table 5. Table 5. Statistical information of moisture content (w.b., %) of samples in three data sets."
+  },
+  "p2_b1": {
+   "type": "table",
+   "bbox": [
+    119.8,
+    175.0,
+    591.1,
+    245.2
+   ],
+   "ocr": "a\nData sets Range (%) Mean (%) SD Number\nCalibration set 3.148–71.388 33.768 0.255 492\nPrediction set 3.485–71.722 34.182 0.257 246\nTotal 3.148–71.388 33.906 0.256 738",
+   "table_id": "PMC3444132_table_4"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    294.6,
+    249.2,
+    298.0,
+    257.7
+   ],
+   "ocr": "a"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    250.8,
+    648.7,
+    630.6
+   ],
+   "ocr": "SD: standard deviation. 2.2. Spectra Acquisition and Reference Method for MC In this study, a Vis/NIR spectroradiometer (FieldSpec®3, Analytical Spectral Devices, Inc., Boulder, CO, USA) was adopted for Vis/NIR spectroscopy acquisition. This spectroradiometer has high sensitivity in the range of 325–1,075 nm with a 512 photodiode array detector, while the field-of-view is 10°, the spectral resolution is 3.5 nm, and the interval of sampling is 1.5 nm. A 150 watt halogen lamp was used to provide uniform light in the visible and short-wave near infrared range. When scanning spectrum, the spectroradiometer was fixed on a tripod with 45° between the spectroradiometer axis and horizontal line, and fixed at approximately 100 mm above samples. After each sample was scanned, it was taken away to empty the position for the next sample, this movement might lead to a change in the measurement system. In order to reduce this influence, the spectroradiometer was calibrated every half hour by a 100-mm2 white standard panel with approximately 100% reflectance across the entire spectrum. So, relative reflectance was calculated with measurements from both the samples and the standard panel as shown in Figure 1. With respect to each sample, a mean spectrum was averaged by 30 scans. Besides, there were obvious noises at the beginning and the end of the spectrum, so only spectral bands of 400–1,050 nm were taken for further analysis. Figure 1. Vis/NIR diffuse reflectance spectroscopy of the samples."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    803.4,
+    648.6,
+    934.4
+   ],
+   "ocr": "(a) (b) (c) The reference MC was measured by the gravimetric method according to the Chinese National Standard GB8304-87. In detail, every sample was heated in a constant temperature oven at 103 °C for 4 h, and weighed before and after the heating by an electronic balance with an accuracy of 0.0001 g. All the measurements were carried out in a room at approximate constant temperature of 25 °C and relative humidity of 40–55%."
+  }
+ }
+}

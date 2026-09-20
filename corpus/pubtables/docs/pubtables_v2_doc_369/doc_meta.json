@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_369",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3247232_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    121.8,
+    691.9,
+    328.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3247232_table_0.png",
+   "html": "<table><tr><td></td><td>Data source</td><td>Start of data collection</td><td>End of data collection</td><td>Duration of data collection (months)</td><td>Number of Cases (%)</td><td>Estimated number of maternities{</td></tr><tr><td colspan=\"7\">Mortality*:</td></tr><tr><td>All deaths</td><td>CMACE</td><td>01/01/2003</td><td>31/12/2005</td><td>36</td><td>60 (60)</td><td>2,114,004</td></tr><tr><td>All deaths</td><td>CMACE</td><td>01/01/2006</td><td>31/12/2008</td><td>36</td><td>40 (40)</td><td>2,291,493</td></tr><tr><td>TOTAL DEATHS</td><td></td><td></td><td></td><td></td><td>100 (100)</td><td></td></tr><tr><td colspan=\"7\">Morbidity**:</td></tr><tr><td>Amniotic fluid embolism</td><td>UKOSS</td><td>01/03/2005</td><td>28/02/2009</td><td>48</td><td>48 (10)</td><td>3,032,560</td></tr><tr><td>Acute fatty liver of pregnancy</td><td>UKOSS</td><td>01/02/2005</td><td>31/08/2006</td><td>19</td><td>56 (12)</td><td>1,147,848</td></tr><tr><td>Antenatal pulmonary embolism</td><td>UKOSS</td><td>01/02/2005</td><td>31/08/2006</td><td>19</td><td>138 (29)</td><td>1,147,848</td></tr><tr><td>Eclampsia</td><td>UKOSS</td><td>01/02/2005</td><td>28/02/2006</td><td>13</td><td>214 (45)</td><td>779,442</td></tr><tr><td>Antenatal stroke</td><td>UKOSS</td><td>01/07/2007</td><td>31/12/2008</td><td>18</td><td>20 (4)</td><td>1,168,233</td></tr><tr><td>TOTAL SURVIVORS</td><td></td><td></td><td></td><td></td><td>476 (100)</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3247232_table_1",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    769.9,
+    688.9,
+    882.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3247232_table_1.png",
+   "html": "<table><tr><td></td><td>Incidence of maternal death per 1 000 000 maternities (95%CI)</td><td>Incidence of survival from severe morbidity per 1 000 000maternities (95%CI)</td><td>Ratio of survivors to deaths (95%CI)</td></tr><tr><td>Amniotic fluid embolism</td><td>6.8 (4.6&#8211;9.7)</td><td>15.8 (11.7&#8211;21.0)</td><td>2.3:1 (1.2:1 to 4.6:1)</td></tr><tr><td>Acute fatty liver of pregnancy</td><td>0.7 (0.1&#8211;2.0)</td><td>48.8 (36.9&#8211;63.4)</td><td>70:1 (18:1 to 634:1)</td></tr><tr><td>Antenatal pulmonary embolism</td><td>6.4 (1.4&#8211;9.2)</td><td>120 (101&#8211;142)</td><td>19:1 (11:1 to 101:1)</td></tr><tr><td>Eclampsia</td><td>3.2 (1.7&#8211;5.3)</td><td>275 (239&#8211;314)</td><td>86:1 (45:1 to 185:1)</td></tr><tr><td>Antenatal cerebral stroke</td><td>5.7 (3.7&#8211;8.4)</td><td>17.1 (10.5&#8211;26.4)</td><td>3.0:1 (1.3:1 to 7.1:1)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3247232_table_2",
+   "page_num": 2,
+   "bbox": [
+    81.0,
+    121.8,
+    696.3,
+    569.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3247232_table_2.png",
+   "html": "<table><tr><td></td><td>Maternal deaths n = 100, n(%)</td><td>Survivors n = 476, n(%)</td><td>Crude OR* (95%CI)</td><td>Adjusted OR* Missing indicator model (95%CI)</td><td>Adjusted OR* multiple imputation model (95%CI)</td></tr><tr><td colspan=\"6\">Age (years)</td></tr><tr><td>,30</td><td>32 (32)</td><td>269 (57)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>30&#8211;34</td><td>40 (40)</td><td>120 (25)</td><td>2.80 (1.68&#8211;4.68)</td><td>2.89 (1.56&#8211;5.36)</td><td>2.58 (1.36&#8211;4.90)</td></tr><tr><td>$35</td><td>27 (27)</td><td>85 (18)</td><td>2.67 (1.51&#8211;4.71)</td><td>2.04 (1.01&#8211;4.11)</td><td>2.36 (1.22&#8211;4.56)</td></tr><tr><td>Missing</td><td>1 (1)</td><td>1 (0)</td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Parity</td></tr><tr><td>Nulliparous</td><td>46 (46)</td><td>286 (60)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Multiparous</td><td>53 (53)</td><td>189 (40)</td><td>1.74 (1.13&#8211;2.70)</td><td>0.75 (0.44&#8211;1.28)</td><td>0.76 (0.45&#8211;.1.29)</td></tr><tr><td>Missing</td><td>1 (1)</td><td>1 (0)</td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Ethinicity</td></tr><tr><td>White</td><td>65 (64)</td><td>352 (74)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Black Caribbean and African</td><td>19 (20)</td><td>45 (9)</td><td>2.44 (1.34&#8211;4.44)</td><td>2.40 (1.14&#8211;5.06)</td><td>2.38 (1.15&#8211;4.92)</td></tr><tr><td>Other minority ethnic groups</td><td>15 (15)</td><td>72 (15)</td><td>1.20 (0.64&#8211;2.23)</td><td>1.16 (0.54&#8211;2.51)</td><td>1.31 (0.65&#8211;2.76)</td></tr><tr><td>Missing</td><td>1 (1)</td><td>7 (1)</td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">BMI (kg/m2)</td></tr><tr><td>,30</td><td>53 (53)</td><td>327 (67)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>$30</td><td>24 (24)</td><td>84 (18)</td><td>1.83 (1.06&#8211;3.14)</td><td>1.57 (0.83&#8211;2.97)</td><td>1.71 (0.91&#8211;3.19)</td></tr><tr><td>Missing</td><td>23 (23)</td><td>65 (14)</td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Occupational classification</td></tr><tr><td>Managerial</td><td>20 (25)</td><td>113 (24)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Intermediate occupation</td><td>19 (23)</td><td>101 (21)</td><td>1.06 (0.54&#8211;2.10)</td><td>1.41 (0.65&#8211;3.07)</td><td>1.33 (0.59&#8211;2.95)</td></tr><tr><td>Manual or unemployed</td><td>42 (52)</td><td>207 (43)</td><td>1.14 (0.64&#8211;2.05)</td><td>2.33 (1.13&#8211;4.80)</td><td>2.19 (1.03&#8211;4.68)</td></tr><tr><td>Missing</td><td>19 (19)</td><td>55 (12)</td><td></td><td></td><td></td></tr><tr><td colspan=\"6\">Smoking during pregnancy</td></tr><tr><td>Yes</td><td>13 (14)</td><td>89 (19)</td><td>0.67 (0.35&#8211;1.26)</td><td>0.62 (0.29&#8211;1.32)</td><td>0.58 (0.27&#8211;1.26)</td></tr><tr><td>No</td><td>82 (86)</td><td>376 (79)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Missing</td><td>5 (5)</td><td>9 (2)</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3247232_table_3",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    135.1,
+    362.8,
+    407.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3247232_table_3.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Women who died n = 40 n (%)</td><td rowspan=\"2\">Survivors n = 476 n (%)</td></tr><tr><td></td></tr><tr><td colspan=\"3\">Previous history</td></tr><tr><td>Cancer</td><td>0</td><td>3 (1)</td></tr><tr><td>Previous Thrombotic event</td><td>0</td><td>3 (1)</td></tr><tr><td colspan=\"3\">Current disease</td></tr><tr><td>Asthma</td><td>1 (2)</td><td>39 (8)</td></tr><tr><td>Auto immune disease</td><td>1 (2)</td><td>3 (1)</td></tr><tr><td>Congenital or aquired Cardiac disease</td><td>1 (2)</td><td>7 (1)</td></tr><tr><td>Diabetes, endocrine disorders</td><td>2 (5)</td><td>12 (2)</td></tr><tr><td>Epilepsy</td><td>1 (2)</td><td>3 (1)</td></tr><tr><td>Essential hypertension</td><td>3 (7)</td><td>8 (2)</td></tr><tr><td>Haematological disorders</td><td>0</td><td>5 (1)</td></tr><tr><td>Renal or urological disease</td><td>0</td><td>5 (1)</td></tr><tr><td>Others</td><td>0</td><td>19 (4)</td></tr><tr><td>Overall</td><td>9 (22)</td><td>107 (22)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3247232_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    135.1,
+    683.9,
+    645.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3247232_table_4.png",
+   "html": "<table><tr><td></td><td>Maternal deaths n = 40, n(%)</td><td>Survivors n = 476, n(%)</td><td>Crude OR* (95%CI)</td><td>Adjusted OR* multiple imputation model (95%CI)</td></tr><tr><td colspan=\"5\">Age (years)</td></tr><tr><td>,30</td><td>10 (25)</td><td>269 (57)</td><td>1</td><td>1</td></tr><tr><td>30&#8211;34</td><td>11 (27)</td><td>120 (25)</td><td>2.85 (1.17&#8211;6.90)</td><td>4.29 (1.63&#8211;11.2)</td></tr><tr><td>$35</td><td>19 (48)</td><td>85 (18)</td><td>4.96 (2.23&#8211;11.0)</td><td>5.26 (1.86&#8211;14.5)</td></tr><tr><td>Missing</td><td>0</td><td>1 (0)</td><td></td><td></td></tr><tr><td colspan=\"5\">Parity</td></tr><tr><td>Nulliparous</td><td>19 (48)</td><td>286 (60)</td><td>1</td><td>1</td></tr><tr><td>Multiparous</td><td>20 (50)</td><td>189 (40)</td><td>1.59 (0.83&#8211;3.06)</td><td>0.62 (0.28&#8211;1.35)</td></tr><tr><td>Missing</td><td>1 (2)</td><td>1 (0)</td><td></td><td></td></tr><tr><td colspan=\"5\">Ethinicity</td></tr><tr><td>White</td><td>26 (65)</td><td>352 (74)</td><td>1</td><td>1</td></tr><tr><td>Black Caribbean and African</td><td>8 (20)</td><td>45 (9)</td><td>2.41 (1.03&#8211;5.64)</td><td>3.01 (1.08&#8211;1.42)</td></tr><tr><td>Other minority ethnic groups</td><td>6 (15)</td><td>72 (15)</td><td>1.13 (0.45&#8211;2.84)</td><td>1.49 (0.50&#8211;4.45)</td></tr><tr><td>Missing</td><td>0</td><td>7 (1)</td><td></td><td></td></tr><tr><td colspan=\"5\">BMI (kg/m2)</td></tr><tr><td>,30</td><td>24 (60)</td><td>327 (67)</td><td>1</td><td>1</td></tr><tr><td>$30</td><td>13 (33)</td><td>84 (18)</td><td>2.11 (1.03&#8211;4.32)</td><td>2.73 (1.15&#8211;6.46)</td></tr><tr><td>Missing</td><td>3 (7)</td><td>65 (14)</td><td></td><td></td></tr><tr><td colspan=\"5\">Occupational classification</td></tr><tr><td>Managerial</td><td>7 (17)</td><td>113 (24)</td><td>1</td><td>1</td></tr><tr><td>Intermediate occupation</td><td>8 (20)</td><td>101 (21)</td><td>1.28 (0.45&#8211;3.65)</td><td>1.80 (0.59&#8211;5.55)</td></tr><tr><td>Manual or unemployed</td><td>17 (43)</td><td>207 (43)</td><td>1.33 (0.54&#8211;3.29)</td><td>3.27 (1.03&#8211;10.4)</td></tr><tr><td>Missing</td><td>8 (20)</td><td>55 (12)</td><td></td><td></td></tr><tr><td colspan=\"5\">Smoking during pregnancy</td></tr><tr><td>Yes</td><td>7 (20)</td><td>89 (19)</td><td>1.06 (0.45&#8211;2.50)</td><td>1.06 (0.36&#8211;3.13)</td></tr><tr><td>No</td><td>28 (70)</td><td>376 (79)</td><td>1</td><td>1</td></tr><tr><td>Missing</td><td>5 (20)</td><td>9 (2)</td><td></td><td></td></tr><tr><td colspan=\"5\">Pre-existing condition</td></tr><tr><td>Yes</td><td>9 (22)</td><td>89 (19)</td><td>0.83 (0.39&#8211;1.80)</td><td>0.88 (0.39&#8211;1.99)</td></tr><tr><td>No</td><td>31 (78)</td><td>376 (79)</td><td>1</td><td>1</td></tr><tr><td>Missing</td><td>0</td><td>9 (2)</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3247232_table_5",
+   "page_num": 5,
+   "bbox": [
+    80.4,
+    121.8,
+    672.2,
+    596.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3247232_table_5.png",
+   "html": "<table><tr><td>Maternal characteristics</td><td>Missing value scenario assumptions</td><td>aOR (95%CI)*</td></tr><tr><td>BMI (kg/m2)</td><td>All missing BMI values assumed to be ,30 kg/m2</td><td></td></tr><tr><td>,30</td><td></td><td>1</td></tr><tr><td>$30</td><td></td><td>1.30 (0.70&#8211;2.40)</td></tr><tr><td>BMI (kg/m2)</td><td>All missing BMI values assumed to be $30 kg/m2</td><td></td></tr><tr><td>,30</td><td></td><td>1</td></tr><tr><td>$30</td><td></td><td>1.99 (1.17&#8211;3.36)</td></tr><tr><td>BMI (kg/m2)</td><td>Restricted to the period 2006&#8211;08 for CMACE data. All missing BMI values assumed to be ,30 kg/m2</td><td></td></tr><tr><td>,30</td><td></td><td>1</td></tr><tr><td>$30</td><td></td><td>2.60 (1.11&#8211;6.12)</td></tr><tr><td>BMI (kg/m2)</td><td>Restricted to the period 2006&#8211;08 for CMACE data. All missing BMI values assumed to be $30 kg/m2</td><td></td></tr><tr><td>,30</td><td></td><td>1</td></tr><tr><td>$30</td><td></td><td>1.65 (0.75&#8211;3.63)</td></tr><tr><td>Ethnicity</td><td>All missing ethnicities assumed to be white</td><td></td></tr><tr><td>White</td><td></td><td>1</td></tr><tr><td>Black African or Caribbean</td><td></td><td>2.25 (1.07&#8211;4.71)</td></tr><tr><td>Indian, Bangladesh, Pakistan, Other minorities</td><td></td><td>1.08 (0.50&#8211;2.30)</td></tr><tr><td>Ethnicity</td><td>All missing ethnicities assumed to be Black Caribbean or African</td><td></td></tr><tr><td>White</td><td></td><td>1</td></tr><tr><td>Black African or Caribbean</td><td></td><td>2.55 (1.27&#8211;5.11)</td></tr><tr><td>Indian, Bangladesh, Pakistan, Other minorities</td><td></td><td>1.16 (0.54&#8211;2.49)</td></tr><tr><td>Employment</td><td>All missing occupational codes assumed to be managerial</td><td></td></tr><tr><td>Managerial</td><td></td><td>1</td></tr><tr><td>Non managerial</td><td></td><td>1.17 (0.58&#8211;2.36)</td></tr><tr><td>Manual or unemployed</td><td></td><td>1.85 (1.01&#8211;3.40)</td></tr><tr><td>Employment</td><td>All missing occupational codes assumed to be manual or unemployed</td><td></td></tr><tr><td>Managerial</td><td></td><td>1</td></tr><tr><td>Non managerial</td><td></td><td>1.41 (0.65&#8211;3.06)</td></tr><tr><td>Manual or unemployed</td><td></td><td>2.14 (1.07&#8211;4.27)</td></tr></table>"
+  }
+ ]
+}

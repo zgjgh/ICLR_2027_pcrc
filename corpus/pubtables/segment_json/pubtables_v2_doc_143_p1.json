@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_143",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    279.8,
+    65.8
+   ],
+   "ocr": "Shokouhi et al. BMC Medical Imaging 2011, 11:23 http://www.biomedcentral.com/1471-2342/11/23"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 3 of 16"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.7,
+    739.3
+   ],
+   "ocr": "Clinical Neurosciences at the University of Edinburgh and the Institute of Neurological Sciences in Glasgow, and the Centre for Clinical Magnetic Resonance Research, (University of Oxford). Of all the MR scanners, two were manufactured by GE, two by Siemens, and one by Philips. The 3D T1-weighted images were acquired using the Magnetization Prepared Rapid Gradient Echo (MP-RAGE) sequence [30]. Briefly, our whole dataset consisted of two groups: the first group included thirteen subjects scanned twice at three centres with 1.5 T scan- ners (presented here as A, B, and C) and the second group consisted of eleven subjects scanned twice at five centres using 3 T scanners (presented here as D, E, F, G, and H). The scanner type and manufacturer as well as imaging parameters for the two groups of datasets are given in tables 1 and 2. In all cases, the first and second visits were performed using the same scanner. Only one volume was acquired at each scanning session. Data pre-processing Pre-processing of the 3D T1 images was carried out using the segmentation pipeline of Brainvisa (version 4.0) and included the following steps (also illustrated by Figure 1): The 3D T1 image was corrected for the field inhomogeneity (bias correction) so as to obtain more uniform grey levels for all voxels with the same tissue type [31]. Figure 1a shows a colour-coded representation of the T1 image before (left) and following (right) the bias correction. After this step, the image is ready for histogram analysis which finds the peaks corresponding to grey matter (GM), white matter (WM), and cere- brospinal fluid (CSF) in the image histogram [32]. Then a mask of brain was created using the information derived from histogram analysis and by applying mor- phological operations which removed skull and non- brain tissues (Figure 1b). The two hemispheres and the cerebellum were then separated (Figure 1c) and further segmented into GM, WM, and CSF as pictured by Figure 1d [33]. The union of GM and CSF (GM/CSF for the 1.5 T group"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    380.3,
+    739.3
+   ],
+   "ocr": "signal to noise ratio) we used two separate groups of data acquired with 1.5 T and 3 T scanners and investi- gated the variability and the reliability within each group. Methods Data The retrospective data we used in this study included two sets of 3D T1-weighted MR scans, pooled from 1.5 T and 3 T scanners of CaliBrain (funded by a Chief Scientist Office -Scotland Project Grant: CZB/4/427) and Neuro/Psygrid projects, respectively [28,29]. Both datasets had been obtained from healthy individuals with no history of head injury, psychiatric or neurologi- cal disorder. Two subjects (one from the CaliBrain data- set and one from the Neuro/Psygrid dataset) with incomplete data (i.e. repeated scans at all centres) were excluded from the study. The study was approved and the permission to use the retrospective data was granted by the West of Scotland Research Ethics Committee. The CaliBrain project included MR scans from thirteen healthy participants (ten male, mean age 36.3, age range 22-51 years). The subjects had been scanned twice at three different sites: The Department of Radiology, Uni- versity of Aberdeen; The Division of Psychiatry and The SFC Brain Imaging Research Centre within The Centre for Clinical Brain Sciences (CCBS) at The University of Edinburgh; and The Institute of Neurological Sciences, NHS Greater Glasgow South University Hospitals Divi- sion. The T1-weighted scans were acquired using a 3D inversion recovery-prepared fast gradient echo volume sequence. All three 1.5 T scanners were manufactured by General Electric (GE Healthcare, Milwaukee, Wisconsin). For the Neuro/Psygrid project, eleven male, healthy volunteers (mean age 25, range 20-35 years) were scanned twice at five centres: The Wolfson Brain Imaging Centre (University of Cambridge), Magnetic Resonance Imaging Facility (University of Manchester), the Institute of Psychiatry (Kings College, London), the Department of Table 1 The scanners specifications and imaging parameters"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    744.2,
+    644.0,
+    905.2
+   ],
+   "ocr": "Centre A B C\nMR scanner GE Signa NVi/CVi 1.5 T GE Signa LX 1.5 T GE Signa 1.5 T\nHead coil 8-channel 8-channel 8-channel\nAcceleration factor No No No\nTR (ms) 5.9 8.9 5.9\nTE (ms) 1.9 3.3 1.4\nTI (ms) 600 600 600\nFlip angle (°) 15 15 15\nImage size (voxels) 256 × 256 × 124 256 × 256 × 124 256 × 256 × 125\nVoxel size (mm3) 0.86 × 0.86 × 1.7 0.86 × 0.86 × 1.7 0.86 × 0.86 × 1.8",
+   "table_id": "PMC3315423_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    391.4,
+    922.2
+   ],
+   "ocr": "TR, TE, and TI represent Repetition Time, Echo Time, and Inversion Time, respectively."
+  }
+ }
+}

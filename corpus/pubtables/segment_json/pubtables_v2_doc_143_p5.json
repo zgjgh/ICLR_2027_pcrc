@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_143",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    678.6,
+    65.8
+   ],
+   "ocr": "Shokouhi et al. BMC Medical Imaging 2011, 11:23 Page 11 of 16 http://www.biomedcentral.com/1471-2342/11/23"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    660.5,
+    670.7,
+    697.2
+   ],
+   "ocr": "Figure 4 Distribution of between-centre and between-visit reliabilities for sulcal parameters. The distribution of the reliability of sulcal surface (top) and mean geodesic depth (bottom) is displayed for different sulci using all sulci recognition algorithms. The results correspond to the 1.5 T group (left) and the 3 T group (right)."
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    732.2,
+    519.5,
+    745.1
+   ],
+   "ocr": "Table 7 The average between-visit and between-centre reliabilities of sulcal parameters"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    750.0,
+    653.5,
+    930.2
+   ],
+   "ocr": "Parameter 1.5 T 3 T\nBetween- visit Between- centre Between- visit Between- centre\nSurface\nGlobal 0.54 0.44 0.66 0.56\nLocal 0.51 0.42 0.62 0.52\nMarkovian 0.60 0.52 0.73 0.64\nTalairach 0.41 0.35 0.47 0.39\nMean geodesic depth\nGlobal 0.51 0.43 0.65 0.57\nLocal 0.47 0.41 0.61 0.51\nMarkovian 0.52 0.46 0.66 0.58\nTalairach 0.40 0.34 0.48 0.40",
+   "table_id": "PMC3315423_table_6"
+  },
+  "p5_b4": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    937.3,
+    541.3,
+    947.2
+   ],
+   "ocr": "The results are given as the average across all sulci and are computed for the 1.5 T and 3 T groups using all four algorithms."
+  }
+ }
+}

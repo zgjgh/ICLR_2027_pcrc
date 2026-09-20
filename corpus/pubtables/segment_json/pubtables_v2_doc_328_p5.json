@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_328",
+  "page": 5,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.3,
+    56.3,
+    677.8,
+    81.3
+   ],
+   "ocr": "Fiamma et al. BMC Infectious Diseases 2010, 10:137 Page 7 of 10 http://www.biomedcentral.com/1471-2334/10/137"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    71.3,
+    120.1,
+    666.4,
+    148.0
+   ],
+   "ocr": "Table 5: Comparison of the results given by the BED and the AI assays with observed HIV incidence cases obtained from HIV testing"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    83.9,
+    158.7,
+    659.9,
+    876.1
+   ],
+   "ocr": "Visit A\nLabel V1 V3 V1 V2\nHIV positive cases 127 148 124 124\nHIV negative cases 11 35 32 56\nVisit B\nLabel V2 V4 V3 V4\nHIV positive cases 138 183 156 180\n1HIV negative cases 0 0 0 0\nFrom visit A to visit B\nAverage duration 3.6 m 8.8 m 12.6 m 18.0 m\nHIV incident cases 11 35 32 56\nBED\nCut-off 0.325 0.90 1.51 2.27\nWindow period 3.0 m 9.0 m 12.0 m 18.0 m\nTested recent 12 43 54 110\nTested recent not incident case 6 25 21 53\nTested recent and not incident case 6 18 33 57\nNot tested recent and incident cases 5 10 11 3\nKappa statistics [95% CI] 0.64 [0.41 to 0.81] 0.55 [0.40 to 0.69] 0.31 [0.16 to 0.46] 0.39 [0.26 to 0.51]\nSensitivity (%) [95% CI] 55 [28 to 79] 71 [56 to 84] 66 [49 to 80] 95 [87 to 99]\nSpecificity (%) [95% CI] 95 [91 to 98] 88 [82 to 92] 73 [65 to 81] 54 [45 to 63]\nAV\nCut-off 31.6 90 94 NC\nWindow period 3.0 m 9.0 m 12.0 m\nTested recent 11 49 44\nTested recent and incident case 8 28 20\nTested recent and not incident case 3 21 24\nNot tested recent and incident cases 3 7 12\nKappa statistics [95% CI] 0.48 [0.31 to 0.64] 0.57 [0.43 to 0.71] 0.38 [0.23 to 0.53]\nSensitivity (%) [95% CI] 73 [45 to 92] 80 [65 to 91] 63 [46 to 78]\nSpecificity (%) [95% CI] 98 [94 to 99] 86 [79 to 91] 81 [73 to 87]\nBED-AI\nCut-off 20.40 - 41 1.51 - 94 NC NC\nWindow period 9.0 m 8.8 m\nTested recent 10 38\nTested recent and incident case 7 27\nTested recent and not incident case 3 11\nNot tested recent and incident cases 4 8\nKappa statistics [95% CI] 0.70 [0.54 to 0.87] 0.68 [0.53 to 0.82]\nSensitivity (%) [95% CI] 64 [36 to 86] 77 [62 to 89]\nSpecificity (%) [95% CI] 98 [94 to 99] 93 [88 to 96]",
+   "table_id": "PMC2890001_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    84.0,
+    881.7,
+    386.4,
+    956.7
+   ],
+   "ocr": "m: month CI: Confidence interval NC: Not calculable AI: Avidity index 1For this analysis, the data was reduced to those being HIV positive at V4 2Obtained by linear interpolation from the data presented in Table 2"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_024",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "The following data table presents a comprehensive overview of antibiotic resistance patterns observed in Staphylococcus aureus strains collected from various countries, with a particular focus on the strain associated with QBR-102278-1091. Notably, this strain was identified in Japan in 2002, highlighting the geographic and temporal context of the data."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "One of the critical metrics included in the table is the Minimum Inhibitory Concentration (MIC), measured in mg/L, which provides insight into the effectiveness of specific antibiotics against this strain."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    362.0
+   ],
+   "ocr": "Strain TnSha1 insertion site MLST Country Year MIC (mg/L) MBC (mg/L) MRSA\nQBR-102278-1091 D 12 Japan 2002 4 32 MSSA\nQBR-102278-1107 G 1 Australia 2002 4 32 MSSA\nQBR-102278-1203 E 1 France 2002 2 16 MSSA\nQBR-102278-1619 A 8 Spain 2002 4 32 MSSA\nQBR-102278-2092 A2 8 Canada 2003 4 32 MSSA\nQBR-102278-2210 F 83 Mexico 2003 1 32 MSSA\nQBR-102278-2351 A2, and B 3 Brazil 2003 8 32 MSSA\nQBR-102278-2365 C 8 Brazil 2003 2 32 MSSA\nQBR-102278-2376 C 8 Argentina 2003 4 32 MSSA\nQBR-102278-2605 A2 8 Japan 2003 32 64 MRSA",
+   "table_id": "img_026040_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    378,
+    580,
+    436
+   ],
+   "ocr": "The MIC values are essential for understanding the degree of resistance exhibited by the strain, as higher values typically indicate increased resistance. Additionally, the Minimum Bactericidal Concentration (MBC) is included, further assessing the strain's susceptibility to antibacterial agents. The data also incorporates the Multilocus Sequence Typing (MLST) results, which categorize the genetic diversity of the strains."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    424,
+    580,
+    482
+   ],
+   "ocr": "By analyzing these metrics, healthcare professionals and researchers can better comprehend the evolving landscape of antibiotic resistance in S. aureus, ultimately informing treatment protocols and public health strategies aimed at combatting infections caused by methicillin-resistant strains, particularly those identified as MRSA in the dataset."
+  }
+ }
+}

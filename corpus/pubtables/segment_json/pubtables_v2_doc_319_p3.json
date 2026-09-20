@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_319",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    571.7,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "A New Auditory BCI Paradigm"
+  },
+  "p3_b1": {
+   "type": "title",
+   "bbox": [
+    81.0,
+    81.4,
+    276.4,
+    92.8
+   ],
+   "ocr": "Table 3. P300 waveform characteristics."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    351.7,
+    270.4
+   ],
+   "ocr": "Peak Peak\nSubject latency (ms) amplitude (mV) Channel\nVPja 385 11.56 Pz\nVPiz 411 8.68 Pz\nVPip 454 8.14 PO1\nVPzq 418 12.48 PCP1\nVPig 564 4.53 P01\nVPjf 415 10.02 CCP8\nVPjb 459 12.02 PO2\nAverage 443.71 9.63 -",
+   "table_id": "PMC2848564_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    283.6,
+    375.8,
+    631.1
+   ],
+   "ocr": "The peak is defined as the point with the maximum potential in the target class in the interval between 300 ms and 650 ms. Data are taken from the channel indicated. For every subject the channel with the highest positive ROC value within the time interval was chosen. This is not necessarily the channel with the largest peak, but the channel with the most significant difference between the responses to targets and non-targets. doi:10.1371/journal.pone.0009813.t003 BCI experiments. For comparison, the ERP responses for all subjects and conditions of the second experimental round are presented in Figure 6. The P300 response is superimposed on the deflections that are rhythmically evoked by the stimulus itself. The rhythm of these evoked potentials is transiently disturbed by the positive deflection. In condition C175, negative deflections appear to miss a cycle (see Figure 6, column 2). In condition C300, the P300 response has more time to develop which results in a positive going potential (see Figure 6, column 1). In condition C300s, most subjects show no markedly different traces for non-targets and targets. Subject VPzq showed very pronounced positive deflections for all conditions (including C300s) and was also the best scoring subject in most conditions of the BCI experiments. Scalp topographies from condition C175 (see Figure 7) are more diffuse and the class difference has shifted toward the frontal areas when compared to the longer ISI of condition C1000. This change is also visible when looking at the channels that were selected for feature extraction during the classification routine (Figure 8)."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    672.3,
+    361.8,
+    683.6
+   ],
+   "ocr": "Table 4. Subject performances for the key response task."
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    712.7,
+    359.7,
+    850.5
+   ],
+   "ocr": "Subject RT [ms] Hits False alarms Misses Error\nVPja 456 (128) 72 3 0 4%\nVPiz 479 (148) 71 0 1 1.4%\nVPip 507 (174) 72 1 0 1.4%\nVPzq 360 (82) 71 5 1 7.8%\nVPig 612 (219) 88 17 8 22.1%\nVPjf 360 (131) 96 4 0 4%\nVPjb 450 (113) 95 3 1 4%\nAverage 460.6 (142.1) - - - 6.4%",
+   "table_id": "PMC2848564_table_3"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    824.4,
+    700.8,
+    868.5
+   ],
+   "ocr": "Figure 4. Scalp topographies for the negative deflections (condition C1000). Scalp topographies indicate the average potential over the interval marked in Figure 5. ROC plots do not necessarily indicate the magnitude of the difference between the two curves, but"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    863.8,
+    700.8,
+    879.9
+   ],
+   "ocr": "Because the majority of stimuli is not a target, true negatives (no response to rather the significance of that difference. For most subjects this is"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    874.5,
+    362.0,
+    883.3
+   ],
+   "ocr": "non-target) are not reported and also not counted for the error score (see"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    881.1,
+    700.7,
+    891.2
+   ],
+   "ocr": "concentrated over the frontal and temporal area. Each row corresponds"
+  },
+  "p3_b10": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    885.1,
+    700.8,
+    926.1
+   ],
+   "ocr": "equation 3). The total number of targets is equal to the sum of hits and misses. RT is the average reaction time from correct responses, with standard deviation to a different subject. Note that not all subjects have the same number in parentheses. of electrodes available. doi:10.1371/journal.pone.0009813.t004 doi:10.1371/journal.pone.0009813.g004"
+  },
+  "p3_b11": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org 7 April 2010 | Volume 5 | Issue 4 | e9813"
+  }
+ }
+}

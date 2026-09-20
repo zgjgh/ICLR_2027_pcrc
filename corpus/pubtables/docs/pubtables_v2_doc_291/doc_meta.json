@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_291",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2364634_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    692.0,
+    410.5,
+    902.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2364634_table_0.png",
+   "html": "<table><tr><td>Study</td><td>Platform</td><td>Samples</td><td>Data source</td></tr><tr><td>Bild</td><td>Affymetrix</td><td>169</td><td>*GSE3143</td></tr><tr><td>Miller</td><td>Affymetrix</td><td>251</td><td>GSE3494</td></tr><tr><td>Oh</td><td>Oligos Agilent</td><td>67</td><td></td></tr><tr><td>Pawitan</td><td>Affymetrix</td><td>159</td><td>GSE1456</td></tr><tr><td>Sorlie_1</td><td>Spotted cDNA</td><td>76</td><td>GSE3193</td></tr><tr><td>Sorlie_2</td><td>Spotted cDNA</td><td>39</td><td>http://genome-www5.stanford.edu/</td></tr><tr><td>Sotiriou_1</td><td>Spotted cDNA</td><td>99</td><td></td></tr><tr><td>Sotiriou_2</td><td>Affymetrix</td><td>187</td><td>GSE2990</td></tr><tr><td>Van de Vijver</td><td>oligos Agilent</td><td>295</td><td></td></tr><tr><td>Wang</td><td>Affymetrix</td><td>286</td><td>GSE2034</td></tr><tr><td>Weigelt</td><td>Oligos Agilent</td><td>79</td><td></td></tr><tr><td>West</td><td>Affymetrix</td><td>49</td><td>http://data.cgt.duke.edu/west.php</td></tr><tr><td>Total</td><td></td><td>1756</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2364634_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.1,
+    367.5,
+    249.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2364634_table_1.png",
+   "html": "<table><tr><td>Category</td><td>Number</td></tr><tr><td>GO Biological Process (BP)</td><td>735</td></tr><tr><td>GO Molecular Functions (MF)</td><td>648</td></tr><tr><td>Biological Pathways</td><td>198</td></tr><tr><td>InterPro Domains</td><td>798</td></tr><tr><td>Breast and other Cancer Signatures</td><td>32</td></tr><tr><td>Total</td><td>2411</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2364634_table_2",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    457.1,
+    623.4,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2364634_table_2.png",
+   "html": "<table><tr><td>Gene set</td><td>Number (reported)</td><td>Number (unique)</td><td>Reference</td></tr><tr><td>*11823860_ST2</td><td>231</td><td>164</td><td>van't Veer et al. [13]</td></tr><tr><td>11823860_ST3</td><td>2,460</td><td>1,818</td><td>van't Veer et al. [13]</td></tr><tr><td>11823860_ST4</td><td>430</td><td>314</td><td>van't Veer et al. [13]</td></tr><tr><td>12490681_70</td><td>70</td><td>50</td><td>van de Vijver [1]</td></tr><tr><td>12747878_ST2</td><td>177</td><td>144</td><td>Huang et al. [52]</td></tr><tr><td>12747878_ST3</td><td>168</td><td>160</td><td>Huang et al. [52]</td></tr><tr><td>12917485_ST6</td><td>606</td><td>564</td><td>Sotiriou et al. [18]</td></tr><tr><td>12917485_ST7</td><td>137</td><td>126</td><td>Sotiriou et al. [18]</td></tr><tr><td>12917485_ST8</td><td>706</td><td>635</td><td>Sotiriou et al. [18]</td></tr><tr><td>12917485_ST9</td><td>485</td><td>402</td><td>Sotiriou et al. [18]</td></tr><tr><td>14737219_CSR</td><td>512</td><td>459</td><td>Chang et al. [3]</td></tr><tr><td>14737219_USR</td><td>677</td><td>611</td><td>Chang et al. [3]</td></tr><tr><td>15034139_T2</td><td>45</td><td>31</td><td>Zhao et al. [53]</td></tr><tr><td>15073102_4</td><td>4</td><td>4</td><td>Glinsky et al. [54]</td></tr><tr><td>15073102_6</td><td>6</td><td>6</td><td>Glinsky et al. [54]</td></tr><tr><td>15073102_13</td><td>12</td><td>12</td><td>Glinsky et al. [54]</td></tr><tr><td>15073102_14</td><td>14</td><td>14</td><td>Glinsky et al. [54]</td></tr><tr><td>15591335_F1</td><td>21</td><td>21</td><td>Paik et al. [6]</td></tr><tr><td>15721473_T3</td><td>76</td><td>68</td><td>Wang et al. [2]</td></tr><tr><td>15931389_T3_stem</td><td>11</td><td>11</td><td>Glinsky et al. [55]</td></tr><tr><td>15931389_ST2_14</td><td>14</td><td>14</td><td>Glinsky et al. [55]</td></tr><tr><td>15931389_ST2_CNS</td><td>11</td><td>11</td><td>Glinsky et al. [55]</td></tr><tr><td>16141321_SDC2</td><td>500</td><td>398</td><td>Miller et al. [19]</td></tr><tr><td>16273092_catenin</td><td>98</td><td>76</td><td>Bild et al. [20]</td></tr><tr><td>16273092_E2F3</td><td>298</td><td>238</td><td>Bild et al. [20]</td></tr><tr><td>16273092_myc</td><td>332</td><td>192</td><td>Bild et al. [20]</td></tr><tr><td>16273092_RAS</td><td>348</td><td>248</td><td>Bild et al. [20]</td></tr><tr><td>16273092_SRC</td><td>75</td><td>58</td><td>Bild et al. [20]</td></tr><tr><td>16280042_AF1</td><td>64</td><td>61</td><td>Pawitan et al. [16]</td></tr><tr><td>16478745_ST1</td><td>242</td><td>207</td><td>Sotiriou et al. [15]</td></tr><tr><td>16707453_ST3</td><td>101</td><td>86</td><td>Schuetz et al. [56]</td></tr><tr><td>17076897_ADF3</td><td>52</td><td>52</td><td>Teschendorff et al. [24]</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2364634_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.5,
+    697.5,
+    550.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2364634_table_3.png",
+   "html": "<table><tr><td>Gene set</td><td>*category</td><td>Bild</td><td>Miller</td><td>Oh</td><td>Pawitan</td><td>Sorlie_1</td><td>Sorlie_2</td><td>Sotiriou_1</td><td>Sotiriou_2</td><td>van de Vijver</td><td>Wang</td><td>Weigelt</td><td>West</td><td>#freq</td><td>%mean</td></tr><tr><td>11823860_ST2</td><td>BR</td><td>1.32</td><td>7.21</td><td>10.02</td><td>22.68</td><td>8.87</td><td>0.44</td><td>4.51</td><td>8.18</td><td>45.51</td><td>8.19</td><td>0</td><td>0.97</td><td>8</td><td>9.83</td></tr><tr><td>mitotic checkpoint</td><td>BP</td><td>7.51</td><td>13.34</td><td>2.91</td><td>13.57</td><td>0.07</td><td>0.03</td><td>4.08</td><td>9.59</td><td>30.78</td><td>12.49</td><td>0.01</td><td>3.57</td><td>7</td><td>8.16</td></tr><tr><td>Cell_cycle_KE GG_GenMAPP</td><td>PW</td><td>7.2</td><td>12.05</td><td>2.08</td><td>11.46</td><td>4.28</td><td>0.31</td><td>2.75</td><td>9.33</td><td>40.26</td><td>6.93</td><td>0.01</td><td>0.03</td><td>7</td><td>8.06</td></tr><tr><td>cell division</td><td>BP</td><td>4.37</td><td>10.47</td><td>3.46</td><td>13.81</td><td>6.05</td><td>0</td><td>2.14</td><td>7.69</td><td>32.14</td><td>15.18</td><td>0.02</td><td>0.06</td><td>7</td><td>7.95</td></tr><tr><td>cation efflux protein</td><td>IP</td><td>7.94</td><td>9.69</td><td>2.16</td><td>15.77</td><td>4.16</td><td>2.41</td><td>1.96</td><td>10.45</td><td>24.69</td><td>10.04</td><td>0.51</td><td>0.21</td><td>7</td><td>7.5</td></tr><tr><td>cyclin, C- terminal</td><td>IP</td><td>3.88</td><td>15.25</td><td>6.72</td><td>16.84</td><td>5.65</td><td>0.07</td><td>2.64</td><td>3.84</td><td>21.12</td><td>7.7</td><td>0.69</td><td>0.23</td><td>7</td><td>7.05</td></tr><tr><td>DNA repair</td><td>BP</td><td>2.04</td><td>7.15</td><td>4.58</td><td>9.13</td><td>0.09</td><td>0.02</td><td>6.61</td><td>8.4</td><td>35.15</td><td>6.97</td><td>0.13</td><td>1.53</td><td>7</td><td>6.82</td></tr><tr><td>cyclin, N- terminal domain</td><td>IP</td><td>3.4</td><td>15.66</td><td>2.50</td><td>10.93</td><td>5.5</td><td>0.3</td><td>4.37</td><td>3.91</td><td>26.72</td><td>7.28</td><td>1.03</td><td>0.03</td><td>7</td><td>6.8</td></tr><tr><td>protein tyrosine phosphatase activity</td><td>MF</td><td>9.45</td><td>4.03</td><td>8.29</td><td>9.19</td><td>4.51</td><td>0.55</td><td>2.55</td><td>0.46</td><td>24.1</td><td>9.25</td><td>0</td><td>2.84</td><td>7</td><td>6.27</td></tr><tr><td>protein domain specific binding</td><td>MF</td><td>6.56</td><td>5.32</td><td>0</td><td>10.73</td><td>0.14</td><td>1.24</td><td>12.14</td><td>6.81</td><td>15.53</td><td>2.69</td><td>10.09</td><td>0.66</td><td>7</td><td>5.99</td></tr><tr><td>DNA metabolism</td><td>BP</td><td>4.08</td><td>8.01</td><td>1.81</td><td>10.15</td><td>0.06</td><td>0.17</td><td>5.06</td><td>4.88</td><td>26.2</td><td>8.88</td><td>0.64</td><td>0.3</td><td>7</td><td>5.85</td></tr><tr><td>identical protein binding</td><td>MF</td><td>0.18</td><td>8.04</td><td>8.35</td><td>9.55</td><td>0.12</td><td>5.3</td><td>8.79</td><td>4.09</td><td>19.64</td><td>0.01</td><td>0.97</td><td>0.12</td><td>7</td><td>5.43</td></tr><tr><td>water transport</td><td>BP</td><td>0.01</td><td>10.23</td><td>5.85</td><td>5.26</td><td>0.45</td><td>5.25</td><td>1.57</td><td>0.42</td><td>3.97</td><td>0.91</td><td>6.13</td><td>5.14</td><td>7</td><td>3.77</td></tr><tr><td>17076897_AD F3</td><td>BR</td><td>3.15</td><td>14.49</td><td>4.06</td><td>19.84</td><td>0.1</td><td>2.59</td><td>2.31</td><td>12.03</td><td>48.93</td><td>18.04</td><td>0</td><td>2.39</td><td>6</td><td>10.66</td></tr><tr><td>mitosis</td><td>BP</td><td>6.45</td><td>13.81</td><td>2.22</td><td>16.95</td><td>1.35</td><td>0.1</td><td>2.23</td><td>9.05</td><td>37.87</td><td>11.43</td><td>0</td><td>0.16</td><td>6</td><td>8.47</td></tr><tr><td>16478745_ST1</td><td>BR</td><td>5.49</td><td>10.52</td><td>3.2</td><td>13.32</td><td>1.04</td><td>0</td><td>2.55</td><td>11.64</td><td>39.05</td><td>12.51</td><td>0.29</td><td>0.53</td><td>6</td><td>8.35</td></tr><tr><td>Pyrimidine metabolism_K EGG</td><td>PW</td><td>4.28</td><td>7.84</td><td>4.35</td><td>25.6</td><td>0.61</td><td>0.46</td><td>2.07</td><td>8.04</td><td>42.75</td><td>3.12</td><td>0</td><td>0.77</td><td>6</td><td>8.32</td></tr><tr><td>14737219_US R</td><td>BR</td><td>4.27</td><td>10.25</td><td>3.72</td><td>13.61</td><td>0.99</td><td>0.06</td><td>1.96</td><td>10.86</td><td>39.37</td><td>11.4</td><td>0.16</td><td>0.2</td><td>6</td><td>8.07</td></tr><tr><td>cytokinesis</td><td>BP</td><td>2.6</td><td>8.9</td><td>3.91</td><td>17.06</td><td>0.03</td><td>0.91</td><td>0.22</td><td>8.68</td><td>48.68</td><td>5.24</td><td>0.16</td><td>0.17</td><td>6</td><td>8.05</td></tr><tr><td>14737219_CS R</td><td>BR</td><td>0.51</td><td>10.7</td><td>3.13</td><td>15.5</td><td>7.45</td><td>0.08</td><td>4.25</td><td>1.43</td><td>39.65</td><td>7.32</td><td>0.38</td><td>2.3</td><td>6</td><td>7.73</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2364634_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    656.5,
+    312.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2364634_table_4.png",
+   "html": "<table><tr><td>Datasets</td><td>11823860_ST2</td><td>Mitotic checkpoint</td><td>Cell_cycle_KEGG</td></tr><tr><td>Bild</td><td>6.35 *#(1.23&#8211;32.2) p = 0.0256</td><td>2.88 (0.686&#8211;12.1) p = 0.148</td><td>1.13 (0.407&#8211;3.11) p = 0.819</td></tr><tr><td>Miller</td><td>1.29 (0.297&#8211;5.63) p = 0.731</td><td>0.942 (0.269&#8211;3.3) p = 0.925</td><td>1.37 (0.547&#8211;3.41) p = 0.504</td></tr><tr><td>Oh</td><td>4.72 (0.834&#8211;26.7) p = 0.0794</td><td>3.87 (0.792&#8211;18.9) p = 0.0944</td><td>2.07 (0.728&#8211;5.9) p = 0.172</td></tr><tr><td>Pawitan</td><td>34.6 (4.94&#8211;242) p = 3.57e-4</td><td>11.9 (2.84&#8211;49.9) p = 7.1e-4</td><td>5.21 (1.97&#8211;13.8) p = 8.6e-4</td></tr><tr><td>Sorlie_1</td><td>6.84 (1.75&#8211;26.7) p = 0.00568</td><td>4.73 (1.46&#8211;15.3) p = 0.00953</td><td>2.07 (1.07&#8211;4.01) p = 0.0312</td></tr><tr><td>Sorlie_2</td><td>3.28 (0.29&#8211;46.9) p = 0.381</td><td>1.99 (0.308&#8211;12.8) p = 0.471</td><td>1.33 (0.319&#8211;5.57) p = 0.695</td></tr><tr><td>Sotiriou_1</td><td>27.3 (2.60&#8211;287) p = 0.0582</td><td>64.2 (2.22&#8211;1854) p = 0.0153</td><td>5.58 (1.19&#8211;26.20 p = 0.0296</td></tr><tr><td>Sotiriou_2</td><td>5.22 (1.63&#8211;16.8) p = 0.00549</td><td>3.13 (1.17&#8211;8.42) p = 0.0234</td><td>2.6 (1.24&#8211;5.44) p = 0.0113</td></tr><tr><td>Van de Vijver</td><td>62.3 (17.7&#8211;219) p = 1.12e-10</td><td>8.8 (4.18&#8211;18.5) p = 1.05e-8</td><td>4.03 (2.37&#8211;6.85) p = 2.73e-7</td></tr><tr><td>Wang</td><td>7.48 (2.78&#8211;20.1) p = 6.92e-5</td><td>2.73 (1.22&#8211;6.1) p = 0.0144</td><td>3.78 (1.89&#8211;7.55) p = 1.66e-4</td></tr><tr><td>Wiegelt</td><td>2.00 (0.152&#8211;26.0) p = 0.597</td><td>1.40 (0.15&#8211;13.0) p = 0.769</td><td>1.25 (0.19&#8211;3.38) p = 0.764</td></tr><tr><td>West</td><td>15.5 (0.73&#8211;329) p = 0.788</td><td>5.56 (0.635&#8211;12.1) p = 0.121</td><td>4.27 (1.20&#8211;15.1) p = 0.0246</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2364634_table_5",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    434.3,
+    666.5,
+    877.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2364634_table_5.png",
+   "html": "<table><tr><td>training</td><td>testing</td><td>*GTG</td><td>GTP</td><td>PTG</td><td>PTP</td><td>**accuracy</td><td>sensitivity</td><td>specificity</td></tr><tr><td>Bild</td><td>Miller</td><td>128</td><td>49</td><td>17</td><td>19</td><td>0.6901</td><td>0.7232</td><td>0.5278</td></tr><tr><td>Bild</td><td>Pawitan</td><td>89</td><td>41</td><td>7</td><td>15</td><td>0.6842</td><td>0.6846</td><td>0.6818</td></tr><tr><td>Bild</td><td>Sotiriou_2</td><td>85</td><td>32</td><td>11</td><td>17</td><td>0.7034</td><td>0.7265</td><td>0.6071</td></tr><tr><td>Bild</td><td>Van de Vijver</td><td>165</td><td>67</td><td>11</td><td>37</td><td>0.7214</td><td>0.7112</td><td>0.7708</td></tr><tr><td>Bild</td><td>Wang</td><td>128</td><td>55</td><td>42</td><td>51</td><td>0.6486</td><td>0.6995</td><td>0.5484</td></tr><tr><td>Miller</td><td>Bild</td><td>37</td><td>24</td><td>17</td><td>17</td><td>0.5684</td><td>0.6066</td><td>0.5</td></tr><tr><td>Miller</td><td>Pawitan</td><td>84</td><td>46</td><td>6</td><td>16</td><td>0.6579</td><td>0.6462</td><td>0.7273</td></tr><tr><td>Miller</td><td>Sotiriou_2</td><td>77</td><td>40</td><td>7</td><td>21</td><td>0.6759</td><td>0.6581</td><td>0.75</td></tr><tr><td>Miller</td><td>Van de Vijver</td><td>165</td><td>67</td><td>11</td><td>37</td><td>0.7214</td><td>0.7112</td><td>0.7708</td></tr><tr><td>Miller</td><td>Wang</td><td>125</td><td>58</td><td>42</td><td>51</td><td>0.6377</td><td>0.6831</td><td>0.5484</td></tr><tr><td>Pawitan</td><td>Bild</td><td>43</td><td>18</td><td>19</td><td>15</td><td>0.6105</td><td>0.7049</td><td>0.4412</td></tr><tr><td>Pawitan</td><td>Miller</td><td>133</td><td>44</td><td>19</td><td>17</td><td>0.7042</td><td>0.7514</td><td>0.4722</td></tr><tr><td>Pawitan</td><td>Sotiriou_2</td><td>87</td><td>30</td><td>11</td><td>17</td><td>0.7172</td><td>0.7436</td><td>0.6071</td></tr><tr><td>Pawitan</td><td>Van de Vijver</td><td>173</td><td>59</td><td>12</td><td>36</td><td>0.7464</td><td>0.7457</td><td>0.75</td></tr><tr><td>Pawitan</td><td>Wang</td><td>135</td><td>48</td><td>51</td><td>42</td><td>0.6413</td><td>0.7377</td><td>0.4516</td></tr><tr><td>Sotiriou_2</td><td>Bild</td><td>38</td><td>23</td><td>18</td><td>16</td><td>0.5684</td><td>0.623</td><td>0.4706</td></tr><tr><td>Sotiriou_2</td><td>Miller</td><td>129</td><td>48</td><td>19</td><td>17</td><td>0.6854</td><td>0.7288</td><td>0.4722</td></tr><tr><td>Sotiriou_2</td><td>Pawitan</td><td>86</td><td>44</td><td>10</td><td>12</td><td>0.6447</td><td>0.6615</td><td>0.5455</td></tr><tr><td>Sotiriou_2</td><td>Van de Vijver</td><td>164</td><td>68</td><td>12</td><td>36</td><td>0.7143</td><td>0.7069</td><td>0.75</td></tr><tr><td>Sotiriou_2</td><td>Wang</td><td>131</td><td>52</td><td>43</td><td>50</td><td>0.6558</td><td>0.7158</td><td>0.5376</td></tr><tr><td>Van de Vijver</td><td>Bild</td><td>41</td><td>20</td><td>21</td><td>13</td><td>0.5684</td><td>0.6721</td><td>0.3824</td></tr><tr><td>Van de Vijver</td><td>Miller</td><td>136</td><td>41</td><td>21</td><td>15</td><td>0.7089</td><td>0.7684</td><td>0.4167</td></tr><tr><td>Van de Vijver</td><td>Pawitan</td><td>99</td><td>31</td><td>12</td><td>10</td><td>0.7171</td><td>0.7615</td><td>0.4545</td></tr><tr><td>Van de Vijver</td><td>Sotiriou_2</td><td>88</td><td>29</td><td>15</td><td>13</td><td>0.6966</td><td>0.7521</td><td>0.4643</td></tr><tr><td>Van de Vijver</td><td>Wang</td><td>141</td><td>42</td><td>54</td><td>39</td><td>0.6522</td><td>0.7705</td><td>0.4194</td></tr><tr><td>Wang</td><td>Bild</td><td>34</td><td>27</td><td>16</td><td>18</td><td>0.5474</td><td>0.5574</td><td>0.5294</td></tr><tr><td>Wang</td><td>Miller</td><td>123</td><td>54</td><td>14</td><td>22</td><td>0.6808</td><td>0.6949</td><td>0.6111</td></tr><tr><td>Wang</td><td>Pawitan</td><td>81</td><td>49</td><td>6</td><td>16</td><td>0.6382</td><td>0.6231</td><td>0.7273</td></tr><tr><td>Wang</td><td>Sotiriou_2</td><td>76</td><td>41</td><td>7</td><td>21</td><td>0.669</td><td>0.6496</td><td>0.75</td></tr><tr><td>Wang</td><td>Van de Vijver</td><td>154</td><td>78</td><td>8</td><td>40</td><td>0.6929</td><td>0.6638</td><td>0.8333</td></tr><tr><td>Total</td><td></td><td>3175</td><td>1325</td><td>559</td><td>746</td><td>0.6755</td><td>0.7056</td><td>0.5716</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2364634_table_6",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    687.8,
+    416.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2364634_table_6.png",
+   "html": "<table><tr><td>Gene set</td><td>category</td><td>GTG</td><td>GTP</td><td>PTG</td><td>PTP</td><td>accurary</td><td>sensitivity</td><td>specificity</td></tr><tr><td>11823860_ST2</td><td>br</td><td>3175</td><td>1325</td><td>559</td><td>746</td><td>0.6755</td><td>0.7056</td><td>0.5716</td></tr><tr><td>transferase activity</td><td>mf</td><td>3264</td><td>1236</td><td>658</td><td>647</td><td>0.6737</td><td>0.7253</td><td>0.4958</td></tr><tr><td>ligase activity</td><td>mf</td><td>3204</td><td>1296</td><td>633</td><td>672</td><td>0.6677</td><td>0.712</td><td>0.5149</td></tr><tr><td>11823860_ST3</td><td>br</td><td>3200</td><td>1300</td><td>632</td><td>673</td><td>0.6672</td><td>0.7111</td><td>0.5157</td></tr><tr><td>transcription factor activity</td><td>mf</td><td>3268</td><td>1232</td><td>701</td><td>604</td><td>0.667</td><td>0.7262</td><td>0.4628</td></tr><tr><td>16141321_SDC2</td><td>br</td><td>3169</td><td>1331</td><td>607</td><td>698</td><td>0.6661</td><td>0.7042</td><td>0.5349</td></tr><tr><td>oxidoreductase activity</td><td>mf</td><td>3209</td><td>1291</td><td>648</td><td>657</td><td>0.666</td><td>0.7131</td><td>0.5034</td></tr><tr><td>14737219_CSR</td><td>br</td><td>3165</td><td>1335</td><td>606</td><td>699</td><td>0.6656</td><td>0.7033</td><td>0.5356</td></tr><tr><td>12917485_ST9</td><td>br</td><td>3162</td><td>1338</td><td>611</td><td>694</td><td>0.6643</td><td>0.7027</td><td>0.5318</td></tr><tr><td>catalytic activity</td><td>mf</td><td>3209</td><td>1291</td><td>661</td><td>644</td><td>0.6637</td><td>0.7131</td><td>0.4935</td></tr><tr><td>RNA polymerase II transcription factor activity</td><td>mf</td><td>3235</td><td>1265</td><td>689</td><td>616</td><td>0.6634</td><td>0.7189</td><td>0.472</td></tr><tr><td>transport</td><td>bp</td><td>3186</td><td>1314</td><td>645</td><td>660</td><td>0.6625</td><td>0.708</td><td>0.5057</td></tr><tr><td>transcription</td><td>bp</td><td>3241</td><td>1259</td><td>701</td><td>604</td><td>0.6624</td><td>0.7202</td><td>0.4628</td></tr><tr><td>transporter activity</td><td>mf</td><td>3171</td><td>1329</td><td>631</td><td>674</td><td>0.6624</td><td>0.7047</td><td>0.5165</td></tr><tr><td>14737219_USR</td><td>br</td><td>3094</td><td>1406</td><td>555</td><td>750</td><td>0.6622</td><td>0.6876</td><td>0.5747</td></tr><tr><td>12917485_ST7</td><td>br</td><td>3140</td><td>1360</td><td>602</td><td>703</td><td>0.662</td><td>0.6978</td><td>0.5387</td></tr><tr><td>ATP binding</td><td>mf</td><td>3185</td><td>1315</td><td>647</td><td>658</td><td>0.662</td><td>0.7078</td><td>0.5042</td></tr><tr><td>kinase activity</td><td>mf</td><td>3205</td><td>1295</td><td>669</td><td>636</td><td>0.6617</td><td>0.7122</td><td>0.4874</td></tr><tr><td>metabolism</td><td>bp</td><td>3199</td><td>1301</td><td>666</td><td>639</td><td>0.6612</td><td>0.7109</td><td>0.4897</td></tr><tr><td>regulation of progression through cell cycle</td><td>bp</td><td>3108</td><td>1392</td><td>575</td><td>730</td><td>0.6612</td><td>0.6907</td><td>0.5594</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_034",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1929113_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    726.2,
+    693.5,
+    875.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1929113_table_0.png",
+   "html": "<table><tr><td>Library</td><td>#Total PETs</td><td>#uPETs</td><td>#Mappable (% over uPETs)</td><td># PET1</td><td>#Known gene-asso. PET1 (% over PET1)</td><td>#Pathway-asso. PET1 (% over PET1) (% over known gene-asso. PET1)</td></tr><tr><td>B16F1 melanoma (SMT001)</td><td>91977</td><td>45465</td><td>34146 (75.1%)</td><td>32267</td><td>29439 (91.2%)</td><td>11687 (36.2%) (39.7%)</td></tr><tr><td>Melan-a2 melanocyte (SMN001)</td><td>68880</td><td>51352</td><td>38640 (75.3%)</td><td>36623</td><td>33005 (90.1%)</td><td>13348 (36.4%) (40.4%)</td></tr><tr><td>E14 Stem Cell (MoEScom)</td><td>248234</td><td>135328</td><td>97295 (71.9%)</td><td>93384</td><td>86019 (92.1%)</td><td>28311 (30.3%) (32.9%)</td></tr><tr><td>E17.5 embryo (SME006)</td><td>81793</td><td>41595</td><td>30883 74.3%</td><td>28387</td><td>24656 (86.9%)</td><td>9314 (32.8%) (37.8%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1929113_table_1",
+   "page_num": 2,
+   "bbox": [
+    74.0,
+    130.1,
+    687.6,
+    320.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1929113_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Library Gene</td><td>B16F1 melanoma cells</td><td>Melan-a2 melanocytes</td><td>E14 Stem Cell</td><td>E17.5 embryo</td><td rowspan=\"2\">Descriptions</td></tr><tr><td></td><td>PET counts (cpm)</td><td></td><td></td></tr><tr><td>Tyr</td><td>185</td><td>798</td><td>0</td><td>0</td><td>Tyrosinase precursor; Albino locus protein; Belong to tyrosinase gene family.</td></tr><tr><td>Dct (Tyrp2)</td><td>1468</td><td>3208</td><td>0</td><td>0</td><td>Dopachrome tautomerase precursor; Tyrosinase-related protein 2; Belong to tyrosinase gene family.</td></tr><tr><td>Ddt</td><td>65</td><td>58</td><td>44</td><td>0</td><td>D-dopachrome tautomerase.</td></tr><tr><td>Tyrp1</td><td>1750</td><td>2816</td><td>0</td><td>0</td><td>5,6-dihydroxyindole-2-carboxylic acid (DHICA) oxidase precursor; Belong to tyrosinase gene family.</td></tr><tr><td>Si</td><td>4751</td><td>7985</td><td>125</td><td>12</td><td>Melanocyte protein Pmel 17 precursor (Silver locus protein).</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1929113_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.1,
+    694.8,
+    567.8
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1929113_table_2.png",
+   "html": "<table><tr><td>Pathway ID</td><td>Description</td><td>KEGG Category/Description*</td><td># genes</td><td># up-regulated genes</td><td># down-regulated genes</td><td>p-value</td></tr><tr><td colspan=\"7\">up-regulated</td></tr><tr><td>230</td><td>Purine metabolism</td><td>Nucleotide Metabolism</td><td>119</td><td>11</td><td>23</td><td>4.37E-05</td></tr><tr><td>440</td><td>Aminophosphonate metabolism</td><td>Metabolism of Other Amino Acids</td><td>12</td><td>0</td><td>6</td><td>0.000153</td></tr><tr><td>626</td><td>Nitrobenzene degradation</td><td>Biodegradation of Xenobiotics</td><td>11</td><td>0</td><td>5</td><td>0.00098</td></tr><tr><td>363</td><td>Bisphenol A degradation</td><td>Biodegradation of Xenobiotics</td><td>16</td><td>0</td><td>6</td><td>0.00101</td></tr><tr><td>350</td><td>Tyrosine metabolism</td><td>Amino Acid Metabolism</td><td>44</td><td>6</td><td>10</td><td>0.00196</td></tr><tr><td>450</td><td>Selenoamino acid metabolism</td><td>Metabolism of Other Amino Acids</td><td>20</td><td>0</td><td>6</td><td>0.00370</td></tr><tr><td>52</td><td>Galactose metabolism</td><td>Carbohydrate Metabolism</td><td>27</td><td>2</td><td>7</td><td>0.00429</td></tr><tr><td>4540</td><td>Gap junction</td><td>Cell Communication</td><td>85</td><td>4</td><td>14</td><td>0.00670</td></tr><tr><td>340</td><td>Histidine metabolism</td><td>Amino Acid Metabolism</td><td>31</td><td>1</td><td>7</td><td>0.00964</td></tr><tr><td>4110</td><td>Cell cycle</td><td>Growth and Death</td><td>98</td><td>2</td><td>15</td><td>0.01009</td></tr><tr><td colspan=\"7\">Down-regulated</td></tr><tr><td>190</td><td>Oxidative phosphorylation</td><td>Energy Metabolism</td><td>128</td><td>46</td><td>8</td><td>2.95E-27</td></tr><tr><td>193</td><td>ATP synthesis</td><td>Energy Metabolism</td><td>42</td><td>14</td><td>4</td><td>2.68E-08</td></tr><tr><td>720</td><td>Reductive carboxylate cycle</td><td>Energy Metabolism</td><td>10</td><td>6</td><td>0</td><td>5.25E-06</td></tr><tr><td>20</td><td>Citrate cycle (TCA cycle)</td><td>Carbohydrate Metabolism</td><td>26</td><td>9</td><td>2</td><td>6.56E-06</td></tr><tr><td>620</td><td>Pyruvate metabolism</td><td>Carbohydrate Metabolism</td><td>35</td><td>8</td><td>5</td><td>0.00057</td></tr><tr><td>240</td><td>Pyrimidine metabolism</td><td>Nucleotide Metabolism</td><td>72</td><td>12</td><td>12</td><td>0.00057</td></tr><tr><td>660</td><td>C5-branched dibasic acid metabolism</td><td>Carbohydrate Metabolism</td><td>2</td><td>2</td><td>0</td><td>0.00319</td></tr><tr><td>480</td><td>Glutathione metabolism</td><td>Metabolism of Other Amino Acids/Neutralization of ROS*</td><td>37</td><td>7</td><td>1</td><td>0.00400</td></tr><tr><td>280</td><td>Valine, leucine and isoleucine degradation</td><td>Amino Acid Metabolism</td><td>39</td><td>7</td><td>6</td><td>0.00543</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1929113_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    779.8,
+    694.8,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1929113_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Substrates/Products</td><td rowspan=\"2\">Products/Substrates</td><td rowspan=\"2\">Enzyme</td><td rowspan=\"2\">Gene name</td><td colspan=\"2\">PET counts (cpm)</td></tr><tr><td>Melan-a2 melanocytes</td><td>B16F1 melanoma cells</td></tr><tr><td>galactose</td><td>galactose 1-P</td><td>galactokinase</td><td>Galk1</td><td>0</td><td>154</td></tr><tr><td>galactose 1-P + UDP-glucose</td><td>UDP-galactose + glucose1-P</td><td>galactose 1-P uridyl transferase</td><td>Galt</td><td>45</td><td>33</td></tr><tr><td>UDP-galactose</td><td>UDP-glucose</td><td>UDP-galactose-4-epimerase</td><td>Gale</td><td>0</td><td>33</td></tr><tr><td>glucose 1-P</td><td>UDP-glucose</td><td>UDP-glucose pyrophosphorylase2</td><td>Ugp2</td><td>284</td><td>863</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1929113_table_4",
+   "page_num": 4,
+   "bbox": [
+    88.9,
+    130.1,
+    690.3,
+    310.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1929113_table_4.png",
+   "html": "<table><tr><td rowspan=\"3\">Library</td><td colspan=\"12\">PET counts (cpm)</td></tr><tr><td rowspan=\"2\">PKA</td><td rowspan=\"2\">PKB (Akt)</td><td rowspan=\"2\">PKC</td><td colspan=\"5\">Ras</td><td rowspan=\"2\">Raf</td><td rowspan=\"2\">Mek1</td><td rowspan=\"2\">Mek2</td><td rowspan=\"2\">Erk</td></tr><tr><td>H-ras</td><td>K-ras</td><td>M-ras</td><td>N-ras</td><td>R-ras</td></tr><tr><td rowspan=\"2\">Melan-a2 melanocytes</td><td>0</td><td>90</td><td>15</td><td>89</td><td>0</td><td>30</td><td>15</td><td>60</td><td>58</td><td>15</td><td>44</td><td>73</td></tr><tr><td></td><td></td><td></td><td colspan=\"5\">total: 194</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">B16F1 melanoma cells</td><td>33</td><td>176</td><td>97</td><td>22</td><td>11</td><td>0</td><td>11</td><td>186</td><td>108</td><td>98</td><td>130</td><td>98</td></tr><tr><td></td><td></td><td></td><td colspan=\"5\">total: 230</td><td></td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC1929113_table_5",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    521.9,
+    685.8,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1929113_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Protein</td><td rowspan=\"2\">Gene isoforms</td><td colspan=\"2\">PET counts (cpm)</td><td rowspan=\"2\">A:B ratio</td></tr><tr><td>Melan-a2 melanocytes (A)</td><td>B16F1 melanoma cells (B)</td></tr><tr><td rowspan=\"2\">Collagen</td><td>Col2a1</td><td>*S6-7E53T53: 15</td><td>0</td><td>30:0</td></tr><tr><td>Col1a2</td><td>S31E52T52: 15</td><td>0</td><td></td></tr><tr><td rowspan=\"2\">Integrin</td><td>Itgb1</td><td>S1E16T16: 44</td><td>S1E16T16: 11 S1E10T16: 11</td><td>44:22</td></tr><tr><td>Itgb5</td><td>S1E16T16: 15 *S6-7E16T16: 15 S14E16T16: 15</td><td>0</td><td>45:0</td></tr><tr><td rowspan=\"2\">Actin</td><td>Actb</td><td>S1E2T6: 15 S1E6T6: 399</td><td>S4E6T6: 11 S1E2T6: 1896</td><td>414:1907</td></tr><tr><td>Actg1</td><td>S3E6T6: 15 S4E6T6: 15 S1E6T6: 876</td><td>S1E6T6: 5260</td><td>906:5260</td></tr><tr><td>Cadherin</td><td>Cdh11 (not in KEGG)</td><td>*S2-3E6-7T13: 15 *S3E6-7T13: 15</td><td>*S2-3E6-7T13: 11</td><td>30:11</td></tr><tr><td rowspan=\"2\">JAM</td><td>Jam2</td><td>S1E10T10: 15</td><td>0</td><td>15:0</td></tr><tr><td>Jam3</td><td>S1E9T9: 15</td><td>0</td><td>15:0</td></tr><tr><td>&#946;-catenin</td><td>Catnb</td><td>S1E1T15: 30 (skip*) S1E15T15: 15</td><td>S11E15T15: 33</td><td>15:33</td></tr><tr><td>&#945;-catenin</td><td>Catna1</td><td>S4E18T18: 15</td><td>S1E18T18: 22 S1E5T18: 11 S15E18T18: 11</td><td>15:44</td></tr><tr><td>Snail, Slug</td><td>Snail, Slug</td><td>0</td><td>0</td><td>0:0</td></tr><tr><td>CD44</td><td>Cd44</td><td>S1E14T14: 15</td><td>S1E14T14: 77 S1E12T14: 33 S1E4T14: 11</td><td>l5:121</td></tr><tr><td>OPN (osteopontin)</td><td>Spp1</td><td>S1E7T7: 1889</td><td>0</td><td>1889:0</td></tr></table>"
+  }
+ ]
+}

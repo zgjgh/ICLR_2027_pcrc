@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_441",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    508.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Are All GMOs the Same in the Eyes of Consumers"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    376.3,
+    107.4
+   ],
+   "ocr": "Table 5. Willingness to consume GM and cisgenic food by country (%)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    269.4
+   ],
+   "ocr": "Belgium France Netherlands Spain United Kingdom Total sample\n(N = 500) (N = 750) (N = 602) (N = 399) (N = 751) (N = 3002)\nWillingness to consume GM food\nNo 10 31 15 11 15 17\nYes 38 23 32 46 47 36\nNot enough information 52 46 53 43 39 46\nWillingness to consume cisgenic food\nNo 9 26 10 8 10 14\nYes 38 27 30 52 46 38\nNot enough information 53 47 60 40 44 49",
+   "table_id": "PMC4431710_table_4"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    277.5,
+    718.8,
+    338.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0126060.t005 observation is right censored if the participant is willing to pay a premium of €47.75 (€50- €2.25) or more to avoid the alternative rice, so then the probability is Pr (€47.75 Yi�). If the"
+  },
+  "p5_b4": {
+   "type": "title",
+   "bbox": [
+    653.8,
+    324.5,
+    663.5,
+    346.3
+   ],
+   "ocr": "�"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    339.9,
+    723.6,
+    387.4
+   ],
+   "ocr": "observation is left censored the participant is willing to pay €1.75 (€0.5-€2.25 = €-1.75) or more to consume the alternative rice instead of the conventional rice, so then the probability is Pr (Yi� €-1.75). The maximum likelihood estimates were obtained from using the interval"
+  },
+  "p5_b6": {
+   "type": "title",
+   "bbox": [
+    290.4,
+    373.7,
+    300.1,
+    395.6
+   ],
+   "ocr": "�"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    389.1,
+    727.3,
+    898.4
+   ],
+   "ocr": "regression command “INTREG” in STATA 13. Finally, because the sample was by nature panel data, clustered robust standard errors were estimated to account for the correlation exist- ing in the error term (εi) among the three observations for a given participant. Results and Discussion On average, 36% of all the participants are willing to consume a GM food product with values ranging from 23% in France to 47% in the UK (Table 5). Across all countries, the willingness to consume a cisgenic product is 38% with values ranging from 27% in France to 52% in Spain. Participants from France are the least willing to consume a GM and a cisgenic food product, with 31% and 26% of the French participants being not willing to consume a GM or cisgenic food product, respectively. Across countries a larger proportion of participants (38% versus 36%) were willing to consume cisgenic than GM but this difference was not significant at 0.05. The Netherlands and UK had contrary outcomes but the differences in the “Yes” proportions within both the Netherlands and UK were not significant at 0.05. The differences for France and Spain were significant at 0.05. The percentage of participants who indicated that they did not have enough information to decide whether they would be willing to consume a cisgenic or a GM food product was relative- ly high (46% of the participants for GM food and 49% for cisgenic food). Thus there could be wider acceptance for GM and cisgenic products but promotional or at least educational cam- paigns are greatly needed to inform consumers about each. In addition, in all countries but Spain, the percentage of “Not enough information” for the question regarding the willingness to consume a cisgenic or a GM food product is higher for the cisgenic product. Furthermore, the percentage of “No” is always smaller for the cisgenic product than for the GM product. This shows that participants are less familiar with or less knowledgeable about cisgenic food products than GM food products, but also somewhat less aversive toward cisgenic. This finding is consistent with previous results [24] showing that consumers have a more negative attitude when they are more familiar with the method of genetic modification. The coefficient estimates of the interval regression (Eq 1) are presented in Table 4 Due to important differences observed across countries, separate regression models were estimated for each country, all having the same independent variables as in Eq 1."
+  },
+  "p5_b8": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0126060 May 14, 2015 9 / 16"
+  }
+ }
+}

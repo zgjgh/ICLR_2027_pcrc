@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_070",
+  "page": 7,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p7_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    114.0,
+    580.0,
+    176.0
+   ],
+   "ocr": "In Table 1, the header \"Snippet Length\" includes the rows for \"4 Amino Acids,\" \"5 Amino Acids,\" \"6 Amino Acids,\" \"7 Amino Acids,\" \"2 DNA Triplets,\" \"6 DNA Triplets,\" and \"6 Amino Acids,\" with respective values of \"Atchley Factors\" providing classification accuracy on the training data set by exhaustive 1-holdout cross-validation of 11/23 ≈ 47.8%, 15/23 ≈ 65.2%, 20/23 ≈ 87.0%, 14/23 ≈ 60.9%, 12/23 ≈ 52.2%, 8/23 ≈ 34.8%, and 15/23 ≈ 65.2%."
+  },
+  "p7_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    234.0,
+    580.0,
+    411.0
+   ],
+   "ocr": "Snippet Length Sequence Representation Classification Accuracy on the Training Data Set by Exhaustive 1-Holdout Cross-Validation\n4 Amino Acids Atchley Factors 11/23 ≈ 47.8%\n5 Amino Acids Atchley Factors 15/23 ≈ 65.2%\n6 Amino Acids Atchley Factors 20/23 ≈ 87.0%\n7 Amino Acids Atchley Factors 14/23 ≈ 60.9%\n2 DNA Triplets DNA Nucleotides 12/23 ≈ 52.2%\n6 DNA Triplets DNA Nucleotides 8/23 ≈ 34.8%\n6 Amino Acids Amino Acid Residue 15/23 ≈ 65.2%",
+   "table_id": "img_078864_t0"
+  },
+  "p7_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    449,
+    580,
+    476
+   ],
+   "ocr": "In Table 2, the header columns include the years 1993 (n = 281) and 2013 (n = 215) with the significance level denoted by p *. The row labeled \"SBP (mmHg)\" has values of 111.6 ± 13.2 in 1993 and 118.7 ± 13.9 in 2013, with p * <0.001."
+  },
+  "p7_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    464,
+    580,
+    507
+   ],
+   "ocr": "The row labeled \"DBP (mmHg)\" shows 71.0 ± 8.7 for 1993 and 77.1 ± 9.2 for 2013, also with p * <0.001. The \"BMI (kg/m2)\" row presents 20.7 ± 2.1 for 1993 and 23.7 ± 3.9 for 2013, with p * at 0.017."
+  },
+  "p7_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    551.0,
+    580.0,
+    673.0
+   ],
+   "ocr": "1993 (n = 281) 2013 (n = 215) p *\nSBP (mmHg) 111.6 ± 13.2 118.7 ± 13.9 <0.001\nDBP (mmHg) 71.0 ± 8.7 77.1 ± 9.2 <0.001\nBMI (kg/m2) 20.7 ± 2.1 23.7 ± 3.9 0.017\nBlood glucose (mg/dL) 74.3 ± 6.2 81.4 ± 8.6 <0.001\nCholesterol(mg/dL) 150.1 ± 32.9 182.4 ± 28.3 <0.001",
+   "table_id": "img_078864_t1"
+  },
+  "p7_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    719.0,
+    580.0,
+    750.0
+   ],
+   "ocr": "The \"Blood glucose (mg/dL)\" row reflects values of 74.3 ± 6.2 in 1993 and 81.4 ± 8.6 in 2013, with p * <0.001, while \"Cholesterol (mg/dL)\" has 150.1 ± 32.9 in 1993 and 182.4 ± 28.3 in 2013, and p * <0.001."
+  }
+ }
+}

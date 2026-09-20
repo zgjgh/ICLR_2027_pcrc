@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_303",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:547"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/547"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    117.1,
+    386.9,
+    128.8
+   ],
+   "ocr": "Table 4: Comparison of PPV = TP/(TP+FP) in promoter predictions"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    389.7,
+    117.1,
+    532.2,
+    128.8
+   ],
+   "ocr": "using the annotated TSS sites."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    139.9,
+    664.2,
+    462.7
+   ],
+   "ocr": "Untreated\nTotal Prediction (TP+FP) TP PPV p-value\nHeintzman et al. 198 181 91.41% < 1.0 × 10-16\nHMM(c1 = 2.205) 198 189 95.45% < 1.0 × 10-16\nHMM (c1 = 1.6) 256 234 91.41% < 1.0 × 10-16\nHMM (c1 = 0.5) 337 264 78.34% < 1.0 × 10-16\nTreated\nTotal Prediction (TP+FP) TP PPV p-value\nHeintzman et al. 207 183 88.41% < 1.0 × 10-16\nHMM (c1 = 2.1) 207 196 94.69% < 1.0 × 10-16\nHMM (c1 = 1.367) 279 247 88.50% 2.8 × 10-3\nHMM (c1 = 0.5) 362 278 76.80% < 1.0 × 10-16",
+   "table_id": "PMC2657164_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    477.1,
+    386.4,
+    922.4
+   ],
+   "ocr": "We calculated p value by generating random predictions on the ENCODE inactive promoters in the untreated HeLa cells, and 181 active and 151 inactive promoters in the treated cells. The profile based method detected 127 active and 31 inactive promoters in the untreated cells (Table 5). The two meth- ods correctly predicted similar number of active promot- ers (127 and 128) when the number of predictions was around 200. While increasing the number of predictions, the profile based method did not but the HMM method did make more correct predictions of active promoters in both treated and untreated cells (Table 5). We investigated the sensitivity and specificity of each method (for the definition see Methods). Figure 5 shows the receiver operator characteristic (ROC) curves of the HMM and the profile-based methods in the untreated and treated cells. Both methods achieved good performance with high sensitivity and specificity but the performance improvement of the HMM method is prominent. Enhancer prediction in the ENCODE regions We also used the trained HMM to predict enhancers in the ENCODE regions. We found 319 (82.01%) and 243 (75.00%) common enhancers predicted in the untreated (389 predictions) and treated cells (324 predictions), respectively, by the HMM method and the profile-based method with the same number of total predictions. To compare the performances of the two methods, we checked how many of them were supported (within 2.5"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    389.3,
+    477.1,
+    698.4,
+    981.2
+   ],
+   "ocr": "regions. kb) by nearby p300 and TRAP200 binding sites as well as DNase hypersensitivity sites (DHSs). p300 is a transcrip- tional co-activator[22,23]. TRAP220 is a component of the Mediator complex[22,23] that have been shown to bind to enhancers as well as promoters. DHSs are nucleo- some free regions that are often occupied by enhancers [24]. We only considered p300, TRAP220 and DHS sites that are distal (> 2.5 kb) from any TSS to avoid confusion with promoters. In the untreated HeLa cells, all three sites have been mapped in the ENCODE regions. We calculated sensitiv- ity = TP/(TP+FN) of the two methods (Table 6). More pre- dictions by the HMM method were supported by any and all of the three lines of evidences. In total, 213 out of 389 predictions by the HMM method were supported (PPV = 54.76%) by any of the three evidences, while the profile- based method made 206/389 = 52.96% supported predic- tions (Table 6 and Figure 6b). We should point out that there may exist true enhancers among the predicted ones by HMM but not supported by the p300, DHS or TRAP220 data. This may explain the relatively smaller improvement of our method over the profile-based method on enhancer predictions than on promoter pre- dictions. In the treated cell, only p300 binding data was available and it was used to evaluate the predictions of the two Page 8 of 18 (page number not for citation purposes)"
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_161",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    432.2,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "A Platoon-Based Model for Performance Evaluation at Intersections"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    94.5,
+    218.2,
+    106.4
+   ],
+   "ocr": "Table 1. Trafﬁc parameters of VCPN."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.6,
+    726.7,
+    211.7
+   ],
+   "ocr": "Segment 1 2 3 4\nΔi(m) 100 100 100 400\nvfree i(m/s) 14.21 19.57 22.76 22.76\nVmax i(1/s) 0.1421 0.1957 0.2276 0.0569\nCi-mi(veh) 15.15 15.15 15.15 60.61\nαi(t) (veh) 3.78 3.78 3.78 15.15",
+   "table_id": "PMC4364894_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    218.7,
+    723.5,
+    350.0
+   ],
+   "ocr": "doi:10.1371/journal.pone.0114406.t001 shows a typical arrival profile from the IM. The percentage of vehicles reaching during red can be calculated using equation (35) whereas percentage of vehicles reaching during the green pe- riod is determined by (36). Therefore, suitable offsets are used to produce AT-1, AT-2, AT-4 and AT-5 arrivals. Percentage of vehicles arriving during the red phase: nr"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    464.7,
+    342.8,
+    727.3,
+    365.6
+   ],
+   "ocr": "100% � ð35Þ"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    267.6,
+    351.4,
+    539.7,
+    459.0
+   ],
+   "ocr": "ntotal Percentage of vehicles arriving during the green phase: � �"
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    462.8,
+    420.1,
+    522.9,
+    442.6
+   ],
+   "ocr": "nr 100%"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    435.0,
+    428.7,
+    727.3,
+    451.5
+   ],
+   "ocr": "� � ð36Þ"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    437.3,
+    727.2,
+    660.9
+   ],
+   "ocr": "ntotal where ntotal and nr denote the total number of vehicles and the number of vehicles arriving dur- ing the red period respectively. Secondly, the desired DOS can be achieved through ascertaining the number of vehicles en- tering the VCPN. The capacity of the Street A target approach is 800 veh/h. Based on this ca- pacity, traffic demand (veh/h) to achieve the desired DOS can be calculated. For instance, to achieve X = 0.7, entering flow of 560 veh/h is needed (see Table 2). Considering an analysis pe- riod of 15 minutes, the total demand of through vehicles approximated from this entering flow is 140. As an analysis period of 15 minutes is considered, simulation needs to be performed for four signal cycles (i.e. four times of 225 s). Thus, the demand for each signal cycle is 35 vehicles. Table 2 outlines all the demands to achieve the respective DOS. Demand for one signal cycle denotes the marking of m0 in the VCPN model. Utilizing the initial marking of m0 (i.e. 29, 35, 43, 55 and 60 vehicles respectively), the IM evaluates traffic"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    870.1,
+    395.1,
+    901.4
+   ],
+   "ocr": "Fig 10. Progression quality. doi:10.1371/journal.pone.0114406.g010"
+  },
+  "p1_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0114406 March 18, 2015 14 / 25"
+  }
+ }
+}

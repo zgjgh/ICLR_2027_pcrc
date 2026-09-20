@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_034",
+  "page": 6,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    186
+   ],
+   "ocr": "The first table presents data on various taxa with headers including extant-only taxa, combined extant and extinct taxa, 25% incorrect extinct taxa, 50% incorrect extinct taxa, and 75% incorrect extinct taxa. The four states row shows 50 extant taxa with values of 0.48 (0.09–0.61) for extant-only taxa, 0.49 (0.071–0.89) for combined extant and extinct taxa, 0.49 (0.14–0.85) for 25% incorrect extinct taxa, 0.49 (0.17–0.77) for 50% incorrect extinct taxa, and 0.50 (0.21–0.76) for 75% incorrect extinct taxa. The 100 extant taxa row has values of 0.33 (0.27–0.35), 0.34 (0.16–0.79), 0.33 (0.16–0.73), 0.33 (0.15–0.64), and 0.32 (0.15– 0.55). The 500 extant taxa row lists 0.25 (0.23–0.25), 0.24 (0.13–0.68), 0.24 (0.13–0.59), 0.25 (0.13–0.50), and 0.25 (0.13– 0.42). The 50 extant taxa (trend) row indicates 0.20 (0.19–0.20), 0.19 (0.12–0.54), 0.19 (0.11–0.46), 0.19 (0.11–0.39), and 0.19 (0.12–0.34). For the 100 extant taxa (trend), values are 0.50 (0.47–0.56), 0.56 (0.260–0.95), 0.52 (0.25–0.88), 0.49 (0.22–0.77), and 0.49 (0.22–0.72)."
+  },
+  "p6_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    174,
+    580,
+    325
+   ],
+   "ocr": "The 500 extant taxa (trend) row shows 0.33 (0.29–0.41), 0.39 (0.16–0.94), 0.35 (0.15–0.85), 0.33 (0.13– 0.71), and 0.32 (0.13–0.89). The second table outlines architectural model features with headers for Stand-alone, Integrated, Standard-based, and Service-oriented. The row for Service transferable across clinical centres lists Yes for Stand-alone, No for Integrated, Yes for Standard-based, and Yes for Service-oriented. The Manual data-entry to CDSS minimized row has No across Stand-alone, Integrated, Yes for Standard-based, and Yes for Service-oriented. Connected to EHR or HIS shows No for Stand- alone, Yes for Integrated, Yes for Standard-based, and Yes for Service-oriented. The Vendor independent EHR or HIS row includes N/A for Stand-alone, No for Integrated, Yes for Standard-based, and No for Service-oriented. The Standardized clinical knowledge representation row contains No for Stand-alone, No for Integrated, Yes† for Standard-based, and Sometimes for Service-oriented. Finally, the Standardized clinical data representation row shows No for Stand-alone, No for Integrated, Sometimes for Standard-based, and Yes for Service-oriented."
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    342.0,
+    580.0,
+    594.0
+   ],
+   "ocr": "extant-only taxa combined extant and extinct taxa 25% incorrect extinct taxa 50% incorrect extinct taxa 75% incorrect extinct taxa\nfour states 50 extant taxa 0.48 (0.09–0.61) 0.49 (0.071–0.89) 0.49 (0.14–0.85) 0.49 (0.17–0.77) 0.50 (0.21–0.76)\n100 extant taxa 0.33 (0.27–0.35) 0.34 (0.16–0.79) 0.33 (0.16–0.73) 0.33 (0.15–0.64) 0.32 (0.15–0.55)\n500 extant taxa 0.25 (0.23–0.25) 0.24 (0.13–0.68) 0.24 (0.13–0.59) 0.25 (0.13–0.50) 0.25 (0.13–0.42)\n50 extant taxa (trend) 0.20 (0.19–0.20) 0.19 (0.12–0.54) 0.19 (0.11–0.46) 0.19 (0.11–0.39) 0.19 (0.12–0.34)\n100 extant taxa (trend) 0.50 (0.47–0.56) 0.56 (0.260–0.95) 0.52 (0.25–0.88) 0.49 (0.22–0.77) 0.49 (0.22–0.72)\n500 extant taxa (trend) 0.33 (0.29–0.41) 0.39 (0.16–0.94) 0.35 (0.15–0.85) 0.33 (0.13–0.71) 0.32 (0.13–0.89)",
+   "table_id": "img_038116_t0"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    609.0,
+    580.0,
+    749.0
+   ],
+   "ocr": "Architectural model's feature Stand-alone Integrated Standard-based Service-oriented\nService transferable across clinical centres Yes No Yes Yes\nManual data-entry to CDSS minimized No No Yes Yes\nConnected to EHR or HIS No Yes Yes Yes\nVendor independent EHR or HIS N/A No Yes No\nStandardized clinical knowledge representation No No Yes† Sometimes\nStandardized clinical data representation No No Sometimes Yes",
+   "table_id": "img_038116_t1"
+  }
+ }
+}

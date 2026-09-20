@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_291",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "BMC Genomics 2008, 9:177 http://www.biomedcentral.com/1471-2164/9/177"
+  },
+  "p4_b1": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    460.3,
+    118.9
+   ],
+   "ocr": "Table 5: Hazard ratios and P values for the top three gene signatures in 12 datasets"
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    656.5,
+    312.4
+   ],
+   "ocr": "Datasets 11823860_ST2 Mitotic checkpoint Cell_cycle_KEGG\nBild 6.35 *#(1.23–32.2) p = 0.0256 2.88 (0.686–12.1) p = 0.148 1.13 (0.407–3.11) p = 0.819\nMiller 1.29 (0.297–5.63) p = 0.731 0.942 (0.269–3.3) p = 0.925 1.37 (0.547–3.41) p = 0.504\nOh 4.72 (0.834–26.7) p = 0.0794 3.87 (0.792–18.9) p = 0.0944 2.07 (0.728–5.9) p = 0.172\nPawitan 34.6 (4.94–242) p = 3.57e-4 11.9 (2.84–49.9) p = 7.1e-4 5.21 (1.97–13.8) p = 8.6e-4\nSorlie_1 6.84 (1.75–26.7) p = 0.00568 4.73 (1.46–15.3) p = 0.00953 2.07 (1.07–4.01) p = 0.0312\nSorlie_2 3.28 (0.29–46.9) p = 0.381 1.99 (0.308–12.8) p = 0.471 1.33 (0.319–5.57) p = 0.695\nSotiriou_1 27.3 (2.60–287) p = 0.0582 64.2 (2.22–1854) p = 0.0153 5.58 (1.19–26.20 p = 0.0296\nSotiriou_2 5.22 (1.63–16.8) p = 0.00549 3.13 (1.17–8.42) p = 0.0234 2.6 (1.24–5.44) p = 0.0113\nVan de Vijver 62.3 (17.7–219) p = 1.12e-10 8.8 (4.18–18.5) p = 1.05e-8 4.03 (2.37–6.85) p = 2.73e-7\nWang 7.48 (2.78–20.1) p = 6.92e-5 2.73 (1.22–6.1) p = 0.0144 3.78 (1.89–7.55) p = 1.66e-4\nWiegelt 2.00 (0.152–26.0) p = 0.597 1.40 (0.15–13.0) p = 0.769 1.25 (0.19–3.38) p = 0.764\nWest 15.5 (0.73–329) p = 0.788 5.56 (0.635–12.1) p = 0.121 4.27 (1.20–15.1) p = 0.0246",
+   "table_id": "PMC2364634_table_4"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    328.7,
+    289.4,
+    352.2
+   ],
+   "ocr": "*Values in parenthesis are 95% confidence intervals #Bolded data entries are significant at P < 0.05."
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    411.5,
+    448.5,
+    423.2
+   ],
+   "ocr": "Table 6: Prediction accuracy of the 11823860_ST2 gene set in external validation"
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    434.3,
+    666.5,
+    877.7
+   ],
+   "ocr": "training testing *GTG GTP PTG PTP **accuracy sensitivity specificity\nBild Miller 128 49 17 19 0.6901 0.7232 0.5278\nBild Pawitan 89 41 7 15 0.6842 0.6846 0.6818\nBild Sotiriou_2 85 32 11 17 0.7034 0.7265 0.6071\nBild Van de Vijver 165 67 11 37 0.7214 0.7112 0.7708\nBild Wang 128 55 42 51 0.6486 0.6995 0.5484\nMiller Bild 37 24 17 17 0.5684 0.6066 0.5\nMiller Pawitan 84 46 6 16 0.6579 0.6462 0.7273\nMiller Sotiriou_2 77 40 7 21 0.6759 0.6581 0.75\nMiller Van de Vijver 165 67 11 37 0.7214 0.7112 0.7708\nMiller Wang 125 58 42 51 0.6377 0.6831 0.5484\nPawitan Bild 43 18 19 15 0.6105 0.7049 0.4412\nPawitan Miller 133 44 19 17 0.7042 0.7514 0.4722\nPawitan Sotiriou_2 87 30 11 17 0.7172 0.7436 0.6071\nPawitan Van de Vijver 173 59 12 36 0.7464 0.7457 0.75\nPawitan Wang 135 48 51 42 0.6413 0.7377 0.4516\nSotiriou_2 Bild 38 23 18 16 0.5684 0.623 0.4706\nSotiriou_2 Miller 129 48 19 17 0.6854 0.7288 0.4722\nSotiriou_2 Pawitan 86 44 10 12 0.6447 0.6615 0.5455\nSotiriou_2 Van de Vijver 164 68 12 36 0.7143 0.7069 0.75\nSotiriou_2 Wang 131 52 43 50 0.6558 0.7158 0.5376\nVan de Vijver Bild 41 20 21 13 0.5684 0.6721 0.3824\nVan de Vijver Miller 136 41 21 15 0.7089 0.7684 0.4167\nVan de Vijver Pawitan 99 31 12 10 0.7171 0.7615 0.4545\nVan de Vijver Sotiriou_2 88 29 15 13 0.6966 0.7521 0.4643\nVan de Vijver Wang 141 42 54 39 0.6522 0.7705 0.4194\nWang Bild 34 27 16 18 0.5474 0.5574 0.5294\nWang Miller 123 54 14 22 0.6808 0.6949 0.6111\nWang Pawitan 81 49 6 16 0.6382 0.6231 0.7273\nWang Sotiriou_2 76 41 7 21 0.669 0.6496 0.75\nWang Van de Vijver 154 78 8 40 0.6929 0.6638 0.8333\nTotal 3175 1325 559 746 0.6755 0.7056 0.5716",
+   "table_id": "PMC2364634_table_5"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    893.9,
+    679.3,
+    929.1
+   ],
+   "ocr": "*GTG – Good prognosis group predicted as Good; GTP – Good prognosis group predicted as Poor; PTG – Poor prognosis group predicted as Good; PTP – Poor prognosis group predicted as poor **accuracy = (GTG+PTP)/(GTG+GTP+PTG+PTP); sensitivity = GTG/(GTG+GTP); specificity = PTP/(PTG+PTP)"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 11 (page number not for citation purposes)"
+  }
+ }
+}

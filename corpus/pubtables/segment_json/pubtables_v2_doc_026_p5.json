@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_026",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    300.5,
+    65.8
+   ],
+   "ocr": "Ren et al. BMC Bioinformatics 2015, 16(Suppl 18):S12 http://www.biomedcentral.com/1471-2105/16/S18/S12"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 15"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    558.9,
+    386.0,
+    595.6
+   ],
+   "ocr": "Figure 3 Epitope prediction on a West Nile virus unbound structure blue denotes the internal interactions by other chains; predicted epitopes that fail to be identified (false negative) are shown as sticks."
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.1,
+    559.0,
+    670.7,
+    583.0
+   ],
+   "ocr": "(PDB ID: 4OIE). Magenta denotes the confirmed epitope sites, and by each predictor are highlighted by spheres, while the epitope sites"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    620.8,
+    366.2,
+    837.7
+   ],
+   "ocr": "from the bound structure 4M3K. There are two symme- trical Chains A and B in 2WK0, and Chain A is used here as an example. The best sequence similarity of 2WK0 with the training data (91 unbound structures) is at 16.7%. Overall, PUPre performs significantly better than all the other predictors (Table 6). The F-score and MCC are 0.41 and 0.38 respectively. Although ElliPro success- fully identifies all the epitope residues (i.e., a recall of 1.00), its precision is very low at 0.14, only half that of PUPre. Table 5 Prediction results on dihydrofolate reductase 4NX7."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    620.8,
+    678.6,
+    920.7
+   ],
+   "ocr": "ElliPro identified all of the 20 epitope residues, but it also predicted 120 unlabeled residues as epitope residues (Figure 5(d)). PUPre identified 15 out of 20 epitope resi- dues with much higher precision (only 39 false positive residues). Figure 5(e) shows part of Chain B in purple cartoon, and the interaction area is colored blue. Four residues (GLY-52, THR-53, ASN-54, ARG-55) bound by Chain B were wrongly predicted as epitope residues by SEPPA 2.0, while this did not occur with PUPre, Disco- Tope 2.0 or ElliPro. Predicted epitopes for Ebola virus antigen Ebola is a fatal infectious disease that caused a pandemic in Africa in 2014. There are two unbound structures of the matrix proteins of Ebola virus, 1ES6 and 4LD8, stored in PDB. Neither of them can be aligned with any bound structure in PDB with greater than 30% sequence similar- ity, which means that their bound structures with antibo- dies have not been determined or published, thus their epitopes cannot be determined from any complex struc- ture data. We attempted to make predictions for the"
+  },
+  "p5_b6": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    842.7,
+    347.6,
+    915.9
+   ],
+   "ocr": "Predictor Recall Precision F-score MCC\nPUPre 0.71 0.37 0.49 0.31\nDiscoTope 2.0 0.11 0.29 0.16 0.05\nElliPro 0.69 0.29 0.40 0.17\nSEPPA 2.0 0.17 0.38 0.24 0.13",
+   "table_id": "PMC4682424_table_4"
+  }
+ }
+}

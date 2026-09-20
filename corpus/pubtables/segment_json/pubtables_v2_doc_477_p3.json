@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_477",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Tormey et al. BMC Genomics (2015) 16:754 Page 8 of 14"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.7,
+    578.4
+   ],
+   "ocr": "(2GK8YT) and a W. smithii contig (Contig 17314), that best represented clk and cyc, respectively (Table 4). tim vs. tim2 (timeout): Drosophila melanogaster Clk and cyc are represented in two different EOG7 ortholo- gous groups. Local BLASTS of the A. aegypti orthologs of tim (AAEL006411) and tim2 (AAEL009518) against the W. smithii transcriptome identified two distinct W. smithii contigs that distinguished tim (Contig 06527) from tim2 (Contig 18589), respectively (Tables 4 and 5). cry1 vs. cry2 vs. phr6-4: Protein sequences belonging to the cryptochrome family were identified and com- bined from the cry1, cry2, and phr6-4 orthologous groups, EOG79SRM2 and EOG7P64PH. Local BLASTS of the A. aegypti sequences from the two OrthoDB groups against the W. smithii transcriptome identified three W. smithii candidate contigs. After trimming the 5’ and 3’ UTRs, the contigs were Gblock edited, and, in com- bination with the other six species, tested for the appro- priate amino acid substitution model (see Methods). A maximum likelihood tree rooted with phr6-4 [17, 98, 100] separated sequences into three distinct clades representing cry1, cry2, and phr6-4 (Fig. 3). The three W. smithii candi- date contigs were each placed in a separate clade. We therefore concluded that Contig 07972 is the ortholog of cry1, Contig 05165 is the ortholog of cry2, and Contig 00499 is the ortholog of phr6-4. dbt vs.Ck1α: The OrthoDB group for D. melanogaster doubletime (EOG72CGPS) contained two gene families, doubletime (discs overgrown) and Casein kinase 1α. A gene tree was then assembled using the same protocols described for the cryptochromes, above. When rooted"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    569.6,
+    678.5,
+    618.9
+   ],
+   "ocr": "Fig. 4 Assigning W. smithii orthologs of (a) PP2A-B’ and widerborst (wdb) and (b) Casein kinase 1α (Ck1α) and doubltime (dbt). In a, wdb with the N. vitripennis sequence NV018300, the emerges as a clade within PP2A-B’ and the W. smithii Contig WSc04554 remaining orthologs separated into two distinct clades was assigned to PP2A-B’. In b, W. smithii Contigs WSc08154 and"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    610.1,
+    678.5,
+    623.8
+   ],
+   "ocr": "one including D. melanogaster dbt and W. smithii Con-"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    619.2,
+    344.2,
+    631.6
+   ],
+   "ocr": "WSc08862 (bold) were assigned to Ck1α and dbt, respectively. Gene"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    625.1,
+    678.5,
+    638.9
+   ],
+   "ocr": "tig 08662, the other one including D. melanogaster Ck1α"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    79.0,
+    632.9,
+    209.4,
+    644.1
+   ],
+   "ocr": "number abbreviations as in Fig. 3"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    640.3,
+    678.5,
+    759.8
+   ],
+   "ocr": "and W. smithii Contig 08154 sequence (Fig. 4a). We therefore concluded that Contig 08662 is the ortholog of dbt and Contig 08154 is the ortholog of Ck1α. PP2A-B’ vs. wdb: The OrthoDB group for the D. mela- nogaster ortholog of PP2A-B’ (EOG7S57VZ) contained two gene families, PP2A-B’ and widerborst. To Table 3 Sequencing results and assembly statistics"
+  },
+  "p3_b8": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    764.8,
+    678.6,
+    898.4
+   ],
+   "ocr": "Sequencing results Total Aligned Assembled\nNumber of readsa 1,081,284 999,150 936,525\nNumber of bases 432,542,060 401,519,734 380,523,665\nAssembly statistics Singletons Number of Contigs (Contigs >500 bp) Isotigs\nNumber of sequences 54,418 25,904 (14,459) 21,233\nNumber of bases 20,109,580 19,120,348 (16,952,075) 32,183,643\nAverage sequence size (bp) 355 738 (1,172) 1,515\nLength of N50 sequence (bp)b 451 1,249 (1,373) 1,373",
+   "table_id": "PMC4594641_table_2"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    903.4,
+    459.3,
+    925.4
+   ],
+   "ocr": "aAfter quality filtering steps and removal of outliers such as adaptor sequences and repeats bN50 is a weighted median statistic, such that 50% of all bases are contained in sequences ≥N50 length"
+  }
+ }
+}

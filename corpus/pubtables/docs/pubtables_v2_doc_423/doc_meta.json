@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_423",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3682885_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    129.2,
+    678.7,
+    491.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3682885_table_0.png",
+   "html": "<table><tr><td>Locus name</td><td>Repeat motif</td><td>Ta (&#176;C)</td><td>Product size (bp)</td><td>NM</td><td>PIC</td><td>F (5&#180;-3&#180;)</td><td>R (5&#180;-3&#180;)</td><td>GenBank accession number</td></tr><tr><td>PN02-B3</td><td>(GT)12</td><td>50</td><td>139-157</td><td>11</td><td>0,8</td><td>CAAACAATGGGACAACACTT</td><td>TTTTTCTGCTCTGGCTCAT</td><td>HQ585421</td></tr><tr><td>PN02-C6</td><td>(TG)8</td><td>51,4</td><td>139-145</td><td>4</td><td>0,3</td><td>TTCAGCAATCAAGAGTTAGA</td><td>AGAGACGATCAGGGTGTG</td><td>HQ585422</td></tr><tr><td>PN02-G3</td><td>(GT)9</td><td>60</td><td>294-302</td><td>5</td><td>0,6</td><td>GTCGCCGGTCGCAGTCG</td><td>CACATAGCCGGCCTCCTCTC</td><td>HQ585423</td></tr><tr><td>PN02-G7</td><td>(AC)7</td><td>TOUCHDOWN</td><td>118</td><td>7</td><td>0,7</td><td>TGCAGCATGTAATAACC</td><td>TACACAGGAAGGAAGAAA</td><td>HQ585424</td></tr><tr><td>PN03-C7</td><td>(GT)6.</td><td>50</td><td>159-165</td><td>3</td><td>0,6</td><td>TCATGCCACGAGAAAGAAACCA</td><td>CAGGGACGACAGGGACAAGACT</td><td>HQ585425</td></tr><tr><td>PN03-D10</td><td>(GT)11</td><td>50</td><td>280-300</td><td>7</td><td>0,7</td><td>GTTATTCCTTCACTCACTCACC</td><td>AGCTTTCTGCCTTCTTTTT</td><td>HQ585426</td></tr><tr><td>PN03-D12</td><td>(AG)10</td><td>50</td><td>220-240</td><td>7</td><td>0,7</td><td>TGGGGAAGCAGGAAGTCACA</td><td>CAGCTCACCGATGGGAATG</td><td>HQ585427</td></tr><tr><td>PN03-E7</td><td>(GT)9</td><td>TOUCHDOWN</td><td>298</td><td>7</td><td>0,7</td><td>CATGCTTTTCTGCTTCC</td><td>GCTAATACTGCTTGCTCTTC</td><td>HQ585428</td></tr><tr><td>PN03-F1</td><td>(CA)7</td><td>50</td><td>184-192</td><td>5</td><td>0,7</td><td>CAGTGACCAAGCTTACAACCTA</td><td>GTGGCATGCCTTTCTACAA</td><td>HQ585429</td></tr><tr><td>PN03-F10</td><td>(TG)7</td><td>60</td><td>165-177</td><td>7</td><td>0,8</td><td>TGCCTACCGTTTCCTCTTCTCT</td><td>GGGATGGGTCTTGACTCTTGAT</td><td>HQ585433</td></tr><tr><td>PN03-F3</td><td>(GT)8</td><td>60</td><td>165-203</td><td>8</td><td>0,8</td><td>ACCCCGCGTCCTCTTTCTCA</td><td>CCCAACCCACCATTATCCTCTG</td><td>HQ585430</td></tr><tr><td>PN03-F7</td><td>(CA)10</td><td>50</td><td>200-212</td><td>6</td><td>0,8</td><td>TGCTGGCAGTCTTTCTCT</td><td>GGCCATACCACTTTTTG</td><td>HQ585431</td></tr><tr><td>PN03-F9</td><td>(CA)8</td><td>60</td><td>179-275</td><td>15</td><td>0,9</td><td>AAAAGGGCAGGAGTTAGGAC</td><td>AGTTGGCTCAGTTACGATTTTA</td><td>HQ585432</td></tr><tr><td>PN03-G5</td><td>(CA)7</td><td>60</td><td>126-138</td><td>6</td><td>0,7</td><td>AAGTCACCGTTTCAATCCAG</td><td>GCAGTGCGCAAGTTTTCT</td><td>HQ585434</td></tr><tr><td>PN03-H3</td><td>(GA)22</td><td>51,4</td><td>198-250</td><td>11</td><td>0,8</td><td>CATGTAAACGTAGCAGAGGT</td><td>GCTAATTTTACAGGGTGGTC</td><td>HQ585435</td></tr><tr><td>PA01-C8</td><td>(AT)2TTA(AT) 2TTCA(GA)2</td><td>60</td><td>247-279</td><td>6</td><td>0,8</td><td>AATCTGACCTGTTTTACTTCTC</td><td>TGCATTTTTGGGATACACT</td><td>HM208140</td></tr><tr><td>PA01-E10</td><td>(GGT)2 T(ACT)2</td><td>54</td><td>186-210</td><td>6</td><td>0,4</td><td>GCGATTATTGTTGTTTGGTTTG</td><td>ACGCTTTCTTGTCTTCATCTCA</td><td>HM208141</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>7,1</td><td>0,7</td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3682885_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    143.1,
+    678.6,
+    886.9
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3682885_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Locus name</td><td rowspan=\"2\">Repeat motif</td><td rowspan=\"2\">Ta (&#176;C)</td><td colspan=\"3\">Paspalum genetic characterization</td><td colspan=\"3\">P. notatum genetic characterization</td><td rowspan=\"2\">Reference/GenBank accession no.</td></tr><tr><td>Product size (bp)</td><td>NM</td><td>PIC</td><td>Product size (bp)</td><td>NM</td><td>PIC</td></tr><tr><td>PA02-A5</td><td>(GC)3GG(CT)4</td><td>60</td><td>122-142</td><td>9</td><td>0.59</td><td>NA</td><td>NA</td><td>NA</td><td>58</td></tr><tr><td>PA02-B1</td><td>(CGGC)3</td><td>60</td><td>130-202</td><td>23</td><td>0.81</td><td>158-170</td><td>5</td><td>0.53</td><td>58</td></tr><tr><td>PA01-B7</td><td>(GC)6(CA)2(GA)8CA(GA)9</td><td>60</td><td>185-310</td><td>32</td><td>0.89</td><td>249-300</td><td>7</td><td>0.68</td><td>58</td></tr><tr><td>PA01-C1</td><td>(CA)3CG(CA)2CT(AGGA)3</td><td>58</td><td>231</td><td>10</td><td>0.25</td><td>NA</td><td>NA</td><td>NA</td><td>58</td></tr><tr><td>PA02-C3</td><td>(CA)3CTGA(CA)4</td><td>60</td><td>222-400</td><td>13</td><td>0.78</td><td>240-266</td><td>3</td><td>0.09</td><td>58</td></tr><tr><td>PA01-C8</td><td>(AT)2TTA(AT)2TTCA(GA)2</td><td>60</td><td>247-279</td><td>6</td><td>0.76</td><td>NA</td><td>NA</td><td>NA</td><td>HM208140</td></tr><tr><td>PA01-E10</td><td>(GGT)2 T(ACT)2</td><td>54</td><td>186-210</td><td>6</td><td>0.43</td><td>NA</td><td>NA</td><td>NA</td><td>HM208141</td></tr><tr><td>PA02-F8</td><td>(AC)4TA(AC)3</td><td>TD</td><td>166-200</td><td>6</td><td>0.42</td><td>NA</td><td>NA</td><td>NA</td><td>58</td></tr><tr><td>PA01- F10</td><td>(CT)10</td><td>50</td><td>188-240</td><td>18</td><td>0.48</td><td>234-220</td><td>2</td><td>0.14</td><td>58</td></tr><tr><td>PN03-A6</td><td>(GT)8</td><td>60</td><td>152-192</td><td>20</td><td>0.76</td><td>160-188</td><td>11</td><td>0.86</td><td>57</td></tr><tr><td>PN02-B5B</td><td>(TCA)4</td><td>60</td><td>152-234</td><td>24</td><td>0.79</td><td>180-204</td><td>4</td><td>0.58</td><td>57</td></tr><tr><td>PN03-C7</td><td>(GT)6</td><td>50</td><td>133-177</td><td>20</td><td>0.83</td><td>159-165</td><td>3</td><td>0.58</td><td>HQ585425</td></tr><tr><td>PA02-G11</td><td>(CT)11</td><td>TD</td><td>*</td><td>*</td><td>*</td><td>NA</td><td>NA</td><td>NA</td><td>HQ585425</td></tr><tr><td>PA02-H1</td><td>(AC)3G(CA)3</td><td>TD</td><td>*</td><td>*</td><td>*</td><td>NA</td><td>NA</td><td>NA</td><td>HM208150</td></tr><tr><td>PA02-H4</td><td>(CA)2CT(CA)5 T(AC)2</td><td>TD</td><td>*</td><td>*</td><td>*</td><td>NA</td><td>NA</td><td>NA</td><td>58</td></tr><tr><td>PA02-H8</td><td>(GT)3GCA(TG)3</td><td>TD</td><td>*</td><td>*</td><td>*</td><td>NA</td><td>NA</td><td>NA</td><td>58</td></tr><tr><td>PN03-A5</td><td>(TG)8</td><td>60</td><td>*</td><td>*</td><td>*</td><td>249-287</td><td>4</td><td>0.54</td><td>57</td></tr><tr><td>PN03-F10</td><td>(TG)7</td><td>60</td><td>*</td><td>*</td><td>*</td><td>165-177</td><td>7</td><td>0.78</td><td>HQ585433</td></tr><tr><td>PN02-C6</td><td>(TG)8</td><td>51.4</td><td>*</td><td>*</td><td>*</td><td>139-145</td><td>4</td><td>0.29</td><td>HQ585422</td></tr><tr><td>PN02-F6A</td><td>(CT)11</td><td>60</td><td>*</td><td>*</td><td>*</td><td>154-218</td><td>22</td><td>0.89</td><td>57</td></tr><tr><td>PN03-D10</td><td>(GT)11</td><td>50</td><td>*</td><td>*</td><td>*</td><td>280-300</td><td>7</td><td>0.66</td><td>HQ585426</td></tr><tr><td>PN03-F2</td><td>(AC)7</td><td>60</td><td>*</td><td>*</td><td>*</td><td>241-249</td><td>5</td><td>0.64</td><td>57</td></tr><tr><td>PN03-F9</td><td>(CA)8</td><td>60</td><td>*</td><td>*</td><td>*</td><td>179-275</td><td>15</td><td>0.88</td><td>HQ585432</td></tr><tr><td>PN02-A12</td><td>(GA)3AT(GAA)3</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>185-205</td><td>3</td><td>0.45</td><td>57</td></tr><tr><td>PN02-B3</td><td>(GT)12</td><td>50</td><td>NA</td><td>NA</td><td>NA</td><td>139-157</td><td>11</td><td>0.84</td><td>HQ585421</td></tr><tr><td>PN02-G10</td><td>(CA)8</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>189-219</td><td>7</td><td>0.83</td><td>57</td></tr><tr><td>PN02-G3</td><td>(GT)9</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>294-302</td><td>5</td><td>0.6</td><td>HQ585423</td></tr><tr><td>PN02-G7</td><td>(AC)7</td><td>TD</td><td>NA</td><td>NA</td><td>NA</td><td>118</td><td>7</td><td>0.74</td><td>HQ585424</td></tr><tr><td>PN02-H7</td><td>(AC)8</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>194-204</td><td>4</td><td>0.63</td><td>57</td></tr><tr><td>PN03-D12</td><td>(AG)10</td><td>50</td><td>NA</td><td>NA</td><td>NA</td><td>220-240</td><td>7</td><td>0.69</td><td>HQ585427</td></tr><tr><td>PN03-E7</td><td>(GT)9</td><td>TD</td><td>NA</td><td>NA</td><td>NA</td><td>298</td><td>7</td><td>0.74</td><td>HQ585428</td></tr><tr><td>PN03-E9b</td><td>(AC)7</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>168-186</td><td>6</td><td>0.59</td><td>57</td></tr><tr><td>PN03-F1</td><td>(CA)7</td><td>50</td><td>NA</td><td>NA</td><td>NA</td><td>184-192</td><td>5</td><td>0.71</td><td>HQ585429</td></tr><tr><td>PN03-F3</td><td>(GT)8</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>165-203</td><td>8</td><td>0.75</td><td>HQ585430</td></tr><tr><td>PN03-F7</td><td>(CA)10</td><td>50</td><td>NA</td><td>NA</td><td>NA</td><td>200-212</td><td>6</td><td>0.76</td><td>HQ585431</td></tr><tr><td>PN03-G5</td><td>(CA)7</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>126-138</td><td>6</td><td>0.74</td><td>HQ585434</td></tr><tr><td>PN03-G8</td><td>(CA)7</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>254-258</td><td>3</td><td>0.38</td><td>57</td></tr><tr><td>PN03-H10</td><td>(CT)11</td><td>60</td><td>NA</td><td>NA</td><td>NA</td><td>222-272</td><td>13</td><td>0.86</td><td>57</td></tr><tr><td>PN03-H3</td><td>(GA)22</td><td>51.4</td><td>NA</td><td>NA</td><td>NA</td><td>198-250</td><td>11</td><td>0.84</td><td>HQ585435</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>15.58</td><td>0.65</td><td></td><td>7.52</td><td>0.64</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3682885_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    855.9,
+    678.6,
+    919.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3682885_table_2.png",
+   "html": "<table><tr><td>Source of variation</td><td>D.f.</td><td>Sum of squares</td><td>Variance of variation</td><td>Percentage</td></tr><tr><td>Among clusters</td><td>6</td><td>768.87</td><td>13.94 Va</td><td>47.05</td></tr><tr><td>Within clusters</td><td>50</td><td>784.66</td><td>15.70 Vb</td><td>52.95</td></tr><tr><td>Total</td><td>56</td><td>1,553.53</td><td>29.64</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3682885_table_3",
+   "page_num": 4,
+   "bbox": [
+    71.4,
+    143.1,
+    366.1,
+    683.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3682885_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">SSR loci</td><td colspan=\"3\">Exclusive bands in P. notatum varieties</td></tr><tr><td>var. notatum</td><td>var. latiflorum</td><td>var. saurae</td></tr><tr><td>PN03-A6</td><td></td><td>bands 1, 10</td><td></td></tr><tr><td>PN03-D12</td><td>band 6</td><td>bands 1, 4, 5 (240, 228, 226 bp)</td><td></td></tr><tr><td>PN03-E7</td><td>band 7</td><td>band 1</td><td></td></tr><tr><td>PN03-E9</td><td></td><td>band 3</td><td></td></tr><tr><td>PN03-F2</td><td></td><td>band 5</td><td></td></tr><tr><td>PN03-F3</td><td>bands 7, 8 (169, 165 bp)</td><td>band 6 (197 bp)</td><td></td></tr><tr><td>PN03-F9</td><td>bands 1, 2, 3, 9 (275, 250, 248, 192 bp)</td><td>band 5 (220 bp)</td><td></td></tr><tr><td>PN03-F10</td><td></td><td>band 1</td><td></td></tr><tr><td>PN03-G3</td><td>band 1</td><td>band 5</td><td></td></tr><tr><td>PN03-G7</td><td>band 7</td><td>band 1</td><td></td></tr><tr><td>PN03-G8</td><td></td><td>band 1</td><td></td></tr><tr><td>PN03-H3</td><td>bands 10, 11 (206, 198 bp)</td><td>bands 1, 9 (250, 210 bp)</td><td></td></tr><tr><td>PN03-H10</td><td></td><td>bands 1, 2, 3, 5, 10, 11</td><td>band 13</td></tr><tr><td>PN02-B3</td><td></td><td>bands 7, 11 (145, 135 bp)</td><td></td></tr><tr><td>PN02-C6</td><td></td><td>band 2</td><td>band 1</td></tr><tr><td>PN03-D10</td><td></td><td>bands 1, 2 (300, 296 bp)</td><td></td></tr><tr><td>PN02-F6</td><td>bands 19, 20, 21, 22</td><td>bands 4, 5, 6, 7, 8, 9, 18</td><td></td></tr><tr><td>PN02-G10</td><td></td><td>bands 1, 7</td><td></td></tr><tr><td>PN02-H7</td><td>band 1</td><td></td><td></td></tr><tr><td>PA02-B1</td><td>bands 1, 5 (170, 158 bp)</td><td></td><td></td></tr><tr><td>PA01-B7</td><td></td><td>bands 1, 3, 6 (300, 288, 259 bp)</td><td></td></tr><tr><td>PA02- C3</td><td></td><td>band 2 (242 bp)</td><td>band 1 (266 bp)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3682885_table_4",
+   "page_num": 4,
+   "bbox": [
+    383.9,
+    156.9,
+    678.6,
+    324.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3682885_table_4.png",
+   "html": "<table><tr><td>Statistic</td><td>Overall</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr><tr><td>Sample size</td><td>57</td><td>9</td><td>8</td><td>6</td><td>5</td><td>10</td><td>8</td><td>11</td></tr><tr><td>Total number of alleles</td><td>208</td><td>102</td><td>91</td><td>94</td><td>83</td><td>146</td><td>84</td><td>144</td></tr><tr><td>Number of alleles per locus</td><td>6.93</td><td>3.40</td><td>3.03</td><td>3.13</td><td>2.77</td><td>4.87</td><td>2.80</td><td>4.80</td></tr><tr><td>Number of polymorphic sites</td><td>200</td><td>80</td><td>52</td><td>50</td><td>43</td><td>136</td><td>30</td><td>124</td></tr><tr><td>Genetic diversity (He)</td><td>0.68</td><td>0.55</td><td>0.54</td><td>0.53</td><td>0.52</td><td>0.65</td><td>0.51</td><td>0.65</td></tr><tr><td>PIC</td><td>0.64</td><td>0.50</td><td>0.48</td><td>0.48</td><td>0.44</td><td>0.60</td><td>0.45</td><td>0.60</td></tr><tr><td>Fst</td><td>0.47</td><td>0.46</td><td>0.50</td><td>0.49</td><td>0.49</td><td>0.43</td><td>0.52</td><td>0.43</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3682885_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    143.1,
+    366.2,
+    240.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3682885_table_6.png",
+   "html": "<table><tr><td>Source of variation</td><td>d.f.</td><td>Sum of squares</td><td>Variance components</td><td>% variation</td><td>P values</td></tr><tr><td>Among species</td><td>35</td><td>1296.14</td><td>5.67 Va</td><td>46.83</td><td>*</td></tr><tr><td>Within species</td><td>179</td><td>1132.83</td><td>6.44 Vb</td><td>53.17</td><td>*</td></tr><tr><td>Total</td><td>214</td><td>2428.97</td><td>12.10</td><td></td><td></td></tr></table>"
+  }
+ ]
+}

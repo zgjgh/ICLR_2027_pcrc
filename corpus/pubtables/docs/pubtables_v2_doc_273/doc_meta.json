@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_273",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1553455_table_0",
+   "page_num": 1,
+   "bbox": [
+    92.0,
+    769.1,
+    665.2,
+    875.0
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1553455_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Group</td><td rowspan=\"2\">No.</td><td colspan=\"2\">Chronological Age</td><td colspan=\"2\">Non-Verbal Mentation (Ravens IQ)</td><td colspan=\"2\">Reading Age</td></tr><tr><td>M</td><td>SE</td><td>M</td><td>SE</td><td>M</td><td>SE</td></tr><tr><td>DD</td><td>17</td><td>11.7</td><td>0.4</td><td>95*</td><td>2</td><td>7.6**</td><td>0.3</td></tr><tr><td>CA</td><td>46</td><td>11.5</td><td>0.1</td><td>105</td><td>2</td><td>12.8</td><td>0.2</td></tr><tr><td>RA</td><td>16</td><td>8.1</td><td>0.1</td><td>106</td><td>3</td><td>8.5**</td><td>0.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1553455_table_1",
+   "page_num": 2,
+   "bbox": [
+    93.3,
+    744.5,
+    665.2,
+    863.3
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1553455_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Group</td><td rowspan=\"2\">No.</td><td colspan=\"2\">Chronological Age</td><td colspan=\"2\">Non-Verbal Mentation (Ravens IQ)</td><td colspan=\"2\">Reading age</td></tr><tr><td>M</td><td>SE</td><td>M</td><td>SE</td><td>M</td><td>SE</td></tr><tr><td>DD</td><td>17</td><td>11.7</td><td>0.4</td><td>95</td><td>2</td><td>7.6</td><td>0.3</td></tr><tr><td>CA[L]</td><td>16</td><td>11.4</td><td>0.2</td><td>93</td><td>1</td><td>12.3**</td><td>0.3</td></tr><tr><td>CA[H]</td><td>16</td><td>11.8</td><td>0.2</td><td>118**</td><td>1</td><td>13.4**</td><td>0.5</td></tr><tr><td>RA</td><td>16</td><td>8.1</td><td>0.1</td><td>106*</td><td>3</td><td>8.5</td><td>0.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1553455_table_2",
+   "page_num": 3,
+   "bbox": [
+    95.5,
+    130.1,
+    680.0,
+    236.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1553455_table_2.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">CA</td><td colspan=\"4\">RA</td></tr><tr><td></td><td>average</td><td>top</td><td>middle</td><td>bottom</td><td>average</td><td>Top</td><td>middle</td><td>bottom</td></tr><tr><td rowspan=\"2\">DD</td><td>Z = -1.1</td><td>Z = -0.3</td><td>Z = -1.5</td><td>Z = -0.6</td><td>Z = -1.5</td><td>Z = -1.6</td><td>Z = -0.9</td><td>Z = -1.0</td></tr><tr><td>p = .15</td><td>p = .38</td><td>p = .07</td><td>p = .29</td><td>p = .14</td><td>p = .10</td><td>p = .38</td><td>p = .34</td></tr><tr><td rowspan=\"2\">RA</td><td>Z = -2.8</td><td>Z = -2.3</td><td>Z = -2.8</td><td>Z = -1.7</td><td></td><td></td><td></td><td></td></tr><tr><td>p &lt; .01</td><td>p &lt; .01</td><td>p &lt; .01</td><td>p &lt; .05</td><td></td><td></td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC1553455_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    766.8,
+    644.2,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1553455_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Test</td><td colspan=\"2\">Group</td><td rowspan=\"2\">Direction of Difference*</td></tr><tr><td>DD</td><td>CA</td></tr><tr><td>Motion Coherence Detection</td><td>12.6</td><td>11.7</td><td>+</td></tr><tr><td>Apparent Motion 2Dot/4Dot Detection</td><td>5.7</td><td>7.2</td><td>+</td></tr><tr><td>Spatial Misalignment</td><td>1.2</td><td>1.7</td><td>+</td></tr><tr><td>Length Discrimination</td><td>0.6</td><td>0.4</td><td>+</td></tr><tr><td>Ball Tracking</td><td>6.8</td><td>7.1</td><td>+</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1553455_table_4",
+   "page_num": 5,
+   "bbox": [
+    75.7,
+    130.1,
+    680.0,
+    236.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1553455_table_4.png",
+   "html": "<table><tr><td></td><td colspan=\"4\">CA [low IQ]</td><td colspan=\"4\">CA [high IQ]</td></tr><tr><td></td><td>average</td><td>top</td><td>middle</td><td>bottom</td><td>average</td><td>top</td><td>middle</td><td>bottom</td></tr><tr><td rowspan=\"2\">DD</td><td>Z =-0.1</td><td>Z = -0.5</td><td>Z = -1.3</td><td>Z = -0.3</td><td>Z = -2.1</td><td>Z = -1.3</td><td>Z = -2.2</td><td>Z = -1.3</td></tr><tr><td>p = .96</td><td>p = .59</td><td>p = .22</td><td>p = .79</td><td>p &lt; .05</td><td>p = .11</td><td>p &lt; .05</td><td>p = .10</td></tr><tr><td rowspan=\"2\">CA [high IQ]</td><td>Z = -2.1</td><td>Z = -1.9</td><td>Z = -1.4</td><td>Z = -1.8</td><td></td><td></td><td></td><td></td></tr><tr><td>p &lt; .05</td><td>p &lt; .05</td><td>p = .08</td><td>p &lt; .05</td><td></td><td></td><td></td><td></td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_153",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    59,
+    580,
+    117
+   ],
+   "ocr": "In the fiscal year 2024, Rio Tinto's production cost breakdown indicates a total cost of $38,000 per tonne, with labor costs categorized as operational and material costs comprising both fixed and variable components. Specifically, labor costs amount to $15,000 per tonne, materials total $8,000 per tonne, and processing costs contribute $10,000 per tonne, while transport costs add $5,000 per tonne, leading to a total mining cost of $23,000 per tonne."
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    105,
+    580,
+    163
+   ],
+   "ocr": "The cost comparison reflects a 15% increase from the previous year, with a forecast indicating a 20% yearly change and a cost efficiency status rated as operational. The efficiency metrics show a maximum efficiency score of 85, with a very good yearly target set at 90, while the overall rating is satisfactory at 80."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    185.0,
+    580.0,
+    431.0
+   ],
+   "ocr": "CostBreakdown Status CostComponents Amount(HKD) Unit MiningCosts Status\nLaborCosts Operational MaterialCosts Fixed Variable TotalCosts ProcessingCosts Status Amount(HKD) Unit\nLabor Active 15,000 pertonne Materials Active 8,000 pertonne TotalMining Active\n23,000 pertonne Processing Active 10,000 pertonne TransportCosts Active 5,000 pertonne\nTotalCosts Active 38,000 pertonne CostComparison Status Percentage PreviousYear Active 15%\nForecast Active 20% YearlyChange Active 2% CostEfficiency Status Score Operational\nGood 85 MaxEfficiency VeryGood 90 YearlyTarget Set 80 OverallRating Satisfactory",
+   "table_id": "img_172133_t0"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    446.0,
+    580.0,
+    492.0
+   ],
+   "ocr": "In terms of water usage, the total water used across operational sites is 365,000 m³, with an intensity of 0.75 m³/ton and a total water cost of $900,000, costing $2.42 per m³, reflecting a 740,000 m³ annual change and a compliance rate of 100% across a total of three sites."
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    510.0,
+    580.0,
+    727.0
+   ],
+   "ocr": "WaterSource TotalWaterUsed WaterIntensity CostofWater WaterUsageMetrics\nSurfaceWater Groundwater RecycledWater TotalVolume(m³) Costperm³(HKD) TotalWaterCost\nOperationalSites WaterUsage(m³) WaterCost(HKD) Intensity(m³/ton) AnnualChange(%) ComplianceRate(%) TotalSites\nMineA 120,000 0.75 300,000 2.50 300,000 1,200,000\nMineB 95,000 0.80 250,000 2.00 190,000 760,000\nMineC 150,000 0.70 350,000 2.75 250,000 1,700,000\nTotal 365,000 0.75 900,000 2.42 740,000 2,660,000\nPreviousYear 350,000 0.80 800,000 2.50 600,000 2,300,000\nForecastYear 400,000 0.70 1,000,000 2.20 800,000 3,000,000",
+   "table_id": "img_172133_t1"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    742.0,
+    580.0,
+    773.0
+   ],
+   "ocr": "The previous year recorded 350,000 m³ of water usage, while the forecast year anticipates 400,000 m³, indicating a proactive approach to water management with a projected total cost of $1,000,000 at $2.20 per m³."
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_432",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    422.4,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Classification of Different Imaginary Movements within the Same Limb"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    440.9,
+    107.4
+   ],
+   "ocr": "Table 6. Performance of the 3-Class BCI."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    358.0
+   ],
+   "ocr": "Participant 3-Class Accuracy/%\nSimple Goal-Oriented\nP01 58.2±9.6 59.4±10.0\nP02 62.8±9.3 72.9±10.0\nP03 65.9±8.9 66.2±9.1\nP04 53.1±8.3 59.1±8.9\nP05 58.8±9.0 59.8±9.8\nP06 61.1±9.1 61.2±8.6\nP07 56.3±8.8 67.4±8.9\nP08 47.6±9.6 50.8±9.6\nP09 52.5±9.7 66.1±9.8\nP10 70.3±9.1 69.4±8.9\nP11 40.1±9.7 45.3±11.8\nP12 48.3±8.8 50.4±11.0\nMean 56.2±8.5 60.7±8.4",
+   "table_id": "PMC4382224_table_5"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    252.6,
+    370.7,
+    396.3,
+    404.9
+   ],
+   "ocr": "Performance of the 3-Class BCI. doi:10.1371/journal.pone.0121896.t006"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    450.5,
+    727.3,
+    898.4
+   ],
+   "ocr": "task and/or rest. In the following subsections, more details about our claims and results are provided. Multi-Class Classification The main aim of the present study is to investigate the possibility of detecting the motor imag- ery (MI) of different joint movements within the same limb as well as detecting MI from a rest state. To the best of our knowledge, this is one of the first study to distinguish both the imagi- nary grasp movements and imaginary elbow movements from resting states using EEG signals. Besides, we also investigate whether a goal-oriented motor imagery reaching task using elbow (a functional movement) produces EEG features that are more prominent when compared to a non-goal oriented motor imagery elbow flexion and extension. From Table 4, it has been demonstrated that the binary classifiers achieve an average classi- fication accuracy of 80.5%, 75.1%, and 76.6% for REST vs MI-GRASP, REST vs MI-ELBOW, and REST vs MI-ELBOW-GOAL respectively. These results are consistent with the perfor- mances reported in the literature [8, 9]. The classification of different MI from the same limb is more challenging. The best classification pair is MI-GRASP vs MI-ELBOW-GOAL with a clas- sification accuracy of 66.9% (Table 5). This performance is significantly better than the binary classification pair of MI-GRASP vs MI-ELBOW. The binary classification problem is then extended to a multi-class classification problem. For this 3-class classification problem, an average accuracy of 60.7% is achieved and all the par- ticipants have accuracies well above the random classification level of 33.3%. As expected, the classification accuracies are lower than those achieved by the binary classifiers. The deteriora- tion in the accuracy is caused by the difficulty in discriminating MI-GRASP from MI-ELBOW or MI-ELBOW-GOAL. It is challenging to discriminate the motor imagery of different move- ments within the same limb because these motor tasks activate regions that have very close rep- resentations on the motor cortex area of the brain [16, 17]. As the number of electrodes placed around the motor cortex area is sparse, we could expect better performance when denser"
+  },
+  "p5_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0121896 April 1, 2015 16 / 24"
+  }
+ }
+}

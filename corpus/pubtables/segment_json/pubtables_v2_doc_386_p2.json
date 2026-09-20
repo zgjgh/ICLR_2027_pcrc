@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_386",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    514.6,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Prokaryotic Glycosylated-Residue Prediction"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    392.7,
+    92.8
+   ],
+   "ocr": "Table 2. Experimentally characterized glycan linkages at known"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    396.5,
+    81.4,
+    563.3,
+    92.8
+   ],
+   "ocr": "glycosites of bacteria and archaea."
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    684.7,
+    428.5
+   ],
+   "ocr": "Sugar linkage Class Example glycoproteins\nN-LINKED GLYCANS/ARCHAEA\nGlc-Asn Halobacteria Flagellin, Slg\nbGalNAc- Asn, Halobacteria, Methanococci, Methanobacteria Thermoprotei Flagellin, Slg, Cytochrome subunit\nN-LINKED GLYCANS/BACTERIA\nBac-Asn Epsilonproteobacteria AcrA, PEB3, CgpA, HisJ, ZnuA, jlpA etc.\nGlcNAc-Asn Deltaproteobacteria HmcA\nHexose-Asn, dihexose-Asn, Glu-Asn, Gammaproteobacteria Adhesins\nGal-Asn\nO-LINKED GLYCANS/BACTERIA\nMan-Ser/Thr Actinobacteria, Flavobacteria, Sphingobacteria Glycosidases, Cell surface lipoproteins,\nSecreted antigens, Superoxide dismutase, Heparinase,\nChondroitinase etc.\nFucose Bacteroidia Putative cell division proteins, exported proteins, outer\nmembrane proteins etc.\nb-GalNAc-Ser/Thr Bacilli Slg\nb-D-Gal-Ser/Thr Bacilli Slg, SgsE, SgtA etc.\nb-GlcNAc-Ser/Thr, HexNAc Bacilli Glycocin F, Flagellin\nBac/DATDH-Ser Betaproteobacteria Pilin, CcoP, CycB etc.\nFucNAc-Ser Gammaproteobacteria Pilin\nRha-Ser/Thr, Deoxyhexose-Ser Gammaproteobacteria Flagellin",
+   "table_id": "PMC3392279_table_1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    441.8,
+    387.1,
+    923.0
+   ],
+   "ocr": "Footnotes: Detailed information about attached glycan and glycoproteins can be doi:10.1371/journal.pone.0040155.t002 Further, within these glycoproteins, at least 30 N-linked and 40 O- linked glycoproteins have less than 40% sequence similarity to each other as deduced from CD-HIT v 4.0 available at http:// www.bioinformatics.org/cd-hit/. From the primary dataset, 59 glycoproteins (16 archaeal and 43 bacterial) with higher number of characterized glycosites were hand- picked to form main datasets whereas remaining 27 (5 archaeal and 22 bacterial) glycoproteins were used as independent datasets of N and O glycosites, separately. Main datasets. The Main datasets represent the training datasets employed in profile generation and later machine learning. The datasets contain 28 N-linked (overall sequence similarity less than 70%) and 31 O-linked (overall sequence similarity less than 90%) glycoproteins from prokaryotes. Using CD-HIT it has been deduced that in the main datasets, at least 23 N-linked and 26 O-linked glycoproteins have less than 40% sequence similarity to each other. From this set of glycoproteins, all N-and O-glycosites were retrieved and segregated in to separate datasets. All probable or predicted glycosites were excluded. Finally, the main datasets contained well-annotated unambiguous 107 N-linked and 116 O-linked glycosites derived from 59 experimentally validated prokaryotic glycoproteins. The O-linked glycosites (116) exclusively consisted of bacterial glycosites for unavailability of experimentally validated archaeal O-glycosite(s) [6]. To our knowledge, these are the most extensive datasets of experimentally validated prokaryotic glycosites (and glycopro- teins), employed to develop first glycosite prediction models trained on and for prokaryotic protein sequences. These datasets are further divided in to two subgroups as follows. Balanced datasets derived from randomly selecting all positive instances (positive training datasets) and equal number of negative instances (negative training datasets) across the protein lengths. Balanced datasets are useful in accelerating the machine"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    390.1,
+    441.8,
+    530.9,
+    450.6
+   ],
+   "ocr": "obtained from www.proglycprot.org)."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    480.1,
+    700.8,
+    925.0
+   ],
+   "ocr": "learning and in avoiding biases in machine learning that are common in case of realistic dataset. Realistic datasets contained all glycosylated/positive (107 N- linked & 116 O-linked) and all non-glycosylated/negative (995 N- linked & 2018 O-linked) sites from glycoprotein sequences. Performance of SVM on realistic (unbalanced) datasets could provide more confidence in predictions from real-time data where usually the non-glycosylated residues are much more than the glycosylated ones in a protein sequence. Independent datasets. The independent balanced datasets of 28 (10 N-linked & 17 O-linked) glycoproteins with experimen- tally validated 19 N-glycosites and 61 O-glycosites (with equivalent numbers of non-glycosylated sites) were used as test datasets in this study for evaluating the models trained on main datasets. Within these at least 7 N-linked and 14 O-linked glycoproteins show less than 40% sequence similarity to each other. Pattern Generation and Feature Calculations Various overlapping symmetrical sequence patterns of resi- dues length 21 that included central glycosylated residues were constructed according to previous studies [14,15]. A sequence pattern was considered positive if central residue was glycosy- lated otherwise the same was assigned as a negative pattern. To generate a pattern corresponding to the terminal residues in a protein sequence of length L, dummy residues ‘‘X’’ in number (L-1)/2 were added at both the termini of the protein [29,30]. Binary profile of patterns (BPP). Fixed length of 21 residues in sequence patterns was converted into binary form according to the existing study [30]. Each residue of patterns was represented by a vector of dimension 21 (e.g. Ala by 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0; Cys by 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0), which contained 20 ami- no acids and one dummy amino acid ‘‘X’’."
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p2_b8": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "3 July 2012 | Volume 7 | Issue 7 | e40155"
+  }
+ }
+}

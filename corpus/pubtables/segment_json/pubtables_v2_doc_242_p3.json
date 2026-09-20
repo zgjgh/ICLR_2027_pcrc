@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_242",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    337.3,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Evaluation and optimization of the hydropower system operation in the Upper Yellow River"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    97.5,
+    478.8,
+    107.6
+   ],
+   "ocr": "Table 3. Annual runoff and its hydrologic frequency during 2000–2010 at the Tangnaihai gauge station."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    59.8,
+    116.3,
+    708.5,
+    193.8
+   ],
+   "ocr": "Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009\n-2001 -2002 -2003 -2004 -2005 -2006 -2007 -2008 -2009 -2010\nRunoff 146.2 130.7 97.1 176.2 167.2 245.4 151.0 173.0 204.3 251.3\n(108 m3)\nFrequency 86 92 99 67 71 22 82 66 45 19\n(%)",
+   "table_id": "PMC5784971_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    202.2,
+    726.1,
+    269.9
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0191483.t003 N(t) (i 1,� � �,n) where is the vector of outputs produced from hydropower plants at reservoirs = �,Nn(t)]T,"
+  },
+  "p3_b4": {
+   "type": "title",
+   "bbox": [
+    337.9,
+    245.9,
+    551.3,
+    269.9
+   ],
+   "ocr": "t, N(t) Nmin(t) [N1(t),� � �,Ni(t)� �"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    248.4,
+    727.2,
+    278.8
+   ],
+   "ocr": "during time step = is the vector of minimum required (i Nmax(t)"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    503.9,
+    262.6,
+    636.0,
+    286.3
+   ],
+   "ocr": "�,n) t, 1,� �"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    264.8,
+    709.2,
+    295.2
+   ],
+   "ocr": "outputs from hydropower plants at reservoirs = during time step and is (i"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    674.4,
+    279.1,
+    711.5,
+    302.8
+   ],
+   "ocr": "1,� � �,n)"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    281.2,
+    727.0,
+    898.4
+   ],
+   "ocr": "the vector of maximum allowable outputs from hydropower plants at reservoirs = during time period t. Note that releases are decision variables. The other state variables can be calculated once the decision variables are determined. The inflows, the initial and final conditions, as well as the limitations on reservoir operation are the known input data in the optimization. Case study The inflows over a recent 10-year period that extends from July 2000 to June 2010 are used as inputs to the formulated model. The time period is divided into 360 time steps (each of which has a length of approximately 10 days). The annual runoff and its hydrologic frequency during 2000–2010 at the Tangnaihai gauge station are shown in Table 3, where the hydrologic year is used (e.g. 2000–2001 represents July 2000-June 2001). In practice, the water supply require- ment downstream of the LJX reservoir cannot be adequately met during dry years. Therefore, it is assumed that the releases from the LJX reservoir can reach 80% of the required values dur- ing the water supply seasons for the years when the hydrologic frequencies are above 80% (i.e. 2000–2001, 2001–2002, 2002–2003, and 2006–2007). For analysis, three typical hydrologic years, including a dry year (2004–2005), a normal year (2008–2009) and a wet year (2005– 2006), are selected. These hydrologic years correspond to the hydrologic frequencies of 71%, 45% and 22% in the historical record (1960–2010), respectively. The simulation is performed first, followed by the optimization. For both the simulation and optimization, the models are same, except that the releases from the reservoirs are known in the simulations and are to be optimized in the optimizations. The LYX and LJX reservoirs are operated as storage reservoirs, whereas the other reservoirs are treated as run-of-river hydropower plants due to their small regulation capacities. The initial and final reservoir stor- age values are same as the observed values; that is, the total water amounts released from the reservoirs are same as the observed values. All computations were performed on a MacBook Pro containing an Intel (R) Core (TM) i7- 3520 M CPU with 2.90 GHz and 8.00 GB of RAM. Results and discussion Simulation During 2000–2010, the LYX and LJX reservoirs were in operation, and each reservoir collected a complete set of data. The actual releases from LYX and LJX reservoirs are known, and the releases from other reservoirs can be determined by computation accordingly. For instance, the releases from the BD reservoir (the most upstream reservoir in the system) are equal to the inflows to the reservoir; the releases from the LXW reservoir, directly downstream of the LYX"
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0191483 January 25, 2018 14 / 25"
+  }
+ }
+}

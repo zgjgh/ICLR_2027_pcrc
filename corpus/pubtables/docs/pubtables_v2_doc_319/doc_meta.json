@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_319",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    774,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    774,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2848564_table_0",
+   "page_num": 1,
+   "bbox": [
+    81.0,
+    760.6,
+    363.9,
+    851.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2848564_table_0.png",
+   "html": "<table><tr><td>Direction</td><td>Nr</td><td>Lower bound (Hz)</td><td>Upper bound (Hz)</td><td>Tone (Hz)</td></tr><tr><td>Left</td><td>7</td><td>320</td><td>2500</td><td>440 (a)</td></tr><tr><td>Front-left</td><td>8</td><td>416</td><td>3250</td><td>494 (b)</td></tr><tr><td>Front</td><td>1</td><td>540</td><td>4225</td><td>554 (cis)</td></tr><tr><td>Front-right</td><td>2</td><td>703</td><td>5493</td><td>622 (dis)</td></tr><tr><td>Right</td><td>3</td><td>914</td><td>7140</td><td>699 (f)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2848564_table_1",
+   "page_num": 2,
+   "bbox": [
+    405.9,
+    666.1,
+    684.8,
+    851.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2848564_table_1.png",
+   "html": "<table><tr><td>Subject</td><td>C1000</td><td>C300</td><td>C175</td><td>C300s</td></tr><tr><td>VPiz</td><td>1497 (58.48)</td><td>- -</td><td>- -</td><td>- -</td></tr><tr><td>VPip</td><td>276 (10.78)</td><td>- -</td><td>- -</td><td>- -</td></tr><tr><td>VPig</td><td>152 (5.94)</td><td>- -</td><td>- -</td><td>- -</td></tr><tr><td>VPjf</td><td>624 (24.38)</td><td>- -</td><td>- -</td><td>- -</td></tr><tr><td>VPjb</td><td>525 (20.51)</td><td>- -</td><td>- -</td><td>- -</td></tr><tr><td>VPja</td><td>160 (6.25)</td><td>242 (6.45)</td><td>205 (6.83)</td><td>125 (8.33)</td></tr><tr><td>VPzq</td><td>340 (13.28)</td><td>184 (4.91)</td><td>107 (3.57)</td><td>104 (6.93)</td></tr><tr><td>VPkh</td><td>- -</td><td>1104 (29.44)</td><td>1037 (34.57)</td><td>302 (20.13)</td></tr><tr><td>VPkj</td><td>- -</td><td>113 (3.01)</td><td>42 (1.40)</td><td>71 (4.73)</td></tr><tr><td>VPjq</td><td>- -</td><td>211 (5.63)</td><td>87 (2.90)</td><td>42 (2.80)</td></tr><tr><td>Average</td><td>510.6 (19.94)</td><td>370.8 (9.89)</td><td>295.6 (9.85)</td><td>128.8 (8.59)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2848564_table_2",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    121.8,
+    351.7,
+    270.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2848564_table_2.png",
+   "html": "<table><tr><td>Subject</td><td>Peak latency (ms)</td><td>Peak amplitude (mV)</td><td>Channel</td></tr><tr><td>VPja</td><td>385</td><td>11.56</td><td>Pz</td></tr><tr><td>VPiz</td><td>411</td><td>8.68</td><td>Pz</td></tr><tr><td>VPip</td><td>454</td><td>8.14</td><td>PO1</td></tr><tr><td>VPzq</td><td>418</td><td>12.48</td><td>PCP1</td></tr><tr><td>VPig</td><td>564</td><td>4.53</td><td>P01</td></tr><tr><td>VPjf</td><td>415</td><td>10.02</td><td>CCP8</td></tr><tr><td>VPjb</td><td>459</td><td>12.02</td><td>PO2</td></tr><tr><td>Average</td><td>443.71</td><td>9.63</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2848564_table_3",
+   "page_num": 3,
+   "bbox": [
+    81.0,
+    712.7,
+    359.7,
+    850.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2848564_table_3.png",
+   "html": "<table><tr><td>Subject</td><td>RT [ms]</td><td>Hits</td><td>False alarms</td><td>Misses</td><td>Error</td></tr><tr><td>VPja</td><td>456 (128)</td><td>72</td><td>3</td><td>0</td><td>4%</td></tr><tr><td>VPiz</td><td>479 (148)</td><td>71</td><td>0</td><td>1</td><td>1.4%</td></tr><tr><td>VPip</td><td>507 (174)</td><td>72</td><td>1</td><td>0</td><td>1.4%</td></tr><tr><td>VPzq</td><td>360 (82)</td><td>71</td><td>5</td><td>1</td><td>7.8%</td></tr><tr><td>VPig</td><td>612 (219)</td><td>88</td><td>17</td><td>8</td><td>22.1%</td></tr><tr><td>VPjf</td><td>360 (131)</td><td>96</td><td>4</td><td>0</td><td>4%</td></tr><tr><td>VPjb</td><td>450 (113)</td><td>95</td><td>3</td><td>1</td><td>4%</td></tr><tr><td>Average</td><td>460.6 (142.1)</td><td>-</td><td>-</td><td>-</td><td>6.4%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2848564_table_4",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    121.8,
+    364.5,
+    215.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2848564_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Subject</td><td rowspan=\"2\">Exp</td><td colspan=\"8\">Speaker location</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>VPzq</td><td>Phys.</td><td>-</td><td>-</td><td>-</td><td>60.8</td><td>60.2</td><td>59.7</td><td>-</td><td>-</td></tr><tr><td>VPig</td><td>Phys.</td><td>61.4</td><td>61.1</td><td>61.2</td><td>60.1</td><td>60.2</td><td>60.1</td><td>61.2</td><td>60.4</td></tr><tr><td>VPkj</td><td>BCI</td><td>-</td><td>56.9</td><td>56.2</td><td>x</td><td>x</td><td>X</td><td>-</td><td>-</td></tr><tr><td>VPzq</td><td>BCI</td><td>63.4</td><td>63.8</td><td>62.9</td><td>x</td><td>x</td><td>X</td><td>63.7</td><td>63.2</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2848564_table_5",
+   "page_num": 4,
+   "bbox": [
+    81.0,
+    696.9,
+    359.7,
+    850.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2848564_table_5.png",
+   "html": "<table><tr><td>Direction</td><td>RT [ms]</td><td>Hits</td><td>False alarms</td><td>Misses</td><td>Error</td></tr><tr><td>Front</td><td>483 (168)</td><td>67</td><td>8</td><td>1</td><td>11.8%</td></tr><tr><td>Front-right</td><td>414 (121)</td><td>40</td><td>1</td><td>4</td><td>11.1%</td></tr><tr><td>Right</td><td>431 (126)</td><td>84</td><td>3</td><td>0</td><td>3.5%</td></tr><tr><td>Back-right</td><td>552 (211)</td><td>83</td><td>10</td><td>1</td><td>11.7%</td></tr><tr><td>Back</td><td>518 (242)</td><td>57</td><td>1</td><td>3</td><td>6.6%</td></tr><tr><td>Back-left</td><td>499 (184)</td><td>51</td><td>4</td><td>1</td><td>8.9%</td></tr><tr><td>Left</td><td>408 (100)</td><td>108</td><td>5</td><td>0</td><td>4.4%</td></tr><tr><td>Front-left</td><td>403 (121)</td><td>75</td><td>1</td><td>1</td><td>2.6%</td></tr><tr><td>Average</td><td>463.5 (159.1)</td><td>-</td><td>-</td><td>-</td><td>7.6%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2848564_table_6",
+   "page_num": 5,
+   "bbox": [
+    81.0,
+    121.8,
+    672.7,
+    464.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2848564_table_6.png",
+   "html": "<table><tr><td>Subject</td><td>Classification [%]</td><td>Target score [%]</td><td>Selection [%]</td><td>70% Thresh.</td><td>Max. ITR 70%</td><td>Max. ITR 90%</td></tr><tr><td>VPja</td><td>69.81</td><td>62.12</td><td>90.00 (15)</td><td>6</td><td>6.86 (7)</td><td>4.41 (15)</td></tr><tr><td>VPkh</td><td>74.27</td><td>69.02</td><td>90.00 (15)</td><td>8</td><td>4.78 (13)</td><td>4.41 (15)</td></tr><tr><td>VPkj</td><td>73.19</td><td>68.08</td><td>94.00 (11)</td><td>4</td><td>9.60 (5)</td><td>6.81 (11)</td></tr><tr><td>VPzq</td><td>78.74</td><td>74.89</td><td>100.00 (12)</td><td>2</td><td>19.50 (2)</td><td>11.02 (6)</td></tr><tr><td>VPjq</td><td>74.54</td><td>69.10</td><td>94.00 (12)</td><td>5</td><td>7.25 (5)</td><td>6.25 (12)</td></tr><tr><td rowspan=\"2\">Mean</td><td>74.11</td><td>68.64</td><td>93.60 (13.0)</td><td>5.0</td><td>9.60 (6.4)</td><td>6.58 (11.8)</td></tr><tr><td></td><td></td><td>a) C300</td><td></td><td></td><td></td></tr><tr><td>VPja</td><td>72.20</td><td>63.00</td><td>92.50 (12)</td><td>4</td><td>14.41 (4)</td><td>10.21 (12)</td></tr><tr><td>VPkh</td><td>68.83</td><td>61.39</td><td>82.50 (13)</td><td>10</td><td>6.87 (13)</td><td>- (-)</td></tr><tr><td>VPkj</td><td>77.48</td><td>71.67</td><td>97.50 (7)</td><td>3</td><td>25.20 (3)</td><td>20.60 (7)</td></tr><tr><td>VPzq</td><td>79.89</td><td>75.22</td><td>100.00 (12)</td><td>3</td><td>19.36 (5)</td><td>17.51 (7)</td></tr><tr><td>VPjq</td><td>75.66</td><td>72.56</td><td>97.50 (14)</td><td>3</td><td>21.10 (3)</td><td>15.32 (8)</td></tr><tr><td rowspan=\"2\">Mean</td><td>74.81</td><td>68.76</td><td>94.00 (11.6)</td><td>4.6</td><td>17.39 (5.6)</td><td>15.91 (8.5)</td></tr><tr><td></td><td></td><td>b) C175</td><td></td><td></td><td></td></tr><tr><td>VPja</td><td>57.96</td><td>34.66</td><td>40.00 (11)</td><td>-</td><td>- (-)</td><td>- (-)</td></tr><tr><td>VPkh</td><td>63.35</td><td>47.11</td><td>65.00 (13)</td><td>-</td><td>- (-)</td><td>- (-)</td></tr><tr><td>VPkj</td><td>60.32</td><td>41.26</td><td>35.00 (3)</td><td>-</td><td>- (-)</td><td>- (-)</td></tr><tr><td>VPzq</td><td>72.20</td><td>59.79</td><td>90.00 (15)</td><td>6</td><td>5.60 (6)</td><td>4.41 (15)</td></tr><tr><td>VPjq</td><td>62.75</td><td>42.12</td><td>50.00 (12)</td><td>-</td><td>- (-)</td><td>- (-)</td></tr><tr><td rowspan=\"2\">Mean</td><td>63.32</td><td>44.99</td><td>56.00 (10.8)</td><td>6.0</td><td>5.60 (6.0)</td><td>4.41 (15.0)</td></tr><tr><td></td><td></td><td>c) C300s</td><td></td><td></td><td></td></tr></table>"
+  }
+ ]
+}

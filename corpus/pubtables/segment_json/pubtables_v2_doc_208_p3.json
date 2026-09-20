@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_208",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    477.7,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Impact of Chaos Functions on Modern Swarm Optimizers"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    454.0,
+    107.4
+   ],
+   "ocr": "Table 3. Parameter setting for experiments."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    291.2,
+    114.2,
+    683.9,
+    268.8
+   ],
+   "ocr": "Parameter Value(s)\nNo. of search agents 8\nNo. of iterations 100\nProblem dimension No. of features in the data\nSearch domain [0 1]\nNo. Repetitions of runs 20\nα parameter in the ﬁtness function [0.9, 0.99]\nβ parameter in the ﬁtness function 1—[0.9, 0.99]\ninertia factor of PSO 0.1\nan individual-best acceleration factor of PSO 0.1",
+   "table_id": "PMC4943604_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    276.2,
+    393.3,
+    287.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0158738.t003"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    322.0,
+    727.3,
+    581.2
+   ],
+   "ocr": "• Classification performance: is a marker characterizes the classifier given the selected feature set and can be detailed as in the Eq (28). X X M N MatchðCi; LiÞ; Performance ¼ ð28Þ M N j¼1 i¼1 where M is the number of times to run the optimization algorithm to choose the feature sub- set, N is the number of samples in the test set, Ci is the classiﬁer label for data sample i, Li is the reference class label for data sample i, and Match is a function that yields 1 when the two input labels are the same and produces 0 when they are distinctive. • Mean fitness: is the average of solutions obtained from running an optimization algorithm for various M running that can be given in Eq (29). X M Mean gi ¼ �; ð29Þ M i¼1"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    610.1,
+    724.7,
+    741.4
+   ],
+   "ocr": "• Standard deviation (std) fitness: is a representation for the variety of the acquired best solu- tions found for running a stochastic optimizer for M different times. Std is employed as a pointer for the optimizer stability and robustness, though std is smaller this implies that the optimizer always converges to the same solution; while bigger values for std mean many ran- dom results as in the Eq (30). r ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    397.5,
+    701.7,
+    727.3,
+    748.7
+   ],
+   "ocr": "X ð30Þ ðgi MeanÞ Std ¼ � ; M � �"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    722.5,
+    717.1,
+    863.1
+   ],
+   "ocr": "1 where Mean is the average characterized as in the Eq (29). • Selection features size: demonstrates the mean size of the selected features to the aggregate number of features as in the Eq (31). X"
+  },
+  "p3_b8": {
+   "type": "title",
+   "bbox": [
+    415.5,
+    816.7,
+    727.3,
+    849.9
+   ],
+   "ocr": "M sizeðgi �Þ Selection ¼ ð31Þ ; M D"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    262.4,
+    844.4,
+    709.6,
+    898.4
+   ],
+   "ocr": "i¼1 where size(x) is the number of values for the vector x, and D is the number of selected fea- tures in data set."
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0158738 July 13, 2016 14 / 26"
+  }
+ }
+}

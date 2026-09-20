@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_197",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    615.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Gene Centric Methylation"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    705.6,
+    107.4
+   ],
+   "ocr": "Table 4. Functional clusters of genes with MCC > 0.6 with upstream probes selected by 1NN-SFS algorithm on the breast cancer cell line data."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    724.3,
+    468.9
+   ],
+   "ocr": "Cluster Number of Enrichment Most signiﬁcant terms (p-val) Other representative terms (p-val) and notes\nNumber genes\n1 40 4.39 Atp-binding (4.4E-45), Nucleotide-binding (4.6E-38), Helicase (4E-12), kinase (5.8E-6), protein kinase\nadenyl ribonucleotide binding (1.7E-37) activity (3.7E-4)\n2 4 3.67 Repeat:ANK 1 (1.7E-6), Repeat:ANK 2 (1.8E-6), Ankyrin Genes coding for ankyrin proteins\n(2.9E-6)\n3 45 3.46 Kinase (1.8E-56), Protein Kinase–ATP binding site Phosphorylation (1.7E-51), transferase (1.1E-47),\n(2.0E-56), domain: protein kinase (2.1E-53) nucleotide binding (2.1E-34)\n4 13 3.42 Microtubule cytoskeleton (9.6E-15), cytoskeleton (9.1E- Centrosome (2.3E-8), genes involved in regulation\n14), cytoskeletal part (4.1E-12) of cell motility\n7 4 2.91 binding site:S-adenosyl-L-methionine (1.8E-8), s- Genes coding for methyltransferases\nadenosyl-l-methionine (1.5E-7), methyltransferase (4.3E-\n7)\n8 5 2.83 Microﬁlament motor activity (22.0E-12), actin ﬁlament- Genes coding for myosin proteins\nbased movement (6.3E-12), domain:Myosin head-like\n(9.4E-12)\n9 6 2.66 Anti-apoptosis (7.8E-12), negative reglation of apoptosis Genes predominately related to BCL2 (BAG3,\n(1.2E-8), negative regulation of programmed cell death BAG4, BCL2A1, BL210). Also includes MCL1 and\n(1.3E-8) TNFRSF10D\n10 16 2.54 Nucleotide phosphate-binding region:GTP (4.7E-28), Genes predominately related to the RAS\ngtp-binding (2.3E-27), Ras (2.7E-16) oncogene family\n13 59 2.29 Transcription regulator activity (2.7E-50), transcription Sequence speciﬁc DNA-binding (3.1E-29),\nregulation (2.2E-47), regulation of transcription, DNA repressor (6.0E-22)\ndependent (2.2E-47)\n19 10 1.72 Ribosomal protein (6.7E-19), structural constituent of Genes coding for ribosomal proteins\nribosome (8.2E-18), cytostolic ribosome (1.6E-17)",
+   "table_id": "PMC4752315_table_3"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    477.0,
+    726.9,
+    683.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t004 We performed the same GO-term analysis for luminal A data that we performed in the cell line data. We chose 1,823 and 1,407 genes that were predicted with an MCC > 0.6 and MCC < 0.2, respectively. 534 of the genes with MCC > 0.6 in the TCGA data overlapped with the genes with MCC > 0.6 in the cell line data (hypergeometric p-value < 2.01 e-41). Table 6 shows only the top 30 GO terms for genes with high MCC and Table 7 shows all of the GO terms for genes with low MCC. Similar to our previous result for the cell line data, we found that genes that predicted well were again enriched in GO-terms related to the regulation of var- ious biological processes while genes that were predicted poorly were not. We note here that the poorly-predicted genes had GO-terms involved in the detection of a chemical stimulus and Table 5. Functional clusters of genes with MCC > 0.6 with gene body probes selected by 1NN-SFS algorithm on the breast cancer cell line data."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    692.5,
+    724.5,
+    898.2
+   ],
+   "ocr": "Cluster Number of Enrichment Most signiﬁcant terms (p-val) Other representative terms (p-val)\nNumber genes and notes\n1 48 2.84 Atp-binding (1.1E-51), Nucleotide-binding (6.5E-47), adenyl phosphorylation (4.8E-33), kinase\nribonucleotide binding (4.2E-45) (7.6E-40), transferase(1.9E-29)\n2 12 2.36 Nucleolus (1.2E-14), nuclear lumen (3.9E-11), intracellular organelle\nlumen (3.7E-10)\n3 11 2.06 Transcription regulation (1.6E-10), transcription(2.1E-10), regulation\nof transcription (6.8E-8)\n4 9 1.83 Ribosomal protein (7.2E-17), ribonucleoprotein (1.8E-15), ribosome RNA binding (2.8E-4)\n(5.6E-15)\n8 6 1.39 Negative regulation of ubiquitin-protein ligase activity during mitotic Genes coding for proteasomes and\ncell cycles (2.2E-12), negative regulation of ubiquitin-ligaase activity ubiquitin\n(2.6E-12)\n9 66 1.38 Regulation of transcription (1.1E-34), transcription (2.4E-24),\ntranscription regulation (5.0E-32)",
+   "table_id": "PMC4752315_table_4"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    906.3,
+    186.2,
+    917.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t005"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0148977 February 12, 2016 13 / 19"
+  }
+ }
+}

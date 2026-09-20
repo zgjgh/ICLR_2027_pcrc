@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_009",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    425.1,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Altered Vision-Related RS Activity in PA Patients with Visual Damage"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    393.0,
+    726.4,
+    822.4
+   ],
+   "ocr": "Fig 1. Definition of 6 seed ROIs. (a) Right MT+ (red), right BA17 (light yellow), right BA18 (dark yellow). (b) Left MT+ (red), left BA17 (light yellow), left BA18 (dark yellow). doi:10.1371/journal.pone.0160119.g001 improve data normality, the individual FC maps were transformed to z-maps using Fisher’s z- transformation. The z-values were entered into a voxel-wise two-sample t-test to determine the brain regions that exhibited significant differences in correlation between the two groups with the separate seed regions. The AlphaSim method, which has been implemented in REST, was used to correct for multiple comparisons. The corrected value of p < 0.05 (uncorrected p < 0.001 and a minimum of 60 voxels in a cluster) was used as the threshold. Results Studied population. The clinical and demographic data are summarized in Table 1. Twenty-five pituitary tumor patients with related visual damage and 25 age- and sex- matched HCs were enrolled. In total, 29 patients and 32 HCs were recruited. We excluded 4 patients and 7 controls because of head motion or the lack of sufficient data after scrubbing. Ophthalmologic evaluation. The detailed results of the neuro-ophthalmologic evaluations are reported in Table 2. The ophthalmological examinations demonstrated that the corrected visual acuity was below 1.0 or the visual field defect was greater than 50% at least unilaterally in all patients. RS-fMRI analysis ReHo analysis. Compared with the HCs, the PAs exhibited a reduced ReHo in the bilat- eral V1, V2, V3, fusiform, MT+, BA37, thalamus, postcentral gyrus and left precentral gyrus; Table 1. Study population characteristics."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    829.3,
+    687.0,
+    873.4
+   ],
+   "ocr": "NO. F/M Mean age, years (range) Mean education, years (range) Mean MMSE, Range\nHCs 25 10/15 39.88 (18–60) 14.24 (9–22) 28.5\nPatients 25 10/15 39.96 (18–60) 12.32 (9–19) 27.8",
+   "table_id": "PMC4981336_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    880.8,
+    185.7,
+    892.2
+   ],
+   "ocr": "doi:10.1371/journal.pone.0160119.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0160119 August 11, 2016 5 / 23"
+  }
+ }
+}

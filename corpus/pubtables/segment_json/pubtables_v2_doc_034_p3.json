@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_034",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    196.3,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2007, 7:109"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.4,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/7/109"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    386.4,
+    118.9
+   ],
+   "ocr": "Table 3: The most significantly altered pathways in melanoma cells."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    694.8,
+    567.8
+   ],
+   "ocr": "Pathway ID Description KEGG Category/Description* # genes # up-regulated # down-regulated p-value\ngenes genes\nup-regulated\n230 Purine metabolism Nucleotide Metabolism 119 11 23 4.37E-05\n440 Aminophosphonate Metabolism of Other Amino 12 0 6 0.000153\nmetabolism Acids\n626 Nitrobenzene degradation Biodegradation of 11 0 5 0.00098\nXenobiotics\n363 Bisphenol A degradation Biodegradation of 16 0 6 0.00101\nXenobiotics\n350 Tyrosine metabolism Amino Acid Metabolism 44 6 10 0.00196\n450 Selenoamino acid Metabolism of Other Amino 20 0 6 0.00370\nmetabolism Acids\n52 Galactose metabolism Carbohydrate Metabolism 27 2 7 0.00429\n4540 Gap junction Cell Communication 85 4 14 0.00670\n340 Histidine metabolism Amino Acid Metabolism 31 1 7 0.00964\n4110 Cell cycle Growth and Death 98 2 15 0.01009\nDown-regulated\n190 Oxidative phosphorylation Energy Metabolism 128 46 8 2.95E-27\n193 ATP synthesis Energy Metabolism 42 14 4 2.68E-08\n720 Reductive carboxylate cycle Energy Metabolism 10 6 0 5.25E-06\n20 Citrate cycle (TCA cycle) Carbohydrate Metabolism 26 9 2 6.56E-06\n620 Pyruvate metabolism Carbohydrate Metabolism 35 8 5 0.00057\n240 Pyrimidine metabolism Nucleotide Metabolism 72 12 12 0.00057\n660 C5-branched dibasic acid Carbohydrate Metabolism 2 2 0 0.00319\nmetabolism\n480 Glutathione metabolism Metabolism of Other Amino 37 7 1 0.00400\nAcids/Neutralization of ROS*\n280 Valine, leucine and isoleucine Amino Acid Metabolism 39 7 6 0.00543\ndegradation",
+   "table_id": "PMC1929113_table_2"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    359.9,
+    583.1,
+    672.3,
+    595.9
+   ],
+   "ocr": "significantly altered pathways (p ≤ 0.005) after being validated with manual"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    584.0,
+    372.6,
+    768.6
+   ],
+   "ocr": "Pathways with p-values around 0.010 or lower are listed. The most curation are shown in bold. see Methods section), making it difficult to draw a conclu- sion. Thus, a total of 5 pathways were characterized as the most significantly downregulated pathways. The top 4 of these pathways were oxidative phosphoryla- tion (biosynthesis of ETC components), ATP synthesis (biosynthesis of ATPase subunits), TCA cycle, and pyru- vate metabolism (Figure 4), all of which take place in the Table 4: Expression levels of galactose-glucose interconversion"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    365.8,
+    626.4,
+    698.3,
+    768.6
+   ],
+   "ocr": "mitochondria and are directly or indirectly involved in ATP production through ETC. Cytochrome C (a compo- nent of oxidative phosphorylation) decreased 2.6 folds. Two of the most striking observations of the pyruvate pathway were: 1) Universal downregulation of all enzymes that convert pyruvate to Acetyl-CoA, including a 5-fold decrease for pyruvate dehydrogenase (Pdhb), a 6.8- fold decrease for dihydrolipoamide dehydrogenase (Dld), pathway genes."
+  },
+  "p3_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    779.8,
+    694.8,
+    898.3
+   ],
+   "ocr": "PET counts (cpm)\nSubstrates/Products Products/Substrates Enzyme Gene name Melan-a2 B16F1\nmelanocytes melanoma cells\ngalactose galactose 1-P galactokinase Galk1 0 154\ngalactose 1-P + UDP-glucose UDP-galactose + glucose1-P galactose 1-P uridyl transferase Galt 45 33\nUDP-galactose UDP-glucose UDP-galactose-4-epimerase Gale 0 33\nglucose 1-P UDP-glucose UDP-glucose pyrophosphorylase2 Ugp2 284 863",
+   "table_id": "PMC1929113_table_3"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    914.6,
+    371.6,
+    926.4
+   ],
+   "ocr": "Enzymes of galactose-glucose interconversion pathway were extracted"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    374.5,
+    914.6,
+    558.0,
+    926.4
+   ],
+   "ocr": "from KEGG galactose metabolism pathway."
+  },
+  "p3_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 10 of 21 (page number not for citation purposes)"
+  }
+ }
+}

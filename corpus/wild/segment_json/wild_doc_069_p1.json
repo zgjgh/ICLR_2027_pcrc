@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_069",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    50,
+    565,
+    91
+   ],
+   "ocr": "The following data table provides a comprehensive overview of the relationship between various activities and their associated genetic and phenotypic characteristics related to specific diseases. Notably, the metrics \"Disease prevalence\" and \"Age of onset\" are critical in understanding the implications of the findings presented."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    80,
+    565,
+    121
+   ],
+   "ocr": "For instance, the table indicates that the disease prevalence associated with the activity of lipoprotein lipase (LPL) is approximately 1 in 1 million cases, with a striking majority of reported cases occurring in infancy or childhood."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    138.0,
+    565.0,
+    285.0
+   ],
+   "ocr": "Performance QRS Detection Error No. (Avg ± std) QRS Amplitude Ratio (Avg ± std) QRS Cross Correlation (Avg ± std) QRS Detection Delay No. (Avg ± std)\nActivity\nSitting 0.825 ± 0.836 0.987 ± 0.154 0.928 ± 0.137 0.687 ± 0.704\nSit-to-Stand 0.259 ± 0.117 1.082 ± 0.057 0.896± 0.106 0.524 ± 0.442\nStanding 0.793 ± 0.689 1.061 ± 0.072 0.908 ± 0.174 0.712 ± 0.812\nStand-to-Sit 0.296 ± 0.124 0.899 ± 0.043 0.886 ± 0.157 0.465 ± 0.385",
+   "table_id": "img_076481_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    300.0,
+    565.0,
+    486.0
+   ],
+   "ocr": "Gene Disease prevalence Age of onset Molecular basis\nLipoprotein lipase (LPL) 1 in 1 million (95% of cases) Infancy or childhood Severely reduced or absent LPL enzyme activity\nApolipoprotein C-II (APOC2) <20 families described Adolescence to adulthood Absent or non-functional apo C-II\nGlycosyl-phosphatidyl-inositol-anchored HDL-binding protein (GPIHBP1) <5 families described Later adulthood Absent or deficiency in GPIHBP1\nApo A-V (APOA5) <5 families described Later adulthood Absent or defective apo A-V\nLipase maturation factor-1 (LMF1) <5 families described Later adulthood Defective or absent LMF1",
+   "table_id": "img_076481_t1"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    501.0,
+    565.0,
+    692.0
+   ],
+   "ocr": "Buffer or Specific mRNA Co-injected\nPhenotype Buffer Birc5a mRNA(n = 162) Birc5b mRNA(n = 180) Birc5a mRNA(n = 134) Birc5b mRNA(n = 173)\nBirc5a kd Neuro 61%(of 276) 8% 21%\nVascular 40%(of 276) 10% 22%\nBirc5b kd Neuro 26%(of 263) 5% 6%\nVascular 38%(of 263) 4% 8%",
+   "table_id": "img_076481_t2"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    707,
+    565,
+    734
+   ],
+   "ocr": "This early age of onset underscores the importance of genetic factors in disease manifestation, as indicated by the presence of Birc5a and Birc5b mRNA levels in the evaluated samples."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    722,
+    565,
+    779
+   ],
+   "ocr": "The data showcases variations in expression levels across different activities, with Birc5a mRNA recorded at 0.825 ± 0.836 and Birc5b mRNA at 0.987 ± 0.154, suggesting differential regulation that may contribute to the phenotypic outcomes. Overall, the table serves as a valuable resource for understanding the intricate connections between genetic activity and disease characteristics."
+  }
+ }
+}

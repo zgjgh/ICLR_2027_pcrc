@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_197",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    615.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Gene Centric Methylation"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    713.8,
+    119.4
+   ],
+   "ocr": "Table 2. Top 30 GO Terms for genes with MCC >0.6 by 1NN-SFS algorithm on the breast cancer cell line data."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    128.1,
+    726.6,
+    632.4
+   ],
+   "ocr": "Description FDR q-value\nregulation of multicellular organismal process 4.43E-19\nregulation of developmental process 2.51E-17\nregulation of multicellular organismal development 9.31E-17\npositive regulation of biological process 1.16E-16\nmovement of cell or subcellular component 1.23E-16\npositive regulation of cellular process 1.41E-16\nnegative regulation of biological process 2.3E-16\nanatomical structure development 1.38E-15\nnegative regulation of cellular process 2.72E-15\nregulation of cell differentiation 2.85E-15\ncell migration 6.81E-15\nnegative regulation of metabolic process 2.48E-14\nanatomical structure morphogenesis 3.53E-14\norgan development 5.3E-14\ntransmembrane receptor protein tyrosine kinase signaling pathway 6.02E-14\ncell motility 7.21E-14\nLocomotion 1.7E-13\ndevelopmental process 1.71E-13\nenzyme linked receptor protein signaling pathway 1.75E-13\nsingle-organism developmental process 1.76E-13\nregulation of cell development 2.88E-13\nregulation of anatomical structure morphogenesis 4.5E-13\nnegative regulation of macromolecule metabolic process 6.04E-13\nintracellular signal transduction 8.58E-13\nsingle-multicellular organism process 2.36E-12\nmulticellular organismal process 5.86E-12\nregulation of localization 1.06E-11\npositive regulation of multicellular organismal process 1.07E-11\nsignal transduction 1.27E-11\ncellular component organization or biogenesis 1.39E-11\npositive regulation of developmental process 3.2E-11",
+   "table_id": "PMC4752315_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    640.5,
+    724.1,
+    778.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t002 Verification in TCGA luminal A breast cancer data To verify our work in another dataset, we performed the 1NN-SFS algorithm on 99 luminal A breast cancer samples from the TCGA database. We computed the performance metrics, and found the average to be 0.7 for all metrics (Fig 6). Table 3. GO terms with MCC < 0.2 for genes by 1NN-SFS algorithm on the breast cancer cell line data."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    787.1,
+    726.6,
+    896.8
+   ],
+   "ocr": "Description FDR q-value\ndetection of chemical stimulus involved in sensory perception of smell 5.62E-11\ndetection of chemical stimulus involved in sensory perception 5.74E-11\ndetection of chemical stimulus 5.62E-8\ndetection of stimulus involved in sensory perception 1.07E-7\ndetection of stimulus 1.95E-3\nimmune response 1.23E-2",
+   "table_id": "PMC4752315_table_2"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    905.0,
+    393.3,
+    916.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t003"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0148977 February 12, 2016 12 / 19"
+  }
+ }
+}

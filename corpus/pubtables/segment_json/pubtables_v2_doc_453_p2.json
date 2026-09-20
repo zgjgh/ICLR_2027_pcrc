@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_453",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    409.9,
+    48.8,
+    727.3,
+    60.9
+   ],
+   "ocr": "Transcriptome Analysis of L.vannamei under Chronic Low-Salinity Stress"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.4,
+    388.8,
+    108.0
+   ],
+   "ocr": "Table 3. Summary of the annotations of Litopenaeus vannamei unigenes."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    279.1
+   ],
+   "ocr": "Predicted sequences Unpredictable sequences\nNumber Ratio (%) Number Ratio (%)\nAll genes 22431 100 15806 100\nAnnotated in NR 17232 76.82 2235 14.14\nAnnotated in NT None None 509 3.22\nAnnotated in GO None None 746 4.72\nAnnotated in string 6298 28.08 313 1.98\nAnnotated in COG 3720 16.58 128 0.81\nAnnotated in KOG 5408 24.11 243 1.54\nAnnotated in NOG 302 1.35 56 0.35",
+   "table_id": "PMC4492601_table_2"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    287.2,
+    726.3,
+    898.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0131503.t003 313 (1.98%), 243 (1.54%), 128 (0.81%), and 56 (0.35%) of the 15,806 sequences were matched against the NR, gene ontology (GO), NT, STRING, KOG and COG databases, respectively. After parsing the GO annotation output, a total of 8,779 unigenes were finally annotated with GO terms, with 50.02% annotated to biological processes, 28.93% annotated to cellular components and 21.05% annotated to molecular functions. The distribution of GO terms showed that cellular processes and metabolic processes were the well-represented terms among the biological processes. Cells and cell parts were significantly enriched in cellular components, and analytic activity and binding consisted of a large proportion of molecular functions (S2 Fig). Clusters of orthologous groups (COGs) of proteins were determined to predict and classify the possible functions of unigenes. The COG annotation analysis showed that three types of function were obtained, including information storage and processing, cellular processes and signaling, and metabolic pathways. The hits from the COG analysis were functionally classified into 25 categories, and the most enriched terms were related to general functions and then transcription and signal transduction mechanisms (S3 Fig). KEGG pathway analysis annotation and functional enrichment analysis of GO and KEGG pathways Various molecular pathways were obtained by Kyoto Encyclopedia of Genes and Genomes (KEGG) annotation. A total of 9,621 unigenes were mapped onto 317 pathways, and the most enriched sequences were metabolic pathways, which was followed by the biosynthesis of sec- ondary metabolites, spliceosome and RNA transport. The top 20 pathways with the greatest number of annotated sequences are shown in Table 4. A total of 47 significantly changed GO terms were obtained, and the most significant change was in molecular functions, which was followed by catalytic activity, histone H4 acetylation, structural constituents of cuticle and chi- tin binding. All of the significantly changed (P < 0.05) GO pathways are listed in Table 5. A KEGG pathway enrichment analysis was performed for the gene expression between salinity treatments to identify the number of significantly changed samples along the pathway that were relevant to the background number. The most significantly changed KEGG pathways were the glycosphingolipid biosynthesis, lysine degradation, glycosaminoglycan biosynthesis and malaria pathways. The gene recorded as B3GNT1,2 was significantly up-regulated both in the glycosphingolipid biosynthesis pathway and glycosaminoglycan biosynthesis pathway when shrimp were exposed to salinity at 3 psu (Figs 1 and 2). In addition, fatty-acid biosynthe- sis (Fig 3) was significantly enhanced, especially in short-carbon-chain fatty acids (C8-C18). In addition, low-salinity conditions enhanced polyunsaturated fatty-acid (PUFA) biosynthesis,"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0131503 July 6, 2015 4 / 22"
+  }
+ }
+}

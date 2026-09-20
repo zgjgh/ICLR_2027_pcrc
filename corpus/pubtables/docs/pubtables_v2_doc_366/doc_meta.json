@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_366",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3226541_table_0",
+   "page_num": 1,
+   "bbox": [
+    86.3,
+    694.3,
+    663.7,
+    905.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3226541_table_0.png",
+   "html": "<table><tr><td>Variable</td><td>Group</td><td>Day 0</td><td>Day 29</td><td>Test (p &lt; .05)</td><td>Group x Test (p &lt; .05)</td></tr><tr><td rowspan=\"3\">Total Calories (kcal/kg)</td><td></td><td></td><td></td><td>.683</td><td>.129</td></tr><tr><td>NOSS</td><td>30.12 &#177; 9.94</td><td>31.61 &#177; 10.58</td><td></td><td></td></tr><tr><td>CARB</td><td>41.81 &#177; 18.98</td><td>35.41 &#177; 16.16</td><td></td><td></td></tr><tr><td rowspan=\"3\">Protein (g/kg)</td><td></td><td></td><td></td><td>.763</td><td>.216</td></tr><tr><td>NOSS</td><td>1.17 &#177; 0.33</td><td>1.25 &#177; 0.42</td><td></td><td></td></tr><tr><td>CARB</td><td>1.57 &#177; 0.77</td><td>1.31 &#177; 0.43</td><td></td><td></td></tr><tr><td rowspan=\"3\">Carbohydrate (g/kg)</td><td></td><td></td><td></td><td>.932</td><td>.106</td></tr><tr><td>NOSS</td><td>3.64 &#177; 1.39</td><td>4.01 &#177; 1.41</td><td></td><td></td></tr><tr><td>CARB</td><td>5.03 2.82</td><td>4.13 2.22</td><td></td><td></td></tr><tr><td rowspan=\"3\">Fat (g/kg)</td><td></td><td></td><td></td><td>.551</td><td>.665</td></tr><tr><td>NOSS</td><td>1.17 &#177; 0.41</td><td>1.15 &#177; 0.44</td><td></td><td></td></tr><tr><td>CARB</td><td>1.47 &#177; 0.64</td><td>1.27 &#177; 0.77</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3226541_table_1",
+   "page_num": 2,
+   "bbox": [
+    84.0,
+    128.9,
+    666.0,
+    489.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3226541_table_1.png",
+   "html": "<table><tr><td>Variable</td><td>Group</td><td>Day 0</td><td>Day 29</td><td>Test (p &lt; .05)</td><td>Group x Test (p &lt; .05)</td></tr><tr><td rowspan=\"3\">Body Mass (kg)</td><td></td><td></td><td></td><td>.010*</td><td>.793</td></tr><tr><td>NOSS</td><td>81.41 &#177; 16.46</td><td>82.64 &#177; 15.97</td><td></td><td></td></tr><tr><td>CARB</td><td>84.41 &#177; 29.39</td><td>85.44 &#177; 29.32</td><td></td><td></td></tr><tr><td rowspan=\"3\">Body Water (kg)</td><td></td><td></td><td></td><td>.345</td><td>.587</td></tr><tr><td>NOSS</td><td>43.07 &#177; 10.33</td><td>43.43 &#177; 9.68</td><td></td><td></td></tr><tr><td>CARB</td><td>43.18 &#177; 6.50</td><td>44.12 &#177; 7.13</td><td></td><td></td></tr><tr><td rowspan=\"3\">Body Fat (%)</td><td></td><td></td><td></td><td>.026*</td><td>.014&#8224; NOSS &lt; PLC</td></tr><tr><td>NOSS</td><td>17.88 &#177; 7.67</td><td>16.53 &#177; 7.35</td><td></td><td></td></tr><tr><td>CARB</td><td>21.18 &#177; 9.06</td><td>21.26 &#177; 9.55</td><td></td><td></td></tr><tr><td rowspan=\"3\">Fat Mass (kg)</td><td></td><td></td><td></td><td>.046*</td><td>.026&#8224; NOSS &lt; PLC</td></tr><tr><td>NOSS</td><td>14.21 &#177; 8.31</td><td>13.40 &#177; 8.10</td><td></td><td></td></tr><tr><td>CARB</td><td>18.64 &#177; 18.16</td><td>18.99 &#177; 18.64</td><td></td><td></td></tr><tr><td rowspan=\"3\">Fat-Free Mass (kg)</td><td></td><td></td><td></td><td>.001*</td><td>.023&#8224; NOSS &gt; PLC</td></tr><tr><td>NOSS</td><td>57.80 &#177; 8.01</td><td>59.92 &#177; 7.57</td><td></td><td></td></tr><tr><td>CARB</td><td>56.43 &#177; 10.33</td><td>57.02 &#177; 9.86</td><td></td><td></td></tr><tr><td rowspan=\"3\">Upper-Body Strength (kg/kg)</td><td></td><td></td><td></td><td>.016*</td><td>.023&#8224; NOSS &gt; PLAC</td></tr><tr><td>NOSS</td><td>1.03 &#177;0.15</td><td>1.16 &#177;0.21</td><td></td><td></td></tr><tr><td>CARB</td><td>1.07 &#177;0.25</td><td>1.08 &#177; 0.23</td><td></td><td></td></tr><tr><td rowspan=\"3\">Lower-Body Strength (kg/kg)</td><td></td><td></td><td></td><td>.001*</td><td>.035&#8224; NOSS &gt; PLAC</td></tr><tr><td>NOSS</td><td>4.04 &#177; 0.55</td><td>4.90 &#177; 0.64</td><td></td><td></td></tr><tr><td>CARB</td><td>4.19 &#177; 0.58</td><td>4.64 &#177; 0.84</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3226541_table_2",
+   "page_num": 3,
+   "bbox": [
+    80.4,
+    128.9,
+    669.7,
+    539.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3226541_table_2.png",
+   "html": "<table><tr><td>Variable</td><td>Group</td><td>Day 0</td><td>Day 29</td><td>Test (p &lt; .05)</td><td>Group x Test (p &lt; .05)</td></tr><tr><td rowspan=\"3\">IGF-1 (pg/ml)</td><td></td><td></td><td></td><td>.038*</td><td>.385</td></tr><tr><td>NOSS</td><td>3491.53 &#177; 597.34</td><td>3609.63 &#177; 497.11</td><td></td><td></td></tr><tr><td>CARB</td><td>3018.43 &#177; 690.91</td><td>3339.24 &#177; 70.94</td><td></td><td></td></tr><tr><td rowspan=\"3\">Myofibrillar Protein (&#956;g/mg)</td><td></td><td></td><td></td><td>.041*</td><td>.049&#8224; NOSS &gt; PLC</td></tr><tr><td>NOSS</td><td>0.089 &#177; 0.019</td><td>0.115 &#177; 0.033</td><td></td><td></td></tr><tr><td>CARB</td><td>0.087 &#177; 0.128</td><td>0.092 &#177; 0.022</td><td></td><td></td></tr><tr><td rowspan=\"3\">MHC 1 (arbitrary density units)</td><td></td><td></td><td></td><td>.001*</td><td>.013&#8224; NOSS &gt; PLC</td></tr><tr><td>NOSS</td><td>1072.93 &#177; 206.16</td><td>1582.37 &#177; 247.55</td><td></td><td></td></tr><tr><td>CARB</td><td>1114.95 &#177; 448.29</td><td>1381.76 &#177; 423.04</td><td></td><td></td></tr><tr><td rowspan=\"3\">MHC 2A (arbitrary density units)</td><td></td><td></td><td></td><td>.001*</td><td>.046&#8224; NOSS &gt; PLC</td></tr><tr><td>NOSS</td><td>904.06 &#177; 500.22</td><td>1502.84 &#177; 412.07</td><td></td><td></td></tr><tr><td>CARB</td><td>944.11 &#177; 458.98</td><td>1385.97 &#177; 310.87</td><td></td><td></td></tr><tr><td rowspan=\"3\">MHC 2X (arbitrary density units)</td><td></td><td></td><td></td><td>.003*</td><td>.244</td></tr><tr><td>NOSS</td><td>878.45 &#177; 328.28</td><td>731.70 &#177; 266.26</td><td></td><td></td></tr><tr><td>CARB</td><td>979.89 &#177; 226.74</td><td>676.78 &#177; 163.27</td><td></td><td></td></tr><tr><td rowspan=\"3\">Myo-D (Abs/mg)</td><td></td><td></td><td></td><td>.005*</td><td>.038&#8224; NOSS &gt; PLC</td></tr><tr><td>NOSS</td><td>1.72 &#177; 0.491</td><td>2.03 &#177; 0.399</td><td></td><td></td></tr><tr><td>CARB</td><td>1.65 &#177; 0.339</td><td>1.74 &#177; 0.462</td><td></td><td></td></tr><tr><td rowspan=\"3\">Myogenin (Abs/mg)</td><td></td><td></td><td></td><td>.017*</td><td>.091</td></tr><tr><td>NOSS</td><td>1.63 &#177; 0.398</td><td>1.85 &#177; 0.422</td><td></td><td></td></tr><tr><td>CARB</td><td>1.57 &#177; 0.240</td><td>1.78 &#177; 0.405</td><td></td><td></td></tr><tr><td rowspan=\"3\">MRF-4 (Abs/mg)</td><td></td><td></td><td></td><td>.001*</td><td>.001&#8224; NOSS &gt; PLC</td></tr><tr><td>NOSS</td><td>1.87 &#177; 0.236</td><td>2.25 &#177; 0.247</td><td></td><td></td></tr><tr><td>CARB</td><td>1.83 &#177; 0.005</td><td>1.97 &#177; 0.003</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3226541_table_3",
+   "page_num": 4,
+   "bbox": [
+    87.3,
+    128.9,
+    662.7,
+    938.5
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3226541_table_3.png",
+   "html": "<table><tr><td>Variable</td><td>Group</td><td>Day 0</td><td>Day 29</td><td>Test (p &lt; .05)</td><td>Group x Test (p &lt; .05)</td></tr><tr><td rowspan=\"3\">Glucose (mg/dL)</td><td></td><td></td><td></td><td>.142</td><td>.315</td></tr><tr><td>NOSS</td><td>82.00 &#177; 4.98</td><td>83.00 &#177; 11.45</td><td></td><td></td></tr><tr><td>CARB</td><td>81.80 &#177; 6.52</td><td>86.90 &#177; 5.56</td><td></td><td></td></tr><tr><td rowspan=\"3\">BUN (mg/dL)</td><td></td><td></td><td></td><td>.117</td><td>.117</td></tr><tr><td>NOSS</td><td>14.80 &#177; 3.42</td><td>14.80 &#177; 3.22</td><td></td><td></td></tr><tr><td>CARB</td><td>15.33 &#177; 2.82</td><td>12.88 &#177; 3.85</td><td></td><td></td></tr><tr><td rowspan=\"3\">Creatinine (mg/dL)</td><td></td><td></td><td></td><td>.016*</td><td>.413</td></tr><tr><td>NOSS</td><td>0.896 &#177; 0.150</td><td>0.949 &#177; 0.145</td><td></td><td></td></tr><tr><td>CARB</td><td>0.916 &#177; 0.087</td><td>1.07 &#177; 0.201</td><td></td><td></td></tr><tr><td rowspan=\"3\">Sodium (mmol/L)</td><td></td><td></td><td></td><td>.304</td><td>.681</td></tr><tr><td>NOSS</td><td>137.40 &#177; 2.79</td><td>139.72 &#177; 2.26</td><td></td><td></td></tr><tr><td>CARB</td><td>136.67 &#177; 2.06</td><td>137.67 &#177; 9.08</td><td></td><td></td></tr><tr><td rowspan=\"3\">Potassium (mmol/L)</td><td></td><td></td><td></td><td>.107</td><td>.671</td></tr><tr><td>NOSS</td><td>4.06 &#177; 0.177</td><td>4.34 &#177; 0.568</td><td></td><td></td></tr><tr><td>CARB</td><td>3.95 &#177; 0.274</td><td>4.12 &#177; 0.446</td><td></td><td></td></tr><tr><td rowspan=\"3\">Chloride (mmol/L)</td><td></td><td></td><td></td><td>.665</td><td>.561</td></tr><tr><td>NOSS</td><td>101.70 &#177; 2.79</td><td>103.24 &#177; 2.85</td><td></td><td></td></tr><tr><td>CARB</td><td>101.33 &#177; 2.64</td><td>101.11 &#177; 8.47</td><td></td><td></td></tr><tr><td rowspan=\"3\">CO2 (mmol/L)</td><td></td><td></td><td></td><td>.787</td><td>.349</td></tr><tr><td>NOSS</td><td>21.40 &#177; 1.07</td><td>22.40 &#177; 1.07</td><td></td><td></td></tr><tr><td>CARB</td><td>20.11 &#177; 2.20</td><td>19.55 &#177; 4.90</td><td></td><td></td></tr><tr><td rowspan=\"3\">Calcium (mg/dL)</td><td></td><td></td><td></td><td>.799</td><td>.247</td></tr><tr><td>NOSS</td><td>9.27 &#177; 0.577</td><td>9.58 &#177; 0.322</td><td></td><td></td></tr><tr><td>CARB</td><td>9.28 &#177; 0.481</td><td>9.07 &#177; 1.24</td><td></td><td></td></tr><tr><td rowspan=\"3\">Protein (mg/dL)</td><td></td><td></td><td></td><td>.914</td><td>.336</td></tr><tr><td>NOSS</td><td>6.79 &#177; 0.645</td><td>6.95 &#177; 0.353</td><td></td><td></td></tr><tr><td>CARB</td><td>6.85 &#177; 0.657</td><td>6.65 &#177; 1.18</td><td></td><td></td></tr><tr><td rowspan=\"3\">Albumin (mg/dL)</td><td></td><td></td><td></td><td>.653</td><td>.244</td></tr><tr><td>NOSS</td><td>4.41 &#177; 0.338</td><td>4.50 &#177; 0.205</td><td></td><td></td></tr><tr><td>CARB</td><td>4.48 &#177; 0.341</td><td>4.28 &#177; 0.695</td><td></td><td></td></tr><tr><td rowspan=\"3\">Globulin (mg/dL)</td><td></td><td></td><td></td><td>.622</td><td>.622</td></tr><tr><td>NOSS</td><td>2.38 &#177; 0.410</td><td>2.45 &#177; 0.310</td><td></td><td></td></tr><tr><td>CARB</td><td>2.36 &#177; 0.393</td><td>2.36 &#177; 0.574</td><td></td><td></td></tr><tr><td rowspan=\"3\">Albumin/Globulin</td><td></td><td></td><td></td><td>.157</td><td>.436</td></tr><tr><td>NOSS</td><td>1.89 &#177; 0.237</td><td>1.87 &#177; 0.231</td><td></td><td></td></tr><tr><td>CARB</td><td>1.93 &#177; 0.300</td><td>1.86 &#177; 0.304</td><td></td><td></td></tr><tr><td rowspan=\"3\">Bilirubin (mg/dL)</td><td></td><td></td><td></td><td>.181</td><td>.465</td></tr><tr><td>NOSS</td><td>0.550 &#177; 0.295</td><td>0.440 &#177; 0.171</td><td></td><td></td></tr><tr><td>CARB</td><td>0.667 &#177; 0.282</td><td>0.633 &#177; 0.400</td><td></td><td></td></tr><tr><td rowspan=\"3\">ALP (U/L)</td><td></td><td></td><td></td><td>.066</td><td>.816</td></tr><tr><td>NOSS</td><td>52.30 &#177; 12.84</td><td>56.40 &#177; 18.36</td><td></td><td></td></tr><tr><td>CARB</td><td>58.55 &#177; 15.56</td><td>63.77 &#177; 21.77</td><td></td><td></td></tr><tr><td rowspan=\"3\">AST (U/L)</td><td></td><td></td><td></td><td>.982</td><td>.403</td></tr><tr><td>NOSS</td><td>17.80 &#177; 4.15</td><td>17.40 &#177; 4.67</td><td></td><td></td></tr><tr><td>CARB</td><td>17.55 &#177; 5.07</td><td>17.88 &#177; 4.59</td><td></td><td></td></tr><tr><td rowspan=\"3\">ALT (U/L)</td><td></td><td></td><td></td><td>.785</td><td>.785</td></tr><tr><td>NOSS</td><td>10.70 &#177; 4.16</td><td>10.70 &#177; 6.26</td><td></td><td></td></tr><tr><td>CARB</td><td>7.66 &#177; 1.93</td><td>8.33 &#177; 5.63</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC3226541_table_4",
+   "page_num": 5,
+   "bbox": [
+    83.6,
+    128.9,
+    666.4,
+    788.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3226541_table_4.png",
+   "html": "<table><tr><td>Variable</td><td>Group</td><td>Day 0</td><td>Day 29</td><td>Test (p &lt; .05)</td><td>Group x Test (p &lt; .05)</td></tr><tr><td rowspan=\"3\">WBC (106/L)</td><td></td><td></td><td></td><td>.148</td><td>.300</td></tr><tr><td>NOSS</td><td>6.06 &#177; 1.32</td><td>5.91 &#177; 1.27</td><td></td><td></td></tr><tr><td>CARB</td><td>7.11 &#177; 1.74</td><td>6.28 &#177; 1.34</td><td></td><td></td></tr><tr><td rowspan=\"3\">RBC (109/L)</td><td></td><td></td><td></td><td>.243</td><td>.755</td></tr><tr><td>NOSS</td><td>4.99 &#177; 0.304</td><td>4.94 &#177; 0.257</td><td></td><td></td></tr><tr><td>CARB</td><td>4.94 &#177; 0.312</td><td>4.85 &#177; 0.302</td><td></td><td></td></tr><tr><td rowspan=\"3\">HGB (g/dL)</td><td></td><td></td><td></td><td>.100</td><td>.695</td></tr><tr><td>NOSS</td><td>15.24 &#177; 0.815</td><td>15.01 &#177; 0.750</td><td></td><td></td></tr><tr><td>CARB</td><td>14.96 &#177; 0.593</td><td>14.60 &#177; 0.563</td><td></td><td></td></tr><tr><td rowspan=\"3\">HCT (%)</td><td></td><td></td><td></td><td>.509</td><td>.997</td></tr><tr><td>NOSS</td><td>44.28 &#177; 2.12</td><td>43.92 &#177; 2.34</td><td></td><td></td></tr><tr><td>CARB</td><td>43.44 &#177; 1.81</td><td>43.08 &#177; 2.03</td><td></td><td></td></tr><tr><td rowspan=\"3\">MCV (fL)</td><td></td><td></td><td></td><td>.093</td><td>.226</td></tr><tr><td>NOSS</td><td>88.85 &#177; 3.90</td><td>88.90 &#177; 4.06</td><td></td><td></td></tr><tr><td>CARB</td><td>88.05 &#177; 4.00</td><td>88.86 &#177; 4.05</td><td></td><td></td></tr><tr><td rowspan=\"3\">MCH (pg)</td><td></td><td></td><td></td><td>.103</td><td>.886</td></tr><tr><td>NOSS</td><td>30.57 &#177; 1.31</td><td>30.42 &#177; 1.34</td><td></td><td></td></tr><tr><td>CARB</td><td>30.32 &#177; 1.85</td><td>30.14 &#177; 1.62</td><td></td><td></td></tr><tr><td rowspan=\"3\">MCHC (g/dL)</td><td></td><td></td><td></td><td>.015</td><td>.235</td></tr><tr><td>NOSS</td><td>34.42 &#177; 0.399</td><td>34.22 &#177; 0.482</td><td></td><td></td></tr><tr><td>CARB</td><td>34.45 &#177; 1.01</td><td>33.92 &#177; 1.03</td><td></td><td></td></tr><tr><td rowspan=\"3\">Platelets (106/L)</td><td></td><td></td><td></td><td>.243</td><td>.861</td></tr><tr><td>NOSS</td><td>211.24 &#177; 28.57</td><td>221.82 &#177; 38.27</td><td></td><td></td></tr><tr><td>CARB</td><td>228.89 &#177; 62.43</td><td>236.78 &#177; 77.51</td><td></td><td></td></tr><tr><td rowspan=\"3\">Neutrophils (cells/&#956;l)</td><td></td><td></td><td></td><td>.178</td><td>.111</td></tr><tr><td>NOSS</td><td>2798.63 &#177; 1056.71</td><td>2868.65 &#177; 886.18</td><td></td><td></td></tr><tr><td>CARB</td><td>4038.93 &#177; 1448.59</td><td>3263.78 &#177; 767.91</td><td></td><td></td></tr><tr><td rowspan=\"3\">Lymphocytes (cells/&#956;l)</td><td></td><td></td><td></td><td>.445</td><td>.566</td></tr><tr><td>NOSS</td><td>2512.93 &#177; 516.94</td><td>2344.63 &#177; 355.10</td><td></td><td></td></tr><tr><td>CARB</td><td>2164.57 &#177; 620.78</td><td>2139.84 &#177; 629.11</td><td></td><td></td></tr><tr><td rowspan=\"3\">Monocytes (cells/&#956;l)</td><td></td><td></td><td></td><td>.613</td><td>.888</td></tr><tr><td>NOSS</td><td>536.70 &#177; 121.60</td><td>509.40 &#177; 124.70</td><td></td><td></td></tr><tr><td>CARB</td><td>599.11 &#177; 142.53</td><td>583.67 &#177; 263.01</td><td></td><td></td></tr><tr><td rowspan=\"3\">Eosinophils (cells/&#956;l)</td><td></td><td></td><td></td><td>.602</td><td>.926</td></tr><tr><td>NOSS</td><td>186.40 &#177; 113.01</td><td>177.10 &#177; 143.54</td><td></td><td></td></tr><tr><td>CARB</td><td>287.33 &#177; 161.21</td><td>274.03 &#177; 183.27</td><td></td><td></td></tr><tr><td rowspan=\"3\">Basophils (cells/&#956;l)</td><td></td><td></td><td></td><td>.293</td><td>.050&#8224; NOSS &lt; PLC</td></tr><tr><td>NOSS</td><td>25.70 &#177; 10.34</td><td>17.40 &#177; 8.51</td><td></td><td></td></tr><tr><td>CARB</td><td>21.88 &#177; 11.43</td><td>24.55 &#177; 11.10</td><td></td><td></td></tr></table>"
+  }
+ ]
+}

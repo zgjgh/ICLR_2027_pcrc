@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_084",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Inference of competing endogenous RNA interaction networks"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    97.3,
+    727.2,
+    722.7
+   ],
+   "ocr": "miRNA’s binding site and the miRNA-mRNA interaction’s folding energy was lower than 140 kcal/mol (default value). After applying miRanda, there remained 465,049 interactions between 473 miRNAs and 13,932 mRNAs. Putative miRNA-lncRNA interactions were aggre- gated from starBase v2.0, DIANA-LncBase v2, and and LnCeDb, resulting in 3,961,135 inter- actions between 2,695 miRNAs and 24,215 lncRNAs. Given all the putative miRNA-RNA interactions, we only kept the interactions between DE miRNAs and DE RNAs. Table 1 summarizes the number of DE miRNA—DE RNA interac- tions in each cancer type. To identify cancer-associated ceRNA interactions, Cancerin employed the putative miR- NA-RNA interactions and the RNA expression as input data for the next two steps, which included applying a LASSO-based variable selection procedure to select cancer-specific miR- NA-RNA interactions and using that information to identify ceRNA interactions. Analysis of miRNA-RNA interactions obtained from the LASSO-based variable selection procedure The LASSO-based variable selection procedure (see Materials and methods) was applied to identify cancer-specific miRNA-RNA interactions while also taking into account the other types of gene regulators including TF, DNA methylation, and CNA. Table 2 summarizes the number of miRNA-RNA interactions selected by the variable selection procedure in each can- cer type. Details of the selected miRNA-RNA interactions could be found in S1 File. Many miRNA-RNA interactions were only identified when different types of gene expression regulators were taken into account. Cancerin pipeline was constructed under the premise that different types of gene regulators were important to correctly infer miR- NA-RNA interactions. Out of all the RNA targets that were found to have at least one miRNA regulator (3,024 (BRCA), 3,062 (KIRC), and 3,195 (HNSC)), we computed the percentage of those targets that were also under regulation of at least one additional regulatory factor such as CNA, DNA methylation, or TF (Table 3). Not surprisingly, those additional regulatory factors, especially CNA, were observed to be associated with the expression change in majority of the target RNAs. To check the impact of those additional regulators in inferring miRNA-RNA interactions, we performed a comparative analysis between the miRNA-RNA interactions that were selected in two different cases depending on whether the different regulatory factors besides miRNA (i.e., CNA, DNA methylation, and TF) were present or not in the LASSO-based variable selec- tion procedure. In the first case when those regulators were incorporated, we referred it as “Cancerin (original)”. The second case, in which miRNAs were the only type of regulators to Table 1. Number of putative DE miRNA-DE RNA interactions and number of DE miRNAs and DE RNAs included in those interactions (output for Cancerin—Step 1)."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    731.4,
+    687.6,
+    836.2
+   ],
+   "ocr": "BRCA KIRC HNSC\nNo. of putative DE miRNA—DE mRNA interactions 153,465 107,348 94,980\n1\nNo. of DE miRNAs 215 164 201\n1\nNo. of DE mRNAs 7,502 6,690 5,005\nNo. of putative DE miRNA—DE lncRNA interactions 60,935 18,589 17,350\n2\nNo. of DE miRNAs 215 164 201\n2\nNo. of DE lncRNAs 3,111 1,335 896",
+   "table_id": "PMC6072113_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    847.8,
+    502.2,
+    897.6
+   ],
+   "ocr": "1: included in putative DE miRNA—DE mRNA interactions. 2: included in putative DE miRNA—DE lncRNA interactions. https://doi.org/10.1371/journal.pcbi.1006318.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS Computational Biology | https://doi.org/10.1371/journal.pcbi.1006318 July 16, 2018 9 / 23"
+  }
+ }
+}

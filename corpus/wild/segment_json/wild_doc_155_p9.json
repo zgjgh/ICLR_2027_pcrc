@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_155",
+  "page": 9,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p9_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    81.0
+   ],
+   "ocr": "In the Fleet Utilization Report for Fiscal Year 2024, ONE Ocean Network Express presents a detailed overview of its fleet performance."
+  },
+  "p9_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    96.0,
+    580.0,
+    342.0
+   ],
+   "ocr": "FleetUtilizationReport FiscalYear2024\nVesselDays TotalRevenue(USD)\nFleetOverview OperationalMetrics FinancialMetrics\nVesselName DaysOperated UtilizationRate(%) Revenue(USD) OperatingCosts(USD) NetIncome(USD) CAPEX(USD) OPEX(USD) Avg.Age(Years) FuelConsumed(MT)\nVesselA 320 85% $15M $5M $10M $2M $3M 5 1200\nVesselB 310 80% $14M $4.5M $9.5M $2.5M $3M 6 1150\nVesselC 305 90% $16M $6M $10M $2.2M $3.5M 4 1100\nVesselD 325 75% $13M $5.5M $7.5M $2M $2.8M 8 1300\nVesselE 300 88% $15.5M $5.2M $10.3M $2.3M $3.2M 3 1250",
+   "table_id": "img_175505_t0"
+  },
+  "p9_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    357.0,
+    580.0,
+    403.0
+   ],
+   "ocr": "Vessel A operated for 320 days with a utilization rate of 85%, generating total revenue of $15M, incurring operating costs of $5M, and achieving a net income of $10M, alongside CAPEX of $2M, OPEX of $3M, an average age of 5 years, and fuel consumption of 1,200 MT."
+  },
+  "p9_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    418.0,
+    580.0,
+    580.0
+   ],
+   "ocr": "VesselName DrydockCosts MaintenanceSchedule\nDrydockType Duration(Days) EstimatedRevenue\nVessel1 $500K Q12024 Routine 30 $1M\nVessel2 $750K Q22024 Emergency 45 $800K\nVessel3 $600K Q32024 Routine 25 $900K\nVessel4 $450K Q42024 Routine 20 $1.2M\nTotal $2.35M AverageDuration 30 TotalRevenue $3.9M",
+   "table_id": "img_175505_t1"
+  },
+  "p9_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    596,
+    580,
+    670
+   ],
+   "ocr": "Vessel B, with 310 days operated and an 80% utilization rate, accrued $14M in revenue, $4.5M in operating costs, $9.5M net income, $2.5M CAPEX, $3M OPEX, 6 years average age, and 1,150 MT fuel consumed. Vessel C operated for 305 days at a 90% utilization rate, generating $16M in revenue, $6M in operating costs, $10M net income, $2.2M CAPEX, $3.5M OPEX, with an average age of 4 years and 1,100 MT fuel. Vessel D had 325 days of operation, 75% utilization, with $13M revenue, $5.5M operating costs, $7.5M net income, $2M CAPEX, $2.8M OPEX, an average of 8 years, and 1,300 MT fuel."
+  },
+  "p9_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    777
+   ],
+   "ocr": "Vessel E operated for 300 days at 88% utilization, yielding $15.5M revenue, $5.2M operating costs, $10.3M net income, $2.3M CAPEX, $3.2M OPEX, average age of 3 years, and 1,250 MT fuel. Additionally, the Drydocking and Maintenance Schedule highlights Vessel 1 with drydock costs of $500K scheduled for Q1 2024, routine maintenance for 30 days, expected revenue of $1M; Vessel 2 with $750K drydock costs in Q2 2024 for emergency maintenance for 45 days, yielding $800K; Vessel 3 with $600K in drydock costs for routine maintenance in Q3 2024 over 25 days, expecting $900K; and Vessel 4, with $450K drydock costs in Q4 2024 for routine maintenance over 20 days, anticipated at $1.2M. The total drydock costs sum to $2.35M, with an average duration of 30 days and total revenue estimated at $3.9M."
+  }
+ }
+}

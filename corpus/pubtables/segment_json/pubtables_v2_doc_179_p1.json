@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_179",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    411.0,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "The Comprehensive Allied Telemetry Experiment on Soil and Vegetation"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    96.0,
+    727.3,
+    680.4
+   ],
+   "ocr": "The airborne SAR data acquisition system is comprised of a flight control and navigation subsystem, a dual-antenna X-band interferometer, and a fully polarimetric P-band SAR (Table 1). SAR images with a resolution of 0.5–5 m at an altitude from 3 to 10 km can be acquired. As a result, scales of 1:10,000, 1:25,000, and 1:50,000 within images and products can be produced. The integrated SAR missions with an interferometric X-band and a full-polarime- tirc P-band SAR flown over the GK area were the first flights in China. The flight region included the Yigen area, the KEY, and the Genhe areas (Fig 6). In total, 24 flight lines (12 lines from east to west and 12 lines from west to east) were flown (Fig 7). Seven repeated flights (from west to east) flown over the key area of Yigen were implemented in order to obtain polarimetric coherence tomography information within the forest. With a fly- ing height of 5,670 to 5,810 m, 0.5 to 1 m resolution interferometric X-band data and 1 m reso- lution polarimetirc P-band data were acquired. Within this region, a high resolution (5 m) DEM was produced. Additionally, the very high resolution (0.5 to 1.0 m) interferometric, polarimetric, and backscattering characteristics of dual band SAR data was helpful for develop- ing reliable models for alleviating the terrain relief, simulating the radiative transfer and the large-scale scene, deriving forest structural information, and estimating soil and vegetation parameters. The Airborne LiDAR Experiment. Two airborne LiDAR experiments have been con- ducted since the summer of 2012. The first, with an onboard LiDAR (Leica ALS60, Leica Geosystem AG, Heerbrugg, Switzerland) and CCD-Leica RCD105, Leica Geosystem AG, Heer- brugg, Switzerland) (Table 2) was conducted over the GK site, covering KEY (~130 km2) and KEG (~230 km2), from August to September of 2012. Following 153 flight lines and employed on the Yun-5 aircraft, the LiDAR+CCD mission acquired cloud point data with an average density of 8.0 points/m2 and a 0.2 m resolution for CCD data. LiDAR and CCD missions pro- vided information for modeling forest and crop structural and biogeophysical parameters (for- est density, vegetation height, canopy width and shape, canopy coverage, LAI, LAD, clumping index, etc.), and terrain factors (altitude, slope, aspect, roughness, etc.). With a very high reso- lution (0.5 m) and with accurate observations within key experimental areas, in the context of complex land surfaces, LiDAR+CCD missions will help advance remote sensing models for the following: 1) radiative transfer and scattering simulations; 2) scale transformations; 3) synergis- tic inversions of forest structural, biophysical, and biochemical information; and 4) soil and vegetation parameters. Additional integrated LiDAR+CCD+Hyperspectral (LiCHy) missions (Table 3) were com- posed of a Riegl LMS-Q680i (Riegl Laser Measurement Systems GmbH., Horn, Austria), a Table 1. The major parameters of CASMSAR."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    689.2,
+    726.7,
+    877.9
+   ],
+   "ocr": "Parameter X-SAR Sensor P-SAR Sensor\nOperating frequency (GHz) 9.6 600\nAvailable bandwidth (MHz) 400 200\nPRF range (Hz) 1000–4000 500–800\nPulse peak power (kW) 4.0 1.0\nPulse width range (us) 8–22 15–70\nInterferometric baseline (m) 2.198 N/A\nPolarization mode HH HH, HV, VH, VV\nGround resolution (m) 0.5/1.0/2.5/5.0 1.0/2.5/5.0\nSwath width (km) ~2-~12 ~3-~11.5\nIncidence angle (°) ~37-~63 ~33-~53\nOnboard electronics 2 cabinets, 2 antennas 1 cabinet, 1 antenna",
+   "table_id": "PMC4557998_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    393.3,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0137545.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0137545 September 2, 2015 11 / 27"
+  }
+ }
+}

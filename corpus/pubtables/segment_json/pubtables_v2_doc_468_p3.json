@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_468",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "title",
+   "bbox": [
+    602.2,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Income and Physical Activity"
+  },
+  "p3_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    692.4,
+    119.4
+   ],
+   "ocr": "Table 3. Correlation between different physical activity measures among women (N = 479) and among men (N = 274)."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    128.1,
+    726.6,
+    269.7
+   ],
+   "ocr": "Physical Activity Index Total Steps Aerobic Steps\nWomen\nPhysical Activity Index 1.000\nTotal Steps 0.213*** 1.000\nAerobic Steps 0.303*** 0.712*** 1.000\nMen\nPhysical Activity Index 1.000\nTotal Steps 0.138*** 1.000\nAerobic Steps 0.286*** 0.575*** 1.000",
+   "table_id": "PMC4552741_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    282.0,
+    723.5,
+    529.1
+   ],
+   "ocr": "*** Signiﬁcance at the 1% level. doi:10.1371/journal.pone.0135651.t003 in income level on the index of self-reported physical activity. Total steps and aerobic steps were expressed in natural logs, so the income estimate depicted a percent change in steps. To ensure comparisons between the specifications, all individuals with missing values were excluded from the analysis, and the total number of observations used in the analysis was 753. According to the results (Table 4), higher income was associated with higher physical activ- ity in women. The relationship was statistically significant and robust across alternative physi- cal activity measures as well as the inclusion of control variables. Having a one-unit higher income level was associated with a 0.11-unit higher PAI, approximately 1% more total steps, and approximately 4% more aerobic steps. Similarly, in men, the results indicated that higher Table 4. Regression of the self-reported physical activity index and the pedometer-based physical activity (total steps and aerobic steps), study sample (N = 753), women (N = 479), men (N = 274)."
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    537.9,
+    726.6,
+    754.0
+   ],
+   "ocr": "Self-reported physical activity Pedometer-based physical activity\nPhysical activity index Total steps Aerobic steps\nModel 1 Model 2 Model 1 Model 2 Model 1 Model 2\nWomen\nIncome 0.11*** (0.029) 0.11*** (0.033) 0.01* (0.006) 0.01** (0.006) 0.05*** (0.016) 0.04** (0.017)\nR2 0.03 0.08 0.01 0.07 0.03 0.07\nMen\nIncome 0.11*** (0.034) 0.09* (0.047) –0.02*** (0.007) –0.01 (0.008) –0.02 (0.020) –0.04* (0.025)\nR2 0.04 0.12 0.04 0.16 0.01 0.11\nControl variables No Yes No Yes No Yes\nSocioeconomic Characteristic - x - x - x\nHealth Status - x - x - x\nFamily Background factors - x - x - x",
+   "table_id": "PMC4552741_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    766.6,
+    712.3,
+    907.0
+   ],
+   "ocr": "Signiﬁcant at *10% **5%, and ***1% level. Robust standard errors are in the parentheses. Total steps and aerobic steps are transformed with natural logs. Added control variables: the vector of socioeconomic characteristics (neighborhood, marital status, number of children, years of education, work status, and physical workload), health status (self-reported number of diseases and BMI) observed in 2007, and family background factors (parental education and parental physical activity) observed in 1980. doi:10.1371/journal.pone.0135651.t004"
+  },
+  "p3_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0135651 August 28, 2015 7 / 15"
+  }
+ }
+}

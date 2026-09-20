@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_190",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    500.3,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Grassland and Alien Plants on Power Line Corridors"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    548.9,
+    107.4
+   ],
+   "ocr": "Table 1. Plant species and environmental data used in the study, with abbreviations for individual variables."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    709.7,
+    781.4
+   ],
+   "ocr": "Data Description Source\nSpecies data: Coverage data on encountered species, evaluated with 9 category values: 1 = < Field work\n0.125% coverage, 2 = 0.125–0.5%, 3 = 0.5–2%, 4 = 2–4%, 5 = 4–8%, 6 = 8–16%, 7 =\n16–32%, 8 = 32–64% and 9 = > 64% coverage.\nCorridor physical properties and\nmanagement:\nCorridor age / Age Age of corridor in years. Electric company\nSlope steepness / SlopeSt Steepness expressed with 4 ordinal classes: 1 = Level ground, 2 = modest, 3 = steep Field work\nand 4 = very steep slope.\nSlope direction / SlopeDr Direction expressed with 3 ordinal classes: 1 = North, 2 = East, West or level ground, Field work\n3 = South.\nCorridor width / Width Width expressed with 4 ordinal classes: 1 = < 26 meters, 2 = 26 m, 3 = 26–50 m and 4 Field work\n= > 50 m.\nTime since management / Time Time in years since the previous clear-cut of the corridor. Electric company\nAmount of debris / Debris Expressed with 5 ordinal classes: 1 = No debris, 2 = Small, 3 = Moderate, 4 = Large Field work\nand 5 = Excessive amounts of debris.\nShrub density / ShrubD Density of shrubs and saplings, expressed with 5 ordinal classes: 1 = No shrub layer, Field work\n2 = Sparse, 3 = Somewhat dense, 4 = Very dense and 5 = Extremely dense shrub\nlayer.\nEllenberg indicator values: Plot-wise mean indicator values based on the values of species found on each plot. [33, 34]\nThe studied species in each analysis were omitted from the calculation in order to\navoid circular reasoning.\nEllenberg light abundance / ELight\nEllenberg soil moisture / EMoisture\nEllenberg soil calcium / ECalcium\nEllenberg soil productivity / EProd\nPresent-day land cover: Cover of CORINE land cover classes on a circle with 100 m diameter surrounding the [32]\nplot\nCover of surrounding urban fabric / Cover (%) of CORINE class 1 (levels 1–4),\nCovUrb\nCover of surrounding artiﬁcial surfaces Cover (%) of CORINE class 1 (levels 1–15),\n/ CovArt\nCover of surrounding agricultural areas Cover (%) of CORINE class 2 (levels 16–21) and\n/ CovAgr\nCover of surrounding forests and semi- Cover (%) of CORINE class 3, (levels 22–38, excluding 36)\nnatural areas / CovFor\nHistorical land cover: Categorical variable describing land cover on plot location in the late 1800´s. Topographical map\nCorresponding present CORINE classes are expressed in brackets. (1880) [31]\nHistory: Bedrock / H:Bed (class 3) Outcrops of bare bedrock\nHistory: Open areas and pasture / H: Non-forested, open areas unsuitable for cultivation and often used as pastures\nPas (class 2)\nHistory: Grassland / H:Grass (class 2) Mesic, often lowland areas used for hay-making and grazing\nHistory: Cultivated ﬁeld / H:Cult (class Staple crops\n2)\nHistory: Forest / H:For (class 3) Forested areas\nAutocovariate / Autocov: A measure of spatial autocorrelation. Describes the effect of neighboring plots on the Analyses [35]\nresponse variable.",
+   "table_id": "PMC4643934_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    789.5,
+    186.2,
+    800.9
+   ],
+   "ocr": "doi:10.1371/journal.pone.0142236.t001"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    833.5,
+    724.1,
+    896.6
+   ],
+   "ocr": "was included in each model. The autocovariate was based on the inversely distance weighted effect of other plots on the response variable [39, 35]. The predictors in the models were exam- ined for multicollinearity by comparing their variance inflation factors (VIF’s) in the prelimi- nary models and by calculating pairwise Pearson correlations between them (S3 Table)."
+  },
+  "p1_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0142236 November 13, 2015 5 / 16"
+  }
+ }
+}

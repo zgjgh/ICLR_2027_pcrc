@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_241",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    553.1,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Quantifying scale-variance relationships"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    31.9,
+    95.9,
+    699.7,
+    119.7
+   ],
+   "ocr": "Table 4. Summary of environmental data. Mean values (and range) of the grab-scale environmental variables acquired via in situ sampling. RPD and LOI refer to the apparent redox potential discontinuity depth and sediment organic matter measured by loss on ignition, respectively."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    31.8,
+    128.3,
+    696.9,
+    233.1
+   ],
+   "ocr": "Study Location Water Depth (m) % Gravel % Sand % Mud (Silt-Clay) RPD (cm) LOI (%)\nKingston-Saugerties ’01 9.9 (1.3–22.0) ------- 67.8 (11.6–99.8) 32.2 (0.2–88.5) ------- 2.9 (0.6–6.6)\nKingston-Saugerties ’02 9.7 (1.1–22.0) ------- 66.3 (11.6–99.8) 33.1 (0.2–88.5) ------- 3.0 (0.6–6.6)\nHaverstraw 6.4 (2.8–19.9) 14.2 (0–92.3) 19.39 (1.5–65.7) 66.0 (3.3–98.1) 1.0 (0–5.0) -------\nTappan Zee 7.0 (2.7–12.2) 9.1 (0–64.4) 13.0 (1.1–60.8) 77.9 (3.4–98.9) ------- -------\nRobins 9.5 (3.6–18.3) 0.5 (0–8.5) 54.2 (11.4–98.6) 45.3 (1.3–88.4) ------- -------\nShelter 5.7 (2.6–11.1) 14.2 (0–63.8) 77.0 (4.3–99.0) 8.8 (0.2–83.8) ------- -------",
+   "table_id": "PMC5764243_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    31.9,
+    241.3,
+    222.6,
+    251.9
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0189313.t004"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    273.8,
+    726.3,
+    591.7
+   ],
+   "ocr": "Empirical variograms of community data and estimates of small-scale variation The emprirical variance γ(h) increased with geographic distance class across all study loca- tions, indicating that spatial structure was present in the species assemblages (Fig 3). At small distance classes, γ(h) was dominated by pairs of samples that were within the same acoustic province, and γ(h) reached a sill once it became dominated by between-province sample pairs at large distance classes. The shape of γ(h) was smooth for the Haverstraw Bay, Tappan Zee, Robins Island and Shelter Island sites, but more variable in the Kingston-Saugerties data sets. The pattern for Kingston-Saugeties probably reflects the elongated north-south structure of this study area in the Hudson River where short east-west distances can place sample pairs in different provinces but long north-south distances can still lead to within-province pairs con- tributing to γ(h). Based on estimates of the nugget effect in the variogram models, small-scale variability rep- resented a substantial fraction of the overall community variance across all data sets, ranging from 36 to 59% of the total faunal variance (Table 6). A piecewise linear model was selected for 2 of the 6 data sets (Kingston-Saugerties ‘01, Robins Island), a spherical model for 3 data sets Table 5. Percent surficial cover from maximum likelihood analysis of images extracted from underwater video surveys at the Tappan Zee, Robins Island, and Shel- ter Island locations."
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    600.4,
+    694.3,
+    879.9
+   ],
+   "ocr": "Percent Cover Class Abbreviation Study Location (number of classes)\nTappan Zee (5) Robins Island (9) Shelter Island (14)\nMean % ± 1 SD Mean % ± 1 SD Mean % ± 1 SD\nSand PCSa - - 40.19 ± 43.17\nMud PCMu 97.60 ± 9.63 81.88 ± 37.11 3.17 ± 14.2\nShell Fragment PCShFg - 1.65 ± 3.12 1.58 ± 2.91\nShell PCSh 0.08 ± 0.61 0.26 ± 1.17 7.10 ± 20.68\nRock PCR - - 0.67 ± 2.85\nPebble PCPb - - 1.19 ± 8.18\nSeaweed PCSw - 0.44 ± 2.35 4.94 ± 8.74\nSilty Shell PCSiSh 0.97 ± 8.36 0.66 ± 2.41 4.85 ± 16.01\nShell Pebble PCShPb - - 10.53 ± 25.53\nMuddy Sand PCMuSa - 14.74 ± 33.51 13.5 ± 28.00\nSilty Material PCSiCovered 1.07 ± 3.61 - -\nAnthropogenic Anthro - - 0.004 ± .040\nUnknown Unk 0.21 ± 1.16 0.01 ± 0.05 0.09 ± 0.67\nMicrociona prolifera Mpor - 0.02 ± 0.10 0.14 ± 0.32\nCrepidula spp. Crep - 0.15 ± 0.84 11.87 ± 27.28",
+   "table_id": "PMC5764243_table_4"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    236.2,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0189313.t005"
+  },
+  "p4_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0189313 January 11, 2018 11 / 25"
+  }
+ }
+}

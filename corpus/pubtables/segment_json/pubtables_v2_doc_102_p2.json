@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_102",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.8,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:87"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/87"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    641.9
+   ],
+   "ocr": "gorical data, such as sequence data described in [25]. Sec- ond, we investigated possible pathways crosstalk using GeneGo's MetaCore [26] and Human Protein Reference Database (HPRD) [27]. Shortest path analyses between a pair of genes were performed using GeneGo's MetaCore to assess how close the two genes are related to each other based on the curated database of human protein-protein, protein-DNA and protein compound interactions. Results Class Votes The target number of Tight Clusters, 5, 10, 15 and 20 were chosen and the tuning parameters were as defined in the Tight Clustering manual. We found that the pathway clus- ters identified when the target number was 5, 10 and 15 were essentially a subset of those in the 20 Tight Clusters case. To facilitate the investigation of pathway crosstalk, we consider a larger number of Tight Clusters, i.e. 20. We considered forming 25, 30, 35 tight clusters in addition to 5, 10, 15, and 20. Most of the clusters discovered in 20 tight clusters run were rediscovered in 25, 30, and 35. Please see Additional files 2 and 3, varysize_5-10-15- 20.xls and varysize_20-25-30-35.xls for more details. On page 12 of the manual for the Tight Clustering program, four sets of parameters for tight clusters of size 5, 10, 15 and 20 were suggested. Therefore, we chose 20 tight clus- ters. Among these 20 inferred Tight Clusters, we selected those clusters containing two or more pathways whose OOB error rates were among the top 22 lowest across all the pathways. Since we aim to pick out the top pathways with the same OOB error rates, if we had chosen the top 20 pathways, we would have missed some pathways with the same OOB error rates. Based on this criterion, the OOB error rates cut off was 15.5%, 15.5%, and 20% for Table 2: Tight Cluster Results 1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    595.9
+   ],
+   "ocr": "the p53, LymphNode and Consort data sets respectively. In each of the three data sets, three Tight Clusters were selected. These Tight Clusters are listed in Additional file 1, Table A1 for Consort; Table A2 for LymphNode; and Table A3 for p53 data set. A2ii and A3i from Additional file 1 for LymphNode and p53 data sets, respectively, highly resem- ble each other (Table 2). Apart from the Alzheimer's dis- ease pathway, the other five pathways are overlapped between the LymphNode and p53 data sets. A2iii, A3ii and A1i in the respective data sets are also very similar (Table 3). \"Butanoate metabolism\", \"Propanoate metabolism\" and \"Valine leucine and isoleucine degradation\" appear in each of the three Tight Clusters of the three different data sets. The A3iii Tight Cluster in p53 data set is a subset of a much larger Tight Cluster A2i in LymphNode, see Addi- tional file 1, Tables A2 and A3 for more details. Pathway Clusters We further investigate the pathway cluster (Table 2) found from the previous section. Figure 3 consists of three path- way clusters built from the overlapped pathways. It can be seen that \"GATA3 participates in activating the Th2 cytokine gene pathway\" and \"Nitrogen Metabolism path- way\" do not have any overlapping probes with the other 3 pathways. The ESR1 gene is shared among 3 pathways: \"PELP1 Modulation of Estrogen Receptor Activity path- way\", \"CARM1 and Regulation of the Estrogen Receptor pathway\", and \"Downregulated of MTA 3 in ER negative Breast Tumors pathway\". In addition to ESR1, the PELP1 and CARM1 pathways share the informative PELP1 gene. Genes, such as RARA, PGR, PDZK1, HSPB1, HDAC2, and MAPK3 that are not shared also show some importance in classifying subjects."
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    653.1,
+    688.2,
+    902.3
+   ],
+   "ocr": "LymphNode (A2ii in Additional file 1) OOB error(%) Number of probes\nBC-Pelp1_Modulation_of_Estrogen_Receptor 15.38 20\nAlzheimer's_disease 17.13 23\nBC-Deregulation_of_CDK5_in_Alzheimers_Disease 16.08 24\nBC-Downregulated_of_MTA_3_in_ER_negative_Breast_Tumors 12.24 26\nBC-GATA3_participate_in_activating_the_Th2_cytokine 11.89 33\nNitrogen_metabolism 14.34 40\nGene Symbols of informative genes in this pathway cluster\nMAPK3, PELP1, ESR1, PDZK1, HSPB1, CA12, GLS, IL5, JUNB, GATA3, MAP2K3, MAPT, STH, CSNK1A1\np53 (A3i in Additional file 1)\nBC-Pelp1_Modulation_of_Estrogen_Receptor 13.94 20\nBC-Downregulated_of_MTA_3_in_ER_negative_Breast_Tumors_ 15.54 26\nBC-GATA3_participate_in_activating_the_Th2_cytokine 13.55 33\nNitrogen_metabolism 17.13 40\nBC-CARM1_and_Regulation_of_the_Estrogen_Receptor 14.34 54\nGene Symbols of informative genes in this pathway cluster\nMAPK3, PELP1, ESR1, PDZK1, HSPB1, HDAC2, CA12, GLS, IL5, JUNB, GATA3, MAP2K3",
+   "table_id": "PMC2335306_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    918.6,
+    311.2,
+    930.4
+   ],
+   "ocr": "The bold pathways are those with low OOB error rates"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 12 (page number not for citation purposes)"
+  }
+ }
+}

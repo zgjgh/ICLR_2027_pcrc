@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_162",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    406.0,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Evaluation of a Cochlear Implant Strategy Based on a “Phantom” Channel"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    193.4,
+    107.4
+   ],
+   "ocr": "Table 2. Subject demographics."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    320.5
+   ],
+   "ocr": "Patient id Age Duration of deafness in years Cause of deafness Implant experience in years Electrode type Stimulation Rate (pps)\nP1 69 0 genetic 6 HiRes90k 1736\nP2 62 12.58 unknown 5.17 HiRes90k 1736\nP3 34 0 otitis media 4.75 HiRes90k 1736\nP4 60 3.25 sudden hearing loss 6 HiRes90k 1736\nP5 76 0 suddden hearing loss 3.2 HiRes90k 1736\nP6 49 3.75 sudden hearing loss 12.75 Clarion CII 1736\nP7 32 0.75 unkown 13 Clarion CII 1201\nP8 53 4 unknown 13.25 Clarion CII 1341\nP9 61 5.75 unknown 6.17 HiRes90k 1736\nP10 50 9.59 genetic 2.1 HiRes90k 1736\nP11 50 30.58 sudden hearing loss 9.42 HiRes90k 1736\nP12 56 0 unknown 11.67 Clarion CII 1024",
+   "table_id": "PMC4373925_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    328.6,
+    727.3,
+    589.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0120148.t002 Fitting The BEPSnet software (Advanced Bionics LLC) was used to fit both the F120 and Phantom strategies. The Phantom strategy was fitted based on the F120 clinical map, with only the fitting for the Phantom channel being different. Pulse trains at the same rate as used for the remaining channels, but with a phase duration 6 times longer, were delivered using partial bipolar stimu- lation to the two most apical electrode contacts. The Phantom channel fitting required two stages: 1) the most comfortable level for the Phantom channel (Mph) in μAmperes was found and 2) the maximum value of σ that elicited a lower pitch sensation than electrode contact 1 in monopolar mode was found. Initially, Phantom was configured with a value of σ set to 0.625 because this value should be the one eliciting the lowest pitch perception while at the same time minimizing the risk of pitch reversal [7]. Given this value of σ, the initial M level on the Phantom channel (Mph) was set using the following empirical equation: MEL1"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    439.9,
+    582.4,
+    458.5,
+    598.2
+   ],
+   "ocr": "Mph"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    462.6,
+    583.1,
+    727.3,
+    606.0
+   ],
+   "ocr": "¼ ð1Þ"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    591.1,
+    727.2,
+    898.4
+   ],
+   "ocr": "ð1 � sÞN where MEL1 denotes the M level on electrode 1 and N denotes the pulse width increase factor for the Phantom channel with respect to the remaining channels. Here N was always set to 6. Using σ = 0.625 means that 62.5% of the current ﬂows from the primary electrode contact to the compensating contact and thus, does not contribute to loudness. Next, the level on the Phantom channel was modiﬁed until the subject perceived it to produce the same loudness sen- sation as electrode contact 1 stimulated at MEL1 in monopolar mode. Later the subject was asked whether Phantom sounded lower in pitch than electrode contact 1 (using monopolar stimulation). The BEPSnet software allowed us to change contact 1 back and forth between Phantom and monopolar mode. The subject was asked to identify the lowest pitch sensation from the two stimuli (electrode 1: monopolar or Phantom). This task was re- peated four times in a randomized order with the subject blind to the stimulation mode. If a subject selected Phantom to sound lower in pitch 100% of the time, that value of σ was allocat- ed. Otherwise the value of σ was reduced to 0.5, the Mph was reestimated and the experiment repeated until Phantom was perceived to sound lower in pitch than electrode 1 in 100% of the trials. Finally, the strategy was switched on and the subject was asked about the sound balance produced by Phantom. If a sound quality was too much dominated by low frequency, the Mph was slightly reduced."
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120148 March 25, 2015 8 / 25"
+  }
+ }
+}

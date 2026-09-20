@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_130",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC3097163_table_0",
+   "page_num": 1,
+   "bbox": [
+    386.1,
+    671.7,
+    676.3,
+    915.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC3097163_table_0.png",
+   "html": "<table><tr><td colspan=\"4\">Exact pattern discovery</td></tr><tr><td></td><td>TEIRESIAS</td><td>sc_score &gt; 0.90</td><td>Non-redundant</td></tr><tr><td>Number of patterns</td><td>4815</td><td>1622</td><td>231</td></tr><tr><td>Coverage (%)</td><td>100%</td><td>-</td><td>100</td></tr><tr><td>FDR (%)</td><td>3.58</td><td>-</td><td>0.25</td></tr><tr><td colspan=\"4\">Chemical equivalency set</td></tr><tr><td></td><td>TEIRESIAS</td><td>sc_score &gt; 0.90</td><td>Non-redundant</td></tr><tr><td>Number of patterns</td><td>38904</td><td>8251</td><td>235</td></tr><tr><td>Coverage</td><td>100</td><td>-</td><td>100</td></tr><tr><td>FDR</td><td>6.79</td><td>-</td><td>0.03</td></tr><tr><td colspan=\"4\">Structural equivalency set</td></tr><tr><td></td><td>TEIRESIAS</td><td>sc_score &gt; 0.90</td><td>Non-redundant</td></tr><tr><td>Number of patterns</td><td>32812</td><td>7347</td><td>225</td></tr><tr><td>Coverage</td><td>100</td><td>-</td><td>100</td></tr><tr><td>FDR</td><td>6.69</td><td>-</td><td>0.02</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3097163_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    128.9,
+    671.4,
+    523.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC3097163_table_1.png",
+   "html": "<table><tr><td colspan=\"3\">Exact pattern discovery</td><td colspan=\"3\">Chemical equivalency set</td><td colspan=\"3\">Structural equivalency set</td></tr><tr><td>Pattern</td><td>sc_score</td><td>Log- likelihood</td><td>Pattern</td><td>sc_score</td><td>Log- likelihood</td><td>Pattern</td><td>sc_score</td><td>Log- likelihood</td></tr><tr><td>KPGKGRRK</td><td>1</td><td>-37.67</td><td>KPGKGRRK</td><td>1</td><td>-37.67</td><td>KPGKGRRK</td><td>1</td><td>-37.67</td></tr><tr><td>EDGTKEPLL</td><td>1</td><td>-42.25</td><td>G.[AG][DE].K..SL</td><td>1</td><td>-23.91</td><td>S.S[ITV]H..N</td><td>1</td><td>-19.73</td></tr><tr><td>HAESGEYGL</td><td>1</td><td>-44.51</td><td>[ILMV][ILMV].[AG].D.AT</td><td>1</td><td>-21.70</td><td>E.V[DLN].[KMR]P</td><td>1</td><td>-18.28</td></tr><tr><td>LGTVINQL</td><td>1</td><td>-36.61</td><td>G[AG].[DE][ILMV]K.[ILMV]S [ILMV]</td><td>1</td><td>-31.33</td><td>MLQ...[ITV].[KMR]</td><td>1</td><td>-19.03</td></tr><tr><td>ADEAT</td><td>1</td><td>-20.01</td><td>G..[FY]W[QN]..D[ST]</td><td>1</td><td>-25.89</td><td>[EQ].GYT.R</td><td>1</td><td>-20.32</td></tr><tr><td>ALNALKLVT</td><td>1</td><td>-41.86</td><td>LGTVINQL</td><td>1</td><td>-36.61</td><td>[KMR]..QGY..R</td><td>1</td><td>-20.23</td></tr><tr><td>YFT...I</td><td>1</td><td>-14.57</td><td>EDGTKEPLL</td><td>1</td><td>-42.25</td><td>EDGTKEPLL</td><td>1</td><td>-42.25</td></tr><tr><td>CLA..VN</td><td>1</td><td>-20.96</td><td>GA.D[DE]A[ST]</td><td>1</td><td>-24.88</td><td>LGTVINQL</td><td>1</td><td>-36.61</td></tr><tr><td>R..DP....VV</td><td>1</td><td>-20.01</td><td>ADEAT</td><td>1</td><td>-20.01</td><td>HAESGEYGL</td><td>1</td><td>-44.51</td></tr><tr><td>H.YSQ</td><td>1</td><td>-15.76</td><td>[ST]..A[DE]G.A</td><td>1</td><td>-18.38</td><td>ADEAT</td><td>1</td><td>-20.01</td></tr><tr><td>VYL..L...Y</td><td>1</td><td>-20.29</td><td>[AG][ILMV]..L[KR]L..D</td><td>1</td><td>-20.11</td><td>ALNALKLVT</td><td>1</td><td>-41.86</td></tr><tr><td>NAW..D</td><td>1</td><td>-15.89</td><td>T.R.E..A.[ILMV]</td><td>1</td><td>-18.48</td><td>GG...[KMR]M..L</td><td>1</td><td>-19.48</td></tr><tr><td>A...KHF.G.G</td><td>1</td><td>-26.56</td><td>[ST].LN.LK[ILMV]</td><td>1</td><td>-23.04</td><td>[DLN]L.EL..E[EQ]</td><td>1</td><td>-20.75</td></tr><tr><td>L..SRGF</td><td>1</td><td>-19.77</td><td>[AG].HF[ILMV]GD</td><td>1</td><td>-24.32</td><td>[EQ]..P..[FHWY]P.E</td><td>1</td><td>-19.33</td></tr><tr><td>REPDP</td><td>1</td><td>-21.25</td><td>MLQ[QN]...[ILMV][KR]</td><td>1</td><td>-23.90</td><td>QL...N.L.[KMR][DLN]</td><td>1</td><td>-23.32</td></tr><tr><td>G.MFW</td><td>1</td><td>-16.96</td><td>[AG]KHF.G.G</td><td>1</td><td>-25.89</td><td>A[FHWY].[FHWY]E...EN</td><td>1</td><td>-24.56</td></tr><tr><td>L.G..VVP..S</td><td>1</td><td>-24.86</td><td>HAESGEYGL</td><td>1</td><td>-44.51</td><td>M[FHWY].[EQ][FHWY].D [ITV]</td><td>1</td><td>-23.90</td></tr><tr><td>MDHSNY</td><td>1</td><td>-28.88</td><td>[KR][ILMV].P.[ILMV][ST]..[FY]</td><td>1</td><td>-21.32</td><td>[ITV]..G[ITV].T.[ITV].V</td><td>1</td><td>-22.12</td></tr><tr><td>VL.G..TNI</td><td>1</td><td>-25.03</td><td>[AG][ST].D..GP</td><td>1</td><td>-18.86</td><td>[KMR]Y...N.V[CS]</td><td>1</td><td>-19.41</td></tr><tr><td>L..A..V.SS</td><td>1</td><td>-18.77</td><td>G...M.C..I</td><td>1</td><td>-16.47</td><td>[FHWY]..KG.[ITV].R[ITV]</td><td>1</td><td>-23.29</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3097163_table_2",
+   "page_num": 3,
+   "bbox": [
+    383.9,
+    142.7,
+    676.9,
+    676.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC3097163_table_2.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Amino acid frequencies (%)</td></tr><tr><td></td><td>Exact pattern discovery</td><td>Chemical equivalency set</td><td>Structural equivalency set</td></tr><tr><td>A (alanine)</td><td>8</td><td>5</td><td>6</td></tr><tr><td>R (arginine)</td><td>3</td><td>2</td><td>2</td></tr><tr><td>N (aspargine)</td><td>4</td><td>3</td><td>3</td></tr><tr><td>D (aspartic acid)</td><td>6</td><td>4</td><td>4</td></tr><tr><td>C (cysteine)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>E (glutamic acid)</td><td>5</td><td>4</td><td>3</td></tr><tr><td>Q (glutamine)</td><td>2</td><td>1</td><td>2</td></tr><tr><td>G (glycine)</td><td>13</td><td>9</td><td>10</td></tr><tr><td>H (histidine)</td><td>3</td><td>2</td><td>2</td></tr><tr><td>I (isoleucine)</td><td>5</td><td>3</td><td>3</td></tr><tr><td>L (leucine)</td><td>9</td><td>6</td><td>6</td></tr><tr><td>K (lysine)</td><td>4</td><td>3</td><td>3</td></tr><tr><td>M (methionine)</td><td>2</td><td>1</td><td>1</td></tr><tr><td>F (phenylalanine)</td><td>4</td><td>3</td><td>2</td></tr><tr><td>P (proline)</td><td>6</td><td>4</td><td>4</td></tr><tr><td>S (serine)</td><td>7</td><td>5</td><td>5</td></tr><tr><td>T (threonine)</td><td>6</td><td>3</td><td>3</td></tr><tr><td>W (tryptophan)</td><td>2</td><td>2</td><td>1</td></tr><tr><td>Y (tyrosine)</td><td>4</td><td>3</td><td>2</td></tr><tr><td>V (valine)</td><td>7</td><td>4</td><td>4</td></tr><tr><td>AG/ITV</td><td>-</td><td>6</td><td>10</td></tr><tr><td>DE/DLN</td><td>-</td><td>3</td><td>7</td></tr><tr><td>FY/KMR</td><td>-</td><td>3</td><td>5</td></tr><tr><td>QN/EQ</td><td>-</td><td>2</td><td>2</td></tr><tr><td>ILMV/FHWY</td><td>-</td><td>12</td><td>7</td></tr><tr><td>ST/CS</td><td>-</td><td>5</td><td>2</td></tr><tr><td>KR/-</td><td>-</td><td>3</td><td>-</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3097163_table_3",
+   "page_num": 4,
+   "bbox": [
+    77.0,
+    142.7,
+    673.1,
+    486.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC3097163_table_3.png",
+   "html": "<table><tr><td></td><td>Residues with cis bond</td><td>Preceding residue</td><td>Frequency of residues with cis bond (%)</td><td>Frequency of preceding residue (%)</td></tr><tr><td>A</td><td>23</td><td>22</td><td>7</td><td>7</td></tr><tr><td>R</td><td>15</td><td>7</td><td>5</td><td>2</td></tr><tr><td>N</td><td>15</td><td>14</td><td>5</td><td>4</td></tr><tr><td>D</td><td>26</td><td>23</td><td>8</td><td>7</td></tr><tr><td>C</td><td>5</td><td>4</td><td>2</td><td>1</td></tr><tr><td>E</td><td>27</td><td>20</td><td>8</td><td>6</td></tr><tr><td>Q</td><td>9</td><td>14</td><td>3</td><td>4</td></tr><tr><td>G</td><td>52</td><td>62</td><td>16</td><td>19</td></tr><tr><td>H</td><td>7</td><td>7</td><td>2</td><td>2</td></tr><tr><td>I</td><td>7</td><td>6</td><td>2</td><td>2</td></tr><tr><td>L</td><td>9</td><td>11</td><td>3</td><td>3</td></tr><tr><td>K</td><td>17</td><td>16</td><td>5</td><td>5</td></tr><tr><td>M</td><td>4</td><td>5</td><td>1</td><td>2</td></tr><tr><td>F</td><td>15</td><td>12</td><td>5</td><td>4</td></tr><tr><td>P</td><td>0</td><td>24</td><td>0</td><td>8</td></tr><tr><td>S</td><td>28</td><td>13</td><td>9</td><td>4</td></tr><tr><td>T</td><td>22</td><td>12</td><td>7</td><td>4</td></tr><tr><td>W</td><td>2</td><td>16</td><td>1</td><td>5</td></tr><tr><td>Y</td><td>16</td><td>14</td><td>5</td><td>4</td></tr><tr><td>V</td><td>19</td><td>16</td><td>6</td><td>5</td></tr></table>"
+  },
+  {
+   "table_id": "PMC3097163_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    549.8,
+    670.1,
+    891.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC3097163_table_4.png",
+   "html": "<table><tr><td colspan=\"2\">ELM</td><td colspan=\"2\">Sequences</td></tr><tr><td>Functional class</td><td>GO category</td><td>PDB id</td><td>GO category</td></tr><tr><td>LIG_14-3-3_2</td><td>Binding</td><td>2O34A, 2FPHX, 1NAR0, 2DDXA</td><td>Binding, catalytic activity</td></tr><tr><td>LIG_PP1</td><td>Binding, enzyme regulator activity</td><td>2HHPA, 2HFKA, 1D3YA, 1OI7A, 1ZY7A, 2B18A, 2F2HA, 2GZQA</td><td>Binding, catalytic activity, transporter activity, transcription regulator activity</td></tr><tr><td>LIG_PP2B_1</td><td>Binding, catalytic activity</td><td>1ES5A, 1T8TA, 1EZWA, 1V5VA</td><td>Catalytic activity</td></tr><tr><td>LIG_MAPK_1</td><td>Binding</td><td>1B43A, 1NSZA, 2GAKA, 2O34A, 1VPDA, 2NQTA</td><td>Binding, catalytic activity,</td></tr><tr><td>LIG_SCF-TrCP1_1</td><td>Binding, catalytic activity</td><td>1B43A, 1Y8TA, 1M4LA, 2IDLA</td><td>Binding, catalytic activity</td></tr><tr><td>LIG_14-3-3_3</td><td>Binding</td><td>2IDLA, 2HHPA, 2O34A, 1UG6A, 2C0HA, 1B12A, 1O54A, 2FPHX, 1GNLA, 2FMPA, 1D3GA, 2ES4D, 2DXQA, 2A67A, 2G0WA, 1PO5A, 1Q74A, 1CNV0, 1JNDA, 1KMVA, 2JG0A, 7A3HA</td><td>Binding, catalytic activity</td></tr><tr><td>LIG_EH1_1</td><td>Binding</td><td>1B12A, 2C0HA, 1WDPA, 2CK3H, 1O54A, 2HHPA, 1R5YA, 2D0OA, 1USGA, 2DG1A, 1O2DA, 1YACA, 1RYIA, 1VZIA, 1NAR0, 2DSKA, 1NTHA, 2AFWA, 2C61A, 1D3GA, 1NNWA, 2NX9A, 1X13A, 2A67A, 1C8XA, 2AEEA, 1YDYA, 2GAKA</td><td>Binding, catalytic activity</td></tr><tr><td>LIG_BRCT_BRCA1_1</td><td>Binding</td><td>1FSGA, 1OQ1A, 2FPQA, 1ZMTA, 2AZ4A, 1NOFA, 1UEKA, 2HSIA</td><td>Binding, catalytic activity</td></tr><tr><td>LIG_NRBOX</td><td>Binding</td><td>1M4LA, 2NT0A, 2NX9A, 1VLRA, 2DJFA, 1DQPA, 1G2QA, 1J2RA, 1NF9A, 1ITXA, 2JE8A, 1B25A, 1CNV0, 1NAR0, 2DSKA, 2CK3H, 2IACA, 1FSGA, 1VJPA, 1NTHA, 2HSIA</td><td>Binding, catalytic activity</td></tr><tr><td>LIG_CORNRBOX</td><td>Binding</td><td>1O54A, 2C61A, 1C8XA, 1LBVA</td><td>Binding, catalytic activity, transporter activity</td></tr></table>"
+  }
+ ]
+}

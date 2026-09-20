@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_348",
+  "page": 2,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "MRCs in Virtual Ligand Screening"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    329.4,
+    92.8
+   ],
+   "ocr": "Table 2. SRC and MRC statistics in terms of AUAC."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    669.9,
+    711.3
+   ],
+   "ocr": "Number of Min SRC Max SRC Mean SRC MRC-score MRC-rank Ideal\nTARGET Conformers AUAC AUAC AUAC AUAC AUAC AUAC\nACE_HUMAN 7 0.52 0.59 0.55 0.66 0.66 0.99\nACES_TORCA 21 0.43 0.73 0.55 0.67 0.63 0.99\nADA_BOVIN 13 0.20 0.39 0.28 0.15 0.17 0.99\nALDR_HUMAN 15 0.47 0.72 0.57 0.79 0.80 0.99\nAMPC_COLI 16 0.28 0.59 0.45 0.47 0.44 0.98\nANDR_HUMAN 29 0.34 0.74 0.61 0.74 0.75 0.99\nCDK2_HUMAN 30 0.52 0.81 0.65 0.82 0.81 0.99\nCOMT_RAT 3 0.51 0.58 0.54 0.54 0.55 0.99\nDHFR_HUMAN 6 0.74 0.88 0.79 0.90 0.92 0.99\nEGFR_HUMAN 6 0.41 0.65 0.51 0.54 0.65 0.99\nESR1_AG_HUMAN 4 0.71 0.82 0.76 0.82 0.82 0.99\nESR1_ANT_HUMAN 13 0.35 0.53 0.44 0.43 0.43 0.99\nF10A_HUMAN 20 0.48 0.86 0.66 0.81 0.80 0.98\nFGFR1_HUMAN 4 0.36 0.58 0.43 0.55 0.58 0.99\nGCR_HUMAN 4 0.25 0.62 0.42 0.45 0.54 0.99\nHMDH_HUMAN 9 0.60 0.77 0.65 0.58 0.61 0.99\nHS9A_HUMAN 20 0.28 0.62 0.44 0.41 0.49 0.99\nINHA_MYCTU 14 0.35 0.66 0.52 0.63 0.58 0.99\nKITH_HHV11 19 0.40 0.75 0.6 0.74 0.72 0.99\nMCR_HUMAN 11 0.80 0.87 0.85 0.82 0.84 0.99\nMK14_MOUSE 19 0.28 0.70 0.47 0.61 0.62 0.99\nNRAM_INBBE 11 0.79 0.90 0.85 0.88 0.86 0.99\nPARP1_CHICK 6 0.67 0.79 0.73 0.83 0.83 0.99\nPDE5A_HUMAN 11 0.65 0.84 0.77 0.77 0.77 0.99\nPGH1_SHEEP 2 0.70 0.70 0.70 0.73 0.75 0.99\nPGH2_MOUSE 2 0.58 0.75 0.67 0.71 0.69 0.99\nPNPH_BOVIN 19 0.46 0.79 0.60 0.77 0.80 0.99\nPOL_HV1RT 17 0.46 0.68 0.61 0.72 0.76 0.99\nPRGR_HUMAN 6 0.61 0.72 0.65 0.71 0.84 0.99\nPUR3_COLI 3 0.80 0.88 0.85 0.85 0.94 0.99\nPYGM_RABIT 20 0.21 0.44 0.32 0.22 0.26 0.99\nRXRA_HUMAN 15 0.50 0.93 0.76 0.88 0.85 0.98\nSRC_HUMAN 14 0.38 0.63 0.52 0.61 0.60 0.99\nTHRB_HUMAN 20 0.28 0.63 0.47 0.50 0.50 0.99\nTRY1_BOVIN 19 0.33 0.89 0.69 0.76 0.79 0.99\nVGFR2_HUMAN 8 0.45 0.62 0.55 0.70 0.73 0.99",
+   "table_id": "PMC3098722_table_1"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    724.6,
+    225.1,
+    733.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0018845.t002"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    752.3,
+    375.8,
+    925.3
+   ],
+   "ocr": "metalloenzyme involved in purine metabolism. It bears a very peculiar network of interactions at the binding site, which revolves around the coordination complex formed by a zinc ion, three hystidine residues, and the inhibitor. Furthermore, the binding pocket is quite large while the known ligands are relatively small. For these reasons, ADA_BOVIN is widely recognized to be a very complicated target for computational studies. As a matter of fact, in the original DUD study by Huang and colleagues [35], ADA_BOVIN was already reported as a target that did not provide any significant separation between binders and non- binders via a fully automated protocol. HMDH_HUMAN (i.e. HMG-CoA reductase) is an interesting example of how noise generated in individual runs can accumulate to compromise the"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    752.3,
+    700.8,
+    925.6
+   ],
+   "ocr": "global performance of MRC-VLS. In particular, for several receptor conformers, decoys systematically outranked true binders and were assigned very high scores which, in turn, inflated their final position in our MRC-VLS. Even though it is beyond the purpose of the present study, it should be pointed out that, exploiting the knowledge of an expert on the target biology, a customized tuning of the binding pocket composition and of the docking protocol parameters could significantly improve both the SRC and MRC VLS performances [54]. In MRC-rank (Table 2), the results turned out to be slightly better than in MRC-score. A few significant differences were observed for the following targets: i) EGFR_HUMAN and PRGR_HUMAN AUAC’s assessments were improved with"
+  },
+  "p2_b6": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p2_b7": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    695.9,
+    963.6
+   ],
+   "ocr": "7 May2011 | Volume 6 | Issue 5 | e18845"
+  }
+ }
+}

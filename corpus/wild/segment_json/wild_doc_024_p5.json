@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_024",
+  "page": 5,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "The following data table presents critical insights into the comparative analysis of the DU145 cell lines, particularly focusing on the multidrug resistance protein 1 (MDR1) expression levels across various experimental conditions."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    109
+   ],
+   "ocr": "The metrics highlighted, including the ratios of DU145-TxR to DU145 and DU145-TxR/CxR to DU145-TxR, provide a nuanced understanding of the cellular responses to therapeutic interventions."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    127.0,
+    580.0,
+    430.0
+   ],
+   "ocr": "Gene name Normalized signal Ratio\nDU145 DU145-TxR DU145-TxR/CxR DU145-TxR:DU145 DU145-TxR/CxR:DU145-TxR\nMDR1 0.024 12.629 14.701 517.36 1.16\nMRP1 1.242 0.709 0.691 0.57 0.98\nMRP2 7.570 0.224 1.218 0.03 5.43\nMRP3 5.451 4.871 3.580 0.89 0.73\nMRP4 0.371 0.450 0.472 1.21 1.05\nMRP5 2.454 1.611 1.630 0.66 1.01\nMRP6 0.039 0.030 0.049 0.78 1.60\nMRP8 0.022 0.020 0.018 0.93 0.91\nMRP9 0.024 0.023 0.021 0.93 0.92\nMRP10 0.406 0.395 0.413 0.97 1.04\nMRP11 0.024 0.022 0.020 0.93 0.92\nMRP12 0.021 0.020 0.018 0.94 0.92\nMRP13 0.024 0.022 0.020 0.92 0.92",
+   "table_id": "img_026190_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    446,
+    580,
+    504
+   ],
+   "ocr": "Specifically, the DU145-TxR cell line demonstrates a significant increase in MDR1 expression, with a value of 12.629, contrasted with the baseline measure of 0.024 for the DU145 line. This notable elevation is further illustrated by the DU145- TxR/CxR, which exhibits an MDR1 level of 14.701, indicating an enhanced resistance profile when subjected to combined treatment regimens."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    492,
+    580,
+    550
+   ],
+   "ocr": "The calculated ratios, particularly DU145-TxR:DU145 at 517.36, underscore the extent of resistance acquired by the DU145-TxR cell line, suggesting a potential mechanism of therapeutic failure in clinical settings. These findings are pivotal for guiding future research aimed at overcoming drug resistance in prostate cancer treatments, emphasizing the importance of monitoring MDR1 expression in the development of effective therapeutic strategies."
+  }
+ }
+}

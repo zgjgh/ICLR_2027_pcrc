@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_021",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    517.0,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Computational Models of Consumer Confidence"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    325.6,
+    107.4
+   ],
+   "ocr": "Table 7. Regression results for model represented by Eq (2)."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.0,
+    726.6,
+    273.5
+   ],
+   "ocr": "Parameters Coef. Std. Error t-value P > t\nα 0.624 6.680 0.090 0.926\nγ0 59.431 10.037 5.920 0.000\nβ0 0.992 0.072 13.840 0.000\nδ -0.540 0.103 -5.250 0.000\nγ2 -0.112 0.026 -4.240 0.000\nγ3 0.099 0.021 4.710 0.000\nγ5 -0.074 0.017 -4.350 0.000\nγ6 0.093 0.018 5.160 0.000\nAdjusted R2 =0.923",
+   "table_id": "PMC4380490_table_6"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    285.7,
+    337.8,
+    297.8
+   ],
+   "ocr": "Constant α (cf. Eq (2) at t 47) doesn’t pass the signiﬁcance test."
+  },
+  "p5_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    287.5,
+    186.2,
+    320.1
+   ],
+   "ocr": "� doi:10.1371/journal.pone.0120039.t007"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    375.5,
+    726.4,
+    673.0
+   ],
+   "ocr": "Results We then proceed with a Stepwise Regression [30] as follows: 1. Set an appropriate significance level of 0.05. 2. Fit Eq 2 by Ordinary Least Squares (OLS). 3. If all the parameters pass the test, then stop, otherwise, proceed to step 4. 4. Select the variable with the lowest significance level, and drop it. Fit the new equation, minus the variable, by OLS. 5. Repeat step 3 and step 4, until all variables pass the test. As shown in Table 7 the resulting model exhibits a good fit as indicated by a significant ad- justed R2 (0.923). We conduct a White Test [31] to determine whether the regression has het- eroscedasticity. As indicated by the results shown in Table 8, this is the case. Therefore, we re- run our stepwise model with robust standard errors [32]. The results are shown in Table 9. The results improve considerably: all parameters pass the test and we observe an improved adjusted R2. However, we must point out that although the use of robust standard errors improves the estimate, we can not guarantee that the regression has no heteroscedasticity."
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    726.8,
+    727.3,
+    855.4
+   ],
+   "ocr": "Table 8. White test results. H0: Homoskedasticity χ2 = 44.330 p > χ2 = 0.005 The results of a White Test indicate that we must reject the hypothesis of homoscedasticity in our model. Homoscedasticity is one of necessary conditions to consider the estimated parameters from classic OLS efﬁcient estimators, i.e. Best Linear Unbiased Estimator property (BLUE) [33]. doi:10.1371/journal.pone.0120039.t008"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0120039 March 31, 2015 11 / 18"
+  }
+ }
+}

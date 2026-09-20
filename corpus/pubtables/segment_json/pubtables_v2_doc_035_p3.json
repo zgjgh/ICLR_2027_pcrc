@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_035",
+  "page": 3,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    51.7,
+    294.2,
+    64.4
+   ],
+   "ocr": "BMC Medical Genetics 2007, 8(Suppl 1):S12"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    439.0,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2350/8/S1/S12"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    371.8,
+    118.9
+   ],
+   "ocr": "Table 3: The 25 SNPs with lowest GEE association tests p-values"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    374.6,
+    107.2,
+    521.7,
+    118.9
+   ],
+   "ocr": "with hematological phenotypes"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.4,
+    692.1,
+    433.3
+   ],
+   "ocr": "Phenotype* SNP MAF CHR Physical Position (bp)† GEE Pval (Rank)†† FBAT Pval††† Genes within 60 Kb\nHgb rs4133289 0.19 1 156,267,010 1.6 × 10-7(2) 6.0 × 10-4 OR10J1; OR10J5\nHgb rs1510107 0.41 2 53,071,788 1.0 × 10-5(17) 2.2 × 10-3\nHgb rs1160297 0.43 2 53,148,971 1.0 × 10-6(4) 8.3 × 10-4\nHgb rs2357013 0.45 2 53,177,780 6.1 × 10-6(14) 1.3 × 10-3\nHgb rs7844723 0.45 8 122,977,684 2.1 × 10-6(5) 2.6 × 10-3\nMCH rs1829883 0.41 5 98,809,002 5.8 × 10-6(11) 1.4 × 10-2\nMCH rs1200821 0.47 10 37,599,586 5.9 × 10-6(13) 1.0 × 10-1 ANKRD30A\nMCH rs1397048 0.40 11 56,222,675 6.9 × 10-8(1) 1.0 × 10-2 OR5AP2; OR5AR1; OR9G1; OR9G4\nplatelet aggregation (ADP-induced) rs10493895 0.19 1 97,983,247 1.6 × 10-5(23) 4.5 × 10-2 BC064027; DPYD\nplatelet aggregation (ADP-induced) rs10484128 0.15 14 97,712,325 5.8 × 10-6(12) 1.3 × 10-3\nplatelet aggregation (collagen-induced) rs848523 0.42 2 36,659,307 2.1 × 10-5(24) 4.3 × 10-1 CRIM1\nplatelet aggregation (collagen-induced) rs565229 0.10 11 121,694,675 3.7 × 10-6(6) 2.6 × 10-2\nplatelet aggregation (collagen-induced) rs10506458 0.13 12 61,731,359 4.5 × 10-6(9) 1.1 × 10-4\nplatelet aggregation (Epi-induced) rs6811964 0.11 4 158,143,059 1.3 × 10-5(20) 5.5 × 10-2 PDGFC\nplatelet aggregation (Epi-induced) rs1958208 0.32 14 81,194,793 1.1 × 10-5(18) 7.0 × 10-1\nplatelet aggregation (Epi-induced) rs10502583 0.17 18 28,011,131 1.1 × 10-5(19) 1.1 × 10-2 RNF138; MEP1B\nRBCC rs9253 0.18 1 37,627,906 4.2 × 10-6(7) 1.1 × 10-5 FLJ11730; BC016328\nRBCC rs10489087 0.13 4 13,470,685 4.5 × 10-6(8) 9.6 × 10-4\nRBCC rs636864 0.21 6 149,567,299 6.3 × 10-6(15) 1.3 × 10-4\nRBCC rs727979 0.14 6 149,635,613 7.5 × 10-6(16) 2.6 × 10-5 MAP3K7IP2\nRBCC rs6108011 0.28 20 7,500,504 5.8 × 10-6(10) 7.0 × 10-2\nViscosity rs10490258 0.11 2 40,717,605 1.5 × 10-5(21) 2.9 × 10-2\nViscosity rs1359339 0.18 6 18,606,507 2.2 × 10-5(25) 2.3 × 10-2 IBRDC2\nViscosity rs10485968 0.20 7 81,108,037 1.6 × 10-5(22) 3.0 × 10-3\nViscosity rs7159841 0.21 14 46,933,585 2.1 × 10-7(3) 2.0 × 10-1 MAMDC1",
+   "table_id": "PMC1995619_table_2"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    449.4,
+    380.7,
+    501.3
+   ],
+   "ocr": "* For Hgb, MCH and RBCC reported here, multivariable adjusted residuals platelet aggregation phenotypes, and viscosity reported here, multivariable †Physical position is in base pair (bp) and based on the May 2004 human ††P-value from GEE genotype association test and rank of the GEE p-values †††P-value from family-based association test using the FBAT program."
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    370.0,
+    449.4,
+    690.5,
+    491.2
+   ],
+   "ocr": "from average of measurements over exam cycles 1 and 2 were used; for all adjusted residuals from measurements at examination cycle 5 were used. reference sequence (NCBI Build 35). in ascending order."
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    537.4,
+    372.6,
+    922.4
+   ],
+   "ocr": "member 4 (OR9G4). The 25 SNPs with lowest FBAT asso- ciation test p-values are presented in Additional file 1, Table A1 and Table A2, respectively. Linkage results Maximum multipoint LOD scores greater than 2 and the 1.5-LOD support intervals around the maximum LOD scores are presented in Table 4. The highest LOD score for hemostatic factors was 3.3 for factor VII at approximately 15 Mb on chromosome 10. The highest LOD for hemato- logical phenotypes was 3.4 for Hgb at approximately 55 Mb on chromosome 4. Combining association tests across multiple phenotypes The top 10 SNPs with most number of p-values < 0.01 and lowest mean p-values are reported in Tables 5 and 6 for platelet aggregation phenotypes and fibrinogen levels respectively. The top ranked SNP for platelet aggregation was rs10500631 on chromosome 11 located near an olfactory gene cluster. The p-values of the GEE association test for ADP-, collagen- and epinephrine-induced platelet aggregation levels with this SNP were all less than 0.01, with average p-value 0.007 over the three tests. The range of the regression coefficients was 0.19–0.24, indicating the effect size was consistently estimated across the three phenotypes."
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    537.4,
+    698.4,
+    922.4
+   ],
+   "ocr": "For fibrinogen, the top ranked SNP was rs4861952 on chromosome 4, which was also listed in the Table 2 as one of the 25 most significantly associated SNPs with hemo- static factors. This SNP was consistently associated with fibrinogen levels across three examination cycles with effect size ranging from -0.28 to -0.17. Association of SNPs in known candidate genes 100K SNPs residing in or near known candidate genes for hemostatic factors are presented in Table 7. Among the candidate genes for hemostatic factors, no 100K SNP was in or within 60 kb of PLAT. Only SNPs in or near the rest of the candidate genes (F7, FGG, FGA, FGB, ITGB3, SERPINE1 and vWF) are presented. Among all these asso- ciations, three reached nominal significance (p-value < 0.05): rs561241 for factor VII, and rs6950982 and rs6956010 for PAI-1. Among the candidate genes for hematological traits, no 100K SNP was in or within 60 Kb of EPOR, EPO, KLF1, HBA1, HBA2, HBM. For the rest of the candidate genes, associations between hematological phenotypes and 100K SNPs in/near EPB41L2, the beta hemoglobin gene cluster on chromosome 11 (HBB, HBD, HBG1, HBG2, HBE1), and HEBP2 are presented in Table 8. The most sig- nificant associations were SNP rs1582055 near EPB41L2"
+  },
+  "p3_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 5 of 11 (page number not for citation purposes)"
+  }
+ }
+}

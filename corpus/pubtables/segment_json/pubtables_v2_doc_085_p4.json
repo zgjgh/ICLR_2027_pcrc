@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_085",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    448.4,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "A time course of prosodic modulation in phonological inferencing"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    442.1,
+    727.2,
+    717.9
+   ],
+   "ocr": "Fig 6. Fixations on the lax target, the “absent” symbol, and the distractors in Experiment 2. The line type indicates object type (target vs. absent vs. distractors), and the critical comparison is between /k/+lax (tensified; Underlying Representation, UR = lax; Surface Representation, SR = tense) and //+lax (non-tensified; Underlying Representation, UR = tense; Surface Representation, SR = tense). https://doi.org/10.1371/journal.pone.0202912.g006 in the tensifying “/k/+lax” condition (upon hearing the phonetically tense form), while the dif- ference between the “/k/+lax” condition and the “/N/+tense” becomes progressively smaller from 400ms onward. In later time windows (roughly from 700ms onward), as can be inferred from Fig 6, there is again a three-way separation between the conditions. To analyze the time course, we used a moving time window analysis (see Table 4) with 100ms time windows. Fixation proportions were logit-transformed and analyzed with a linear mixed effect model with participant and item as random factors with a maximal random effects structure. These analyses, especially as summarized in the right column of Table 3, showed that, indeed, there is a significant difference between the tensifying “/k/+lax” condition and the “/N/+tense” condition shortly after hearing the word (in earlier time windows, espe- cially from 200–400ms), which then fails to reach significance from 400–800ms, but then re- Table 4. Results from the moving time window analysis from Experiment 2."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    726.6,
+    669.5,
+    878.8
+   ],
+   "ocr": "time /N/+lax /N/+tense\nwindow\nb (SE) t p b (SE) t P\n200–300 -0.069 (0.174) -0.399 0.690 -0.410 (0.174) -2.353 0.019\n300–400 0.127 (0.179) 0.709 0.479 -0.425 (0.180) -2.366 0.018\n400–500 0.613 (0.221) 2.778 0.010 -0.307 (0.183) -1.676 0.094\n500–600 1.009 (0.179) 5.640 < .001 -0.249 (0.214) -1.160 0.251\n600–700 1.426 (0.176) 8.120 < .001 -0.091 (0.213) -0.426 0.672\n700–800 1.507 (0.175) 8.636 < .001 -0.347 (0.197) -1.766 0.082\n800–900 1.553 (0.180) 8.613 < .001 -0.717 (0.195) -3.669 0.001\n900–1000 1.528 (0.218) 6.998 < .001 -0.970 (0.234) -4.147 < .001",
+   "table_id": "PMC6110516_table_3"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    236.2,
+    897.6
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0202912.t004"
+  },
+  "p4_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0202912 August 27, 2018 18 / 28"
+  }
+ }
+}

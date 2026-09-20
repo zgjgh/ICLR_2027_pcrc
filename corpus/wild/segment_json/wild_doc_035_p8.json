@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_035",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    125
+   ],
+   "ocr": "In examining the data related to hydrophobic interactions, it is essential to consider the various metrics that quantify these interactions under different settings. The table illustrates the total number of interactions, which is reported as 196, highlighting the prevalence of hydrophobic effects in the studied scenarios. The columns labeled \"Est2\" and \"TOTAL\" provide a comparative analysis, with Est2 recording 183 interactions, indicating a strong correlation between estimation methods and the observed data."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    113,
+    580,
+    202
+   ],
+   "ocr": "Furthermore, the breakdown by setting reveals that the South West region accounted for a significant portion of these interactions, emphasizing the importance of geographical context in hydrophobic behavior. The isolation metrics, specifically \"Isolated (excluding PTM)\" and \"Isolated (all),\" also offer insight into how these interactions vary when external factors are controlled. Understanding these dynamics is crucial for applications in fields such as biochemistry and materials science, where hydrophobic interactions play a pivotal role in molecular behavior and system stability. Overall, the table serves as a vital resource for analyzing the intricate relationships among these variables."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    346.0
+   ],
+   "ocr": "Interactions Est2 EstB EstP EstS\nHydrophobic 196 183 194 180\nAromatic 18 15 17 16\nH-bonds 587 563 560 541\nIon–iona 24 (42/58) 21 (38/69) 16 (62/71) 12 (49/70)\nTotal 824 782 784 749",
+   "table_id": "img_039926_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    361.0,
+    580.0,
+    488.0
+   ],
+   "ocr": "Verbal Written Internet TOTAL\nSouth West 130 136 305 571\nNorth West 103 129 157 389\nEastern 100 77 117 294\nOther 2 2 911 915\nTotal 335 344 1490 2169",
+   "table_id": "img_039926_t1"
+  },
+  "p8_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    503.0,
+    580.0,
+    626.0
+   ],
+   "ocr": "Setting Isolated (excluding PTM) Isolated (all) Overlap\nSingle 59.1 55.5 51.8\nMerge 57.4 55.7 51.5\nStacking 58.7 55.2 52.9\nEasyAdapt 58.6 56.1 53.9\nMultiple 59.3 56.1 54.3",
+   "table_id": "img_039926_t2"
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_067",
+  "page": 8,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    92,
+    580,
+    150
+   ],
+   "ocr": "The following data table presents a comprehensive analysis of predictors associated with the presence of gallbladder pathology in patients diagnosed with Primary Sclerosing Cholangitis (PSC) and undergoing percutaneous transluminal balloon dilation (PPI). Notably, the table includes vital statistical metrics such as the odds ratio (OR) and the p-value, which are critical for assessing the significance of the predictors in question."
+  },
+  "p8_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    138,
+    580,
+    181
+   ],
+   "ocr": "For instance, the OR of 0.97 suggests that the likelihood of gallbladder pathology is slightly decreased in patients with GP within the submucosa or sphincter of Oddi layer compared to those exceeding these anatomical boundaries."
+  },
+  "p8_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    219.0,
+    580.0,
+    283.0
+   ],
+   "ocr": "Predictor χ2 df p OR 95% CI R2 Sensitivity Specificity Accuracy PPV NPV AUC\nPSC-PPI 14.6 1 0.00 0.97 0.95-0.98 0.17 75.0 52.0 72.0 72.7 70.3 72.0\nPSS-PPI 29.3 1 0.00 0.94 0.93-0.96 0.46 87.0 66.0 78.4 79.3 76.7 85.2*",
+   "table_id": "img_075071_t0"
+  },
+  "p8_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    314.0,
+    580.0,
+    525.0
+   ],
+   "ocr": "GP within the submucosa or sphincter of Oddi layer GP exceeding the submucosa or sphincter of Oddi layer Statistical analysis\nNumber of patients 81 72\nAge (years), range 16–84 (median, 50.0) 15–73 (median, 57.0) Significant difference was found(Mann–Whitney U test, P = 0.016)\nTumor size (mm), range 5.5–65 (median, 21.0) 8–100 (median, 20.0) No significant difference was found(Mann–Whitney U test, P = 0.175)\nSex(male to female) 55 : 26 36 : 36 Significant difference was found(χ2 test, P = 0.032)\nRate of lymph node metastasis 7.4% (6/81) 20.8% (15/72) Significant difference was found(χ2 test, P = 0.019)",
+   "table_id": "img_075071_t1"
+  },
+  "p8_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    565.0,
+    580.0,
+    688.0
+   ],
+   "ocr": "Risk group # of observations % Rapid progressors Average risk score\n1 23 0.00 0.087\n2 23 21.74 0.275\n3 23 47.83 0.498\n4 23 73.91 0.697\n5 24 100.00 0.924",
+   "table_id": "img_075071_t2"
+  },
+  "p8_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    747
+   ],
+   "ocr": "Additionally, the p-value of 0.00 indicates a statistically significant association, warranting further investigation. The analysis encompasses a total of 81 patients, with 72 presenting varying degrees of gallbladder involvement, thus providing a robust dataset for evaluating the clinical implications of gallbladder pathology in this specific cohort."
+  },
+  "p8_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    735,
+    580,
+    763
+   ],
+   "ocr": "The insights gleaned from this study are critical for guiding therapeutic decisions and improving patient outcomes in individuals with PSC."
+  }
+ }
+}

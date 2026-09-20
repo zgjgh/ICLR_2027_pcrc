@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_046",
+  "page": 2,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    56,
+    580,
+    83
+   ],
+   "ocr": "The data presented in the accompanying table offers a comprehensive overview of the relationship between BaP and PCB118 exposure and various metabolic markers across different species at Time 1."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    71,
+    580,
+    130
+   ],
+   "ocr": "This investigation is particularly focused on the influence of specific SNOMED CT concepts, namely “Abnormal body temperature (finding)” and “Ineffective thermoregulation (finding),” which serve as critical indicators of metabolic dysregulation in response to environmental contaminants."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    150.0,
+    580.0,
+    355.0
+   ],
+   "ocr": "Treatment and Time Synergism of BaP and PCB Antagonism of BaP and PCB\n↓↓ ↑↑ ↓↑ ↑↓\nBaP and PCB118 Time 1 PPARγ **Glut-4 ***Lipin-1a *Lipin-1b **ATGL **FABP-4 **FAS **HSL ***SREBP *CXCL-10 **Adiponectin ***Leptin **** CYP1A1 **Glut-1 **\nBaP and PCB118 Time 2 PPARγ *Glut-4 **Lipin-1a *Lipin-1b *HSL *PAI-1 ** CYP1A1 * Leptin ** Adiponectin **\nBaP and PCB153 Time 1 PPARγ ***Glut-4 ***Lipin-1a **Lipin-1b ***ATGL ***FABP-4 ****FAS ***HSL **CXCL-10 **Adiponectin *** CYP1A1 **TNFα ***IL6 ** Glut-1 ***MCP-1 ***\nBaP and PCB153 Time 2 Glut-1 *Glut-4 **Lipin-1a *Lipin-1b *FAS *HSL *PAI-1 ** Leptin** MCP-1 **CXCL-10 **Adiponectin **",
+   "table_id": "img_050841_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    372.0,
+    580.0,
+    499.0
+   ],
+   "ocr": "Included SNOMED CT concepts Excluded SNOMED CT concepts\n123,979,008 Abnormal body temperature (finding) 85,623,003 Ineffective thermoregulation (finding)\n248,062,006 Self-injurious behaviour (finding) 130,968,006 Self-mutilation (finding)\n284,905,001 Difficulty performing toileting activities (finding) 284,905,001 Self-toileting deficit (finding)\n247,592,009 Poor short-term memory (finding)| 423,698,005 Limited recall of recent event (finding)\n714,884,000 Difficulty transferring location (finding) 714,914,005 Impaired ability to transfer location (finding)",
+   "table_id": "img_050841_t1"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    517.0,
+    580.0,
+    638.0
+   ],
+   "ocr": "RWI DF SS MS F P\nSpecies 3 12946.210 4315.403 498.696 <0.001\nTreatment 3 21873.760 7291.253 842.592 <0.001\nSpecies x Treatment 9 11335.663 1259.518 145.552 <0.001\nResidual 476 4119.002 8.653\nTotal 491 49394.429 100.600",
+   "table_id": "img_050841_t2"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    654,
+    580,
+    697
+   ],
+   "ocr": "The table delineates both included and excluded SNOMED CT concepts, highlighting the methodological rigor in selecting relevant clinical findings for analysis. Furthermore, the metrics of RWI (Relative Weight Index) and DF (Dysfunction Factor) are employed to quantify the degree of metabolic disturbance observed in subjects exposed to these compounds."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    685,
+    580,
+    774
+   ],
+   "ocr": "The inclusion of adipokines such as Adiponectin and Leptin, along with fatty acid-binding proteins (FABP-4) and enzymes like HSL (hormone-sensitive lipase), underscores the multifaceted nature of metabolic responses. By focusing on these parameters, the study elucidates the potential pathways through which BaP and PCB118 may modulate metabolic homeostasis, thereby contributing to a more profound understanding of their health implications. The findings presented herein are essential for informing future research directions and public health policies."
+  }
+ }
+}

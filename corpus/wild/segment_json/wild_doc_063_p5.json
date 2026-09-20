@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_063",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    124,
+    580,
+    167
+   ],
+   "ocr": "In the ongoing pursuit of understanding the differential impact of biomarkers in neuromyelitis optica spectrum disorder (NMOSD), the data presented in Table 1 provides a comprehensive overview of various modeling approaches employed to assess the significance of specific predictors among patient cohorts."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    155,
+    580,
+    182
+   ],
+   "ocr": "The table delineates the outcomes of conventional regression analyses, focusing on the variable of serum analysis as a predictor."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    233.0,
+    580.0,
+    401.0
+   ],
+   "ocr": "Method Predictor of the model Basis type Type of model\nM1 X None Conventional regression\nM2 W B-splines Functional regression (Eq. 8)\nM3 W Fourier Functional regression (Eq. 8)\nM4 X* B-splines Alternative 1 for Functional regression (Eq. 9)\nM5 X* Fourier Alternative 1 for Functional regression (Eq. 9)\nM6 X** B-splines Alternative 2 for Functional regression (Eq. 10)\nM7 X** Fourier Alternative 2 for Functional regression (Eq. 10)",
+   "table_id": "img_069212_t0"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    456.0,
+    580.0,
+    599.0
+   ],
+   "ocr": "Variable AQP4(−) patients (n=16) AQP4(+) patients (n=53) P values\nSerum analysis\nCRP (mg/l) 1.81 ± 0.65 8.78 ± 3.30 0.253\nESR (mm/H) 17.19 ± 8.86 20.91 ± 20.91 0.493\nC3 (g/l) 1.16 ± 0.20 1.24 ± 0.40 0.437\nC4 (g/l) 0.29 ± 0.16 0.26 ± 0.18 0.326\nCH50 (U/ml) 49.50 ± 10.30 46.13 ± 11.45 0.296",
+   "table_id": "img_069212_t1"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    716
+   ],
+   "ocr": "Notably, the patient groups are categorized based on the presence of aquaporin-4 (AQP4) antibodies, with AQP4(−) patients comprising 16 individuals and AQP4(+) patients encompassing 53 individuals. The findings underscore the distinct biochemical profiles that may contribute to differing clinical manifestations and disease progression in these subgroups. Moreover, the column detailing P values serves to highlight the statistical significance of the relationships observed, offering crucial insights into the predictive validity of the models employed."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    704,
+    580,
+    762
+   ],
+   "ocr": "This analysis not only enhances our understanding of NMOSD pathophysiology but also underscores the importance of tailored therapeutic strategies that consider the underlying immunological differences between AQP4(−) and AQP4(+) patients. Such insights are imperative for advancing personalized medicine approaches in the management of this complex neurological disorder."
+  }
+ }
+}

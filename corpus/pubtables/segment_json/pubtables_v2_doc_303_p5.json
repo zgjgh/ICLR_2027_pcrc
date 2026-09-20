@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_303",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9:547"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/547"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    67.4,
+    117.7,
+    384.4,
+    129.4
+   ],
+   "ocr": "Table 6: Comparison of enhancer predictions in the untreated Hela"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    387.3,
+    117.7,
+    410.4,
+    129.4
+   ],
+   "ocr": "cells."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    92.7,
+    140.5,
+    672.9,
+    264.7
+   ],
+   "ocr": "Heintzman et al. [15] total 389 prediction HMM method total 389 prediction\ndistal p300 (n = 94) 77 (sensitivity = 81.91%) 82 (sensitivity = 87.23%)\ndistal DHS (n = 587) 165 (sensitivity = 28.11%) 179 (sensitivity = 30.49%)\nDistal TRAP220 (n = 77) 43 (sensitivity = 55.84%) 47 (sensitivity = 61.04%)\nAny of distal (DHS, p300, TRAP220) 206 (PPV = 52.96%) 213 (PPV = 54.76%)",
+   "table_id": "PMC2657164_table_5"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    281.0,
+    372.6,
+    553.3
+   ],
+   "ocr": "Sensitivity = (TP/(TP+FN)) or PPV = (TP/(TP+FP)) was calculated. method correctly predicted the activity of the majority of the promoters. Considering the scale of our predictions, the PPVs of both active and inactive promoter predictions (expression supported) are satisfactory: > 88% and  74%, respectively, for the two classes. Conclusion We present here an HMM method to predict promoters and enhancers using their characteristic histone modifica- tion patterns. We used a HMM-SA procedure to automat- ically select the most informative and the optimal window size of histone modifications. We showed that the more histone marks are considered, the better the performance of the HMM can achieve. We compared the HMM method Table 7: Predicted active and inactive promoters in the mouse"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    365.4,
+    314.8,
+    698.3,
+    553.3
+   ],
+   "ocr": "with the best prediction results using the profile-based method in the Heintzman et al. study. The cross-valida- tion test showed that the HMM method performed better than the profile-based method, especially in the enhancer classification (Table 3). This observation suggests that the HMM method has a better capability to learn complicated patterns particularly for the weak signals around enhanc- ers. Because correct identification of distal enhancers is critical in deciphering transcriptional regulation, this fea- ture of HMM gives it an edge over the profile-based method. We also found that the window size of 2 kb gave the best balance between inclusion of sufficiently strong signals genome."
+  },
+  "p5_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    564.5,
+    693.0,
+    852.5
+   ],
+   "ocr": "Active Promotera\nCell lines Active Gene Total Prediction Refseq Supported PPV Predicted promoters not present in the Expression Supported PPV\nexpression measurement\nES 7887 13853 81.4% 7191 88.6%\nMEF 8092 11913 88.1% 5480 92.3%\nNPC 7413 12700 84.1% 6259 89.0%\nInactive Promoterb\nCell lines Inactive Gene Total Prediction Refseq Supported PPV Predicted promoters not present in the Expression Supported PPV\nexpression measurement\nES 4753 2862 77.0% 1806 79.2%\nMEF 4248 4301 66.1% 3061 74.6%\nNPC 5259 422 73.2% 267 94.8%",
+   "table_id": "PMC2657164_table_6"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    868.8,
+    397.4,
+    927.4
+   ],
+   "ocr": "a Active promoter supported by gene expression and Refseq: TP is the genes predicted as active. b Inactive promoter supported by gene expression: number of active genes predicted as inactive. In both cases, we only number of predictions is thus usually larger than the sum of TPs and FPs. inactive promoter predictions are supported by Refseq."
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    360.9,
+    868.8,
+    690.5,
+    915.6
+   ],
+   "ocr": "number of active genes prediction as active and FP is the number of inactive TP is the number of inactive genes predicted as inactive and FP is the considered predictions located within 2.5 Kb to annotated genes and the total Refseq supported PPV shows how much percent of the total active/"
+  },
+  "p5_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 13 of 18 (page number not for citation purposes)"
+  }
+ }
+}

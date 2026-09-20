@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_270",
+  "page": 5,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    220.4,
+    64.4
+   ],
+   "ocr": "BMC Public Health 2006, 6:25"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2458/6/25"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    337.9,
+    118.9
+   ],
+   "ocr": "Table 5: Validity of HIS data necessary to calculate the SI"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    74.6,
+    129.9,
+    682.8,
+    304.8
+   ],
+   "ocr": "Si calculated from HIS data\nca in situ localized not-localized matastatic total\nn % n % n % n % n\nSI calculated ca in situ 1 11,1 14 4 0 0 0 0 15\nfrom CC\nlocalized 5 57 240 75 10 24 0 0 255\nnot-localized 3 33 67 21 31 76 0 0 101\nmetastatic 0 0 0 0 0 0 2 100 2\ntotal 9 100 321 100 41 100 2 100 373",
+   "table_id": "PMC1420286_table_4"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    321.1,
+    372.6,
+    922.4
+   ],
+   "ocr": "Kappa= 0.35 p < 0.00 values in bold represent the positive predictive value surgical treatment, because although it is sufficiently thor- ough in estimating over-treated cases, it tends to underes- timate under-treatment. The validity of the severity indicator from the HIS depends explicitly on the com- pleteness and quality of the data. Our proposed indicator is based on ICD-9-CM codes of breast cancer diagnoses and procedures, and uses some of the criteria proposed by Kahn et al in 1996 [23]. Since the ICD-9-CM coding does not include tumor size, their indi- cator is based on the assumption that there is a positive correlation between the extent of the growth (localized, loco-regional, and distant) and the size of the tumor. Consequently, the criteria were based on the level of dif- fusion of the tumor from the ICD-9-CM codes, which served as a proxy for tumor size, and thus for severity. Kahn et al evaluated the accuracy of ICD-9-CM codes in correctly identifying localized breast cancer, and then in documenting the percentage of lymphoadenectomies that had been performed, comparing to the data from the can- cer register. The authors calculated the raw agreement of the two information sources was 82%; the sensitivity and specificity was acceptable (above 85%). Thus, the data from the HIS were considered valid in evaluating appro- priateness of surgery typology according to tumor severity (localized/not localized), but not for analyzing therapeu- tic outcomes[23]. Our study modified Kahn's SI to better differentiate degrees of severity: we considered cancer in situ as a category in and of itself (otherwise included in the same category with localized tumors) and we distin- guished, in the non-localized tumor category, those with loco-regional metastasis from those with distant metasta- sis. A similar approach is found in the study conducted by Rohan et al [21]. The correlation of the SI with TNM stages was rather good (0.6; p < 0.001), but not as good with tumor size (pT)"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    374.2,
+    698.3,
+    907.6
+   ],
+   "ocr": "(0.3; p < 0.001). These results suggest that the SI can be considered an adequate proxy of tumor severity, but is not as precise an indicator of tumor size. Unfortunately, tumor size is usually the only indicator available to physi- cians when determining treatment. We also evaluated the possibility of using the SI to evalu- ate appropriateness of treatment: the SI appears to classify cases of over-treatment relatively well but underestimates under-treated cases. We found that TNM and pT classifica- tions are better indicators of under- and over-treatment; this may be because size is a component of TNM staging. It is, however, important to note that the SI seems a con- servative indicator of both over-treatment and under- treatment, minimizing the risk of inappropriately catego- rizing difficult cases. In order to rule out possible errors of classification, codi- fication or input, data registered on an ad hoc schedule were used instead of the original HIS information to con- struct the SI. Subsequently however, the completeness and accuracy of the discharge reports were assessed com- paring them to clinical documents: this study was a part of a larger study on quality of data from HIS, methods and results are available on technical report published on web [28]Hospital discharge records have been shown to have problems of under-notification of health data, which greatly decrease their value to analytic studies, [29,30]. Furthermore, in our study there were a number of cases for which it was not possible to define the TNM stage due to lack of information on the clinical documents, which could have in part reduced the \"validity\" of our gold standard. The PPV of the HIS is overall quite low (Kappa = 0.35), mainly due to a high level of discordance in the first SI category (carcinoma in situ). The PPV in the other three categories comparatively is rather good."
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 8 (page number not for citation purposes)"
+  }
+ }
+}

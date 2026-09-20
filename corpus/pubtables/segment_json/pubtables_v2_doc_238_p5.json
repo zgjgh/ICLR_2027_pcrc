@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_238",
+  "page": 5,
+  "page_size": [
+   764,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    37.8,
+    127.4,
+    46.7
+   ],
+   "ocr": "Zhu and Gonzalez"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    525.6,
+    37.8,
+    706.1,
+    46.7
+   ],
+   "ocr": "Floor Effects on Standardized Vocabulary Tests"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    57.5,
+    81.5,
+    393.6,
+    90.4
+   ],
+   "ocr": "TABLE 5 | Relative bias in parameter estimates comparing three comparative methods."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    57.5,
+    104.8,
+    701.1,
+    274.4
+   ],
+   "ocr": "Proportions of Parameter estimates\nﬂoor data (%)\nγ10 γ01\nMultilevel model Robust Multilevel model Multilevel model Robust Multilevel model\nﬂoors ignored standard error ﬂoors considered ﬂoors ignored standard error ﬂoors considered\n0 −0.00 −0.00 −0.00 −0.01 −0.01 −0.01\n5 −0.05 −0.05 0.00 −0.05 −0.05 0.00\n10 −0.10 −0.10 0.00 −0.10 −0.10 0.00\n15 −0.15 −0.15 0.00 −0.14 −0.14 0.00\n20 −0.20 −0.20 0.00 −0.20 −0.20 0.00\n25 −0.26 −0.26 0.00 −0.26 −0.26 0.00",
+   "table_id": "PMC5732956_table_4"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    57.5,
+    314.9,
+    372.3,
+    915.7
+   ],
+   "ocr": "shown in Table 5, only the multilevel Tobit regression approach yielded the unbiased parameter estimates (i.e., ( ˆθ − θ)/θ = 0). This approach fully addressed the ﬂoor eﬀects by treating the outcome variable as a left-censored variable. In this case, parameter estimates recovered well in the multilevel Tobit regression approach regardless the proportion of the ﬂoor data. Table 6 summarizes the relative bias in standard errors using the three diﬀerent methods. There was a clear pattern showing a systematic underestimation of standard errors when ﬂoor eﬀects were ignored in regular multilevel analysis. The biases in the robust standard error approach were either similar or smaller than the ones in the regular multilevel analysis approach, and the standard errors were persistently underestimated. Furthermore, as the proportion of ﬂoor data increased, the biases tended to be larger. As shown in Table 6, among the three methods, the multilevel Tobit regression approach yielded the smallest bias. Given that most values were around 0.01 and the pattern was stable regardless the proportions of ﬂoor data, the degree of underestimation in the standard error estimates for the multilevel Tobit regression approach was negligible. This simulation demonstrated the importance of fully addressing the ﬂoor eﬀects in multilevel data and the advantage of using the multilevel Tobit regression over the other methods when analyzing potential ﬂoor eﬀects in the data. DISCUSSION This study highlighted the impact of ﬂoor eﬀects when the PPVT-4 and the EVT-2 used with a culturally and linguistically diverse population of preschoolers by examining the impact of ﬂoor eﬀects in data analysis, including in estimating parameters, the corresponding standard errors, and the tests of signiﬁcance. Inﬂuences of ﬂoor eﬀects in multilevel data analysis were investigated through an empirical example and a Monte Carlo simulation study. Our ﬁndings suggest that some caution is warranted when interpreting ﬁndings from both PPVT-4 or the EVT-2, especially when these two tests are used with culturally, ethnically and linguistically and ethnical diverse groups. Given the standardized PPVT-4 and EVT-2 are both normed based on the predominantly"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.4,
+    315.0,
+    706.1,
+    915.1
+   ],
+   "ocr": "White, middle-class, English-speaking American samples (Qi et al., 2003), ethnically, culturally and linguistically diverse groups may perform inferiorly relative to the normed sample especially among non-English or non-standard English speaking children. Samples in which 15% or more score at or near to the lowest level in the instruments measurement range may indicate the potential existence of the ﬂoor eﬀects which may impact analyses when using traditional analytic methods (Lim et al., 2015). Given the culturally, linguistically and ethnically diverse populations have been shown to perform poorly on the PPVT-4 and the EVT-2 (e.g., Champion et al., 2003; Gonzalez et al., 2015), researchers should attend to with the potential problem of ﬂoor eﬀects when using these measures. With increasing populations of language-minority populations (e.g., ELLs, DLLs), considering ﬂoor eﬀects in measures warrants close attention. In this study, it was demonstrated that when analyzing data shown to have ﬂoor eﬀects, analytical methods insuﬃciently addressing the ﬂoor eﬀects can lead to misleading results and interpretations First, when investigating the shared-reading intervention eﬀects with a sample of Mexican-American preschoolers enrolled in the randomized clinical study using the PPVT-4 and EVT-2, failing to consider the impact of ﬂoor eﬀects led to non-signiﬁcant eﬀects and quite possibly, misleadingly underestimated the impact of the intervention. Outcomes in this study supported previous ﬁndings suggesting that (Hessling et al., 2004), ﬂoor eﬀects may undermine the true eﬀects of an intervention, especially among linguistically and culturally diverse populations. Furthermore, results from the simulation study showed that ignoring ﬂoor eﬀects resulted in substantial bias in both parameter estimates and standard errors estimates, and erroneous signiﬁcance tests. These ﬁndings are important and support previous research. McBee (2010) stated conventional statistical methods (e.g., ANOVA, linear regression) produced biased estimates when ﬂoor eﬀects were present. Wang et al. (2008) also pointed out the consequence of biased parameter estimates due to the ceiling eﬀects or ﬂoor eﬀects. In our study, the two insuﬃcient approaches, namely, the regular multilevel regression ignoring ﬂoor eﬀects and the robust standard error approach which only partially addressing ﬂoor eﬀects, produced the same parameter estimates. However, the robust standard"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    57.5,
+    951.8,
+    386.8,
+    960.8
+   ],
+   "ocr": "Frontiers in Psychology | www.frontiersin.org 10"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    547.8,
+    951.8,
+    706.1,
+    960.8
+   ],
+   "ocr": "December 2017 | Volume 8 | Article 2146"
+  }
+ }
+}

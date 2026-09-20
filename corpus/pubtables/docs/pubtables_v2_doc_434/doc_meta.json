@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_434",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    750,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    750,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4393610_table_0",
+   "page_num": 1,
+   "bbox": [
+    71.4,
+    128.0,
+    678.6,
+    897.2
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4393610_table_0.png",
+   "html": "<table><tr><td>Study</td><td>EGDT group</td><td>Control group</td><td>Survival benefit</td></tr><tr><td colspan=\"4\">Standard EGDT versus usual care</td></tr><tr><td rowspan=\"4\">ARISE 2014 [13]</td><td>ScvO2 &#8805; 70%</td><td rowspan=\"4\">Usual care</td><td rowspan=\"4\">No: 28d/90d/ICU/in-hospital mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"5\">Jing 2010 [8]</td><td>ScvO2 &#8805; 70%</td><td>CVP &#8805; 8-12 mm Hg</td><td rowspan=\"5\">Yes: 28d/ICU mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td><td>SBP &gt; 100 mm Hg</td></tr><tr><td>SBP &gt;100 mm Hg</td><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td><td rowspan=\"2\">UO &#8805; 0.5 ml/kg/h</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"4\">ProCESS 2014 [14]</td><td>ScvO2 &#8805; 70%</td><td rowspan=\"4\">Usual care</td><td rowspan=\"4\">No: 60d/in-hospital mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"4\">Rivers 2001 [4]</td><td>ScvO2 &#8805; 70%</td><td>CVP &#8805; 8-12 mm Hg</td><td rowspan=\"4\">Yes: 28d/60d/in-hospital mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td><td rowspan=\"2\">UO &#8805; 0.5 ml/kg/h</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"4\">Wang 2006 [25]</td><td>ScvO2 &#8805; 70%</td><td rowspan=\"4\">Usual care</td><td rowspan=\"4\">No: 7d/14d mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td colspan=\"4\">Modified EGDT versus usual care</td></tr><tr><td rowspan=\"3\">Andrews 2014 [21]</td><td>JVP &gt; 3 cm;</td><td rowspan=\"3\">Usual care</td><td rowspan=\"3\">No: 28d/in-hospital mortality</td></tr><tr><td>MAP &gt; 65 mm Hg;</td></tr><tr><td>Hb &gt; 7 g/dl</td></tr><tr><td rowspan=\"3\">Lin 2006 [23]</td><td>CVP &#8805; 8-12 mm Hg;</td><td rowspan=\"3\">Usual care</td><td rowspan=\"3\">Yes: ICU/in-hospital mortality</td></tr><tr><td>MAP &#8805; 65 mm Hg;</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"2\">ProCESS 2014 [14]</td><td>SBP &#8805; 100 mm Hg</td><td rowspan=\"2\">Usual care</td><td rowspan=\"2\">No: 60d/in-hospital mortality</td></tr><tr><td>Hb &gt; 7.5 g/dl</td></tr><tr><td colspan=\"4\">Standard EGDT versus lactate clearance</td></tr><tr><td rowspan=\"4\">Jones 2010 [22]</td><td>ScvO2 &#8805; 70%</td><td>Lactate clearance &#8805; 10%</td><td rowspan=\"4\">No: in-hospital mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td><td>CVP &#8805; 8-12 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"4\">Wang 2014 [20]</td><td>ScvO2 &#8805; 70%</td><td>Lactate &lt; 2 mmol/L</td><td rowspan=\"4\">No: 7d/28d mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td><td>CVP &#8805; 8-12 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td><td>UO &#8805; 0.5 ml/kg/h</td></tr><tr><td rowspan=\"4\">Yu 2013 [24]</td><td>ScvO2 &#8805; 70%</td><td>Lactate clearance &#8805; 10%</td><td rowspan=\"4\">No: 28d mortality</td></tr><tr><td>CVP &#8805; 8-12 mm Hg</td><td>CVP &#8805; 8-12 mm Hg</td></tr><tr><td>MAP &#8805; 65 mm Hg</td><td>MAP &#8805; 65 mm Hg</td></tr><tr><td>UO &#8805; 0.5 ml/kg/h</td><td>UO &#8805; 0.5 ml/kg/h</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4393610_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.4,
+    711.7,
+    678.6,
+    898.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4393610_table_1.png",
+   "html": "<table><tr><td>Study</td><td>Country</td><td>N</td><td>Male (%)</td><td>Age (y)</td><td>Center</td><td>Illness severity scores</td><td>Overall risk of bias</td></tr><tr><td>Andrews 2014 [21]</td><td>Zambia</td><td>109</td><td>53.2</td><td>35.2, 34.8</td><td>S</td><td>APACHE II: 17.8, 17.9</td><td>Low</td></tr><tr><td>ARISE 2014 [13]</td><td>Australia/New Zealand</td><td>1,588</td><td>59.8</td><td>62.7, 63.1</td><td>M</td><td>APACHE II: 15.4, 15.8</td><td>Low</td></tr><tr><td>Jing 2010 [8]</td><td>China</td><td>317</td><td>69.3</td><td>68.9, 67.7</td><td>M</td><td>APACHE II: 23.5, 21.8</td><td>Low</td></tr><tr><td>Jones 2010 [22]</td><td>USA</td><td>300</td><td>54.3</td><td>59.8, 61.6</td><td>M</td><td>SAPS II: 44.8, 44.1</td><td>Low</td></tr><tr><td>Lin 2006 [23]</td><td>Taiwan</td><td>224</td><td>58.0</td><td>67.2, 68.7</td><td>S</td><td>APACHE III: 66.5, 64.9</td><td>Low</td></tr><tr><td>ProCESS 2014 [14]</td><td>USA</td><td>1,341</td><td>55.4</td><td>60, 62</td><td>M</td><td>APACHE II: 20.8, 20.7</td><td>Low</td></tr><tr><td>Rivers 2001 [4]</td><td>USA</td><td>263</td><td>50.6</td><td>67.1, 64.4</td><td>S</td><td>APACHE II: 20.4, 21.4</td><td>Low</td></tr><tr><td>Wang 2006 [25]</td><td>China</td><td>33</td><td>NA</td><td>33, 36</td><td>S</td><td>APACHE II: 28, 27</td><td>Unclear</td></tr><tr><td>Wang 2014 [20]</td><td>China</td><td>57</td><td>70.2</td><td>52, 56</td><td>S</td><td>APACHE II: 19.7, 20.9</td><td>Unclear</td></tr><tr><td>Yu 2013 [24]</td><td>China</td><td>50</td><td>74.0</td><td>61, 59</td><td>S</td><td>APACHE II: 18.2, 17.9</td><td>Unclear</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4393610_table_2",
+   "page_num": 3,
+   "bbox": [
+    71.4,
+    650.3,
+    678.6,
+    909.2
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4393610_table_2.png",
+   "html": "<table><tr><td>Outcome</td><td>Comparison</td><td>Number of studies</td><td>MD or RR (95% CI)</td><td>P</td><td>I2</td></tr><tr><td>Length of ICU stay (d)</td><td>EGDT versus control group</td><td>6</td><td>-0.20 (-1.31 to 0.92)</td><td>0.73</td><td>75%</td></tr><tr><td>Length of in-hospital stay (d)</td><td>EGDT versus control group</td><td>4</td><td>0.42 (-1.02 to 1.86)</td><td>0.57</td><td>12%</td></tr><tr><td>Mechanical ventilation rate</td><td>EGDT versus control group</td><td>5</td><td>0.96 (0.85 to 1.09)</td><td>0.53</td><td>43%</td></tr><tr><td>Mechanical ventilation days (d)</td><td>EGDT versus control group</td><td>4</td><td>-0.91 (-2.34 to 0.52)</td><td>0.21</td><td>95%</td></tr><tr><td>Vasopressor support rate</td><td>EGDT versus control group</td><td>6</td><td>1.03 (0.93 to 1.15)</td><td>0.58</td><td>69%</td></tr><tr><td rowspan=\"3\">Inotropic agents support</td><td>EGDT versus control group</td><td>5</td><td>2.23 (1.06 to 4.67)</td><td>0.03</td><td>84%</td></tr><tr><td>EGDT versus usual care group</td><td>4</td><td>2.37 (1.02 to 5.51)</td><td>0.05</td><td></td></tr><tr><td>EGDT versus early lactate clearance</td><td>1</td><td>1.60 (0.54 to 4.78)</td><td>0.40</td><td>88%-</td></tr><tr><td rowspan=\"3\">Fluid administration in first 6 h (L)</td><td>EGDT versus control group</td><td>7</td><td>0.88 (-0.17 to 1.93)</td><td>0.10</td><td>99%</td></tr><tr><td>EGDT versus usual care group</td><td>5</td><td>1.24 (0 to 2.48)</td><td>0.05</td><td>99%</td></tr><tr><td>EGDT versus early lactate clearance</td><td>2</td><td>0.02 (-0.46 to 0.49)</td><td>0.27</td><td>17%</td></tr><tr><td rowspan=\"3\">Red cell transfusion rate in first 6 h</td><td>EGDT versus control group</td><td>5</td><td>1.76 (1.11 to 2.78)</td><td>0.04</td><td>76%</td></tr><tr><td>EGDT versus usual care group</td><td>3</td><td>2.26 (1.54 to 3.31)</td><td>&lt;0.01</td><td>71%</td></tr><tr><td>EGDT versus early lactate clearance</td><td>2</td><td>0.72 (0.27 to 1.94)</td><td>0.52</td><td>37%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4393610_table_3",
+   "page_num": 4,
+   "bbox": [
+    383.9,
+    143.1,
+    678.6,
+    329.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4393610_table_3.png",
+   "html": "<table><tr><td>Study omitted</td><td>RR (95% CI)</td><td>P value</td></tr><tr><td>Andrews [21]</td><td>0.89 (0.75 to 1.06)</td><td>0.19</td></tr><tr><td>ARISE [13]</td><td>0.90 (0.75 to 1.08)</td><td>0.27</td></tr><tr><td>Jing [8]</td><td>0.94 (0.80 to 1.12)</td><td>0.50</td></tr><tr><td>Jones [22]</td><td>0.88 (0.75 to 1.03)</td><td>0.11</td></tr><tr><td>Lin [23]</td><td>0.95 (0.80 to 1.11)</td><td>0.50</td></tr><tr><td>ProCESS [14]</td><td>0.91 (0.75 to 1.11)</td><td>0.37</td></tr><tr><td>Rivers [4]</td><td>0.94 (0.79 to 1.12)</td><td>0.47</td></tr><tr><td>Wang [20]</td><td>0.92 (0.78 to 1.08)</td><td>0.31</td></tr><tr><td>Wang [20]</td><td>0.87 (0.76 to 1.01)</td><td>0.07</td></tr><tr><td>Yu [24]</td><td>0.90 (0.76 to 1.06)</td><td>0.20</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4393610_table_4",
+   "page_num": 5,
+   "bbox": [
+    71.4,
+    129.2,
+    678.6,
+    280.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4393610_table_4.png",
+   "html": "<table><tr><td></td><td>Our study</td><td>Gu [28]</td><td>Wira [26]</td><td>Chamberlain [27]</td><td>Barochia [12]</td></tr><tr><td>Year of publication</td><td></td><td>2014</td><td>2014</td><td>2011</td><td>2010</td></tr><tr><td>Years of searching</td><td>1966-2014</td><td>NA-2014</td><td>1980-2011</td><td>2004-2010</td><td>1980-2008</td></tr><tr><td>Key finding</td><td>EGDT</td><td>GDT</td><td>EGDT</td><td>6-h sepsis bundle</td><td>6 h sepsis bundle</td></tr><tr><td>Studies included</td><td>10</td><td>13</td><td>25</td><td>11</td><td>8</td></tr><tr><td>RCTs</td><td>10</td><td>13</td><td>1</td><td>0</td><td>1</td></tr><tr><td>Observational studies</td><td>0</td><td>0</td><td>14</td><td>11</td><td>7</td></tr><tr><td>Abstracts</td><td>0</td><td>0</td><td>10</td><td>0</td><td>0</td></tr><tr><td>Survival benefit</td><td>Negative</td><td>Favors GDT</td><td>Favors EGDT</td><td>Favors EGDT</td><td>Favours EGDT</td></tr></table>"
+  }
+ ]
+}

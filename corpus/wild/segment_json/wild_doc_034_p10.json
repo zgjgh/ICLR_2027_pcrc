@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_034",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    246.0
+   ],
+   "ocr": "Upper half body Lower half body Mass (g)\nM1 Empty Empty 235\nM2 LLL LLL 283\nM3 LLL LHL 358\nM4 LHL LHL 433\nM5 LHL HLH 508\nM6 HLH HLH 583\nM7 HLH HHH 658\nM8 HHH HHH 733",
+   "table_id": "img_038753_t0"
+  },
+  "p10_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    261.0,
+    580.0,
+    444.0
+   ],
+   "ocr": "Extract and fraction type P. intermedia P. gingivalis Yield (%)\nMIC (μg/mL) Purification factor MIC (μg/mL) Purification factor\nE. linza powder - - - - 100\nMethanol extract 625* 1 312.50* 1 20.10\nFraction III (chloroform fraction) 625 21 156.25 23 2.93\nSephadex fraction No. S14 78.12 24 19.53 26 0.12\nHPLC fraction No. S14-1 156.25 23 39.06 25 0.0058\nHPLC fraction No. S14-2 (SA) 39.06 25 9.76 27 0.0063\nHPLC fraction No. S14-3 (GLA) 39.06 25 9.76 27 0.0064",
+   "table_id": "img_038753_t1"
+  },
+  "p10_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    460,
+    580,
+    534
+   ],
+   "ocr": "The data presented in Table 1 elucidates the comparative effectiveness of various body segments in relation to their mass and associated minimum inhibitory concentration (MIC) values. Specifically, this table highlights the performance metrics of the upper and lower half body samples, providing insight into their respective purification factors and mass measurements. Notably, the upper half body sample exhibits a mass of 235 grams, which serves as a critical benchmark for analyzing its antibacterial properties."
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    522,
+    580,
+    611
+   ],
+   "ocr": "The MIC values, expressed in micrograms per milliliter (μg/mL), are essential in determining the concentration at which bacterial growth is inhibited, thereby indicating the potency of the sample under investigation. Moreover, the purification factors listed in the table reflect the efficiency of the extraction process, which is fundamental in assessing the overall quality of the sample. By examining these metrics, stakeholders can better understand the relationship between mass and antimicrobial activity, facilitating informed decisions regarding further research and application of E. linza powder. Overall, this data underscores the importance of quantifying these parameters in the development of effective antimicrobial agents."
+  }
+ }
+}

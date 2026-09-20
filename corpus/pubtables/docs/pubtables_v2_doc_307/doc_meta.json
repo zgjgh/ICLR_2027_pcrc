@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_307",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2700797_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    130.1,
+    674.1,
+    480.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2700797_table_0.png",
+   "html": "<table><tr><td>AR DRG codes*</td><td>Description</td></tr><tr><td>B63Z</td><td>Dementia and other chronic disturbances of cerebral function</td></tr><tr><td colspan=\"2\">B67A-B67C</td></tr><tr><td>B68A-B68B</td><td>Multiple sclerosis and other demyelinating disorders</td></tr><tr><td>B76A-B76B</td><td>Epilepsy (&lt;69 years or with complications or co-morbidities)</td></tr><tr><td>E60A-E60B</td><td>Cystic fibrosis</td></tr><tr><td>E65A-E65B</td><td>Chronic obstructive pulmonary disease (includes bronchiectasis)</td></tr><tr><td>E69A-E69B</td><td>Asthma (&gt;49 years or with complications or co-morbidities)</td></tr><tr><td>E74A-E74C</td><td>Interstitial lung disease</td></tr><tr><td>E75A-E75B</td><td>Other respiratory diagnoses (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>E60A-E75B; (excluding E71A-E71C, lung cancer)</td><td>Complex elderly with a respiratory system primary diagnosis (&gt;69 years)</td></tr><tr><td>F62A-F62B</td><td>Heart failure</td></tr><tr><td>F65A-F65B</td><td>Peripheral vascular disorders (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>F66A-F66B</td><td>Coronary atherosclerosis</td></tr><tr><td>F70A-F71B</td><td>Arrhythmia or conduction disorders (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>F72A-F72B</td><td>Angina (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>F60A-F75C</td><td>Complex elderly with a cardiac primary diagnosis (&gt;69 years)</td></tr><tr><td>I65A-I70Z</td><td>Inflammatory spine, joint or connective tissue disease</td></tr><tr><td>J60A</td><td>Skin ulcers</td></tr><tr><td>K60A-K60B</td><td>Diabetes (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>K01Z</td><td>Diabetic foot procedures</td></tr><tr><td>K61Z-K64B</td><td>Complex elderly with endocrine or metabolic system primary diagnosis (&gt;69 years)</td></tr><tr><td>L63A-L63B</td><td>Kidney or urinary tract infections (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>Q61A-Q61C</td><td>Red blood cell disorders (&gt;69 years or with complications or co-morbidities)</td></tr><tr><td>Q62Z</td><td>Coagulation disorders</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2700797_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.1,
+    692.7,
+    586.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2700797_table_1.png",
+   "html": "<table><tr><td>ICD10-AM</td><td>Co-morbidity</td><td>ICD10-AM</td><td>Co-morbidity</td></tr><tr><td>D5000&#8211;D6499</td><td>Anaemia</td><td>I2000&#8211;I2599</td><td>Acute coronary syndrome</td></tr><tr><td>I4800&#8211;I4899</td><td>Cardiac arrhythmias</td><td>I5000&#8211;I5099</td><td>Heart failure</td></tr><tr><td>I1000&#8211;I1599</td><td>Hypertensive diseases</td><td>I6000&#8211;I6999</td><td>Cerebrovascular diseases</td></tr><tr><td>I7000&#8211;I7399</td><td>Peripheral vascular disease</td><td>C0000&#8211;C9699</td><td>Malignant neoplasms</td></tr><tr><td>J4500&#8211;J4699</td><td>Asthma</td><td>J4700&#8211;J4799</td><td>Bronchiectasis</td></tr><tr><td>J4000&#8211;J4499</td><td>COPD including bronchitis and emphysema</td><td>G2000&#8211;G2299</td><td>Parkinson's disease</td></tr><tr><td>G3000&#8211;G3099 F0000&#8211;F0399</td><td>Dementias</td><td>F1000&#8211;F1099</td><td>Mental disorders due to alcohol use</td></tr><tr><td>F1100&#8211;F1999</td><td>Mental disorders due to other drug use</td><td>E1000&#8211;E1499</td><td>Diabetes mellitus</td></tr><tr><td>N1700&#8211;N1799</td><td>Acute renal failure</td><td>N1800&#8211;N1999</td><td>Chronic renal failure</td></tr><tr><td>J1000&#8211;J2299</td><td>Lower respiratory tract infections</td><td>M0500&#8211;M1499</td><td>Inflammatory arthritis</td></tr><tr><td>M3000&#8211;M3699</td><td>Systemic connective tissue disorder</td><td>F2000&#8211;F2999</td><td>Schizophrenic disorders</td></tr><tr><td>F3000&#8211;F3999</td><td>Mood (affective) disorders</td><td>I0500&#8211;I0999 I3300&#8211;I3999</td><td>Chronic rheumatic heart disease and other heart valve disorders</td></tr><tr><td>K7000&#8211;K7799</td><td>Liver diseases</td><td>K8500&#8211;K8699</td><td>Pancreatic diseases</td></tr><tr><td>B2000&#8211;B2499</td><td>HIV</td><td>M8000&#8211;M8299</td><td>Osteoporosis</td></tr><tr><td>W0000&#8211;W1999</td><td>Falls</td><td></td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC2700797_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.1,
+    667.2,
+    676.0
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2700797_table_2.png",
+   "html": "<table><tr><td></td><td>Full Sample (n = 17,699)</td><td>Development sample (n = 13,207)</td><td>Validation sample (n = 4,492)</td></tr><tr><td></td><td>%</td><td>%</td><td>%</td></tr><tr><td>Twelve month readmission rate</td><td>45.4</td><td>45.5</td><td>45.1</td></tr><tr><td colspan=\"4\">Age Group</td></tr><tr><td>0&#8211;17 years</td><td>3.2</td><td>3.2</td><td>3.3</td></tr><tr><td>18&#8211;39 years</td><td>8.8</td><td>8.7</td><td>9.0</td></tr><tr><td>40&#8211;64 years</td><td>23.7</td><td>23.8</td><td>23.4</td></tr><tr><td>65&#8211;74 years</td><td>20.5</td><td>20.4</td><td>20.7</td></tr><tr><td>75+ years</td><td>43.8</td><td>43.9</td><td>43.6</td></tr><tr><td colspan=\"4\">Sex</td></tr><tr><td>Male</td><td>49.3</td><td>49.4</td><td>48.9</td></tr><tr><td>Female</td><td>50.7</td><td>50.6</td><td>51.1</td></tr><tr><td colspan=\"4\">Marital status</td></tr><tr><td>Never married</td><td>20.6</td><td>20.5</td><td>20.8</td></tr><tr><td>Married/de facto</td><td>48.6</td><td>48.8</td><td>48.1</td></tr><tr><td>Widowed</td><td>21.0</td><td>20.9</td><td>21.2</td></tr><tr><td>Separated/divorced</td><td>9.9</td><td>9.8</td><td>9.9</td></tr><tr><td colspan=\"4\">Indigenous status</td></tr><tr><td>Non-Indigenous</td><td>96.0</td><td>95.9</td><td>96.1</td></tr><tr><td>Indigenous</td><td>4.0</td><td>4.1</td><td>3.9</td></tr><tr><td colspan=\"4\">SEIFA1</td></tr><tr><td>Most disadvantaged</td><td>28.5</td><td>28.8</td><td>27.8</td></tr><tr><td>Quintile 2</td><td>28.0</td><td>27.8</td><td>28.5</td></tr><tr><td>Quintile 3</td><td>21.0</td><td>21.1</td><td>20.7</td></tr><tr><td>Quintile 4</td><td>15.7</td><td>15.6</td><td>16.2</td></tr><tr><td>Least Disadvantaged</td><td>6.7</td><td>6.7</td><td>6.8</td></tr><tr><td colspan=\"4\">ARIA2</td></tr><tr><td>Major city</td><td>43.7</td><td>43.3</td><td>44.8</td></tr><tr><td>Inner Regional</td><td>28.6</td><td>28.9</td><td>27.9</td></tr><tr><td>Outer Regional</td><td>22.6</td><td>22.6</td><td>22.6</td></tr><tr><td>Remote</td><td>2.7</td><td>2.8</td><td>2.4</td></tr><tr><td>Very Remote</td><td>2.4</td><td>2.5</td><td>2.4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2700797_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    142.1,
+    365.0,
+    734.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2700797_table_3.png",
+   "html": "<table><tr><td>Parameter</td><td>Odds ratio</td><td>95% CI</td><td>p-value</td></tr><tr><td colspan=\"4\">Age Group</td></tr><tr><td>0&#8211;17 years</td><td>1.00</td><td>-</td><td></td></tr><tr><td>18&#8211;39 years</td><td>0.94</td><td>0.74&#8211;1.19</td><td>0.60</td></tr><tr><td>40&#8211;64 years</td><td>1.09</td><td>0.88&#8211;1.36</td><td>0.43</td></tr><tr><td>65&#8211;74 years</td><td>1.32</td><td>1.06&#8211;1.65</td><td>0.02</td></tr><tr><td>75+ years</td><td>1.30</td><td>1.05&#8211;1.61</td><td>0.02</td></tr><tr><td colspan=\"4\">SEIFA1</td></tr><tr><td>Most disadvantaged</td><td>1.00</td><td>-</td><td></td></tr><tr><td>Quintile 2</td><td>0.85</td><td>0.78&#8211;0.94</td><td>0.001</td></tr><tr><td>Quintile 3</td><td>0.96</td><td>0.86&#8211;1.06</td><td>0.39</td></tr><tr><td>Quintile 4</td><td>0.79</td><td>0.71&#8211;0.89</td><td>0.0001</td></tr><tr><td>Least Disadvantaged</td><td>0.80</td><td>0.68&#8211;0.94</td><td>0.007</td></tr><tr><td colspan=\"4\">ARIA2</td></tr><tr><td>Major city</td><td>1.00</td><td>-</td><td></td></tr><tr><td>Inner Regional</td><td>1.01</td><td>0.92&#8211;1.11</td><td>0.81</td></tr><tr><td>Outer Regional</td><td>1.10</td><td>1.00&#8211;1.22</td><td>0.04</td></tr><tr><td>Remote</td><td>1.30</td><td>1.04&#8211;1.62</td><td>0.02</td></tr><tr><td>Very Remote</td><td>1.36</td><td>1.08&#8211;1.73</td><td>0.01</td></tr><tr><td colspan=\"4\">Co-morbidities</td></tr><tr><td>Anaemia</td><td>1.31</td><td>1.16&#8211;1.47</td><td>0.001</td></tr><tr><td>Acute coronary syndrome</td><td>1.14</td><td>1.04&#8211;1.25</td><td>0.005</td></tr><tr><td>Heart failure</td><td>1.25</td><td>1.12&#8211;1.38</td><td>&lt;0.0001</td></tr><tr><td>Peripheral vascular disease</td><td>1.32</td><td>1.10&#8211;1.58</td><td>0.003</td></tr><tr><td>Malignant neoplasms</td><td>1.29</td><td>1.10&#8211;1.51</td><td>0.002</td></tr><tr><td>COPD</td><td>1.21</td><td>1.10&#8211;1.34</td><td>0.0002</td></tr><tr><td>Mental disorder (alcohol)</td><td>1.42</td><td>1.16&#8211;1.74</td><td>0.001</td></tr><tr><td>Diabetes</td><td>1.27</td><td>1.16&#8211;1.39</td><td>&lt;0.0001</td></tr><tr><td>Chronic renal failure</td><td>1.30</td><td>1.12&#8211;1.52</td><td>0.001</td></tr><tr><td>Mood disorders</td><td>1.22</td><td>1.00&#8211;1.50</td><td>0.06</td></tr><tr><td>Liver diseases</td><td>1.45</td><td>1.06&#8211;1.99</td><td>0.02</td></tr><tr><td colspan=\"4\">Any previous admission</td></tr><tr><td colspan=\"4\">Past year</td></tr><tr><td>None</td><td>1.00</td><td>-</td><td></td></tr><tr><td>One</td><td>1.14</td><td>1.01&#8211;1.28</td><td>0.03</td></tr><tr><td>Two or more</td><td>1.63</td><td>1.38&#8211;1.91</td><td>&lt;0.0001</td></tr><tr><td colspan=\"4\">Past 3 years</td></tr><tr><td>None</td><td>1.00</td><td>-</td><td></td></tr><tr><td>One</td><td>1.45</td><td>1.31&#8211;1.62</td><td>&lt;0.0001</td></tr><tr><td>Two or more</td><td>1.74</td><td>1.53&#8211;1.98</td><td>&lt;0.0001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2700797_table_4",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    663.0,
+    448.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2700797_table_4.png",
+   "html": "<table><tr><td></td><td colspan=\"3\">Risk score threshold</td></tr><tr><td></td><td>50%</td><td>70%</td><td>80%</td></tr><tr><td colspan=\"4\">Queensland data</td></tr><tr><td>Sensitivity (95% CI)</td><td>44.7 (42.5&#8211;46.9)</td><td>7.8 (6.7&#8211;9.1)</td><td>1.1 (0.1&#8211;1.7)</td></tr><tr><td>Specificity (95% CI)</td><td>78.1 (76.4&#8211;79.6)</td><td>97.5 (96.8&#8211;98.1)</td><td>99.8 (99.6&#8211;99.9)</td></tr><tr><td>False positive rate (95% CI)</td><td>37.5 (35.0&#8211;40.0)</td><td>28.2 (22.3&#8211;34.6)</td><td>14.8 (4.2&#8211;33.7)</td></tr><tr><td>LR+ (95% CI)</td><td>2.04 (1.86&#8211;2.23)</td><td>3.11 (2.33&#8211;4.15)</td><td>7.02 (2.43&#8211;20.28)</td></tr><tr><td>LR- (95% CI)</td><td>0.71 (0.68&#8211;0.74)</td><td>0.95 (0.93&#8211;0.96)</td><td>0.99 (0.99&#8211;1.00)</td></tr><tr><td colspan=\"4\">UK study[11]</td></tr><tr><td>Sensitivity</td><td>54.3</td><td>17.8</td><td>8.1</td></tr><tr><td>Specificity</td><td>72.2</td><td>95.0</td><td>98.6</td></tr><tr><td>False positive rate</td><td>34.7</td><td>22.6</td><td>15.7</td></tr><tr><td>LR+ (95% CI)</td><td>2.0</td><td>3.6</td><td>5.8</td></tr><tr><td>LR- (95% CI)</td><td>0.6</td><td>0.9</td><td>0.9</td></tr><tr><td colspan=\"4\">US study[14]</td></tr><tr><td>Sensitivity</td><td>57.9</td><td>Not reported</td><td>Not reported</td></tr><tr><td>Specificity</td><td>70.7</td><td></td><td></td></tr><tr><td>False positive rate</td><td>34.1</td><td></td><td></td></tr><tr><td>LR+ (95% CI)</td><td>2.0</td><td></td><td></td></tr><tr><td>LR- (95% CI)</td><td>0.6</td><td></td><td></td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_217",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5033409_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.1,
+    676.2,
+    268.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5033409_table_0.png",
+   "html": "<table><tr><td>Trial\\Trait</td><td>DHE</td><td>DFL</td><td>DMA</td><td>PLH (cm)</td><td>YLD (t/h)</td></tr><tr><td>IRRI.Y11.12</td><td>-</td><td>81a (61&#8211;95)b</td><td>128 (119&#8211;36)</td><td>114 (87&#8211;150)</td><td>6.34 (2.90&#8211;8.50)</td></tr><tr><td>IRRI.Y12.13</td><td>73 (58&#8211;93)</td><td>78 (63&#8211;97)</td><td>126 (117&#8211;36)</td><td>102(82&#8211;121)</td><td>5.95 (2.78&#8211;8.94)</td></tr><tr><td>IRRI.Y13.14</td><td>75 (65&#8211;88)</td><td>79 (69&#8211;92)</td><td>121 (107&#8211;33)</td><td>102 (86&#8211;121)</td><td>5.55 (3.18&#8211;7.59)</td></tr><tr><td>DRO.Y11.12</td><td>-</td><td>81 (72&#8211;99)</td><td>117 (104&#8211;30)</td><td>84 (58&#8211;120)</td><td>2.42 (1.09&#8211;3.56)</td></tr><tr><td>DRO.Y12.13</td><td>75 (65&#8211;87)</td><td>78 (66&#8211;92)</td><td>-</td><td>-</td><td>2.30 (1.55&#8211;2.95)</td></tr><tr><td>DRO.Y13.14</td><td>67 (58&#8211;79)</td><td>69 (60&#8211;80)</td><td>100 (91&#8211;109)</td><td>70 (50&#8211;96)</td><td>1.05 (0.49&#8211;1.40)</td></tr><tr><td>HEAT.Y11.12</td><td>-</td><td>-</td><td>-</td><td>42 (20&#8211;70)</td><td>0.57 (0.00&#8211;2.40)</td></tr><tr><td>HEAT.Y12.13</td><td>50 (45&#8211;59)</td><td>-</td><td>81 (78&#8211;89)</td><td>61 (45&#8211;75)</td><td>1.96 (0.29&#8211;3.18)</td></tr><tr><td>HEAT.Y13.14</td><td>56 (50&#8211;66)</td><td>59 (54&#8211;69)</td><td>87 (82&#8211;96)</td><td>59 (41&#8211;89)</td><td>2.07 (0.33&#8211;3.26)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5033409_table_1",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    664.4,
+    722.4,
+    832.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5033409_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Trial/Trait IRRI.Y11.12</td><td colspan=\"9\">PLH</td></tr><tr><td>1</td><td>0.78*</td><td>0.69</td><td>0.65</td><td>-</td><td>0.47</td><td>0.43</td><td>0.44</td><td>0.58</td></tr><tr><td>IRRI.Y12.13</td><td>0.54</td><td>1</td><td>0.68</td><td>0.55</td><td>-</td><td>0.41</td><td>0.41</td><td>0.44</td><td>0.56</td></tr><tr><td>IRRI.Y13.14</td><td>0.60</td><td>0.54</td><td>1</td><td>0.58</td><td>-</td><td>0.43</td><td>0.36</td><td>0.39</td><td>0.56</td></tr><tr><td>DRO.Y11.12</td><td>0.36</td><td>0.14</td><td>0.22</td><td>1</td><td>-</td><td>0.52</td><td>0.35</td><td>0.39</td><td>0.51</td></tr><tr><td>DRO.Y12.13</td><td>0.39</td><td>0.34</td><td>0.42</td><td>0.48</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>DRO.Y13.14</td><td>0.27</td><td>0.17</td><td>0.26</td><td>0.42</td><td>0.49</td><td>1</td><td>0.33</td><td>0.36</td><td>0.51</td></tr><tr><td>HEAT.Y11.12</td><td>0.35</td><td>0.13</td><td>0.20</td><td>0.33</td><td>0.33</td><td>0.26</td><td>1</td><td>0.38</td><td>0.45</td></tr><tr><td>HEAT.Y12.13</td><td>0.45</td><td>0.41</td><td>0.45</td><td>0.38</td><td>0.59</td><td>0.40</td><td>0.42</td><td>1</td><td>0.50</td></tr><tr><td>HEAT.Y13.14</td><td>0.38</td><td>0.28</td><td>0.35</td><td>0.31</td><td>0.52</td><td>0.44</td><td>0.61</td><td>0.59</td><td>1</td></tr><tr><td>YLD</td><td>IRRI. Y11.12</td><td>IRRI. Y12.13</td><td>IRRI. Y13.14</td><td>DRO. Y11.12</td><td>DRO. Y12.13</td><td>DRO. Y13.14</td><td>HEAT. Y11.12</td><td>HEAT. Y12.13</td><td>HEAT Y13.14</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5033409_table_2",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    116.1,
+    714.4,
+    268.8
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5033409_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Trial/Trait IRRI.Y11.12</td><td colspan=\"8\">DMA</td></tr><tr><td>1</td><td>0.56*</td><td>0.56</td><td>0.54</td><td>-</td><td>0.58</td><td>0.26</td><td>0.40</td></tr><tr><td>IRRI.Y12.13</td><td>0.70</td><td>1</td><td>0.58</td><td>0.50</td><td>-</td><td>0.71</td><td>0.36</td><td>0.59</td></tr><tr><td>IRRI.Y13.14</td><td>0.73</td><td>0.82</td><td>1</td><td>0.48</td><td>-</td><td>0.62</td><td>0.35</td><td>0.41</td></tr><tr><td>DRO.Y11.12</td><td>0.61</td><td>0.51</td><td>0.56</td><td>1</td><td>-</td><td>0.62</td><td>0.28</td><td>0.38</td></tr><tr><td>DRO.Y12.13</td><td>0.51</td><td>0.50</td><td>0.52</td><td>0.44</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>DRO.Y13.14</td><td>0.75</td><td>0.84</td><td>0.81</td><td>0.57</td><td>0.55</td><td>1</td><td>0.40</td><td>0.58</td></tr><tr><td>HEAT.Y12.13</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>0.46</td></tr><tr><td>HEAT.Y13.14</td><td>0.54</td><td>0.72</td><td>0.62</td><td>0.39</td><td>0.36</td><td>0.68</td><td>-</td><td>1</td></tr><tr><td>DFL</td><td>IRRI. Y11.12</td><td>IRRI. Y12.13</td><td>IRRI.Y13.14</td><td>DRO. Y11.12</td><td>DRO. Y12.13</td><td>DRO. Y13.14</td><td>HEAT. Y12.13</td><td>HEAT. Y13.14</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5033409_table_3",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    738.8,
+    657.4,
+    844.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5033409_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Trial/Trait IRRI.Y12.13</td><td colspan=\"6\">DHE</td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IRRI.Y13.14</td><td>0.82*</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>DRO.Y12.13</td><td>0.54</td><td>0.59</td><td>1</td><td></td><td></td><td></td></tr><tr><td>DRO.Y13.14</td><td>0.84</td><td>0.82</td><td>0.62</td><td>1</td><td></td><td></td></tr><tr><td>HEAT.Y12.13</td><td>0.44</td><td>0.42</td><td>0.31</td><td>0.48</td><td>1</td><td></td></tr><tr><td>HEAT.Y13.14</td><td>0.73</td><td>0.63</td><td>0.41</td><td>0.68</td><td>0.54</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5033409_table_4",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    114.8,
+    696.6,
+    206.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5033409_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Genome</td><td rowspan=\"2\">No. marker</td><td colspan=\"3\">No. marker after filtering for NA &lt; 10%</td><td colspan=\"3\">Hs</td></tr><tr><td>BWs</td><td>SYNs</td><td>SDLs</td><td>BWs</td><td>SYNs</td><td>SDLs</td></tr><tr><td>A</td><td>2333</td><td>1443</td><td>404</td><td>1595</td><td>0.27</td><td>0.35</td><td>0.36</td></tr><tr><td>B</td><td>2587</td><td>1584</td><td>468</td><td>1747</td><td>0.28</td><td>0.38</td><td>0.36</td></tr><tr><td>D</td><td>3691</td><td>2073</td><td>929</td><td>2630</td><td>0.06</td><td>0.40</td><td>0.19</td></tr><tr><td>Total/Mean</td><td>8612</td><td>5100</td><td>1801</td><td>5972</td><td>0.19</td><td>0.38</td><td>0.28</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5033409_table_5",
+   "page_num": 4,
+   "bbox": [
+    252.3,
+    116.1,
+    645.4,
+    205.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5033409_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Environments</td><td colspan=\"3\">BW parents</td></tr><tr><td>IRRI.</td><td>DRO.</td><td>HEAT</td></tr><tr><td>IRRI.</td><td>1</td><td>0.47</td><td>0.62</td></tr><tr><td>DRO.</td><td>0.73</td><td>1</td><td>0.68</td></tr><tr><td>HEAT</td><td>0.70</td><td>0.72</td><td>1</td></tr><tr><td colspan=\"4\">SYN parents</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5033409_table_6",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    116.1,
+    712.8,
+    222.0
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5033409_table_6.png",
+   "html": "<table><tr><td rowspan=\"2\">Trials Model/Trait</td><td colspan=\"3\">DRO.</td><td colspan=\"3\">IRRI.</td><td colspan=\"3\">HEAT</td></tr><tr><td>Pedigree</td><td>Marker</td><td>Pedigree-Marker</td><td>Pedigree</td><td>Marker</td><td>Pedigree-Marker</td><td>Pedigree</td><td>Marker</td><td>Pedigree-Marker</td></tr><tr><td>DHE</td><td>0.68</td><td>0.63</td><td>0.64</td><td>0.71</td><td>0.67</td><td>0.67</td><td>0.64</td><td>0.58</td><td>0.59</td></tr><tr><td>DFL</td><td>0.68</td><td>0.64</td><td>0.64</td><td>0.77</td><td>0.75</td><td>0.75</td><td>0.24</td><td>0.34</td><td>0.37</td></tr><tr><td>DMA</td><td>0.70</td><td>0.62</td><td>0.64</td><td>0.69</td><td>0.66</td><td>0.66</td><td>0.54</td><td>0.49</td><td>0.50</td></tr><tr><td>PLH</td><td>0.60</td><td>0.51</td><td>0.53</td><td>0.80</td><td>0.79</td><td>0.79</td><td>0.61</td><td>0.53</td><td>0.56</td></tr><tr><td>YLD</td><td>0.57</td><td>0.52</td><td>0.52</td><td>0.70</td><td>0.64</td><td>0.65</td><td>0.68</td><td>0.63</td><td>0.64</td></tr></table>"
+  }
+ ]
+}

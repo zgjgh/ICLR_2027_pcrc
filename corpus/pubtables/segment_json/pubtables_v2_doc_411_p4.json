@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_411",
+  "page": 4,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    488.7,
+    37.9,
+    700.7,
+    48.0
+   ],
+   "ocr": "A Method for Predicting Subnuclear Localizations"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.6,
+    391.4,
+    92.9
+   ],
+   "ocr": "Table 4. Performance comparison on Lei’s benchmark data set."
+  },
+  "p4_b2": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    122.0,
+    672.6,
+    375.0
+   ],
+   "ocr": "SVM Our\nensemble [1] Go-AA [21] SpectrumKernel [2] method\nSubnuclear localization size\nSn MCC Sn MCC Sp Sn MCC Sp Sn MCC\nPML Body 38 29.0 0.172 34.2 0.253 11.1 10.5 0.046 86.1 55.3 (52.6) 0.298\n(85.3) (0.273)\nNuclear Lamina 55 43.6 0.338 63.6 0.578 51.9 50.9 0.461 91.0 (91.9) 69.1 (70.9) 0.534\n(0.572)\nNuclear Speckles 56 35.7 0.363 62.5 0.607 86.7 69.6 0.754 91.8 (91.1) 62.5 (53.6) 0.503\n(0.460)\nChromatin 61 19.7 0.260 60.7 0.518 64.3 59.0 0.570 93.1 73.8 (65.6) 0.640\n(93.1) (0.572)\nNucleoplasm 75 22.7 0.206 56.0 0.504 52.6 54.7 0.465 90.8 (89.2) 64.0 (66.7) 0.526\n(0.520)\nNucleolus 219 76.7 0.367 79.0 0.656 89.8 96.4 0.880 78.6 (75.9) 93.6 (91.3) 0.726\n(0.570)\nOA for single-localization 50.0 66.5 71.2 77.8\n(75.2)\nOA for multi-localization 65.2 65.2 - 76.1\n(71.7)",
+   "table_id": "PMC3584121_table_3"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    388.3,
+    375.7,
+    647.7
+   ],
+   "ocr": "Note: the values about models using GFO are shown in the parentheses. doi:10.1371/journal.pone.0057225.t004 (case 2) of the samples from two different subnuclear locations, while keeping the class memberships unchanged. Then the newly generated feature set is analyzed by using the same five-fold cross validation as applied before to the original feature set. Here, the given numbers of features K are set as one forth, half or all of the number of optimal features. This procedure for case 1 is carried out 50 rounds and the error rates (6standard deviation) over 50 permutations are shown in Figures 3, and compared with the minimum error rates obtained from optimal features. For case 2, similar results are obtained. In each case, the estimated error rate obtained by optimal features is significantly lower than that obtained by the randomization study. Especially, the misclassifi- cation error rates obtained by using features selected randomly Table 5. Performance comparison on SNL9 benchmark data set."
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    426.0,
+    700.7,
+    766.1
+   ],
+   "ocr": "from suboptimal features are also much lower than that estimated by using those from the original features. If we do these two randomization analysis on the whole original feature set 50 times, overall error rates on average are 63.6% (64.6%) and 45.5% (62.4%), which are both significantly higher than the error rate 21.2% obtained by optimal features. Therefore, it can be concluded that two-step optimal feature selection method is effective and reliable. Since the relatively small sample size of some subdatasets in the benchmark dataset, it is also important to evaluate the stability and reliability of our classification model. In this paper, permutation tests [72,73] are performed to compare the misclassification error rates using our model with those from the randomization studies. Initially, the class memberships of all the samples were permuted while keeping features unchanged; then the newly generated random dataset is analyzed by using the same cross validation procedure applied before to the original dataset (SVM parameters are the same as those chosen to obtain the minimum error rates for original datasets). This procedure is also carried out 50 times and the error rates (6standard deviation) over 50 permutations for all binary classifications are shown in Figure 4 and compared with the minimum error rates obtained from original datasets. As one can Table 6. Comparisons of Combination2 with the individual method on the new independent dataset."
+  },
+  "p4_b5": {
+   "type": "table",
+   "bbox": [
+    80.9,
+    676.8,
+    336.2,
+    883.9
+   ],
+   "ocr": "Subnuclear\nMCC\nlocalization Size\nNuc-Ploc Our method\nChromatin 99 0.60 0.64\nHeterochromatin 22 0.52 0.27\nNuclear envelope 61 0.53 0.58\nNuclear matrix 29 0.52 0.56\nNuclear pore 79 0.70 0.70\ncomplex\nNuclear speckle 67 0.43 0.62\nNucleolus 307 0.57 0.69\nNucleoplasm 37 0.31 0.55\nNuclear PML body 13 0.32 0.43\nAc(%) 67.4% 72.1%",
+   "table_id": "PMC3584121_table_4"
+  },
+  "p4_b6": {
+   "type": "table",
+   "bbox": [
+    405.6,
+    795.2,
+    638.9,
+    904.7
+   ],
+   "ocr": "Grid search GFO\nMethods\nP-values P-values\nCombination1 0.022 0.028\nRQA 4.461e24 3.494e24\nHHT 0.037 0.025\nPPDD 0.005 0.004\nDWT 0.003 0.001",
+   "table_id": "PMC3584121_table_5"
+  },
+  "p4_b7": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    896.6,
+    362.5,
+    926.7
+   ],
+   "ocr": "Note: MCCs and Ac about Nuc-Ploc are obtained directly from the original paper [26]. doi:10.1371/journal.pone.0057225.t005"
+  },
+  "p4_b8": {
+   "type": "caption",
+   "bbox": [
+    406.0,
+    917.9,
+    550.1,
+    926.7
+   ],
+   "ocr": "doi:10.1371/journal.pone.0057225.t006"
+  },
+  "p4_b9": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.1,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    384.4,
+    953.5,
+    700.7,
+    963.6
+   ],
+   "ocr": "8 February 2013 | Volume 8 | Issue 2 | e57225"
+  }
+ }
+}

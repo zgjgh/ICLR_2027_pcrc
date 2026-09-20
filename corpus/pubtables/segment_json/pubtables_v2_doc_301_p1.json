@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_301",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    49.8,
+    359.7,
+    65.5
+   ],
+   "ocr": "BMC Medical Informatics and Decision Making 2008, 8:53"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    49.8,
+    698.1,
+    65.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6947/8/53"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    363.4,
+    119.1
+   ],
+   "ocr": "Table 1: Comparison of decision curve analysis with traditional"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    366.2,
+    107.2,
+    556.0,
+    119.1
+   ],
+   "ocr": "statistical and decision-analytic methods"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    693.0,
+    220.7
+   ],
+   "ocr": "Traditional statistical analysis Traditional decision analysis Decision curve analysis\nMathematics Simple Can be complex Simple\nAdditional data Not required Patient preferences, treatment costs or General clinical estimates only\neffectiveness\nPredictors Binary or continuous Continuous predictors problematic Binary or continuous\nAssess clinical value? No Yes Yes",
+   "table_id": "PMC2611975_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    255.5,
+    372.6,
+    922.4
+   ],
+   "ocr": "evaluated on the same data set that was used to build the model are at risk for overfit[6]. This can result in an overly optimistic evaluation of a model's value. As an example, take a 500 patient data set with an event rate of 10%, for which we develop a model with 20 variables, values of which are drawn randomly from a normal distribution. The model will typically have an AUC of around 0.70. Randomly selected numbers have no association with outcome and the AUC should be 0.50, reflecting poor dis- crimination of the model when applied to a data set of new patients. One way to correct for overfit is to split the data into a \"training\" set, on which the model is constructed, and a \"validation\" set, on which the properties of the model, such as specificity, are calculated[7]. Although a robust and elegant solution to overfitting, splitting the data set reduces statistical power. A variety of statistical methods have been proposed that use the entire data set for both training and validation, but nonetheless correct for over- fit. The two most common are cross-validation and boot- strapping[8]. In cross-validation, the data set is first randomly split into K groups. A model is then constructed using the data from the first K-1 groups and applied to the Kth group. The model building and validation process is repeated K times with each of the samples used once as the validation set. Accordingly, no patient is used both to develop and test a model. The idea of bootstrapping is to provide an estimate of the optimism associated with eval- uating a model on the same data set that was used to develop it. This is achieved by creating training sets repeat- edly by bootstrapping, building a model on the training set, and then calculating the difference in predictive accu- racy between the model when applied to the training set and when applied to the validation set, which is simply the original data. We have presented no method for correcting decision curve analysis for overfit. Hence it is entirely plausible that a method which has extremely poor discrimination after correction for overfit would appear to have clinical value in a decision curve analysis. Second, in our initial paper on decision curve analysis, we presented no method for calculation of confidence inter-"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    255.5,
+    698.4,
+    981.8
+   ],
+   "ocr": "vals. It has been argued that confidence intervals have low relevance for decision-analytic methods. This is on the grounds that given a choice between two strategies, we should choose the one most likely to give us the best out- come, regardless of whether we believe it will be superior 51% or 99% of the time[9]. However, it is reasonable to suppose that, in some cases, clinicians will want to be sure that introduction of prediction model has a low chance of leading to inferior patient outcomes. This might be in the case where a well accepted clinical practice would be changed, for example, treating patients on the basis of a prediction model, rather than routinely treating all patients. Alternatively, a confidence interval might be used to inform the question of whether further research would be of value. Third, we initially presented decision curve analysis only for binary outcomes. No method was provided for apply- ing the method to censored (\"survival time\") data such as typically found in cancer studies. Fourth, decision curve analysis requires a data set for which both patient outcome and the predictor for each patient are known. There may be situations where an ana- lyst wishes to investigate a model on a data set where out- come is not known, such as the evaluation of a published statistical model on patients who have not been followed sufficiently. Similarly, for case control data, the values of the predictor are not known for all patients, only for cases and those selected as controls. In this paper we present four extensions to decision curve analysis to address each of these issues: correction for overfit, calculation of confidence intervals, application to censored data and application directly to predicted prob- abilities. Correcting decision curves for model overfit Methods We tested the two most common methods of correcting for overfit, cross-validation and bootstrapping[10]. Tech- niques of cross-validation can vary with respect to the number of K folds; whether the cross-validation is con- ducted just once or n times with the results averaged over the n iterations; whether what is estimated for the Kth Page 5 of 17 (page number not for citation purposes)"
+  }
+ }
+}

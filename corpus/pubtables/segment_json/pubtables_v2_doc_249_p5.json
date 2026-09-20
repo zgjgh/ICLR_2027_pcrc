@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_249",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    580.2,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Hybrid flower pollination algorithm"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.2,
+    382.3,
+    107.6
+   ],
+   "ocr": "Table 8. Comparison with existing strategies CA(N; 4, 5P), P varied from 5 to 10."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    51.8,
+    116.3,
+    716.4,
+    268.5
+   ],
+   "ocr": "P Computational-based Strategies Meta-heuristic-based Strategies\nIPOG ITCH Jenny PICT TConfig TVG GTWay MIPOG CTE-XL PSO HSS HHH CS eFPA\n5 908 837 810 773 849 731 625 779 NA 779 751 746 776 778\n6 1239 1074 1072 1092 1128 1027 625 1001 NA 1001 990 967 991 985\n7 1349 1248 1279 1320 1384 1216 1125 1209 NA 1209 1186 1151 1200 1166\n8 1792 1424 1468 1532 1595 1443 1384 1417 NA 1417 1358 1320 1415 1319\n9 1793 1578 1643 1724 1795 1579 1543 1570 NA 1570 1530 1483 1562 1465\n10 1965 1791 1812 1878 1971 1714 1643 1716 NA 1716 1624 1635 1731 1592\n11 2091 1839 1957 2038 2122 1852 1722 1902 NA 1902 1860 1784 2062 1719\n12 2285 1964 2103 NA 2268 2022 1837 2015 NA 2015 2022 1915 2223 1854",
+   "table_id": "PMC5931463_table_7"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    276.7,
+    236.3,
+    287.3
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t008"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    312.9,
+    723.3,
+    416.5
+   ],
+   "ocr": "Apart from the convergence rate, time complexity can be a useful indicator of the effective- ness of a FPA hybrid variant. Based the pseudo code excerpt in Fig 6, the loop structures for the original FPA, eFPA, mFPA, and lFPA are shown in Fig 8(a) to 8(c). Referring to Fig 8 and assuming all other operations can be performed in a constant time, O(J×K×L) O(n3) � the time complexity for FPA and mFPA is when J, K, and L are approach- n. O(J×K× (L+M)) O(n3) �"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    395.0,
+    725.7,
+    441.8
+   ],
+   "ocr": "ing a large In a similar manner, the time complexity for eFPA is when J, K, L+M are approaching a large n. Unlike FPA, mFPA, and eFPA, the time complexity O(J×K×L×M)) O(n4)."
+  },
+  "p5_b6": {
+   "type": "title",
+   "bbox": [
+    384.4,
+    427.6,
+    394.1,
+    449.4
+   ],
+   "ocr": "�"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    427.8,
+    718.6,
+    456.8
+   ],
+   "ocr": "for lFPA is eFPA has better convergence while maintaining the same time complexity as the original FPA and is thus the best variant for our selection."
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    495.7,
+    724.5,
+    738.5
+   ],
+   "ocr": "6.2 Benchmarking with existing t-way strategies To evaluate its performance in terms of minimizing the test suite size, eFPA is compared with existing t-way strategies in terms of test suite size. Our experiment is divided into four sets of comparisons as follows: 1. Comparison of eFPA with results of strategies published in [16,17,62] for different configu- rations involving CA(N; 2, 34), CA(N; 2, 313), CA(N; 2, 1010), CA(N; 2, 1510), CA(N; 2, 510), CA(N; 3, 36), CA(N; 3, 46), CA(N; 3, 56), CA(N; 3, 66), CA(N; 3, 57), MCA(N; 2, 51 38 22), MCA(N; 2, 71 61 51 46 38 23), and MCA(N; 3, 52 42 32). 2. Comparison of eFPA with existing strategies for CA (N; t, 210), t varied from 2 to 10. 3. Comparison of eFPA with existing strategies for CA(N; 4, 5P), p varied from 5 to 10. 4. Comparison of eFPA with existing strategies for CA(N; 4, v10), v varied from 2 to 7. Table 9. Comparison with existing strategies CA(N; 4, v10) with v varied from 2 to 7."
+  },
+  "p5_b9": {
+   "type": "table",
+   "bbox": [
+    51.9,
+    747.3,
+    716.3,
+    867.8
+   ],
+   "ocr": "V Computational-based Strategies Meta-heuristic-based Strategies\nIPOG ITCH Jenny PICT TConfig TVG GTWay MIPOG CTE-XL PSO HSS HHH CS eFPA\n2 49 58 39 43 45 40 46 43 NA 34 37 36 28 28\n3 241 336 221 231 235 228 224 217 NA 213 211 207 211 208\n4 707 704 703 742 718 782 621 637 NA 685 691 668 698 657\n5 1965 1750 1719 1812 1878 1917 1714 1643 NA 1716 1624 1635 1731 1592\n6 3935 NA 3519 3735 NA 4159 3514 3657 NA 3880 3475 3405 3894 3310\n7 7061 NA 6462 NA NA 7854 6459 5927 NA NA 6398 6412 NA 6095",
+   "table_id": "PMC5931463_table_8"
+  },
+  "p5_b10": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    876.0,
+    236.3,
+    886.7
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0195187.t009"
+  },
+  "p5_b11": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0195187 May 2, 2018 16 / 24"
+  }
+ }
+}

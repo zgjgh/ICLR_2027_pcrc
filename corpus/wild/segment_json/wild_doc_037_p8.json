@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_037",
+  "page": 8,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p8_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    212.0
+   ],
+   "ocr": "Pathway size by gene Pathway overlapping Gene mapping to pathway\nRange Proportion Range Proportion1 Range Proportion\n> = 10, < 20 36% 0 84% Unique 26.20%\n> = 20, < 100 55% > 0, < 0.01 2.10% > = 2, < 10 58.50%\n> = 100, < 200 7.70% > 0.01, < 0.1 11.30% > = 10, < 100 15.10%\n> = 200, < 300 1.30% > 0.1, < 0.5 2.50% > = 100 0.20%\n> 0.5 0.10%",
+   "table_id": "img_041948_t0"
+  },
+  "p8_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    227.0,
+    580.0,
+    375.0
+   ],
+   "ocr": "Tracts FA, mean (SD) AD, mean (SD) RD, mean (SD)\nPatient Control Patient Control Patient Control\nSLF 0.29 (0.05)a 0.37 (0.04) 1.05 (0.15) 1.09 (0.08) 0.68 (0.11) 0.60 (0.04)\nAF 0.33 (0.06)a 0.47 (0.03) 1.08 (0.16) 1.21 (0.05) 0.64 (0.10) 0.56 (0.04)\nIFOF 0.32 (0.07)a 0.48 (0.03) 1.19 (0.13)a 1.35 (0.04) 0.72 (0.08)a 0.60 (0.05)\nUF 0.34 (0.07)a 0.43 (0.03) 1.16 (0.13) 1.27 (0.06) 0.67 (0.03) 0.62 (0.04)\nILF 0.36 (0.03)a 0.42 (0.02) 1.27 (0.07) 1.29 (0.05) 0.71 (0.05)a 0.65 (0.03)",
+   "table_id": "img_041948_t1"
+  },
+  "p8_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    391,
+    580,
+    480
+   ],
+   "ocr": "The first table presents data on pathway size by gene, with headers for Pathway size by gene, Pathway overlapping, and Gene mapping to pathway, subdivided into Range, Proportion, and corresponding values. For the row labeled \"> = 10, < 20\", the values are 36%, 0, 84%, and 26.20%. The row \"> = 20, < 100\" displays 55%, > 0, < 0.01, 2.10%, and 58.50%. Next, the row \"> = 100, < 200\" includes values of 7.70%, > 0.01, < 0.1, 11.30%, and 15.10%. The row \"> = 200, < 300\" shows 1.30%, > 0.1, < 0.5, 2.50%, and 0.20%. Finally, the row labeled \"—\" contains dashes for the first two columns, 0.10% for the third column, and dashes for the last column."
+  },
+  "p8_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    468,
+    580,
+    557
+   ],
+   "ocr": "The second table details tracts with headers for FA, mean (SD), AD, mean (SD), and RD, mean (SD) across Patient and Control groups. For SLF, the values are 0.29 (0.05)a, 0.37 (0.04), 1.05 (0.15), 1.09 (0.08), 0.68 (0.11), and 0.60 (0.04). For AF, the values are 0.33 (0.06)a, 0.47 (0.03), 1.08 (0.16), 1.21 (0.05), 0.64 (0.10), and 0.56 (0.04). The IFOF row provides 0.32 (0.07)a, 0.48 (0.03), 1.19 (0.13)a, 1.35 (0.04), 0.72 (0.08)a, and 0.60 (0.05). The UF row presents 0.34 (0.07)a, 0.43 (0.03), 1.16 (0.13), 1.27 (0.06), 0.67 (0.03), and 0.62 (0.04). Lastly, the ILF row shows 0.36 (0.03)a, 0.42 (0.02), 1.27 (0.07), 1.29 (0.05), 0.71 (0.05)a, and 0.65 (0.03)."
+  }
+ }
+}

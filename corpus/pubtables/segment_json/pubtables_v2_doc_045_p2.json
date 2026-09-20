@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_045",
+  "page": 2,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Thompson et al. BMC Bioinformatics 2011, 12:393 http://www.biomedcentral.com/1471-2105/12/393"
+  },
+  "p2_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 9 of 18"
+  },
+  "p2_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.2,
+    678.6,
+    807.7
+   ],
+   "ocr": "corpus that was used to test the feasibility of the scheme, as described above. Both annotators were given the same sets of abstracts to annotate, independently of each other. This allowed us to detect a maximal number of potential annotation errors and discrepancies pro- duced by the annotators, as we could conduct compari- sons not only between the annotators themselves, but also against a gold standard corpus. The annotators returned a set of abstracts each week, in response to which we produced detailed feedback reports highlight- ing annotation errors. These reports were thoroughly discussed with the annotators, in order to maximally enhance and accelerate the learning process. Often, errors made by the annotators revealed potential pro- blems with the annotation guidelines, which were addressed by updating the guidelines accordingly. Results and Discussion In this section, we firstly provide key statistics regarding the meta-knowledge annotations produced, together with a brief discussion regarding the salient characteris- tics of the corpus. This is followed by a report on the level of agreement achieved between the annotators in the double-annotated part of the corpus, and an exami- nation of the different kinds of discrepancies that were found within these abstracts. General corpus characteristics Below, we discuss the general distribution of the annota- tions amongst the different categories for each dimen- sion, and also provide lists of the most commonly annotated clue expressions. Knowledge Type (KT) Table 3 shows the number of instances of each category annotated for the Knowledge Type dimension. The most common category is Observation, constituting just over a third of the total number of events. This result is unsurprising, since abstracts would be expected to focus mainly on definite experimental observations and results, both of which fall into this category. The Other category is almost as common as Observation. Such events are generally the participant events of Investiga- tion, Analysis or Fact events which, out of the context Table 3 Distribution of annotated categories for Knowledge Type (KT)"
+  },
+  "p2_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    354.1,
+    124.0
+   ],
+   "ocr": "Table 2 Inference table for Hypothesis hyper-dimension"
+  },
+  "p2_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    347.5,
+    262.4
+   ],
+   "ocr": "KT (Annotated) CL (Annotated) Hypothesis (Inferred)\nFact X No\nMethod X No\nOther X No\nObservation X No\nAnalysis L3 No\nAnalysis L2 Yes\nAnalysis L1 Yes\nInvestigation X Yes",
+   "table_id": "PMC3222636_table_1"
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    269.4,
+    347.2,
+    290.0
+   ],
+   "ocr": "The symbol ‘X’ indicates a “don’t care condition”, meaning that this value does not have any impact on the result."
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    321.8,
+    366.2,
+    922.9
+   ],
+   "ocr": "annotation scheme [21]. Two of the authors indepen- dently applied the annotation scheme to 70 abstracts selected at random from the GENIA pathway corpus [49], using the annotation manual we had developed. The experiment helped to demonstrate the soundness of both the scheme itself and the guidelines, given that Kappa scores [50] scores of 0.89 - 0.95 were achieved. Also, the fact that all categories within all dimensions were annotated, at least to a certain extent, suggested that none of the proposed categories was redundant. Annotators and training In order to ensure the efficacy of the guidelines and the reproducibility of the annotation task, we recruited 2 external annotators to carry out the annotation of our gold standard corpus. An important consideration was the type of expertise required by the annotators. It has previously been found that at least negations and specu- lations in biomedical texts can be reliably detected by linguists [40]. The scope of our meta-knowledge annota- tion is wider, involving some scientifically motivated aspects (i.e., KT and Manner), but the assignment of certain dimension values is somewhat linguistically oriented, e.g., it is often the case that clue expressions have a grammatical relationship to the event trigger that they modify. In order to verify the extent to which either domain-specific biological knowledge or linguistic knowledge is required to perform the annotation accu- rately, we recruited a biology expert and a linguistics expert to carry out the task. Both annotators have near- native competency of English, which we considered to be important to carry out the task accurately. The annotators undertook training prior to commen- cing the annotation of the gold standard corpus. This training began with initial introductory sessions, in which the annotation scheme and guidelines were explained, and the X-Conc annotation tool was demon- strated. Subsequently, the annotators carried out prac- tice annotation tasks. For this purpose, we used the same corpus of 70 abstracts from the GENIA pathway"
+  },
+  "p2_b7": {
+   "type": "table",
+   "bbox": [
+    405.4,
+    812.6,
+    657.2,
+    915.9
+   ],
+   "ocr": "Category Freq % of total events\nObservation 12821 34.7%\nOther 11537 31.3%\nAnalysis 6578 17.8%\nFact 2998 8.1%\nInvestigation 1948 5.3%\nMethod 976 2.6%",
+   "table_id": "PMC3222636_table_2"
+  }
+ }
+}

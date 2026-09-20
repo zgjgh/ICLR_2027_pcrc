@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_459",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    761,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    761,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4515634_table_0",
+   "page_num": 1,
+   "bbox": [
+    204.0,
+    61.3,
+    698.7,
+    378.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4515634_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Participant</td><td rowspan=\"2\">PSE (mm)</td><td colspan=\"3\">Genuine acupuncture</td><td colspan=\"3\">Pseudo-stimulation</td></tr><tr><td>Rate of correct estimation</td><td>Intensity (PC6)</td><td>Intensity (HT7)</td><td>Rate of response</td><td>Intensity (PC6)</td><td>Intensity (HT7)</td></tr><tr><td>S01</td><td>24.98</td><td>1.00</td><td>3.3 &#177; 0.48</td><td>3.1 &#177; 0.56</td><td>0.55</td><td>1.6 &#177; 0.51</td><td>1.8 &#177; 0.44</td></tr><tr><td>S02</td><td>37.06</td><td>1.00</td><td>2.3 &#177; 0.94</td><td>2.9 &#177; 0.73</td><td>1.00</td><td>1.0 &#177; 0.00</td><td>1.0 &#177; 0.27</td></tr><tr><td>S03</td><td>34.05</td><td>1.00</td><td>1.6 &#177; 0.69</td><td>2.2 &#177; 0.63</td><td>1.00</td><td>1.1 &#177; 0.37</td><td>1.0 &#177; 0.28</td></tr><tr><td>S04</td><td>37.78</td><td>1.00</td><td>2.4 &#177; 0.51</td><td>3.2 &#177; 0.42</td><td>0.85</td><td>1.3 &#177; 0.48</td><td>1.2 &#177; 0.42</td></tr><tr><td>S05</td><td>26.79</td><td>0.95</td><td>2.8 &#177; 1.03</td><td>2.7 &#177; 0.67</td><td>0.25</td><td>1.1 &#177; 0.33</td><td>1.1 &#177; 0.40</td></tr><tr><td>S06</td><td>23.00</td><td>1.00</td><td>2.0 &#177; 0.66</td><td>2.4 &#177; 0.51</td><td>1.00</td><td>1.3 &#177; 0.48</td><td>1.4 &#177; 0.53</td></tr><tr><td>S07</td><td>32.07</td><td>1.00</td><td>2.9 &#177; 0.87</td><td>1.7 &#177; 0.82</td><td>0.95</td><td>1.0 &#177; 0.28</td><td>1.2 &#177; 0.46</td></tr><tr><td>S08</td><td>35.14</td><td>1.00</td><td>1.6 &#177; 0.51</td><td>3.8 &#177; 0.42</td><td>1.00</td><td>1.0 &#177; 0.00</td><td>1.0 &#177; 0.30</td></tr><tr><td>S09</td><td>38.14</td><td>0.90</td><td>2.4 &#177; 0.52</td><td>2.2 &#177; 1.31</td><td>1.00</td><td>1.0 &#177; 0.00</td><td>1.0 &#177; 0.00</td></tr><tr><td>S10</td><td>36.04</td><td>1.00</td><td>2.0 &#177; 0.66</td><td>2.8 &#177; 0.91</td><td>1.00</td><td>1.0 &#177; 0.00</td><td>1.0 &#177; 0.00</td></tr><tr><td>S11</td><td>25.95</td><td>1.00</td><td>3.5 &#177; 0.52</td><td>1.7 &#177; 0.67</td><td>1.00</td><td>1.3 &#177; 0.74</td><td>1.8 &#177; 0.71</td></tr><tr><td>S12</td><td>33.03</td><td>0.95</td><td>3.1 &#177; 0.87</td><td>3.4 &#177; 0.51</td><td>1.00</td><td>1.3 &#177; 0.49</td><td>1.0 &#177; 0.00</td></tr><tr><td>S13</td><td>34.05</td><td>1.00</td><td>2.8 &#177; 0.63</td><td>1.9 &#177; 0.87</td><td>1.00</td><td>1.0 &#177; 0.00</td><td>1.0 &#177; 0.00</td></tr><tr><td>S14</td><td>43.00</td><td>1.00</td><td>2.2 &#177; 0.66</td><td>3.1 &#177; 0.73</td><td>1.00</td><td>1.7 &#177; 1.21</td><td>1.6 &#177; 0.91</td></tr><tr><td>average</td><td>32.93 &#177; 5.79 (global PSE: 32.62)</td><td>0.986 &#177; 0.031</td><td>2.50 &#177; 0.89</td><td>2.65 &#177; 0.94</td><td>0.900 &#177; 0.224</td><td>1.24 &#177; 0.56</td><td>1.25 &#177; 0.51</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4515634_table_1",
+   "page_num": 2,
+   "bbox": [
+    204.0,
+    61.3,
+    599.4,
+    459.1
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4515634_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Genuine stimulation</td><td rowspan=\"2\">Cluster peak z-score</td><td rowspan=\"2\">Side</td><td rowspan=\"2\">Brain region labels</td><td rowspan=\"2\">Size (mm2)</td><td rowspan=\"2\">p-Cluster</td><td colspan=\"3\">Coordinates (MNI)</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td rowspan=\"7\">Activation</td><td>8.36</td><td>R</td><td>vlPFC, aIns, pIns, operculum, SMA, SII, SMG, SPL</td><td>13295.9</td><td>&lt; 0.001</td><td>41</td><td>18</td><td>9</td></tr><tr><td>7.57</td><td>R</td><td>ACC, preSMA</td><td>2921.2</td><td>&lt; 0.001</td><td>10</td><td>11</td><td>48</td></tr><tr><td>7.45</td><td>L</td><td>aIns, Operculum, SMA, SII, SMG, SPL</td><td>9144.9</td><td>&lt; 0.001</td><td>&#8722; 57</td><td>&#8722; 24</td><td>22</td></tr><tr><td>6.61</td><td>L</td><td>mACC, preSMA</td><td>1746.0</td><td>&lt; 0.001</td><td>&#8722; 9</td><td>4</td><td>50</td></tr><tr><td>5.13</td><td>L</td><td>fusiform area</td><td>878.8</td><td>&lt; 0.001</td><td>&#8722; 8</td><td>&#8722; 72</td><td>&#8722; 1</td></tr><tr><td>5.06</td><td>R</td><td>SI</td><td>436.5</td><td>0.006</td><td>17</td><td>&#8722; 42</td><td>66</td></tr><tr><td>4.97</td><td>R</td><td>fusiform area</td><td>1201.8</td><td>&lt; 0.001</td><td>6</td><td>&#8722; 69</td><td>3</td></tr><tr><td rowspan=\"12\">Deactivation</td><td>6.25</td><td>L</td><td>IPL</td><td>2453.3</td><td>&lt; 0.001</td><td>&#8722; 44</td><td>&#8722; 68</td><td>22</td></tr><tr><td>5.83</td><td>R</td><td>IPL</td><td>1370.6</td><td>&lt; 0.001</td><td>44</td><td>&#8722; 75</td><td>17</td></tr><tr><td>5.78</td><td>L</td><td>Parahippocampus</td><td>972.8</td><td>&lt; 0.001</td><td>&#8722; 31</td><td>&#8722; 36</td><td>&#8722; 15</td></tr><tr><td>5.68</td><td>L</td><td>vmPFC, dlPFC</td><td>4100.6</td><td>&lt; 0.001</td><td>&#8722; 8</td><td>56</td><td>&#8722; 5</td></tr><tr><td>5.22</td><td>L</td><td>MTG</td><td>2283.3</td><td>&lt; 0.001</td><td>&#8722; 50</td><td>2</td><td>&#8722; 29</td></tr><tr><td>4.90</td><td>L</td><td>dPCC (BA23)</td><td>2587.5</td><td>&lt; 0.001</td><td>&#8722; 8</td><td>&#8722; 59</td><td>25</td></tr><tr><td>4.33</td><td>R</td><td>vmPFC</td><td>844.6</td><td>&lt; 0.001</td><td>9</td><td>53</td><td>&#8722; 3</td></tr><tr><td>4.26</td><td>R</td><td>MI</td><td>535.0</td><td>&lt; 0.001</td><td>8</td><td>&#8722; 39</td><td>62</td></tr><tr><td>3.86</td><td>R</td><td>dPCC (BA23)</td><td>1362.8</td><td>&lt; 0.001</td><td>9</td><td>&#8722; 54</td><td>60</td></tr><tr><td>3.81</td><td>L</td><td>occipital lobe</td><td>717.8</td><td>&lt; 0.001</td><td>&#8722; 19</td><td>&#8722; 81</td><td>42</td></tr><tr><td>3.46</td><td>R</td><td>occipital lobe</td><td>476.8</td><td>0.003</td><td>20</td><td>&#8722; 75</td><td>44</td></tr><tr><td>3.05</td><td>R</td><td>dlPFC</td><td>317.6</td><td>0.049</td><td>20</td><td>27</td><td>50</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4515634_table_2",
+   "page_num": 3,
+   "bbox": [
+    203.9,
+    435.2,
+    693.4,
+    844.5
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4515634_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Pseudo Stimulation</td><td rowspan=\"2\">Cluster peak z-score</td><td rowspan=\"2\">Side</td><td rowspan=\"2\">Brain region labels</td><td rowspan=\"2\">Size (mm^2)</td><td rowspan=\"2\">p-Cluster</td><td colspan=\"3\">Coordinates (MNI)</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td rowspan=\"13\">Activation</td><td>6.72</td><td>R</td><td>aIns, operculum, MI, SMA</td><td>4986.3</td><td>&lt; 0.001</td><td>30</td><td>27</td><td>7</td></tr><tr><td>6.58</td><td>L</td><td>SMA</td><td>1261.0</td><td>&lt; 0.001</td><td>&#8722; 27</td><td>&#8722; 1</td><td>47</td></tr><tr><td>6.27</td><td>L</td><td>ACC</td><td>1320.7</td><td>&lt; 0.001</td><td>&#8722; 12</td><td>24</td><td>33</td></tr><tr><td>5.97</td><td>L</td><td>SII, SMA, SPL, precuneus</td><td>5127.4</td><td>&lt; 0.001</td><td>&#8722; 29</td><td>&#8722; 48</td><td>39</td></tr><tr><td>5.61</td><td>L</td><td>aIns, operculum, MI</td><td>2859.4</td><td>&lt; 0.001</td><td>&#8722; 29</td><td>22</td><td>&#8722; 3</td></tr><tr><td>5.59</td><td>R</td><td>ACC, preSMA</td><td>1700.4</td><td>&lt; 0.001</td><td>11</td><td>16</td><td>41</td></tr><tr><td>5.29</td><td>R</td><td>SPL</td><td>1144.8</td><td>&lt; 0.001</td><td>31</td><td>&#8722; 48</td><td>46</td></tr><tr><td>5.01</td><td>R</td><td>Precuneus</td><td>752.7</td><td>&lt; 0.001</td><td>7</td><td>&#8722; 72</td><td>45</td></tr><tr><td>4.77</td><td>L</td><td>fusiform area</td><td>1570.1</td><td>&lt; 0.001</td><td>&#8722; 14</td><td>&#8722; 90</td><td>2</td></tr><tr><td>4.73</td><td>R</td><td>SII (BA43)</td><td>717.1</td><td>&lt; 0.001</td><td>62</td><td>&#8722; 16</td><td>23</td></tr><tr><td>3.86</td><td>R</td><td>fusiform area</td><td>713.6</td><td>&lt; 0.001</td><td>28</td><td>&#8722; 68</td><td>&#8722; 4</td></tr><tr><td>3.71</td><td>R</td><td>vlPFC</td><td>590.9</td><td>0.001</td><td>24</td><td>43</td><td>&#8722; 10</td></tr><tr><td>2.44</td><td>R</td><td>occipital lobe</td><td>421.0</td><td>0.017</td><td>17</td><td>&#8722; 99</td><td>&#8722; 3</td></tr><tr><td rowspan=\"9\">Deactivation</td><td>4.78</td><td>R</td><td>dPCC (BA23)</td><td>644.3</td><td>&lt; 0.001</td><td>6</td><td>&#8722; 50</td><td>21</td></tr><tr><td>4.51</td><td>R</td><td>IPL</td><td>467.9</td><td>0.009</td><td>50</td><td>&#8722; 62</td><td>23</td></tr><tr><td>4.46</td><td>L</td><td>dPCC (BA23)</td><td>1415.8</td><td>&lt; 0.001</td><td>&#8722; 8</td><td>&#8722; 57</td><td>10</td></tr><tr><td>4.29</td><td>L</td><td>MTG</td><td>641.4</td><td>0.001</td><td>&#8722; 57</td><td>&#8722; 11</td><td>&#8722; 22</td></tr><tr><td>4.19</td><td>L</td><td>IPL</td><td>1292.8</td><td>&lt; 0.001</td><td>&#8722; 43</td><td>&#8722; 67</td><td>24</td></tr><tr><td>4.06</td><td>L</td><td>vmPFC, dlPFC</td><td>2602.8</td><td>&lt; 0.001</td><td>&#8722; 21</td><td>25</td><td>36</td></tr><tr><td>3.53</td><td>R</td><td>MTG</td><td>432.8</td><td>0.015</td><td>54</td><td>&#8722; 2</td><td>&#8722; 31</td></tr><tr><td>3.47</td><td>R</td><td>dlPFC</td><td>733.1</td><td>&lt; 0.001</td><td>9</td><td>56</td><td>15</td></tr><tr><td>3.05</td><td>R</td><td>SI</td><td>972.4</td><td>&lt; 0.001</td><td>35</td><td>&#8722; 20</td><td>50</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4515634_table_3",
+   "page_num": 4,
+   "bbox": [
+    204.0,
+    61.3,
+    695.8,
+    608.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4515634_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Conjunction Map</td><td rowspan=\"2\">Cluster peak z-score</td><td rowspan=\"2\">Side</td><td rowspan=\"2\">Brain region labels</td><td rowspan=\"2\">Size (mm2)</td><td rowspan=\"2\">p-Cluster</td><td colspan=\"3\">Coordinates (MNI)</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td rowspan=\"19\">Activation</td><td>6.72</td><td>R</td><td>aIns, pIns, MI</td><td>4540.6</td><td>&lt; 0.001</td><td>30</td><td>27</td><td>7</td></tr><tr><td>5.64</td><td>L</td><td>ACC</td><td>983.3</td><td>&lt; 0.001</td><td>&#8722; 11</td><td>14</td><td>44</td></tr><tr><td>5.59</td><td>R</td><td>ACC, preSMA</td><td>1519.2</td><td>&lt; 0.001</td><td>11</td><td>16</td><td>41</td></tr><tr><td>5.51</td><td>L</td><td>aIns, Operculum, MI</td><td>2475.7</td><td>&lt; 0.001</td><td>&#8722; 29</td><td>23</td><td>&#8722; 2</td></tr><tr><td>4.92</td><td>L</td><td>SII, SMA, SPL</td><td>2927.4</td><td>&lt; 0.001</td><td>&#8722; 54</td><td>&#8722; 21</td><td>30</td></tr><tr><td>4.79</td><td>L</td><td>preSMA</td><td>199.1</td><td>&lt; 0.001</td><td>&#8722; 8</td><td>0</td><td>66</td></tr><tr><td>4.73</td><td>R</td><td>SII (BA43)</td><td>717.1</td><td>&lt; 0.001</td><td>62</td><td>&#8722; 16</td><td>23</td></tr><tr><td>4.66</td><td>L</td><td>SMA</td><td>854.7</td><td>&lt; 0.001</td><td>&#8722; 32</td><td>&#8722; 5</td><td>43</td></tr><tr><td>4.47</td><td>L</td><td>vPCC (BA24)</td><td>229.3</td><td>&lt; 0.001</td><td>&#8722; 5</td><td>&#8722; 24</td><td>27</td></tr><tr><td>3.74</td><td>R</td><td>vPCC (BA24)</td><td>284.2</td><td>&lt; 0.001</td><td>5</td><td>&#8722; 25</td><td>27</td></tr><tr><td>3.51</td><td>L</td><td>fusiform area</td><td>664.4</td><td>&lt; 0.001</td><td>&#8722; 10</td><td>&#8722; 79</td><td>&#8722; 4</td></tr><tr><td>3.45</td><td>R</td><td>SPL</td><td>747.5</td><td>&lt; 0.001</td><td>31</td><td>&#8722; 47</td><td>41</td></tr><tr><td>3.40</td><td>L</td><td>occipital lobe</td><td>102.6</td><td>0.009</td><td>&#8722; 12</td><td>&#8722; 85</td><td>1</td></tr><tr><td>3.29</td><td>R</td><td>SII (BA40)</td><td>350.1</td><td>&lt; 0.001</td><td>46</td><td>&#8722; 32</td><td>39</td></tr><tr><td>3.13</td><td>R</td><td>fusiform area</td><td>516.6</td><td>&lt; 0.001</td><td>5</td><td>&#8722; 74</td><td>3</td></tr><tr><td>3.01</td><td>R</td><td>dlPFC(BA10)</td><td>219.4</td><td>&lt; 0.001</td><td>36</td><td>50</td><td>10</td></tr><tr><td>2.93</td><td>R</td><td>dlPFC (BA46)</td><td>124.6</td><td>0.002</td><td>38</td><td>39</td><td>17</td></tr><tr><td>2.87</td><td>R</td><td>Precuneus</td><td>196.4</td><td>&lt; 0.001</td><td>14</td><td>&#8722; 67</td><td>37</td></tr><tr><td>2.75</td><td>R</td><td>SMG (BA42)</td><td>122.7</td><td>0.002</td><td>52</td><td>&#8722; 38</td><td>21</td></tr><tr><td rowspan=\"11\">Deactivation</td><td>4.51</td><td>R</td><td>IPL</td><td>444.1</td><td>&lt; 0.001</td><td>50</td><td>&#8722; 62</td><td>23</td></tr><tr><td>4.19</td><td>L</td><td>IPL</td><td>1253.9</td><td>&lt; 0.001</td><td>&#8722; 43</td><td>&#8722; 67</td><td>24</td></tr><tr><td>4.16</td><td>L</td><td>MTG</td><td>546.1</td><td>&lt; 0.001</td><td>&#8722; 56</td><td>&#8722; 10</td><td>&#8722; 23</td></tr><tr><td>4.02</td><td>L</td><td>vmPFC, dlPFC</td><td>2484.4</td><td>&lt; 0.001</td><td>&#8722; 21</td><td>25</td><td>36</td></tr><tr><td>3.97</td><td>L</td><td>dPCC (BA23)</td><td>1369.8</td><td>&lt; 0.001</td><td>&#8722; 5</td><td>&#8722; 61</td><td>22</td></tr><tr><td>3.46</td><td>R</td><td>dPCC (BA23)</td><td>623.0</td><td>&lt; 0.001</td><td>9</td><td>&#8722; 56</td><td>31</td></tr><tr><td>3.28</td><td>R</td><td>vmPFC</td><td>157.7</td><td>&lt; 0.001</td><td>11</td><td>51</td><td>&#8722; 7</td></tr><tr><td>3.20</td><td>L</td><td>parahippocampus</td><td>186.2</td><td>&lt; 0.001</td><td>&#8722; 30</td><td>&#8722; 26</td><td>&#8722; 23</td></tr><tr><td>2.95</td><td>R</td><td>SI</td><td>165.0</td><td>&lt; 0.001</td><td>43</td><td>&#8722; 19</td><td>49</td></tr><tr><td>2.51</td><td>R</td><td>dlPFC (BA9)</td><td>131.2</td><td>0.001</td><td>24</td><td>30</td><td>34</td></tr><tr><td>2.48</td><td>R</td><td>dmPFC</td><td>107.6</td><td>0.006</td><td>9</td><td>50</td><td>15</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4515634_table_4",
+   "page_num": 5,
+   "bbox": [
+    203.9,
+    316.3,
+    582.0,
+    478.2
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4515634_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">Difference Map (Genuine - Pseudo Stimulation)</td><td rowspan=\"2\">Cluster peak z-score</td><td rowspan=\"2\">Side</td><td rowspan=\"2\">Brain region labels</td><td rowspan=\"2\">Size (mm2)</td><td rowspan=\"2\">p-Cluster</td><td colspan=\"3\">Coordinates (MNI)</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td rowspan=\"4\">Activation</td><td>7.53</td><td>R</td><td>pIns, SII, SMG</td><td>5174.0</td><td>&lt; 0.001</td><td>63</td><td>&#8722; 13</td><td>19</td></tr><tr><td>5.91</td><td>L</td><td>pIns, SII, SMG</td><td>1828.2</td><td>&lt; 0.001</td><td>&#8722; 55</td><td>&#8722; 25</td><td>21</td></tr><tr><td>5.37</td><td>R</td><td>MCC</td><td>1159.5</td><td>&lt; 0.001</td><td>4</td><td>&#8722; 9</td><td>37</td></tr><tr><td>4.93</td><td>R</td><td>SI</td><td>880.3</td><td>&lt; 0.001</td><td>25</td><td>&#8722; 43</td><td>57</td></tr><tr><td rowspan=\"3\">Deactivation</td><td>3.67</td><td>L</td><td>MTG</td><td>744.6</td><td>&lt; 0.001</td><td>&#8722; 50</td><td>4</td><td>&#8722; 15</td></tr><tr><td>3.46</td><td>R</td><td>precuneus</td><td>547.1</td><td>0.003</td><td>9</td><td>&#8722; 64</td><td>47</td></tr><tr><td>3.42</td><td>L</td><td>precuneus</td><td>894.6</td><td>&lt; 0.001</td><td>&#8722; 7</td><td>&#8722; 70</td><td>49</td></tr></table>"
+  }
+ ]
+}

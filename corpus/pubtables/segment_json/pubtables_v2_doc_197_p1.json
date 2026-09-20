@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_197",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    615.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Gene Centric Methylation"
+  },
+  "p1_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    483.9,
+    107.4
+   ],
+   "ocr": "Table 1. Mean performance of SFS algorithms and controls on the breast cancer cell line data."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    210.1
+   ],
+   "ocr": "1NN 3NN 5NN NB DT SVM 1NN Random 1NN Top Two\nAccuracy 0.79 0.80 0.74 0.78 0.77 0.74 0.66 0.67\nPrecision 0.70 0.74 0.65 0.75 0.68 0.64 0.53 0.54\nRecall 0.68 0.65 0.53 0.59 0.65 0.63 0.53 0.53\nSpeciﬁcity 0.70 0.67 0.56 0.62 0.66 0.63 0.55 0.55\nMCC 0.40 0.40 0.16 0.35 0.33 0.26 0.08 0.08",
+   "table_id": "PMC4752315_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    218.2,
+    727.3,
+    898.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t001 found that the 1NN-SFS algorithm resulted in the highest MCC, recall and specificity, and the third highest precision (Table 1, Fig 1). The 1NN algorithm also resulted in the second highest accuracy (S2A Fig). We compared the 1NN-SFS algorithm to the random and top two corre- lated selection methods and evaluated the predictive performance of the probe selection with a 1NN-based LOO-CV. To ensure a fair comparison, we set the number of probes selected for a gene in the 1NN-Random method equal to the number of probes selected for that gene in the 1NN-SFS algorithm. We found that all these controls resulted in worse performance than our algorithm. We also compared 1NN-SFS algorithm to GA-KNN and ReliefF algorithms for K = 1, 3 and 5, and to the SVM-RFE algorithm. We set the number of top ranked probes selected in ReliefF and SVM-RFE equal to the number of probes selected by 1NN-SFS. We observed that the 1NN-SFS algorithm performed better than GA-KNN and ReliefF algorithms for K = 1, 3 and5, and the SVM-RFE algorithm by all metrics (Fig 2, S2B Fig). Taken together, these results indicate that the 1NN-SFS feature selection method chooses more relevant probes than other algorithms. We compared the 1NN-SFS algorithm to probe selection methods that do not take into account gene expression. All of these approaches to probe selection resulted in significantly lower performance when compared to the 1NN-SFS algorithm that integrate gene expression, suggesting the importance of integrating gene expression data to inform the probe selection (Fig 3). We observed the 1NN algorithm usually only selected one or two probes per gene (Fig 4). Out of the 31,171 transcripts tested, 11,833 transcripts had one probe selected and an addi- tional 9,411 transcripts had two probes selected. Since selecting all of the probes leads to signifi- cantly poorer performance, the selection of the best one or two probes is important to the algorithm’s good performance. This shows that our algorithm was able to reduce the number of probes for a given gene to a limited number of key informative probes. KNN algorithm resulted in consistent prediction accuracy To check the consistency of the algorithm on smaller subsets of the data, we ran the algorithm five additional times on half of the dataset, in which the samples were randomly chosen each execution. For each of the five executions, we compared 1NN-SFS algorithm to random selec- tion method and top two correlated method. Fig 5 shows a heatmap comparison of the MCC for the five runs of the 1NN algorithm compared to the random selection and top two corre- lated selection. The 1NN consistently gave higher MCC values over the random selection and top two correlated selection. Additionally, the MCC values were consistent across runs. DNA methylation-sensitive genes were enriched for regulation-based GO terms We investigated if there are any common functional property on genes whose transcription levels are sensitive to DNA methylation changes by analyzing genes where the selected probes"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0148977 February 12, 2016 7 / 19"
+  }
+ }
+}

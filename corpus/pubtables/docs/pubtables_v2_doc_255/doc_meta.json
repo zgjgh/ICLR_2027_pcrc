@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_255",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    753,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    753,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC6019718_table_0",
+   "page_num": 1,
+   "bbox": [
+    384.9,
+    758.8,
+    680.4,
+    910.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC6019718_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Traits</td><td colspan=\"3\">Parents</td><td colspan=\"5\">Population</td></tr><tr><td>5917</td><td>PimaS-7</td><td>Range</td><td>MIN</td><td>MAX</td><td>MEAN</td><td>Kurt</td><td>Skew</td></tr><tr><td>FL</td><td>35.68</td><td>34</td><td>1.68</td><td>32.53</td><td>40.13</td><td>35.51</td><td>0.52</td><td>0.3</td></tr><tr><td>FU</td><td>88.52</td><td>87.31</td><td>1.21</td><td>84.51</td><td>90.3</td><td>87.64</td><td>&#8722;0.19</td><td>&#8722;0.25</td></tr><tr><td>FS</td><td>46.84</td><td>39.21</td><td>7.64*</td><td>33.38</td><td>54.85</td><td>43.9</td><td>0.81</td><td>&#8722;0.13</td></tr><tr><td>FE</td><td>6.18</td><td>6.26</td><td>&#8722;0.08</td><td>5.12</td><td>8.1</td><td>6.36</td><td>&#8722;0.25</td><td>0.27</td></tr><tr><td>MIC</td><td>4.11</td><td>4.39</td><td>&#8722;0.28</td><td>3.22</td><td>4.9</td><td>4.2</td><td>1.04</td><td>&#8722;0.08</td></tr><tr><td>BW</td><td>3.12</td><td>2.95</td><td>0.17</td><td>2.14</td><td>4.68</td><td>3.49</td><td>&#8722;0.04</td><td>&#8722;0.11</td></tr><tr><td>LP</td><td>0.33</td><td>0.38</td><td>&#8722;0.05*</td><td>0.29</td><td>0.47</td><td>0.36</td><td>1.02</td><td>2.86</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6019718_table_1",
+   "page_num": 2,
+   "bbox": [
+    71.6,
+    128.1,
+    367.1,
+    262.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6019718_table_1.png",
+   "html": "<table><tr><td></td><td>FL</td><td>FS</td><td>MIC</td><td>FU</td><td>FE</td><td>BW</td><td>LP</td></tr><tr><td>FL</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FS</td><td>.273**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MIC</td><td>&#8722;.163</td><td>.242**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>FU</td><td>.541**</td><td>.440**</td><td>&#8722;.037</td><td>1</td><td></td><td></td><td></td></tr><tr><td>FE</td><td>&#8722;.429**</td><td>&#8722;.149</td><td>.131</td><td>&#8722;.055</td><td>1</td><td></td><td></td></tr><tr><td>BW</td><td>.94</td><td>.243**</td><td>.153</td><td>.174*</td><td>&#8722;.173*</td><td>1</td><td></td></tr><tr><td>LP</td><td>&#8722;.104</td><td>&#8722;.027</td><td>.165</td><td>&#8722;.177*</td><td>&#8722;.19</td><td>&#8722;.127</td><td>1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6019718_table_2",
+   "page_num": 2,
+   "bbox": [
+    71.6,
+    813.0,
+    680.5,
+    910.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC6019718_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Factor</td><td rowspan=\"2\">DF</td><td colspan=\"7\">Sum of squares</td></tr><tr><td>FL</td><td>FU</td><td>MIC</td><td>FE</td><td>FS</td><td>BW</td><td>LP</td></tr><tr><td>Gen</td><td>142</td><td>4.29**</td><td>2.82**</td><td>0.22**</td><td>0.69**</td><td>21.72**</td><td>0.53**</td><td>0.021**</td></tr><tr><td>Env</td><td>2</td><td>19.9**</td><td>115.89**</td><td>9.44**</td><td>31.90**</td><td>365.61**</td><td>9.23**</td><td>0.00322**</td></tr><tr><td>Gen*Env</td><td>256</td><td>2.31**</td><td>1.99**</td><td>0.14**</td><td>0.40**</td><td>12.14**</td><td>0.29**</td><td>0.0008**</td></tr><tr><td>Broad-sense heritability</td><td></td><td>.073</td><td>0.66</td><td>0.68</td><td>0.68</td><td>0.74</td><td>0.74</td><td>0.98</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6019718_table_3",
+   "page_num": 3,
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    386.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC6019718_table_3.png",
+   "html": "<table><tr><td>A subgenome</td><td>Marker</td><td>SDM</td><td>SDR</td><td>Rate</td><td>D subgenome</td><td>Marker</td><td>SDM</td><td>SDR</td><td>Rate</td></tr><tr><td>LG1</td><td>193</td><td>29</td><td>3</td><td>15%</td><td>LG14</td><td>279</td><td>21</td><td>2</td><td>8%</td></tr><tr><td>LG2</td><td>550</td><td>30</td><td>1</td><td>5%</td><td>LG15</td><td>129</td><td>125</td><td>13</td><td>97%</td></tr><tr><td>LG3</td><td>56</td><td>24</td><td>3</td><td>43%</td><td>LG16</td><td>39</td><td>13</td><td>0</td><td>33%</td></tr><tr><td>LG4</td><td>126</td><td>9</td><td>1</td><td>7%</td><td>LG17</td><td>45</td><td>11</td><td>0</td><td>24%</td></tr><tr><td>LG5</td><td>58</td><td>57</td><td>8</td><td>98%</td><td>LG18</td><td>50</td><td>2</td><td>0</td><td>4%</td></tr><tr><td>LG6</td><td>50</td><td>22</td><td>2</td><td>44%</td><td>LG19</td><td>38</td><td>25</td><td>1</td><td>66%</td></tr><tr><td>LG7</td><td>287</td><td>86</td><td>8</td><td>30%</td><td>LG20</td><td>88</td><td>12</td><td>0</td><td>14%</td></tr><tr><td>LG8</td><td>119</td><td>none</td><td>0</td><td>0%</td><td>LG21</td><td>131</td><td>62</td><td>8</td><td>47%</td></tr><tr><td>LG9</td><td>42</td><td>12</td><td>2</td><td>29%</td><td>LG22</td><td>85</td><td>76</td><td>8</td><td>89%</td></tr><tr><td>LG10</td><td>372</td><td>37</td><td>4</td><td>10%</td><td>LG23</td><td>29</td><td>5</td><td>0</td><td>17%</td></tr><tr><td>LG11</td><td>117</td><td>38</td><td>2</td><td>32%</td><td>LG24</td><td>42</td><td>39</td><td>7</td><td>93%</td></tr><tr><td>LG12</td><td>479</td><td>2</td><td>0</td><td>0%</td><td>LG25</td><td>68</td><td>44</td><td>7</td><td>65%</td></tr><tr><td>LG13</td><td>51</td><td>6</td><td>1</td><td>12%</td><td>LG26</td><td>34</td><td>none</td><td>0</td><td>0%</td></tr><tr><td>total</td><td></td><td>352</td><td>35</td><td></td><td></td><td></td><td>435</td><td>46</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC6019718_table_4",
+   "page_num": 4,
+   "bbox": [
+    71.6,
+    128.1,
+    367.0,
+    279.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC6019718_table_4.png",
+   "html": "<table><tr><td></td><td>Number</td><td>Length(cM)</td></tr><tr><td>A subgenome</td><td>2500</td><td>1919.03</td></tr><tr><td>D subgenome</td><td>169</td><td>1133.53</td></tr><tr><td>The length of the map</td><td>3569</td><td>3052.56</td></tr><tr><td>The average between adjacent markers</td><td></td><td>1.05</td></tr><tr><td>The largest LG (LG10)</td><td>372</td><td>392.76</td></tr><tr><td>The shortest LG (LG24)</td><td>42</td><td>22.66</td></tr><tr><td>The most marker(LG2)</td><td>550</td><td>330.91</td></tr><tr><td>The smallest (LG23)</td><td>29</td><td>66.22</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6019718_table_5",
+   "page_num": 4,
+   "bbox": [
+    71.6,
+    450.3,
+    367.1,
+    920.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC6019718_table_5.png",
+   "html": "<table><tr><td>#LG</td><td>Snp_num</td><td>Blast_Snp_num</td><td>Chr</td><td>Blast_chr_num</td><td>Blast_chr_ratio</td></tr><tr><td>LG2</td><td>550</td><td>408</td><td>A1</td><td>408</td><td>100.00</td></tr><tr><td>LG3</td><td>56</td><td>44</td><td>D05</td><td>44</td><td>100.00</td></tr><tr><td>LG4</td><td>126</td><td>105</td><td>D08</td><td>105</td><td>100.00</td></tr><tr><td>LG5</td><td>58</td><td>49</td><td>A02</td><td>49</td><td>100.00</td></tr><tr><td>LG8</td><td>119</td><td>19</td><td>A08</td><td>19</td><td>100.00</td></tr><tr><td>LG9</td><td>42</td><td>27</td><td>A6</td><td>27</td><td>100.00</td></tr><tr><td>LG11</td><td>117</td><td>97</td><td>A13</td><td>97</td><td>100.00</td></tr><tr><td>LG12</td><td>479</td><td>458</td><td>A1</td><td>458</td><td>100.00</td></tr><tr><td>LG13</td><td>51</td><td>38</td><td>A1</td><td>38</td><td>100.00</td></tr><tr><td>LG14</td><td>279</td><td>240</td><td>A10</td><td>240</td><td>100.00</td></tr><tr><td>LG15</td><td>129</td><td>120</td><td>A6</td><td>120</td><td>100.00</td></tr><tr><td>LG16</td><td>39</td><td>31</td><td>D11</td><td>31</td><td>100.00</td></tr><tr><td>LG17</td><td>45</td><td>34</td><td>A02</td><td>34</td><td>100.00</td></tr><tr><td>LG18</td><td>50</td><td>28</td><td>D13</td><td>28</td><td>100.00</td></tr><tr><td>LG19</td><td>38</td><td>30</td><td>D6</td><td>30</td><td>100.00</td></tr><tr><td>LG21</td><td>131</td><td>65</td><td>D03</td><td>65</td><td>100.00</td></tr><tr><td>LG23</td><td>29</td><td>13</td><td>D08</td><td>13</td><td>100.00</td></tr><tr><td>LG24</td><td>42</td><td>29</td><td>A07</td><td>29</td><td>100.00</td></tr><tr><td>LG25</td><td>68</td><td>43</td><td>A10</td><td>43</td><td>100.00</td></tr><tr><td>LG26</td><td>34</td><td>22</td><td>D02</td><td>22</td><td>100.00</td></tr><tr><td>LG10</td><td>372</td><td>327</td><td>A03</td><td>326</td><td>99.69</td></tr><tr><td>LG7</td><td>287</td><td>269</td><td>A08</td><td>268</td><td>99.63</td></tr><tr><td>LG20</td><td>88</td><td>70</td><td>A12</td><td>69</td><td>98.57</td></tr><tr><td>LG22</td><td>85</td><td>75</td><td>D11</td><td>67</td><td>89.33</td></tr><tr><td>LG6</td><td>50</td><td>38</td><td>D08</td><td>25</td><td>65.79</td></tr><tr><td>LG1</td><td>193</td><td>142</td><td>D07</td><td>85</td><td>59.86</td></tr></table>"
+  },
+  {
+   "table_id": "PMC6019718_table_6",
+   "page_num": 5,
+   "bbox": [
+    71.6,
+    128.1,
+    680.4,
+    882.6
+   ],
+   "table_png_relpath": "tables/page_5_tPMC6019718_table_6.png",
+   "html": "<table><tr><td>Trait</td><td>QTL</td><td>Env</td><td>LOD_Peak</td><td>LOD_Peak_Pos(cM)</td><td>Left_Marker</td><td>Right_Makrer</td><td>99%CI(cM)</td><td>Additive_effect</td><td>R2(%)</td></tr><tr><td rowspan=\"6\">FL</td><td>qFL-LG25&#8211;1A</td><td>2013</td><td>3.91</td><td>60.71</td><td>LG25-M366</td><td>LG25-M4370</td><td>56.9&#8211;65.8</td><td>0.86</td><td>10.96</td></tr><tr><td>qFL-LG25&#8211;2B</td><td>2014</td><td>3.42</td><td>60.71</td><td>LG25-M366</td><td>LG25-M4367</td><td>57&#8211;64.5</td><td>0.84</td><td>9.76</td></tr><tr><td>qFL-LG25&#8211;3B</td><td>2014</td><td>3.45</td><td>67.81</td><td>LG25-M2503</td><td>LG25-M4860</td><td>64.5&#8211;70.4</td><td>0.97</td><td>10.95</td></tr><tr><td>qFL-LG10&#8211;1C</td><td>2015</td><td>8.67</td><td>71.11</td><td>LG10-M5173</td><td>LG10-M4596</td><td>66.8&#8211;75.5</td><td>&#8722;0.7</td><td>20.70</td></tr><tr><td>qFL-LG10&#8211;2C</td><td>2015</td><td>4.57</td><td>82.1</td><td>LG10-M1179</td><td>LG10-M4634</td><td>81&#8211;87.9</td><td>&#8722;0.54</td><td>12.35</td></tr><tr><td>qFL-LG21&#8211;1C</td><td>2015</td><td>5.48</td><td>39.21</td><td>LG21-M4757</td><td>LG21-M4005</td><td>38.6&#8211;41.7</td><td>&#8722;1.04</td><td>13.16</td></tr><tr><td rowspan=\"7\">FE</td><td>qFE-LG8-1A</td><td>2013</td><td>3.66</td><td>22.81</td><td>LG08-M3281</td><td>LG08-M899</td><td>20.3&#8211;24.1</td><td>0.55</td><td>9.50</td></tr><tr><td>qFE-LG9&#8211;1B</td><td>2014</td><td>3.92</td><td>55.71</td><td>LG9-M4196</td><td>LG9-M4193</td><td>55.2&#8211;61.8</td><td>0.24</td><td>10.11</td></tr><tr><td>qFE-LG9&#8211;2B</td><td>2014</td><td>4.73</td><td>69.61</td><td>LG9-M4327</td><td>LG9-M4273</td><td>61.8&#8211;74.6</td><td>0.28</td><td>13.05</td></tr><tr><td>qFE-LG14&#8211;1B</td><td>2014</td><td>3.5</td><td>146.21</td><td>LG14-M2518</td><td>LG14-M2842</td><td>144.8&#8211;147.8</td><td>0.49</td><td>9.05</td></tr><tr><td>qFE-LG3-1C</td><td>2015</td><td>3.72</td><td>47.21</td><td>LG03-M4475</td><td>LG03-M2107</td><td>41.2&#8211;50.4</td><td>&#8722;0.22</td><td>9.58</td></tr><tr><td>qFE-LG6&#8211;1C</td><td>2015</td><td>4.78</td><td>12.11</td><td>LG6-M1946</td><td>LG6-M277</td><td>5.3&#8211;16.9</td><td>0.25</td><td>10.74</td></tr><tr><td>qFE-LG6&#8211;2C</td><td>2015</td><td>3.83</td><td>19.91</td><td>LG6-M278</td><td>LG6-M3770</td><td>16.9&#8211;22.3</td><td>0.23</td><td>9.10</td></tr><tr><td rowspan=\"4\">MIC</td><td>qMIC-LG13-1B</td><td>2014</td><td>3.47</td><td>37.71</td><td>LG13-M3742</td><td>LG13-M1129</td><td>36.7&#8211;41.4</td><td>0.13</td><td>10.11</td></tr><tr><td>qMIC-LG1&#8211;1C</td><td>2015</td><td>3.25</td><td>14.21</td><td>LG1-M600</td><td>LG1-M1483</td><td>10.1&#8211;20.3</td><td>0.12</td><td>7.20</td></tr><tr><td>qMIC-LG17&#8211;1C</td><td>2015</td><td>3.32</td><td>54.91</td><td>LG17-M281</td><td>LG17-M592</td><td>54.5&#8211;60.6</td><td>&#8722;0.12</td><td>8.04</td></tr><tr><td>qMIC-LG17&#8211;2C</td><td>2015</td><td>6.29</td><td>65.71</td><td>LG17-M1705</td><td>LG17-M1602</td><td>62.3&#8211;73.2</td><td>&#8722;0.17</td><td>14.74</td></tr><tr><td rowspan=\"3\">FS</td><td>qFS-LG21&#8211;1A</td><td>2013</td><td>3.38</td><td>96.51</td><td>LG21-M2558</td><td>LG21-M4135</td><td>93.1&#8211;103.5</td><td>1.36</td><td>8.86</td></tr><tr><td>qFS-LG1&#8211;1B</td><td>2014</td><td>3.92</td><td>12.71</td><td>LG1-M587</td><td>LG1-M1483</td><td>2&#8211;22.3</td><td>1.6</td><td>10.42</td></tr><tr><td>qFS-LG4-1C</td><td>2015</td><td>4.84</td><td>4.21</td><td>LG04-M1919</td><td>LG04-M3228</td><td>1.2&#8211;4.7</td><td>&#8722;1.02</td><td>10.11</td></tr><tr><td rowspan=\"4\">FU</td><td>qFU-LG1&#8211;1A</td><td>2013</td><td>3.68</td><td>187.1</td><td>LG1-M110</td><td>LG1-M3714</td><td>184.2&#8211;191.8</td><td>&#8722;0.64</td><td>11.53</td></tr><tr><td>qFU-LG1&#8211;2A</td><td>2013</td><td>3.34</td><td>195.81</td><td>LG1-M3714</td><td>LG1-M562</td><td>193.6&#8211;196.7</td><td>&#8722;1.15</td><td>13.44</td></tr><tr><td>qFU-LG1&#8211;3B</td><td>2014</td><td>3.83</td><td>187.61</td><td>LG1-M110</td><td>LG1-M3714</td><td>184.2&#8211;191.8</td><td>&#8722;0.64</td><td>11.82</td></tr><tr><td>qFU-LG10&#8211;1C</td><td>2015</td><td>4.94</td><td>71.11</td><td>LG10-M5173</td><td>LG10-M1175</td><td>66.3&#8211;75.8</td><td>&#8722;0.44</td><td>12.67</td></tr><tr><td rowspan=\"10\">BW</td><td>qBW-LG10&#8211;1A</td><td>2013</td><td>4.71</td><td>69.31</td><td>LG10-M5173</td><td>LG10-M4596</td><td>67&#8211;73.4</td><td>&#8722;0.18</td><td>12.5</td></tr><tr><td>qBW-LG10&#8211;2A</td><td>2013</td><td>7.65</td><td>78.81</td><td>LG10-M4596</td><td>LG10-M3158</td><td>76.3&#8211;85.5</td><td>&#8722;0.24</td><td>19.77</td></tr><tr><td>qBW-LG14&#8211;1A</td><td>2013</td><td>0.44</td><td>117.91</td><td>LG14-M4633</td><td>LG14-M214</td><td>117.8&#8211;121.3</td><td>&#8722;0.13</td><td>0.97</td></tr><tr><td>qBW-LG10-3B</td><td>2014</td><td>3.27</td><td>46.51</td><td>LG10-M976</td><td>LG10-M5057</td><td>45.5&#8211;46.7</td><td>&#8722;0.17</td><td>8.92</td></tr><tr><td>qBW-LG14&#8211;2B</td><td>2014</td><td>4.59</td><td>112.61</td><td>LG14-M4361</td><td>LG14-M2564</td><td>110.1&#8211;113.2</td><td>&#8722;0.37</td><td>13.55</td></tr><tr><td>qBW-LG14&#8211;3B</td><td>2014</td><td>6.1</td><td>117.81</td><td>LG14-M3255</td><td>LG14-M516</td><td>116.8&#8211;118.9</td><td>&#8722;0.41</td><td>15.58</td></tr><tr><td>qBW-LG14-4B</td><td>2014</td><td>3.17</td><td>171.81</td><td>LG14-M1031</td><td>LG14-M978</td><td>170.8&#8211;172.7</td><td>0.29</td><td>9.76</td></tr><tr><td>qBW-LG14-5B</td><td>2014</td><td>4.71</td><td>182.31</td><td>LG14-M2899</td><td>LG14-M4767</td><td>33&#8211;37.6</td><td>0.45</td><td>17.65</td></tr><tr><td>qBW-LG4-1C</td><td>2015</td><td>4.00</td><td>35.91</td><td>LG04-M821</td><td>LG04-M190</td><td>77.3&#8211;81.6</td><td>0.24</td><td>10.48</td></tr><tr><td>qBW-LG10-4C</td><td>2015</td><td>3.88</td><td>78.81</td><td>LG10-M4126</td><td>LG10-M1780</td><td>164.3&#8211;168.1</td><td>&#8722;0.52</td><td>11.26</td></tr><tr><td rowspan=\"8\">LP</td><td>qLP-LG1&#8211;1A</td><td>2013</td><td>2.63</td><td>165.11</td><td>LG1-M416</td><td>LG1-M1476</td><td>174.5&#8211;179</td><td>0.1</td><td>6.95</td></tr><tr><td>qLP-LG1&#8211;2A</td><td>2013</td><td>4.1</td><td>175.71</td><td>LG1-M111</td><td>LG1-M5042</td><td>184.5&#8211;185.6</td><td>0.1</td><td>10.39</td></tr><tr><td>qLP-LG1&#8211;3A</td><td>2013</td><td>3.53</td><td>185.41</td><td>LG1-M1139</td><td>LG1-M4143</td><td>68.4&#8211;78.1</td><td>0.02</td><td>9.28</td></tr><tr><td>qLP-LG4-1A</td><td>2013</td><td>3.24</td><td>74.11</td><td>LG04-M622</td><td>LG04-M620</td><td>43.9&#8211;54.9</td><td>&#8722;0.01</td><td>9.8</td></tr><tr><td>qLP-LG1-4B</td><td>2014</td><td>5.88</td><td>49.81</td><td>LG1-M416</td><td>LG1-M112</td><td>175.2&#8211;176.9</td><td>0.01</td><td>16.15</td></tr><tr><td>qLP-LG12-1B</td><td>2014</td><td>3.80</td><td>176.1</td><td>LG12-M4643</td><td>LG12-M1668</td><td>175.2&#8211;176.9</td><td>&#8722;0.03</td><td>10.67</td></tr><tr><td>qLP-LG22-1B</td><td>2014</td><td>4.71</td><td>23.91</td><td>LG22-M1721</td><td>LG22-M1883</td><td>22.2&#8211;26.9</td><td>&#8722;0.1</td><td>11.25</td></tr><tr><td>qLP-LG8-1C</td><td>2015</td><td>3.24</td><td>48.51</td><td>LG08-M2323</td><td>LG08-M4734</td><td>46.8&#8211;51.5</td><td>&#8722;0.1</td><td>8.11</td></tr></table>"
+  }
+ ]
+}

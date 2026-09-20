@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_033",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    65.0,
+    580.0,
+    234.0
+   ],
+   "ocr": "Within OPM error Outside OPM error All targets\nSearch type Type Within OPM error Mean tilt Max tilt Mean tilt Max tilt Mean tilt Max tilt\nGA Alpha 86.9% 0.56 2.98 3.58 7.61 1.07 2.12\nDirect Alpha 80.3% 0.77 4.83 6.94 28.44 1.98 2.66\nGrid Alpha 79.2% 0.74 3.74 5.04 14.68 1.63 1.67\nGA Beta 80.6% 1.03 3.62 9.25 20.02 3.77 3.82\nDirect Beta 83.3% 1.76 6.90 13.71 29.97 3.75 3.03\nGrid Beta 77.7% 2.35 10.03 14.12 37.64 4.97 2.74",
+   "table_id": "img_036697_t0"
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    249.0,
+    580.0,
+    390.0
+   ],
+   "ocr": "Sample Abs280 nm\nControl SCB 0.67\nSCB + LMS_MtL 1.39\nSCB + LMS_TvL 0.80\nControl WS 0.97\nWS + LMS_MtL 1.89\nWS + LMS_TvL 1.18",
+   "table_id": "img_036697_t1"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    406,
+    580,
+    480
+   ],
+   "ocr": "The analysis of search types reveals varying performance metrics, with the headers including \"Within OPM error,\" \"Outside OPM error,\" and \"All targets.\" For the GA Alpha search type, the values are 86.9% within OPM error, with a mean tilt of 0.56 and a max tilt of 2.98 in the first category, while in the second category, the mean tilt is 3.58 and max tilt is 7.61, leading to mean and max tilts of 1.07 and 2.12 in the overall targets. The Direct Alpha type shows 80.3% within OPM error, mean and max tilts of 0.77 and 4.83 for the first category, followed by 6.94 and 28.44 in the second category, and 1.98 and 2.66 overall."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    483,
+    580,
+    557
+   ],
+   "ocr": "For Grid Alpha, the corresponding values are 79.2%, 0.74, 3.74, 5.04, 14.68, 1.63, and 1.67. The Beta variations show 80.6% within OPM error for GA with mean and max tilts of 1.03 and 3.62, 9.25 and 20.02, and 3.77 and 3.82 overall. The Direct Beta type has 83.3%, 1.76, 6.90, 13.71, 29.97, 3.75, and 3.03, while Grid Beta shows 77.7%, 2.35, 10.03, 14.12, 37.64, 4.97, and 2.74. Additionally, the second table lists samples with their Abs280 nm values: Control SCB at 0.67, SCB + LMS_MtL at 1.39, SCB + LMS_TvL at 0.80, Control WS at 0.97, WS + LMS_MtL at 1.89, and WS + LMS_TvL at 1.18."
+  }
+ }
+}

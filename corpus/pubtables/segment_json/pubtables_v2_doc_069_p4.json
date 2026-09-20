@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_069",
+  "page": 4,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    238.9,
+    51.8
+   ],
+   "ocr": "Stein et al. BMC Neurology (2016) 16:38"
+  },
+  "p4_b1": {
+   "type": "header_footer",
+   "bbox": [
+    622.1,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 11 of 17"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    110.0,
+    366.0,
+    123.1
+   ],
+   "ocr": "Table 5 Mixed model ANOVA for secondary outcome measures"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    369.5,
+    110.4,
+    428.0,
+    123.1
+   ],
+   "ocr": "(pre vs. post)"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    126.6,
+    680.4,
+    510.1
+   ],
+   "ocr": "2\ndf (numerator, denominator) F-statistic p-value ηp\nTHI\nSession 1, 81 0.076 .783 .001\nSession x Group 1, 81 0.049 .588 .001\nTQ\nSession 1, 81 0.803 .373 .010\nSession x Group 1, 81 4.075 .977* .048\nTHQ factor 1\nSession 1, 80 1.009 .318 .012\nSession x Group 1, 80 0.973 .837 .012\nVAS loudness\nSession 1, 81 2.293 .134 .028\nSession x Group 1, 81 2.369 .064 .028\nVAS annoyance\nSession 1, 81 0.441 .508 .005\nSession x Group 1, 81 0.741 .196 .009\nVAS awareness\nSession 1, 81 8.612 .004*** .096\nSession x Group 1, 81 0.288 .297 .004\nVAS handicapping\nSession 1, 81 0.120 .730 .001\nSession x Group 1, 81 1.211 .137 .015",
+   "table_id": "PMC4797223_table_4"
+  },
+  "p4_b5": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    516.4,
+    361.5,
+    557.0
+   ],
+   "ocr": "*Note, that this p-value would be considered as significant under a two sided *** = p < .01 2"
+  },
+  "p4_b6": {
+   "type": "caption",
+   "bbox": [
+    364.2,
+    516.4,
+    429.5,
+    526.4
+   ],
+   "ocr": "testing (p = .047*)"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    549.7,
+    375.7,
+    789.2
+   ],
+   "ocr": "change values, F (1, 68) = 2.036, p = .019, ηp = .079. However, treatment and placebo group did not differ in VAS total change values after correction for the in- fluence of the factor listening times total, F (1, 68) = 1.666, p = .201. No other comparisons showed signifi- cant effects, as described in Table 8. Structural Equation Model for VAS total values Since VAS scales showed a low test-retest reliability between both measurements before TMNM exposure (r = .67), we performed a latent change score analysis. In this approach, a SEM for both treatment and con- trol groups with a number of constraints was specified (see [50], Fig. 3 for a similar model). First, the model Table 6 Mixed model ANOVA for primary outcome measures (pre"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    379.1,
+    549.7,
+    681.1,
+    789.2
+   ],
+   "ocr": "included a pre-intervention and a post-intervention factor based on the 4 VAS items investigated here. The constraints with respect to these factors were that (a) all factor loadings had to be identical for pre- intervention and post-intervention factors as well as (b) for both groups, (c) all residual correlations be- tween pre-intervention and post-intervention items were equal between groups, and (d) the path from pre- intervention to post-intervention factor was fixed to 1 for identification purposes [52]. Furthermore, a latent change factor was included, representing the difference between pre and post. This factor was identified by constraining its path to the post-intervention factor to 1. Finally, latent means of the pre-intervention and post-intervention vs. post vs. follow-up)"
+  },
+  "p4_b9": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    792.7,
+    680.4,
+    910.6
+   ],
+   "ocr": "2\nEffect df (numerator, denominator) F-statistic p-value ηp\nTHQ total score\nSession 1.72, 130.97a 0.666 .494 .009\nSession x Group 1.72, 130.97a 1.183 .305 .023\nVAS total score\nSession 1.42, 108.24a 2.969 .073 .038\nSession x Group 1.42, 108.24a 1.781 .182 .023",
+   "table_id": "PMC4797223_table_5"
+  },
+  "p4_b10": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    915.6,
+    186.7,
+    926.9
+   ],
+   "ocr": "aGreenhouse-Geisser corrected"
+  }
+ }
+}

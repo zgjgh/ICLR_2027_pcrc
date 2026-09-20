@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_054",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    451.5,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Time-Critical Adaptive Approach for Visualizing Natural Scenes"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    102.9,
+    652.0,
+    114.7
+   ],
+   "ocr": "Table 2. Comparison between estimated time and actual time on the iPhone (unit: s)."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    124.8,
+    726.7,
+    218.9
+   ],
+   "ocr": "Time ET(s) AT(s) error\nt1 0.0598 0.059 1.4%\nt2 0.0599 0.066 9.2%\nt3 0.0599 0.062 3.4%\nt4 0.0600 0.066 9.1%\nt5 0.0601 0.065 7.5%",
+   "table_id": "PMC4344310_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    227.0,
+    727.2,
+    672.9
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t002 the specified time, it can improve the LOD levels for important trees to increase rendering time, thus making the rendering time stable. The tree importance calculation based on the distance is simple and efficient. Trees near the viewpoint have a higher importance, while those far from the viewpoint have a lower impor- tance. However, in actual visual effects, the detail degree of a tree is not only related to its view- point location but also related to visual angle. The area in the direct sight is distinct, and the area observed out of the direct sight is relatively vague. As shown in Fig. 3a, there are two trees, P1 and P2, and they have the same distance to the viewpoint. The blue dotted line represents the distance between the tree and the viewpoint, and the sight direction is along VP1. Obvious- ly, the level of detail for tree P1 should be higher than that of tree P2. That is, with the same dis- tance to the viewpoint, the bigger the visual angle is, the less detail it has. Trees near the sight direction have sensitive visual effects and more details. Compared with traditional LOD, the method proposed in this paper to evaluate the impor- tance of tree can achieve better visual effects. For the traditional LOD, trees in the range of R1 usually have more details than those trees between the range R1 and R2, as shown in Fig. 3b. However, P1 and P3 between range R1 and R2 can be seen more easily than P5 in the range of R1. Therefore, to take the visual angle and size of a tree into consideration is necessary. This paper uses the projection area of tree crown to measure the size of a tree. As shown in Fig. 3a, there are two trees, P4 and P5, which are assumed to have the same distance to the viewpoint and the same visual angle. Because the tree crown of P4 is larger than that of P5, the visual effect of P4 is obviously better than P5. Therefore, this paper synthetically considers the influences of distance, visual angle and the size of tree crown to express visual effect [27]. A determiner factor related to visual angle is introduced, that is, factor = tanθ. The formula for the improved measurement of tree importance is as follows: B"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    392.6,
+    667.6,
+    727.3,
+    690.5
+   ],
+   "ocr": "ð11Þ I"
+  },
+  "p2_b5": {
+   "type": "title",
+   "bbox": [
+    400.9,
+    668.7,
+    552.8,
+    690.5
+   ],
+   "ocr": "¼ 100"
+  },
+  "p2_b6": {
+   "type": "title",
+   "bbox": [
+    414.2,
+    676.3,
+    478.5,
+    699.1
+   ],
+   "ocr": "a1ð1 tanyÞ"
+  },
+  "p2_b7": {
+   "type": "title",
+   "bbox": [
+    493.9,
+    676.3,
+    525.9,
+    692.1
+   ],
+   "ocr": "d a2"
+  },
+  "p2_b8": {
+   "type": "paragraph",
+   "bbox": [
+    252.5,
+    677.3,
+    717.0,
+    773.6
+   ],
+   "ocr": "þ � þ � s where α1 and α2 are weight coefﬁcients, B is the benchmark value of importance, d represents the actual distance of a tree from the viewpoint and s represents the projection area of tree Table 3. Comparison between estimated time and actual time on the iPad (unit: s)."
+  },
+  "p2_b9": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    783.8,
+    726.6,
+    877.9
+   ],
+   "ocr": "Time ET(s) AT(s) error\nt1 0.0626 0.070 10.5%\nt2 0.0684 0.075 8.8%\nt3 0.0674 0.071 5.1%\nt4 0.0660 0.072 8.3%\nt5 0.0695 0.075 7.3%",
+   "table_id": "PMC4344310_table_2"
+  },
+  "p2_b10": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    886.0,
+    392.8,
+    897.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0117586.t003"
+  },
+  "p2_b11": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0117586 February 27, 2015 10 / 26"
+  }
+ }
+}

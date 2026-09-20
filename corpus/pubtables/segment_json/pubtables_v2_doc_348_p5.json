@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_348",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    558.5,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "MRCs in Virtual Ligand Screening"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    453.3,
+    366.1,
+    486.0
+   ],
+   "ocr": "Figure 4. Four different chemotypes enriched in the topmost growth factor receptor 1. doi:10.1371/journal.pone.0018845.g004"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    368.7,
+    453.3,
+    700.9,
+    463.4
+   ],
+   "ocr": "fraction in single conformer and MRC-VLS studies on basic fibroblast"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    509.0,
+    700.8,
+    747.3
+   ],
+   "ocr": "in the 100th percentile 5 times. Altogether, MRC-rank and MRC- score were above the 50th percentile in 23 and 25 instances, respectively. For HMDH_HUMAN and ESR1_AG_HUMAN, due to the exceptionally high performance of SRC-VLS, the MRC results were in the 1st percentile even though calculated areas were above 0.8. From a chemical diversity standpoint, the AUAC results suggested that MRC-VLS was still beneficial, even though improvement with respect to single conformers was reduced. However, the scenario was completely different if we analyzed the results in terms of EF1% (Figure 5B). In all but one case (NRAM_INBEE, MRC-rank EF1% below the 50th percentile), MRC-VLS based approaches were above the 50th percentile. In particular, MRC-rank was in the 100th percentile 16 times, while MRC-score was in the 100th percentile 13 times. Dissimilar Table 5. Chemotype enrichment in different basic fibroblast growth factor receptor 1 conformers."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    511.6,
+    392.2,
+    963.6
+   ],
+   "ocr": "assigned to the same cluster. This specific partitioning scheme was driven by chemical scaffolds and was very robust with respect to local variants and decorations [59]. In the following, we report the case study of FGFR1_HUMAN (i.e. the basic fibroblast growth factor receptor 1) to fully illustrate this concept. For this target, there were 4 receptor conformations, 71 known binders, and 3462 non-binders. The known binders were grouped in 12 chemotypes. Figure 4 reports the chemotypes 1, 3, 4, and 9, which are those relevant to this case study. Table 5 shows that each FGFR1_HUMAN conformer enriched between 2 and 5 binders in the top 36 positions (top 1%). In three cases (PDBid 1AGW, 1FGI, and 1FGK), these binders were representative of chemotypes 1 and 3, and in one case (PDBid: 2FGI) of chemotypes 4 and 9. MRC-score placed 2 binders representative of chemotypes 3 and 9 in the top 1%. Finally, MRC-rank placed 7 binders representative of chemotypes 1, 3, 4, and 9 among the 36 best ranked molecules. The improvement in terms of enrichment with respect to SCR-VLS was absent in MRC-score and modest in MRC- rank. However, when the same results were analyzed in terms of diversity, MRC-score performed at the same level of the best SRC- VLS, while MRC-rank doubled the number of SRC-VLS retrieved scaffolds. To investigate the ability of MRC-VLS protocols to preserve diversity, the results were also analyzed considering only the contribution of the best-ranked binder of each cluster to the enrichment [54]. The other members of the same cluster were labeled as non-binders and their contributions neglected. This strategy greatly reduced the noise due to overrepresented scaffolds. Figure 5 reports the complete distribution of the results considering chemotypes only. When AUAC was used as a figure of merit (Figure 5A), MRC-rank outperformed or performed as well as any single conformer for 10 targets, while MRC-score was PLoS ONE | www.plosone.org 11"
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    405.3,
+    776.3,
+    689.5,
+    904.0
+   ],
+   "ocr": "N. of Binders N. of Chemotypes Chemotypes\nin the in the in the\nPDBid Topmost 1% Topmost 1% Topmost 1%\n1AGW 4 2 1–3\n1FGI 2 2 1–3\n1FGK 5 2 1–3\n2FGI 2 2 4–9\nMRC-score 2 2 3–9\nMRC-rank 7 4 1–3–4–9",
+   "table_id": "PMC3098722_table_4"
+  },
+  "p5_b6": {
+   "type": "caption",
+   "bbox": [
+    405.4,
+    917.3,
+    549.6,
+    926.1
+   ],
+   "ocr": "doi:10.1371/journal.pone.0018845.t005"
+  },
+  "p5_b7": {
+   "type": "header_footer",
+   "bbox": [
+    515.4,
+    953.5,
+    695.9,
+    963.6
+   ],
+   "ocr": "May2011 | Volume 6 | Issue 5 | e18845"
+  }
+ }
+}

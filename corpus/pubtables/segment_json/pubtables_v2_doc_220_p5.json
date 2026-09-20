@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_220",
+  "page": 5,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.7,
+    40.4,
+    255.0,
+    51.8
+   ],
+   "ocr": "Fleming et al. BMC Genomics (2016) 17:812"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.2,
+    40.5,
+    681.0,
+    51.8
+   ],
+   "ocr": "Page 7 of 11"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.7,
+    109.7,
+    367.5,
+    559.0
+   ],
+   "ocr": "drive various processes. Annotations for immune system processes, response to stimulus, and metabolic processes (adjusted p value < 0.05) were over-represented terms that emerged from the GO analysis of the FSToutput. The bio- logical processes represented by ontology terms such as immune system process are consistent with the historical breed phenotype for the Fayoumi and may be related to the reported phenotypic differences in pathogen resistance between the breeds [11, 29, 30]. Other over-represented ontology terms identified by the FST and GO analyses in- cluded: biological adhesion, developmental process, and cellular protein modification process (adjusted p value < 0.05). It is possible that these terms may be associated with the Leghorn breed’s historical breed phenotype of selection for egg production [31, 32]. The terms highlighted by the GO analysis are all facets of metabolic processes and indi- cate that, when each inbred population is characterized by the traits of immune response and reproductive/production ability, the two populations share limited genetic similarity based on these GO annotations. The amount of overlap be- tween the two lines was determined by examination of the variants that were unique or common, and those that were fixed or segregating, for each population (Table 9). The var- iants “common” to the two lines were based on the same position and allele frequency of the variant in that position. The shared segregating alleles between Fayoumi and Leghorn indicates that variable changes in these genes Table 9 Genomic annotations and count of variants for Fayoumi vs. Leghorn: referencea"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    385.3,
+    109.7,
+    681.1,
+    927.7
+   ],
+   "ocr": "may have fewer consequences on gene functions or that variability within these genes is necessary at this position and resists fixation to aid proper genomic integrity in chickens. There are also the shared fixed variants in which the position of the variant is fixed for the same al- ternative variant in both populations. The fixed variants most likely represent alleles present at the time of domestication [4, 33]. In contrast to the “common” over- lapping variants, there are SNVs and indels that are unique to Fayoumi or Leghorn, but share the same gen- ome base pair position. The difference in the called vari- ants and their effects on the gene function in both breeds at similar positions may indicate that these alleles became fixed by positive selection after domestication and can be considered alleles in diversification or im- provement genes. The grouping of genes identified by variants in the categories of fixed and unique (i.e., differ- ing in the alternate allele) was used as our model to examine the within line variations of each inbred popu- lation of chicken to characterize genetic variation. Fayoumi vs. Leghorn: alternate reference To facilitate between-line analysis of variants and reduce bias related to choice of the reference sequence, the nu- cleotides in the RJF reference genome were replaced with the discovered Leghorn variants to create an alter- nate genome assembly. The Fayoumi was then realigned to this new reference for variant analysis. When com- pared for SNVs against the Leghorn, the Fayoumi dis- played a total of 3,792,327 differences. Of these differences, 2,697 had high and 25,095 had moderate im- pacts, numbers higher than the 1,130 high and 15,468 moderate impact variants called in Fayoumi against the RJF sequence. In this comparison to the Leghorn, the Fayoumi had less 5’UTR, and downstream annotated variants than were called against the RJF sequence (Table 9). To further elucidate differences between the lines, a GO analysis was done on the genes that contained exon variants that were fixed in the Fayoumi. Many of the moderate impact variants that were called for exon effects (N = 300) were located in micro-RNAs and small nuclear RNAs e.g. gga-mir-6676 and gga-mir-6616, which are related to chicken gastrulation and embryogenesis [34, 35] (Additional file 2: Table S2). The limited overlap between reproduction and immune related functions in- dicate a breed difference between Fayoumi and Leghorn in production/reproduction genotypes. A comparison of variant frequency across each chromosome of the Fayoumi genome when aligned against the Leghornized reference showed large areas of homology between the two lines for most chromosomes. On chromosome 16 (length ~540 Kb), which harbors the chicken MHC com- plex, the two breeds show differences in the total number of changes across the chromosome. Chromosome 16 was"
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.6,
+    562.5,
+    367.1,
+    910.6
+   ],
+   "ocr": "Type (Fayoumi vs. Leghorn: referencea) Count\nDOWNSTREAM 161,833\nEXON 300\nINTERGENIC 872,171\nINTRON 812,038\nNONE 2,121,836\nNON_SYNONYMOUS_CODING 26,500\nNON_SYNONYMOUS_START 16\nSPLICE_SITE_ACCEPTOR 602\nSPLICE_SITE_DONOR 634\nSTART_GAINED 507\nSTART_LOST 31\nSTOP_GAINED 1,511\nSTOP_LOST 53\nSYNONYMOUS_CODING 21,093\nSYNONYMOUS_START 21\nSYNONYMOUS_STOP 27\nUPSTREAM 158,646\nUTR_3_PRIME 23,377\nUTR_5_PRIME 3,428",
+   "table_id": "PMC5070165_table_8"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    71.7,
+    915.6,
+    339.7,
+    926.9
+   ],
+   "ocr": "Counts by region are based on SNVs only. aAlternate reference genome"
+  }
+ }
+}

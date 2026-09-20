@@ -1,0 +1,223 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_289",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    272.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2008, 9(Suppl 3):S2"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    445.3,
+    51.7,
+    698.2,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/9/S3/S2"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    170.7
+   ],
+   "ocr": "the terms in the dictionary are. More specifically, we define the ambiguity value as follows: 1 N"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.3,
+    173.3
+   ],
+   "ocr": "dictionary, ‘IL-2’ becomes ‘IL2’, and ‘IL-3’ becomes ‘IL3’. Then we obtain new values for ambiguity and variability: 1 ( ambiguity ) = ( 1 + 1 + 2 + 1 + 1 + 2 + 1 + 1 + 1 )"
+  },
+  "p1_b4": {
+   "type": "title",
+   "bbox": [
+    146.0,
+    158.0,
+    372.6,
+    189.2
+   ],
+   "ocr": "( ) =∑ ambiguity = C ( ti ) , (1) N"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    395.2,
+    167.5,
+    547.3,
+    216.1
+   ],
+   "ocr": "9 = 1 . 22 ... 1 ( variability ) = ( 2 + 2 + 3 )"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    180.5,
+    372.6,
+    337.0
+   ],
+   "ocr": "i 1 where N is the number of terms in the dictionary, and C(ti) is the number of the concept IDs that include a term whose spelling is identical to ti. The variability value, in contrast, quantifies how variable the terms are. This is calculated as: 1 M"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    210.3,
+    698.3,
+    420.1
+   ],
+   "ocr": "3 = 2 . 33 ... We have succeeded in reducing the variability value with- out increasing the ambiguity. This indicates that this nor- malization rule is a good one. For the same dictionary shown in Table 1, we could think of a different normalization rule that replaces all digits with the special symbol ‘#’. If we apply this rule to the dic- tionary, ‘IL2’ and ‘IL3’ become ‘IL #’, ‘IL-2’ and ‘IL-3’ become ‘IL-#’, and ‘ZFP580’ and ‘ZFP581’ become ‘ZFP###’. We then obtain: 1"
+  },
+  "p1_b8": {
+   "type": "title",
+   "bbox": [
+    144.1,
+    322.8,
+    372.6,
+    355.4
+   ],
+   "ocr": "( ) ( ) =∑ variability = T c , (2) j M"
+  },
+  "p1_b9": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    346.8,
+    372.6,
+    481.1
+   ],
+   "ocr": "j 1 Where M is the number of concept IDs in the dictionary, and T(cj) is the number of unique terms that the concept cj includes. For the dictionary shown in Table 1, we can calculate these values as follows: 1"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    395.1,
+    411.9,
+    696.8,
+    426.8
+   ],
+   "ocr": "( ambiguity ) = ( 2 + 2 + 2 + 2 + 2 + 2 + 1 + 1 + 1 )"
+  },
+  "p1_b11": {
+   "type": "title",
+   "bbox": [
+    454.8,
+    421.2,
+    501.8,
+    461.9
+   ],
+   "ocr": "9 = 1 . 66 ... 1"
+  },
+  "p1_b12": {
+   "type": "title",
+   "bbox": [
+    395.2,
+    453.7,
+    543.2,
+    468.6
+   ],
+   "ocr": "( variability ) = ( 3 + 3 + 2 )"
+  },
+  "p1_b13": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    463.0,
+    698.3,
+    762.8
+   ],
+   "ocr": "3 = 2 . 66 ... Although we have a decreased value for variability, the ambiguity value has increased. This indicates that this normalization rule may not be a good one. The examples above demonstrate that we could distin- guish good normalization rules from bad ones by observ- ing the change of the ambiguity/variability values defined in the dictionary. In general, a normalization rule reduces the variability value at the sacrifice of the increase in the ambiguity value. Therefore, what we want is a rule that can maximize the reduction of the variability value and keep the increase of the ambiguity value minimal. We now need to integrate the two values in order to quan- tify the overall “goodness” of a normalization rule. We define a new value, which we call complexity, as follows: α"
+  },
+  "p1_b14": {
+   "type": "paragraph",
+   "bbox": [
+    77.7,
+    472.9,
+    370.9,
+    487.8
+   ],
+   "ocr": "( ambiguity ) = ( 1 + 1 + 2 + 1 + 1 + 2 + 1 + 1 + 1 )"
+  },
+  "p1_b15": {
+   "type": "title",
+   "bbox": [
+    137.0,
+    482.2,
+    183.7,
+    522.7
+   ],
+   "ocr": "9 = 1 . 22 ... 1"
+  },
+  "p1_b16": {
+   "type": "title",
+   "bbox": [
+    76.7,
+    514.5,
+    225.3,
+    529.4
+   ],
+   "ocr": "( variability ) = ( 3 + 3 + 3 )"
+  },
+  "p1_b17": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    523.7,
+    372.6,
+    756.6
+   ],
+   "ocr": "3 = 3 These values can be seen as the indicators of the complex- ity of terminology. Ideally, we do not want the terms to be ambiguous or variable, because both lead to impaired performance in mapping tasks. We thus favour smaller values for these factors. Now let us see how a normalization rule can change the situation. Suppose that we have the normalization rule that removes hyphens. By applying it to the terms in the Table 1: Ambiguity and variability in a dictionary. This is an imaginary dictionary consisting of three concept IDs. All terms belonging to the same concept ID are assumed to be synonymous (conveying the same meaning)."
+  },
+  "p1_b18": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    753.5,
+    698.4,
+    885.7
+   ],
+   "ocr": "( complexity ) = ( ambiguity ) ×( variability ) , (3) where α is the constant that determines the trade-off between ambiguity and variability. Now the problem has become very simple; if a normaliza- tion rule can reduce the complexity value for the diction- ary, then the rule is a good rule, otherwise it is a bad rule."
+  },
+  "p1_b19": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    767.8,
+    274.6,
+    911.3
+   ],
+   "ocr": "Concept ID Term\n1 IL2\n1 IL-2\n1 Interleukin\n2 IL3\n2 IL-3\n2 Interleukin\n3 ZFP580\n3 ZFP581\n3 Zinc finger protein",
+   "table_id": "PMC2352870_table_0"
+  },
+  "p1_b20": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 3 of 10 (page number not for citation purposes)"
+  }
+ }
+}

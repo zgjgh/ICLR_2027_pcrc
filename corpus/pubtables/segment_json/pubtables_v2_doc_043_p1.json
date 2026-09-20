@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_043",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    282.3,
+    65.8
+   ],
+   "ocr": "Ueno et al. BMC Genomics 2010, 11:650 http://www.biomedcentral.com/1471-2164/11/650"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.2,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 4 of 24"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.0,
+    358.5,
+    124.0
+   ],
+   "ocr": "Table 1 Oak (Q. petraea and Q. robur) cDNA libraries for"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    362.3,
+    111.0,
+    458.8,
+    124.0
+   ],
+   "ocr": "Sanger sequencing"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    128.9,
+    677.4,
+    817.4
+   ],
+   "ocr": "Species Library Library name Library Kit for library No. of Tissue Sample stage/treatment\ncode type construction genotypes\nQ. A LG0BAC Standard LambdaZAP 50 bud Quiescent buds from 2-year-old trees (Phalsbourg\npetraea (57-F) and Mirecourt (88-F)) sampled in April 7th and\n9th, 2004\nB QpBudslate Standard CloneMiner 2 bud Early swelling bud sampled in March 24th and 30th ,\n2006 on adult trees\nC QpSwellingBud Subtractive SMART PCR, BD 20 bud Swelling vs. quiescent buds, 1-year-old trees\nPCR-Select, pCR4\nTOPO\nD QpBudquiescent Subtractive SMART PCR, BD 60 bud Developing (internodes have started to grow) vs.\nPCR-Select, pCR4 quiescent buds, 1-year-old trees\nTOPO\nE QpVegetativeGrowth Subtractive SMART PCR, BD 20 bud Quiescent vs. swelling buds, 1-year-old trees\nPCR-Select, pCR4\nTOPO\nF sessile48hours Subtractive SMART PCR, BD 10 root Hypoxia for 24 and 48 h. White roots from 6-month-\nPCR-Select, old cuttings, 2005\npGEM-T easy\nG sessile6 hours Subtractive SMART PCR, BD 10 root Hypoxia for 6 h. White roots from 6-month-old\nPCR-Select, cuttings, 2005\npGEM-T easy\nH Qp5stressRoots Standard CloneMiner 15 root 6-month-old seedlings collected in October 2006, 1/\n10°C 3 days, 2/35°C 4 days, 3/CO2 700 ppm, 4/water\nstress, 5/hypoxie 48 h\nI QpLeaf5stress Standard CloneMiner 15 leaf 6-month-old seedlings collected in October 2006 : 1/\n10°C 3 days, 2/35°C 4 days, 3/CO2 700 ppm, 4/water\nstress, 5/hypoxie 48 h\nJ QpXyleme Standard Creator SMART 2 xylem Secondary differentiating xylem sampled in May 21th,\n2007 on adult trees\nQ. robur K QrBudsEarly Standard CloneMiner 3 bud Setting bud sampled in October 26th, 2006 on adult\ntrees\nL QrBudslate Standard CloneMiner 3 bud Swelling buds sampled in March 24th and 30th, 2007\non adult trees\nM LG00BAD Standard LambdaZAP 10 root Fine roots under optimal fertilization and Irrigation\nconditions, harvested in August 2004 [48]\nN pedonculate6 hours Subtractive SMART PCR, BD 10 root Hypoxia for 6 h. White roots from 6-month-old\nPCR-Select, cuttings, 2005\npGEM-T easy\nO pedonculate48 Subtractive SMART PCR, BD 10 root Hypoxia for 24 and 48 h. White roots from 6-month-\nhours PCR-Select, old cuttings, 2005\npGEM-T easy\nP LG0BAA Standard LambdaZAP 3 leaf Young leaves sampled on adult trees in April 27th,\n2004\nQ HighWUE Subtractive SMART PCR, BD 5 leaf Green leaves on one-year-old cuttings, (high vs. low\nPCR-Select, WUE) October 2005\npGEM-T easy\nR LowWUE Subtractive SMART PCR, BD 5 leaf Green leaves on one-year-old cuttings, (low vs. high\nPCR-Select, WUE) October 2005\npGEM-T easy\nS LG0BAB Standard LambdaZAP 3 xylem Secondary differentiating xylem sampled on adult\ntrees in April 27th, 2004\nT QrAnoxie Standard Creator SMART 10 root Hypoxia for 24 and 48 h. White roots from 6-month-\nold cuttings, 2005",
+   "table_id": "PMC3017864_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    841.5,
+    366.1,
+    915.4
+   ],
+   "ocr": "Trace2dbEST uses phred error probability cut-off of 0.05 (which corresponds to quality value (QV) of 13), while that in SURF was 0.01 (QV = 20). The sequence regions with the specified QV were expected to be longer in sequences processed by trace2dbEST than by"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    841.5,
+    678.6,
+    915.4
+   ],
+   "ocr": "SURF. Theoretically, the probability to detect a chimera is higher for larger sequences. Unfortunately, trace2db- EST had less stringent parameters in cross_match com- pared to SURF, which decreased the rate of chimera detection. This comparison clearly shows that parameter"
+  }
+ }
+}

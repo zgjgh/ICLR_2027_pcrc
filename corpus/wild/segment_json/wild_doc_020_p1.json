@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_020",
+  "page": 1,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    78
+   ],
+   "ocr": "In recent years, the exploration of single nucleotide polymorphisms (SNPs) has gained significant traction within the field of genomics, particularly concerning their association with various phenotypic traits and diseases."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    66,
+    580,
+    125
+   ],
+   "ocr": "The table presented herein summarizes the results of a comprehensive analysis assessing the relationship between SNPs and their respective permutation p-values, a critical metric for evaluating statistical significance. Notably, the SNP ID column identifies specific genetic variants, while the Permutation p-value column quantifies the likelihood that the observed association is due to random chance."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    385.0
+   ],
+   "ocr": "1SNP 2SNP 3SNP 4SNP 5SNP\nSNP ID Permutation p-value\nSNP2 0.41\n(rs960914T>C) 0.16\nSNP3 0.16 0.22\n(rs2241802G>A) 0.15 0.35\nSNP4 0.15 0.15 <0.00001\n(rs2323019A>G) 0.072 <0.00001\nSNP5 0.38 0.00001\n(rs352203T>C) 0.00002\nSNP6 0.99\n(rs880481A>G)",
+   "table_id": "img_021208_t0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    401,
+    580,
+    459
+   ],
+   "ocr": "For instance, the SNP identified as SNP2 exhibits a permutation p-value of 0.41, indicating a relatively high probability that the association observed may not be statistically significant. This finding underscores the importance of rigorous statistical evaluation in genetic research, as it aids in distinguishing true associations from those that may arise from random variation in the data."
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    447,
+    580,
+    505
+   ],
+   "ocr": "By systematically analyzing these SNPs, researchers aim to elucidate the genetic underpinnings of complex traits, ultimately contributing to advancements in personalized medicine and targeted therapeutic strategies. The insights gained from such analyses are invaluable for guiding future research directions and improving our understanding of genetic contributions to health and disease."
+  }
+ }
+}

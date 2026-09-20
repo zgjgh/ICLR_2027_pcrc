@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_024",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    269.4,
+    53.5
+   ],
+   "ocr": "El-Saadi et al. In Silico Pharmacology (2015) 3:6"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.9,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 16 of 20"
+  },
+  "p5_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    361.4,
+    138.3
+   ],
+   "ocr": "Table 7 Molecular docking affinity scores between FC101a and potential biological targets"
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    143.3,
+    366.1,
+    559.2
+   ],
+   "ocr": "PDB ID Total score C score\n2K7Z 8.7926 5\n3H11 8.6323 5\n3M0D 7.2915 5\n4AUQ 7.1868 5\n2Y1L 6.677 5\n1IBX 6.4214 5\n1IBX* 6.0164 5\n1G5J 5.9451 5\n3MQP 5.7313 5\n3M0A 5.3557 5\n2ROC 3.9611 5\n4JR2 7.7731 4\n3ZLN 7.7672 4\n4MSV 7.7402 4\n4JB8 7.2884 4\n3WIX 7.1413 4\n3EZQ 6.9801 4\n2BID 6.3079 4\n4BD2 6.2248 4\n3 M06 5.9925 4\n3QO4 5.9596 4\n3YGS 5.676 4\n3M0D** 5.1542 4",
+   "table_id": "PMC4464579_table_6"
+  },
+  "p5_b4": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    565.5,
+    337.4,
+    586.1
+   ],
+   "ocr": "Proteins are ranked in descending order. *Chain B was removed during preparation. **Chains A, B, and D were removed during preparation"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    391.5,
+    571.6,
+    664.0,
+    633.6
+   ],
+   "ocr": "Fig. 17 FC101a docked into two highest scoring proteins. a Three-dimensional rendering of FC101a bound to binding site in top ranked protein, procaspase-8 (PDB 2K7Z). b FC101a clearly interacting with regions from both chain A (green) and chain B (red) of the Caspase-8: cFLIP complex"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    610.1,
+    366.1,
+    926.2
+   ],
+   "ocr": "ADMET profile of FC101a, to determine those structural analogs with the most promising ADMET profile, to suggest methods of PK optimization, and to elucidate potential biological targets of FC101a. We verified FC101a compliance with both Lipinski’s RO5 for orally bioavailable drugs and with Veber’s selective criteria for rat oral bioavailability > 20-40 %. We analyzed each ADMET component of FC101a to identify molecular properties and descriptors contribut- ing to a successful PK profile, and properties requiring optimization. The most relevant computed ADMET descriptors and values are displayed in Table 8 for both FC101a and those structural analogs selected for synthesis and anti-cancer potency assessment. Addition- ally, FC101 Phos was included for comparison, given its least desirable performance. Recommended range of values for i) 95 % of orally bioavailable drugs or ii) conser- vative threshold to risk determined by ADMET Predictor Version 7.1 were included for each value. We accumulated more evidence suggesting FC101a possesses high potential for drug development. Furthermore, we identified FC101"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    670.5,
+    678.7,
+    926.2
+   ],
+   "ocr": "Oxazole (preferred due to lower predicted MRTD) and FC101 Imidazole as the most optimized analogs, and given their higher lipophilic logD, it is possible potency could be increased thereby addressing FC101a’s modest in-vivo activity. We were unable to eliminate any com- pound from our group of analogs based S + Absn_Risk and S + ADMET_Risk scores, although FC101 Phos per- formed the worst. We found FC101a to have low risk scores from four physiochemical and biopharmaceutical filters, compliance with the RO5 and Veber’s druglike in- dices, desirable predicted aqueous solubility (logS, S + Sw, Fsp3, and hydrophobic logD), logP, effective and apparent permeation values, possible un-metabolized clearance via the renal system, high target specificity, and no affinity for P-gp. Additionally we identified FC101 Formyl and FC101 Acetonide R as the analogs most likely to penetrate the BBB. Secondly, and perhaps most important, we identified"
+  }
+ }
+}

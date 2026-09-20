@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_064",
+  "page": 10,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    133,
+    580,
+    176
+   ],
+   "ocr": "The following data table presents a comprehensive analysis of various primers utilized in the amplification process, specifically focusing on their performance metrics as indicated by the mean and standard deviation (SD) values. Understanding these metrics is crucial for evaluating the efficiency and reliability of each primer in experimental setups."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    164,
+    580,
+    237
+   ],
+   "ocr": "Notably, the mean percentage of successful amplifications across the assessed primers is highlighted, alongside the corresponding SD, which provides insight into the variability of amplification success rates. For instance, Primer Af2-F, with a sequence of ATCATTACCGAGTGTAGGGTTCCT, demonstrates a robust performance with an amplicon size of 73 base pairs (bp). This indicates a focused target region, which may enhance specificity and reduce the likelihood of non-specific amplifications."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    320.0,
+    580.0,
+    447.0
+   ],
+   "ocr": "Glycemic Range (mg/dL) n Time MARD\n% Mean SD\n<70 160 2.25 16.59 13.60\n70–180 4584 64.45 12.60 10.84\n>180 2369 33.31 9.57 9.08\nOverall 7113 100 11.68 10.48",
+   "table_id": "img_072367_t0"
+  },
+  "p10_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    516.0,
+    580.0,
+    643.0
+   ],
+   "ocr": "Primer Name Sequence (5′→3′) Amplicon Size\nAf2-F a ATCATTACCGAGTGTAGGGTTCCT 73 bp\nAf2-R a GCCGAAGCAACTAAGGTACAGTAAA\n3357-F2 GGAGCGGGATCTCAGACC 51 bp\n3357-R8 GTAGGAGGTAGGGTGATCAGAGC\n21882-F2 b GGAGCGGGATCTCAGAGAC",
+   "table_id": "img_072367_t1"
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    732
+   ],
+   "ocr": "The data also indicates that the primers exhibit a range of amplification efficiencies, which may be influenced by factors such as sequence complexity and GC content."
+  },
+  "p10_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    720,
+    580,
+    763
+   ],
+   "ocr": "By analyzing the mean and SD values, researchers can make informed decisions regarding primer selection, ultimately improving the reliability of their experimental outcomes. This information is pivotal for optimizing PCR protocols in various applications, including genetic research and diagnostics."
+  }
+ }
+}

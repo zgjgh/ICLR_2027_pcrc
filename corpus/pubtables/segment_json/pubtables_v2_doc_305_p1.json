@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_305",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.0,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2009, 10:46"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/10/46"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    369.9,
+    130.9
+   ],
+   "ocr": "Table 1: Effectiveness of bm25 and the Lucene ranking algorithm on abstracts, full-text articles, and spans from full text."
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    834.3
+   ],
+   "ocr": "ing unit, and at least in a few cases, span retrieval is supe- rior. Results for the evidence combination experiments are shown in Table 3, where span retrieval is combined with abstract and article retrieval. In the interest of space, effec- tiveness metrics are only shown for the \"max\" strategy. Relative differences are shown with respect to the span retrieval baseline. As with before, the Wilcoxon signed- rank test was applied in all cases to assess the statistical significance of the results. For the Lucene ranking algo- rithm, combining span retrieval with article retrieval yields significant gains for all three metrics. Other differ- ences are not statistically significant. Table 4 attempts to summarize findings from all these experiments by establishing a partial rank order of differ- ent experimental conditions (based on significance test- ing), in terms of each effectiveness metric and retrieval model. The \"sum\" strategy for span retrieval is not consid- ered since the alternative \"max\" strategy appears to be more effective. In all cases, integrating span-level evidence with article-level evidence either yields the highest effec- tiveness or is not significantly worse than the condition that yields the highest effectiveness. This suggests that combining article content and span-level analysis is an effective approach to exploiting full text in the life sci- ences. Retrieval Efficiency Given that there is value in searching full text, the ques- tion of efficiency must be addressed. The potential effec- tiveness gains of full text come at a significant cost in terms of dataset size. In its compressed form as distrib- uted, the collection of 162,259 full-text articles from Highwire Press occupies 3.28 GB (12.6 GB uncom- pressed). The corresponding MEDLINE abstracts, also in compressed form, take up only 139 MB (502 MB uncom- pressed). The difference in size is more than an order of magnitude – which means that algorithms must process significantly more data to realize the potential gains of full-text content. Articles in the Highwire collection con- tain on average 4148 terms (after stopword removal), while abstracts contain on average only 142 terms. For ref- erence, spans average 66 terms, or a bit less than half the length of abstracts. Table 2: Results of significance testing comparing article retrieval with span retrieval (\"max\" strategy)."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    141.9,
+    332.6,
+    521.0
+   ],
+   "ocr": "MAP\nIvory (bm25) Ivory (Lucene)\nAbstract 0.163 0.129\nArticle 0.146 (-11%)° 0.235 (+82%)**\nSpan (max) 0.240 (+47%)** 0.206 (+60%)**\nSpan (sum) 0.192 (+18%)* 0.198 (+54%)**\nP20\nIvory (bm25) Ivory (Lucene)\nAbstract 0.322 0.293\nArticle 0.158 (-51%)** 0.353 (+20%)*\nSpan (max) 0.357 (+11%)° 0.332 (+13%)°\nSpan (sum) 0.314 (-3%)° 0.317 (+8%)*\nIP@R50\nIvory (bm25) Ivory (Lucene)\nAbstract 0.110 0.090\nArticle 0.163 (+48%)° 0.222 (+146%)**\nSpan (max) 0.212 (+93%)** 0.189 (+109%)**\nSpan (sum) 0.149 (+36%)* 0.159 (+77%)**",
+   "table_id": "PMC2695361_table_0"
+  },
+  "p1_b5": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    537.3,
+    364.2,
+    572.5
+   ],
+   "ocr": "For all metrics, relative improvements over baseline are shown; ** = statistically significant (p < 0.01); * = statistically significant (p < 0.05); ° = not significant."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    596.7,
+    372.6,
+    922.4
+   ],
+   "ocr": "For retrieval using the span index, the \"max\" strategy for generating article rankings appears to be more effective than the \"sum\" strategy. In terms of MAP and IP@R50, both span retrieval strategies significantly outperform retrieval with the abstract index, for both bm25 and the Lucene ranking algorithm. For IP@R50, in particular, the gains are quite substantial. However, span retrieval does not appear to have a significant impact on P20 compared to the abstract retrieval baseline. Table 2 shows the results of significance testing between article retrieval and span retrieval with the \"max\" strategy (the more effective, and thus more interesting, of the two strategies). For bm25, article retrieval is significantly worse in terms of MAP and P20. None of the differences are sig- nificant for the Lucene ranking algorithm. Note that for these comparisons, there are often large differences in per- topic scores, but in many cases one run does not consist- ently outperform another – for this reason, substantial differences in the mean may not necessarily yield statisti- cal significance. These results suggest that span retrieval is at least as effective as treating the entire article as an index-"
+  },
+  "p1_b7": {
+   "type": "table",
+   "bbox": [
+    399.1,
+    845.5,
+    644.8,
+    911.3
+   ],
+   "ocr": "Ivory (bm25) Ivory (Lucene)\nMAP p < 0.01 n.s.\nP20 p < 0.01 n.s.\nIP@R50 n.s. n.s.",
+   "table_id": "PMC2695361_table_1"
+  },
+  "p1_b8": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 6 of 15 (page number not for citation purposes)"
+  }
+ }
+}

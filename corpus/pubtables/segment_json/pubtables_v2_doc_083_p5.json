@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_083",
+  "page": 5,
+  "page_size": [
+   753,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.5,
+    40.3,
+    220.0,
+    51.8
+   ],
+   "ocr": "EJNMMI Physics 2018, 5(Suppl 1):19"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    622.4,
+    40.5,
+    681.4,
+    51.8
+   ],
+   "ocr": "Page 19 of 27"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    111.6,
+    367.6,
+    260.5
+   ],
+   "ocr": "Background: Two benefits of long axial field-of-view (FOV) PET im- aging include total-body kinetic modeling to study multi-organ inter- actions, and using the increased sensitivity to extend the temporal dynamic range for measuring late time-point biodistribution and pharmacokinetics. Here we present two nonhuman primate imaging studies with the mini-EXPLORER system that demonstrate the feasi- bility of these applications. Methods: The mini-EXPLORER scanner, a 45 cm axial FOV system based on Siemens mCT detectors [1], was used for all imaging studies. Images were reconstructed using a listmode time-of-flight OSEM algorithm that includes all corrections except scatter correction. First, we performed a total-body dynamic study of 11C-raclopride to image dopamine D2 receptor binding simultaneously in the brain and"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    393.0,
+    196.4,
+    672.5,
+    242.0
+   ],
+   "ocr": "Fig. 2 (abstract A23). Maximum intensity projection images at each time-point for one of the nine monkeys. The monkey was injected with 43.6 MBq of 89Zr-labeled antibody approximately three minutes before the start of the day 0 scan"
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    258.1,
+    367.5,
+    669.2
+   ],
+   "ocr": "gut. A healthy rhesus monkey was injected with ~94 MBq 11C-raclopride and imaged in a single bed position for 90 minutes. Time activity curves were manually extracted using AMIDE software. Second, we performed a 30-day longitudinal imaging study of 89Zr- labeled antibodies to investigate the suitability of three chelators for long duration immuno-PET studies. Humanized monoclonal anti- bodies against the herpes simplex viral protein gD were labeled with 89Zr via one of three chelator-linker combinations. Nine healthy male rhesus monkeys were used to compare the pharmacokinetics of each chelator. Each monkey was injected with ~37 MBq 89Zr-antibody along with 10 mg/kg dose of unlabeled antibody and imaged six times over a 30-day period. Results: A selection of 11C-raclopride images at different time points demonstrate excellent image quality and the ability to visualize uptake throughout the body with a single bed position (Fig. 1a). Time activity curves show high uptake in the liver and kidneys, and similar uptake for the striatum and gut (Fig. 1b). Excellent image quality was also obtained in the 89Zr-antibody study (Fig. 2). Even at 30-days post-injection, representing ~9 half-lives of 89Zr and a total residual activity of only ~20 kBq, the image quality was sufficient to readily identify the signal in the liver, kidneys and joints. Significant differences in late time-point liver uptake and whole-body clearance were observed between the three chelators, while little variation (+/- 10%) was observed within each chelator group (Table 1). Conclusions: The imaging studies presented here demonstrate the use of long axial FOV PET for total-body dynamic imaging and enabling late time-point imaging, up to 30-days post-injection with 89Zr-labeled antibodies. Future studies include kinetic modeling of the 11C-raclopride dataset along with comparing assay-based and image-based pharmacokinetics in the 89Zr-antibody study. Reference 1. Berg E, Zhang X, Bec J, et al. Development and evaluation of mini- EXPLORER: a long axial FOV PET scanner for nonhuman primate imaging. J Nucl Med. 2018; in press."
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    385.4,
+    286.7,
+    680.6,
+    343.7
+   ],
+   "ocr": "Table 1 (abstract A23). Quantification of decay-corrected activity in the liver and whole body for all animals at day 14 or day 17. All animals were administered ~37 MBq activity on day 0. There is little variation in liver uptake and overall clearance within each group, but significant differences are observed between the three groups"
+  },
+  "p5_b6": {
+   "type": "table",
+   "bbox": [
+    385.0,
+    349.0,
+    680.7,
+    405.9
+   ],
+   "ocr": "Group 1: day 17 Group 2: day 14 Group 3: day 14\nAnimal A B C D E F G H I\nLiver (MBq) 7.2 6.4 6.5 2.3 2.9 3.4 10.5 12.2 12.2\nWhole body (MBq) 16.1 14.8 15.9 5.9 6.0 6.6 28.7 31.4 29.6",
+   "table_id": "PMC6023806_table_6"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    385.4,
+    463.9,
+    681.4,
+    851.1
+   ],
+   "ocr": "A24 Feasibility of simultaneous dual-radionuclide time-of-flight PET imaging with PennPET Explorer Stephen C. Moore1, Varsha Viswanath2, Scott D. Metzler1, Joaquín L. Herraiz3, Joel S. Karp1 1Department of Radiology, University of Pennsylvania, School of Medicine, Philadelphia, Pennsylvania, 19104, USA; 2Department of Bioengineering, University of Pennsylvania, School of Engineering and Applied Sciences, Philadelphia, Pennsylvania, 19104, USA; 3Department of the Structure of Matter, Complutense University of Madrid, Madrid, Spain, 28040 Correspondence: Stephen C. Moore (scmoore1@pennmedicine.upenn.edu) EJNMMI Physics 2018, 5(Suppl 1):A24 Background We described previously a new approach for simultaneously im- aging a conventional positron emitter and another radionuclide that emits a prompt gamma along with positron(s). This permits detection of triple-coincidence events that provide the key for separating the two tracers. In our approach, multiple-coincidence list-mode acquisition is necessary; however, no additional detec- tors are required beyond the PET ring, and the prompt gamma can be detected within the standard energy window around 511 keV. The goal of this study is to extend our method to time-of- flight (TOF) PET and to evaluate its expected performance by computer simulation of the PennPET Explorer system with a range of axial fields of view (AFOV) up to 70 cm. Methods Our fast Monte Carlo simulation used ray-tracing of annihilation photons and 602-keV prompt gammas from 124I (with β+ yield/ decay = 0.227). Annihilation lifetime, attenuation, and detection (250-ps TOF resolution) were modeled stochastically; however, scatter was included only implicitly using a broad-beam"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    808.0,
+    349.7,
+    842.2
+   ],
+   "ocr": "Fig. 1 (abstract A23). (a) Maximum intensity projection images at various time-points. (b) Time activity curves up to 75 minutes post-injection, representing approximately 4 half-lives of 11C"
+  }
+ }
+}

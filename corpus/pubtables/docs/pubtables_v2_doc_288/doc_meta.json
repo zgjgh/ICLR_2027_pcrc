@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_288",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC2292177_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    654.8,
+    541.6,
+    886.8
+   ],
+   "table_png_relpath": "tables/page_1_tPMC2292177_table_0.png",
+   "html": "<table><tr><td>Steps</td><td>Procedures</td></tr><tr><td>(A) Protein fractionation</td><td>(1) SDS-PAGE slicing (2) Serial ultrafiltration (3) No protein fractionation</td></tr><tr><td>(B) Tryptic digestion</td><td>(1) In-solution digestion (2) In-gel digestion</td></tr><tr><td>(C) Peptide chromatography</td><td>(1) Strong cation exchange chromatograhpy (2) Strong anion exchange chromatograhpy (3) C18 ion pair chromatograhpy (4) PSDVB with NH4OH, using StageTip (5) No peptide chromatography</td></tr><tr><td>(D) Parent ion selection in LC-MS</td><td>(1) Simple repetition (2) Sequential static exclusion (3) Different ion pair reagents in subsequent runs (4) Subdivided scan range (5) Shallow gradient elution</td></tr><tr><td>(E) CID for MS/MS</td><td>(1) Quadrupole-TOF (2) Linear ion trap</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2292177_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    154.1,
+    693.1,
+    662.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC2292177_table_1.png",
+   "html": "<table><tr><td rowspan=\"2\">Attributea</td><td colspan=\"2\">E. coli complete</td><td colspan=\"3\">Experimental cytosolic dataset</td></tr><tr><td>Proteins b</td><td>% Proteinsc</td><td>Proteinsb</td><td>% Proteinsc</td><td>% Abundance d</td></tr><tr><td>TMS = 0</td><td>3202</td><td>75.66</td><td>940</td><td>89.5</td><td>97.6</td></tr><tr><td>TMS = 1</td><td>265</td><td>6.26</td><td>50</td><td>4.8</td><td>1.7</td></tr><tr><td>TMS = 2</td><td>117</td><td>2.76</td><td>10</td><td>1.0</td><td>0.2</td></tr><tr><td>TMS = 3</td><td>54</td><td>1.28</td><td>7</td><td>0.7</td><td>0.1</td></tr><tr><td>TMS = 4</td><td>82</td><td>1.94</td><td>7</td><td>0.7</td><td>6.2E-02</td></tr><tr><td>TMS = 5</td><td>61</td><td>1.44</td><td>5</td><td>0.5</td><td>2.9E-02</td></tr><tr><td>TMS = 6</td><td>81</td><td>1.91</td><td>5</td><td>0.5</td><td>4.0E-02</td></tr><tr><td>TMS = 7</td><td>30</td><td>0.71</td><td>1</td><td>0.1</td><td>1.1E-02</td></tr><tr><td>TMS = 8</td><td>52</td><td>1.23</td><td>3</td><td>0.3</td><td>2.6E-02</td></tr><tr><td>PSORT = Cytoplasmic (C)</td><td>1574</td><td>36.51</td><td>554</td><td>52.8</td><td>65.3</td></tr><tr><td>PSORT = CytoplasmicMembrane (CM)</td><td>851</td><td>19.74</td><td>93</td><td>8.9</td><td>1.2</td></tr><tr><td>PSORT = Periplasmic (P)</td><td>142</td><td>3.29</td><td>61</td><td>5.8</td><td>1.6</td></tr><tr><td>PSORT = OuterMembrane (OM)</td><td>91</td><td>2.11</td><td>25</td><td>2.4</td><td>2.3</td></tr><tr><td>PSORT = Extracellular (E)</td><td>20</td><td>0.46</td><td>0</td><td>0.0</td><td></td></tr><tr><td>PSORT = Unknown (U)</td><td>1577</td><td>36.58</td><td>288</td><td>27.4</td><td>29.0</td></tr><tr><td>PSORT = Unknown (multiple sites) (UM)</td><td>56</td><td>1.30</td><td>14</td><td>1.3</td><td>0.4</td></tr><tr><td>PSORT = C| CM | U | UM</td><td>4058</td><td>94.13</td><td>949</td><td>90.4</td><td>95.9</td></tr><tr><td>PSORT = C | U</td><td>3054</td><td>71.21</td><td>842</td><td>80.2</td><td>94.3</td></tr><tr><td>TMS = 0 &amp; PSORT = C</td><td>1253</td><td>29.21</td><td>548</td><td>52.2</td><td>65.1</td></tr><tr><td>TMS = 0 &amp; PSORT = C | CM</td><td>1903</td><td>44.37</td><td>580</td><td>55.3</td><td>65.7</td></tr><tr><td>TMS = 0 &amp; PSORT = C | CM | U</td><td>3111</td><td>72.53</td><td>843</td><td>80.3</td><td>94.3</td></tr><tr><td>TMS &lt; = 1 &amp; PSORT = C</td><td>1335</td><td>31.13</td><td>553</td><td>52.7</td><td>65.3</td></tr><tr><td>TMS &lt; = 1 &amp; PSORT = C | CM</td><td>2033</td><td>47.40</td><td>592</td><td>56.4</td><td>65.8</td></tr><tr><td>TMS &lt; = 1 &amp; PSORT = C | CM | U</td><td>3334</td><td>77.73</td><td>877</td><td>83.5</td><td>94.8</td></tr><tr><td>TMS &lt; = 1 &amp; PSORT = C | U</td><td>2636</td><td>61.46</td><td>838</td><td>79.8</td><td>94.3</td></tr><tr><td>EXP = C</td><td>370</td><td>18.57</td><td>279</td><td>26.6</td><td>63.0</td></tr><tr><td>EXP = IM</td><td>76</td><td>3.82</td><td>46</td><td>4.4</td><td>4.7</td></tr><tr><td>EXP = OM</td><td>62</td><td>3.11</td><td>40</td><td>3.8</td><td>2.1</td></tr><tr><td>EXP = P</td><td>60</td><td>3.01</td><td>43</td><td>4.1</td><td>1.7</td></tr><tr><td>TMS &lt; = 1 &amp; EXP = C</td><td>281</td><td>6.55</td><td>279</td><td>26.6</td><td>63.0</td></tr><tr><td>TMS &lt; = 1 &amp; EXP = IM</td><td>62</td><td>1.45</td><td>42</td><td>4.0</td><td>4.6</td></tr><tr><td>TMS &lt; = 1 &amp; EXP = OM</td><td>44</td><td>1.03</td><td>36</td><td>3.4</td><td>2.0</td></tr><tr><td>TMS &lt; = 1 &amp; EXP = P</td><td>48</td><td>1.12</td><td>43</td><td>4.1</td><td>1.7</td></tr><tr><td>TMS &lt; = 1 &amp; (PSORT = C|U | EXP = C)</td><td>2655</td><td>61.90</td><td>853</td><td>81.2</td><td>94.6</td></tr><tr><td>(TMS &lt; = 1 &amp; PSORT = C|U) | EXP = C</td><td>2680</td><td>62.49</td><td>853</td><td>81.2</td><td>94.6</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2292177_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.0,
+    693.1,
+    324.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC2292177_table_2.png",
+   "html": "<table><tr><td>FunCat number</td><td>FunCat category description</td><td>Distinct proteins in this group</td><td>Rank (by mean copy number)</td></tr><tr><td>05.01.01</td><td>ribosomal proteins</td><td>55</td><td>1</td></tr><tr><td>05.01</td><td>ribosome biogenesis</td><td>62</td><td>2</td></tr><tr><td>63.03.03</td><td>RNA binding</td><td>83</td><td>3</td></tr><tr><td>05</td><td>Protein synthesis</td><td>107</td><td>4</td></tr><tr><td>63.03</td><td>nucleic acid binding</td><td>144</td><td>5</td></tr><tr><td>40.03</td><td>cytoplasm</td><td>275</td><td>6</td></tr><tr><td>63</td><td>Protein with binding function or cofactor requirement (structural or catalytic)</td><td>483</td><td>7</td></tr><tr><td>63.07</td><td>structural protein</td><td>6</td><td>8</td></tr><tr><td>05.04</td><td>translation</td><td>34</td><td>9</td></tr><tr><td>63.01</td><td>protein binding</td><td>113</td><td>10</td></tr><tr><td>06.01</td><td>protein folding and stabilization</td><td>70</td><td>11</td></tr><tr><td>04.01.99</td><td>other rRNA-transcription activities</td><td>6</td><td>12</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2292177_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.0,
+    368.4,
+    472.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC2292177_table_3.png",
+   "html": "<table><tr><td>Scop Fold</td><td>Number of distinct proteins with this fold a</td><td>Rank (by mean copy number)</td></tr><tr><td>Barrel-sandwich hybrid</td><td>10</td><td>1</td></tr><tr><td>Ribonuclease H-like motif</td><td>11</td><td>2</td></tr><tr><td>OB-fold</td><td>27</td><td>3</td></tr><tr><td>Thioredoxin fold</td><td>15</td><td>4</td></tr><tr><td>NAD(P)-binding Rossmann-fold domains</td><td>41</td><td>5</td></tr><tr><td>Transmembrane beta-barrels</td><td>12</td><td>6</td></tr><tr><td>Ferredoxin-like</td><td>22</td><td>7</td></tr><tr><td>TIM beta/alpha-barrel</td><td>47</td><td>8</td></tr><tr><td>Flavodoxin-like</td><td>28</td><td>9</td></tr><tr><td>DNA/RNA-binding 3-helical bundle</td><td>20</td><td>10</td></tr><tr><td>P-loop containing nucleoside triphosphate hydrolases</td><td>57</td><td>11</td></tr><tr><td>FAD/NAD(P)-binding domain</td><td>14</td><td>12</td></tr><tr><td>PLP-dependent transferases</td><td>14</td><td>13</td></tr><tr><td>Class II aaRS and biotin synthetases</td><td>13</td><td>14</td></tr><tr><td>Adenine nucleotide alpha hydrolase-like</td><td>17</td><td>15</td></tr><tr><td>Periplasmic binding protein-like II</td><td>22</td><td>16</td></tr><tr><td>ATP-grasp</td><td>10</td><td>17</td></tr><tr><td>S-adenosyl-L-methionine-dependent methyltransferases</td><td>12</td><td>18</td></tr></table>"
+  },
+  {
+   "table_id": "PMC2292177_table_4",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    142.1,
+    692.9,
+    232.7
+   ],
+   "table_png_relpath": "tables/page_5_tPMC2292177_table_4.png",
+   "html": "<table><tr><td>Property</td><td>Low abundant proteins Mean (Median)</td><td>High abundant proteins Mean (Median)</td><td>P-value KS-, MW-test</td></tr><tr><td>Protein length (in amino acids)</td><td>386 (327)</td><td>309 (252)</td><td>10-6, 10-7</td></tr><tr><td>Number of alternating hydrophobic-/ hydrophilic stretches (&gt; = 5aa)</td><td>11.7 (9.0)</td><td>9.5 (8.0)</td><td>0.03, 10-4</td></tr><tr><td>pI distance from neutrality</td><td>1.52 (1.50)</td><td>1.69 (1,84)</td><td>0.003, 0.01</td></tr><tr><td>Hydrophobicity (Kyte-Doolite scale)</td><td>-0.20 (-0.21)</td><td>-0.25 (-0.24)</td><td>0.17, 0.08</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_144",
+  "page": 5,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.8,
+    264.2,
+    65.8
+   ],
+   "ocr": "Minoche et al. Genome Biology 2011, 12:R112 http://genomebiology.com/2011/12/11/R112"
+  },
+  "p5_b1": {
+   "type": "header_footer",
+   "bbox": [
+    619.1,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 11 of 15"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.3,
+    366.1,
+    797.8
+   ],
+   "ocr": "mentioned above, positions of elevated error rates are reflected in the quality values, which should also be taken into account. The conversion from A or T in the reference sequence to G or C in the read sequence was seen at 118 (87%) of the 136 positions as the dominant base substitution and, among these, in 102 cases (86%) the positions were preceded by a G, resulting in G[A/T] being the most frequent motif at positions of elevated error rates. However, this motif occurs many more times (992) in both the forward and reverse strand of the PhiX genome. Insertions and deletions The frequency of insertions and deletions (indels) is very low, and insertions occur less frequently than deletions (Table 5; Table S3 in Additional file 1). The difference in the number of insertions and deletions was larger in the PhiX samples than in the plant samples. Among sin- gle-base indels, an insertion or deletion of A or T was more frequently observed than indels of C or G (ele- vated by an average factor of 7.5 in the plant samples and by a factor of 1.6 in the PhiX samples). Indel events of more than one base occurred at lower rates than sin- gle-base indels (14.8% of all indel events in the plant samples, 2.4% in PhiX samples). We calculated the per- base indel error rate in homopolymers of different sizes. Illumina sequencing is considered to be robust against homopolymer errors. However, within homopolymers of increasing lengths from 2 to 15 nucleotides we observed a 1,000-fold increase of the indel error rate per homo- polymer base (Figure 6c). ELANDv2 performs multiseed and gapped alignments, allowing the detection of indels with a length of up to 20 bases. The description of the conditions of ELANDv2 indel calls implies that no indels are reported in term- inal regions of the reads. Indeed, simulations showed that no indels were detected if they were located before position 5 or after position 89 within reads of 95 nucleotides. All indels between positions 21 and 76 were reported, and a fraction of the indels was reported for positions 5 to 20 and 77 to 89. Consequently, the indel error rates as displayed in Table 4 can be considered as slightly underestimated. Table 5 Number of insertions and deletions"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    110.6,
+    678.6,
+    756.4
+   ],
+   "ocr": "Assessment of quality values Quality scores are relevant for SNP detection and con- sensus calling and they are also used by mapping pro- grams such as BWA [10] and Bowtie [11]. In all sequenced HiSeq samples the observed error rates fitted well with the expected error rates derived from the quality values assigned by the Illumina base-calling soft- ware. The At-100nt and PhiX-100nt data base-called with a newer software version scatter closer around the expected error rates than the Bv-95nt and PhiX-95nt data processed with an earlier version (Figure 6d). Cor- rectly called bases have, on average, a high quality score of 35 to 37 (At-100nt, Q = 37; Bv-95, Q = 36; PhiX- 95nt, Q = 35) and wrong called bases have, on average, a low quality score of 18 to 28 (At-100nt, Q = 18; Bv- 95nt, Q = 28; PhiX-95nt, Q = 18). We found no major differences when analyzing reads 1 and 2 of the read pair separately (data not shown). Quality filtering improves the average Illumina quality scores of the sequenced bases at the expense of remov- ing part of the data (see above). We determined expected error rates (calculated from the average quality score) and observed error rates after mapping as well as the fraction of removed bases for different filtering cri- teria separately and in combination (Table 6; Table S4 in Additional file 1). B-tail trimming reduces observed and expected error rates most drastically. This is a con- sequence of discarding bases of Q = 2, which is an arbi- trary value to mark low quality read segments corresponding to an extremely high error rate of 63%. Uncalled bases were not counted as sequencing errors. If they were counted as sequencing errors, the observed error rates increase slightly by a factor of up to 1.1 (Table S5 in Additional file 1). Discussion In this work we have analyzed several sequence data sets generated on state of the art Illumina second-generation sequencing instrumentation. Specifically, we analyzed data from the HiSeq2000 and the GAIIx. We deter- mined base substitution and indel error frequencies, and assessed biases of read coverage, sequencing errors, and base quality score assignments."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    802.7,
+    650.5,
+    906.0
+   ],
+   "ocr": "PhiX-95nt At-100nt\nInsertions Deletions Insertions Deletions\nAll 336 (100%) 3,453 (100%) 11,043 (100%) 15,087 (100%)\n1 base of T, A, C or G 330 (98%) 3,381 (98%) 10,225 (93%) 12,936 (86%)\n1 base of T or A 259 (77%) 2,100 (61%) 8,878 (80%) 10,940 (73%)\n1 base of C or G 71 (21%) 1,281 (37%) 1,347 (12%) 1,996 (13%)\n> 1 base 6 (2%) 72 (2%) 818 (7%) 2,151 (14%)",
+   "table_id": "PMC3334598_table_4"
+  }
+ }
+}

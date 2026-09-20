@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_219",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    553.4,
+    50.5,
+    727.3,
+    60.6
+   ],
+   "ocr": "Mitochondrial Genomes of Kinorhyncha"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    95.2,
+    728.0,
+    823.5
+   ],
+   "ocr": "tree inference was performed with 4 independent Monte Carlo Markov chains running for 20,000 cycles under the MtZoa model with a site-specific profile mixture (CAT) [54] and across-site rate variation modeled by discrete Gamma distribution with 4 categories. The majority rule consensus tree was constructed from the trees sampled every 10 cycles after dis- carding 50% of them as burn-in. The alternative topologies were tested using the approximately unbiased (AU) test implemented by the CONSEL program [55]. The alternative topologies were constructed using MEGA 5.2.2 [56], and corresponding site-wise log likelihood values for them were computed with TREE-PUZZLE under the MtZoa model. The nucleotide sequence alignments were constructed on the basis of the aminoacid align- ments using the TranslatorX program [57], trimmed according to the mask derived from the trimmed aminoacid alignments and concatenated with SCaFoS. The inferences with the non- stationary models BP and BP+CAT were performed with NH PhyloBayes 0.2.3 [58], and the inferences with the CAT and CAT+GTR models were performed with PhyloBayes 4.1c [54]. Each analysis was run in 2 independent chains, the analyses with the CAT and CAT+GTR models were sampled across 20,000 cycles and the analyses with the nonstationary models were sampled across 200 points; the trees were summarized with a 10% burn-in. Transfer RNA gene duplication was analyzed by phylogenetic approach. Each tRNA was divided into acceptor, anticodon, D- and T-arm regions according to the predicted secondary structure obtained by MiTFi [37]. Each stem or loop region was aligned with the corresponding region from other tRNAs and alignments were concatenated. Concatenated tRNA alignment was minimized to a mask of 52 bp. A NEXUS file was generated from the alignment by the STEMS program [59] accounting the predicted secondary structure and creating stem and loop partitions. Phylogenetic inference for tRNA genes was performed by MrBayes v.3.2.5 [60]. The evaluation of site-wise evolutionary rates was performed under the four-by-four model with covarion for the loops partition and the doublet model without covarion for the stems partition. Two independent runs of four Markov Chain Monte Carlo (MCMC) were performed for 1,000,000 generations, sampling trees every 1,000 generations. The first 500 trees were dis- carded as burn-in, and the remaining set was used to generate a consensus tree with posterior probability values. The resulting Bayesian tree was visualized in MEGA 5.2.2 [56]. Results and Discussion Mitochondrial genome organization and nucleotide composition Mitochondrial genomes of Echinoderes svetlanae (GenBank KU975552) and Pycnophyes kie- lensis (GenBank KU975551) are closed circular DNA molecules with lengths of 15304 bp and 14985 bp respectively. The kinorhynch mitogenomes have a rather low GC content of about 26% in both species (Table 1), although the lowest known GC content in mitochondrial genomes is 12,6% [14]. The GC content in tRNA and rRNA genes of kinorhynchs is even lower relative to the whole mitochondrial genome (Table 2), but in protein-coding genes (PCGs) the GC content slightly exceeds the average. The non-coding regions in both species have a lower GC content than the whole genome average. The GC and AT skews characterize the asymmetry of nucleotide content between the two strands of mitochondrial DNA [40, 61]. The prevalence of thymine over adenine and guanine over cytosine in the major strands Table 1. Nucleotide composition characteristics of E. svetlanae and P. kielensis mitochondrial genomes."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    832.2,
+    698.4,
+    874.4
+   ],
+   "ocr": "Species GC% A% T% G% C% AT-skew GC-skew\nE. svetlanae 26 28 47 18 8 -0,26 0,39\nP. kielensis 26 32 42 19 7 -0,14 0,44",
+   "table_id": "PMC5068742_table_0"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    882.9,
+    195.6,
+    893.5
+   ],
+   "ocr": "doi:10.1371/journal.pone.0165072.t001"
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0165072 October 18, 2016 5 / 23"
+  }
+ }
+}

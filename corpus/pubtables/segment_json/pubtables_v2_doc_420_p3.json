@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_420",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    485.9,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "15-PGDH Variants and Colon Cancer Susceptibility"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    387.4,
+    92.8
+   ],
+   "ocr": "Table 3. Association to 15-PGDH Colon Expression of Selected"
+  },
+  "p3_b2": {
+   "type": "title",
+   "bbox": [
+    391.2,
+    81.4,
+    464.6,
+    92.8
+   ],
+   "ocr": "SNPs (Phase 2)."
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    121.8,
+    690.3,
+    569.6
+   ],
+   "ocr": "Mean (SD) PGDH\nGenotype (N) Expression p* p (combined)** p (FDR adjusted){\nrs1365611 CC (26) 76.3 (32.1) 1 0.0019 0.038\nCT (26) 72.2 (26.1)\nTT (5) 71.7 (33.2)\nrs2253442 GG (30) 67.5 (28.5) 0.017 0.053 0.10\nAG (30) 86.9 (35.0)\nAA (2) 84.1 (35.0)\nrs2555639 TT (28) 67.3 (29.4) 0.012 0.0040 0.063\nCT (33) 80.0 (30.6)\nCC (5) 99.0 (47.1)\nrs2555642 TT (34) 67.6 (28.7) 0.014 0.044 0.10\nCT (30) 86.9 (35.0)\nCC (3) 84.1 (35.0)\nrs2555622 AA (24) 84.7 (34.9) 0.050 0.051 0.10\nAC (34) 74.9 (33.4)\nCC (10) 65.8 (20.0)\nrs6844282 CC (19) 79.7 (37.1) 1 0.0019 0.038\nCG (35) 76.2 (30.0)\nGG (14) 75.6 (34.8)\nrs11724251 AA (19) 92.2 (34.8) 0.045 0.017 0.94\nAG (30) 73.8 (36.1)\nGG (15) 64.2 (15.3)\nrs10019035 CC (19) 63.2 (17.7) 0.028 0.013 0.11\nCT (6) 80.4 (20.0)\nTT (0)\nrs2332897 CC (31) 77.7 (34.9) 0.040 0.0008 0.032\nAC (31) 74.1 (26.6)\nAA (6) 88.1 (49.9)",
+   "table_id": "PMC3661460_table_2"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    582.8,
+    391.1,
+    891.8
+   ],
+   "ocr": "*p-value of number of minor alleles (0, 1 or 2; additive model) in linear regression **Combined p-value of association to 15-PGDH expression and with risk of colon combining p-values, unadjusted for multiple testing. {p-value adjusted for multiple testing using FDR method. doi:10.1371/journal.pone.0064122.t003 of the different tests. To address multiple testing, we then utilized the false discovery rate (FDR) method of Benjamini and Hochberg [21] to the combined p-values. The top 9 SNPs identified were then evaluated for association with colon cancer risk in the replication set using the same statistical methods as the discovery set. We combined the results from the first and second case-control samples using a random effect model. All statistics except for the meta-analysis were computed using SAS 9.2 and p-values,0.05 were considered statistically significant. Results SNP-Colon Cancer Association Discovery Cases in Phase 1 were more likely to be male and were, on average, older than the controls (Table 1). Of the 102 SNPs evaluated in the discovery population, 25 were either monomor- phic or had a MAF ,5% in our population. Of the remaining, 2"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    390.4,
+    582.8,
+    690.6,
+    602.3
+   ],
+   "ocr": "for 15-PGDH expression level in colon mucosa (one-sided). cancer (from logistic regression presented in Table 1) using Fisher’s method for"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    652.1,
+    700.8,
+    895.0
+   ],
+   "ocr": "were found to be out of HWE, and 1 had call rate ,80%. These 28 SNPs were excluded from all further analyses. Among the remaining 75 SNPs, 8 were significantly associated with colon cancer risk in the logistic regression model at the p,0.05 (unadjusted for multiple testing) level (Table S1): rs1365611, p,0.0001; rs6844282, p,0.0001; rs2332897, p,0.0001; rs10520282, p = 0.0035; rs1426936, p = 0.012; rs34299544, p = 0.024; rs2555639, p = 0.038; and rs5007089, p = 0.046. All results are given in Table S1, and five of these that met criteria for inclusion in the replication set (based on results in both risk association and the colon tissue gene expression experiment, see also below) are detailed in Table 2. Association with 15-PGDH Expression The same complete set of 102 SNPs was evaluated for association with tissue expression levels of 15-PDGH in an independent set of 69 patients (complete results in Table S2). Of these patients, 38 (55%) were male and 31 (45%) were female. The"
+  },
+  "p3_b7": {
+   "type": "header_footer",
+   "bbox": [
+    73.4,
+    953.5,
+    204.2,
+    963.6
+   ],
+   "ocr": "PLOS ONE | www.plosone.org"
+  },
+  "p3_b8": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "4 May 2013 | Volume 8 | Issue 5 | e64122"
+  }
+ }
+}

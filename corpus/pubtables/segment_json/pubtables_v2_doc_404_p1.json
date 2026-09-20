@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_404",
+  "page": 1,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.7,
+    648.8,
+    309.8
+   ],
+   "ocr": "Sensors 2012, 12 13702 3.3. SR-Based Fault Feature Extraction Feature extraction, which is a mapping process from the measured signal space to the feature space, can be regarded as the most important step for intelligent fault diagnosis systems [14]. The effective feature extraction is important for the pattern recognition of bearing faults [31]. In this work, we propose an SR-based fault feature extraction scheme for bearing accelerometer sensor signals, The flow chart of the proposed scheme is shown in Figure 2, which includes three parts: i.e., signal processing (or named as feature calculation), feature extraction and method evaluation. Figure 2. The flow chart of the proposed scheme. The proposed scheme"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    70.6,
+    303.4,
+    281.9,
+    334.9
+   ],
+   "ocr": "Bearings Vibration signals Accelerometer sensor 2"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    194.5,
+    328.3,
+    617.7,
+    371.1
+   ],
+   "ocr": "1 Signal processing SR-based Mothod 0 (feature calculation) Feature extraction Validation -1 -2 100 200 300 400 500 600 700 800 900 1000"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    391.6,
+    648.8,
+    583.2
+   ],
+   "ocr": "Firstly, we calculate 10 features of the time domain directly from bearing vibration signals and three features of the frequency domain based on FFT. Subsequently, we decompose vibration signals into four scales using WPT with ‗DB4‘, and then calculate wavelet packet nodes energy in the fourth level as 16 features of the time-frequency domain. So far, we have obtained 29 initial features from vibration signals (see Table 1), which have been enough to represent the bearing performance states and fault severity. As we know, because it is difficult to estimate which features are more sensitive to defect development and propagation in a machine system, as various factors affect the effectiveness of the features. In this case, we believe that it is more helpful to generate more and more various features. Table 1. The 29 initial features from vibration signals."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    127.2,
+    594.3,
+    546.4,
+    662.8
+   ],
+   "ocr": "Types Features\nTime domain RMS, SRA, KV, SV, PPV, CF, IF, MF, SF, KF\nFrequency domain FC, RMSF, RVF\nTime-frequency domain WPNE(4,1), WPNE(4,2), … , WPNE(4,16)",
+   "table_id": "PMC3545588_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    683.2,
+    648.7,
+    805.4
+   ],
+   "ocr": "Secondly, we extract the most representative features from 29 initial features via the SR-based method. Obviously, very large initial features‘ dimension will result in decreasing performance of bearing prognosis and therefore also increasing computational costs. How to extract the really effective information of bearing fault is a challenging problem. In this paper, if we choose the first d eigenvectors from A = [a1, …, ac−1] in Equation (31), where d ≪ c − 1, then the new projection z is:  "
+  },
+  "p1_b6": {
+   "type": "title",
+   "bbox": [
+    319.9,
+    788.8,
+    324.6,
+    797.8
+   ],
+   "ocr": "T"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    289.6,
+    789.8,
+    648.5,
+    808.2
+   ],
+   "ocr": "z A x, A =( a , , a ). (32)"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    798.7,
+    648.7,
+    917.4
+   ],
+   "ocr": "1 d Based on the new projection data set z using SR-based method, the high-dimensional data space is reduced to a low-dimensional data space, however, retaining the majority of local variation information in the projected data set. With the reduced dimensions and local variance information preservation, the extracted features z will be used as the new input features of pattern recognizers for bearing faults."
+  }
+ }
+}

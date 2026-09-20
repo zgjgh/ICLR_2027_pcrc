@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_059",
+  "page": 6,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p6_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    94.0,
+    580.0,
+    125.0
+   ],
+   "ocr": "The analysis presented in the accompanying table provides critical insights into the relationship between starting daily FSH doses and patient response rates, as indicated by various accuracy metrics."
+  },
+  "p6_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    169.0,
+    580.0,
+    290.0
+   ],
+   "ocr": "Starting daily FSH dose Percentage of patients CD7 Serum FSH (IU/L)\n200 35.9% 11.35\n225 9.0% 10.23\n250 14.7% 14.96\n275 0.0%\n300 40.4% 13.88",
+   "table_id": "img_065731_t0"
+  },
+  "p6_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    339.0,
+    580.0,
+    445.0
+   ],
+   "ocr": "Model Accuracy (Top 2 IG) Accuracy (Top 2 GR) Accuracy (Top 2 Relief) Accuracy (Top 2 Chi)\nKNN 0.9964 (1.13%) 0.9964 (1.13%) 1.00 (0%) 0.9964 (1.13%)\nRF 0.9964 (1.13%) 0.9964 (1.13%) 0.9963 (1.56%) 0.9964 (1.13%)\nNN 0.9964 (1.13%) 0.9976 (1.13%) 0.9988 (1.17%) 0.9964 (1.13%)\nSVM 1.000 (0%) 1.00 (0%) 1.00 (0%) 1.00 (0%)",
+   "table_id": "img_065731_t1"
+  },
+  "p6_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    482.0,
+    580.0,
+    609.0
+   ],
+   "ocr": "Taxonomy Classification at phylogenetic level (%)\nKingdom Phylum Class Order Family Genus\nRDPa 100 91 87 84 74 53\nGreengenesb 100 100 100 98 76 38\nSILVAc 100 100 97 91 87 49\nMiDASd 100 100 100 99 99 91",
+   "table_id": "img_065731_t2"
+  },
+  "p6_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    701
+   ],
+   "ocr": "Notably, the data reveals that a starting daily FSH dose of 200 IU corresponds to a 35.9% patient response rate, highlighting the potential efficacy of this dosage in clinical applications. The table also emphasizes the performance of different predictive models, such as K-Nearest Neighbors (KNN), which achieved an impressive accuracy of 0.9964 for both IG and GR metrics, indicating its reliability in predicting patient outcomes based on serum FSH levels."
+  },
+  "p6_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    689,
+    580,
+    763
+   ],
+   "ocr": "Additionally, the model’s ability to maintain a perfect accuracy of 1.00 for relief predictions further underscores its robustness. These findings not only illuminate the effectiveness of specific FSH dosing strategies but also demonstrate the utility of advanced modeling techniques in improving patient care and therapeutic decision-making within reproductive medicine. Such insights are essential for practitioners aiming to optimize treatment protocols tailored to individual patient needs."
+  }
+ }
+}

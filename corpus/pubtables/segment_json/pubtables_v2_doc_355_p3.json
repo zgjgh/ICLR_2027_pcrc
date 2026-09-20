@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_355",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.5,
+    41.8,
+    282.4,
+    65.8
+   ],
+   "ocr": "Deng BMC Bioinformatics 2011, 12:267 http://www.biomedcentral.com/1471-2105/12/267"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    624.3,
+    42.0,
+    678.6,
+    53.3
+   ],
+   "ocr": "Page 8 of 12"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    79.3,
+    398.7,
+    389.1,
+    485.5
+   ],
+   "ocr": "Figure 4 An example of significant eQTL identified using SeqGene. rs1042927 (dbSNP entry nubmer). We found 52 individuals are of genotype compared the expression levels of the gene KB-1839H6.1 in the two groups. groups (with ‘AA’ or ‘AC’ genotype at rs1042927). The expression levels coverage in the two groups illustrated on the gene model. The coverage using the SeqGene’s ‘snpview’ function. Gene models for every transcript CDS (green) and introns (lines)."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    369.9,
+    399.0,
+    670.6,
+    472.9
+   ],
+   "ocr": "The HapMap individuals were stratified based on their genotypes at ‘AA’ and the other eight samples are of genotype ‘AC’. We (A). The KB-1839H6.1 gene expression level (RPKM) in the two were quantified using SeqGene’s ‘rpkm’ function. (B). The aggregated is normalized to ‘Coverage per Million Reads’. This plot was generated were displayed at the bottom as flanking regions (gray), UTRs (orange),"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    518.8,
+    678.6,
+    772.5
+   ],
+   "ocr": "control samples are available and a reasonable break- point estimation algorithm such as Circular Binary Segmentation (CBS) [30] is used. We also recorded run time and memory usage when performing different tasks for this relatively large scale project (Table 6). Note that currently all tasks can finish in reasonable time except for global trans-eQTL calcula- tion which needs days of calculation using on multiple CPUs. Comparing mutations discovered using paired exome-Seq and RNA-Seq samples We reanalyzed paired RNA-Seq and exome-Seq data derived from breast cancer cell line, HCC1954 reported Human hg19"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    518.9,
+    366.1,
+    728.3
+   ],
+   "ocr": "Viewer (IGV) [40] for visualization and the results were shown in Figure 6. From the copy number aggre- gation view (Figure 6A), we observed recurrent (more than 2 cases) copy number gain on chromosome 5q, 17q25, 19, and 22. Particularly, four out of the nine samples show amplification on significant portions of chromosome 19. This results indicate chromosome 19 amplifications may be a hallmark of AML as reported in an earlier study by Nimer et al. [41]. It should be noted that exome-Seq experiments focus only on exons and generate very uneven coverage across exons due partially to sequence capture biases. However, ana- lysis using exome-Seq data may still shed light on copy number variations beyond the exons when paired"
+  },
+  "p3_b6": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    759.6,
+    384.7,
+    772.5
+   ],
+   "ocr": "Table 4 Quality control of AML samples annotated on refseq,"
+  },
+  "p3_b7": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    777.4,
+    655.3,
+    905.2
+   ],
+   "ocr": "Blood1 Blood2 Blood3 Blood4 Blood5 Blood6 Blood7 Blood8 Blood9\nmde 48 47 50 47 87 86 99 102 95\nec5 (%) 65 68 67 69 69 69 69 69 69\nec10(%) 61 65 65 66 66 66 67 67 67\nBone1 Bone2 Bone3 Bone4 Bone5 Bone6 Bone7 Bone8 Bone9\nmde 46 45 44 44 79 86 75 77 117\nec5 (%) 68 68 68 69 69 69 68 68 70\nec10(%) 65 65 65 65 67 66 66 65 68",
+   "table_id": "PMC3148209_table_3"
+  },
+  "p3_b8": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    912.3,
+    361.7,
+    922.2
+   ],
+   "ocr": "mde: mean depth on exons; ed5: percentage of exons with at average depth"
+  },
+  "p3_b9": {
+   "type": "caption",
+   "bbox": [
+    364.6,
+    912.3,
+    671.5,
+    922.2
+   ],
+   "ocr": "greater than 5; ed10: percentage of exons with at average depth greater than 10;"
+  }
+ }
+}

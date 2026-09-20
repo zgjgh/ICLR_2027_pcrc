@@ -1,0 +1,134 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_077",
+  "page": 5,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    16.5,
+    253.7,
+    31.8
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p5_b1": {
+   "type": "table",
+   "bbox": [
+    202.7,
+    60.1,
+    490.4,
+    290.2
+   ],
+   "ocr": "Sum of Mean P-value\nSource Squares Df Square F-value Prob > F\nModel 194.84 9 21.65 104.99 <0.0001*\nX1 - (Cholesterol, g/L) 4.23 1 4.23 20.50 0.0011*\nX2 - (Incubation time, days) 1.37 1 1.37 6.65 0.0275*\nX3 - (pH) 10.69 1 10.69 51.85 <0.0001*\nX1 X2 1.50 1 1.50 7.27 0.0225*\nX1 X3 5.17 1 5.17 25.09 0.0005*\nX2 X3 11.49 1 11.49 55.74 <0.0001*\nX1 2 68.54 1 68.54 332.41 <0.0001*\nX2 2 0.78 1 0.78 3.78 0.0805\nX3 2 0.73 1 0.73 3.53 0.0895\nResidual 2.06 10 0.21\nLack of Fit 1.56 5 0.31 3.13 0.1182\nPure Error 0.50 5 0.10\nCor Total 196.90 19",
+   "table_id": "PMC5807524_table_6"
+  },
+  "p5_b2": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    300.5,
+    706.0,
+    329.6
+   ],
+   "ocr": "Table 7. Analysis of variance (ANOVA) for the quadratic regression model obtained from FCCD. “*Significant values, df: Degree of freedom, F: Fishers’s function, P: Level of significance”."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    126.7,
+    364.0,
+    696.9,
+    614.2
+   ],
+   "ocr": "Sequential Model Sum of Squares\nSource Sum of Squares df Mean Square F-value P-value Prob >F\nLinear vs Mean 16.2898 3 5.4299 0.4810 0.7000\nTwo factors interaction (2FI) vs Linear 18.1659 3 6.0553 0.4846 0.6988\nQuadratic vs 2FI 160.3796 3 53.4599 259.2608 < 0.0001*\nResidual 1.4894 6 0.2482\nLack of Fit Tests\nSource Sum of Squares df Mean Square F-value P-value Prob >F\nLinear 180.1078 11 16.3734 163.8444 < 0.0001*\nTwo factors interaction (2FI) 161.9419 8 20.2427 202.5633 < 0.0001*\nQuadratic 1.5623 5 0.3125 3.1268 0.1182\nPure Error 0.4997 5 0.0999\nModel Summary Statistics\nSource Standard deviation R-Squared Adjusted R-Squared Predicted R-Squared PRESS\nLinear 3.3598 0.0827 −0.0893 −0.6167 318.3173\nTwo factors interaction (2FI) 3.5349 0.1750 −0.2058 −4.2134 1026.4997\nQuadratic 0.4541 0.9895 0.9801 0.9494 9.9712",
+   "table_id": "PMC5807524_table_7"
+  },
+  "p5_b4": {
+   "type": "caption",
+   "bbox": [
+    198.9,
+    624.5,
+    708.9,
+    682.6
+   ],
+   "ocr": "Table 8. The fit summary. “* Significant values, df: degree of freedom”. theoretically predicted values by the model44 and implied that the model is reliable for cholesterol oxidase pro-"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    679.9,
+    709.0,
+    861.6
+   ],
+   "ocr": "duction in the present study. Furthermore, Adeq Precision value was very high (29.4015) which indicates that the model can be used to navigate the design space. The lower value of coefficient of variation % (3.810) indicated a better precision and reliability of the experimental performance45. The obtained PRESS value is 9.971, the model gives values of mean and standard deviation of 11.920 and 0.454; respectively (Table 6). With respect to the coefficients (Table 6), interactions between two factors could appear as a synergistic effect (positive coefficient) or an antagonistic effect (negative coefficient). The positive coefficients for X1, X2, X3, X1X3 (Table 6) indicate that linear effect of X1, X2, X3 and interaction effects for X1, X3 increase production of choles- terol oxidase, whereas other negative coefficients indicate decrease in the production of cholesterol oxidase. Table 7 illustrates the analysis of variance (ANOVA) values for the quadratic regression model obtained from FCCD employed in the optimization of cholesterol oxidase production. The P-value was calculated to validate the significance of each coefficient and is also necessary for understanding the mutual interactions between the factors. The P-values are listed in Table 7. Values of “Prob > F” (P-values) less than 0.05 indicates the signif- icance of model terms. Values greater than 0.05 indicate the model terms are not significant. The analysis of variance confirms that the model is highly significant as is evident from Fisher’s F-test (104.99) and a very low"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    858.7,
+    709.0,
+    874.4
+   ],
+   "ocr": "P-value < 0.0001. It can be seen that the linear coefficients of cholesterol concentration, incubation time and"
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    871.6,
+    708.9,
+    887.1
+   ],
+   "ocr": "pH, the interaction between cholesterol concentration, incubation time, interaction between cholesterol con-"
+  },
+  "p5_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    884.4,
+    709.0,
+    899.9
+   ],
+   "ocr": "centration, pH and interaction between incubation time, pH and quadratic effect of cholesterol concentration"
+  },
+  "p5_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    897.0,
+    709.0,
+    913.6
+   ],
+   "ocr": "(X1) are significant while quadratic effect of incubation time (X2) and pH (X3) is not significant (P-value < 0.05)"
+  },
+  "p5_b10": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    910.0,
+    708.9,
+    925.5
+   ],
+   "ocr": "(Table 7). The probability values of the coefficient indicated that, among the studied three variables pH, the"
+  },
+  "p5_b11": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    964.7,
+    708.9,
+    979.9
+   ],
+   "ocr": "SCiENTiFiC REPORTS | (2018) 8:2706 | DOI:10.1038/s41598-018-20786-3 9"
+  }
+ }
+}

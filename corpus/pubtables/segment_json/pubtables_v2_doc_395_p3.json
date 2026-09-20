@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_395",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    41.9,
+    302.1,
+    66.0
+   ],
+   "ocr": "Mentz et al. BMC Health Services Research 2012, 12:312 http://www.biomedcentral.com/1472-6963/12/312"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 6 of 11"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.7,
+    926.1
+   ],
+   "ocr": "and the mean number of household members was 2.8. For the NHANES urban sample the average age was 48.2±0.4 years, 52.1% were female, 10.5% were non- Hispanic Black; 12.3% Hispanic (with 84.7% of this group identified as Mexican American), 19.0% had less than 12 years of education, 18.3% had household incomes less than $10,000, 62.4% were married, and the mean number of household members was 3.7. Prevalence of hypertension based on self-reported data underestimates the clinical prevalence by 10.4% for the full HEP sample (Table 2). When we consider prevalence estimates for different demographics indicators such as age (continuous and categorical), gender, race and ethni- city, education and annual household income, underesti- mates range from 7.3% to 13.9%. In particular, the largest percent of under-reporting were observed for non-Hispanic Whites (13.9%) and for those with annual household income between $20 K-$34 K (13.6%). Sensitivity, specificity, accuracy (overall agreement) and Kappa statistics of the self-reported measure of HBP for the full HEP sample and stratified by each investi- gated determinant are shown in Table 3. These results show that self-reported and clinical measure hyperten- sion for the HEP sample have generally ‘moderate to good’ agreement: sensitivity (range = 0.77-0.97); specifi- city (range = 0.77-0.83); accuracy (range = 0.81-0.83); and overall Kappa ( range = 0.65-0.66). Comparing Tables 2 and 3, we conclude that the use of self-reported data has “good” validity, and is likely to underestimate population based hypertension prevalence within the HEP sample. Tables 4 and 5 show that the under- reporting of hypertension using self-reported data in the NHANES national urban sample is generally smaller than in the HEP sample (range = 6.1%-11.5%). Within this sample, validity and concordance are generally in the ‘good to excellent’ range: sensitivity(range = 0.89-0.99); specificity (range = 0.82-0.89); accuracy (range = 0.86-0.90); and overall Kappa ( range = 0.75-0.77). Thus, we propose the use of the national urban sample to develop the predic- tion models described in Aim 2. In order to avoid overestimation of prediction models, sample sizes should be at least 15–30 per predictor [41-43]. Stratified sample sizes within the NHANES urban sample were insufficient to meet this threshold, and therefore would have compromised the stability of the prediction model. Thus, we used the full NHANES urban sample to develop the prediction model. In Table 6, we show parameter estimates based on weighted logistic models for predicting clinically mea- sured HBP from self-reported HBP, using the NHANES urban sample. Results are shown stratified by the self- report indicator, that is, with separate models and par- ameter estimates for those who reported having been told, versus never having been told by a health care"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    362.3,
+    152.1
+   ],
+   "ocr": "Table 4 Prevalence of self-reported and clinically measured HBP by levels of the covariates included in the prediction models (NHANES1 urban sample)"
+  },
+  "p3_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    155.4,
+    366.1,
+    607.2
+   ],
+   "ocr": "N NHANES2 Prevalences Difference3\nClinical Self-reported\nOverall 1124 33.8 25.7 8.1\nAge\n25-34 172 37.4 30.6 6.8\n35-49 256 61.1 54.7 6.4\n50+ 169 67.0 51.5 15.5\nGender\nFemales 583 34.3 28.2 6.1\nMales 541 33.2 22.9 10.3\nMarital Status\nCurrent Married 692 31.6 23.3 8.3\nNot Married 432 37.9 30.1\nRace/ethnicity\nLatino 261 21.1 10.8 10.3\nnon-Hispanic White 614 35.8 27.7 8.1\nnon-Hispanic Black 215 40.3 31.1 9.2\nEducation\n<12 366 45.5 36.4 9.1\n12 251 36.7 27.7 9.0\n12+ 502 28.2 20.9 7.3\nAnnual Household Income\n<$10,000 166 46.9 35.4 11.5\n$10,000-19,999 177 44.2 36.3 7.9\n$20,000-34,999 221 37.0 29.0 8.0\n$35,000+ 307 30.8 22.5 8.3",
+   "table_id": "PMC3483283_table_3"
+  },
+  "p3_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    613.6,
+    339.4,
+    737.4
+   ],
+   "ocr": "1: NHANES urban sample. 2: Hypertensive if mean systolic BP= >140 or mean diastolic BP= > 90 or currently taking hypertensive medication. 3: Difference between clinical and self-reported hypertension. and �"
+  },
+  "p3_b6": {
+   "type": "title",
+   "bbox": [
+    90.4,
+    698.7,
+    274.0,
+    713.9
+   ],
+   "ocr": "Specificty 1 P CH ^ 1 CH 0"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    700.1,
+    366.1,
+    926.2
+   ],
+   "ocr": "¼ � ¼ j ¼ Þ; ð8Þ where CH ^ and CH are predicted and known clinically measured HBP within the HEP sample respectively, using weighted cross-classification techniques. The threshold value with lowest miss-classification rate was proposed for final classification. Results As shown in Table 1, the average age of HEP community survey participants was 46.3±0.8 years, 52.3% were fe- male, 56.8% non-Hispanic Black, 22.6% Hispanic (of this group, 75.8% identified as Mexican American); 37.3% had less than 12 years of education, 27.3% had house- hold incomes less than $10,000, 26.4% were married,"
+  }
+ }
+}

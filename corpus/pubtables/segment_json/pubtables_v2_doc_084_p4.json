@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_084",
+  "page": 4,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Inference of competing endogenous RNA interaction networks"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    121.3,
+    426.3,
+    724.2,
+    479.9
+   ],
+   "ocr": "Fig 3. Hazard ratio distribution of prognostic ceRNAs and non-ceRNAs in each cancer type. A prognostic RNA was defined as a DE RNA whose p- value from the univariate Cox regression was smaller than 0.05. For each cancer type, the prognostic RNAs were categorized into ceRNAs and non- ceRNAs. The p-values shown in the plot were from the Wilcoxon rank-sum test between hazard ratios of prognostic ceRNAs and non-ceRNAs. https://doi.org/10.1371/journal.pcbi.1006318.g003"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    533.7,
+    355.4,
+    543.8
+   ],
+   "ocr": "Table 6. Cancer hallmark terms that were enriched in the ceRNA modules."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    552.6,
+    720.6,
+    862.5
+   ],
+   "ocr": "Cancer type Cancer hallmark geneset Description Enriched Module\nBRCA Epithelial Mesenchymal Transition Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis 2, 4, 14\nE2F Targets Genes encoding cell cycle related targets of E2F transcription factors 3, 7, 13\nEstrogen Response Early Genes defining late response to estrogen 1, 11\nG2M Checkpoint Genes involved in the G2/M checkpoint, as in progression through the cell division cycle 3, 7\nTGF Beta Signaling TGF-beta signaling pathway 6\nSpermatogenesis Genes up-regulated during production of male gametes (sperm), as in spermatogenesis 7\nIL-6/JAK/STAT3 Signaling Genes up-regulated by IL6 via STAT3, e.g., during acute phase response 12\nInterferon Gammaresponse Genes up-regulated in response to IFNG 12\nUV Response Up Genes up-regulated in response to ultraviolet (UV) radiation 17\nKIRC Epithelial Mesenchymal Transition Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis 4\nUV Response DN Genes down-regulated in response to ultraviolet (UV) radiation 4\nOxidative Phosphorylation Genes encoding proteins involved in oxidative phosphorylation 11\nMYC Targets V1 A subgroup of genes regulated by MYC—version 1 (v1) 11\nAdipogenesis Genes up-regulated during adipocyte differentiation (adipogenesis) 11\nHNSC Epithelial Mesenchymal Transition Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis 4, 5\nTGF Beta Signaling TGF-beta signaling pathway (UV) radiation 4\nMYC Targets V1 A subgroup of genes regulated by MYC—version 1 (v1) 6\nG2M Checkpoint Genes involved in the G2/M checkpoint, as in progression through the cell division cycle 7\nE2F Targets Genes encoding cell cycle related targets of E2F transcription factors 7",
+   "table_id": "PMC6072113_table_5"
+  },
+  "p4_b4": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    870.8,
+    233.3,
+    881.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pcbi.1006318.t006"
+  },
+  "p4_b5": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS Computational Biology | https://doi.org/10.1371/journal.pcbi.1006318 July 16, 2018 15 / 23"
+  }
+ }
+}

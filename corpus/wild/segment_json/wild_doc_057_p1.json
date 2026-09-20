@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_057",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    152,
+    580,
+    226
+   ],
+   "ocr": "In the context of evaluating various mechanisms for the effective application of acetic acid concentrations, the data presented in Table 1 provides a comprehensive overview of key performance metrics. The table categorizes different mechanisms, specifically highlighting their operational nature—either online or offline—alongside critical attributes such as homogenity and verifiability. For instance, the H-PVA mechanism, which operates online, demonstrates significant promise in maintaining a specific concentration of acetic acid, as indicated by the listed values of 1.80 g/l, 3.60 g/l, 5.40 g/l, and 7.20 g/l."
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    214,
+    580,
+    318
+   ],
+   "ocr": "This mechanism's lack of homogenity may raise concerns regarding consistency in application; however, its verifiability could enhance the confidence in process outcomes. Additionally, understanding the submodularity and truthfulness of the mechanisms can offer insights into their efficiency and reliability in practical scenarios. The interplay between these attributes is crucial for stakeholders aiming to optimize the use of acetic acid in various industrial applications. As practitioners analyze these metrics, they are better positioned to make informed decisions regarding the selection of appropriate mechanisms that align with their operational objectives."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    392.0,
+    580.0,
+    535.0
+   ],
+   "ocr": "Inhibitor Cocktail\nA B C D\nAcetic acid, g/l 1.80 3.60 5.40 7.20\nFormic acid, g/l 0.61 1.22 1.83 2.44\nLactic acid, g/l 1.72 3.45 5.17 6.89\nFurfural, g/l 0.69 1.38 2.08 2.77\nHMF, g/l 0.94 1.86 2.81 3.75",
+   "table_id": "img_062414_t0"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    601.0,
+    580.0,
+    777.0
+   ],
+   "ocr": "Mechanism Online or Offline Homogenity Heterogenity Submodularity Truthfulness Verifiability Private Protection\nH-PVA [17] Online No Yes No Yes Yes Yes\nPVI-H Offline Yes Yes No Yes Yes Yes\nPVI-S Offline No No Yes Yes Yes Yes\nMSensing [6] Offline No No Yes Yes No No\nOMZ [19] Online No No Yes Yes No No\nTask pricing [5] Online No Yes No Yes No No",
+   "table_id": "img_062414_t1"
+  }
+ }
+}

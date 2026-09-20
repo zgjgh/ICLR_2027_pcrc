@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_189",
+  "page": 2,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    58.9,
+    54.7,
+    648.5,
+    111.5
+   ],
+   "ocr": "Sensors 2015, 15 25907 �"
+  },
+  "p2_b1": {
+   "type": "title",
+   "bbox": [
+    422.2,
+    102.7,
+    428.1,
+    114.6
+   ],
+   "ocr": "�"
+  },
+  "p2_b2": {
+   "type": "title",
+   "bbox": [
+    362.1,
+    105.6,
+    419.1,
+    124.9
+   ],
+   "ocr": "��� − ���"
+  },
+  "p2_b3": {
+   "type": "title",
+   "bbox": [
+    282.3,
+    116.6,
+    646.6,
+    135.6
+   ],
+   "ocr": "���� = �� (5)"
+  },
+  "p2_b4": {
+   "type": "title",
+   "bbox": [
+    391.1,
+    126.5,
+    399.3,
+    143.2
+   ],
+   "ocr": "�"
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    139.0,
+    648.8,
+    279.6
+   ],
+   "ocr": "��� where n is the number of points in each clusters, Xi and Yi is the position (PRL-PRH) of each point i in the PR map and (CX, CY) is the centroid of the cluster, which is obtained according to described in [15]. Table 2 summarizes the results of the dispersion obtained for each cluster associated with electrical noise. Table 2. Results obtained of the standard deviation for each cluster associated with electrical noise."
+  },
+  "p2_b6": {
+   "type": "table",
+   "bbox": [
+    73.1,
+    291.7,
+    633.5,
+    358.9
+   ],
+   "ocr": "Indicator Point-Plane Experimental Specimen Contaminated Ceramic Bushing Pierced Insulating Sheets\nσPRL 3.15 3.10 3.02\nσPRH 2.23 2.52 2.35\nσPRL/σPRH 1.41 1.23 1.28",
+   "table_id": "PMC4634465_table_1"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    379.6,
+    648.8,
+    920.3
+   ],
+   "ocr": "Analysing the results in Table 2, the dispersion in PRL and PRH for each of the clusters has very similar values. When comparing the dispersion between PRL and PRH for each cluster, it is observed that the dispersion in PRL is higher than that obtained by PRH, this last is most notable in the case of the point-plane experimental test object, where the σPRL/σPRH ratio is higher than for other test objects (1.41). This ratio will allow us to identify during the measurements in which axis of the PR map, is more dispersed one cluster, i.e. if σPRL/σPRH > 1; PRL has a greater dispersion, otherwise if σPRL/σPRH < 1 this means that PRH has the greater dispersion. From the point of view of source separation, an ideal cluster is the one that has a ratio σPRL/σPRH ≈ 1 and a high homogeneity (low dispersion in PRL and PRH). Therefore, if the clusters located on the classification map are obtained with these characteristics (i.e., σPRL/σPRH ≈ 1, low σPRL and low σPRH), it will be obtained a very homogeneous clouds of points that facilitates the application of any method of clusters identification (K-means, K-medians, Gaussian, etc.), after the application of the SPCT, so a better separation and identification of points associated with each cluster is achieved when multiple sources are present. It is important, for the operator of the classification tool, to consider this information once each of the sources in the classification map have been characterized, as this can help to verify if the separation intervals manually selected should be modified slightly or completely changed in order to enhance the clusters separation. This will facilitate, in a later stage, the sources identification process, that can be performed through visual inspections or applying automatic identification algorithms. Furthermore, it must be emphasized that this information is only useful once the intervals of separation have been selected, because these indicators alone cannot estimate the frequency bands where the separation intervals should be located. They only allow assessing homogeneity, dispersion and shape of the clusters for each of the previously demarcated intervals. However, in Section 4.1.3, an additional graphic indicator is presented. This is based on the variability of the spectral power of the captured signals, which does allow identifying areas of interest where the user must locate the separation intervals, in order to obtain an initial characterization which may, or may not, be improved by modifying slightly the position of the separation intervals or evaluating the"
+  }
+ }
+}

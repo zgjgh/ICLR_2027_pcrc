@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "NEE_2013",
+  "page": 106,
+  "page_size": [
+   612.0,
+   792.0
+  ]
+ },
+ "blocks": {
+  "NEE_2013_p106__paragraph_0": {
+   "type": "paragraph",
+   "bbox": [
+    49.5,
+    61.4,
+    565.0,
+    201.1
+   ],
+   "ocr": "All price, volatility, correlation and customer migration inputs used in valuation are subject to validation by the Trading Risk \nManagement group.  The Trading Risk Management group performs a risk management function responsible for assessing credit, \nmarket and operational risk impact, reviewing valuation methodology and modeling, confirming transactions, monitoring approval \nprocesses and developing and monitoring trading limits.  The Trading Risk Management group is separate from the transacting \ngroup.  For markets where independent third-party data is readily available, validation is conducted daily by directly reviewing this \nmarket data against inputs utilized by the transacting group, and indirectly by critically reviewing daily risk reports.  For markets \nwhere independent third-party data is not readily available, additional analytical reviews are performed on at least a quarterly \nbasis.  These analytical reviews are designed to ensure that all price and volatility curves used for fair valuing transactions are \nadequately validated each quarter, and are reviewed and approved by the Trading Risk Management group.  In addition, other \nvaluation assumptions such as implied correlations and customer migration rates are reviewed and approved by the Trading Risk \nManagement group on a periodic basis.  Newly created models used in the valuation process are also subject to testing and approval \nby the Trading Risk Management group prior to use and established models are reviewed annually, or more often as needed, by \nthe Trading Risk Management group."
+  },
+  "NEE_2013_p106__paragraph_1": {
+   "type": "paragraph",
+   "bbox": [
+    49.5,
+    212.6,
+    565.0,
+    276.7
+   ],
+   "ocr": "On a monthly basis, the Exposure Management Committee (EMC), which is comprised of certain members of senior management, \nmeets with representatives from the Trading Risk Management group and the transacting group to discuss NEE's and FPL's energy \nrisk profile and operations, to review risk reports and to discuss fair value issues as necessary.  The EMC develops guidelines \nrequired for an appropriate risk management control infrastructure, which includes implementation and monitoring of compliance \nwith Trading Risk Management policy.  The EMC executes its risk management responsibilities through direct oversight and \ndelegation of its responsibilities to the Trading Risk Management group, as well as to other corporate and business unit personnel."
+  },
+  "NEE_2013_p106__caption_0": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    288.2,
+    565.0,
+    309.1
+   ],
+   "ocr": "The significant unobservable inputs used in the valuation of NEE's commodity contracts categorized as Level 3 of the fair value \nhierarchy at December 31, 2013 are as follows:"
+  },
+  "NEE_2013_p106__caption_1": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    494.3,
+    147.4,
+    503.2
+   ],
+   "ocr": "______________________"
+  },
+  "NEE_2013_p106__caption_2": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    506.6,
+    199.0,
+    514.4
+   ],
+   "ocr": "(a) \nApplies only to full requirements contracts."
+  },
+  "NEE_2013_p106__caption_3": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    526.4,
+    549.4,
+    536.5
+   ],
+   "ocr": "The sensitivity of NEE's fair value measurements to increases (decreases) in the significant unobservable inputs is as follows:"
+  },
+  "NEE_2013_p106__caption_4": {
+   "type": "caption",
+   "bbox": [
+    49.5,
+    661.7,
+    198.2,
+    678.8
+   ],
+   "ocr": "————————————\n(a) \nAssumes the contract is in a gain position."
+  },
+  "NEE_2013_p106__paragraph_2": {
+   "type": "paragraph",
+   "bbox": [
+    49.5,
+    690.8,
+    565.0,
+    733.3
+   ],
+   "ocr": "In addition, the fair value measurement of interest rate swap liabilities related to the solar projects in Spain of approximately $93 \nmillion at December 31, 2013 includes a significant credit valuation adjustment.  The credit valuation adjustment, considered an \nunobservable input, reflects management's assessment of non-performance risk of the subsidiaries related to the solar projects in \nSpain that are party to the swap agreements."
+  },
+  "NEE_2013_p106__table_0": {
+   "type": "table",
+   "bbox": [
+    52.5,
+    327.6,
+    558.1,
+    490.0
+   ],
+   "ocr": "Transaction Type Fair Value atDecember 31, 2013 ValuationTechnique(s)\nSignificantUnobservable Inputs Range Assets Liabilities\n(millions)\nForward contracts - power $677 $74 Discounted cash flow Forward price (per MWh)\n$13 — $207 Forward contracts - gas 82 23 Discounted cash flow Forward price (per MMBtu)\n$2 — $16 Forward contracts - other commodity related 15 11 Discounted cash flow Forward price (various)\n$1 — $245 Options - power 55 49 Option models Implied correlations\n7% — 96% Implied volatilities\n1% — 200% Options - gas 22 29 Option models Implied correlations\n7% — 96% Implied volatilities\n1% — 175% Full requirements and unit contingent contracts 218 168 Discounted cash flow Forward price (per MWh)\n$(32) — $222 Customer migration rate(a)\n—% — 20% Total $1,069 $354",
+   "table_id": 134049
+  },
+  "NEE_2013_p106__table_1": {
+   "type": "table",
+   "bbox": [
+    52.5,
+    555.2,
+    355.0,
+    657.9
+   ],
+   "ocr": "Significant Unobservable Input Position Impact onFair Value Measurement\nForward price Purchase power/gas Increase (decrease)\nSell power/gas Decrease (increase)\nImplied correlations Purchase option Decrease (increase)\nSell option Increase (decrease)\nImplied volatilities Purchase option Increase (decrease)\nSell option Decrease (increase)\nCustomer migration rate Sell power(a) Decrease (increase)",
+   "table_id": 134050
+  }
+ }
+}

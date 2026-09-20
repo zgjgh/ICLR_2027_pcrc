@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_339",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    412.9,
+    50.6,
+    700.5,
+    62.6
+   ],
+   "ocr": "Available online http://arthritis-research.com/content/11/6/R168"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    70.5,
+    105.2,
+    251.3,
+    140.9
+   ],
+   "ocr": "Table 2 Individual SpA subject characteristics"
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    75.5,
+    152.5,
+    691.3,
+    548.1
+   ],
+   "ocr": "Subject Dataset Gender Race SpA Likelihood ratio Medications\n1 1 M Asian 4073 None (Etanercept withdrawn for 2 months)\n2* 1 M Caucasian 204 Simvastatin, cyclobenzaprine, aspirin, indomethacin, atenolol, lansoprazole,\nhydrocodone\n3 1 M Caucasian 204 _\n4 1 M Caucasian 4073 _\n5 1 M Caucasian 934 _\n6 1 M Asian 204 _\n7 1 M Caucasian 4073 Metformin, glipizide, atorvastatin, lisinopril, nifedipine, Lantus insulin, Novo\nLog, sulfasalazine, indomethacin\n8 1 M Caucasian 558 Ibuprofen\n9 1 F Caucasian 11383 Piroxicam, indomethacin\n10 1 F Caucasian 7115 Rofecoxib\n11 1 M Caucasian 255 Acetaminophen, ramipril, omeprazole, aspirin, atorvastatin\n12 2 M Caucasian 4073 Insulin, nifedipine, glipizide, lisinopril, metformin, Vicodin, Flexeril,\nindomethacin, sulfasalazine\n13 2 F Caucasian 1039 Celecoxib, trazodone, venlafaxine, ranitidine\n14 2 F Caucasian 204 Tobramycin\n15 2 F Asian 4073 Alendronate\n16 2 M Asian 204 _\n17 2 M Caucasian 20774 Phenylbutazone\n18 2 M Caucasian 2308 Alendronate sodium",
+   "table_id": "PMC3003511_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    70.5,
+    556.5,
+    374.1,
+    919.7
+   ],
+   "ocr": "*coexistent ulcerative colitis. F = female; M = male; SpA = axial probes [7]. After normalization, differential gene expression between groups was assessed by Significance Analysis of Microarrays (SAM) [8]. Differential expression was defined as a 1.5-fold change with a q value less than 5%. The q value is a Bayesian equivalent to the false discovery rate adjusted P value [9]. Statistical analysis was performed at an array probe set level; transcript counts were corrected for the presence of multiple probe sets. These data have been used to illustrate an analytical approach described in a statistical methods paper [10] and the controls were also used in a parallel study on gene expression in patients with sarcoidosis [11]. The raw and normalized data have been deposited in the Gene Expression Omnibus repository [GEO: GSE18781] [12]. As males predominated among the SpA subjects and females were more common in the control group, we took additional caution to exclude conclusions attributable to gender. To iden- tify possible gender effects on gene expression levels that might confound interpretation of the intergroup comparisons, an analysis was conducted to determine which of the following four linear models best fit the data for each probe set: (1) a model in which gene expression is impacted by disease state alone; (2) a model in which gender is the sole influence on"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    348.4,
+    556.5,
+    700.5,
+    919.7
+   ],
+   "ocr": "spondyloarthropathy. gene expression; (3) a model in which, after controlling for gender effects, the principal effects are due to disease state; and (4) a model in which the interaction between disease state and gender also influences the results. For this analysis, data from both sets were first renormalized using the quantile nor- malization method [13]. The well-established Akaike's informa- tion criterion [14] was then used to choose the best among four models for each probe set shown in Tables 4 and 5 based on likelihood calculations. Pathway analysis of gene expression results Each gene was studied using a network analysis module within MetaCore™ bioinformatics software (GeneGo Inc, St. Joseph, MI, USA) [15] to identify known functional associa- tions between genes identified in our study and other genes or pathways. These curated networks may include transcription factors, receptors, and enzyme cascades. Results Gene expression microarray analysis was performed on whole blood collected from two independent sets of SpA and control subjects. Our analysis of Set 1 identified 556 probe sets that were upregulated and 962 probe sets that were downregu-"
+  },
+  "p2_b5": {
+   "type": "header_footer",
+   "bbox": [
+    549.4,
+    954.5,
+    700.4,
+    978.8
+   ],
+   "ocr": "Page 3 of 9 (page number not for citation purposes)"
+  }
+ }
+}

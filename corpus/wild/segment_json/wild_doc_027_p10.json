@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_027",
+  "page": 10,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p10_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    51,
+    580,
+    94
+   ],
+   "ocr": "In recent studies focusing on genetic variation and its implications for phenotypic traits, the analysis of specific single nucleotide polymorphisms (SNPs) has garnered significant attention. The data presented in the accompanying table summarizes the additive genetic variance (σ²a) associated with five Q-Tag SNPs."
+  },
+  "p10_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    82,
+    580,
+    125
+   ],
+   "ocr": "This variance is critical for understanding the heritability of traits influenced by these genetic markers. Specifically, the values for σ²a indicate a range of contributions from each Q-Tag SNP, with SNP1 showing an additive genetic variance of 0.113, which is notably higher than that of the subsequent SNPs."
+  },
+  "p10_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    142.0,
+    580.0,
+    394.0
+   ],
+   "ocr": "Haplotype based on\nQ-Tag SNP1 2 Q-Tag SNP 3 Q-Tag SNP 4 Q-Tag SNP 5 Q-Tag SNP\nσ2a 0.113 0.082 0.084 0.084 0.084\nσ2haplo-group 1.022 0.664 0.685 0.685 0.685\nσ2e 0.288 0.297 0.293 0.293 0.293\nh2haplo-group 0.718 0.637 0.645 0.645 0.645\nEstimated effectb\nhaplo-group A1a 0.71 (58%) 0.78 (51%) 0.79 (44%) 0.79 (44%) 0.79 (44%)\nhaplo-group A2 0.62 (7%) 0.62 (14%) 0.62 (14%) 0.62 (14%)\nhaplo-group B2 −0.57 (24%) −0.58 (24%) −0.58 (24%) −0.58 (24%)\nhaplo-group B1 −0.71 (42%) −0.83 (18%) −0.84 (18%) −0.84 (18%) −0.84 (18%)\nDifference A1A1-B1B1 2.86 3.22 3.26 3.26 3.26",
+   "table_id": "img_030720_t0"
+  },
+  "p10_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    410,
+    580,
+    453
+   ],
+   "ocr": "SNP2, SNP3, and SNP4 exhibit variances of 0.082, 0.084, and 0.084 respectively, suggesting a relatively consistent influence on the traits under investigation. These findings underscore the importance of each SNP in contributing to the overall genetic architecture of the studied traits."
+  },
+  "p10_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    441,
+    580,
+    484
+   ],
+   "ocr": "Furthermore, the low variance associated with SNP5, which mirrors that of SNP3 and SNP4, raises questions about its functional relevance and potential interactions with other genetic or environmental factors. Continued exploration of these SNPs may provide deeper insights into their roles in genetic predisposition and trait expression."
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_277",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1800892_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    821.9,
+    689.9,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1800892_table_0.png",
+   "html": "<table><tr><td></td><td>Recovered from colic</td><td>Died/euthanized following colic</td><td>Total</td></tr><tr><td>Impaction colic (including impactions requiring surgery)</td><td>215</td><td>227</td><td>442</td></tr><tr><td>Other colic (including surgical, spasmodic and undiagnosed)</td><td>180</td><td>185</td><td>365</td></tr><tr><td>Total</td><td>395</td><td>412</td><td>807</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1800892_table_1",
+   "page_num": 2,
+   "bbox": [
+    112.3,
+    129.9,
+    660.7,
+    259.4
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1800892_table_1.png",
+   "html": "<table><tr><td>Impaction site</td><td>Recovered from impaction</td><td>Impaction resulted in death or euthanasia</td><td>Total impactions</td></tr><tr><td>Pelvic flexure</td><td>79</td><td>96</td><td>175</td></tr><tr><td>Large colon</td><td>2</td><td>31</td><td>33</td></tr><tr><td>Small colon</td><td>10</td><td>20</td><td>30</td></tr><tr><td>Caecum</td><td>16</td><td>21</td><td>37</td></tr><tr><td>Small intestine</td><td>0</td><td>3</td><td>3</td></tr><tr><td>Unidentified</td><td>108</td><td>56</td><td>164</td></tr><tr><td>Total</td><td>215</td><td>227</td><td>442</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1800892_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    670.4,
+    674.7,
+    898.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1800892_table_3.png",
+   "html": "<table><tr><td>Variable</td><td></td><td>Odds Ratio</td><td>Lower 95% CI</td><td>Upper 95% CI</td><td>LRS P-value</td></tr><tr><td colspan=\"6\">Continuous</td></tr><tr><td>Age (years)</td><td></td><td>1.06</td><td>1.02</td><td>1.11</td><td>0.008</td></tr><tr><td>Weight (kg)</td><td></td><td>0.98</td><td>0.96</td><td>0.99</td><td>&lt;0.001</td></tr><tr><td colspan=\"6\">Categorical</td></tr><tr><td rowspan=\"2\">Extra rations</td><td>No</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>2.21</td><td>1.07</td><td>4.53</td><td>0.03</td></tr><tr><td rowspan=\"2\">Musculo skeletal exam</td><td>No</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>2.20</td><td>0.95</td><td>5.13</td><td>0.07</td></tr><tr><td rowspan=\"2\">Previous colic</td><td>No</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>6.80</td><td>1.65</td><td>27.95</td><td>0.008</td></tr><tr><td rowspan=\"2\">Farm</td><td>1</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>2</td><td>0.43</td><td>0.19</td><td>0.97</td><td>0.04</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1800892_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    141.9,
+    674.7,
+    356.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1800892_table_4.png",
+   "html": "<table><tr><td>Variable</td><td></td><td>Odds Ratio</td><td>Lower 95% CI</td><td>Upper 95% CI</td><td>LRS P-value</td></tr><tr><td colspan=\"6\">Continuous</td></tr><tr><td>Age (years)</td><td></td><td>1.09</td><td>1.05</td><td>1.12</td><td>&lt;0.001</td></tr><tr><td colspan=\"6\">Categorical</td></tr><tr><td rowspan=\"2\">Extra rations</td><td>No</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>2.48</td><td>1.49</td><td>4.12</td><td>&lt;0.001</td></tr><tr><td rowspan=\"2\">Musculo skeletal exam</td><td>No</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>2.60</td><td>1.36</td><td>4.99</td><td>0.004</td></tr><tr><td rowspan=\"2\">Previous colic</td><td>No</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>8.81</td><td>2.66</td><td>29.2</td><td>&lt;0.001</td></tr><tr><td rowspan=\"2\">Farm</td><td>1</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>2</td><td>0.37</td><td>0.21</td><td>0.64</td><td>&lt;0.001</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1800892_table_6",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    685.8,
+    690.5,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1800892_table_6.png",
+   "html": "<table><tr><td>Variable</td><td>Description</td></tr><tr><td>Age</td><td>Years</td></tr><tr><td>Gender</td><td>Male/female</td></tr><tr><td>Weight</td><td>Kg</td></tr><tr><td>Farm</td><td>10 different farms in the south west of England were included in the analysis.</td></tr><tr><td>Extra rations</td><td>Donkey was fed concentrate feed in addition to forage at the time of the impaction colic.</td></tr><tr><td>Previous colic</td><td>Donkey suffered from colic in the 12 months prior to the impaction colic case.</td></tr><tr><td>Dental disease</td><td>Donkey had at least one of the following dental problems recorded in the 6 months prior to the impaction colic date: missing teeth, shear, wave, step, undershot, overshot or diastema.</td></tr><tr><td>Routine treatments: farriery, vaccination, antiparasiticide, anthelmintic.</td><td>Donkey had routine treatment in the month prior to impaction colic case date. Each category was tested separately in the univariable analysis.</td></tr><tr><td>Medical examinations: behavioural, biochemical, dermatalogical, digestive, haematological, musculo-skeletal, non-specific, opthalmalogical, respiratory, uro-genital.</td><td>Donkey had a medical examination for another disease in the 6 months prior to the impaction colic case date. Medical examinations were categorised by Donkey Sanctuary veterinarians. Each category was tested separately in the univariable analysis.</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_265",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    190.0,
+    64.4
+   ],
+   "ocr": "BMC Cancer 2005, 5:75"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2407/5/75"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    377.4,
+    118.9
+   ],
+   "ocr": "Table 4: Gene ontology for differentially expressed genes found in"
+  },
+  "p4_b3": {
+   "type": "caption",
+   "bbox": [
+    380.2,
+    107.2,
+    434.0,
+    118.9
+   ],
+   "ocr": "NHEK cells"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    129.9,
+    681.8,
+    608.8
+   ],
+   "ocr": "Gene Category Down (genes) Up (genes) Combined list Affy EASE score\nprobes\nmitotic cell cycle 41 4 49 1.96E-14\ncell cycle 52 12 76 2.03E-12\nM phase 22 1 24 7.73E-09\nDNA replication and chromosome cycle 22 1 24 7.73E-09\ncell proliferation 56 22 100 0.000000024\nnuclear division 20 1 22 7.23E-08\nM phase of mitotic cell cycle 19 1 21 0.000000217\nDNA replication 19 1 21 0.000000217\nS phase of mitotic cell cycle 19 1 21 0.000000217\nmitosis 19 1 21 0.000000217\nDNA metabolism 29 6 41 0.000000403\nDNA dependent DNA replication 13 0 13 0.00000641\ncytokinesis 12 0 12 0.0000199\nmetabolism 100 79 256 0.000126\nregulation of cell cycle 26 11 48 0.00137\ncell growth and/or maintenance 79 62 202 0.00241\nnucleobase\\, nucleoside\\, nucleotide and nucleic acid metabolism 53 36 124 0.00262\nbiosynthesis 15 5 24 0.00475\nprotein metabolism 43 29 101 0.00992\nphysiological process 132 130 389 0.0103\nobsolete biological process 17 7 31 0.0125\nmacromolecule biosynthesis 11 4 18 0.0267\nprotein modification 22 14 50 0.0639\ncytoplasm organization and biogenesis 12 6 23 0.0693\ncell organization and biogenesis 17 13 42 0.211\nphosphorus metabolism 16 12 40 0.244\nphosphate metabolism 16 12 40 0.244\nprotein amino acid phosphorylation 12 9 30 0.326\nphosphorylation 12 10 32 0.424\nmacromolecule catabolism 10 8 26 0.435\nprotein catabolism 10 8 26 0.435\nproteolysis and peptidolysis 10 8 26 0.435\ncell adhesion 4 16 36 1\ncell motility 2 6 14 0.995",
+   "table_id": "PMC1182358_table_3"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    624.8,
+    384.0,
+    683.6
+   ],
+   "ocr": "Bold: processes significantly affected in Caco-2 pointing to differentiation Italicized: processes significantly downregulated in NHEK, pointing to Cutoff (EASE score < 5.00E-01) Cutoff (#overlapping genes > 9, larger than in Caco-2 due to a large initial list size)."
+  },
+  "p4_b6": {
+   "type": "title",
+   "bbox": [
+    365.6,
+    636.8,
+    424.6,
+    648.6
+   ],
+   "ocr": "differentiation"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    720.5,
+    372.6,
+    912.6
+   ],
+   "ocr": "CDKN2A (p16/p14/p19), which induces G1 arrest through the inhibition of Rb phosphorylation by cdk -4 and -6 [15]. Overexpression of ID-1 was also reported in psori- atic involved skin [16]. Inhibitors of histone deacetylase activity are emerging as a potentially important new class of anticancer agents. The cell cycle blockade and differentiation caused by such a drug, trichostatin A, caused decreased levels of ID-1 consistent with cell cycle senescence and differentiation of A2780 ovarian cancer cells [17]. Vitamin D is also known to promote differenti- ation and was shown by others to down-regulate ID-1 through a suppressive vitamin D response sequence in the 5'of the gene [18]. The ID-1 expression is regulated by a"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    720.5,
+    698.4,
+    912.6
+   ],
+   "ocr": "protein complex containing the immediate-early response gene EGR1 [19]. The growth regulatory properties of EGR1 have been found to involve coordinated regulation of TGF-β1 and fibronectin (FN1). The resulting proteins are secreted and lead to increased expression of plasminogen activator inhibitor-1 (PAI1). Both the secreted FN1 and PAI1 func- tions to enhance cell attachment and normal cell growth [20]. We detect the induction of both fibronectin and PAI1 in NHEK cells at both 12 and 24 hrs, suggesting a role of EGR1 pathways in the NAC mediated mechanism at least in this cell type."
+  },
+  "p4_b9": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 12 of 19 (page number not for citation purposes)"
+  }
+ }
+}

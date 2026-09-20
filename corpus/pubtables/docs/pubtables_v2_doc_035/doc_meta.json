@@ -1,0 +1,115 @@
+{
+ "doc_id": "pubtables_v2_doc_035",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1995619_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    130.3,
+    690.9,
+    477.6
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1995619_table_0.png",
+   "html": "<table><tr><td>Phenotype</td><td>Number of adjusted phenotypes</td><td>Offsrping cohort exam cycles&#8224;</td><td>Sample size (min-max)</td><td>Covariates adjusted</td></tr><tr><td colspan=\"5\">Hemostatic factors:</td></tr><tr><td>fibrinogen</td><td>4</td><td>5, 6, 7 and average</td><td>986&#8211;1073</td><td>age (and its squared and cubic terms), sex, body mass index, prevalent cardiovascular disease, current cigarette smoking, hypertension treatment, systolic blood pressure, diastolic blood pressure, estrogen therapy (women only), alcohol intake, triglycerides, diabetes, total cholesterol, and the ratio of total cholesterol to high-density lipoprotein cholesterol.</td></tr><tr><td>PAI-1</td><td>3</td><td>5, 6 and average</td><td>788&#8211;1037</td><td></td></tr><tr><td>tPA</td><td>1</td><td>5</td><td>786</td><td></td></tr><tr><td>vWF</td><td>1</td><td>5</td><td>883</td><td></td></tr><tr><td>FVII</td><td>1</td><td>5</td><td>886</td><td></td></tr><tr><td>D-dimer</td><td>1</td><td>5</td><td>987</td><td></td></tr><tr><td colspan=\"5\">Hematological and rheological phenotypes</td></tr><tr><td>platelet aggregation (ADP- induced)</td><td>1</td><td>5</td><td>724</td><td></td></tr><tr><td>platelet aggregation (collagen- induced)</td><td>1</td><td>5</td><td>702</td><td></td></tr><tr><td>platelet aggregation (Epi-induced)</td><td>1</td><td>5</td><td>719</td><td></td></tr><tr><td>Viscosity</td><td>1</td><td>5</td><td>832</td><td></td></tr><tr><td>Hgb</td><td>3</td><td>1, 2, and average</td><td>903&#8211;1066</td><td>age, sex, height, weight, high-density lipoprotein cholesterol, total serum protein, alcohol intake, triglycerides, and current cigarette smoking</td></tr><tr><td>RBCC</td><td>3</td><td>1, 2, and average</td><td>903&#8211;1062</td><td></td></tr><tr><td>MCH</td><td>3</td><td>1, 2, and average</td><td>903&#8211;1062</td><td></td></tr><tr><td>Hematocrit*</td><td>3</td><td>1, 2, and average</td><td>903&#8211;1062</td><td></td></tr><tr><td>MCV</td><td>3</td><td>1, 2, and average</td><td>903&#8211;1062</td><td></td></tr><tr><td>WBC*</td><td>3</td><td>1, 2, and average</td><td>903&#8211;1062</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC1995619_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    130.3,
+    655.6,
+    448.6
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1995619_table_1.png",
+   "html": "<table><tr><td>Phenotype*</td><td>SNP</td><td>MAF</td><td>CHR</td><td>Physical Position (bp)&#8224;</td><td>GEE p-val (Rank)&#8224;&#8224;</td><td>FBAT p-val&#8224;&#8224;&#8224;</td><td>Genes within 60 kb</td></tr><tr><td>Fibrinogen</td><td>rs6683832</td><td>0.41</td><td>1</td><td>62,988,925</td><td>5.6 &#215; 10-5(4)</td><td>3.4 &#215; 10-2</td><td>APG4C</td></tr><tr><td>Fibrinogen</td><td>rs4861952</td><td>0.11</td><td>4</td><td>182,696,179</td><td>3.5 &#215; 10-5(24)</td><td>8.2 &#215; 10-3</td><td></td></tr><tr><td>Fibrinogen</td><td>rs10506540</td><td>0.12</td><td>12</td><td>65,699,364</td><td>2.2 &#215; 10-5(16)</td><td>3.3 &#215; 10-2</td><td></td></tr><tr><td>Fibrinogen</td><td>rs974673</td><td>0.15</td><td>14</td><td>33,550,265</td><td>3.1 &#215; 10-5(19)</td><td>1.3 &#215; 10-3</td><td></td></tr><tr><td>FVII</td><td>rs966321</td><td>0.47</td><td>1</td><td>4,225,577</td><td>7.6 &#215; 10-6(6)</td><td>4.5 &#215; 10-2</td><td></td></tr><tr><td>FVII</td><td>rs1245072</td><td>0.17</td><td>1</td><td>69,827,777</td><td>1.8 &#215; 10-5(13)</td><td>7.5 &#215; 10-3</td><td>LRRC7</td></tr><tr><td>FVII</td><td>rs2362932</td><td>0.24</td><td>1</td><td>242,240,325</td><td>2.4 &#215; 10-5(17)</td><td>1.5 &#215; 10-2</td><td>SMYD3</td></tr><tr><td>FVII</td><td>rs10496112</td><td>0.30</td><td>2</td><td>64,535,384</td><td>3.3 &#215; 10-5(23)</td><td>7.4 &#215; 10-3</td><td>HSPC159</td></tr><tr><td>FVII</td><td>rs1001254</td><td>0.13</td><td>3</td><td>7,909,333</td><td>2.0 &#215; 10-5(14)</td><td>2.0 &#215; 10-2</td><td></td></tr><tr><td>FVII</td><td>rs4591494</td><td>0.19</td><td>3</td><td>7,957,827</td><td>9.2 &#215; 10-6(7)</td><td>1.2 &#215; 10-4</td><td></td></tr><tr><td>FVII</td><td>rs10488360</td><td>0.30</td><td>7</td><td>4,184,450</td><td>7.2 &#215; 10-6(5)</td><td>9.3 &#215; 10-3</td><td></td></tr><tr><td>FVII</td><td>rs727435</td><td>0.13</td><td>9</td><td>80,809,022</td><td>9.6 &#215; 10-6(8)</td><td>2.8 &#215; 10-2</td><td></td></tr><tr><td>FVII</td><td>rs7938734</td><td>0.31</td><td>11</td><td>49,834,857</td><td>3.2 &#215; 10-5(21)</td><td>7.0 &#215; 10-2</td><td></td></tr><tr><td>FVII</td><td>rs561241</td><td>0.12</td><td>13</td><td>112,808,035</td><td>4.5 &#215; 10-16(1)</td><td>3.4 &#215; 10-4</td><td>MCF2L; AB116074; AK092739; AK123267; AB002360; F7; CR603372; F10; PROZ</td></tr><tr><td>PAI1</td><td>rs10490733</td><td>0.14</td><td>2</td><td>137,872,229</td><td>3.2 &#215; 10-5(22)</td><td>2.4 &#215; 10-2</td><td></td></tr><tr><td>PAI1</td><td>rs4460176</td><td>0.29</td><td>5</td><td>109,524,859</td><td>3.1 &#215; 10-6(3)</td><td>7.6 &#215; 10-2</td><td></td></tr><tr><td>tPA</td><td>rs10493485</td><td>0.29</td><td>1</td><td>71,783,150</td><td>1.6 &#215; 10-6(2)</td><td>1.1 &#215; 10-3</td><td>BC036771; NEGR1</td></tr><tr><td>tPA</td><td>rs10494076</td><td>0.32</td><td>1</td><td>108,050,369</td><td>3.1 &#215; 10-5(20)</td><td>2.3 &#215; 10-2</td><td>VAV3</td></tr><tr><td>tPA</td><td>rs2029637</td><td>0.25</td><td>3</td><td>113,404,510</td><td>1.3 &#215; 10-5(10)</td><td>6.1 &#215; 10-2</td><td>SLC9A10</td></tr><tr><td>tPA</td><td>rs953377</td><td>0.28</td><td>6</td><td>23,998,670</td><td>1.5 &#215; 10-5(11)</td><td>3.4 &#215; 10-2</td><td></td></tr><tr><td>vWF</td><td>rs9295740</td><td>0.14</td><td>6</td><td>27,797,481</td><td>2.8 &#215; 10-5(18)</td><td>5.7 &#215; 10-3</td><td></td></tr><tr><td>vWF</td><td>rs202906</td><td>0.12</td><td>6</td><td>28,119,631</td><td>2.1 &#215; 10-5(15)</td><td>1.1 &#215; 10-1</td><td>ZNF165</td></tr><tr><td>vWF</td><td>rs708356</td><td>0.35</td><td>12</td><td>128,998,794</td><td>1.5 &#215; 10-5(12)</td><td>2.4 &#215; 10-2</td><td>AK127723</td></tr><tr><td>vWF</td><td>rs1954971</td><td>0.38</td><td>18</td><td>26,633,241</td><td>1.0 &#215; 10-5(9)</td><td>1.6 &#215; 10-2</td><td></td></tr><tr><td>vWF</td><td>rs7319671</td><td>0.30</td><td>13</td><td>36,923,224</td><td>3.6 &#215; 10-5(25)</td><td>1.1 &#215; 10-2</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC1995619_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    130.4,
+    692.1,
+    433.3
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1995619_table_2.png",
+   "html": "<table><tr><td>Phenotype*</td><td>SNP</td><td>MAF</td><td>CHR</td><td>Physical Position (bp)&#8224;</td><td>GEE Pval (Rank)&#8224;&#8224;</td><td>FBAT Pval&#8224;&#8224;&#8224;</td><td>Genes within 60 Kb</td></tr><tr><td>Hgb</td><td>rs4133289</td><td>0.19</td><td>1</td><td>156,267,010</td><td>1.6 &#215; 10-7(2)</td><td>6.0 &#215; 10-4</td><td>OR10J1; OR10J5</td></tr><tr><td>Hgb</td><td>rs1510107</td><td>0.41</td><td>2</td><td>53,071,788</td><td>1.0 &#215; 10-5(17)</td><td>2.2 &#215; 10-3</td><td></td></tr><tr><td>Hgb</td><td>rs1160297</td><td>0.43</td><td>2</td><td>53,148,971</td><td>1.0 &#215; 10-6(4)</td><td>8.3 &#215; 10-4</td><td></td></tr><tr><td>Hgb</td><td>rs2357013</td><td>0.45</td><td>2</td><td>53,177,780</td><td>6.1 &#215; 10-6(14)</td><td>1.3 &#215; 10-3</td><td></td></tr><tr><td>Hgb</td><td>rs7844723</td><td>0.45</td><td>8</td><td>122,977,684</td><td>2.1 &#215; 10-6(5)</td><td>2.6 &#215; 10-3</td><td></td></tr><tr><td>MCH</td><td>rs1829883</td><td>0.41</td><td>5</td><td>98,809,002</td><td>5.8 &#215; 10-6(11)</td><td>1.4 &#215; 10-2</td><td></td></tr><tr><td>MCH</td><td>rs1200821</td><td>0.47</td><td>10</td><td>37,599,586</td><td>5.9 &#215; 10-6(13)</td><td>1.0 &#215; 10-1</td><td>ANKRD30A</td></tr><tr><td>MCH</td><td>rs1397048</td><td>0.40</td><td>11</td><td>56,222,675</td><td>6.9 &#215; 10-8(1)</td><td>1.0 &#215; 10-2</td><td>OR5AP2; OR5AR1; OR9G1; OR9G4</td></tr><tr><td>platelet aggregation (ADP-induced)</td><td>rs10493895</td><td>0.19</td><td>1</td><td>97,983,247</td><td>1.6 &#215; 10-5(23)</td><td>4.5 &#215; 10-2</td><td>BC064027; DPYD</td></tr><tr><td>platelet aggregation (ADP-induced)</td><td>rs10484128</td><td>0.15</td><td>14</td><td>97,712,325</td><td>5.8 &#215; 10-6(12)</td><td>1.3 &#215; 10-3</td><td></td></tr><tr><td>platelet aggregation (collagen-induced)</td><td>rs848523</td><td>0.42</td><td>2</td><td>36,659,307</td><td>2.1 &#215; 10-5(24)</td><td>4.3 &#215; 10-1</td><td>CRIM1</td></tr><tr><td>platelet aggregation (collagen-induced)</td><td>rs565229</td><td>0.10</td><td>11</td><td>121,694,675</td><td>3.7 &#215; 10-6(6)</td><td>2.6 &#215; 10-2</td><td></td></tr><tr><td>platelet aggregation (collagen-induced)</td><td>rs10506458</td><td>0.13</td><td>12</td><td>61,731,359</td><td>4.5 &#215; 10-6(9)</td><td>1.1 &#215; 10-4</td><td></td></tr><tr><td>platelet aggregation (Epi-induced)</td><td>rs6811964</td><td>0.11</td><td>4</td><td>158,143,059</td><td>1.3 &#215; 10-5(20)</td><td>5.5 &#215; 10-2</td><td>PDGFC</td></tr><tr><td>platelet aggregation (Epi-induced)</td><td>rs1958208</td><td>0.32</td><td>14</td><td>81,194,793</td><td>1.1 &#215; 10-5(18)</td><td>7.0 &#215; 10-1</td><td></td></tr><tr><td>platelet aggregation (Epi-induced)</td><td>rs10502583</td><td>0.17</td><td>18</td><td>28,011,131</td><td>1.1 &#215; 10-5(19)</td><td>1.1 &#215; 10-2</td><td>RNF138; MEP1B</td></tr><tr><td>RBCC</td><td>rs9253</td><td>0.18</td><td>1</td><td>37,627,906</td><td>4.2 &#215; 10-6(7)</td><td>1.1 &#215; 10-5</td><td>FLJ11730; BC016328</td></tr><tr><td>RBCC</td><td>rs10489087</td><td>0.13</td><td>4</td><td>13,470,685</td><td>4.5 &#215; 10-6(8)</td><td>9.6 &#215; 10-4</td><td></td></tr><tr><td>RBCC</td><td>rs636864</td><td>0.21</td><td>6</td><td>149,567,299</td><td>6.3 &#215; 10-6(15)</td><td>1.3 &#215; 10-4</td><td></td></tr><tr><td>RBCC</td><td>rs727979</td><td>0.14</td><td>6</td><td>149,635,613</td><td>7.5 &#215; 10-6(16)</td><td>2.6 &#215; 10-5</td><td>MAP3K7IP2</td></tr><tr><td>RBCC</td><td>rs6108011</td><td>0.28</td><td>20</td><td>7,500,504</td><td>5.8 &#215; 10-6(10)</td><td>7.0 &#215; 10-2</td><td></td></tr><tr><td>Viscosity</td><td>rs10490258</td><td>0.11</td><td>2</td><td>40,717,605</td><td>1.5 &#215; 10-5(21)</td><td>2.9 &#215; 10-2</td><td></td></tr><tr><td>Viscosity</td><td>rs1359339</td><td>0.18</td><td>6</td><td>18,606,507</td><td>2.2 &#215; 10-5(25)</td><td>2.3 &#215; 10-2</td><td>IBRDC2</td></tr><tr><td>Viscosity</td><td>rs10485968</td><td>0.20</td><td>7</td><td>81,108,037</td><td>1.6 &#215; 10-5(22)</td><td>3.0 &#215; 10-3</td><td></td></tr><tr><td>Viscosity</td><td>rs7159841</td><td>0.21</td><td>14</td><td>46,933,585</td><td>2.1 &#215; 10-7(3)</td><td>2.0 &#215; 10-1</td><td>MAMDC1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1995619_table_3",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    129.9,
+    694.6,
+    441.8
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1995619_table_3.png",
+   "html": "<table><tr><td rowspan=\"2\">Phenotype* Fibrinogen</td><td rowspan=\"2\">SNP rs1273819</td><td rowspan=\"2\">CHR 2</td><td rowspan=\"2\">Physical Position (bp)&#8224; 227,307,918</td><td rowspan=\"2\">LOD 2.4</td><td colspan=\"2\">1.5 LOD Support Interval</td></tr><tr><td>221,455,139</td><td>234,213,322</td></tr><tr><td>FVII</td><td>rs1542535</td><td>3</td><td>138,548,560</td><td>2.8</td><td>128,478,856</td><td>147,720,726</td></tr><tr><td>FVII</td><td>rs2400107</td><td>10</td><td>15,113,999</td><td>3.3</td><td>13,834,912</td><td>21,013,729</td></tr><tr><td>PAI1</td><td>143xd8</td><td>8</td><td>2,117,752</td><td>2.3</td><td>181,076</td><td>5,519,520</td></tr><tr><td>vWF</td><td>rs10514670</td><td>3</td><td>18,544,296</td><td>2.1</td><td>9,261,438</td><td>25,964,778</td></tr><tr><td>platelet aggregation (ADP-induced)</td><td>rs4148751</td><td>7</td><td>86,787,804</td><td>2.0</td><td>81,841,699</td><td>94,233,832</td></tr><tr><td>platelet aggregation (collagen-induced)</td><td>rs17310225</td><td>X</td><td>41,973,417</td><td>2.1</td><td>30,937,095</td><td>81,367,217</td></tr><tr><td>Hgb</td><td>rs2412522</td><td>4</td><td>54,779,471</td><td>3.4</td><td>41,552,790</td><td>57,899,713</td></tr><tr><td>Hgb</td><td>rs10514838</td><td>9</td><td>120,826,350</td><td>2.5</td><td>113,537,965</td><td>133,903,932</td></tr><tr><td>MCVavg12</td><td>rs38993</td><td>7</td><td>153,013,905</td><td>2.2</td><td>149,613,755</td><td>154,729,817</td></tr><tr><td>MCVavg12</td><td>rs9299952</td><td>11</td><td>19,075,037</td><td>3.3</td><td>12,241,666</td><td>21,560,867</td></tr><tr><td>MCVavg12</td><td>rs10522006</td><td>X</td><td>32,347,187</td><td>2.3</td><td>27,553,388</td><td>40,183,712</td></tr><tr><td>RBCC</td><td>rs956275</td><td>4</td><td>57,108,334</td><td>2.5</td><td>44,437,719</td><td>74,935,678</td></tr><tr><td>RBCC</td><td>rs2023048</td><td>6</td><td>162,441,307</td><td>2.9</td><td>156,253,205</td><td>165,513,097</td></tr><tr><td>RBCC</td><td>rs10500769</td><td>11</td><td>12,975,794</td><td>3.2</td><td>9,335,581</td><td>15,231,734</td></tr><tr><td>RBCC</td><td>rs10500770</td><td>11</td><td>13,053,050</td><td>3.2</td><td>9,335,581</td><td>15,231,734</td></tr><tr><td>RBCC</td><td>rs2178692</td><td>12</td><td>6,706,312</td><td>2.8</td><td>4,817,859</td><td>9,212,944</td></tr><tr><td>RBCC</td><td>rs10498633</td><td>14</td><td>91,996,705</td><td>2.6</td><td>74,270,406</td><td>93,717,052</td></tr><tr><td>RBCC</td><td>GATA27A03</td><td>15</td><td>100,152,332</td><td>2.3</td><td>98,566,644</td><td>100,152,332</td></tr><tr><td>RBCC</td><td>rs2271090</td><td>17</td><td>76,861,200</td><td>2.3</td><td>73,915,579</td><td>78,166,561</td></tr><tr><td>RBCC</td><td>rs486633</td><td>18</td><td>555,760</td><td>3.3</td><td>156,277</td><td>4,009,209</td></tr><tr><td>RBCC</td><td>rs20037</td><td>22</td><td>27,802,395</td><td>2.2</td><td>25,095,430</td><td>42,711,182</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1995619_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    613.4,
+    694.6,
+    888.7
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1995619_table_4.png",
+   "html": "<table><tr><td rowspan=\"2\">SNP</td><td rowspan=\"2\">MAF</td><td rowspan=\"2\">CHR</td><td rowspan=\"2\">Physical Position (bp)*</td><td rowspan=\"2\">Mean GEE p-value</td><td></td><td></td><td rowspan=\"2\">Number of Phenotypes with GEE P-value &lt; 0.01</td><td rowspan=\"2\">Gene within 60 Kb</td><td colspan=\"3\">GEE P-value of individual phenotypes</td></tr><tr><td>Range of Beta cient&#8224; (min,</td><td>Coeffi- max)</td><td>ADP</td><td>Collagen</td><td>Epi</td></tr><tr><td>rs10500631</td><td>0.13</td><td>11</td><td>4,882,639</td><td>6.6 &#215; 10-3</td><td>0.19</td><td>0.24</td><td>3</td><td>OR51S1; OR51T1; OR51A7; OR51G2; OR51G1; OR51A4; OR51A2</td><td>9.7 &#215; 10-3</td><td>7.8 &#215; 10-3</td><td>3.8 &#215; 10-3</td></tr><tr><td>rs930323</td><td>0.18</td><td>1</td><td>221,172,525</td><td>1.9 &#215; 10-3</td><td>-0.26</td><td>-0.16</td><td>2</td><td>CNIH3</td><td>3.8 &#215; 10-2</td><td>1.6 &#215; 10-3</td><td>1.2 &#215; 10-4</td></tr><tr><td>rs7033457</td><td>0.25</td><td>9</td><td>7,383,934</td><td>2.6 &#215; 10-3</td><td>0.15</td><td>0.24</td><td>2</td><td></td><td>2.5 &#215; 10-3</td><td>3.7 &#215; 10-2</td><td>2.0 &#215; 10-4</td></tr><tr><td>rs2974490</td><td>0.11</td><td>5</td><td>113,433,775</td><td>2.7 &#215; 10-3</td><td>0.07</td><td>0.28</td><td>2</td><td></td><td>4.2 &#215; 10-1</td><td>8.7 &#215; 10-5</td><td>5.2 &#215; 10-4</td></tr><tr><td>rs10517543</td><td>0.13</td><td>4</td><td>40,332,115</td><td>3.2 &#215; 10-3</td><td>0.13</td><td>0.27</td><td>2</td><td>AF262323; FLJ20273</td><td>5.8 &#215; 10-3</td><td>1.0 &#215; 10-1</td><td>5.2 &#215; 10-5</td></tr><tr><td>rs2916601</td><td>0.13</td><td>5</td><td>89,556,637</td><td>3.5 &#215; 10-3</td><td>0.11</td><td>0.29</td><td>2</td><td></td><td>9.7 &#215; 10-2</td><td>3.2 &#215; 10-4</td><td>1.4 &#215; 10-3</td></tr><tr><td>rs4350297</td><td>0.18</td><td>10</td><td>106,463,038</td><td>3.9 &#215; 10-3</td><td>-0.24</td><td>-0.10</td><td>2</td><td>SORCS3</td><td>3.5 &#215; 10-4</td><td>1.0 &#215; 10-1</td><td>1.7 &#215; 10-3</td></tr><tr><td>rs7956194</td><td>0.42</td><td>12</td><td>108,340,545</td><td>4.3 &#215; 10-3</td><td>0.09</td><td>0.20</td><td>2</td><td>FLJ37587; KCTD10; BC040062; AK056912; BC051266; UBE3B</td><td>3.6 &#215; 10-3</td><td>1.1 &#215; 10-1</td><td>2.0 &#215; 10-4</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1995619_table_5",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    129.6,
+    693.1,
+    313.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1995619_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">SNP</td><td rowspan=\"2\">MAF</td><td rowspan=\"2\">CHR</td><td rowspan=\"2\">Physical Position (bp)*</td><td rowspan=\"2\">mean GEE P-value</td><td colspan=\"2\">Range of &#946; Coefficients&#8224; (min, max)</td><td rowspan=\"2\">Number of Phenotypes with GEE P-value &lt; 0.01</td><td rowspan=\"2\">Gene within 60 Kb</td><td colspan=\"3\">GEE P-value of individual phenotypes</td></tr><tr><td></td><td></td><td>Exam 5</td><td>Exam 6</td><td>Exam 7</td></tr><tr><td>rs4861952</td><td>0.11</td><td>4</td><td>182,696,179.00</td><td>4.9 &#215; 10-4</td><td>-0.28</td><td>-0.17</td><td>3</td><td></td><td>3.5 &#215; 10-5</td><td>9.2 &#215; 10-3</td><td>3.6 &#215; 10-4</td></tr><tr><td>rs1869733</td><td>0.15</td><td>8</td><td>63,970,954.00</td><td>5.5 &#215; 10-4</td><td>-0.23</td><td>-0.16</td><td>3</td><td>FLJ39630</td><td>6.7 &#215; 10-5</td><td>4.1 &#215; 10-3</td><td>6.1 &#215; 10-4</td></tr><tr><td>rs9317390</td><td>0.47</td><td>13</td><td>63,625,531.00</td><td>6.5 &#215; 10-4</td><td>0.13</td><td>0.17</td><td>3</td><td></td><td>3.8 &#215; 10-3</td><td>1.9 &#215; 10-4</td><td>3.8 &#215; 10-4</td></tr><tr><td>rs1561478</td><td>0.15</td><td>4</td><td>61,317,252.00</td><td>7.3 &#215; 10-4</td><td>0.15</td><td>0.22</td><td>3</td><td></td><td>3.0 &#215; 10-4</td><td>1.6 &#215; 10-4</td><td>8.6 &#215; 10-3</td></tr><tr><td>rs277330</td><td>0.16</td><td>5</td><td>53,489,351.00</td><td>1.1 &#215; 10-3</td><td>-0.22</td><td>-0.16</td><td>3</td><td>ARFRP2</td><td>1.5 &#215; 10-3</td><td>1.9 &#215; 10-4</td><td>4.1 &#215; 10-3</td></tr><tr><td>rs1649053</td><td>0.41</td><td>10</td><td>59,991,493.00</td><td>1.2 &#215; 10-3</td><td>0.13</td><td>0.18</td><td>3</td><td></td><td>2.8 &#215; 10-3</td><td>5.8 &#215; 10-3</td><td>1.0 &#215; 10-4</td></tr><tr><td>rs2175271</td><td>0.09</td><td>15</td><td>34,097,057.00</td><td>1.5 &#215; 10-3</td><td>-0.26</td><td>-0.20</td><td>3</td><td></td><td>6.5 &#215; 10-3</td><td>3.1 &#215; 10-4</td><td>1.8 &#215; 10-3</td></tr><tr><td>rs9323656</td><td>0.06</td><td>14</td><td>77,394,323.00</td><td>1.5 &#215; 10-3</td><td>-0.31</td><td>-0.27</td><td>3</td><td>ADCK1; AK096919</td><td>1.2 &#215; 10-3</td><td>2.5 &#215; 10-3</td><td>1.3 &#215; 10-3</td></tr><tr><td>rs1423741</td><td>0.42</td><td>16</td><td>59,874,592.00</td><td>1.8 &#215; 10-3</td><td>-0.17</td><td>-0.11</td><td>3</td><td></td><td>7.6 &#215; 10-4</td><td>9.4 &#215; 10-3</td><td>7.6 &#215; 10-4</td></tr><tr><td>rs10497881</td><td>0.32</td><td>2</td><td>205,818,470.00</td><td>2.2 &#215; 10-3</td><td>0.14</td><td>0.17</td><td>3</td><td>ALS2CR19</td><td>4.8 &#215; 10-4</td><td>5.0 &#215; 10-3</td><td>4.5 &#215; 10-3</td></tr></table>"
+  }
+ ]
+}

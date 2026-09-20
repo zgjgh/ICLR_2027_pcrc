@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_005",
+  "page": 5,
+  "page_size": [
+   749,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    70.7,
+    42.7,
+    677.6,
+    54.4
+   ],
+   "ocr": "Rabbi and Mazzuco Genus (2018) 74:18 Page 14 of 28"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    147.8,
+    108.3,
+    554.2,
+    135.1
+   ],
+   "ocr": "Table 5 Comparison of 40 years ahead life expectancy forecast for selected countries with high-mortality for the harmonized fitting period (1970–2010)"
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    147.7,
+    140.4,
+    600.9,
+    290.9
+   ],
+   "ocr": "Country e0 LC LCP LM BMS HU HUR HUW LL\nBelarus 76.49 – – – – – – 78.58 –\nBulgaria 77.25 79.92 80.09 79.95 80.09 – 79.17 77.43 77.55\nEstonia 80.55 84.73 84.66 84.82 88.23 – – 80.57 84.71\nHungary 78.34 82.30 82.42 82.78 84.79 85.71 86.42 86.44 82.60\nLatvia 77.39 80.28 79.60 79.70 79.75 78.62 - 79.83 80.10\nLithuania 78.73 80.96 79.76 80.52 79.66 79.41 78.96 81.45 81.63\nRussia 74.86 – – – – – – 74.89 –\nSlovakia 79.15 83.50 83.45 83.49 84.67 82.69 82.67 83.45 82.37\nUkraine 75.19 – – – – – – 78.90 –",
+   "table_id": "PMC6223892_table_4"
+  },
+  "p5_b3": {
+   "type": "caption",
+   "bbox": [
+    147.8,
+    296.8,
+    435.9,
+    328.9
+   ],
+   "ocr": "Results are shown for females only. e0 is life expectancy at birth of 2010 from the HMD. A blank place means 40-years-ahead forecasts of e0 was lower than the e0 of 2010."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    147.8,
+    360.0,
+    601.3,
+    928.6
+   ],
+   "ocr": "The performance of the coherent mortality forecast was greatly affected for three reasons: (i) combination of mortality rates of a population with large exposure to mor- tality rates of a population with comparatively smaller exposure size, (ii) high adult male mortality for several of these countries, and (iii) irregular trend of life expectancy of joint mortality data because of (i) and (ii). Although LL performed reasonably for most of these high-mortality countries, it failed to do so for Belarus, Russia, and Ukraine. During estimation of the common factor, countries with high mortality dom- inated the comparatively low-mortality countries. This might be due to mixing large exposure with smaller exposure or combining mortality rates of populations with differ- ent age- and cause-specific mortality patterns. Because country-level mortality has two parts—common factor from the reference population and country-specific estimate of bx,ikt,i—the country-specific forecast is affected because the common factor of the ref- erence population greatly affects completely different mortality patterns. This is another consequence of using coherent forecasting for population groups with increasing mor- tality differences over time (mortality divergence). LL adjusts the time component of the common factor according to the estimated life expectancy of combined mortal- ity data. The estimated life expectancy for our high mortality countries has irregular trend that is different than the country-specific individual trends of life expectancy in most of the cases. Characteristics of the combined mortality rates of these countries and the key outcomes of the fitted model using joint mortality rates are given in the Appendix. Our coherent forecasting results also indicates necessity of implying a rigid assumption for choosing a similar group of countries (Kjærgaard et al. 2016). The six countries for which the coherent mortality forecast of life expectancies is higher than the last observed life expectancies are all currently member states of the European Union. In the current methodology of coherent forecasting, the fitting period of combined mortality data might be shorter for individual countries with longer time series data; this may affect the forecast as well. We re-discovered the problem of a shorter fitting period for all LC and HU variants during our analysis of the forecast with a harmonized, shortened fitting period. In addi- tion to the coherent mortality forecasting, previous methods also suffered for shortened fitting periods. When using the harmonized fitting period for Bulgaria and Estonia, the"
+  }
+ }
+}

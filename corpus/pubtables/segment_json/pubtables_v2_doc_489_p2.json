@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_489",
+  "page": 2,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    479.8,
+    48.8,
+    727.4,
+    60.9
+   ],
+   "ocr": "Dispersal of Engineered Male Aedes aegypti Mosquitoes"
+  },
+  "p2_b1": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    95.5,
+    360.8,
+    107.4
+   ],
+   "ocr": "Table 2. Brazil model performance and kernel parameter estimates."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    116.1,
+    726.6,
+    212.2
+   ],
+   "ocr": "Distance transformation AIC Explained variance (%) Number of covariates Kernel parameter estimates\n(95% CI)\na b\nUntransformed 293.5 46.7 5 - -\nNegative exponential 286.5 48.6 6 97.8 (57.8,238.3) -\nExponential power 276.2 51.4 5 75.3 (66.1,85.0) 3.7 (2.0,7.3)",
+   "table_id": "PMC4640874_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    224.9,
+    727.2,
+    899.4
+   ],
+   "ocr": "The estimated model performance (minimum AIC indicated in bold) and kernel parameters for different transformations of the distance explanatory variable for the Brazil analysis. doi:10.1371/journal.pntd.0004156.t002 respectively). The MLE exponential power pdf estimates a MDT for the ‘genetically sterile’ release of 58.0m (95% CI: 51.1m, 71.0m), FR50 of 51.8m (95% CI: 47.9m, 58.7m) and FR90 of 105.7m (95% CI: 86.5m, 141.1m). The MLE kernel, log-likelihood surface and examples of ker- nels drawn from 95% CI parameter values are shown in Fig 5. The coefficient summaries from the negative binomial model using the exponential power transformed distance explanatory variable are shown in Table 5. This second analysis again indicates that distance is an important significant predictor of the expected count of recaptures. The number of days post release was also significantly associated with recapture number. Assuming no emigration, the estimated mortality rate of released insects of 0.46 (95% profile likelihood CI: 1.03, 0.13) would equate to a mean average lifespan of 0.46−1 = 2.17 days (95% CI: 0.97 days, 8.85 days). Unlike the analysis for Brazil there was evidence of an association between the distance and the number of days post release explanatory variables. For a direct comparison the distance pdf and density with respect to distance for the optimal kernels estimated from the Itaberaba and Malaysia MRR experiments have been overlaid (Fig 6). Discussion An in-depth analysis of the dispersal ability of released ‘genetically sterile’ male Ae. aegypti mosquitoes in the field has been conducted. The primary analysis, of MRR data from Brazil, indicates distance from the release point to be an important predictor of the expected number of recaptures. The relationship between the recapture number and the distance from the release point is highly non-linear. The regression model performed optimally when an exponential power dispersal kernel was used to transform distances. The analysis methodology was also used to re-analyse MRR from Malaysia, where again an exponential power kernel provided best model fit. The optimal Brazil GLM performed well, explaining around half of the variation observed in the data. Transformed distance and the number of days post release were the most influen- tial, highly significant predictors of recapture number. The decline in numbers temporally after release is considered to be predominantly due to the effect of mortality. The effect of emigra- tion from the study area can be important [28] and would further reduce numbers but was assumed to be small due to the size of the study area and low recaptures at the periphery. Distance was highly significantly correlated with recapture number in all models consid- ered. The exponential power dispersal kernel provided the optimum model fit. This kernel parametric form is slightly more flexible than the negative exponential. The kernel produced showed a high and consistent level of dispersal from 0-33m from the release site. After this point the density falls fairly steeply, reaching very low levels shortly after 100m (FR90 = 83.0m),"
+  },
+  "p2_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS Neglected Tropical Diseases | DOI:10.1371/journal.pntd.0004156 November 10, 2015 10 / 18"
+  }
+ }
+}

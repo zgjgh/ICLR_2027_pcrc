@@ -1,0 +1,198 @@
+{
+ "doc_id": "wild_doc_134",
+ "n_pages": 10,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 6,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 7,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 8,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 9,
+   "page_size": [
+    595,
+    842
+   ]
+  },
+  {
+   "page_num": 10,
+   "page_size": [
+    595,
+    842
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "img_148656_t0",
+   "page_num": 1,
+   "bbox": [
+    15.0,
+    235.0,
+    580.0,
+    442.0
+   ],
+   "table_png_relpath": "tables/page_1_timg_148656_t0.png",
+   "html": "<table><tr><td>CourseName</td><td>TotalEnrolled</td><td colspan=\"2\">CompletionRates</td><td colspan=\"2\">DropoutRates</td><td>AverageScore</td></tr><tr><td>DataScience</td><td>1500</td><td>85%</td><td>15%</td><td>78</td><td>BusinessManagement</td><td>2000</td></tr><tr><td>82%</td><td>18%</td><td>75</td><td>Cybersecurity</td><td>1200</td><td>90%</td><td>10%</td></tr><tr><td>80</td><td>DigitalMarketing</td><td>1800</td><td>88%</td><td>12%</td><td>82</td><td>AIFundamentals</td></tr><tr><td>1000</td><td>92%</td><td>8%</td><td>85</td><td>TotalCourses</td><td>7000</td><td>86%</td></tr><tr><td>14%</td><td>78</td><td>AverageEnrollment</td><td>1400</td><td>85%</td><td>15%</td><td>Overall</td></tr></table>"
+  },
+  {
+   "table_id": "img_148772_t0",
+   "page_num": 2,
+   "bbox": [
+    15.0,
+    197.0,
+    563.0,
+    484.0
+   ],
+   "table_png_relpath": "tables/page_2_timg_148772_t0.png",
+   "html": "<table><tr><td>ExplorationProjects</td><td colspan=\"3\">SuccessMetrics</td><td>TotalProjects</td><td>SuccessRate</td></tr><tr><td colspan=\"2\">Onshore</td><td colspan=\"2\">Offshore</td><td>TotalSuccess</td><td>AverageCost</td><td colspan=\"2\">InvestmentType</td><td>Notes</td></tr><tr><td>Region</td><td>Count</td><td>Count</td><td>Count</td><td>Percentage</td><td>Amount(CAD)</td><td>Percentage</td><td>Amount(CAD)</td><td>Comments</td></tr><tr><td>NorthAmerica</td><td>12</td><td>8</td><td>20</td><td>66.7%</td><td>$150M</td><td>50.0%</td><td>$75M</td><td>Successfuldrill</td></tr><tr><td>Canada</td><td>8</td><td>5</td><td>13</td><td>62.5%</td><td>$100M</td><td>38.5%</td><td>$45M</td><td>Goodyield</td></tr><tr><td>USA</td><td>4</td><td>3</td><td>7</td><td>75.0%</td><td>$50M</td><td>75.0%</td><td>$30M</td><td>Highpotential</td></tr></table>"
+  },
+  {
+   "table_id": "img_148819_t0",
+   "page_num": 3,
+   "bbox": [
+    15.0,
+    180.0,
+    580.0,
+    306.0
+   ],
+   "table_png_relpath": "tables/page_3_timg_148819_t0.png",
+   "html": "<table><tr><td>Revenue(GBP)</td><td>£150M</td></tr><tr><td>NetIncome(GBP)</td><td>£30M</td></tr><tr><td>CAPEX(GBP)</td><td colspan=\"2\">£50M</td></tr><tr><td>OccupancyRate</td><td>95%</td><td colspan=\"2\">NewProjects</td></tr><tr><td>TotalAssets(GBP)</td><td>£1.2B</td><td>Liabilities(GBP)</td><td>£700M</td></tr><tr><td>£10M</td><td>15%</td><td>£20M</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_148980_t0",
+   "page_num": 4,
+   "bbox": [
+    15.0,
+    437.0,
+    580.0,
+    564.0
+   ],
+   "table_png_relpath": "tables/page_4_timg_148980_t0.png",
+   "html": "<table><tr><td colspan=\"2\">SubscriberGrowthOverview</td><td>Jan-2024</td></tr><tr><td colspan=\"2\">SegmentBreakdown</td><td colspan=\"3\">GrowthPercentage</td></tr><tr><td>Residential</td><td>Business</td><td>Prepaid</td><td>Postpaid</td><td>TotalSubscribers</td></tr><tr><td>50,000</td><td>15,000</td><td>5,000</td><td>30,000</td><td>100,000</td></tr><tr><td>10%</td><td>5%</td><td>3%</td><td>12%</td><td>8%</td></tr><tr><td>GrowthRate</td><td>PreviousMonth</td><td>YearOverYear</td><td>MarketShare</td><td>OverallGrowth</td></tr></table>"
+  },
+  {
+   "table_id": "img_149029_t0",
+   "page_num": 5,
+   "bbox": [
+    15.0,
+    410.0,
+    580.0,
+    550.0
+   ],
+   "table_png_relpath": "tables/page_5_timg_149029_t0.png",
+   "html": "<table><tr><td>FinancialMetrics</td><td colspan=\"2\">QuarterlyOverview</td></tr><tr><td colspan=\"2\">Metric</td><td>Value</td><td colspan=\"2\">Year-over-YearChange</td></tr><tr><td>P/ERatio</td><td>CurrentRatio</td><td>Debt/Equity</td><td>GrossMargin</td><td>OperatingMargin</td></tr><tr><td>18.5</td><td>1.75</td><td>0.45</td><td>32%</td><td>15%</td></tr><tr><td>19.2</td><td>1.80</td><td>0.47</td><td>33%</td><td>16%</td></tr><tr><td>Q12023</td><td>Q12024</td><td>Change</td><td>Percentage</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_149031_t0",
+   "page_num": 6,
+   "bbox": [
+    14.0,
+    250.0,
+    547.0,
+    538.0
+   ],
+   "table_png_relpath": "tables/page_6_timg_149031_t0.png",
+   "html": "<table><tr><td colspan=\"5\">ContractMarginAnalysis</td><td colspan=\"2\">MarketOverview</td><td>Amount(¥M)</td><td>YoYChange(%)</td><td colspan=\"2\">ProjectCategories</td><td colspan=\"2\">GeographicRegions</td><td>MarketShare(%)</td><td>GrossProfit(¥M)</td><td>NetMargin(%)</td></tr><tr><td>ResidentialProjects</td><td>CommercialProjects</td><td>InfrastructureProjects</td><td>TotalRevenue</td><td>OperatingExpenses</td><td>CostofGoodsSold</td><td>GrossMargin</td><td>ProjectA</td><td>ProjectB</td><td>ProjectC</td><td>TotalProjects</td><td>Japan</td><td>China</td><td>Australia</td><td>SouthKorea</td><td>TotalAsia-Pacific</td></tr><tr><td>¥5000</td><td>5.0</td><td>¥3000</td><td>3.5</td><td>¥2000</td><td>4.0</td><td>¥10000</td><td>4.5</td><td>¥6000</td><td>6.0</td><td>¥4000</td><td>7.0</td><td>¥12000</td><td>5.5</td><td>¥15000</td><td>5.8</td></tr><tr><td>¥750</td><td>3.0</td><td>¥600</td><td>2.5</td><td>¥850</td><td>4.0</td><td>¥2500</td><td>5.0</td><td>¥3000</td><td>6.0</td><td>¥1800</td><td>4.2</td><td>¥6000</td><td>7.0</td><td>¥900</td><td>3.5</td></tr><tr><td>¥400</td><td>1.5</td><td>¥300</td><td>2.0</td><td>¥200</td><td>1.0</td><td>¥500</td><td>2.5</td><td>¥700</td><td>3.5</td><td>¥850</td><td>4.2</td><td>¥9000</td><td>5.0</td><td>¥2000</td><td>6.5</td></tr><tr><td>¥3000</td><td>5.8</td><td>¥5000</td><td>4.5</td><td>¥7000</td><td>6.0</td><td>¥1000</td><td>3.0</td><td>¥15000</td><td>5.5</td><td>¥1200</td><td>2.5</td><td>¥1900</td><td>4.8</td><td>¥4500</td><td>Total</td></tr></table>"
+  },
+  {
+   "table_id": "img_149164_t0",
+   "page_num": 7,
+   "bbox": [
+    12.0,
+    134.0,
+    449.0,
+    627.0
+   ],
+   "table_png_relpath": "tables/page_7_timg_149164_t0.png",
+   "html": "<table><tr><td colspan=\"2\">Smelting&amp;RefiningMetrics</td><td>P/ERatio</td><td>CurrentRatio</td><td colspan=\"3\">Margins&amp;Returns</td></tr><tr><td>Metric</td><td colspan=\"2\">Q2FY2025</td><td colspan=\"2\">Q1FY2025</td><td colspan=\"2\">Q2FY2024</td><td colspan=\"3\">YearlyChange</td></tr><tr><td>NetProfitMargin</td><td>12.5%</td><td>11.8%</td><td>13.0%</td><td>0.7%</td><td>GrossMargin</td><td>30.2%</td><td>28.9%</td><td>29.5%</td><td>1.3%</td></tr><tr><td>OperatingMargin</td><td>18.7%</td><td>17.5%</td><td>19.2%</td><td>1.5%</td><td>ReturnonAssets</td><td>8.4%</td><td>7.9%</td><td>8.1%</td><td>0.3%</td></tr><tr><td>ReturnonEquity</td><td>15.9%</td><td>14.8%</td><td>16.3%</td><td>1.1%</td><td>DebttoEquity</td><td>0.45</td><td>0.50</td><td>0.48</td><td>-0.03</td></tr><tr><td>CurrentRatio</td><td>1.8</td><td>1.7</td><td>1.6</td><td>0.1</td><td>QuickRatio</td><td>1.3</td><td>1.2</td><td>1.1</td><td>0.1</td></tr><tr><td>InventoryTurnover</td><td>5.4</td><td>5.1</td><td>5.0</td><td>0.3</td><td>CashConversionCycle</td><td>45days</td><td>48days</td><td>50days</td><td>-3days</td></tr><tr><td>EarningsBeforeInterest&amp;Taxes</td><td>JPY5B</td><td>JPY4.8B</td><td>JPY5.2B</td><td>JPY0.2B</td><td>NetIncome</td><td>JPY2.5B</td><td>JPY2.3B</td><td>JPY2.6B</td><td>JPY0.2B</td></tr></table>"
+  },
+  {
+   "table_id": "img_149191_t0",
+   "page_num": 8,
+   "bbox": [
+    14.0,
+    277.0,
+    543.0,
+    626.0
+   ],
+   "table_png_relpath": "tables/page_8_timg_149191_t0.png",
+   "html": "<table><tr><td>Category</td><td>Amount(CAD)</td><td>Status</td><td colspan=\"4\">InfrastructureProjects</td><td>Rating</td><td colspan=\"3\">FundingType</td><td>CompletionDate</td></tr><tr><td>RoadConstruction</td><td>$150M</td><td>Ongoing</td><td>Federal</td><td>High</td><td>2024</td><td>PublicTransit</td><td>$80M</td><td>Planned</td><td>Provincial</td><td>Medium</td><td>2025</td></tr><tr><td>BridgesUpgrade</td><td>$120M</td><td>Completed</td><td>Federal</td><td>High</td><td>2023</td><td>WaterInfrastructure</td><td>$60M</td><td>Ongoing</td><td>Municipal</td><td>Medium</td><td>2024</td></tr><tr><td>HighwayExpansion</td><td>$200M</td><td>Planned</td><td>Federal</td><td>High</td><td>2025</td><td>ResidentialDevelopment</td><td>$90M</td><td>Ongoing</td><td>Private</td><td>Medium</td><td>2024</td></tr><tr><td>AirportRenovation</td><td>$250M</td><td>Planned</td><td>Federal</td><td>High</td><td>2026</td><td>SeaportExpansion</td><td>$180M</td><td>Ongoing</td><td>Provincial</td><td>High</td><td>2025</td></tr><tr><td>RailwayUpgrade</td><td>$75M</td><td>Completed</td><td>Federal</td><td>Medium</td><td>2023</td><td>UtilityInfrastructure</td><td>$100M</td><td>Ongoing</td><td>Municipal</td><td>Medium</td><td>2024</td></tr></table>"
+  },
+  {
+   "table_id": "img_149305_t0",
+   "page_num": 9,
+   "bbox": [
+    15.0,
+    368.0,
+    580.0,
+    589.0
+   ],
+   "table_png_relpath": "tables/page_9_timg_149305_t0.png",
+   "html": "<table><tr><td colspan=\"2\">FinancialOverview</td><td colspan=\"2\">PerformanceMetrics</td></tr><tr><td>Indicator</td><td colspan=\"2\">Q12023</td><td>Q22023</td><td colspan=\"2\">Q32023</td></tr><tr><td colspan=\"2\">Revenue</td><td>¥15B</td><td>¥18B</td><td colspan=\"5\">TotalRevenue</td><td colspan=\"4\">MerchantFees</td><td colspan=\"2\">NetProfit</td></tr><tr><td>TakeRate</td><td>Status</td><td>GrowthRate</td><td>OperatingMargin</td><td>Q42023</td><td>¥22B</td><td>¥75B</td><td>20%</td><td>Positive</td><td>15%</td><td>25%</td><td>15%</td><td>¥9B</td><td>¥3B</td><td>¥6B</td></tr><tr><td>¥20B</td><td>¥23B</td><td>¥25B</td><td>¥70B</td><td>¥5B</td><td>¥10B</td><td>¥4B</td><td>¥3B</td><td>¥2B</td><td>¥1B</td><td>¥500M</td><td>¥300M</td><td>¥700M</td><td>¥1.5B</td><td>¥2B</td></tr><tr><td>TransactionVolume</td><td>¥150B</td><td>¥180B</td><td>¥200B</td><td>¥250B</td><td>¥300B</td><td>¥350B</td><td>¥400B</td><td>¥450B</td><td>¥500B</td><td>¥550B</td><td>¥600B</td><td>¥650B</td><td>¥700B</td><td>TotalFees</td></tr></table>"
+  },
+  {
+   "table_id": "img_149573_t0",
+   "page_num": 10,
+   "bbox": [
+    15.0,
+    386.0,
+    580.0,
+    565.0
+   ],
+   "table_png_relpath": "tables/page_10_timg_149573_t0.png",
+   "html": "<table><tr><td>PropertyType</td><td>TotalArea(sqft)</td><td colspan=\"2\">OccupancyRates</td><td colspan=\"3\">FinancialMetrics</td><td>AverageRent($/sqft)</td><td>YoYChange(%)</td></tr><tr><td>Residential</td><td>1,500,000</td><td>95.2%</td><td>$30.0M</td><td>3.5%</td><td>Retail</td><td>800,000</td><td>89.1%</td><td>$15.0M</td></tr><tr><td>Office</td><td>1,200,000</td><td>92.4%</td><td>$25.0M</td><td>4.1%</td><td>Industrial</td><td>600,000</td><td>97.5%</td><td>$12.0M</td></tr><tr><td>2.0%</td><td>Mixed-Use</td><td>400,000</td><td>91.3%</td><td>$10.0M</td><td>3.0%</td><td>StudentHousing</td><td>200,000</td><td>94.8%</td></tr><tr><td>$8.0M</td><td>1.5%</td><td>Healthcare</td><td>300,000</td><td>90.5%</td><td>$7.5M</td><td>3.8%</td><td>Total</td><td>5,100,000</td></tr><tr><td>AverageOccupancy</td><td>93.0%</td><td>TotalRevenue</td><td>$105.5M</td><td>OverallYoYChange</td><td>3.0%</td><td>MarketShare</td><td>26.5%</td><td>SectorAnalysis</td></tr></table>"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_120",
+  "page": 3,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    111,
+    580,
+    215
+   ],
+   "ocr": "In the rapidly evolving landscape of data center operations, the focus on capacity utilization metrics has become increasingly vital for optimizing performance and ensuring operational efficiency. The analysis presented herein provides a comprehensive overview of Tencent Holdings’ data center capacity utilization, underscoring key performance indicators that are critical for industry stakeholders. Among these metrics are the TotalPower(MW) and UsedPower(MW), which play a crucial role in understanding the operational capacity of our facilities. For instance, the facility with a TotalPower(MW) of 2000MW demonstrates the importance of tracking the PowerUtilizationRatio, which is notably at 0 for this specific data point, indicating that the data center is not currently utilizing any of its available power capacity."
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    203,
+    580,
+    308
+   ],
+   "ocr": "This scenario prompts an evaluation of the underlying factors contributing to such low utilization rates, particularly in light of the competitive pressures facing the technology and software sectors in Europe. Moreover, the Performance Efficiency Ratio (PUE) is another critical metric included in our analysis. For the aforementioned 2000MW facility, the PUE stands at an impressive 70.0%, indicating that the data center operates with remarkable efficiency relative to its energy consumption and cooling requirements. This is particularly noteworthy in an era where energy efficiency is paramount, as organizations are increasingly held accountable for their environmental impact."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    352.0,
+    580.0,
+    521.0
+   ],
+   "ocr": "Metrics CapacityUtilizationMetrics\nTotalCapacity UsedCapacity UtilizationRatio AverageUtilization PeakUtilization\nDataCenterCount NewCenters RetiredCenters TotalArea(sqm) UtilizationIndex PowerEfficiencyMetrics\nTotalPower(MW) UsedPower(MW) PowerUtilizationRatio PUE AveragePUE PeakPUE CoolingEfficiency TotalRevenue\n2000MW 1500MW 75.0% 70.0% 85.0% 10 2 1\n50000 0 0 1.5 1.6 1.4 1.8 100MEUR",
+   "table_id": "img_132372_t0"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    566,
+    580,
+    670
+   ],
+   "ocr": "The CoolingEfficiency metric highlights that this specific center maintains a cooling efficiency rating of 2, further emphasizing the commitment to sustainable practices within the industry. From a financial perspective, understanding the relationship between capacity utilization and revenue generation is essential. In this report, we detail the TotalRevenue, which has reached an impressive figure of 100MEUR, reflecting the economic viability of our operations despite the currently unused power capacity. This juxtaposition of high revenue against a backdrop of low UsedPower(MW) illustrates the potential for revenue optimization through enhanced utilization strategies. It is evident that maximizing UsedPower(MW) while maintaining efficiency will be crucial for future growth and competitiveness."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    658,
+    580,
+    763
+   ],
+   "ocr": "In summary, the data center capacity utilization metrics provide a multifaceted view of operational effectiveness and financial performance. The combination of TotalPower(MW), UsedPower(MW), PowerUtilizationRatio, PUE, and CoolingEfficiency not only serves to benchmark current performance but also guides strategic decisions moving forward. These insights are instrumental in shaping our approach to capacity management and operational efficiency, ensuring that Tencent Holdings remains at the forefront of the technology and software industry in Europe. The findings presented in this report will inform stakeholders of the current status while highlighting areas for improvement, ultimately aiming to enhance the overall performance of our data centers."
+  }
+ }
+}

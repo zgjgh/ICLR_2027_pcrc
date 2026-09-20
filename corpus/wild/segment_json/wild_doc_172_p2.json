@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_172",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    8,
+    26,
+    293,
+    71
+   ],
+   "ocr": "The Equipment maintenance costs and Surgical procedure mix table provides comprehensive insights into Fresenius SE's operational metrics for January 2024. The EquipmentType includes SurgicalEquipment with UnitsSold at 1,200, TotalCost of $15M, AverageCost of $12,500, MaintenanceFrequency as Monthly, and MaintenanceCosts labeled as MonthlyCosts; DiagnosticMachines show UnitsSold at 800, TotalCost of $10M, AverageCost of $12,500, MaintenanceFrequency as Quarterly, and MaintenanceCosts as QuarterlyCosts; IVPumps total 500 UnitsSold, with a TotalCost of $5M, AverageCost of $10,000, MaintenanceFrequency marked Biannually, and MaintenanceCosts identified as BiannualCosts."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    8,
+    65,
+    293,
+    86
+   ],
+   "ocr": "PatientMonitors have 1,000 UnitsSold, with a TotalCost of $7M, AverageCost of $7,000, MaintenanceFrequency as Monthly, and MaintenanceCosts named MonthlyCosts."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    8.0,
+    95.0,
+    293.0,
+    608.0
+   ],
+   "ocr": "EquipmentType UnitsSold TotalCost AverageCost MaintenanceFrequency MaintenanceCosts\nSurgicalEquipment 1,200 $15M $12,500 Monthly MonthlyCosts\nDiagnosticMachines 800 $10M $12,500 Quarterly QuarterlyCosts IVPumps 500 $5M $10,000\nBiannually BiannualCosts PatientMonitors 1,000 $7M $7,000 Monthly MonthlyCosts TotalEquipment 3,500\n$37M $10,571 N/A N/A TotalMaintenance $25M N/A N/A AverageMaintenanceCost $10,000\nAnnualCost $300M N/A N/A TotalBranches 150 N/A N/A Headcount 5,000\nN/A N/A TotalStaff 5,000 N/A N/A Region NorthAmerica N/A N/A\nAverageStaffCost $60,000 N/A N/A PatientVolume 100,000 N/A N/A ServiceHours 2,000,000\nN/A N/A TotalRevenue $500M N/A N/A OperatingExpenses $200M N/A N/A",
+   "table_id": "img_196112_t0"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    8,
+    616,
+    293,
+    630
+   ],
+   "ocr": "The TotalEquipment counts 3,500 with a TotalCost of $37M, AverageCost of $10,571, and TotalMaintenance of $25M, while the AverageMaintenanceCost stands at $10,000."
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    8,
+    624,
+    293,
+    646
+   ],
+   "ocr": "The AnnualCost is $300M, with TotalBranches at 150 and Headcount at 5,000 in North America, where the AverageStaffCost is $60,000, PatientVolume is 100,000, and ServiceHours total 2,000,000, leading to TotalRevenue of $500M and OperatingExpenses of $200M."
+  },
+  "p2_b5": {
+   "type": "table",
+   "bbox": [
+    8.0,
+    654.0,
+    293.0,
+    741.0
+   ],
+   "ocr": "ProcedureType Volume GrowthRate Revenue Cost Status\nSurgery 2024Forecast 2023Actual Change(%) NetProfit RiskLevel Category\nCardiacSurgery 1500 12% $30M $10M Positive High\nOrthopedicSurgery 2000 8% $25M $8M Stable Medium\nNeurosurgery 800 15% $20M $5M Positive High\nGastrointestinal 1200 10% $18M $6M Positive Medium\nGeneralSurgery 2500 5% $22M $7M Stable Low",
+   "table_id": "img_196112_t1"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    8,
+    749,
+    293,
+    778
+   ],
+   "ocr": "In the Surgical procedure mix, CardiacSurgery projects a 2024Forecast of 1,500, 2023Actual of 1,500, Change(%) of 12%, generating Revenue of $30M, Cost of $10M, with a Positive status, classified as High risk in the Category. OrthopedicSurgery forecasts a Volume of 2,000, with 2023Actual at 2,000, Change(%) of 8%, Revenue of $25M, Cost of $8M, maintaining a Stable status categorized as Medium risk."
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    8,
+    772,
+    293,
+    809
+   ],
+   "ocr": "Neurosurgery anticipates 800 in Volume, with 2023Actual at 800, Change(%) of 15%, producing Revenue of $20M, Cost of $5M, status Positive, considered High risk in the Category. Gastrointestinal procedures forecast 1,200 in Volume, with 2023Actual at 1,200, Change(%) of 10%, bringing in Revenue of $18M, with a Cost of $6M, status Positive, categorized as Medium risk. GeneralSurgery expects a Volume of 2,500, with 2023Actual at 2,500, a Change(%) of 5%, Revenue of $22M, Cost of $7M, holding a Stable status classified as Low risk."
+  }
+ }
+}

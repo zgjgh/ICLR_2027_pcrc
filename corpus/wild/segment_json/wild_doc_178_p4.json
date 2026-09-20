@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_178",
+  "page": 4,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    95.0,
+    580.0,
+    187.0
+   ],
+   "ocr": "In the Mizuho Financial report for Fiscal Year 2024, the Digital Banking Metrics for Q1 2024 reveal an active user count of 1.2M with 250K new accounts, totaling 5.4M transactions at an average transaction value of $75; the figures increase to 1.5M active users, 300K new accounts, 6.0M transactions at $80 average value, followed by 1.8M active users, 350K new accounts, 7.5M transactions at $85 average value, and peak at 2.0M active users, 400K new accounts, 8.2M transactions at $90 average value; overall, total users reached 4.5M with a growth rate of 15%, generating $200M in revenue and a projected growth of $150M."
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    228.0,
+    580.0,
+    425.0
+   ],
+   "ocr": "DigitalBankingMetrics Q12024\nUserEngagement TransactionVolume\nActiveUsers NewAccounts TotalTransactions AvgTransactionValue\n1.2M 250K 5.4M $75\n1.5M 300K 6.0M $80\n1.8M 350K 7.5M $85\n2.0M 400K 8.2M $90\nTotalUsers GrowthRate Revenue $150M\n4.5M 15% $200M ProjectedGrowth",
+   "table_id": "img_202306_t0"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    451.0,
+    580.0,
+    559.0
+   ],
+   "ocr": "The Treasury Operations Summary for Q1 performance indicates units processed of 1500 with a transaction volume of $50M and an average value of $33.33K, collecting fees of $2M and managing total assets of $1.5B; this is followed by 2000 units processed, $75M in transaction volume, $37.50K average value, $2.5M in fees collected, and total assets of $1.8B; next, 1800 units processed yield $60M in transaction volume, $33.33K average value, $2.2M in fees, and total assets of $1.6B; further, 2500 units processed equate to $90M in transaction volume, $36.00K average value, $3M in fees, and total assets of $2B; finally, 1200 units processed result in $40M transaction volume, $33.33K average value, $1.8M in fees collected, and total assets of $1.4B."
+  },
+  "p4_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    600.0,
+    580.0,
+    762.0
+   ],
+   "ocr": "TreasuryOperationsSummary Q1Performance InterbankTransactions\nUnitsProcessed TransactionVolume AverageValue FeesCollected TotalAssets\n1500 $50M $33.33K $2M $1.5B\n2000 $75M $37.50K $2.5M $1.8B\n1800 $60M $33.33K $2.2M $1.6B\n2500 $90M $36.00K $3M $2B\n1200 $40M $33.33K $1.8M $1.4B",
+   "table_id": "img_202306_t1"
+  }
+ }
+}

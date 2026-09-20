@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_390",
+  "page": 3,
+  "page_size": [
+   707,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    54.8,
+    648.4,
+    280.8
+   ],
+   "ocr": "Sensors 2012, 12 9856 3.3. Comparison of the Three Feature Extraction Algorithms To evaluate the performances of WT, PCA and KPCA, three regression models (Models 1, 2 and 3) were respectively developed with the three sets of newly synthesized variables as predictors. Moreover, the original 651-dimensional spectra were also taken as predictor to develop regression model (Model 4). PLSR was adopted to establish regression models based on the full cross-validation method. The results of the above four models are shown in Table 6. Table 6. Results of four PLS models corresponding to PCA, KPCA, WT and original spectral data."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    71.9,
+    290.1,
+    629.8,
+    520.7
+   ],
+   "ocr": "a b c d e f\nSN FEA IV LV Stages Elements Cor. RMSE Bias\nModel 1 PCA 89 10 Calibration 492 0.972 0.060 −1.802e−09\nValidation 492 0.969 0.063 −8.050e−05\nPrediction 246 0.961 0.072 −1.14e−02\nModel 2 KPCA 89 11 Calibration 492 0.979 0.051 −4.649e−09\nValidation 492 0.976 0.046 −9.659e−05\nPrediction 246 0.966 0.060 −1.200e−02\nModel 3 WT 89 13 Calibration 492 0.988 0.040 −2.770e−07\nValidation 492 0.985 0.044 1.634e−05\nPrediction 246 0.986 0.044 −4.800e−03\nModel 4 non 651 13 Calibration 492 0.987 0.041 −1.637e−08\nValidation 492 0.985 0.044 −2.030e−07\nPrediction 246 0.980 0.052 −8.600e−03",
+   "table_id": "PMC3444132_table_5"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    92.4,
+    524.7,
+    550.6,
+    533.2
+   ],
+   "ocr": "a b c d"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    99.0,
+    526.3,
+    614.9,
+    551.0
+   ],
+   "ocr": "SN: Sequence number. FEA: Feature extraction algorithm. IV: Number of input variables. LV: Number e f"
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    59.0,
+    544.1,
+    648.5,
+    923.9
+   ],
+   "ocr": "of latent variables. Cor.: Correlation. RMSE: Root mean squared error. In Table 6, all four models afford excellent results. In detail, Model 4 outperforms Model 1 and Model 2 with much higher accuracy and smaller error. It can be concluded that there is much more useful information in the original spectral data than those in PCs and KPCs. In other words, PCA and KPCA result in loss of useful information through compressing the 651-dimensional spectral data into the 89-dimensional PCs and KPCs. Moreover, Model 2 is slightly better than model 1, which indicates that the nonlinear algorithm of KPCA catches more useful information than the linear algorithm of PCA. Model 3 based on the 89-dimensional cA3 obtains the optimal result in the four models, which suggests that WT algorithm is more superior than KPCA and PCA algorithms for extraction of useful information. Especially, Model 3 is much better than Model 4, which indicates that the approximate coefficients of cA3 not only cover the characteristic information of spectra, but also avoid the interference of noise in the spectra, and WT is a powerful tool for extraction of characteristic information from spectral data. 3.4. Obtaining the Optimal Regression Model As shown above, the 89-dimensional coefficients cA3 were proved to be the optimal characteristics of spectroscopy, thus these coefficients were set as independent variables for further analysis. To obtain the optimal measurement, three regression algorithms including PLSR, MLR and LSSVM were"
+  }
+ }
+}

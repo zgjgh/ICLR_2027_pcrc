@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_274",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    770,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    770,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC1557504_table_0",
+   "page_num": 1,
+   "bbox": [
+    73.3,
+    791.3,
+    636.4,
+    911.3
+   ],
+   "table_png_relpath": "tables/page_1_tPMC1557504_table_0.png",
+   "html": "<table><tr><td rowspan=\"2\">Quintile Poor</td><td colspan=\"2\">Smoking prevalence (any tobacco use)</td><td colspan=\"2\">Cigarette-only smoking prevalence</td><td colspan=\"2\">Cigarettes/day</td></tr><tr><td>58.46</td><td>56.32</td><td>30.02</td><td>31.10</td><td>12.36</td><td>11.90</td></tr><tr><td>Near poor</td><td>54.19</td><td></td><td>32.12</td><td></td><td>11.49</td><td></td></tr><tr><td>Middle</td><td>52.60</td><td></td><td>34.94</td><td></td><td>11.44</td><td></td></tr><tr><td>Upper middle</td><td>47.70</td><td>45.36</td><td>36.34</td><td>37.20</td><td>10.62</td><td>10.40</td></tr><tr><td>High income</td><td>43.02</td><td></td><td>38.06</td><td></td><td>10.25</td><td></td></tr><tr><td>Whole sample</td><td colspan=\"2\">50.76</td><td colspan=\"2\">34.60</td><td colspan=\"2\">11.11</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1557504_table_1",
+   "page_num": 2,
+   "bbox": [
+    73.3,
+    142.1,
+    675.6,
+    464.2
+   ],
+   "table_png_relpath": "tables/page_2_tPMC1557504_table_1.png",
+   "html": "<table><tr><td></td><td>Tobacco spending/ education spending</td><td>Tobacco spending/ healthcare spending</td><td>Tobacco spending/food spending</td><td>Tobacco spending/total expenditure</td></tr><tr><td>Total</td><td>62.47</td><td>56.23</td><td>6.36</td><td>3.48</td></tr><tr><td colspan=\"5\">Urban-rural</td></tr><tr><td>Rural</td><td>71.36</td><td>56.91</td><td>6.43</td><td>3.67</td></tr><tr><td>Urban</td><td>42.31</td><td>53.79</td><td>6.11</td><td>2.92</td></tr><tr><td>Large city</td><td>29.70</td><td>31.77</td><td>4.95</td><td>2.15</td></tr><tr><td>Small city and town</td><td>41.38</td><td>54.25</td><td>5.93</td><td>2.79</td></tr><tr><td>Small town</td><td>51.01</td><td>72.09</td><td>6.83</td><td>3.46</td></tr><tr><td colspan=\"5\">Region</td></tr><tr><td>North Mountain and Midland</td><td>63.44</td><td>63.52</td><td>4.18</td><td>2.60</td></tr><tr><td>Red River Delta</td><td>59.98</td><td>57.76</td><td>5.04</td><td>2.87</td></tr><tr><td>North Central Coast</td><td>67.87</td><td>62.19</td><td>6.40</td><td>3.69</td></tr><tr><td>South Central Coast</td><td>83.96</td><td>67.19</td><td>6.98</td><td>4.06</td></tr><tr><td>Central Highlands</td><td>81.70</td><td>75.65</td><td>6.22</td><td>3.75</td></tr><tr><td>Southeast</td><td>53.70</td><td>47.60</td><td>6.82</td><td>3.61</td></tr><tr><td>Mekong Delta</td><td>83.77</td><td>52.47</td><td>7.48</td><td>4.19</td></tr><tr><td colspan=\"5\">Income</td></tr><tr><td>Very low Income</td><td>150.69</td><td>97.11</td><td>7.83</td><td>5.29</td></tr><tr><td>Low</td><td>108.17</td><td>86.99</td><td>7.31</td><td>4.58</td></tr><tr><td>Middle</td><td>94.21</td><td>67.00</td><td>7.40</td><td>4.30</td></tr><tr><td>Mid-High</td><td>68.10</td><td>72.69</td><td>7.71</td><td>4.06</td></tr><tr><td>High</td><td>46.35</td><td>68.92</td><td>8.83</td><td>3.60</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1557504_table_2",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    142.1,
+    671.2,
+    443.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1557504_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Independent variables</td><td colspan=\"2\">Overall</td><td colspan=\"2\">Two low quintiles</td><td colspan=\"2\">Two high quintiles</td></tr><tr><td>Coef.</td><td>P &gt; | t</td><td>Coef.</td><td>P &gt; | t</td><td>Coef.</td><td>P &gt; | t</td></tr><tr><td>Logarithm of VINATABA price</td><td>-0.529</td><td>0.048</td><td>-0.648</td><td>0.086</td><td>-0.420</td><td>0.094</td></tr><tr><td>Expenditures on pipe</td><td>-0.011</td><td>0.015</td><td>-0.011</td><td>0.016</td><td>-0.010</td><td>0.023</td></tr><tr><td>Year of education</td><td>-0.176</td><td>0.231</td><td>-0.167</td><td>0.255</td><td>-0.163</td><td>0.264</td></tr><tr><td>Age</td><td>0.500</td><td>0.070</td><td>0.442</td><td>0.109</td><td>0.429</td><td>0.119</td></tr><tr><td>Year of experience</td><td>-0.495</td><td>0.080</td><td>-0.435</td><td>0.123</td><td>-0.424</td><td>0.132</td></tr><tr><td>Household size</td><td>0.961</td><td>0.000</td><td>0.965</td><td>0.000</td><td>0.950</td><td>0.000</td></tr><tr><td>Logarithm of per capita income</td><td>2.415</td><td>0.003</td><td>2.380</td><td>0.003</td><td>2.421</td><td>0.003</td></tr><tr><td>Red river delta (yes = 1)</td><td>4.178</td><td>0.000</td><td>4.117</td><td>0.000</td><td>4.088</td><td>0.000</td></tr><tr><td>North central coastal (yes = 1)</td><td>1.588</td><td>0.580</td><td>1.634</td><td>0.568</td><td>1.689</td><td>0.554</td></tr><tr><td>South central coastal (yes = 1)</td><td>6.972</td><td>0.001</td><td>6.076</td><td>0.004</td><td>6.165</td><td>0.003</td></tr><tr><td>South-east region (yes = 1)</td><td>9.618</td><td>0.000</td><td>9.615</td><td>0.000</td><td>9.662</td><td>0.000</td></tr><tr><td>Mekong delta (yes = 1)</td><td>11.051</td><td>0.000</td><td>11.019</td><td>0.000</td><td>10.137</td><td>0.000</td></tr><tr><td>Urban (yes = 1)</td><td>9.104</td><td>0.000</td><td>9.124</td><td>0.000</td><td>9.076</td><td>0.000</td></tr><tr><td>Existence of regular market (yes = 1)</td><td>0.290</td><td>0.798</td><td>0.279</td><td>0.805</td><td>0.284</td><td>0.801</td></tr><tr><td>Opportunity to find job (yes = 1)</td><td>-1.081</td><td>0.341</td><td>-0.994</td><td>0.380</td><td>-0.988</td><td>0.381</td></tr><tr><td>Accessibility of car to commune (yes = 1)</td><td>-0.929</td><td>0.720</td><td>-0.849</td><td>0.742</td><td>-0.864</td><td>0.737</td></tr><tr><td>_constant</td><td>-39.358</td><td>0.000</td><td>-38.235</td><td>0.000</td><td>-38.182</td><td>0.000</td></tr><tr><td>Number of observation</td><td>5202</td><td></td><td>2412</td><td></td><td>2023</td><td></td></tr><tr><td>R-squared</td><td>0.239</td><td></td><td>0.198</td><td></td><td>0.197</td><td></td></tr></table>"
+  },
+  {
+   "table_id": "PMC1557504_table_3",
+   "page_num": 3,
+   "bbox": [
+    73.3,
+    749.2,
+    693.8,
+    854.7
+   ],
+   "table_png_relpath": "tables/page_3_tPMC1557504_table_3.png",
+   "html": "<table><tr><td></td><td>Overall</td><td>Two low quintiles</td><td>Two high quintiles</td></tr><tr><td>Communal VINATABA price</td><td>-0.469*</td><td>-0.613*</td><td>-0.422*</td></tr><tr><td>Communal 555 price</td><td>-0.538**</td><td>-0.574*</td><td>-0.372**</td></tr><tr><td>Communal average prices</td><td>-0.497</td><td>-0.845</td><td>-0.348</td></tr><tr><td>Average price elasticity of conditional demand using estimates for 555 and VINATABA (the significant estimtes)</td><td>-0.504*</td><td>-0.594*</td><td>-0.397*</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1557504_table_4",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    130.1,
+    690.8,
+    246.1
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1557504_table_4.png",
+   "html": "<table><tr><td></td><td>Quantity consumed (Million packs)</td><td>Retail price (1000 VND)</td><td>Tax rate based on whole sale price</td><td>Tobacco tax revenue (Billion VND)</td></tr><tr><td>Non-filtered cigarettes</td><td>175.4</td><td>1.00</td><td>0.25</td><td>35.1</td></tr><tr><td>Filtered cigarettes produced using domestic materials</td><td>1578.2</td><td>2.20</td><td>0.45</td><td>1077.5</td></tr><tr><td>Total</td><td>1753.5</td><td></td><td></td><td>1112.6</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1557504_table_5",
+   "page_num": 4,
+   "bbox": [
+    73.3,
+    782.3,
+    693.3,
+    886.6
+   ],
+   "table_png_relpath": "tables/page_4_tPMC1557504_table_5.png",
+   "html": "<table><tr><td></td><td>Quantity to consume (Million packs)</td><td>Price after tax (1000 VND)</td><td>Tax rate</td><td>Tobacco tax revenue (Billion VND)</td></tr><tr><td>Non-filtered cigarettes</td><td>94.51</td><td>1.32</td><td>0.65</td><td>49.2</td></tr><tr><td>Filtered cigarettes produced using domestic materials</td><td>1215.2</td><td>2.55</td><td>0.65</td><td>1190.9</td></tr><tr><td>Total</td><td>1309.7</td><td></td><td></td><td>1240.0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC1557504_table_6",
+   "page_num": 5,
+   "bbox": [
+    73.3,
+    130.1,
+    692.8,
+    265.9
+   ],
+   "table_png_relpath": "tables/page_5_tPMC1557504_table_6.png",
+   "html": "<table><tr><td></td><td rowspan=\"2\">Change in price (%)</td><td colspan=\"2\">Change in Tobacco Consumption</td><td colspan=\"2\">Change in Tobacco Tax Revenue(2)</td></tr><tr><td></td><td>Quantity (Million packs)</td><td>%</td><td>Value (Billion VND)</td><td>%</td></tr><tr><td>Non-filtered cigarettes</td><td>32%</td><td>-80.8</td><td>-46.1</td><td>14.1</td><td>40.2</td></tr><tr><td>Filtered cigarettes produced using domestic materials</td><td>16%</td><td>-363.0</td><td>-23.0</td><td>113.4</td><td>10.5</td></tr><tr><td>Total</td><td></td><td>-443.8</td><td>-25.3</td><td>127.5</td><td>11.5</td></tr></table>"
+  }
+ ]
+}

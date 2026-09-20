@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_096",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    231.1,
+    64.4
+   ],
+   "ocr": "BMC Bioinformatics 2006, 7:482"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    457.3,
+    51.7,
+    698.3,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2105/7/482"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    107.2,
+    372.6,
+    922.4
+   ],
+   "ocr": "whether a minimal t-invariant is really realisable. We assume that read arcs are the only source for non-realisa- bility, i.e., there is a sufficient token number in each of the minimal p-invariants in the initial marking. The use of read arcs corresponding to the first case described above is discussed in [15]. For an analysis, these read arcs are replaced by unidirectional ones in the direc- tion of the main token (signal) flow. The same rationale holds true for the replacement of the read arcs corre- sponding to the second case. But those ones, which are connected with (see the third case), have to remain in the net in order to keep the token-preserving structure of the p-invariant. As mentioned above, read arcs are not reflected in the incidence matrix. Therefore, depending on a given marking, some of the minimal t-invariants may not be realisable considering them in a net with read arcs. For example, the p-invariant-adjacent transitions t3 and t4 in Figure 3 are treated as apparent input transitions, because their connection with the places p1 and p2, respectively, is not reflected in the incidence matrix. If this kind of transitions is part of a t-invariant, whereby their preplaces (connected via read arcs) carry no tokens, they are actually not able to fire. Therefore, the minimal t- invariants have to be processed to get realisable t-invari- ants for a suitable marking. In accordance with our objective of model validation, we are looking for minimal self-contained t-invariants, which are realisable in the initial marking, i.e., minimal multi- sets of transitions, which can fire in an appropriate order without the firing of the other transitions, not belonging to that t-invariant. Those t-invariants are called feasible t- invariants. To make a t-invariant feasible, all of its involved transitions have to be able to fire, i.e., for each of them it is true either that it is an input transition or that its preplaces enable it to fire. The latter case means that either the considered preplaces carry already sufficient tokens in the initial marking or these preplaces get sufficient tokens via the firing of other transitions involved in this t-invari- ant. We distinguish between realisable and feasible t- invariants, because the notion of realisability of a t-invar- iant is a general term of Petri net theory, referring to the reachability of a marking, where the t-invariant's transi- tions can fire. Feasible t-invariants are special realisable t- invariants, which are minimal ones concerning their real- isability in the initial marking. They are introduced because of a special net structure, which causes the inter- ruption of the t-invariant, when it leads for example to a p-invariant, which carries a special marking. Table 1 lists all feasible t-invariants of the net in Figure 3, consisting of all minimal t-invariants and one additional processed one. The processing of minimal t-invariants looks for minimal (non-negative) linear combinations,"
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    394.0,
+    107.2,
+    638.9,
+    118.9
+   ],
+   "ocr": "Table 1: The t-invariants of the example in Figure 3."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    400.2,
+    130.1,
+    690.9,
+    208.8
+   ],
+   "ocr": "No. Involved transitions Minimal? Feasible? Composed of\n1. 1, 2 √ √ -\n2. 3, 5 √ √ -\n3. 4, 6 √ - -\n4. 1, 2, 4, 6 - √ 3+1",
+   "table_id": "PMC1686943_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    399.1,
+    225.1,
+    678.5,
+    272.0
+   ],
+   "ocr": "The t-invariants of the net in Figure 3 after processing them. The middle columns indicate, whether the t-invariants are minimal, i.e., non-processed and whether they are feasible. The right column indicates how the processed invariant was built."
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    314.9,
+    698.4,
+    420.1
+   ],
+   "ocr": "resulting into feasible t-invariants z. Let us formulate this processing of the minimal t-invariants in a general form. For each read arc between a transition tj and an empty place pi of a p-invariant the following procedure has to be applied. Let t1,...,tk be all the pretransitions of pi, which are not connected via a read arc with pi, see Figure 6. If there are no tokens residing in pi in the initial marking, a t-invar-"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    417.3,
+    698.4,
+    799.3
+   ],
+   "ocr": "iant is not realisable if it includes tj and excludes tl ∀ l ∈ {1,..., k}. The following combinations z of feasible t-invar- iants x and one non-feasible t-invariant y reestablish the given read arc between transition tj and place pi z = x + y ∀x ∃ l ∈ {1,...,k} : xl ≠ 0 with xj = 0 and yj ≠ 0 ∧ ∀ l ∈ {l,...,k} : yl = 0. (5) Note that for each feasible minimal t-invariant x provid- ing a token on the place pi one linear combination z is constructed. Appropriate combinations have to be per- formed iteratively, if there occur several read arcs in the net, which have to be bridged. The combined t-invariants do not hold the criterion to be minimal, see Equation (4). But, since only inevitable combinations of minimal t- invariants are constructed, see the restrictions in Equation (5), the resulting combined t-invariants are minimal with respect to their realisability in the initial marking. Moreo- ver, they only have non-negative entries, because they are build as a sum of two t-invariants, which are defined as m"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    789.7,
+    698.4,
+    981.2
+   ],
+   "ocr": "vectors in N0 , see Equation (1). Feasible t-invariants define, similarly to the t-invariants, connected subnets, characterised by its support. Gener- ally, these subnets overlap. They represent minimal self- contained subnets being active under a given input situa- tion. So, each of these subnets stands for a possible signal flow in the net. The examination of the feasible (minimal or combined) t-invariants for their biological plausibility Page 7 of 17 (page number not for citation purposes)"
+  }
+ }
+}

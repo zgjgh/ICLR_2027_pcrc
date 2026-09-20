@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_059",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    256.6,
+    53.4
+   ],
+   "ocr": "Wu and Duan BMC Psychiatry (2015) 15:105"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.4
+   ],
+   "ocr": "Page 2 of 15"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    111.1,
+    678.6,
+    926.1
+   ],
+   "ocr": "multivariate, time-sharing, and dynamic complex network analysis. This method allows researchers to observe and understand information easily in order to identify a model and the regularities of citations behind a mass date [9]. Centrality reflects the status and rights of activities in their social network. In a collaborative network, if an entity has a high centrality, it is considered the “central entity” and possesses and controls a great deal of research resource in the collaborative network. Results and discussion Results of the evolution of research in psychiatry field From 1983 to 1992 First, we used CiteSpace to choose corresponding nodes to map the network of co-cited articles in the field of psych- iatry from 1983 to 1992 (see Figure 1). There were a total of 218 nodes and 204 lines. Then, we selected the critical nodes which the centrality was more than 0.1 (see Table 2). As shown in Figure 1, the earliest appearance of an article published in the field of psychiatry was “Psycho- logical work experiments” written by Kraepelin, E in 1921[10]. In this paper, ‘descriptive psychiatry’ was estab- lished, which laid the foundation for psychiatry; indeed, Kraepelin is regarded as the contemporary father of psychiatry. In 1950, Praecox dementia and schizophrenia was written by the famous psychiatrist Bleuler, E. In this paper, the clinical manifestation of schizophrenia was described in detail. In addition, the ‘4A’ symptoms of schizophrenia (associative disorder, affective dis- order, ambivalent disorder, and autistic disorder) were introduced. During this period of time, the field of psychiatry pri- marily focused on two research directions. One was the diagnosis of mental disorders. In 1962, “The brief psy- chiatric rating-scale” was compiled by Overall, JE [11]. This scale was adapted to functional psychosis and has been widely used in international collaborative research. In 1975, Spitzer, RL compiled the Diagnostic and Statis- tical Manual of Mental Disorders in the article titled “Clinical criteria for psychiatric diagnosis and DSM-III” [12]. The other focus of the field was psychopathology and the abnormal morphology of the brain. There were two key articles about psychopathology. The first was published in 1980 and was titled “Molecular pathology of schizophrenia-more than one disease process” by Crow, TJ [13]; the second was published in 1982 by Andreasen, NC and was titled “Negative V positive schizophrenia-definition and validation” [14]. The key articles about the abnormal morphology of the brain were “Cerebral ventricular size and neuropsychological impairment in young chronic schizophrenics” written by Golden, CJ in 1980 [15], and “Persistence of cerebral in chronic schizophrenia as determined by positron emis- sion tomography” written by Wolkin, A in 1985 [16]."
+  },
+  "p1_b3": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    342.9,
+    124.4
+   ],
+   "ocr": "Table 1 10 Representative journals in psychiatry field"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.2,
+    366.1,
+    327.3
+   ],
+   "ocr": "Rank Journal title Impact factor\n1 Molecular Psychiatry 14.897\n2 American Journal of Psychiatry 14.721\n3 Archives of General Psychiatry 13.772\n4 Biological Psychiatry 9.247\n5 World Psychiatry 8.974\n6 Neuropsychopharmacology 8.678\n7 Schizophrenia Bull 8.486\n8 Psychotherapy and Psychosomatics 7.230\n9 Journal of the American Academy of 6.970\nChild and Adolescent Psychiatry\n10 British Journal of Psychiatry 6.606",
+   "table_id": "PMC4464132_table_0"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    353.0,
+    366.2,
+    926.1
+   ],
+   "ocr": "This study used document co-citation analysis which is a method based on the reference to study on the evo- lution and research focus in psychiatry field. In 1973, Small and Marshakora come up with the theory of docu- ment co-citation, that is when paper A and paper B are co-cited by paper C at the same time, the relationship between paper A and paper B is co-citation relationship [5,6]. After document co-citation analysis, the clusters in research fields can be received and the change of the clusters in every period can reflect evolution in research field. In order to intuitively display the our research re- sults, we made knowledge mapping by the visualization software CiteSpace (http://cluster.cis.drexel.edu/~cchen/ citespace), which is based on JAVA application that analyses the research focus in the field of psychiatry. CiteSpace was developed by Dr. Chaomei Chen of Drexel University in the United States. Dr. Chaomei Chen has studied on the method of information visualization and is an international expert in this field. In CiteSpace, we set the ‘time slicing’ to be 1983–1992, 1993–2002, and 2003–2012, and the ‘years per slice’ was set to ‘1’. The ‘team source’ selects were ‘title’,‘abstract’,‘author keywords’ and ‘keywords plus’. The ‘node types’ selects were ‘cited reference’. We set the ‘top N per slice’ to be ‘50’ which means that the 50 documents with the highest cited fre- quency were selected for each ‘time slicing’. In addition, we chose ‘pathfinder’ for the network analysis. The nodes and lines in the network were generated automatically [7]. There were different size and colour nodes that repre- sented the articles that constructed the whole network. Citation tree-rings represented the citation history of an article. The colour of a citation ring indicated the time of a corresponding citation. The thickness of a ring was pro- portional to the number of citations in a given time slicing [8]. The purple ring represented the key document that was associated with an important theory and/or a new concept. Visualization instrument is a new generation of information visualization techniques that is adapted to"
+  }
+ }
+}

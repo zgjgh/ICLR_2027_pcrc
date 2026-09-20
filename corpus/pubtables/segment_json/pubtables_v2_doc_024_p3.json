@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_024",
+  "page": 3,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    42.1,
+    269.4,
+    53.5
+   ],
+   "ocr": "El-Saadi et al. In Silico Pharmacology (2015) 3:6"
+  },
+  "p3_b1": {
+   "type": "header_footer",
+   "bbox": [
+    625.0,
+    42.1,
+    678.6,
+    53.5
+   ],
+   "ocr": "Page 8 of 20"
+  },
+  "p3_b2": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    111.4,
+    376.1,
+    124.4
+   ],
+   "ocr": "Table 4 Comparison of logD at pH 2.5 and 7.4 for FC101a analogs"
+  },
+  "p3_b3": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    129.4,
+    678.6,
+    386.5
+   ],
+   "ocr": "Analog pH 2.5 Solubility (pH 2.5) pH 7.4 Solubility (pH 7.4)\nFC101 Oxazole 2.25 Lipophilic 2.35 Lipophilic\nFC101b 1.04 Lipophilic 1.04 Lipophilic\nFC101 Imidazole −0.55 Hydrophilic 2.11 Lipophilic\nFC101 Formyl −1.3 Hydrophilic 0.75 Lipophilic\nFC101N −1.1 Hydrophilic −0.53 Hydrophilic\nFC101i −1.78 Hydrophilic 0.17 Lipophilic\nFC101L −2.11 Hydrophilic −2.11 Hydrophilic\nFC101 Acetonide R −0.66 Hydrophilic 1.67 Lipophilic\nFC101 dehydroxyl −0.91 Hydrophilic 0.06 Lipophilic\nKynurenine B −2.27 Hydrophilic −2.2 Hydrophilic\nFC101K −1.91 Hydrophilic −0.03 Hydrophilic\nFC101a −1.69 Hydrophilic −0.53 Hydrophilic\nFC101M −1.02 Hydrophilic −0.76 Hydrophilic\nFC101 Phos −1.02 Hydrophilic −0.9 Hydrophilic",
+   "table_id": "PMC4464579_table_3"
+  },
+  "p3_b4": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    392.9,
+    378.1,
+    413.5
+   ],
+   "ocr": "Most analogs are hydrophilic, indicating a water-soluble nature. Some analogs like lipid bilayer"
+  },
+  "p3_b5": {
+   "type": "caption",
+   "bbox": [
+    380.8,
+    392.9,
+    649.8,
+    402.8
+   ],
+   "ocr": "FC101 Oxazole are lipophilic and thus would more readily penetrate the"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    438.5,
+    366.1,
+    604.2
+   ],
+   "ocr": "Results and discussion Predicting oral BA and selecting the most optimized structural analogs In order to accurately select the most optimized FC101a analogs, four drug-like indices were utilized for compari- son; Lipinski’s RO5, Veber’s selective criteria for oral bio- available drugs, and two computational filters designed by Simulations-Plus, S + Absn_Risk and S + ADMET_Risk [see Additional file 6 for chemical structure of FC101a structural analogs]. Each SA meets Lipinski’s RO5 criteria, illustrated in Fig. 6. The RO5, a guideline for identifying"
+  },
+  "p3_b7": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    439.3,
+    678.7,
+    604.5
+   ],
+   "ocr": "drugs with poor absorption and permeation, only ad- dresses a portion of the gamut of obstacles a compound must meet to become drugable. In addition to the RO5, rules independent of MW can accurately predict oral bio- availability (Veber et al. 2002). Polar surface area (PSA) and rotatable bond count (nrot) have been found to accurately differentiate between orally active and non- orally active drugs (Ghose et al. 1999). Rat oral bio- availability data from G&G Index of 276 compounds demonstrates an “accurate and selective criteria” for rat oral BA > 20-40 % is either nrot ≤ 10 and PSA ≤ 140 Å2 or"
+  },
+  "p3_b8": {
+   "type": "paragraph",
+   "bbox": [
+    79.0,
+    868.5,
+    386.2,
+    917.9
+   ],
+   "ocr": "Fig. 8 Predicted aqueous solubility of FC101a and SA. Column graph of above Simulations-Plus’ proposed high-risk threshold of 0.01 mg/ml (not bioavailable drugs. FC101a (shaded in blue) and FC101N exhibit the highest Shaded regions indicate solubility based on United States Pharmaceutical"
+  },
+  "p3_b9": {
+   "type": "paragraph",
+   "bbox": [
+    372.9,
+    868.8,
+    656.6,
+    917.9
+   ],
+   "ocr": "predicted aqueous solubility of FC101a hits. All hits display solubility shown), suggesting the compounds display solubility similar to orally degree of solubility and both fall within the slightly soluble range. (USP) criteria"
+  }
+ }
+}

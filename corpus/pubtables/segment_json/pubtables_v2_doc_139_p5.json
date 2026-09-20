@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_139",
+  "page": 5,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "header_footer",
+   "bbox": [
+    485.9,
+    37.7,
+    700.9,
+    47.8
+   ],
+   "ocr": "Genome Majority Vote Improves Gene Predictions"
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    81.4,
+    397.1,
+    92.8
+   ],
+   "ocr": "Table 6. Comparison of inconsistencies for Prodigal vs. GenBank"
+  },
+  "p5_b2": {
+   "type": "title",
+   "bbox": [
+    400.9,
+    81.4,
+    513.1,
+    92.8
+   ],
+   "ocr": "or Glimmer3 start sites."
+  },
+  "p5_b3": {
+   "type": "table",
+   "bbox": [
+    84.1,
+    121.8,
+    693.2,
+    302.0
+   ],
+   "ocr": "5 genomes Medium 5 genomes High\nDiversity Diversity\nProdigal vs. GenBank # of shared ortholog sets 2289 1234\n# of ortholog sets for which Prodigal starts were initially inconsistent 455 413\n# of ortholog sets for which GenBank starts were initially inconsistent 925 311\n# made consistent by Prodigal 552 50\n# made consistent by GMV 194 47\nProdigal vs. Glimmer3 # of shared ortholog sets 2427 1398\n# of ortholog sets for which Prodigal starts were initially inconsistent 532 566\n# of ortholog sets for which GenBank starts were initially inconsistent 869 767\n# made consistent by Prodigal 432 248\n# made consistent by GMV 193 155",
+   "table_id": "PMC3219611_table_5"
+  },
+  "p5_b4": {
+   "type": "caption",
+   "bbox": [
+    81.0,
+    315.2,
+    222.1,
+    324.0
+   ],
+   "ocr": "doi:10.1371/journal.pcbi.1002284.t006"
+  },
+  "p5_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    342.1,
+    375.8,
+    963.6
+   ],
+   "ocr": "sites. However, the Genbank gene map for E. coli has already been revised to include the 871 experimentally validated gene start sites, and therefore the accuracy of the map for these genes cannot be improved further. We must therefore estimate the impact based on the following logic: 1) the vast majority of Genbank maps are inferior in quality compared to the E. coli map, which has benefited from a rigorous community annotation effort [11]; 2) Genbank gene maps have as much as twice as many inconsistencies as Prodigal gene maps; and 3) we have directly measured the impact of GMV on the accuracy of Prodigal gene maps. Using the 12% error rate from the high diversity, 10-genome test set as a worst- case scenario for erroneous corrections, more than 20,000 valid corrections are projected for Genbank gene maps for 467 microbial genomes. It is conceivable that the impact will be lower for new gene maps obtained from recent improvements in annotation pipelines. Newer maps may include information from servers such as MaGe [12], RAST [8], or GenePRIMP [9] that use comparative genomics methods for genome annotation, including leveraging information from experimentally validated gene starts. Given the evolving quality of newer gene maps, the true value of the GMV method in correcting errors in GenBank genomes will depend on accumulation of data from a broader set of users. Significance of the GMV algorithm in light of other methods Ours is one of several approaches to leveraging multiple genomes for improving gene predictions. Numerous methods have used conservation patterns in pairwise sequence alignments to distinguish coding from non-coding regions in eukaryotic (SLAM [13], SGP2 [14], TWINSCAN [15,16,17], Guigo´ et al. [18]) or prokaryotic genomes (Walker et al. [19],). The use of more than two sequences to improve prediction of gene boundaries is a more recent addition. RAST [8] and GenePRIMP [9] both use homologs identified via BLAST [20] to refine assignment of gene starts to new genomes. However, the decision rules and implementation details for revising gene start sites using these methods were not documented in detail. For example, the total number of orthologs that are used for comparison, selection of diversity among orthologs (when a spectrum of diversity is available), and the definition of consistency for these methods are unclear. These methods might make an effort to minimize 59 length differences among orthologs, which does enforce a kind of consistency, in the PLoS Computational Biology | www.ploscompbiol.org"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    384.5,
+    342.1,
+    700.9,
+    963.6
+   ],
+   "ocr": "spirit of GMV. However, our Burkholderia study [7] appears to be the first example of a strict rule to enforce consistency of start sites in a multiple sequence alignment. Another important distinction between GMV and these methods is their use of ‘‘old’’ gene predictions as reference material (obtained when acquiring homologs from databases with archived, error-prone information) versus contemporary gene predictions. RAST and GenePRIMP both exploit archived material, in which the extent of errors is unknown. As shown above for the 5-genome, medium diversity genome set, our GMV algorithm can, in principle, exploit older gene maps; however, we can only recommend exploiting new gene predictions. As discussed above, new predictions are expected to be more accurate and, compared to gene maps already deposited in the databases, the lack of manual adjustment of these predictions enabled them to be used to rigorously assess the performance of GMV using experimentally validated genes. The automation of this pipeline provides a facile means to periodically upgrade gene maps for collections of older genomes, as well as improving gene start site predictions for new genomes. N-SCAN [21] and CONTRAST [22] can produce gene calls using information from more than two genomes. N-SCAN leverages a phylogenetic model to improve gene prediction. CONTRAST improved on N-SCAN by doing away with the phylogenetic model in favor of a machine learning approach. It is notable that, with the exception of CONTRAST, prior compar- ative genomics approaches were unable to demonstrate improved gene start site predictions beyond adding a second genome, much less more [23]. CONTRAST demonstrated small improvements as the number of genomes was increased to five [22]. The fact that the performance of GMV improved when the number of genomes was increased from five to ten makes it unique among comparative genomics methods. A shared feature of prior approaches is that the multiple genomes are input at the front end and are used to develop a tightly integrated gene prediction model. By contrast, the GMV algorithm is run as a post-processing step. The main disadvantage of this is the additional compute time required to refine gene calls: running GMV on a 5-genome set takes about K a day on a single processor machine. The compute time is limited by the BLAST step, which scales like the number of genomes squared; however, the speed of the BLAST step (and all other steps of the pipeline) can be substantially improved by parallel processing. A major advantage in implementing GMV is that it can be coupled to any gene prediction software so long as a list of alternative start sites is 8 November 2011 | Volume 7 | Issue 11 | e1002284"
+  }
+ }
+}

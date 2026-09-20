@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_172",
+  "page": 5,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    46,
+    524,
+    99
+   ],
+   "ocr": "In the fiscal year 2024 report for Newmont Corporation, the Rehabilitation and Closure provisions table reveals significant details regarding site management. Under the Rehabilitation Status header, the Active Sites include SiteA, categorized as Active with a Provision Amount of 15MCAD, Completion Date set for 2026, Compliance Status marked as Compliant, Risk Level identified as Medium, Region noted as NorthAmerica, Percentage Funded at 85%, and Last Audit Date on 2023-10-01."
+  },
+  "p5_b1": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    102,
+    524,
+    154
+   ],
+   "ocr": "Additionally, SiteD is also Active with a Provision Amount of 20MCAD, Completion Date in 2027, Compliance Status Compliant, Risk Level Medium, Region NorthAmerica, Percentage Funded at 70%, and Last Audit Date on 2023-09-30. The Closed Sites include SiteB, which has a Provision Amount of 5MCAD, Completion Date in 2023, Compliance Status Compliant, Risk Level Low, Region NorthAmerica, Percentage Funded at 100%, and Last Audit Date on 2023-05-15."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    14.0,
+    170.0,
+    524.0,
+    417.0
+   ],
+   "ocr": "RehabilitationStatus ClosureProvisions TotalAmount\nActiveSites ClosedSites UnderReview Approved Pending OverallSummary\nSiteName Category ProvisionAmount CompletionDate ComplianceStatus RiskLevel Region PercentageFunded LastAuditDate\nSiteA Active 15MCAD 2026 Compliant Medium NorthAmerica 85% 2023-10-01\nSiteB Closed 5MCAD 2023 Compliant Low NorthAmerica 100% 2023-05-15\nSiteC UnderReview 10MCAD 2025 Non-Compliant High NorthAmerica 50% 2024-01-20\nSiteD Active 20MCAD 2027 Compliant Medium NorthAmerica 70% 2023-09-30",
+   "table_id": "img_196438_t0"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    432,
+    524,
+    485
+   ],
+   "ocr": "SiteC is Under Review with a Provision Amount of 10MCAD, Completion Date in 2025, Compliance Status Non-Compliant, Risk Level High, Region NorthAmerica, Percentage Funded at 50%, and Last Audit Date on 2024-01-20. The Ore Grade and Recovery Rates table indicates for Gold, with a Grade of 4.5% and Recovery Rate of 90%, the Production is 200,000 tonnes, yielding Revenue of $450M and Net Income of $150M."
+  },
+  "p5_b4": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    474,
+    524,
+    512
+   ],
+   "ocr": "Silver shows a Grade of 5.0% and Recovery Rate of 85% with Production at 150,000 tonnes generating $200M in Revenue and $70M Net Income. Copper has a Grade of 2.8% and Recovery Rate of 80% with Production of 100,000 tonnes contributing $120M Revenue and $40M Net Income."
+  },
+  "p5_b5": {
+   "type": "table",
+   "bbox": [
+    14.0,
+    528.0,
+    524.0,
+    717.0
+   ],
+   "ocr": "OreType Grade(%) RecoveryRate(%) Production(tonnes) Financials\nRevenue(CAD) NetIncome(CAD) CAPEX(CAD) OPEX(CAD) ProfitMargin(%) EBITDA(CAD)\nGold 4.5 90 200,000 Financials $450M $150M\nSilver 5.0 85 150,000 $200M $70M Copper\n2.8 80 100,000 $120M $40M Zinc 4.0\n75 80,000 $100M $30M Lead 3.5 70\n60,000 $80M $25M Total 4.0 80 590,000\n$950M $315M $150M $265M Average 3.96 82\n590,000 $950M $315M $150M $265M Overall Satisfactory",
+   "table_id": "img_196438_t1"
+  },
+  "p5_b6": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    731,
+    524,
+    756
+   ],
+   "ocr": "Lead reports a Grade of 3.5% with Recovery Rate of 75%, producing 80,000 tonnes for $100M Revenue and $30M Net Income."
+  },
+  "p5_b7": {
+   "type": "paragraph",
+   "bbox": [
+    14,
+    745,
+    524,
+    784
+   ],
+   "ocr": "Total production is 590,000 tonnes, with overall Financials showcasing Revenue of $950M, Net Income of $315M, CAPEX of $150M, OPEX of $265M, an Average Profit Margin of 3.96%, and EBITDA of $950M. The Overall assessment is Satisfactory."
+  }
+ }
+}

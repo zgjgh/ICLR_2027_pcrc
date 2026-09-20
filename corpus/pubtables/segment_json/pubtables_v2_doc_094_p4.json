@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_094",
+  "page": 4,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    219.7,
+    64.4
+   ],
+   "ocr": "BMC Plant Biology 2006, 6:17"
+  },
+  "p4_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.7,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1471-2229/6/17"
+  },
+  "p4_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    348.9,
+    118.9
+   ],
+   "ocr": "Table 4: Error rates for the GS 20 plastid genome sequence"
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    107.2,
+    698.4,
+    670.2
+   ],
+   "ocr": "genomes (~20×) compared to that reported by Margulies et al. [14] for de novo genome sequencing (~40×). A simi- lar reduction in coverage using Sanger-based sequencing methods would also result in a significant cost savings, perhaps still with a slightly higher sequence accuracy com- pared to the GS 20 genome sequence. However, to take full advantage of the ability to reduce coverage in Sanger- based plastid genome sequencing would require the sequencing of pure plastid DNA, something that can only reliably be achieved at present by constructing whole- genome bacterial artificial chromosome (BAC) libraries and then strictly sequencing plastid DNA-containing clones. The method of isolating plastid DNA using sucrose-gradient based chloroplast isolation and RCA (see Methods) that is employed in most angiosperm plastid genome sequencing projects is significantly less expensive than the construction of BAC libraries, although approxi- mately 10–40% of the resulting RCA product consists of non-plastid DNA [7]. This contamination penalty must be overcome in Sanger-based sequencing through the addi- tion of extra sequencing capacity, thereby partially miti- gating against the significant savings that could be accrued through reducing sequence coverage. The same contami- nants also reduce overall plastid genome coverage in GS 20 sequencing runs, but this does not impede the recovery of essentially complete plastid genomes at high accuracy, as evidenced by the sequencing of the Nandina and Plata- nus genomes. Thus the GS 20 instrument seems a reason- able and cost-effective alternative to Sanger-based shotgun sequencing with respect to angiosperm plastid genomics. The generation of GS 20 genome sequence comes at the price of a slightly higher error rate (~0.04%) in compari- son to Sanger sequencing (~0.01%) [16,17]. Nevertheless, the small magnitude of this error is not enough to offset the potential gains in time and cost efficiency of the GS 20 system. It is possible that the addition of extra GS 20"
+  },
+  "p4_b4": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    130.1,
+    358.9,
+    273.5
+   ],
+   "ocr": "Region Nandina Platanus combined\noverall genome 0.043 0.031 0.037\noverall SC 0.030 0.064 0.047\noverall IR 0.054 0.004 0.029\noverall coding 0.027 0.029 0.028\noverall noncoding 0.085 0.036 0.062\nSC coding 0.036 0.055 0.046\nSC noncoding 0.000 0.161 0.057\nIR coding 0.018 0.000 0.009\nIR noncoding 0.115 0.011 0.063",
+   "table_id": "PMC1564139_table_3"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    289.8,
+    361.4,
+    348.4
+   ],
+   "ocr": "Observed error rates for the GS 20 plastid genome sequence of Nandina, Platanus, and both genomes combined (given in percent). These error rates are based on known GS 20 errors discovered in regions of conventional comparison sequence. Only one copy of the IR was included in error calculation."
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    374.2,
+    372.6,
+    703.9
+   ],
+   "ocr": "Sanger-based shotgun sequencing [32]. We estimate that the GS 20 System requires approximately half the amount of template preparation time (~16 hours) compared to traditional Sanger-based methods (~36 hours) for plastid genome sequencing. Moreover, plastid genome sequenc- ing using the GS 20 can be accomplished with two 4-hour instrument runs, while obtaining plastid genomes with Sanger-based shotgun sequencing requires several capil- lary sequencer runs (using 384-well plates) per genome. The small size of the plastid genome further contributes to the savings accompanying the GS 20 by allowing for mul- tiple genomes to be sequenced simultaneously. The recent release of larger GS 20 PicoTiterPlates with the capacity to sequence up to four plastid genomes at a time promises to drive down the cost of GS 20 plastid genome sequencing even more, to ~$3500 per genome. It is important to note that the savings observed in GS 20 sequencing of Nandina and Platanus also resulted from the lower average coverage obtained for these two chloroplast Table 5: Raw values used in error calculations"
+  },
+  "p4_b7": {
+   "type": "table",
+   "bbox": [
+    73.3,
+    715.1,
+    675.6,
+    886.6
+   ],
+   "ocr": "Nandina Platanus combined\nRegion # errors length (bp) # errors length (bp) # errors length (bp)\noverall genome 20 46134 14 45249 34 91383\noverall SC 6 20072 13 20183 19 40255\noverall IR 14 26062 1 25066 15 51128\noverall coding 9 33170 10 34006 19 67176\noverall noncoding 11 12946 4 11243 15 24189\nSC coding 6 16649 10 18325 16 34974\nSC noncoding 0 3405 3 1858 3 5263\nIR coding 3 16521 0 15681 3 32202\nIR noncoding 11 9541 1 9385 12 18926",
+   "table_id": "PMC1564139_table_4"
+  },
+  "p4_b8": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    902.9,
+    395.8,
+    926.4
+   ],
+   "ocr": "Raw values that were used in calculations of observed error in GS 20 plastid sequence data used in error calculations."
+  },
+  "p4_b9": {
+   "type": "caption",
+   "bbox": [
+    398.7,
+    902.9,
+    660.4,
+    914.7
+   ],
+   "ocr": "genome sequence. Length refers to the length of conventional"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    543.8,
+    955.2,
+    698.4,
+    981.2
+   ],
+   "ocr": "Page 8 of 13 (page number not for citation purposes)"
+  }
+ }
+}

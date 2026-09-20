@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_446",
+  "page": 3,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    467.4,
+    49.0,
+    727.4,
+    60.5
+   ],
+   "ocr": "Off Target Predictions from ChEMBL with Template CoMFA"
+  },
+  "p3_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    340.4,
+    727.2,
+    770.7
+   ],
+   "ocr": "Fig 4. Bar chart representation of the q2 values for the models from all combinations of template protocols and targets. Yellow bars are from Xray templates (protocol A), green from Surflex-SIM alignments (B and C), cyan from the “irrational” Concord (D) or spatially dispersed (F)alignments, and red from omissions of template CoMFA (E and G). doi:10.1371/journal.pone.0129307.g004 Starting with the same set of possible templates, how different from their protocol A-based template CoMFA model would protocol B-based models be? The program available to the au- thor for combinatorially seeking optimal alignments was Surflex-SIM [20, 21], whose elegant representations of shape similarity do involve lengthy refinement. Therefore in these studies, the template sets for all protocols except A were limited to three ligands. This did seem far too little 3D information to successfully align such a large variety of training set structures. But, completely unexpectedly, not only were three templates sufficient, but also, for every target, the results reported here are all from the first trio of templates tried. The first two lines of Table 2 introduce another counter-intuitive result from these studies. For every one of these six targets, there is little difference between the statistical properties of the protocol A and protocol B template CoMFA models. There is negligible support for the ex- pectation that crystallographically-based alignments should usually be more effective than these shape similarity-based alignments. While the first A-B column of Table 3, which provides summarized comparisons of q2 across all targets, does report an average q2 superiority of .001 for the crystallographic template protocol A, such a small difference is neither statistically nor practically significant. (As a further precaution, progressive Y scrambling [29] was applied to the HERG target, obtaining a smooth and almost horizontal plot of the q2/SDEP ratio vs num- ber of components, confirming the highly robust character to be expected for any model de- rived from such a large and well-conditioned training set.) Table 3. Comparisons of q2 values (from leave-one-out crossvalidation) for template CoMFA models, as produced by applying protocols A-G to the input data, averaged over the twelve biological targets."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    779.4,
+    726.6,
+    889.2
+   ],
+   "ocr": "A B C D E F G\nAverage of q2 0.346 0.392 0.408 0.360 0.190 0.406 0.098\nStandard dev of q2 0.207 0.102 0.104 0.130 0.098 0.108 0.087\nProtocol Comparison A-B A-F B-C B-D B-E B-F D-E E-G\nAverage q2 Difference 0.001 -0.025 -0.017 0.031 0.201 -0.014 0.164 0.094\nStandard dev of q2 diffs 0.037 0.042 0.036 0.090 0.062 0.034 0.089 0.068\nZ.test of q2 difference 0.478 0.926 0.947 0.113 0.000 0.924 0.000 0.000",
+   "table_id": "PMC4466312_table_2"
+  },
+  "p3_b3": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    897.3,
+    186.2,
+    908.6
+   ],
+   "ocr": "doi:10.1371/journal.pone.0129307.t003"
+  },
+  "p3_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0129307 June 12, 2015 10 / 22"
+  }
+ }
+}

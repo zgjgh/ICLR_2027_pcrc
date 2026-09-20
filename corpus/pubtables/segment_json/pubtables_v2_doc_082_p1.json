@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_082",
+  "page": 1,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "title",
+   "bbox": [
+    554.0,
+    50.5,
+    727.4,
+    60.6
+   ],
+   "ocr": "Axonal deformation due to skull flexures"
+  },
+  "p1_b1": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    96.5,
+    716.0,
+    133.4
+   ],
+   "ocr": "Table 1. Different anatomic components, material models and corresponding material parameters used in the finite element model. In this table, ρ is the material density,E is the young’s modulus, ν is the poisson ratio, C0 is the speed of sound, S is the linear Hugoniot slope coefficient, Γ0 is the Gruneisen gamma at the reference state, η is the shear viscosity, α is the Ogden material constant, C01 and C10 are the Mooney-Rivlin material constants, K is the bulk modulus, μ is the shear modulus."
+  },
+  "p1_b2": {
+   "type": "table",
+   "bbox": [
+    65.2,
+    141.0,
+    703.0,
+    315.0
+   ],
+   "ocr": "Anatomical Components Material Model Material Parameters References\nSkull Isotropic Elastic ρ = 1030 kg/m3 [32]\nE = 100 kPa ν = 0.45\nCerebrospinal Fluid Mie-Gruneisen Equation of State ρ = 1000 kg/m3 [33]\nC0 = 1489 m/s s = 1.79\nΓ0 = 1.65 η = 0.001\nBrain Tissue (Matrix) Mooney-Rivlin Hyperelastic ρ = 1040 kg/m3 [30]\nC01 = -1.034 kPa\nC10 = 7.803 kPa\nK = 2.1 GPa\nViscoelastic g1 = 0.65425 τ1 = 0.0066940 g2 = 0.0149τ2 = 0.15642 [30]\nAxonal Fibers Ogden Hyperelastic ρ = 1040 kg/m3 [30]\nμ = 35.64 kPa α = 6.101 D = 9.le-10 Pa-1",
+   "table_id": "PMC5856259_table_0"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    322.1,
+    727.3,
+    898.4
+   ],
+   "ocr": "https://doi.org/10.1371/journal.pone.0190881.t001 approach calculates anisotropic nodal forces and no explicit custom constitutive material mod- els (linking fibers and brain tissue) were needed to describe the anisotropy. Model validation An extensive validation procedure was adopted here to improve our confidence in the model. Firstly, the models’ response was compared with Nahum et al.’s [34] intracranial pressures from their cadaver experiments. This is followed by a comparison with Hardy et al.’s [35,36] brain-skull relative displacements from their experiments. Finally, the models were subjected to blast loading, and the models’ pressure response was compared with Bir et al.’s [37] post- mortem human subject (PMHS) test results. These validation procedures and the correspond- ing results were included in S1 Appendix. Besides the validation plots, efforts were also made to produce a quantitative assessment of the different validation plots. More details in this regard were include in the following sections. Once the validation procedure was completed, we went a step further to develop quantita- tive measures for the above comparison studies. For this purpose, we have used a tool called CORA (acronym for CORrelation and Analysis). CORA can provide us with an objective (and unbiased) assessment of the above validation results [38]. What is CORA? CORA is a software tool that calculates the level of correlation between two signals (i.e., time histories). A result lying between “0” and “1” indicates the quality of the match between the signals. “1” represents a perfect match while “0” represents a poor match. This correlation is calculated using metrics such as corridor metric (evaluates deviation between curves) and cross-correlation metric (evaluates size, progression and phase shift of one signal with respect to other). • Corridor method: This method evaluates the deviation between two signals using a corridor fitting. Four curves (2 curves form a corridor, i.e., two corridors are formed–inner and outer–around the reference curve were formed based on the user defined parameters). A rat- ing (“1” for curve inside inner corridor; “0” for curve outside outer corridor; interpolated rating for curve lying in-between) will be provided to the comparison curve based on its location relative to the corridor positions. • Cross-correlation Method: It compares the size, phase shift and progression of the compari- son curve with respect to the reference curve. The final rating is a weighted normalized rat- ing combining the above three characteristics."
+  },
+  "p1_b4": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    946.7,
+    727.3,
+    956.8
+   ],
+   "ocr": "PLOS ONE | https://doi.org/10.1371/journal.pone.0190881 March 16, 2018 5 / 24"
+  }
+ }
+}

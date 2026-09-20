@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_313",
+  "page": 3,
+  "page_size": [
+   774,
+   1000
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "header_footer",
+   "bbox": [
+    564.9,
+    37.7,
+    700.8,
+    47.8
+   ],
+   "ocr": "Association with Gout and CAD"
+  },
+  "p3_b1": {
+   "type": "title",
+   "bbox": [
+    81.0,
+    81.4,
+    266.5,
+    92.8
+   ],
+   "ocr": "Table 3. SNP marker used in analysis."
+  },
+  "p3_b2": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    120.1,
+    681.7,
+    291.2
+   ],
+   "ocr": "a b\nSNP Position Major allele (1) Minor allele (2) Gene name(s) Function Call rate\nrs12129861 Chr1: 144,437,046 G A PDZK1 59 Intergenic 98.4%\nrs780094 Chr2: 27,594,741 C T GCKR Intron 16 99.2%\nrs734553 Chr4: 9,532,102 T G SLC2A9 GLUT9 Intron 7 96.0%\nrs6855911 Chr4: 9,545,008 A G SLC2A9 GLUT9 Intron 7 99.0%\nrs2231142 Chr4: 89,271,347 G T ABCG2 Exon 5 Q141K 99.2%\nrs742132 Chr6: 25,715,550 A G LRRC16A Intron 34 99.4%\nrs1183201 Chr6: 25,931,423 T A SLC17A1 Intron 3 98.2%\nrs12356193 Chr10: 61,083,359 A G SLC16A9 Intron 5 98.7%\nrs17300741 Chr11: 64,088,038 G A SLC22A11 Intron 4 98.2%\nrs505802 Chr11: 64,113,648 T C SLC22A12 URAT1 59 Intergenic 99.3%",
+   "table_id": "PMC2766838_table_2"
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    73.4,
+    302.5,
+    399.0,
+    654.6
+   ],
+   "ocr": "aon human genome build 18. bin total sample (n = 4,960). doi:10.1371/journal.pone.0007729.t003 Furthermore, we had indication for gender interaction, as separate analyses in females and males revealed association with gout for both SLC2A9 SNPs, whereas ABCG2 SNP rs2231142 only showed significant association in males (Table 5), but not in females (Table 6). Full adjustment for gender, medication with diuretics, lipid lowering and antihypertensive therapy, HDL-C, type 2 diabetes, smoking, and BMI did not did not change the association results substantially (Table 4). The same model without inclusion of gender was applied in males and females separately and did not lead to a significant change in p-values (Table 5 and Table 6, respectively). Association analysis of SNPs in the CAD/MI case-control sample. Deviation from HWE was not observed for the genotyped markers in CAD/MI cases and CAD/MI-free controls (p.0.05). No association with CAD was found for any of the analyzed SNPs (Table 7). Again, adjustment for differentially distributed risk factors between CAD cases and controls did not alter the results significantly (Table 7). The power to detect nominal association with CAD was .30.3% for an assumed OR = 1.2 and .79.6% for an OR = 1.4 (Table 7). Table 4. Association analysis results in gout case-control sample."
+  },
+  "p3_b4": {
+   "type": "paragraph",
+   "bbox": [
+    398.4,
+    353.5,
+    700.8,
+    619.4
+   ],
+   "ocr": "Discussion In the present case-control association studies, we evaluated the relationship of common SNPs with gout and their potential influence on CAD. The variants are located in nine different genetic regions, four of which are known and the remaining five loci were only recently identified to be associated with serum UA levels in a large meta-analysis of GWA studies [7]. We were able to confirm significant association between gout and SNPs in two established genes, namely SLC2A9 (rs734553 and rs6855911) and ABCG2 (rs2231142). However, for markers in the other known and novel loci, no association with the clinical phenotype gout was found in our study. Moreover, our results indicate no relevant influence of the investigated polymorphisms on CAD susceptibility in our German MI Family Study. The strongest association signal with gout was detected for intronic SNPs rs6855911 and rs734553 in the SLC2A9 gene, which is consistent with previous studies on gout and serum UA levels [2–6]. SLC2A9 is coding for GLUT9, a high-capacity urate transporter, which is abundantly expressed in liver and kidney"
+  },
+  "p3_b5": {
+   "type": "table",
+   "bbox": [
+    81.0,
+    680.3,
+    684.9,
+    871.9
+   ],
+   "ocr": "a b b\nGout case genotypes Gout-free control genotypes Allelic Allelic OR Adjusted Power Power\nSNP 11 12 22 MAF 11 12 22 MAF p-value (95% CI) p-value OR = 1.2 OR = 1.4\nrs12129861 187 334 149 0.472 394 752 394 0.500 0.083 0.89 (0.78–1.02) 0.090 0.504 0.953\nrs780094 240 325 112 0.406 558 747 247 0.400 0.723 1.02 (0.90–1.17) 0.472 0.490 0.950\nrs734553 429 211 14 0.183 846 553 103 0.253 5.6*1027 0.66 (0.56–0.78) 3.7*1026 0.418 0.909\nrs6855911 429 233 15 0.194 829 603 114 0.269 1.1*1027 0.66 (0.56–0.77) 1.3*1026 0.430 0.918\nrs2231142 500 168 9 0.137 1,241 299 12 0.104 1.3*1023 1.37 (1.13–1.66) 2.2*1023 0.239 0.663\nrs742132 330 276 73 0.311 764 644 145 0.301 0.502 1.05 (0.91–1.20) 0.996 0.452 0.932\nrs1183201 187 320 161 0.481 393 791 354 0.487 0.679 0.97 (0.86–1.11) 0.691 0.504 0.953\nrs12356193 475 182 14 0.157 1,069 436 40 0.167 0.385 0.93 (0.78–1.10) 0.427 0.328 0.819\nrs17300741 176 337 158 0.487 409 770 355 0.482 0.798 1.02 (0.89–1.16) 0.981 0.504 0.953\nrs505802 317 298 64 0.314 721 682 148 0.315 0.917 0.99 (0.87–1.14) 0.783 0.459 0.936",
+   "table_id": "PMC2766838_table_3"
+  },
+  "p3_b6": {
+   "type": "paragraph",
+   "bbox": [
+    81.0,
+    885.1,
+    412.8,
+    926.1
+   ],
+   "ocr": "Numbers of genotypes (11, 12, 22) according to alleles from Table 3. aModel including gender, medication with diuretics, lipid lowering and antihypertensive bPower was calculated for the given OR using the respective MAF in controls and doi:10.1371/journal.pone.0007729.t004"
+  },
+  "p3_b7": {
+   "type": "caption",
+   "bbox": [
+    393.0,
+    895.9,
+    610.1,
+    915.4
+   ],
+   "ocr": "therapy, HDL-C, type 2 diabetes, smoking, and BMI. a two-tailed p = 0.05."
+  },
+  "p3_b8": {
+   "type": "header_footer",
+   "bbox": [
+    103.7,
+    953.5,
+    233.2,
+    963.6
+   ],
+   "ocr": "PLoS ONE | www.plosone.org"
+  },
+  "p3_b9": {
+   "type": "header_footer",
+   "bbox": [
+    384.5,
+    953.5,
+    700.8,
+    963.6
+   ],
+   "ocr": "4 November 2009 | Volume 4 | Issue 11 | e7729"
+  }
+ }
+}

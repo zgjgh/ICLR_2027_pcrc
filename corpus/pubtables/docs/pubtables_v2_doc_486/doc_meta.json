@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_486",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4619733_table_0",
+   "page_num": 1,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    399.4
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4619733_table_0.png",
+   "html": "<table><tr><td>CLIMEX parameter</td><td>Wet tropical template</td><td>Desert template</td><td>Temperate template</td><td>Final parameter</td></tr><tr><td>DVO-Lower temperature threshold</td><td>15</td><td>15</td><td>8</td><td>10.3</td></tr><tr><td>DV1-Lower optimum temperature</td><td>26</td><td>25</td><td>18</td><td>28</td></tr><tr><td>DV2-Upper optimum temperature</td><td>33</td><td>40</td><td>24</td><td>32</td></tr><tr><td>DV3-Upper temperature threshold</td><td>36</td><td>44</td><td>28</td><td>40</td></tr><tr><td>PDD-Effective accumulated temperature</td><td>0</td><td>0</td><td>600</td><td>1100</td></tr><tr><td>TTCS-Cold stress temperature threshold</td><td>0</td><td>2</td><td>0</td><td>&#8211;2.3</td></tr><tr><td>THCS-Cold stress temperature rate</td><td>0</td><td>0.001</td><td>0</td><td>0.05</td></tr><tr><td>TTHS-Heat stress temperature threshold</td><td>36</td><td>44</td><td>30</td><td>44</td></tr><tr><td>THHS-Heat stress temperature rate</td><td>0.001</td><td>0.001</td><td>0.005</td><td>0.001</td></tr><tr><td>SMO-Lower soil moisture threshold</td><td>0.3</td><td>0</td><td>0.25</td><td>0</td></tr><tr><td>SM1-Lower optimal soil moisture</td><td>0.5</td><td>0.001</td><td>0.8</td><td>0.5</td></tr><tr><td>SM2-Upper optimal soil moisture</td><td>1.75</td><td>0.2</td><td>1.5</td><td>1.75</td></tr><tr><td>SM3-Upper soil moisture threshold</td><td>2</td><td>0.3</td><td>2.5</td><td>2</td></tr><tr><td>SMDS-Dry stress threshold</td><td>0.3</td><td>0</td><td>0.2</td><td>0</td></tr><tr><td>HDS-Dry stress rate</td><td>0.006</td><td>0</td><td>0.005</td><td>0.006</td></tr><tr><td>SMWS-Wet stress threshold</td><td>2</td><td>0.3</td><td>2.5</td><td>2</td></tr><tr><td>HWS-Wet stress rate</td><td>0.002</td><td>0.1</td><td>0.002</td><td>0.002</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4619733_table_1",
+   "page_num": 2,
+   "bbox": [
+    45.4,
+    114.8,
+    714.3,
+    703.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4619733_table_1.png",
+   "html": "<table><tr><td>Province</td><td>No2. of stations in CLIMEX</td><td>No. of highly favorable stations</td><td>No. of favorable stations</td><td>No. of marginally favorable stations</td><td>No. of unsuitable stations</td><td>Average EI value for the station</td><td>Maximum EI value</td><td>Minimum EI value</td></tr><tr><td>Anhui</td><td>25</td><td>24</td><td>1</td><td>0</td><td>0</td><td>40.3</td><td>45.9</td><td>0</td></tr><tr><td>Beijing</td><td>3</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Fujian</td><td>29</td><td>27</td><td>2</td><td>0</td><td>0</td><td>51.2</td><td>63.2</td><td>21.9</td></tr><tr><td>Gansu</td><td>32</td><td>0</td><td>1</td><td>0</td><td>31</td><td>0.7</td><td>20.8</td><td>0</td></tr><tr><td>Guangdong</td><td>36</td><td>36</td><td>0</td><td>0</td><td>0</td><td>62.9</td><td>74.9</td><td>50.6</td></tr><tr><td>Guangxi</td><td>25</td><td>25</td><td>0</td><td>0</td><td>0</td><td>59.1</td><td>74.6</td><td>43.9</td></tr><tr><td>Guizhou</td><td>34</td><td>29</td><td>5</td><td>0</td><td>0</td><td>38.7</td><td>54.8</td><td>17.8</td></tr><tr><td>Hainan</td><td>9</td><td>9</td><td>0</td><td>0</td><td>0</td><td>75.7</td><td>86.3</td><td>66.5</td></tr><tr><td>Hebei</td><td>21</td><td>0</td><td>0</td><td>0</td><td>21</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Henan</td><td>20</td><td>7</td><td>3</td><td>4</td><td>6</td><td>17.9</td><td>42.5</td><td>0</td></tr><tr><td>Heilongjiang</td><td>36</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Hubei</td><td>35</td><td>33</td><td>1</td><td>0</td><td>1</td><td>42.0</td><td>46.7</td><td>0</td></tr><tr><td>Hunan</td><td>34</td><td>33</td><td>1</td><td>0</td><td>0</td><td>45.2</td><td>51</td><td>24.1</td></tr><tr><td>Jilin</td><td>32</td><td>0</td><td>0</td><td>0</td><td>32</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Jiangsu</td><td>23</td><td>19</td><td>4</td><td>0</td><td>0</td><td>36.5</td><td>43.8</td><td>13.9</td></tr><tr><td>Jiangxi</td><td>28</td><td>27</td><td>1</td><td>0</td><td>0</td><td>46.6</td><td>54.9</td><td>25.8</td></tr><tr><td>Liaoning</td><td>27</td><td>0</td><td>0</td><td>0</td><td>27</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Inner Mongolia</td><td>49</td><td>0</td><td>0</td><td>0</td><td>49</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Ningxia</td><td>12</td><td>0</td><td>0</td><td>0</td><td>12</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Qinghai</td><td>39</td><td>0</td><td>0</td><td>0</td><td>39</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Shandong</td><td>33</td><td>0</td><td>7</td><td>1</td><td>25</td><td>5.4</td><td>28.7</td><td>0</td></tr><tr><td>Shanxi</td><td>28</td><td>0</td><td>0</td><td>0</td><td>28</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Shaanxi</td><td>37</td><td>8</td><td>4</td><td>1</td><td>24</td><td>9.8</td><td>39.4</td><td>0</td></tr><tr><td>Shanghai</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>44.3</td><td>44.9</td><td>43.7</td></tr><tr><td>Sichuan</td><td>50</td><td>26</td><td>7</td><td>1</td><td>16</td><td>24.5</td><td>48.8</td><td>0</td></tr><tr><td>Tianjin</td><td>4</td><td>0</td><td>1</td><td>0</td><td>3</td><td>5.6</td><td>22.3</td><td>0</td></tr><tr><td>Tibet</td><td>38</td><td>0</td><td>1</td><td>0</td><td>37</td><td>0.7</td><td>24.9</td><td>0</td></tr><tr><td>Xingjiang</td><td>68</td><td>0</td><td>0</td><td>0</td><td>68</td><td>0.0</td><td>0</td><td>0</td></tr><tr><td>Yunnan</td><td>34</td><td>25</td><td>7</td><td>0</td><td>2</td><td>36.7</td><td>64.5</td><td>0</td></tr><tr><td>Zhejiang</td><td>27</td><td>27</td><td>0</td><td>0</td><td>0</td><td>45.4</td><td>52.3</td><td>41.4</td></tr><tr><td>Chongqing</td><td>15</td><td>14</td><td>0</td><td>0</td><td>1</td><td>42.4</td><td>49.3</td><td>0</td></tr><tr><td>Taiwan</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>68.0</td><td>71</td><td>65</td></tr><tr><td>Hong Kong</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>50.0</td><td>50</td><td>50</td></tr><tr><td>Total</td><td>888</td><td>374</td><td>46</td><td>7</td><td>461</td><td>25.7</td><td>86.3</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4619733_table_2",
+   "page_num": 3,
+   "bbox": [
+    45.4,
+    698.8,
+    726.6,
+    850.4
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4619733_table_2.png",
+   "html": "<table><tr><td rowspan=\"2\">Model case</td><td colspan=\"2\">Highly favorable habitats</td><td colspan=\"2\">Favorable habitats</td><td colspan=\"2\">Marginally favorable habitats</td><td colspan=\"2\">Unfavorable habitats</td><td colspan=\"2\">Total potential distribution</td></tr><tr><td>Area/mil1. km2</td><td>Percentage</td><td>Area/mil. km2</td><td>Percentage</td><td>Area/mil. km2</td><td>Percentage</td><td>Area/mil. km2</td><td>Percentage</td><td>Area/mil. km2</td><td>Percentage</td></tr><tr><td>Historical climate</td><td>2.07</td><td>21.6%</td><td>0.32</td><td>3.3%</td><td>0.62</td><td>6.4%</td><td>6.61</td><td>68.7%</td><td>3.01</td><td>31.3%</td></tr><tr><td>A2 scenario</td><td>2.21</td><td>23.0%</td><td>0.24</td><td>2.5%</td><td>0.39</td><td>4.1%</td><td>6.76</td><td>70.4%</td><td>2.85</td><td>29.6%</td></tr><tr><td>B2 scenario</td><td>2.25</td><td>23.4%</td><td>0.25</td><td>2.6%</td><td>0.40</td><td>4.2%</td><td>6.71</td><td>69.8%</td><td>2.90</td><td>30.2%</td></tr><tr><td>B1 scenario</td><td>2.35</td><td>24.4%</td><td>0.26</td><td>2.7%</td><td>0.38</td><td>4.0%</td><td>6.62</td><td>68.8%</td><td>2.99</td><td>31.2%</td></tr><tr><td>A1FI scenario</td><td>2.39</td><td>24.8%</td><td>0.27</td><td>2.8%</td><td>0.39</td><td>4.0%</td><td>6.57</td><td>68.4%</td><td>3.04</td><td>31.6%</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4619733_table_3",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    116.1,
+    726.7,
+    636.2
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4619733_table_3.png",
+   "html": "<table><tr><td>Province</td><td>No. of stations</td><td>Type of climate</td><td>Average EI value</td><td>Average GI value</td><td>Average MI value</td><td>Average CS value</td></tr><tr><td rowspan=\"2\">Anhui</td><td>20</td><td>B2 scenario</td><td>39.5</td><td>39.5</td><td>87.4</td><td>0.1</td></tr><tr><td></td><td>Historical climate</td><td>24.3</td><td>36.4</td><td>77.1</td><td>49.4</td></tr><tr><td rowspan=\"2\">Fujian</td><td>14</td><td>B2 scenario</td><td>54</td><td>54</td><td>100</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>37.6</td><td>37.6</td><td>98.8</td><td>0</td></tr><tr><td rowspan=\"2\">Gansu</td><td>12</td><td>B2 scenario</td><td>26.6</td><td>31.2</td><td>88.6</td><td>78.8</td></tr><tr><td></td><td>Historical climate</td><td>12.4</td><td>24.6</td><td>68</td><td>358.7</td></tr><tr><td rowspan=\"2\">Guangdong</td><td>10</td><td>B2 scenario</td><td>69.3</td><td>69.3</td><td>97.3</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>57.5</td><td>58.8</td><td>85.7</td><td>0</td></tr><tr><td rowspan=\"2\">Guangxi</td><td>20</td><td>B2 scenario</td><td>61.8</td><td>61.8</td><td>96.7</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>48.2</td><td>48.5</td><td>88.7</td><td>0</td></tr><tr><td rowspan=\"2\">Guizhou</td><td>20</td><td>B2 scenario</td><td>47.3</td><td>47.3</td><td>98.4</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>31.9</td><td>34</td><td>98.7</td><td>25.8</td></tr><tr><td rowspan=\"2\">Henan</td><td>20</td><td>B2 scenario</td><td>31.7</td><td>33.1</td><td>74</td><td>9.3</td></tr><tr><td></td><td>Historical climate</td><td>10.4</td><td>30.9</td><td>60</td><td>141.2</td></tr><tr><td rowspan=\"2\">Hubei</td><td>7</td><td>B2 scenario</td><td>38.2</td><td>38.2</td><td>99.9</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>20.9</td><td>27.8</td><td>99.2</td><td>342.3</td></tr><tr><td rowspan=\"2\">Hunan</td><td>6</td><td>B2 scenario</td><td>45.6</td><td>45.6</td><td>100</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>33.4</td><td>33.4</td><td>100</td><td>0</td></tr><tr><td rowspan=\"2\">Jiangsu</td><td>20</td><td>B2 scenario</td><td>39.4</td><td>40</td><td>89.3</td><td>1.6</td></tr><tr><td></td><td>Historical climate</td><td>18.3</td><td>35</td><td>80.1</td><td>97.2</td></tr><tr><td rowspan=\"2\">Jiangxi</td><td>4</td><td>B2 scenario</td><td>45.1</td><td>45.1</td><td>100</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>32.7</td><td>32.7</td><td>100</td><td>0.1</td></tr><tr><td rowspan=\"2\">Shandong</td><td>20</td><td>B2 scenario</td><td>24</td><td>33.8</td><td>70.6</td><td>31.3</td></tr><tr><td></td><td>Historical climate</td><td>3.3</td><td>29.6</td><td>63.4</td><td>427.5</td></tr><tr><td rowspan=\"2\">Shaanxi</td><td>20</td><td>B2 scenario</td><td>25.5</td><td>31.8</td><td>85.2</td><td>51.5</td></tr><tr><td></td><td>Historical climate</td><td>4.2</td><td>24.1</td><td>62.3</td><td>283.9</td></tr><tr><td rowspan=\"2\">Sichuan</td><td>20</td><td>B2 scenario</td><td>49.2</td><td>49.2</td><td>99.6</td><td>1.6</td></tr><tr><td></td><td>Historical climate</td><td>37.8</td><td>38</td><td>86.5</td><td>74.7</td></tr><tr><td rowspan=\"2\">Tibet</td><td>20</td><td>B2 scenario</td><td>42.6</td><td>43.9</td><td>81</td><td>39.8</td></tr><tr><td></td><td>Historical climate</td><td>0.4</td><td>10.7</td><td>59.1</td><td>822</td></tr><tr><td rowspan=\"2\">Yunnan</td><td>20</td><td>B2 scenario</td><td>57.1</td><td>57.1</td><td>90.1</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>42.1</td><td>42.1</td><td>81.4</td><td>0</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4619733_table_4",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    114.8,
+    726.7,
+    320.5
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4619733_table_4.png",
+   "html": "<table><tr><td>Province</td><td>No. stations</td><td>Model case</td><td>Average EI1 value</td><td>Average GI2 value</td><td>Average MI3 value</td><td>Average CS4 value</td></tr><tr><td rowspan=\"2\">Shandong</td><td>20</td><td>B2 scenario</td><td>1.5</td><td>32.1</td><td>77.7</td><td>372</td></tr><tr><td></td><td>Historical climate</td><td>12</td><td>27.5</td><td>61.2</td><td>262.1</td></tr><tr><td rowspan=\"2\">Shaanxi</td><td>20</td><td>B2 scenario</td><td>15.7</td><td>28.3</td><td>91</td><td>169.1</td></tr><tr><td></td><td>Historical climate</td><td>21.8</td><td>29.9</td><td>76.3</td><td>189.2</td></tr><tr><td rowspan=\"2\">Sichuan</td><td>20</td><td>B2 scenario</td><td>6.5</td><td>14.5</td><td>73.3</td><td>608.4</td></tr><tr><td></td><td>Historical climate</td><td>23.6</td><td>26.2</td><td>68</td><td>237.6</td></tr><tr><td rowspan=\"2\">Taiwan</td><td>20</td><td>B2 scenario</td><td>44.2</td><td>46.8</td><td>99.2</td><td>0</td></tr><tr><td></td><td>Historical climate</td><td>63.4</td><td>64.8</td><td>99.5</td><td>0</td></tr><tr><td rowspan=\"2\">Tibet</td><td>15</td><td>B2 scenario</td><td>2.7</td><td>8.4</td><td>79.8</td><td>891.8</td></tr><tr><td></td><td>Historical climate</td><td>13.9</td><td>17.3</td><td>67.3</td><td>417.3</td></tr><tr><td rowspan=\"2\">Yunnan</td><td>20</td><td>B2 scenario</td><td>3.8</td><td>12.6</td><td>77</td><td>570.1</td></tr><tr><td></td><td>Historical climate</td><td>19.2</td><td>21.1</td><td>65.8</td><td>227.1</td></tr></table>"
+  }
+ ]
+}

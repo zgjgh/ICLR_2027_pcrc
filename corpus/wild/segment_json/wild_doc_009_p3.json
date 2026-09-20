@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_009",
+  "page": 3,
+  "page_size": [
+   595,
+   720
+  ]
+ },
+ "blocks": {
+  "p3_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15.0,
+    50.0,
+    580.0,
+    65.0
+   ],
+   "ocr": "The two simple questions assess the patient's need for assistance in daily activities and the impact of the illness on their life."
+  },
+  "p3_b1": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    80.0,
+    580.0,
+    377.0
+   ],
+   "ocr": "The two simple questions\nDoes the patient require help from anybody for everyday activities? (For example eating, drinking, washing, brushing teeth, going to the toilet.) Yes/no Yes = Poor outcome\nHas the illness left you with any other problems? Yes/no Yes = Intermediate outcome\nNo = Good outcome\nThe modified rankin scale\nGrade Description\n0 No symptoms\n1 Minor symptoms not interfering with lifestyle\n2 Symptoms that lead to some restriction in lifestyle, but do not interfere with the patients’ ability to look after themselves\n3 Symptoms that restrict lifestyle and prevent totally independent living\n4 Symptoms that clearly prevent independent living, although the patient does not need constant care and attention\n5 Totally dependent, requiring constant help day and night",
+   "table_id": "img_008189_t0"
+  },
+  "p3_b2": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    393,
+    580,
+    467
+   ],
+   "ocr": "The first question, \"Does the patient require help from anybody for everyday activities? (For example eating, drinking, washing, brushing teeth, going to the toilet),\" offers a binary response: Yes/no, where a \"Yes\" indicates a Poor outcome. Conversely, if the response is \"No,\" this correlates with a Good outcome. The second question, \"Has the illness left you with any other problems?\" also has a binary response: Yes/no, with a \"Yes\" resulting in an Intermediate outcome, while a \"No\" again signifies a Good outcome."
+  },
+  "p3_b3": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    455,
+    580,
+    559
+   ],
+   "ocr": "Furthermore, the modified rankin scale categorizes patient conditions into grades: Grade 0 is defined as No symptoms; Grade 1 describes Minor symptoms not interfering with lifestyle; Grade 2 indicates Symptoms that lead to some restriction in lifestyle, but do not interfere with the patients’ ability to look after themselves; Grade 3 denotes Symptoms that restrict lifestyle and prevent totally independent living; Grade 4 signifies Symptoms that clearly prevent independent living, although the patient does not need constant care and attention; and Grade 5 characterizes a Totally dependent state, requiring constant help day and night. Each response and grade is crucial for evaluating the patient's overall health status and the level of support required for their recovery and daily functioning."
+  }
+ }
+}

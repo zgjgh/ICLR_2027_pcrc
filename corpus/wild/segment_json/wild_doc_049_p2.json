@@ -1,0 +1,74 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_049",
+  "page": 2,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    129,
+    580,
+    172
+   ],
+   "ocr": "The first table lists species, their corresponding number, and accuracy percentage, starting with Cnaphalocrocis medinalis Guenee at 23 with an accuracy of 83%, followed by Chilo suppressalis at 15 with an accuracy of 80%, and Sesamia inferens at 18 with an accuracy of 81%."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    160,
+    580,
+    203
+   ],
+   "ocr": "Next, Naranga aenescens Moore is recorded at 21 with an accuracy of 82%, while Anomala cupripes Hope has 25 with an accuracy of 88%. Prodenia litura shows the highest number at 30 with an accuracy of 85%. The overall total for species is 132 with an overall accuracy of 83%."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    253.0,
+    580.0,
+    413.0
+   ],
+   "ocr": "Species Number Accuracy (%)\nCnaphalocrocis medinalis Guenee 23 83\nChilo suppressalis 15 80\nSesamia inferens 18 81\nNaranga aenescens Moore 21 82\nAnomala cupripes Hope 25 88\nProdenia litura 30 85\nOverall 132 83",
+   "table_id": "img_054078_t0"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    15.0,
+    470.0,
+    580.0,
+    613.0
+   ],
+   "ocr": "Variable Age Education Level Stress Internal HLOC Chance HLOC Powerful-Others HLOC\nDepression -0.092∗ -0.021 0.177** -0.188** -0.019 -0.142**\nAge -0.278* -0.112** 0.081* 0.045 0.172**\nEducation Level 0.214** 0.182** -0.076* -0.137**\nStress 0.029 -0.076* -0.123**\nInternal HLOC 0.324** 0.405**\nChance HLOC 0.539**",
+   "table_id": "img_054078_t1"
+  },
+  "p2_b4": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    643,
+    580,
+    717
+   ],
+   "ocr": "The second table presents variables related to depression, age, education level, stress, internal HLOC, chance HLOC, and powerful-others HLOC. For depression, the age coefficient is -0.092*, education level is -0.021, stress is 0.177**, internal HLOC is -0.188**, chance HLOC is -0.019, and powerful-others HLOC is -0.142**. Age shows no value for itself, with a coefficient of -0.278* for education level, -0.112** for stress, 0.081* for internal HLOC, 0.045 for chance HLOC, and 0.172** for powerful-others HLOC."
+  },
+  "p2_b5": {
+   "type": "paragraph",
+   "bbox": [
+    15,
+    705,
+    580,
+    763
+   ],
+   "ocr": "Education level has no value for itself, with coefficients of 0.214** for stress, 0.182** for internal HLOC, -0.076* for chance HLOC, and -0.137** for powerful-others HLOC. Stress has no value for itself, with coefficients of 0.029 for internal HLOC, -0.076* for chance HLOC, and -0.123** for powerful-others HLOC. Internal HLOC has no value for itself, with 0.324** for chance HLOC and 0.405** for powerful-others HLOC. Chance HLOC has no values for itself."
+  }
+ }
+}

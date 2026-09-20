@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_193",
+  "page": 4,
+  "page_size": [
+   761,
+   1000
+  ]
+ },
+ "blocks": {
+  "p4_b0": {
+   "type": "header_footer",
+   "bbox": [
+    51.9,
+    19.2,
+    253.7,
+    32.0
+   ],
+   "ocr": "www.nature.com/scientificreports/"
+  },
+  "p4_b1": {
+   "type": "table",
+   "bbox": [
+    204.0,
+    60.8,
+    475.1,
+    240.0
+   ],
+   "ocr": "Lower Upper\nlimit limit\nOdds of 95% of 95%\nVariables ratio CI CI p\nInteraction between Corticosteroid and Vasopressor\nCorticosteroid 1.32 0.72 2.42 0.361\nVasopressor 1.11 0.70 1.76 0.654\nCorticosteroid × Vasopressor 0.83 0.39 1.76 0.623\nInteraction between Corticosteroid and partial pressure of arterial oxygen\nCorticosteroid 1.26 0.40 3.98 0.696\nPaO2 1.00 0.99 1.01 0.924\nCorticosteroid × PaO2 1.00 0.99 1.01 0.902",
+   "table_id": "PMC4667272_table_4"
+  },
+  "p4_b2": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    255.8,
+    697.6,
+    313.9
+   ],
+   "ocr": "Table 5. Interactions between corticosteroid use and arterial oxygen partial pressure and vasopressor use. Note: interaction terms were assessed in independent models by adjusting for the same covariates. Corticosteroid and vasopressor were indicator variables, and PaO2 was continuous variable. Abbreviations: PaO2: partial pressure of arterial oxygen; CI: confidence interval."
+  },
+  "p4_b3": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    699.4,
+    709.0,
+    846.1
+   ],
+   "ocr": "Figure 2. Four diagnostic plots to describe discrimination in a model fit with an area under operating characteristics curve of 0.71. The plot of jittered outcome versus estimated probability of death showed that survivors were morel likely to appear below 0.4. However, non-survivors were normally distributed with the mean value at somewhere between 0.3 and 0.4. The Hosmer-Lemeshow chi2 statistic was 4.89 (p = 0.7689). error. The seed was arbitrarily set to be 29390 for reproducibility. (4) We fitted the logistic regression using the mi estimate prefix command. Model building strategy. Because the purpose of the study was to adjust for the effectiveness of corti-"
+  },
+  "p4_b4": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    843.2,
+    709.0,
+    859.6
+   ],
+   "ocr": "costeroid, we included as much covariate as possible. Variables to be incorporated in the logistic regres-"
+  },
+  "p4_b5": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    856.6,
+    708.9,
+    873.0
+   ],
+   "ocr": "sion model for completed-data analysis were gender, type of ICU, ethnic, source of infection, APACHE"
+  },
+  "p4_b6": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    870.0,
+    708.8,
+    886.4
+   ],
+   "ocr": "III, vasopressor use on day 0, CVP, the number of quadrats of infiltrates, CRP, CK, ALT, urine output"
+  },
+  "p4_b7": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    883.4,
+    708.9,
+    899.8
+   ],
+   "ocr": "and PaO2. Because patients on shock requiring vasopressors and/or severe hypoxia may benefit from"
+  },
+  "p4_b8": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    896.8,
+    708.9,
+    913.2
+   ],
+   "ocr": "the use of corticosteroids, we explored interactions between them. Because the aim of the study was to"
+  },
+  "p4_b9": {
+   "type": "paragraph",
+   "bbox": [
+    198.9,
+    910.3,
+    709.0,
+    926.6
+   ],
+   "ocr": "investigate the effectiveness of corticosteroids on ARDS patients (e.g. the predictive value of the model"
+  },
+  "p4_b10": {
+   "type": "header_footer",
+   "bbox": [
+    52.1,
+    923.7,
+    708.9,
+    980.1
+   ],
+   "ocr": "was not so important), we included all covariates that were thought to be associated with mortality Scientific RepoRts | 5:17654 | DOI: 10.1038/srep17654 6"
+  }
+ }
+}

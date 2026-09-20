@@ -1,0 +1,127 @@
+{
+ "doc_id": "pubtables_v2_doc_474",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC4574933_table_0",
+   "page_num": 1,
+   "bbox": [
+    252.3,
+    452.5,
+    724.9,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_1_tPMC4574933_table_0.png",
+   "html": "<table><tr><td>Feature</td><td>Academic Citation Databases</td><td>Academic Citation Search Engines</td></tr><tr><td>Time coverage</td><td>Depends on the database, but time restrictions apply for all (for earliest entry) and may depend on institutional subscription</td><td>No time restrictions (full post hoc population of records)</td></tr><tr><td>Access</td><td>Via an online platform for which a subscription is often required (e.g. Proquest)</td><td>Service provided purely through a free-to- access online search engine</td></tr><tr><td>Inclusion</td><td>Typically selectively included according to a predefined list of journals, publishers or subject areas</td><td>Anything that matches a set of criteria automatically included. Criteria (for Google Scholar): 1) must have a dedicated page with a title, 2) title must be closely followed by authorship list, 3) manuscript should be PDF, HTML or DOC file, 4) manuscript file should include a &#8216;References&#8217; or &#8216;Bibliography&#8217; section</td></tr><tr><td>Update frequency</td><td>Variable&#8211;may be as often as weekly, but some databases are monthly or less frequent (e.g. Biological Abstracts, 6 weeks). Updates are based on print versions of journals so will not include &#8216;early view&#8217; manuscripts until they appear in print. Updates are based on citations submitted by catalogued journals</td><td>Typically 1&#8211;2 weeks</td></tr><tr><td>Examples</td><td>Web of Science, Biological Abstracts</td><td>Google Scholar, Microsoft Academic Search</td></tr><tr><td>Search facility</td><td>Full Boolean strings allowed</td><td>Variable&#8211;Google Scholar allows limited Boolean operators (no nesting using parentheses permitted) and search string limited to 256 characters</td></tr><tr><td>Results displayed</td><td>Unlimited results from within the database returned, but numbers estimated for large record sets (&gt; c. 5,000). Results sortable by many different fields</td><td>Typically limited&#8211;Google Scholar limited to first 1,000 with no explanation of or alteration to sort order</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4574933_table_1",
+   "page_num": 2,
+   "bbox": [
+    40.4,
+    399.7,
+    722.5,
+    885.0
+   ],
+   "table_png_relpath": "tables/page_2_tPMC4574933_table_1.png",
+   "html": "<table><tr><td>Systematic review title and reference</td><td>Search string</td><td>Original systematic review methods</td><td>Google scholar search results</td><td>Web of Science search results</td></tr><tr><td>Evaluating effects of land management on greenhouse gas fluxes and carbon balances in boreo- temperate lowland peatland systems (SR1) [25]</td><td>peat AND (&#8220;greenhouse gas&#8221; OR GHG OR CO2 OR \"carbon dioxide\" OR CH4 OR N2O OR methane OR \"nitrous oxide\" OR DOC OR carbon)</td><td>Full search in WoS, SR searched first 50 records in Google Scholar</td><td>318,000 (full text), 1,120 (title)</td><td>4,151 (topic), 419 (title)</td></tr><tr><td>Systematic review of effects on biodiversity from oil palm production (SR2) [26]</td><td>&#8220;oil palm&#8221; AND tropic* AND (diversity OR richness OR abundance OR similarity OR composition OR community OR deforestation OR &#8220;land use change&#8221; OR fragmentation OR &#8220;habitat loss&#8221; OR connectivity OR &#8220;functional diversity&#8221; OR ecosystem OR displacement)</td><td>Full search in WoS, SR searched first 50 records in Google Scholar</td><td>126,000 (full text), 968 (title)</td><td>290 (topic), 3 (title)</td></tr><tr><td>Which components or attributes of biodiversity influence which dimensions of poverty? (SR3) [20]</td><td>(biodiversity OR wildlife) AND (poverty OR livelihoods OR poor)</td><td>Full search in WoS, SR searched first 50 records in Google Scholar (term &#8216;wildlife&#8217; removed from our search as multiple OR sub-strings not possible in Google Scholar)</td><td>835,000 (full text), 591 (title)</td><td>4,435 (topic), 114 (title)</td></tr><tr><td>Evaluating the biological effectiveness of fully and partially protected marine areas (SR4) [27]</td><td>marine AND (reserve OR \"protected area\" OR sanctuary OR \"harvest refuge\")</td><td>Full search in WoS, SR searched first 50 records in Google Scholar</td><td>554,000 (full text), 4,310 (title)</td><td>47,932 (topic), 1,303 (title)</td></tr><tr><td>Human well-being impacts of terrestrial protected areas (SR5) [28]</td><td>\"protected area\" AND (poverty OR &#8220;human OR well*&#8221; OR socioeconomic* OR econom* OR &#8220;human OR health&#8221; OR livelihood OR &#8220;social OR capital&#8221; OR &#8220;social OR welfare&#8221; OR empowerment OR equity OR &#8220;ecosystem OR service&#8221; OR perception OR attitude)</td><td>Full search in WoS, GS search not performed</td><td>49,700 (full text), 68 (title)</td><td>1,059 (topic), 122 (title)</td></tr><tr><td>Evidence on the environmental impacts of farm land abandonment in high altitude/mountain regions: a systematic map (SR6) [29]</td><td>abandonment AND (grassland OR farm OR cropland OR agriculture OR land OR pasture)</td><td>Full search in WoS, SR searched first 260 records in Google Scholar</td><td>216,000 (full text), 517 (title)</td><td>2,550 (topic), 180 (title)</td></tr><tr><td>A systematic review of phenotypic responses to between-population outbreeding (SR7) [30]</td><td>depression AND (\"out-breeding\" OR outcrossing OR \"out-crossing\" OR \"out- mating\" OR outmating)</td><td>Full search in WoS, GS search not performed</td><td>15,200 (full text), 50 (title)</td><td>1,071 (topic),31 (title)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4574933_table_2",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    140.0,
+    726.6,
+    277.6
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4574933_table_2.png",
+   "html": "<table><tr><td>Case Study</td><td>Number of overlapping search results (% of WoS records)</td><td>No. of WoS title search results</td><td>No. of GS title search results</td></tr><tr><td>SR1</td><td>157 (37.8%)</td><td>415</td><td>1,120</td></tr><tr><td>SR2</td><td>2 (66.7%)</td><td>3</td><td>968</td></tr><tr><td>SR3</td><td>32 (49.2%)</td><td>65</td><td>591</td></tr><tr><td>SR4</td><td>223 (17.1%)</td><td>1,301</td><td>4,310</td></tr><tr><td>SR5</td><td>6 (10.3%)</td><td>58</td><td>68</td></tr><tr><td>SR6</td><td>68 (37.8%)</td><td>180</td><td>517</td></tr><tr><td>SR7</td><td>18 (58.1%)</td><td>31</td><td>50</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4574933_table_3",
+   "page_num": 3,
+   "bbox": [
+    252.3,
+    740.4,
+    726.7,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_3_tPMC4574933_table_3.png",
+   "html": "<table><tr><td>Case Study</td><td>No. of WoS topic word search records</td><td>No. of GS full text search records</td><td>Number of overlapping search results (% of WoS records)</td></tr><tr><td>SR1</td><td>4,504</td><td>318,000</td><td>255 (5.7%)</td></tr><tr><td>SR2</td><td>230</td><td>126,000</td><td>11 (4.8%)</td></tr><tr><td>SR3</td><td>4,240</td><td>835,000</td><td>106 (2.5%)</td></tr><tr><td>SR4</td><td>47,932</td><td>554,000</td><td>n/a</td></tr><tr><td>SR5</td><td>1,059</td><td>49,700</td><td>87 (8.2%)</td></tr><tr><td>SR6</td><td>2,549</td><td>216,000</td><td>5 (0.2%)</td></tr><tr><td>SR7</td><td>1,071</td><td>15,200</td><td>212 (19.8%)</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4574933_table_4",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    152.1,
+    687.8,
+    270.0
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4574933_table_4.png",
+   "html": "<table><tr><td>Search Platform</td><td>Search Type</td><td>Duplication Rate (mean %)</td><td>Sample Size (search records, search strings)</td></tr><tr><td rowspan=\"2\">Google Scholar</td><td>Full text</td><td>0.56 (&#177; 0.59)</td><td>6988, 7</td></tr><tr><td>Title</td><td>2.93 (&#177; 1.47)</td><td>4194, 7</td></tr><tr><td rowspan=\"3\">Web of Science</td><td>Topic words (sorted by publication date, newest first)</td><td>0.00 (&#177; 0.00)</td><td>6359, 7</td></tr><tr><td>Topic words (sorted by relevance)</td><td>0.03 (&#177; 0.05)</td><td>4000, 4</td></tr><tr><td>Title</td><td>0.05 (&#177; 0.03)</td><td>2102, 7</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4574933_table_5",
+   "page_num": 4,
+   "bbox": [
+    45.4,
+    634.7,
+    715.9,
+    877.9
+   ],
+   "table_png_relpath": "tables/page_4_tPMC4574933_table_5.png",
+   "html": "<table><tr><td rowspan=\"2\">Case Study</td><td colspan=\"2\">Google Scholar</td><td colspan=\"3\">Web of Science</td></tr><tr><td>Title Search</td><td>Full Text Search</td><td>Title Search</td><td>Full Text Search (publ. date)</td><td>Full Text Search (relevance)</td></tr><tr><td>Evaluating effects of land management on greenhouse gas fluxes and carbon balances in boreo-temperate lowland peatland systems (SR1) [25]</td><td>3.4 (1000)</td><td>0.2 (998)</td><td>0 (415)</td><td>0 (1000)</td><td>0 (1000)</td></tr><tr><td>Systematic review of effects on biodiversity from oil palm production (SR2) [26]</td><td>2.6 (968)</td><td>0.2 (990)</td><td>0 (3)</td><td>0 (230)</td><td>n/a</td></tr><tr><td>Which components or attributes of biodiversity influence which dimensions of poverty? (SR3) [20]</td><td>4.4 (591)</td><td>0.7 (1000)</td><td>0 (114)</td><td>0 (1000)</td><td>0 (1000)</td></tr><tr><td>Evaluating the biological effectiveness of fully and partially protected marine areas (SR4) [27]</td><td>1.0 (1000)</td><td>0.0 (1000)</td><td>0.1 (1301)</td><td>0 (1000)</td><td>0.1 (1000)</td></tr><tr><td>Human well-being impacts of terrestrial protected areas (SR5) [28]</td><td>1.5 (68)</td><td>0.1 (1000)</td><td>0 (58)</td><td>0 (1058)</td><td>n/a</td></tr><tr><td>Evidence on the environmental impacts of farm land abandonment in high altitude/mountain regions: a systematic map (SR6) [29]</td><td>4.8 (517)</td><td>1.3 (1000)</td><td>0 (180)</td><td>0 (1000)</td><td>0 (1000)</td></tr><tr><td>A systematic review of phenotypic responses to between-population outbreeding (SR7) [30]</td><td>4.0 (50)</td><td>1.4 (1000)</td><td>0 (31)</td><td>0 (1071)</td><td>n/a</td></tr></table>"
+  },
+  {
+   "table_id": "PMC4574933_table_6",
+   "page_num": 5,
+   "bbox": [
+    45.4,
+    128.1,
+    725.6,
+    309.8
+   ],
+   "table_png_relpath": "tables/page_5_tPMC4574933_table_6.png",
+   "html": "<table><tr><td>Review</td><td>Identified</td><td>Identified (as citation)</td><td>Not identified</td><td>(Of which, findable in WoS1)</td></tr><tr><td>Evaluating effects of land management on greenhouse gas fluxes and carbon balances in boreo-temperate lowland peatland systems (SR1) [25]</td><td>59</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Evaluating the biological effectiveness of fully and partially protected marine areas (SR4) [27]</td><td>158</td><td>24</td><td>11</td><td>3</td></tr><tr><td>Human well-being impacts of terrestrial protected areas (SR5) [28]</td><td>162</td><td>4</td><td>10</td><td>3</td></tr><tr><td>Evidence on the environmental impacts of farm land abandonment in high altitude/ mountain regions: a systematic map (SR6) [29]</td><td>180</td><td>4</td><td>1</td><td>0</td></tr><tr><td>What are the impacts of reindeer/caribou (Rangifer tarandus L.) on arctic and alpine vegetation? [31]</td><td>35</td><td>2</td><td>0</td><td>0</td></tr><tr><td>What is the influence on water quality in temperate eutrophic lakes of a reduction of planktivorous and benthivorous fish? [8]</td><td>77</td><td>8</td><td>39</td><td>0</td></tr></table>"
+  }
+ ]
+}

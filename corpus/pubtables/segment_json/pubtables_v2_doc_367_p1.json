@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_367",
+  "page": 1,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.7,
+    165.8
+   ],
+   "ocr": "Sensors 2010, 10 6310 a Bluetooth radio, low-power radio, and microcontroller. The low-power radio is the same as that used on the Berkeley MICA2 mote, making BTnode a twin of MICA2 [20]. Table 1. Characteristic ubiquitous sensor network platforms."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    74.8,
+    179.8,
+    636.3,
+    574.5
+   ],
+   "ocr": "Processor RF Transceiver\nProgram External Current Indoor\nPlatforms Frequency Current Draw Tx speed Cost\nSpace Space Draw Range\nS: 27 mA\nMICA2 128 kB 512 kB 8 mA 868/916 MHz at 5 dbm –– 38.4 kbps $125\nR: 10 mA\nS: ––\nTelosB 48 kB 1,024 kB 1.8 mA 2,400 MHz 20–30m 250 kbps $134\nR: 23 mA\nS: 17.4 mA\nMICAZ 128 kB 512 kB 8 mA 2,400 MHz at 0 dbm 20–30m 250 kbps $99\nR: 19.7 mA\nImote2 32 MB 32 MB 66 mA 2,400 MHz –– <30 m 250 kbps $299\nTmote\n48 kB 1,024 kB 2 mA 2,400 MHz 17 mA –– 250 kbps $78\nSky\nTmote\n48 kB 1,024 kB 2 mA 2,400 MHz 17 mA <30 m 250 kbps ––\nMini\nS: 14.8 mA\n433/868/\nBtnode 128 kB 128 kB 8 mA at 0 dbm 20 m 76.8 kbps $120\n916 MHz\nR: 7.4 mA\nS: 20 mA\n8 mA/ 433/470/\nEMMNet 128 kB 4/8 MB at 6 dbm 180 m 50 kbps $40\n30 uA 868/916 MHz\nR:13 mA",
+   "table_id": "PMC3231141_table_0"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    601.9,
+    649.1,
+    929.7
+   ],
+   "ocr": "As shown in Table 1, among all these platforms the smart sensor in EMMNet provides the longest communication distance. It is thus suitable for applications in complex urban environments, where electricity meters in tall buildings are often installed inside metal chests and separated by concrete walls. The external memory space of the data collector in EMMNet is 4 MB and that of data concentrators is 8 MB. The external memory space of EMMNet is large, because collectors and concentrators need to record the data and parameters from hundreds of electricity meters. The cost of EMMNet is also lower than that of any other platform listed in Table 1. A dynamic power-management technique is an additonal feature of our system. This technique dynamically reconfigures the system to provide the requested services. The current draw of the processor is 8 mA in active mode, and it drops to about 30 uA while in sleep mode. 3. System Architecture EMMNet is built on a heterogeneous networking infrastructure. In the automatic electricity meter-reading field, a sensor node is usually called a data collector, and a base station or gateway in the sensor network is called a data concentrator. EMMNet involves data collection, transmission, and access phases, as shown in Figure 1."
+  }
+ }
+}

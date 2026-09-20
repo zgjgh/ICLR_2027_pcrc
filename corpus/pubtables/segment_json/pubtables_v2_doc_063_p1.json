@@ -1,0 +1,234 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_063",
+  "page": 1,
+  "page_size": [
+   750,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "header_footer",
+   "bbox": [
+    71.4,
+    41.7,
+    223.9,
+    54.2
+   ],
+   "ocr": "Gupta et al. SpringerPlus (2015) 4:539"
+  },
+  "p1_b1": {
+   "type": "header_footer",
+   "bbox": [
+    627.5,
+    42.4,
+    678.6,
+    54.5
+   ],
+   "ocr": "Page 5 of 15"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    383.9,
+    110.7,
+    581.3,
+    124.7
+   ],
+   "ocr": "Table 2 Inclusion and exclusion criteria"
+  },
+  "p1_b3": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    110.8,
+    366.1,
+    402.0
+   ],
+   "ocr": "Research method The review of literature analyzes current trends in the process of requirement reprioritization and focuses on open research issues in this area. To analyze the literature, the following digital libraries/ databases are searched against the following query string i.e. “reprioritization of requirements” on 15th August, 2014. • IEEE Xplore. • Springer Link. • Science Direct. • ACM Digital Library. • Taylor and Francisco. • Wiley Online Library. The triggering of the above databases with this bigger string is because some researchers use prioritization and reprioritizations terms interchangeably."
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    383.9,
+    133.0,
+    676.6,
+    270.0
+   ],
+   "ocr": "Inclusion criteria Exclusion criteria\n1. The papers must be answering at 1. Papers unable to answer any\nleast one research question research question\n2. Papers related to reprioritization 2. Papers related to prioritization\nalone 3. Papers related to some other\n3. Papers (both short and long) area like prioritization with small\nrelated to the case study, review proportions (like paragraphs)\n(if any), methods, tools and tech- related to reprioritization, excep-\nniques of the reprioritization tion being the above papers that\ndiscuss new methods, techniques\netc. related to reprioritization",
+   "table_id": "PMC4579198_table_1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    403.2,
+    307.7,
+    665.3,
+    422.7
+   ],
+   "ocr": "Search Phase 1 Selection Phase 02 09 IEEE Xplore a 70 b ACM Digital Library 202 618 06 Science Direct 145"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    398.8,
+    366.1,
+    507.9
+   ],
+   "ocr": "The trigger of the databases against above mentioned string yielded total 618 research papers with few repeti- tions in the set. The majority of the papers does not cover the area of reprioritizations, and thus are not capable of answering any of the formulated research questions. The final number of papers was only 09, after analy- sis of research paper titles, keywords, abstracts and full"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    651.9,
+    419.8,
+    656.4,
+    433.2
+   ],
+   "ocr": "c"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    391.8,
+    427.8,
+    644.5,
+    516.7
+   ],
+   "ocr": "Springer Link 117 Taylor & Francisco 06 82 Wiley Online Fig. 2 Search process for literature survey"
+  },
+  "p1_b9": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    504.7,
+    99.1,
+    523.0
+   ],
+   "ocr": "texts."
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    519.8,
+    366.1,
+    583.5
+   ],
+   "ocr": "The number of papers extracted from each biblio- graphic database is given in Table 1. Analysis was carried out considering the Table 2. This set was reduced to 06 after the removal of repetitive papers in the bibliographic"
+  },
+  "p1_b11": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    551.0,
+    678.6,
+    856.6
+   ],
+   "ocr": "analysis the references as reported in the papers left after process labelled “b” i.e. duplicates finally removed. Details of extracted papers The systematic literature survey yielded six papers. Three more related papers, which were not identified at the time of survey due to non-indexing in bibliographic data- bases at the time of literature search, are also included for necessary analysis. Among these three papers, two papers were related to reprioritization techniques, third one is related to case study results of prioritization and reprioritization practices. This paper will consider all these papers as extracted papers in upcoming sections. The details of extracted papers are as given below: The authors (Racheva et al. 2008) identified the main players of the prioritization process and various prob- lems that confront it. In order to meet the above goals, the literature is searched for various requirements of the prioritization models that are employed in agile software developments. After the analysis of the collected infor-"
+  },
+  "p1_b12": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    580.3,
+    172.1,
+    598.6
+   ],
+   "ocr": "databases (Table 1)."
+  },
+  "p1_b13": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    595.4,
+    366.1,
+    628.9
+   ],
+   "ocr": "The final set of obtained papers is subjected to analy- sis. The series of pruning of research papers is illustrated"
+  },
+  "p1_b14": {
+   "type": "title",
+   "bbox": [
+    71.4,
+    625.7,
+    185.4,
+    644.0
+   ],
+   "ocr": "with the help of Fig. 2."
+  },
+  "p1_b15": {
+   "type": "paragraph",
+   "bbox": [
+    71.4,
+    640.8,
+    366.1,
+    689.3
+   ],
+   "ocr": "In this figure, the label “a” denotes the transformation applied on the collected papers after analysis of abstracts, keywords and the text. Label “b” removes duplicates, “c”"
+  },
+  "p1_b16": {
+   "type": "caption",
+   "bbox": [
+    71.4,
+    731.0,
+    276.2,
+    745.1
+   ],
+   "ocr": "Table 1 Papers selected after process “a”"
+  },
+  "p1_b17": {
+   "type": "table",
+   "bbox": [
+    71.4,
+    753.4,
+    366.1,
+    909.9
+   ],
+   "ocr": "Bibliographic Papers selected Repeated papers\ndatabases after process “a”\n1. Science Direct 01 01 (available in ACM also)\n2. IEEE Xplore 02 01 (available in ACM also)\n3. ACM Digital 05 03 (one each with IEEE,\nLibrary Springer and Science Direct)\n4. Springer Link 01 01 (available in ACM also)\n5. Wiley 00 None found answering any of\nthe four research questions\n6. Taylor & Francisco 00 None found answering any of\nthe four research questions",
+   "table_id": "PMC4579198_table_0"
+  },
+  "p1_b18": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    853.4,
+    678.6,
+    871.7
+   ],
+   "ocr": "mation, the factors that are considered by the clients"
+  },
+  "p1_b19": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    868.5,
+    678.6,
+    886.8
+   ],
+   "ocr": "and those that affect various types of decision making"
+  },
+  "p1_b20": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    883.6,
+    678.6,
+    902.0
+   ],
+   "ocr": "like Business Values, project constraints, learning dur-"
+  },
+  "p1_b21": {
+   "type": "paragraph",
+   "bbox": [
+    383.9,
+    898.8,
+    678.6,
+    917.1
+   ],
+   "ocr": "ing project, effort estimation etc. during requirement"
+  }
+ }
+}

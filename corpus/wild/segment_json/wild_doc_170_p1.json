@@ -1,0 +1,95 @@
+{
+ "meta": {
+  "doc_id": "wild_doc_170",
+  "page": 1,
+  "page_size": [
+   595,
+   842
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    12.0,
+    41.0,
+    471.0,
+    78.0
+   ],
+   "ocr": "In the current landscape of the European insurance and reinsurance market, understanding key metrics such as reinsurance cession ratios, investment portfolio returns, and solvency capital requirements is paramount for effective risk management and financial planning."
+  },
+  "p1_b1": {
+   "type": "table",
+   "bbox": [
+    12.0,
+    90.0,
+    471.0,
+    381.0
+   ],
+   "ocr": "ReinsuranceCessionRatios CededPremium RetentionAnalysis TotalPremium CessionRatio TypeofBusiness RegionAnalysis\nBusinessLine CededAmount RetentionAmount CessionPercentage LossRatio Expenses NetPremium Reinsurer CededLosses NetLosses ClaimsRatio GrossPremium CededPremiums NetPremiums AdjustedCession Comments\nProperty £30M £70M 30.0% 20.0% £100M ReinsureCoA £5M £15M 10.0% 15.0% £50M £40M £90M £10M £20M\nLiability £25M £75M 25.0% 15.0% £95M ReinsureCoB £4M £12M 8.0% 12.0% £45M £35M £80M £9M £22M\nMarine £20M £40M 50.0% 25.0% £60M ReinsureCoC £3M £8M 5.0% 10.0% £30M £20M £50M £7M £15M",
+   "table_id": "img_193426_t0"
+  },
+  "p1_b2": {
+   "type": "paragraph",
+   "bbox": [
+    12.0,
+    393.0,
+    471.0,
+    418.0
+   ],
+   "ocr": "The analysis presented in the table offers insights into various business lines, including Property, where the NetPremiums reached an impressive £90M, indicating robust retention strategies."
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    12.0,
+    430.0,
+    471.0,
+    549.0
+   ],
+   "ocr": "InvestmentType TotalValue Returns\nFixedIncome Equities RealEstate AlternativeAssets\nUnitsInvested CurrentValue AnnualReturn(%) InvestmentGrowth RiskLevel MarketExposure Liquidity\nBonds £200M 3.2% £6.4M Low 30% High\nStocks £150M 8% £12M Medium 50% Moderate",
+   "table_id": "img_193426_t1"
+  },
+  "p1_b4": {
+   "type": "paragraph",
+   "bbox": [
+    12,
+    562,
+    471,
+    609
+   ],
+   "ocr": "Additionally, the Marine segment has shown a CededPremiums value of £20M and a CessionPercentage of 50.0%, highlighting its reliance on reinsurance to mitigate potential losses, with a commentary value of £15M reflecting its operational dynamics. On the investment front, the portfolio exhibits a noteworthy AnnualReturn of 8% for Stocks, complemented by a MarketExposure of 50%."
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    12,
+    599,
+    471,
+    634
+   ],
+   "ocr": "Liquidity considerations are also critical, with Stocks categorized as having Moderate liquidity and Bonds classified as High. Furthermore, the solvency analysis indicates that the Tier1Capital for the period 2024Q2 remains consistent at 2024Q2, alongside TotalLiabilities amounting to £25M."
+  },
+  "p1_b6": {
+   "type": "table",
+   "bbox": [
+    12.0,
+    648.0,
+    471.0,
+    755.0
+   ],
+   "ocr": "SolvencyCapitalRequirements Components TotalAmount\nTier1Capital Tier2Capital Tier3Capital RiskMargin TotalLiabilities\n2024Q1 £150M £50M £30M £20M\n2024Q2 £160M £55M £32M £25M\n2024Q3 £170M £60M £35M £30M",
+   "table_id": "img_193426_t2"
+  },
+  "p1_b7": {
+   "type": "paragraph",
+   "bbox": [
+    12.0,
+    767.0,
+    471.0,
+    792.0
+   ],
+   "ocr": "The preceding quarter's metrics also reveal a Tier1Capital of 2024Q1 and Tier3Capital of £50M, underscoring the company’s commitment to maintaining robust financial health amidst evolving market conditions."
+  }
+ }
+}

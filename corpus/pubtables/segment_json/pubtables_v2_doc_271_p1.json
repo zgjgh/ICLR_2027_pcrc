@@ -1,0 +1,154 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_271",
+  "page": 1,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p1_b0": {
+   "type": "paragraph",
+   "bbox": [
+    400.8,
+    53.8,
+    723.2,
+    65.3
+   ],
+   "ocr": "Genome Biology 2006, Volume 7, Issue 1, Article R5 Forrest et al. R5.3"
+  },
+  "p1_b1": {
+   "type": "title",
+   "bbox": [
+    68.2,
+    53.9,
+    227.4,
+    65.3
+   ],
+   "ocr": "http://genomebiology.com/2006/7/1/R5"
+  },
+  "p1_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    282.7,
+    142.7
+   ],
+   "ocr": "Table 1 Protein kinase and phosphatase loci of mouse"
+  },
+  "p1_b3": {
+   "type": "table",
+   "bbox": [
+    68.3,
+    159.5,
+    304.3,
+    319.1
+   ],
+   "ocr": "Classification n\nKinase-like 527\nPhosphatase-like 160\nTranscript evidence\nObserved transcript 680\nGene predictions 7\nGene architecture\nMulti-exon 679\nSingle exon 8\nTotal 687",
+   "table_id": "PMC1431701_table_0"
+  },
+  "p1_b4": {
+   "type": "table",
+   "bbox": [
+    393.9,
+    159.5,
+    630.1,
+    319.1
+   ],
+   "ocr": "Transcript support 5' end 3' end\nFANTOM3 3,211 3,211\nPUBLIC 2,666 2,666\n5' ESTs 20,866 -\n3' ESTs - 32,166\nPublic ESTs 41,543 15,989\nGIS 1,279 1,279\nGSC 27,616 27,616\nCAGE 162,707 -\nTotal count 259,888 82,927",
+   "table_id": "PMC1431701_table_1"
+  },
+  "p1_b5": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    268.8,
+    765.6,
+    654.0
+   ],
+   "ocr": "reviews Breakdown of supporting transcript evidence used in the paper: full- length cDNAs (FANTOM3, public), expressed sequence tags (ESTs; public ESTs, and RIKEN 5' and 3' ESTs), capped analysis of gene expression (CAGE) tags, and DiTags (gene identification signature [GIS] and Genome Sciences Centre [GSC]). reports Using these criteria, 75% of the multi-exon phosphoregulator loci appear to undergo alternative splicing. If we consider only single cDNAs as evidence then the frequency increases to 91%. We also compared this with the frequency of alternative splice junction usage in the entire set of transcriptional frameworks (31,541) and a class of loci with a reported high deposited level of alternative splice forms, namely the zinc finger pro- teins [28]. For these sets, 39% of all multi-exon frameworks and 80% of zinc finger protein encoding frameworks have at research least two cDNAs supporting an alternative splice form (53% and 93% for one cDNA; Additional data file 6). Alternative transcription initiation and termination of phosphoregulator transcripts refereed Because of the nature of cDNA synthesis and the possibility of 5' and 3' truncated sequences, we modified the metric used to identify loci with alternative 5' and 3' terminal exons. Alterna-"
+  },
+  "p1_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    344.4,
+    393.2,
+    967.1
+   ],
+   "ocr": "tion sites into transcriptional frameworks [20]. These frame- works effectively define the set of cDNA sequences observed for each locus. Using a representative cDNA sequence for each phosphoregulator, we extracted the corresponding framework cluster, the set of all observed cDNA sequences (ESTs and full-length sequences from FANTOM, GenBank, and RefSeq; November 2004), and the genomic mappings for each cDNA (5', 3', and splice junctions). Additionally, high throughput 5' end sequences from CAGE [25] and 5'-3' DiTag sequences (Genomic Sciences Center [20] and gene identifi- cation signature [26] DiTag sequences) were also mapped to these framework clusters and used to provide additional sup- port for alternative 5' and 3' ends. The cDNA resources are summarized in Tables 1 and 2. By combining these cDNA and tag resources, we reviewed the level of support for each transcript. The ORF of each full- length transcript was also assessed to determine whether it encoded a variant peptide and whether the variant had an altered domain structure. These results were compiled into a database and can be viewed online [27]. This web-based interface permits visualization of each locus in its genomic context and provides an annotated view of each transcript with access to peptide and domain predictions (Additional data file 2). Alternatively spliced transcripts of the phosphoregulator transcriptome With all alternative transcripts for the mouse phosphoregula- tors identified, we then searched for the level of support for each alternative transcription start site, termination site, and splice junction event. For the analysis of splice junctions we clustered pairs of splice donors and acceptors based on their genomic coordinates (Additional data file 3). When a given donor mapped to multiple acceptors, or acceptor to multiple donors, the junction was considered alternative. For an alter- native junction to be considered reliable we required there to be two independent cDNA sequences for each alternative (for example, two sequences showing Donor1 spliced to Acceptor1 and two sequences showing Donor1 spliced to Acceptor2). Genome Biology"
+  },
+  "p1_b7": {
+   "type": "title",
+   "bbox": [
+    753.9,
+    645.2,
+    765.6,
+    686.0
+   ],
+   "ocr": "research"
+  },
+  "p1_b8": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    655.9,
+    698.3,
+    743.0
+   ],
+   "ocr": "tive initiation and termination were assessed in two steps. First, terminal exon sequences for all multi-exon loci were clustered on the basis of identical first donor sites (for 5' exons) or final acceptor sites (for 3' exons). Secondly, support for transcription start sites (TSS) and transcription termina- tion sites (TTS) within these terminal exons was determined"
+  },
+  "p1_b9": {
+   "type": "title",
+   "bbox": [
+    753.9,
+    734.8,
+    765.6,
+    791.0
+   ],
+   "ocr": "interactions"
+  },
+  "p1_b10": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    745.0,
+    698.3,
+    861.7
+   ],
+   "ocr": "by clustering the terminal 20 bases of 5' and 3' end sequences (cDNA, EST, and tag resources; Table 2) into tag clusters. By combining these two analyses, tag cluster count was used to provide supporting evidence for each 5' and 3' exon. To identify transcripts with well supported terminal exons, we considered a threshold of five counts to represent reliability. Using this threshold 612 multi-exon loci had well supported"
+  },
+  "p1_b11": {
+   "type": "title",
+   "bbox": [
+    753.9,
+    853.6,
+    765.6,
+    909.5
+   ],
+   "ocr": "information"
+  },
+  "p1_b12": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    863.6,
+    698.3,
+    921.1
+   ],
+   "ocr": "5' terminal exons, and of these 272 (44%) had multiple 5' ter- minal exons. Similarly, for 3' terminal exons 611 loci had well supported 3' ends, and of these 229 (37%) had multiple 3' ter- minal exons. Increasing the requirements to a more conserv-"
+  },
+  "p1_b13": {
+   "type": "header_footer",
+   "bbox": [
+    396.1,
+    955.4,
+    440.7,
+    967.1
+   ],
+   "ocr": "2006, 7:R5"
+  }
+ }
+}

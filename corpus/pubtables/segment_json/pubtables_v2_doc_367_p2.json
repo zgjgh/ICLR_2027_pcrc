@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_367",
+  "page": 2,
+  "page_size": [
+   708,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    54.7,
+    648.7,
+    220.5
+   ],
+   "ocr": "Sensors 2010, 10 6312 4.1. Data Collector Each node, also called a data collector or collector, has a microprocessor, serial interface flash memory, RF transceiver, linear amplifier, low-noise amplifier, RS-485 transceiver, and IrDA module. The basic hardware structure schematic and a photo of the data collector are shown in Figure 2. Figure 2. (a) Hardware architecture of a data collector. (b) Spot photo of data collector."
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    367.5,
+    649.1,
+    637.4
+   ],
+   "ocr": "(a) (b) Microprocessor: Usually, one of the three microcontrollers, i.e., ATmega128L, MSP430, and Silicon Labs C8051, is used in nodes of the sensor network. After intensive investigations, we chose the ATmega128L microcontroller for our EMMNet platform, because it is a low-power microcontroller based on the AVR-enhanced Reduced Instruction-Set Computer (RISC) architecture. The ATmega128L provides the following features: 128 K bytes of in-system programmable flash with read-while-write capabilities, 4 K bytes Electrically Erasable Programmable Read-Only Memory (EEPROM), 4 K bytes static RAM (SRAM), and 53 general purpose IOs. Making rational use of the microprocessor resources, we leave ample room for expansion. At present, we have used 62.00% of the port, 34.87% of the code memory, 72.75% of the data memory and 88.23% of the EEPROM. Ports assignment is listed in Table 2. Table 2. Ports assignment of ATmega128L."
+  },
+  "p2_b2": {
+   "type": "table",
+   "bbox": [
+    216.9,
+    650.4,
+    482.1,
+    793.7
+   ],
+   "ocr": "Port Function\nPB0-PB6 Connected to RF module\nPD0-PD3 Connected to IrDA\nPD4-PD7 LED\nPE0-PE2 Connected to RS485 transceiver\nPE3-PE7 Connected to RF module\nPF0-PF3 Connected to external flash\nPF4-PF7 JTAG test interface",
+   "table_id": "PMC3231141_table_1"
+  },
+  "p2_b3": {
+   "type": "paragraph",
+   "bbox": [
+    58.9,
+    820.9,
+    648.8,
+    917.7
+   ],
+   "ocr": "RF Transceiver: We use the Nordic nRF905 transceiver because its carrier frequencies are suitable for automatic electricity meter monitoring and there is no associated proprietary protocol. Its current consumption is very low: in transmit mode, only 9 mA at an output power of −10 dBm, and in receive mode, 12.5 mA. However, EMMNet faces various challenges. Therefore, we add a broadband, fixed-gain, linear amplifier and a low-noise amplifier to the RF circuit."
+  }
+ }
+}

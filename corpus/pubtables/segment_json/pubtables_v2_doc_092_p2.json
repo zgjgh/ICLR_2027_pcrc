@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_092",
+  "page": 2,
+  "page_size": [
+   770,
+   1000
+  ]
+ },
+ "blocks": {
+  "p2_b0": {
+   "type": "title",
+   "bbox": [
+    68.4,
+    51.7,
+    224.7,
+    64.4
+   ],
+   "ocr": "BMC Biotechnology 2005, 5:24"
+  },
+  "p2_b1": {
+   "type": "paragraph",
+   "bbox": [
+    463.6,
+    51.7,
+    698.1,
+    64.4
+   ],
+   "ocr": "http://www.biomedcentral.com/1472-6750/5/24"
+  },
+  "p2_b2": {
+   "type": "caption",
+   "bbox": [
+    68.4,
+    107.2,
+    261.9,
+    118.9
+   ],
+   "ocr": "Table 2: STR genotyping failures by locus"
+  },
+  "p2_b3": {
+   "type": "table",
+   "bbox": [
+    74.9,
+    129.9,
+    693.1,
+    390.9
+   ],
+   "ocr": "gDNA Input Failure Type Genotype L12 L2 L3 L4 L5 L6 L7 L8 L9 L10 L11 L12 L13 L14 L15 L16\n(ng) Failures1\ngDNA No Amp. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\nDisc. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n1 No Amp. 43 5 0 0 3 0 0 7 0 0 3 5 0 15 1 1 3\nDisc. 150 11 3 9 10 4 5 13 9 2 5 22 9 24 7 11 6\n10 No Amp. 2 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0\nDisc. 25 2 0 0 5 1 0 2 0 1 0 7 1 5 0 0 1\n25 No Amp. 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\nDisc. 19 4 1 1 0 0 2 2 0 0 0 2 0 3 2 1 1\n50 No Amp. 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\nDisc. 12 0 0 1 3 0 0 1 2 0 0 0 0 2 1 1 1\n100 No Amp. 3 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0\nDisc. 27 5 5 0 2 0 1 2 1 6 0 0 2 1 2 0 0\n200 No Amp. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\nDisc. 6 1 1 0 2 0 0 0 0 0 0 2 0 0 0 0 0\nNo Amp. Total 23 10 11 22 5 8 20 12 9 5 33 12 35 12 13 9\nDiscordant Total 6 0 0 5 0 0 7 0 0 3 5 1 18 1 1 3",
+   "table_id": "PMC1249558_table_1"
+  },
+  "p2_b4": {
+   "type": "caption",
+   "bbox": [
+    73.4,
+    407.2,
+    390.5,
+    442.5
+   ],
+   "ocr": "1The number of attempted genotypes for all DNA inputs is N = 864. No available for concordance analysis. 2Loci 1–16 = TPOX, D2S1338, D3S1358, D16S539, D18S51, D19S433, D21S11, AMEL."
+  },
+  "p2_b5": {
+   "type": "caption",
+   "bbox": [
+    382.8,
+    407.2,
+    671.2,
+    430.8
+   ],
+   "ocr": "amplification (No Amp.) genotypes reduce the number of genotypes FGA, D5S818, CSF1PO, D7S820, D8S1179, TH01, vWA, D13S2317,"
+  },
+  "p2_b6": {
+   "type": "paragraph",
+   "bbox": [
+    68.4,
+    480.9,
+    372.6,
+    925.2
+   ],
+   "ocr": "concordant genotypes produced from all other gDNA input levels, except for wgaDNA homozygote concordant genotypes produced from 200 ng gDNA (Table 3). GQ scores of discordant homozygote wgaDNA genotypes were significantly worse than those for concordant homozygote wgaDNA genotypes at all gDNA input levels except 50 ng (p = 0.02 for 25 ng gDNA input, all other p < 0.0001, data not shown). SNP genotyping with the TaqMan® assay (N = 49 SNPs) Results of genotyping using N = 49 TaqMan® SNP geno- typing assays with 1, 4 and 20 ng of gDNA and wgaDNA using 1, 10, 25, 50, 100 and 200 ng of gDNA input into the WGA reaction are summarized in Table 4. We observed a TaqMan® SNP genotype completion rate of >99.55%, an undetermined rate of <0.45%, zero discord- ant genotypes and zero \"no amplification failures\" in 7938 attempted TaqMan® SNP genotypes using gDNA template in the TaqMan® SNP assay. No significant differ- ences in genotyping performance between gDNA tem- plate inputs into the TaqMan® SNP assay were observed (Table 4). In pairwise tests, gDNA exhibited a significantly higher TaqMan® SNP genotype completion rate due to sig- nificantly decreased undetermined TaqMan® SNP geno- types, compared to wgaDNA produced from 1 ng of gDNA input for all wgaDNA template inputs into Taq- Man® SNP genotyping, and when compared to wgaDNA produced from 50 and 100 ng of gDNA input when using 1 or 4 ng of wgaDNA template input into the TaqMan® SNP assay. Over all gDNA and wgaDNA strata, we"
+  },
+  "p2_b7": {
+   "type": "paragraph",
+   "bbox": [
+    394.0,
+    480.9,
+    698.4,
+    981.2
+   ],
+   "ocr": "observed significantly reduced SNP genotyping perform- ance when using 1 ng of gDNA or wgaDNA in TaqMan® SNP genotyping assays with respect to completion rate, due to a significant increase in the undetermined geno- type rate (Table 4). However, genotype concordance rates were not significantly different among the three DNA (gDNA or wgaDNA) input levels into the TaqMan® SNP assay, although there was a significant decrease in the con- cordance rate of 1 ng wgaDNA produced from 1 ng gDNA into the TaqMan® SNP assay, when compared to 1 ng wgaDNA produced from 10, 50 and 100 ng of gDNA input (Table 4). Predictors of wgaDNA SNP genotyping performance We were interested to identify parameters from the Core Genotyping Facility's standard DNA sample handling protocol that might be predictive of the SNP genotyping performance of wgaDNA. We performed exploratory cor- relation analysis among measures of wgaDNA yield (RT- PCR, ssDNA, dsDNA, total DNA, ratio of RT-PCR to dsDNA) and genotyping performance (concordance and completion rates for AmpFlSTR® Identifiler™ and TaqMan® SNP assay genotyping) within gDNA input strata. Meas- ures of wgaDNA yield (especially the ratio of RT-PCR to dsDNA and total DNA) and genotyping performance were observed to be highly correlated with one another (92%, 3% and 5% of 162 pairwise correlations were statistically significant, trending and non-significant, respectively). We then performed linear regression analysis with the dependent variables \"SNP completion rate\" and \"SNP Page 4 of 11 (page number not for citation purposes)"
+  }
+ }
+}

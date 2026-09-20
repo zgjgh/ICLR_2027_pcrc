@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "doc_id": "pubtables_v2_doc_197",
+  "page": 5,
+  "page_size": [
+   773,
+   1000
+  ]
+ },
+ "blocks": {
+  "p5_b0": {
+   "type": "title",
+   "bbox": [
+    615.8,
+    49.0,
+    727.3,
+    60.5
+   ],
+   "ocr": "Gene Centric Methylation"
+  },
+  "p5_b1": {
+   "type": "caption",
+   "bbox": [
+    252.5,
+    95.5,
+    632.9,
+    107.4
+   ],
+   "ocr": "Table 7. GO terms with MCC < 0.2 for genes by 1NN-SFS algorithm on TCGA data."
+  },
+  "p5_b2": {
+   "type": "table",
+   "bbox": [
+    252.3,
+    116.1,
+    726.6,
+    336.3
+   ],
+   "ocr": "Description FDR q-value\ndetection of chemical stimulus involved in sensory perception 1.27E-42\ndetection of chemical stimulus 6.29E-41\ndetection of chemical stimulus involved in sensory perception of smell 8.16E-41\ndetection of stimulus involved in sensory perception 3.18E-38\ndetection of stimulus 7.93E-31\nG-protein coupled receptor signaling pathway 1.44E-21\nsensory perception of smell 1.16E-19\nsensory perception of chemical stimulus 4.86E-14\ncell surface receptor signaling pathway 7.68E-7\nsensory perception 7.02E-6\nresponse to stimulus 5.47E-5\ndrug metabolic process 4.77E-3\nsignal transduction 1.12E-2",
+   "table_id": "PMC4752315_table_6"
+  },
+  "p5_b3": {
+   "type": "paragraph",
+   "bbox": [
+    45.5,
+    344.4,
+    726.1,
+    676.4
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t007 These results suggest that these functions may answer how genes under the control of DNA methylation regulate the various biological processes. There were no significant differences in function between genes with gene body probes selected and genes with upstream probes selected. This suggests that genes under the control of DNA methylation are more likely to be a regulatory gene regardless of the genomic position of the most predictive DNA methylation. In order to verify results on cell line dataset, we also applied 1NN-SFS on a breast cancer dataset obtained from TCGA. The overall prediction accuracy in breast cancer data was lower than the accuracy in cell line data (Figs 1 and 6). This could be due to the heterogeneity of the tissue samples. The expression of the tissue samples might be affected by other factors such as copy number alteration and mixed cell population in the tissues. On the other hand, cell line data contain more homogenous cells in each sample. These methods will help researchers evaluate which probes are most involved in gene expression and which genes are sensitive to changes in DNA methylation. Future work should be aimed at studying other DNA methylation platforms to find the best methods for choosing regions of where DNA methylation has a significant impact on gene expression. The ideas in this paper could be extended to bisulfite sequencing and other commonly used platforms. Table 8. Functional clusters of genes with MCC > 0.6 with upstream probes selected by 1NN-SFS algorithm in TCGA data."
+  },
+  "p5_b4": {
+   "type": "table",
+   "bbox": [
+    45.4,
+    685.1,
+    724.5,
+    878.8
+   ],
+   "ocr": "Cluster Number of Enrichment Top terms (pval) Other representative terms and\nnumber genes notes\n1 5 4.73 Nucleolus (8.8E-6), nuclear lumen (1.6E-4), intracellular organelle lumen Transcription, DNA-dependent\n(3.7E-4) (4.3E-2)\n2 24 4.08 RNA splicing (1.0E-29), RNA processing (8.0E-29), mRNA processing Spliceosome (6.8E-23), rna-\n(1.1E-28) binding (2.3E-10)\n3 13 2.48 Cytoskeleton (1.5E-18), cytoplasm (7.2E-10), microtubule cytoskeleton\n(4.7E-9)\n4 11 2.25 Ribosomal protein (6.3E-21), ribonucleoprotein (3.5E-19), ribosome Group of genes coding for\n(1.5E-18) mitochondrial ribosomal proteins\n5 134 2.2 Transcription regulation (1.9E-45), zinc (4.1E-45), transcription (1.3E-43) Transcription regulation\n6 13 2.03 Ubl conjugation pathway (1E-19), modiﬁcation-dependent protein Ubiquitin proteins, proteolysis\ncatabolic process (3E-17), modiﬁcation-dependent macromolecule (4.7E-14)\ncatabolic process (3E-17)",
+   "table_id": "PMC4752315_table_7"
+  },
+  "p5_b5": {
+   "type": "caption",
+   "bbox": [
+    45.5,
+    887.0,
+    186.2,
+    898.3
+   ],
+   "ocr": "doi:10.1371/journal.pone.0148977.t008"
+  },
+  "p5_b6": {
+   "type": "header_footer",
+   "bbox": [
+    45.5,
+    945.2,
+    727.3,
+    956.7
+   ],
+   "ocr": "PLOS ONE | DOI:10.1371/journal.pone.0148977 February 12, 2016 16 / 19"
+  }
+ }
+}

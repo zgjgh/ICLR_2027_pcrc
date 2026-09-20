@@ -1,0 +1,103 @@
+{
+ "doc_id": "pubtables_v2_doc_240",
+ "n_pages": 5,
+ "pages": [
+  {
+   "page_num": 1,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 2,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 3,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 4,
+   "page_size": [
+    773,
+    1000
+   ]
+  },
+  {
+   "page_num": 5,
+   "page_size": [
+    773,
+    1000
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "table_id": "PMC5752554_table_0",
+   "page_num": 1,
+   "bbox": [
+    76.9,
+    83.1,
+    696.0,
+    608.1
+   ],
+   "table_png_relpath": "tables/page_1_tPMC5752554_table_0.png",
+   "html": "<table><tr><td>Study</td><td>Year published</td><td>Study design</td><td>Sample size</td><td>Median age</td><td>Stage III (%)</td><td>EGFR mutations tested</td><td>EGFR activating mutation (%)</td><td>Total Thoracic RT dose received (EQD2) (Gy)</td><td>Received concurrent chemo (%)</td><td>Systemic therapy regimens</td><td>EGFR mutant receiving EGFR TKI (%)</td><td>Global score</td></tr><tr><td>Ready</td><td>2010</td><td>Retrospective analysis of prospective single arm trial</td><td>43</td><td>NR</td><td>100</td><td>Exon 19 deletions and mutations in exon 18, 20 and 21</td><td>26</td><td>66</td><td>Not reported</td><td>Induction phase: 2 cycles of Paclitaxel 200mg/m2 plus Carboplatin area under curve 6 every 21 days plus Gefitinib 250mg daily Concurrent phase: Gefitinib 250mg daily or weekly Paclitaxel 50mg/ m2 with Carboplatin area under curve 2 for 7 weeks Maintenance phase: Gefitinib 250mg daily till disease progression or unacceptable side effects</td><td>100</td><td>B1</td></tr><tr><td>Li</td><td>2011</td><td>Retrospective cohort study</td><td>87</td><td>NR</td><td>100</td><td>Exon 19 deletions and mutations in exon 21</td><td>45</td><td>40-70</td><td>59</td><td>Not reported</td><td>41</td><td>B2</td></tr><tr><td>Hayashi</td><td>2012</td><td>Retrospective cohort study</td><td>34</td><td>69</td><td>97</td><td>Exon 19 deletions and mutations in exon 18 and 21</td><td>32</td><td>Not reported</td><td>88</td><td>Not reported</td><td>Not reported</td><td>C</td></tr><tr><td>Akamatsu</td><td>2014</td><td>Retrospective cohort study</td><td>44</td><td>66</td><td>100</td><td>Exon 19 deletions and mutations in exon 18, 20 and 21</td><td>30</td><td>56-74</td><td>91</td><td>Cisplatin plus S-1 or Cisplatin plus Vinorelbine or Carboplatin plus Paclitaxel</td><td>77</td><td>B2</td></tr><tr><td>Komaki</td><td>2015</td><td>Retrospective analysis of prospective single arm trial</td><td>41</td><td>NR</td><td>100</td><td>Exon 19 deletions and mutations in exon 18, 20 and 21</td><td>10</td><td>60</td><td>100</td><td>Concurrent phase: weekly Paclitaxel 45mg/m2 plus Carboplatin area under curve 2 for 7 weeks plus Erlotinib 150mg daily from Tuesday to Sunday. Consolidation phase: 2 cycles of Paclitaxel 200mg /m2 plus Carboplatin area under the curve 6 every 21 days</td><td>100</td><td>B1</td></tr><tr><td>Tanaka</td><td>2015</td><td>Retrospective cohort study</td><td>104</td><td>62</td><td>100</td><td>Exon 19 deletions and mutations in exon 18, 20 and 21</td><td>28</td><td>54-74</td><td>100</td><td>Carboplatin plus Paclitaxel or Cisplatin plus Vinorelbine or Cisplatin plus Docetaxel or Cisplatin plus S-1 or Cisplatin plus Pemetrexed or Cisplatin plus Irinotecan or Carboplatin plus Vinorelbine</td><td>72</td><td>B1</td></tr><tr><td>Yagaishita</td><td>2015</td><td>Retrospective cohort study</td><td>184</td><td>61</td><td>100</td><td>Exon 19 deletions and mutations in exon 21</td><td>16</td><td>60</td><td>90</td><td>Cisplatin plus Vinorelbine or Carboplatin plus Paclitaxel</td><td>69</td><td>B1</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5752554_table_1",
+   "page_num": 2,
+   "bbox": [
+    78.8,
+    82.1,
+    689.7,
+    265.7
+   ],
+   "table_png_relpath": "tables/page_2_tPMC5752554_table_1.png",
+   "html": "<table><tr><td>Subgroup</td><td>Patients</td><td>Risk Ratio</td><td>95% CI</td><td>Interaction P</td></tr><tr><td colspan=\"5\">Study Design</td></tr><tr><td>Retrospective analysis of prospective single arm clinical trial</td><td>41</td><td>1.09</td><td>0.78 to 1.50</td><td rowspan=\"2\">0.63</td></tr><tr><td>Retrospective single institution cohort study</td><td>409</td><td>1.19</td><td>0.98 to 1.45</td></tr><tr><td colspan=\"5\">Use of concurrent chemotherapy</td></tr><tr><td>Mandatory</td><td>145</td><td>1.04</td><td>0.84 to 1.27</td><td rowspan=\"2\">0.22</td></tr><tr><td>Not Mandatory</td><td>205</td><td>1.27</td><td>0.99 to 1.63</td></tr><tr><td colspan=\"5\">Use of EGFR TK inhibitors</td></tr><tr><td>Mandatory</td><td>41</td><td>1.09</td><td>0.78 to 1.50</td><td rowspan=\"2\">0.63</td></tr><tr><td>Not mandatory</td><td>409</td><td>1.19</td><td>0.98 to 1.45</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5752554_table_2",
+   "page_num": 3,
+   "bbox": [
+    78.8,
+    82.7,
+    689.0,
+    272.1
+   ],
+   "table_png_relpath": "tables/page_3_tPMC5752554_table_2.png",
+   "html": "<table><tr><td>Subgroup</td><td>Patients</td><td>Risk Ratio</td><td>95% CI</td><td>Interaction P</td></tr><tr><td colspan=\"5\">Study Design</td></tr><tr><td>Retrospective analysis of prospective single arm clinical trial</td><td>41</td><td>0.21</td><td>0.01 to 2.91</td><td rowspan=\"2\">0.38</td></tr><tr><td>Retrospective single institution cohort study</td><td>366</td><td>0.72</td><td>0.29 to 1.80</td></tr><tr><td colspan=\"5\">Use of concurrent chemotherapy</td></tr><tr><td>Mandatory</td><td>145</td><td>0.37</td><td>0.15 to 0.91</td><td rowspan=\"2\">0.25</td></tr><tr><td>Not Mandatory</td><td>262</td><td>0.91</td><td>0.26 to 3.10</td></tr><tr><td colspan=\"5\">Use of EGFR TK inhibitors</td></tr><tr><td>Mandatory</td><td>41</td><td>0.21</td><td>0.01 to 2.91</td><td rowspan=\"2\">0.38</td></tr><tr><td>Not mandatory</td><td>366</td><td>0.72</td><td>0.29 to 1.80</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5752554_table_3",
+   "page_num": 4,
+   "bbox": [
+    78.8,
+    82.1,
+    694.5,
+    271.4
+   ],
+   "table_png_relpath": "tables/page_4_tPMC5752554_table_3.png",
+   "html": "<table><tr><td>Subgroup</td><td>Patients</td><td>Risk Ratio</td><td>95% CI</td><td>Interaction P</td></tr><tr><td colspan=\"5\">Study Design</td></tr><tr><td>Retrospective analysis of prospective single arm clinical trial</td><td>41</td><td>2.74</td><td>1.59 to 4.69</td><td rowspan=\"2\">0.03</td></tr><tr><td>Retrospective single institution cohort study</td><td>366</td><td>1.28</td><td>0.85 to 1.92</td></tr><tr><td colspan=\"5\">Use of concurrent chemotherapy</td></tr><tr><td>Mandatory</td><td>145</td><td>2.15</td><td>1.51 to 3.06</td><td rowspan=\"2\">0.03</td></tr><tr><td>Not Mandatory</td><td>262</td><td>1.05</td><td>0.61 to 3.06</td></tr><tr><td colspan=\"5\">Use of EGFR TK inhibitors</td></tr><tr><td>Mandatory</td><td>41</td><td>2.74</td><td>1.59 to 4.69</td><td rowspan=\"2\">0.03</td></tr><tr><td>Not mandatory</td><td>366</td><td>1.28</td><td>0.85 to 1.92</td></tr></table>"
+  },
+  {
+   "table_id": "PMC5752554_table_4",
+   "page_num": 5,
+   "bbox": [
+    78.8,
+    82.1,
+    694.7,
+    271.4
+   ],
+   "table_png_relpath": "tables/page_5_tPMC5752554_table_4.png",
+   "html": "<table><tr><td>Subgroup</td><td>Patients</td><td>Hazard Ratio</td><td>95% CI</td><td>Interaction P</td></tr><tr><td colspan=\"5\">Study Design</td></tr><tr><td>Retrospective analysis of prospective single arm clinical trial</td><td>84</td><td>1.43</td><td>0.65 to 3.16</td><td rowspan=\"2\">0.83</td></tr><tr><td>Retrospective single institution cohort study</td><td>366</td><td>1.29</td><td>0.76 to 2.17</td></tr><tr><td colspan=\"5\">Use of concurrent chemotherapy</td></tr><tr><td>Mandatory</td><td>145</td><td>2.47</td><td>1.52 to 4.02</td><td rowspan=\"2\">0.002</td></tr><tr><td>Not Mandatory</td><td>305</td><td>1.01</td><td>0.74 to 1.38</td></tr><tr><td colspan=\"5\">Use of EGFR TK inhibitors</td></tr><tr><td>Mandatory</td><td>84</td><td>1.43</td><td>0.65 to 3.16</td><td rowspan=\"2\">0.83</td></tr><tr><td>Not mandatory</td><td>366</td><td>1.29</td><td>0.76 to 2.17</td></tr></table>"
+  }
+ ]
+}
